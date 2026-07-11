@@ -32,7 +32,7 @@ ARTICLE_REGISTRY_PATH = os.path.join(TRACKING_DIR, "article-registry.json")
 # Use shared logger with rotation from lib.utils
 from lib.utils import setup_logger, get_est_now, load_config, dry_run_check, run_subprocess_logged, EST_TZ
 from lib.auth import get_blogger_access_token
-from lib.tracking import check_api_usage, increment_api_usage, update_article_registry, load_json as load_tracking_json, save_json
+from lib.tracking import check_api_usage, increment_api_usage, update_article_registry, load_json as load_tracking_json, save_json, update_pipeline_status
 
 logger = setup_logger("scheduler", LOG_FILE)
 
@@ -93,6 +93,10 @@ def schedule_post(post_data, publish_at_utc, token, blog_id):
         method="POST"
     )
 
+    post_url = post_data.get("url", "")
+    if post_url:
+        post_url = f"https://www.ayurshakti.shop/{post_url}"
+
     try:
         resp = urlopen(req)
         result = json.loads(resp.read())
@@ -102,6 +106,8 @@ def schedule_post(post_data, publish_at_utc, token, blog_id):
     except HTTPError as e:
         err = e.read().decode()[:200]
         logger.error(f"  ❌ API Error {e.code}: {err}")
+        if post_url:
+            update_pipeline_status(post_url, 'scheduled', 'failed', {'error': f'API Error {e.code}: {err}'})
         return None
 
 
@@ -214,6 +220,29 @@ def main():
             post_with_id = dict(post)
             post_with_id["id"] = numeric_id
             update_article_registry(post_with_id, "Scheduled", win["datetime_est"].strftime("%Y-%m-%d %I:%M %p"))
+
+            # Update pipeline status: scheduled stage
+            post_url = result.get("url", "")
+            if post_url:
+                full_url = f"https://www.ayurshakti.shop/{post_url}"
+                update_pipeline_status(full_url, 'scheduled', 'completed', {
+                    'post_id': numeric_id,
+                    'scheduled_est': win["datetime_est"].isoformat(),
+                    'title': post["title"]
+                })
+
+                # Update pipeline status: published stage (since status=LIVE means it will publish at scheduled time)
+                if result.get("status") == "LIVE":
+                    published_utc_str = win["datetime_utc"].strftime("%Y-%m-%dT%H:%M:%S.000Z")
+                    update_pipeline_status(full_url, 'published', 'completed', {
+                        'published_url': full_url,
+                        'published_utc': published_utc_str,
+                        'title': post["title"]
+                    })
+                else:
+                    update_pipeline_status(full_url, 'published', 'pending', {
+                        'title': post["title"]
+                    })
 
             # Track syndication results
             syndication_results = {

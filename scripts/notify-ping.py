@@ -19,7 +19,8 @@ import xmlrpc.client
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
 sys.path.insert(0, os.path.join(SCRIPT_DIR, "lib"))
 from lib.profile import SITE_NAME, SITE_URL, SITEMAP_URL
-from utils import dry_run_check, setup_logger
+from lib.tracking import update_pipeline_status
+from lib.utils import dry_run_check, setup_logger
 
 # Only 3 active ping services (per D-10, R-075)
 PING_SERVICES = [
@@ -105,6 +106,12 @@ def notify(url_to_ping):
         except Exception as e:
             logger.warning(f"  ❌ {svc['name']} error: {e}")
             failed += 1
+
+    # Update pipeline status for pinged stage
+    update_pipeline_status(url_to_ping, 'pinged', 'completed' if success > 0 else 'failed', {
+        'services_success': success,
+        'services_failed': failed
+    })
 
     return success, failed
 
