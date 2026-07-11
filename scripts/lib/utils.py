@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 """
-Shared utilities for logging, config, dry-run support, and timezone handling.
+Shared utilities for logging, config, dry-run support, timezone handling, and subprocess execution.
 """
 import json
 import logging
 import os
+import subprocess
 import sys
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
@@ -107,6 +108,69 @@ def dry_run_check(action_description: str) -> bool:
     return False
 
 
+def run_subprocess_logged(
+    cmd_list: list[str],
+    logger: logging.Logger,
+    timeout: int = 30,
+    dry_run_check: bool = True,
+) -> tuple[bool, str, str]:
+    """
+    Run a subprocess, capture stdout/stderr, and log results.
+
+    Args:
+        cmd_list: Command and arguments as list of strings
+        logger: Logger instance for output
+        timeout: Timeout in seconds (default 30)
+        dry_run_check: Whether to check for --dry-run flag in sys.argv (default True)
+
+    Returns:
+        tuple: (success: bool, stdout: str, stderr: str)
+    """
+    # Check dry-run mode
+    if dry_run_check and DRY_RUN:
+        logger.info(f"DRY-RUN: would execute {' '.join(cmd_list)}")
+        return True, "", ""
+
+    cmd_str = " ".join(cmd_list)
+    logger.debug(f"Executing: {cmd_str}")
+
+    try:
+        result = subprocess.run(
+            cmd_list,
+            capture_output=True,
+            text=True,
+            timeout=timeout,
+        )
+
+        stdout = result.stdout.strip()
+        stderr = result.stderr.strip()
+
+        if result.returncode == 0:
+            if stdout:
+                logger.info(f"Subprocess stdout: {stdout}")
+            if stderr:
+                logger.warning(f"Subprocess stderr: {stderr}")
+            logger.info(f"Subprocess succeeded: {cmd_str}")
+            return True, stdout, stderr
+        else:
+            if stdout:
+                logger.debug(f"Subprocess stdout (exit={result.returncode}): {stdout}")
+            if stderr:
+                logger.error(f"Subprocess stderr (exit={result.returncode}): {stderr}")
+            logger.error(f"Subprocess failed (exit={result.returncode}): {cmd_str}")
+            return False, stdout, stderr
+
+    except subprocess.TimeoutExpired:
+        logger.error(f"Subprocess timed out after {timeout}s: {cmd_str}")
+        return False, "", f"Timeout after {timeout} seconds"
+    except FileNotFoundError:
+        logger.error(f"Command not found: {cmd_list[0]}")
+        return False, "", f"Command not found: {cmd_list[0]}"
+    except Exception as e:
+        logger.error(f"Subprocess error: {cmd_str} - {e}")
+        return False, "", str(e)
+
+
 __all__ = [
     "SCRIPT_DIR",
     "PROJECT_DIR",
@@ -117,5 +181,6 @@ __all__ = [
     "setup_logger",
     "load_config",
     "dry_run_check",
+    "run_subprocess_logged",
     "DRY_RUN",
 ]

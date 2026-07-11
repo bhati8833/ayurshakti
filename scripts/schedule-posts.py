@@ -13,7 +13,6 @@ import sys
 import argparse
 from datetime import UTC, datetime, timedelta, timezone
 from urllib.request import HTTPError, Request, urlopen
-from subprocess import run
 
 import markdown
 
@@ -31,16 +30,11 @@ API_LOG_PATH = os.path.join(TRACKING_DIR, "api-usage-log.json")
 ARTICLE_REGISTRY_PATH = os.path.join(TRACKING_DIR, "article-registry.json")
 
 # Use shared logger with rotation from lib.utils
-from lib.utils import setup_logger, get_est_now, load_config, dry_run_check, EST_TZ
+from lib.utils import setup_logger, get_est_now, load_config, dry_run_check, run_subprocess_logged, EST_TZ
 from lib.auth import get_blogger_access_token
 from lib.tracking import check_api_usage, increment_api_usage, update_article_registry, load_json as load_tracking_json, save_json
 
 logger = setup_logger("scheduler", LOG_FILE)
-
-
-def log(msg):
-    print(msg)
-    logger.info(msg)
 
 
 def get_next_window_times(config, now_est):
@@ -74,7 +68,7 @@ def get_next_window_times(config, now_est):
 
 def schedule_post(post_data, publish_at_utc, token, blog_id):
     """Schedule a single post on Blogger with future publish date"""
-    api_url = f"https://www.googleapis.com/blogger/v3/blogs/{blog_id}/posts"
+    api_url = f"https://www.googleapis.com/blogger/v3/blogs/{blog_id}/posts/"
 
     published_str = publish_at_utc.strftime("%Y-%m-%dT%H:%M:%S.000Z")
 
@@ -103,11 +97,11 @@ def schedule_post(post_data, publish_at_utc, token, blog_id):
         resp = urlopen(req)
         result = json.loads(resp.read())
         numeric_id = result.get("id")
-        log(f"  ✅ Scheduled → EST: {publish_at_utc.astimezone(EST).strftime('%b %d, %I:%M %p')} | UTC: {published_str} | Blogger ID: {numeric_id}")
+        logger.info(f"  ✅ Scheduled → EST: {publish_at_utc.astimezone(EST).strftime('%b %d, %I:%M %p')} | UTC: {published_str} | Blogger ID: {numeric_id}")
         return result
     except HTTPError as e:
         err = e.read().decode()[:200]
-        log(f"  ❌ API Error {e.code}: {err}")
+        logger.error(f"  ❌ API Error {e.code}: {err}")
         return None
 
 
@@ -123,37 +117,37 @@ def main():
 
     # Check dry-run mode
     if dry_run_check("scheduler run"):
-        log("=" * 60)
-        log("🔍 DRY-RUN MODE: No API calls will be made")
-        log("=" * 60)
+        logger.info("=" * 60)
+        logger.info("🔍 DRY-RUN MODE: No API calls will be made")
+        logger.info("=" * 60)
 
-    log("=" * 60)
-    log("🔄 SCHEDULER STARTED")
-    log("=" * 60)
+    logger.info("=" * 60)
+    logger.info("🔄 SCHEDULER STARTED")
+    logger.info("=" * 60)
 
     config = load_config("schedule-config.json")
     if not config:
-        log("❌ Config not found. Aborting.")
+        logger.error("❌ Config not found. Aborting.")
         return
 
     queue = load_tracking_json(QUEUE_PATH)
     if not queue or len(queue) == 0:
-        log("ℹ️  Queue empty. Nothing to schedule.")
+        logger.info("ℹ️  Queue empty. Nothing to schedule.")
         return
 
     # Filter: only 10/10 checklist passed
     approved = [p for p in queue if p.get("checklist_10_10") is True]
     if not approved:
-        log("ℹ️  No articles have passed 10/10 checklist. Nothing to schedule.")
+        logger.info("ℹ️  No articles have passed 10/10 checklist. Nothing to schedule.")
         return
 
     # Strip 'id' field from approval queue items (Blogger assigns numeric ID on creation)
     for item in approved:
         if "id" in item:
-            log(f"  ⚠️  Stripping 'id' field from queue item: {item['title'][:40]}...")
+            logger.warning(f"  ⚠️  Stripping 'id' field from queue item: {item['title'][:40]}...")
             del item["id"]
 
-    log(f"📋 Queue has {len(queue)} articles ({len(approved)} approved 10/10)")
+    logger.info(f"📋 Queue has {len(queue)} articles ({len(approved)} approved 10/10)")
 
     n = min(config["posts_per_day"], len(approved))
     # Category dedup: pick n articles with different top labels
@@ -173,24 +167,24 @@ def main():
         extra = random.sample(remaining, min(n - len(to_schedule), len(remaining)))
         to_schedule.extend(extra)
 
-    log(f"🎯 Picked {len(to_schedule)} articles for today:")
+    logger.info(f"🎯 Picked {len(to_schedule)} articles for today:")
 
     now = get_est_now()
     windows = get_next_window_times(config, now)
-    log(f"🕐 Current EST: {now.strftime('%b %d, %I:%M %p')}")
-    log(f"📅 Schedule windows: {[w['label'] for w in windows]}")
+    logger.info(f"🕐 Current EST: {now.strftime('%b %d, %I:%M %p')}")
+    logger.info(f"📅 Schedule windows: {[w['label'] for w in windows]}")
 
     try:
         token = get_blogger_access_token()
-        log("🔑 OAuth token refreshed")
+        logger.info("🔑 OAuth token refreshed")
     except Exception as e:
-        log(f"❌ Auth failed: {e}")
+        logger.error(f"❌ Auth failed: {e}")
         return
 
     blog_id = config["blog_id"]
 
     if not check_api_usage("blogger_api"):
-        log("❌ Blogger API daily/monthly limit reached. Aborting.")
+        logger.error("❌ Blogger API daily/monthly limit reached. Aborting.")
         return
 
     log_records = load_tracking_json(LOG_PATH)
@@ -199,12 +193,12 @@ def main():
 
     for i, post in enumerate(to_schedule):
         if i >= len(windows):
-            log(f"⚠️  No more windows for post: {post['title'][:40]}...")
+            logger.warning(f"⚠️  No more windows for post: {post['title'][:40]}...")
             break
 
         win = windows[i]
-        log(f"\n📝 Scheduling: {post['title'][:50]}")
-        log(f"   Window: {win['label']} → EST: {win['datetime_est'].strftime('%b %d, %I:%M %p')}")
+        logger.info(f"\n📝 Scheduling: {post['title'][:50]}")
+        logger.info(f"   Window: {win['label']} → EST: {win['datetime_est'].strftime('%b %d, %I:%M %p')}")
 
         # Dry-run check for each post
         if dry_run_check(f"schedule '{post['title'][:40]}...'"):
@@ -220,40 +214,74 @@ def main():
             post_with_id = dict(post)
             post_with_id["id"] = numeric_id
             update_article_registry(post_with_id, "Scheduled", win["datetime_est"].strftime("%Y-%m-%d %I:%M %p"))
+
+            # Track syndication results
+            syndication_results = {
+                "indexnow_status": "pending",
+                "ping_status": "pending",
+                "social_status": "pending",
+            }
+
             # Notify Bing IndexNow
             try:
                 post_url = result.get("url", "")
                 if post_url:
-                    run(["python3", os.path.join(SCRIPT_DIR, "bing-sitemap-submit.py"),
+                    logger.info(f"  📡 Submitting to IndexNow: {post_url}")
+                    success, stdout, stderr = run_subprocess_logged(
+                        ["python3", os.path.join(SCRIPT_DIR, "bing-sitemap-submit.py"),
                          "--url", f"https://www.ayurshakti.shop/{post_url}"],
-                        capture_output=True, timeout=15)
-            except Exception:
-                pass
+                        logger, timeout=15
+                    )
+                    syndication_results["indexnow_status"] = "success" if success else "failed"
+                    if not success:
+                        logger.warning(f"  ⚠️  IndexNow submission failed: {stderr}")
+            except Exception as e:
+                logger.error(f"  ❌ IndexNow error: {e}")
+                syndication_results["indexnow_status"] = "error"
+
             # Notify ping services
             try:
                 ping_url = f"https://www.ayurshakti.shop/{result.get('url', '')}" if result.get('url') else SITEMAP_URL
-                run(["python3", os.path.join(SCRIPT_DIR, "notify-ping.py"),
-                     "--url", ping_url], capture_output=True, timeout=30)
-            except Exception:
-                pass
+                logger.info(f"  📡 Pinging services: {ping_url}")
+                success, stdout, stderr = run_subprocess_logged(
+                    ["python3", os.path.join(SCRIPT_DIR, "notify-ping.py"),
+                     "--url", ping_url],
+                    logger, timeout=30
+                )
+                syndication_results["ping_status"] = "success" if success else "failed"
+                if not success:
+                    logger.warning(f"  ⚠️  Ping services failed: {stderr}")
+            except Exception as e:
+                logger.error(f"  ❌ Ping services error: {e}")
+                syndication_results["ping_status"] = "error"
+
             # Social auto-post (Bluesky + queue X/LinkedIn)
             try:
                 post_url = result.get("url", "")
                 post_title = result.get("title", post.get("title", ""))
                 if post_url:
-                    run(["python3", os.path.join(SCRIPT_DIR, "social-post.py"),
+                    logger.info(f"  📱 Posting to social: {post_title[:40]}...")
+                    success, stdout, stderr = run_subprocess_logged(
+                        ["python3", os.path.join(SCRIPT_DIR, "social-post.py"),
                          "--url", f"https://www.ayurshakti.shop/{post_url}",
                          "--title", post_title],
-                        capture_output=True, timeout=30)
-            except Exception:
-                pass
+                        logger, timeout=30
+                    )
+                    syndication_results["social_status"] = "success" if success else "failed"
+                    if not success:
+                        logger.warning(f"  ⚠️  Social posting failed: {stderr}")
+            except Exception as e:
+                logger.error(f"  ❌ Social posting error: {e}")
+                syndication_results["social_status"] = "error"
+
             log_records.append({
                 "id": numeric_id,
                 "title": post["title"],
                 "scheduled_est": win["datetime_est"].strftime("%Y-%m-%d %I:%M %p"),
                 "scheduled_utc": win["datetime_utc"].strftime("%Y-%m-%dT%H:%M:%SZ"),
                 "window": win["slot"],
-                "timestamp": datetime.now(UTC).isoformat()
+                "timestamp": datetime.now(UTC).isoformat(),
+                "syndication": syndication_results,
             })
         else:
             failed_ids.append(post.get("id", "unknown"))
@@ -263,13 +291,13 @@ def main():
     save_json(QUEUE_PATH, updated_queue)
     save_json(LOG_PATH, log_records)
 
-    log("\n📊 RESULTS")
-    log(f"   ✅ Scheduled: {len(scheduled_ids)}")
-    log(f"   ❌ Failed: {len(failed_ids)}")
-    log(f"   📋 Remaining in queue: {len(updated_queue)}")
-    log("=" * 60)
-    log("✅ SCHEDULER COMPLETE")
-    log("=" * 60)
+    logger.info("\n📊 RESULTS")
+    logger.info(f"   ✅ Scheduled: {len(scheduled_ids)}")
+    logger.info(f"   ❌ Failed: {len(failed_ids)}")
+    logger.info(f"   📋 Remaining in queue: {len(updated_queue)}")
+    logger.info("=" * 60)
+    logger.info("✅ SCHEDULER COMPLETE")
+    logger.info("=" * 60)
 
 
 if __name__ == "__main__":

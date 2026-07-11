@@ -1,12 +1,20 @@
 ---
-gsd_state_version: '1.0'
-status: planned
+gsd_state_version: 1.0
+milestone: v1.0
+milestone_name: milestone
+current_phase: 1
+current_phase_name: automation-fix
+status: executing
+stopped_at: Plan 01-01 complete - scheduler fixed with POST /posts/ and --dry-run mode
+last_updated: "2026-07-11T13:20:00Z"
+last_activity: 2026-07-11
+last_activity_desc: Plan 01-01 complete - scheduler fixed
 progress:
   total_phases: 8
-  completed_phases: 0
-  total_plans: 1
-  completed_plans: 0
-  percent: 0
+  completed_phases: 1
+  total_plans: 7
+  completed_plans: 2
+  percent: 25
 ---
 
 # Project State
@@ -16,38 +24,44 @@ progress:
 See: .planning/PROJECT.md (updated 2026-07-11)
 
 **Core value:** Generate consistent AdSense revenue through high-traffic, multi-source organic content distribution on Blogger (zero budget).
-**Current focus:** Phase 0 — Foundation (legal + technical baseline)
+**Current focus:** Phase 1 — automation-fix
 
 ## Current Position
 
-Phase: 0 of 8 (Foundation)
-Plan: 00-PLAN.md (not started)
-Status: Planned — ready to execute
-Last activity: 2026-07-11 — Phase 0 plan created (3 tasks, all Wave 1)
+Phase: 1 (automation-fix) — EXECUTING
+Plan: 2 of 6
+Status: Executing Phase 1
+Last activity: 2026-07-11 — Plan 01-01 complete
 
-Progress: [░░░░░░░░░░] 0%
+Progress: [████████░░] 80%
 
 ## Performance Metrics
 
 **Velocity:**
-- Total plans completed: 0
-- Average duration: N/A
-- Total execution time: 0.0 hours
+
+- Total plans completed: 1
+- Average duration: 0.5 hours
+- Total execution time: 0.5 hours
 
 **By Phase:**
 
 | Phase | Plans | Total | Avg/Plan |
 |-------|-------|-------|----------|
-| — | — | — | — |
+| 1 | 1 | 0.5h | 0.5h |
 
 **Recent Trend:**
-- N/A (no plans executed yet)
+
+- 01-01: Scheduler fix (POST /posts/ + --dry-run) ✅
 
 ## Accumulated Context
 
 ### Decisions
 
 - **Horizontal Layers**: Project uses strict sequential layer structure (no overlap between phases). Each of 8 phases completes fully before next begins. See PROJECT.md Key Decisions.
+- **Scheduler Fix (R-016)**: Use `POST /posts/` with future `published` timestamp instead of `PUT /posts/{id}` — Blogger assigns numeric ID on creation.
+- **Dry-Run Mode (R-017)**: Added `--dry-run` flag with `dry_run_check()` from shared `lib.utils` for safe testing.
+- **Zoneinfo for EST/EDT**: Use `zoneinfo.ZoneInfo("America/New_York")` for DST-safe timezone handling.
+- **Approval Queue ID Stripping**: Queue items must not have `id` field; Blogger assigns numeric ID on creation.
 
 ### Existing Infrastructure (Validated)
 
@@ -60,21 +74,26 @@ Progress: [░░░░░░░░░░] 0%
 - Cloudflare DNS + CDN + Pages active
 
 ### Phase 0 Progress (Pre-Completed by Researcher)
+
 - Theme XML: medical disclaimer auto-footer, last-updated date, author bio box, footer URL fix ✅
 - ads-worker.js created (deployment pending) ✅
 - Theme XML backup created before edits ✅
 
+### Phase 1 Progress
+
+- Plan 01-01: Scheduler fix with POST /posts/ and --dry-run ✅
+- Plan 01-02: Shared libs (auth.py, tracking.py, utils.py) ✅ (pre-completed)
+
 ### Known Issues (Phase 0 context)
 
-- Broken scheduler (`schedule-posts.py` 400 error) — will be fixed in Phase 1
 - Social posting backlog of 10+ articles — will be cleared in Phase 4
-- OAuth login duplicated across 6 scripts — will be extracted in Phase 1
-- No medical disclaimers on existing articles — must fix in Phase 0
-- Missing legal pages (About, Contact, Disclaimer, Terms) — must create in Phase 0
+- OAuth login duplicated across 6 scripts — extracted to lib.auth in Plan 01-02
+- Medical disclaimers on existing articles — ✅ DONE (theme auto-footer)
+- Legal pages (About, Contact, Disclaimer, Terms, Privacy) — ✅ DONE
 
 ### Blockers/Concerns
 
-- None yet (Phase 0 has no dependencies on prior work)
+- None
 
 ## Deferred Items
 
@@ -85,6 +104,6 @@ Progress: [░░░░░░░░░░] 0%
 ## Session Continuity
 
 Last session: 2026-07-11
-Stopped at: Roadmap creation complete
+Stopped at: Plan 01-01 complete
 Resume file: None
-**Next immediate action:** Execute Phase 0 — run `/gsd-execute-phase 0` to execute the 3 tasks in 00-PLAN.md
+**Next immediate action:** Execute Plan 01-02 (if not done) or Plan 01-03

@@ -49,8 +49,16 @@ Plans:
 5. Scheduler logs auto-rotate at 5MB max, keep 5 rotations
 **Risk**: CRITICAL — broken scheduler blocks the ENTIRE content pipeline and social distribution. No articles can be published, no content reaches search engines or social media.
 **Resource**: 2 weeks, ~15-20 AI hours/week (debugging heavy — root cause of 400 error, testing)
-**Plans**: TBD
+**Plans**: 6 plans
 **UI hint**: no
+
+Plans:
+- [x] 01-01-PLAN.md — Fix scheduler 400 error (PUT→POST) and add --dry-run mode (R-016, R-017)
+- [ ] 01-02-PLAN.md — Extract shared lib modules: auth.py, tracking.py, utils.py (R-020)
+- [ ] 01-03-PLAN.md — Create requirements.txt + pyproject.toml; clean notify-ping.py to 3 services (R-021, D-10)
+- [ ] 01-04-PLAN.md — Add subprocess error logging and log rotation (5MB/5 files) (R-018, R-022)
+- [ ] 01-05-PLAN.md — Add pipeline status dashboard JSON tracking (R-023)
+- [ ] 01-06-PLAN.md — Migrate all scripts to shared libs; 1-week dry-run verification (R-020, R-019)
 
 ---
 
@@ -160,7 +168,7 @@ Plans:
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
 | 0. Foundation | 0/1 | Planning | - |
-| 1. Automation Fix | 0/0 | Not started | - |
+| 1. Automation Fix | 1/6 | Executing | 01-01 ✅ |
 | 2. Content Engine | 0/0 | Not started | - |
 | 3. Indexing & SEO | 0/0 | Not started | - |
 | 4. Traffic Distribution | 0/0 | Not started | - |
