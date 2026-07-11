@@ -1,0 +1,50 @@
+{
+  "articles": {
+    "https://www.ayurshakti.shop/test-article-pipeline-status.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-11T08:10:35.476653+00:00",
+          "details": {
+            "post_id": "12345",
+            "title": "Test Article for Pipeline Status",
+            "scheduled_est": "2026-07-11T08:00:00-05:00"
+          }
+        },
+        "published": {
+          "status": "completed",
+          "timestamp": "2026-07-11T08:10:35.483510+00:00",
+          "details": {
+            "published_url": "https://www.ayurshakti.shop/test-article-pipeline-status.html",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-11T08:10:35.489988+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "completed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-11T08:10:35.496479+00:00",
+          "details": {
+            "services_success": 3,
+            "services_failed": 0,
+            "title": "Test Article for Pipeline Status"
+          }
+        }
+      }
+    }
+  }
+}

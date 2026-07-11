@@ -2,8 +2,11 @@
   "mode": "yolo",
   "granularity": "fine",
   "parallelization": false,
-  "commit_docs": true,
+  "commit_docs": false,
   "model_profile": "inherit",
+  "planning": {
+    "sub_repos": ["blog_images"]
+  },
   "workflow": {
     "research": true,
     "plan_check": true,

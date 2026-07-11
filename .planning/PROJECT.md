@@ -85,6 +85,7 @@ Existing infrastructure and capabilities already built:
 | AI agent writes + automates | Scale content without hiring writers | — Pending |
 | Multi-source traffic strategy | Don't depend on one source (Google only) | — Pending |
 | Fix automation before scaling | Broken scheduler blocks everything | — Pending |
+| Horizontal layers (sequential phases) | Each layer completes fully before next begins. No overlap between phases 0-7. Ensures foundation/automation bugs don't compound with content volume. Dependencies: Phase 0 → 1 → 2 → 3 → 4 → 5 → 6 → 7 strictly sequential. | ✓ Confirmed |
 
 ## Evolution
 
