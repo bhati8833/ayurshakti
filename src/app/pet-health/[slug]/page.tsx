@@ -35,8 +35,40 @@ export default function PetHealthDetailPage({ params }: PetPageProps) {
   const doc = getSiloDocBySlug('pet-health', params.slug);
   if (!doc) notFound();
 
+  const jsonLdPet = {
+    '@context': 'https://schema.org',
+    '@type': 'MedicalWebPage',
+    '@id': `https://ayurshakti.shop/pet-health/${doc.slug}#webpage`,
+    url: `https://ayurshakti.shop/pet-health/${doc.slug}`,
+    name: doc.title,
+    headline: doc.title,
+    description: doc.description,
+    inLanguage: 'en-US',
+    author: {
+      '@type': 'Person',
+      name: 'Suresh Bhati',
+      url: 'https://ayurshakti.shop',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'AyurShakti',
+      url: 'https://ayurshakti.shop',
+      logo: 'https://ayurshakti.shop/public/images/logo.png',
+    },
+    about: {
+      '@type': 'MedicalTopic',
+      name: 'Veterinary Ayurveda',
+    },
+  };
+
   return (
     <main className="min-h-screen bg-ayur-bg pb-24">
+      {/* Schema.org Pet Health JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdPet) }}
+      />
+
       <nav aria-label="Breadcrumb" className="bg-ayur-forest/5 border-b border-ayur-border/40 py-3">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-xs font-semibold text-ayur-sage flex items-center gap-2">
           <Link href="/" className="hover:text-ayur-emerald transition-colors">Home</Link>

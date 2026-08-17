@@ -24,8 +24,43 @@ export default function ArticleDetailPage({ params }: { params: { slug: string }
     .filter((a) => a.slug !== article.slug)
     .slice(0, 3);
 
+  const jsonLdArticle = {
+    '@context': 'https://schema.org',
+    '@type': 'MedicalWebPage',
+    '@id': `https://ayurshakti.shop/articles/${article.slug}#webpage`,
+    url: `https://ayurshakti.shop/articles/${article.slug}`,
+    name: article.title,
+    headline: article.title,
+    description: article.description || article.title,
+    inLanguage: 'en-US',
+    author: {
+      '@type': 'Person',
+      name: article.author || 'Suresh Bhati',
+      jobTitle: 'Ayurvedic Researcher & Author',
+      url: 'https://ayurshakti.shop',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'AyurShakti',
+      url: 'https://ayurshakti.shop',
+      logo: 'https://ayurshakti.shop/public/images/logo.png',
+    },
+    datePublished: article.publishedDate,
+    dateModified: article.publishedDate,
+    about: {
+      '@type': 'MedicalTopic',
+      name: article.category || 'Ayurveda',
+    },
+  };
+
   return (
     <article className="py-12 bg-ayur-bg min-h-screen">
+      {/* Schema.org Article / MedicalWebPage JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }}
+      />
+
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         
         {/* Back Button Navigation */}

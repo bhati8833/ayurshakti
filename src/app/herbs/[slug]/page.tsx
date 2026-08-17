@@ -35,8 +35,41 @@ export default function HerbDetailPage({ params }: HerbPageProps) {
   const herb = getHerbBySlug(params.slug);
   if (!herb) notFound();
 
+  const jsonLdHerb = {
+    '@context': 'https://schema.org',
+    '@type': 'MedicalWebPage',
+    '@id': `https://ayurshakti.shop/herbs/${herb.slug}#webpage`,
+    url: `https://ayurshakti.shop/herbs/${herb.slug}`,
+    name: herb.title,
+    headline: herb.title,
+    description: herb.description,
+    inLanguage: 'en-US',
+    author: {
+      '@type': 'Person',
+      name: 'Suresh Bhati',
+      url: 'https://ayurshakti.shop',
+    },
+    publisher: {
+      '@type': 'Organization',
+      name: 'AyurShakti',
+      url: 'https://ayurshakti.shop',
+      logo: 'https://ayurshakti.shop/public/images/logo.png',
+    },
+    about: {
+      '@type': 'Substance',
+      name: herb.title,
+      description: herb.description,
+    },
+  };
+
   return (
     <main className="min-h-screen bg-ayur-bg pb-24">
+      {/* Schema.org Herb Profile JSON-LD */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdHerb) }}
+      />
+
       {/* Breadcrumb */}
       <nav aria-label="Breadcrumb" className="bg-ayur-forest/5 border-b border-ayur-border/40 py-3">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-xs font-semibold text-ayur-sage flex items-center gap-2">

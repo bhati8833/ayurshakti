@@ -38,6 +38,38 @@ export const metadata: Metadata = {
   },
 };
 
+const jsonLdOrganization = {
+  '@context': 'https://schema.org',
+  '@type': 'Organization',
+  '@id': 'https://ayurshakti.shop/#organization',
+  name: 'AyurShakti',
+  url: 'https://ayurshakti.shop',
+  logo: 'https://ayurshakti.shop/public/images/logo.png',
+  description: 'Evidence-based Ayurvedic remedies, Sanskrit canonical text analysis, and PubMed peer-reviewed protocols.',
+  founder: {
+    '@type': 'Person',
+    name: 'Suresh Bhati',
+    url: 'https://ayurshakti.shop',
+  },
+  sameAs: [
+    'https://twitter.com/ayurshakti_shop',
+    'https://bsky.app/profile/ayurshakti.bsky.social',
+  ],
+};
+
+const jsonLdWebSite = {
+  '@context': 'https://schema.org',
+  '@type': 'WebSite',
+  '@id': 'https://ayurshakti.shop/#website',
+  url: 'https://ayurshakti.shop',
+  name: 'AyurShakti',
+  description: 'Authentic Ayurvedic Wisdom & Science-Backed Protocols',
+  publisher: {
+    '@id': 'https://ayurshakti.shop/#organization',
+  },
+  inLanguage: 'en-US',
+};
+
 export default function RootLayout({
   children,
 }: {
@@ -46,6 +78,16 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${playfair.variable} ${jakarta.variable}`}>
       <head>
+        {/* Schema.org Global Organization & WebSite JSON-LD */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdOrganization) }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdWebSite) }}
+        />
+
         {/* Google Analytics 4 (GA4) Tag */}
         <Script
           src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
