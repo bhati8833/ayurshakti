@@ -135,14 +135,24 @@ jobs:
 
 ---
 
-## 🚀 Key Deployment Commands
+## 🚀 Key Deployment Workflow & Rules
+
+> 🛑 **CRITICAL RULE:** NEVER use `secrets/ayurshakti-501603-a1a6ff0396df.json` for Firebase CLI commands locally! That JSON key belongs to the GCP Indexing API (`ayurshakti-501603`), not Firebase Hosting (`ayur-shakti`). Firebase deployment MUST strictly be triggered via `git push origin master` which runs GitHub Actions with `FIREBASE_TOKEN` stored in GitHub repository secrets.
 
 ```bash
 # 1. Clean build output and generate static files locally
 npm run build
 
-# 2. Push to GitHub to trigger automatic high-speed cloud deployment
+# 2. Push to GitHub to trigger automatic cloud deployment via GitHub Actions
 git add .
 git commit -m "Deploy update"
 git push origin master
+
+# 3. Purge Cloudflare CDN Cache (run after GitHub Actions completes)
+ZONE_ID=$(cat secrets/cloudflare-zone-id.txt | tr -d '\n\r')
+TOKEN=$(cat secrets/cloudflare-api-token.txt | tr -d '\n\r')
+curl -X POST "https://api.cloudflare.com/client/v4/zones/${ZONE_ID}/purge_cache" \
+     -H "Authorization: Bearer ${TOKEN}" \
+     -H "Content-Type: application/json" \
+     --data '{"purge_everything":true}'
 ```

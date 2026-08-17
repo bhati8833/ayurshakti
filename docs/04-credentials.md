@@ -11,8 +11,8 @@
 
 | Secret Name / File | Service | Contains / Used For | Where Stored |
 |-------------------|---------|---------------------|--------------|
-| `FIREBASE_TOKEN` | Firebase Hosting | CLI Deploy Token for `vle.bhati@gmail.com` (`ayur-shakti` project) | GitHub Secrets (`FIREBASE_TOKEN`) & `~/.config/configstore/firebase-tools.json` |
-| `ayurshakti-501603-a1a6ff0396df.json` | GCP IAM | Service account private key + email for Indexing API & GSC (`ayurshakti-501603`) | `secrets/ayurshakti-501603-a1a6ff0396df.json` |
+| `FIREBASE_TOKEN` | Firebase Hosting | CI/CD Deploy Token (Used ONLY via GitHub Actions secret `FIREBASE_TOKEN` on `git push origin master`) | GitHub Secrets (`FIREBASE_TOKEN`) |
+| `ayurshakti-501603-a1a6ff0396df.json` | GCP IAM | Service account key ONLY for Indexing API (`gsc-index-submit.py`). ❌ DO NOT use for Firebase Deploy. | `secrets/ayurshakti-501603-a1a6ff0396df.json` |
 | `client_secret_641160040343-....json` | GCP OAuth | OAuth web client ID + secret | `secrets/` |
 | `cloudflare-api-token.txt` | Cloudflare | API Bearer token | `secrets/cloudflare-api-token.txt` |
 | `cloudflare-global-key.txt` | Cloudflare | Global API Key | `secrets/cloudflare-global-key.txt` |

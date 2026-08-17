@@ -75,7 +75,9 @@ npm run lint
 
 ## Critical Gotchas
 
-- **Firebase Hosting**: Ensure `npm run build` generates the `out/` folder cleanly before deploying.
+- **Firebase Deployment**: NEVER use `secrets/ayurshakti-501603-a1a6ff0396df.json` for Firebase CLI commands. That key is strictly for GCP Search Indexing API. Deployments MUST always be triggered via `git push origin master`, which executes GitHub Actions using `FIREBASE_TOKEN` stored in GitHub Secrets.
+- **Cloudflare Cache Purge**: After `git push origin master` completes, purge Cloudflare CDN cache via API using `secrets/cloudflare-zone-id.txt` and `secrets/cloudflare-api-token.txt`.
+- **Firebase Hosting**: Ensure `npm run build` generates the `out/` folder cleanly before committing and pushing.
 - **Image Hosting**: Use GitHub repository (`/public/images` or `blog_images/`) and `resources.ayurshakti.shop`.
 - **Published articles**: When reading `article-registry.json`, skip items with status "Published" to save tokens.
 - **Author name**: Always use "Suresh Bhati" for bylines, never "shiva".
