@@ -2868,10 +2868,11 @@
         },
         "pinged": {
           "status": "completed",
-          "timestamp": "2026-08-17T11:43:41.970226+00:00",
+          "timestamp": "2026-08-17T12:59:55.521583+00:00",
           "details": {
-            "services_success": 2,
-            "services_failed": 1
+            "service": "bing",
+            "url": "https://ayurshakti.shop/sitemap.xml",
+            "status_code": 200
           }
         },
         "indexing": {
