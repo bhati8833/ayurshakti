@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Indian contributions to traditional Khmer medicine within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. Indian contributions to traditional Khmer medicine
+## Indian contributions to traditional Khmer medicine
 
 Journal of the European Ayurvedic Society
 
@@ -51,7 +51,7 @@ Summary: Although we are by now quite familiar with the part played by India in 
 
 ---
 
-## 28. Investigations on Nimba Arishta
+## Investigations on Nimba Arishta
 
 Journal of the European Ayurvedic Society
 
@@ -85,7 +85,7 @@ Kroes, van den Berg, de Silva, Labadie, Nimba arishta... REFERENCES 133 Ayurveda
 
 ---
 
-## 29. The Jain fascination with alchemy
+## The Jain fascination with alchemy
 
 Journal of the European Ayurvedic Society
 
@@ -131,8 +131,6 @@ N. Balbir, La fascination jaina pour l'alchimie 149 Doctrine, il leur faut tout 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -140,10 +138,6 @@ N. Balbir, La fascination jaina pour l'alchimie 149 Doctrine, il leur faut tout 
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Alchemy and Sacred Geography in the Mediaeval Deccan: Journal Of The European Ayurvedic Society Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

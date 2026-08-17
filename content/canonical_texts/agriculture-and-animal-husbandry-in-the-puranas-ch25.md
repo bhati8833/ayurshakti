@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Classification of Soils within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 105. Part 17 - Classification of Soils
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Classification of Soils’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 17 - Classification of Soils
 
 Part 17 - Classification of Soils
 
@@ -37,30 +33,30 @@ In addition to the four principal groups of soils described above, mention may b
 
 Various types of grounds are mentioned in the Purāṇas long ago. They are-white coloured ground, blood coloured ground, black clay and yellow coloured ground.[3] Again golden soil, rocky soil, blue soil, white soil and yellowish red soil are also mentioned.[4]
 
-[1]:
 
-Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 25
+<div className="footnote-card"><strong>[1]</strong> Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 25</div>
 
-[2]:
 
-Ibid., p. 29-30
 
-[3]:
 
-śuklājyagandhā raktā ca raktagandhā sugandhinī/
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 29-30</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> śuklājyagandhā raktā ca raktagandhā sugandhinī/
 pītā kṛṣṇā surāgandhā viprādīnāṃ mahī kramāt// Agni Purāṇa , 92.7
+</blockquote>
 
-[4]:
 
-Ibid., 219.52-53
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 219.52-53</div>
 
 ---
 
-## 106. Part 18 - Sowing of Seeds
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Sowing of Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 18 - Sowing of Seeds
 
 Part 18 - Sowing of Seeds
 
@@ -88,21 +84,17 @@ These purposes comprise:
 (6) increasing the yield, and
 (7) inducing variation in the progeny.[2]
 
-[1]:
 
-Aiyer, A.K. Yegna Narayan, op.cit., p. 346
+<div className="footnote-card"><strong>[1]</strong> Aiyer, A.K. Yegna Narayan, op.cit., p. 346</div>
 
-[2]:
 
-Ibid., p. 253
+
+
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 253</div>
 
 ---
 
-## 107. Part 20 - Plant-Protection Practices
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Plant-Protection Practices’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 20 - Plant-Protection Practices
 
 Part 20 - Plant-Protection Practices
 
@@ -144,41 +136,44 @@ The tribal farmers sow ginger after treating with a solution of cow dung. About 
 
 Farmers use different simple practices for effective control of storage pests; viz., fuel wood ash 250 g for 250 kg of pulses; dry neem leaves 2.5 kg for 100 kg of wheat; and five to six dry chilies placed in one kg seed of green gram (mudga) and black gram(māṣa).
 
-[1]:
 
-Saxena, R.C., et al, op.cit., p. 104-105
+<div className="footnote-card"><strong>[1]</strong> Saxena, R.C., et al, op.cit., p. 104-105</div>
 
-[2]:
 
-Agni Purāṇa , Ch. 282
 
-[3]:
 
-Ibid., 282.10
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Agni Purāṇa , Ch. 282
+</blockquote>
 
-[4]:
 
-Saxena, R.C., et al, op.cit., p. 105
 
-[5]:
 
-Ibid., p. 104
+<div className="footnote-card"><strong>[3]</strong> Ibid., 282.10</div>
 
-[6]:
 
-Ibid., p. 103
 
-[7]:
 
-Ibid., p.102
+<div className="footnote-card"><strong>[4]</strong> Saxena, R.C., et al, op.cit., p. 105</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 104</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., p. 103</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., p.102</div>
 
 ---
 
-## 108. Part 21 - Irrigation (in modern Indian Agriculture)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Irrigation (in modern Indian Agriculture)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 21 - Irrigation (in modern Indian Agriculture)
 
 Part 21 - Irrigation (in modern Indian Agriculture)
 
@@ -214,37 +209,44 @@ The following important irrigation-power projects were undertaken during the co
 
 The Rajasthan Canal Project now known as Indira Gandhi Nahar Pariyojana, one of the largest canal systems of the world, is a gigantic human effort to transform a part of the vast Thar Desert into a land of prosperity.[7]
 
-[1]:
 
-Matsya Purāṇa , 221.9
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Matsya Purāṇa , 221.9
+</blockquote>
 
-[2]:
 
-Agni Purāṇa , 263.20
 
-[3]:
 
-Ibid., 222.2b
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Agni Purāṇa , 263.20
+</blockquote>
 
-[4]:
 
-Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 81
 
-[5]:
 
-Ibid., p. 82
+<div className="footnote-card"><strong>[3]</strong> Ibid., 222.2b</div>
 
-[6]:
 
-Ibid., p. 93
 
-[7]:
 
-Saxena, R.C., et al, op.cit., p. 87
+<div className="footnote-card"><strong>[4]</strong> Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 81</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 82</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., p. 93</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Saxena, R.C., et al, op.cit., p. 87</div>
 
 ---
-
-
 
 ---
 
@@ -253,10 +255,6 @@ Saxena, R.C., et al, op.cit., p. 87
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej): Agriculture And Animal Husbandry In The Puranas Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

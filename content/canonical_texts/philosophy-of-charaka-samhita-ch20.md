@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ten technical debate terms [in Charaka philosophy] within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 79. Ten technical debate terms [in Charaka philosophy]
+## Ten technical debate terms [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -53,21 +53,26 @@ Caraka recognizes pratijñāhāni, abhyanujñā, kālatītavacana, ahetu, nyūna
 
 The fallacy of reason prakāraṇasama and saṃśāyasama given in Caraka and the Nyāya-sūtras are different. Varṇyasama of the Saṃhitā corresponds to the false rejoinder sādhyasama in the Nyāya-sūtra. Jijñāsa, vavasāya. anuyojya, ananuyojya,, anuyoga, pratyanuyoga, vākyapraśaṃsā, upalaṃbhah, parihāra discussed in Caraka are not given catagorial importance in the Nyāya-sūtras.
 
-[1]:
 
-CS, Vimāna - sthāna, VIII. 83. Many of the terms described in this group have got specific implications in other disciplines. That is why Caraka says that these terms are described in their technical sense as applied in Āyruveda.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Vimāna - sthāna, VIII. 83. Many of the terms described in this group have got specific implications in other disciplines. That is why Caraka says that these terms are described in their technical sense as applied in Āyruveda.
+</blockquote>
 
-[2]:
 
-CS, Vimāna - sthāna, VIII. 68 -79, 84.
 
-[3]:
 
-Ibid., 65.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> CS, Vimāna - sthāna, VIII. 68 -79, 84.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., 65.</div>
 
 ---
 
-## 80. Dialectical terms (31): Points of defeat (nigrahasthāna)
+## Dialectical terms (31): Points of defeat (nigrahasthāna)
 
 Philosophy of Charaka-samhita
 
@@ -77,17 +82,21 @@ Dialectical terms (31): Points of defeat (nigrahasthāna)
 
 Points of defeat are the grounds of defeat. Caraka says that it occurs when an argument of the disputant is not understood by the assembly constituted by learned members. Caraka has already discussed the various types of points of defeat in the course of his discussion. The Nyāya-sūtra describes it as the inability to refute an opponent's thesis or to establish one's own thesis refuted by the opponent.[1] Twenty-two kinds of such nigrahasthānas are enumerated in the Nyāya-sūtra.[2]
 
-[1]:
 
-vipatipattirapratipattiśa nigrahasthānaṃ. Nyāyasūtra., I. ii. 19.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> vipatipattirapratipattiśa nigrahasthānaṃ. Nyāyasūtra., I. ii. 19.
+</blockquote>
 
-[2]:
 
-pratijñāhāniḥ pratijñāntaraṃ pratijñāvirodhaḥ pratijñāsaṃnyāso hetvantaramarthāntaraṃ nirarthakamavijñātārthamapārthakamapraptakālaṃ nyūnamadhikaṃ punaruktamananubhāṣaṇamajñānamapratibhā vikṣepo matānujñā paryanuyojyopekṣaṇaṃ niranuyojyānuyogo'pasiddhānto hetvābhāsāśca nigrahasthānāni.Nyāyasūtra., V. ii. 1.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> pratijñāhāniḥ pratijñāntaraṃ pratijñāvirodhaḥ pratijñāsaṃnyāso hetvantaramarthāntaraṃ nirarthakamavijñātārthamapārthakamapraptakālaṃ nyūnamadhikaṃ punaruktamananubhāṣaṇamajñānamapratibhā vikṣepo matānujñā paryanuyojyopekṣaṇaṃ niranuyojyānuyogo'pasiddhānto hetvābhāsāśca nigrahasthānāni.Nyāyasūtra., V. ii. 1.
+</blockquote>
 
 ---
 
-## 81. Dialectical terms (30): Offering irrelevant statement (arthāntara)
+## Dialectical terms (30): Offering irrelevant statement (arthāntara)
 
 Philosophy of Charaka-samhita
 
@@ -99,17 +108,21 @@ Offering irrelevant statement (arthāntara) consists in setting aside the releva
 
 Example: When the disputant is expected to give the-definition of fever, he gives the definition of diabetes (prameha).This is also given in the Nyāya-sūtra.[2]
 
-[1]:
 
-arthāntaraṃ nāmaikasmin vaktavye'paraṃ yadāḥ. CS,Vimāna - sthāna, VIII. 64.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> arthāntaraṃ nāmaikasmin vaktavye'paraṃ yadāḥ. CS,Vimāna - sthāna, VIII. 64.
+</blockquote>
 
-[2]:
 
-prakṛtādarthādapratisambandhārthamarthāntaraṃ. Nyāyasūtra., V. ii. 7.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> prakṛtādarthādapratisambandhārthamarthāntaraṃ. Nyāyasūtra., V. ii. 7.
+</blockquote>
 
 ---
 
-## 82. The historicity of logic and dialectical speculations of Carakasaṃhitā
+## The historicity of logic and dialectical speculations of Carakasaṃhitā
 
 Philosophy of Charaka-samhita
 
@@ -145,125 +158,174 @@ The most reasonable conclusion that can be drawn from the foregoing facts is tha
 
 The novelty of the Nyāya-sūtra is that it has developed a well knit theory of epistemology and logic and it led to the acceleration of the dialectical interaction of the various philosophical systems. In fact, its influence has been greater in other philosophical systems and thereby assumed the status of a newly constructed philosophical system. Thus, it has eclipsed what has been explained in Carakasaṃhitā and henceforth became the sole standard of posterity. The Nyāya system as an independent philosophical school took the lead in applying it for metaphysical discussions. Thus, it became an inevitable part of other philosophical systems also. So, from the existing data we can concede that the earliest available work which has pioneered to codify a methodology of rational thought is Carakasaṃhitā.
 
-[1]:
 
-WM, Vol. III, pp. 504-5.
+<div className="footnote-card"><strong>[1]</strong> WM, Vol. III, pp. 504-5.</div>
 
-[2]:
 
-The dialogue between Śvetaketu and Pravahaṇa, Ch. U., V. iii. 1; 5.3; The dialogue between Gārgi and Yājñavalkya, Bṛhadāraṇyaka Upaniṣad..,III; Manusmṛti., XII. 110, 111.
 
-[3]:
 
-catvāro vedadharmajñāḥ parṣatraividyameva vā, Yājñavalkya-smṛti, 1.9.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The dialogue between Śvetaketu and Pravahaṇa, Ch. U., V. iii. 1; 5.3; The dialogue between Gārgi and Yājñavalkya, Bṛhadāraṇyaka Upaniṣad..,III; Manusmṛti., XII. 110, 111.
+</blockquote>
 
-[4]:
 
-The four sciences are trayī, vārtā, daṇdanīti and ānvīkṣikī. anuvīkṣikī trayī vārtā daṇḍnītiśceti vidyāḥ. The Kautilīya Arthaśāstra., I. 2. p. 4. Cf., p. 5.
 
-[5]:
 
-sāṃkhyaṃ yogo lokāyataṃcetyānvikṣikī, Ibid.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> catvāro vedadharmajñāḥ parṣatraividyameva vā, Yājñavalkya-smṛti, 1.9.
+</blockquote>
 
-[6]:
 
-Ibid. Vātsyāyana affirms that Nyāya-śāstra is ānvīkṣkī and quotes the verse from The Kautilīya Arthaśāstra.. Nyāya-Bhāṣya of Vātsyāyana., p. 5, 6, 12. In Amarakośa., ānvīkṣikī is rendered as tarkavidyā, Amarakośa., Vol. I, I. vi. 5. Rāmāyaṇa, Ayodhyākāṇda, 100, 39; The Mahābharata refers to ānvīkṣikī as tarkaśāstra, Mahābhārata., mokṣadharma, 173, 45. See also Manusmṛti., VII. 43; nyāyādhigame tarko'bhyupāyaḥ, Gautamadharmasūtra, XI. 25.
 
-[7]:
 
-JNS, p. 479.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The four sciences are trayī, vārtā, daṇdanīti and ānvīkṣikī. anuvīkṣikī trayī vārtā daṇḍnītiśceti vidyāḥ. The Kautilīya Arthaśāstra., I. 2. p. 4. Cf., p. 5.
+</blockquote>
 
-[8]:
 
-“Introduction”, TSA, p. XXXII.
 
-[9]:
 
-See infra, p. 326.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> sāṃkhyaṃ yogo lokāyataṃcetyānvikṣikī, Ibid.
+</blockquote>
 
-[10]:
 
-Loc. cit., 173.
 
-[11]:
 
-“Ātma-vidyā was called in a later stage Ānvīkṣikī, the science of inquiry”. HIL, p. 4.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Ibid. Vātsyāyana affirms that Nyāya-śāstra is ānvīkṣkī and quotes the verse from The Kautilīya Arthaśāstra.. Nyāya-Bhāṣya of Vātsyāyana., p. 5, 6, 12. In Amarakośa., ānvīkṣikī is rendered as tarkavidyā, Amarakośa., Vol. I, I. vi. 5. Rāmāyaṇa, Ayodhyākāṇda, 100, 39; The Mahābharata refers to ānvīkṣikī as tarkaśāstra, Mahābhārata., mokṣadharma, 173, 45. See also Manusmṛti., VII. 43; nyāyādhigame tarko'bhyupāyaḥ, Gautamadharmasūtra, XI. 25.
+</blockquote>
 
-[12]:
 
-Ibid., p. 26. The date of Medhātithi Gautama assigned by Vidyabhusana is 550-500 B.C., Ibid., p. 17.
 
-[13]:
 
-Ibid., p. 26.
+<div className="footnote-card"><strong>[7]</strong> JNS, p. 479.</div>
 
-[14]:
 
-WM, Vol. III. p. 560.
 
-[15]:
 
-HIPS, Vol. II. p. 393.
+<div className="footnote-card"><strong>[8]</strong> “Introduction”, TSA, p. XXXII.</div>
 
-[16]:
 
-Ibid., p. 398.
 
-[17]:
 
-Ibid., 402.
+<div className="footnote-card"><strong>[9]</strong> See infra, p. 326.</div>
 
-[18]:
 
-Ibid.
 
-[19]:
 
-Ibid., p. 395.
+<div className="footnote-card"><strong>[10]</strong> Loc. cit., 173.</div>
 
-[20]:
 
-Ibid., p. 399.
 
-[21]:
 
-Ibid., p. 398.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> “Ātma-vidyā was called in a later stage Ānvīkṣikī, the science of inquiry”. HIL, p. 4.
+</blockquote>
 
-[22]:
 
-Ibid., p. 400-401.
 
-[23]:
 
-IFD, p. 2.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Ibid., p. 26. The date of Medhātithi Gautama assigned by Vidyabhusana is 550-500 B.C., Ibid., p. 17.
+</blockquote>
 
-[24]:
 
-Ibid., p. 9.
 
-[25]:
 
-Nyāya-sūtra evam Carakasaṃhitā., p. 5- 6; HIPS, Vol. II, p. 393-94; A Companion to Sanskrit Literature, Suresh Chandra Banerji, Motilal Banrsidass, Delhi, Second edn. 1989, p. 10; WM, Vol. III, p. 559; Introduction, TSA, p. XXX.
+<div className="footnote-card"><strong>[13]</strong> Ibid., p. 26.</div>
 
-[26]:
 
-Nyāya-Bhāṣya of Vātsyāyana., p. 459.
 
-[27]:
 
-yadakṣapādapravaro munīnāṃ śamāya śāstraṃ jagado jagāda, Nyāya-Vārttika of Udyotakāra., p. 1.
+<div className="footnote-card"><strong>[14]</strong> WM, Vol. III. p. 560.</div>
 
-[28]:
 
-“atha bhagavatā'kṣapādena niśreyasahetau śāstre praṇīte vyutpādite ca.....”, Nyāya-Vārttikatātparyaṭīkā of Vācaspati Miśra., p.1.
 
-[29]:
 
-“akṣapādapraṇeta hi nyāyapādapaḥ”, Nyāyamañjarī of Jayantabhaṭṭa., p. 1.
+<div className="footnote-card"><strong>[15]</strong> HIPS, Vol. II. p. 393.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid., p. 398.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid., 402.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid., p. 395.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., p. 399.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., p. 398.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., p. 400-401.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> IFD, p. 2.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Ibid., p. 9.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Nyāya-sūtra evam Carakasaṃhitā., p. 5- 6; HIPS, Vol. II, p. 393-94; A Companion to Sanskrit Literature, Suresh Chandra Banerji, Motilal Banrsidass, Delhi, Second edn. 1989, p. 10; WM, Vol. III, p. 559; Introduction, TSA, p. XXX.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Nyāya-Bhāṣya of Vātsyāyana., p. 459.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> yadakṣapādapravaro munīnāṃ śamāya śāstraṃ jagado jagāda, Nyāya-Vārttika of Udyotakāra., p. 1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> “atha bhagavatā'kṣapādena niśreyasahetau śāstre praṇīte vyutpādite ca.....”, Nyāya-Vārttikatātparyaṭīkā of Vācaspati Miśra., p.1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> “akṣapādapraṇeta hi nyāyapādapaḥ”, Nyāyamañjarī of Jayantabhaṭṭa., p. 1.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -272,10 +334,6 @@ yadakṣapādapravaro munīnāṃ śamāya śāstraṃ jagado jagāda, Nyāya-V�
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Ethics: Philosophy Of Charaka Samhita Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

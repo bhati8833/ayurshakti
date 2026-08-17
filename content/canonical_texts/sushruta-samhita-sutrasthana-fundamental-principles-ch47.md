@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Knowledge of liquid substances within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 53. Chapter XLV - Knowledge of liquid substances
+## Chapter XLV - Knowledge of liquid substances
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -403,61 +403,75 @@ I have now briefly described the properties of all kinds of liquid food or drink
 
 Thus ends the forty-fifth Chapter of the Sutrasthana in the Sushruta Samhita which treats of liquids.
 
-[1]:
 
-Enlivens the body during fits of fainting and such like cases.
+<div className="footnote-card"><strong>[1]</strong> Enlivens the body during fits of fainting and such like cases.</div>
 
-[2]:
 
-Imparts strength to the exhausted or emaciated frames.
 
-[3]:
 
-A tank or a large well with its sides protected by buttresses of masonry work.
+<div className="footnote-card"><strong>[2]</strong> Imparts strength to the exhausted or emaciated frames.</div>
 
-[4]:
 
-A well with flights of masonry steps descending to its bottom.
 
-[5]:
 
-An ordinary well, unprotected by buttresses and unprovided with steps.
+<div className="footnote-card"><strong>[3]</strong> A tank or a large well with its sides protected by buttresses of masonry work.</div>
 
-[6]:
 
-A flow of subterranean water dug out of a bed of sand.
 
-[7]:
 
-The “rains” in the present passage should be interpreted to mean the end of the rainy season or the month of Ashvina, and not the month of Bhadra, as its use is specially forbidden in that month.
+<div className="footnote-card"><strong>[4]</strong> A well with flights of masonry steps descending to its bottom.</div>
 
-[8]:
 
-Light according to Jejjada.
 
-[9]:
 
-From the construction of the present sentence in the original texts, we are warranted to include the milk of a doe, or of a she-mule, or of a cow-rhinoceros in the list, as they sometimes prove beneficial for external applications.
+<div className="footnote-card"><strong>[5]</strong> An ordinary well, unprotected by buttresses and unprovided with steps.</div>
 
-[10]:
 
-It has been recently discovered by a German physician that tuberculosis bacilli do no not thrive in goat’s-blood—Translator.
 
-[11]:
 
-Boiled milk curdled and subsequently heated and made into a paste is called Kilata.
+<div className="footnote-card"><strong>[6]</strong> A flow of subterranean water dug out of a bed of sand.</div>
 
-[12]:
 
-The milk of a cow recently delivered of a calf is called Piyusha till the seventh day after its birth, while, it is subsequently called Moratha till it is perfectly purified and becomes fit for the use of man.
 
-[13]:
 
-???
+<div className="footnote-card"><strong>[7]</strong> The “rains” in the present passage should be interpreted to mean the end of the rainy season or the month of Ashvina, and not the month of Bhadra, as its use is specially forbidden in that month.</div>
 
-[14]:
 
-(1) The kind of honey obtained from hives of large, yellow bees, is called the Pauttika.
+
+
+<div className="footnote-card"><strong>[8]</strong> Light according to Jejjada.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> From the construction of the present sentence in the original texts, we are warranted to include the milk of a doe, or of a she-mule, or of a cow-rhinoceros in the list, as they sometimes prove beneficial for external applications.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> It has been recently discovered by a German physician that tuberculosis bacilli do no not thrive in goat’s-blood—Translator.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Boiled milk curdled and subsequently heated and made into a paste is called Kilata.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> The milk of a cow recently delivered of a calf is called Piyusha till the seventh day after its birth, while, it is subsequently called Moratha till it is perfectly purified and becomes fit for the use of man.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> ???</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> (1) The kind of honey obtained from hives of large, yellow bees, is called the Pauttika.</div>
+
+
 
 (2) The kind of honey obtained from hives of bees of the Bhramara species is called Bhramara.
 
@@ -473,21 +487,20 @@ The milk of a cow recently delivered of a calf is called Piyusha till the sevent
 
 (8) The kind of honey found accumulated in leaves of honey-bearing plants is called Dalam.
 
-[15]:
 
-Though the use of honey with hot substances is not forbidden in such cases, still many an experienced physician of the Ayurvedic school thinks it safe to refrain from its use, lest it might be retained in the stomach for a considerable time, or find out a downward outlet and pass off with the stool.
+<div className="footnote-card"><strong>[15]</strong> Though the use of honey with hot substances is not forbidden in such cases, still many an experienced physician of the Ayurvedic school thinks it safe to refrain from its use, lest it might be retained in the stomach for a considerable time, or find out a downward outlet and pass off with the stool.</div>
 
-[16]:
 
-These couplets emphatically prove that the framers of ancient Ayurveda were fully conversant with the circulation of the blood—Tr.
 
-[17]:
 
-The urine of a cow, she-buffalo, ewe and she-goat should be taken and used, while similar secretions of the male should be taken where man, camel and elephant should be indicated.
+<div className="footnote-card"><strong>[16]</strong> These couplets emphatically prove that the framers of ancient Ayurveda were fully conversant with the circulation of the blood—Tr.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> The urine of a cow, she-buffalo, ewe and she-goat should be taken and used, while similar secretions of the male should be taken where man, camel and elephant should be indicated.</div>
 
 ---
-
-
 
 ---
 
@@ -496,10 +509,6 @@ The urine of a cow, she-buffalo, ewe and she-goat should be taken and used, whil
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch48" className="text-emerald-400 hover:underline flex items-center font-medium">Diet articles and regimen of diet: Sushruta Samhita Sutrasthana Chapter 48 →</a>
 </div>
-
-
-
-
 
 ---
 

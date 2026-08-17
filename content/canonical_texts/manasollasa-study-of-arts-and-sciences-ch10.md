@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Horse fighting described in the Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. 8. Horse fighting described in the Manasollasa
+## 8. Horse fighting described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -39,7 +39,7 @@ Horses have always been regarded important in India. The ancient warriors used t
 
 ---
 
-## 24. 9. Cock fighting described in the Manasollasa
+## 9. Cock fighting described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -55,8 +55,6 @@ Somesvara says that, the king should keep the best cocks in his possession and n
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -64,10 +62,6 @@ Somesvara says that, the king should keep the best cocks in his possession and n
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">11. Ram fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

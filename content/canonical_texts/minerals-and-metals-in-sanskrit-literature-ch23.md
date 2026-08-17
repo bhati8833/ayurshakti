@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 9. Some Tentative Interpretations (of the Rasaratna-samuccaya) within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 99. 9. Some Tentative Interpretations (of the Rasaratna-samuccaya)
+## 9. Some Tentative Interpretations (of the Rasaratna-samuccaya)
 
 Minerals and Metals in Sanskrit literature
 
@@ -37,7 +37,7 @@ RASARATNASAMUCHCHAYA IX-30 prathayah munda ' toca ca kanta ca viprakaramayah smr
 
 ---
 
-## 100. 10. References
+## 10. References
 
 Minerals and Metals in Sanskrit literature
 
@@ -49,7 +49,7 @@ Biswas, Arun Kumar, 1987, Rasaratnasamuccaya and Mineral Processing State-off-ar
 
 ---
 
-## 101. 8. Ferrous Materials discussed in Rasaratna-samuccaya
+## 8. Ferrous Materials discussed in Rasaratna-samuccaya
 
 Minerals and Metals in Sanskrit literature
 
@@ -67,7 +67,7 @@ IX-23 organo-leptic compounds, as gandham himgum vyajitaca tiktatam nimbakalkah 
 
 ---
 
-## 102. 1. Archaeology and History
+## 1. Archaeology and History
 
 Minerals and Metals in Sanskrit literature
 
@@ -85,8 +85,6 @@ X-4 ferrous metallurgy, the use of mineral-based medicines and the technological
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -94,10 +92,6 @@ X-4 ferrous metallurgy, the use of mineral-based medicines and the technological
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">2. Scientific, Concepts Related to Material Science: Minerals And Metals In Sanskrit Literature Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

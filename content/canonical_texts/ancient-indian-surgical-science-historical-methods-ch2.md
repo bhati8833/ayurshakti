@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Veterinary science in Ayurveda within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. 4. Veterinary science in Ayurveda
+## 4. Veterinary science in Ayurveda
 
 Surgery in ancient India (Study)
 
@@ -27,7 +27,7 @@ diseases, Ksudra Roga Sthana or minor diseases, Salya Sthana or surgery and Ciki
 
 ---
 
-## 7. 6. Description of Diseases
+## 6. Description of Diseases
 
 Surgery in ancient India (Study)
 
@@ -41,7 +41,7 @@ prayers to Gods Sun and Moon, giving incision with the root of Muni deva, leach 
 
 ---
 
-## 8. 5. Ayurveda and Veda
+## 5. Ayurveda and Veda
 
 Surgery in ancient India (Study)
 
@@ -71,8 +71,6 @@ been used to denote 'micro organisms in Atharvaveda). Nearly 100 types of organi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +78,6 @@ been used to denote 'micro organisms in Atharvaveda). Nearly 100 types of organi
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">10. Ayurveda in the Smritis: Ancient Indian Surgical Science Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

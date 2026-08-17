@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Reviews and Notices (Volume 5) within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 75. Reviews and Notices (Volume 5)
+## Reviews and Notices (Volume 5)
 
 Journal of the European Ayurvedic Society
 
@@ -33,7 +33,7 @@ Reviews and Notices 221 containing this, that is the main focus of interest. As 
 
 ---
 
-## 76. On the Vrikshayurveda of Parashara
+## On the Vrikshayurveda of Parashara
 
 Journal of the European Ayurvedic Society
 
@@ -85,7 +85,7 @@ R.P. Das, On the Vrikshayurveda of Parasara 215 ago, which raises the question o
 
 ---
 
-## 77. Phytomorphological Terminology in Ayurvedic Science
+## Phytomorphological Terminology in Ayurvedic Science
 
 Journal of the European Ayurvedic Society
 
@@ -127,8 +127,6 @@ AYURVEDIC SCIENCE CONTRIBUTIONEmphasis on fruit characters, until then neglected
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -136,10 +134,6 @@ AYURVEDIC SCIENCE CONTRIBUTIONEmphasis on fruit characters, until then neglected
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

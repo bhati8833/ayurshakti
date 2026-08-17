@@ -82,7 +82,11 @@ Amānusha—lit. non-mānusha, i.e., other than human. It includes the deities, 
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 In place of “vārddhakena juṣṭaḥ” Mādhava reads “trayodaśābde”(?) i.e., (it is also incurable) when it has continued for thirteen years.
+</blockquote>
+
 
 [3]:
 

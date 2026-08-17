@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on What is Man? within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 65. Chapter 3 - What is Man?
+## Chapter 3 - What is Man?
 
 History of Indian Medicine (and Ayurveda)
 
@@ -236,7 +236,7 @@ In Atreya’s own words,
 
 ---
 
-## 66. Part 6 - The Science of the Triumvirate (Tridosha) Pathogenesis
+## Part 6 - The Science of the Triumvirate (Tridosha) Pathogenesis
 
 History of Indian Medicine (and Ayurveda)
 
@@ -246,11 +246,9 @@ As an important final a...
 
 Part 6 - The Science of the Triumvirate (Tridosha) Pathogenesis
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 67. Chapter 1 - Background on the concept of Tridosha pathogenesis
+## Chapter 1 - Background on the concept of Tridosha pathogenesis
 
 History of Indian Medicine (and Ayurveda)
 
@@ -486,8 +484,6 @@ It is to these physician-philosophers of the golden age of India that we owe the
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -495,10 +491,6 @@ It is to these physician-philosophers of the golden age of India that we owe the
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">The Story of Life: History Of Indian Medicine And Ayurveda Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

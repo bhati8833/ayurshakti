@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Alchemy and Sacred Geography in the Mediaeval Deccan within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. Alchemy and Sacred Geography in the Mediaeval Deccan
+## Alchemy and Sacred Geography in the Mediaeval Deccan
 
 Journal of the European Ayurvedic Society
 
@@ -37,7 +37,7 @@ A. Rosu, Alchemy and Sacred Geography... 157 Acknowledgements Thanks are due to 
 
 ---
 
-## 31. Indian Medicine and Spirituality
+## Indian Medicine and Spirituality
 
 Journal of the European Ayurvedic Society
 
@@ -109,7 +109,7 @@ R.P. Das, Indische Medizin und Spiritualitat 187 Zeitalter. Auch der Interaktion
 
 ---
 
-## 32. Reviews and Notices (Volume 2)
+## Reviews and Notices (Volume 2)
 
 Journal of the European Ayurvedic Society
 
@@ -153,8 +153,6 @@ All this should not be taken to be mere piddling carping, since it has to do wit
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -162,10 +160,6 @@ All this should not be taken to be mere piddling carping, since it has to do wit
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Other Publications Received (Volume 2): Journal Of The European Ayurvedic Society Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

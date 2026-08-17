@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 9. Case of “Crow’s Beak Gold” within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 52. 9. Case of “Crow’s Beak Gold”
+## 9. Case of “Crow’s Beak Gold”
 
 Alchemy in India and China
 
@@ -37,8 +37,6 @@ We have come across, in the chapter on Chinese Alchemy, an alchemist-metallurgis
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ We have come across, in the chapter on Chinese Alchemy, an alchemist-metallurgis
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch44" className="text-emerald-400 hover:underline flex items-center font-medium">4. Case of a metal-container becoming golden: Alchemy In India And China Chapter 44 →</a>
 </div>
-
-
-
-
 
 ---
 

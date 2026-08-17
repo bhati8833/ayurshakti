@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 16. Matsya-vinoda (the sport of catching fish) within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 29. 16. Matsya-vinoda (the sport of catching fish)
+## 16. Matsya-vinoda (the sport of catching fish)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -29,7 +29,7 @@ There is a reference to the net for catching fish in the Yajurveda. 126 Describi
 
 ---
 
-## 30. 17. Mrgaya-vinoda (the sport of deer-hunting)
+## 17. Mrgaya-vinoda (the sport of deer-hunting)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -67,8 +67,6 @@ The last topic in the entertainment is Mrgaya-vinoda or the amusement derived fr
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -76,10 +74,6 @@ The last topic in the entertainment is Mrgaya-vinoda or the amusement derived fr
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">18. Marriage in Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

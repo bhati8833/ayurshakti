@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The affections of the mouth within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. Chapter XXII - The affections of the mouth
+## Chapter XXII - The affections of the mouth
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -127,61 +127,78 @@ Now we shall enumerate the different incurable types of mouth-diseases. Of the t
 
 Thus ends the Twenty-second Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with the medical treatment of the diseases of the mouth.
 
-[1]:
 
-Vagbhata reads “madhuciṣṭaṃ (madhṛciṣṭaṃ?)” i.e., wax, in place of “shrīveṣṭaka |”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vagbhata reads “madhuciṣṭaṃ (madhṛciṣṭaṃ?)” i.e., wax, in place of “shrīveṣṭaka |”
+</blockquote>
 
-[2]:
 
-Vrinda and Chakrapani do not read Vid-lavana.
 
-[3]:
 
-Vrinda and Chakra-datta do not read Musta, nor Rasanjana.
+<div className="footnote-card"><strong>[2]</strong> Vrinda and Chakrapani do not read Vid-lavana.</div>
 
-[4]:
 
-This shows that cleansing the system by means of emetics and purgatives, as well as with Shiro-virecana should be resorted to in a case of Pari-dara as well.
 
-[5]:
 
-The solution may be prepared with the drugs taken together or separately.
+<div className="footnote-card"><strong>[3]</strong> Vrinda and Chakra-datta do not read Musta, nor Rasanjana.</div>
 
-[6]:
 
-Both Vrinda and Chakradatta quote this passage from the text, but boh of them read “shoṇita samprasicyate (?)” (excessive bleeding takes place) in place of “sashṛle syirabandhane (?)” (if it be found to be firm and steady at its roots, though attended with tooth-ache). Shri-kantha Datta, again, in his commentary quotes another reading “samūle'sthirabandhane (?)” (if it be loose in its sockets and be extracted with its roots). In our humble opinion, however, the current reading of the text seems to be the correct one, inasmuch as both the readings quoted above seem to be redundant in the presence of the two following sentences “raktatiyonat......” and “calamapyuttaraṃ danta (?)”—Ed.
 
-[7]:
 
-According to Shrikantha and Shivadása, it appears that the application of this decoction as a wash is not to be found in all editions of the Sushruta Samhitá, but they say that it is found only in Jejjatá’s reading. Jejjatá’s reading and explanation seem to be correct and have been followed by us in the translation.—Ed.
+<div className="footnote-card"><strong>[4]</strong> This shows that cleansing the system by means of emetics and purgatives, as well as with Shiro-virecana should be resorted to in a case of Pari-dara as well.</div>
 
-[8]:
 
-All the four kinds of Sneha should be used separately or combinedly.
 
-[9]:
 
-Shrikantha Datta, in his commentary on Vrinda’s compilation, quotes this passage from the text, but does not include “somnolence” therein. He reads “lalasravo bhramastamaḥ” in place of “lala nidra bhramastamaḥ |”
+<div className="footnote-card"><strong>[5]</strong> The solution may be prepared with the drugs taken together or separately.</div>
 
-[10]:
 
-The alkaline water to be used in the Mudga-soup should be prepared from Yava-kshara according to Dallana. But according to Shiva* dasa, alkaline water prepared from the ashes of Mushkaka, Apamarga, etc., should be used.
 
-[11]:
 
-According to Chakra-pani, Draksha and Parushaka should be combinedly used in preparing the decoction.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Both Vrinda and Chakradatta quote this passage from the text, but boh of them read “shoṇita samprasicyate (?)” (excessive bleeding takes place) in place of “sashṛle syirabandhane (?)” (if it be found to be firm and steady at its roots, though attended with tooth-ache). Shri-kantha Datta, again, in his commentary quotes another reading “samūle'sthirabandhane (?)” (if it be loose in its sockets and be extracted with its roots). In our humble opinion, however, the current reading of the text seems to be the correct one, inasmuch as both the readings quoted above seem to be redundant in the presence of the two following sentences “raktatiyonat......” and “calamapyuttaraṃ danta (?)”—Ed.
+</blockquote>
 
-[12]:
 
-The “purifying remedies” here means Shiro-virecana, fumigation, plasters and applications of alkali, etc., for purifying the Doshas in the throat.
 
-[13]:
 
-Dallana and Nishchala explain the term “cūrṇairlavaṇaiḥ” as the powders of the five officinal kinds of salt. Shiva-dasa, however, holds that powdered Saindhava salt only should be used. Vrinda reads “cūṇairlavaṇaiḥ” and the commentator Shri-kantha Datta explains it to mean either the powders of “lavaṇa”, i.e., Jyotishmati or those of “lavaṇa” i.e., the five officinal kinds of salt.—Ed.
+<div className="footnote-card"><strong>[7]</strong> According to Shrikantha and Shivadása, it appears that the application of this decoction as a wash is not to be found in all editions of the Sushruta Samhitá, but they say that it is found only in Jejjatá’s reading. Jejjatá’s reading and explanation seem to be correct and have been followed by us in the translation.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> All the four kinds of Sneha should be used separately or combinedly.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Shrikantha Datta, in his commentary on Vrinda’s compilation, quotes this passage from the text, but does not include “somnolence” therein. He reads “lalasravo bhramastamaḥ” in place of “lala nidra bhramastamaḥ |”
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> The alkaline water to be used in the Mudga-soup should be prepared from Yava-kshara according to Dallana. But according to Shiva* dasa, alkaline water prepared from the ashes of Mushkaka, Apamarga, etc., should be used.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> According to Chakra-pani, Draksha and Parushaka should be combinedly used in preparing the decoction.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> The “purifying remedies” here means Shiro-virecana, fumigation, plasters and applications of alkali, etc., for purifying the Doshas in the throat.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Dallana and Nishchala explain the term “cūrṇairlavaṇaiḥ” as the powders of the five officinal kinds of salt. Shiva-dasa, however, holds that powdered Saindhava salt only should be used. Vrinda reads “cūṇairlavaṇaiḥ” and the commentator Shri-kantha Datta explains it to mean either the powders of “lavaṇa”, i.e., Jyotishmati or those of “lavaṇa” i.e., the five officinal kinds of salt.—Ed.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -190,10 +207,6 @@ Dallana and Nishchala explain the term “cūrṇairlavaṇaiḥ” as the powde
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of the minor ailments: Sushruta Samhita Cikitsasthana Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

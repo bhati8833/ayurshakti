@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Suśruta-Saṃhitā (Āyurveda book) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. Suśruta-Saṃhitā (Āyurveda book)
+## Suśruta-Saṃhitā (Āyurveda book)
 
 Suśruta-Saṃhitā (Āyurveda book)
 
@@ -21,29 +21,30 @@ The Suśruta-Saṃhitā division has six sections and many chapters. Sūtra sth�
 
 Many Commentaries have been written in the Suśruta-Saṃhitā. Notable among them are the oldest commentators like Jaiyaṭa, Gayadāsa, Cakrapāṇi-kṛta (1080 AD) Bhānumatī, Nibandhasaṃgraha by Dalhvaṇa, besides Śrīmādhaba, Jejjaṭa, Kaupālika etc. The Suśruta-Saṃhitā popularized the book with its simplicity of language and presentation of the subject, the duties of surgery in necropsy, asceticism, haemorrhoids, fractures, flesh transplants and brain surgery[2].
 
-[1]:
 
-Acharya Prafulla Chandra Roy, Prachin Bharate Ayurveda o Rasayan Chinta, Salil Saha & Asim Chattopadhyay (eds.), Kolkata, Deepayan, 2014, p.73.
+<div className="footnote-card"><strong>[1]</strong> Acharya Prafulla Chandra Roy, Prachin Bharate Ayurveda o Rasayan Chinta, Salil Saha & Asim Chattopadhyay (eds.), Kolkata, Deepayan, 2014, p.73.</div>
 
-[2]:
 
-Suśruta Saṃhitā of Maharṣi Suśruta Vol. I -III, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, pp. 1-600, 1-596, 1-538.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā of Maharṣi Suśruta Vol. I -III, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, pp. 1-600, 1-596, 1-538.
+</blockquote>
 
 ---
 
-## 26. Bhāvamiśra (Āyurveda scholar)
+## Bhāvamiśra (Āyurveda scholar)
 
 Bhāvamiśra (Āyurveda scholar)
 
 Bhāvamiśra follows the ancient scriptures and collects their basic judgments and new subjects in his texts. His famous book is Bhāvaprakāśa. This Bhāvaprakāśa is the last and most important book of Laghutrayī. Bhāvamiśra's father's name was Laṭakana (Miśra). He was Śaiva. He mentioned this in many places. Ganeśa is worshipped in the opening verse and Viṣṇu is mentioned by the words Śrīpati and Madhusūdana. Trideva i.e., Brahmā, Viṣṇu, Maheśa and Hanumāna are also mentioned in the text. According to Ācārya Priyabrata Sharma, the period of Bhāvamiśra seems to be between the fifteenth and seventeenth centuries, i.e., the sixteenth century. Another of his works is Guṇaratnamālā. Which is probably based on the Nighaṇṭu part of the Bhāvaprakāśa[1].
 
-[1]:
 
-Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 86-87.
+<div className="footnote-card"><strong>[1]</strong> Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 86-87.</div>
 
 ---
 
-## 27. Aṣṭāṅga Hṛdaya (Āyurveda book)
+## Aṣṭāṅga Hṛdaya (Āyurveda book)
 
 Aṣṭāṅga Hṛdaya (Āyurveda book)
 
@@ -51,13 +52,14 @@ Aṣṭāṅga Hṛdaya [Hṛdayaṃ]—Ācārya Vāgbhaṭṭa was the son of S
 
 Aṣṭāṅga Hṛdayaṃ [Hṛdaya] contains six sthānas (sections) each sthāna consisting of varying numbers of Adhyāyas; the total number of chapters being One hundred twenty. The text is composed entirely in poetry. The total number of verses is Seven thousand one hundred twenty. The first section Sūtra sthāna has thirty chapters dealing with basic doctrines of Āyurveda. Principles of health, prevention of diseases, properties of articles of diet and drugs, humoral physiology and pathology, different kinds of diseases and methods of treatment. The second section Śarīra sthāna has six chapters dealing with embryology, anatomy, physiology, physiognomy, physical and psychological constitutions, auspicious and inauspicious dreams and omens, signs of bad prognosis and oncoming death. The third section Nidānasthāna with Sixteen chapters describes the causes, premonitory symptoms, characteristic features pathogenesis and prognosis of some important diseases coming within the realm of Kāyacikitsā (inner medicine). The fourth section cikitsā sthāna twenty-two chapters elaborating the methods of treatment of all major organic diseases, including efficacious medicinal recipes, diet and care of the patient. The fifth section Kalpa-siddhi sthāna has six chapters dealing with the preparation of recipes, administration of purificatory therapies and management of complications; and principles of pharmacy. The sixth and the last section Uttara sthāna is devoted to the remaining seven branches of Āyurveda. It has forty chapters in total; divided as follows, viz. three for Bāla cikitsā or demonology psychiatry, seventeen for Ūrdhvāṅga cikitsā or diseases of organs in the head, subdivided again nine for Netracikitsā or ophthalmology, two for Karṇacikitsā or otology, two for Nāsācikitsā or rhinology, two for Mukhacikitsā or mouth, teeth and throat, and two for Śiraroga or diseases of the head. Śalya cikitsā or surgery has ten chapters; Daṃṣṭrā or toxicology has four; Jarā cikitsā or rasāyana or rejuvenation therapy, geriatrics and Vṛṣa or Vājīkaraṇa or vilification therapy or aphrodisiacs have one chapter each. The greater portion of the text being devoted to Kāyacikitsā or inner medicine is thus conspicuous[1].
 
-[1]:
 
-Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, pp. 1-520, 1-590, 1-431.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, pp. 1-520, 1-590, 1-431.
+</blockquote>
 
 ---
 
-## 28. Caraka-Saṃhitā (Āyurveda book)
+## Caraka-Saṃhitā (Āyurveda book)
 
 Caraka-Saṃhitā (Āyurveda book)
 
@@ -73,13 +75,14 @@ That is why the Mahatma Dṛḍhabala said firmly—
 
 ‘cikitsā bahṇiveśasya svasthaturahitaṃ prati yadihāsti tadanyatra yannehāsti na tat kvacit ||
 
-[1]:
 
-Caraka Saṃhitā -Vol. I & II: with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 1-1024, 1-1120.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā -Vol. I & II: with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 1-1024, 1-1120.
+</blockquote>
 
 ---
 
-## 29. Mādhavanidāna (Āyurveda book)
+## Mādhavanidāna (Āyurveda book)
 
 Mādhavanidāna (Āyurveda book)
 
@@ -93,13 +96,12 @@ This book is included in Laghutrayī.
 
 The book is divided into two parts—Mādhavanidāna I and Mādhavanidāna II. There are sixty-nine chapters in this book and at the end the book ends with another chapter called Biṣayānukramanikā. In the First to Sixty nine chapters describes are as follows–Pañca Nidāna Lakṣaṇa; Jvara Nidāna [nidānaṃ]; Atisāra Nidāna [nidānaṃ]; Grahaṇī Roga Nidāna [nidānaṃ]; Arśa Nidāna [nidānaṃ]; Agnimāndya, Ajīrṇa, Visūcīkā; Kṛminidāna; Pāṇḍuroga, Kāmalā, Kumbhakāmalā, Halīmakanidāna; Raktapitta; Rājayakṣmā or Kṣatakṣīṇa; Kāśanidāna; Hikkāśvāsanidāna; Sarvabheda; Arocaka; Chardi; Tṛṣṇā; Mūrcchā; Pānātyaya, Paramada, Pānājīrna, and Pānavibhrama; Dāha; Unmāda; Apasmāra; Vātavyādhi; Vātarakta; Urustambha; Āmavāta; Śūla; Udavartādi; Gulma; Hṛdroga; Mūtrakṛccha; Mūtraghāta; Aśmarī; Parameha; Medaroga; Udara; Śotha; Vṛddhi; Galagaṇḍa or Gaṇḍamālā or Apacīgranthi; Ślipada; Vidradhi; Varṇa Śotha; Śarīra Varṇa; Sadyovarṇa; Bhagna; Nāḍī Varṇa; Bhagandara; Upadaṃśa; Śuka Doṣa; Kuṣṭha; Śītapitta; Amlapitta; Visarpa; Visphoṭa; Musurikā; Kṣudraroga; Oral Disease; Otolaryngology; Nāsaroga; Ophthalmology; Headache; Asṛgdara; Yonīvyāpad; Yonīkanda; Mūḍhagarbha; Sūtikā disease; Breast disease; Stanya Duṣṭi; Bālaroga; and Viṣa Roga etc. have been discussed[1].
 
-[1]:
 
-Mādhava-Nidāna of Mādhavakara with the Commentary Madhukoṣa by Vijayarakṣita & Śrīkaṇṭhadatta, Brahmanand Tripathi(ed.), trans. Kanjiv Lochan, Varanasi, Chaukhamba Surbharati Prakashan, 2018, pp. 1-1067.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Mādhava-Nidāna of Mādhavakara with the Commentary Madhukoṣa by Vijayarakṣita & Śrīkaṇṭhadatta, Brahmanand Tripathi(ed.), trans. Kanjiv Lochan, Varanasi, Chaukhamba Surbharati Prakashan, 2018, pp. 1-1067.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -108,10 +110,6 @@ Mādhava-Nidāna of Mādhavakara with the Commentary Madhukoṣa by Vijayarakṣ
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Aṣṭāṅga-Saṃgraha (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

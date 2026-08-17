@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The treatment with an Anuvasana-vasti and an Uttara-vasti within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti
+## Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -181,89 +181,113 @@ Diseases such as derangements of the semen, or of ovum, or difficult menstruatio
 
 Thus ends the Thirty-seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the Anuvasana-vasti and the Uttara-vasti.
 
-[1]:
 
-Dallana explains “Shyama” as “Priyangu” and “Jimuta” as “Mustaka.”
+<div className="footnote-card"><strong>[1]</strong> Dallana explains “Shyama” as “Priyangu” and “Jimuta” as “Mustaka.”</div>
 
-[2]:
 
-Dallana explains “Trina-mula” as “Trina-panca-mula” for which see Ch. XXXVIII, Sutra-Sthana.
 
-[3]:
 
-The “Valli” and the “Kantaka” here evidently mean the “Valli- panca-mula” and the ‘Kantaka-Panca-mula” respectively for which see chapter XXXVIII. Sutra-Sthana.
+<div className="footnote-card"><strong>[2]</strong> Dallana explains “Trina-mula” as “Trina-panca-mula” for which see Ch. XXXVIII, Sutra-Sthana.</div>
 
-[4]:
 
-Dallana explains “Shyama” as “Vriddha-daraka” and “Renu” as “Parpataka”(?).
 
-[5]:
 
-See Chapter XXXI., Chikitsita-Sthana.
+<div className="footnote-card"><strong>[3]</strong> The “Valli” and the “Kantaka” here evidently mean the “Valli- panca-mula” and the ‘Kantaka-Panca-mula” respectively for which see chapter XXXVIII. Sutra-Sthana.</div>
 
-[6]:
 
-Gayadasa reads “sūkṣmatvat” in place of “shunddhatvat” and explains it to mean “owing to the potency of the Sneha in traversing through the minutest channels of the body.”
 
-[7]:
 
-Dallana explains that the Mudga soup should be taken without being mixed with any Sneha. He further says that the patient should be given Mudga-soup, cow’s milk and meat-essence in accordance with the aggravation of the deranged Kapha, Pitta and Vayu respectively.
+<div className="footnote-card"><strong>[4]</strong> Dallana explains “Shyama” as “Vriddha-daraka” and “Renu” as “Parpataka”(?).</div>
 
-[8]:
 
-Gayadasa reads “sūkṣmatvat” in place of “śunddhatvat” and explains it to mean “owing to the potency of the Sneha in traversing through the minutest channels of the body.”
 
-[9]:
 
-Dallana, on the authority of the older Commentators explains that the patient should not be fed to his fill but only to three-fourths, half and one-fourth of what he can ordinarily take according to his digestive capacity.
+<div className="footnote-card"><strong>[5]</strong> See Chapter XXXI., Chikitsita-Sthana.</div>
 
-[10]:
 
-Dallana explains that the patient should be caught hold of by his wrists and ankles and given the gentle jerks so as to allow the potency of the Sneha spread through the organism.
 
-[11]:
 
-Some explain that the buttocks of the patient should be raised up with his bedding and his couch. At any rate his buttocks should be raised up in order to enable the injected Sneha to remain inside the intestines and not to come out instantly.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Gayadasa reads “sūkṣmatvat” in place of “shunddhatvat” and explains it to mean “owing to the potency of the Sneha in traversing through the minutest channels of the body.”
+</blockquote>
 
-[12]:
 
-It should be noted that the particle “ca” in the text means that on the satisfactory action of an Anuvasana-Vasti, the injected Sneha may come out with urine as well.
 
-[13]:
 
-Dallana explains “coṣa” to mean thirst.
+<div className="footnote-card"><strong>[7]</strong> Dallana explains that the Mudga soup should be taken without being mixed with any Sneha. He further says that the patient should be given Mudga-soup, cow’s milk and meat-essence in accordance with the aggravation of the deranged Kapha, Pitta and Vayu respectively.</div>
 
-[14]:
 
-“Light” means both light in quantity as well as in quality.
 
-[15]:
 
-Some commentators explain this couplet to mean that a patient of ordinary digestive capacity should be given a light food, whereas a patient of keen digestive capacity may take a full one.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gayadasa reads “sūkṣmatvat” in place of “śunddhatvat” and explains it to mean “owing to the potency of the Sneha in traversing through the minutest channels of the body.”
+</blockquote>
 
-[16]:
 
-Vrinda reads “snehat pittakaphotkleshau” in place of “snehadagnivadhotkleshau”. This means that the Pitta and the Kapha would be aggravated by an excessive use of a Sneha-vasti. The next couplet in the text would better support Vrinda’s reading.—Ed.
 
-[17]:
 
-Milk, Yasha and meat-soup should be prescribed in cases of the predominance of Kapha, Pitta and Vayu respectively.—Dallana.
+<div className="footnote-card"><strong>[9]</strong> Dallana, on the authority of the older Commentators explains that the patient should not be fed to his fill but only to three-fourths, half and one-fourth of what he can ordinarily take according to his digestive capacity.</div>
 
-[18]:
 
-Vrinda reads “snehat pittakaphotkleśau” in place of “snehadagnivadhotkleśau”. This means that the Pitta and the Kapha would be aggravated by an excessive use of a Sneha-vasti. The next couplet in the text would better support Vrinda’s reading.—Ed.
 
-[19]:
 
-The Shodhana drugs here are the Trina-panca-muja and such other drugs.—Dallana.
+<div className="footnote-card"><strong>[10]</strong> Dallana explains that the patient should be caught hold of by his wrists and ankles and given the gentle jerks so as to allow the potency of the Sneha spread through the organism.</div>
 
-[20]:
 
-According to Dallana a quantity of sugar and honey should be added in each of the three cases, viz., (1) the decoction of Yashtimadhu, (2) that of the Kshiri-trees, and (3) milk.
+
+
+<div className="footnote-card"><strong>[11]</strong> Some explain that the buttocks of the patient should be raised up with his bedding and his couch. At any rate his buttocks should be raised up in order to enable the injected Sneha to remain inside the intestines and not to come out instantly.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> It should be noted that the particle “ca” in the text means that on the satisfactory action of an Anuvasana-Vasti, the injected Sneha may come out with urine as well.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Dallana explains “coṣa” to mean thirst.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> “Light” means both light in quantity as well as in quality.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Some commentators explain this couplet to mean that a patient of ordinary digestive capacity should be given a light food, whereas a patient of keen digestive capacity may take a full one.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Vrinda reads “snehat pittakaphotkleshau” in place of “snehadagnivadhotkleshau”. This means that the Pitta and the Kapha would be aggravated by an excessive use of a Sneha-vasti. The next couplet in the text would better support Vrinda’s reading.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Milk, Yasha and meat-soup should be prescribed in cases of the predominance of Kapha, Pitta and Vayu respectively.—Dallana.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Vrinda reads “snehat pittakaphotkleśau” in place of “snehadagnivadhotkleśau”. This means that the Pitta and the Kapha would be aggravated by an excessive use of a Sneha-vasti. The next couplet in the text would better support Vrinda’s reading.—Ed.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> The Shodhana drugs here are the Trina-panca-muja and such other drugs.—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> According to Dallana a quantity of sugar and honey should be added in each of the three cases, viz., (1) the decoction of Yashtimadhu, (2) that of the Kshiri-trees, and (3) milk.</div>
 
 ---
-
-
 
 ---
 
@@ -272,10 +296,6 @@ According to Dallana a quantity of sugar and honey should be added in each of th
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch38" className="text-emerald-400 hover:underline flex items-center font-medium">The injudicious use of emetics and purgatives: Sushruta Samhita Cikitsasthana Chapter 38 →</a>
 </div>
-
-
-
-
 
 ---
 

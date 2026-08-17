@@ -13,101 +13,95 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Agriculture And Animal Husbandry In The Puranas Chapter 1](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch1)
+### [General Discourse: Agriculture And Animal Husbandry In The Puranas Chapter 1](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Agriculture And Animal Husbandry In The Puranas.
 
-### 2. [Date of the Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 2](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch2)
+### [Date of the Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 2](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch2)
 **Overview**: Detailed classical discussion on Date of the Purāṇas within Agriculture And Animal Husbandry In The Puranas.
 
-### 3. [2 - Contents of the Bhāgavata Purāṇa: Agriculture And Animal Husbandry In The Puranas Chapter 3](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch3)
+### [2 - Contents of the Bhāgavata Purāṇa: Agriculture And Animal Husbandry In The Puranas Chapter 3](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch3)
 **Overview**: Detailed classical discussion on 2 - Contents of the Bhāgavata Purāṇa within Agriculture And Animal Husbandry In The Puranas.
 
-### 4. [1 - Contents of the Agni Purāṇa: Agriculture And Animal Husbandry In The Puranas Chapter 4](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch4)
+### [1 - Contents of the Agni Purāṇa: Agriculture And Animal Husbandry In The Puranas Chapter 4](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch4)
 **Overview**: Detailed classical discussion on 1 - Contents of the Agni Purāṇa within Agriculture And Animal Husbandry In The Puranas.
 
-### 5. [The Meaning of the Word Kṛṣi (Agriculture): Agriculture And Animal Husbandry In The Puranas Chapter 5](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch5)
+### [The Meaning of the Word Kṛṣi (Agriculture): Agriculture And Animal Husbandry In The Puranas Chapter 5](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch5)
 **Overview**: Detailed classical discussion on The Meaning of the Word Kṛṣi (Agriculture) within Agriculture And Animal Husbandry In The Puranas.
 
-### 6. [Agriculture in the Atharvaveda Saṃhitā: Agriculture And Animal Husbandry In The Puranas Chapter 6](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch6)
+### [Agriculture in the Atharvaveda Saṃhitā: Agriculture And Animal Husbandry In The Puranas Chapter 6](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch6)
 **Overview**: Detailed classical discussion on Agriculture in the Atharvaveda Saṃhitā within Agriculture And Animal Husbandry In The Puranas.
 
-### 7. [Sowing of Seeds (Bīja/Vīja): Agriculture And Animal Husbandry In The Puranas Chapter 7](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch7)
+### [Sowing of Seeds (Bīja/Vīja): Agriculture And Animal Husbandry In The Puranas Chapter 7](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch7)
 **Overview**: Detailed classical discussion on Sowing of Seeds (Bīja/Vīja) within Agriculture And Animal Husbandry In The Puranas.
 
-### 8. [Types of Soil (Bhauma): Agriculture And Animal Husbandry In The Puranas Chapter 8](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch8)
+### [Types of Soil (Bhauma): Agriculture And Animal Husbandry In The Puranas Chapter 8](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch8)
 **Overview**: Detailed classical discussion on Types of Soil (Bhauma) within Agriculture And Animal Husbandry In The Puranas.
 
-### 9. [Rainfall, the Support of Agriculture that Depends upon the Sun: Agriculture And Animal Husbandry In The Puranas Chapter 9](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch9)
+### [Rainfall, the Support of Agriculture that Depends upon the Sun: Agriculture And Animal Husbandry In The Puranas Chapter 9](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch9)
 **Overview**: Detailed classical discussion on Rainfall, the Support of Agriculture that Depends upon the Sun within Agriculture And Animal Husbandry In The Puranas.
 
-### 10. [Agriculture and its Related Concepts in the Proposed Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 10](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch10)
+### [Agriculture and its Related Concepts in the Proposed Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 10](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch10)
 **Overview**: Detailed classical discussion on Agriculture and its Related Concepts in the Proposed Purāṇas within Agriculture And Animal Husbandry In The Puranas.
 
-### 11. [Purāṇic myths related to Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 11](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch11)
+### [Purāṇic myths related to Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 11](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch11)
 **Overview**: Detailed classical discussion on Purāṇic myths related to Agriculture within Agriculture And Animal Husbandry In The Puranas.
 
-### 12. [Festivals and Rites Related to Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 12](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch12)
+### [Festivals and Rites Related to Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 12](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch12)
 **Overview**: Detailed classical discussion on Festivals and Rites Related to Agriculture within Agriculture And Animal Husbandry In The Puranas.
 
-### 13. [The Myth behind the Creation of Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 13](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch13)
+### [The Myth behind the Creation of Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 13](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch13)
 **Overview**: Detailed classical discussion on The Myth behind the Creation of Agriculture within Agriculture And Animal Husbandry In The Puranas.
 
-### 14. [Animal husbandry in the Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 14](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch14)
+### [Animal husbandry in the Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 14](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch14)
 **Overview**: Detailed classical discussion on Animal husbandry in the Purāṇas within Agriculture And Animal Husbandry In The Puranas.
 
-### 15. [Animal Husbandry in the Vedic Period: Agriculture And Animal Husbandry In The Puranas Chapter 15](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch15)
+### [Animal Husbandry in the Vedic Period: Agriculture And Animal Husbandry In The Puranas Chapter 15](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch15)
 **Overview**: Detailed classical discussion on Animal Husbandry in the Vedic Period within Agriculture And Animal Husbandry In The Puranas.
 
-### 16. [The Worship of Cow and Go-vrata: Agriculture And Animal Husbandry In The Puranas Chapter 16](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch16)
+### [The Worship of Cow and Go-vrata: Agriculture And Animal Husbandry In The Puranas Chapter 16](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch16)
 **Overview**: Detailed classical discussion on The Worship of Cow and Go-vrata within Agriculture And Animal Husbandry In The Puranas.
 
-### 17. [Classification of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 17](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch17)
+### [Classification of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 17](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch17)
 **Overview**: Detailed classical discussion on Classification of Animals within Agriculture And Animal Husbandry In The Puranas.
 
-### 18. [Kingdoms Noted for Elephants and Kings Who Had Elephants: Agriculture And Animal Husbandry In The Puranas Chapter 18](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch18)
+### [Kingdoms Noted for Elephants and Kings Who Had Elephants: Agriculture And Animal Husbandry In The Puranas Chapter 18](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch18)
 **Overview**: Detailed classical discussion on Kingdoms Noted for Elephants and Kings Who Had Elephants within Agriculture And Animal Husbandry In The Puranas.
 
-### 19. [Management and Treatment of Elephants: Agriculture And Animal Husbandry In The Puranas Chapter 19](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch19)
+### [Management and Treatment of Elephants: Agriculture And Animal Husbandry In The Puranas Chapter 19](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch19)
 **Overview**: Detailed classical discussion on Management and Treatment of Elephants within Agriculture And Animal Husbandry In The Puranas.
 
-### 20. [Horses Used for Chariots: Agriculture And Animal Husbandry In The Puranas Chapter 20](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch20)
+### [Horses Used for Chariots: Agriculture And Animal Husbandry In The Puranas Chapter 20](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch20)
 **Overview**: Detailed classical discussion on Horses Used for Chariots within Agriculture And Animal Husbandry In The Puranas.
 
-### 21. [Herbs and Plants prescribed for the treatment of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 21](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch21)
+### [Herbs and Plants prescribed for the treatment of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 21](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch21)
 **Overview**: Detailed classical discussion on Herbs and Plants prescribed for the treatment of Animals within Agriculture And Animal Husbandry In The Puranas.
 
-### 22. [Successful Production Depends on the Fertility of the Soil: Agriculture And Animal Husbandry In The Puranas Chapter 22](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch22)
+### [Successful Production Depends on the Fertility of the Soil: Agriculture And Animal Husbandry In The Puranas Chapter 22](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch22)
 **Overview**: Detailed classical discussion on Successful Production Depends on the Fertility of the Soil within Agriculture And Animal Husbandry In The Puranas.
 
-### 23. [Protection and Care (of crops): Agriculture And Animal Husbandry In The Puranas Chapter 23](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch23)
+### [Protection and Care (of crops): Agriculture And Animal Husbandry In The Puranas Chapter 23](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch23)
 **Overview**: Detailed classical discussion on Protection and Care (of crops) within Agriculture And Animal Husbandry In The Puranas.
 
-### 24. [Nourishment and Feeding of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 24](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch24)
+### [Nourishment and Feeding of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 24](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch24)
 **Overview**: Detailed classical discussion on Nourishment and Feeding of Animals within Agriculture And Animal Husbandry In The Puranas.
 
-### 25. [Classification of Soils: Agriculture And Animal Husbandry In The Puranas Chapter 25](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch25)
+### [Classification of Soils: Agriculture And Animal Husbandry In The Puranas Chapter 25](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch25)
 **Overview**: Detailed classical discussion on Classification of Soils within Agriculture And Animal Husbandry In The Puranas.
 
-### 26. [Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej): Agriculture And Animal Husbandry In The Puranas Chapter 26](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch26)
+### [Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej): Agriculture And Animal Husbandry In The Puranas Chapter 26](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch26)
 **Overview**: Detailed classical discussion on Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej) within Agriculture And Animal Husbandry In The Puranas.
 
-### 27. [Breeding Policy (in modern Indian society): Agriculture And Animal Husbandry In The Puranas Chapter 27](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch27)
+### [Breeding Policy (in modern Indian society): Agriculture And Animal Husbandry In The Puranas Chapter 27](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch27)
 **Overview**: Detailed classical discussion on Breeding Policy (in modern Indian society) within Agriculture And Animal Husbandry In The Puranas.
 
-### 28. [Indigenous Plants for the Treatment of Diseases of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 28](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch28)
+### [Indigenous Plants for the Treatment of Diseases of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 28](/articles/agriculture-and-animal-husbandry-in-the-puranas-ch28)
 **Overview**: Detailed classical discussion on Indigenous Plants for the Treatment of Diseases of Animals within Agriculture And Animal Husbandry In The Puranas.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 2. Acknowledgement
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Acknowledgement’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Acknowledgement
 
 Acknowledgement
 
@@ -134,11 +128,7 @@ Place: Gauhati University, Guwahati
 
 ---
 
-## 3. Preface
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Preface’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Preface
 
 Preface
 
@@ -150,23 +140,13 @@ With these prefatory words, I with all modesty and sincerity put forward this wo
 
 ---
 
-## 7. Chapter 1 - An introduction to the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘introduction to the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Chapter 1 - An introduction to the Purāṇas
 
 Chapter 1 - An introduction to the Purāṇas
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 18. Part 1 - Introduction and history of ancient Indian Agriculture
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Introduction and history of ancient Indian Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 1 - Introduction and history of ancient Indian Agriculture
 
 Part 1 - Introduction and history of ancient Indian Agriculture
 
@@ -178,71 +158,85 @@ Harappan people cultivated several cereals, pulses, oilseeds, fibre crops, fruit
 
 Agriculturists in ancient India were quite aware of the nature of soil and its relations to the production of a particular crop of economic importance. The Aryans were an active pastoral people and agriculture was the backbone of economy at that time.[9] According to the historians, the Aryan tribes entered India from Central Asia in the 2nd millennium BC.[10] The Vedas are the main source of information regarding agricultural activities practiced by the Aryans. The Vedas attach great importance to agriculture. Among the ancient Vedic treatises mainly the Ṛgveda records various aspects of agriculture. In the Ṛgveda, the gambler is advised to stop gambling and engage himself in agriculture to improve his condition.[11] The Śatapatha Brāhmaṇa has mentioned the four principal operations of agriculture. They are ploughing, sowing, reaping and threshing.[12] It also refers to the practice of yoking six, twelve or twenty-four bullocks.[13] The epic Rāmāyaṇa clearly states that people, who are engaged in agriculture and cattle rearing, can live happily and can prosper in life.[14] The Purāṇas too provide many additional aspects regarding agriculture.These are discussed in details in this chapter.
 
-[1]:
 
-De, S.K., et al (ed.), The Cultural Heritage of India, volume 6, p. 177
+<div className="footnote-card"><strong>[1]</strong> De, S.K., et al (ed.), The Cultural Heritage of India, volume 6, p. 177</div>
 
-[2]:
 
-Vide, Gopal, Lallanji & Srivastava,V.C., History of Agriculture in India (up to c. 1200 AD), p.747
 
-[3]:
 
-De, S.K., et al (ed.), loc.cit.
+<div className="footnote-card"><strong>[2]</strong> Vide, Gopal, Lallanji & Srivastava,V.C., History of Agriculture in India (up to c. 1200 AD), p.747</div>
 
-[4]:
 
-Vide, Gopal, Lallanji & Srivastava,V.C., op.cit., p.749
 
-[5]:
 
-De, S.K., et al (ed.), loc.cit.
+<div className="footnote-card"><strong>[3]</strong> De, S.K., et al (ed.), loc.cit.</div>
 
-[6]:
 
-Ibid.
 
-[7]:
 
-Vide, Gopal, Lallanji & Srivastava, V.C., loc.cit.
+<div className="footnote-card"><strong>[4]</strong> Vide, Gopal, Lallanji & Srivastava,V.C., op.cit., p.749</div>
 
-[8]:
 
-De, S.K., et al (ed.), op.cit., p. 178
 
-[9]:
 
-Vide, Gopal, Lallanji & Srivastava, V.C., op.cit., p.750
+<div className="footnote-card"><strong>[5]</strong> De, S.K., et al (ed.), loc.cit.</div>
 
-[10]:
 
-Saxena, R.C., et al, A Textbook on Ancient History of Indian Agriculture, p.7
 
-[11]:
 
-akṣairmā dīvyaḥ kṛṣimitkṛṣasva vitte ramasva bahu manyamānaḥ/
+<div className="footnote-card"><strong>[6]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Vide, Gopal, Lallanji & Srivastava, V.C., loc.cit.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> De, S.K., et al (ed.), op.cit., p. 178</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Vide, Gopal, Lallanji & Srivastava, V.C., op.cit., p.750</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Saxena, R.C., et al, A Textbook on Ancient History of Indian Agriculture, p.7</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> akṣairmā dīvyaḥ kṛṣimitkṛṣasva vitte ramasva bahu manyamānaḥ/
 tatra gāvaḥ kitava tatra jāyā tanme vi caṣṭe savitāyamaryaḥ// Ṛgveda Saṃhitā , 10.34.13
+</blockquote>
 
-[12]:
 
-yāmeṣāmetāmanuśṛṇvanti kṛṣanto ha smaiva pūrve vapanto yanti lunanto’pare mṛṇantaḥ śaśvaddhaibhyo’kṛṣṭapacyā evauṣadhayaḥ pecire / Śatapatha Brāhmaṇa , 1.6.1.3
 
-[13]:
 
-Ibid., 7.2.2.6
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> yāmeṣāmetāmanuśṛṇvanti kṛṣanto ha smaiva pūrve vapanto yanti lunanto’pare mṛṇantaḥ śaśvaddhaibhyo’kṛṣṭapacyā evauṣadhayaḥ pecire / Śatapatha Brāhmaṇa , 1.6.1.3
+</blockquote>
 
-[14]:
 
-kaścit te dayitāḥ sarve kṛṣigorakṣajīvinaḥ/
+
+
+<div className="footnote-card"><strong>[13]</strong> Ibid., 7.2.2.6</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> kaścit te dayitāḥ sarve kṛṣigorakṣajīvinaḥ/
 vārtāyāṃ saṃśritastāta loko’yaṃ sukhamedhate// Rāmāyaṇa , 2.100.47
+</blockquote>
 
 ---
 
-## 40. Part 20 - Ancient Indian Horticulture (the science of planting)—Introduction
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Ancient Indian Horticulture (the science of planting)—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 20 - Ancient Indian Horticulture (the science of planting)—Introduction
 
 Part 20 - Ancient Indian Horticulture (the science of planting)—Introduction
 
@@ -258,109 +252,156 @@ Watering
 
 It is mentioned in the Purāṇas that the trees should be sprinkled with cold water, containing a solution of viḍaṅga (a medicinal plant) and clarified butter.[15] The trees are said to be grown by being sprinkled with fish-water.[16] Fish and meat, powdered and mixed with a quantity of pulverized viḍaṅga, should be sprinkled over a tree for the purpose of curing it of all distempers.[17] If the fruit-bearing trees get their fruit ruined, it is suggested there in the Agni Purāṇa, to sprinkle a mixture of kulattha, māṣa, mudga, tila or yava and cold water saturated with clarified butter over it. By doing so they are abundant with bumper flowers and fruits.[18] It is advised there in the Agni Purāṇa that any trees which are carefully planted in a garden, should be watered each morning and evening during the summer season, on each alternate day during the winter season and at the break of dawn during the rainy season, when the earth would get dry and require watering.[19]
 
-[1]:
 
-Arthaśāstra , 2.24
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Arthaśāstra , 2.24
+</blockquote>
 
-[2]:
 
-Vide, Encyclopaedia Britannica, volume 5, p.68
 
-[3]:
 
-yastu vṛkṣaṃ prakurute chāyāpuṣpaphalopagam//
+<div className="footnote-card"><strong>[2]</strong> Vide, Encyclopaedia Britannica, volume 5, p.68</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> yastu vṛkṣaṃ prakurute chāyāpuṣpaphalopagam//
 pathi devālaye cāpi pāpāttārayate pitṛn//
 kīrtiśca mānuṣe loke pratyamyeti śubhaṃ phalam// Bhaviṣya Purāṇa , 2(1).10.35
+</blockquote>
 
-[4]:
 
-Agni Purāṇa , 282
 
-[5]:
 
-vṛkṣāyurvedamākhyāsye plakṣaścottarataḥ śubhaḥ/
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Agni Purāṇa , 282
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> vṛkṣāyurvedamākhyāsye plakṣaścottarataḥ śubhaḥ/
 prāgvaṭo yāmyatastvāmra āpye’śvatthaḥ krameṇa tu// Ibid., 282.1
+</blockquote>
 
-[6]:
 
-Brahma Purāṇa , 2.9
 
-[7]:
 
-cf., uttareṇa śubhaḥ plakṣo vataḥ prākṣyadgṛhāditaḥ/
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Brahma Purāṇa , 2.9
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> cf., uttareṇa śubhaḥ plakṣo vataḥ prākṣyadgṛhāditaḥ/
 udumbaraśca yāmyena paścime’śvattha uttamaḥ// Agni Purāṇa , 247.24
+</blockquote>
 
-[8]:
 
-dakṣināṃ diśamutpannāḥ samīpe kaṇṭakadrumāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> dakṣināṃ diśamutpannāḥ samīpe kaṇṭakadrumāḥ/
 udyānaṃ gṛhavāse syāttilānvā’pyatha puṣpitān// Ibid., 282.2
+</blockquote>
 
-[9]:
 
-vāmabhāge tathodyānaṃ kuryādvāsaṃ gṛhe śubham/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> vāmabhāge tathodyānaṃ kuryādvāsaṃ gṛhe śubham/
 sāyaṃ prātastum dharmāptau śītakāle dināntare// Ibid., 247.25
+</blockquote>
 
-[10]:
 
-Ibid., 282.2
 
-[11]:
 
-gṛhṇīyādrupayedvṛkṣāndvijaṃ candraṃ prapūjya ca/
+<div className="footnote-card"><strong>[10]</strong> Ibid., 282.2</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> gṛhṇīyādrupayedvṛkṣāndvijaṃ candraṃ prapūjya ca/
 dhruvāṇi pañca vāyavyaṃ hastaṃ prājeśavaiṣṇavam// Ibid., 282.3
+</blockquote>
 
-[12]:
 
-varṣārātrau bhuvaḥ śoṣe sektavyā ropitā drumāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> varṣārātrau bhuvaḥ śoṣe sektavyā ropitā drumāḥ/
 uttamā viṃśatirhastā madhyamāḥ ṣoḍaśāntarāḥ// Ibid., 282.8
+</blockquote>
 
-[13]:
 
-sthānātsthānāntaraṃ kārjyaṃ vṛkṣāṇāṃ dvādaśāvaram/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> sthānātsthānāntaraṃ kārjyaṃ vṛkṣāṇāṃ dvādaśāvaram/
 viphalāḥ syurghanā vṛkṣāḥ śastreṇādau hi śodhanam// Ibid.,282.9
+</blockquote>
 
-[14]:
 
-viḍaṅgaghṛtapaṅkāktānsecayecchītavāriṇā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> viḍaṅgaghṛtapaṅkāktānsecayecchītavāriṇā/
 phalanāśo kulatthaiśca māṣairmudgairyavaistilaiḥ// Ibid., 282.10
+</blockquote>
 
-[15]:
 
-varṣākāle bhuvaḥ śoṣe sektavyā ropitadrumāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> varṣākāle bhuvaḥ śoṣe sektavyā ropitadrumāḥ/
 viḍaṅgaghṛtasaṃyuktānsecayecchītavāriṇā// Ibid.,247.26
+</blockquote>
 
-[16]:
 
-matsyāmbhasā tu sekena vṛddhirbhavati śākhināṃ
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> matsyāmbhasā tu sekena vṛddhirbhavati śākhināṃ
 āvikājaśakṛccūrṇaṃ yavacūrṇaṃ tilāni ca// Ibid., 247.28
 matsyāmbhasā tu sekena vṛddhirbhavati śākhinaḥ/ Ibid., 282.13a
+</blockquote>
 
-[17]:
 
-viḍaṅgataṇḍulopetaṃ mātsyaṃ māṃsaṃ hi dohadam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> viḍaṅgataṇḍulopetaṃ mātsyaṃ māṃsaṃ hi dohadam/
 sarveṣāmaviśeṣeṇa vṛkṣāṇāṃ rogamardanam// Ibid., 282.14
+</blockquote>
 
-[18]:
 
-phalanāśo kulatthaiśca māṣairmudgaistilairyavaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> phalanāśo kulatthaiśca māṣairmudgaistilairyavaiḥ/
 ghṛtaśītapayaḥ sekaḥ phalapuṣpāya sarvadā// Ibid., 247.27
 ghṛtaśītapayaḥ sekaḥ phalapuṣpāya sarvadā/
 āvikājaśakṛccūrṇaṃ yavacūrṇaṃ tilāni ca// Ibid., 282.11
+</blockquote>
 
-[19]:
 
-ariṣṭāśokapunnāgaśirīṣāḥ sapriyaṅgavaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> ariṣṭāśokapunnāgaśirīṣāḥ sapriyaṅgavaḥ/
 aśokaḥ kadalī jambustathā bakuladāḍimāḥ//
 sāyaṃ prātastu gharmānte śītakāle dināntare/
 varṣārātrau bhuvaḥ śoṣe sektavyā ropita dromāḥ// Ibid., 282.6-7
+</blockquote>
 
 ---
 
-## 63. Part 5 - The Cow in the Purāṇas—Introduction
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Cow in the Puranas—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 5 - The Cow in the Purāṇas—Introduction
 
 Part 5 - The Cow in the Purāṇas—Introduction
 
@@ -377,132 +418,201 @@ Cows are mentioned as the abodes of all beauty, they are also considered the hol
 
 At the śrāddha ceremony if fire is not available to offer into, then the offering may be placed in a cow-stall.[21] The Agni Purāṇa enjoins that the pools from where a cow would drink should be regarded as a holy place.[22] The ground on which cow stands upon was considered sacred. No sort of diseases could spoil that ground which was purified by the breath of a cow.[23] If a cow comes in front in the course of journey, it was deemed as a good scene.[24] The tail of a cow was waved round the face of a person for auspiciousness. The term gopucchabhramaṇam, indicates waving of cow’s tail over children to remove fear from their minds, which was an ancient Yādava practice.[25] Goḥ karīṣam refers to dried cow dung placed on the head of afflicted children to remove evils; which was also an ancient Yādava practice.[26] Yakṣī, one of the ten pīṭhas for images with three mekhalās, is the Vedī of prosperity.It gives one plenty of cows.[27]
 
-[1]:
 
-Ṛgveda Saṃhitā , 6.28; Atharvaveda Saṃhitā  , 4.21
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Ṛgveda Saṃhitā , 6.28; Atharvaveda Saṃhitā  , 4.21
+</blockquote>
 
-[2]:
 
-tadā lohitamāṃsāsthilohitakṣīrasaṃnibhā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> tadā lohitamāṃsāsthilohitakṣīrasaṃnibhā/
 lohitākṣastanavatī gāyatrī gauḥ prakīrtitā// Vāyu Purāṇa , 23.69
+</blockquote>
 
-[3]:
 
-gāścaivāthodarādbrahmā pārśvābhyāṃ ca vinirmame// Ibid., 9.43
 
-[4]:
 
-goviprapālanaṃ kāryaṃ rājñyā gośāntimāvade/ Agni Purāṇa , 292.1
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> gāścaivāthodarādbrahmā pārśvābhyāṃ ca vinirmame// Ibid., 9.43
+</blockquote>
 
-[5]:
 
-gāvaḥ pavitrā māṅgalyā goṣu lokāḥ pratiṣṭhitāḥ // Ibid.,292.1
 
-[6]:
 
-Matsya Purāṇa , 205
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> goviprapālanaṃ kāryaṃ rājñyā gośāntimāvade/ Agni Purāṇa , 292.1
+</blockquote>
 
-[7]:
 
-Ibid., 16.26,32; 55.25; 57.20; 205.2
 
-[8]:
 
-Ibid.,205.2-5
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> gāvaḥ pavitrā māṅgalyā goṣu lokāḥ pratiṣṭhitāḥ // Ibid.,292.1
+</blockquote>
 
-[9]:
 
-rocanā viṣarakṣoghnī grāsadaḥ svargago gavām/ Agni Purāṇa ,292.4
 
-[10]:
 
-gāvaḥ surabhayo nityaṃ gāvo guggulugandhikāḥ// Ibid.,292.14
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Matsya Purāṇa , 205
+</blockquote>
 
-[11]:
 
-gāvaḥ pratiṣṭhā bhūtānāṃ gāvaḥ svastyayanaṃ param/
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., 16.26,32; 55.25; 57.20; 205.2</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid.,205.2-5</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> rocanā viṣarakṣoghnī grāsadaḥ svargago gavām/ Agni Purāṇa ,292.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> gāvaḥ surabhayo nityaṃ gāvo guggulugandhikāḥ// Ibid.,292.14
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> gāvaḥ pratiṣṭhā bhūtānāṃ gāvaḥ svastyayanaṃ param/
 annameva paraṃ gāvo devānāṃ haviruttamam// Ibid., 292.15
+</blockquote>
 
-[12]:
 
-ṛṣīṇāmagnihotreṣu gāvo homeṣu yojitāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> ṛṣīṇāmagnihotreṣu gāvo homeṣu yojitāḥ/
 sarveṣāmeva bhūtānāṃ gāvaḥ śaraṇamuttamam// Ibid., 292.17
+</blockquote>
 
-[13]:
 
-mukhavarjaṃ ca gauḥ śuddhā/ Ibid., 156.10a
 
-[14]:
 
-Skanda Purāṇa ,6.144.133
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> mukhavarjaṃ ca gauḥ śuddhā/ Ibid., 156.10a
+</blockquote>
 
-[15]:
 
-pāvanaṃ sarvabhūtānāṃ kṣaranti ca vahanti ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Skanda Purāṇa ,6.144.133
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> pāvanaṃ sarvabhūtānāṃ kṣaranti ca vahanti ca/
 haviṣā mantrapūtena tarpayantyamarāndivi// Agni Purāṇa , 292.16
+</blockquote>
 
-[16]:
 
-śakṛnmūtraṃ paraṃ tāsāmalakṣmīnāśanaṃ param// Ibid., 292.2a
 
-[17]:
 
-Ibid., 292.18
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> śakṛnmūtraṃ paraṃ tāsāmalakṣmīnāśanaṃ param// Ibid., 292.2a
+</blockquote>
 
-[18]:
 
-namo gobhyaḥ śrīmatībhyaḥ saurabheyībhya eva ca/
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid., 292.18</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> namo gobhyaḥ śrīmatībhyaḥ saurabheyībhya eva ca/
 namo brahmāsutābhyaśca pavitrābhyo namo namaḥ// Ibid.,292.19
+</blockquote>
 
-[19]:
 
-brāhmaṇāścaiva gāvaśca kulamekaṃ dvidhā kṛtam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> brāhmaṇāścaiva gāvaśca kulamekaṃ dvidhā kṛtam/
 ekatra mantrāstiṣṭhanti havirekatra tiṣṭhati// Ibid.,292.20
+</blockquote>
 
-[20]:
 
-gāvo mamāgrataḥ santu pṛṣṭhataḥ pārśvatastathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> gāvo mamāgrataḥ santu pṛṣṭhataḥ pārśvatastathā/
 gāvo me hṛdaye santu gavāṃ madhye vasāmyaham//
 yā lakṣmīḥ sarvvabhūtānāṃ yā ca deve vyavasthitā/
 dhenurūpeṇa sā devī mama pāpaṃ vyapohatu// Garuḍa Purāṇa , 2.30.52-53
+</blockquote>
 
-[21]:
 
-Matsya Purāṇa , 15.32-33
 
-[22]:
 
-pibanti yatra tattīrthaṃ gaṅgādyā gāva eva hi// Ibid., 292.22
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Matsya Purāṇa , 15.32-33
+</blockquote>
 
-[23]:
 
-gavāṃ śvāsātpavitrā bhūḥ sparśanātkilviṣakṣayaḥ// Ibid., 292.6a
 
-[24]:
 
-vaiśyā vipro nṛpaḥ kanyā gaurdantī murajadhvajau/ kṣīrājyadadhiśaṅkhāmbucchatraṃ bherī phalaṃ surāḥ//
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> pibanti yatra tattīrthaṃ gaṅgādyā gāva eva hi// Ibid., 292.22
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> gavāṃ śvāsātpavitrā bhūḥ sparśanātkilviṣakṣayaḥ// Ibid., 292.6a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> vaiśyā vipro nṛpaḥ kanyā gaurdantī murajadhvajau/ kṣīrājyadadhiśaṅkhāmbucchatraṃ bherī phalaṃ surāḥ//
 taṇḍulā hema rūpyaṃ ca siddhaye’bhimukhā amī/ Agni Purāṇa ,294.38-39
+</blockquote>
 
-[25]:
 
-Viṣṇu Purāṇa , 5.5.12
 
-[26]:
 
-goḥ karīṣamupādāya nandagopo’pi mastake/
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Viṣṇu Purāṇa , 5.5.12
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> goḥ karīṣamupādāya nandagopo’pi mastake/
 kṛṣṇasya pradadau rakṣāṃ kurvaścaitadudīrayan// Ibid., 5.5.13
+</blockquote>
 
-[27]:
 
-gopradā ca bhavedyakṣī vedī sampatpradā bhavet/ Matsya Purāṇa ,262.17,6,8
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> gopradā ca bhavedyakṣī vedī sampatpradā bhavet/ Matsya Purāṇa ,262.17,6,8
+</blockquote>
 
 ---
 
-## 78. Part 19 - Horse in the Purāṇas—Introduction
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Horse in the Puranas—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 19 - Horse in the Purāṇas—Introduction
 
 Part 19 - Horse in the Purāṇas—Introduction
 
@@ -526,13 +636,7 @@ The Agni Purāṇa classifies the horses into four classes—
 
 The horses with [the following] signs are well known as pañcolūkhalikā [pañca-ulūkhalika].—
 
-gomūtra,
-
-kuṭilā,
-
-veṇī,
-
-padamaṇḍala and
+gomūtra,, kuṭilā,, veṇī,, padamaṇḍala and
 
 mālikā.
 
@@ -570,13 +674,7 @@ Again, six kinds of phases of a horse are referred to in the Agni Purāṇa. The
 
 saṃkṣipta,
 
-vikṣipta,
-
-kuñcita,
-
-yathācita,
-
-valgita and
+vikṣipta,, kuñcita,, yathācita,, valgita and
 
 avalgita[25]
 
@@ -613,184 +711,265 @@ The seasons winter, the spring, and the forepart of the cold months, are the mos
 hemantaḥ śiśiraścaiva vasantaścāścavāhane/ 
 grīṣme śaradi varṣāsu niṣiddhaṃ vāhanaṃ haye//[37]
 
-[1]:
 
-Vāyu Purāṇa , 9.44a
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vāyu Purāṇa , 9.44a
+</blockquote>
 
-[2]:
 
-Matsya Purāṇa , 8.7-8
 
-[3]:
 
-Ibid., 250.3
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Matsya Purāṇa , 8.7-8
+</blockquote>
 
-[4]:
 
-Matsya Purāṇa , 8.8; Vāyu Purāṇa ,66.74
 
-[5]:
 
-Vāyu Purāṇa ,66.74
+<div className="footnote-card"><strong>[3]</strong> Ibid., 250.3</div>
 
-[6]:
 
-bhadraḥ susādhyo vājī syānmando daṇḍaikamānasaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Matsya Purāṇa , 8.8; Vāyu Purāṇa ,66.74
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Vāyu Purāṇa ,66.74
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> bhadraḥ susādhyo vājī syānmando daṇḍaikamānasaḥ/
 mṛgajaṅgho mṛgo vājī saṅkīrṇastatsamanvayāt// Agni Purāṇa ,288.63
+</blockquote>
 
-[7]:
 
-śarkarāmadhulājādaḥ sugandho’śvaḥ śucirdvijaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> śarkarāmadhulājādaḥ sugandho’śvaḥ śucirdvijaḥ/
 tejasvī kṣatriyaścāśvo vinīto buddhimāṃśca yaḥ//
 śūdro’śuciścalo mando virūpo vimatiḥ khalaḥ// Ibid.,288.64-65a
+</blockquote>
 
-[8]:
 
-gomūtrāḥ kuṭilā veṇī padmamaṇḍalamālikāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> gomūtrāḥ kuṭilā veṇī padmamaṇḍalamālikāḥ/
 pañcolūkhalikāḥ kārye garvitāste’tikīrtitāḥ// Ibid.,288.60b-61a
+</blockquote>
 
-[9]:
 
-Ibid.,289.1-5
 
-[10]:
 
-randhroparandhrayordvau dvau dvau dvau mastakavakṣasoḥ/
+<div className="footnote-card"><strong>[9]</strong> Ibid.,289.1-5</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> randhroparandhrayordvau dvau dvau dvau mastakavakṣasoḥ/
 prayāṇe ca lalāṭe ca kaṇṭhāvarttāḥ śubhādaśa// Ibid., 289.6
+</blockquote>
 
-[11]:
 
-sṛkkaṇyāṃ ca lalāṭe ca karṇamūle nigālake/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> sṛkkaṇyāṃ ca lalāṭe ca karṇamūle nigālake/
 bāhumūle gale śreṣṭhā āvartāstvaśubhāḥ pare// Ibid.,289.7
+</blockquote>
 
-[12]:
 
-śukendragopacandrābhā ye ca vāyasasannibhāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> śukendragopacandrābhā ye ca vāyasasannibhāḥ/
 suvarṇavarṇāḥ snigdhāśca praśastāstu sadaiva hi// Ibid.,289.8
+</blockquote>
 
-[13]:
 
-dīrghagrīvākṣikūṭāśca hrasvakarṇāśca śobhanāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> dīrghagrīvākṣikūṭāśca hrasvakarṇāśca śobhanāḥ/
 rājñāṃ turaṅgamā yatra vijayaṃ varjayettataḥ// Ibid., 289.9
+</blockquote>
 
-[14]:
 
-pātitastu hayo dantī śubhado duḥkhado’anyathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> pātitastu hayo dantī śubhado duḥkhado’anyathā/
 śriyaḥ putrāstu gandharvā vājino ratnamuttamam// Ibid.,289.10
+</blockquote>
 
-[15]:
 
-aśvamedhe tu turagaḥ pavitratvāttu hūyate// Ibid.,289.11a
 
-[16]:
 
-Ibid., 288.7-12
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> aśvamedhe tu turagaḥ pavitratvāttu hūyate// Ibid.,289.11a
+</blockquote>
 
-[17]:
 
-Ibid., 288.8b
 
-[18]:
 
-Ibid., 288.9a
+<div className="footnote-card"><strong>[16]</strong> Ibid., 288.7-12</div>
 
-[19]:
 
-Ibid., 288.9b
 
-[20]:
 
-Ibid., 288.10a
+<div className="footnote-card"><strong>[17]</strong> Ibid., 288.8b</div>
 
-[21]:
 
-Ibid., 288.10b
 
-[22]:
 
-Ibid., 288.11a
+<div className="footnote-card"><strong>[18]</strong> Ibid., 288.9a</div>
 
-[23]:
 
-Ibid., 288.11b
 
-[24]:
 
-Ibid., 288.12a
+<div className="footnote-card"><strong>[19]</strong> Ibid., 288.9b</div>
 
-[25]:
 
-saṃkṣiptaṃ caiva vikṣiptaṃ kuñcitaṃ ca yathācitam/
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., 288.10a</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., 288.10b</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., 288.11a</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid., 288.11b</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Ibid., 288.12a</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> saṃkṣiptaṃ caiva vikṣiptaṃ kuñcitaṃ ca yathācitam/
 valgitāvalgitau caiva ṣoḍhā cetthamudāhṛtam// Ibid., 288.61b-62a
+</blockquote>
 
-[26]:
 
-viśvastaṃ hayamālokya gāḍhamāpīḍya cāsanam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> viśvastaṃ hayamālokya gāḍhamāpīḍya cāsanam/
 rodhayitvā mukhe pādaṃ grāhyato lokanaṃ hitam// Ibid., 288.39
+</blockquote>
 
-[27]:
 
-gāḍhamāpīḍya rāgābhyāṃ valgāmākṛṣya gṛhyate/
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> gāḍhamāpīḍya rāgābhyāṃ valgāmākṛṣya gṛhyate/
 tadbandhanādyugmapādaṃ tadvadvalganamucyate// Ibid.,288.40
+</blockquote>
 
-[28]:
 
-saṃyojya valgayā pādānvalgāmālocya vāñchitam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> saṃyojya valgayā pādānvalgāmālocya vāñchitam/
 bāhyapārṣṇiprayogāt tu yatra tat tāḍanaṃ matam// Ibid., 288.41
+</blockquote>
 
-[29]:
 
-pralayāviplave jñātvā krameṇānena buddhimān/
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> pralayāviplave jñātvā krameṇānena buddhimān/
 moṭanena caturthena vidhireṣa vidhīyate//
 nādhatte’dhaśca yaḥ pādaṃ yo’śvo laṅghanamaṇḍale/
 moṭanodvakkanābhyāṃ tu grāhayetpādamīdṛśam// Ibid., 288.42-43
+</blockquote>
 
-[30]:
 
-vaṇṭayitvāsane gāḍhaṃ mandamādāya yo vrajet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> vaṇṭayitvāsane gāḍhaṃ mandamādāya yo vrajet/
 grāhyate saṅgrahādyatra tatsaṅgrahaṇamucyate// Ibid., 288.44
+</blockquote>
 
-[31]:
 
-hatvā pārśvaprahāreṇa sthānastho vyagramānasam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> hatvā pārśvaprahāreṇa sthānastho vyagramānasam/
 valgāmākṛṣya pādena grāhyakaṇṭakapāyanam// Ibid., 288.45
+</blockquote>
 
-[32]:
 
-gatitraye priyaḥ pādamādatte naiva vāñchitaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> gatitraye priyaḥ pādamādatte naiva vāñchitaḥ/
 hatvā tu yatra daṇḍena gṛhyate hananaṃ hi tat// Ibid., 288.47
+</blockquote>
 
-[33]:
 
-khalīkṛtya catuṣkeṇa turaṅgo valgayā’nyayā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> khalīkṛtya catuṣkeṇa turaṅgo valgayā’nyayā/
 ucchvāsya grāhyate’nyatra tatsyāducchvāsanaṃ punaḥ// Ibid., 288.48
+</blockquote>
 
-[34]:
 
-svabhāvādbahirasyantaṃ tasyāṃ diśi tadānanam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> svabhāvādbahirasyantaṃ tasyāṃ diśi tadānanam/
 niyojya grāhayettattu mukhavyāvartanaṃ matam// Ibid., 288.49
+</blockquote>
 
-[35]:
 
-grāhayitvā tataḥ pādaṃ trividhāsu yathākramam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> grāhayitvā tataḥ pādaṃ trividhāsu yathākramam/
 sādhayetpañcadhārāsu kramaśo maṇḍalādiṣu// Ibid., 288.50
+</blockquote>
 
-[36]:
 
-aśvinī śravaṇaṃ hastamuttarātritayaṃ tathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> aśvinī śravaṇaṃ hastamuttarātritayaṃ tathā/
 nakṣatrāṇi praśastāni hayānāmādivāhane// Ibid., 288.2
+</blockquote>
 
-[37]:
 
-Ibid., 288.3
+
+
+<div className="footnote-card"><strong>[37]</strong> Ibid., 288.3</div>
 
 ---
 
-## 97. Part 9 - Animal Husbandry in Post-Purāṇic Sanskrit Works—Introduction
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Animal Husbandry in Post-Puranic Sanskrit Works—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 9 - Animal Husbandry in Post-Purāṇic Sanskrit Works—Introduction
 
 Part 9 - Animal Husbandry in Post-Purāṇic Sanskrit Works—Introduction
 
@@ -798,40 +977,48 @@ Part 9 - Animal Husbandry in Post-Purāṇic Sanskrit Works—Introduction
 
 According to Kauṭilya, agriculture, cattle-breeding was the occupation for all classes of people.[1] As it gives grains and cattle, forests produce and free labour, so it is most useful.[2] Animals were used for various purposes. It is noticed that different animal products like pig’s fat, cow-dung, cow-bones etc. were required for fertilizing seeds or other parts of plants as pre-plantation treatment. Broad use of animal bones was required for this purpose.[3] Requirement of animal power (bullock) for raising water from well, for irrigation is also noticed.[4] The Bṛhatsaṃhitā and the Vṛkṣāyurveda mentions extensive use of various products of different species of animals in nourishment of plants. The Bṛhatsaṃhitā suggests that two āḍhakas (128 palas) of the powder of the dung of goats and sheep, one āḍhaka of sesamum, a prastha (16 palas) of wheat particles, a tulā (100 palas) of beef and a droṇa (256 palas) of water kept for seven nights should be sprinkled always for increasing the yield of flowers and fruits of trees, creepers and shrubs etc.[5] The Vṛkṣāyurveda mentions that the seeds of good quality (sādhuvīja) of kūṣmāṇḍa, vārttāka, paṭola and other vegetable fruits should be soaked in majjā of female beer (kroḍī) and after that should be sown in land. For irrigation, the water mixed with same animal majjā as stated above should be used. This produces fruits without seeds.[6]
 
-[1]:
 
-caturvarṇāśramo loko rājñā daṇḍena pālitaḥ/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> caturvarṇāśramo loko rājñā daṇḍena pālitaḥ/
 svadharmakarmābhirato vartate sveṣu veśmasu// Arthaśāstra , 1.4.6
+</blockquote>
 
-[2]:
 
-dhānyapāśuhiraṇyakupyaviṣṭipradānādaupakārikī/ Ibid., 1.4.1
 
-[3]:
 
-Ibid., 2.24.20
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> dhānyapāśuhiraṇyakupyaviṣṭipradānādaupakārikī/ Ibid., 1.4.1
+</blockquote>
 
-[4]:
 
-Ibid., 2.24.15
 
-[5]:
 
-Bṛhatsaṃhitā , 55.17-18
+<div className="footnote-card"><strong>[3]</strong> Ibid., 2.24.20</div>
 
-[6]:
 
-kroḍīvaśābhāvitasādhuvī-jājjñātāḥ pravṛddhāśca vacābhiṣekaiḥ/
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 2.24.15</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Bṛhatsaṃhitā , 55.17-18
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> kroḍīvaśābhāvitasādhuvī-jājjñātāḥ pravṛddhāśca vacābhiṣekaiḥ/
 phalantyabījāni phalāni nityaṃ
 kūṣmaṇḍa-vārttāka-paṭolakādyāḥ// Vṛkṣāyurveda , 19.234
+</blockquote>
 
 ---
 
-## 100. Part 14 - Agriculture in the Modern Age—Introduction
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Agriculture in the Modern Age—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 14 - Agriculture in the Modern Age—Introduction
 
 Part 14 - Agriculture in the Modern Age—Introduction
 
@@ -839,21 +1026,17 @@ Part 14 - Agriculture in the Modern Age—Introduction
 
 The Consultative Group on International Agricultural Research (CGIAR) states that sustainable agriculture is the successful management of resources to satisfy the quality of environment and conserving natural resources.[1] There is no doubt that the ancient treatises like the Vedas as well as the Purāṇas are the origin of agriculture and animal husbandry. The modern system of agriculture and animal husbandry has definitely inherited the process of the same from the Vedas and the Purāṇas. Obviously there may be some changes in the traditional agricultural system; some processes may be excluded from the indigenous system of agriculture and some different processes may be added to the modern agricultural system. But we cannot disregard our traditional knowledge system regarding agriculture and animal husbandry which is still prevailing in most of the parts of our country. The indigenous system of agriculture and animal husbandry has been achieving value day by day. The modern agriculturalists have improved these traditional methods gradually by applying science and technologies in the field of agriculture as well as in animal husbandry. So difference is observed in the system of agriculture of modern periods with that of the ancient texts. We have to give a look into the modern system of agriculture and animal husbandry to find out its relevance with the Purāṇic system. In the direction of modern agricultural research the establishment of Imperial Council of Agricultural Research (ICAR) in 1929, was the most significant step.[2]
 
-[1]:
 
-Gopal, Lallanji & Srivastava, V.C., History of Agriculture in India (up to c. 1200 AD), p. 755
+<div className="footnote-card"><strong>[1]</strong> Gopal, Lallanji & Srivastava, V.C., History of Agriculture in India (up to c. 1200 AD), p. 755</div>
 
-[2]:
 
-De, S.K., et al (ed.), The Cultural Heritage of India, volume 6, p. 405
+
+
+<div className="footnote-card"><strong>[2]</strong> De, S.K., et al (ed.), The Cultural Heritage of India, volume 6, p. 405</div>
 
 ---
 
-## 113. Part 25 - Animal Husbandry in the Modern Age—Introduction
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Animal Husbandry in the Modern Age—Introduction’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 25 - Animal Husbandry in the Modern Age—Introduction
 
 Part 25 - Animal Husbandry in the Modern Age—Introduction
 
@@ -869,17 +1052,18 @@ The herd books were supposed to have—
 
 The registers were to maintain detailed information on production records of each animal, prizes won in competitions etc.[3]
 
-[1]:
 
-Singh, Baljit,Whither Agriculture in India, p.150
+<div className="footnote-card"><strong>[1]</strong> Singh, Baljit,Whither Agriculture in India, p.150</div>
 
-[2]:
 
-Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 287
 
-[3]:
 
-Lokeshwar, R.R., Handbook of Animal Husbandry, p. 13
+<div className="footnote-card"><strong>[2]</strong> Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 287</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Lokeshwar, R.R., Handbook of Animal Husbandry, p. 13</div>
 
 ---
 

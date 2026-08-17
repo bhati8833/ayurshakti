@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on General Discourse within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. Chapter 2
+## Chapter 2
 
 Charaka Samhita and Sushruta Samhita
 
@@ -19,11 +19,9 @@ This page relates ‘Chapter 2’ of the study on the Charaka Samhita and the Su
 
 Chapter 2
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 14. Multiplicity of Textual Strata
+## Multiplicity of Textual Strata
 
 Charaka Samhita and Sushruta Samhita
 
@@ -60,181 +58,308 @@ The nature of management of children’s diseases is seems to be at variance wit
 
 The presence of several textual layers makes the task of determination of time of composition of the treatises rather complex. The term Saṃhitā itself indicates that the treatises are compilations. It is necessary to take up a critical study of the extant manuscripts as has been accomplished by V.S. Sukhthankar for the Mahābhārata which unfortunately we have not been able to take up.
 
-[1]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.51.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Cikitsāsthāna 7.51.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.101-106.
 
-[3]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.107.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Cikitsāsthāna 25.101-106.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.289-290; Caraka Saṃhitā Cikitsāsthāna 9.77.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.32.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Cikitsāsthāna 25.107.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.77.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.77.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Cikitsāsthāna 3.289-290; Caraka Saṃhitā Cikitsāsthāna 9.77.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.79-80.
 
-[9]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.89-90.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 5.32.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.99-100.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.77,87-88.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 9.77.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.61.
 
-[13]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.49.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 9.77.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Cikitsāsthāna 29.35-36.
 
-[15]:
 
-Caraka Saṃhitā Cikitsāsthāna 28.101.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Cikitsāsthāna 12.79-80.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Cikitsāsthāna 29.35-39.
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.53.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Cikitsāsthāna 12.89-90.
+</blockquote>
 
-[18]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.61.
 
-[19]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.54.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Cikitsāsthāna 12.99-100.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.33.
 
-[21]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.101.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 13.77,87-88.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.101-102.
 
-[23]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.96-97.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 14.61.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.81-85. Compare with Suśruta Saṃhitā Cikitsāsthāna 8.17-18.
 
-[25]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.49.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Cikitsāsthāna 25.49.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.68.
 
-[27]:
 
-Caraka Saṃhitā Sūtrasthāna 10.15.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Cikitsāsthāna 29.35-36.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Sūtrasthāna 10.16.
 
-[29]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.54.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Cikitsāsthāna 28.101.
+</blockquote>
 
-[30]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.40, 50-52.
 
-[31]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.57.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Cikitsāsthāna 29.35-39.
+</blockquote>
 
-[32]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.55-61.
 
-[33]:
 
-Caraka Saṃhitā Sūtrasthāna 11.55.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 7.53.
+</blockquote>
 
-[34]:
 
-Cakarapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 12.96-97.
 
-[35]:
 
-Caraka Saṃhitā Sūtrasthāna 1.57.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Cikitsāsthāna 14.61.
+</blockquote>
 
-[36]:
 
-Caraka Saṃhitā Sūtrasthāna 24.11-16.
 
-[37]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.129-130.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Cikitsāsthāna 7.54.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.9.
 
-[39]:
 
-Caraka Saṃhitā Sūtrasthāna 24.1-24.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Cikitsāsthāna 14.33.
+</blockquote>
 
-[40]:
 
-P.V. Sharma (Ed. and trans.), Suśruta-Saṃhitā, Vol. I, p. iv.
 
-[41]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Cikitsāsthāna 12.101.
+</blockquote>
 
-[42]:
 
-Suśruta Saṃhitā Uttaratantra 20-23.
 
-[43]:
 
-Suśruta Saṃhitā Uttaratantra 27-36.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Cikitsāsthāna 25.101-102.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Cikitsāsthāna 12.96-97.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Cikitsāsthāna 12.81-85. Compare with Suśruta Saṃhitā Cikitsāsthāna 8.17-18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Cikitsāsthāna 25.49.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Cikitsāsthāna 26.68.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Sūtrasthāna 10.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Sūtrasthāna 10.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Cikitsāsthāna 25.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Caraka Saṃhitā Cikitsāsthāna 7.40, 50-52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Caraka Saṃhitā Cikitsāsthāna 7.57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Caraka Saṃhitā Cikitsāsthāna 25.55-61.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Sūtrasthāna 11.55.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Cakarapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 12.96-97.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Sūtrasthāna 1.57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Sūtrasthāna 24.11-16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Cikitsāsthāna 26.129-130.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Cikitsāsthāna 7.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Caraka Saṃhitā Sūtrasthāna 24.1-24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> P.V. Sharma (Ed. and trans.), Suśruta-Saṃhitā, Vol. I, p. iv.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Suśruta Saṃhitā Sūtrasthāna 16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Suśruta Saṃhitā Uttaratantra 20-23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Suśruta Saṃhitā Uttaratantra 27-36.
+</blockquote>
 
 ---
 
-## 16. The physician in the Vedas
+## The physician in the Vedas
 
 Charaka Samhita and Sushruta Samhita
 
@@ -259,65 +384,75 @@ In his commentary to the Ṛgveda, Sāyaṇa considers vipraḥ to be a wise Br�
 
 The existence of medical practitioners and a fairly elaborate materia medica in the Atharvaveda (II.9.3) may be inferred from the reference to hundreds of physicians (śataṃ hy asya bhiṣajaḥ) and thousands of plants (sahasram uta vīrudhaḥ).[9] Yet treatment of disease in this phase is not entirely drug reliant but based principally on amulets and incantations. According to the Atharvaveda, what can be achieved by the plant drugs, can be effected by binding an amulet with the particular charm of this verse.[10] The pronouncement that the Atharvan who binds the amulet is the best of all good doctors,[11] leads us to understand that charms and sorcery were an essential element of the physician’s repertoire. Kutumbiah describes the Atharvan as the priest-physician.[12] He had access to the king as an adviser, and combined the roles of the physician, priest, sorcerer and adviser to the king.[13] It is probable that the hymns of the Atharvaveda indicate two kinds of healers: the Atharvan who relied on charms and the lay healer who prescribed medicinal drugs.[14]
 
-[1]:
 
-Taken from V.W Karambelkar, The Atharva-Veda and the Āyur-Veda, Varanasi, 2003 (second edition), p.3.
+<div className="footnote-card"><strong>[1]</strong> Taken from V.W Karambelkar, The Atharva-Veda and the Āyur-Veda, Varanasi, 2003 (second edition), p.3.</div>
 
-[2]:
 
-R.T.H.Griffith (Trans.), The Hymns of the Rigveda, Vols. I-II, Benaras, 1889-1890, (hereafter Ṛgveda) X.97.6.
 
-[3]:
 
-K.G.Zysk, Medicine in the Veda: Religious Healing in the Veda with translations and annotations of medical hymns from the Ṛgveda and the Atharvaveda and renderings from the corresponding ritual texts, Delhi, 1998 (second edition), p.241.
+<div className="footnote-card"><strong>[2]</strong> R.T.H.Griffith (Trans.), The Hymns of the Rigveda, Vols. I-II, Benaras, 1889-1890, (hereafter Ṛgveda) X.97.6.</div>
 
-[4]:
 
-K.G.Zysk, Medicine in the Veda, p.241.
 
-[5]:
 
-M. Monier-Williams, A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with special reference to Cognate Indo-European Languages; New Edition Greatly Enlarged and Improved by E. Leumann and C. Cappeller, New Delhi, 2008 (5th Reprint), p.972. Hereafter Monier-Williams
+<div className="footnote-card"><strong>[3]</strong> K.G.Zysk, Medicine in the Veda: Religious Healing in the Veda with translations and annotations of medical hymns from the Ṛgveda and the Atharvaveda and renderings from the corresponding ritual texts, Delhi, 1998 (second edition), p.241.</div>
 
-[6]:
 
-K.G.Zysk, Medicine in the Veda, p.241.
 
-[7]:
 
-Monier-Williams, p.972.
+<div className="footnote-card"><strong>[4]</strong> K.G.Zysk, Medicine in the Veda, p.241.</div>
 
-[8]:
 
-K.G.Zysk, Medicine in the Veda, p.241.
 
-[9]:
 
-V.W Karambelkar, The Atharva-Veda and the Āyur-Veda, p.3.
+<div className="footnote-card"><strong>[5]</strong> M. Monier-Williams, A Sanskrit-English Dictionary: Etymologically and Philologically Arranged with special reference to Cognate Indo-European Languages; New Edition Greatly Enlarged and Improved by E. Leumann and C. Cappeller, New Delhi, 2008 (5th Reprint), p.972. Hereafter Monier-Williams</div>
 
-[10]:
 
-S.N. Dasgupta, A History of Indian Philosophy, Vol. II, Delhii, 2000 (reprint), p. 293.
 
-[11]:
 
-S.N.Dasgupta, A History of Indian Philosophy, Vol. II, p.293.
+<div className="footnote-card"><strong>[6]</strong> K.G.Zysk, Medicine in the Veda, p.241.</div>
 
-[12]:
 
-P. Kutumbiah, Ancient Indian Medicine, Hyderabad, 1999 (Reissue), p.xiv.
 
-[13]:
 
-P. Kutumbiah, Ancient Indian Medicine, p. xiv.
+<div className="footnote-card"><strong>[7]</strong> Monier-Williams, p.972.</div>
 
-[14]:
 
-S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.294; P. Kutumbiah, p. xv.
+
+
+<div className="footnote-card"><strong>[8]</strong> K.G.Zysk, Medicine in the Veda, p.241.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> V.W Karambelkar, The Atharva-Veda and the Āyur-Veda, p.3.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> S.N. Dasgupta, A History of Indian Philosophy, Vol. II, Delhii, 2000 (reprint), p. 293.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> S.N.Dasgupta, A History of Indian Philosophy, Vol. II, p.293.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> P. Kutumbiah, Ancient Indian Medicine, Hyderabad, 1999 (Reissue), p.xiv.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> P. Kutumbiah, Ancient Indian Medicine, p. xiv.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.294; P. Kutumbiah, p. xv.</div>
 
 ---
-
-
 
 ---
 
@@ -326,10 +461,6 @@ S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.294; P. Kutumbiah, p. 
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">The Royal Physician: Charaka Samhita And Sushruta Samhita Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

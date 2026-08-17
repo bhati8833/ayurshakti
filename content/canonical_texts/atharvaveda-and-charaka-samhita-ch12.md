@@ -11,23 +11,27 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Kaphaja (heart disease) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 63. Treatment of Kaphaja (heart disease)
+## Treatment of Kaphaja (heart disease)
 
 Treatment of Kaphaja (heart disease)
 
 In the Atharvaveda, Kaphaja heart disease is called Balāsa. Balāsa means a disease that destroys strength or physical strength. Āñjana maṇi, Jaṅgiḍa maṇi and Varaṇa maṇi for the treatment of balāsa, Varaṇa maṇi destroys tuberculosis. The Ṛgveda and the Atharvaveda mention several medicines to cure heart disease. They are—Arjuna, Kṣetriyanāśanī, Cīpudru, Jambīra, Balāsanāśanī, Balāsa bheṣaja, Vṛṣa, Śigru, Soma, Srekaparṇa, Haridru and Hāridrava etc. Even the treatment of Balāsa is inconsequential[1]. Accordingly, A reed is placed into the water of the river and then the patient is washed with the water of the river using a branch of a holly tree so that the water flows down upon the reed. The hymn VI.14 is recited throughout[2].
 
-[1]:
 
-asthisraṃsamiti śakalenāpsviṭe sampātavatāvasiñcati || (Kauśika Sūtra-29.30); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 70.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> asthisraṃsamiti śakalenāpsviṭe sampātavatāvasiñcati || (Kauśika Sūtra-29.30); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 70.
+</blockquote>
 
-[2]:
 
-palāśodumbarajambukāmpīlasragvaṅghaśirīṣasrattayavaraṇabilvajaṅgiḍakuṭakagarhyagalāvalavetasaśimbalasi-punasyandanāraṇikāśmayoktatunyupūtadāra vaḥ śāntāḥ || (Kauśika Sūtra-8.15); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 19.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> palāśodumbarajambukāmpīlasragvaṅghaśirīṣasrattayavaraṇabilvajaṅgiḍakuṭakagarhyagalāvalavetasaśimbalasi-punasyandanāraṇikāśmayoktatunyupūtadāra vaḥ śāntāḥ || (Kauśika Sūtra-8.15); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 19.
+</blockquote>
 
 ---
 
-## 64. Treatment of Kāsa (cough)
+## Treatment of Kāsa (cough)
 
 Treatment of Kāsa (cough)
 
@@ -35,9 +39,9 @@ The synonyms for Cough in Atharvaveda are Kāsa, Kāsā, and Kāsikā, etc.[1] I
 
 The treatment of Kāsa, that Śleṣmapatana and Ariṣṭa describe: the patient takes a few steps away from his house, having fed himself with a churned drink and porridge while reciting VI.105 and 107[5].
 
-[1]:
 
-muñca śīrṣaktyā uta kāsa enaṃ paruṣparurāviveśā yo asya |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> muñca śīrṣaktyā uta kāsa enaṃ paruṣparurāviveśā yo asya |
 yo abhrajā vātajā yaśca śuṣmo vanaspatīntsacatāṃ parvatāṃśca ||
 yathā mano manasketaiḥ parāpatatyaśumat |
 evā tvaṃ kāse pra pata manaso'nu pravāyyam ||
@@ -45,28 +49,41 @@ yathā bāṇaḥ susaṃśitaḥ parāpatatyaśumat |
 evā tvaṃ kāse pra pata pṛthivyā anu saṃvatam ||
 yathā sūryasya raśmayaḥ parāpatantyāśumat |
 evā tvaṃ kāse pra pata samudrasyānu vikṣaram || (AV. –I/12/3; VI/105/1-3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 114; 490.
+</blockquote>
 
-[2]:
 
-K. D. Dvivedi & B. Dvivedi, Vedoṇ Meṇ Āyurveda (Medical Science in the Vedas), Jyanapur, Visvabharati Anusandhan Parishad, 2018, p. 66.
 
-[3]:
 
-muñca śīrṣaktyā uta kāsa enaṃ paruṣparurāviveśā yo asya |
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> K. D. Dvivedi & B. Dvivedi, Vedoṇ Meṇ Āyurveda (Medical Science in the Vedas), Jyanapur, Visvabharati Anusandhan Parishad, 2018, p. 66.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> muñca śīrṣaktyā uta kāsa enaṃ paruṣparurāviveśā yo asya |
 yo abhrajā vātajā yaśca śuṣmo vanaspatīntsacatāṃ parvatāṃśca || (AV. –I/12/3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 114.
+</blockquote>
 
-[4]:
 
-aviḥ kṛṣṇā bhāgadheyaṃ paśūnāṃ sīsaṃ ktavyādapi candraṃ ta āhuḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> aviḥ kṛṣṇā bhāgadheyaṃ paśūnāṃ sīsaṃ ktavyādapi candraṃ ta āhuḥ |
 māṣāḥ piṣṭā bhāgadheyaṃ te havyamaraṇyānyā gahvaraṃ sacasva || (AV. –XII/2/53); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–6, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 64.
+</blockquote>
 
-[5]:
 
-yathā mano'va diva ityariṣṭena || brahma jajñānamiti sutikāriṣṭakaupraṇadayati || (Kauśika Sūtra-31.27;28.15); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 68, 75.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> yathā mano'va diva ityariṣṭena || brahma jajñānamiti sutikāriṣṭakaupraṇadayati || (Kauśika Sūtra-31.27;28.15); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 68, 75.
+</blockquote>
 
 ---
 
-## 65. Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)
+## Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)
 
 Treatment of Skin diseases (Carmaroga) and Leprosy (Kuṣṭha)
 
@@ -82,86 +99,117 @@ In Atharvaveda, the reason for Kilāsa and Palita has been called Dūṣiḥ[3].
 
 The Atharvaveda speaks of the application of Kuṣṭha medicine to alleviate colic or pain or Śūla. It is accompanied by Soma medicine in the Himālayas. It is said to cure headaches, eye and body aches[6]. Kūṭha’s ointment is beneficial for wounds, sores etc. It is also used in chronic skin diseases. The Atharvaveda mentions Pītudāru, Pūtudru or Devadāru. Devadāru decoction is used for diseases like oedema, stone, gonorrhoea, syphilis etc. Its oil is chemistry. Devadāru is used for pain, wounds and skin diseases. Rheumatism, neuralgia or colic is treated by the Kauśika Sūtra in connection with VI.90[7]. An amulet of the spear is attached to the patient while the hymn is being recited by him. The Atharvaveda mentions Pṛṣṭyāmaya or back pain disease[8]. Jaṅgiḍa maṇi, Puṣkara root and orris root are mentioned to cure this disease. The Atharvaveda mentions diseases associated with the spleen and an enlarged disease of the spleen or liver[9]. Pippalī, kṣiptabheṣajī is mentioned to cure this disease. Also, Pippalī and Bibhītaka medicines have been used to cure this disease.
 
-[1]:
 
-agneḥ śarīramasi pārayiṣṇu rakṣohāsi sapatnahā |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> agneḥ śarīramasi pārayiṣṇu rakṣohāsi sapatnahā |
 atho amīvacātanaḥ pūtudrurnāma bheṣajam || (AV. –VIII/2/28); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–2, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 148.
+</blockquote>
 
-[2]:
 
-niḥ sālāṃ dhṛṣṇuṃ dhiṣaṇamekavādyāṃ jighatsvam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> niḥ sālāṃ dhṛṣṇuṃ dhiṣaṇamekavādyāṃ jighatsvam |
 sarvāścaṇḍasya naptyo nāśayāmaḥ sadānvāḥ || (AV. –II/14/1); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 97.
+</blockquote>
 
-[3]:
 
-asthijasya kilāsasya tanūjasya ca yat tvaci |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> asthijasya kilāsasya tanūjasya ca yat tvaci |
 dū ṣyā kṛtasya brahmaṇā lakṣma śvetamanīnaśam || (AV. –I/23/4); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 53.
+</blockquote>
 
-[4]:
 
-naktaṃ jātā suparṇo jāta iti mantroktaṃ śakṛdā lohitaṃ praghṛṣyālimpati || palitānyācchidya || mārutānyapihitaḥ || (Kauśika Sūtra-26.22-24); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 60-61.
 
-[5]:
 
-samutpatantu pra nabhasveti varṣakāmo dvādaśarātramanuśuṣyet || sarvavrata upaśrāmyati || maruto yajate yathā varūṇaṃ juhoti || oṣadhīḥ sampātavatīḥ praveśyābhinyubjati || viprāvayeta || śvaśiraeṭakaśiraḥkeśajaradupānaho vaṃśāgre prabadhya yodhayati || udapātreṇa sampātavatā samprokṣyāmapātraṃ tripāde'śmānamavadhāyāpsu nidadhāti || (Kauśika Sūtra-41.1-7); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 98-99.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> naktaṃ jātā suparṇo jāta iti mantroktaṃ śakṛdā lohitaṃ praghṛṣyālimpati || palitānyācchidya || mārutānyapihitaḥ || (Kauśika Sūtra-26.22-24); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 60-61.
+</blockquote>
 
-[6]:
 
-śīrṣāmayamupahatyamakṣyostanvorapaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> samutpatantu pra nabhasveti varṣakāmo dvādaśarātramanuśuṣyet || sarvavrata upaśrāmyati || maruto yajate yathā varūṇaṃ juhoti || oṣadhīḥ sampātavatīḥ praveśyābhinyubjati || viprāvayeta || śvaśiraeṭakaśiraḥkeśajaradupānaho vaṃśāgre prabadhya yodhayati || udapātreṇa sampātavatā samprokṣyāmapātraṃ tripāde'śmānamavadhāyāpsu nidadhāti || (Kauśika Sūtra-41.1-7); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 98-99.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> śīrṣāmayamupahatyamakṣyostanvorapaḥ |
 kuṣṭhastat sarvaṃ niṣkarad daivaṃ samaha vṛṣṇyam || (AV. –V/4/10); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 218.
+</blockquote>
 
-[7]:
 
-yāṃ yāṃ te rudra iti śūline śūlam || (Kauśika Sūtra-31.7); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 73.
 
-[8]:
 
-aruṇo mā sakṛd vṛkaḥ pathā yantaṃ dadarśa hi |
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> yāṃ yāṃ te rudra iti śūline śūlam || (Kauśika Sūtra-31.7); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 73.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> aruṇo mā sakṛd vṛkaḥ pathā yantaṃ dadarśa hi |
 ujjihīte nicāyyā taṣṭeva pṛṣṭyamayī vittaṃ me asya rodasī || (ṚV.  -I/105/18); Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 224.
+</blockquote>
 
-[9]:
 
-hṛdayāt te pari klomno halīkṣṇāt pārśvābhyām |
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> hṛdayāt te pari klomno halīkṣṇāt pārśvābhyām |
 yakṣmaṃ matasnābhyāṃ plīhno yaknaste vi vṛhāmasi || (AV. –XX/96/19); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–8, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 470.
+</blockquote>
 
 ---
 
-## 66. Treatment of Śīrṣakti (headache)
+## Treatment of Śīrṣakti (headache)
 
 Treatment of Śīrṣakti (headache)
 
 In the Atharvaveda, the synonymous words for headaches are—Śirṣakti, Śīrṣāmaya and Śīrṣaṇya[1]. The best medicine for headaches is when the sun rises, the rays of the sun should be received in the chest and the sunshine be enjoyed. As a result, all the diseases of the head are destroyed. Another mantra speaks of three ways to get rid of headaches, coughs, etc., such as Sunrays treatment, medical treatment, and living in the mountains[2]. Also, the application of Kuṣṭha medicine cures all headaches which have been described in the Atharvaveda. In the Kauśika Sūtra, the treatment of Śirṣakti is described: The priest while reciting I.12 gives the patient the fat of some animal to drink with ghee and sesame oil. He covers the head of the patient with a turban made of Muñja. The Patient goes with fried grain in a sieve and scatters it with his right hand. The priest proceeds with the patient in front of him with the sieve and the turban in his left hand and a bow-string and an axe in his right hand. They go to the spot where the patient was seized by the disease and put down the sieve and the turban and the bowstring and return home. At home, the patient puts ghee in his nose and the priest supporting the head of the patient with a staff of bamboo having five knots, mutters the hymn[3].
 
-[1]:
 
-śīrṣāktiśīrṣāmayaṃ karṇaśūlaṃ vilohitam |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> śīrṣāktiśīrṣāmayaṃ karṇaśūlaṃ vilohitam |
 sarvaṃ śīrṣaṇyaṃ te rogaṃ bahirnirmantrayāmahe || (AV. –IX/8/1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 519.
+</blockquote>
 
-[2]:
 
-muṃca śīrṣaktayā uta kāsa enaṃ paruṣparurāviveśā yo asya |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> muṃca śīrṣaktayā uta kāsa enaṃ paruṣparurāviveśā yo asya |
 yo abhrajā vātajā yaśca śuṣmo vanaspatīntsacatāṃ parvatāṃśca || (AV. –I/12/3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 114.
+</blockquote>
 
-[3]:
 
-jarāyuja iti medo madhu sarpistailaṃ pāyayati || mauñjapraśnena śirasyapihitaḥ savyena titauni pūlyāni dhārayamāṇo dakṣiṇenāvakiranvrajati || savyena titaupraśnau dakṣiṇena jyāṃ drughnīm || praiṣakṛdagrataḥ || yatrainaṃ vyādhigṛhlāti tatra titaupraśnau nidadhāti || jyāṃ ca || āvrajanam || ghṛtaṃ nastaḥ || pañcaparvaṇā lalāṭaṃ saṃstabhya japatyamūryā iti || (Kauśika Sūtra -26.1-9); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 58-59.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> jarāyuja iti medo madhu sarpistailaṃ pāyayati || mauñjapraśnena śirasyapihitaḥ savyena titauni pūlyāni dhārayamāṇo dakṣiṇenāvakiranvrajati || savyena titaupraśnau dakṣiṇena jyāṃ drughnīm || praiṣakṛdagrataḥ || yatrainaṃ vyādhigṛhlāti tatra titaupraśnau nidadhāti || jyāṃ ca || āvrajanam || ghṛtaṃ nastaḥ || pañcaparvaṇā lalāṭaṃ saṃstabhya japatyamūryā iti || (Kauśika Sūtra -26.1-9); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 58-59.
+</blockquote>
 
 ---
 
-## 67. Treatment of Dental disease and Toothache
+## Treatment of Dental disease and Toothache
 
 Treatment of Dental disease and Toothache
 
 The Atharvaveda mentions the treatment of dental disease and toothache. The Atharvaveda mentions the use of sesame seeds in the treatment of dental diseases[1]. There are three types of sesame -white, black, and red. Black sesame is the best, sesame oil is good for teeth. The Atharvaveda also mentions Nyagrodha and banyan trees for dental treatment. In the Maitrāyaṇī Saṃhitā and Yajurveda, the leaves of Indajau, Kuṭaja, Kuṭajavīja and Black Kuṭajavīja are described as medicines for dental diseases.
 
-[1]:
 
-babhrorarjunakāṇḍasya yavasya te palālyā tilasya nilapiṃjayā |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> babhrorarjunakāṇḍasya yavasya te palālyā tilasya nilapiṃjayā |
 vīrut kṣetriyanāśanyapa kṣetriyamucchatu || (AV. –II/8/3); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 487.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -170,10 +218,6 @@ vīrut kṣetriyanāśanyapa kṣetriyamucchatu || (AV. –II/8/3); Atharva-Veda
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Eye diseases: Atharvaveda And Charaka Samhita Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on e - The group of Fruits (Phala) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. Chapter 27e - The group of Fruits (Phala)
+## Chapter 27e - The group of Fruits (Phala)
 
 Charaka Samhita (English translation)
 
@@ -155,7 +155,7 @@ The Qualities of Marking nut
 
 ---
 
-## 31. Chapter 27f - The group of Greens (Harita)
+## Chapter 27f - The group of Greens (Harita)
 
 Charaka Samhita (English translation)
 
@@ -213,7 +213,7 @@ The Qualities of Garlic
 
 ---
 
-## 32. Chapter 27g - The group of Wines (Madya)
+## Chapter 27g - The group of Wines (Madya)
 
 Charaka Samhita (English translation)
 
@@ -291,7 +291,7 @@ Thus, the seventh section concerning wines (Madya—madyavarga) has been describ
 
 ---
 
-## 33. Chapter 27h - The section on Waters (Jala)
+## Chapter 27h - The section on Waters (Jala)
 
 Charaka Samhita (English translation)
 
@@ -359,7 +359,7 @@ Unwholesome waters
 
 ---
 
-## 34. Chapter 27i - The section on Cow’s milk (Gorasa)
+## Chapter 27i - The section on Cow’s milk (Gorasa)
 
 Charaka Samhita (English translation)
 
@@ -433,7 +433,7 @@ The qualities of Curds-Cheese
 
 ---
 
-## 35. Chapter 27j - The class of Sugarcane (Ikshu)
+## Chapter 27j - The class of Sugarcane (Ikshu)
 
 Charaka Samhita (English translation)
 
@@ -487,8 +487,6 @@ Honey as a Vehicle
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -496,10 +494,6 @@ Honey as a Vehicle
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">k - The group of Cooked foods (Kritanna): Charaka Samhita Complete Translation Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

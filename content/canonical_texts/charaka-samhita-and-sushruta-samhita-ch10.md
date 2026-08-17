@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Student of Āyurveda (3b): Methodology of Teaching and Study within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. The Student of Āyurveda (3b): Methodology of Teaching and Study
+## The Student of Āyurveda (3b): Methodology of Teaching and Study
 
 Charaka Samhita and Sushruta Samhita
 
@@ -63,149 +63,244 @@ Debates were, thus, regarded as being useful in enhancing one’s intellect and 
 
 Moreover, debates and discussions helped the student to develop the concept of inference (anumāna) and the faculty of reasoning (yukti) which undoubtedly helped in developing analytical skills but more importantly for the clarification of concepts and growth of the knowledge as Caraka advises that a physician should always purify his intellect for the sake of giving proper treatment.[35]
 
-[1]:
 
-Caraka Saṃhitā Vimānasthāna 8.6.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Vimānasthāna 8.6.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Vimānasthāna 8.7.
 
-[3]:
 
-Commentary to Caraka Saṃhitā Vimānasthāna 8.7.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Vimānasthāna 8.7.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 8.24.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 30.16-17.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Commentary to Caraka Saṃhitā Vimānasthāna 8.7.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.54.
 
-[7]:
 
-Ḍalhaṇa’s commentary on Suśruta Saṃhitā Sūtrasthāna 3.54.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 8.24.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.54.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 4.5.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 30.16-17.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 4.3-4.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.12.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Sūtrasthāna 3.54.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Sūtrasthāna 1.30-31.
 
-[13]:
 
-Caraka Saṃhitā Vimānasthāna 7.8; Śārīrasthāna 1.3-15; Śārīrasthāna 2.3, 5.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Ḍalhaṇa’s commentary on Suśruta Saṃhitā Sūtrasthāna 3.54.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.9-10.
 
-[15]:
 
-Manusmṛti IV.113-114.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 3.54.
+</blockquote>
 
-[16]:
 
-Manusmṛti II.101,103.
 
-[17]:
 
-Manusmṛti IV.102-105, 115.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 4.5.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.10.
 
-[19]:
 
-Manusmṛti IV.110, 121.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 4.3-4.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.10.
 
-[21]:
 
-K. Preisandanz, “The Initiation of the Medical Student in Early Classical Āyurveda: Caraka’s treatment in context”, in B. Kellner et al. (Eds.), Pramāṇakīrtiḥ. Papers dedicated to Ernst Steinkellner on the occasion of his 70th birthday, Part 2, Wien: Wiener Studien zur Tibetologie und Buddhismuskunde 70.2, 2007, p. 645.—https://www.istb.univie.ac.at/caraka/file_download/36 (accessed on 2.4.2014)
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 1.12.
+</blockquote>
 
-[22]:
 
-K. Preisandanz, “The Initiation of the Medical Student”, p.645.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 8.24.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Sūtrasthāna 1.30-31.
+</blockquote>
 
-[24]:
 
-K. Preisandanz, “The initiation of the Medical Student”, p.648
 
-[25]:
 
-Suśruta Saṃhitā Sūtrasthāna 4.6.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Vimānasthāna 7.8; Śārīrasthāna 1.3-15; Śārīrasthāna 2.3, 5.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Vimānasthāna 8.15.
 
-[27]:
 
-M.S.Valiathan, The Legacy of Caraka, p.lxxxiii.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 2.9-10.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Vimānasthāna 8.17.
 
-[29]:
 
-Caraka Saṃhitā Vimānasthāna 8.18.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Manusmṛti IV.113-114.
+</blockquote>
 
-[30]:
 
-Caraka Saṃhitā Vimānasthāna 8.17.
 
-[31]:
 
-Caraka Saṃhitā Vimānasthāna 8.18.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Manusmṛti II.101,103.
+</blockquote>
 
-[32]:
 
-Caraka Saṃhitā Vimānasthāna 8.19.
 
-[33]:
 
-Caraka Saṃhitā Vimānasthāna VIII.67.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Manusmṛti IV.102-105, 115.
+</blockquote>
 
-[34]:
 
-K.Preisendanz, “Logic, Debate and Epistemology in Ancient Indian Medical Science-An Investigation into the History and Historiography of Indian Philosophy”, Indian Journal of History of Science, Vol.44 (2), 2009, pp.261-302.
 
-[35]:
 
-Caraka Saṃhitā Sūtrasthāna 9.20.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 2.10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Manusmṛti IV.110, 121.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 2.10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> K. Preisandanz, “The Initiation of the Medical Student in Early Classical Āyurveda: Caraka’s treatment in context”, in B. Kellner et al. (Eds.), Pramāṇakīrtiḥ. Papers dedicated to Ernst Steinkellner on the occasion of his 70th birthday, Part 2, Wien: Wiener Studien zur Tibetologie und Buddhismuskunde 70.2, 2007, p. 645.—https://www.istb.univie.ac.at/caraka/file_download/36 (accessed on 2.4.2014)
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> K. Preisandanz, “The Initiation of the Medical Student”, p.645.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 8.24.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> K. Preisandanz, “The initiation of the Medical Student”, p.648</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Sūtrasthāna 4.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Vimānasthāna 8.15.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> M.S.Valiathan, The Legacy of Caraka, p.lxxxiii.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Vimānasthāna 8.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Vimānasthāna 8.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Caraka Saṃhitā Vimānasthāna 8.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Caraka Saṃhitā Vimānasthāna 8.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Caraka Saṃhitā Vimānasthāna 8.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Vimānasthāna VIII.67.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> K.Preisendanz, “Logic, Debate and Epistemology in Ancient Indian Medical Science-An Investigation into the History and Historiography of Indian Philosophy”, Indian Journal of History of Science, Vol.44 (2), 2009, pp.261-302.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Sūtrasthāna 9.20.
+</blockquote>
 
 ---
 
-## 34. Chapter 4
+## Chapter 4
 
 Charaka Samhita and Sushruta Samhita
 
@@ -213,11 +308,9 @@ This page relates ‘Chapter 4’ of the study on the Charaka Samhita and the Su
 
 Chapter 4
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 35. The Student of Āyurveda (4): System of assessment
+## The Student of Āyurveda (4): System of assessment
 
 Charaka Samhita and Sushruta Samhita
 
@@ -233,49 +326,71 @@ Suśruta also mentions the ability to quote meaningfully from the texts as one o
 
 Scholarship for the medical student, however, was a continuous process. Even after he had gained the knowledge of the entire scripture, he should persistently strive to achieve depth in the scriptures, a good grasp of its terminology (abhidhānasya sauṣṭhava), comprehension of the various concepts (vijñāna), and the power of oration (vācanasya śakti).[8] Suśruta has similar recommendation: The scholar should continue to study regularly even after the completion of the course in order to refine the language, to grasp the depth of meaning, to gain confidence and expertise in practical work and to keep it in constant practice as well as to achieve success.[9] Some scholars believe that this is an indication of the encouragement given to the pursuit of post-graduate studies in medicine.[10] We may envisage that practitioners returned to their preceptors for enhancement of knowledge and skills.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 15.5.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 15.5.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 4.5.
 
-[3]:
 
-Mahavagga VIII.1.6.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 4.5.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 30.30.
 
-[5]:
 
-Caraka Saṃhitā Vimānasthāna 8.86.
+<div className="footnote-card"><strong>[3]</strong> Mahavagga VIII.1.6.</div>
 
-[6]:
 
-Suśruta Saṃhitā Sūtrasthāna 10.3.
 
-[7]:
 
-The Mahavagga VIII.1.7.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 30.30.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Vimānasthāna 8.5.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.56.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Vimānasthāna 8.86.
+</blockquote>
 
-[10]:
 
-G.D. Singhal et al., Fundamental and Plastic Surgery Considerations in Ancient Indian Surgery, Vol. I, p. 73, fn 1; P.V. Sharma, Suśruta-Saṃhitā with English Translation of Text and Ḍalhaṇa’s Commentary along with critical notes, p. 54.
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Sūtrasthāna 10.3.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> The Mahavagga VIII.1.7.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Vimānasthāna 8.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 3.56.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> G.D. Singhal et al., Fundamental and Plastic Surgery Considerations in Ancient Indian Surgery, Vol. I, p. 73, fn 1; P.V. Sharma, Suśruta-Saṃhitā with English Translation of Text and Ḍalhaṇa’s Commentary along with critical notes, p. 54.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -284,10 +399,6 @@ G.D. Singhal et al., Fundamental and Plastic Surgery Considerations in Ancient I
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Social Implications of Diseases and their Treatment: Charaka Samhita And Sushruta Samhita Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -198,7 +198,11 @@ Purificatory and healing remedies
 
 90-91. The medicated oil, prepared of the paste of kamala, embelia, kurchi, the three myrobalans, heart-leaved sida, wild snake-gourd, neem, lodh, nutgrass,-perfumed cherry, catechu, fulsee flowers, sal, cardamom, eaglewood and sandalwood is an excellent promoter of the healing of wounds [vrana].
 
+
+<blockquote className="ayur-shloka">
 92. The medicated oil, prepared of equal quantities of rhizomes of lotus, liquorice, Kakoli [kākolī], Kshirakakoli [kṣīrakākolī] and the two varieties of sandal wood, is an excellent promoter of the healing of wounds.
+</blockquote>
+
 
 93. The medicated oils prepared of the juice of scutch grass, of kamala or the paste of the bark of Indian berberry, are excellent promoters of healing in ulcers.
 

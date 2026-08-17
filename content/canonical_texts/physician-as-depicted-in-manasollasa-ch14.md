@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. The concept of Dravy and Tridosha within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. 3. The concept of Dravy and Tridosha
+## 3. The concept of Dravy and Tridosha
 
 Physician as depicted in Manasollasa
 
@@ -51,8 +51,6 @@ Table Showing the relation between tridosas and age, part of the body, Meal, Day
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -60,10 +58,6 @@ Table Showing the relation between tridosas and age, part of the body, Meal, Day
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">6. Code of General Ethics: Physician As Depicted In Manasollasa Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

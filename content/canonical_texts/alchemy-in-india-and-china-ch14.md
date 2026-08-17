@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. The Golden Period of Chinese Alchemy within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. 6. The Golden Period of Chinese Alchemy
+## 6. The Golden Period of Chinese Alchemy
 
 Alchemy in India and China
 
@@ -25,8 +25,6 @@ The centuries between 400 to 800 AD were the golden period of Chinese alchemy. W
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ The centuries between 400 to 800 AD were the golden period of Chinese alchemy. W
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">7. Sun Si-miao and His Alchemy: Alchemy In India And China Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

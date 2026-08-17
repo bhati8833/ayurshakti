@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (130): Jvarari rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 167. Treatment for fever (130): Jvarari rasa
+## Treatment for fever (130): Jvarari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (130): Jvarari rasa’ included in Bhudeb 
 
 ---
 
-## 168. Treatment for fever (126): Vishveshvara rasa
+## Treatment for fever (126): Vishveshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (126): Vishveshvara rasa’ included in Bh
 
 ---
 
-## 169. Treatment for fever (131): Jvarashani rasa
+## Treatment for fever (131): Jvarashani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (131): Jvarashani rasa’ included in Bhud
 
 ---
 
-## 170. Treatment for fever (132): Jvara-kalaketu rasa
+## Treatment for fever (132): Jvara-kalaketu rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for fever (132): Jvara-kalaketu rasa’ included in 
 
 ---
 
-## 171. Treatment for fever (133): Parvati-karuna rasa
+## Treatment for fever (133): Parvati-karuna rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for fever (133): Parvati-karuna rasa’ included in 
 
 ---
 
-## 172. Treatment for fever (134): Tripurari rasa
+## Treatment for fever (134): Tripurari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for fever (134): Tripurari rasa’ included in Bhude
 
 ---
 
-## 173. Treatment for fever (136): Purusottama rasa
+## Treatment for fever (136): Purusottama rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for fever (136): Purusottama rasa’ included in Bhu
 
 ---
 
-## 174. Treatment for fever (137): Brahma-randhra rasa
+## Treatment for fever (137): Brahma-randhra rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for fever (137): Brahma-randhra rasa’ included in 
 
 ---
 
-## 175. Treatment for fever (135): Sarva-jvarankusha rasa
+## Treatment for fever (135): Sarva-jvarankusha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for fever (135): Sarva-jvarankusha rasa’ included 
 
 ---
 
-## 176. Treatment for fever (138): Svachchhanda-nayaka rasa
+## Treatment for fever (138): Svachchhanda-nayaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for fever (138): Svachchhanda-nayaka rasa’ include
 
 ---
 
-## 177. Treatment for fever (139): Shlesma-shailendra rasa
+## Treatment for fever (139): Shlesma-shailendra rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for fever (139): Shlesma-shailendra rasa’ included
 
 ---
 
-## 178. Treatment for fever (140): Parpati rasa
+## Treatment for fever (140): Parpati rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -227,7 +227,7 @@ This concludes ‘Treatment for fever (140): Parpati rasa’ included in Bhudeb 
 
 ---
 
-## 179. Treatment for fever (55): Shitari rasa
+## Treatment for fever (55): Shitari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Treatment for fever (55): Shitari rasa’ included in Bhudeb M
 
 ---
 
-## 180. Treatment for fever (141): Lauha-samasta rasa
+## Treatment for fever (141): Lauha-samasta rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -263,7 +263,7 @@ This concludes ‘Treatment for fever (141): Lauha-samasta rasa’ included in B
 
 ---
 
-## 181. Treatment for fever (142): Laksmi-vilasa rasa
+## Treatment for fever (142): Laksmi-vilasa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -281,8 +281,6 @@ This concludes ‘Treatment for fever (142): Laksmi-vilasa rasa’ included in B
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -290,10 +288,6 @@ This concludes ‘Treatment for fever (142): Laksmi-vilasa rasa’ included in B
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (144): Sarva-jvara-hara lauham: Rasa Jala Nidhi Volume 4 Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -1,5 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
+import fs from 'fs';
+import path from 'path';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getSamhitaBooks, getSamhitaBook, getSamhitaChapter } from '@/lib/markdown';
@@ -15,14 +17,39 @@ interface ChapterPageProps {
 export async function generateStaticParams() {
   const books = getSamhitaBooks();
   const paramsList: Array<{ bookSlug: string; chapterSlug: string }> = [];
+  const seen = new Set<string>();
 
   for (const book of books) {
+    // 1. From JSON metadata
     for (const ch of book.chapters) {
       if (ch.slug) {
-        paramsList.push({
-          bookSlug: book.book_slug,
-          chapterSlug: ch.slug,
-        });
+        const key = `${book.book_slug}/${ch.slug}`;
+        if (!seen.has(key)) {
+          seen.add(key);
+          paramsList.push({
+            bookSlug: book.book_slug,
+            chapterSlug: ch.slug,
+          });
+        }
+      }
+    }
+
+    // 2. Scan directory files directly to catch all unlisted chapters
+    const samhitaDir = path.join(process.cwd(), 'content', 'samhitas', book.book_slug);
+    if (fs.existsSync(samhitaDir)) {
+      const files = fs.readdirSync(samhitaDir);
+      for (const file of files) {
+        if (file.endsWith('.md') && file !== 'index.md') {
+          const chSlug = file.replace(/\.md$/, '');
+          const key = `${book.book_slug}/${chSlug}`;
+          if (!seen.has(key)) {
+            seen.add(key);
+            paramsList.push({
+              bookSlug: book.book_slug,
+              chapterSlug: chSlug,
+            });
+          }
+        }
       }
     }
   }

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Creation of the Universe (according to Ayurveda) within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. 2. Creation of the Universe (according to Ayurveda)
+## 2. Creation of the Universe (according to Ayurveda)
 
 Physician as depicted in Manasollasa
 
@@ -37,8 +37,6 @@ Different philosophical thoughts of India are enshrined in the darsanas. These d
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ Different philosophical thoughts of India are enshrined in the darsanas. These d
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">4. Nidana-pancaka (Pathology or Investigation of Diseases): Physician As Depicted In Manasollasa Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

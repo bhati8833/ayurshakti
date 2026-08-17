@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. Chapter 3 - Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal
+## Chapter 3 - Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -19,11 +19,7 @@ This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The 
 
 Chapter 3 - Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -32,10 +28,6 @@ Chapter 3 - Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">3. Inference (anumana) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

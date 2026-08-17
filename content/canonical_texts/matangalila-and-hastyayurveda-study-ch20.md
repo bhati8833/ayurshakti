@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on General Discourse within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 65. Chapter 5
+## Chapter 5
 
 Matangalila and Hastyayurveda (study)
 
@@ -19,11 +19,9 @@ This page relates ‘Chapter 5’ of the study on the Matangalina and Hastyayurv
 
 Chapter 5
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 66. Influence on foreign countries
+## Influence on foreign countries
 
 Matangalila and Hastyayurveda (study)
 
@@ -55,37 +53,42 @@ In another representation, called the Barberini ivory, there is a central panel 
 
 It is evident that Indian hunters and trainers were acquired by Alexander and sought by his Hellenistic successors, and that Indian māhuts travelled with Indian elephants as far as the Seleucid kings of Syria and the Ptolemaic kings of Egypt–and possibly further. The demand of māhuts or elephant drivers and trainers is seen throughout the ancient and medieval times. There is circumstantial evidence that North Indian māhuts, transmitted their knowledge to locals in South India, and that the māhuts of India trained those in Sri Lanka and South Asia.[7] There is direct evidence that South-East Asian māhuts accompanied diplomatic gifts of elephants by South-East Asian kings to the emperor of China in Ming times. These show that the unwritten knowledge of the māhut in particular, as also of the hunter and the trainers is a crucial strategic asset for kings using war elephants, and that it was embodied in and spread by Indian māhuts, hunters and trainers.
 
-[1]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, p. 79.
+<div className="footnote-card"><strong>[1]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, p. 79.</div>
 
-[2]:
 
-Ibid., p. 81. Picture courtesy for picture no. 25 & 26–Thomas R.Trautmann.
 
-[3]:
 
-E.J.H. Mackay, Further Excavations at Mohenjo-daro, Delhi, 1938, p.329.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 81. Picture courtesy for picture no. 25 & 26–Thomas R.Trautmann.</div>
 
-[4]:
 
-Leonard Woolley and Max Mallowan. Ur Exacavations, Vol. VII; The Old Babylonian Period, ed. T.C. Mitchell. British Museum Publications, 1976, p. 182.
 
-[5]:
 
-Leon Legrain. “Horseback riding in the third millennium BC”, University Museum Bulletine, University of Pennsylvania, 11.4, 1946, p. 29. According to the author he is “represented in an impossible position, sitting neither on the head nor on the neck, but hanging mid-flank on one side, his left resting on the shoulders, his right armed with a short curved stick, simply hanging motionless.”
+<div className="footnote-card"><strong>[3]</strong> E.J.H. Mackay, Further Excavations at Mohenjo-daro, Delhi, 1938, p.329.</div>
 
-[6]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, p.255.
 
-[7]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, p.141
+<div className="footnote-card"><strong>[4]</strong> Leonard Woolley and Max Mallowan. Ur Exacavations, Vol. VII; The Old Babylonian Period, ed. T.C. Mitchell. British Museum Publications, 1976, p. 182.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Leon Legrain. “Horseback riding in the third millennium BC”, University Museum Bulletine, University of Pennsylvania, 11.4, 1946, p. 29. According to the author he is “represented in an impossible position, sitting neither on the head nor on the neck, but hanging mid-flank on one side, his left resting on the shoulders, his right armed with a short curved stick, simply hanging motionless.”</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, p.255.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, p.141</div>
 
 ---
 
-## 67. Metaphors related to Elephants
+## Metaphors related to Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -127,53 +130,66 @@ Similar usage is also seen in the Śaratbari Plates of Ratnapāla (c.920-60 CE),
 
 Similar to Bāṇa’s description of Prabhākaravardhana in the Harṣacarita here the author mentions it as the description for the king of Gauḍa instead of Gandhāra king.[11]
 
-[1]:
 
-EI, Vol. XIV, pp. 299, 305.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol. XIV, pp. 299, 305.</div>
 
-[2]:
 
-CII, Vol. IV, Pt. II, p. 469.
 
-[3]:
 
-S.C. Banerji & A.K. Gupta. Tr. Bilhaṇa’s Vikramāṅkadeva Caritam, Glimpses of the History of the Cālukyas of Kalyāṇa, Kolkata: Sambodhi Pulications, 1965, pp. 71, 73 (Canto 4, verses 55, 67).
+<div className="footnote-card"><strong>[2]</strong> CII, Vol. IV, Pt. II, p. 469.</div>
 
-[4]:
 
-R.P.Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, Bombay: University of Bombay, 1963, p. 35.
 
-[5]:
 
-R.P.Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp. 378-379.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> S.C. Banerji & A.K. Gupta. Tr. Bilhaṇa’s Vikramāṅkadeva Caritam, Glimpses of the History of the Cālukyas of Kalyāṇa, Kolkata: Sambodhi Pulications, 1965, pp. 71, 73 (Canto 4, verses 55, 67).
+</blockquote>
 
-[6]:
 
-Ibid., p. 435.
 
-[7]:
 
-A. Berriedale Keith. Classical Sanskrit Literature, Calcutta: Association Press & Oxford University Press, 1927 (2nd edition), p.68.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> R.P.Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, Bombay: University of Bombay, 1963, p. 35.
+</blockquote>
 
-[8]:
 
-Ibid., pp.68-69.
 
-[9]:
 
-A. Rudolf Hoernle. ed. & tr. The Bower Manuscript, Part II, Calcutta: Archaeological Survey of India, 1893, pp.42, 108.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> R.P.Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp. 378-379.
+</blockquote>
 
-[10]:
 
-Debarchana Sarkar. Sekele, Kolkata: Sadesh, 2004, pp. 96-97.
 
-[11]:
 
-EI, vol. XL, Part II, 1973, p.63.
+<div className="footnote-card"><strong>[6]</strong> Ibid., p. 435.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> A. Berriedale Keith. Classical Sanskrit Literature, Calcutta: Association Press & Oxford University Press, 1927 (2nd edition), p.68.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., pp.68-69.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> A. Rudolf Hoernle. ed. & tr. The Bower Manuscript, Part II, Calcutta: Archaeological Survey of India, 1893, pp.42, 108.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Debarchana Sarkar. Sekele, Kolkata: Sadesh, 2004, pp. 96-97.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> EI, vol. XL, Part II, 1973, p.63.</div>
 
 ---
-
-
 
 ---
 
@@ -182,10 +198,6 @@ EI, vol. XL, Part II, 1973, p.63.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Elephants in the Kingdom and as a Royal Asset: Matangalila And Hastyayurveda Study Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

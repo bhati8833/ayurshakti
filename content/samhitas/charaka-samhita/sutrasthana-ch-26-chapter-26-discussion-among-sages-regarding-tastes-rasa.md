@@ -32,7 +32,11 @@ Chapter 26 - Discussion among Sages regarding Tastes (Rasa)
 
 The Discussion among Sages regarding Tastes (Rasa)
 
+
+<blockquote className="ayur-shloka">
 3-6. Atreya [Ātreya], Bhadrakapya [Bhadrakāpya], Shakunteya [Śākunteya], Maudgalya, Purnaksha [Pūrṇākṣa] and Kaushika Hiranyaksha [Kauśika Hiraṇyākṣa], the sinless Bharadvaja [Bharadvāja] known as Kumarasira [Kumāraśirā/Kumāraśiras], the auspicious Varyovida [Vāryovida]—king and best among men of intelligence. king Nimi of Videha, and Badisha [Baḍiśa] the highly enlightened, Kankayana [Kāṅkāyana] of the Bahlika [Bāhlika] country and foremost of the Bahlika physicians:—all these, who were advanced in learning and age, disciplined souls and sages while on a ramble, met in the pleasant wood called Caitraratha.
+</blockquote>
+
 
 7. The following significant discussion took place among these connoisseurs who were seated together there.
 
@@ -328,11 +332,19 @@ Illustration of such incompatible Articles of diet.
 
 34-(5). The leaves of gelmeniris, kurroa or the flesh of pigeon fried in rape-seed oil must not be eaten together with honey and milk.
 
+
+<blockquote className="ayur-shloka">
 84-(6). It is from such mixed diet that one falls a victim to one or the other of the diseases such as increased liquidity of the blood, dilatation of the vessels, epilepsy, shankhaka [śaṅkhaka], deradenoncus, Rohini [rohiṇī] or to death itself.
+</blockquote>
+
 
 84-(7) One must not drink milk having eaten garden radish, garlic, moringa, large basil, holy basil, or shrubby basil, for fear of developing dermatosis.
 
+
+<blockquote className="ayur-shloka">
 84-(8). Jatuka-shakha [jātukaśāka] and ripe lakoocha must not be eaten with honey or milk.
+</blockquote>
+
 
 84 (9). For, such practice brings about death or the loss of strength, complexion, radiance and virility or some other major disease, or impotency.
 
@@ -350,7 +362,11 @@ Illustration of such incompatible Articles of diet.
 
 84-(16) Indian spinach prepared with til-paste causes diarrhea.
 
+
+<blockquote className="ayur-shloka">
 84-(17). Crane’s flesh is incompatible with Varuni [vāruṇi] wine or Kulmasha [kulmāṣa] pulse. If it is cooked in lard and eaten, it causes sudden death.
+</blockquote>
+
 
 84-(18). Peacock’s flesh roasted on a spit made of the castor plant wood, or cooked over a fire of castor plant twigs or prepared in castor oil, if eaten, will cause immediate death.
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of the Kitchen and its Utensils within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Description of the Kitchen and its Utensils
+## Description of the Kitchen and its Utensils
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -31,7 +31,7 @@ Balpan's 63 49 The cooking utensils and implements as well as rules of cleaning 
 
 ---
 
-## 20. Description of the Cook
+## Description of the Cook
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -47,7 +47,7 @@ Calpenb 65 7. Bhaks akara (a cook in general) 8. Paurogava (head of the kitchen)
 
 ---
 
-## 21. Description of the Food-handler
+## Description of the Food-handler
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -63,8 +63,6 @@ They should keep head covered, finger-nails short and clean (no nail polish). 8.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -72,10 +70,6 @@ They should keep head covered, finger-nails short and clean (no nail polish). 8.
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Description of the Physician: Kshemakutuhala Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

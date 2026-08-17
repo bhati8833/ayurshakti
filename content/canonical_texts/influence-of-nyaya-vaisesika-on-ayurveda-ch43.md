@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 12. Concept of mind, Indriyas and Indriyarthas within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 47. 12. Concept of mind, Indriyas and Indriyarthas
+## 12. Concept of mind, Indriyas and Indriyarthas
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -29,8 +29,6 @@ Though the word purusa is applied to all living beings, mainly it is used for hu
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ Though the word purusa is applied to all living beings, mainly it is used for hu
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch44" className="text-emerald-400 hover:underline flex items-center font-medium">10. Concept of Dravya in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 44 →</a>
 </div>
-
-
-
-
 
 ---
 

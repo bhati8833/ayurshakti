@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of wounds or sores within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. Chapter II - The medical treatment of wounds or sores
+## Chapter II - The medical treatment of wounds or sores
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -109,57 +109,63 @@ The recognised school of physicians, which recognises these six types of traumat
 
 Thus ends the second Chapter of the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of Sadyo-vrana (traumatic sores).
 
-[1]:
 
-Snehapana is recommended when the ulcer is in a region above the umbilicus and Vasti-karma when the ulcer is in a subumbilical region.
+<div className="footnote-card"><strong>[1]</strong> Snehapana is recommended when the ulcer is in a region above the umbilicus and Vasti-karma when the ulcer is in a subumbilical region.</div>
 
-[2]:
 
-Several commentators explain those that are situated either on the head or on the sides.
 
-[3]:
 
-The dictum that a hurt on any of the wind-carrying sounding channels is pronounced to be incurable, should not be supposed to hold good in the present case.
+<div className="footnote-card"><strong>[2]</strong> Several commentators explain those that are situated either on the head or on the sides.</div>
 
-[4]:
 
-For the complete elimination of the deranged Dosha i.e,, pus, etc, of the wound invloved in the case—Jejjata.
+
+
+<div className="footnote-card"><strong>[3]</strong> The dictum that a hurt on any of the wind-carrying sounding channels is pronounced to be incurable, should not be supposed to hold good in the present case.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> For the complete elimination of the deranged Dosha i.e,, pus, etc, of the wound invloved in the case—Jejjata.</div>
+
+
 
 He who has got a wound on his back should be laid on his face and he who has got an ulcer on his breast should be laid on his back—Dififereut Reading Gayi.
 
-[5]:
 
-Several authorities, however, say that equal parts of clarified butter prepared from goat’s milk and from cow’s milk should be taken and cooked with 16 seers of cow’s milk and with the four drugs as a Kalka.
+<div className="footnote-card"><strong>[5]</strong> Several authorities, however, say that equal parts of clarified butter prepared from goat’s milk and from cow’s milk should be taken and cooked with 16 seers of cow’s milk and with the four drugs as a Kalka.</div>
+
+
 
 But Gayi recommends only four seers of clarified butter prepared from goat’s milk cooked with 16 seers of cow’s milk and the four drugs as a Kalka.
 
-[6]:
 
-This explanation is given on the authority of old Vagabhata. Dallana, however, explains the verse in a different way. He explains it to mean two different preparations of milk—one with Yashti-madhu and mixed with sugar and castor oil as a Prakshepa and the other with Gokshura and mixed with Laksha and castor oil as a Prakshepa.
+<div className="footnote-card"><strong>[6]</strong> This explanation is given on the authority of old Vagabhata. Dallana, however, explains the verse in a different way. He explains it to mean two different preparations of milk—one with Yashti-madhu and mixed with sugar and castor oil as a Prakshepa and the other with Gokshura and mixed with Laksha and castor oil as a Prakshepa.</div>
+
+
 
 A third interpretation would make three preparations of milk prepared separately with Yashti-madhu, Laksha and Gokshura—sugar and castor oil being mixed in the first (as Prakshepa) and castor oil alone in the second and third.
 
 A fourth preparation would be to prepare the milk separately with Yashtimadhu, Laksha and Gokshura as in the preceding case—without the addition of castor oil (as Prakshepa),
 
-[7]:
 
-The oil just pressed out of an old oil-mill or squeezed out of the chips of wood belonging to an old one, in the manner of the Anu-taila to be described hereafter, is called the Chakra-taila.
+<div className="footnote-card"><strong>[7]</strong> The oil just pressed out of an old oil-mill or squeezed out of the chips of wood belonging to an old one, in the manner of the Anu-taila to be described hereafter, is called the Chakra-taila.</div>
 
-[8]:
 
-The vitiated blood should first be let out for fear of putrefaction of the ulcer.
 
-[9]:
 
-Triphala, Trikatu and Trimada are called Trivarga.
+<div className="footnote-card"><strong>[8]</strong> The vitiated blood should first be let out for fear of putrefaction of the ulcer.</div>
 
-[10]:
 
-With oil in autumn and in the case of a patient of Rakta-pitta temperament, and with Vala-oil in winter and in the case of one of a Vata-kapha temperament.
+
+
+<div className="footnote-card"><strong>[9]</strong> Triphala, Trikatu and Trimada are called Trivarga.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> With oil in autumn and in the case of a patient of Rakta-pitta temperament, and with Vala-oil in winter and in the case of one of a Vata-kapha temperament.</div>
 
 ---
-
-
 
 ---
 
@@ -168,10 +174,6 @@ With oil in autumn and in the case of a patient of Rakta-pitta temperament, and 
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of Fistula-in-ano: Sushruta Samhita Cikitsasthana Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

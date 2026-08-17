@@ -13,85 +13,83 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Journal Of The European Ayurvedic Society Chapter 1](/articles/journal-of-the-european-ayurvedic-society-ch1)
+### [General Discourse: Journal Of The European Ayurvedic Society Chapter 1](/articles/journal-of-the-european-ayurvedic-society-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Journal Of The European Ayurvedic Society.
 
-### 2. [Basic Ayurvedic Concepts in Veterinary Texts: Journal Of The European Ayurvedic Society Chapter 2](/articles/journal-of-the-european-ayurvedic-society-ch2)
+### [Basic Ayurvedic Concepts in Veterinary Texts: Journal Of The European Ayurvedic Society Chapter 2](/articles/journal-of-the-european-ayurvedic-society-ch2)
 **Overview**: Detailed classical discussion on Basic Ayurvedic Concepts in Veterinary Texts within Journal Of The European Ayurvedic Society.
 
-### 3. [Sanskrit Ayurvedic Manuscripts in the British Isles: Journal Of The European Ayurvedic Society Chapter 3](/articles/journal-of-the-european-ayurvedic-society-ch3)
+### [Sanskrit Ayurvedic Manuscripts in the British Isles: Journal Of The European Ayurvedic Society Chapter 3](/articles/journal-of-the-european-ayurvedic-society-ch3)
 **Overview**: Detailed classical discussion on Sanskrit Ayurvedic Manuscripts in the British Isles within Journal Of The European Ayurvedic Society.
 
-### 4. [Ayurvedic manuscripts in the British Library: Journal Of The European Ayurvedic Society Chapter 4](/articles/journal-of-the-european-ayurvedic-society-ch4)
+### [Ayurvedic manuscripts in the British Library: Journal Of The European Ayurvedic Society Chapter 4](/articles/journal-of-the-european-ayurvedic-society-ch4)
 **Overview**: Detailed classical discussion on Ayurvedic manuscripts in the British Library within Journal Of The European Ayurvedic Society.
 
-### 5. [The Importance of Asceticism for the Emergence of Ayurveda: Journal Of The European Ayurvedic Society Chapter 5](/articles/journal-of-the-european-ayurvedic-society-ch5)
+### [The Importance of Asceticism for the Emergence of Ayurveda: Journal Of The European Ayurvedic Society Chapter 5](/articles/journal-of-the-european-ayurvedic-society-ch5)
 **Overview**: Detailed classical discussion on The Importance of Asceticism for the Emergence of Ayurveda within Journal Of The European Ayurvedic Society.
 
-### 6. [State Policy Towards Indigenous Drugs in British Bengal: Journal Of The European Ayurvedic Society Chapter 6](/articles/journal-of-the-european-ayurvedic-society-ch6)
+### [State Policy Towards Indigenous Drugs in British Bengal: Journal Of The European Ayurvedic Society Chapter 6](/articles/journal-of-the-european-ayurvedic-society-ch6)
 **Overview**: Detailed classical discussion on State Policy Towards Indigenous Drugs in British Bengal within Journal Of The European Ayurvedic Society.
 
-### 7. [(1992): Journal Of The European Ayurvedic Society Chapter 7](/articles/journal-of-the-european-ayurvedic-society-ch7)
+### [(1992): Journal Of The European Ayurvedic Society Chapter 7](/articles/journal-of-the-european-ayurvedic-society-ch7)
 **Overview**: Detailed classical discussion on (1992) within Journal Of The European Ayurvedic Society.
 
-### 8. [Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford: Journal Of The European Ayurvedic Society Chapter 8](/articles/journal-of-the-european-ayurvedic-society-ch8)
+### [Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford: Journal Of The European Ayurvedic Society Chapter 8](/articles/journal-of-the-european-ayurvedic-society-ch8)
 **Overview**: Detailed classical discussion on Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford within Journal Of The European Ayurvedic Society.
 
-### 9. [On the Dravyaguna-sangraha of Chakrapani-datta: Journal Of The European Ayurvedic Society Chapter 9](/articles/journal-of-the-european-ayurvedic-society-ch9)
+### [On the Dravyaguna-sangraha of Chakrapani-datta: Journal Of The European Ayurvedic Society Chapter 9](/articles/journal-of-the-european-ayurvedic-society-ch9)
 **Overview**: Detailed classical discussion on On the Dravyaguna-sangraha of Chakrapani-datta within Journal Of The European Ayurvedic Society.
 
-### 10. [Indian contributions to traditional Khmer medicine: Journal Of The European Ayurvedic Society Chapter 10](/articles/journal-of-the-european-ayurvedic-society-ch10)
+### [Indian contributions to traditional Khmer medicine: Journal Of The European Ayurvedic Society Chapter 10](/articles/journal-of-the-european-ayurvedic-society-ch10)
 **Overview**: Detailed classical discussion on Indian contributions to traditional Khmer medicine within Journal Of The European Ayurvedic Society.
 
-### 11. [Alchemy and Sacred Geography in the Mediaeval Deccan: Journal Of The European Ayurvedic Society Chapter 11](/articles/journal-of-the-european-ayurvedic-society-ch11)
+### [Alchemy and Sacred Geography in the Mediaeval Deccan: Journal Of The European Ayurvedic Society Chapter 11](/articles/journal-of-the-european-ayurvedic-society-ch11)
 **Overview**: Detailed classical discussion on Alchemy and Sacred Geography in the Mediaeval Deccan within Journal Of The European Ayurvedic Society.
 
-### 12. [Other Publications Received (Volume 2): Journal Of The European Ayurvedic Society Chapter 12](/articles/journal-of-the-european-ayurvedic-society-ch12)
+### [Other Publications Received (Volume 2): Journal Of The European Ayurvedic Society Chapter 12](/articles/journal-of-the-european-ayurvedic-society-ch12)
 **Overview**: Detailed classical discussion on Other Publications Received (Volume 2) within Journal Of The European Ayurvedic Society.
 
-### 13. [Indo-Iranian Concepts of Disease and Cure: Journal Of The European Ayurvedic Society Chapter 13](/articles/journal-of-the-european-ayurvedic-society-ch13)
+### [Indo-Iranian Concepts of Disease and Cure: Journal Of The European Ayurvedic Society Chapter 13](/articles/journal-of-the-european-ayurvedic-society-ch13)
 **Overview**: Detailed classical discussion on Indo-Iranian Concepts of Disease and Cure within Journal Of The European Ayurvedic Society.
 
-### 14. [The Abhinava-Madhavanidana of Rajaguru Kavicandra: Journal Of The European Ayurvedic Society Chapter 14](/articles/journal-of-the-european-ayurvedic-society-ch14)
+### [The Abhinava-Madhavanidana of Rajaguru Kavicandra: Journal Of The European Ayurvedic Society Chapter 14](/articles/journal-of-the-european-ayurvedic-society-ch14)
 **Overview**: Detailed classical discussion on The Abhinava-Madhavanidana of Rajaguru Kavicandra within Journal Of The European Ayurvedic Society.
 
-### 15. [Kokkoka’s Ratirahasya translated and explained (Part 1): Journal Of The European Ayurvedic Society Chapter 15](/articles/journal-of-the-european-ayurvedic-society-ch15)
+### [Kokkoka’s Ratirahasya translated and explained (Part 1): Journal Of The European Ayurvedic Society Chapter 15](/articles/journal-of-the-european-ayurvedic-society-ch15)
 **Overview**: Detailed classical discussion on Kokkoka’s Ratirahasya translated and explained (Part 1) within Journal Of The European Ayurvedic Society.
 
-### 16. [Biology in Bhaskarakantha’s Cittanubodhasastra: Journal Of The European Ayurvedic Society Chapter 16](/articles/journal-of-the-european-ayurvedic-society-ch16)
+### [Biology in Bhaskarakantha’s Cittanubodhasastra: Journal Of The European Ayurvedic Society Chapter 16](/articles/journal-of-the-european-ayurvedic-society-ch16)
 **Overview**: Detailed classical discussion on Biology in Bhaskarakantha’s Cittanubodhasastra within Journal Of The European Ayurvedic Society.
 
-### 17. [Astanga Sangraha, Kalpasthana II: Translation and Notes: Journal Of The European Ayurvedic Society Chapter 17](/articles/journal-of-the-european-ayurvedic-society-ch17)
+### [Astanga Sangraha, Kalpasthana II: Translation and Notes: Journal Of The European Ayurvedic Society Chapter 17](/articles/journal-of-the-european-ayurvedic-society-ch17)
 **Overview**: Detailed classical discussion on Astanga Sangraha, Kalpasthana II: Translation and Notes within Journal Of The European Ayurvedic Society.
 
-### 18. [A Note on the Sanskrit Word Svastha: Journal Of The European Ayurvedic Society Chapter 18](/articles/journal-of-the-european-ayurvedic-society-ch18)
+### [A Note on the Sanskrit Word Svastha: Journal Of The European Ayurvedic Society Chapter 18](/articles/journal-of-the-european-ayurvedic-society-ch18)
 **Overview**: Detailed classical discussion on A Note on the Sanskrit Word Svastha within Journal Of The European Ayurvedic Society.
 
-### 19. [A Rasashastra Motif in Mughal Painting: Journal Of The European Ayurvedic Society Chapter 19](/articles/journal-of-the-european-ayurvedic-society-ch19)
+### [A Rasashastra Motif in Mughal Painting: Journal Of The European Ayurvedic Society Chapter 19](/articles/journal-of-the-european-ayurvedic-society-ch19)
 **Overview**: Detailed classical discussion on A Rasashastra Motif in Mughal Painting within Journal Of The European Ayurvedic Society.
 
-### 20. [Kokkoka’s Ratirahasya translation (Part 2): Journal Of The European Ayurvedic Society Chapter 20](/articles/journal-of-the-european-ayurvedic-society-ch20)
+### [Kokkoka’s Ratirahasya translation (Part 2): Journal Of The European Ayurvedic Society Chapter 20](/articles/journal-of-the-european-ayurvedic-society-ch20)
 **Overview**: Detailed classical discussion on Kokkoka’s Ratirahasya translation (Part 2) within Journal Of The European Ayurvedic Society.
 
-### 21. [Contribution of Ascetics and Buddhist Monks: Journal Of The European Ayurvedic Society Chapter 21](/articles/journal-of-the-european-ayurvedic-society-ch21)
+### [Contribution of Ascetics and Buddhist Monks: Journal Of The European Ayurvedic Society Chapter 21](/articles/journal-of-the-european-ayurvedic-society-ch21)
 **Overview**: Detailed classical discussion on Contribution of Ascetics and Buddhist Monks within Journal Of The European Ayurvedic Society.
 
-### 22. [The Study of Classical Indian Medicine in Germany: Journal Of The European Ayurvedic Society Chapter 22](/articles/journal-of-the-european-ayurvedic-society-ch22)
+### [The Study of Classical Indian Medicine in Germany: Journal Of The European Ayurvedic Society Chapter 22](/articles/journal-of-the-european-ayurvedic-society-ch22)
 **Overview**: Detailed classical discussion on The Study of Classical Indian Medicine in Germany within Journal Of The European Ayurvedic Society.
 
-### 23. [Astanga Sangraha, Kalpasthana IV: Translation and Notes: Journal Of The European Ayurvedic Society Chapter 23](/articles/journal-of-the-european-ayurvedic-society-ch23)
+### [Astanga Sangraha, Kalpasthana IV: Translation and Notes: Journal Of The European Ayurvedic Society Chapter 23](/articles/journal-of-the-european-ayurvedic-society-ch23)
 **Overview**: Detailed classical discussion on Astanga Sangraha, Kalpasthana IV: Translation and Notes within Journal Of The European Ayurvedic Society.
 
-### 24. [On Mercury in Tibetan ‘Precious Pills’: Journal Of The European Ayurvedic Society Chapter 24](/articles/journal-of-the-european-ayurvedic-society-ch24)
+### [On Mercury in Tibetan ‘Precious Pills’: Journal Of The European Ayurvedic Society Chapter 24](/articles/journal-of-the-european-ayurvedic-society-ch24)
 **Overview**: Detailed classical discussion on On Mercury in Tibetan ‘Precious Pills’ within Journal Of The European Ayurvedic Society.
 
-### 25. [Kshemendra’s Garbhavakranti Avadana: Journal Of The European Ayurvedic Society Chapter 25](/articles/journal-of-the-european-ayurvedic-society-ch25)
+### [Kshemendra’s Garbhavakranti Avadana: Journal Of The European Ayurvedic Society Chapter 25](/articles/journal-of-the-european-ayurvedic-society-ch25)
 **Overview**: Detailed classical discussion on Kshemendra’s Garbhavakranti Avadana within Journal Of The European Ayurvedic Society.
 
-### 26. [Reviews and Notices (Volume 5): Journal Of The European Ayurvedic Society Chapter 26](/articles/journal-of-the-european-ayurvedic-society-ch26)
+### [Reviews and Notices (Volume 5): Journal Of The European Ayurvedic Society Chapter 26](/articles/journal-of-the-european-ayurvedic-society-ch26)
 **Overview**: Detailed classical discussion on Reviews and Notices (Volume 5) within Journal Of The European Ayurvedic Society.
-
-
 
 ---
 

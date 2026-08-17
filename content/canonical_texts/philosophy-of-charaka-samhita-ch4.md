@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Enumeration of attributes (guṇa) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Enumeration of attributes (guṇa)
+## Enumeration of attributes (guṇa)
 
 Philosophy of Charaka-samhita
 
@@ -93,49 +93,69 @@ Cakrapāṇi classifies whole list of attributes into specific attributes (vaiś
 
 So the gurvādi guṇās can be treated as general physical qualities.
 
-[1]:
 
-rūparasagandhasparśāḥ saṃkhyā parimāṇāni pṛthaktvaṃ saṃyogavibhāgau paratvāparatve buddhayaḥ sukhadukhe icchādveṣau praytnāśca guṇāḥ. Vaiśeṣikadarśana., I. i. 6.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> rūparasagandhasparśāḥ saṃkhyā parimāṇāni pṛthaktvaṃ saṃyogavibhāgau paratvāparatve buddhayaḥ sukhadukhe icchādveṣau praytnāśca guṇāḥ. Vaiśeṣikadarśana., I. i. 6.
+</blockquote>
 
-[2]:
 
-caśabdasamuccitaśca gurutvadravatvasnehasaṃskārādṛṣṭaśabdāḥ saptaivetyevaṃ caturviṃtiguṇāḥ. Praśastapādabhāṣya., p. 27. The word adṛṣṭa in this articulation which literally means the invisible implies “merit” (dharma) and “demerit” (adharma). Actually these attributes are found mentioned in the various Vaiśeṣika - sūtras. For instance he refers to them in the following sūtras gurutva - V.S, I. i. 29; V. i. 7; V. i. 18; V. ii. 3. dravatva - II. i. 6, 7; V. ii. 4. sneha: II. i. 2. saṃskāra: V. i. 17, 18; IX. ii. 6,10; adṛṣṭa: V. i. 15; V. ii. 2, 7,13, 17; VI. i. 12; VI. ii. 1,2, 14; IX. ii. 9, 13.
 
-[3]:
 
-The Bhāṭṭa - Mīmaṃsakās also speaks of twenty- four attributes. But they exclude merit (dharma) and demerit (adharma) and include manifestedness (prākaṭya) and potency (śakti), Mānameyodaya of Nārāyaṇa., p. 244.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> caśabdasamuccitaśca gurutvadravatvasnehasaṃskārādṛṣṭaśabdāḥ saptaivetyevaṃ caturviṃtiguṇāḥ. Praśastapādabhāṣya., p. 27. The word adṛṣṭa in this articulation which literally means the invisible implies “merit” (dharma) and “demerit” (adharma). Actually these attributes are found mentioned in the various Vaiśeṣika - sūtras. For instance he refers to them in the following sūtras gurutva - V.S, I. i. 29; V. i. 7; V. i. 18; V. ii. 3. dravatva - II. i. 6, 7; V. ii. 4. sneha: II. i. 2. saṃskāra: V. i. 17, 18; IX. ii. 6,10; adṛṣṭa: V. i. 15; V. ii. 2, 7,13, 17; VI. i. 12; VI. ii. 1,2, 14; IX. ii. 9, 13.
+</blockquote>
 
-[4]:
 
-""sārthā gurvādayo buddhiḥ prayatnāntāḥ paradayaḥ guṇāḥ proktā; CS, Su, I. 49.
 
-[5]:
 
-HIPS, Vol. II, p. 369.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> The Bhāṭṭa - Mīmaṃsakās also speaks of twenty- four attributes. But they exclude merit (dharma) and demerit (adharma) and include manifestedness (prākaṭya) and potency (śakti), Mānameyodaya of Nārāyaṇa., p. 244.
+</blockquote>
 
-[6]:
 
-ENVC, p. 109.
 
-[7]:
 
-Ibid., 110.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> ""sārthā gurvādayo buddhiḥ prayatnāntāḥ paradayaḥ guṇāḥ proktā; CS, Su, I. 49.
+</blockquote>
 
-[8]:
 
-HSPCIC, Vol. II, Part—4, p. 421.
 
-[9]:
 
-Mahābhārata mentions qualities of physical elements quiet similar to that of Caraka, though there are some additional ones in Caraka which are absent in Mahābhārata or vice versa. The Mahābhārata mentions nine types of smells in earth: iṣṭa, aniśṭa, madhura kaṭu, nirhārin, saṃhata, snigdha, rūkṣa and viśada. There are six tastes in water: madhura, lavaṇa, tikta, kaṣāya, amla and kaṭu. Fire has got sixteen colours: hrasva, dīrgha, sthūla, caturaśra, and anuvṛttavat, śukla, kṛṣṇa, rakta, pīta, nīla, aruṇa, kaṭhina, cikkaṇa, ślakṣṇa, picchala, mṛdu, and dāruṇa. Air has got twelve types of touch: uṣṇa, śīta, sukha, duḥkha, snigdha, viśada, khara, mṛdu, rūkṣa, laghu, guru and gurutara. Vyākaraṇamahābhāṣya of Patañjali.. Mokṣa, 184. 28,33. 4, 36. 7. cf. HSPCIC, Vol. II, Part—4, p. 423.
+<div className="footnote-card"><strong>[5]</strong> HIPS, Vol. II, p. 369.</div>
 
-[10]:
 
-“anena trividhā api vaiśeṣikāḥ sāmānyā ātmaviśeṣaguṇāścoddiṣṭāḥ”. Cakrapāṇi on CS, Su, I. 49.
+
+
+<div className="footnote-card"><strong>[6]</strong> ENVC, p. 109.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., 110.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> HSPCIC, Vol. II, Part—4, p. 421.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Mahābhārata mentions qualities of physical elements quiet similar to that of Caraka, though there are some additional ones in Caraka which are absent in Mahābhārata or vice versa. The Mahābhārata mentions nine types of smells in earth: iṣṭa, aniśṭa, madhura kaṭu, nirhārin, saṃhata, snigdha, rūkṣa and viśada. There are six tastes in water: madhura, lavaṇa, tikta, kaṣāya, amla and kaṭu. Fire has got sixteen colours: hrasva, dīrgha, sthūla, caturaśra, and anuvṛttavat, śukla, kṛṣṇa, rakta, pīta, nīla, aruṇa, kaṭhina, cikkaṇa, ślakṣṇa, picchala, mṛdu, and dāruṇa. Air has got twelve types of touch: uṣṇa, śīta, sukha, duḥkha, snigdha, viśada, khara, mṛdu, rūkṣa, laghu, guru and gurutara. Vyākaraṇamahābhāṣya of Patañjali.. Mokṣa, 184. 28,33. 4, 36. 7. cf. HSPCIC, Vol. II, Part—4, p. 423.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “anena trividhā api vaiśeṣikāḥ sāmānyā ātmaviśeṣaguṇāścoddiṣṭāḥ”. Cakrapāṇi on CS, Su, I. 49.
+</blockquote>
 
 ---
 
-## 16. General attributes (sāmānya-guṇas)
+## General attributes (sāmānya-guṇas)
 
 Philosophy of Charaka-samhita
 
@@ -145,21 +165,13 @@ General attributes (sāmānya-guṇas)
 
 With the exception of yukti and abhyāsa all other attributes are found defined in both Vaiśeṣika and Caraka with subtle differences.
 
-superiority (paratva),
-
-inferiority (aparatve),
-
-propriety (yukti),
+superiority (paratva),, inferiority (aparatve),, propriety (yukti),
 
 number (saṃkhyā),
 
 conjunction (saṃyoga),
 
-disjunction (vibhāga),
-
-separateness (pṛthakatva),
-
-measure (parimāṇa),
+disjunction (vibhāga),, separateness (pṛthakatva),, measure (parimāṇa),
 
 tendency (saṃskāra),
 
@@ -219,165 +231,260 @@ Abhyāsa
 
 Abhyāsa means habit due to constant practice.[39] Saṃskāra and abhyāsa are mutually related and they have high pharmacological value.
 
-[1]:
 
-CS, Su, XXVI. 29 - 30.
+<div className="footnote-card"><strong>[1]</strong> CS, Su, XXVI. 29 - 30.</div>
 
-[2]:
 
-Ibid, 31.
 
-[3]:
 
-See Cakrapāṇi on ibid.
+<div className="footnote-card"><strong>[2]</strong> Ibid, 31.</div>
 
-[4]:
 
-paratvamaparatvaṃ ca parāparābhidhānapratyayanimittaṃ. Praśastapādabhāṣya., p. 393.
 
-[5]:
 
-TSA, p. 19; Tarkabhāṣa of Keśavamiśra., p. 203.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> See Cakrapāṇi on ibid.
+</blockquote>
 
-[6]:
 
-TSA, p. 19.
 
-[7]:
 
-NSMK, p. 367.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> paratvamaparatvaṃ ca parāparābhidhānapratyayanimittaṃ. Praśastapādabhāṣya., p. 393.
+</blockquote>
 
-[8]:
 
-ekadikkābhyāṃ ekakālābhyāṃ sannikṛṣṭaviprakṛṣṭābhyāṃ paramaparañca. Vaiśeṣikadarśana., VII. Ii. 21; “kāraṇaparatvāt kāraṇāparatvācca”. Ibid., 22; see also Praśastapādabhāṣya., pp. 393 - 398.
 
-[9]:
 
-“......yuktiśca yojana yā tu yujyate”, CS, Su, XXVI. 31. “yuktiścetyādau yojana doṣādyapekṣayā bheṣajasya samīcīnakalpanā”, Cakrapāṇi on ibid. Yukti referred to here is quite different from the source of knowledge yukti.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> TSA, p. 19; Tarkabhāṣa of Keśavamiśra., p. 203.
+</blockquote>
 
-[10]:
 
-Ibid.
 
-[11]:
 
-Praśastapādabhāṣya., p. 267; TSA. p. 18.
+<div className="footnote-card"><strong>[6]</strong> TSA, p. 19.</div>
 
-[12]:
 
-TSA, p. 18.
 
-[13]:
 
-Ibid.
+<div className="footnote-card"><strong>[7]</strong> NSMK, p. 367.</div>
 
-[14]:
 
-dvitvādayaḥ parārthaparyantā apekṣābuddhijā matā. NSMK, p. 400; Saptapadārthi of Śivāditya., p. 27.
 
-[15]:
 
-“.......yogaḥ saha saṃyoga ucyate dravyāṇāṃ dvantvasarvaikakarmajo-” nitya eva ca. CS, Su, XXVI. 32.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> ekadikkābhyāṃ ekakālābhyāṃ sannikṛṣṭaviprakṛṣṭābhyāṃ paramaparañca. Vaiśeṣikadarśana., VII. Ii. 21; “kāraṇaparatvāt kāraṇāparatvācca”. Ibid., 22; see also Praśastapādabhāṣya., pp. 393 - 398.
+</blockquote>
 
-[16]:
 
-M.S. Valiatān says that there is a difference between Vaiśeṣika and CS for the former meant joining things which had remained apart and which could come apart again, while the latter takes it as compounding of substances. LC, p. 6.
 
-[17]:
 
-“saṃyogaḥ saṃyuktapratyayanimittaṃ”, Praśastapādabhāṣya., p. 335; Tarkabhāṣa of Keśavamiśra., p. 201.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> “......yuktiśca yojana yā tu yujyate”, CS, Su, XXVI. 31. “yuktiścetyādau yojana doṣādyapekṣayā bheṣajasya samīcīnakalpanā”, Cakrapāṇi on ibid. Yukti referred to here is quite different from the source of knowledge yukti.
+</blockquote>
 
-[18]:
 
-“aprāptayoḥ prāptiḥ saṃyogaḥ”. Ibid., p. 347; NSMK, p. 413.
 
-[19]:
 
-Vaiśeṣikadarśana., I. i. 27-30; V. i. 1, 5, 6, 8, 11, 15; X. ii. 2, 5, 6.
+<div className="footnote-card"><strong>[10]</strong> Ibid.</div>
 
-[20]:
 
-Vaiśeṣikadarśana., VII. ii. 9; Praśastapādabhāṣya., p. 347; Tarkabhāṣa of Keśavamiśra., p. 201.
 
-[21]:
 
-“vibhūnāṃ tu parasparataḥ saṃyogo nāsti”, Praśastapādabhāṣya., p. 360.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Praśastapādabhāṣya., p. 267; TSA. p. 18.
+</blockquote>
 
-[22]:
 
-CSP, p. 122.
 
-[23]:
 
-“vibhāgastu vibhaktiḥ syādviyogo bhāgaśo grahaḥ”, CS, S u, XXVI. 33.
+<div className="footnote-card"><strong>[12]</strong> TSA, p. 18.</div>
 
-[24]:
 
-“vibhāgastu vibhaktapratyayanimittaṃ”. Praśastapādabhāṣya., p. 363. Bhāsarvajña says that disjunction is the absence of conjunction. See Nyāyabhūṣaṇa of Bhasarvajña.., p. 161.
 
-[25]:
 
-“etena vibhāgo vyākhyātaḥ”, Vaiśeṣikadarśana., VII. ii. 10; Praśastapādabhāṣya., p. 364.
+<div className="footnote-card"><strong>[13]</strong> Ibid.</div>
 
-[26]:
 
-CS, Su, XXVI. 33.
 
-[27]:
 
-See Cakrapāṇi on ibid.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> dvitvādayaḥ parārthaparyantā apekṣābuddhijā matā. NSMK, p. 400; Saptapadārthi of Śivāditya., p. 27.
+</blockquote>
 
-[28]:
 
-pṛthaktvamapoddhāravyavahārakāraṇaṃ. Praśastapādabhāṣya., p. 332; TSA, p. 18.
 
-[29]:
 
-TSA, p. 18; Bhāsarvajña does not accept severality as a separate attribute. “Pṛthaktvasya gunatvamayuktaṃ”, Nyāyabhūṣaṇa of Bhasarvajña.., p. 161.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> “.......yogaḥ saha saṃyoga ucyate dravyāṇāṃ dvantvasarvaikakarmajo-” nitya eva ca. CS, Su, XXVI. 32.
+</blockquote>
 
-[30]:
 
-parimāṇaṃ punarmānaṃ, CS, Su, XXVI. 34.
 
-[31]:
 
-Vaiśeṣikadarśana., IV. i. 11, 12; “parimāṇaṃ mānavyavahārakāraṇaṃ”. Praśastapādabhāṣya., p. 394.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> M.S. Valiatān says that there is a difference between Vaiśeṣika and CS for the former meant joining things which had remained apart and which could come apart again, while the latter takes it as compounding of substances. LC, p. 6.
+</blockquote>
 
-[32]:
 
-Ibid;TSA, p. 19; Saptapadārthi of Śivāditya., p. 27.
 
-[33]:
 
-CS, Vimāna - sthāna, I. 21 (2)
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> “saṃyogaḥ saṃyuktapratyayanimittaṃ”, Praśastapādabhāṣya., p. 335; Tarkabhāṣa of Keśavamiśra., p. 201.
+</blockquote>
 
-[34]:
 
-Praśastapādabhāṣya., p. 646; TSA, p. 59. Saptapadārthi of Śivāditya., p. 37.
 
-[35]:
 
-Praśastapādabhāṣya., p. 647.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> “aprāptayoḥ prāptiḥ saṃyogaḥ”. Ibid., p. 347; NSMK, p. 413.
+</blockquote>
 
-[36]:
 
-Ibid., p. 647.
 
-[37]:
 
-Ibid., p. 658; anyathā kṛtasya punastadavathāpādakaḥ sthitisthāpakaḥ kaṭādipṛthivīdravyavṛtti, TSA, p. 51.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Vaiśeṣikadarśana., I. i. 27-30; V. i. 1, 5, 6, 8, 11, 15; X. ii. 2, 5, 6.
+</blockquote>
 
-[38]:
 
-Mānameyodaya of Nārāyaṇa., p. 258 - 59.
 
-[39]:
 
-bhāvābhyasanamabhyāsaḥ śīlanaṃ satatakriyā, CS, Su, XXVI. 34.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Vaiśeṣikadarśana., VII. ii. 9; Praśastapādabhāṣya., p. 347; Tarkabhāṣa of Keśavamiśra., p. 201.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> “vibhūnāṃ tu parasparataḥ saṃyogo nāsti”, Praśastapādabhāṣya., p. 360.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> CSP, p. 122.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> “vibhāgastu vibhaktiḥ syādviyogo bhāgaśo grahaḥ”, CS, S u, XXVI. 33.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> “vibhāgastu vibhaktapratyayanimittaṃ”. Praśastapādabhāṣya., p. 363. Bhāsarvajña says that disjunction is the absence of conjunction. See Nyāyabhūṣaṇa of Bhasarvajña.., p. 161.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> “etena vibhāgo vyākhyātaḥ”, Vaiśeṣikadarśana., VII. ii. 10; Praśastapādabhāṣya., p. 364.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> CS, Su, XXVI. 33.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> See Cakrapāṇi on ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> pṛthaktvamapoddhāravyavahārakāraṇaṃ. Praśastapādabhāṣya., p. 332; TSA, p. 18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> TSA, p. 18; Bhāsarvajña does not accept severality as a separate attribute. “Pṛthaktvasya gunatvamayuktaṃ”, Nyāyabhūṣaṇa of Bhasarvajña.., p. 161.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> parimāṇaṃ punarmānaṃ, CS, Su, XXVI. 34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Vaiśeṣikadarśana., IV. i. 11, 12; “parimāṇaṃ mānavyavahārakāraṇaṃ”. Praśastapādabhāṣya., p. 394.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Ibid;TSA, p. 19; Saptapadārthi of Śivāditya., p. 27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> CS, Vimāna - sthāna, I. 21 (2)
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Praśastapādabhāṣya., p. 646; TSA, p. 59. Saptapadārthi of Śivāditya., p. 37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Praśastapādabhāṣya., p. 647.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> Ibid., p. 647.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Ibid., p. 658; anyathā kṛtasya punastadavathāpādakaḥ sthitisthāpakaḥ kaṭādipṛthivīdravyavṛtti, TSA, p. 51.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Mānameyodaya of Nārāyaṇa., p. 258 - 59.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> bhāvābhyasanamabhyāsaḥ śīlanaṃ satatakriyā, CS, Su, XXVI. 34.
+</blockquote>
 
 ---
 
-## 17. Spiritual attributes (ātma-guṇas)
+## Spiritual attributes (ātma-guṇas)
 
 Philosophy of Charaka-samhita
 
@@ -387,23 +494,7 @@ Spiritual attributes (ātma-guṇas)
 
 A separate group of ten attributes are described as the absolute marks for inferring the existence of the self.
 
-desire (icchā),
-
-aversion (dveṣa),
-
-pleasure (sukha),
-
-pain (dukha),
-
-volition (prayatna),
-
-consciousness (cetanā),
-
-fortitude (dhṛti),
-
-knowledge (buddhi),
-
-memory (smṛti),
+desire (icchā),, aversion (dveṣa),, pleasure (sukha),, pain (dukha),, volition (prayatna),, consciousness (cetanā),, fortitude (dhṛti),, knowledge (buddhi),, memory (smṛti),
 
 “I consciousness” (ahaṃkāra).[1]
 
@@ -413,45 +504,66 @@ Thus, Caraka's list of attributes is a large one which contains fortyone attribu
 
 The knowledge of the attributes, particularly the general physical attributes and rasa have a vital role in determining the physical, chemicophysical and pharmacological properties of substances and in ascertaining etiology, symptomatology and treatment of diseases. The essential knowledge in this respect is that of vīrya, vipāka, and prabhāva. The theory of rasa has deeper reaches in Āyurveda and it is not possible to describe them in detail here since it is beyond the scope of the present study.
 
-[1]:
 
-icchā dveṣaḥ sukhaṃ dukhaṃ prayatnaścetnā dhṛtiḥ buddhiḥ smṛtirahaṃkāro liṅgāni paramātmanaḥ. CS, Śārīra - sthāna, I. 72.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> icchā dveṣaḥ sukhaṃ dukhaṃ prayatnaścetnā dhṛtiḥ buddhiḥ smṛtirahaṃkāro liṅgāni paramātmanaḥ. CS, Śārīra - sthāna, I. 72.
+</blockquote>
 
-[2]:
 
-“.......sukhadukhe icchādveṣau cetanā dhṛtirbuddhiḥ smṛtirahaṃkārḥ prayatnāśceti (ātmajāni)” CS, Śārīra - sthāna, III, 10.
 
-[3]:
 
-See Cakrapani on CS, Śārīra - sthāna, I.72.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “.......sukhadukhe icchādveṣau cetanā dhṛtirbuddhiḥ smṛtirahaṃkārḥ prayatnāśceti (ātmajāni)” CS, Śārīra - sthāna, III, 10.
+</blockquote>
 
-[4]:
 
-Desire is yearning—“iccā kāmaḥ”, TSA, p. 58.
 
-[5]:
 
-Aversion is irritation - “krodhaḥ dveṣaḥ”, ibid.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> See Cakrapani on CS, Śārīra - sthāna, I.72.
+</blockquote>
 
-[6]:
 
-The experience of all with agreeable feelings is called pleasure, Ibid; p. 57.
 
-[7]:
 
-The experience of all with disagreeable feelings is called pain, Ibid., p. 58.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Desire is yearning—“iccā kāmaḥ”, TSA, p. 58.
+</blockquote>
 
-[8]:
 
-Praśastapāda divides action into two: (1) caused by vital energy (jīvanapūrvaka) and (2) due to desire and aversion (icchādveṣapūrvaka).
 
-[9]:
 
-buddhyādayo bhāvanāntā ātmaguṇāḥ, Nyāyakandalī on Praśastapādabhāṣya., p. 229.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Aversion is irritation - “krodhaḥ dveṣaḥ”, ibid.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> The experience of all with agreeable feelings is called pleasure, Ibid; p. 57.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> The experience of all with disagreeable feelings is called pain, Ibid., p. 58.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Praśastapāda divides action into two: (1) caused by vital energy (jīvanapūrvaka) and (2) due to desire and aversion (icchādveṣapūrvaka).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> buddhyādayo bhāvanāntā ātmaguṇāḥ, Nyāyakandalī on Praśastapādabhāṣya., p. 229.
+</blockquote>
 
 ---
 
-## 18. Twenty general physical attributes
+## Twenty general physical attributes
 
 Philosophy of Charaka-samhita
 
@@ -511,61 +623,86 @@ Dravatva is the attribute which causes the motion of flowing.[11] It is of two t
 
 Annaṃbhaṭṭa refers to laghutva and argues that it is nothing but negation of gurutva. Similarly, mṛdutva and kaṭhinatva are said as determining the relative compactness associated with conjunction of the component parts of the effect.[13]
 
-[1]:
 
-“..........viṃśatiguṇāḥ, guru - laghu - śīto - ṣṇa - snigdha - rūkṣa manda - tīkśṇa - sthira - sara - mṛdu - kaṭhina - viśada - picchala ślāṣṇa - khara - sūkṣma - sthūla - sāndra - dravānugamāt”; CS, Su, XXV. 36.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> “..........viṃśatiguṇāḥ, guru - laghu - śīto - ṣṇa - snigdha - rūkṣa manda - tīkśṇa - sthira - sara - mṛdu - kaṭhina - viśada - picchala ślāṣṇa - khara - sūkṣma - sthūla - sāndra - dravānugamāt”; CS, Su, XXV. 36.
+</blockquote>
 
-[2]:
 
-Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 18. See also Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, I. p. 9.
 
-[3]:
 
-śītoṣṇasnigdharūkṣaviśadapicchalagurulaghumṛdu tīkśṇa guṇāḥ karmaṇyāḥ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III. 111.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 18. See also Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, I. p. 9.
+</blockquote>
 
-[4]:
 
-HIPS, Vol. II, p. 369.
 
-[5]:
 
-See Infra, p. 135.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> śītoṣṇasnigdharūkṣaviśadapicchalagurulaghumṛdu tīkśṇa guṇāḥ karmaṇyāḥ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III. 111.
+</blockquote>
 
-[6]:
 
-Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., II. 57.
 
-[7]:
 
-“gurutvaṃ jalabhūmyoḥ patanakarmakāraṇaṃ”. Praśastapādabhāṣya., p. 640; See also Vaiśeṣikadarśana., V. i. 7, 18; V. ii. 3.
+<div className="footnote-card"><strong>[4]</strong> HIPS, Vol. II, p. 369.</div>
 
-[8]:
 
-Nyāyakandalī, Praśastapādabhāṣya., p. 642.
 
-[9]:
 
-Praśastapādabhāṣya., p. 645. Bhāsarvajña do no accept sneha as the specific quality of water since it is present in ghee as has been accepted by Ayurveda, see Nyāyabhūṣaṇa of Bhasarvajña., p. 164.
+<div className="footnote-card"><strong>[5]</strong> See Infra, p. 135.</div>
 
-[10]:
 
-TSA, p. 20.
 
-[11]:
 
-“dravatvaṃ syantanakarmakāraṇaṃ”, Praśastapādabhāṣya., p. 641.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., II. 57.
+</blockquote>
 
-[12]:
 
-Ibid, p. 641 - 42.
 
-[13]:
 
-TSA, p. 5.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> “gurutvaṃ jalabhūmyoḥ patanakarmakāraṇaṃ”. Praśastapādabhāṣya., p. 640; See also Vaiśeṣikadarśana., V. i. 7, 18; V. ii. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Nyāyakandalī, Praśastapādabhāṣya., p. 642.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Praśastapādabhāṣya., p. 645. Bhāsarvajña do no accept sneha as the specific quality of water since it is present in ghee as has been accepted by Ayurveda, see Nyāyabhūṣaṇa of Bhasarvajña., p. 164.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> TSA, p. 20.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> “dravatvaṃ syantanakarmakāraṇaṃ”, Praśastapādabhāṣya., p. 641.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid, p. 641 - 42.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> TSA, p. 5.</div>
 
 ---
-
-
 
 ---
 
@@ -574,10 +711,6 @@ TSA, p. 5.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Action (karma) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

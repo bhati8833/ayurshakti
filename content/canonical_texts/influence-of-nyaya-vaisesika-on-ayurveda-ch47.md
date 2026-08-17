@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 14. Concept of Moksa (emancipation) within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. 14. Concept of Moksa (emancipation)
+## 14. Concept of Moksa (emancipation)
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -27,8 +27,6 @@ feelings of the mind the body realize, its own pure nature that is liberation wh
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ feelings of the mind the body realize, its own pure nature that is liberation wh
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch48" className="text-emerald-400 hover:underline flex items-center font-medium">15. Concept of God: Influence Of Nyaya Vaisesika On Ayurveda Chapter 48 →</a>
 </div>
-
-
-
-
 
 ---
 

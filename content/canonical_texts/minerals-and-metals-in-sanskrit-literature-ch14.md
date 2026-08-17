@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. The Scope of Ratna-shastra (Gemmology) within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 60. 3. The Scope of Ratna-shastra (Gemmology)
+## 3. The Scope of Ratna-shastra (Gemmology)
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ The theory of origin (utpatti) of the gems was shrouded. in the extravagant emph
 
 ---
 
-## 61. 4.2. Description of Corundum, Ruby and Sapphire
+## 4.2. Description of Corundum, Ruby and Sapphire
 
 Minerals and Metals in Sanskrit literature
 
@@ -49,7 +49,7 @@ VII-18 indranila was mentioned by Kautilya as sravanmadhva (AS 2.11.31) which ha
 
 ---
 
-## 62. 2. Categorisation of Gems (Ratna)
+## 2. Categorisation of Gems (Ratna)
 
 Minerals and Metals in Sanskrit literature
 
@@ -71,7 +71,7 @@ Name English Sanskrit Lapis Lazuli/ Ultra- -marine/Rajavarta/ Lajhward (Glass ha
 
 ---
 
-## 63. 4.5. Description of Topaz (Pushparaga)
+## 4.5. Description of Topaz (Pushparaga)
 
 Minerals and Metals in Sanskrit literature
 
@@ -87,8 +87,6 @@ VII-30 name. Pliny confused the nomenclature by calling this not-so-hard yellow 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -96,10 +94,6 @@ VII-30 name. Pliny confused the nomenclature by calling this not-so-hard yellow 
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Gem Minerals Containing Beryllium: Minerals And Metals In Sanskrit Literature Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

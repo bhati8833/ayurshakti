@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on b - The Pharmaceutics of the Emetic nut (madana-kalpa) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 121. Chapter 1b - The Pharmaceutics of the Emetic nut (madana-kalpa)
+## Chapter 1b - The Pharmaceutics of the Emetic nut (madana-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -79,7 +79,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 122. Chapter 3 - The Pharmaceutics of the Bottle Gourd (ikshvaku-kalpa)
+## Chapter 3 - The Pharmaceutics of the Bottle Gourd (ikshvaku-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -139,7 +139,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 123. Chapter 2 - The Pharmaceutics of Bristly luffa (jimutaka-kalpa)
+## Chapter 2 - The Pharmaceutics of Bristly luffa (jimutaka-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -183,7 +183,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 124. Chapter 4 - The Pharmaceutics of the Sponge Gourd (dhamargava-kalpa)
+## Chapter 4 - The Pharmaceutics of the Sponge Gourd (dhamargava-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -237,7 +237,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 125. Chapter 5 - The Pharmaceutics of Kurchi (vatsaka-kalpa)
+## Chapter 5 - The Pharmaceutics of Kurchi (vatsaka-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -275,7 +275,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 126. Chapter 6 - The Pharmaceutics of Bitter Luffa (kritavedhana-kalpa)
+## Chapter 6 - The Pharmaceutics of Bitter Luffa (kritavedhana-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -319,8 +319,6 @@ Here are the two recapitulatory verses—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -328,10 +326,6 @@ Here are the two recapitulatory verses—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">The Pathology of Gulma (gulma-nidana): Charaka Samhita Complete Translation Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

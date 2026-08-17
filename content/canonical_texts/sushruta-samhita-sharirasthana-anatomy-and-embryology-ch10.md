@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The description of the arteries, nerves and ducts within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter IX - The description of the arteries, nerves and ducts
+## Chapter IX - The description of the arteries, nerves and ducts
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -73,33 +73,35 @@ The ducts emanating from the cavity of the heart, other than the Siras (veins), 
 
 Thus ends the ninth Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the descriptions of the arteries, ducts and nerves.
 
-[1]:
 
-Sans. Dhama—to be filled with air, so called from the fact of their being distended with air after death.
+<div className="footnote-card"><strong>[1]</strong> Sans. Dhama—to be filled with air, so called from the fact of their being distended with air after death.</div>
 
-[2]:
 
-So far, as in fetariife, allantoic arteries and the unbilical veins subserve the purposes of nutrition, excretion, etc, and reflects the rudimentary vascular system.
 
-[3]:
 
-Watery part reaching the bladder is transformed into urine.
+<div className="footnote-card"><strong>[2]</strong> So far, as in fetariife, allantoic arteries and the unbilical veins subserve the purposes of nutrition, excretion, etc, and reflects the rudimentary vascular system.</div>
 
-[4]:
 
-Hearing, touch, smell, taste, and sight.
 
-[5]:
 
-Eyes, ears, nose, tongue and skin.
+<div className="footnote-card"><strong>[3]</strong> Watery part reaching the bladder is transformed into urine.</div>
 
-[6]:
 
-But this science does not take any cognisance of them, since the pain incidental to a piercing of, or an injury to, any of these extremely attenuated channels, truest be slight in its character.
+
+
+<div className="footnote-card"><strong>[4]</strong> Hearing, touch, smell, taste, and sight.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Eyes, ears, nose, tongue and skin.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> But this science does not take any cognisance of them, since the pain incidental to a piercing of, or an injury to, any of these extremely attenuated channels, truest be slight in its character.</div>
 
 ---
-
-
 
 ---
 
@@ -108,10 +110,6 @@ But this science does not take any cognisance of them, since the pain incidental
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">The nursing and management of pregnant women: Sushruta Samhita Sharirasthana Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Pregnant elephants within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Pregnant elephants
+## Pregnant elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -59,97 +59,123 @@ Gender of the unborn was also predicted and signs of prediction are also provide
 
 Further the text also mentions the position of the unborn in the womb. In the right side of the womb is a male, on the left a female, in the middle a sexless calf. The text also mentions that due to the fault of the elephant, the wind of the womb and the mind, calves may be born hunch backed, deformed, short, extra-tall, dwarfish, blind and with other disabilities.[22]
 
-[1]:
 
-Ibid., Appendix, atha garbhiṇīgrahaṇaniṣedha, v. 9, p.137.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Ibid., Appendix, atha garbhiṇīgrahaṇaniṣedha, v. 9, p.137.
+</blockquote>
 
-[2]:
 
-Ibid., v. 10-11.
 
-[3]:
 
-Ibid., v.11-13.
+<div className="footnote-card"><strong>[2]</strong> Ibid., v. 10-11.</div>
 
-[4]:
 
-Ibid., Appendix, atha Garbhiṇīlakṣaṇam, v. 1, p.138.
 
-[5]:
 
-Ibid., v. 2.
+<div className="footnote-card"><strong>[3]</strong> Ibid., v.11-13.</div>
 
-[6]:
 
-Ibid., v. 3.
 
-[7]:
 
-Ibid., v. 3-10, pp.138-139.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Ibid., Appendix, atha Garbhiṇīlakṣaṇam, v. 1, p.138.
+</blockquote>
 
-[8]:
 
-Ibid., v. 11, p.139.
 
-[9]:
 
-Ibid., v. 12.
+<div className="footnote-card"><strong>[5]</strong> Ibid., v. 2.</div>
 
-[10]:
 
-Ibid., v. 13.
 
-[11]:
 
-Ibid., v. 13-14, pp.139-140.
+<div className="footnote-card"><strong>[6]</strong> Ibid., v. 3.</div>
 
-[12]:
 
-Ibid., v. 14-16, p.140.
 
-[13]:
 
-Ibid., v. 18.
+<div className="footnote-card"><strong>[7]</strong> Ibid., v. 3-10, pp.138-139.</div>
 
-[14]:
 
-Ibid., v. 18-19.
 
-[15]:
 
-Ibid., v. 20.
+<div className="footnote-card"><strong>[8]</strong> Ibid., v. 11, p.139.</div>
 
-[16]:
 
-Ibid., Appendix, atha Garbhiṇīlakṣaṇam, v. 21, p.140.
 
-[17]:
 
-Ibid., v. 22.
+<div className="footnote-card"><strong>[9]</strong> Ibid., v. 12.</div>
 
-[18]:
 
-Ibid., v. 23.
 
-[19]:
 
-Ibid., v. 24.
+<div className="footnote-card"><strong>[10]</strong> Ibid., v. 13.</div>
 
-[20]:
 
-Ibid., v. 24-25.
 
-[21]:
 
-Ibid., v. 26.
+<div className="footnote-card"><strong>[11]</strong> Ibid., v. 13-14, pp.139-140.</div>
 
-[22]:
 
-Ibid., v. 27-28.
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid., v. 14-16, p.140.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Ibid., v. 18.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., v. 18-19.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., v. 20.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Ibid., Appendix, atha Garbhiṇīlakṣaṇam, v. 21, p.140.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid., v. 22.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., v. 23.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid., v. 24.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., v. 24-25.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., v. 26.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., v. 27-28.</div>
 
 ---
 
-## 37. Quality Indicators regarding Elephants
+## Quality Indicators regarding Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -203,155 +229,232 @@ In this context Pālakāpya’s opinion also similar he elaborates it and mentio
 
 In this context it is worth mentioning that the fourth (i.e. 40’s) is declared to be a full life for the mṛga (deer) category of elephants thus they are short lived creatures and live for only four decades. Eight decades is mentioned as a life expectancy of a manda or the’slow’ category, maximum life span is given to the bhadra class bearing all the twelve features hence the life expectance in decades is mentioned as twelve i.e.120 years.[29]
 
-[1]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p.68.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p.68.
+</blockquote>
 
-[2]:
 
-The author of Mātaṅgalīlā mentions this dual functionality in the following words -― Yudhyanti kevalaṃ yodhā vahantyeva hayā rathān I Vāraṇāstu narendrārhā yudhyanti ca vahanti ca II‖, T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 9.
 
-[3]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 56.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The author of Mātaṅgalīlā mentions this dual functionality in the following words -― Yudhyanti kevalaṃ yodhā vahantyeva hayā rathān I Vāraṇāstu narendrārhā yudhyanti ca vahanti ca II‖, T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 9.
+</blockquote>
 
-[4]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.61.
 
-[5]:
 
-Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25.
+<div className="footnote-card"><strong>[3]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 56.</div>
 
-[6]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 54-57.
 
-[7]:
 
-mastakadvitayaṃ dantāvāsanaṃ vaṃśa evaṃ ca /
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.61.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 54-57.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> mastakadvitayaṃ dantāvāsanaṃ vaṃśa evaṃ ca /
 ṣaḍete pronnatā yasya sa gajo rājavāhanaḥ // (v. 1),
      —T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 7. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 54.
+</blockquote>
 
-[8]:
 
-puṣkaradvitayaṃ kośo jihvoṣṭhagudatālu ca /
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> puṣkaradvitayaṃ kośo jihvoṣṭhagudatālu ca /
 saptaite raktatanavo yasya sa dviradottamaḥ //
      —(v. 2) Ibid., p. 7 and p. 54, respectively.
+</blockquote>
 
-[9]:
 
-viṃśatyā nakhasaṅkhyayāścitapadaḥ sphāronnatiḥ kumbhayoracchidrāñcalaraktakarṇayugalaḥ suślakṣṇakakṣaḥ karī /
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> viṃśatyā nakhasaṅkhyayāścitapadaḥ sphāronnatiḥ kumbhayoracchidrāñcalaraktakarṇayugalaḥ suślakṣṇakakṣaḥ karī /
 savyāmyunnatamākṣikadyutiradaḥ sampūrṇakukṣiḥ karmasthūlarjvāyatacāruvāladhikaraḥ pūgīphalaśyāmalaḥ // (v. 3),
      —Ibid., p. 8. and p. 54, respectively.
+</blockquote>
 
-[10]:
 
-snigdhaśyāsatanuśca khaḍgasaiśacchāyoâthavā svastikaśrīvatsāridarābjalāñchanalasadbinduprakāśāruṇaḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> snigdhaśyāsatanuśca khaḍgasaiśacchāyoâthavā svastikaśrīvatsāridarābjalāñchanalasadbinduprakāśāruṇaḥ /
 kroḍodyajjaghanasthaloâtha iḍhakukṣistrastasaptiṇḍiko vistīrṇādhikamāṃsalonnatakalābhāgo nṛpārho gajaḥ // (v. 4),
      —Ibid., p. 8 and pp. 54-55, respectively.
+</blockquote>
 
-[11]:
 
-vṛhadāyatavṛttakandharāḥ sajalāmbhodaninādabṛṃhitāḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> vṛhadāyatavṛttakandharāḥ sajalāmbhodaninādabṛṃhitāḥ /
 kalaviṅkamadhuprabhekṣaṇāsrtivaliskandhakarā gajāḥ śubhāḥ //
      —(v. 5), Ibid., p. 8 and p. 55, respectively.
+</blockquote>
 
-[12]:
 
-susnigdhatāranayanāruṇapuṣkarāśca cūtapravālarūcikomalakośadaṇḍāḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> susnigdhatāranayanāruṇapuṣkarāśca cūtapravālarūcikomalakośadaṇḍāḥ /
 raktāravindarucirāḥ kalakaṇṭhanādā -stvete gajāḥ śubhakarāḥ khalu pārthivānām //
      —(v. 6), Ibid.
+</blockquote>
 
-[13]:
 
-tuṅgadakṣiṇaviṣāṇakoṭayo vinducitritamahākarānanāḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> tuṅgadakṣiṇaviṣāṇakoṭayo vinducitritamahākarānanāḥ /
 gūḍasandhi iḍhagātrapaścimāḥ pārthivendra! Tava vāhanocitāḥ //
      —(v. 7), Ibid.
+</blockquote>
 
-[14]:
 
-cāponnatāyatanigūḍasuvaṃśapṛṣṭhāḥ kāntāghanastanasamānasaromakumbhāḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> cāponnatāyatanigūḍasuvaṃśapṛṣṭhāḥ kāntāghanastanasamānasaromakumbhāḥ /
 vistīrṇakarṇahanunābhilalāṭaguhyā-stāmroṣṭhatāluradanāḥ kariṇo nṛpārhāḥ //
      —(v. 8), Ibid.
+</blockquote>
 
-[15]:
 
-sindhurasāndrasamabinduvicitratāṅgaḥ kūrmonnatairdvinavaviśatibhirnakhairvā /
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> sindhurasāndrasamabinduvicitratāṅgaḥ kūrmonnatairdvinavaviśatibhirnakhairvā /
 candraprabhaiśca sahito balasattvadhairyairudrārasaurabhayutoâpi karī nṛpārhaḥ //
      —(v. 9), Ibid., p. 9 and p. 55, respectively.
+</blockquote>
 
-[16]:
 
-“Saraṅgasiṃhaśukavānaramallahaṃsa-kādambakairapi gatiḥ saiśī śubhā syāt I Gandharvakinnarasuparṇakasūkaraiśca sārdūlarājaśarabhoragacakravākaiḥ II” (v. 12), T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, (Chapter II), p. 9. Franklin Edgerton. tr. The ElephantLore of the Hindus, Chapter II, p. 55.
 
-[17]:
 
-― Bhagnavyālajalāturāṃśca kalabhān hitvā pratāpānvitaḥ karmaṇyoâṣṭavidhaprahārakuśalaḥ śūro iḍho vegavān I Sarvaprāṇivadhe samudyatamanāḥ sadbhiryuto lakṣaṇai- -ryo dantāvalapuṅgavaḥ sa nṛpateḥ saṃgrāmayogyo bhavet II‖ (v. 10), Ibid., p. 9 and p. 56, respectively.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> “Saraṅgasiṃhaśukavānaramallahaṃsa-kādambakairapi gatiḥ saiśī śubhā syāt I Gandharvakinnarasuparṇakasūkaraiśca sārdūlarājaśarabhoragacakravākaiḥ II” (v. 12), T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, (Chapter II), p. 9. Franklin Edgerton. tr. The ElephantLore of the Hindus, Chapter II, p. 55.
+</blockquote>
 
-[18]:
 
-― Gambhīrasaumyahṛṣṭāḥ svasthāḥ śṛṅgāriṇastathā snigdhāḥ I Nādāḥ śubhā narādhipa! ṣaḍeva kathitā gajendrāṇām II” (v. 14), Ibid., p. 9 and pp. 56-57, respectively.
 
-[19]:
 
-― Jihvāmūlasamudbhavaṃ nigaditaṃ phenāyitaṃ syād rutaṃ Tat potāyitamoṣṭhatālujanitaṃ tat kaṇṭhajaṃ garjitam /
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> ― Bhagnavyālajalāturāṃśca kalabhān hitvā pratāpānvitaḥ karmaṇyoâṣṭavidhaprahārakuśalaḥ śūro iḍho vegavān I Sarvaprāṇivadhe samudyatamanāḥ sadbhiryuto lakṣaṇai- -ryo dantāvalapuṅgavaḥ sa nṛpateḥ saṃgrāmayogyo bhavet II‖ (v. 10), Ibid., p. 9 and p. 56, respectively.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> ― Gambhīrasaumyahṛṣṭāḥ svasthāḥ śṛṅgāriṇastathā snigdhāḥ I Nādāḥ śubhā narādhipa! ṣaḍeva kathitā gajendrāṇām II” (v. 14), Ibid., p. 9 and pp. 56-57, respectively.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> ― Jihvāmūlasamudbhavaṃ nigaditaṃ phenāyitaṃ syād rutaṃ Tat potāyitamoṣṭhatālujanitaṃ tat kaṇṭhajaṃ garjitam /
 tat proktaṃ hasitaṃ kapolakarajaṃ sarvaṃ tadetacchubhaṃ kṣuttṛṭchokabhayodbhavaṃ nigaditaṃ nindyaṃ bhṛśaṃ dantinām // (v. 13),
      —T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 9. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 56.
+</blockquote>
 
-[20]:
 
-hastena mṛdaṅgaravaṃ karṇābhyāṃ dundubhisvanaṃ caiva /
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> hastena mṛdaṅgaravaṃ karṇābhyāṃ dundubhisvanaṃ caiva /
 darduraravaṃ mukhena ca karoti yaḥ pūjitaḥ sa gajarājaḥ //
      —(v. 15), Ibid., p. 9 and p. 57, respectively.
+</blockquote>
 
-[21]:
 
-haṃsasārasamayūrakokilavyāghrasiṃhavṛṣasannibhasvarāḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> haṃsasārasamayūrakokilavyāghrasiṃhavṛṣasannibhasvarāḥ /
 pūjitāḥ karabhakākajambukakroḍavānarasamā na śobhanāḥ //
      —(v. 16), Ibid., p. 9 and p. 57, respectively.
+</blockquote>
 
-[22]:
 
-guṇagrāmasamagrāśceddhīnādhikanakhā gajāḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> guṇagrāmasamagrāśceddhīnādhikanakhā gajāḥ /
 doṣāneva prakurvanti viparītāśca śobhanam //
      —(v. 17), Ibid., p. 10 and p. 57, respectively.
+</blockquote>
 
-[23]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 60-61.
 
-[24]:
 
-snigdhadantanakharomacakṣuṣo dīrghakarṇakaravālavaṃśinaḥ /
+<div className="footnote-card"><strong>[23]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 60-61.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> snigdhadantanakharomacakṣuṣo dīrghakarṇakaravālavaṃśinaḥ /
 prāpradeśaparipūrṇalakṣaṇāstulyamastakatalāścirāyuṣaḥ //
      —(v. 1), T. Ganapati Sastri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 11. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 60.
+</blockquote>
 
-[25]:
 
-saptaraktatanavaḥ ṣaḍunnatāḥ suprabhāvamanasaḥ sugandhayaḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> saptaraktatanavaḥ ṣaḍunnatāḥ suprabhāvamanasaḥ sugandhayaḥ /
 nīlanīradanibhā virāviṇo dvitraromanilayāścirāyuṣaḥ //
      —(v. 2), Ibid., p. 11 and p. 60, respectively.
+</blockquote>
 
-[26]:
 
-― Gātrottamāṅganayanānanakarṇakaṇṭha- -vakṣoviṣāṇakarasattvarucoâparāṇi I Aṅgāni ceti saiśāni vayodaśābhiḥ kṣetrāṇyamūni kariṇāṃ daśa ca dvayaṃ ca II‖ (v. 3), Ibid., p. 11 and p. 60, respectively.
 
-[27]:
 
-― Kṣetrāṇāṃ yāvatāṃ pūrṇaṃ lakṣaṇaṃ yasya iśyate I Daśāstāvatya evāyustasyetyāha Bṛhaspatiḥ II‖ (v. 4), Ibid., p. 11 and p. 60, respectively.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> ― Gātrottamāṅganayanānanakarṇakaṇṭha- -vakṣoviṣāṇakarasattvarucoâparāṇi I Aṅgāni ceti saiśāni vayodaśābhiḥ kṣetrāṇyamūni kariṇāṃ daśa ca dvayaṃ ca II‖ (v. 3), Ibid., p. 11 and p. 60, respectively.
+</blockquote>
 
-[28]:
 
-“Trīṇi pañca ca saptāṣṭau liṅgānyetāni yasya vai I āyuḥ sa labhate tāvahīrdhamityasya me matiḥ II” (v. 5), Ibid., p. 12 and pp. 60-61, respectively.
 
-[29]:
 
-“Caturthī mṛgajātyasya mandajātyasya cāṣṭamī I Dvādaśī bhadrajātyasya paramāyurihocyate II” (v. 6), Ibid., p. 12 and p. 61, respectively.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> ― Kṣetrāṇāṃ yāvatāṃ pūrṇaṃ lakṣaṇaṃ yasya iśyate I Daśāstāvatya evāyustasyetyāha Bṛhaspatiḥ II‖ (v. 4), Ibid., p. 11 and p. 60, respectively.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> “Trīṇi pañca ca saptāṣṭau liṅgānyetāni yasya vai I āyuḥ sa labhate tāvahīrdhamityasya me matiḥ II” (v. 5), Ibid., p. 12 and pp. 60-61, respectively.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> “Caturthī mṛgajātyasya mandajātyasya cāṣṭamī I Dvādaśī bhadrajātyasya paramāyurihocyate II” (v. 6), Ibid., p. 12 and p. 61, respectively.
+</blockquote>
 
 ---
 
-## 38. Food and Diet of Elephants
+## Food and Diet of Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -365,53 +468,74 @@ Arthaśāstra specifies the ration for elephants.[5] The elephants of age thirty
 
 Mātaṅgalīlā includes grains especially rice, both raw and cooked. Along with this the text also mentions wheat, barley, beans, other vegetables; grass, other jungle fodder in abundance; ghee (clarified butter), jaggery (a coarse kind of sugar), salt, various spices, sweetened drinks, meat broth and even meat itself, and occasionally strong liquor. The treatise also mentions careful figures of the amounts to be administered of each of the principal article of diet; the amount is made proportional to the animal’s size. Likewise an entire list of grasses to be given to elephants is enlisted in the Yavasadhyāya of Pālakāpya’s Hastyāyurveda (IV, 24ff). The text identifies several types of grasses eaten by elephants, some of which grow in the wild.[7] Edgerton[8] points out the matter of prescription of meat (māṃsa) and as food for elephants both in Mātaṅgalīlā (Chapter 11, v.25, 36)[9] and Hastyāyurveda (IV. 15, 30, 87)[10] along with Arthaśātra. According to Trautmann, processed and human-like food were taken from the granary or store houses and the food like grass, leaves of trees were collected from the grass cutters and gatherers.[11] The above data reflects that the elephant abodes and stables were filled with adequate amount of food supply for them.
 
-[1]:
 
-“grīṣmakāle viśeṣeṇa rukṣatvāttṛṇadāruṇi I taṇḍulānguḍasaṃyuktānupanāhya pradāpayet II” Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ i.e. Appendix: atha navagṛhītagajopacāraḥ), v. 19, p.145.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> “grīṣmakāle viśeṣeṇa rukṣatvāttṛṇadāruṇi I taṇḍulānguḍasaṃyuktānupanāhya pradāpayet II” Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ i.e. Appendix: atha navagṛhītagajopacāraḥ), v. 19, p.145.
+</blockquote>
 
-[2]:
 
-“tenāsya dīpyate vahnirbalaṃ tejaśca vardhate I taṇḍulānlavaṇenaivaṃ dāpayedagnidīptaye II” Ibid., v. 20.
 
-[3]:
 
-Ibid., (atha gajaśāstrānubandhaḥ i.e. Appendix: atha navagṛhītagajopacāraḥ), v. 21, p.145.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “tenāsya dīpyate vahnirbalaṃ tejaśca vardhate I taṇḍulānlavaṇenaivaṃ dāpayedagnidīptaye II” Ibid., v. 20.
+</blockquote>
 
-[4]:
 
-Ibid., (atha gajaśāstrānubandhaḥ i.e. Appendix: atha hastivardhanaprakaḥ), v. 2-5, p.146.
 
-[5]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 202.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Ibid., (atha gajaśāstrānubandhaḥ i.e. Appendix: atha navagṛhītagajopacāraḥ), v. 21, p.145.
+</blockquote>
 
-[6]:
 
-Ibid., p. 143.
 
-[7]:
 
-Asian Agri-History, Vol. 17, No. 4, 2013, pp.327-330.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Ibid., (atha gajaśāstrānubandhaḥ i.e. Appendix: atha hastivardhanaprakaḥ), v. 2-5, p.146.
+</blockquote>
 
-[8]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, p. 29, fn. 58.
 
-[9]:
 
-Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 32, 35.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 202.
+</blockquote>
 
-[10]:
 
-Śivadatta Śarmaṇ. ed. Pālakāpyamuṇiviracito Hastyāyurvedaḥ, Poona, Ānandāśrama Sanskrit series, No. 26, 1894.
 
-[11]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet, Permanent Black in association with Ashoka University, 2015, p. 161.
+<div className="footnote-card"><strong>[6]</strong> Ibid., p. 143.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Asian Agri-History, Vol. 17, No. 4, 2013, pp.327-330.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, p. 29, fn. 58.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 32, 35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Śivadatta Śarmaṇ. ed. Pālakāpyamuṇiviracito Hastyāyurvedaḥ, Poona, Ānandāśrama Sanskrit series, No. 26, 1894.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet, Permanent Black in association with Ashoka University, 2015, p. 161.</div>
 
 ---
-
-
 
 ---
 
@@ -420,10 +544,6 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet, Per
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">The merits and measures of food suitable for the Elephant: Matangalila And Hastyayurveda Study Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Books on Elephants within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 1. Chapter 2 - Books on Elephants
+## Chapter 2 - Books on Elephants
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -254,169 +254,205 @@ Manuscripts
 
 There are some manuscripts available on Elephant Science. Matangalila, Matangalilabhashya, Gajashastra and Gajacikitsa. Among this Gajacikitsa is an unpublished manuscript. It describes the matters connected with the treatments on elephants.
 
-[1]:
 
-Hariharandha Saraswathi Agnipurana (Malayalam). Dronacharya Publications. Kozhikode.
+<div className="footnote-card"><strong>[1]</strong> Hariharandha Saraswathi Agnipurana (Malayalam). Dronacharya Publications. Kozhikode.</div>
 
-[2]:
 
-Kautilyas ASh (Part II) Sampurnanand Sanskrit University. 1991.
 
-[3]:
 
-Kaikkulangara Ramavariyer. Sampoorna Ashtanangahridayam (Ashtanga hridaya) Vol.2. Sultha Printers. Thrissur. 1997.
+<div className="footnote-card"><strong>[2]</strong> Kautilyas ASh (Part II) Sampurnanand Sanskrit University. 1991.</div>
 
-[4]:
 
-Ashtanga hridaya S.S. CV. 3.27.
 
-[5]:
 
-Varahamihira. Brihatsamhita. Varanaseyasanskriti Vishwavidyalaya. Varanasi. 1890.
+<div className="footnote-card"><strong>[3]</strong> Kaikkulangara Ramavariyer. Sampoorna Ashtanangahridayam (Ashtanga hridaya) Vol.2. Sultha Printers. Thrissur. 1997.</div>
 
-[6]:
 
-Varahamihira B.S. 66. 6-7.731.
 
-[7]:
 
-S.S. Dange Bhagavatapurana. Ajanta Publications. Delhi.1984.
+<div className="footnote-card"><strong>[4]</strong> Ashtanga hridaya S.S. CV. 3.27.</div>
 
-[8]:
 
-P.V. Sharma. Carakasamhita. Text with English Translation. Chaukhambha Orientalia Varanasi. Delhi. 1981.
 
-[9]:
 
-Carakasamhita. CXIV. 55-231.
+<div className="footnote-card"><strong>[5]</strong> Varahamihira. Brihatsamhita. Varanaseyasanskriti Vishwavidyalaya. Varanasi. 1890.</div>
 
-[10]:
 
-Narayana Dikshhita. Gajagrahanaprakara. Shri Venkateshwara University Oriental Research Institute. Thiruppati. 1968.
 
-[11]:
 
-Gajagrahanaprakara. C.V. CC2 (881). 88.
+<div className="footnote-card"><strong>[6]</strong> Varahamihira B.S. 66. 6-7.731.</div>
 
-[12]:
 
-Shankaran Nambiyar Puthumana Pushpakath.Gajarakshatantram GT. Mangalodayam Company. Kerala Kalpadruma Publication.
 
-[13]:
 
-Palakapyamuni. Gajashastra. T.M.S.S.M. Library. Tanjore. 1958.
+<div className="footnote-card"><strong>[7]</strong> S.S. Dange Bhagavatapurana. Ajanta Publications. Delhi.1984.</div>
 
-[14]:
 
-Palakapyamimi. Gajashastram (Gajashastra). TMSMM Library. Thanjore. 1958.
 
-[15]:
 
-Naradamuni. Gajashiksha. Shri. Venkateshwara University Oriental Research Institute. Tirupati. 1975.
+<div className="footnote-card"><strong>[8]</strong> P.V. Sharma. Carakasamhita. Text with English Translation. Chaukhambha Orientalia Varanasi. Delhi. 1981.</div>
 
-[16]:
 
-Gajashiksha Vyaktitippani. page No.79-81.
 
-[17]:
 
-Palakapya. Hastyayurveda. Anandashrama Mudranalaya. 1894.
+<div className="footnote-card"><strong>[9]</strong> Carakasamhita. CXIV. 55-231.</div>
 
-[18]:
 
-Nilakantha Matangalila. Govt. Press. Trivandrum. 1942.
 
-[19]:
 
-Vallathol. Matangalila. Priyadarsini Printers. Cheruthuruthy. 1981
+<div className="footnote-card"><strong>[10]</strong> Narayana Dikshhita. Gajagrahanaprakara. Shri Venkateshwara University Oriental Research Institute. Thiruppati. 1968.</div>
 
-[20]:
 
-Ceruvalli Narayanan Namboodiri. Matangalila. Devibooks. Kodungallur.2005.
 
-[21]:
 
-Gajanan K. Shrigondekar. Manasollasa. Curator of Libraries. Baroda. 1925.
+<div className="footnote-card"><strong>[11]</strong> Gajagrahanaprakara. C.V. CC2 (881). 88.</div>
 
-[22]:
 
-Kaviraja Kunjalal bhishaggranta. S.S. Cosmo Publications. New Delh. 2006.
 
-[23]:
 
-Sarva Daman Singh Ancient Indian Warfare. Motilal Banarsidas Delhi.
+<div className="footnote-card"><strong>[12]</strong> Shankaran Nambiyar Puthumana Pushpakath.Gajarakshatantram GT. Mangalodayam Company. Kerala Kalpadruma Publication.</div>
 
-[24]:
 
-Remesh Bedi Among tigers and tuskers. National Book Trust India. 2000.
 
-[25]:
 
-Roger A. Caras Dangerous to man. London. N5IRX. 1976.
+<div className="footnote-card"><strong>[13]</strong> Palakapyamuni. Gajashastra. T.M.S.S.M. Library. Tanjore. 1958.</div>
 
-[26]:
 
-Harban Singh. Domestic animals. National Books. India–1973.
 
-[27]:
 
-Ramesh Bedi. Elephant lord of the Jungle. National Book Trust India. 1969.
+<div className="footnote-card"><strong>[14]</strong> Palakapyamimi. Gajashastram (Gajashastra). TMSMM Library. Thanjore. 1958.</div>
 
-[28]:
 
-Washburn Hopkins. Elephus maxim. Motilal Banarsidas. Delhi. 1915.
 
-[29]:
 
-B. Seshadri. India's Wild life and Wild life Reserves. New Delhi. 1986.
+<div className="footnote-card"><strong>[15]</strong> Naradamuni. Gajashiksha. Shri. Venkateshwara University Oriental Research Institute. Tirupati. 1975.</div>
 
-[30]:
 
-Franklin Edgerton. ELH. Motilal Banarsidas. Delhi. 1931.
 
-[31]:
 
-Joy M.S. Ana. Geoprinters. Trivandrum. 1992.
+<div className="footnote-card"><strong>[16]</strong> Gajashiksha Vyaktitippani. page No.79-81.</div>
 
-[32]:
 
-Ibid. 1-20.
 
-[33]:
 
-Sethumadhavan. TP. AA. Current books. Kottayam. 2004.
+<div className="footnote-card"><strong>[17]</strong> Palakapya. Hastyayurveda. Anandashrama Mudranalaya. 1894.</div>
 
-[34]:
 
-Villiams. J.H. Anavilliam. Industrial School Press Ernakulam. 1959. 109.
 
-[35]:
 
-Ibid. 25.
+<div className="footnote-card"><strong>[18]</strong> Nilakantha Matangalila. Govt. Press. Trivandrum. 1942.</div>
 
-[36]:
 
-Arakkal Hassankutty. N.V.V.National Books. Kottayam. 1964.
 
-[37]:
 
-Harbansing. Valarttumrigangal. New Delhi. 1973.
+<div className="footnote-card"><strong>[19]</strong> Vallathol. Matangalila. Priyadarsini Printers. Cheruthuruthy. 1981</div>
 
-[38]:
 
-The present writer does not see the work. The reference to the same is obtained from this book Saraswati Sushama.
 
-[39]:
 
-Unithiri N.V.P. K.R. Calicut University.
+<div className="footnote-card"><strong>[20]</strong> Ceruvalli Narayanan Namboodiri. Matangalila. Devibooks. Kodungallur.2005.</div>
 
-[40]:
 
-Vagishashastri. Sushrutasamhita 55. Varanasi. 1972.
+
+
+<div className="footnote-card"><strong>[21]</strong> Gajanan K. Shrigondekar. Manasollasa. Curator of Libraries. Baroda. 1925.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Kaviraja Kunjalal bhishaggranta. S.S. Cosmo Publications. New Delh. 2006.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Sarva Daman Singh Ancient Indian Warfare. Motilal Banarsidas Delhi.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Remesh Bedi Among tigers and tuskers. National Book Trust India. 2000.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Roger A. Caras Dangerous to man. London. N5IRX. 1976.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Harban Singh. Domestic animals. National Books. India–1973.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Ramesh Bedi. Elephant lord of the Jungle. National Book Trust India. 1969.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Washburn Hopkins. Elephus maxim. Motilal Banarsidas. Delhi. 1915.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> B. Seshadri. India's Wild life and Wild life Reserves. New Delhi. 1986.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Franklin Edgerton. ELH. Motilal Banarsidas. Delhi. 1931.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Joy M.S. Ana. Geoprinters. Trivandrum. 1992.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> Ibid. 1-20.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> Sethumadhavan. TP. AA. Current books. Kottayam. 2004.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> Villiams. J.H. Anavilliam. Industrial School Press Ernakulam. 1959. 109.</div>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> Ibid. 25.</div>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> Arakkal Hassankutty. N.V.V.National Books. Kottayam. 1964.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> Harbansing. Valarttumrigangal. New Delhi. 1973.</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> The present writer does not see the work. The reference to the same is obtained from this book Saraswati Sushama.</div>
+
+
+
+
+<div className="footnote-card"><strong>[39]</strong> Unithiri N.V.P. K.R. Calicut University.</div>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> Vagishashastri. Sushrutasamhita 55. Varanasi. 1972.</div>
 
 ---
-
-
 
 ---
 
@@ -425,10 +461,6 @@ Vagishashastri. Sushrutasamhita 55. Varanasi. 1972.
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Declaration: Elephantology And Its Ancient Sanskrit Sources Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

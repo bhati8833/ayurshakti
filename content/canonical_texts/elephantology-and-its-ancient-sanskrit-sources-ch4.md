@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Hastyayurveda (Hasti Ayurveda) within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 4. Chapter 3 - Hastyayurveda (Hasti Ayurveda)
+## Chapter 3 - Hastyayurveda (Hasti Ayurveda)
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -224,53 +224,60 @@ Hastyayurveda is most popular text available on elephant science because there i
 
 Matangalila is the other best known book on elephant. According to Gajashastra, no other work is available in Kerala like Matangalila.
 
-[1]:
 
-Ana kadhayum karyavum. Dr. K.C. Panicker, 152.
+<div className="footnote-card"><strong>[1]</strong> Ana kadhayum karyavum. Dr. K.C. Panicker, 152.</div>
 
-[2]:
 
-Matangalila. 1.11.6.
 
-[3]:
 
-Hastyayurveda. 1.3. 14.
+<div className="footnote-card"><strong>[2]</strong> Matangalila. 1.11.6.</div>
 
-[4]:
 
-Matangalila. 12. 30. 157.
 
-[5]:
 
-Hastyayurveda 1.1.164 - 165
+<div className="footnote-card"><strong>[3]</strong> Hastyayurveda. 1.3. 14.</div>
 
-[6]:
 
-Ibid. 145.12.
 
-[7]:
 
-Ayurvedacaritra. 17. 379.
+<div className="footnote-card"><strong>[4]</strong> Matangalila. 12. 30. 157.</div>
 
-[8]:
 
-Hasytayurveda Introduction. p-21.
 
-[9]:
 
-Ibid. 22.
+<div className="footnote-card"><strong>[5]</strong> Hastyayurveda 1.1.164 - 165</div>
 
-[10]:
 
-Matsyapurana 242.
 
-[11]:
 
-A short history of Sanskrit literature.
+<div className="footnote-card"><strong>[6]</strong> Ibid. 145.12.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ayurvedacaritra. 17. 379.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Hasytayurveda Introduction. p-21.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid. 22.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Matsyapurana 242.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> A short history of Sanskrit literature.</div>
 
 ---
-
-
 
 ---
 
@@ -279,10 +286,6 @@ A short history of Sanskrit literature.
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Content Analysis of Matangalila: Elephantology And Its Ancient Sanskrit Sources Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

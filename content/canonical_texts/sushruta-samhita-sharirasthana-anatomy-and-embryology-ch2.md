@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The purification of semen and cataminal fluid within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 3. Chapter II - The purification of semen and cataminal fluid
+## Chapter II - The purification of semen and cataminal fluid
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -131,33 +131,35 @@ The adjustment of the different limbs and organs of the body of a child in the w
 
 Thus ends the second Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the purification of sperm and ovum.
 
-[1]:
 
-The word “Adi” in the text includes emetics, purgatives, Anuva- sana and asthapana measures according to their specific Doshas.
+<div className="footnote-card"><strong>[1]</strong> The word “Adi” in the text includes emetics, purgatives, Anuva- sana and asthapana measures according to their specific Doshas.</div>
 
-[2]:
 
-Bhadrashriyam is Shricandanain according to Dallana or white Sandal wood according Gayadasa.
 
-[3]:
 
-In the case of the husband being absent at the time, she should look at the sun.
+<div className="footnote-card"><strong>[2]</strong> Bhadrashriyam is Shricandanain according to Dallana or white Sandal wood according Gayadasa.</div>
 
-[4]:
 
-Sushruta’s theory is that ovulation occurs about the same time as menstruation and rather initiates the latter, and the shed ova are washed out with the menstrual flow, hence there is a possibility of conception on connexion during the period of flow. But when the menstruation stops of itself by the end of the third day, it also indicates that ovulation has ceased and no ovum is left to be fertilized, hence the question arises how can there be conception then on connexion on the fourth day and thereafter? The explanation (as in the following verse) is that the ovulating organ though quiescent at the time is again stimulated to activity by intercourse with a male and new ova are shed which are ready to be fertilized by the semen.—Ed.
 
-[5]:
 
-Gayi interprets the term “Dharmetara” to mean evil deeds (other than good) and quotes verses from Shrutis, Shmritis and Tantras on expiations of sin in support of his view.
+<div className="footnote-card"><strong>[3]</strong> In the case of the husband being absent at the time, she should look at the sun.</div>
 
-[6]:
 
-Hair, beard, nails, teeth, arteries, veins, ligaments and semen are called paternal elements inasmuch as these are said to be inherited by the child from its father
+
+
+<div className="footnote-card"><strong>[4]</strong> Sushruta’s theory is that ovulation occurs about the same time as menstruation and rather initiates the latter, and the shed ova are washed out with the menstrual flow, hence there is a possibility of conception on connexion during the period of flow. But when the menstruation stops of itself by the end of the third day, it also indicates that ovulation has ceased and no ovum is left to be fertilized, hence the question arises how can there be conception then on connexion on the fourth day and thereafter? The explanation (as in the following verse) is that the ovulating organ though quiescent at the time is again stimulated to activity by intercourse with a male and new ova are shed which are ready to be fertilized by the semen.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Gayi interprets the term “Dharmetara” to mean evil deeds (other than good) and quotes verses from Shrutis, Shmritis and Tantras on expiations of sin in support of his view.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Hair, beard, nails, teeth, arteries, veins, ligaments and semen are called paternal elements inasmuch as these are said to be inherited by the child from its father</div>
 
 ---
-
-
 
 ---
 
@@ -166,10 +168,6 @@ Hair, beard, nails, teeth, arteries, veins, ligaments and semen are called pater
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">The science of being in general: Sushruta Samhita Sharirasthana Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

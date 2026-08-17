@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elixirs (rasayana) to remove mental and physical distress within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. Chapter XXX - Elixirs (rasayana) to remove mental and physical distress
+## Chapter XXX - Elixirs (rasayana) to remove mental and physical distress
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -85,25 +85,27 @@ These ambrosial plants (as well as other drugs) are to be sought in the rivers, 
 
 Thus ends the Thirtieth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the tonic remedies which have the power of removing the mental and physical distresses.
 
-[1]:
 
-vyasana is a technical term and is divided into two classes, viz., kamaja (i.e., produced by passion or desire) and krodhaja (i.e., originated from anger). The first group comprises hunting, dice-playing, day-sleep, censuring, addiction to woman, intoxication, singing, dancing, playing on musical instruments and idle wanderings. The second class comprises wickedness, violence, malice, jealousy, envy, extravagance, roughness in language and assault. See Manu, Ch. 7. 47, 48.
+<div className="footnote-card"><strong>[1]</strong> vyasana is a technical term and is divided into two classes, viz., kamaja (i.e., produced by passion or desire) and krodhaja (i.e., originated from anger). The first group comprises hunting, dice-playing, day-sleep, censuring, addiction to woman, intoxication, singing, dancing, playing on musical instruments and idle wanderings. The second class comprises wickedness, violence, malice, jealousy, envy, extravagance, roughness in language and assault. See Manu, Ch. 7. 47, 48.</div>
 
-[2]:
 
-Some explain “Sanakha mustika” as wbat would be contained in the hollow of a palm, with the finger nails (i.e., the fingers) extended. But “Nakha” seems to refer to the thorns of the plants and “Mushti” a Pala weight (i.e., eight Tolas).
 
-[3]:
 
-Gayi reads “kanyakayaḥ” in place of “cakrakayaḥ payaḥ” explains it as a preparation of one part of the powders of the fruit of Kanyaka and two parts of rice cooked with milk.
+<div className="footnote-card"><strong>[2]</strong> Some explain “Sanakha mustika” as wbat would be contained in the hollow of a palm, with the finger nails (i.e., the fingers) extended. But “Nakha” seems to refer to the thorns of the plants and “Mushti” a Pala weight (i.e., eight Tolas).</div>
 
-[4]:
 
-There is no mention of “Ajagari” in the list (para. 2) and there is no mention of “Suvarchala” in this descriptive list. It seems, therefore, probable that “Ajagari” and “Suvarchala” ape identical.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Gayi reads “kanyakayaḥ” in place of “cakrakayaḥ payaḥ” explains it as a preparation of one part of the powders of the fruit of Kanyaka and two parts of rice cooked with milk.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> There is no mention of “Ajagari” in the list (para. 2) and there is no mention of “Suvarchala” in this descriptive list. It seems, therefore, probable that “Ajagari” and “Suvarchala” ape identical.</div>
 
 ---
-
-
 
 ---
 
@@ -112,10 +114,6 @@ There is no mention of “Ajagari” in the list (para. 2) and there is no menti
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch32" className="text-emerald-400 hover:underline flex items-center font-medium">The medicinal use of Sneha (oleaginous substances): Sushruta Samhita Cikitsasthana Chapter 32 →</a>
 </div>
-
-
-
-
 
 ---
 

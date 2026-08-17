@@ -94,7 +94,11 @@ According to some this is the characteristic symptom of another kind of Pratiśy
 
 [3]:
 
+
+<blockquote className="ayur-shloka">
 Mādhava Kar reads ‘śvetāḥ snegdhāḥ’ i.e., glossy white in hue, in place of ‘śvetāḥ kṛṣṇāḥ’ i.e., whitish and blackish in hue.
+</blockquote>
+
 
 [4]:
 
@@ -114,7 +118,11 @@ Some read ‘tiktaiḥ’ in place of ‘peyam’. This word means that the clar
 
 [8]:
 
+
+<blockquote className="ayur-shloka">
 Both the commentators of Vrinda and Chakradatta explain the term śītalena (cold) to mean ‘prepared with the drugs of cold potency such as the drugs of the Nyagrodhādi and Utpalādi groups.’
+</blockquote>
+
 
 [9]:
 
@@ -122,6 +130,10 @@ Some say that milk and water in equal parts should be taken.
 
 [10]:
 
+
+<blockquote className="ayur-shloka">
 In places of “yāpanārtha’ Chakradatta reads “nāvanārthaṃ” as an errhine. He also reads “samūtrapiṣṭāḥṃ” i.e., pasted with the urine (of a cow), and thus does not read the bile of a cow (pitta) in the text. Vrinda, however, reads “dhāvanāni” in place of “yāpanārthaṃ” which means that vermifuges should be used for washing purposes.
+</blockquote>
+
 
 ---

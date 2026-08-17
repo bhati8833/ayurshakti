@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Use of elephants for religious purposes and rituals within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. Use of elephants for religious purposes and rituals
+## Use of elephants for religious purposes and rituals
 
 Matangalila and Hastyayurveda (study)
 
@@ -27,37 +27,48 @@ Mathura (Kaṅkālī Ṭīlā) Jaina elephant capital inscription of the time of
 
 Till now we have discussed the positive depiction of elephants as an auspicious animal. However there are a few refences where they have been depicted as destructive or in a negative frame. In this context the Dewal Praśasti of king Lalla of Chinda[7] race praises Goddess Pārvatī, the daughter of the Mountain as the destroyer of a Dānava, who assumed the shape of an elephant. The demon is no doubt Mahiṣāsura. According to the Devimāhātya of Mārkaṇḍeya Purāṇa, LXXIII, 30, the asura turned himself also into a Mahāgaja.
 
-[1]:
 
-EI, Vol. XXXIII, p.60.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol. XXXIII, p.60.</div>
 
-[2]:
 
-See Jātaka, No.316.
 
-[3]:
 
-eg. Jātaka, No.322 (Daddabha-Jātaka).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> See Jātaka, No.316.
+</blockquote>
 
-[4]:
 
-Cunningham, Proceed. Beng. As. Soc., 1874, p.115; - Stūpa of Bharhut, 1879, p.61f.137, No.74 and Plates XXVI & LIV; Hultzsch, Zeitschr Deutsch.Morgenl. Ges. Vol.XL,1886, p.70, No.85 (second part), and Plate;Ind. Ant., Vol.XXI,1892, p.234,No.85(second part).
 
-[5]:
 
-Bhagvanlal Indraji, Burgess, Insc. Cave-Temp. W. Ind., 1881, p.29, No.3, and Plate; Buhler-Burgess, Arch. Surv. W. Ind., Vol.IV, 1883, p.90, No.3 and Plate XLVII; note by Frank, Zeitschr Deutsch.Morgenl. Ges., Vol.L, 1896, p.593; Senart, EI, Vol. VII,1902, p.51f, No.3, and Plate II.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> eg. Jātaka, No.322 (Daddabha-Jātaka).
+</blockquote>
 
-[6]:
 
-Cunningham, Arch.Surv. Rep., Vol.III, p.32 & No.9 and Plates V &XIV, 1873; Growse, Mathura, Pt.II, p.172, 1874; Bloch, JBAS.,Vol.LXVII, Pt.I, p.276, note 2, 1898; Correction by Luders, Ind. Ant. Vol.XXXIII, p.40f, No.10, 1904.
 
-[7]:
 
-EI, Vol. I, p.81 & note.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Cunningham, Proceed. Beng. As. Soc., 1874, p.115; - Stūpa of Bharhut, 1879, p.61f.137, No.74 and Plates XXVI & LIV; Hultzsch, Zeitschr Deutsch.Morgenl. Ges. Vol.XL,1886, p.70, No.85 (second part), and Plate;Ind. Ant., Vol.XXI,1892, p.234,No.85(second part).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Bhagvanlal Indraji, Burgess, Insc. Cave-Temp. W. Ind., 1881, p.29, No.3, and Plate; Buhler-Burgess, Arch. Surv. W. Ind., Vol.IV, 1883, p.90, No.3 and Plate XLVII; note by Frank, Zeitschr Deutsch.Morgenl. Ges., Vol.L, 1896, p.593; Senart, EI, Vol. VII,1902, p.51f, No.3, and Plate II.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Cunningham, Arch.Surv. Rep., Vol.III, p.32 & No.9 and Plates V &XIV, 1873; Growse, Mathura, Pt.II, p.172, 1874; Bloch, JBAS.,Vol.LXVII, Pt.I, p.276, note 2, 1898; Correction by Luders, Ind. Ant. Vol.XXXIII, p.40f, No.10, 1904.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> EI, Vol. I, p.81 & note.</div>
 
 ---
 
-## 27. Chapter 3
+## Chapter 3
 
 Matangalila and Hastyayurveda (study)
 
@@ -65,11 +76,9 @@ This page relates ‘Chapter 3’ of the study on the Matangalina and Hastyayurv
 
 Chapter 3
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 28. Vāribandha: The first technique
+## Vāribandha: The first technique
 
 Matangalila and Hastyayurveda (study)
 
@@ -128,61 +137,84 @@ That he quotes selections from Sanderson’s long description[12] which helps to
 
 What becomes clear is that the pen had a rope-slung gate which was closed by cutting the rope.[13]
 
-[1]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, p.87.
+<div className="footnote-card"><strong>[1]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, p.87.</div>
 
-[2]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
 
-[3]:
 
-Franklin Edgerton. Tr. The Elephant-Lore of the Hindus, p. 88 and T. Ganapati Sastri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
+</blockquote>
 
-[4]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 88 and T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
 
-[5]:
 
-Ibid., p. 88 and p. 26, respectively.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Franklin Edgerton. Tr. The Elephant-Lore of the Hindus, p. 88 and T. Ganapati Sastri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
+</blockquote>
 
-[6]:
 
-Ibid., pp. 88-89 and p. 26, respectively.
 
-[7]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 60-61.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 88 and T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
+</blockquote>
 
-[8]:
 
-Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, Baroda: Central Library, 1925, pp. 45-46.
 
-[9]:
 
-ShriMantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 60-61.
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 88 and p. 26, respectively.</div>
 
-[10]:
 
-CII, Vol.4, Pt. II. Kugda Stone Inscription of Pṛthvīdeva II: year 893, pp.446-449; Raipur Museum Stone Inscription of Pṛthvīdeva II, pp.436-442 and Akattara Stone Inscription of Ratnadeva II: pp. 430-436.
 
-[11]:
 
-Debabrata Swain. ‘Elephants in Art, Architecture and History of Orissa’, Orissa Review, 2008 (June), pp.4547.
+<div className="footnote-card"><strong>[6]</strong> Ibid., pp. 88-89 and p. 26, respectively.</div>
 
-[12]:
 
-G.P. Sandorson. Thirteen Years among the Wild Beasts of India, Elinburg: John Grant, 1912, pp.71 ff.
 
-[13]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.20.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 60-61.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, Baroda: Central Library, 1925, pp. 45-46.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> ShriMantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 60-61.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> CII, Vol.4, Pt. II. Kugda Stone Inscription of Pṛthvīdeva II: year 893, pp.446-449; Raipur Museum Stone Inscription of Pṛthvīdeva II, pp.436-442 and Akattara Stone Inscription of Ratnadeva II: pp. 430-436.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Debabrata Swain. ‘Elephants in Art, Architecture and History of Orissa’, Orissa Review, 2008 (June), pp.4547.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> G.P. Sandorson. Thirteen Years among the Wild Beasts of India, Elinburg: John Grant, 1912, pp.71 ff.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.20.</div>
 
 ---
-
-
 
 ---
 
@@ -191,10 +223,6 @@ Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.20.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Vaśālobha: The second technique: Matangalila And Hastyayurveda Study Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

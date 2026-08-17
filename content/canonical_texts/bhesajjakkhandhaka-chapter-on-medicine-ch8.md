@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on (b) Basic Principles of Biomedicine (Western medicine) within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. (b) Basic Principles of Biomedicine (Western medicine)
+## (b) Basic Principles of Biomedicine (Western medicine)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -37,37 +37,48 @@ Apart from treating the patient’s disease, another significant aspect of moder
 
 There are yet several special features of modern medicine worthy of mention. Firstly, modern medicine is speedily advancing. Numerous research studies are being done, with diverse discoveries and inventions adding to medical knowledge. In order to best apply such knowledge, evidence-based medicine is emphasised nowadays. Evidence-based medicine has been clearly defined by Sackett et al. (1996, 71-72) as “the conscientious, explicit, and judicious use of current best evidence in making decisions about the care of individual patients.” It is the practice of the best clinical care for the patient on the basis of the best available evidence gathered from current research, physicians’ expertise, and the needs and preferences of the patient (Dorland's Illustrated Medical Dictionary, 32nd ed., s.v. “medicine: evidence-based m.”). [7] Secondly, biological research probes deeper and deeper into cells and molecules. Since the latter half of the twentieth century, cell biology and molecular biology have played a more dominant role. Researchers have applied these new scientific methods and knowledge to other biomedical disciplines, resulting in many new areas of interest such as molecular physiology, molecular pathology, molecular neuroscience, molecular immunology, molecular endocrinology, molecular genetics, molecular microbiology, molecular pharmacology, and so on. This has had a significant impact on biomedical knowledge and on the clinical application of diagnosis, treatment and prevention (Kang 1997, 21-24, 38-39, 45). Thirdly, apart from those developing branches of medical sciences or specialties dealing with the microscopic/molecular level of body tissues and cells, modern medicine nowadays also has growing disciplines caring for the whole individual and his/her association with society and environment. These are special fields such as public health, rehabilitation medicine, social medicine, environmental medicine, and so forth. There are also interdisciplinary fields developed in the last few decades, dealing with humanistic and social issues, such as medical sociology, medical anthropology, medical humanities, medical ethics and many others (Kang 1997, 2-3, 24-27, 35-36, 39-40). Lastly, modern biomedicine has been strongly criticised for its mechanistic view of the physical body as well as its focus on disease but not health. Because of such a view and focus, the patient’s psychological, social and spiritual needs are not cared for, and health maintenance and promotion is not stressed. But nowadays modern medicine has paid more attention to these critiques, and a holistic approach to healthcare–taking care not only of the physical body but also of the psychological, emotional, social, spiritual and environmental aspects of an individual by different healthcare providers (such as psychologists, social workers, chaplains, and even practitioners of complementary and alternative medicine)–is becoming more emphasised and gaining popularity (Frazier and Drzymkowski 2013, 21, 24-25).
 
-[1]:
 
-Biomedical engineering, also known as bioengineering, is “the use of engineering in biomedical technology such as the analysis of movement of body parts or prosthetics.” Biotechnology refers to “any application of technology that uses biological systems, organisms, or their derivatives, to create new products or processes or modify existing ones.” See Dorland's Illustrated Medical Dictionary, 32nd ed., s.v. “engineering: biomedical e.” and “biotechnology”.
+<div className="footnote-card"><strong>[1]</strong> Biomedical engineering, also known as bioengineering, is “the use of engineering in biomedical technology such as the analysis of movement of body parts or prosthetics.” Biotechnology refers to “any application of technology that uses biological systems, organisms, or their derivatives, to create new products or processes or modify existing ones.” See Dorland's Illustrated Medical Dictionary, 32nd ed., s.v. “engineering: biomedical e.” and “biotechnology”.</div>
 
-[2]:
 
-Although new technology brings a positive impact on biomedicine, over-reliance on technology also has negative effects, such as an inhumane hospital environment, reduced doctor-patient contact and communication, declined clinical skills and experience of the healthcare staff, and new health problems due to technological advances (e.g. those diseases relating to environmental pollution).
 
-[3]:
 
-There are too many medical sciences or specialties/subspecialties to be covered here. For detailed information on specialisation in different countries, see General Medical Council 2011. Moreover, nowadays there are many interdisciplinary fields, such as medical humanities and medical informatics.
+<div className="footnote-card"><strong>[2]</strong> Although new technology brings a positive impact on biomedicine, over-reliance on technology also has negative effects, such as an inhumane hospital environment, reduced doctor-patient contact and communication, declined clinical skills and experience of the healthcare staff, and new health problems due to technological advances (e.g. those diseases relating to environmental pollution).</div>
 
-[4]:
 
-Encyclopædia Britannica Online, s.v. “disease” [accessed November 23, 2014, http://academic.eb.com/EBchecked/topic/165521/disease].
 
-[5]:
 
-This brief enumeration of the predisposing and aetiological factors of disease is gathered from Tamparo and Lewis 2011, 3-20, and Vardaxis 2010, 13-29.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> There are too many medical sciences or specialties/subspecialties to be covered here. For detailed information on specialisation in different countries, see General Medical Council 2011. Moreover, nowadays there are many interdisciplinary fields, such as medical humanities and medical informatics.
+</blockquote>
 
-[6]:
 
-There are numerous forms of treatment. For a concise description of various treatments, see Encyclopædia Britannica Online, s.v. “therapeutics (medicine)” [accessed November 24, 2014, http://academic.eb.com/EBchecked/topic/591185/therapeutics].
 
-[7]:
 
-In the last decade, there is a new discipline which is closely related to evidence-based medicine, and it is known as “translational medicine”. This term has been defined differently by various people, but it generally refers to “the translation of basic research discoveries into clinical applications” (Cosmatos and Chow 2009, ix).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Encyclopædia Britannica Online, s.v. “disease” [accessed November 23, 2014, http://academic.eb.com/EBchecked/topic/165521/disease].
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> This brief enumeration of the predisposing and aetiological factors of disease is gathered from Tamparo and Lewis 2011, 3-20, and Vardaxis 2010, 13-29.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> There are numerous forms of treatment. For a concise description of various treatments, see Encyclopædia Britannica Online, s.v. “therapeutics (medicine)” [accessed November 24, 2014, http://academic.eb.com/EBchecked/topic/591185/therapeutics].
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> In the last decade, there is a new discipline which is closely related to evidence-based medicine, and it is known as “translational medicine”. This term has been defined differently by various people, but it generally refers to “the translation of basic research discoveries into clinical applications” (Cosmatos and Chow 2009, ix).</div>
 
 ---
 
-## 27. Concepts of Health and Disease (In early Buddhism)
+## Concepts of Health and Disease (In early Buddhism)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -121,151 +132,231 @@ There is another term in Buddhist doctrine highlighting this ideology of coexist
 
 Based on the above discussions of the five aggregates and mentalitymateriality complex, Buddhism holds that mind and body are not independent phenomena; they interrelate and co-exist as one complex. Physical and mental states are “constantly interacting; they are not two totally separate spheres” (Harvey 1993, 29). Returning to our discussion on health and disease, Buddhism, therefore, recognises a close relationship between physical health and mental health. One kind of health cannot be achieved without another. Physical conditions can affect the mind. As mentioned earlier, the monk Assaji could not attain meditative concentration due to his sickness. Physical illness can interfere with mental cultivation and psychological wellbeing. Conversely, the psychological state can have an influence on the body. Taking the example of the sick monk Anuruddha, as stated earlier, the practice of the four establishments of mindfulness helped him tolerate and relieve his physical pain. Mind thus has an impact on body. Body and mind interact with each other, and can influence each other. Physical health and mental health therefore are mutually dependent. Both are significant for personal health as a whole, as well as for spiritual development.[34]
 
-[1]:
 
-Translations of the primary sources in this thesis are mine, unless stated otherwise. This translation has taken reference to the one provided by Anālayo in one of his articles (2011, 23-24).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Translations of the primary sources in this thesis are mine, unless stated otherwise. This translation has taken reference to the one provided by Anālayo in one of his articles (2011, 23-24).
+</blockquote>
+
+
 
 The Chinese source is: “有四法成就，名曰大醫王者，所應王之具、王之分。何等為四？一者善知病，二者善知病源，三者善知病對治，四者善知治病已，當來更不動發。云何名良醫善知病？謂良醫善知如是如是種種病，是名良醫善知病。云何良醫善知病源？謂良醫善知此病因風起、癖陰起、涎唾起、眾冷起、因現事起、時節起，是名良醫善知病源。云何良醫善知病對治？謂良醫善知種種病，應塗藥、應吐、應下、應灌鼻、應熏、應取汗。如是比種種對治，是名良醫善知對治。云何良醫善知治病已，於未來世永不動發？謂良醫善治種 種病，令究竟除，於未來世永不復起，是名良醫善知治病，更不動發。”
 
 A similar but shorter passage is found in the Saṃyukta Āgama (Alternative Translation) (Saṃyukta Āgama-AT) (Bieyi za’ahan jing 別譯雜阿含經, Taishō Tripiṭaka 100. 462c10-13). There is another discourse in the Chinese canon–Foshuo yiyu jing 佛說醫喻經 (Discourse on the Buddha’s Exposition of the Simile of Medicine) (Taishō Tripiṭaka 219. 802a15-b21)–which is similar to the above two discourses in the Saṃyukta Āgama and Saṃyukta Āgama-AT and has more elaborations.
 
-[2]:
 
-This list of causes resembles the one of eight aetiological factors that will be enumerated later in Section 3. 2.
+<div className="footnote-card"><strong>[2]</strong> This list of causes resembles the one of eight aetiological factors that will be enumerated later in Section 3. 2.</div>
 
-[3]:
 
-In the Pāli Nikāya, the parallel of this sūtra is not found. But association of the Four Noble Truths with medical ideas is found in the Visuddhimagga (Path of Purification): “The truth of suffering is like a disease, the truth of origin is like the cause of the disease, the truth of cessation is like the cure of the disease, and the truth of the path is like the medicine” (Ñāṇamoli 1991, 520).
 
-[4]:
 
-See p. 1 and footnote 1 of Chapter One of this thesis.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> In the Pāli Nikāya, the parallel of this sūtra is not found. But association of the Four Noble Truths with medical ideas is found in the Visuddhimagga (Path of Purification): “The truth of suffering is like a disease, the truth of origin is like the cause of the disease, the truth of cessation is like the cure of the disease, and the truth of the path is like the medicine” (Ñāṇamoli 1991, 520).
+</blockquote>
 
-[5]:
 
-The doctrine of dependent arising as expressed in the discourses (e.g. Saṃyutta Nikāya II. 28, 70; Majjhima Nikāya I. 262-264, III. 63) is: “Iti imasmiṃ sati idaṃ hoti imassuppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti imassa nirodhā idaṃ nirujjhati.” English translation of this statement is: “Thus when this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases” (Bodhi 2000, 552). The Chinese version is: “此有故彼有，此生故彼生；此無故彼無，此滅故彼滅。” Another form of the doctrine of dependent arising is the twelve-factored formula, as shown in footnote 8 below.
 
-[6]:
 
-This twelve-factored formula of dependent arising is: Dependent on (i) ignorance, there arises (ii) volitional formations; dependent on volitional formations, there arises (iii) consciousness; in turn, there arise (iv) mentality-materiality, (v) six-fold sense-base, (vi) contact, (vii) feeling, (viii) craving, (ix) clinging, (x) becoming, (xi) birth, and (xii) ageing, death, sorrow etc. For an example of the primary source on this formula, see Saṃyutta Nikāya II. 20-21; Aṅguttara Nikāya I. 177.
+<div className="footnote-card"><strong>[4]</strong> See p. 1 and footnote 1 of Chapter One of this thesis.</div>
 
-[7]:
 
-In relation to health and disease, we may consider ignorance as the not-knowing of what is good or bad for health, and craving as the thirst for something unhealthy to the body (and mind), such as smoking, high fat diet, lack of exercise, etc.
 
-[8]:
 
-Ignorance also depends on other factors for its arising. It is explained in the Aṅguttara Nikāya (V. 113) that ignorance requires five hindrances (pañca nīvaraṇā) (i.e. sense-desire, ill-will, sloth and torpor, restlessness and remorse, and sceptical doubt) as its nutriment. Jayatilleke (1966, 455) expounds thus: “the entertaining of false speculations about the past (pubbantānudiṭṭhi) or the future (aparantānudiṭṭhi) and the building of theories or views based on them, in contrast with the understanding of the nature of things, would constitute avijjā. The failure to grasp the theory of causation (paṭicca-samuppāda), with its emphasis on mutual dependence (idappaccayatā) and its difference from both determinism as well as indeterminism, would also constitute an important part of avijjā.”
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> The doctrine of dependent arising as expressed in the discourses (e.g. Saṃyutta Nikāya II. 28, 70; Majjhima Nikāya I. 262-264, III. 63) is: “Iti imasmiṃ sati idaṃ hoti imassuppādā idaṃ uppajjati; imasmiṃ asati idaṃ na hoti imassa nirodhā idaṃ nirujjhati.” English translation of this statement is: “Thus when this exists, that comes to be; with the arising of this, that arises. When this does not exist, that does not come to be; with the cessation of this, that ceases” (Bodhi 2000, 552). The Chinese version is: “此有故彼有，此生故彼生；此無故彼無，此滅故彼滅。” Another form of the doctrine of dependent arising is the twelve-factored formula, as shown in footnote 8 below.
+</blockquote>
 
-[9]:
 
-The Chinese passage is: “若眼生、住、轉出，則苦生、病住、老死出。耳、鼻、舌、身、意亦如是說。若眼滅、息、沒，苦生則滅，病則息，死則沒。耳、鼻、舌、身、意亦如是說。”
 
-[10]:
 
-This discussion on the arising of suffering, based on the principle of dependent arising, can be considered as the general Buddhist perspective on causation of illness. Specific aetiological factors on disease will be elaborated below.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> This twelve-factored formula of dependent arising is: Dependent on (i) ignorance, there arises (ii) volitional formations; dependent on volitional formations, there arises (iii) consciousness; in turn, there arise (iv) mentality-materiality, (v) six-fold sense-base, (vi) contact, (vii) feeling, (viii) craving, (ix) clinging, (x) becoming, (xi) birth, and (xii) ageing, death, sorrow etc. For an example of the primary source on this formula, see Saṃyutta Nikāya II. 20-21; Aṅguttara Nikāya I. 177.
+</blockquote>
 
-[11]:
 
-Mind-body relationship and its association with health/disease will be further elaborated later in this section.
 
-[12]:
 
-That is: right view (sammā-diṭṭhi), right thought (sammā-saṅkappa), right speech (sammā-vācā), right bodily action (sammā-kammanta), right livelihood (sammā-ājiva), right effort (sammāvāyāma), right mindfulness (sammā-sati), and right concentration (sammā-samādhi). The first two relate to wisdom, the following three to moral conduct, and the last three to concentration.
+<div className="footnote-card"><strong>[7]</strong> In relation to health and disease, we may consider ignorance as the not-knowing of what is good or bad for health, and craving as the thirst for something unhealthy to the body (and mind), such as smoking, high fat diet, lack of exercise, etc.</div>
 
-[13]:
 
-Taishō Tripiṭaka 125. 697a16-17: “夫病之法欲使不病者，此不可得也”. A similar sentence is found in the same Āgama at Taishō Tripiṭaka 125. 679b17-18: “病法，欲使不病者，此不可得”.
 
-[14]:
 
-The other four types of loss or attainment relate to relatives, wealth, morality, and view.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Ignorance also depends on other factors for its arising. It is explained in the Aṅguttara Nikāya (V. 113) that ignorance requires five hindrances (pañca nīvaraṇā) (i.e. sense-desire, ill-will, sloth and torpor, restlessness and remorse, and sceptical doubt) as its nutriment. Jayatilleke (1966, 455) expounds thus: “the entertaining of false speculations about the past (pubbantānudiṭṭhi) or the future (aparantānudiṭṭhi) and the building of theories or views based on them, in contrast with the understanding of the nature of things, would constitute avijjā. The failure to grasp the theory of causation (paṭicca-samuppāda), with its emphasis on mutual dependence (idappaccayatā) and its difference from both determinism as well as indeterminism, would also constitute an important part of avijjā.”
+</blockquote>
 
-[15]:
 
-Dīgha Nikāya-Aṭṭhakathā III. 1028: “Rogo eva vyasanaṃ roga-vyasanaṃ. Rogo hi ārogyaṃ vyasati vināsetī yi vyasanaṃ.”
 
-[16]:
 
-Ibid: “Ārogyassa sampadā ārogya-sampadā. Pāripūrī dīgha-rattaṃ ārogatā.”
+<div className="footnote-card"><strong>[9]</strong> The Chinese passage is: “若眼生、住、轉出，則苦生、病住、老死出。耳、鼻、舌、身、意亦如是說。若眼滅、息、沒，苦生則滅，病則息，死則沒。耳、鼻、舌、身、意亦如是說。”</div>
 
-[17]:
 
-The parallel of this sutta is found in the Madhyama Āgama (Madhyama Āgama), and the above-mentioned loss through sickness is found at Taishō Tripiṭaka 26. 626a23-28: “云何病衰？或有一人長病疾患，極重甚苦，彼作是念：「我長病疾患，極重甚苦，我實有欲，不能行欲... 」... 是為病衰。” My translation for this is: “What is decline by sickness? Perhaps there is a person who has chronic illness and severe pain. He has this thought: ‘I have chronic illness and severe pain. I actually have desire, [but] cannot carry out the desire...’... this is [the meaning of] decline by sickness.”
 
-[18]:
 
-The other nine desirable things are wealth, beauty, moral virtues, chastity, friends, much knowledge, wisdom, righteous qualities, and the heavens. This discourse also mentions the obstacles and supports for these ten things. In relation to health, doing what is beneficial or not can be an obstacle or support for health.
+<div className="footnote-card"><strong>[10]</strong> This discussion on the arising of suffering, based on the principle of dependent arising, can be considered as the general Buddhist perspective on causation of illness. Specific aetiological factors on disease will be elaborated below.</div>
 
-[19]:
 
-For these statements on desirables or undesirables, see Saṃyukta Āgama-AT, Taishō Tripiṭaka 100. 397a10-13; Ekottara Āgama, Taishō Tripiṭaka 125. 608b16-c2, 637c9-21. In these discourses, the desirables are youth, health, life, and gathering with the beloved; the undesirables are ageing, sickness, death, and separation from the beloved.
 
-[20]:
 
-The parallel discourse in the Saṃyukta Āgama is found at Taishō Tripiṭaka 99. 267b5-c6.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Mind-body relationship and its association with health/disease will be further elaborated later in this section.
+</blockquote>
 
-[21]:
 
-The other four are being faithful, honest, strenuous, and wise.
 
-[22]:
 
-As mentioned in the case of Assaji above, due to his sickness, he could not attain meditative concentration (samādhi). Without meditative concentration, it is difficult for one to develop insight meditation (Pāli: vipassanā;Sanskrit: vipaśyanā) which examines the true nature of phenomena (i.e. the nature of impermanence, unsatisfactoriness, non-selfness, and emptiness) and hence he/she is not able to destroy defilements/taints or to achieve liberation.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> That is: right view (sammā-diṭṭhi), right thought (sammā-saṅkappa), right speech (sammā-vācā), right bodily action (sammā-kammanta), right livelihood (sammā-ājiva), right effort (sammāvāyāma), right mindfulness (sammā-sati), and right concentration (sammā-samādhi). The first two relate to wisdom, the following three to moral conduct, and the last three to concentration.
+</blockquote>
 
-[23]:
 
-The Chinese parallel discourse in the Madhyama Āgama is found at Taishō Tripiṭaka 26. 670a26 ff., and the Chinese translation for this phrase is “無病第一利”.
 
-[24]:
 
-Dhammapada-Aṭṭhakathā III. 267: “Tattha ārogyaparamā ti ārogyabhāvaparamā, rogino hi vijjamānāpi lābhā alābhā eva, arogassa sabbalābhā āgatā va honti, tena vuttaṃ: ārogyaparamā lābhā ti.”
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Taishō Tripiṭaka 125. 697a16-17: “夫病之法欲使不病者，此不可得也”. A similar sentence is found in the same Āgama at Taishō Tripiṭaka 125. 679b17-18: “病法，欲使不病者，此不可得”.
+</blockquote>
 
-[25]:
 
-Majjhima Nikāya-Aṭṭhakathā III. 218: “Ārogyaparamā ti gāthāya ye keci dhanalābhā vā yasalābhā vā puttalābhā vā ārogyaṃ tesaṃ paramaṃ uttamaṃ n’ atthi tato uttaritaro lābho ti, ārogyaparamā lābhā.”
 
-[26]:
 
-In the Suttanipāta-Aṭṭhakathā, it explicitly says that “health is nibbāna” (ārogyan ti nibbānaṃ) (II. 507).
+<div className="footnote-card"><strong>[14]</strong> The other four types of loss or attainment relate to relatives, wealth, morality, and view.</div>
 
-[27]:
 
-In these two discourses, three forms of intoxication are listed: intoxication of health, intoxication of youth, and intoxication of life.
 
-[28]:
 
-Aṅguttara Nikāya III. 72: “vyādhidhammo’mhi vyādhiṃ anatīto”;Madhyama Āgama, Taishō Tripiṭaka 26. 608a5-6: “我自有病法，不離於病”.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Dīgha Nikāya-Aṭṭhakathā III. 1028: “Rogo eva vyasanaṃ roga-vyasanaṃ. Rogo hi ārogyaṃ vyasati vināsetī yi vyasanaṃ.”
+</blockquote>
 
-[29]:
 
-A shorter Pāli equivalent of these two discourses is found at Saṃyutta Nikāya V. 302.
 
-[30]:
 
-In the Āgama, there is only one discourse (instead of three) stating the recitation of the seven enlightenment factors for curing disease. The accounts of Mahākassapa and Mahāmoggallāna are missing. In the discourse of the Ekottara Āgama (Taishō Tripiṭaka 125. 731a26-b13), the monk Cunda was sick. He was visited by the Buddha, who asked Cunda to recite the seven enlightenment factors himself. After doing that, Cunda recovered from his sickness. This story differs from that given in the Saṃyutta Nikāya, where the Buddha was sick and it was Cunda who performed the recitation.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Ibid: “Ārogyassa sampadā ārogya-sampadā. Pāripūrī dīgha-rattaṃ ārogatā.”
+</blockquote>
 
-[31]:
 
-Aṅguttara Nikāya II. 142-143: “Dve’me bhikkhave rogā. Katame dve? Kāyiko ca rogo cetasiko ca rogo.” There is no definition of bodily disease and mental disease in this short discourse or in commentaries. Bodily disease should refer to those diseases of the body, as listed in the Aṅguttara Nikāya and Madhyama Āgama (see p. 124125 below). Mental disease, on the basis of this discourse, should relate to taints (āsava) which include those of sense-desire (kāmāsava), existence (bhavāsava), ignorance (avijjāsava), and (wrong) views (diṭṭhāsava) (Pali-English Dictionary, s.v. “āsava”).
 
-[32]:
 
-This kind of question has sparked a lot of discussion in the field of philosophy. Many Buddhist scholars have also contributed their thoughts, e.g. Harvey (1993), Karunadasa (2012) and Lin (2013). It would be beyond the scope of this thesis to examine their arguments. Here a general discussion will be conducted.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> The parallel of this sutta is found in the Madhyama Āgama (Madhyama Āgama), and the above-mentioned loss through sickness is found at Taishō Tripiṭaka 26. 626a23-28: “云何病衰？或有一人長病疾患，極重甚苦，彼作是念：「我長病疾患，極重甚苦，我實有欲，不能行欲... 」... 是為病衰。” My translation for this is: “What is decline by sickness? Perhaps there is a person who has chronic illness and severe pain. He has this thought: ‘I have chronic illness and severe pain. I actually have desire, [but] cannot carry out the desire...’... this is [the meaning of] decline by sickness.”
+</blockquote>
 
-[33]:
 
-The two components, nāma and rūpa, are given different meanings in other texts. For instance, in the Saṃyutta Nikāya (III. 86), rūpa is explained in terms of its nature of deformity by cold, heat, hunger, thirst, wind, sunburn, etc. Karunadasa (1989, 1) states that rūpa has four facets in early Pāli literature, viz. matter or materiality (rūpakkhandha), sphere of visibility (rūpāyatana), a plane in Buddhist cosmology (rūpdhātu, rūpaloka, or rūpavacara), and four stages of meditative concentration (rūpajjhāna). In the Saṃyutta Nikāya (II. 3-4) and the Majjhima Nikāya (I. 53), nāma is described consisting of five mental factors–feeling (vedanā), perception (saññā), volition (cetanā), contact (phassa), and attention (manasikāra). Furthermore, nāma-rūpa is a factor in the twelve-factored formula of dependent arising, where it has a reciprocal interaction with consciousness (viññāṇa) (Karunadasa 2012, 61).
+
+
+<div className="footnote-card"><strong>[18]</strong> The other nine desirable things are wealth, beauty, moral virtues, chastity, friends, much knowledge, wisdom, righteous qualities, and the heavens. This discourse also mentions the obstacles and supports for these ten things. In relation to health, doing what is beneficial or not can be an obstacle or support for health.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> For these statements on desirables or undesirables, see Saṃyukta Āgama-AT, Taishō Tripiṭaka 100. 397a10-13; Ekottara Āgama, Taishō Tripiṭaka 125. 608b16-c2, 637c9-21. In these discourses, the desirables are youth, health, life, and gathering with the beloved; the undesirables are ageing, sickness, death, and separation from the beloved.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> The parallel discourse in the Saṃyukta Āgama is found at Taishō Tripiṭaka 99. 267b5-c6.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> The other four are being faithful, honest, strenuous, and wise.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> As mentioned in the case of Assaji above, due to his sickness, he could not attain meditative concentration (samādhi). Without meditative concentration, it is difficult for one to develop insight meditation (Pāli: vipassanā;Sanskrit: vipaśyanā) which examines the true nature of phenomena (i.e. the nature of impermanence, unsatisfactoriness, non-selfness, and emptiness) and hence he/she is not able to destroy defilements/taints or to achieve liberation.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> The Chinese parallel discourse in the Madhyama Āgama is found at Taishō Tripiṭaka 26. 670a26 ff., and the Chinese translation for this phrase is “無病第一利”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Dhammapada-Aṭṭhakathā III. 267: “Tattha ārogyaparamā ti ārogyabhāvaparamā, rogino hi vijjamānāpi lābhā alābhā eva, arogassa sabbalābhā āgatā va honti, tena vuttaṃ: ārogyaparamā lābhā ti.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Majjhima Nikāya-Aṭṭhakathā III. 218: “Ārogyaparamā ti gāthāya ye keci dhanalābhā vā yasalābhā vā puttalābhā vā ārogyaṃ tesaṃ paramaṃ uttamaṃ n’ atthi tato uttaritaro lābho ti, ārogyaparamā lābhā.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> In the Suttanipāta-Aṭṭhakathā, it explicitly says that “health is nibbāna” (ārogyan ti nibbānaṃ) (II. 507).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> In these two discourses, three forms of intoxication are listed: intoxication of health, intoxication of youth, and intoxication of life.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Aṅguttara Nikāya III. 72: “vyādhidhammo’mhi vyādhiṃ anatīto”;Madhyama Āgama, Taishō Tripiṭaka 26. 608a5-6: “我自有病法，不離於病”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> A shorter Pāli equivalent of these two discourses is found at Saṃyutta Nikāya V. 302.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> In the Āgama, there is only one discourse (instead of three) stating the recitation of the seven enlightenment factors for curing disease. The accounts of Mahākassapa and Mahāmoggallāna are missing. In the discourse of the Ekottara Āgama (Taishō Tripiṭaka 125. 731a26-b13), the monk Cunda was sick. He was visited by the Buddha, who asked Cunda to recite the seven enlightenment factors himself. After doing that, Cunda recovered from his sickness. This story differs from that given in the Saṃyutta Nikāya, where the Buddha was sick and it was Cunda who performed the recitation.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Aṅguttara Nikāya II. 142-143: “Dve’me bhikkhave rogā. Katame dve? Kāyiko ca rogo cetasiko ca rogo.” There is no definition of bodily disease and mental disease in this short discourse or in commentaries. Bodily disease should refer to those diseases of the body, as listed in the Aṅguttara Nikāya and Madhyama Āgama (see p. 124125 below). Mental disease, on the basis of this discourse, should relate to taints (āsava) which include those of sense-desire (kāmāsava), existence (bhavāsava), ignorance (avijjāsava), and (wrong) views (diṭṭhāsava) (Pali-English Dictionary, s.v. “āsava”).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> This kind of question has sparked a lot of discussion in the field of philosophy. Many Buddhist scholars have also contributed their thoughts, e.g. Harvey (1993), Karunadasa (2012) and Lin (2013). It would be beyond the scope of this thesis to examine their arguments. Here a general discussion will be conducted.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> The two components, nāma and rūpa, are given different meanings in other texts. For instance, in the Saṃyutta Nikāya (III. 86), rūpa is explained in terms of its nature of deformity by cold, heat, hunger, thirst, wind, sunburn, etc. Karunadasa (1989, 1) states that rūpa has four facets in early Pāli literature, viz. matter or materiality (rūpakkhandha), sphere of visibility (rūpāyatana), a plane in Buddhist cosmology (rūpdhātu, rūpaloka, or rūpavacara), and four stages of meditative concentration (rūpajjhāna). In the Saṃyutta Nikāya (II. 3-4) and the Majjhima Nikāya (I. 53), nāma is described consisting of five mental factors–feeling (vedanā), perception (saññā), volition (cetanā), contact (phassa), and attention (manasikāra). Furthermore, nāma-rūpa is a factor in the twelve-factored formula of dependent arising, where it has a reciprocal interaction with consciousness (viññāṇa) (Karunadasa 2012, 61).
+</blockquote>
+
+
 
 Herein, viññāṇa is not included as a component of nāma.
 
-[34]:
 
-However, mind plays a more important role in Buddhism. The very first teaching of the Dhammapada (in verses 1 and 2) is: “Things have the mind as the leader, as the superior, [and] things are mind-made” (manopubbaṅgamā dhammā manoseṭṭhā manomayā). In addition, in the Saṃyutta Nikāya (I. 87), it says: “The world is led by the mind, [and] is dragged around by the mind” (cittena nīyati loko, cittena parikissati). Premasiri (2003, 5) points out that: “early Buddhism gives supreme importance to the mind in human living, and emphasizes the great human potential to develop and cultivate the mind with the objective of realizing the ultimate goal of complete liberation from suffering.”
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> However, mind plays a more important role in Buddhism. The very first teaching of the Dhammapada (in verses 1 and 2) is: “Things have the mind as the leader, as the superior, [and] things are mind-made” (manopubbaṅgamā dhammā manoseṭṭhā manomayā). In addition, in the Saṃyutta Nikāya (I. 87), it says: “The world is led by the mind, [and] is dragged around by the mind” (cittena nīyati loko, cittena parikissati). Premasiri (2003, 5) points out that: “early Buddhism gives supreme importance to the mind in human living, and emphasizes the great human potential to develop and cultivate the mind with the objective of realizing the ultimate goal of complete liberation from suffering.”
+</blockquote>
 
 ---
 
-## 28. Chapter Summary
+## Chapter Summary
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -287,8 +378,6 @@ With the general information in this chapter serving as a foundation, the vast s
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -296,10 +385,6 @@ With the general information in this chapter serving as a foundation, the vast s
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Medicinal Substances in the Chapter on Medicine: Bhesajjakkhandhaka Chapter On Medicine Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Complications of Unctuous Enema (sneha-vyapad-siddhi) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 139. Chapter 4 - Complications of Unctuous Enema (sneha-vyapad-siddhi)
+## Chapter 4 - Complications of Unctuous Enema (sneha-vyapad-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -103,7 +103,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 140. Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)
+## Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)
 
 Charaka Samhita (English translation)
 
@@ -197,7 +197,7 @@ Summary
 
 ---
 
-## 141. Chapter 5 - Complications of Enema-tube (netra-basti-vyapad-siddhi)
+## Chapter 5 - Complications of Enema-tube (netra-basti-vyapad-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -249,7 +249,7 @@ Here is the recapitulatory verse.
 
 ---
 
-## 142. Chapter 6 - Complications of Emesis (vamana) and Purgation (virecana)
+## Chapter 6 - Complications of Emesis (vamana) and Purgation (virecana)
 
 Charaka Samhita (English translation)
 
@@ -429,7 +429,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 143. Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)
+## Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)
 
 Charaka Samhita (English translation)
 
@@ -619,7 +619,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 144. Chapter 7 - Complications of Enema (basti-vyapad-siddhi)
+## Chapter 7 - Complications of Enema (basti-vyapad-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -729,8 +729,6 @@ Here is the recapitulatory verse—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -738,10 +736,6 @@ Here is the recapitulatory verse—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Successful Enema therapy (basti-siddhi): Charaka Samhita Complete Translation Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

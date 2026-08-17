@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elephants as gift within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Elephants as gift
+## Elephants as gift
 
 Matangalila and Hastyayurveda (study)
 
@@ -21,13 +21,12 @@ Elephants as gift
 
 Elephants were also used in lieu of payments especially seen in donative cases. They were given as a part of a service, as a gift, as payment for other specific jobs and as a donation to achive merit. We also get hyperbolic claims of donating thousand elephants. For example the Nadagam plates of Vajrahasta indicate to his liberality in giving away a thousand elephants to mendicants. This description almost became a model for all the latter stereotypical mentions of the same pattern. However among all such references this is the first reference so far[1].
 
-[1]:
 
-Ibid., Vol. IV, p.186.
+<div className="footnote-card"><strong>[1]</strong> Ibid., Vol. IV, p.186.</div>
 
 ---
 
-## 17. Capturing of elephants in battle-field
+## Capturing of elephants in battle-field
 
 Matangalila and Hastyayurveda (study)
 
@@ -65,97 +64,119 @@ In the praśasti of the Temple of Lakkhā Maṇḍal at Meḍhā in Jaunsār Bā
 
 In this inscription one Divākarvarman whose famed appellation the Mahīghaṅghala warrior made his foes weaponless, when he nimbly strove over the battle (field) that was impossible on account of the elephant’s tusk (v.14)[21]. Again one Bhāskara is said likewise by whom scaling on foot mountain fortresses accessible (only) to birds, kings expert in fighting were attacked and made to pay a tribute elephants (hastikaranaṃ dāpitāḥ kṣitipāḥ) (v.17)[22].
 
-[1]:
 
-EI, Vol. XX, p.88.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol. XX, p.88.</div>
 
-[2]:
 
-Ibid.
 
-[3]:
 
-Ibid., Vol.III, p.89.
+<div className="footnote-card"><strong>[2]</strong> Ibid.</div>
 
-[4]:
 
-This territorial term forms part of Velanāṇṭi Kulottuṅga-Coḍa-Gaṃka, the name of a chief whose inscriptions range between Śaka-Samvat 1055-1072. EI, Vol. III, p.83, and Annual Report, 1892-93, p. 3.
 
-[5]:
 
-EI, Vol.III, p. 183.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Vol.III, p.89.</div>
 
-[6]:
 
-Had died.
 
-[7]:
 
-The arch of victory. Jayada is the Kanarese genitive.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> This territorial term forms part of Velanāṇṭi Kulottuṅga-Coḍa-Gaṃka, the name of a chief whose inscriptions range between Śaka-Samvat 1055-1072. EI, Vol. III, p.83, and Annual Report, 1892-93, p. 3.
+</blockquote>
 
-[8]:
 
-EI, Vol.IV, p.240.
 
-[9]:
 
-Inscriptions at Sravana Belgola, No.109.
+<div className="footnote-card"><strong>[5]</strong> EI, Vol.III, p. 183.</div>
 
-[10]:
 
-EI, Vol. VI, p.276.
 
-[11]:
 
-Ibid.
+<div className="footnote-card"><strong>[6]</strong> Had died.</div>
 
-[12]:
 
-SII, Vol.III, pp.133-134.
 
-[13]:
 
-EI, Vol.VII, pp.138-147.
+<div className="footnote-card"><strong>[7]</strong> The arch of victory. Jayada is the Kanarese genitive.</div>
 
-[14]:
 
-EI, Vol.XII, pp.61-64.
 
-[15]:
 
-CII, Vol.IV, pp.214, 221.
+<div className="footnote-card"><strong>[8]</strong> EI, Vol.IV, p.240.</div>
 
-[16]:
 
-EI, Vol.XIII, p.217.
 
-[17]:
 
-Ibid.,Vol.IV, p.195, fn.2.
+<div className="footnote-card"><strong>[9]</strong> Inscriptions at Sravana Belgola, No.109.</div>
 
-[18]:
 
-Ibid., Vol.II, p.303.
 
-[19]:
 
-EI., Vol. I, p.15
+<div className="footnote-card"><strong>[10]</strong> EI, Vol. VI, p.276.</div>
 
-[20]:
 
-Ibid., p. 13.
 
-[21]:
 
-Ibid., pp. 13 & 15.
+<div className="footnote-card"><strong>[11]</strong> Ibid.</div>
 
-[22]:
 
-Ibid., pp.13 & 15.
+
+
+<div className="footnote-card"><strong>[12]</strong> SII, Vol.III, pp.133-134.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> EI, Vol.VII, pp.138-147.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> EI, Vol.XII, pp.61-64.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> CII, Vol.IV, pp.214, 221.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> EI, Vol.XIII, p.217.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid.,Vol.IV, p.195, fn.2.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., Vol.II, p.303.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> EI., Vol. I, p.15</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., p. 13.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., pp. 13 & 15.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., pp.13 & 15.</div>
 
 ---
 
-## 19. Elephants as chronogram
+## Elephants as chronogram
 
 Matangalila and Hastyayurveda (study)
 
@@ -174,21 +195,20 @@ It is interesting to note that epigraphs generally followed to express the dates
 
 Piṅgala, Varāhamihira and later authors use such words with numerical meanings as grouped in Devandva compounds[1]. An elephant confused with “a snack” (ahi, nāga, gaja, dantin, diggaja, hastin, mātaṅga, kuñjara, dvipa etc.) is counted in the sense to express number “eight” (8). Among several refernces mention may be made of the Bitragunta grant of Saṃgam II (of Vijayanagara dynasty at the Kāvāli taluk in Nellor district), which is in the Śaka year and measured by the elephants (nāga: 8), the mountains (śaila: 7), and the suns (12), in figures–1278 (V.20, ll. 76-77)[2], -in the cyclic year Durmukha[3].
 
-[1]:
 
-Sircar, D.C. Indian Epigraphy, Delhi, Motilal Banarsidass Publishers Pvt. Ltd., First Ed.1965, Reprint 1996, pp. 229-230.
+<div className="footnote-card"><strong>[1]</strong> Sircar, D.C. Indian Epigraphy, Delhi, Motilal Banarsidass Publishers Pvt. Ltd., First Ed.1965, Reprint 1996, pp. 229-230.</div>
 
-[2]:
 
-EI, Vol.III, p. 27. Before c. CE 1387.
 
-[3]:
 
-Ibid., p. 33.
+<div className="footnote-card"><strong>[2]</strong> EI, Vol.III, p. 27. Before c. CE 1387.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., p. 33.</div>
 
 ---
-
-
 
 ---
 
@@ -197,10 +217,6 @@ Ibid., p. 33.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Epithets containing Elephants: Matangalila And Hastyayurveda Study Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

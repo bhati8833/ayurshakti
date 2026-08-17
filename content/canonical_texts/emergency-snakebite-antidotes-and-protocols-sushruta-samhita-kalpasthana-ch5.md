@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Classical anti-venomous Agadas, emergency tourniquet & suction protocols, and resuscitation formulations (Ajeya Ghrita). Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Chapter V - The medical treatment of snake bites
+## Chapter V - The medical treatment of snake bites
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -177,29 +177,36 @@ The following drugs viz., Somaraji seeds and Somaraji flowers,[4] Katabhi, Sindh
 
 Thus ends the fifth Chapter of the Kalpa-Sathana in the Sushruta Samhita which deals with the medical treatment of snake-bites.
 
-[1]:
 
-Dallana recommends burnt earth or the earth of an ant-hill or ash for the purpose of filling up the mouth before sucking the poisoned blood.
+<div className="footnote-card"><strong>[1]</strong> Dallana recommends burnt earth or the earth of an ant-hill or ash for the purpose of filling up the mouth before sucking the poisoned blood.</div>
 
-[2]:
 
-Dallana holds that by the word “bone” in the text should be understood all the different sources of poison, viz., fæces, urine, nail, tooth, bristle, etc., of an animal.
 
-[3]:
 
-Dallana says that in place of “Sugandhā Naga-vrittikā” some read “Sugandhā Naga-mrittikā” which means “the sweet-scented earth of the mountain” known to be possessed of anti-poisonous virtues.
+<div className="footnote-card"><strong>[2]</strong> Dallana holds that by the word “bone” in the text should be understood all the different sources of poison, viz., fæces, urine, nail, tooth, bristle, etc., of an animal.</div>
 
-[4]:
 
-Some explain “somarājiphalaṃ puṣpaṃ” to mean ‘Somaráji, Phala (Madana) and Pushpa (Nága-keśara).’
 
-[5]:
 
-Some explain “ekaśo histriśo vāpi” to mean that the Agada should be used “once, twice or thrice” according to the requirements in each case.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Dallana says that in place of “Sugandhā Naga-vrittikā” some read “Sugandhā Naga-mrittikā” which means “the sweet-scented earth of the mountain” known to be possessed of anti-poisonous virtues.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Some explain “somarājiphalaṃ puṣpaṃ” to mean ‘Somaráji, Phala (Madana) and Pushpa (Nága-keśara).’
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Some explain “ekaśo histriśo vāpi” to mean that the Agada should be used “once, twice or thrice” according to the requirements in each case.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -208,10 +215,6 @@ Some explain “ekaśo histriśo vāpi” to mean that the Agada should be used 
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ayurvedic-management-of-rabies-and-hydrophobia-sushruta-samhita-kalpasthana-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurvedic Management of Rabies and Hydrophobia: Sushruta Samhita Kalpasthana Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

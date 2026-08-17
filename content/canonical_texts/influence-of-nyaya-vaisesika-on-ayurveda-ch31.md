@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 10. Three Dosa theory within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. 10. Three Dosa theory
+## 10. Three Dosa theory
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -53,8 +53,6 @@ substances. i.e., substances possessing properties and actions opposite of the d
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ substances. i.e., substances possessing properties and actions opposite of the d
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch32" className="text-emerald-400 hover:underline flex items-center font-medium">Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha: Influence Of Nyaya Vaisesika On Ayurveda Chapter 32 →</a>
 </div>
-
-
-
-
 
 ---
 

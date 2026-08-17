@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Alkaline cautery within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 22. Chapter XI - Alkaline cautery
+## Chapter XI - Alkaline cautery
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -71,25 +71,25 @@ An Alkali administered by an ignorant physician is to be dreaded more than poiso
 
 Thus ends the eleventh Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Pharmacy of Alkalis.
 
-[1]:
 
-Two parts of the burnt ashes of Ghanta-parula and one part of the ashes of Kutaja, etc.
+<div className="footnote-card"><strong>[1]</strong> Two parts of the burnt ashes of Ghanta-parula and one part of the ashes of Kutaja, etc.</div>
 
-[2]:
 
-In a case brought about by (Pitta) ascendency of the deranged bile.
 
-[3]:
 
-It should be scraped with the alkali where the skin would appear hard and benumbed owing to the action of the deranged vital winds (Vayu).
+<div className="footnote-card"><strong>[2]</strong> In a case brought about by (Pitta) ascendency of the deranged bile.</div>
 
-[4]:
 
-In a case of deranged phlegm (Kapha) the affected part being marked by itching and swelling.
+
+
+<div className="footnote-card"><strong>[3]</strong> It should be scraped with the alkali where the skin would appear hard and benumbed owing to the action of the deranged vital winds (Vayu).</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> In a case of deranged phlegm (Kapha) the affected part being marked by itching and swelling.</div>
 
 ---
-
-
 
 ---
 
@@ -98,10 +98,6 @@ In a case of deranged phlegm (Kapha) the affected part being marked by itching a
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Knowledge of doshas etc: Sushruta Samhita Sutrasthana Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

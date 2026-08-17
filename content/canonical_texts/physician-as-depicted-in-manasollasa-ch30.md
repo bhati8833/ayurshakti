@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Quantity of food and digestion within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. 3. Quantity of food and digestion
+## 3. Quantity of food and digestion
 
 Physician as depicted in Manasollasa
 
@@ -43,8 +43,6 @@ According to Manasollasa - (1.19.149 to 153) the amount of food which, without d
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -52,10 +50,6 @@ According to Manasollasa - (1.19.149 to 153) the amount of food which, without d
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch31" className="text-emerald-400 hover:underline flex items-center font-medium">5. Characteristics of pseudo and feigned Physicians: Physician As Depicted In Manasollasa Chapter 31 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Study of Classical Indian Medicine in Germany within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 63. The Study of Classical Indian Medicine in Germany
+## The Study of Classical Indian Medicine in Germany
 
 Journal of the European Ayurvedic Society
 
@@ -59,7 +59,7 @@ the frame of this lecture. For similar reasons, alchemical studies too have been
 
 ---
 
-## 64. Towards a Critical Edition of the Bhelasamhita
+## Towards a Critical Edition of the Bhelasamhita
 
 Journal of the European Ayurvedic Society
 
@@ -83,7 +83,7 @@ T. Yamashita, Towards a Critical Edition of the Bhelasamhita 23 body respectivel
 
 ---
 
-## 65. Two Karmavipaka Texts on Curing Diseases and other Misfortunes
+## Two Karmavipaka Texts on Curing Diseases and other Misfortunes
 
 Journal of the European Ayurvedic Society
 
@@ -109,8 +109,6 @@ which the client was born and his present calamities the practitioner is able to
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -118,10 +116,6 @@ which the client was born and his present calamities the practitioner is able to
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Astanga Sangraha, Kalpasthana IV: Translation and Notes: Journal Of The European Ayurvedic Society Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

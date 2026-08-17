@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Brassicaceae or Cruciferae (mustards family) within Indian Medicinal Plants. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. Brassicaceae or Cruciferae (mustards family)
+## Brassicaceae or Cruciferae (mustards family)
 
 Indian Medicinal Plants
 
@@ -21,11 +21,7 @@ A comprehensive work on Indian Botany including plant synonyms in various langua
 
 Brassicaceae or Cruciferae (mustards family)
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -34,10 +30,6 @@ Brassicaceae or Cruciferae (mustards family)
   <a href="/articles/indian-medicinal-plants" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/indian-medicinal-plants-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Notes: Indian Medicinal Plants Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

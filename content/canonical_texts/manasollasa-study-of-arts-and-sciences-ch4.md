@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Element of Kingdom (Rashtra or Janapada) within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. 2.5. Element of Kingdom (Rashtra or Janapada)
+## 2.5. Element of Kingdom (Rashtra or Janapada)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -27,7 +27,7 @@ According to Somesvara the Rastra or Janapada is the fifth important state eleme
 
 ---
 
-## 11. 2.6. Element of the Fort and Army (Durga and Bala)
+## 2.6. Element of the Fort and Army (Durga and Bala)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -63,8 +63,6 @@ The next elements of the State are Fort and Army. The defence of the State is ba
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -72,10 +70,6 @@ The next elements of the State are Fort and Army. The defence of the State is ba
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Element of Provincial Administration: Manasollasa Study Of Arts And Sciences Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

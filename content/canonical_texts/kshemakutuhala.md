@@ -13,76 +13,74 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Kshemakutuhala Chapter 1](/articles/kshemakutuhala-ch1)
+### [General Discourse: Kshemakutuhala Chapter 1](/articles/kshemakutuhala-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Kshemakutuhala.
 
-### 2. [Types of Cooked food and Cooking: Kshemakutuhala Chapter 2](/articles/kshemakutuhala-ch2)
+### [Types of Cooked food and Cooking: Kshemakutuhala Chapter 2](/articles/kshemakutuhala-ch2)
 **Overview**: Detailed classical discussion on Types of Cooked food and Cooking within Kshemakutuhala.
 
-### 3. [References and Notes for chapter 1: Kshemakutuhala Chapter 3](/articles/kshemakutuhala-ch3)
+### [References and Notes for chapter 1: Kshemakutuhala Chapter 3](/articles/kshemakutuhala-ch3)
 **Overview**: Detailed classical discussion on References and Notes for chapter 1 within Kshemakutuhala.
 
-### 4. [Normal diet: Kshemakutuhala Chapter 4](/articles/kshemakutuhala-ch4)
+### [Normal diet: Kshemakutuhala Chapter 4](/articles/kshemakutuhala-ch4)
 **Overview**: Detailed classical discussion on Normal diet within Kshemakutuhala.
 
-### 5. [Proper time of taking food: Kshemakutuhala Chapter 5](/articles/kshemakutuhala-ch5)
+### [Proper time of taking food: Kshemakutuhala Chapter 5](/articles/kshemakutuhala-ch5)
 **Overview**: Detailed classical discussion on Proper time of taking food within Kshemakutuhala.
 
-### 6. [Description of the Kitchen and its Utensils: Kshemakutuhala Chapter 6](/articles/kshemakutuhala-ch6)
+### [Description of the Kitchen and its Utensils: Kshemakutuhala Chapter 6](/articles/kshemakutuhala-ch6)
 **Overview**: Detailed classical discussion on Description of the Kitchen and its Utensils within Kshemakutuhala.
 
-### 7. [Description of the Physician: Kshemakutuhala Chapter 7](/articles/kshemakutuhala-ch7)
+### [Description of the Physician: Kshemakutuhala Chapter 7](/articles/kshemakutuhala-ch7)
 **Overview**: Detailed classical discussion on Description of the Physician within Kshemakutuhala.
 
-### 8. [The Sitting arrangement and Dining table: Kshemakutuhala Chapter 8](/articles/kshemakutuhala-ch8)
+### [The Sitting arrangement and Dining table: Kshemakutuhala Chapter 8](/articles/kshemakutuhala-ch8)
 **Overview**: Detailed classical discussion on The Sitting arrangement and Dining table within Kshemakutuhala.
 
-### 9. [References and Notes for chapter 2: Kshemakutuhala Chapter 9](/articles/kshemakutuhala-ch9)
+### [References and Notes for chapter 2: Kshemakutuhala Chapter 9](/articles/kshemakutuhala-ch9)
 **Overview**: Detailed classical discussion on References and Notes for chapter 2 within Kshemakutuhala.
 
-### 10. [Ayurvedic regimens in Sisira (Late Winter): Kshemakutuhala Chapter 10](/articles/kshemakutuhala-ch10)
+### [Ayurvedic regimens in Sisira (Late Winter): Kshemakutuhala Chapter 10](/articles/kshemakutuhala-ch10)
 **Overview**: Detailed classical discussion on Ayurvedic regimens in Sisira (Late Winter) within Kshemakutuhala.
 
-### 11. [Ayurvedic regimens in Varsa (Rainy Season): Kshemakutuhala Chapter 11](/articles/kshemakutuhala-ch11)
+### [Ayurvedic regimens in Varsa (Rainy Season): Kshemakutuhala Chapter 11](/articles/kshemakutuhala-ch11)
 **Overview**: Detailed classical discussion on Ayurvedic regimens in Varsa (Rainy Season) within Kshemakutuhala.
 
-### 12. [Ayurvedic Facial and Skincare: Kshemakutuhala Chapter 12](/articles/kshemakutuhala-ch12)
+### [Ayurvedic Facial and Skincare: Kshemakutuhala Chapter 12](/articles/kshemakutuhala-ch12)
 **Overview**: Detailed classical discussion on Ayurvedic Facial and Skincare within Kshemakutuhala.
 
-### 13. [Ayurvedic regimens for embellishing the body: Kshemakutuhala Chapter 13](/articles/kshemakutuhala-ch13)
+### [Ayurvedic regimens for embellishing the body: Kshemakutuhala Chapter 13](/articles/kshemakutuhala-ch13)
 **Overview**: Detailed classical discussion on Ayurvedic regimens for embellishing the body within Kshemakutuhala.
 
-### 14. [Ayurvedic regimens for Afternoon and Nightly activities: Kshemakutuhala Chapter 14](/articles/kshemakutuhala-ch14)
+### [Ayurvedic regimens for Afternoon and Nightly activities: Kshemakutuhala Chapter 14](/articles/kshemakutuhala-ch14)
 **Overview**: Detailed classical discussion on Ayurvedic regimens for Afternoon and Nightly activities within Kshemakutuhala.
 
-### 15. [References and Notes for chapter 3: Kshemakutuhala Chapter 15](/articles/kshemakutuhala-ch15)
+### [References and Notes for chapter 3: Kshemakutuhala Chapter 15](/articles/kshemakutuhala-ch15)
 **Overview**: Detailed classical discussion on References and Notes for chapter 3 within Kshemakutuhala.
 
-### 16. [Cooking rules and usage of Vegetables in Ayurveda: Kshemakutuhala Chapter 16](/articles/kshemakutuhala-ch16)
+### [Cooking rules and usage of Vegetables in Ayurveda: Kshemakutuhala Chapter 16](/articles/kshemakutuhala-ch16)
 **Overview**: Detailed classical discussion on Cooking rules and usage of Vegetables in Ayurveda within Kshemakutuhala.
 
-### 17. [Ayurveda cooking rules of Puspa-saka (Flower-vegetable): Kshemakutuhala Chapter 17](/articles/kshemakutuhala-ch17)
+### [Ayurveda cooking rules of Puspa-saka (Flower-vegetable): Kshemakutuhala Chapter 17](/articles/kshemakutuhala-ch17)
 **Overview**: Detailed classical discussion on Ayurveda cooking rules of Puspa-saka (Flower-vegetable) within Kshemakutuhala.
 
-### 18. [Ayurveda cooking rules of Kanda-saka (Vegetables of rhizomes): Kshemakutuhala Chapter 18](/articles/kshemakutuhala-ch18)
+### [Ayurveda cooking rules of Kanda-saka (Vegetables of rhizomes): Kshemakutuhala Chapter 18](/articles/kshemakutuhala-ch18)
 **Overview**: Detailed classical discussion on Ayurveda cooking rules of Kanda-saka (Vegetables of rhizomes) within Kshemakutuhala.
 
-### 19. [Milk products and preparations in Ayurvedic cookery: Kshemakutuhala Chapter 19](/articles/kshemakutuhala-ch19)
+### [Milk products and preparations in Ayurvedic cookery: Kshemakutuhala Chapter 19](/articles/kshemakutuhala-ch19)
 **Overview**: Detailed classical discussion on Milk products and preparations in Ayurvedic cookery within Kshemakutuhala.
 
-### 20. [References and Notes for chapter 4: Kshemakutuhala Chapter 20](/articles/kshemakutuhala-ch20)
+### [References and Notes for chapter 4: Kshemakutuhala Chapter 20](/articles/kshemakutuhala-ch20)
 **Overview**: Detailed classical discussion on References and Notes for chapter 4 within Kshemakutuhala.
 
-### 21. [Appendix 3 - Twenty physical properties of the food: Kshemakutuhala Chapter 21](/articles/kshemakutuhala-ch21)
+### [Appendix 3 - Twenty physical properties of the food: Kshemakutuhala Chapter 21](/articles/kshemakutuhala-ch21)
 **Overview**: Detailed classical discussion on Appendix 3 - Twenty physical properties of the food within Kshemakutuhala.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Synopsis
+## Synopsis
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -110,7 +108,7 @@ pei dao STATEMENT No. 2 SOURCES INDEBTNESS AND ORIGINALITY 27 y In the presentat
 
 ---
 
-## 2. Preface
+## Preface
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -126,7 +124,7 @@ i i mem 3 I must take an ooportunity to offer my sincere thanks to Mr. Shailesh 
 
 ---
 
-## 4. Introduction
+## Introduction
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -146,7 +144,7 @@ To whatever category one may belong to, the plant, the animal and the human bein
 
 ---
 
-## 5. Chapter 1 - Introductory
+## Chapter 1 - Introductory
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -154,11 +152,9 @@ This is an English study of the Kshemakutuhala by Kshemasharma—an ancient Indi
 
 Chapter 1 - Introductory
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 26. Introduction—Classification of seasons (Ritucarya)
+## Introduction—Classification of seasons (Ritucarya)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -178,7 +174,7 @@ The administration of Pancakarma (elimination therapy) sa 12 according to the se
 
 ---
 
-## 38. Dinacarya (daily regimens)—Introduction
+## Dinacarya (daily regimens)—Introduction
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -192,7 +188,7 @@ talpaans 39 106 stool in detail. This can lengthen the span of life and help one
 
 ---
 
-## 50. Cooking in Ayurveda—Introduction
+## Cooking in Ayurveda—Introduction
 
 Kshemakutuhala by Kshemasharma (critical study)
 

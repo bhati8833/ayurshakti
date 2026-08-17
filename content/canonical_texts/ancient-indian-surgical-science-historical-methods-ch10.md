@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 12. Nagarjuna Acharya and Surgery within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 32. 12. Nagarjuna Acharya and Surgery
+## 12. Nagarjuna Acharya and Surgery
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ popular and as a result of it, surgical operations were looked upon as causing i
 
 ---
 
-## 33. 15. Astadhyayi of Panini and Surgery
+## 15. Astadhyayi of Panini and Surgery
 
 Surgery in ancient India (Study)
 
@@ -39,7 +39,7 @@ were also mentioned in Astadhyayi. Panini refers to certain terms which provide 
 
 ---
 
-## 34. 14. Kautilya’s Arthasastra and Surgery
+## 14. Kautilya’s Arthasastra and Surgery
 
 Surgery in ancient India (Study)
 
@@ -51,8 +51,6 @@ Kautilya, the minister of the emperor Chandragupta Maurya, wrote Arthasastra in 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -60,10 +58,6 @@ Kautilya, the minister of the emperor Chandragupta Maurya, wrote Arthasastra in 
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">17. References of Surgery in Rajatarangini: Ancient Indian Surgical Science Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -280,7 +280,11 @@ Treatment in Kapha-type
 
 174-176. In alcoholism [madatyaya] of the Kapha-type, the patient should eat, according to the strength of his gastric fire, at proper meal-time, meat copiously flavoured with black pepper and mixed with juice of pomelo and large measure of pungent articles as well as with bishop’s weed and dry ginger, and acidified with the juice of pomegranate and mixed copiously with pieces of green ginger and rolled up in a hot pancake; he should then take a draught of wholesome wine.
 
+
+<blockquote className="ayur-shloka">
 177-178. Take sanchal salt, cumin seeds, kokam butter and Amlavetasa one part each, cinnamon, cardamom and black pepper ½ part each, and mix with one part of sugar. This salt-preparation containing eight ingredients (Aṣṭāṅga) is an excellent promoter of the gastric fire and should be given in alcoholism of the Kapha type, for cleansing the body-channels.
+</blockquote>
+
 
 179. The same Ashtanga salt duly diluted with sweet and acid juices, adds relish to articles of wheat and barley and also to meat preparations.
 

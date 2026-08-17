@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Knowledge of taste etc of drugs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. Chapter XL - Knowledge of taste etc of drugs
+## Chapter XL - Knowledge of taste etc of drugs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -55,17 +55,15 @@ Unscrutable and unthinkable are the virtues of drugs (medicines), which are abov
 
 Thus ends the fortieth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with drugs and their flavours, virtues, and digestive (chemical) transformation.
 
-[1]:
 
-Flavours such as, sweet, acid and saline, subdue the deranged Vayu. Tastes such as, sweet, bitter and astringent are antibilious in their efficacy, while those, which are pungent, bitter and astringent, are antiphlegmagogic in their virtues.
+<div className="footnote-card"><strong>[1]</strong> Flavours such as, sweet, acid and saline, subdue the deranged Vayu. Tastes such as, sweet, bitter and astringent are antibilious in their efficacy, while those, which are pungent, bitter and astringent, are antiphlegmagogic in their virtues.</div>
 
-[2]:
 
-The process of digestion is followed by a reactionary taste, which may be either sweet, pungent, acid, astringent, bitter or saline.
+
+
+<div className="footnote-card"><strong>[2]</strong> The process of digestion is followed by a reactionary taste, which may be either sweet, pungent, acid, astringent, bitter or saline.</div>
 
 ---
-
-
 
 ---
 
@@ -74,10 +72,6 @@ The process of digestion is followed by a reactionary taste, which may be either
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch43" className="text-emerald-400 hover:underline flex items-center font-medium">Knowledge of tastes of drugs: Sushruta Samhita Sutrasthana Chapter 43 →</a>
 </div>
-
-
-
-
 
 ---
 

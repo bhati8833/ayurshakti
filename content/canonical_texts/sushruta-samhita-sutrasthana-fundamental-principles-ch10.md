@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Surgical instruments within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Chapter VIII - Surgical instruments
+## Chapter VIII - Surgical instruments
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -61,13 +61,10 @@ The four articles such as strips of bamboo skin, crystals, bits of glass, and th
 
 Thus ends the eighth chapter of the Sutrasthana in the Sushruta Samhita which treats of Surgical Instruments.
 
-[1]:
 
-The Mandalagra measures six fingers in length and is provided with a round or circular face. The Karapatra is the same as the modern saw. The term Vriddhipatra signifies a razor. A Vriddhipatra measures seven fingers in length, the handle alone measuring five fingers. The Nakhasastra is the same as the modern nail-clipper, the blade of the instrument measuring a finger in breadth. The Utpalapatra resembles a lotus leaf in shape. The Arddhadhara (lancet) measures eight fingers’ breadth in length, being one finger broad at the middle, and two fingers at the blade. The Suchi. is the same as the modern needle. The Kushapatra is so called from its resemblance to the blade of a Kusha-grass. An atemukha resembles the bill of a bird of the ate species. The blade of an atemukha measures two fingers in length, the handle measuring five fingers and thus giving an entire length of seven fingers. The Shararimukha (scissors) is so-called from the resemblance of its blades to the bills of a Sharari bird and looks somewhat like a modern black-smith’s clipper, the measure of its entire length being twelve fingers. The Antarmukha is semicircular in shape and is provided with a toothed edge like that of a hand-saw. The Trikurchaka (trocar) is provided with three separate blades. The intervening space between the couple of blades attached to a handle measuring five fingers in length, is equal to the width of a Vrihiseed, its entire length being eight fingers.
+<div className="footnote-card"><strong>[1]</strong> The Mandalagra measures six fingers in length and is provided with a round or circular face. The Karapatra is the same as the modern saw. The term Vriddhipatra signifies a razor. A Vriddhipatra measures seven fingers in length, the handle alone measuring five fingers. The Nakhasastra is the same as the modern nail-clipper, the blade of the instrument measuring a finger in breadth. The Utpalapatra resembles a lotus leaf in shape. The Arddhadhara (lancet) measures eight fingers’ breadth in length, being one finger broad at the middle, and two fingers at the blade. The Suchi. is the same as the modern needle. The Kushapatra is so called from its resemblance to the blade of a Kusha-grass. An atemukha resembles the bill of a bird of the ate species. The blade of an atemukha measures two fingers in length, the handle measuring five fingers and thus giving an entire length of seven fingers. The Shararimukha (scissors) is so-called from the resemblance of its blades to the bills of a Sharari bird and looks somewhat like a modern black-smith’s clipper, the measure of its entire length being twelve fingers. The Antarmukha is semicircular in shape and is provided with a toothed edge like that of a hand-saw. The Trikurchaka (trocar) is provided with three separate blades. The intervening space between the couple of blades attached to a handle measuring five fingers in length, is equal to the width of a Vrihiseed, its entire length being eight fingers.</div>
 
 ---
-
-
 
 ---
 
@@ -76,10 +73,6 @@ The Mandalagra measures six fingers in length and is provided with a round or ci
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Practical surgical instructions: Sushruta Samhita Sutrasthana Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

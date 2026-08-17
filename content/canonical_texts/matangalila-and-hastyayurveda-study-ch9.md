@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Vaśālobha: The second technique within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 29. Vaśālobha: The second technique
+## Vaśālobha: The second technique
 
 Matangalila and Hastyayurveda (study)
 
@@ -79,69 +79,94 @@ The hunters having selected a level tract of arid ground dig a trench all round 
 
 Megasthenese said that to prevent them shaking off their riders, or doing mischief otherwise, make with a sharp knife an incision all round their neck, and fasten the noose round in the incision. By means of the wound thus made, they keep their head and neck quite steady: for it they become restive and turn round, the wound is galled by the action of the rope. They shun, therefore, violent movements, and, knowing that they have been vanquished, suffer themselves to baled in fetters by the tame ones. Thus we can get a picture of capturing method by mixing of two, in the Mauryan reign, though it is clear that this technic was also a cruel one.
 
-[1]:
 
-Ibid., p.89.
+<div className="footnote-card"><strong>[1]</strong> Ibid., p.89.</div>
 
-[2]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
 
-[3]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.21.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 26.
+</blockquote>
 
-[4]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, Bombay: University of Bombay, 1963, p.68.
 
-[5]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.61.
+<div className="footnote-card"><strong>[3]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.21.</div>
 
-[6]:
 
-Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25
 
-[7]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Chapter X, v. 8, 9 and 10, pp.89-90.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, Bombay: University of Bombay, 1963, p.68.
+</blockquote>
 
-[8]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 27.
 
-[9]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.61.
+</blockquote>
 
-[10]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 89.
 
-[11]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 27.
+<div className="footnote-card"><strong>[6]</strong> Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25</div>
 
-[12]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 85 and T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha,, p. 25.
 
-[13]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 89-90.
+<div className="footnote-card"><strong>[7]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Chapter X, v. 8, 9 and 10, pp.89-90.</div>
 
-[14]:
 
-John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, New Delhi: Munshiram Manoharlal Publishers Pvt. Ltd., 2015, pp. 218-220.
 
-[15]:
 
-John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, p. 91.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 27.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 89.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 85 and T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha,, p. 25.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 89-90.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, New Delhi: Munshiram Manoharlal Publishers Pvt. Ltd., 2015, pp. 218-220.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, p. 91.</div>
 
 ---
 
-## 30. Anugatabandha: The third technique
+## Anugatabandha: The third technique
 
 Matangalila and Hastyayurveda (study)
 
@@ -162,25 +187,31 @@ Mānasollāsa vividly characterized this method as Anugatabandha (v. 198-212). A
 
 Gajaśāstra (v. 32) briefly describes Anugatabandha method in a different form and it mentions that in this technique the deluded elephant follows the female, by the experts in capturing elephants[4]. This method more or less complements Megasthenese’s description, which has been mentioned earlier thus it was a very common practice which did not change over a long period of time.
 
-[1]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.90.
+<div className="footnote-card"><strong>[1]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p.90.</div>
 
-[2]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 27.
 
-[3]:
 
-Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 27.
+</blockquote>
 
-[4]:
 
-Shri Mantramurti K.S.Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.62.
+
+
+<div className="footnote-card"><strong>[3]</strong> Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Shri Mantramurti K.S.Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.62.
+</blockquote>
 
 ---
 
-## 32. Āpātabandha: The fourth technique
+## Āpātabandha: The fourth technique
 
 Matangalila and Hastyayurveda (study)
 
@@ -198,33 +229,40 @@ The elephant tied with this snare is severely afflicted. He may even die in rare
 
 According to Gajaśāstra (v.33)[5] the experts in capturing elephants mention this technique as Āpāta as the elephants fall a little way into a hole where there are sallakīs and bananas.
 
-[1]:
 
-bahvagrāstvatha varttuḷīkṛtanibaddhāgrāḥ pṛthag rajjaḥ kerīvalkaśalākikādiracitāḥ pūgadrunāhonmitāḥ /
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> bahvagrāstvatha varttuḷīkṛtanibaddhāgrāḥ pṛthag rajjaḥ kerīvalkaśalākikādiracitāḥ pūgadrunāhonmitāḥ /
 prāyaḥ ṣaṣṭikarāyatāḥ sunihitāścetastataḥ pāṃsubhiḥ saṃcchannāḥ karamātranimnadharaṇīgarteâtivistārite //
      —T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 27. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 90.
+</blockquote>
 
-[2]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 90-91.
 
-[3]:
 
-nikṣitapyātra mṛṇāḷaveṇukadalīpuṇḍrekṣukāṇḍādikaṃ tān pāśānapi sannibadhya suiḍhe vṛkṣeâtra dakṣā bhaṭāḥ /
+<div className="footnote-card"><strong>[2]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 90-91.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> nikṣitapyātra mṛṇāḷaveṇukadalīpuṇḍrekṣukāṇḍādikaṃ tān pāśānapi sannibadhya suiḍhe vṛkṣeâtra dakṣā bhaṭāḥ /
 saṃchannāḥ pratipālya bhakṣaṇaparān badhnīyurāśu dvipān pāśākarṣaṇato nipātya iḍhamityāpātasaṃjño grahaḥ //
      —T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 27-28.
+</blockquote>
 
-[4]:
 
-Nalini Sadhale & Y.L. Nene.‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25.
 
-[5]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Chapter 6), p.62.
+<div className="footnote-card"><strong>[4]</strong> Nalini Sadhale & Y.L. Nene.‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Chapter 6), p.62.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -233,10 +271,6 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram o
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Avapāta: The fifth technique: Matangalila And Hastyayurveda Study Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

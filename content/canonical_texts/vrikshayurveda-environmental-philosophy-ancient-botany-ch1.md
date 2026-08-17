@@ -24,7 +24,7 @@ description: "Texts including English translation of extracts."
 
 ---
 
-## 5. Prologue
+## Prologue
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -42,8 +42,6 @@ IV where I have collected materials for this study. I have also attended several
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -51,10 +49,6 @@ IV where I have collected materials for this study. I have also attended several
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">3. Origin of Kalpavriksha: Vrikshayurveda and Environmental Philosophy Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

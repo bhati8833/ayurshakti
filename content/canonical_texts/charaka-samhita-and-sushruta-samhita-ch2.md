@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Question of Authorship within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. The Question of Authorship
+## The Question of Authorship
 
 Charaka Samhita and Sushruta Samhita
 
@@ -33,125 +33,192 @@ The isolation of these textual layers and determination of their chronology has 
 
 There is in fact also a correlation between Bharadvāja and the teacher of Suśruta. Bharadvāja was known to be the priest of three generations of the king of Kāśī, i.e., Dhanvantari, Sudāsa and Pratardana. Therefore, it is suggested that Divodāsa must have owed his knowledge to his priest and preceptor.[28] The Harivaṃsa, in fact, identifies him as the teacher of Dhanvantari[29] though such evidence is not forthcoming from the Suśruta Saṃhitā.
 
-[1]:
 
-tantasya kartā prathamāgniveśo yato(a)bhavat; Caraka Saṃhitā Sūtrasthāna 1.32.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> tantasya kartā prathamāgniveśo yato(a)bhavat; Caraka Saṃhitā Sūtrasthāna 1.32.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Siddhisthāna 12.37-38.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 30.70.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Siddhisthāna 12.37-38.
+</blockquote>
 
-[4]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Siddhisthāna 12.36-38.
 
-[5]:
 
-Caraka Saṃhitā Siddhisthāna 12.39-40.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 30.70.
+</blockquote>
 
-[6]:
 
-S.K.R.Rao, Encyclopaedia of Indian Medicine, Vol.1, Bombay, 2005 (Reprint), p.95.
 
-[7]:
 
-Kaviraj K.L. Bhisagratna, An English Translation of the Sushruta Samhita, Vol.1, p.iii.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Cakrapāṇidatta on Caraka Saṃhitā Siddhisthāna 12.36-38.
+</blockquote>
 
-[8]:
 
-G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, containing Notices, Biographical and Bibliographical, of the Ayurvedic Physicians and their Works on Medicine, from the Earliest Ages to the Present Time, New Delhi, 1974 (Reprint), p.572.
 
-[9]:
 
-G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, p.573-574.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Siddhisthāna 12.39-40.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.39.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.40.
+<div className="footnote-card"><strong>[6]</strong> S.K.R.Rao, Encyclopaedia of Indian Medicine, Vol.1, Bombay, 2005 (Reprint), p.95.</div>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.3.
 
-[13]:
 
-Suśruta Saṃhitā Uttaratantra 1.5-7.
+<div className="footnote-card"><strong>[7]</strong> Kaviraj K.L. Bhisagratna, An English Translation of the Sushruta Samhita, Vol.1, p.iii.</div>
 
-[14]:
 
-G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, p.576.
 
-[15]:
 
-G.N. Mukhopadhayaya, History of Indian Medicine, Vol.3, p.581.
+<div className="footnote-card"><strong>[8]</strong> G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, containing Notices, Biographical and Bibliographical, of the Ayurvedic Physicians and their Works on Medicine, from the Earliest Ages to the Present Time, New Delhi, 1974 (Reprint), p.572.</div>
 
-[16]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, Groningen 1999, p.338. Hereafter referred to as History of Indian Medical Literature
 
-[17]:
 
-J.Mitra, “The Geographical Data in the Suśruta Saṃhitā” in Bulletin of the Indian Institute of History of Medicine, Vol. VI, No.3, 1976, pp. 158-166.
+<div className="footnote-card"><strong>[9]</strong> G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, p.573-574.</div>
 
-[18]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (ed.), Suśruta-Saṃhitā, Varanasi, 1980, p.v; Also P.V. Sharma (Ed. and trans.), Suśruta-Saṃhitā, Vol. I, Varanasi, 2010, (Reprint), Introduction, p.iv.
 
-[19]:
 
-P.V. Sharma (Ed. and Transl.), Suśruta-Saṃhitā, Vol. I, Introduction, p.iv. A few scholars like K.L. Bhisagratna do not accept that this view and regard the Utttara-tantra as an appendix or a supplement arising out of the exigencies of the original subdivisions. An English Translation of the Sushruta Samhita, Vol.1, pp. iv-v.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 1.39.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Sūtrasthāna 1.18-19.
 
-[21]:
 
-Caraka Saṃhitā Sūtrasthāna 1.27.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 1.40.
+</blockquote>
 
-[22]:
 
-Shree Gulabkunverba Ayurvedic Society (Ed. and trans.), The Caraka Saṃhitā, Vol. I, p.30. Hereafter Gulabkunverba.
 
-[23]:
 
-G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, p.261.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 3.3.
+</blockquote>
 
-[24]:
 
-G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p.264.
 
-[25]:
 
-Caraka Saṃhitā Sūtrasthāna 12.5; 25.20; 26.3; Śārīrasthāna 3.15.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Uttaratantra 1.5-7.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Śārīrasthāna 6.21.
 
-[27]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Siddhisthāna 1.30-31.
+<div className="footnote-card"><strong>[14]</strong> G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, p.576.</div>
 
-[28]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp.34-35..
 
-[29]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.35.
+<div className="footnote-card"><strong>[15]</strong> G.N. Mukhopadhayaya, History of Indian Medicine, Vol.3, p.581.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, Groningen 1999, p.338. Hereafter referred to as History of Indian Medical Literature</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> J.Mitra, “The Geographical Data in the Suśruta Saṃhitā” in Bulletin of the Indian Institute of History of Medicine, Vol. VI, No.3, 1976, pp. 158-166.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (ed.), Suśruta-Saṃhitā, Varanasi, 1980, p.v; Also P.V. Sharma (Ed. and trans.), Suśruta-Saṃhitā, Vol. I, Varanasi, 2010, (Reprint), Introduction, p.iv.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> P.V. Sharma (Ed. and Transl.), Suśruta-Saṃhitā, Vol. I, Introduction, p.iv. A few scholars like K.L. Bhisagratna do not accept that this view and regard the Utttara-tantra as an appendix or a supplement arising out of the exigencies of the original subdivisions. An English Translation of the Sushruta Samhita, Vol.1, pp. iv-v.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Sūtrasthāna 1.18-19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Sūtrasthāna 1.27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Shree Gulabkunverba Ayurvedic Society (Ed. and trans.), The Caraka Saṃhitā, Vol. I, p.30. Hereafter Gulabkunverba.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> G.N.Mukhopadhyaya, History of Indian Medicine, Vol.3, p.261.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p.264.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Sūtrasthāna 12.5; 25.20; 26.3; Śārīrasthāna 3.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Śārīrasthāna 6.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Cakrapāṇidatta on Caraka Saṃhitā Siddhisthāna 1.30-31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp.34-35..
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.35.
+</blockquote>
 
 ---
 
-## 8. The Identity of Ātreya
+## The Identity of Ātreya
 
 Charaka Samhita and Sushruta Samhita
 
@@ -167,133 +234,210 @@ A scholar by the name of Bhikṣu Ātreya is known in the treatise[25] but he ap
 
 It is difficult to identify Bharadvāja and Ātreya of Caraka Saṃhitā as historical personalities. They are in all likely to be mythical names[30] selected for their revered position in the Vedas. Filliozat also draws our attention to the position of Atri as one of those “Ancients” by whom human beings traced their link with the gods. The composers of the legend of transmission could find no better suitable personage as he was not only the intermediary between gods and men but also the special ward of the divine physicians and of the instructor god. However by virtue of representing Agni, he could not be placed as the first human who learnt medicine from the gods, and therefore, his descendant was chosen for the same.[31]
 
-[1]:
 
-For eg. at Caraka Saṃhitā Sūtrasthāna 18.2,56; Vimānasthāna 2.2,16.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> For eg. at Caraka Saṃhitā Sūtrasthāna 18.2,56; Vimānasthāna 2.2,16.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 11.64.
 
-[3]:
 
-Caraka Saṃhitā Cikitsāsthāna 15.131; 26.278.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 11.64.
+</blockquote>
 
-[4]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 25.131.
 
-[5]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, Delhi, 1964, p. 7.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Cikitsāsthāna 15.131; 26.278.
+</blockquote>
 
-[6]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, p. 7.
 
-[7]:
 
-P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India from Antiquity to 1000 AD, New Delhi: 1992, p. 177.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 25.131.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Sūtrasthāna 3.30; 7.66.
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 21.62.
+<div className="footnote-card"><strong>[5]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, Delhi, 1964, p. 7.</div>
 
-[10]:
 
-Caraka Saṃhitā Sūtrasthāna 21.62.
 
-[11]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, p.7.
+<div className="footnote-card"><strong>[6]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, p. 7.</div>
 
-[12]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 45.
 
-[13]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 52.
+<div className="footnote-card"><strong>[7]</strong> P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India from Antiquity to 1000 AD, New Delhi: 1992, p. 177.</div>
 
-[14]:
 
-Caraka Saṃhitā Sūtrasthāna 13.100.
 
-[15]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 52-53.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Sūtrasthāna 3.30; 7.66.
+</blockquote>
 
-[16]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp.52-53.
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 1.5.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 21.62.
+</blockquote>
 
-[18]:
 
-Caraka Saṃhitā Siddhisthāna 1.6.
 
-[19]:
 
-Caraka Saṃhitā Cikitsāsthāna 4.3
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Sūtrasthāna 21.62.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.3.
 
-[21]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.3.
+<div className="footnote-card"><strong>[11]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, p.7.</div>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 25.5-6.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 1.2.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 45.
+</blockquote>
 
-[24]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.46.
 
-[25]:
 
-Caraka Saṃhitā Sūtrasthāna 25.24.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 52.
+</blockquote>
 
-[26]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 179.
 
-[27]:
 
-G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p.686.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Sūtrasthāna 13.100.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Cikitsāsthāna 4.3.
 
-[29]:
 
-Caraka Saṃhitā Sūtrasthāna 1.7; Cikitsāsthāna 13.3; 19.3.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 52-53.
+</blockquote>
 
-[30]:
 
-Filliozat, The Classical Doctrine of Indian Medicine, p. 4; G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, p. 342.
 
-[31]:
 
-Filliozat, The Classical Doctrine of Indian Medicine, p. 7.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp.52-53.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 1.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Siddhisthāna 1.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Cikitsāsthāna 4.3
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Cikitsāsthāna 3.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Cikitsāsthāna 5.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 25.5-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 1.2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.46.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Sūtrasthāna 25.24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 179.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p.686.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Cikitsāsthāna 4.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Sūtrasthāna 1.7; Cikitsāsthāna 13.3; 19.3.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Filliozat, The Classical Doctrine of Indian Medicine, p. 4; G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, p. 342.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Filliozat, The Classical Doctrine of Indian Medicine, p. 7.</div>
 
 ---
 
-## 9. The identity of Caraka
+## The identity of Caraka
 
 Charaka Samhita and Sushruta Samhita
 
@@ -315,129 +459,179 @@ Though it the name of Caraka appears only in the colophons at the end of the cha
 
 Other than the question of the identity of Caraka, another issue that has perplexed historians is the change of the title of treatise from Agniveśa-tantra to Caraka Saṃhitā. The treatises of Suśruta and Kāśyapa despite undergoing redaction did not see a similar alteration. Sharma argues that Caraka did not just retouch the original text but completely recast it giving it a complete new shape and form. However, it gained acceptability only after some centuries for the Navanītaka refers to Agniveśa but not to Caraka.[29] The redacted treatise was only partially available to Dṛḍhabala which may imply it did not gain wide currency in medical circles.[30]
 
-[1]:
 
-G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p. 619.
+<div className="footnote-card"><strong>[1]</strong> G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p. 619.</div>
 
-[2]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, p. 108.
 
-[3]:
 
-A.A. Macdonell and A.B. Keith, Vedic Index of Names and Subjects, Vol.1, Delhi, 1995, p.256.
+<div className="footnote-card"><strong>[2]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, p. 108.</div>
 
-[4]:
 
-D.P.Chattopadhyaya, Science and Society in Ancient India, p. 29.
 
-[5]:
 
-D.P.Chattopadhyaya, Science and Society in Ancient India, p. 29.
+<div className="footnote-card"><strong>[3]</strong> A.A. Macdonell and A.B. Keith, Vedic Index of Names and Subjects, Vol.1, Delhi, 1995, p.256.</div>
 
-[6]:
 
-A.F.R. Hoernle, “Revised Translations of the Two Kshatrapa Inscriptions”, Indian Antiquary, Vol. XII, 1883, pp. 27-34.
 
-[7]:
 
-A.F.R. Hoernle, “Revised Translations of the Two Kshatrapa Inscriptions”, Indian Antiquary, Vol. XII, 1883, pp. 27-34.
+<div className="footnote-card"><strong>[4]</strong> D.P.Chattopadhyaya, Science and Society in Ancient India, p. 29.</div>
 
-[8]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 87.
 
-[9]:
 
-A.A. Macdonell and A.B. Keith, Vedic Index of Names and Subjects, Vol.1, Delhi, 1995 (Reprint), p. 256.
+<div className="footnote-card"><strong>[5]</strong> D.P.Chattopadhyaya, Science and Society in Ancient India, p. 29.</div>
 
-[10]:
 
-A.A. Macdonell and A.B. Keith, Vedic Index of Names and Subjects, Vol.1, p. 256.
 
-[11]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 86.
+<div className="footnote-card"><strong>[6]</strong> A.F.R. Hoernle, “Revised Translations of the Two Kshatrapa Inscriptions”, Indian Antiquary, Vol. XII, 1883, pp. 27-34.</div>
 
-[12]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 87.
 
-[13]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 87.
+<div className="footnote-card"><strong>[7]</strong> A.F.R. Hoernle, “Revised Translations of the Two Kshatrapa Inscriptions”, Indian Antiquary, Vol. XII, 1883, pp. 27-34.</div>
 
-[14]:
 
-G.J. Meulenbeld, History of Indian Medical Literature,Vol. I A, p. 109.
 
-[15]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 85.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 87.
+</blockquote>
 
-[16]:
 
-P.V. Sharma, “Caraka” in History of Medicine in India from Antiquity to 1000 AD, p. 180.
 
-[17]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 29-30.
+<div className="footnote-card"><strong>[9]</strong> A.A. Macdonell and A.B. Keith, Vedic Index of Names and Subjects, Vol.1, Delhi, 1995 (Reprint), p. 256.</div>
 
-[18]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 33-34.
 
-[19]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 85.
+<div className="footnote-card"><strong>[10]</strong> A.A. Macdonell and A.B. Keith, Vedic Index of Names and Subjects, Vol.1, p. 256.</div>
 
-[20]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 105.
 
-[21]:
 
-G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p. 610.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 86.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 29.9.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 29.8.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 87.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Sūtrasthāna 9.19.
 
-[25]:
 
-Caraka Saṃhitā Sūtrasthāna 15.3.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 87.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Sūtrasthāna 15.18.
 
-[27]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 78.
+<div className="footnote-card"><strong>[14]</strong> G.J. Meulenbeld, History of Indian Medical Literature,Vol. I A, p. 109.</div>
 
-[28]:
 
-G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p.611.
 
-[29]:
 
-P.V. Sharma, “Caraka” in History of Medicine in India from Antiquity to 1000 AD, p. 186.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 85.
+</blockquote>
 
-[30]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 109.
+
+
+<div className="footnote-card"><strong>[16]</strong> P.V. Sharma, “Caraka” in History of Medicine in India from Antiquity to 1000 AD, p. 180.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 29-30.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 33-34.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol.I, p. 85.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 105.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p. 610.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 29.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 29.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Sūtrasthāna 9.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Sūtrasthāna 15.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Sūtrasthāna 15.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p. 78.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> G.N. Mukhopadhaya, History of Indian Medicine, Vol.3, p.611.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> P.V. Sharma, “Caraka” in History of Medicine in India from Antiquity to 1000 AD, p. 186.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 109.</div>
 
 ---
-
-
 
 ---
 
@@ -446,10 +640,6 @@ G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 109.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">The Date of Caraka Saṃhitā: Charaka Samhita And Sushruta Samhita Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

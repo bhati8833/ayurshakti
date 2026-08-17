@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Poulticing and bandaging of wounds within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 28. Chapter XVIII - Poulticing and bandaging of wounds
+## Chapter XVIII - Poulticing and bandaging of wounds
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -127,35 +127,37 @@ An ulcer, properly bandaged, has a greater chance of not being affected by lying
 
 Thus ends the eighteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the dressing and bandaging of ulcers.
 
-[1]:
 
-As in the case of a Pidayitavya ulcer, described before, where the withdrawing or gathering of pus to a definite head is desired.
+<div className="footnote-card"><strong>[1]</strong> As in the case of a Pidayitavya ulcer, described before, where the withdrawing or gathering of pus to a definite head is desired.</div>
 
-[2]:
 
-This portion of the text has been omitted by Chakrapani in his commentary entitled the Bhanumuti.
 
-[3]:
 
-In a swelling or ulcer caused by the deranged Vayu and Kapha, the bandage should consist of a piece of thick cloth; whereas in summer it should consist of thin linen. Similarly, a bandage, tied round any deep or hollow part of the body, should consist of a piece of thick cloth. The contrary rule should be observed, when the seat of the bandage would be at any flexible part of the body.
+<div className="footnote-card"><strong>[2]</strong> This portion of the text has been omitted by Chakrapani in his commentary entitled the Bhanumuti.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> In a swelling or ulcer caused by the deranged Vayu and Kapha, the bandage should consist of a piece of thick cloth; whereas in summer it should consist of thin linen. Similarly, a bandage, tied round any deep or hollow part of the body, should consist of a piece of thick cloth. The contrary rule should be observed, when the seat of the bandage would be at any flexible part of the body.</div>
+
+
 
 Similarly, in the case of a snake-bite, a ligature should be firmly tied above the punctured wound with a string or twisted cord of cotton, while a fractured bone should be set right by twisting bunches of half-thrashed shyama creeper (Latavidala) round the seat of fracture. A local hemorrhage should be arrested by binding the part with milk-cream, while the affected part in a case of Ardita (facial paralysis) as well as a broken tooth should be bound with strings of iron, gold or silver. Warts, etc. should be bandaged with Ela (cardamom skins), while dried gourd-skins should be used in bandaging ulcers on the head (scalp).
 
-[4]:
 
-Carefully examining whether the applied remedy had been uniformly distributed over the diseased surface and whether the contemplated pattern of bandage would be actually suited to the case.
+<div className="footnote-card"><strong>[4]</strong> Carefully examining whether the applied remedy had been uniformly distributed over the diseased surface and whether the contemplated pattern of bandage would be actually suited to the case.</div>
 
-[5]:
 
-Additional text:—A bandage, tightly tied round an ulcerated or affected part of the body without causing any pain or discomfort to the patient, is called a Gadha-Vandha, while the one which is loosely bound is called Shithila, the one neither too tight nor too loose being called a Sama-Vandha.
 
-[6]:
 
-Several authorities such as Gayadasa, Brahmadeva, etc. hold this portion of the text to be an interpolation. Both Dallana and Chakrapani have included it within their commentaries with nearly the same remark.
+<div className="footnote-card"><strong>[5]</strong> Additional text:—A bandage, tightly tied round an ulcerated or affected part of the body without causing any pain or discomfort to the patient, is called a Gadha-Vandha, while the one which is loosely bound is called Shithila, the one neither too tight nor too loose being called a Sama-Vandha.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Several authorities such as Gayadasa, Brahmadeva, etc. hold this portion of the text to be an interpolation. Both Dallana and Chakrapani have included it within their commentaries with nearly the same remark.</div>
 
 ---
-
-
 
 ---
 
@@ -164,10 +166,6 @@ Several authorities such as Gayadasa, Brahmadeva, etc. hold this portion of the 
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Questions concerning wounds: Sushruta Samhita Sutrasthana Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

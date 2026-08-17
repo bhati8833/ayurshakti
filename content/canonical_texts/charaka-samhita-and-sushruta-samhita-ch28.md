@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Conclusion within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 93. Chapter 10: Conclusion
+## Chapter 10: Conclusion
 
 Charaka Samhita and Sushruta Samhita
 
@@ -89,7 +89,7 @@ The objective of Āyurveda is to ensure good health and happiness of men in this
 
 ---
 
-## 94. The training of the Surgeon
+## The training of the Surgeon
 
 Charaka Samhita and Sushruta Samhita
 
@@ -138,145 +138,233 @@ Zysk has drawn our attention to the penultimate verse of the chapter on anatomy 
 
 Thus, the body contains a fundamentally sacred part which is invisible but at the same time, it is implied, that scientific observation of the body will never reveal its most subtle part. As he never comes in contact with the sacred, the physician has no fear of retribution for his action.[34]
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 9.3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 9.3.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.5.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 7.20; 8.8.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 8.5.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 7.19; 8.9.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.14.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 7.20; 8.8.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.12.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.13.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 7.19; 8.9.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.19.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 25.41.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 8.14.
+</blockquote>
 
-[10]:
 
-J.Mitra, History of Indian Medicine from Pre-Mauryan to Kuṣāṇa Period, Varanasi, 1974, p.16.
 
-[11]:
 
-P.K. Aggarwal, et al., “Water Repellent Treatments for Catamaran Grade Bombax Ceiba Linn. (Spermatophyta/Dicotyledoneae) Wood” Indian Journal of Marine Sciences, Vol. 32(4), Dec. 2003, pp.340-343.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Sūtrasthāna 8.12.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 9.4.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 9.5-6.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 8.13.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 9.3.
 
-[15]:
 
-Suśruta Saṃhitā Sūtrasthāna 25.33.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 8.19.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.51.
 
-[17]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.47.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 25.41.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.49.
 
-[19]:
 
-J. Bhattacharya, “Encounter in Anatomical Knowledge: East and West”, in Indian Journal of History of Science, 43.2 (2008), pp. 163-209.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> J.Mitra, History of Indian Medicine from Pre-Mauryan to Kuṣāṇa Period, Varanasi, 1974, p.16.
+</blockquote>
 
-[20]:
 
-J. Bhattacharya, “Encounter in Anatomical Knowledge”.
 
-[21]:
 
-T.W.Rhys Davids, Buddhist India, Delhi, 1997 (Reprint), pp.78-80.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> P.K. Aggarwal, et al., “Water Repellent Treatments for Catamaran Grade Bombax Ceiba Linn. (Spermatophyta/Dicotyledoneae) Wood” Indian Journal of Marine Sciences, Vol. 32(4), Dec. 2003, pp.340-343.
+</blockquote>
 
-[22]:
 
-Bhikkhu Nānamoli (translated from Pāli), Visuddhimagga: The Path of Purification, Kandy, 2011, VI.72.
 
-[23]:
 
-A.P.B.Mahathera, Concise Pali-English Dictionary. Electronic source: Accessed at http://www.budsas.org/ebud/dict-pe/dictpe-02-aa.htm on 26.12.2014.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 9.4.
+</blockquote>
 
-[24]:
 
-K. Upreti, India as Reflected in the Divyāvadāna, New Delhi, 1995, p.77; S. Das, Surgical Heritage of Early India in S. Das, Medical Heritage of Early India: An Anthology, Kolkata, 2014, p. 153.
 
-[25]:
 
-P.V. Kane, History of the Dharmaśāstra, Vol. IV, Poona, 1941, p. 233-234.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 9.5-6.
+</blockquote>
 
-[26]:
 
-P.V. Kane, History of the Dharmaśāstra, Vol. IV, pp.233-234.
 
-[27]:
 
-J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with special reference to Tripiṭaka, Varanasi, 1985, p. 65.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 9.3.
+</blockquote>
 
-[28]:
 
-P. Olivelle, annotated text and translation Dharmasūtras: The Law Codes of Āpastamba, Gautam, Baudhāyana and Vasiṣṭha, Delhi, Reprint 2003.
 
-[29]:
 
-P. Olivelle, Dharmasūtras.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Sūtrasthāna 25.33.
+</blockquote>
 
-[30]:
 
-A.L.Basham,., “The Practice of Medicine in Ancient and Medieval India,” in Charles Leslie, (ed.), Asian Medical Systems: A Comparative Study, 1976, p.28.
 
-[31]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.49.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Śārīrasthāna 5.51.
+</blockquote>
 
-[32]:
 
-K.G.Zysk, ‘Some Observations on the Dissection of Cadavers in Ancient India’, Ancient Science of Life, Vol.2 (4), 1983 (April-June), pp.187-189.
 
-[33]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.50.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Śārīrasthāna 5.47.
+</blockquote>
 
-[34]:
 
-K.G.Zysk, ‘Some Observations on the Dissection of Cadavers in Ancient India’, pp.187- 189.
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Śārīrasthāna 5.49.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> J. Bhattacharya, “Encounter in Anatomical Knowledge: East and West”, in Indian Journal of History of Science, 43.2 (2008), pp. 163-209.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> J. Bhattacharya, “Encounter in Anatomical Knowledge”.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> T.W.Rhys Davids, Buddhist India, Delhi, 1997 (Reprint), pp.78-80.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Bhikkhu Nānamoli (translated from Pāli), Visuddhimagga: The Path of Purification, Kandy, 2011, VI.72.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> A.P.B.Mahathera, Concise Pali-English Dictionary. Electronic source: Accessed at http://www.budsas.org/ebud/dict-pe/dictpe-02-aa.htm on 26.12.2014.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> K. Upreti, India as Reflected in the Divyāvadāna, New Delhi, 1995, p.77; S. Das, Surgical Heritage of Early India in S. Das, Medical Heritage of Early India: An Anthology, Kolkata, 2014, p. 153.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> P.V. Kane, History of the Dharmaśāstra, Vol. IV, Poona, 1941, p. 233-234.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> P.V. Kane, History of the Dharmaśāstra, Vol. IV, pp.233-234.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with special reference to Tripiṭaka, Varanasi, 1985, p. 65.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> P. Olivelle, annotated text and translation Dharmasūtras: The Law Codes of Āpastamba, Gautam, Baudhāyana and Vasiṣṭha, Delhi, Reprint 2003.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> P. Olivelle, Dharmasūtras.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> A.L.Basham,., “The Practice of Medicine in Ancient and Medieval India,” in Charles Leslie, (ed.), Asian Medical Systems: A Comparative Study, 1976, p.28.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Śārīrasthāna 5.49.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> K.G.Zysk, ‘Some Observations on the Dissection of Cadavers in Ancient India’, Ancient Science of Life, Vol.2 (4), 1983 (April-June), pp.187-189.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Śārīrasthāna 5.50.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> K.G.Zysk, ‘Some Observations on the Dissection of Cadavers in Ancient India’, pp.187- 189.</div>
 
 ---
 
-## 95. The three stages of Surgical procedures
+## The three stages of Surgical procedures
 
 Charaka Samhita and Sushruta Samhita
 
@@ -312,31 +400,7 @@ gauge
 
 suturing materials[2] and bandages (paṭṭa)[3]
 
-leaves
-
-honey
-
-ghṛta
-
-muscle fat (vasā)
-
-milk
-
-oil
-
-nourishing liquids
-
-decoctions
-
-ointments
-
-pastes
-
-fans for cooling
-
-cold and hot water
-
-utensils
+leaves, honey, ghṛta, muscle fat (vasā), milk, oil, nourishing liquids, decoctions, ointments, pastes, fans for cooling, cold and hot water, utensils
 
 attendants who should be affectionate, steady and strong[4]
 
@@ -396,265 +460,441 @@ Awareness of the importance of a highly sanitized environment in the recovery ro
 
 To attend to the needs of the convalescent and keep him mentally engaged, visits of affectionate friends and companions who are good conversationalists is encouraged. They can console the patient in his pain and help minimize his agony. However, women visitors especially, those for whom the patient may feel sexual attraction, is discouraged.[64] The ancient Indian physicians had a clear understanding of the correlation of psychological well-being and physical health. The attendants who nursed the convalescent were possibly employed by the patient.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 5.3.
+</blockquote>
 
-[2]:
 
-The suturing materials are fine thread, bark of aśmantaka (Bauhinia racemosa Linn.), thread of śana (Crotolaria juncea Linn.), silk thread (kṣauma), tendon, hair, fibres of mūrvā and guḍūcī (Tinospora cordifolia); Suśruta Saṃhitā Sūtrasthāna 25.20-21. Black ants are also used for suturing; Suśruta Saṃhitā Cikitsāsthāna 14.17.
 
-[3]:
 
-Several kinds of materials can be used for this purpose depending on the nature of the wound and the season: flax (kṣauma), cotton (kārpāsa), wool (avika), a kind of cloth (dukūla), silk (kauśeya), a kind of cloth (patrorṇa), Chinese silk (cīnapaṭṭa), leather (carma), inner bark of trees (antarvalkalā), gourd peel (alābusakala), tapes made from creepers (latā) or bamboo strips (vidala), string or cord (rajju) made from muñja grass, cotton seeds (tūlaphala), cream of milk (santānikā), and metals (lauha); Suśruta Saṃhitā Sūtrasthāna 18.16.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The suturing materials are fine thread, bark of aśmantaka (Bauhinia racemosa Linn.), thread of śana (Crotolaria juncea Linn.), silk thread (kṣauma), tendon, hair, fibres of mūrvā and guḍūcī (Tinospora cordifolia); Suśruta Saṃhitā Sūtrasthāna 25.20-21. Black ants are also used for suturing; Suśruta Saṃhitā Cikitsāsthāna 14.17.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.6.
 
-[5]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.77-78.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Several kinds of materials can be used for this purpose depending on the nature of the wound and the season: flax (kṣauma), cotton (kārpāsa), wool (avika), a kind of cloth (dukūla), silk (kauśeya), a kind of cloth (patrorṇa), Chinese silk (cīnapaṭṭa), leather (carma), inner bark of trees (antarvalkalā), gourd peel (alābusakala), tapes made from creepers (latā) or bamboo strips (vidala), string or cord (rajju) made from muñja grass, cotton seeds (tūlaphala), cream of milk (santānikā), and metals (lauha); Suśruta Saṃhitā Sūtrasthāna 18.16.
+</blockquote>
 
-[6]:
 
-A kind of barley, the plant Terminalia Catappa; Monier-Williams, p.255.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.15-16.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 5.6.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.17-19/1.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.15.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.77-78.
+</blockquote>
 
-[10]:
 
-A. Narayanan and S.R. Thrigulla, ‘Tangible Evidence for Surgical Practice in Ancient India’, Journal of Indian Medical Heritage, Vol. XLI, 2011, pp. 1-18.
 
-[11]:
 
-N.H. Naqvi, A Study of Buddhist Medicine and Surgery in Gandhara, Delhi, 2011, pp. 140- 172.
+<div className="footnote-card"><strong>[6]</strong> A kind of barley, the plant Terminalia Catappa; Monier-Williams, p.255.</div>
 
-[12]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.4; 7.30.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 13.11.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 8.15-16.
+</blockquote>
 
-[14]:
 
-A thread immersed in caustics.
 
-[15]:
 
-Suśruta Saṃhitā Cikitsāsthāna 17.29-30.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 8.17-19/1.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.7.
 
-[17]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.4.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 8.15.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Uttaratantra 17.57.
 
-[19]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.4.
+<div className="footnote-card"><strong>[10]</strong> A. Narayanan and S.R. Thrigulla, ‘Tangible Evidence for Surgical Practice in Ancient India’, Journal of Indian Medical Heritage, Vol. XLI, 2011, pp. 1-18.</div>
 
-[20]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.4.
 
-[21]:
 
-Suśruta Saṃhitā Uttaratantra 13.3.
+<div className="footnote-card"><strong>[11]</strong> N.H. Naqvi, A Study of Buddhist Medicine and Surgery in Gandhara, Delhi, 2011, pp. 140- 172.</div>
 
-[22]:
 
-Suśruta Saṃhitā Uttaratantra 13.3, 10-11.
 
-[23]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.30.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.4; 7.30.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Cikitsāsthāna 31.3.
 
-[25]:
 
-Suśruta Saṃhitā Cikitsāsthāna 31.57.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 13.11.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.4.
 
-[27]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.16.
+<div className="footnote-card"><strong>[14]</strong> A thread immersed in caustics.</div>
 
-[28]:
 
-Suśruta Saṃhitā Sūtrasthāna 10.3.
 
-[29]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.7.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Cikitsāsthāna 17.29-30.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.30.
 
-[31]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.28.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 5.7.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.40.
 
-[33]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.29.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.4.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.3.
 
-[35]:
 
-Suśruta Saṃhitā Sūtrasthāna 17.11.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Uttaratantra 17.57.
+</blockquote>
 
-[36]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.17.
 
-[37]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.31-32.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.4.
+</blockquote>
 
-[38]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.17.
 
-[39]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.17-18.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.4.
+</blockquote>
 
-[40]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.8.
 
-[41]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.132.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Uttaratantra 13.3.
+</blockquote>
 
-[42]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.20.
 
-[43]:
 
-Suśruta Saṃhitā Uttaratantra 17.66-68.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Uttaratantra 13.3, 10-11.
+</blockquote>
 
-[44]:
 
-Suśruta Saṃhitā Uttaratantra 17.69-70.
 
-[45]:
 
-S.S. Uttaratantra 17.87-95.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.30.
+</blockquote>
 
-[46]:
 
-S.S. Uttaratantra 17.96-99.
 
-[47]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.22.; 7.35; 8.54.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Cikitsāsthāna 31.3.
+</blockquote>
 
-[48]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.36-39
 
-[49]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.20.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Cikitsāsthāna 31.57.
+</blockquote>
 
-[50]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.26.
 
-[51]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.3-5.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.4.
+</blockquote>
 
-[52]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.20.
 
-[53]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.23.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Sūtrasthāna 5.16.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.23.
 
-[55]:
 
-Suśruta Saṃhitā Uttaratantra 60.3.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Sūtrasthāna 10.3.
+</blockquote>
 
-[56]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.25.
 
-[57]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.29.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Sūtrasthāna 5.7.
+</blockquote>
 
-[58]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.27.
 
-[59]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.28.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.30.
+</blockquote>
 
-[60]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.30- 31.
 
-[61]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.133.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.28.
+</blockquote>
 
-[62]:
 
-Ḍalhaṇa on Suśruta Saṃhitā Cikitsāsthāna 1.133.
 
-[63]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.20.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Sūtrasthāna 5.40.
+</blockquote>
 
-[64]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.7-15.
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Sūtrasthāna 17.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Sūtrasthāna 5.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.31-32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Sūtrasthāna 5.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Suśruta Saṃhitā Sūtrasthāna 5.17-18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.132.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Suśruta Saṃhitā Sūtrasthāna 19.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Suśruta Saṃhitā Uttaratantra 17.66-68.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Suśruta Saṃhitā Uttaratantra 17.69-70.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[45]</strong> S.S. Uttaratantra 17.87-95.</div>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> S.S. Uttaratantra 17.96-99.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.22.; 7.35; 8.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Suśruta Saṃhitā Sūtrasthāna 5.36-39
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Suśruta Saṃhitā Sūtrasthāna 19.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Suśruta Saṃhitā Sūtrasthāna 19.26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Suśruta Saṃhitā Sūtrasthāna 19.3-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Suśruta Saṃhitā Sūtrasthāna 19.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Suśruta Saṃhitā Sūtrasthāna 19.23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Sūtrasthāna 19.23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Suśruta Saṃhitā Uttaratantra 60.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Suśruta Saṃhitā Sūtrasthāna 19.25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Suśruta Saṃhitā Sūtrasthāna 19.29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Suśruta Saṃhitā Sūtrasthāna 19.27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Suśruta Saṃhitā Sūtrasthāna 19.28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Suśruta Saṃhitā Sūtrasthāna 19.30- 31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.133.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> Ḍalhaṇa on Suśruta Saṃhitā Cikitsāsthāna 1.133.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> Suśruta Saṃhitā Sūtrasthāna 19.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Suśruta Saṃhitā Sūtrasthāna 19.7-15.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -663,10 +903,6 @@ Suśruta Saṃhitā Sūtrasthāna 19.7-15.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Types of Cooked food and Cooking within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Types of Cooked food and Cooking
+## Types of Cooked food and Cooking
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -37,7 +37,7 @@ K } 1 44 Susrta also describes two types of Vesavara with their 31 specific prop
 
 ---
 
-## 8. Dadimirasa and Shikharini
+## Dadimirasa and Shikharini
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -51,7 +51,7 @@ Shikharini—It is one of the most famous milk products. Method of preparation i
 
 ---
 
-## 9. Definations of Food and Diets
+## Definations of Food and Diets
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -65,8 +65,6 @@ The term Food and Diets are generally used synonymously. The word Diet is derive
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -74,10 +72,6 @@ The term Food and Diets are generally used synonymously. The word Diet is derive
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">References and Notes for chapter 1: Kshemakutuhala Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

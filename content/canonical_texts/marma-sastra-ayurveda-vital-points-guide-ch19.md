@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Kurchashira Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 64. Study of Kurchashira Marma
+## Study of Kurchashira Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -31,7 +31,7 @@ Tamil varma sastra Similar description is is available in Odimuri 41 That Paccha
 
 ---
 
-## 65. Study of Ani Marma
+## Study of Ani Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -51,7 +51,7 @@ Nadathalarpan is situated four inches above the knees on the side of each thighs
 
 ---
 
-## 66. Study of Indravasti Marma
+## Study of Indravasti Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -71,8 +71,6 @@ Discussion Basti used here probably refer to the The region of the marma organ u
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +78,6 @@ Discussion Basti used here probably refer to the The region of the marma organ u
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Manibandha or Gulpha Marma: Marma Sastra and Ayurvedic Science Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -148,7 +148,11 @@ The Fetal defects due to defects of the germo-plasm
 
 30. Thus for instance, if the uterine parent part of the embryo is vitiated, then the. mother gives birth to a barren female. If again only a part of the germo-plasm is vitiated, then she gives birth to a Putipraja. If again the uterine part of the fertitized ovum and that part of the fertilized ovum which is responsible for the differentiation of female characteristics get partially vitiated, then she gives birth to a non-female having however abundance of female characteristicsand named ‘Varta [Vārtā]’ Such a person is spoken of as a female deformity.
 
+
+<blockquote className="ayur-shloka">
 31. Similarly, if the male-procreating element of the semen is vitiated there results a sterile male; if again the male-procreating part of the semen of a man is partially vitiated, then there results a male called ‘Putipraja [Pūtipraja]’. If the male-procreating part of the semen and those parts of the semen which give rise to the differentiation of the male characteristics are partially vitiated, there results a non-man having a number of male characteristics, and named ‘Trinaputrika [Tṛṇaputrika].’ He is spoken of as a male deformity.
+</blockquote>
+
 
 32. Thus, the conditions we have shown, concerning the defects originating from either the father or the mother, are also to be applied in the case of defects originating from the other factors such as concordance, nutrition and also the psychic factor.
 
@@ -188,7 +192,11 @@ The Varieties of the Psyche
 
 38-(2). One who is intolerant, of implacable hate, bides his time and then strikes, is cruel, gluttonous, inordinately fond of flesh-foods, of an excessively somnolent and indolent dis position and envious, should be known as representing the Rakshasa [Rākṣasa] type.
 
+
+<blockquote className="ayur-shloka">
 38-(3). Oue who is a great eater, uxorious, fond of keeping company of women in secret, unclean, a hater of cleanliness, a coward, a bully, given to abnormal recreations and diet is to be known as representing the Pishaca [Piṣāca=Piśāca?] type.
+</blockquote>
+
 
 38-(4). One who is brave when excited, touchy, of an indolent disposition, who arouses fear in the beholder and is devoted to food and pleasures of recreation is to be known as representing the Sarpa (serpent-type.
 

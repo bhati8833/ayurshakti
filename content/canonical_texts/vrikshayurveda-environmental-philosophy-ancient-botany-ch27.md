@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 10. The Manusmriti and the relation between the Earth and Plantation within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 64. 10. The Manusmriti and the relation between the Earth and Plantation
+## 10. The Manusmriti and the relation between the Earth and Plantation
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -27,8 +27,6 @@ VI.9. The Vision of Manusmriti as reflected in the ideology behind the relation 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ VI.9. The Vision of Manusmriti as reflected in the ideology behind the relation 
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Regions, States and Cities described in the Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 59. 3.3. Regions, States and Cities described in the Manasollasa
+## 3.3. Regions, States and Cities described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -33,7 +33,7 @@ Bharatavarsa was traditionally divided into two parts, namely Aryavarta, the nor
 
 ---
 
-## 60. Selected Bibliography
+## Selected Bibliography
 
 Manasollasa (study of Arts and Sciences)
 
@@ -63,8 +63,6 @@ Desai, Kalpana S. 426 Iconography of Visnu. Abhinava Publications, New Delhi, 19
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -72,10 +70,6 @@ Desai, Kalpana S. 426 Iconography of Visnu. Abhinava Publications, New Delhi, 19
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Patanjali’s Successor: Nagarjuna (the alchemist) within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 81. 4. Patanjali’s Successor: Nagarjuna (the alchemist)
+## 4. Patanjali’s Successor: Nagarjuna (the alchemist)
 
 Minerals and Metals in Sanskrit literature
 
@@ -31,7 +31,7 @@ VIII-13 In his Rasa-Ratnakara, Nagarjuna dwelt on several other topics related t
 
 ---
 
-## 83. 5. Materials discussed in the Yavanajataka
+## 5. Materials discussed in the Yavanajataka
 
 Minerals and Metals in Sanskrit literature
 
@@ -47,7 +47,7 @@ VIII-1 Some of the dull materials or adhamya dhatu listed were: manahsila (red a
 
 ---
 
-## 84. 6. Minerals and Metals in the Gupta Era Literatures
+## 6. Minerals and Metals in the Gupta Era Literatures
 
 Minerals and Metals in Sanskrit literature
 
@@ -61,7 +61,7 @@ VIIIWe may recall that at the turn of the Christian era, the Roman traders and w
 
 ---
 
-## 85. 8. Non-gem materials in the Varahamihira’s Brihatsamhita
+## 8. Non-gem materials in the Varahamihira’s Brihatsamhita
 
 Minerals and Metals in Sanskrit literature
 
@@ -81,8 +81,6 @@ VIII-24 The Padartha-dharma-samgraha of Prasastapada was probably composed in th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -90,10 +88,6 @@ VIII-24 The Padartha-dharma-samgraha of Prasastapada was probably composed in th
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">7. Materials discussed in the Angavijja and Amarakosha: Minerals And Metals In Sanskrit Literature Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -168,11 +168,19 @@ The Terms employed in Discussion,
 
 27-(1). The following are indeed words that indicate the sense of the course of disputation between physicians [i.e., bhishaj].
 
+
+<blockquote className="ayur-shloka">
 27. They are:—(Vāda) Debate, (Dravya) Substance, (Guṇa) Attribute, (Karma) Action, (Sāmānya) Generality, (Viśeṣa) Particularity, (Samavāya) Coexistence, (Pratijñā) Proposition, (Sthāpanā) proof, (Pratiṣṭhāpanā) Counter proof, (Hetu) Cause, (Dṛṣṭānta) Example, (Upanaya) Application, (Nigamana) Deduction, (Uttara) Rejoinder, (Siddhānta) Conclusion, (Śabda) Verbal testimony, (Pratyakṣa) Direct perception, (Anumāna) Inference, (Aitihya) Tradition, (Aupamya) Analogy, (Saṃśaya) Doubt, (Prayojana) Purpose, (Savyabhicāra) Exceptionable statement, (Jijñāsā) Inquiry, (Vyavasāya) Determination, (Arthaprāpti) Implied meaning, (Saṃbhava) Source, (Anuyojya) Imperfect statement, (Ananuyojya) Perfect statement, (Anuyoga) Question, (Pratyanuyoga) Further question, (Vākyadoṣa) Flaw of speech, (Vākyapraśaṃsā) Excellence of speech, (Chala) Quibbling, (Ahetu) Fallacy, (Atītakāla) Inopportune or too late time, (Upālambha) Censure, (Parihāra) Amendment or correction, (Pratijñāhāni), Abandonment of proposition, (Abhyanujñā) Acceptance, (Hetvantara) Fallacious reason, (Arthāntara) Confusion, (Nigrahasthāna) Point of discomfiture.
+</blockquote>
+
 
 The Nature of Debate
 
+
+<blockquote className="ayur-shloka">
 28-(1). That is known as debate which one enters into with another in a hostile spirit of challenge, with the aid of authoritative texts. Such debate is of two kinds, put in a nutshell—Jalpa, the constructive debate, and Vitanda [Vitaṇḍā], the destructive debate Argument establishing one’s own position is Jalpa. The contrary of it (i.e. continual attempt at refuting whatever is another’s position) is the destructive debate.
+</blockquote>
+
 
 28. Thus, for instance, when one says there is rebirth and the opponent that there is not, and each adduces reasons for his own position, the debate is ‘Jalpa.’ The contrary of it is ‘Vitanda’—the destructive debate, which is limited only to pointing out the defects in the opponent’s position.
 
@@ -240,7 +248,11 @@ Definition of Statement and other terms
 
 42-(1). As regards Analogy—analogy is that which shows the similarity of one thing to another.
 
+
+<blockquote className="ayur-shloka">
 42. As for instance, the disease called (Daṇḍaka) rigidity is explained by the word ‘staff,’ whose quality is wooden rigidity; the disease called (Dhanustambha [Dhanuḥstambha]) tetanus is explained
+</blockquote>
+
 
 by the similarity of the body affected by it to (Dhanus) the bow, and the physician is known as (Iṣvāsa) the releaser of the arrow that hits the mark, for, like the bowman, he successfully hits the cause of disease and restores good health.
 
@@ -590,7 +602,11 @@ Seasonal Division of time
 
 125-(1). Time, again, is considered from the point of view of season and the stage of the disease. The year is divided taking into view the effects of season, into divisions of two, three, six or twelve, and even more.
 
+
+<blockquote className="ayur-shloka">
 125. Here (in this treatise) indeed, dividing it into six, the effects are described. Hemanta. Grishma (Grīṣma) and Varsha (Varṣā) are the three seasons having cold, heat and rain as their characteristics. Tn between them again there are three seasons of moderate characteristics called Pravrit (Prāvṛṭ/Prāvṛṣ), Sharad (Śarad) and Vasanta. The first Pravrit is the season for the first rains. For does not the (Varṣā) rainy season come in its wake? Having the purificatory procedure in view, the seasons are divided into six.
+</blockquote>
+
 
 Seasonal indications and Contra-indications as regards Emesis etc.
 
@@ -636,7 +652,11 @@ Pharmacological list of Emetic drugs
 
 Pharmacological list of Purgative drugs
 
+
+<blockquote className="ayur-shloka">
 136. The purgative drugs are:—black turpeth, turpeth, purging cassia, lodh, thorny milk hedge plant, soap pod, clenolepis, red physic nut and physic nut; milk of these taken mixed or unmixed with the similar parts of other drugs or with the decoction of wild carrot, winter cherry, Ajashringi (Ajaśṛṅgī), asthma weed, indigo or liquorice, or of Indian beech, prickly brazil wood, lentils, kamala, embelia, colocynth or of tooth-brush tree, buchanan‘s mango, grapes, white teak, sweet fakah, small jujube pomegranate, emblic, chebulic and beleric myrobalans, white and red hog’s weed, ticktrefoil, or with the Sidhu (Sīdhu), Sura (Surā), Sauviraka (Sauvīraka), Tusholaka (Tuṣolaka), Maireya, Medaka, Madira (Madirā), Madhu, Madhulika (Madhūlikā) wines, sour gruel, or small jujube, jujube, date and sour jujube or with curds, whey or diluted butter-milk, and all or as many of these drugs as are available, prepared with the milk and urine of the cow, buffalo, goat and sheep, and made into suppositories, powders, wines, tinctures, unctions, decoctions, meat-juices, soups, Kambalikas (Kāmbalikas), gruels milks and sweetmeats and other edibles, to be given to suit the proper mode of administration of purgation to the patient. Thus has been explained the pharmaceutics, in brief of purgative drugs. The pharmaceutics of these in extenso will be duly explained in a later section.
+</blockquote>
+
 
 137-(1). As the drugs that go into the preparations of corrective enema to suit the various conditions of the patients, are innumerable, it would be wearisome to give an elaborate list of their names here. It is necessary to make the narration in the treatise neither too prolix nor too succinct. But a complete knowledge of them is necessary. Therefore we shall classify them here, keeping only their tastes in view.
 
@@ -650,11 +670,19 @@ Drugs for Corrective enema to be selected by their Taste out of the innumerabili
 
 138 It is therefore, that drugs that are sweet, or are primarily sweet, or that are sweet in postdigestive effect, or sweet in action are described as belonging to the sweet class of drugs. Similar is the case with other classifications of drugs.
 
+
+<blockquote className="ayur-shloka">
 139-(1) They are:—Jivaka (Jīvaka), Rishabhaka (Ṛṣabhaka), cork-swallow wort, Vira (Vīrā), featherfoil, Kakoli (Kākolī), Kshirakakoli (Kṣīrakākolī), wild green gram, wild black gram, tick trefoil, painted leaved uraria, mussel shell creeper, guduch, Meda (Medā), Mahameda (Mahāmedā), galls, Indian waterchestnut, guduch, wild dill, wild fennel, Shravani (Śrāvaṇī), east Indian globe thistle, wild cumin, common millet, Shukla (Śuklā), Kshirashukla (Kṣīraśuklā), heart-leaved sida, evening mallow, white yam, milky yam, small wild black gram, large wild black gram, elephant creeper, winter cherry, white and red flowered hog’s weed, Indian nightshade, yellow-berried nightshade, red flowered castor plant, tri-lobed virgin’s bower, small caltrops, epiphytic orchid (vanda), climbing asparagus, dill, mahwa, liquorice, Madhulika (Madhūlikā), grapes, date, sweet [falseh?] cowage seeds of orris root, rashnut, bulrush, Indian ape flower, clearing nut, fruits of white teak, Shitapaki (Śītapāki), crested purple nail-dye, sprouts of palmyra palm and date, sugar cane, long leaved barleria, sacrificial grass, elephant grass, prickly sesbane, penreed grass (roots), asthma weed, wild black gram, teak, devil’s cotton, oblong leaved croton wild asparagus maiden’s hair fern, small stinking swallow wort, white scutch grass or blepharis, [ring?] coronet swallow wort, cardamom, Somavalli, Indian sarsaparilla and guduch.
+</blockquote>
+
 
 139. Of these and similar other drugs as are classified as the sweet group of drugs, those that are fit for cutting should be cut into bits and those that are fit to be ground should be ground into a fine powder, and placed, after washing with water, in a clean pot and soaked in equal quantities of milk and water and should be boiled, and the decoction kept stirring with a ladle. When it has been reduced to the required quantity and the essence of the drugs has got into the decoction, and before the milk has been charred, the pot should be taken down from the fire and the decoction strained. When it is genially warm, ghee, oil, fat, marrow, rock-salt and treacle should be mixed with it in due measure and properly administered as enema, by the expert physician in case of Vata-disorders. The cooled decoction, mixed with honey and ghee, should be -properly administered in Pitta disorders Thus has been described the sweet group of drugs
 
+
+<blockquote className="ayur-shloka">
 140 (1) Fruits of mango, Indian hog plum, Lakuca, bengal currant, citron, common sorrel, jujube, small jujube, pomegranate, pomello, Gandira (Gaṇḍīra), emblic myrobaian, oval-leaved fig, Shitaka (Śītaka), tamarind, lemon, orange, ceylon oak, Indian linden, leaves of Indian hog plum, heart-leaved fig, yellow wood sorrel, acid of the four kinds of acid plants, both kinds of jujube—green and dried, both kinds of dried sour bulbs—wild kind and the kind growing in villages, the articles used for making medicated wines, the wines called Sura (Surā), Sauvira (Sauvīra), Tushodaka (Tuṣodaka), Maireya Medaka, honey-vinegar, Shidhu (Śīdhu) wine, curds, whey, diluted butter-milk, sour conjee and such other things
+</blockquote>
+
 
 140. Of these and such other articles classified as sour group of drugs, those of them that can be cut, should be cut into small bits and those that are fit to be ground, should be ground into fine powder and pouring the liquids on them and cooking them in a pot and straining and duly mixing them with oil, fat, marrow, rock-salt and treacle, the expert physician should properly administer them when genially warm, in cases of Vata-disorders. Thus has been described the sour group of drugs.
 
@@ -662,11 +690,19 @@ Drugs for Corrective enema to be selected by their Taste out of the innumerabili
 
 141. The expert should properly administer them in genially warm condition as enema, in Vata disorders, mixed with unctuous substances and with either acid articles or with genially warm water. Thus has been described the salt group of articles.
 
+
+<blockquote className="ayur-shloka">
 142-(1). Long pepper, piper roots, elephant pepper, fragrant piper, white flowered leadw-ort, ginger, black pepper, celery, ginger, embelia, coriander, tooth brush tree, Indian tooth ache tree, cardamom, costus, stones of marking nut, asafoetida, deodar, radish, rapeseed, garlic, Indian beech, drumstick tree, sweet drumstick, celery, ginger grass, nut-meg, holy basil, shrubby basil, Arjaka, Gandira (Gaṇḍīra), Kalamalaka (Kālamālaka), Parnasa (Parṇāsa), sneeze wort, sweet marjoram, alkali, cow’s urine and cow’s bile,
+</blockquote>
+
 
 142 Of these and such other articles as are classified as the pungent group of drugs, those that are fit to be cut should be cut into small bits and those that are fit to be ground, should be ground into fine powder and mixed with cow’s urine; then they should be strained and duly mixed with honey, oil and rocksalt. The expert should properly administer this as enema in case of Kapha-disorders. Thus has been described the pungent group of drugs.
 
+
+<blockquote className="ayur-shloka">
 143-(1). Sandal, nardus, purging cassia, Indian beech, neem Indian tooth-ache tree, kurchi, turmeric, Indian berberry, nut-grass, tri-lobed virgin’s bower, chiretta, kurroa, zalil, corella fruit, caper, oleander, Kebuka, hogs weed, vasaka, Indian pennywort, sponge gourd. Karkasha (Karkaśa) black night-shade, redwood fig tree, Sushavi (Suṣavī), Indian atees, wild snake gourd, corella fruit, Patha (Pāṭhā), guduch, country willow, cine, thorny staff tree, bakul, gum arabic tree, dita bark tree, nutmeg, mudar, babchi, sweet flag, Indian valerian, eagle-wood, fragrant sticky mallow and cuscus grass.
+</blockquote>
+
 
 143. Of these and such other drugs classified as the bitter group of drugs, those that are fit to be cut should be cut into small bits and those that are fit to be ground should be ground into fine powder and boiled. It must then be strained and duty mixed with honey, oil and rocksalt and should be property administered by the expert in a genially warm condition as enema in Kaphadisorders The cooled decoction mixed with honey and ghee should be properly administered by the expert in Pitta-disorders. Thus has been described the bitter group of drugs.
 
@@ -696,7 +732,11 @@ Here are verses again—
 
 Drugs used in Unctuous Enemata
 
+
+<blockquote className="ayur-shloka">
 151-(1). The articles that go into the preparations of errhines are—(1) The fruits of rough chaff tree, long pepper, black pepper, embelia, drum-stick, siris, Indian toothache tree cumin, celery, brinjal, big cardamom, fragrant piper; (2) The leaves of deodar, holy basil, shrubby basil, Gandira (Gaṇḍīra), Kalamalaka (Kālamālaka), Parnasa (Parṇāsa), sneezewort, sweet marjoram, turmeric, gingery, radish, garlic, wind killer and rape; (3) The roots of mudar, white mudar, costus, oblong leaved croton, sweet flag, rough chaff tree. Shveta (Śvetā), staff plant, colocynth, Gandira (Gaṇḍīra)—Pushpi (Puṣpī), Indian borage, climbing nettle, mercury, Brahmi (Brāhmī) and Indian atees; (4) The bulbs of turmeric, ginger, radish and garlic; (5) The flowers of lodh, emetic nut, dita bark tree, neem and mudar; (6) The exudation of deodar, eagle wood, long-leaved pine, Indian olibanum, Indian ash tree, spinous kino tree, and asafoetida; (7, The barks of Indian tooth-ache tree, cinnamon, zachum oil plant, drumstick, Indian nightshade and yellow-berried nightshade.
+</blockquote>
+
 
 151-(2). Thus, these are the seven varieties of articles used in errhines, classified according to their sources viz., fruits, leaves, roots, bulbs, flowers, exudations and barks of plants
 

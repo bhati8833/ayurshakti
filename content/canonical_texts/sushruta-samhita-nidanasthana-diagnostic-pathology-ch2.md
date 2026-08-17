@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of diseases of nervous system within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter I - Diagnosis of diseases of nervous system
+## Chapter I - Diagnosis of diseases of nervous system
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -209,53 +209,60 @@ A knotty stone-like tumour (Granthi) of considerable density, whether fixed or m
 
 Thus ends the first Chapter of the Nidana Sthana in the Sushruta Samhita, which treats of the Nidana of the diseases of the nervous system.
 
-[1]:
 
-The term Nidana, usually translated as Pathology, is meant to include factors, which fall within the respective provinces of Pathology, Ætiology, Symptomology and Pathognomy as well. For the meaning and functions of Vayu see Introduction vol. I. pp. xli.—xlii.
+<div className="footnote-card"><strong>[1]</strong> The term Nidana, usually translated as Pathology, is meant to include factors, which fall within the respective provinces of Pathology, Ætiology, Symptomology and Pathognomy as well. For the meaning and functions of Vayu see Introduction vol. I. pp. xli.—xlii.</div>
 
-[2]:
 
-See Introduction Vol. I. p.p. XLVIII—XLIX Mahamahopadhyaya Dvarka Natha Kaviratna interprets this Agni as digestive heat (Jaiharagni).
 
-[3]:
 
-The Prana Vayu is identical with the energy of the nerve centre in the medulla; the Udana with that of the one which is situated in the speech centre. The Samana is same as the energy of the epigastric plexus, the Udana is same as the energy of the Motor-Sensory Nerves, and the Apana is identical with the force of the Hypogastric plexus.
+<div className="footnote-card"><strong>[2]</strong> See Introduction Vol. I. p.p. XLVIII—XLIX Mahamahopadhyaya Dvarka Natha Kaviratna interprets this Agni as digestive heat (Jaiharagni).</div>
 
-[4]:
 
-The field of its action includes the regions of the heart, throat, head and the nose.
 
-[5]:
 
-Such as expansion, flexion, lowering down and lifting up or lateral thrusting of any part of the body.
+<div className="footnote-card"><strong>[3]</strong> The Prana Vayu is identical with the energy of the nerve centre in the medulla; the Udana with that of the one which is situated in the speech centre. The Samana is same as the energy of the epigastric plexus, the Udana is same as the energy of the Motor-Sensory Nerves, and the Apana is identical with the force of the Hypogastric plexus.</div>
 
-[6]:
 
-The patient suffers from vanishings (tamyati) and loss of consciousness through the instrumentality of the enraged and aggravated Vayu, hence the disease is so named—Gayadasa.
 
-[7]:
 
-Jejjada holds that the enraged Vayu, in unison with the deranged Kapha, gives rise to another kind of convulsions (Akshepaka) which he has denominated as Danda-patanakh which, exhibits such symptoms as coldness, swelling and heaviness of the body on account of its being brought about by a concerted action of the deranged Pitta and Kapha. Several authorities aver that there are four distinct types of Akshepakah, such as Danda-patanakh, Antarayamah, Vahirayamah, and Akshepakh of traumatic (Abhighataja) origin.
+<div className="footnote-card"><strong>[4]</strong> The field of its action includes the regions of the heart, throat, head and the nose.</div>
 
-[8]:
 
-Brahma Deva designated the four types of the disease, as Apatanakah, Samsrishta Akshepakah, simple Akshepakah and the Abhighataja (traumatic).
 
-[9]:
 
-The portion of the text included within asterisks has been reject by Jejjadacaryya as spurious.
+<div className="footnote-card"><strong>[5]</strong> Such as expansion, flexion, lowering down and lifting up or lateral thrusting of any part of the body.</div>
 
-[10]:
 
-When the aforesaid nerve of a single arm is affected the disease is (?)cted to it alone, while it attacks the both when both their nerves are
 
-[11]:
 
-The Ansa-shosha is due to the single action of the enraged Vayu, while Ava-vahuka is due to the concerted action of the deranged Vayu and Kapha.
+<div className="footnote-card"><strong>[6]</strong> The patient suffers from vanishings (tamyati) and loss of consciousness through the instrumentality of the enraged and aggravated Vayu, hence the disease is so named—Gayadasa.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Jejjada holds that the enraged Vayu, in unison with the deranged Kapha, gives rise to another kind of convulsions (Akshepaka) which he has denominated as Danda-patanakh which, exhibits such symptoms as coldness, swelling and heaviness of the body on account of its being brought about by a concerted action of the deranged Pitta and Kapha. Several authorities aver that there are four distinct types of Akshepakah, such as Danda-patanakh, Antarayamah, Vahirayamah, and Akshepakh of traumatic (Abhighataja) origin.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Brahma Deva designated the four types of the disease, as Apatanakah, Samsrishta Akshepakah, simple Akshepakah and the Abhighataja (traumatic).</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> The portion of the text included within asterisks has been reject by Jejjadacaryya as spurious.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> When the aforesaid nerve of a single arm is affected the disease is (?)cted to it alone, while it attacks the both when both their nerves are</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> The Ansa-shosha is due to the single action of the enraged Vayu, while Ava-vahuka is due to the concerted action of the deranged Vayu and Kapha.</div>
 
 ---
-
-
 
 ---
 
@@ -264,10 +271,6 @@ The Ansa-shosha is due to the single action of the enraged Vayu, while Ava-vahuk
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of urinary calculus: Sushruta Samhita Nidanasthana Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

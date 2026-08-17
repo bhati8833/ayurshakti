@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Good And Bad Colour Etc. Fatal Signs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 38. Chapter XXXI - Good And Bad Colour Etc. Fatal Signs
+## Chapter XXXI - Good And Bad Colour Etc. Fatal Signs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -47,17 +47,15 @@ Ghosts, evil spirits, Pishachas and monsters of various shapes and denomination,
 
 Thus ends the Thirty-first Chapter of the Sutrasthana in the Sushruta-Sanihita which deals with prognosis from perverted features.
 
-[1]:
 
-Physicians of the Ayurvedic School, however, observe a distinction between Chaya (shade of complexion), Prabha (healthful glow of the complexion), and Varna (natural colour of the complexion) itself. The Chaya or the shade of one’s complexion may be easily distinguished as clear, rough or cool, etc. and can be detected only on a close view. The Prabha, on the other hand, is visible from a distance and admits of of being divided into seven different types, such as red, yellow, white, brown, greenish, pale, and black. The Varna or the natural colour of the complexion of a man is found to be either fair, black, dusky leaning towards the fair, according to his race and habitation. The term also includes natural modesty, look and ease.
+<div className="footnote-card"><strong>[1]</strong> Physicians of the Ayurvedic School, however, observe a distinction between Chaya (shade of complexion), Prabha (healthful glow of the complexion), and Varna (natural colour of the complexion) itself. The Chaya or the shade of one’s complexion may be easily distinguished as clear, rough or cool, etc. and can be detected only on a close view. The Prabha, on the other hand, is visible from a distance and admits of of being divided into seven different types, such as red, yellow, white, brown, greenish, pale, and black. The Varna or the natural colour of the complexion of a man is found to be either fair, black, dusky leaning towards the fair, according to his race and habitation. The term also includes natural modesty, look and ease.</div>
 
-[2]:
 
-Such as Chlorosis, Ascites, Hemorrhoids.
+
+
+<div className="footnote-card"><strong>[2]</strong> Such as Chlorosis, Ascites, Hemorrhoids.</div>
 
 ---
-
-
 
 ---
 
@@ -66,10 +64,6 @@ Such as Chlorosis, Ascites, Hemorrhoids.
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch33" className="text-emerald-400 hover:underline flex items-center font-medium">Fatal Signs of Diseases: Sushruta Samhita Sutrasthana Chapter 33 →</a>
 </div>
-
-
-
-
 
 ---
 

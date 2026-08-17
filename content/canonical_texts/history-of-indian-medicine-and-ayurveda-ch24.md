@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Method of Nomenclature within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 71. Chapter 6 - Method of Nomenclature
+## Chapter 6 - Method of Nomenclature
 
 History of Indian Medicine (and Ayurveda)
 
@@ -163,7 +163,7 @@ Mala = The waste or toxic matter.
 
 ---
 
-## 72. Chapter 7 - The Nature and Functions of the Body Triumvirate
+## Chapter 7 - The Nature and Functions of the Body Triumvirate
 
 History of Indian Medicine (and Ayurveda)
 
@@ -610,7 +610,7 @@ How constitutional factors of the individual resist the incursion of harmful fac
 
 ---
 
-## 73. Chapter 5 - The Study of Constitution
+## Chapter 5 - The Study of Constitution
 
 History of Indian Medicine (and Ayurveda)
 
@@ -749,8 +749,6 @@ Having now the full outline of this triumvirate of vitia that determine the tota
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -758,10 +756,6 @@ Having now the full outline of this triumvirate of vitia that determine the tota
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Imbalance Condition (Vaiṣamya): History Of Indian Medicine And Ayurveda Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

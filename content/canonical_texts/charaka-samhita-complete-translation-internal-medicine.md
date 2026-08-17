@@ -13,88 +13,86 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Charaka Samhita Complete Translation Chapter 1](/articles/charaka-samhita-complete-translation-internal-medicine-ch1)
+### [General Discourse: Charaka Samhita Complete Translation Chapter 1](/articles/charaka-samhita-complete-translation-internal-medicine-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Charaka Samhita Complete Translation.
 
-### 2. [The Discipline of the Senses (indriya-upakrama): Charaka Samhita Complete Translation Chapter 2](/articles/charaka-samhita-complete-translation-internal-medicine-ch2)
+### [The Discipline of the Senses (indriya-upakrama): Charaka Samhita Complete Translation Chapter 2](/articles/charaka-samhita-complete-translation-internal-medicine-ch2)
 **Overview**: Detailed classical discussion on The Discipline of the Senses (indriya-upakrama) within Charaka Samhita Complete Translation.
 
-### 3. [The Sudation Therapy (sveda): Charaka Samhita Complete Translation Chapter 3](/articles/charaka-samhita-complete-translation-internal-medicine-ch3)
+### [The Sudation Therapy (sveda): Charaka Samhita Complete Translation Chapter 3](/articles/charaka-samhita-complete-translation-internal-medicine-ch3)
 **Overview**: Detailed classical discussion on The Sudation Therapy (sveda) within Charaka Samhita Complete Translation.
 
-### 4. [The Major List of Diseases (maharoga): Charaka Samhita Complete Translation Chapter 4](/articles/charaka-samhita-complete-translation-internal-medicine-ch4)
+### [The Major List of Diseases (maharoga): Charaka Samhita Complete Translation Chapter 4](/articles/charaka-samhita-complete-translation-internal-medicine-ch4)
 **Overview**: Detailed classical discussion on The Major List of Diseases (maharoga) within Charaka Samhita Complete Translation.
 
-### 5. [Discussion among Sages regarding Tastes (Rasa): Charaka Samhita Complete Translation Chapter 5](/articles/charaka-samhita-complete-translation-internal-medicine-ch5)
+### [Discussion among Sages regarding Tastes (Rasa): Charaka Samhita Complete Translation Chapter 5](/articles/charaka-samhita-complete-translation-internal-medicine-ch5)
 **Overview**: Detailed classical discussion on Discussion among Sages regarding Tastes (Rasa) within Charaka Samhita Complete Translation.
 
-### 6. [e - The group of Fruits (Phala): Charaka Samhita Complete Translation Chapter 6](/articles/charaka-samhita-complete-translation-internal-medicine-ch6)
+### [e - The group of Fruits (Phala): Charaka Samhita Complete Translation Chapter 6](/articles/charaka-samhita-complete-translation-internal-medicine-ch6)
 **Overview**: Detailed classical discussion on e - The group of Fruits (Phala) within Charaka Samhita Complete Translation.
 
-### 7. [k - The group of Cooked foods (Kritanna): Charaka Samhita Complete Translation Chapter 7](/articles/charaka-samhita-complete-translation-internal-medicine-ch7)
+### [k - The group of Cooked foods (Kritanna): Charaka Samhita Complete Translation Chapter 7](/articles/charaka-samhita-complete-translation-internal-medicine-ch7)
 **Overview**: Detailed classical discussion on k - The group of Cooked foods (Kritanna) within Charaka Samhita Complete Translation.
 
-### 8. [b - Definition of Ayurveda (‘the science of life’): Charaka Samhita Complete Translation Chapter 8](/articles/charaka-samhita-complete-translation-internal-medicine-ch8)
+### [b - Definition of Ayurveda (‘the science of life’): Charaka Samhita Complete Translation Chapter 8](/articles/charaka-samhita-complete-translation-internal-medicine-ch8)
 **Overview**: Detailed classical discussion on b - Definition of Ayurveda (‘the science of life’) within Charaka Samhita Complete Translation.
 
-### 9. [The Pathology of Consumption (shosha-nidana): Charaka Samhita Complete Translation Chapter 9](/articles/charaka-samhita-complete-translation-internal-medicine-ch9)
+### [The Pathology of Consumption (shosha-nidana): Charaka Samhita Complete Translation Chapter 9](/articles/charaka-samhita-complete-translation-internal-medicine-ch9)
 **Overview**: Detailed classical discussion on The Pathology of Consumption (shosha-nidana) within Charaka Samhita Complete Translation.
 
-### 10. [The Measure of Depopulation through Epidemics (uddhvamsa-vimana): Charaka Samhita Complete Translation Chapter 10](/articles/charaka-samhita-complete-translation-internal-medicine-ch10)
+### [The Measure of Depopulation through Epidemics (uddhvamsa-vimana): Charaka Samhita Complete Translation Chapter 10](/articles/charaka-samhita-complete-translation-internal-medicine-ch10)
 **Overview**: Detailed classical discussion on The Measure of Depopulation through Epidemics (uddhvamsa-vimana) within Charaka Samhita Complete Translation.
 
-### 11. [The Treatment of Disease (roga-bhishaj-jiti-vimana): Charaka Samhita Complete Translation Chapter 11](/articles/charaka-samhita-complete-translation-internal-medicine-ch11)
+### [The Treatment of Disease (roga-bhishaj-jiti-vimana): Charaka Samhita Complete Translation Chapter 11](/articles/charaka-samhita-complete-translation-internal-medicine-ch11)
 **Overview**: Detailed classical discussion on The Treatment of Disease (roga-bhishaj-jiti-vimana) within Charaka Samhita Complete Translation.
 
-### 12. [The Analysis of Man (purusha-vicaya): Charaka Samhita Complete Translation Chapter 12](/articles/charaka-samhita-complete-translation-internal-medicine-ch12)
+### [The Analysis of Man (purusha-vicaya): Charaka Samhita Complete Translation Chapter 12](/articles/charaka-samhita-complete-translation-internal-medicine-ch12)
 **Overview**: Detailed classical discussion on The Analysis of Man (purusha-vicaya) within Charaka Samhita Complete Translation.
 
-### 13. [The Quest for Longevity (dirgha-jivita): Charaka Samhita Complete Translation Chapter 13](/articles/charaka-samhita-complete-translation-internal-medicine-ch13)
+### [The Quest for Longevity (dirgha-jivita): Charaka Samhita Complete Translation Chapter 13](/articles/charaka-samhita-complete-translation-internal-medicine-ch13)
 **Overview**: Detailed classical discussion on The Quest for Longevity (dirgha-jivita) within Charaka Samhita Complete Translation.
 
-### 14. [Prognosis from the Dark-red coloration: Charaka Samhita Complete Translation Chapter 14](/articles/charaka-samhita-complete-translation-internal-medicine-ch14)
+### [Prognosis from the Dark-red coloration: Charaka Samhita Complete Translation Chapter 14](/articles/charaka-samhita-complete-translation-internal-medicine-ch14)
 **Overview**: Detailed classical discussion on Prognosis from the Dark-red coloration within Charaka Samhita Complete Translation.
 
-### 15. [Fruits plucked with the Hand (kara-pracita): Charaka Samhita Complete Translation Chapter 15](/articles/charaka-samhita-complete-translation-internal-medicine-ch15)
+### [Fruits plucked with the Hand (kara-pracita): Charaka Samhita Complete Translation Chapter 15](/articles/charaka-samhita-complete-translation-internal-medicine-ch15)
 **Overview**: Detailed classical discussion on Fruits plucked with the Hand (kara-pracita) within Charaka Samhita Complete Translation.
 
-### 16. [The man of enhanced virility etc. (pums-jatabala): Charaka Samhita Complete Translation Chapter 16](/articles/charaka-samhita-complete-translation-internal-medicine-ch16)
+### [The man of enhanced virility etc. (pums-jatabala): Charaka Samhita Complete Translation Chapter 16](/articles/charaka-samhita-complete-translation-internal-medicine-ch16)
 **Overview**: Detailed classical discussion on The man of enhanced virility etc. (pums-jatabala) within Charaka Samhita Complete Translation.
 
-### 17. [The therapeutics of Insanity (unmada-cikitsa): Charaka Samhita Complete Translation Chapter 17](/articles/charaka-samhita-complete-translation-internal-medicine-ch17)
+### [The therapeutics of Insanity (unmada-cikitsa): Charaka Samhita Complete Translation Chapter 17](/articles/charaka-samhita-complete-translation-internal-medicine-ch17)
 **Overview**: Detailed classical discussion on The therapeutics of Insanity (unmada-cikitsa) within Charaka Samhita Complete Translation.
 
-### 18. [The therapeutics of Abdominal Disease (udara-cikitsa): Charaka Samhita Complete Translation Chapter 18](/articles/charaka-samhita-complete-translation-internal-medicine-ch18)
+### [The therapeutics of Abdominal Disease (udara-cikitsa): Charaka Samhita Complete Translation Chapter 18](/articles/charaka-samhita-complete-translation-internal-medicine-ch18)
 **Overview**: Detailed classical discussion on The therapeutics of Abdominal Disease (udara-cikitsa) within Charaka Samhita Complete Translation.
 
-### 19. [The therapeutics of Acute Spreading Affections (visarpa-cikitsa): Charaka Samhita Complete Translation Chapter 19](/articles/charaka-samhita-complete-translation-internal-medicine-ch19)
+### [The therapeutics of Acute Spreading Affections (visarpa-cikitsa): Charaka Samhita Complete Translation Chapter 19](/articles/charaka-samhita-complete-translation-internal-medicine-ch19)
 **Overview**: Detailed classical discussion on The therapeutics of Acute Spreading Affections (visarpa-cikitsa) within Charaka Samhita Complete Translation.
 
-### 20. [The therapeutics of Spastic Paraplegia (urustambha-cikitsa): Charaka Samhita Complete Translation Chapter 20](/articles/charaka-samhita-complete-translation-internal-medicine-ch20)
+### [The therapeutics of Spastic Paraplegia (urustambha-cikitsa): Charaka Samhita Complete Translation Chapter 20](/articles/charaka-samhita-complete-translation-internal-medicine-ch20)
 **Overview**: Detailed classical discussion on The therapeutics of Spastic Paraplegia (urustambha-cikitsa) within Charaka Samhita Complete Translation.
 
-### 21. [b - The Pharmaceutics of the Emetic nut (madana-kalpa): Charaka Samhita Complete Translation Chapter 21](/articles/charaka-samhita-complete-translation-internal-medicine-ch21)
+### [b - The Pharmaceutics of the Emetic nut (madana-kalpa): Charaka Samhita Complete Translation Chapter 21](/articles/charaka-samhita-complete-translation-internal-medicine-ch21)
 **Overview**: Detailed classical discussion on b - The Pharmaceutics of the Emetic nut (madana-kalpa) within Charaka Samhita Complete Translation.
 
-### 22. [The Pathology of Gulma (gulma-nidana): Charaka Samhita Complete Translation Chapter 22](/articles/charaka-samhita-complete-translation-internal-medicine-ch22)
+### [The Pathology of Gulma (gulma-nidana): Charaka Samhita Complete Translation Chapter 22](/articles/charaka-samhita-complete-translation-internal-medicine-ch22)
 **Overview**: Detailed classical discussion on The Pathology of Gulma (gulma-nidana) within Charaka Samhita Complete Translation.
 
-### 23. [The Pharmaceutics of Tilwaka (tilvaka-kalpa): Charaka Samhita Complete Translation Chapter 23](/articles/charaka-samhita-complete-translation-internal-medicine-ch23)
+### [The Pharmaceutics of Tilwaka (tilvaka-kalpa): Charaka Samhita Complete Translation Chapter 23](/articles/charaka-samhita-complete-translation-internal-medicine-ch23)
 **Overview**: Detailed classical discussion on The Pharmaceutics of Tilwaka (tilvaka-kalpa) within Charaka Samhita Complete Translation.
 
-### 24. [Complications of Unctuous Enema (sneha-vyapad-siddhi): Charaka Samhita Complete Translation Chapter 24](/articles/charaka-samhita-complete-translation-internal-medicine-ch24)
+### [Complications of Unctuous Enema (sneha-vyapad-siddhi): Charaka Samhita Complete Translation Chapter 24](/articles/charaka-samhita-complete-translation-internal-medicine-ch24)
 **Overview**: Detailed classical discussion on Complications of Unctuous Enema (sneha-vyapad-siddhi) within Charaka Samhita Complete Translation.
 
-### 25. [Successful Enema therapy (basti-siddhi): Charaka Samhita Complete Translation Chapter 25](/articles/charaka-samhita-complete-translation-internal-medicine-ch25)
+### [Successful Enema therapy (basti-siddhi): Charaka Samhita Complete Translation Chapter 25](/articles/charaka-samhita-complete-translation-internal-medicine-ch25)
 **Overview**: Detailed classical discussion on Successful Enema therapy (basti-siddhi) within Charaka Samhita Complete Translation.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 120. Chapter 1a - Introduction to the Kalpasthana
+## Chapter 1a - Introduction to the Kalpasthana
 
 Charaka Samhita (English translation)
 

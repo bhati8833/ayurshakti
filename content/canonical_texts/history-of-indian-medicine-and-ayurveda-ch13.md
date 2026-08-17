@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Vaidyas (physician) within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 37. Chapter 24 - The Vaidyas (physician)
+## Chapter 24 - The Vaidyas (physician)
 
 History of Indian Medicine (and Ayurveda)
 
@@ -177,7 +177,7 @@ Adam, a recent writer, writing upon the subject makes the following observation:
 
 ---
 
-## 38. Chapter 26 - State and Medicine
+## Chapter 26 - State and Medicine
 
 History of Indian Medicine (and Ayurveda)
 
@@ -318,7 +318,7 @@ Thus the first physician and his profession were highly regarded the and the sta
 
 ---
 
-## 39. Part 4 - Some Aspects of Life in Caraka’s Times
+## Part 4 - Some Aspects of Life in Caraka’s Times
 
 History of Indian Medicine (and Ayurveda)
 
@@ -328,11 +328,7 @@ As an important final a...
 
 Part 4 - Some Aspects of Life in Caraka’s Times
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -341,10 +337,6 @@ Part 4 - Some Aspects of Life in Caraka’s Times
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">The Ceremonials observed in Childhood: History Of Indian Medicine And Ayurveda Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

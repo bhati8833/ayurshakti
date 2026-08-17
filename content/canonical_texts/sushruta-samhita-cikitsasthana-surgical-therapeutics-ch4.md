@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of nervous disorders within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter IV - The medical treatment of nervous disorders
+## Chapter IV - The medical treatment of nervous disorders
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -91,45 +91,52 @@ The remedy proves efficacious in Vata-roga through its heat-making potency, powe
 
 Thus ends the fourth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Vata-Ayadhi.
 
-[1]:
 
-One Dharana is equal to four Mashas.
+<div className="footnote-card"><strong>[1]</strong> One Dharana is equal to four Mashas.</div>
 
-[2]:
 
-Sneha-Lavana and Kanda-Lavana, etc.
 
-[3]:
 
-Treatments, such as, the purification of the semen, etc., and the use of medicines for making Aphrodisia (Vaji-karana) and for the remedy of the disordered urinary organ (Mutra-dosha) should be adopted and employed.
+<div className="footnote-card"><strong>[2]</strong> Sneha-Lavana and Kanda-Lavana, etc.</div>
 
-[4]:
 
-It is to be understood that measures and remedies laid down under the head of Sarvanga-gata should be used when the Vayu would be found to be diffused throughout the whole organism instead of being confined to any specific part.
 
-[5]:
 
-According to others it means all kinds of acid-fruits, etc.
+<div className="footnote-card"><strong>[3]</strong> Treatments, such as, the purification of the semen, etc., and the use of medicines for making Aphrodisia (Vaji-karana) and for the remedy of the disordered urinary organ (Mutra-dosha) should be adopted and employed.</div>
 
-[6]:
 
-Chakradatta reads “sanūpamaṃsaḥ susvinnaḥ” (well-cooked with the flesh of “Anupa” animals) in place of sanūpaudakamaṃsastu |
 
-[7]:
 
-Some lead it as Valka, i.e., made up bark.
+<div className="footnote-card"><strong>[4]</strong> It is to be understood that measures and remedies laid down under the head of Sarvanga-gata should be used when the Vayu would be found to be diffused throughout the whole organism instead of being confined to any specific part.</div>
 
-[8]:
 
-Patra means 64 Palas, i e., 8 Seers, but in cases of liquids the weight should be doubled.
 
-[9]:
 
-The total weight of these powders should be one-fourth of the weight of the rock-salt taken in the course of the preparation.—Dallana.
+<div className="footnote-card"><strong>[5]</strong> According to others it means all kinds of acid-fruits, etc.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Chakradatta reads “sanūpamaṃsaḥ susvinnaḥ” (well-cooked with the flesh of “Anupa” animals) in place of sanūpaudakamaṃsastu |
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Some lead it as Valka, i.e., made up bark.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Patra means 64 Palas, i e., 8 Seers, but in cases of liquids the weight should be doubled.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> The total weight of these powders should be one-fourth of the weight of the rock-salt taken in the course of the preparation.—Dallana.</div>
 
 ---
-
-
 
 ---
 
@@ -138,10 +145,6 @@ The total weight of these powders should be one-fourth of the weight of the rock
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">The diseases affecting the nervous system: Sushruta Samhita Cikitsasthana Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Arśa (piles) according to Caraka within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 110. Arśa (piles) according to Caraka
+## Arśa (piles) according to Caraka
 
 Arśa (piles) according to Caraka
 
@@ -57,21 +57,28 @@ Intake of following drugs to cure piles are, namely, Bhallātaka for non-bleedin
 
 The following symptoms are due to complication of improper kṣāra and agni karma: loss of sexual potency, swelling in anorectal region, retention of various urges, distension of abdomen, severe pain in the abdomen, haemorrhage, prolapse of anus and immediate death[3].
 
-[1]:
 
-sarveṣāṃ cārśasāṃ kṣetraṃ-gudasyārdhapañcamāṅgulāvakāśe tribhāgāntarāstisro gudavalayaḥ kṣetramiti; kecittu bhūyāṃsameva deśamupadiśantyarśasāṃ-śiśnamapatyapathaṃ galatālumukhanāsikākarṇākṣivartmāni tvak ceti | tadastyadhimāṃsadeśatayā, gudabalijānāṃ tvarśāsīti saṃjñā tantre'smin | sarveṣāṃ cārśasāmadhiṣṭhānaṃ-medo māsaṃ tvak ca ||(C. Cikitsāsthāna–XIV.6); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 417.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> sarveṣāṃ cārśasāṃ kṣetraṃ-gudasyārdhapañcamāṅgulāvakāśe tribhāgāntarāstisro gudavalayaḥ kṣetramiti; kecittu bhūyāṃsameva deśamupadiśantyarśasāṃ-śiśnamapatyapathaṃ galatālumukhanāsikākarṇākṣivartmāni tvak ceti | tadastyadhimāṃsadeśatayā, gudabalijānāṃ tvarśāsīti saṃjñā tantre'smin | sarveṣāṃ cārśasāmadhiṣṭhānaṃ-medo māsaṃ tvak ca ||(C. Cikitsāsthāna–XIV.6); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 417.
+</blockquote>
 
-[2]:
 
-C. Cikitsāsthāna–XIV.5-248; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 416-449.
 
-[3]:
 
-C. Cikitsāsthāna–XIV.5-248; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 416-449.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> C. Cikitsāsthāna–XIV.5-248; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 416-449.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> C. Cikitsāsthāna–XIV.5-248; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 416-449.
+</blockquote>
 
 ---
 
-## 111. Prameha (urinary tract disease) according to Caraka
+## Prameha (urinary tract disease) according to Caraka
 
 Prameha (urinary tract disease) according to Caraka
 
@@ -93,21 +100,28 @@ For Prameha disease the following food are used: green gram soup (yūṣa), old 
 
 If a person has red coloured urine without any prodromal symptoms of prameha-then it is a case of rakta pitta, rather than prameha. Prameha due to heredity is incurable. Seven types of boils associated with prameha are to be treated by expert surgeons with the help os surgical operations, cleansing, and healing therapies[3].
 
-[1]:
 
-jaṭilībhāvaṃ keśeṣu, mādhuryamāsyasya, karapādayoḥ suptatādāhau, mukhatālukaṇṭhaśoṣaṃ, pipāsām, ālasyaṃ malaṃ kāye, kāyacchidreṣūpadehaṃ, paridāhaṃ suptatāṃ cāṅgeṣu, ṣaṭpadapipīlikābhibhiśca śarīramūtrābhisaraṇaṃ, mūtre ca mūtradoṣān, vistraṃ śarīragandhaṃ, nidrāṃ, tandrāṃ ca sarvakālamiti || (CS.  -Nidānasthāna–IV.47); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 51.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> jaṭilībhāvaṃ keśeṣu, mādhuryamāsyasya, karapādayoḥ suptatādāhau, mukhatālukaṇṭhaśoṣaṃ, pipāsām, ālasyaṃ malaṃ kāye, kāyacchidreṣūpadehaṃ, paridāhaṃ suptatāṃ cāṅgeṣu, ṣaṭpadapipīlikābhibhiśca śarīramūtrābhisaraṇaṃ, mūtre ca mūtradoṣān, vistraṃ śarīragandhaṃ, nidrāṃ, tandrāṃ ca sarvakālamiti || (CS.  -Nidānasthāna–IV.47); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 51.
+</blockquote>
 
-[2]:
 
-Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, pp. 131-132.
 
-[3]:
 
-C. Cikitsāsthāna–VI.4-58; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 299-316.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, pp. 131-132.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> C. Cikitsāsthāna–VI.4-58; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 299-316.
+</blockquote>
 
 ---
 
-## 112. Raktapitta according to Caraka
+## Raktapitta according to Caraka
 
 Raktapitta according to Caraka
 
@@ -123,17 +137,21 @@ Upper tracks of Raktapitta can be treated with purgation therapy. So, it is cura
 
 There is talk of applying different methods of treatment for Raktapitta. For example, if thirst is present, use of hrīverādi for drinking, application of tarpan and peyā, application of dates for tarpan, application of lāja tarpan, application of acid tarpan; application of food is Śāli, Yaṣṭhika, Nīvāra, Koradūṣa, Praśātikā, Śyāmaka etc. Application of soup and juice of Mug, Musura, Cholā, Vanamuga, Aḍahara. Raktapitta can be cured by applying herbs like leaves of Paltā, neem, Ciretā, Pākuḍa etc. application of meat of pigeon, lab, Cakora, deer etc. Also, in Caraka-Saṃhitā, application of drink of sandalwood peya, vomit, eight pollutants decoction, etc. Goat's milk or cow's milk is boiled in five times water and drunk with honey to cure Raktapitta[2].`
 
-[1]:
 
-plīhānaṃ ca yakṛccaiva tadadhiṣṭhāya vartate | (C. Cikitsāsthāna–IV.10); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 223.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> plīhānaṃ ca yakṛccaiva tadadhiṣṭhāya vartate | (C. Cikitsāsthāna–IV.10); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 223.
+</blockquote>
 
-[2]:
 
-C. Cikitsāsthāna–IV.5-109; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 221-249.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> C. Cikitsāsthāna–IV.5-109; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 221-249.
+</blockquote>
 
 ---
 
-## 113. Unmāda (insanity) according to Caraka
+## Unmāda (insanity) according to Caraka
 
 Unmāda (insanity) according to Caraka
 
@@ -145,13 +163,7 @@ The causes of insanity are—unhealthy, unhygienic, unclean food habits; curse o
 
 Causes of Unmāda roga are of two types—innate and exogenous. Unmāda roga according to dosas are of five types—
 
-Vāta,
-
-Pitta,
-
-Kapha,
-
-Sannipātaja and
+Vāta,, Pitta,, Kapha,, Sannipātaja and
 
 Āgantuja (exogenous).
 
@@ -193,17 +205,19 @@ Irritant collyrium, beating etc., should be avoided in insanity by Gods, sage, f
 
 One who abstains from eating meat and drinking alcohol, and takes only wholesome food, who is disciplined and pure, and who has strong will power doesn’t get afflicted by either endogenous or exogenous type of Unmāda.
 
-[1]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 452- 453.
+<div className="footnote-card"><strong>[1]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 452- 453.</div>
 
-[2]:
 
-Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, p. 137.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, p. 137.
+</blockquote>
 
 ---
 
-## 114. Apasmāra (epilepsy) according to Caraka
+## Apasmāra (epilepsy) according to Caraka
 
 Apasmāra (epilepsy) according to Caraka
 
@@ -239,107 +253,156 @@ The following additions are used in epilepsy, namely, Pañcagavya ghṛta[15], B
 
 Apasmāra is a disease which cannot be cured. It stays for a number of years. Therefore, an Apasmāra patient should be regularly treated with necessary rasāyana. The patient suffering from Epilepsy and insanity should be especially protected from water, fire, trees, mountains and uneven places. These may cause the instantaneous death of the patient[19].
 
-[1]:
 
-smṛterapagamaṃ prāhurapasmāraṃ bhiṣagvidaḥ |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> smṛterapagamaṃ prāhurapasmāraṃ bhiṣagvidaḥ |
 tamaḥpraveśaṃ bībhatsaceṣṭaṃ dhīsaṃttvasaṃplavāt || (C. Cikitsāsthāna–X.3); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p.
+</blockquote>
 
-[2]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 463.
 
-[3]:
 
-vibhrāntabahudoṣāṇāmahitāśucibhojanāt |
+<div className="footnote-card"><strong>[2]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 463.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> vibhrāntabahudoṣāṇāmahitāśucibhojanāt |
 rajastamobhyāṃ vihate sattve doṣāvṛte hṛdi ||
 cintākāmabhayakrodhaśokodvegādibhistathā |
 manasyabhihate nṛṇāmapasmāraḥ pravartate || (C. Cikitsāsthāna–X.4-5); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 328.
+</blockquote>
 
-[4]:
 
-dhamanībhiḥ śritā doṣā hṛdayaṃ pīḍayanti hi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> dhamanībhiḥ śritā doṣā hṛdayaṃ pīḍayanti hi |
 saṃpīḍyamāno vyathate mūḍho bhrāntena cetasā ||
 paśyatyasanti rūpāṇi patati prasphu ratyapi |
 jihvā'kṣibhrūḥ sravallālo hastau pādau ca vikṣipan || (C. Cikitsāsthāna–X.6-7); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 442.
+</blockquote>
 
-[5]:
 
-bhrūvyudāsaḥ satatamakṣṇorvaikṛtamaśabdaśravaṇaṃ lālāsiṅghāṇaprasravaṇamanannābhilaṣaṇamarocakavipākauhṛdayagrahaḥ kukṣerāṭopo daurbalyamasthibhedo'ṅgamardo mohastamaso darśanaṃ mūrcchā bhramaścābhīkṣṇaṃ svapne ca madanartanavyadhanavyathanavepanapatanādīnīti || tato'nantaramapasmārābhinirvṛttireva || (C. Nidānasthāna–VIII.6-7); Brajendra Chandra Nag (ed.), Caraka Saṃhitā, (Vol. 2), Kolkata, Navapatra Prakashan, 1984, pp. 59-60.
 
-[6]:
 
-pṛthagdoṣaiḥ samastaiśca vakṣyate sa caturvidhaḥ || (C. Cikitsāsthāna–X.8); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 229.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> bhrūvyudāsaḥ satatamakṣṇorvaikṛtamaśabdaśravaṇaṃ lālāsiṅghāṇaprasravaṇamanannābhilaṣaṇamarocakavipākauhṛdayagrahaḥ kukṣerāṭopo daurbalyamasthibhedo'ṅgamardo mohastamaso darśanaṃ mūrcchā bhramaścābhīkṣṇaṃ svapne ca madanartanavyadhanavyathanavepanapatanādīnīti || tato'nantaramapasmārābhinirvṛttireva || (C. Nidānasthāna–VIII.6-7); Brajendra Chandra Nag (ed.), Caraka Saṃhitā, (Vol. 2), Kolkata, Navapatra Prakashan, 1984, pp. 59-60.
+</blockquote>
 
-[7]:
 
-kampate pradeśeddantān phe nodvāmī śvasityapi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> pṛthagdoṣaiḥ samastaiśca vakṣyate sa caturvidhaḥ || (C. Cikitsāsthāna–X.8); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 229.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> kampate pradeśeddantān phe nodvāmī śvasityapi |
 paruṣāruṇakṛṣṇāni paśyedrupāṇi cānitāt || (C. Cikitsāsthāna–X.9); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 443.
+</blockquote>
 
-[8]:
 
-Suśruta Uttar–61; Suśruta Saṃhitā of Maharṣi Suśruta Vol. III, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, pp. 496-503.
 
-[9]:
 
-pītaphe nāṅgavaktrākṣaḥ pītāsṛgrūpadarśanaḥ |
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Uttar–61; Suśruta Saṃhitā of Maharṣi Suśruta Vol. III, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, pp. 496-503.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> pītaphe nāṅgavaktrākṣaḥ pītāsṛgrūpadarśanaḥ |
 satṛṣṇoṣṇānalavyāptalokadarśī ca paittikaḥ || (C. Cikitsāsthāna–X.10); Brajendra Chandra Nag (ed.), Caraka Saṃhitā, (Vol. 3), Kolkata, Navapatra Prakashan, 1984, pp. 199.
+</blockquote>
 
-[10]:
 
-śuklaphe nāṅgavaktrākṣaḥ śīto hṛṣṭāṅgajo guruḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> śuklaphe nāṅgavaktrākṣaḥ śīto hṛṣṭāṅgajo guruḥ |
 paśyan śuklāni rūpāṇi ślaiṣmikomucyate citāt || (C. Cikitsāsthāna–X.11); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 331.
+</blockquote>
 
-[11]:
 
-sarvairetaiḥ samastaistu liṅgairjñayastridoṣajaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> sarvairetaiḥ samastaistu liṅgairjñayastridoṣajaḥ |
 apasmāraḥ sa cāsādhyo yaḥ kṣīṇasyānavaśca yaḥ || (C. Cikitsāsthāna–X.12); Brajendra Chandra Nag (ed.), Caraka Saṃhitā, (Vol. 3), Kolkata, Navapatra Prakashan, 1984, pp. 199.
+</blockquote>
 
-[12]:
 
-pakṣādvā dvādaśāhādvā māsādvā kupitā malāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> pakṣādvā dvādaśāhādvā māsādvā kupitā malāḥ |
 apasmārāya kurvanti vegaṃ kiṃ cidathāntaram || (C. Cikitsāsthāna–X.13); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 331.
+</blockquote>
 
-[13]:
 
-tairāvṛtānāṃ hṛtsrotomanasāṃ saṃprabodhanam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> tairāvṛtānāṃ hṛtsrotomanasāṃ saṃprabodhanam |
 tīkṣṇairādau bhiṣak kuryāt karmabhirvamanādibhiḥ ||
 vātikaṃ vastibhūyiṣṭhaiḥ paittaṃ prāyo virecanaiḥ |
 ślaiṣmikaṃ vamanaprāyairapasmāramupācaret || (C. Cikitsāsthāna–X.14-15); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 444-445.
+</blockquote>
 
-[14]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 464- 466.
 
-[15]:
 
-gośakṛdrasadadhyamlakṣīramūtraiḥ samairghṛtam |
+<div className="footnote-card"><strong>[14]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 464- 466.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> gośakṛdrasadadhyamlakṣīramūtraiḥ samairghṛtam |
 siddhaṃ pibedapasmārakāmalājvaranāśanam || (C. Cikitsāsthāna–X.17); Brajendra Chandra Nag (ed.), Caraka Saṃhitā, (Vol. 3), Kolkata, Navapatra Prakashan, 1984, pp. 200.
+</blockquote>
 
-[16]:
 
-brāhmīrasavacākuṣṭhaśaṅ khapuṣpībhireva ca |
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> brāhmīrasavacākuṣṭhaśaṅ khapuṣpībhireva ca |
 purāṇaṃ ghṛtamunmādālakṣmyapasmārapāpanut || (C. Cikitsāsthāna–X.25); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 332.
+</blockquote>
 
-[17]:
 
-vacāśampākakaiṭaryavayaḥ sthahiṅgucorakaiḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> vacāśampākakaiṭaryavayaḥ sthahiṅgucorakaiḥ |
 siddhaṃ palaṅkaṣāyuktairvātaśleṣmātmakeghṛtam || (C. Cikitsāsthāna–X.27); Brajendra Chandra Nag (ed.), Caraka Saṃhitā, (Vol. 3), Kolkata, Navapatra Prakashan, 1984, pp. 201.
+</blockquote>
 
-[18]:
 
-prayujyāttailalaśunaṃ payasā vā śatāvarīm |
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> prayujyāttailalaśunaṃ payasā vā śatāvarīm |
 brāhmīrasaṃ kuṣṭharasaṃ vacāṃ vā madhusaṃyutām ||
 duścikitsyo hyapasmāraścirakārī kṛtāspadaḥ |
 tasmādrasāyanairenaṃ prāyeśaḥ samupācaret || (C. Cikitsāsthāna–X.64-65); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 456.
+</blockquote>
 
-[19]:
 
-jalāgnidrumaśailebhyo viṣamebhyaśca taṃ sadā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> jalāgnidrumaśailebhyo viṣamebhyaśca taṃ sadā |
 rakṣedunmādinaṃ caivaṃ sadyaḥ prāṇaharā hi te ||(C. Cikitsāsthāna–X.66); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 339.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -348,10 +411,6 @@ rakṣedunmādinaṃ caivaṃ sadyaḥ prāṇaharā hi te ||(C. Cikitsāsthāna
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Atisāra (diarrhea) according to Caraka: Atharvaveda And Charaka Samhita Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

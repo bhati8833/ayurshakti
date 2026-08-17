@@ -11,14 +11,12 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on # 4. Why is Sutrasthana of Ashtanga Hridaya so popular? within Ashtanga Hridaya Samhita Sanskrit. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-### 4. Why is Sutrasthana of Ashtanga Hridaya so popular?
+### Why is Sutrasthana of Ashtanga Hridaya so popular?
 The Sutrasthana of Ashtanga Hridaya is widely regarded as the finest summary of Ayurvedic fundamental principles ever written. It offers unmatched clarity regarding Dinacharya (daily habits), Ritucharya (seasonal guidelines), dietetics, and doshic balance.
 
 ---
 
 > **Medical Disclaimer**: *This article is an educational translation and historical analysis of classical Sanskrit texts. It is intended solely for academic research and cultural awareness. It does not constitute medical advice or diagnostic instruction. For health concerns, consult a licensed Ayurvedic physician.*
-
-
 
 ---
 
@@ -27,10 +25,6 @@ The Sutrasthana of Ashtanga Hridaya is widely regarded as the finest summary of 
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

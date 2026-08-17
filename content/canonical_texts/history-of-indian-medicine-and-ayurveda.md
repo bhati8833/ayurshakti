@@ -13,94 +13,92 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: History Of Indian Medicine And Ayurveda Chapter 1](/articles/history-of-indian-medicine-and-ayurveda-ch1)
+### [General Discourse: History Of Indian Medicine And Ayurveda Chapter 1](/articles/history-of-indian-medicine-and-ayurveda-ch1)
 **Overview**: Detailed classical discussion on General Discourse within History Of Indian Medicine And Ayurveda.
 
-### 2. [The Story of Ayurveda: History Of Indian Medicine And Ayurveda Chapter 2](/articles/history-of-indian-medicine-and-ayurveda-ch2)
+### [The Story of Ayurveda: History Of Indian Medicine And Ayurveda Chapter 2](/articles/history-of-indian-medicine-and-ayurveda-ch2)
 **Overview**: Detailed classical discussion on The Story of Ayurveda within History Of Indian Medicine And Ayurveda.
 
-### 3. [The Story of Caraka: History Of Indian Medicine And Ayurveda Chapter 3](/articles/history-of-indian-medicine-and-ayurveda-ch3)
+### [The Story of Caraka: History Of Indian Medicine And Ayurveda Chapter 3](/articles/history-of-indian-medicine-and-ayurveda-ch3)
 **Overview**: Detailed classical discussion on The Story of Caraka within History Of Indian Medicine And Ayurveda.
 
-### 4. [Commentators of Caraka Samhita: History Of Indian Medicine And Ayurveda Chapter 4](/articles/history-of-indian-medicine-and-ayurveda-ch4)
+### [Commentators of Caraka Samhita: History Of Indian Medicine And Ayurveda Chapter 4](/articles/history-of-indian-medicine-and-ayurveda-ch4)
 **Overview**: Detailed classical discussion on Commentators of Caraka Samhita within History Of Indian Medicine And Ayurveda.
 
-### 5. [Universal Education in Ancient India: History Of Indian Medicine And Ayurveda Chapter 5](/articles/history-of-indian-medicine-and-ayurveda-ch5)
+### [Universal Education in Ancient India: History Of Indian Medicine And Ayurveda Chapter 5](/articles/history-of-indian-medicine-and-ayurveda-ch5)
 **Overview**: Detailed classical discussion on Universal Education in Ancient India within History Of Indian Medicine And Ayurveda.
 
-### 6. [Admission to Studies: History Of Indian Medicine And Ayurveda Chapter 6](/articles/history-of-indian-medicine-and-ayurveda-ch6)
+### [Admission to Studies: History Of Indian Medicine And Ayurveda Chapter 6](/articles/history-of-indian-medicine-and-ayurveda-ch6)
 **Overview**: Detailed classical discussion on Admission to Studies within History Of Indian Medicine And Ayurveda.
 
-### 7. [Qualities of the Teacher: History Of Indian Medicine And Ayurveda Chapter 7](/articles/history-of-indian-medicine-and-ayurveda-ch7)
+### [Qualities of the Teacher: History Of Indian Medicine And Ayurveda Chapter 7](/articles/history-of-indian-medicine-and-ayurveda-ch7)
 **Overview**: Detailed classical discussion on Qualities of the Teacher within History Of Indian Medicine And Ayurveda.
 
-### 8. [Examination, Registration and Convocation: History Of Indian Medicine And Ayurveda Chapter 8](/articles/history-of-indian-medicine-and-ayurveda-ch8)
+### [Examination, Registration and Convocation: History Of Indian Medicine And Ayurveda Chapter 8](/articles/history-of-indian-medicine-and-ayurveda-ch8)
 **Overview**: Detailed classical discussion on Examination, Registration and Convocation within History Of Indian Medicine And Ayurveda.
 
-### 9. [The Method of Theoretical and Practical Study: History Of Indian Medicine And Ayurveda Chapter 9](/articles/history-of-indian-medicine-and-ayurveda-ch9)
+### [The Method of Theoretical and Practical Study: History Of Indian Medicine And Ayurveda Chapter 9](/articles/history-of-indian-medicine-and-ayurveda-ch9)
 **Overview**: Detailed classical discussion on The Method of Theoretical and Practical Study within History Of Indian Medicine And Ayurveda.
 
-### 10. [Military Surgery: History Of Indian Medicine And Ayurveda Chapter 10](/articles/history-of-indian-medicine-and-ayurveda-ch10)
+### [Military Surgery: History Of Indian Medicine And Ayurveda Chapter 10](/articles/history-of-indian-medicine-and-ayurveda-ch10)
 **Overview**: Detailed classical discussion on Military Surgery within History Of Indian Medicine And Ayurveda.
 
-### 11. [Nursing: History Of Indian Medicine And Ayurveda Chapter 11](/articles/history-of-indian-medicine-and-ayurveda-ch11)
+### [Nursing: History Of Indian Medicine And Ayurveda Chapter 11](/articles/history-of-indian-medicine-and-ayurveda-ch11)
 **Overview**: Detailed classical discussion on Nursing within History Of Indian Medicine And Ayurveda.
 
-### 12. [Pharmacy: History Of Indian Medicine And Ayurveda Chapter 12](/articles/history-of-indian-medicine-and-ayurveda-ch12)
+### [Pharmacy: History Of Indian Medicine And Ayurveda Chapter 12](/articles/history-of-indian-medicine-and-ayurveda-ch12)
 **Overview**: Detailed classical discussion on Pharmacy within History Of Indian Medicine And Ayurveda.
 
-### 13. [The Vaidyas (physician): History Of Indian Medicine And Ayurveda Chapter 13](/articles/history-of-indian-medicine-and-ayurveda-ch13)
+### [The Vaidyas (physician): History Of Indian Medicine And Ayurveda Chapter 13](/articles/history-of-indian-medicine-and-ayurveda-ch13)
 **Overview**: Detailed classical discussion on The Vaidyas (physician) within History Of Indian Medicine And Ayurveda.
 
-### 14. [The Ceremonials observed in Childhood: History Of Indian Medicine And Ayurveda Chapter 14](/articles/history-of-indian-medicine-and-ayurveda-ch14)
+### [The Ceremonials observed in Childhood: History Of Indian Medicine And Ayurveda Chapter 14](/articles/history-of-indian-medicine-and-ayurveda-ch14)
 **Overview**: Detailed classical discussion on The Ceremonials observed in Childhood within History Of Indian Medicine And Ayurveda.
 
-### 15. [Dress and Clothing: History Of Indian Medicine And Ayurveda Chapter 15](/articles/history-of-indian-medicine-and-ayurveda-ch15)
+### [Dress and Clothing: History Of Indian Medicine And Ayurveda Chapter 15](/articles/history-of-indian-medicine-and-ayurveda-ch15)
 **Overview**: Detailed classical discussion on Dress and Clothing within History Of Indian Medicine And Ayurveda.
 
-### 16. [Company: History Of Indian Medicine And Ayurveda Chapter 16](/articles/history-of-indian-medicine-and-ayurveda-ch16)
+### [Company: History Of Indian Medicine And Ayurveda Chapter 16](/articles/history-of-indian-medicine-and-ayurveda-ch16)
 **Overview**: Detailed classical discussion on Company within History Of Indian Medicine And Ayurveda.
 
-### 17. [Treatment and the Status of the Patient: History Of Indian Medicine And Ayurveda Chapter 17](/articles/history-of-indian-medicine-and-ayurveda-ch17)
+### [Treatment and the Status of the Patient: History Of Indian Medicine And Ayurveda Chapter 17](/articles/history-of-indian-medicine-and-ayurveda-ch17)
 **Overview**: Detailed classical discussion on Treatment and the Status of the Patient within History Of Indian Medicine And Ayurveda.
 
-### 18. [a - Routine observed during the Purificatory Procedures: History Of Indian Medicine And Ayurveda Chapter 18](/articles/history-of-indian-medicine-and-ayurveda-ch18)
+### [a - Routine observed during the Purificatory Procedures: History Of Indian Medicine And Ayurveda Chapter 18](/articles/history-of-indian-medicine-and-ayurveda-ch18)
 **Overview**: Detailed classical discussion on a - Routine observed during the Purificatory Procedures within History Of Indian Medicine And Ayurveda.
 
-### 19. [Legends and Mantras: History Of Indian Medicine And Ayurveda Chapter 19](/articles/history-of-indian-medicine-and-ayurveda-ch19)
+### [Legends and Mantras: History Of Indian Medicine And Ayurveda Chapter 19](/articles/history-of-indian-medicine-and-ayurveda-ch19)
 **Overview**: Detailed classical discussion on Legends and Mantras within History Of Indian Medicine And Ayurveda.
 
-### 20. [The Final Renunciation: History Of Indian Medicine And Ayurveda Chapter 20](/articles/history-of-indian-medicine-and-ayurveda-ch20)
+### [The Final Renunciation: History Of Indian Medicine And Ayurveda Chapter 20](/articles/history-of-indian-medicine-and-ayurveda-ch20)
 **Overview**: Detailed classical discussion on The Final Renunciation within History Of Indian Medicine And Ayurveda.
 
-### 21. [The Beginning of Metaphysics and Medicine: History Of Indian Medicine And Ayurveda Chapter 21](/articles/history-of-indian-medicine-and-ayurveda-ch21)
+### [The Beginning of Metaphysics and Medicine: History Of Indian Medicine And Ayurveda Chapter 21](/articles/history-of-indian-medicine-and-ayurveda-ch21)
 **Overview**: Detailed classical discussion on The Beginning of Metaphysics and Medicine within History Of Indian Medicine And Ayurveda.
 
-### 22. [What is Man?: History Of Indian Medicine And Ayurveda Chapter 22](/articles/history-of-indian-medicine-and-ayurveda-ch22)
+### [What is Man?: History Of Indian Medicine And Ayurveda Chapter 22](/articles/history-of-indian-medicine-and-ayurveda-ch22)
 **Overview**: Detailed classical discussion on What is Man? within History Of Indian Medicine And Ayurveda.
 
-### 23. [The Story of Life: History Of Indian Medicine And Ayurveda Chapter 23](/articles/history-of-indian-medicine-and-ayurveda-ch23)
+### [The Story of Life: History Of Indian Medicine And Ayurveda Chapter 23](/articles/history-of-indian-medicine-and-ayurveda-ch23)
 **Overview**: Detailed classical discussion on The Story of Life within History Of Indian Medicine And Ayurveda.
 
-### 24. [Method of Nomenclature: History Of Indian Medicine And Ayurveda Chapter 24](/articles/history-of-indian-medicine-and-ayurveda-ch24)
+### [Method of Nomenclature: History Of Indian Medicine And Ayurveda Chapter 24](/articles/history-of-indian-medicine-and-ayurveda-ch24)
 **Overview**: Detailed classical discussion on Method of Nomenclature within History Of Indian Medicine And Ayurveda.
 
-### 25. [Imbalance Condition (Vaiṣamya): History Of Indian Medicine And Ayurveda Chapter 25](/articles/history-of-indian-medicine-and-ayurveda-ch25)
+### [Imbalance Condition (Vaiṣamya): History Of Indian Medicine And Ayurveda Chapter 25](/articles/history-of-indian-medicine-and-ayurveda-ch25)
 **Overview**: Detailed classical discussion on Imbalance Condition (Vaiṣamya) within History Of Indian Medicine And Ayurveda.
 
-### 26. [Nosology and the Triumvirate: History Of Indian Medicine And Ayurveda Chapter 26](/articles/history-of-indian-medicine-and-ayurveda-ch26)
+### [Nosology and the Triumvirate: History Of Indian Medicine And Ayurveda Chapter 26](/articles/history-of-indian-medicine-and-ayurveda-ch26)
 **Overview**: Detailed classical discussion on Nosology and the Triumvirate within History Of Indian Medicine And Ayurveda.
 
-### 27. [b - Pathological Conditions or Processes in Ayurveda: History Of Indian Medicine And Ayurveda Chapter 27](/articles/history-of-indian-medicine-and-ayurveda-ch27)
+### [b - Pathological Conditions or Processes in Ayurveda: History Of Indian Medicine And Ayurveda Chapter 27](/articles/history-of-indian-medicine-and-ayurveda-ch27)
 **Overview**: Detailed classical discussion on b - Pathological Conditions or Processes in Ayurveda within History Of Indian Medicine And Ayurveda.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 3. Chapter 1 - The history of Medicine in India (Introduction)
+## Chapter 1 - The history of Medicine in India (Introduction)
 
 History of Indian Medicine (and Ayurveda)
 
@@ -245,7 +243,7 @@ Of this we shall have to speak later in this volume, Suffice it to know now that
 
 ---
 
-## 41. Introduction
+## Introduction
 
 History of Indian Medicine (and Ayurveda)
 

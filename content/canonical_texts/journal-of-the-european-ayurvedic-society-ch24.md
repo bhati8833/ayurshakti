@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on On Mercury in Tibetan ‘Precious Pills’ within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 69. On Mercury in Tibetan ‘Precious Pills’
+## On Mercury in Tibetan ‘Precious Pills’
 
 Journal of the European Ayurvedic Society
 
@@ -37,7 +37,7 @@ J.C. Aschoff, T.Y. Tashigang, Mercury in Tibetan 'Precious Pills' 135 new 'jewel
 
 ---
 
-## 70. Ayurvedic Herbal Drugs in the Treatment of Malignant Swellings
+## Ayurvedic Herbal Drugs in the Treatment of Malignant Swellings
 
 Journal of the European Ayurvedic Society
 
@@ -81,7 +81,7 @@ Summary According to Ayurveda, food and drugs are composed of five basic element
 
 ---
 
-## 71. Integrated Asian Medicine and the Loss of Individuality
+## Integrated Asian Medicine and the Loss of Individuality
 
 Journal of the European Ayurvedic Society
 
@@ -125,8 +125,6 @@ M. Bode, Integrated Asian Medicine and the Loss of Individuality 195 ceutical te
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -134,10 +132,6 @@ M. Bode, Integrated Asian Medicine and the Loss of Individuality 195 ceutical te
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Kshemendra’s Garbhavakranti Avadana: Journal Of The European Ayurvedic Society Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

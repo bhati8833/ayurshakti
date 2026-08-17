@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on b - Definition of Ayurveda (‘the science of life’) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Chapter 30b - Definition of Ayurveda (‘the science of life’)
+## Chapter 30b - Definition of Ayurveda (‘the science of life’)
 
 Charaka Samhita (English translation)
 
@@ -199,7 +199,7 @@ Here is a verse again—
 
 ---
 
-## 43. Chapter 4 - Six Hundred Purgative Preparations (virecana-ashraya)
+## Chapter 4 - Six Hundred Purgative Preparations (virecana-ashraya)
 
 Charaka Samhita (English translation)
 
@@ -529,7 +529,7 @@ Thus ends the tetrad of chapters on drugs.
 
 ---
 
-## 44. Chapter 1 - The Pathology of Fever (jvara-nidana)
+## Chapter 1 - The Pathology of Fever (jvara-nidana)
 
 Charaka Samhita (English translation)
 
@@ -693,7 +693,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 45. Chapter 2 - The Pathology of Hemothermia (raktapitta-nidana)
+## Chapter 2 - The Pathology of Hemothermia (raktapitta-nidana)
 
 Charaka Samhita (English translation)
 
@@ -793,7 +793,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 46. Chapter 4 - Anomalies of Urinary Secretion (prameha-nidana)
+## Chapter 4 - Anomalies of Urinary Secretion (prameha-nidana)
 
 Charaka Samhita (English translation)
 
@@ -975,7 +975,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 47. Chapter 5 - The Pathology of Dermatosis (kushtha-nidana)
+## Chapter 5 - The Pathology of Dermatosis (kushtha-nidana)
 
 Charaka Samhita (English translation)
 
@@ -1069,8 +1069,6 @@ Here is the recapitulatory verse—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1078,10 +1076,6 @@ Here is the recapitulatory verse—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">The Pathology of Consumption (shosha-nidana): Charaka Samhita Complete Translation Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

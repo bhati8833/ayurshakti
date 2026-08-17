@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Religious Significance of Plantation and Rearing of Trees within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Chapter 5 - Religious Significance of Plantation and Rearing of Trees
+## Chapter 5 - Religious Significance of Plantation and Rearing of Trees
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -19,11 +19,9 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 Chapter 5 - Religious Significance of Plantation and Rearing of Trees
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 40. 2. Religious Importance of Auspicious and Inauspicious Plants
+## 2. Religious Importance of Auspicious and Inauspicious Plants
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -43,8 +41,6 @@ According to our religious tradition and Vastusastra some plants are auspicious 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -52,10 +48,6 @@ According to our religious tradition and Vastusastra some plants are auspicious 
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">4. Religious Importance of Ashvattha: Vrikshayurveda and Environmental Philosophy Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

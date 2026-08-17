@@ -164,9 +164,17 @@ In cases of the preponderance of Pitta.
 
 [16]:
 
-There is a good deal of difference as to the reading and explanation of this passage amongst the different commentators. The different explanations arise from the different interpretations put upon the word in the Text, “parṣṇiṃ prati dvadasha caṅgulani etc.”
 
+<blockquote className="ayur-shloka">
+There is a good deal of difference as to the reading and explanation of this passage amongst the different commentators. The different explanations arise from the different interpretations put upon the word in the Text, “parṣṇiṃ prati dvadasha caṅgulani etc.”
+</blockquote>
+
+
+
+<blockquote className="ayur-shloka">
 The words “parṣṇiṃ prati” may mean either of the following.
+</blockquote>
+
 
 (1) On the opposite side of the Parshni. Vagbhata subscribes to this view.
 

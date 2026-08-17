@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Udara-roga (16): Mrityu-nirodha rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 392. Part 19 - Treatment of Udara-roga (16): Mrityu-nirodha rasa
+## Part 19 - Treatment of Udara-roga (16): Mrityu-nirodha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -31,7 +31,7 @@ This concludes ‘Treatment of Udara-roga (16): Mrityu-nirodha rasa’ included 
 
 ---
 
-## 393. Part 22 - Treatment of Udara-roga (19): Vaisvanara rasa
+## Part 22 - Treatment of Udara-roga (19): Vaisvanara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -49,7 +49,7 @@ This concludes ‘Treatment of Udara-roga (19): Vaisvanara rasa’ included in B
 
 ---
 
-## 394. Part 23 - Treatment of Udara-roga (20): Udara-martanda rasa
+## Part 23 - Treatment of Udara-roga (20): Udara-martanda rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -67,7 +67,7 @@ This concludes ‘Treatment of Udara-roga (20): Udara-martanda rasa’ included 
 
 ---
 
-## 395. Part 24 - Treatment of Udara-roga (21): Application of copper
+## Part 24 - Treatment of Udara-roga (21): Application of copper
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -85,7 +85,7 @@ This concludes ‘Treatment of Udara-roga (21): Application of copper’ include
 
 ---
 
-## 396. Part 25 - Treatment of Udara-roga (22): Application of parpati
+## Part 25 - Treatment of Udara-roga (22): Application of parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -103,7 +103,7 @@ This concludes ‘Treatment of Udara-roga (22): Application of parpati’ includ
 
 ---
 
-## 397. Part 26 - Diet and actions in udara-roga
+## Part 26 - Diet and actions in udara-roga
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -131,7 +131,7 @@ This concludes ‘Diet and actions in udara-roga’ included in Bhudeb Mookerjee
 
 ---
 
-## 398. Part 1 - Enlargement of spleen and liver: causes and symptoms
+## Part 1 - Enlargement of spleen and liver: causes and symptoms
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -153,7 +153,7 @@ This concludes ‘Enlargement of spleen and liver: causes and symptoms’ includ
 
 ---
 
-## 399. Part 2 - Treatment for enlargement of spleen and liver (1): Plihantaka rasa
+## Part 2 - Treatment for enlargement of spleen and liver (1): Plihantaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -171,7 +171,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (1): Plihantaka 
 
 ---
 
-## 400. Chapter VII - Enlargement of spleen (plihodara) and liver (yakridudara)
+## Chapter VII - Enlargement of spleen (plihodara) and liver (yakridudara)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -181,15 +181,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VII - Enlargement of spleen (plihodara) and liver (yakridudara)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Enlargement of spleen (plihodara) and liver (yakridudara)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 401. Part 4 - Treatment for enlargement of spleen and liver (3): Pliha-shardula rasa
+## Part 4 - Treatment for enlargement of spleen and liver (3): Pliha-shardula rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -207,7 +205,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (3): Pliha-shard
 
 ---
 
-## 402. Part 5 - Treatment for enlargement of spleen and liver (4): Pliha-sudana rasa
+## Part 5 - Treatment for enlargement of spleen and liver (4): Pliha-sudana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -225,7 +223,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (4): Pliha-sudan
 
 ---
 
-## 403. Part 3 - Treatment for enlargement of spleen and liver (2): Pliharnava rasa
+## Part 3 - Treatment for enlargement of spleen and liver (2): Pliharnava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -243,7 +241,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (2): Pliharnava 
 
 ---
 
-## 404. Part 7 - Treatment for enlargement of spleen and liver (6): Vasuki-bhusana rasa
+## Part 7 - Treatment for enlargement of spleen and liver (6): Vasuki-bhusana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -261,7 +259,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (6): Vasuki-bhus
 
 ---
 
-## 405. Part 6 - Treatment for enlargement of spleen and liver (5): Plihari rasa
+## Part 6 - Treatment for enlargement of spleen and liver (5): Plihari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -279,7 +277,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (5): Plihari ras
 
 ---
 
-## 406. Part 5 - Treatment of Udara-roga (2): Ichchhabhedi rasa
+## Part 5 - Treatment of Udara-roga (2): Ichchhabhedi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -297,8 +295,6 @@ This concludes ‘Treatment of Udara-roga (2): Ichchhabhedi rasa’ included in 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -306,10 +302,6 @@ This concludes ‘Treatment of Udara-roga (2): Ichchhabhedi rasa’ included in 
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for enlargement of spleen and liver (8): Vajrapani rasa: Rasa Jala Nidhi Volume 4 Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

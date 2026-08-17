@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elephants in Jain Mythology within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 55. Elephants in Jain Mythology
+## Elephants in Jain Mythology
 
 Matangalila and Hastyayurveda (study)
 
@@ -25,17 +25,17 @@ Not only in the Buddhist pantheon but also in Jain faith elephants are perceived
 
 The Tīrthaṅkaras are all considered to be of royal lineage–each one of them a prince who renounced the worldly existence to follow a path of extreme asceticism. As an acknowledgment of their former privileges, the Tīrthaṅkaras are often shown flanked by caparisoned elephants. At the hill-fort of Gwalior in Central India, for instance, a group of towering Jina figures, carved from the living-sand stone hill side, are each embellished with a pair of triumphal elephants over the shoulders. In one of the sculptural panels an elephant and its rider transport reliquary urns towards a prototypal Jain shrine.[2] Other elephants in Jain art serve a more ritualistic role–mainly of adoration and worship. ādinātha temple at Ronakpur and Pārśvanātha temples contain huge images of elephants, fully modelled.
 
-[1]:
 
-Ibid., pp. 36-37.
+<div className="footnote-card"><strong>[1]</strong> Ibid., pp. 36-37.</div>
 
-[2]:
 
-V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.37.
+
+
+<div className="footnote-card"><strong>[2]</strong> V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.37.</div>
 
 ---
 
-## 56. Elephants in Buddhist mythology
+## Elephants in Buddhist mythology
 
 Matangalila and Hastyayurveda (study)
 
@@ -63,29 +63,34 @@ The Chaddanta Jātaka occupies a prominent position in the Sanchi monuments. The
 
 Spreading of Mahāyāna Buddhism in early centuries of Christian era encourages the development of various vihāras and temples in vast areas of the sub-continent. Many of these places were situated in remote areas and undoubtedly troubled with considerable risk. To protect and give security, against evil elements and physical dangers of the path, to monks as well as lay devotees, gentle Padmapāṇi also known as Avalokiteśvara has been praised. Many sculptural representation of Padmapāṇi at the rock-cut caves of Ajanta, Aurangabad and Ellora can be seen. In large scale panel in Aurangabad, the central figure of Avalokiteśvara/ Padmapāṇi is held between eight smaller scenes in which Padmapāṇi has been shown rescuing his devotees from various torments. Despite the special status of elephant in Buddhism, one of the perceived dangers comes in the form of a wild elephant which is depicted in the panel[5].
 
-[1]:
 
-V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.29.
+<div className="footnote-card"><strong>[1]</strong> V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.29.</div>
 
-[2]:
 
-See the picture no. 2 in Chapter 2.
 
-[3]:
 
-Jātaka, No. 514, Chaddanta Jātaka.
+<div className="footnote-card"><strong>[2]</strong> See the picture no. 2 in Chapter 2.</div>
 
-[4]:
 
-Vikramajit Ram draws our attention to the fact that the story recurs twice in the architraves of two of the four gateways. In the north gateway, the pivotal forest scene fills the inner face of the upper most architrave. The imagery is idyllic with little to suggest that trouble, in fact, is brewing under the tree.
 
-[5]:
 
-V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p. 34.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Jātaka, No. 514, Chaddanta Jātaka.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Vikramajit Ram draws our attention to the fact that the story recurs twice in the architraves of two of the four gateways. In the north gateway, the pivotal forest scene fills the inner face of the upper most architrave. The imagery is idyllic with little to suggest that trouble, in fact, is brewing under the tree.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p. 34.</div>
 
 ---
 
-## 57. Elephants in Śaivism
+## Elephants in Śaivism
 
 Matangalila and Hastyayurveda (study)
 
@@ -113,25 +118,25 @@ The darker side of Śiva’s dance emerges with his manifestation as Gajāsura-s
 
 The hand of Śiva plays a significant role in the creation of Gaṇeśa–much-loved elephantheaded god of wisdom and patron of literary and academic persuades. The mythology of the rubicund deity is varied and complex. In the most popular tale of Gaṇeśa’s creation, Śiva’s consort Pārvatī fashions a boy-child out of rubbings from her own body and instructs him to guard the house while she goes in for a bath. Śiva returns home to find a stranger minding the front door. Because the obedient denies him entry, Śiva lops the youngster’s head off. Pārvatī emerges from her bath and is distraught. To mollify his wife, Śiva replaces the child’s head with that of the first animal he comes across–which happens to be an elephant–and restores life into the little boy. Also known as Gaṇapati (Lord of the Gaṇas), Vigneśvara (remover of obstacles) and Eka-danta (one tusked), Gaṇeśa the elephant headed God is invoked in the beginning of any new work or assignment for an auspicious commencement. His iconography, therefore, is hugely eclectic. An especially charming depiction, in a cavetemple at Udayagiri, Central India, shows the god seated like a quiet and introspective child.
 
-[1]:
 
-EI, Vol. XXI, pp. 149-151.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol. XXI, pp. 149-151.</div>
 
-[2]:
 
-CII, Vol. IV, pp. 198-204.
 
-[3]:
 
-EI, Vol. XII, pp. 6-7.
+<div className="footnote-card"><strong>[2]</strong> CII, Vol. IV, pp. 198-204.</div>
 
-[4]:
 
-V. Ram., pp. 37-38.
+
+
+<div className="footnote-card"><strong>[3]</strong> EI, Vol. XII, pp. 6-7.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> V. Ram., pp. 37-38.</div>
 
 ---
-
-
 
 ---
 
@@ -140,10 +145,6 @@ V. Ram., pp. 37-38.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Gajendra-Mokṣa (Gajendra’s salvation): Matangalila And Hastyayurveda Study Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

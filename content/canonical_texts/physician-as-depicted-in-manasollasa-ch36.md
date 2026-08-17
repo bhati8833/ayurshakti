@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Conclusion within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Conclusion
+## Conclusion
 
 Physician as depicted in Manasollasa
 
@@ -45,8 +45,6 @@ Chapter 7 CONCLUSION 'aryavartah punyabhumih ' is not a mere slogan, but a reali
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -54,10 +52,6 @@ Chapter 7 CONCLUSION 'aryavartah punyabhumih ' is not a mere slogan, but a reali
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch37" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix: Glossary of Selected Sanskrit Words: Physician As Depicted In Manasollasa Chapter 37 →</a>
 </div>
-
-
-
-
 
 ---
 

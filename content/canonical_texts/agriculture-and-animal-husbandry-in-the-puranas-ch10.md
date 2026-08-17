@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Agriculture and its Related Concepts in the Proposed Purāṇas within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 41. Part 24 - Agriculture and its Related Concepts in the Proposed Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Agriculture and its Related Concepts in the Proposed Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 24 - Agriculture and its Related Concepts in the Proposed Purāṇas
 
 Part 24 - Agriculture and its Related Concepts in the Proposed Purāṇas
 
@@ -31,145 +27,224 @@ The Purāṇas describe the quantity of food grains and articles that are to be 
 
 Reference of the use of forced labour in agriculture is met with in the Bhāgavata Purāṇa. Bharata, being made to engage in work by the instance of others, by viṣṭi(forced labour) or by wages, he ate whatever was obtained by alms or by chance, much or little, sweet or foul, but never for satisfaction of senses.[28] When he wished to have food(for his livelihood) in return(as wages) for work for others, he was asked even by his brothers to work in the fields and he did it, but he knew not whether it was level or uneven, whether he did more or less(in proportion to the wages).He swallowed, as if it were nectar, whether it was broken rice or other grain;oil-cake, husk, worm-eaten grains and charred rice sticking to the bottom of pot.[29]
 
-[1]:
 
-na vayaṃ kṛṣikarttāro vāṇijyajīvino na ca/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> na vayaṃ kṛṣikarttāro vāṇijyajīvino na ca/
 gāvo’smadvaivataṃ tāta vayaṃ vanacarā yataḥ//
 ānvīkṣikītrayī vārttā daṇḍanītistathāparā/
 vidyācatuṣṭayaṃ tvetat vārttāmatra sṛṇuṣca me//
 kṛṣirvaṇijyā tadvattu tṛtīyaṃ paśupālanam/
 vidyāṃ hyetā mahābhāga! vārttā vṛttitrayāśrayaḥ//
 karṣakāṇāṃ kṛṣirvṛttiḥ// Viṣṇu Purāṇa ,5.10.26-28
+</blockquote>
 
-[2]:
 
-prādurbhāvaśca tretāyāṃ vārtāyāṃauṣadhasya tu// Vāyu Purāṇa ,8.134
 
-[3]:
 
-bhadre!kāśyapadāyāde kuru bhadrāṃ matiṃ mama/
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> prādurbhāvaśca tretāyāṃ vārtāyāṃauṣadhasya tu// Vāyu Purāṇa ,8.134
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> bhadre!kāśyapadāyāde kuru bhadrāṃ matiṃ mama/
 sarvabījasamāyukte sarvaratnauṣadhīvṛte// Ibid., 41.24
+</blockquote>
 
-[4]:
 
-kaṇiśaṃ śasyamañjarī// Ibid., 366.24d
 
-[5]:
 
-dhānyaṃ vrīhiḥ stambakariḥ/ Ibid., 366.25.a
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> kaṇiśaṃ śasyamañjarī// Ibid., 366.24d
+</blockquote>
 
-[6]:
 
-māṣadayaḥ śamīdhānye śukadhānye yavādayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> dhānyaṃ vrīhiḥ stambakariḥ/ Ibid., 366.25.a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> māṣadayaḥ śamīdhānye śukadhānye yavādayaḥ/
 tṛṇadhānyāni nīvārāḥ// Ibid., 366.26
+</blockquote>
 
-[7]:
 
-yugādīnāṃ ca boḍhāro yugyaprāsaṅgyaśākaṭāḥ/ Ibid., 366.32b
 
-[8]:
 
-mṛnmṛttikā praśastā tu mṛtsnā mṛtsā ca mṛttikā/ Ibid., 363.2a
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> yugādīnāṃ ca boḍhāro yugyaprāsaṅgyaśākaṭāḥ/ Ibid., 366.32b
+</blockquote>
 
-[9]:
 
-kuryādudyogasampannānadhyakṣānsarvakarmasu/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> mṛnmṛttikā praśastā tu mṛtsnā mṛtsā ca mṛttikā/ Ibid., 363.2a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> kuryādudyogasampannānadhyakṣānsarvakarmasu/
 kṛṣirvaṇikpatho durgaṃ setuḥ kuñjarabandhanam// Ibid., 239.44
+</blockquote>
 
-[10]:
 
-śūdrakāruvaṇikprāyo mahārambhaḥ kṛṣīvalaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> śūdrakāruvaṇikprāyo mahārambhaḥ kṛṣīvalaḥ/
 sānurāgo ripudveṣī pīḍāsahakaraḥ pṛthuḥ// Ibid., 239.26
+</blockquote>
 
-[11]:
 
-Ibid.
 
-[12]:
 
-nānādeśyaiḥ samākīrṇo dhārmikaḥ paśumānbalī/ Ibid., 239.27a
+<div className="footnote-card"><strong>[11]</strong> Ibid.</div>
 
-[13]:
 
-parairapīḍitaḥ puṣpaphaladhānyasamanvitaḥ// Ibid., 222.3a
 
-[14]:
 
-kalāthamudgamāṣāṇāṃ caṇakānāṃ tilaiḥ saha/
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> nānādeśyaiḥ samākīrṇo dhārmikaḥ paśumānbalī/ Ibid., 239.27a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> parairapīḍitaḥ puṣpaphaladhānyasamanvitaḥ// Ibid., 222.3a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> kalāthamudgamāṣāṇāṃ caṇakānāṃ tilaiḥ saha/
 tathā ca sarvaśasyānāṃ pāṃśugomayayorapi// Ibid., 217.38
+</blockquote>
 
-[15]:
 
-sitavastraṃ prasannāmbhaḥ phallī vṛkṣo nabho’malam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> sitavastraṃ prasannāmbhaḥ phallī vṛkṣo nabho’malam/
 auṣadhāni ca yuktāni dhānyaṃ kṛṣṇamaśobhanam// Ibid., 230.1
+</blockquote>
 
-[16]:
 
-haviṣā saṃskṛtā ye tu yavagodhūmaśālayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> haviṣā saṃskṛtā ye tu yavagodhūmaśālayaḥ/
 tilamudgādayo māṣā vrīhyaśca priyā hareḥ// Vāmana Purāṇa ,95.21-22
+</blockquote>
 
-[17]:
 
-śukle tu sarvasasyāni pramodena pramoditāḥ/ Agni Purāṇa ,139.2
 
-[18]:
 
-īśvare kṣemamārogyaṃ bahudhānyaḥ subhikṣadaḥ/ Ibid.,139.4
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> śukle tu sarvasasyāni pramodena pramoditāḥ/ Agni Purāṇa ,139.2
+</blockquote>
 
-[19]:
 
-pramāthī madhyavarṣastu vikrame sasyasampadaḥ// Ibid.,139.4
 
-[20]:
 
-pārthive sasyasampattirativṛṣṭistathā vyaye/
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> īśvare kṣemamārogyaṃ bahudhānyaḥ subhikṣadaḥ/ Ibid.,139.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> pramāthī madhyavarṣastu vikrame sasyasampadaḥ// Ibid.,139.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> pārthive sasyasampattirativṛṣṭistathā vyaye/
 sarvajityottamā vṛṣṭiḥ sarvadhārī subhikṣadaḥ// Ibid., 139.6
+</blockquote>
 
-[21]:
 
-yūnā ca plavate śakro dhātā sarvauṣadhīkaraḥ/ Ibid., 139.3
 
-[22]:
 
-rākṣase niṣṭhuro loko vividhaṃ dhānyamānane/ Ibid., 139.11
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> yūnā ca plavate śakro dhātā sarvauṣadhīkaraḥ/ Ibid., 139.3
+</blockquote>
 
-[23]:
 
-durmatau madhyamā vṛṣṭirdundubhiḥ kṣemadhānyakṛt/ Ibid.,139.12
 
-[24]:
 
-suvṛṣṭiḥ piṅgale kvāpi/ Ibid.,139.11ab
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> rākṣase niṣṭhuro loko vividhaṃ dhānyamānane/ Ibid., 139.11
+</blockquote>
 
-[25]:
 
-lakṣayenmāsi māsyeva yadyete syuśca caitrake/
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> durmatau madhyamā vṛṣṭirdundubhiḥ kṣemadhānyakṛt/ Ibid.,139.12
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> suvṛṣṭiḥ piṅgale kvāpi/ Ibid.,139.11ab
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> lakṣayenmāsi māsyeva yadyete syuśca caitrake/
 alaṃkārādi saṃgṛhya ṣaḍbhirmāsaiścaturguṇam// Ibid., 129.2
+</blockquote>
 
-[26]:
 
-jyeṣṭhe māsi tathāṣāḍhe yavagodhūmadhānyakaiḥ/ Ibid., 129.3cd
 
-[27]:
 
-śrāvaṇe ghṛtatailādyairāśvine vastradhānyakaiḥ/
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> jyeṣṭhe māsi tathāṣāḍhe yavagodhūmadhānyakaiḥ/ Ibid., 129.3cd
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> śrāvaṇe ghṛtatailādyairāśvine vastradhānyakaiḥ/
 kārttike dhānyakaiḥ krītairmāse syanmārgaśīrṣake// Ibid.,129.4
+</blockquote>
 
-[28]:
 
-karmāṇi sa ca kāryamāṇaḥ parecchayā karoti viṣṭito vetanato vā yācñayā yadṛcchayā vopasāditamalpaṃ bahu miṣṭaṃ kadannaṃ vā’bhyavaharati paraṃ nendriyaprītinimittam// Bhāgavata Purāṇa ,5.9.10
 
-[29]:
 
-yadā tu parata āhāraṃ karamavetanata īhamānaḥ svabhrātṛbhirapi kedārakarmaṇi nirūpitastadapi karoti kiṃ tu na samaviṣamanyūnamadhikamiti veda kaṇapiṇyākaphalīkaraṇakulmāṣasthālipurīṣānyapyamṛtavadabhyavaharati//Ibid., 5.9.13
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> karmāṇi sa ca kāryamāṇaḥ parecchayā karoti viṣṭito vetanato vā yācñayā yadṛcchayā vopasāditamalpaṃ bahu miṣṭaṃ kadannaṃ vā’bhyavaharati paraṃ nendriyaprītinimittam// Bhāgavata Purāṇa ,5.9.10
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> yadā tu parata āhāraṃ karamavetanata īhamānaḥ svabhrātṛbhirapi kedārakarmaṇi nirūpitastadapi karoti kiṃ tu na samaviṣamanyūnamadhikamiti veda kaṇapiṇyākaphalīkaraṇakulmāṣasthālipurīṣānyapyamṛtavadabhyavaharati//Ibid., 5.9.13
+</blockquote>
 
 ---
 
-## 42. Part 23 - Oil Seeds (according to the Purāṇas)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Oil Seeds (according to the Puranas)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 23 - Oil Seeds (according to the Purāṇas)
 
 Part 23 - Oil Seeds (according to the Purāṇas)
 
@@ -195,49 +270,64 @@ kṣauma (linseeds)[8], and
 
 akṣa (the seed of the bead of rosaries)[9]
 
-[1]:
 
-Matsya Purāṇa , 77.13
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Matsya Purāṇa , 77.13
+</blockquote>
 
-[2]:
 
-Agni Purāṇa , 178.2; 212.32; 309.11
 
-[3]:
 
-Ibid., 57.1; 308.5
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Agni Purāṇa , 178.2; 212.32; 309.11
+</blockquote>
 
-[4]:
 
-Garuḍa Purāṇa , 1.169.14
 
-[5]:
 
-Ibid., 1.169.13a
+<div className="footnote-card"><strong>[3]</strong> Ibid., 57.1; 308.5</div>
 
-[6]:
 
-Agni Purāṇa , 177.16; 157.40ab
 
-[7]:
 
-na tilā dhānyamityāhurdevadhānyam iti smṛtam/ Skanda Purāṇa ,6.252.14
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Garuḍa Purāṇa , 1.169.14
+</blockquote>
 
-[8]:
 
-Garuḍa Purāṇa , 1.169.48
 
-[9]:
 
-Ibid., 1.169.49
+<div className="footnote-card"><strong>[5]</strong> Ibid., 1.169.13a</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Agni Purāṇa , 177.16; 157.40ab
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> na tilā dhānyamityāhurdevadhānyam iti smṛtam/ Skanda Purāṇa ,6.252.14
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Garuḍa Purāṇa , 1.169.48
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., 1.169.49</div>
 
 ---
 
-## 43. Part 27 - Agricultural Products Used as Medicines
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Agricultural Products Used as Medicines’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 27 - Agricultural Products Used as Medicines
 
 Part 27 - Agricultural Products Used as Medicines
 
@@ -313,198 +403,309 @@ The following is a list of important agricultural products with their meanings a
 55) Vrīhi — Rice (Oriza sativa)
 56) Yava — Barley (Horeum vulgare)
 
-[1]:
 
-Garuḍa Purāṇa , 1.169
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Garuḍa Purāṇa , 1.169
+</blockquote>
 
-[2]:
 
-hitāhitavivekāya anupānavidhiṃ brube/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> hitāhitavivekāya anupānavidhiṃ brube/
 raktaśāli tridoṣaghnaṃ tṛṣṇāmedonivārakaṃ// Ibid., 1.169.1
+</blockquote>
 
-[3]:
 
-mahāśāli paraṃ vṛṣyaṃ / Ibid., 1.169.2a
 
-[4]:
 
-kalabhaḥ śleṣmapittahā / Ibid., 1.169.2b
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> mahāśāli paraṃ vṛṣyaṃ / Ibid., 1.169.2a
+</blockquote>
 
-[5]:
 
-śito gurustridoṣaghnaḥ prāyaśo gauraṣaṣṭikaḥ// Ibid., 1.169.2cd
 
-[6]:
 
-śyāmākaḥ śoṣaṇo rūkṣo vātalaḥ śleṣmapittahā/ Ibid.,1.169.3ab
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> kalabhaḥ śleṣmapittahā / Ibid., 1.169.2b
+</blockquote>
 
-[7]:
 
-tadvatpriyaṅgunīvārakoradūṣnāḥ prakīrttitāḥ// Ibid.,1.169.3cd
 
-[8]:
 
-bahuvāraḥ sakṛcchītaḥ śleṣmapittaharo yavaḥ// Ibid.,1.169.4ab
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> śito gurustridoṣaghnaḥ prāyaśo gauraṣaṣṭikaḥ// Ibid., 1.169.2cd
+</blockquote>
 
-[9]:
 
-vṛṣyaḥ śato guruḥ svādurgodhūmo vātanāśanaḥ // Ibid.,1.169. 4cd
 
-[10]:
 
-kaphapittāsrajinmudgaḥ kaṣāyo madhuro laghuḥ/ Ibid.,1.169.5ab
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> śyāmākaḥ śoṣaṇo rūkṣo vātalaḥ śleṣmapittahā/ Ibid.,1.169.3ab
+</blockquote>
 
-[11]:
 
-māṣo bahubalo vṛṣyaḥ pittaśleṣmaharo guruḥ// Ibid.,1.169.5cd
 
-[12]:
 
-avṛṣyaḥ śleṣmapittaghno rājamāṣo’nilārttinut/ Ibid.,1.169.6ab
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> tadvatpriyaṅgunīvārakoradūṣnāḥ prakīrttitāḥ// Ibid.,1.169.3cd
+</blockquote>
 
-[13]:
 
-kulatthaḥ svāsahikkāhṛtkaphagulmānilāpahaḥ/ Ibid.,1.169.6cd
 
-[14]:
 
-raktapittajvaronmātho śito grāhī makuṣṭhakaḥ/ Ibid.,1.169.7ab
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> bahuvāraḥ sakṛcchītaḥ śleṣmapittaharo yavaḥ// Ibid.,1.169.4ab
+</blockquote>
 
-[15]:
 
-puṃstvāsṛkkaphapittaghnaścaṇako vātalaḥ smṛtaḥ/ Ibid.,1.169.7cd āḍhakī kaphapittaghno śuklā ca tathā smṛtā // Ibid.,1.169.9ab
 
-[16]:
 
-atasī pittalā gñeyā siddhārthaḥ kaphavātajit// Ibid.,1.169.9ab
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> vṛṣyaḥ śato guruḥ svādurgodhūmo vātanāśanaḥ // Ibid.,1.169. 4cd
+</blockquote>
 
-[17]:
 
-masūro madhuraḥ śitaḥ saṃgrāhī kaphapittahā /
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> kaphapittāsrajinmudgaḥ kaṣāyo madhuro laghuḥ/ Ibid.,1.169.5ab
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> māṣo bahubalo vṛṣyaḥ pittaśleṣmaharo guruḥ// Ibid.,1.169.5cd
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> avṛṣyaḥ śleṣmapittaghno rājamāṣo’nilārttinut/ Ibid.,1.169.6ab
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> kulatthaḥ svāsahikkāhṛtkaphagulmānilāpahaḥ/ Ibid.,1.169.6cd
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> raktapittajvaronmātho śito grāhī makuṣṭhakaḥ/ Ibid.,1.169.7ab
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> puṃstvāsṛkkaphapittaghnaścaṇako vātalaḥ smṛtaḥ/ Ibid.,1.169.7cd āḍhakī kaphapittaghno śuklā ca tathā smṛtā // Ibid.,1.169.9ab
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> atasī pittalā gñeyā siddhārthaḥ kaphavātajit// Ibid.,1.169.9ab
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> masūro madhuraḥ śitaḥ saṃgrāhī kaphapittahā /
 tadvatsarvaguṇāḍhyaśca kalāyaścātivātalaḥ// Ibid.,1.169.8
+</blockquote>
 
-[18]:
 
-yavakolakulatthānāṃ yūṣaḥ kaṇṭhyo’nilāpahaḥ/ Ibid.,1.169.60ab
 
-[19]:
 
-mudgāmalakajo grāhī śleṣmapittavināśanaḥ// Ibid.,1.169.60cd
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> yavakolakulatthānāṃ yūṣaḥ kaṇṭhyo’nilāpahaḥ/ Ibid.,1.169.60ab
+</blockquote>
 
-[20]:
 
-rakṣanbalaṃ hi jvaritaṃ laṅghitaṃ yojayedbhiṣak/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> mudgāmalakajo grāhī śleṣmapittavināśanaḥ// Ibid.,1.169.60cd
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> rakṣanbalaṃ hi jvaritaṃ laṅghitaṃ yojayedbhiṣak/
 saviśvaṃ lājamaṇḍaṃ tu tṛḍjvarāntaṃ śṛtaṃ jalam// Agni Purāṇa , 279.3
+</blockquote>
 
-[21]:
 
-snehayettyaktadoṣaṃ tu tatastaṃ ca virecayet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> snehayettyaktadoṣaṃ tu tatastaṃ ca virecayet/
 jīrnāḥ ṣaṣṭikanīvāraraktaśāli pramodakāḥ// Ibid., 279.5
+</blockquote>
 
-[22]:
 
-tadvidhāste jvareṣviṣṭā yavānāṃ vikṛtistathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> tadvidhāste jvareṣviṣṭā yavānāṃ vikṛtistathā/
 mudgā masūrāścaṇakāḥ kulatthāśca sakuṣṭhakāḥ//
 āḍhakyo lāvakādyāśca karkoṭakakaṭolakaṃ/
 paṭolaṃ suphalaṃ nimbaṃ parpaṭaṃ dāḍimaṃ jvare// Ibid., 279.6-7
+</blockquote>
 
-[23]:
 
-saktugodhūmalājāśca yavaśālimasūrakāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> saktugodhūmalājāśca yavaśālimasūrakāḥ/
 sakuṣṭhacaṇakā mudgā bhakṣyā godhūmakā hitāḥ// Ibid., 279.9
+</blockquote>
 
-[24]:
 
-sādhitā ghṛtadugdhābhyāṃ kṣaudraṃ vṛṣaraso madhu/
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> sādhitā ghṛtadugdhābhyāṃ kṣaudraṃ vṛṣaraso madhu/
 atisāre purāṇānāṃ śālīnāṃ bhakṣaṇaṃ hitam// Ibid., 279.10
+</blockquote>
 
-[25]:
 
-anabhiṣyandi yaccānnaṃ lodhravalkalasaṃyutam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> anabhiṣyandi yaccānnaṃ lodhravalkalasaṃyutam/
 mārutaṃ varjayedyatnaḥ kāryo gulmeṣu sarvathā// Ibid., 279.11
+</blockquote>
 
-[26]:
 
-godhūmaśālayo mudgā brahmarkṣakhadiro’bhayā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> godhūmaśālayo mudgā brahmarkṣakhadiro’bhayā/
 pañcakolaṃ jāṅgalāśca nimbadhātryaḥ patolakāḥ//
 mātuluṅgarasājājiśuṣkamūlakasaindhavāḥ/
 kuṣṭhināṃ ca tathā śastaṃ pānārthe khadirodakam// Ibid., 279.13-14
+</blockquote>
 
-[27]:
 
-masūramudgau sūpārthe bhojyā jīrṇaśca śālayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> masūramudgau sūpārthe bhojyā jīrṇaśca śālayaḥ/
 nimbaparpaṭakau śākau jāṅgalānāṃ tathā rasaḥ// Ibid., 279.15
+</blockquote>
 
-[28]:
 
-apūpakuṣṭhakulmāṣayavādyā mehināṃ hitāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> apūpakuṣṭhakulmāṣayavādyā mehināṃ hitāḥ/
 yavānnavikṛtirmudgāḥ kulatthā jīrṇaśālayaḥ// Ibid., 279.17
+</blockquote>
 
-[29]:
 
-masūramudgau sūpārthe bhojyā jīrṇaśca śālayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> masūramudgau sūpārthe bhojyā jīrṇaśca śālayaḥ/
 nimbaparpaṭakau śākau jāṅgalānāṃ tathā rasaḥ // Ibid., 279.15
+</blockquote>
 
-[30]:
 
-mudgāḍhakamasūrāṇāṃ satilairjāṅgalai rasaiḥ/ sasaindhavaghṛtadrākṣāśuṇṭhyāmalakakolajaiḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> mudgāḍhakamasūrāṇāṃ satilairjāṅgalai rasaiḥ/ sasaindhavaghṛtadrākṣāśuṇṭhyāmalakakolajaiḥ//
 yūṣaiḥ purāṇagodhūmayavaśālyannamabhyaset/
 visarpī sasitākṣaudramṛdvīkādāḍimodakam// Ibid., 279.36-37
+</blockquote>
 
-[31]:
 
-śuṣkamūlakakaulatthamūlajāṅgalajai rasaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> śuṣkamūlakakaulatthamūlajāṅgalajai rasaiḥ/
 yavagodhūmaśālyannaṃ jīrṇaṃ sośīramācaret// Ibid., 279.23
+</blockquote>
 
-[32]:
 
-kulatthamudgakolādyaiḥ śuṣkamūlakajāṅgalaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> kulatthamudgakolādyaiḥ śuṣkamūlakajāṅgalaiḥ/
 pūpairvā viṣkiraiḥ siddhairdadhidāḍimasādhitaiḥ/
 matuluṅgarasakṣaudradrākṣāvyoṣādisaṃskṛtaiḥ/ yavagodhūmaśālyannairbhojayecchvāsakāsinam// Ibid., 279.20-21
+</blockquote>
 
-[33]:
 
-raktaṣaṣṭikagodhūmayavamudgādikaṃ laghu/
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> raktaṣaṣṭikagodhūmayavamudgādikaṃ laghu/
 kākamācī ca vetrāgraṃ vāstukaṃ ca suvarcalā// Ibid., 279.38
+</blockquote>
 
-[34]:
 
-madhu sarpiḥ payastaktaṃ nimbaparpaṭakau vṛṣam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> madhu sarpiḥ payastaktaṃ nimbaparpaṭakau vṛṣam/
 taktāriṣṭāśca śasyante satataṃ vātarogiṇām// Ibid., 279.26
+</blockquote>
 
-[35]:
 
-mustābhyāsastathā lopaścitrakeṇa haridrayā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> mustābhyāsastathā lopaścitrakeṇa haridrayā/
 yavānnavikṛtiḥ śālivāstūkaṃ sasuvarcalam// Ibid., 279.31
+</blockquote>
 
-[36]:
 
-lājāḥ saktustathā kṣaudraṃ śūnyaṃ māṃsaṃ parūṣakam/ vārtākulāvaśikhinaśchardighnāḥ pānakāni ca// Ibid., 279.33
 
-[37]:
 
-śālyannaṃ toyapayasī kevaloṣṇe śṛte’pi vā/
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> lājāḥ saktustathā kṣaudraṃ śūnyaṃ māṃsaṃ parūṣakam/ vārtākulāvaśikhinaśchardighnāḥ pānakāni ca// Ibid., 279.33
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> śālyannaṃ toyapayasī kevaloṣṇe śṛte’pi vā/
 tṛṣṇāghne mustaguḍyoguṭikā vā mukhe dhṛtā// Ibid., 279.34
+</blockquote>
 
-[38]:
 
-yavānnavikṛtiḥ pūpaṃ śuṣkamūlakajaṃ tathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> yavānnavikṛtiḥ pūpaṃ śuṣkamūlakajaṃ tathā/
 śākaṃ paṭolavetrāgramūrustambhavināśanam// Ibid., 279.35
+</blockquote>
 
-[39]:
 
-mudgāḥ sayavagodhūmā dhānyaṃ varṣasthitaṃ ca yat/
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> mudgāḥ sayavagodhūmā dhānyaṃ varṣasthitaṃ ca yat/
 jāṅgalasya rasaḥ śasto bhojane rājayakṣmiṇām//
 kulatthamudgakolādyaiḥ śuṣkamūlakajāṅgalaiḥ/
 pūpairvā viṣkiraiḥ siddhairdadhidāḍimasādhitaiḥ// Ibid., 279.19-20
+</blockquote>
 
 ---
 
-## 44. Part 1 - Meaning of the word Ākhyāna
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Meaning of the word Akhyana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 1 - Meaning of the word Ākhyāna
 
 Part 1 - Meaning of the word Ākhyāna
 
@@ -520,37 +721,42 @@ According to The Encyclopaedia of Religion and Ethics a myth is usually, directl
 
 The myths are the stories which were handed down from olden times. They are the stories with a veiled meaning. They were originated in ancient times. In the Purāṇas we come across various myths viz., the myth behind the creation of Agriculture, the myth of Vena and Pṛthu, the Indra-Vṛtra myth, the myth of Indra and Ahalyā, the myth of the king Kuru, the myth of Viśvāmitra etc. which are directly or indirectly connected with agriculture. An attempt has been made in this chapter to discuss some of the important myths in the Purāṇas, which are related to agriculture.
 
-[1]:
 
-Śabdakalpadruma, volume 1, p. 165; Sarma, Kiran, Saṃskṛt-Asamiyā Abhidhān, p. 58
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Śabdakalpadruma, volume 1, p. 165; Sarma, Kiran, Saṃskṛt-Asamiyā Abhidhān, p. 58
+</blockquote>
 
-[2]:
 
-Vide, Apte, V.S., The Practical Sanskrit-English Dictionary, p. 202
 
-[3]:
 
-Williams, M.M., A Sanskrit-English Dictionary, p. 129
+<div className="footnote-card"><strong>[2]</strong> Vide, Apte, V.S., The Practical Sanskrit-English Dictionary, p. 202</div>
 
-[4]:
 
-Macdonell, A. A., Vedic Mythology, Introduction, p. 1
 
-[5]:
 
-Vide, Encyclopaedia Britannica, volume 7, p.58
+<div className="footnote-card"><strong>[3]</strong> Williams, M.M., A Sanskrit-English Dictionary, p. 129</div>
 
-[6]:
 
-Vide, Hastings, James, The Encyclopaedia of Religion and Ethics,volume 9, p.118
 
-[7]:
 
-Vide, Bhattacharji, Sukumari, Literature in the Vedic Age, volume 1, p.128
+<div className="footnote-card"><strong>[4]</strong> Macdonell, A. A., Vedic Mythology, Introduction, p. 1</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Vide, Encyclopaedia Britannica, volume 7, p.58</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Vide, Hastings, James, The Encyclopaedia of Religion and Ethics,volume 9, p.118</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Vide, Bhattacharji, Sukumari, Literature in the Vedic Age, volume 1, p.128</div>
 
 ---
-
-
 
 ---
 
@@ -559,10 +765,6 @@ Vide, Bhattacharji, Sukumari, Literature in the Vedic Age, volume 1, p.128
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Purāṇic myths related to Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

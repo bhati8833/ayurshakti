@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of enlargement of the abdomen within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Chapter VII - Diagnosis of enlargement of the abdomen
+## Chapter VII - Diagnosis of enlargement of the abdomen
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -89,17 +89,15 @@ All cases of Udara after the lapse of considerable time develop into those of as
 
 Thus ends the seventh Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of Udara.
 
-[1]:
 
-These include purgative, emitic, Asthapana and Anuvasana measures.
+<div className="footnote-card"><strong>[1]</strong> These include purgative, emitic, Asthapana and Anuvasana measures.</div>
 
-[2]:
 
-Dropsical swelling of the abdomen with tympanites due to the constriction of the rectum known as intestinal obstruction.
+
+
+<div className="footnote-card"><strong>[2]</strong> Dropsical swelling of the abdomen with tympanites due to the constriction of the rectum known as intestinal obstruction.</div>
 
 ---
-
-
 
 ---
 
@@ -108,10 +106,6 @@ Dropsical swelling of the abdomen with tympanites due to the constriction of the
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of diabetes: Sushruta Samhita Nidanasthana Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

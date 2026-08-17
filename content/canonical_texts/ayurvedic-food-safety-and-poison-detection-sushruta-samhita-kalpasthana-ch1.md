@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Royal food protection, detection of poisoned drinks, food safety protocols, and immediate resuscitation methods. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Chapter I - Preserving food and drink from poison
+## Chapter I - Preserving food and drink from poison
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -99,41 +99,59 @@ and clarified butter should, similarly, be deemed beneficial (as being possessed
 
 Thus ends the first Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the mode of protecting food and drink (from the effect of poison).
 
-[1]:
 
-A girl slowly habituated to taking poison or poisoned food is called a Visha-Kanyā, such a girl presented to a king by a pretending friend of the state often managed to hug her royal victim into her fatal embrace. The poison operates through the perspiration, proving almost instantaneously fatal through the act of dalliance.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> A girl slowly habituated to taking poison or poisoned food is called a Visha-Kanyā, such a girl presented to a king by a pretending friend of the state often managed to hug her royal victim into her fatal embrace. The poison operates through the perspiration, proving almost instantaneously fatal through the act of dalliance.
+</blockquote>
 
-[2]:
 
-A Royal Physician is an honourable exception in this respect.
 
-[3]:
 
-Some explain “Śyāmā” as “Śyāmā-latā; others explain it as “Priyangu”. Dallana explains “Indra” to mean “Indra-Vāruni”, “Gopa” to mean “Sārivā” and “Soma” to mean “Guduci”. Others, however, take “Indra-Gopa” as one word and explain it to mean a kind of insect known by that name, and they take “Soma” to mean “Soma-latā” in the ordinary sense of the word.
+<div className="footnote-card"><strong>[2]</strong> A Royal Physician is an honourable exception in this respect.</div>
 
-[4]:
 
-The colours of the different poisoned articles vary in each case and this is elaborately described by Vāgbhata in his Samhitā.
 
-[5]:
 
-Dallana explains this couplet to mean that clarified butter cooked with milk and Ativishā should be given for drink, and that cooked with Vaca and Mālati flower as an errhine.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Some explain “Śyāmā” as “Śyāmā-latā; others explain it as “Priyangu”. Dallana explains “Indra” to mean “Indra-Vāruni”, “Gopa” to mean “Sārivā” and “Soma” to mean “Guduci”. Others, however, take “Indra-Gopa” as one word and explain it to mean a kind of insect known by that name, and they take “Soma” to mean “Soma-latā” in the ordinary sense of the word.
+</blockquote>
 
-[6]:
 
-Dallana says that some read “vahupatnāyāḥ” and explain “vahupatrā (vahupannā?)” to mean “mayūraśikhā |”
 
-[7]:
 
-Some are inclined to take “sadyaḥ” as an adverb meaning “instantly” and modifying “peyam” meaning thereby that clarified butter should be instantly taken.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The colours of the different poisoned articles vary in each case and this is elaborately described by Vāgbhata in his Samhitā.
+</blockquote>
 
-[8]:
 
-See Kalpa-Sthāna, Chapter II. Para 27, and Chapter VII. para 5, respectively.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Dallana explains this couplet to mean that clarified butter cooked with milk and Ativishā should be given for drink, and that cooked with Vaca and Mālati flower as an errhine.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Dallana says that some read “vahupatnāyāḥ” and explain “vahupatrā (vahupannā?)” to mean “mayūraśikhā |”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Some are inclined to take “sadyaḥ” as an adverb meaning “instantly” and modifying “peyam” meaning thereby that clarified butter should be instantly taken.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> See Kalpa-Sthāna, Chapter II. Para 27, and Chapter VII. para 5, respectively.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -142,10 +160,6 @@ See Kalpa-Sthāna, Chapter II. Para 27, and Chapter VII. para 5, respectively.
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/plant-and-mineral-toxicology-guide-sushruta-samhita-kalpasthana-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Plant and Mineral Toxicology Guide: Sushruta Samhita Kalpasthana Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -24,7 +24,7 @@ description: "presents a comprehensive study of Marmas with special reference to
 
 ---
 
-## 1. Summary
+## Summary
 
 Marma-sastra and Ayurveda (study)
 
@@ -38,7 +38,7 @@ SUMMARY The thesis entitled A comprehensive study of marmas with special referen
 
 ---
 
-## 6. An outline of Tamil Marma Sastra and Varmas
+## An outline of Tamil Marma Sastra and Varmas
 
 Marma-sastra and Ayurveda (study)
 
@@ -64,8 +64,6 @@ III. General Signs and symptoms Mathirai i. The eye balls roll ii. The black pup
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -73,10 +71,6 @@ III. General Signs and symptoms Mathirai i. The eye balls roll ii. The black pup
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Adangal (techniques to relieve injured Marmas/Varmas): Marma Sastra and Ayurvedic Science Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

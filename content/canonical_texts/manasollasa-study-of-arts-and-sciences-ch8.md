@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Social Customs described in the Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. 4. Social Customs described in the Manasollasa
+## 4. Social Customs described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -41,7 +41,7 @@ It is the Vedic way of life, based on the Trayi-Dharma. That alone is declared b
 
 ---
 
-## 20. 10. Lavaka fighting described in the Manasollasa
+## 10. Lavaka fighting described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -57,8 +57,6 @@ Somesvara further asks the Kings to preserve the best kinds of both males and fe
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ Somesvara further asks the Kings to preserve the best kinds of both males and fe
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">6. Entertainments reflected in Somesvara’s writings: Manasollasa Study Of Arts And Sciences Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

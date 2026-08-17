@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Sthanamula Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 44. Study of Sthanamula Marma
+## Study of Sthanamula Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -29,7 +29,7 @@ diaphragm. This may kill the patient by developing cardiac arrhythmias. If he su
 
 ---
 
-## 45. Study of Sthanarohita Marma
+## Study of Sthanarohita Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -47,7 +47,7 @@ There are four marmas seen two angulas above the sthana two angulas below the st
 
 ---
 
-## 46. Study of Nabhi Marma
+## Study of Nabhi Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -65,8 +65,6 @@ it can cause instant death due to shock and haemorrhage. The deep injury may als
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -74,10 +72,6 @@ it can cause instant death due to shock and haemorrhage. The deep injury may als
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Hridaya Marma: Marma Sastra and Ayurvedic Science Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

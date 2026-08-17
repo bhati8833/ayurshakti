@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Classification of animal (Jangama) toxins, venomous bites, and environmental air/water decontamination techniques. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter III - Description of Jangama (animal) poisons
+## Chapter III - Description of Jangama (animal) poisons
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -101,49 +101,71 @@ A case of snake-bite marked by the symptoms of an insane state like that of a dr
 
 Thus ends the third Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of animal poisons.
 
-[1]:
 
-Vriddha-Vāgbhata reads Alaji-Śonite in place of “Visardhita.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vriddha-Vāgbhata reads Alaji-Śonite in place of “Visardhita.”
+</blockquote>
 
-[2]:
 
-Some read “varaṭīmatsya” (Varati-fish) as one word—the name of a species of fish.
 
-[3]:
 
-Jejjata explains ‘Ghata’ as a pitcher, i.e., a pitcher-ful of water.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Some read “varaṭīmatsya” (Varati-fish) as one word—the name of a species of fish.
+</blockquote>
 
-[4]:
 
-Dallana holds that the use of the plural number here in “murābhiḥ” means that honey, treacle, etc. should also be used with wine.
 
-[5]:
 
-Dallana says that some read ‘earth of an ant-hill’ in place of ‘black clay’ for its anti-poisonous properties.
+<div className="footnote-card"><strong>[3]</strong> Jejjata explains ‘Ghata’ as a pitcher, i.e., a pitcher-ful of water.</div>
 
-[6]:
 
-See Chapter VII, Kalpa-Sthāna.
 
-[7]:
 
-‘Sārivā’ according to Dallana, ‘Bhadra-musta’ according to others.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Dallana holds that the use of the plural number here in “murābhiḥ” means that honey, treacle, etc. should also be used with wine.
+</blockquote>
 
-[8]:
 
-In the Charaka Samhitā also we come across identical expressions of opinion as to the seat of poison in the dead body of an animal or man, dying from poison from a poisoned dart or snake-bite or from poison administered internally. See chapter xxiii, cikitsā-sthāna—Charaka Samhitā.
 
-[9]:
 
-In place of “uṇe” some read “ūrddhe” This would mean “if bitten in the upper part of the body.”
+<div className="footnote-card"><strong>[5]</strong> Dallana says that some read ‘earth of an ant-hill’ in place of ‘black clay’ for its anti-poisonous properties.</div>
 
-[10]:
 
-The text has “Avegi”. Kārtika explains it to mean “with suppression of the natural urgings, ie.. of stool, urine, etc.
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> See Chapter VII, Kalpa-Sthāna.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> ‘Sārivā’ according to Dallana, ‘Bhadra-musta’ according to others.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> In the Charaka Samhitā also we come across identical expressions of opinion as to the seat of poison in the dead body of an animal or man, dying from poison from a poisoned dart or snake-bite or from poison administered internally. See chapter xxiii, cikitsā-sthāna—Charaka Samhitā.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> In place of “uṇe” some read “ūrddhe” This would mean “if bitten in the upper part of the body.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> The text has “Avegi”. Kārtika explains it to mean “with suppression of the natural urgings, ie.. of stool, urine, etc.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -152,10 +174,6 @@ The text has “Avegi”. Kārtika explains it to mean “with suppression of th
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/venomous-snakes-and-bite-symptoms-sushruta-samhita-kalpasthana-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Venomous Snakes and Bite Symptoms: Sushruta Samhita Kalpasthana Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. The Mahabharata—Post-Christian Era Additions within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. 5. The Mahabharata—Post-Christian Era Additions
+## 5. The Mahabharata—Post-Christian Era Additions
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ VI-13 in yellow, was likened to a mani encased in gold (5.92.52; 12.45.14) atasi
 
 ---
 
-## 52. 6. Background of the Ramayana
+## 6. Background of the Ramayana
 
 Minerals and Metals in Sanskrit literature
 
@@ -37,7 +37,7 @@ The above discussion on the Mahabharata clearly shows that its references to the
 
 ---
 
-## 53. 4. Metals in the Mahabharata
+## 4. Metals in the Mahabharata
 
 Minerals and Metals in Sanskrit literature
 
@@ -51,7 +51,7 @@ VI-12 as milking and drinking vessels (2.45.26; 2.49.3; 15.34.13-14). Sometimes 
 
 ---
 
-## 54. 3. The Mahabharata—500-100 B.C. Additions
+## 3. The Mahabharata—500-100 B.C. Additions
 
 Minerals and Metals in Sanskrit literature
 
@@ -73,8 +73,6 @@ VImuch earlier before the first century A. D. (when Panna mine was exploited), t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -82,10 +80,6 @@ VImuch earlier before the first century A. D. (when Panna mine was exploited), t
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">8. References: Minerals And Metals In Sanskrit Literature Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

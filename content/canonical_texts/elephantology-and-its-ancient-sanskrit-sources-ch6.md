@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Capturing of Elephants within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter 6 - Capturing of Elephants
+## Chapter 6 - Capturing of Elephants
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -191,85 +191,100 @@ M.S. Joy, author, Ana, mentions the training time of elephant is fixed both in t
 
 Always the newly captured elephants will be furnished by thinking of its past life. So it is essential to protect them from diseases. Elephant keeping in various seasons and Kerala Style-Ayurvedic treatment etc. is explained in the next chapter.
 
-[1]:
 
-Matangalila. 10. 1.56.
+<div className="footnote-card"><strong>[1]</strong> Matangalila. 10. 1.56.</div>
 
-[2]:
 
-Ana. 10. 101.
 
-[3]:
 
-Matangalila. 10. 11.60.
+<div className="footnote-card"><strong>[2]</strong> Ana. 10. 101.</div>
 
-[4]:
 
-Ana. 10. 105. 108.
 
-[5]:
 
-Gajashiksha. 5.5.1.63. 60. 64.
+<div className="footnote-card"><strong>[3]</strong> Matangalila. 10. 11.60.</div>
 
-[6]:
 
-MU. 3. 186. 46.
 
-[7]:
 
-Ibid.
+<div className="footnote-card"><strong>[4]</strong> Ana. 10. 105. 108.</div>
 
-[8]:
 
-Gajagrahanaprakara 2. 174.18.
 
-[9]:
 
-MU. 3. 216.48.
+<div className="footnote-card"><strong>[5]</strong> Gajashiksha. 5.5.1.63. 60. 64.</div>
 
-[10]:
 
-Arthashastra. 32. 468.
 
-[11]:
 
-Ibid.
+<div className="footnote-card"><strong>[6]</strong> MU. 3. 186. 46.</div>
 
-[12]:
 
-Ana. 12. 137-138.
 
-[13]:
 
-Matangalila. 12.2.82.
+<div className="footnote-card"><strong>[7]</strong> Ibid.</div>
 
-[14]:
 
-Ana. 12. 138.
 
-[15]:
 
-Matangalila. 12. 15-16. 87.
+<div className="footnote-card"><strong>[8]</strong> Gajagrahanaprakara 2. 174.18.</div>
 
-[16]:
 
-Matangalila. 12. 8. 84.
 
-[17]:
 
-Matangalila. XII. 13. 86.
+<div className="footnote-card"><strong>[9]</strong> MU. 3. 216.48.</div>
 
-[18]:
 
-Gajashiksha. IX. 75-83. 37-38.
 
-[19]:
 
-Gajagrahanaprakara. 4. 429. 536.44.
+<div className="footnote-card"><strong>[10]</strong> Arthashastra. 32. 468.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ana. 12. 137-138.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Matangalila. 12.2.82.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ana. 12. 138.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Matangalila. 12. 15-16. 87.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Matangalila. 12. 8. 84.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Matangalila. XII. 13. 86.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Gajashiksha. IX. 75-83. 37-38.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Gajagrahanaprakara. 4. 429. 536.44.</div>
 
 ---
-
-
 
 ---
 
@@ -278,10 +293,6 @@ Gajagrahanaprakara. 4. 429. 536.44.
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">The Life-cycles of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

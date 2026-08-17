@@ -11,7 +11,7 @@ description: "text includes treatments, recipes and remedies and is categorised 
 
 ---
 
-## 1. A Brief History of Indian Chemistry and Medicine
+## A Brief History of Indian Chemistry and Medicine
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -21,15 +21,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
 
 A Brief History of Indian Chemistry and Medicine
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘A Brief History of Indian Chemistry and Medicine’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 5: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 2. Select opinions on Rasa-jala-nidhi
+## Select opinions on Rasa-jala-nidhi
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -93,7 +91,7 @@ This concludes ‘Select opinions on Rasa-jala-nidhi’ included in Bhudeb Mooke
 
 ---
 
-## 3. Preface
+## Preface
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -137,7 +135,7 @@ This concludes ‘Preface’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 5
 
 ---
 
-## 4. Part 1 - Introduction (justifying ancient Indian knowledge of the use of mercury)
+## Part 1 - Introduction (justifying ancient Indian knowledge of the use of mercury)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -165,7 +163,7 @@ This concludes ‘Introduction (justifying ancient Indian knowledge of the use o
 
 ---
 
-## 5. Part 2 - Charaka, Sushruta, and their predecessors
+## Part 2 - Charaka, Sushruta, and their predecessors
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -189,7 +187,7 @@ This concludes ‘Charaka, Sushruta, and their predecessors’ included in Bhude
 
 ---
 
-## 6. Part 4 - Chemists of the Metallic School: Introduction
+## Part 4 - Chemists of the Metallic School: Introduction
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -215,9 +213,10 @@ The above 17 were better known as compilers of chemical treatises than as origin
 
 Vagbhata, the compiler of “Rasaratna-samuchchaya” says that he consulted the treatises of all the authors named above. It is unfortunate that most of these treatises have been lost to us, To compile a systematic history of Hindu chemistry appears therefore to be a hopeless task. We shall however try to utilise the materials available to us at present, and deal with only those of the authors named above who have not yet passed completely into the region of oblivion.
 
-[1]:
 
-There are two different readings on this point, viz.
+<div className="footnote-card"><strong>[1]</strong> There are two different readings on this point, viz.</div>
+
+
 
 1) khaḍeśastasya (?) ghātakaḥ |
 2) khaḍeśaśca (?) viśāradaḥ |
@@ -230,7 +229,7 @@ This concludes ‘Chemists of the Metallic School: Introduction’ included in B
 
 ---
 
-## 7. Part 5 - Chemists of the Metallic School: Adima
+## Part 5 - Chemists of the Metallic School: Adima
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -250,7 +249,7 @@ This concludes ‘Chemists of the Metallic School: Adima’ included in Bhudeb M
 
 ---
 
-## 8. Part 6 - Chemists of the Metallic School: Chandra Sena
+## Part 6 - Chemists of the Metallic School: Chandra Sena
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -266,9 +265,10 @@ But the question which now arises is this: what are the grounds on which we can 
 
 Chandra was about 32 generations ahead of Yudhisthira, who flourished about 3139 B.C. The date of Chandra may, therefore, be approximately fixed to be not less than 5000 B.C. He was the author of a treatise named “Rasa-chandrodaya” from which the preparation of “Chandrodaya Makaradhvaja” has been obtained.
 
-[1]:
 
-“Sena” means warrior or king.
+<div className="footnote-card"><strong>[1]</strong> “Sena” means warrior or king.</div>
+
+
 
 Conclusion:
 
@@ -276,7 +276,7 @@ This concludes ‘Chemists of the Metallic School: Chandra Sena’ included in B
 
 ---
 
-## 9. Part 3 - The Age of the Mahabharata War
+## Part 3 - The Age of the Mahabharata War
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -377,7 +377,7 @@ This concludes ‘The Age of the Mahabharata War’ included in Bhudeb Mookerjee
 
 ---
 
-## 10. Part 7 - Chemists of the Metallic School: Ravana, King of Lanka
+## Part 7 - Chemists of the Metallic School: Ravana, King of Lanka
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -401,7 +401,7 @@ This concludes ‘Chemists of the Metallic School: Ravana, King of Lanka’ incl
 
 ---
 
-## 11. Part 8 - Chemists of the Metallic School: King Rama Chandra
+## Part 8 - Chemists of the Metallic School: King Rama Chandra
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -444,7 +444,7 @@ This concludes ‘Chemists of the Metallic School: King Rama Chandra’ included
 
 ---
 
-## 12. Part 9 - Chemists of the Metallic School: Kapali, author of Rasa-raja-mahodadhi
+## Part 9 - Chemists of the Metallic School: Kapali, author of Rasa-raja-mahodadhi
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -462,7 +462,7 @@ This concludes ‘Chemists of the Metallic School: Kapali, author of Rasa-raja-m
 
 ---
 
-## 13. Part 10 - Chemists of the Metallic School: Matta
+## Part 10 - Chemists of the Metallic School: Matta
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -480,7 +480,7 @@ This concludes ‘Chemists of the Metallic School: Matta’ included in Bhudeb M
 
 ---
 
-## 14. Part 12 - Chemists of the Metallic School: Surasena
+## Part 12 - Chemists of the Metallic School: Surasena
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -498,7 +498,7 @@ This concludes ‘Chemists of the Metallic School: Surasena’ included in Bhude
 
 ---
 
-## 15. Part 13 - Chemists of the Metallic School: Ratnakosha
+## Part 13 - Chemists of the Metallic School: Ratnakosha
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -516,7 +516,7 @@ This concludes ‘Chemists of the Metallic School: Ratnakosha’ included in Bhu
 
 ---
 
-## 16. Part 14 - Chemists of the Metallic School: Shambhu
+## Part 14 - Chemists of the Metallic School: Shambhu
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -538,9 +538,10 @@ Nityanatha has given the source of his information in this way: “whatever has 
 
 It appears from the above that Nityanatha, who flourished long before 587 A.D., considered Shambhu to be an earlier authority than Nagarjuna, who flourished, according to the “Raja-tarangini”, in the 14th century B.C. Shambhu occupies the 14th, whereas, Nagarjuna the 18th position in the list. In accordance with the principle we have been acting upon, Shambhu may be placed between the 12th and the 15th centuries B.C. He is not to be confused with the God, Siva, one of whose names is Shambhu.
 
-[1]:
 
-Dr. Roy’s translation of this line has not been happy. It runs as follows “Whatever has been revealed by Siva in Rasarnava”...... Here “Sambhu” does not mean Siva, the God, but Sambhu, the human chemist, referred to in several books.
+<div className="footnote-card"><strong>[1]</strong> Dr. Roy’s translation of this line has not been happy. It runs as follows “Whatever has been revealed by Siva in Rasarnava”...... Here “Sambhu” does not mean Siva, the God, but Sambhu, the human chemist, referred to in several books.</div>
+
+
 
 Conclusion:
 
@@ -548,7 +549,7 @@ This concludes ‘Chemists of the Metallic School: Shambhu’ included in Bhudeb
 
 ---
 
-## 17. Part 16 - Chemists of the Metallic School: Vyari
+## Part 16 - Chemists of the Metallic School: Vyari
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -566,7 +567,7 @@ This concludes ‘Chemists of the Metallic School: Vyari’ included in Bhudeb M
 
 ---
 
-## 18. Part 17 - Chemists of the Metallic School: Nagarjuna
+## Part 17 - Chemists of the Metallic School: Nagarjuna
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -608,7 +609,7 @@ This concludes ‘Chemists of the Metallic School: Nagarjuna’ included in Bhud
 
 ---
 
-## 19. Part 11 - Chemists of the Metallic School: Mandavya
+## Part 11 - Chemists of the Metallic School: Mandavya
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -626,7 +627,7 @@ This concludes ‘Chemists of the Metallic School: Mandavya’ included in Bhude
 
 ---
 
-## 20. Part 15 - Chemists of the Metallic School: Satvika, Naravahana, Indrada, Gomukha, and Kambali
+## Part 15 - Chemists of the Metallic School: Satvika, Naravahana, Indrada, Gomukha, and Kambali
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -644,7 +645,7 @@ This concludes ‘Chemists of the Metallic School: Satvika, Naravahana, Indrada,
 
 ---
 
-## 21. Part 18 - Chemists of the Metallic School: Surananda and Nagabodhi
+## Part 18 - Chemists of the Metallic School: Surananda and Nagabodhi
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -662,7 +663,7 @@ This concludes ‘Chemists of the Metallic School: Surananda and Nagabodhi’ in
 
 ---
 
-## 22. Part 19 - Chemists of the Metallic School: Jasodhana or Jasodhara
+## Part 19 - Chemists of the Metallic School: Jasodhana or Jasodhara
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -680,7 +681,7 @@ This concludes ‘Chemists of the Metallic School: Jasodhana or Jasodhara’ inc
 
 ---
 
-## 23. Part 21 - Chemists of the Metallic School: Govinda or Bhikshu Govinda
+## Part 21 - Chemists of the Metallic School: Govinda or Bhikshu Govinda
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -712,7 +713,7 @@ This concludes ‘Chemists of the Metallic School: Govinda or Bhikshu Govinda’
 
 ---
 
-## 24. Part 23 - Chemists of the Metallic School: Ananta Deva Suri
+## Part 23 - Chemists of the Metallic School: Ananta Deva Suri
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -730,7 +731,7 @@ This concludes ‘Chemists of the Metallic School: Ananta Deva Suri’ included 
 
 ---
 
-## 25. Part 20 - Chemists of the Metallic School: Nitya-natha
+## Part 20 - Chemists of the Metallic School: Nitya-natha
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -750,7 +751,7 @@ This concludes ‘Chemists of the Metallic School: Nitya-natha’ included in Bh
 
 ---
 
-## 26. Part 24 - Hindu Chemistry before the advent of the Mahomedans
+## Part 24 - Hindu Chemistry before the advent of the Mahomedans
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -770,7 +771,7 @@ This concludes ‘Hindu Chemistry before the advent of the Mahomedans’ include
 
 ---
 
-## 27. Part 22 - Chemists of the Metallic School: Vagbhata, the junior
+## Part 22 - Chemists of the Metallic School: Vagbhata, the junior
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -792,7 +793,7 @@ This concludes ‘Chemists of the Metallic School: Vagbhata, the junior’ inclu
 
 ---
 
-## 28. Part 25 - Ar-Razi and the Indian knowledge of metallic chemistry
+## Part 25 - Ar-Razi and the Indian knowledge of metallic chemistry
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -873,9 +874,10 @@ Dhatu Vidya or Dhatu Veda (industrial or applied chemistry)
 Roga-chikitsa (treatment of diseases)
 Rasayana-chikitsa (treatment for the cure and prevention of senile decay)
 
-[1]:
 
-I have edited this most difficult of the astrological books with a Bengali translation, a portion of which was published some eight years back in the Sahitya Samhita of Calcutta.
+<div className="footnote-card"><strong>[1]</strong> I have edited this most difficult of the astrological books with a Bengali translation, a portion of which was published some eight years back in the Sahitya Samhita of Calcutta.</div>
+
+
 
 Conclusion:
 
@@ -883,7 +885,7 @@ This concludes ‘Ar-Razi and the Indian knowledge of metallic chemistry’ incl
 
 ---
 
-## 29. Introduction
+## Introduction
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -901,7 +903,7 @@ This concludes ‘Introduction’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ---
 
-## 30. Chapter 1 - Symptoms and treatment of Raktapitta (Hemoptysis)
+## Chapter 1 - Symptoms and treatment of Raktapitta (Hemoptysis)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1013,7 +1015,7 @@ This concludes ‘Symptoms and treatment of Raktapitta (Hemoptysis)’ included 
 
 ---
 
-## 31. Measures of Weight
+## Measures of Weight
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1021,13 +1023,7 @@ This fifth volume of the Rasa-jala-nidhi deals with the symptoms, treatment and 
 
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical me...
 
-Measures of Weight
-
-dhanyaka (rice)
-
-kala or tanka
-
-khudraka, dharkhana
+Measures of Weight, dhanyaka (rice), kala or tanka, khudraka, dharkhana
 
 (Synonyms of karsha are:—udumbara, panitala, suvarna kabalagraha, aksha, bidalapadaka, sorashika, karamodhava, hangsapada picha, kinchitpani tinduka.)
 
@@ -1039,7 +1035,7 @@ This concludes ‘Measures of Weight’ included in Bhudeb Mookerjee Rasa Jala N
 
 ---
 
-## 32. Chapter 3 - Symptoms and treatment of Kasa (cough)
+## Chapter 3 - Symptoms and treatment of Kasa (cough)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1207,7 +1203,7 @@ This concludes ‘Symptoms and treatment of Kasa (cough)’ included in Bhudeb M
 
 ---
 
-## 33. Chapter 4 - Symptoms and treatment of Asthma (shvasa) and Cough (hikka)
+## Chapter 4 - Symptoms and treatment of Asthma (shvasa) and Cough (hikka)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1383,17 +1379,20 @@ Food and actions injurious in asthma (shvasa).
 
 suppression of urine, belching, vomiting, thirst, and cough; use of snuff, douche, tooth-brush, physical exertion, walking, carrying loads, inhaling of dust, exposure to the rays of the sun, food which lies in the stomach undigested for a long time, sexual intercourse, bidahi food, meat of animals called “anupa,” food fried with oil, beans of all kinds, food and actions tending to increase phlegm, masa-grams, blood shed, wind blowing towards the east (which generally is the case in winter. This therefore means cold wind), drinking water after completion of meals (see page 20, Vol. IV), ram’s milk and butter and clarified butter prepared from the same; impure water, fish, tubers (such as shurana, mana, potatoes), mustard seeds, food and drinks which are coarse and not seasoned with butter or clarified butter,[3] and cold food and drinks.
 
-[1]:
 
-This medicine, if not mixed with aconite, may be used in doses from 2 to 10 raktis, and in the same way as rasa-papati (See page 262 Vol. IV).
+<div className="footnote-card"><strong>[1]</strong> This medicine, if not mixed with aconite, may be used in doses from 2 to 10 raktis, and in the same way as rasa-papati (See page 262 Vol. IV).</div>
 
-[2]:
 
-An anguli is one sixteenth part of a foot.
 
-[3]:
 
-Fish is not coarse. It should not therefore be seasoned with butter or clarified butter which make it unfit for eating (see page 9, Vol. IV). It may, however, be prepared with a little of vegetable oil.
+<div className="footnote-card"><strong>[2]</strong> An anguli is one sixteenth part of a foot.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Fish is not coarse. It should not therefore be seasoned with butter or clarified butter which make it unfit for eating (see page 9, Vol. IV). It may, however, be prepared with a little of vegetable oil.</div>
+
+
 
 Conclusion:
 
@@ -1401,7 +1400,7 @@ This concludes ‘Symptoms and treatment of Asthma (shvasa) and Cough (hikka)’
 
 ---
 
-## 34. Chapter 5 - Symptoms and treatment of Hoarseness (svarabheda)
+## Chapter 5 - Symptoms and treatment of Hoarseness (svarabheda)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1445,7 +1444,7 @@ This concludes ‘Symptoms and treatment of Hoarseness (svarabheda)’ included 
 
 ---
 
-## 35. Chapter 6 - Diseases affecting the heart (hridroga)
+## Chapter 6 - Diseases affecting the heart (hridroga)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1551,9 +1550,10 @@ Articles of food stuff and deeds injurious in heart-diseases (hridroga):—
 
 Suppression of calls of nature in respect of thirst, vomiting, discharge of urine, wind formed in the stomach, semen, cough, belching, respiration, stool, and tears, drinking of water of rivers issuing out of the Sahya and the vindhyas mountains, milk of rams, impure water, taking of astringents, food incongenial by combination, hot food, heavy food, bitters, sours, constant taking of pot herbs (leaf-vegetables), alkali, madhuka fruits (mahua), cleansing of teeth by means of sticks (or brushes), and letting out of blood.
 
-[1]:
 
-Some texts have replaced these lines by “feeling of exertion, fatigue”.
+<div className="footnote-card"><strong>[1]</strong> Some texts have replaced these lines by “feeling of exertion, fatigue”.</div>
+
+
 
 Conclusion:
 
@@ -1561,7 +1561,7 @@ This concludes ‘Diseases affecting the heart (hridroga)’ included in Bhudeb 
 
 ---
 
-## 36. Chapter 7 - Symptoms and treatment of Urograha
+## Chapter 7 - Symptoms and treatment of Urograha
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1599,7 +1599,7 @@ This concludes ‘Symptoms and treatment of Urograha’ included in Bhudeb Mooke
 
 ---
 
-## 37. Chapter 9 - Treatment of an abnormal excess of Pitta
+## Chapter 9 - Treatment of an abnormal excess of Pitta
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1641,7 +1641,7 @@ This concludes ‘Treatment of an abnormal excess of Pitta’ included in Bhudeb
 
 ---
 
-## 38. Chapter 8 - Symptoms and treatment of Amlapitta (acidity and biliousness)
+## Chapter 8 - Symptoms and treatment of Amlapitta (acidity and biliousness)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1727,9 +1727,10 @@ Food and deeds considered injurious in amlapitta:—
 
 Rice, wheat, barley, and mudga gram—of recent growth, articles of food-stuff incongenial by combination, food having the property of increasing pitta, suppression of calls of nature in respect of stools, urine, vomiting, and sneezing; eating of sesamum seeds, dhanyamla (see page 380, Vol. III)[1] salt in excess, sours, pungents, heavy food, curd, and wine.
 
-[1]:
 
-Except at the time of taking such medicines as baryanna rasa.
+<div className="footnote-card"><strong>[1]</strong> Except at the time of taking such medicines as baryanna rasa.</div>
+
+
 
 Conclusion:
 
@@ -1737,7 +1738,7 @@ This concludes ‘Symptoms and treatment of Amlapitta (acidity and biliousness)�
 
 ---
 
-## 39. Chapter 10 - Symptoms and treatment of Shula (pain in the belly)
+## Chapter 10 - Symptoms and treatment of Shula (pain in the belly)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -1983,17 +1984,20 @@ Articles of food-stuff and deeds injurious in shula:—
 
 Food and drinks in congenial by combination, keeping late hours at night, taking meals at irregular hours and in unusual quantities, food not softened with clarified butter or any other animal fat, bitters, astringents, cold food, heavy food, physical exercise, sexual intercourse, wine, pulses, excess of salt, sesamum seeds, suppression of calls of nature, grief, and anger.
 
-[1]:
 
-These three are grasses yielding rice-like seeds.
+<div className="footnote-card"><strong>[1]</strong> These three are grasses yielding rice-like seeds.</div>
 
-[2]:
 
-Some are of opinion that “amrita” here means amalaki.
 
-[3]:
 
-Some texts hare “copper” and not “shunthi”.
+<div className="footnote-card"><strong>[2]</strong> Some are of opinion that “amrita” here means amalaki.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Some texts hare “copper” and not “shunthi”.</div>
+
+
 
 Conclusion:
 
@@ -2001,7 +2005,7 @@ This concludes ‘Symptoms and treatment of Shula (pain in the belly)’ include
 
 ---
 
-## 40. Chapter 11 - Symptoms and treatment of Gulma (tumour in the belly)
+## Chapter 11 - Symptoms and treatment of Gulma (tumour in the belly)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2119,7 +2123,7 @@ This concludes ‘Symptoms and treatment of Gulma (tumour in the belly)’ inclu
 
 ---
 
-## 41. Chapter 12 - Symptoms and treatment of Worms and Bacilli (krimi)
+## Chapter 12 - Symptoms and treatment of Worms and Bacilli (krimi)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2277,17 +2281,20 @@ Articles of food-stuff and deeds injurious in worm (krimi)s:—
 
 Vomiting, suppression of vomiting, articles of food-stuff incongenial by combination, sleeping in day time; drinking of liquid food, food pestled and baked (pistaka), indigestion, clarified butter, masha-grams, curd, pot-herbs, meat, milk, sours, and sweets.
 
-[1]:
 
-See page 379, Vol. III.
+<div className="footnote-card"><strong>[1]</strong> See page 379, Vol. III.</div>
 
-[2]:
 
-The name Kampilla is given to two different things, viz. (1) to a herb named mellotus philippinesis, and (2) to a mineral (see page 211, Vol. II.)
 
-[3]:
 
-See page 379-82, Vol. III.
+<div className="footnote-card"><strong>[2]</strong> The name Kampilla is given to two different things, viz. (1) to a herb named mellotus philippinesis, and (2) to a mineral (see page 211, Vol. II.)</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> See page 379-82, Vol. III.</div>
+
+
 
 Conclusion:
 
@@ -2295,7 +2302,7 @@ This concludes ‘Symptoms and treatment of Worms and Bacilli (krimi)’ include
 
 ---
 
-## 42. Chapter 13 - Symptoms and treatment of Pandu (anemia) and Kamala (jaundice)
+## Chapter 13 - Symptoms and treatment of Pandu (anemia) and Kamala (jaundice)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2531,7 +2538,7 @@ This concludes ‘Symptoms and treatment of Pandu (anemia) and Kamala (jaundice)
 
 ---
 
-## 43. Chapter 14 - Symptoms and treatment of Arochaka (aversion to food)
+## Chapter 14 - Symptoms and treatment of Arochaka (aversion to food)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2577,7 +2584,7 @@ This concludes ‘Symptoms and treatment of Arochaka (aversion to food)’ inclu
 
 ---
 
-## 44. Chapter 15 - Symptoms and treatment of Chardi (vomiting)
+## Chapter 15 - Symptoms and treatment of Chardi (vomiting)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2639,7 +2646,7 @@ This concludes ‘Symptoms and treatment of Chardi (vomiting)’ included in Bhu
 
 ---
 
-## 45. Chapter 16 - Symptoms and treatment of Trishna (thirst)
+## Chapter 16 - Symptoms and treatment of Trishna (thirst)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2689,7 +2696,7 @@ This concludes ‘Symptoms and treatment of Trishna (thirst)’ included in Bhud
 
 ---
 
-## 46. Chapter 17 - Symptoms and Treatment of Medoroga (obesity)
+## Chapter 17 - Symptoms and Treatment of Medoroga (obesity)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2773,13 +2780,15 @@ Taking bath, faking such medicines as are called rasayana (i.e., medicine which 
 
 Vomiting is injurious to a highly fatty man.
 
-[1]:
 
-Dhatus are the constituent parts of the body. They are: chyle, blood, flesh, bone, marrow, fat, and semen.
+<div className="footnote-card"><strong>[1]</strong> Dhatus are the constituent parts of the body. They are: chyle, blood, flesh, bone, marrow, fat, and semen.</div>
 
-[2]:
 
-Peya is rice boiled with fourteen times its weight of water and turned semi-liquid.
+
+
+<div className="footnote-card"><strong>[2]</strong> Peya is rice boiled with fourteen times its weight of water and turned semi-liquid.</div>
+
+
 
 Conclusion:
 
@@ -2787,7 +2796,7 @@ This concludes ‘Symptoms and Treatment of Medoroga (obesity)’ included in Bh
 
 ---
 
-## 47. Chapter 18 - Symptoms and Treatment of Karshya (thinness)
+## Chapter 18 - Symptoms and Treatment of Karshya (thinness)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2827,7 +2836,7 @@ This concludes ‘Symptoms and Treatment of Karshya (thinness)’ included in Bh
 
 ---
 
-## 48. Chapter 19 - Symptoms and Treatment of Daha (sensation of heat)
+## Chapter 19 - Symptoms and Treatment of Daha (sensation of heat)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2903,7 +2912,7 @@ This concludes ‘Symptoms and Treatment of Daha (sensation of heat)’ included
 
 ---
 
-## 49. Chapter 20 - Symptoms and Treatment of Madya-pana-vikara
+## Chapter 20 - Symptoms and Treatment of Madya-pana-vikara
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -2979,7 +2988,7 @@ This concludes ‘Symptoms and Treatment of Madya-pana-vikara’ included in Bhu
 
 ---
 
-## 50. Chapter 21 - Symptoms and Treatment of Murcha (loss of consciousness)
+## Chapter 21 - Symptoms and Treatment of Murcha (loss of consciousness)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -3061,7 +3070,7 @@ This concludes ‘Symptoms and Treatment of Murcha (loss of consciousness)’ in
 
 ---
 
-## 51. Chapter 22 - Symptoms and Treatment of Sannyasa (malignant swoon)
+## Chapter 22 - Symptoms and Treatment of Sannyasa (malignant swoon)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -3101,7 +3110,7 @@ This concludes ‘Symptoms and Treatment of Sannyasa (malignant swoon)’ includ
 
 ---
 
-## 52. Chapter 23 - Bhrama (vertigo), Nidra (sleeping disease), and Tandra (drowsiness)
+## Chapter 23 - Bhrama (vertigo), Nidra (sleeping disease), and Tandra (drowsiness)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -3147,9 +3156,10 @@ Iatro-chemical remedies and Dietary in sleepiness and drowsiness:
 
 The same as in swoon.
 
-[1]:
 
-Indian philosophers attribute three different properties to mind, viz. sattva (refinement, sobriety, wisdom, and consciousness), rajas (excitement, activity, and egoism), and tamas (ignorance and absence of consciousness).
+<div className="footnote-card"><strong>[1]</strong> Indian philosophers attribute three different properties to mind, viz. sattva (refinement, sobriety, wisdom, and consciousness), rajas (excitement, activity, and egoism), and tamas (ignorance and absence of consciousness).</div>
+
+
 
 Conclusion:
 
@@ -3157,7 +3167,7 @@ This concludes ‘Bhrama (vertigo), Nidra (sleeping disease), and Tandra (drowsi
 
 ---
 
-## 53. Chapter 24 - Symptoms and treatment of Apasmara (epilepsy)
+## Chapter 24 - Symptoms and treatment of Apasmara (epilepsy)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -3259,7 +3269,7 @@ This concludes ‘Symptoms and treatment of Apasmara (epilepsy)’ included in B
 
 ---
 
-## 54. Chapter 25 - Symptoms and treatment of Unmada (insanity)
+## Chapter 25 - Symptoms and treatment of Unmada (insanity)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -3383,7 +3393,7 @@ This concludes ‘Symptoms and treatment of Unmada (insanity)’ included in Bhu
 
 ---
 
-## 55. Chapter 26 - Symptoms and treatment of Amavata (gout and rheumatism)
+## Chapter 26 - Symptoms and treatment of Amavata (gout and rheumatism)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -3477,13 +3487,15 @@ Diet and deeds injurious in rheumatism.
 
 Curd, fish, molasses, milk, white basil, masha-grams, (Phased lous Radiatus) cake prepared of rice, unfiltered water, wind blowing from eastern horizon, incongenial foods, unwholesome diet and deeds, heavy food, keeping late hour at night, suppression of calls of nature.
 
-[1]:
 
-Physical exercise is ordinarily beneficial to those who take fatty food. What is objectionable is taking physical exercise before the fat is digested, partially at least Physical exercise increases vayu which evaporates the fat if undigested.
+<div className="footnote-card"><strong>[1]</strong> Physical exercise is ordinarily beneficial to those who take fatty food. What is objectionable is taking physical exercise before the fat is digested, partially at least Physical exercise increases vayu which evaporates the fat if undigested.</div>
 
-[2]:
 
-Some physicians suggest “trijata” (i.e., guratvak, ela, and tejapatra) in place of “trimada”.
+
+
+<div className="footnote-card"><strong>[2]</strong> Some physicians suggest “trijata” (i.e., guratvak, ela, and tejapatra) in place of “trimada”.</div>
+
+
 
 Conclusion:
 
@@ -3491,7 +3503,7 @@ This concludes ‘Symptoms and treatment of Amavata (gout and rheumatism)’ inc
 
 ---
 
-## 56. Chapter 2 - Symptoms and treatment of Rajayakshma (Phthisis or consumption)
+## Chapter 2 - Symptoms and treatment of Rajayakshma (Phthisis or consumption)
 
 Rasa Jala Nidhi, vol 5: Treatment of various afflictions
 
@@ -3728,21 +3740,25 @@ Articles of food-stuff and deeds considered injurious in phthisis.
 
 Purgation, suppression of calls of nature, mental and physical labour, association with wife, fomenting the body, using collyrium, keeping late hours at night, performance of daring acts, exposure to the rays of the sun (except in the frizid climate), taking of food or drink, not mixed with clarified butter or animal fat, taking meals at irregular times and in excessive quantities; betel leaves, water melon, kulattha grams, masa grams, garlics, sprouts of bamboos, hingu, sours, bitters, astringents, pungents, all sorts of pot herbs, alkalis, articles of food-stuff incongenial by combination (see page 9, Vol. 17), beans, karkota, all bidahi articles (see page 7, Vol. IV), betel nuts, pippali, brinjals, taking of oil, sleeping in day time, bilva fruit, anger, sexual intercourse, grief, vexation, envy, and jealousy.
 
-[1]:
 
-For details see Bhava prakaska, etc.
+<div className="footnote-card"><strong>[1]</strong> For details see Bhava prakaska, etc.</div>
 
-[2]:
 
-Some texts have got silver and not copper.
 
-[3]:
 
-Visa karanja or dahara karanja.
+<div className="footnote-card"><strong>[2]</strong> Some texts have got silver and not copper.</div>
 
-[4]:
 
-In hemeptosis and phthisis attended with bleeding, meat of ram which increases pitta should be avoided.
+
+
+<div className="footnote-card"><strong>[3]</strong> Visa karanja or dahara karanja.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> In hemeptosis and phthisis attended with bleeding, meat of ram which increases pitta should be avoided.</div>
+
+
 
 Conclusion:
 

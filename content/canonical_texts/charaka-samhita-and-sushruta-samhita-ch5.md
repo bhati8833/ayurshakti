@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Royal Physician within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. The Royal Physician
+## The Royal Physician
 
 Charaka Samhita and Sushruta Samhita
 
@@ -27,57 +27,89 @@ Suśruta, understandably, holds surgical skills and knowledge of difficult proce
 
 There is some textual and epigraphic evidence on the royal physician. Five Buddhist cave inscriptions from Pitalkhora refer to the visit and donations of the family of a royal physician, rājaveja or rāja-vaidya, Magila.[11] We know from the Harṣacarita that the position was a hereditary one.[12] This position being of considerable importance it will not be wrong to surmise that only trustworthy persons would have been appointed.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 9.19.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 9.19.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Vimānasthāna 6.19.
 
-[3]:
 
-Caraka Saṃhitā Nidāna-sthāna 6.17.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Vimānasthāna 6.19.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Nidāna-sthāna 6.12.
 
-[5]:
 
-Suśruta Saṃhitā Uttaratantra 41.3.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Nidāna-sthāna 6.17.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.32.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 26.23.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Nidāna-sthāna 6.12.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Kalpasthāna 1.4-6/1.
 
-[9]:
 
-Suśruta Saṃhitā Kalpasthāna 1.6/2: tasmādvaidyen satataṃ viṣādrak yo narādhipaḥ.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Uttaratantra 41.3.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Kalpasthāna 3.6.
 
-[11]:
 
-S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs” p.13.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Sūtrasthāna 16.32.
+</blockquote>
 
-[12]:
 
-Harṣacarita, p.144.
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 26.23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Kalpasthāna 1.4-6/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Kalpasthāna 1.6/2: tasmādvaidyen satataṃ viṣādrak yo narādhipaḥ.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Kalpasthāna 3.6.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs” p.13.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Harṣacarita, p.144.
+</blockquote>
 
 ---
 
-## 18. The Physician in the Caraka and Suśruta Saṃhitās
+## The Physician in the Caraka and Suśruta Saṃhitās
 
 Charaka Samhita and Sushruta Samhita
 
@@ -129,193 +161,313 @@ While the attributes discussed so far is more in the nature of what is desirable
 
 This is a direct confirmation of the system of registration of medical practitioners which must have existed at the time of compilation of the text. The permission or license to practice must have been given after the aspirant underwent an examination for evaluating his knowledge of the subject at the completion of his studies. Caraka does not mention the necessity of obtaining state permission but does speak of the need to regulate the profession.[44] The necessity of some system of administrative supervision is alluded to and the king is held accountable for the ease and impunity with which the doctors of death (rogāṇāmabhisara) roam in society.[45] This possibly implies that the system of registration of medical practitioners may have not have existed in Caraka’s time but came to be established later. The system of registration is advocated by the author of the Arthaśāstra as the city-superintendent is directed to undertake a census of individuals according to caste, family-name and occupation.[46] The objective of such a practice would be to weed out the quacks, and besides, for the medical practitioners, the receipt of license from the highest authority of the land confers the profession with recognition and respect.
 
-[1]:
 
-For eg., the term bhiṣak occurs in Caraka Saṃhitā Sūtrasthāna 1.122; Caraka Saṃhitā Sūtrasthāna 1.133; vaidya in Caraka Saṃhitā Sūtrasthāna 11.50 and cikitsaka at Suśruta Saṃhitā Cikitsāsthāna 20.42.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> For eg., the term bhiṣak occurs in Caraka Saṃhitā Sūtrasthāna 1.122; Caraka Saṃhitā Sūtrasthāna 1.133; vaidya in Caraka Saṃhitā Sūtrasthāna 11.50 and cikitsaka at Suśruta Saṃhitā Cikitsāsthāna 20.42.
+</blockquote>
 
-[2]:
 
-Monier-Williams, p. 1022.
 
-[3]:
 
-P.V. Sharma, “Medical Data in Epics and Purāṇas” in P.V. Sharma (Ed.), History of Medicine in India (From Antiquity to 1000 A.D.), New Delhi,1992, p. 88.
+<div className="footnote-card"><strong>[2]</strong> Monier-Williams, p. 1022.</div>
 
-[4]:
 
-A.L.Basham, “Practice of Medicine in Ancient India”, in C.M. Leslie, Asian Medical Systems: A Comparative Study, Berkeley and Los Angeles, 1976, p.23.
 
-[5]:
 
-A.L.Basham, “Practice of Medicine in Ancient India”, p. 23.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> P.V. Sharma, “Medical Data in Epics and Purāṇas” in P.V. Sharma (Ed.), History of Medicine in India (From Antiquity to 1000 A.D.), New Delhi,1992, p. 88.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 9.26.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 9.3. bhiṣagdravyāṇyupasthātā rogī pādacatuṣṭyam. guṇavat kāraṇaṃ jñeyaṃ vikaravyupaśāntaye.
+<div className="footnote-card"><strong>[4]</strong> A.L.Basham, “Practice of Medicine in Ancient India”, in C.M. Leslie, Asian Medical Systems: A Comparative Study, Berkeley and Los Angeles, 1976, p.23.</div>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.15/2-16/1. vaidyo vyādysṛṣṭaśca bheṣajaṃ paricārakaḥ. ete pādāścikitsāyāḥkarmasādhanahetavaḥ
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 9.10.
+<div className="footnote-card"><strong>[5]</strong> A.L.Basham, “Practice of Medicine in Ancient India”, p. 23.</div>
 
-[10]:
 
-Caraka Saṃhitā Sūtrasthāna 9.11-12.
 
-[11]:
 
-Caraka Saṃhitā Sūtrasthāna 9.14.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 9.26.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.18/2-19/1.
 
-[13]:
 
-Caraka Saṃhitā Sūtrasthāna 9.6.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 9.3. bhiṣagdravyāṇyupasthātā rogī pādacatuṣṭyam. guṇavat kāraṇaṃ jñeyaṃ vikaravyupaśāntaye.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Sūtrasthāna 9.24.
 
-[15]:
 
-Monier-Williams, p. 607.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 34.15/2-16/1. vaidyo vyādysṛṣṭaśca bheṣajaṃ paricārakaḥ. ete pādāścikitsāyāḥkarmasādhanahetavaḥ
+</blockquote>
 
-[16]:
 
-A.C. Kaviratna, Charaka-Samhita translated into English, Calcutta, 1892, p.403.
 
-[17]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Sūtrasthāna 9.6.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 9.10.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.47.
 
-[19]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.19/2.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Sūtrasthāna 9.11-12.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 4.8.
 
-[21]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.52.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Sūtrasthāna 9.14.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 9.22.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 9.23.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 34.18/2-19/1.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.19/2-21/1.
 
-[25]:
 
-Caraka Saṃhitā Sūtrasthāna 9.18.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Sūtrasthāna 9.6.
+</blockquote>
 
-[26]:
 
-A.C. Kaviratna, Charaka-Samhita, p.403.
 
-[27]:
 
-Caraka Saṃhitā Sūtrasthāna 29.7.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Sūtrasthāna 9.24.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Sūtrasthāna 29.7.
 
-[29]:
 
-Caraka Saṃhitā Sūtrasthāna 29.7.
+<div className="footnote-card"><strong>[15]</strong> Monier-Williams, p. 607.</div>
 
-[30]:
 
-Caraka Saṃhitā Sūtrasthāna 29.7.
 
-[31]:
 
-Caraka Saṃhitā, Vol. I, p.589.
+<div className="footnote-card"><strong>[16]</strong> A.C. Kaviratna, Charaka-Samhita translated into English, Calcutta, 1892, p.403.</div>
 
-[32]:
 
-M.Monier-Williams, p. 853.
 
-[33]:
 
-S.K.R.Rao, Encyclopaedia of Indian Medicine, Vol.2, Bombay: Popular Prakashan, 2005 (reprint), p.223.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Cakrapāṇidatta on Caraka Saṃhitā Sūtrasthāna 9.6.
+</blockquote>
 
-[34]:
 
-Caraka Saṃhitā Sūtrasthāna 11.25.
 
-[35]:
 
-Caraka Saṃhitā Sūtrasthāna 11.17.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 3.47.
+</blockquote>
 
-[36]:
 
-Caraka Saṃhitā Sūtrasthāna 2.16.
 
-[37]:
 
-Caraka Saṃhitā Sūtrasthāna 1.120-121.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Sūtrasthāna 34.19/2.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Sūtrasthāna 1.122.
 
-[39]:
 
-Caraka Saṃhitā Sūtrasthāna 1.123.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 4.8.
+</blockquote>
 
-[40]:
 
-Caraka Saṃhitā Sūtrasthāna 1.126.
 
-[41]:
 
-Caraka Saṃhitā Vimānasthāna 8.16.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.52.
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Śārīrasthāna 1.94/1.
 
-[43]:
 
-Suśruta Saṃhitā Sūtrasthāna 10.3.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 9.22.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Sūtrasthāna 29.8.
 
-[45]:
 
-Caraka Saṃhitā Sūtrasthāna 29.8.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 9.23.
+</blockquote>
 
-[46]:
 
-R.P.Kangle (Ed.), The Kautilya Arthaśāstra: An English Translation with Critical and Explanatory Notes (Part II), Delhi, Reprint 2003, 2.36.3. Hereafter Arthaśāstra
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 34.19/2-21/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Sūtrasthāna 9.18.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> A.C. Kaviratna, Charaka-Samhita, p.403.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Sūtrasthāna 29.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Sūtrasthāna 29.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Sūtrasthāna 29.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Caraka Saṃhitā Sūtrasthāna 29.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Caraka Saṃhitā, Vol. I, p.589.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> M.Monier-Williams, p. 853.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> S.K.R.Rao, Encyclopaedia of Indian Medicine, Vol.2, Bombay: Popular Prakashan, 2005 (reprint), p.223.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Caraka Saṃhitā Sūtrasthāna 11.25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Sūtrasthāna 11.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Sūtrasthāna 2.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Sūtrasthāna 1.120-121.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Sūtrasthāna 1.122.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Caraka Saṃhitā Sūtrasthāna 1.123.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka Saṃhitā Sūtrasthāna 1.126.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Vimānasthāna 8.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Śārīrasthāna 1.94/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Suśruta Saṃhitā Sūtrasthāna 10.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Sūtrasthāna 29.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Sūtrasthāna 29.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> R.P.Kangle (Ed.), The Kautilya Arthaśāstra: An English Translation with Critical and Explanatory Notes (Part II), Delhi, Reprint 2003, 2.36.3. Hereafter Arthaśāstra
+</blockquote>
 
 ---
 
-## 19. Superintendent of the Royal Kitchen
+## Superintendent of the Royal Kitchen
 
 Charaka Samhita and Sushruta Samhita
 
@@ -331,8 +483,6 @@ The Arthaśāstra, however, makes no reference to the physician attached to the 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -340,10 +490,6 @@ The Arthaśāstra, however, makes no reference to the physician attached to the 
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Quackery: The “Fraudulent” Medical Practitioners: Charaka Samhita And Sushruta Samhita Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

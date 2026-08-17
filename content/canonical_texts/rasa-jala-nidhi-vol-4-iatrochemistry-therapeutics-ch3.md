@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Directions to be followed in nava-jvara within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. Part 6 - Directions to be followed in nava-jvara
+## Part 6 - Directions to be followed in nava-jvara
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -41,7 +41,7 @@ This concludes ‘Directions to be followed in nava-jvara’ included in Bhudeb 
 
 ---
 
-## 32. Part 7 - Fasting in nava-jvara
+## Part 7 - Fasting in nava-jvara
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -67,7 +67,7 @@ This concludes ‘Fasting in nava-jvara’ included in Bhudeb Mookerjee Rasa Jal
 
 ---
 
-## 33. Part 4 - Ksaya-jvara or Shosha-jvara (fever due to consumption)
+## Part 4 - Ksaya-jvara or Shosha-jvara (fever due to consumption)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -85,7 +85,7 @@ This concludes ‘Ksaya-jvara or Shosha-jvara (fever due to consumption)’ incl
 
 ---
 
-## 34. Part 8 - Directions for using water
+## Part 8 - Directions for using water
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -121,7 +121,7 @@ This concludes ‘Directions for using water’ included in Bhudeb Mookerjee Ras
 
 ---
 
-## 35. Part 9 - Diet in nava-jvara
+## Part 9 - Diet in nava-jvara
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -147,7 +147,7 @@ This concludes ‘Diet in nava-jvara’ included in Bhudeb Mookerjee Rasa Jala N
 
 ---
 
-## 36. Part 10 - Things beneficial in chronic fever
+## Part 10 - Things beneficial in chronic fever
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -165,7 +165,7 @@ This concludes ‘Things beneficial in chronic fever’ included in Bhudeb Mooke
 
 ---
 
-## 37. Part 11 - Things and actions harmful in fever
+## Part 11 - Things and actions harmful in fever
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -185,7 +185,7 @@ This concludes ‘Things and actions harmful in fever’ included in Bhudeb Mook
 
 ---
 
-## 38. Part 12 - Iatro chemical medicines applicable in fever
+## Part 12 - Iatro chemical medicines applicable in fever
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -203,7 +203,7 @@ This concludes ‘Iatro chemical medicines applicable in fever’ included in Bh
 
 ---
 
-## 39. Treatment for fever (2): Ishana-sundara rasa
+## Treatment for fever (2): Ishana-sundara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -221,7 +221,7 @@ This concludes ‘Treatment for fever (2): Ishana-sundara rasa’ included in Bh
 
 ---
 
-## 40. Treatment for fever (3): Meghanada rasa
+## Treatment for fever (3): Meghanada rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -239,7 +239,7 @@ This concludes ‘Treatment for fever (3): Meghanada rasa’ included in Bhudeb 
 
 ---
 
-## 41. Treatment for fever (4): Jvara-gajahari rasa
+## Treatment for fever (4): Jvara-gajahari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -257,7 +257,7 @@ This concludes ‘Treatment for fever (4): Jvara-gajahari rasa’ included in Bh
 
 ---
 
-## 42. Treatment for fever (5): Shita-bhanji rasa
+## Treatment for fever (5): Shita-bhanji rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -275,7 +275,7 @@ This concludes ‘Treatment for fever (5): Shita-bhanji rasa’ included in Bhud
 
 ---
 
-## 43. Treatment for fever (1): Shiva-durga rasa
+## Treatment for fever (1): Shiva-durga rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -293,7 +293,7 @@ This concludes ‘Treatment for fever (1): Shiva-durga rasa’ included in Bhude
 
 ---
 
-## 44. Treatment for fever (6): Vriddha-jvarankusha rasa
+## Treatment for fever (6): Vriddha-jvarankusha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -311,7 +311,7 @@ This concludes ‘Treatment for fever (6): Vriddha-jvarankusha rasa’ included 
 
 ---
 
-## 45. Treatment for fever (7): Mrityunjaya rasa
+## Treatment for fever (7): Mrityunjaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -329,8 +329,6 @@ This concludes ‘Treatment for fever (7): Mrityunjaya rasa’ included in Bhude
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -338,10 +336,6 @@ This concludes ‘Treatment for fever (7): Mrityunjaya rasa’ included in Bhude
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (8): Brihat-jvarankusha rasa: Rasa Jala Nidhi Volume 4 Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

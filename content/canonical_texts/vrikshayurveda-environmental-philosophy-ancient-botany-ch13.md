@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. The Importance of Trees and Plants within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. 2. The Importance of Trees and Plants
+## 2. The Importance of Trees and Plants
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -29,7 +29,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-## 34. 6. Environmental Values reflected in the Puranas
+## 6. Environmental Values reflected in the Puranas
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -43,8 +43,6 @@ In Bhagavatapurana Srikrishna praises the trees of Vrindavan. He praises them to
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -52,10 +50,6 @@ In Bhagavatapurana Srikrishna praises the trees of Vrindavan. He praises them to
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">5. Environmental Values reflected in Vedas: Vrikshayurveda and Environmental Philosophy Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

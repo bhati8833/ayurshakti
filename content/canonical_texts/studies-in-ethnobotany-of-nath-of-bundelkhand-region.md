@@ -13,37 +13,35 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 1](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch1)
+### [General Discourse: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 1](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
 
-### 2. [Social condition of Nath: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 2](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch2)
+### [Social condition of Nath: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 2](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch2)
 **Overview**: Detailed classical discussion on Social condition of Nath within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
 
-### 3. [Material and Method: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 3](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch3)
+### [Material and Method: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 3](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch3)
 **Overview**: Detailed classical discussion on Material and Method within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
 
-### 4. [Historical Review (of ‘Nath’—Bundelkhand): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 4](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch4)
+### [Historical Review (of ‘Nath’—Bundelkhand): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 4](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch4)
 **Overview**: Detailed classical discussion on Historical Review (of ‘Nath’—Bundelkhand) within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
 
-### 5. [Discussion (use of plants among tribal society): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 5](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch5)
+### [Discussion (use of plants among tribal society): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 5](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch5)
 **Overview**: Detailed classical discussion on Discussion (use of plants among tribal society) within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
 
-### 6. [Bibliography: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 6](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch6)
+### [Bibliography: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 6](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch6)
 **Overview**: Detailed classical discussion on Bibliography within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
 
-### 7. [Summary: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 7](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch7)
+### [Summary: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 7](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch7)
 **Overview**: Detailed classical discussion on Summary within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
 
-### 8. [Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 8](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch8)
+### [Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 8](/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch8)
 **Overview**: Detailed classical discussion on Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe) within Studies In Ethnobotany Of Nath Of Bundelkhand Region.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 2. Preface
+## Preface
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -55,7 +53,7 @@ This thesis summarises the results of 4 years of studies on the ethnobotany of '
 
 ---
 
-## 3. Chapter 1 - General Introduction
+## Chapter 1 - General Introduction
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -73,7 +71,7 @@ The Indian subcontinent represents one of the greatest emporia of ethnobotanical
 
 ---
 
-## 4. Acknowledgements
+## Acknowledgements
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -87,7 +85,7 @@ I am under the onus of obligation of and my sincerest and heart-felt thank due t
 
 ---
 
-## 10. Plates
+## Plates
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 

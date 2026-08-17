@@ -192,6 +192,10 @@ The common example of an Arthāpatti (presumption) in Sanskrit philosophy is ‘
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 Udāharana has been recognised here as a technical term. But it should not have been recognised as such, since it has not been included in the list (see para 2). Had it been so, the number would have been 33 and not 32. Dallana prefers to regard the portion “yathoṣṇabhayāt” etc. as an interpolation and adding a “va” after the sentence “loke prathitamudāharaṇam” takes if in continuation of the example of “khasaṃjñā” in the previous para. His meaning is that the word “mithuna” being not found in the sense referred to in para. 30, the reader is asked to find out a popular example.
+</blockquote>
+
 
 ---

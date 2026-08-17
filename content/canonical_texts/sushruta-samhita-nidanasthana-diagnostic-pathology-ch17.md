@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of diseases of mouth within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. Chapter XVI - Diagnosis of diseases of mouth
+## Chapter XVI - Diagnosis of diseases of mouth
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -321,25 +321,25 @@ Thus ends the sixteenth Chapter of the Nidana Sthana in the Sushruta Samhita whi
 
 Here ends the Nidana Sthana.
 
-[1]:
 
-According to others sixty-seven—but Dalian does not support this.
+<div className="footnote-card"><strong>[1]</strong> According to others sixty-seven—but Dalian does not support this.</div>
 
-[2]:
 
-The reading Sadhya (curable) which is to be met with in the several printed editions of Madhab’s Nidana in lieu of the reading Asadhya (incurable) is not to our mind correct.
 
-[3]:
 
-The diseases of the throat are 17 in number. Taking Vrinda as a separate disease they amount to 18; but Vrinda, affecting similar place and being similar in appearance with but a slight distinction of symptoms, is only a particular state of Eka-vrinda, and not a separate disease.
+<div className="footnote-card"><strong>[2]</strong> The reading Sadhya (curable) which is to be met with in the several printed editions of Madhab’s Nidana in lieu of the reading Asadhya (incurable) is not to our mind correct.</div>
 
-[4]:
 
-Sataghni is a kind of weapon used in andient warfare.
+
+
+<div className="footnote-card"><strong>[3]</strong> The diseases of the throat are 17 in number. Taking Vrinda as a separate disease they amount to 18; but Vrinda, affecting similar place and being similar in appearance with but a slight distinction of symptoms, is only a particular state of Eka-vrinda, and not a separate disease.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Sataghni is a kind of weapon used in andient warfare.</div>
 
 ---
-
-
 
 ---
 
@@ -348,10 +348,6 @@ Sataghni is a kind of weapon used in andient warfare.
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -58,7 +58,11 @@ Sites
 
 Etiology
 
+
+<blockquote className="ayur-shloka">
 16-21. The following are the causative factors of the spreading affections [visarpa]: excessive indulgence in saline, acid, pungent and hot tastes as also in sour curds, whey, vinegarsand in Sura and Sauviraka wines; the use of stale or strong liquor or heat-inducing condiments and confectionary; the use of irritating vegetables and greens, cheese, inspissated milk and immature curds; the use of such fermented wines as Shandaki [śāṇḍāki], as also of pastries made of sesamum, black gram and horse gram and of oils, the use of the flesh of domesticated, wet-land and aquatic animals and of garlic; the use of food-stuffs that have gone soft or that are not homologous to one’s system or are mutually incompatible; overeating; sleeping during the day, predigestion-meals, eating on a loaded stomach; wounds, injuries inflicted by blows, ligatures or falls; over-exposure to sun, over-strain and poisonous gases or burns.
+</blockquote>
+
 
 22. By combinations of the above-mentioned etiological factors, the Vata and the other two humors, getting provoked, affect the susceptible bodyelements such as blood etc., and spread in the whole body of persons who are given to unwholesome eating.
 

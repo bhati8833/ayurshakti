@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on (c) The Bhesajjakkhandhaka (Chapters on Medicine) within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. (c) The Bhesajjakkhandhaka (Chapters on Medicine)
+## (c) The Bhesajjakkhandhaka (Chapters on Medicine)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -43,33 +43,45 @@ The main subject of the Chapter on Medicine is in relation to the matters on med
 
 The contents of different versions of the Chapter on Medicine are generally consistent with each other, with three special remarks to be noted: (i) the Mahīśāsaka version is divided into two separate parts: one on medicine and another on food; (ii) the Mūlasarvāstivāda version, though the data on medicine and food are similar to those of other versions, is much bulkier than the others, due to the inclusion of a lot of narratives of avadāna (biographies of monks/nuns) and jātaka (tales of previous births of the Buddha); (iii) the Mahāsāṃghika version has no separate chapter, but the contents on medicines/food are scattered in the Varga text.[6]
 
-[1]:
 
-The contents on food are put as another topic section Shi fa (Āhāradharmaka) in the Mahīśāsaka Vinaya (Taishō Tripiṭaka 1421. 147c28-153a17).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The contents on food are put as another topic section Shi fa (Āhāradharmaka) in the Mahīśāsaka Vinaya (Taishō Tripiṭaka 1421. 147c28-153a17).
+</blockquote>
 
-[2]:
 
-According to Hirakawa (1960, 622-623), there should be twenty fascicles for the Chinese version of the Bhaiṣajyavastu, but there are only eighteen fascicles available. Two fascicles have been lost.
 
-[3]:
 
-This manuscript has preserved most of the Bhaiṣajyavastu. There are some pieces lost and hence this copy is not complete.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> According to Hirakawa (1960, 622-623), there should be twenty fascicles for the Chinese version of the Bhaiṣajyavastu, but there are only eighteen fascicles available. Two fascicles have been lost.
+</blockquote>
 
-[4]:
 
-The second stage includes the following few sections concerning the correctness of procedures dealing with monastic matters and the relevant punishments, and the third stage relates to the subsequent chapters, including the appended accounts of the two Councils. See the cited reference for the details.
 
-[5]:
 
-For a more detailed outline of the contents of the Chapter on Medicine, see Banerjee 1957, 198-206; Hirakawa 1960, 598 ff.; Yinshun 2002, 303 ff.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> This manuscript has preserved most of the Bhaiṣajyavastu. There are some pieces lost and hence this copy is not complete.
+</blockquote>
 
-[6]:
 
-A comparative table listing the items of various sections (including the Chapter on Medicine) of the Theravāda, the Mahīśāsaka, the Dharmaguptaka, and the Sarvāstivāda Skandhakas is found at the appendices of Volume 5 of Nanden Daizōkyō 南傳大藏經 (Theravāda Buddhist Canon), the Japanese translation of the Pāli canon.
+
+
+<div className="footnote-card"><strong>[4]</strong> The second stage includes the following few sections concerning the correctness of procedures dealing with monastic matters and the relevant punishments, and the third stage relates to the subsequent chapters, including the appended accounts of the two Councils. See the cited reference for the details.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> For a more detailed outline of the contents of the Chapter on Medicine, see Banerjee 1957, 198-206; Hirakawa 1960, 598 ff.; Yinshun 2002, 303 ff.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> A comparative table listing the items of various sections (including the Chapter on Medicine) of the Theravāda, the Mahīśāsaka, the Dharmaguptaka, and the Sarvāstivāda Skandhakas is found at the appendices of Volume 5 of Nanden Daizōkyō 南傳大藏經 (Theravāda Buddhist Canon), the Japanese translation of the Pāli canon.
+</blockquote>
 
 ---
 
-## 17. The Vinaya Piṭaka, Skandhaka, and Bhesajjakkhandhaka
+## The Vinaya Piṭaka, Skandhaka, and Bhesajjakkhandhaka
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -107,13 +119,14 @@ The Chapter on Medicine deals with two major areas: medicines and food/drink. It
 
 In the next section, a brief history of Āyurveda and its basic principles will be outlined, so that the readers can equip themselves with some fundamental Āyurvedic knowledge before reading the discussion and interpretation in Chapters Four and Five, which deal with medicinal drugs and diseases/treatments respectively.
 
-[1]:
 
-The other two divisions are the Sūtra Piṭaka (“Basket of the Discourses”) and the Abhidharma Piṭaka (“Basket of the Higher Analytic Doctrines”), though the latter is believed to be later addition than the other two parts. That is, the Sūtra Piṭaka and the Vinaya Piṭaka are early components in Buddhist literature.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The other two divisions are the Sūtra Piṭaka (“Basket of the Discourses”) and the Abhidharma Piṭaka (“Basket of the Higher Analytic Doctrines”), though the latter is believed to be later addition than the other two parts. That is, the Sūtra Piṭaka and the Vinaya Piṭaka are early components in Buddhist literature.
+</blockquote>
 
 ---
 
-## 18. (a) The Vinaya Piṭaka
+## (a) The Vinaya Piṭaka
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -177,89 +190,131 @@ The followings are brief descriptions of the six extant Vinaya Piṭakas:[15]
 
 6. The Mūlasarvāstivāda Vinaya Piṭaka, a voluminous Vinaya which was finished quite late, has been preserved in quite substantial Sanskrit fragments, as well as in Chinese and Tibetan translations. The Sanskrit fragments, mostly found in Gilgit and some in Bamiyan (discovered in 1931 and 1932 respectively) (Hirakawa 1960, 95), cover the Bhikṣu-prātimokṣa and large parts of the Vinayavastu. The Chinese version of this Vinaya (Taishō Tripiṭaka 1442-1451 of the Chinese canon) is partial. It was translated by Yijing 義淨 in 703-713 Common Era (Yamagiwa 1994, 105). The possibly whole version[18] was translated into Tibetan in the ninth century by several Indian scholars and translators such as Sarvajñadeva, Vidyākaraprabha, Dharmākara, Jinamitra, Klu’i rgyal-mtshan, Dpal-gyi lhunpo, Dpal brtsegs, Dpal’byor, etc. (Banerjee 1957, 80). This Vinaya consist of five components:[19] (i) the Prātimokṣa sūtra and the Vinayavibhaṅga of the bhikṣus, (ii) the Prātimokṣa sūtra and the Vinayavibhaṅga of the bhikṣuṇīs, (iii) the Vinayavastu, (iv) the Vinayakṣudrakavastu, and (v) the Vinayottaragrantha.[20] This Vinaya, as Yamagiwa (1994, 105) describes, is characterised by plenty of narrative material (avadāna and jātaka tales).
 
-[1]:
 
-The first letter of this term “vinaya” will be capitalised when the term refers to the Buddhist texts; otherwise it will be in small letter when the term is used to mean monastic rules.
+<div className="footnote-card"><strong>[1]</strong> The first letter of this term “vinaya” will be capitalised when the term refers to the Buddhist texts; otherwise it will be in small letter when the term is used to mean monastic rules.</div>
 
-[2]:
 
-These meanings are quoted from Pali-English Dictionary, s.v. “vinaya”. See also Witanachchi 2009a, 643-644 for elaborations.
 
-[3]:
 
-The decline in the discipline of the monastic members, according to Dhammavihāri (2009, 634), could have been due to the increase in personal gains, popularity, and strength in numbers.
+<div className="footnote-card"><strong>[2]</strong> These meanings are quoted from Pali-English Dictionary, s.v. “vinaya”. See also Witanachchi 2009a, 643-644 for elaborations.</div>
 
-[4]:
 
-The translation of these terms is mine. Similar lists of the ten benefits are also found in other VPs. See these lists in Yinshun 2002, 197-199.
 
-[5]:
 
-Arhat (Pāli: arahant) literally means a worthy one. It refers to a saint who has fully realised the Four Noble Truths and has achieved the highest spiritual attainment of nirvāṇa.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> The decline in the discipline of the monastic members, according to Dhammavihāri (2009, 634), could have been due to the increase in personal gains, popularity, and strength in numbers.
+</blockquote>
 
-[6]:
 
-The above brief account on the compilation of the Vinaya Piṭaka at the First Council has material synthesised from various scholars’ works. See Dhammajoti 2008: xii;Dhammavihari 2009, 633; Geiger 2004, 9-11; Lamotte 1988, 171; Misra 1972, 12;Nietupski 2005, 1259-1260; von Hinüber 1995, 15; Witanachchi 2009b, 651;Yamagiwa 1994, 102; Yinshun 2002, 3 (of prefix), 19, 24. It is not within the scope of this study to examine the origin and development of the Buddhist canon or the Vinaya Piṭaka. For the detailed (and complex) arguments on the gradual development of the original Buddhist canon or of the Vinaya Piṭaka, see Dhirasekera 2007, 22 ff.; Hirakawa 1960, 5 ff.; Holt 1995, 29-46; Law 2000, 29-66; Oldenberg 1997, ix ff.; Rhys Davids 2007, 109-126; Yinshun 2002. Another important piece of supporting evidence for the continuing collection (and authentication of the materials) into the canonical literature is the Four Great Instructions (Pāli: mahāpadesa; Chinese: 四大廣說, 四大廣演, 四大教法, 四大處, 四廣大說, 四大印) laid down by the Buddha. These four instructions form the four-fold criterion used for the acceptance of the heard materials as real teachings, and hence for the later process of continuous compilation and authentication of the newly collected materials. This criterion relates to that any teaching, either heard from the Buddha, from the saṅgha, from many monks, or from one monk, should be checked with the teachings in the discourses and disciplinary texts. If it conforms to such teachings, it can be regarded as authentic instruction and can be included into the teachings (Dīgha Nikāya II. 123-126; Aṅguttara Nikāya II. 167-170; Dhammajoti 2008, xiv-xvi; Yinshun 2002, 22-24).
 
-[7]:
 
-A good number of scholars hold or accept this idea. For their arguments, see Hirakawa 1960, 60; Holt 1995, 35-36; Law 2000, 66; Misra 1972, 12-14; Oldenberg 1997, xv-xvii, xxxvii-xxxviii; Prebish 1975, 51; Rhys Davids 2002, vii-ix;2007, 109-126; Yamagiwa 1994, 102; Yinshun 2010, 312.
+<div className="footnote-card"><strong>[4]</strong> The translation of these terms is mine. Similar lists of the ten benefits are also found in other VPs. See these lists in Yinshun 2002, 197-199.</div>
 
-[8]:
 
-The chief cause for the Second Council was due to the dispute about the acceptance of money donation by some monks in Vaiśālī, but some accounts mention nine more minute matters concerning food and drink, seats, procedure for communal meetings, and conduct (Warder 2000, 203).
 
-[9]:
 
-Buddhism in India, from the onset of the first schism, entered the Nikāya or Sectarian period (Hirakawa 1993, 2). According to Hirakawa (1993, 7), Indian Buddhism may be divided into five periods based on the chronological order as well as a categorisation of types of Buddhism. They are Early Buddhism, Nikāya or Sectarian Buddhism, early Mahāyāna Buddhism, later Mahāyāna Buddhism, and Esoteric Buddhism.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Arhat (Pāli: arahant) literally means a worthy one. It refers to a saint who has fully realised the Four Noble Truths and has achieved the highest spiritual attainment of nirvāṇa.
+</blockquote>
 
-[10]:
 
-Causes and dates for the first schism and subsequent schisms in the history of Indian Buddhism are not conclusive because the accounts on these events are so contradictory. For discussions on the causes and dates of the schisms, see Hirakawa 1993, 79-83; Lamotte 1988, 517 ff.; Warder 2000, 206-212.
 
-[11]:
 
-Apart from the six VPs that are extant (which will be described below), there are Vinaya texts such as the Prātimokṣa Sūtras in original Sanskrit, Haimavata Vinayamātṛka in Chinese, Kāśyapīya Bhikṣuprātimokṣa in Chinese, Saṃmitīya commentary on Bhikṣuprātimokṣa in Chinese, and so on (Anlayo 2009, 647-648).
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The above brief account on the compilation of the Vinaya Piṭaka at the First Council has material synthesised from various scholars’ works. See Dhammajoti 2008: xii;Dhammavihari 2009, 633; Geiger 2004, 9-11; Lamotte 1988, 171; Misra 1972, 12;Nietupski 2005, 1259-1260; von Hinüber 1995, 15; Witanachchi 2009b, 651;Yamagiwa 1994, 102; Yinshun 2002, 3 (of prefix), 19, 24. It is not within the scope of this study to examine the origin and development of the Buddhist canon or the Vinaya Piṭaka. For the detailed (and complex) arguments on the gradual development of the original Buddhist canon or of the Vinaya Piṭaka, see Dhirasekera 2007, 22 ff.; Hirakawa 1960, 5 ff.; Holt 1995, 29-46; Law 2000, 29-66; Oldenberg 1997, ix ff.; Rhys Davids 2007, 109-126; Yinshun 2002. Another important piece of supporting evidence for the continuing collection (and authentication of the materials) into the canonical literature is the Four Great Instructions (Pāli: mahāpadesa; Chinese: 四大廣說, 四大廣演, 四大教法, 四大處, 四廣大說, 四大印) laid down by the Buddha. These four instructions form the four-fold criterion used for the acceptance of the heard materials as real teachings, and hence for the later process of continuous compilation and authentication of the newly collected materials. This criterion relates to that any teaching, either heard from the Buddha, from the saṅgha, from many monks, or from one monk, should be checked with the teachings in the discourses and disciplinary texts. If it conforms to such teachings, it can be regarded as authentic instruction and can be included into the teachings (Dīgha Nikāya II. 123-126; Aṅguttara Nikāya II. 167-170; Dhammajoti 2008, xiv-xvi; Yinshun 2002, 22-24).
+</blockquote>
 
-[12]:
 
-Lamotte (1988, 165) reveals that the completion of compilations of the VPs could have been as late as in the second century Common Era, because there are data much later than the time of the Buddha, such as the record of prediction concerning the stupa of Kaniṣka (floruit first to second century Common Era).
 
-[13]:
 
-Examples of scholars pointing out the similarity of the extant VPs and suggesting a possible common origin are Dhirasekera (2007, 32-33), Hirakawa (1960, 51, 593), and Schopen (2004, 887888).
+<div className="footnote-card"><strong>[7]</strong> A good number of scholars hold or accept this idea. For their arguments, see Hirakawa 1960, 60; Holt 1995, 35-36; Law 2000, 66; Misra 1972, 12-14; Oldenberg 1997, xv-xvii, xxxvii-xxxviii; Prebish 1975, 51; Rhys Davids 2002, vii-ix;2007, 109-126; Yamagiwa 1994, 102; Yinshun 2010, 312.</div>
 
-[14]:
 
-It is not certain whether the Tibetan version of the Mūlasarvāstivāda Vinaya Piṭaka is whole or not. According to Yinshun (2002, 73), one text, which exists in the Chinese version but is missing in the Tibetan version, is the Nidānamatṛkā (Taishō Tripiṭaka 1452, Genben shuoyiqieyoubu nituona mudeqie 根本說一切有部 尼陀那目得迦 (Mūlasarvāstivāda-vinaya Nidānamātṛkā)). But Prebish (1994, 105-106) mentions it as a non-canonical Vinaya commentary. If it was originally part of the Vinaya Piṭaka, then the Tibetan version is not whole. Schopen (2004, 887) and Yamagiwa (1994, 105) cannot express with certainty when mentioning the entirety (or not) of the Tibetan version of this Vinaya.
 
-[15]:
 
-The material here is mainly based on the writings of Anālayo (2009, 647-648), Heirman (2007, 175-179); Lamotte (1998, 167-171), and Yinshun (2002, 67-82).
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> The chief cause for the Second Council was due to the dispute about the acceptance of money donation by some monks in Vaiśālī, but some accounts mention nine more minute matters concerning food and drink, seats, procedure for communal meetings, and conduct (Warder 2000, 203).
+</blockquote>
 
-[16]:
 
-According to Hirakawa, this event is recorded in the Mahāvaṃsa and the Dīpavaṃsa (1960, 103n4).
 
-[17]:
 
-According to Yinshun (2002, 252), the Mahāsāṃghika Skandhaka section is actually the Vinayamātṛkā (the matrix of the Vinaya), the precursor of the Skandhaka.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Buddhism in India, from the onset of the first schism, entered the Nikāya or Sectarian period (Hirakawa 1993, 2). According to Hirakawa (1993, 7), Indian Buddhism may be divided into five periods based on the chronological order as well as a categorisation of types of Buddhism. They are Early Buddhism, Nikāya or Sectarian Buddhism, early Mahāyāna Buddhism, later Mahāyāna Buddhism, and Esoteric Buddhism.
+</blockquote>
 
-[18]:
 
-See the above footnote 32.
 
-[19]:
 
-The exact sequence of different sections in this Vinaya Piṭaka is not known, since the Chinese translation is not complete and the organisation of component texts in the Tibetan canon is different from the Chinese recension. Moreover, according to Yinshun’s analysis (2002, 76), the structure of this Vinaya Piṭaka is close to that of the Sarvstivda Vinaya.
+<div className="footnote-card"><strong>[10]</strong> Causes and dates for the first schism and subsequent schisms in the history of Indian Buddhism are not conclusive because the accounts on these events are so contradictory. For discussions on the causes and dates of the schisms, see Hirakawa 1993, 79-83; Lamotte 1988, 517 ff.; Warder 2000, 206-212.</div>
 
-[20]:
 
-Only the Tibetan version of the Uttaragrantha is present (i.e. there is no Chinese or Sanskrit version), and there are two texts for it–’dul-ba gzhung bla-ma and ’dul-ba gzhung dam-pa (Anālayo 2009, 648;Prebish 1994, 98-99). According to Lamotte (1988, 170), this text also includes the Upāliparipṛcchā.
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Apart from the six VPs that are extant (which will be described below), there are Vinaya texts such as the Prātimokṣa Sūtras in original Sanskrit, Haimavata Vinayamātṛka in Chinese, Kāśyapīya Bhikṣuprātimokṣa in Chinese, Saṃmitīya commentary on Bhikṣuprātimokṣa in Chinese, and so on (Anlayo 2009, 647-648).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Lamotte (1988, 165) reveals that the completion of compilations of the VPs could have been as late as in the second century Common Era, because there are data much later than the time of the Buddha, such as the record of prediction concerning the stupa of Kaniṣka (floruit first to second century Common Era).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Examples of scholars pointing out the similarity of the extant VPs and suggesting a possible common origin are Dhirasekera (2007, 32-33), Hirakawa (1960, 51, 593), and Schopen (2004, 887888).</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> It is not certain whether the Tibetan version of the Mūlasarvāstivāda Vinaya Piṭaka is whole or not. According to Yinshun (2002, 73), one text, which exists in the Chinese version but is missing in the Tibetan version, is the Nidānamatṛkā (Taishō Tripiṭaka 1452, Genben shuoyiqieyoubu nituona mudeqie 根本說一切有部 尼陀那目得迦 (Mūlasarvāstivāda-vinaya Nidānamātṛkā)). But Prebish (1994, 105-106) mentions it as a non-canonical Vinaya commentary. If it was originally part of the Vinaya Piṭaka, then the Tibetan version is not whole. Schopen (2004, 887) and Yamagiwa (1994, 105) cannot express with certainty when mentioning the entirety (or not) of the Tibetan version of this Vinaya.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> The material here is mainly based on the writings of Anālayo (2009, 647-648), Heirman (2007, 175-179); Lamotte (1998, 167-171), and Yinshun (2002, 67-82).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> According to Hirakawa, this event is recorded in the Mahāvaṃsa and the Dīpavaṃsa (1960, 103n4).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> According to Yinshun (2002, 252), the Mahāsāṃghika Skandhaka section is actually the Vinayamātṛkā (the matrix of the Vinaya), the precursor of the Skandhaka.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> See the above footnote 32.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> The exact sequence of different sections in this Vinaya Piṭaka is not known, since the Chinese translation is not complete and the organisation of component texts in the Tibetan canon is different from the Chinese recension. Moreover, according to Yinshun’s analysis (2002, 76), the structure of this Vinaya Piṭaka is close to that of the Sarvstivda Vinaya.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Only the Tibetan version of the Uttaragrantha is present (i.e. there is no Chinese or Sanskrit version), and there are two texts for it–’dul-ba gzhung bla-ma and ’dul-ba gzhung dam-pa (Anālayo 2009, 648;Prebish 1994, 98-99). According to Lamotte (1988, 170), this text also includes the Upāliparipṛcchā.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -268,10 +323,6 @@ Only the Tibetan version of the Uttaragrantha is present (i.e. there is no Chine
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Āyurveda–Brief History and Basic Principles: Bhesajjakkhandhaka Chapter On Medicine Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

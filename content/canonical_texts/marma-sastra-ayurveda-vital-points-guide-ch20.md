@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Manibandha or Gulpha Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 67. Study of Manibandha or Gulpha Marma
+## Study of Manibandha or Gulpha Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -33,7 +33,7 @@ Tamil varma sastra In Tamil also this is named as Manipantha varma. This varma i
 
 ---
 
-## 68. Study of Kurpara or Janu Marma
+## Study of Kurpara or Janu Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -49,7 +49,7 @@ Anatomical Structures corresponding to this marma ☐ Contents of Cubital Fossa 
 
 ---
 
-## 69. Study of Kaksadhara or Vitapa Marma
+## Study of Kaksadhara or Vitapa Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -71,8 +71,6 @@ Odukku Valippan are three in number. The position of this marma is in the middle
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +78,6 @@ Odukku Valippan are three in number. The position of this marma is in the middle
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Bahvi or Urvi Marma: Marma Sastra and Ayurvedic Science Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

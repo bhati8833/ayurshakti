@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The diseases of the urinary tracts within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. Chapter XI - The diseases of the urinary tracts
+## Chapter XI - The diseases of the urinary tracts
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -85,61 +85,72 @@ A poor patient, carefully following these directions of his medical advisers wit
 
 Thus ends the eleventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Prameha.
 
-[1]:
 
-Made of sugar, lemon-juice, or fermented rice-gruel bojled together.
+<div className="footnote-card"><strong>[1]</strong> Made of sugar, lemon-juice, or fermented rice-gruel bojled together.</div>
 
-[2]:
 
-The patient should be anointed with the medicated clarified butter in a case of Pittaja-meha.
 
-[3]:
 
-Emetics in cases of Kaphaja-meha and purgatives in those of Pittaja-meha, should be applied.
+<div className="footnote-card"><strong>[2]</strong> The patient should be anointed with the medicated clarified butter in a case of Pittaja-meha.</div>
 
-[4]:
 
-This is also found in Charaka and has been quoted by Chakradatta in his compilation.
 
-[5]:
 
-This is quoted by Chakradatta but he reads “darunisha” in place of “devadaru” and does not mention the use of the expressed juice of Amalaka. The practice, however, is to follow the recipe of Chakradatta.
+<div className="footnote-card"><strong>[3]</strong> Emetics in cases of Kaphaja-meha and purgatives in those of Pittaja-meha, should be applied.</div>
 
-[6]:
 
-The third Yoga of the text is also quoted by Chakradatta but no addition of Haridra powder is prescribed there. Chakradatta is more generally followed in the case.
 
-[7]:
 
-The fourth Yoga of the text is found also in Charaka although with some variation. Charaka adds the flowers of Kampilla and Shala in the list, but does not recommend the use of Haridra powder nor of the expressed juice of Amalaki as the medium of taking the medicine. Charaka, however, is quoted verbatim by Chakradatta and is followed in practical use.
+<div className="footnote-card"><strong>[4]</strong> This is also found in Charaka and has been quoted by Chakradatta in his compilation.</div>
 
-[8]:
 
-Honey should be added to all of these decoctions prescribed in cases Pittaja-meha.—Dallana.
 
-[9]:
 
-Honey should also be added to these decoctions prescribed in cases of Vatja Meha—Dallana.
+<div className="footnote-card"><strong>[5]</strong> This is quoted by Chakradatta but he reads “darunisha” in place of “devadaru” and does not mention the use of the expressed juice of Amalaka. The practice, however, is to follow the recipe of Chakradatta.</div>
 
-[10]:
 
-Jejjata interprets it as grape-wine, but Gayadasa does not support this view.
 
-[11]:
 
-Some read “shakaiḥ” i.e., potherb (of mustard) in place of “ragaiḥ”
+<div className="footnote-card"><strong>[6]</strong> The third Yoga of the text is also quoted by Chakradatta but no addition of Haridra powder is prescribed there. Chakradatta is more generally followed in the case.</div>
 
-[12]:
 
-A Yojana is equal to eight miles.
 
-[13]:
 
-Some explain the phrase “brahmarathamupadharayet” to mean that he should retain in his memory (the teachings of) the Vedas..—Dallana.
+<div className="footnote-card"><strong>[7]</strong> The fourth Yoga of the text is found also in Charaka although with some variation. Charaka adds the flowers of Kampilla and Shala in the list, but does not recommend the use of Haridra powder nor of the expressed juice of Amalaki as the medium of taking the medicine. Charaka, however, is quoted verbatim by Chakradatta and is followed in practical use.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Honey should be added to all of these decoctions prescribed in cases Pittaja-meha.—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Honey should also be added to these decoctions prescribed in cases of Vatja Meha—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Jejjata interprets it as grape-wine, but Gayadasa does not support this view.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Some read “shakaiḥ” i.e., potherb (of mustard) in place of “ragaiḥ”
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> A Yojana is equal to eight miles.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Some explain the phrase “brahmarathamupadharayet” to mean that he should retain in his memory (the teachings of) the Vedas..—Dallana.</div>
 
 ---
-
-
 
 ---
 
@@ -148,10 +159,6 @@ Some explain the phrase “brahmarathamupadharayet” to mean that he should ret
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of abscesses sequeling Prameha: Sushruta Samhita Cikitsasthana Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

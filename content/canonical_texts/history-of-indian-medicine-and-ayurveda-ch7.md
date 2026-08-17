@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Qualities of the Teacher within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Chapter 8 - Qualities of the Teacher
+## Chapter 8 - Qualities of the Teacher
 
 History of Indian Medicine (and Ayurveda)
 
@@ -75,7 +75,7 @@ Avyāvṛtta—Of undistracted mind.
 
 ---
 
-## 20. Chapter 9 - The Students Life and Discipline
+## Chapter 9 - The Students Life and Discipline
 
 History of Indian Medicine (and Ayurveda)
 
@@ -412,7 +412,7 @@ Whenever there was inclement weather such as lightning, thunder-storms, when the
 
 ---
 
-## 21. Chapter 7 - The Qualities required in the Student for Admission to Medical Studies
+## Chapter 7 - The Qualities required in the Student for Admission to Medical Studies
 
 History of Indian Medicine (and Ayurveda)
 
@@ -491,8 +491,6 @@ Dambha-mātsarya-nirmukta—Free from bluster and envy;
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -500,10 +498,6 @@ Dambha-mātsarya-nirmukta—Free from bluster and envy;
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Examination, Registration and Convocation: History Of Indian Medicine And Ayurveda Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

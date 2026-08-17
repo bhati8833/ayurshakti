@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Significance of Manasollasa and its relevance today within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 3. Chapter 1 - Significance of Manasollasa and its relevance today
+## Chapter 1 - Significance of Manasollasa and its relevance today
 
 Physician as depicted in Manasollasa
 
@@ -59,8 +59,6 @@ a state. They alone can ensure steady economic growth and make the country prosp
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -68,10 +66,6 @@ a state. They alone can ensure steady economic growth and make the country prosp
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Ancient treatises on Indian medicine: Physician As Depicted In Manasollasa Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

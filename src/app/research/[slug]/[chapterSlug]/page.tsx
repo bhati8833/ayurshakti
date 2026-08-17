@@ -1,5 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
+import fs from 'fs';
+import path from 'path';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getResearchPapers, getResearchPaper, getResearchChapter } from '@/lib/markdown';
@@ -15,14 +17,40 @@ interface ResearchChapterPageProps {
 export async function generateStaticParams() {
   const papers = getResearchPapers();
   const paramsList: Array<{ slug: string; chapterSlug: string }> = [];
+  const seen = new Set<string>();
 
   for (const paper of papers) {
-    for (const ch of paper.chapters) {
-      if (ch.slug) {
-        paramsList.push({
-          slug: paper.paper_slug,
-          chapterSlug: ch.slug,
-        });
+    // 1. From paper-info.json metadata
+    for (const ch of paper.chapters || []) {
+      const chSlug = ch.slug;
+      if (chSlug) {
+        const key = `${paper.paper_slug}/${chSlug}`;
+        if (!seen.has(key)) {
+          seen.add(key);
+          paramsList.push({
+            slug: paper.paper_slug,
+            chapterSlug: chSlug,
+          });
+        }
+      }
+    }
+
+    // 2. Scan directory directly on disk
+    const paperDir = path.join(process.cwd(), 'content', 'research', paper.paper_slug);
+    if (fs.existsSync(paperDir)) {
+      const files = fs.readdirSync(paperDir);
+      for (const file of files) {
+        if (file.endsWith('.md') && file !== 'index.md') {
+          const chSlug = file.replace(/\.md$/, '');
+          const key = `${paper.paper_slug}/${chSlug}`;
+          if (!seen.has(key)) {
+            seen.add(key);
+            paramsList.push({
+              slug: paper.paper_slug,
+              chapterSlug: chSlug,
+            });
+          }
+        }
       }
     }
   }

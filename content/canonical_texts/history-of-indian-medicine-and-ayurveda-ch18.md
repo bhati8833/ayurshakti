@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on a - Routine observed during the Purificatory Procedures within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 53. Chapter 12a - Routine observed during the Purificatory Procedures
+## Chapter 12a - Routine observed during the Purificatory Procedures
 
 History of Indian Medicine (and Ayurveda)
 
@@ -32,7 +32,7 @@ The excerpts given below describe the various observances and regulations that a
 
 ---
 
-## 54. Chapter 12b - Routine observed during Various Other Procedures
+## Chapter 12b - Routine observed during Various Other Procedures
 
 History of Indian Medicine (and Ayurveda)
 
@@ -125,7 +125,7 @@ Going to Surgical Room. For Operation
 
 ---
 
-## 55. Chapter 15 - Kampilya as a Centre of Learning
+## Chapter 15 - Kampilya as a Centre of Learning
 
 History of Indian Medicine (and Ayurveda)
 
@@ -235,8 +235,6 @@ The Samasa-pradhana method of Pancala was a reputed method in literature. The gr
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -244,10 +242,6 @@ The Samasa-pradhana method of Pancala was a reputed method in literature. The gr
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Legends and Mantras: History Of Indian Medicine And Ayurveda Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

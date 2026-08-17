@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms and Treatment of aversion to food (Arochaka) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 63. Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)
+## Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -75,37 +75,54 @@ In a case of impaired digestion due to the effects of any ungratified desire, fe
 
 Thus ends the fifty-seventh chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Arocaka.
 
-[1]:
 
-Elā—Dallana says that some take Elā in the sense of Ela-vālukā (a part used for the whole). Śivadāsa, however, refutes this and asserts, on the authority of Vāgbhata, that “Ela” should mean Elā.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Elā—Dallana says that some take Elā in the sense of Ela-vālukā (a part used for the whole). Śivadāsa, however, refutes this and asserts, on the authority of Vāgbhata, that “Ela” should mean Elā.
+</blockquote>
 
-[2]:
 
-According to some, the emetic used should be Madana fruit; while, according to others, it should be the drugs of the Madhura (Kākolyādi) group—the word ‘Madhura’ indicating the same. Some, however, read ‘Madhuka’ (Yashti-madhu) for ‘Madhura’.
 
-[3]:
 
-Nirdahani, according to some, means Citraka, but, according to others, it means Yamāni. The former sense is the most general one.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> According to some, the emetic used should be Madana fruit; while, according to others, it should be the drugs of the Madhura (Kākolyādi) group—the word ‘Madhura’ indicating the same. Some, however, read ‘Madhuka’ (Yashti-madhu) for ‘Madhura’.
+</blockquote>
 
-[4]:
 
-According to Dallana the four lambatives should be used in cases of Vātaja, Pittaja, Kaphaja and Tri-doshaja types of Arocaka respectively.
 
-[5]:
 
-“Shādava”—It is a preparation with a variety of articles of sweet, acid and saline tastes.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Nirdahani, according to some, means Citraka, but, according to others, it means Yamāni. The former sense is the most general one.
+</blockquote>
 
-[6]:
 
-“Rāga”—It is a preparation of a cordial with sugar, Sauvarchala-salt, Saindhava, turmeric, Parushaka, black-berry and mustard, etc.
 
-[7]:
 
-Dallana interprets “Rasa” by meat-soup but we are inclined to take it in the sense of articles of different tastes (Rasa).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> According to Dallana the four lambatives should be used in cases of Vātaja, Pittaja, Kaphaja and Tri-doshaja types of Arocaka respectively.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “Shādava”—It is a preparation with a variety of articles of sweet, acid and saline tastes.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> “Rāga”—It is a preparation of a cordial with sugar, Sauvarchala-salt, Saindhava, turmeric, Parushaka, black-berry and mustard, etc.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Dallana interprets “Rasa” by meat-soup but we are inclined to take it in the sense of articles of different tastes (Rasa).</div>
 
 ---
 
-## 64. Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)
+## Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -117,27 +134,7 @@ Now we shall discourse on the chapter which deals with the (symptoms and) medica
 
 The disease is of twelve kinds[1], viz.,
 
-Vata-kundalika,
-
-Ashthila,
-
-Vata-vasti,
-
-Mutratita,
-
-(Mutra-) Jathara,
-
-Mutrotsanga,
-
-(Mutra-) Kshaya,
-
-Mutra-granthī,
-
-Mutra-shukra,
-
-Ushna-vata
-
-Kaphaja-Mutraukasada,
+Vata-kundalika,, Ashthila,, Vata-vasti,, Mutratita,, (Mutra-) Jathara,, Mutrotsanga,, (Mutra-) Kshaya,, Mutra-granthī,, Mutra-shukra,, Ushna-vata, Kaphaja-Mutraukasada,
 
 and Pittaja-Mutraukasada. 2.
 
@@ -223,41 +220,61 @@ Equal parts of Vala, stones of Kola -fruits, Yashti-madhu, Shvadamshtra (Gokshur
 
 Thus ends the fifty-eighth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of the suppression of urine (Mutraghata).
 
-[1]:
 
-Mādhava reads thirteen different kinds of this disease. He reads only one kind of Mutra-sāda and adds Vid-vighāta and Vasti-kundala.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Mādhava reads thirteen different kinds of this disease. He reads only one kind of Mutra-sāda and adds Vid-vighāta and Vasti-kundala.
+</blockquote>
 
-[2]:
 
-Some read “adhovastinirodhakam” the lower part viz., the neck of the bladder is obstructed.
 
-[3]:
 
-Dallana explains Krauncāsthi as bones of a Krouncha bird, but we are not inclined to accept this explanation.
+<div className="footnote-card"><strong>[2]</strong> Some read “adhovastinirodhakam” the lower part viz., the neck of the bladder is obstructed.</div>
 
-[4]:
 
-Some explain “Kokilākshaka-tandula” as meaning Kokilāksha and Tandula (rice) which meaning may also be accepted.
 
-[5]:
 
-“Śata-parvan” may mean Durbā-grass or bamboo.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Dallana explains Krauncāsthi as bones of a Krouncha bird, but we are not inclined to accept this explanation.
+</blockquote>
 
-[6]:
 
-Dallana says that Kārtika does not read this, in as much as this would increase the number originally mentioned, as also because this case has already been mentioned in Prameha. But according to Jejjata, this is mentioned here to make the case more clear.
 
-[7]:
 
-Dallana’s reading here evidently is ‘Kshira-sarpishah’, but according to a variant the reading would be “Kshira-sarpish?u” i.e., milk and clarified butter (taken together). The latter reading has the support of Cakrapāni and Vrinda who, however, read these lines in a different way and prescribe the drugs in somewhat different proportions. The former reading ‘Kshira-sarpishah’ with the sixth case-ending is, however, more grammatical.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Some explain “Kokilākshaka-tandula” as meaning Kokilāksha and Tandula (rice) which meaning may also be accepted.
+</blockquote>
 
-[8]:
 
-Additional Text:—Powders of Tugā-kshiri and sugar should be mixed together with honey and licked in an auspicious day according to the digesting capacity of the patient and a draught of milk should then be taken. By its use the patient would be able to conquer all seminal troubles if he observes a perfect continence. One whose semen has been wasted by sexual excesses would get instantaneous relief; and a man who is possessed of vigour (Ojas) and strength would be refreshed and cheerful.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “Śata-parvan” may mean Durbā-grass or bamboo.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Dallana says that Kārtika does not read this, in as much as this would increase the number originally mentioned, as also because this case has already been mentioned in Prameha. But according to Jejjata, this is mentioned here to make the case more clear.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Dallana’s reading here evidently is ‘Kshira-sarpishah’, but according to a variant the reading would be “Kshira-sarpish?u” i.e., milk and clarified butter (taken together). The latter reading has the support of Cakrapāni and Vrinda who, however, read these lines in a different way and prescribe the drugs in somewhat different proportions. The former reading ‘Kshira-sarpishah’ with the sixth case-ending is, however, more grammatical.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Additional Text:—Powders of Tugā-kshiri and sugar should be mixed together with honey and licked in an auspicious day according to the digesting capacity of the patient and a draught of milk should then be taken. By its use the patient would be able to conquer all seminal troubles if he observes a perfect continence. One whose semen has been wasted by sexual excesses would get instantaneous relief; and a man who is possessed of vigour (Ojas) and strength would be refreshed and cheerful.
+</blockquote>
 
 ---
 
-## 65. Chapter LX - Symptoms and Treatment of demonology (Amanusha)
+## Chapter LX - Symptoms and Treatment of demonology (Amanusha)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -327,18 +344,24 @@ Unholy and improper articles should not be employed  in a case due to the influe
 
 Thus ends the sixtieth chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the (symptoms and) treatment of the disease brought on through super human influences.
 
-[1]:
 
-Amānusha—lit. non-mānusha, i.e., other than human. It includes the deities, demons, ghosts, monsters and the manes and even the serpent-deities.
-
-[2]:
-
-In place of “vārddhakena juṣṭaḥ” Mādhava reads “trayodaśābde”(?) i.e., (it is also incurable) when it has continued for thirteen years.
-
-[3]:
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Amānusha—lit. non-mānusha, i.e., other than human. It includes the deities, demons, ghosts, monsters and the manes and even the serpent-deities.
+</blockquote>
 
 
-### The eight qualities referred to are
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> In place of “vārddhakena juṣṭaḥ” Mādhava reads “trayodaśābde”(?) i.e., (it is also incurable) when it has continued for thirteen years.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> ### The eight qualities referred to are</div>
+
+
 
 
 Animan or the superhuman power of becoming as small as an atom at will.
@@ -357,17 +380,15 @@ Vaśilva—self-control
 
 and Kāmāva-sāyitā—suppression of passion.
 
-[4]:
 
-This Śloka corresponding to “cloth... likings” is only a variant according to Dallana. He does not seem to read this Śloka.
+<div className="footnote-card"><strong>[4]</strong> This Śloka corresponding to “cloth... likings” is only a variant according to Dallana. He does not seem to read this Śloka.</div>
 
-[5]:
 
-The word in the text is ‘Karabha’ which many mean a camel or an elephant. Dallana explicitly explains the word as a camel.
+
+
+<div className="footnote-card"><strong>[5]</strong> The word in the text is ‘Karabha’ which many mean a camel or an elephant. Dallana explicitly explains the word as a camel.</div>
 
 ---
-
-
 
 ---
 
@@ -376,10 +397,6 @@ The word in the text is ‘Karabha’ which many mean a camel or an elephant. Da
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Bhuta-vidya-tantra (psychology and psychiatry): Sushruta Samhita Uttara Tantra Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

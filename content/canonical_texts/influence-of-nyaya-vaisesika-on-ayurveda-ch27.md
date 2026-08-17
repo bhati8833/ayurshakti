@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. The Nyaya theory of Causation within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. 6. The Nyaya theory of Causation
+## 6. The Nyaya theory of Causation
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -33,8 +33,6 @@ threads, are the inherent cause of the cloth and the clay is the inherent cause 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -42,10 +40,6 @@ threads, are the inherent cause of the cloth and the clay is the inherent cause 
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">8. Peelupaka [pilupaka] or chemical change: Influence Of Nyaya Vaisesika On Ayurveda Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

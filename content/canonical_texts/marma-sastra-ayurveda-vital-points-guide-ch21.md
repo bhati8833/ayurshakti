@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Bahvi or Urvi Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 70. Study of Bahvi or Urvi Marma
+## Study of Bahvi or Urvi Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -29,7 +29,7 @@ Discussion ☐ Ischial part of adductor magnus ☐ Profundus femoris artery Uppe
 
 ---
 
-## 71. Study of Lohitaksha Marma
+## Study of Lohitaksha Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -49,7 +49,7 @@ Lohitaksha, According to the text the injury causes pakshaghata. Here the author
 
 ---
 
-## 72. Conclusion
+## Conclusion
 
 Marma-sastra and Ayurveda (study)
 
@@ -69,8 +69,6 @@ with mystery. The need of this hour is to, make consolidated efforts to revive, 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ with mystery. The need of this hour is to, make consolidated efforts to revive, 
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix 1 - Marma and Shad Chakras: Marma Sastra and Ayurvedic Science Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

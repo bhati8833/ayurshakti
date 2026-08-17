@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Protection and Care (of crops) within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 95. Part 8 - Protection and Care (of crops)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Protection and Care (of crops)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 8 - Protection and Care (of crops)
 
 Part 8 - Protection and Care (of crops)
 
@@ -35,61 +31,84 @@ nave harṣe ilādevī lokasaṃvardhini kāmarūpiṇi dehi me dhanaṃ svāhā
 
 The Bṛhatsaṃhitā devotes a chapter to the growth of crops.[7] It states that when the sun enters into Vṛścika, Jupiter be posited in Kumbha, the Moon in Vṛṣabha, Mars and Saturn in Makara then there is great prosperity of corn.[8] Again when Venus or Mercury, or both, are posited in the second house from the Sun (in Vṛścika), or similarly in the twelfth house, summer corn will grow well.[9] When Venus, the Moon and Mercury are posited in their order in the 11th, 4th and 2nd from the Sun in Vṛścika, corn will thrive well. If in the above Yoga, Jupiter is posited in the 10th, great prosperity of cattle is also assured.[10] The Upavana-Vinoda mentions that trees get diseases through the affections of vāta, pitta and kapha. One should diagnose the diseases through their symptoms and cure them radically.[11]
 
-[1]:
 
-etatsarvaṃ parijñāya vṛkṣāropam samārabhet/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> etatsarvaṃ parijñāya vṛkṣāropam samārabhet/
 dharmā-rtha-kāma-mokṣāṇāṃ drumebhyaḥ sādhanaṃ yataḥ// Vṛkṣāyurveda , 1.8
+</blockquote>
 
-[2]:
 
-Viśvavallabha , 4.1
 
-[3]:
 
-himāgamo grīṣma ubhau niṣidhdau vāpetha jyeṣṭhaḥ kathitaśca kecit/
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Viśvavallabha , 4.1
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> himāgamo grīṣma ubhau niṣidhdau vāpetha jyeṣṭhaḥ kathitaśca kecit/
 sarvepi kālā vihitāstadānīṃ yadātiyatno vanasecane syāt// Ibid., 4.2
+</blockquote>
 
-[4]:
 
-sūryād bījasiddhiḥ/ bṛhaspateḥ sasyānāṃ stambakaritā/ śukrād vṛṣṭiriti// Arthaśāstra , 2.24.8
 
-[5]:
 
-Ibid., 2.24.23
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> sūryād bījasiddhiḥ/ bṛhaspateḥ sasyānāṃ stambakaritā/ śukrād vṛṣṭiriti// Arthaśāstra , 2.24.8
+</blockquote>
 
-[6]:
 
-Agni Purāṇa , 121.52-53
 
-[7]:
 
-Bṛhatsaṃhitā , Ch. 40
+<div className="footnote-card"><strong>[5]</strong> Ibid., 2.24.23</div>
 
-[8]:
 
-kumbhe gururgavi śaśī sūryo’limukhe kujārkajau makare/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Agni Purāṇa , 121.52-53
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Bṛhatsaṃhitā , Ch. 40
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> kumbhe gururgavi śaśī sūryo’limukhe kujārkajau makare/
 niṣpattirasti mahatī paścāt paracakrabhayarogam// Ibid., 40.7
+</blockquote>
 
-[9]:
 
-arkātsite dvitīye budhe’thavā yugapadeva vā sthitayoḥ/ vyayagatayorapi tadvanniṣpattiratīva gurudṛṣṭyā// Bṛhatsaṃhitā ,40.4
 
-[10]:
 
-lābhahibukārthayuktaiḥ sūryādaligāt sitenduśaśiputraiḥ/
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> arkātsite dvitīye budhe’thavā yugapadeva vā sthitayoḥ/ vyayagatayorapi tadvanniṣpattiratīva gurudṛṣṭyā// Bṛhatsaṃhitā ,40.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> lābhahibukārthayuktaiḥ sūryādaligāt sitenduśaśiputraiḥ/
 sasyasya parā sampat karmaṇi jīve gavāṃ cāgryā// Ibid.,40.6
+</blockquote>
 
-[11]:
 
-Upavana-Vinoda , 13.175
+
+
+<div className="footnote-card"><strong>[11]</strong> Upavana-Vinoda , 13.175</div>
 
 ---
 
-## 96. Part 11 - Rearing and Tending of Animals
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Rearing and Tending of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 11 - Rearing and Tending of Animals
 
 Part 11 - Rearing and Tending of Animals
 
@@ -127,73 +146,100 @@ The Śukranītisāra suggests some points that are to be noticed in case of mana
 
 Reference of rearing and tending of animals are found in the Purāṇas. It is pointed out in the Matsya Purāṇa that a king’s Commander-in-chief should be expert in managing horses and elephants.[12] Regarding horse-care, it is said that the groom of a king should know about horses and how to treat the horses when ill.[13] A horse should be first ridden under the influence of the asterisms aśvinī, hastā and the three uttarās.[14] The seasons winter, the spring, and the forepart of the cold months, are the most favourable to ride a horse, on the other hand in summer and autumn, a horse should not be harnessed nor ridden upon.[15]
 
-[1]:
 
-Ibid., 2.29; 2.30
+<div className="footnote-card"><strong>[1]</strong> Ibid., 2.29; 2.30</div>
 
-[2]:
 
-vālavṛddhavyādhitānāṃ gopālakāḥ pratikuryuḥ/ Ibid., 2.29.14
 
-[3]:
 
-varṇāvarodhena daśatīrakṣā/upaniveśadigvibhāgo gopracārād balānvayato vā gavāṃ rakṣāsāmarthyācca/ Ibid., 2.29.26
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> vālavṛddhavyādhitānāṃ gopālakāḥ pratikuryuḥ/ Ibid., 2.29.14
+</blockquote>
 
-[4]:
 
-lubdhakaśvagaṇibhirapāstastenavyālaparabādhabhayamṛtuvibhaktamaraṇyaṃ cārayeyuḥ/ Ibid., 2.29.15
 
-[5]:
 
-daśarātrādūrdhvaṃ kiśorasya ghṛtacaturbhāgaḥ saktukuḍavaḥ, kṣīraprasthaścāhāra ā ṣaṇmāsāditi/tataḥ paraṃ māsottaramardhavṛddhiryavaprastha ātrivarṣād, droṇa ā caturvarṣāditi/ata ūrdhvaṃ caturvarṣāḥ pañcavarṣo vā karmaṇyaḥ pūrṇapramāṇaḥ/ Ibid., 2.30.7
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> varṇāvarodhena daśatīrakṣā/upaniveśadigvibhāgo gopracārād balānvayato vā gavāṃ rakṣāsāmarthyācca/ Ibid., 2.29.26
+</blockquote>
 
-[6]:
 
-cikitsakānīkasthārohakādhoraṇahastipakaupacārika vidhāpācakayāvasikapādapāśikakuṭīrakṣakaupaśāyikādiraupasthāyikavargaḥ/ Ibid., 2.32.8
 
-[7]:
 
-pathivyādhikarmamadajarābhitaptānāṃ cikitsakāḥ pratikuryuḥ/ Ibid., 2.32.10
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> lubdhakaśvagaṇibhirapāstastenavyālaparabādhabhayamṛtuvibhaktamaraṇyaṃ cārayeyuḥ/ Ibid., 2.29.15
+</blockquote>
 
-[8]:
 
-Śukranītisāra , 4.7.252-254
 
-[9]:
 
-Ibid., 4.7.255
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> daśarātrādūrdhvaṃ kiśorasya ghṛtacaturbhāgaḥ saktukuḍavaḥ, kṣīraprasthaścāhāra ā ṣaṇmāsāditi/tataḥ paraṃ māsottaramardhavṛddhiryavaprastha ātrivarṣād, droṇa ā caturvarṣāditi/ata ūrdhvaṃ caturvarṣāḥ pañcavarṣo vā karmaṇyaḥ pūrṇapramāṇaḥ/ Ibid., 2.30.7
+</blockquote>
 
-[10]:
 
-Ibid., 4.7.266-267
 
-[11]:
 
-Ibid., 4.7.268
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> cikitsakānīkasthārohakādhoraṇahastipakaupacārika vidhāpācakayāvasikapādapāśikakuṭīrakṣakaupaśāyikādiraupasthāyikavargaḥ/ Ibid., 2.32.8
+</blockquote>
 
-[12]:
 
-Matsya Purāṇa , 215.8
 
-[13]:
 
-Ibid., 215.36b-37a
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> pathivyādhikarmamadajarābhitaptānāṃ cikitsakāḥ pratikuryuḥ/ Ibid., 2.32.10
+</blockquote>
 
-[14]:
 
-Agni Purāṇa , 288.2
 
-[15]:
 
-Ibid., 288.3
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Śukranītisāra , 4.7.252-254
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., 4.7.255</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., 4.7.266-267</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid., 4.7.268</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Matsya Purāṇa , 215.8
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Ibid., 215.36b-37a</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Agni Purāṇa , 288.2
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., 288.3</div>
 
 ---
 
-## 98. Part 10 - Breeds of Animals (in Post-Purāṇic Sanskrit Works)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Breeds of Animals (in Post-Puranic Sanskrit Works)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 10 - Breeds of Animals (in Post-Purāṇic Sanskrit Works)
 
 Part 10 - Breeds of Animals (in Post-Purāṇic Sanskrit Works)
 
@@ -205,11 +251,7 @@ In case of bulls it is stated by Śukra that the bull which is neither idle nor 
 
 The Śukranītisāra mentions four classes of elephants and their characteristics. The four classes according to Śukranītisāra are—
 
-Bhadra,
-
-Manda,
-
-Mṛga and
+Bhadra,, Manda,, Mṛga and
 
 Miśra.[8]
 
@@ -226,21 +268,13 @@ According to the Arthaśāstra, the elephant which is seven aratnis in height, n
 
 In case of horses four varieties are mentioned. They are—
 
-bhadra,
-
-manda,
-
-mṛga and
+bhadra,, manda,, mṛga and
 
 saṅkīrṇa.[20]
 
 In case of elephants also there are four varieties. They are mentioned in the Matsya Purāṇa as—
 
-Kumuda,
-
-Añjana,
-
-Vāmana and
+Kumuda,, Añjana,, Vāmana and
 
 Airāvata.[21]
 
@@ -258,106 +292,141 @@ Animal Breeding:
 
 The people fully knew the necessities of number of males of different animal species per herd of one hundred females of different types of domestic animals for the purpose of breeding. Kauṭilya in his Arthaśāstra mentions that in a herd of one hundred asses and mules there shall be five male animals and in the case of herds of goats and sheep there shall be ten males per hundred. For a herd of ten heads of cows or buffaloes there shall be four male animals each.[23]
 
-[1]:
 
-Arthaśāstra , 2.29; 2.30
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Arthaśāstra , 2.29; 2.30
+</blockquote>
 
-[2]:
 
-prayogyānāmuttamāḥ kāmbojakasaindhavāraṭṭajavānāyujāḥ/madhyamā vāhlīkapāpeyakasauvīrakataitalāḥ/śeṣāḥ pratyavarāḥ/ Ibid., 2.30.13
 
-[3]:
 
-Śukranītisāra , 4.7.29-31
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> prayogyānāmuttamāḥ kāmbojakasaindhavāraṭṭajavānāyujāḥ/madhyamā vāhlīkapāpeyakasauvīrakataitalāḥ/śeṣāḥ pratyavarāḥ/ Ibid., 2.30.13
+</blockquote>
 
-[4]:
 
-Ibid., 4.7.302-303
 
-[5]:
 
-Ibid., p.229,footnote, 3
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Śukranītisāra , 4.7.29-31
+</blockquote>
 
-[6]:
 
-Ibid., 4.7.304-305
 
-[7]:
 
-Ibid., 4.7.345
+<div className="footnote-card"><strong>[4]</strong> Ibid., 4.7.302-303</div>
 
-[8]:
 
-Ibid., 4.7.68
 
-[9]:
 
-Ibid., 4.7.69-70
+<div className="footnote-card"><strong>[5]</strong> Ibid., p.229,footnote, 3</div>
 
-[10]:
 
-Ibid., 4.7.71-72
 
-[11]:
 
-Ibid., 4.7.73-74
+<div className="footnote-card"><strong>[6]</strong> Ibid., 4.7.304-305</div>
 
-[12]:
 
-Ibid., 4.7.75
 
-[13]:
 
-karmaskandhāḥ catvāraḥ damyaḥ sānnāhya aupavāhyo vyālaśca/ Arthaśāstra , 2.32.1
+<div className="footnote-card"><strong>[7]</strong> Ibid., 4.7.345</div>
 
-[14]:
 
-saptāratnirutsedho navāyāmo daśapariṇāhaḥ pramāṇataścatvāriṃśadvarṣo bhavatyuttamaḥ/ Ibid., 2.31.7
 
-[15]:
 
-Bṛhatsaṃhitā , Ch. 61
+<div className="footnote-card"><strong>[8]</strong> Ibid., 4.7.68</div>
 
-[16]:
 
-Ibid., Ch. 62
 
-[17]:
 
-Ibid., Ch. 65
+<div className="footnote-card"><strong>[9]</strong> Ibid., 4.7.69-70</div>
 
-[18]:
 
-Ibid., Ch. 66
 
-[19]:
 
-Ibid., Ch. 67
+<div className="footnote-card"><strong>[10]</strong> Ibid., 4.7.71-72</div>
 
-[20]:
 
-Agni Purāṇa ,288.63
 
-[21]:
 
-Matsya Purāṇa , 133.10
+<div className="footnote-card"><strong>[11]</strong> Ibid., 4.7.73-74</div>
 
-[22]:
 
-Ibid., 207.23,24, 33, 38
 
-[23]:
 
-pañcarṣabhaṃ kharāśvānāmajāvīnāṃ daśarṣabham/
+<div className="footnote-card"><strong>[12]</strong> Ibid., 4.7.75</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> karmaskandhāḥ catvāraḥ damyaḥ sānnāhya aupavāhyo vyālaśca/ Arthaśāstra , 2.32.1
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> saptāratnirutsedho navāyāmo daśapariṇāhaḥ pramāṇataścatvāriṃśadvarṣo bhavatyuttamaḥ/ Ibid., 2.31.7
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Bṛhatsaṃhitā , Ch. 61
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid., Ch. 62</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid., Ch. 65</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., Ch. 66</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid., Ch. 67</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Agni Purāṇa ,288.63
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Matsya Purāṇa , 133.10
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., 207.23,24, 33, 38</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> pañcarṣabhaṃ kharāśvānāmajāvīnāṃ daśarṣabham/
 śatyaṃ gomahiṣoṣṭrāṇāṃ yūthaṃ kuryāccaturvṛṣam// Arthaśāstra , 2.29.29
+</blockquote>
 
 ---
 
-## 99. Part 15 - Major crops and Staple food
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Major crops and Staple food’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 15 - Major crops and Staple food
 
 Part 15 - Major crops and Staple food
 
@@ -387,69 +456,96 @@ In recent years the following plant species were introduced into India[6] :
 
 In the Purāṇas also various kinds of grains are mentioned. People in the days of the Purāṇas could recognize the crops. Mention of seventeen kinds of grāmya oṣadhis and fourteen kinds of yajñīya oṣadhis is met with in the Purāṇas.[7] Some of the agricultural crops mentioned in the Purāṇas are-tila[8] dhānya[9] (eighteen sorts of grain), vrīhi[10] (a kind of paddy), śyāmāka[11] saktu[12] (the flour of grain), nīvāra[13] (a kind of corn for śrāddha), māṣa[14] (a kind of grain), masūra, yava and godhūma[15] etc.
 
-[1]:
 
-Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 99
+<div className="footnote-card"><strong>[1]</strong> Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 99</div>
 
-[2]:
 
-Ibid., p. 100
 
-[3]:
 
-Thakur, A.C., Agriculture in Assam, p. 53
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 100</div>
 
-[4]:
 
-Ibid., p. 54
 
-[5]:
 
-Ibid., p. 75
+<div className="footnote-card"><strong>[3]</strong> Thakur, A.C., Agriculture in Assam, p. 53</div>
 
-[6]:
 
-Saxena, R.C., et al, A Textbook on Ancient History of Indian Agriculture, p.34
 
-[7]:
 
-Viṣṇu Purāṇa , 1.6.21-25; Vāyu Purāṇa , 8.150-155
+<div className="footnote-card"><strong>[4]</strong> Ibid., p. 54</div>
 
-[8]:
 
-Vāyu Purāṇa ,74.5;101.162;105.12; Matsya Purāṇa ,7.15;15.34; 82.18; 83.5; 87.1; 187.27-34; 217.38; 239.22
 
-[9]:
 
-Matsya Purāṇa , 276.7; 277.11
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 75</div>
 
-[10]:
 
-Matsya Purāṇa , 34.11; 239.22; Vāyu Purāṇa , 93.96
 
-[11]:
 
-Matsya Purāṇa ,15.35
+<div className="footnote-card"><strong>[6]</strong> Saxena, R.C., et al, A Textbook on Ancient History of Indian Agriculture, p.34</div>
 
-[12]:
 
-Ibid., 131.43
 
-[13]:
 
-Matsya Purāṇa , 15.35; Bhāgavata Purāṇa , 9.20.14
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Viṣṇu Purāṇa , 1.6.21-25; Vāyu Purāṇa , 8.150-155
+</blockquote>
 
-[14]:
 
-Matsya Purāṇa , 217.38
 
-[15]:
 
-Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Vāyu Purāṇa ,74.5;101.162;105.12; Matsya Purāṇa ,7.15;15.34; 82.18; 83.5; 87.1; 187.27-34; 217.38; 239.22
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Matsya Purāṇa , 276.7; 277.11
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Matsya Purāṇa , 34.11; 239.22; Vāyu Purāṇa , 93.96
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Matsya Purāṇa ,15.35
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid., 131.43</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Matsya Purāṇa , 15.35; Bhāgavata Purāṇa , 9.20.14
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Matsya Purāṇa , 217.38
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -458,10 +554,6 @@ Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Nourishment and Feeding of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

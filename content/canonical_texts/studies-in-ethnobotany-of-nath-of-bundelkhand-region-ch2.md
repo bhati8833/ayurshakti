@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Social condition of Nath within Studies In Ethnobotany Of Nath Of Bundelkhand Region. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 1. Chapter 2 - Social condition of Nath
+## Chapter 2 - Social condition of Nath
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -25,8 +25,6 @@ The people who are dependent on snakes from ancient times are called as Nath,Jog
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ The people who are dependent on snakes from ancient times are called as Nath,Jog
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Material and Method: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

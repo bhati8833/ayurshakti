@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of leprosy and other skin diseases within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Chapter V - Diagnosis of leprosy and other skin diseases
+## Chapter V - Diagnosis of leprosy and other skin diseases
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -129,17 +129,15 @@ Kushtha (Leprosy) is a highly contagious disease; the contagion being usually co
 
 Thus ends the fifth Chapter of the Nidanasthana in the Sushruta Samhita which treats of the Nidana of cutaneous affections (Kushtha).
 
-[1]:
 
-Certain authorities hold that, all types of Kushtha (cutaneous affections) to be of parasitic origin. The Garuda Purana avers that, the parasites, which infest the external principles of the body, are the primary causes of cutaneous affections—Kushthaika-hetavontarjah shlemshaja vahya-sambhavah. Ch. CLXIXV. 4.
+<div className="footnote-card"><strong>[1]</strong> Certain authorities hold that, all types of Kushtha (cutaneous affections) to be of parasitic origin. The Garuda Purana avers that, the parasites, which infest the external principles of the body, are the primary causes of cutaneous affections—Kushthaika-hetavontarjah shlemshaja vahya-sambhavah. Ch. CLXIXV. 4.</div>
 
-[2]:
 
-A case of Kushtha has its primary seat in the blood and skin (of the patient), in which it lies confined during the period of incubation, after which it attacks the skin and secretes the characteristic secretion of the deranged Dosha involved in it.
+
+
+<div className="footnote-card"><strong>[2]</strong> A case of Kushtha has its primary seat in the blood and skin (of the patient), in which it lies confined during the period of incubation, after which it attacks the skin and secretes the characteristic secretion of the deranged Dosha involved in it.</div>
 
 ---
-
-
 
 ---
 
@@ -148,10 +146,6 @@ A case of Kushtha has its primary seat in the blood and skin (of the patient), i
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of enlargement of the abdomen: Sushruta Samhita Nidanasthana Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

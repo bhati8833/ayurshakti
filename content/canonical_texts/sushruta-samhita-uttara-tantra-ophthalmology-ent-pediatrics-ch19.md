@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms and Treatment of Cough (Kasa) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 57. Chapter LII - Symptoms and Treatment of Cough (Kasa)
+## Chapter LII - Symptoms and Treatment of Cough (Kasa)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -113,37 +113,48 @@ Clarified butter duly cooked with the decoction made by boiling the drugs of the
 
 Thus ends the fifty-second chapter of the Uttara Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of cough.
 
-[1]:
 
-Dallana explains as (leaves of bamboo).
+<div className="footnote-card"><strong>[1]</strong> Dallana explains as (leaves of bamboo).</div>
 
-[2]:
 
-Pura means Śallaki (gum) or Guggulu. —Dallana.
 
-[3]:
 
-Dallana reads as a variant and explains that the powders of Tri-katu should be added in a large quantity in place of honey.
+<div className="footnote-card"><strong>[2]</strong> Pura means Śallaki (gum) or Guggulu. —Dallana.</div>
 
-[4]:
 
-By the term some mean (raddish', while others take it to mean the drugs of the Panca-mula-group.
 
-[5]:
 
-For Shadānga-ghrita, see chapter XIV, Para 18. It is belter known as Shatpalaka-Ghrita.
+<div className="footnote-card"><strong>[3]</strong> Dallana reads as a variant and explains that the powders of Tri-katu should be added in a large quantity in place of honey.</div>
 
-[6]:
 
-According to Vāgbhata the clarified butter should be duly cooked with the Kalka of Tri-katu and with the decoction (Rasa) of Vidanga.
 
-[7]:
 
-Some lake ‘Krimighna’ to mean Vidanga, others take it to mean any antiparasitic drug, viz., the drugs of the Surasādi-gana:—Dallana. The infusion or decoction of Vidanga should be used if its expressed juice be not available.—Ibid.
+<div className="footnote-card"><strong>[4]</strong> By the term some mean (raddish', while others take it to mean the drugs of the Panca-mula-group.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> For Shadānga-ghrita, see chapter XIV, Para 18. It is belter known as Shatpalaka-Ghrita.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> According to Vāgbhata the clarified butter should be duly cooked with the Kalka of Tri-katu and with the decoction (Rasa) of Vidanga.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Some lake ‘Krimighna’ to mean Vidanga, others take it to mean any antiparasitic drug, viz., the drugs of the Surasādi-gana:—Dallana. The infusion or decoction of Vidanga should be used if its expressed juice be not available.—Ibid.
+</blockquote>
 
 ---
 
-## 58. Chapter LIII - Symptoms and Treatment of Hoarseness (Svara-bheda)
+## Chapter LIII - Symptoms and Treatment of Hoarseness (Svara-bheda)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -201,25 +212,31 @@ The medical treatment in the case of the Medoja type of Svarabheda should be the
 
 Thus ends the fifty-third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of hoarseness.
 
-[1]:
 
-Here Pitta-aggravating and Vayu-aggravating causes also are intended by the word “ādi” i.e., etc. in “śītādibhiḥ” |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Here Pitta-aggravating and Vayu-aggravating causes also are intended by the word “ādi” i.e., etc. in “śītādibhiḥ” |
+</blockquote>
 
-[2]:
 
-Pallana’s reading evidently is “gadgadavat” (indistinct).
 
-[3]:
 
-Pāyasa is a special preparation of rice boiled with milk and sugar.
+<div className="footnote-card"><strong>[2]</strong> Pallana’s reading evidently is “gadgadavat” (indistinct).</div>
 
-[4]:
 
-Milk of a cow or of a she-buffalo, etc., may be used here.—Dallana.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Pāyasa is a special preparation of rice boiled with milk and sugar.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Milk of a cow or of a she-buffalo, etc., may be used here.—Dallana.</div>
 
 ---
 
-## 59. Chapter LIV - Symptoms and Treatment of Worms (Krimi-roga)
+## Chapter LIV - Symptoms and Treatment of Worms (Krimi-roga)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -297,41 +314,51 @@ Meals composed of the articles of bitter and pungent tastes as well as draughts 
 
 Thus ends the fifty-fourth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Krimi-Roga.
 
-[1]:
 
-Charaka speaks of another kind viz. Malaja (produced from the external filth of the body), over and above that kind of worms which are present in every organism from the very birth (Sahaja).
+<div className="footnote-card"><strong>[1]</strong> Charaka speaks of another kind viz. Malaja (produced from the external filth of the body), over and above that kind of worms which are present in every organism from the very birth (Sahaja).</div>
 
-[2]:
 
-The names of these worms have been derived from the nature of their actions on the different parts of the organism.
 
-[3]:
 
-See Chapter xxiv.,—Sutra Sthāna.
+<div className="footnote-card"><strong>[2]</strong> The names of these worms have been derived from the nature of their actions on the different parts of the organism.</div>
 
-[4]:
 
-Dallana explains “Pattura” as Śephālikā, but Śivadāśa lakes it to be Śālinca.
 
-[5]:
 
-Ayas —lit. iron, is also used for all the metals generally.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> See Chapter xxiv.,—Sutra Sthāna.
+</blockquote>
 
-[6]:
 
-Ayas—as in para 15 may mean any metal.
 
-[7]:
 
-Oil duly cooked with the drugs of the Surasādi Gana should be placed in a pot of Indian bell-metal. When the inner surface of the pot would become blue by being oxidised, the oil should be well stirred and mixed with that blue part and used as an errhine.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Dallana explains “Pattura” as Śephālikā, but Śivadāśa lakes it to be Śālinca.
+</blockquote>
 
-[8]:
 
-Both internally and externally e.g. as a drink or bath.
+
+
+<div className="footnote-card"><strong>[5]</strong> Ayas —lit. iron, is also used for all the metals generally.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ayas—as in para 15 may mean any metal.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Oil duly cooked with the drugs of the Surasādi Gana should be placed in a pot of Indian bell-metal. When the inner surface of the pot would become blue by being oxidised, the oil should be well stirred and mixed with that blue part and used as an errhine.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Both internally and externally e.g. as a drink or bath.</div>
 
 ---
-
-
 
 ---
 
@@ -340,10 +367,6 @@ Both internally and externally e.g. as a drink or bath.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms and Treatment of repression of natural urging (Udavarta): Sushruta Samhita Uttara Tantra Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

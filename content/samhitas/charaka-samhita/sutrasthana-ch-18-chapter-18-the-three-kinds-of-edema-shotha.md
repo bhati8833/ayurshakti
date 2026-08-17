@@ -98,11 +98,19 @@ The Complications of Edema (shotha)
 
 The onset and Symptoms of Quinisi
 
+
+<blockquote className="ayur-shloka">
 20. When the provoked Kapha in the body gets localised at the base of the palate, it causes immediately an acute swelling there, which is called Galashundika (galaśuṇḍikā) i.e. Quinsi.
+</blockquote>
+
 
 The onset and Symptoms of Deradenoncus
 
+
+<blockquote className="ayur-shloka">
 21. When the provoked Kapha in the body gets localised outside the throat, it produces chronic swelling there and causes Galaganda (galagaṇḍa) i.e. Deradenoncus.
+</blockquote>
+
 
 The onset and Symptoms of Throat Spasm
 

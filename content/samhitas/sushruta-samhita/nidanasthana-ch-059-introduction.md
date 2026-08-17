@@ -33,7 +33,11 @@ In the introduction of the first volume of our translation of the Susruta-Samhit
 Though it is customary and convenient to group apart such phenomena as are termed mental and such of them as are exhibited by men in society, under the heads of Psychology and Sociology, yet it must be allowed that there are no absolute demarcations in Nature, corresponding to them, and so in the entire Science of Life, psychology and sociology are inseparably linked with Anatomy and Physiology, nay, more, with Pathology and Hygiene and above all with Treatment. In short the Biological Sciences must deal with whatever phenomena are manifested by living matter in whatever condition it is placed. Life in health (sukhayuḥ) as well as Life in disease (duḥkhayuḥ), therefore, fall within the scope of Biology—even life exhibited by man in Society (hitahitaṃ) is not exempted from it.
 
 hitāhitaṃ mukhaṃ duḥkhamāyustasya hitāhitam | 
-mānañca tacca yatroktamāyurvedaḥ sa ucyate || 
+
+<blockquote className="ayur-shloka">
+mānañca tacca yatroktamāyurvedaḥ sa ucyate ||
+</blockquote>
+
       caraka, shlokasthan, १ ma adhyaya |
 
 In calling Ayurveda, therefore, the entire Science of Life, we are not guided by any prejudice of our own, but we rely solely on facts and figures, and these, when closely studied, will lead any one to arrive at the same conclusion, not unlike our own and to interpret Ayurveda as a collection of Biological Sciences in all departments. In the first place, for the guidance of our readers, we will mention that the name Ayurveda itself is a strong evidence in favour of its being called the Science of Life. Secondly, we will refer to the arrangement of the subject-matter in the Sharira-sthana which is popularly believed to be the anatomical portion of the book, as tending to the same conclusion. In this section, chapters on Midwifery and Management of Infants follow close to the heels of those on Anatomy and Physiology, and these latter again are immediately preceded by chapters on Psychology. This intermixture is certainly an anomaly and can in no wise be satisfactorily explained unless we have to look upon these as general truths of Biology, elucidated by the Introduction of special truths exclusively collected from the science of medicine—bhiṣagādiṣu saṃsārya sandarśitāni |. To. call it Descriptive Anatomy or Physiology, in the modern sense of the term is simply ridiculous. The absence of any reference to brain and spinal cord, to pancreas and heart, in a book of Anatomy and Physiology is unpardonable and in the Sharira-sthana we feel this absence almost to despondency. Moreover, in western medical science, Grey’s Ana- tony and Kirke’s Physiology, for instance, in their bulk, exceeds, each, more than a thousand of pages and to present to the public, under the same name less than half a dozen of pages, as the result of Indian wisdom, is certainly a very miserable contrast—a contrast that is calculated to inspire no admiration, but, on the contrary, to generate in scientific minds an universal apathy, at least an apathy towards all that is connected with the system of Indian Medicine. In order to save our venerable Rishis from this disastrous plight, we announce here foremost of all, that our beloved Science of Ayurveda is by no means an Encyclopedic work, but distinctly possesses every characteristic that marks the Science of Biology. The very name Ayurvada indicates that it is actually a science of Ayus  and the word Ayus is used here in the same sense as Mr. Herbert Spencer understands by his remarkable definition of Life.
@@ -60,25 +64,41 @@ helps the Surgeons and the Surgeons only in their operations.[2] But so far as B
 
 He says:—
 
+
+<blockquote className="ayur-shloka">
 1. na śakyaścakṣuṣā draṣṭuṃ dehe sūkṣmatamo vibhuḥ | 
 dṛśyate jñānacakṣurbhistapaścakṣurbhireva ca || 
 śarire caiva śāstre ca dṛṣṭārthaḥ syādviśāradaḥ | 
 dṛṣṭaśrutābhayāṃ sandehamavāpohyācaret kriyāḥ ||
+</blockquote>
 
+
+
+<blockquote className="ayur-shloka">
 2. tasmānniḥsaṃśayaṃ jñānaṃ hartrā śalyasya vāñcatā | 
 śodhayitvā mṛtaṃ samyag draṣṭavyayo'ṅgaviniścayaḥ || 
 pratyakṣato hi yad dṛṣṭaṃ śāstradṛṣṭañca yadbhavet | 
 samāsatastadubhayaṃ bhūyo jñānavivardhanam ||
+</blockquote>
 
+
+
+<blockquote className="ayur-shloka">
 1. na śakyaścakṣuṣā draṣṭuṃ dehe sūkṣmatamo vibhuḥ | 
 dṛśyate jñānacakṣurbhistapaścakṣurbhireva ca || 
 śarire caiva śāstre ca dṛṣṭārthaḥ syādviśāradaḥ | 
 dṛṣṭaśrutābhayāṃ sandehamavāpohyācaret kriyāḥ ||
+</blockquote>
 
+
+
+<blockquote className="ayur-shloka">
 2. tasmānniḥsaṃśayaṃ jñānaṃ hartrā śalyasya vāñcatā | 
 śodhayitvā mṛtaṃ samyag draṣṭavyayo'ṅgaviniścayaḥ || 
 pratyakṣato hi yad dṛṣṭaṃ śāstradṛṣṭañca yadbhavet | 
 samāsatastadubhayaṃ bhūyo jñānavivardhanam ||
+</blockquote>
+
 
 That is, the protean work of the protoplasm in which the great Self resides cannot be detected by the body’s eye; to know its work, mind’s eye is necessary, along with the body’s eye. For acquiring efficiency in Surgery alone, the dissection of dead body (not of living body as proclaimed by Herophilus), nay, the Avagharshana which brings into view the layers of the epidermis and the dermis, the number and branches of blood-vessels and nerves that lie embedded in muscles, etc, is only necessary. Professor Michael Foster’s remarks in his article on Physiology in the Encyclopedia Britannica, to all appearnces, are just in the same line, if not identical with our extract, when he says “that the problem of Physiology, in the future, is largely concerned in arriving by experiment and inference, by the mind’s eye, and not by the body’s eye alone, assisted, as that may be, by lenses yet to be introduced at a knowledge of the molecular construction of the protean protoplasm; of the laws according to which it is built up and the laws according to which it breaks down; for these laws when ascertained will clear up the mysteries of the protean work which the protoplasm does.”
 
@@ -86,15 +106,31 @@ In short the knowledge of the molecular construction of the body is just the thi
 
 The following extracts, from Charaka Samhita, are cited here to prove that we are quite justified in our contention,
 
+
+<blockquote className="ayur-shloka">
 1. śarirāvayavāstu paramāṇubhedenāparisaṃkhyayā bhavanti—teṣāṃ saṃyogavibhāge vāyuḥ kāraṇam | karma svabhāvaśceti |
+</blockquote>
+
 
 2. śarirasaṃkhyāṃ yo veda sarvāvayavaśo bhiṣak | 
-tadajñānanimittena sa mohena na yujyate ||
 
+<blockquote className="ayur-shloka">
+tadajñānanimittena sa mohena na yujyate ||
+</blockquote>
+
+
+
+<blockquote className="ayur-shloka">
 1. śarirāvayavāstu paramāṇubhedenāparisaṃkhyayā bhavanti—teṣāṃ saṃyogavibhāge vāyuḥ kāraṇam | karma svabhāvaśceti |
+</blockquote>
+
 
 2. śarirasaṃkhyāṃ yo veda sarvāvayavaśo bhiṣak | 
+
+<blockquote className="ayur-shloka">
 tadajñānanimittena sa mohena na yujyate ||
+</blockquote>
+
 
 That is, the body is composed of molecules and these are said to be numberless, because no body can count them up. By their union, they build up the body, and this union is governed by three Laws, viz., the Laws of Vayu, Karma and Svabhava (which are almost equivalent to the three Biological Laws, i. e., the law of heredity, the law of external relations and the law of molecular motion caused by Ethereal vibrations compared with which nerve-impulses—akin to electric force,—are grosser and coarser shocks). So far we think we have proved that Ayurveda, as a Biology is not defective, if it contains no descriptive Anatomy and Physiology—descriptive in the same sense as Grey’s Anatomy or Kirke’s Physiology is. Its Histiology is molecular; its Pathology is molecular; its Physiology is molecular. Molecular in every sense is the Biology of the Hindus. Virtually speaking, Ayurveda is our Science of Life, and we will presently shew that Life  and Ayus are identical.
 
@@ -103,7 +139,11 @@ The continuous adjustment of molecules, their successive breaking down and build
 He says
 
 śarirendriyasatvātmasaṃyogo dhāri jivitam | 
+
+<blockquote className="ayur-shloka">
 nityagaścānubaddhaśca paryāyairāyurucyate ||
+</blockquote>
+
 
 In another place the same definition is repeated with a slight modification and in this he enumerates cetananuvṛttiḥ, (consciousness) as the most distinctive characteristic of Ayus. According to this definition, sharirendriyasatvatmasaṃyogaḥ and cetananuvṛttiḥ refer to an organised living body; nityagaḥ and anuvandhaḥ are identical with processes of breaking down and building up of the organism without destroying its identity. The idea of continuous adjustment is included also in these two words.
 
@@ -115,7 +155,11 @@ From the above short tab we come to know that the agent that adjusts the intern,
 
 world, and that Prana (praṇaḥ) is another name of the same force that, in acting on an aggregated living body, divides itself into five distinct forces, viz., Prana, Apana, Samana, Udana, and Vyana, and subserves the functions of correlation (vayuḥ) and sustentation (pittaṃ) and controls oxidation (shleṣma). So Prana continuously helps to adjust, like the main-spring of a watch, the internal relations to the external relations. We are indebted to the master mind of Sankara for his able exposition of the functions of this main-spring, that is, of the etherial vibrations (vayupraṇaḥ) as transformed into the vital force in an organised body. We quote below what he says about it in his celeberated commentary on the Vedanta Darsana.
 
+
+<blockquote className="ayur-shloka">
 vāyurevā'yamadhyātmamāpannaḥ pañcavyūho viśeṣātmanā'vatiṣṭhamānaḥ prāṇo nāma bhaṇyate na tattvāntaraṃ nā'pi vāyumātram | ataścobhe api bhedābhedaśruti na virudhyete |२|४|?|
+</blockquote>
+
 
 That is, the primitive fluid that is endued with motion in its evolution of Life gets knotted into five divisions, viz, Prana, Apana, Samana, Udana and Vyana, and this acting on any aggregated living matter is called Prana. So what we call Prana is not the Vayu itself, but a particular mode of its motion. Hence the question of identity and non-identity is a matter of choice. Shortly speaking, this is the Biology of the Hindus. This too is the sum and substance into which (as a department of Biology), Physiology unfolds itself.
 

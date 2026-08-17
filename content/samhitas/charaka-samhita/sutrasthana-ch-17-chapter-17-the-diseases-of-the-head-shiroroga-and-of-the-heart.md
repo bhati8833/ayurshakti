@@ -236,7 +236,11 @@ The Description of the Moist Gangrene
 
 The Two Types of Abscess
 
+
+<blockquote className="ayur-shloka">
 90. Vidradhi or abscess is described to be of two kinds—external abscess and internal abscess. The external one forms in the skin, muscle and flesh. It is of the appearance of Kandara [Kaṇḍarā], a muscular swelling and is very painful.
+</blockquote>
+
 
 The Pathology of Abscess
 

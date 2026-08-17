@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Suitable and unsuitables for health within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. Chapter XX - Suitable and unsuitables for health
+## Chapter XX - Suitable and unsuitables for health
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -123,21 +123,20 @@ The North wind is cold, crisp, mild, of a sweet taste terminating in an astringe
 
 Thus ends the twentieth Chapter of the Sutrasthana in the Sushruta samhita which treats of salutary and nonsalutary effects of the regimen.
 
-[1]:
 
-The propriety and impropriety of a particular diet should be determined with a full regard to the antecedent and attending circumstances of a particular malady.
+<div className="footnote-card"><strong>[1]</strong> The propriety and impropriety of a particular diet should be determined with a full regard to the antecedent and attending circumstances of a particular malady.</div>
 
-[2]:
 
-This couplet occurs also in the Charaka Samhita.
 
-[3]:
 
-Different Reading:—In a child or in a man of voracious appetite.
+<div className="footnote-card"><strong>[2]</strong> This couplet occurs also in the Charaka Samhita.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Different Reading:—In a child or in a man of voracious appetite.</div>
 
 ---
-
-
 
 ---
 
@@ -146,10 +145,6 @@ Different Reading:—In a child or in a man of voracious appetite.
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Poulticing and bandaging of wounds: Sushruta Samhita Sutrasthana Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

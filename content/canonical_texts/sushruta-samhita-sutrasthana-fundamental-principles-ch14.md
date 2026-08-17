@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Usage of leeches within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. Chapter XIII - Usage of leeches
+## Chapter XIII - Usage of leeches
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -75,17 +75,15 @@ The physician who is fully conversant with the habitat, mode of catching, preser
 
 Thus ends the thirteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Leeches and of how and which to use.
 
-[1]:
 
-The leeches, though a blissful dispensation of Nature in themselves, instinctively draw off the vitiated blood from a diseased part, attacking the healthy vital fluid (red blood) when the former has been completely tapped or sucked.
+<div className="footnote-card"><strong>[1]</strong> The leeches, though a blissful dispensation of Nature in themselves, instinctively draw off the vitiated blood from a diseased part, attacking the healthy vital fluid (red blood) when the former has been completely tapped or sucked.</div>
 
-[2]:
 
-In case of full and proper bleeding (Yoga) the ulcer should be rubbed with clarified butter technically known as the Shatadhauta (lit: hundred times washed) Ghrita (clarified butter), or a piece of cotton, soaked in the same substance, applied as a compress over the part. The ulcer should be rubbed with honey in a case of insufficient bleeding, while it should be washed with a copious quantity of cold water if excessive bleeding (Ati-Yoga) should set in. Similarly in a case marked by the absence of any bleeding at all (Mithya-Yoga) a sour, sweet and cooling plaster should be applied over the ulcer.
+
+
+<div className="footnote-card"><strong>[2]</strong> In case of full and proper bleeding (Yoga) the ulcer should be rubbed with clarified butter technically known as the Shatadhauta (lit: hundred times washed) Ghrita (clarified butter), or a piece of cotton, soaked in the same substance, applied as a compress over the part. The ulcer should be rubbed with honey in a case of insufficient bleeding, while it should be washed with a copious quantity of cold water if excessive bleeding (Ati-Yoga) should set in. Similarly in a case marked by the absence of any bleeding at all (Mithya-Yoga) a sour, sweet and cooling plaster should be applied over the ulcer.</div>
 
 ---
-
-
 
 ---
 
@@ -94,10 +92,6 @@ In case of full and proper bleeding (Yoga) the ulcer should be rubbed with clari
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Description of blood: Sushruta Samhita Sutrasthana Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

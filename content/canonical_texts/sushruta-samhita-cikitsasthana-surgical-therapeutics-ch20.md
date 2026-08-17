@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of erysipelas within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 22. Chapter XVII - The medical treatment of erysipelas
+## Chapter XVII - The medical treatment of erysipelas
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -99,73 +99,87 @@ The above are the general remedial measures which are to be adopted in the affec
 
 Thus ends the Seventeenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of erysipelas, sinus and the diseases of the mammary glands.
 
-[1]:
 
-Chakradatta reads “Arka”, Vamsha and Artagala instead of the drugs of a heat-making potency. Dallana explains the drugs of a heat-making potency to be the drugs of the Bhadra-darvadi and the Pippalyadi groups.
+<div className="footnote-card"><strong>[1]</strong> Chakradatta reads “Arka”, Vamsha and Artagala instead of the drugs of a heat-making potency. Dallana explains the drugs of a heat-making potency to be the drugs of the Bhadra-darvadi and the Pippalyadi groups.</div>
 
-[2]:
 
-In order to facilitate its removal.
 
-[3]:
 
-It means “Kshira-vidari”. Jejjata explains it as “Arka-pushpi”.
+<div className="footnote-card"><strong>[2]</strong> In order to facilitate its removal.</div>
 
-[4]:
 
-Some explain it as “Haridra”, while others explain it as “Gorocana”.
 
-[5]:
 
-Dallana, however, says that these drugs will weigh four Palas i.e., half a seer in all.
+<div className="footnote-card"><strong>[3]</strong> It means “Kshira-vidari”. Jejjata explains it as “Arka-pushpi”.</div>
 
-[6]:
 
-“Sarala” here means “Trivrit”. Chakradatta reads “saraṇa” which also means “Trivrit”.
 
-[7]:
 
-‘Ekaishika,” according to Dallana, would mean Shatavari but Shivadasa explains it as Patha.
+<div className="footnote-card"><strong>[4]</strong> Some explain it as “Haridra”, while others explain it as “Gorocana”.</div>
 
-[8]:
 
-Gayadasa explains it as Karkata-Shringi.
 
-[9]:
 
-Poulticing with the drugs which induce suppuration is not approved of by Gayadasa.
+<div className="footnote-card"><strong>[5]</strong> Dallana, however, says that these drugs will weigh four Palas i.e., half a seer in all.</div>
 
-[10]:
 
-Four seers of oil, the (Kalka) drugs combindely weighing one seer and sixteen seers of water are to be taken in its preparation.—Dallana.
 
-[11]:
 
-Dallana’s reading evidently is “Tali-lala” and he explains it as the roots of “Bhumyamalaki”. Chakradatta also prescribes this oil but he takes “Nilika” instead of “Tali”, Shivadasa, again, in his commentary quotes from Sushruta but reads “Nili-Nala” in place of “Tala-Nala.”
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> “Sarala” here means “Trivrit”. Chakradatta reads “saraṇa” which also means “Trivrit”.
+</blockquote>
 
-[12]:
 
-“Moca-rasa” is explained by Dallana to be “Shobhanjana,” but it generally means “Shalmali-veshta,”and Shivadasa explains it as such.—Ed.
 
-[13]:
 
-According to Chakradatta’s reading and Shivadasa’s commentary thereon, only the Saindhava (instead of the five officinal kinds of salt) should be taken. We, however, follow Dallana’s interpretation with good results.
+<div className="footnote-card"><strong>[7]</strong> ‘Ekaishika,” according to Dallana, would mean Shatavari but Shivadasa explains it as Patha.</div>
 
-[14]:
 
-“Alavana” has been explained by Dallana as “Kaka-mardanika” and by Shivadasa as “Jyotishmati”. Shivadasa is, however, followed in practice in this case.
 
-[15]:
 
-According to some different reading “burnt ashes” (instead of powders) of the drugs should be taken. In our humble opinion the reading in the text seems to be the correct one,
+<div className="footnote-card"><strong>[8]</strong> Gayadasa explains it as Karkata-Shringi.</div>
 
-[16]:
 
-The milk should be pressed out of the Dhatri’s breasts in the non-suppurated stage, to alleviate the burning sensation therein, in the suppurating Stage for the avoidance of further suppuration, and in the suppurated s tage for the prevention of sores, sinus, etc.
+
+
+<div className="footnote-card"><strong>[9]</strong> Poulticing with the drugs which induce suppuration is not approved of by Gayadasa.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Four seers of oil, the (Kalka) drugs combindely weighing one seer and sixteen seers of water are to be taken in its preparation.—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Dallana’s reading evidently is “Tali-lala” and he explains it as the roots of “Bhumyamalaki”. Chakradatta also prescribes this oil but he takes “Nilika” instead of “Tali”, Shivadasa, again, in his commentary quotes from Sushruta but reads “Nili-Nala” in place of “Tala-Nala.”</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> “Moca-rasa” is explained by Dallana to be “Shobhanjana,” but it generally means “Shalmali-veshta,”and Shivadasa explains it as such.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> According to Chakradatta’s reading and Shivadasa’s commentary thereon, only the Saindhava (instead of the five officinal kinds of salt) should be taken. We, however, follow Dallana’s interpretation with good results.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> “Alavana” has been explained by Dallana as “Kaka-mardanika” and by Shivadasa as “Jyotishmati”. Shivadasa is, however, followed in practice in this case.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> According to some different reading “burnt ashes” (instead of powders) of the drugs should be taken. In our humble opinion the reading in the text seems to be the correct one,</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> The milk should be pressed out of the Dhatri’s breasts in the non-suppurated stage, to alleviate the burning sensation therein, in the suppurating Stage for the avoidance of further suppuration, and in the suppurated s tage for the prevention of sores, sinus, etc.</div>
 
 ---
-
-
 
 ---
 
@@ -174,10 +188,6 @@ The milk should be pressed out of the Dhatri’s breasts in the non-suppurated s
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">The affections of the mouth: Sushruta Samhita Cikitsasthana Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

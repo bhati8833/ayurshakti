@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 14. Sushruta—The seed of Medical Science within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 67. 14. Sushruta—The seed of Medical Science
+## 14. Sushruta—The seed of Medical Science
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ The method of contraception through vasectomy is clearly seen. in the part of At
 
 ---
 
-## 68. Chapter 5 - Surgical instruments in Sushruta Samhita
+## Chapter 5 - Surgical instruments in Sushruta Samhita
 
 Surgery in ancient India (Study)
 
@@ -33,11 +33,9 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 
 Chapter 5 - Surgical instruments in Sushruta Samhita
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 69. 2. Surgical Instruments mentioned in Sushruta Samhita
+## 2. Surgical Instruments mentioned in Sushruta Samhita
 
 Surgery in ancient India (Study)
 
@@ -91,8 +89,6 @@ Vagbhata described copper probes having the sharp ends shaped like the buds of k
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -100,10 +96,6 @@ Vagbhata described copper probes having the sharp ends shaped like the buds of k
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">4. Classification of Surgical Instruments: Ancient Indian Surgical Science Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

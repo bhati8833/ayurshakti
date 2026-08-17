@@ -11,7 +11,7 @@ description: "text includes treatments, recipes and remedies and is categorised 
 
 ---
 
-## 1. Part 2 - Qualifications of a Disciple
+## Part 2 - Qualifications of a Disciple
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -31,7 +31,7 @@ This concludes ‘Qualifications of a Disciple’ included in Bhudeb Mookerjee R
 
 ---
 
-## 2. Introduction
+## Introduction
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -51,17 +51,20 @@ Metallurgy is a great science revealed to the world by God Himself at the commen
 
 Treatment of diseases by Rasa (mercury), gems, metals etc is divine; that by incantations and vegetable drugs human; and that by surgical instruments diabolical. Metallurgy is therefore to be learnt very carefully.
 
-[1]:
 
-Vide ‘Original Home of Mankind’ written in Bengali by the late Pundit Umesh Chandra Vidyaratna.
+<div className="footnote-card"><strong>[1]</strong> Vide ‘Original Home of Mankind’ written in Bengali by the late Pundit Umesh Chandra Vidyaratna.</div>
 
-[2]:
 
-The theory of the creation of the universe out of nothing is untenable, in as much as it implies want and desire in God, and thus reduces Him to the level of a finite being. God is eternal, and so is the universe, which only undergoes periodical dissolution and change of form.
 
-[3]:
 
-According to the Hindus, eternity is measured by the following terms Kalpa, Manvantara and Yuga. Kalpa is the period which is followed and preceded by the dissolution of the universe. A Kalpa is sub-divided into so many Manvantaras, each of Which is again subdivided into so many Yugas.
+<div className="footnote-card"><strong>[2]</strong> The theory of the creation of the universe out of nothing is untenable, in as much as it implies want and desire in God, and thus reduces Him to the level of a finite being. God is eternal, and so is the universe, which only undergoes periodical dissolution and change of form.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> According to the Hindus, eternity is measured by the following terms Kalpa, Manvantara and Yuga. Kalpa is the period which is followed and preceded by the dissolution of the universe. A Kalpa is sub-divided into so many Manvantaras, each of Which is again subdivided into so many Yugas.</div>
+
+
 
 Conclusion:
 
@@ -69,7 +72,7 @@ This concludes ‘Introduction’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ---
 
-## 3. Part 1 - Qualifications of a Preceptor
+## Part 1 - Qualifications of a Preceptor
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -87,7 +90,7 @@ This concludes ‘Qualifications of a Preceptor’ included in Bhudeb Mookerjee 
 
 ---
 
-## 4. Part 3 - Construction of a Laboratory
+## Part 3 - Construction of a Laboratory
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -105,7 +108,7 @@ This concludes ‘Construction of a Laboratory’ included in Bhudeb Mookerjee R
 
 ---
 
-## 5. Part 4 - The Rasalinga or Rasalingam (Phallus made of Mercury)
+## Part 4 - The Rasalinga or Rasalingam (Phallus made of Mercury)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -129,17 +132,20 @@ The goddess of beauty is in the form of speech or word; is the root cause of the
 
 Thus the Goddess is to be worshipped with due offerings; and so also are to be worshipped Nandy, Bhringi, Mahakala and Kulira (followers of Siva).
 
-[1]:
 
-For explanation of difficult words see appendix.
+<div className="footnote-card"><strong>[1]</strong> For explanation of difficult words see appendix.</div>
 
-[2]:
 
-The hymn is given in original in the foot note on page 9 No translation is attempted.
 
-[3]:
 
-For a detailed procedure to be followed in the worship of both the Deities, a disciple should depend upon the instructions given by his preceptor.
+<div className="footnote-card"><strong>[2]</strong> The hymn is given in original in the foot note on page 9 No translation is attempted.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> For a detailed procedure to be followed in the worship of both the Deities, a disciple should depend upon the instructions given by his preceptor.</div>
+
+
 
 Conclusion:
 
@@ -147,7 +153,7 @@ This concludes ‘The Rasalinga or Rasalingam (Phallus made of Mercury)’ inclu
 
 ---
 
-## 6. Part 5 - Details and Equipments of the Laboratory
+## Part 5 - Details and Equipments of the Laboratory
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -179,7 +185,7 @@ This concludes ‘Details and Equipments of the Laboratory’ included in Bhudeb
 
 ---
 
-## 7. Chapter II - Initiation of Disciple
+## Chapter II - Initiation of Disciple
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -189,15 +195,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter II - Initiation of Disciple
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Initiation of Disciple’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 8. Part 1 - Preliminary ceremonies
+## Part 1 - Preliminary ceremonies
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -215,7 +219,7 @@ This concludes ‘Preliminary ceremonies’ included in Bhudeb Mookerjee Rasa Ja
 
 ---
 
-## 9. Part 2 - A Kalini wife
+## Part 2 - A Kalini wife
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -227,9 +231,10 @@ Part 2 - A Kalini wife
 
 That wife is called Kalini whose hair, is curled; whose body is warm in winter, and comfortably cold in summer; who has a complexion as bright as heated gold; whose eyes are like lotus flowers; who is beautiful, young, and has a well-cut physique; whose thighs are wide; who is possessed of all good qualities; who has breasts so well-developed as to give her stature a slight stoop; whose kiss, embrace and touch are soft; whose voice is very mild; whose genital organ is so developed as to give it the configuration of an Asvatha leaf, and who commences her menstruation during the period when the moon is on the wane. Such a lady is powerful, and is capable of success in metallurgical operations. She is efficient in preparing mercurial compounds, in the application of mercury to patients, and in the preparation of medicines for the prevention of premature old age and diseases. In case, such a wife is not available, any beautiful lady may serve the purpose, if she is required for three weeks only, to take every morning one tola of purified sulphur, mixed with clarified butter.[1]
 
-[1]:
 
-This dose was prescribed more than 5000 years ago. The present day human beings can stand only one fourth to half of the dose prescribed in those days.
+<div className="footnote-card"><strong>[1]</strong> This dose was prescribed more than 5000 years ago. The present day human beings can stand only one fourth to half of the dose prescribed in those days.</div>
+
+
 
 Conclusion:
 
@@ -237,7 +242,7 @@ This concludes ‘A Kalini wife’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ---
 
-## 10. Part 3 - Recitation of mantras
+## Part 3 - Recitation of mantras
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -255,7 +260,7 @@ This concludes ‘Recitation of mantras’ included in Bhudeb Mookerjee Rasa Jal
 
 ---
 
-## 11. Part 3 - Drawing of a hexagonal lotus diagram
+## Part 3 - Drawing of a hexagonal lotus diagram
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -277,7 +282,7 @@ This concludes ‘Drawing of a hexagonal lotus diagram’ included in Bhudeb Moo
 
 ---
 
-## 12. Part 4 - Success in operations
+## Part 4 - Success in operations
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -299,7 +304,7 @@ This concludes ‘Success in operations’ included in Bhudeb Mookerjee Rasa Jal
 
 ---
 
-## 13. Chapter III - Parada (Mercury)
+## Chapter III - Parada (Mercury)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -309,15 +314,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter III - Parada (Mercury)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Parada (Mercury)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 14. Part 1 - Synonyms and Characteristics of Parada (mercury)
+## Part 1 - Synonyms and Characteristics of Parada (mercury)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -339,21 +342,27 @@ Eating, touching, giving, meditating upon, and adoring of mercury are the five d
 
 There is nothing greater in this world than -emancipation of the soul, which is obtainable by means of wisdom. The great Siva said that there are two ways of attaining wisdom, viz., stopping of respiration (as practised by the Yogis), and extinction of the passions. Neither of these can be attained without a strong and healthy physique. Now, mercury and air are the two things which can sustain the body. Mercury, in a state of swoon removes diseases, and, when dead, sustains the body in a healthy condition. Both air and. mercury, if bound and rendered incapable of movement, render the body light enough to move in the atmosphere[4]. It cannot be otherwise. Enjoyment in this world of wealth and physical comforts is to be considered transient; emancipation of soul is therefore always to be aimed at. But emancipation depends upon knowledge which is the result of concentration of mind, this last depending upon a firm physique. Firmness of the body cannot be properly attained by any elixir made of vegetables and metals (except mercury). Being itself of an unstable nature, combustible, and liable to decomposition and shrinkage, a vegetable drug is subsumed in lead; Lead is similarly subsumed in tin, and so also tin in copper copper in silver, silver in gold, and gold in mercury. As the souls of, Yogis are translated into the being of Siva and thereby attain immortality, so are the metals subsumed in the mercury which has already swallowed some mica. As the extinction of every being always takes place in the universal Soul, so the extinction of every material substance takes place in mercury. Mercury alone is therefore competent to free the body from infirmity and disease.
 
-[1]:
 
-Diseases are due to an abnormal excess of one or more of the three doshas, viz., vāyuḥ, (vayu or air), pittam (pittam, i.e., the internal heat of the body), and kaphaḥ (kapha or phlegm.)
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Diseases are due to an abnormal excess of one or more of the three doshas, viz., vāyuḥ, (vayu or air), pittam (pittam, i.e., the internal heat of the body), and kaphaḥ (kapha or phlegm.)
+</blockquote>
 
-[2]:
 
-All these refer to the properties of mercury, as purified according to the processes given here-in-after.
 
-[3]:
 
-Mahesvara (or Shiva) the universal Being, manifests Himself in three different aspects personified, viz., Brahma (the creator), Vishnu (the preserver), and Rudra (the destroyer of the universe).
+<div className="footnote-card"><strong>[2]</strong> All these refer to the properties of mercury, as purified according to the processes given here-in-after.</div>
 
-[4]:
 
-The ability of expert Yogis to walk upon the surface of water and to ascend the atmosphere is traditional in this country. Such miracles are reported to have been worked even in our own time.
+
+
+<div className="footnote-card"><strong>[3]</strong> Mahesvara (or Shiva) the universal Being, manifests Himself in three different aspects personified, viz., Brahma (the creator), Vishnu (the preserver), and Rudra (the destroyer of the universe).</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> The ability of expert Yogis to walk upon the surface of water and to ascend the atmosphere is traditional in this country. Such miracles are reported to have been worked even in our own time.</div>
+
+
 
 Conclusion:
 
@@ -361,7 +370,7 @@ This concludes ‘Synonyms and Characteristics of Parada (mercury)’ included i
 
 ---
 
-## 15. Part 2 - Different kinds of Mercury
+## Part 2 - Different kinds of Mercury
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -381,7 +390,7 @@ This concludes ‘Different kinds of Mercury’ included in Bhudeb Mookerjee Ras
 
 ---
 
-## 16. Part 3 - Etymologial significance of the different names of Mercury
+## Part 3 - Etymologial significance of the different names of Mercury
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -399,7 +408,7 @@ This concludes ‘Etymologial significance of the different names of Mercury’ 
 
 ---
 
-## 17. Preface
+## Preface
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -465,7 +474,7 @@ This concludes ‘Preface’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1
 
 ---
 
-## 18. Chapter IV-V - Mercurial operations
+## Chapter IV-V - Mercurial operations
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -475,15 +484,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter IV-V - Mercurial operations
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Mercurial operations’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 19. Part 1 - Appearance of blemished and purified Mercury
+## Part 1 - Appearance of blemished and purified Mercury
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -517,7 +524,7 @@ This concludes ‘Appearance of blemished and purified Mercury’ included in Bh
 
 ---
 
-## 20. Part 2 - Eighteen different kinds of Mercurial operations
+## Part 2 - Eighteen different kinds of Mercurial operations
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -539,7 +546,7 @@ This concludes ‘Eighteen different kinds of Mercurial operations’ included i
 
 ---
 
-## 21. Part 5 - Mercurial operations (3): Rubbing of Mercury (mardana)
+## Part 5 - Mercurial operations (3): Rubbing of Mercury (mardana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -569,9 +576,10 @@ Fourth process.
 
 Mercury is to be rubbed constantly for one day or three days with the powder of each of the following, mixed with lime juice: red brick, haridra, dhumasara (soot), and urna (wool) reduced to ashes. The mercury is then to be subjected to upward sublimation for several times, or to be sifted by means of a thick piece of cloth; or to be washed off in kanji.
 
-[1]:
 
-In the absence of a better term we make it to mean???? Modern Chemistry has got nothing corresponding to???? (exhausted mercury),????. (dead mercury) and???? (mercury reduced to ash). Calomel and some other mercurial preparations may perhaps be considered to belong to the class of mur???? (swooned mercury).
+<div className="footnote-card"><strong>[1]</strong> In the absence of a better term we make it to mean???? Modern Chemistry has got nothing corresponding to???? (exhausted mercury),????. (dead mercury) and???? (mercury reduced to ash). Calomel and some other mercurial preparations may perhaps be considered to belong to the class of mur???? (swooned mercury).</div>
+
+
 
 Conclusion:
 
@@ -579,7 +587,7 @@ This concludes ‘Mercurial operations (3): Rubbing of Mercury (mardana)’ incl
 
 ---
 
-## 22. Part 4 - Mercurial operations (2): Boiling of Mercury (svedana)
+## Part 4 - Mercurial operations (2): Boiling of Mercury (svedana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -611,7 +619,7 @@ This concludes ‘Mercurial operations (2): Boiling of Mercury (svedana)’ incl
 
 ---
 
-## 23. Part 8 - Mercurial operations (6): Confinement of Mercury (rodhana)
+## Part 8 - Mercurial operations (6): Confinement of Mercury (rodhana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -651,7 +659,7 @@ This concludes ‘Mercurial operations (6): Confinement of Mercury (rodhana)’ 
 
 ---
 
-## 24. Part 7 - Mercurial operations (5): Sublimation of Mercury (patana)
+## Part 7 - Mercurial operations (5): Sublimation of Mercury (patana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -715,13 +723,15 @@ Now, mercury and copper are to be carefully separated from each other, and again
 
 Mica, purified and finely powdered, is to be rubbed with mercuy and kanji in a motar, and made into a lump which is to be placed in a Tirjak Patana Yantra. Heat is to be increased gradually till the whole of the mercury is sublimated (patana) through the inclined passage.
 
-[1]:
 
-For details see chapter on apparata.
+<div className="footnote-card"><strong>[1]</strong> For details see chapter on apparata.</div>
 
-[2]:
 
-Vidyadhara Yantra is more convenient.
+
+
+<div className="footnote-card"><strong>[2]</strong> Vidyadhara Yantra is more convenient.</div>
+
+
 
 Conclusion:
 
@@ -729,7 +739,7 @@ This concludes ‘Mercurial operations (5): Sublimation of Mercury (patana)’ i
 
 ---
 
-## 25. Part 6 - Mercurial operations (4): Raising of Mercury (utthapana)
+## Part 6 - Mercurial operations (4): Raising of Mercury (utthapana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -753,7 +763,7 @@ This concludes ‘Mercurial operations (4): Raising of Mercury (utthapana)’ in
 
 ---
 
-## 26. Part 3 - Mercurial operations (1): Purification of Mercury (shodhana)
+## Part 3 - Mercurial operations (1): Purification of Mercury (shodhana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -827,29 +837,35 @@ Or (c) Hingula is to be rubbed with the juice of leaves of paribhadra (meaning t
 
 Place an earthen vessel (about two feet in height) upside down on four props made of pieces of stone or brick (with sufficient space kept open for the entrance of air into the vessel). Within the space enclosed by the three props, place an earthen basin (in such a way as not to obstruct the entrance of air into the vessel). Spread the dried and powdered Hingula over a piece of cloth and wrap it in several folds. The cloth, thus folded and made into a bundle, is then to be put into the earthen basin. The bundle is now to be covered with mild tikia fire. When the fire will be extinguished and the apparatus cooled, mercury Will be found to be deposited inside the vessel.
 
-[1]:
 
-One palam is equal to 4 rupees in weight, For measures of metallurgical weight, see page 310.
+<div className="footnote-card"><strong>[1]</strong> One palam is equal to 4 rupees in weight, For measures of metallurgical weight, see page 310.</div>
 
-[2]:
 
-Any one of these eleven processes is sufficient for the purpose.
 
-[3]:
 
-For provincial and Latin names for all the plants etc., referred to in this book, see foot note in Appendix.
+<div className="footnote-card"><strong>[2]</strong> Any one of these eleven processes is sufficient for the purpose.</div>
 
-[4]:
 
-In case fresh juice of herbs is not available, a decoction is to be prepared as follows:—“The prescribed herb, fresh and well-dried, is to be cut into pieces and boiled in an earthen vessel, covered with an earthen basin, with sixteen times its weight of water, which is to be reduced to one fourth its quantity. In the absence of specific instructions, this procedure is to be followed everywhere.”
 
-[5]:
 
-See chapter on Yantra or apparata.
+<div className="footnote-card"><strong>[3]</strong> For provincial and Latin names for all the plants etc., referred to in this book, see foot note in Appendix.</div>
 
-[6]:
 
-The apparatus described here is called a Vidyadhara Yantra.
+
+
+<div className="footnote-card"><strong>[4]</strong> In case fresh juice of herbs is not available, a decoction is to be prepared as follows:—“The prescribed herb, fresh and well-dried, is to be cut into pieces and boiled in an earthen vessel, covered with an earthen basin, with sixteen times its weight of water, which is to be reduced to one fourth its quantity. In the absence of specific instructions, this procedure is to be followed everywhere.”</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> See chapter on Yantra or apparata.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> The apparatus described here is called a Vidyadhara Yantra.</div>
+
+
 
 Conclusion:
 
@@ -857,7 +873,7 @@ This concludes ‘Mercurial operations (1): Purification of Mercury (shodhana)�
 
 ---
 
-## 27. Part 10 - Mercurial operations (8): Stimulation of Mercury (dipana)
+## Part 10 - Mercurial operations (8): Stimulation of Mercury (dipana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -883,7 +899,7 @@ This concludes ‘Mercurial operations (8): Stimulation of Mercury (dipana)’ i
 
 ---
 
-## 28. Part 11 - Mercurial operations (9): Rehabilitation of Mercury (anubasana)
+## Part 11 - Mercurial operations (9): Rehabilitation of Mercury (anubasana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -919,7 +935,7 @@ This concludes ‘Mercurial operations (9): Rehabilitation of Mercury (anubasana
 
 ---
 
-## 29. Part 9 - Mercurial operations (7): Restraint of Mercury (niyamana)
+## Part 9 - Mercurial operations (7): Restraint of Mercury (niyamana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -955,7 +971,7 @@ This concludes ‘Mercurial operations (7): Restraint of Mercury (niyamana)’ i
 
 ---
 
-## 30. Part 13 - Mercurial operations (11): Swooning of mercury (murchhana)
+## Part 13 - Mercurial operations (11): Swooning of mercury (murchhana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1115,21 +1131,25 @@ Anather process.
 
 A strong and unburnt crucible, sixteen angulis in length, and having a breadth equal to the diameter of an ordinary lime fruit, is to be kept inside a Baluka Yantra. Three parts of this crucible is to be kept under sand, the rest, viz. one fourth, being kept above that. One pala of powdered and purified sulphur is to be poured into the crucible; and an equal quantity of pure mercury is next to be poured into the same. This is to be followed by the pouring again into the crucible of one pala of sulphur, as before. The crucible is then to be closed very carefully, and the Baluka-yantra put upon a mild fire and heated, until smoke ceases to come out. The crucible is then to be filled with the juice of kakamachi, and heated by means of a mild heat. The evaporation of the juice is to be followed by the pouring in of the juice of pan leaves. When that, too, will be evaporated, juice of dhutura is to be poured in the same manner and heated. These juices are to be poured into the crucible in their turns, until the mercury is completely consumed. The mercury is then to be procured by breaking the crucible open. This mercury is what is called entangled with sulphur. This serves to heighten the property of a drug with which it is mixed, and is the carer of diseases and decay due to the premature arrival of old age.
 
-[1]:
 
-The general rule is not to use any metal for medicinal purposes without purifying and reducing it to ashes, Mercury, may, however, be made use of, after it passes through all the stages up to “swoon”. Sulphur may be used after purification.
+<div className="footnote-card"><strong>[1]</strong> The general rule is not to use any metal for medicinal purposes without purifying and reducing it to ashes, Mercury, may, however, be made use of, after it passes through all the stages up to “swoon”. Sulphur may be used after purification.</div>
 
-[2]:
 
-Finely powdered mica. For preparation, see Vol. II. under mica.
 
-[3]:
 
-These will be named later.
+<div className="footnote-card"><strong>[2]</strong> Finely powdered mica. For preparation, see Vol. II. under mica.</div>
 
-[4]:
 
-Samputa means a basin placed upon another, the joint being tightly dosed with rags mixed with mud. This is used for the purpose of killing metals and semimetals which are placed inside the two basins. See the Chapter on puta.
+
+
+<div className="footnote-card"><strong>[3]</strong> These will be named later.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Samputa means a basin placed upon another, the joint being tightly dosed with rags mixed with mud. This is used for the purpose of killing metals and semimetals which are placed inside the two basins. See the Chapter on puta.</div>
+
+
 
 Conclusion:
 
@@ -1137,7 +1157,7 @@ This concludes ‘Mercurial operations (11): Swooning of mercury (murchhana)’ 
 
 ---
 
-## 31. Part 14 - Mercurial operations (12): Movement of mercury (sancharana)
+## Part 14 - Mercurial operations (12): Movement of mercury (sancharana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1155,7 +1175,7 @@ This concludes ‘Mercurial operations (12): Movement of mercury (sancharana)’
 
 ---
 
-## 32. Part 15 - Mercurial operations (13): Internal liquefaction of mercury (garbhadruti)
+## Part 15 - Mercurial operations (13): Internal liquefaction of mercury (garbhadruti)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1179,9 +1199,10 @@ Gold, silver, ete. are to be mixed with the essence of svarnamakshika, and rubbe
 
 Now, we are going to describe the process by which mercury, which has already been made to swallow a sufficient quantity of gold, mica etc., is to be exhausted and; then killed and reduced to ashes. The man who kills mercury without exhausting it and making it swallow a sufficient quantity of gold, mica etc. is a great sinner, and is to be taken for an enemy of the great God. Hence, mercury is to be exhausted very carefully before it is killed.
 
-[1]:
 
-See later, under Alchemy.
+<div className="footnote-card"><strong>[1]</strong> See later, under Alchemy.</div>
+
+
 
 Conclusion:
 
@@ -1189,7 +1210,7 @@ This concludes ‘Mercurial operations (13): Internal liquefaction of mercury (g
 
 ---
 
-## 33. Part 16 - Mercurial operations (14): Exhaustion of mercury (yarana)
+## Part 16 - Mercurial operations (14): Exhaustion of mercury (yarana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1235,17 +1256,20 @@ Another version.
 
 Mercury is first of all to swallow the following five morsels of essence of mica:—1/64, 1/40, 1/30, 1/20, and 1/16 of the mercury, which is then to swallow one fourth its weight of gold or silver, as the case may be.[3]
 
-[1]:
 
-In the event of mercury having previously swallowed sulphur, mica, gold etc. this process need not be gone into.
+<div className="footnote-card"><strong>[1]</strong> In the event of mercury having previously swallowed sulphur, mica, gold etc. this process need not be gone into.</div>
 
-[2]:
 
-These are—kusumbha, khadira, laksha, manjistha, raktachandana, redsbigru, bandhujiba, karpura-gandhini and makshika, These are used in preparing a deep red colour.
 
-[3]:
 
-If the mercury is meant to be used for medicinal purposes only, boils gold and silver or any one of them may be used at this stage. But if the mercury is meant to be used in the transformation of base metals into gold or silver, the use of these two metals at this stage, will depend upon whether it is meant to manufacture gold or silver.
+<div className="footnote-card"><strong>[2]</strong> These are—kusumbha, khadira, laksha, manjistha, raktachandana, redsbigru, bandhujiba, karpura-gandhini and makshika, These are used in preparing a deep red colour.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> If the mercury is meant to be used for medicinal purposes only, boils gold and silver or any one of them may be used at this stage. But if the mercury is meant to be used in the transformation of base metals into gold or silver, the use of these two metals at this stage, will depend upon whether it is meant to manufacture gold or silver.</div>
+
+
 
 Conclusion:
 
@@ -1253,7 +1277,7 @@ This concludes ‘Mercurial operations (14): Exhaustion of mercury (yarana)’ i
 
 ---
 
-## 34. Part 17 - Mercurial operations (15): Killing of mercury (marana)
+## Part 17 - Mercurial operations (15): Killing of mercury (marana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1359,9 +1383,10 @@ Characteristics of dead mercury.
 
 Dead mercury is white, light, stable, devoid of glare, and is capable of killing metals. When put on fire, it does not expand and sublimate.
 
-[1]:
 
-Sulphur, purified and powdered, is to be strewn over a piece of cloth, which is to be soaked with mustard oil, and made into a wicker. If lighted, and held erect on a glass pot, the wicker will let oil fall, drop by drop, and collect itself in the pot. This oil is called sulphur oil.
+<div className="footnote-card"><strong>[1]</strong> Sulphur, purified and powdered, is to be strewn over a piece of cloth, which is to be soaked with mustard oil, and made into a wicker. If lighted, and held erect on a glass pot, the wicker will let oil fall, drop by drop, and collect itself in the pot. This oil is called sulphur oil.</div>
+
+
 
 Conclusion:
 
@@ -1369,7 +1394,7 @@ This concludes ‘Mercurial operations (15): Killing of mercury (marana)’ incl
 
 ---
 
-## 35. Part 12 - Mercurial operations (10): Swallowing of metals of Mercury (grasana)
+## Part 12 - Mercurial operations (10): Swallowing of metals of Mercury (grasana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1523,17 +1548,20 @@ Those chemists who score partial success in mercurial operations, by making merc
 
 Mica is first of all to be swallowed by mercury and then is gold to be similarly swallowed (grasana); and last of all, is to be effected what is called garbhadruti or internal liquefaction of mercury. The chemist who does not know this makes a waste of his money.
 
-[1]:
 
-For the best process of consuming of sulphur by mercury, see Jarana-yantra under apparata.
+<div className="footnote-card"><strong>[1]</strong> For the best process of consuming of sulphur by mercury, see Jarana-yantra under apparata.</div>
 
-[2]:
 
-Gold leaves are sometimes used in the preparation of Svarnasindura or Makaradhvaja, etc., but the process bow the gold is to be swallowed by the mercury does not appear to be known to tbe modern chemists who are under a wrong impression that gold cannot be chemically combined with mercury. Instead of making, the mercury swallow the gold by one of the processes described here, the modern kavirajas and their followers rub the mercury and the gold leaves with sulphur and the prescribed juices; and thus prepare the compound by means of a Baluka-yantra, failing to have the mercury combined with the gold, which is found separated from the compound. For preparation of Makaradhvaja, etc., see the next mercurial operation.
 
-[3]:
 
-According to another version, it is to be plastered all over with mud mixed with human hair.
+<div className="footnote-card"><strong>[2]</strong> Gold leaves are sometimes used in the preparation of Svarnasindura or Makaradhvaja, etc., but the process bow the gold is to be swallowed by the mercury does not appear to be known to tbe modern chemists who are under a wrong impression that gold cannot be chemically combined with mercury. Instead of making, the mercury swallow the gold by one of the processes described here, the modern kavirajas and their followers rub the mercury and the gold leaves with sulphur and the prescribed juices; and thus prepare the compound by means of a Baluka-yantra, failing to have the mercury combined with the gold, which is found separated from the compound. For preparation of Makaradhvaja, etc., see the next mercurial operation.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> According to another version, it is to be plastered all over with mud mixed with human hair.</div>
+
+
 
 Conclusion:
 
@@ -1541,7 +1569,7 @@ This concludes ‘Mercurial operations (10): Swallowing of metals of Mercury (gr
 
 ---
 
-## 36. Part 18 - Mercurial operations (16): Incineration of mercury (bhasmikarana)
+## Part 18 - Mercurial operations (16): Incineration of mercury (bhasmikarana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1829,25 +1857,30 @@ The following are the killers of mercury:—They are to be used by the adept in 
 
 Gandhanakuli, kshirini, bandhyakarkati, brahmi, sharapunkha, kakajangha, maurashikha, (nilakantha, or moragphul), brahmadandi, akhuparni, punarnaba, kanchuki (khirisha), murba (suchamukhi), saindhava salt, utpala, chinchika, shatabari, astisanghara, bajrakanda, gokshura, mandukaparni, patali, chitraka, grishmasundara, kakamachi, jalapippali, haridra, tilaparnika, svetarka, shigru, dhuttura, mrigadurba, haritaki, guduchi, mushali, sarapunkha, bhringaraja, raktachitraka, tagara, shurana, mundiri, kasta-udumbara, karanja, kokilaksha, saindhava, svetapunarnaba, sambara salt, hingu, madhu, aparajita, somalata, langali, bata, byaghrapadi (bikankata), godhapadi, brishchikali, jhinti, mashaparni-krishnajira, hastishundi, indrabaruni, and seeds of arka. All of them, or at least 18 of them, are to be used, jointly or separately, in the transformation, incineration (bhasmikarana), and entanglement of mercury.
 
-[1]:
 
-another reading—bhekaparni.
+<div className="footnote-card"><strong>[1]</strong> another reading—bhekaparni.</div>
 
-[2]:
 
-The dhatus are the seven essential substances composing the human system.
 
-[3]:
 
-Powdered rice immersed for some time in four times its weight of water gives rise to rice water.
+<div className="footnote-card"><strong>[2]</strong> The dhatus are the seven essential substances composing the human system.</div>
 
-[4]:
 
-This refers to the taking of mercury alone, purified or incinerated, and does not apply to medicines containing mercury with other metals.
 
-[5]:
 
-The allopaths who have been using “makaradhvaja” should take note of this. Administration of Makaradhvaja and quinine at the same time, is found to be not only abortive but pernicious also.
+<div className="footnote-card"><strong>[3]</strong> Powdered rice immersed for some time in four times its weight of water gives rise to rice water.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> This refers to the taking of mercury alone, purified or incinerated, and does not apply to medicines containing mercury with other metals.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> The allopaths who have been using “makaradhvaja” should take note of this. Administration of Makaradhvaja and quinine at the same time, is found to be not only abortive but pernicious also.</div>
+
+
 
 Conclusion:
 
@@ -1855,7 +1888,7 @@ This concludes ‘Mercurial operations (16): Incineration of mercury (bhasmikara
 
 ---
 
-## 37. Part 19 - Mercurial operations (17): Dyeing of mercury (ranjana)
+## Part 19 - Mercurial operations (17): Dyeing of mercury (ranjana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -1939,7 +1972,7 @@ This concludes ‘Mercurial operations (17): Dyeing of mercury (ranjana)’ incl
 
 ---
 
-## 38. Part 20 - Mercurial operations (18): Transformation of base metals into gold by mercury (bedhana)
+## Part 20 - Mercurial operations (18): Transformation of base metals into gold by mercury (bedhana)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2007,17 +2040,20 @@ Transformation of metals are of various kinds, viz, (1) lepa, (2) kshepa, (3) ku
 
 6) Sparsha-bedha— is an act of transformation of base metals into gold by the mere touch of a mercury, already exhausted with at least sixteen times its weight of bija (metals, gems, etc.), and brought to a state of consolidation. This mercury is popularly known to be the Sparsha-mani (Philosopher's stone).
 
-[1]:
 
-This refers to what was popularly called the Sparshamani or Philosopher’s stone.
+<div className="footnote-card"><strong>[1]</strong> This refers to what was popularly called the Sparshamani or Philosopher’s stone.</div>
 
-[2]:
 
-Mercury exhausted with what is called bidabati should be used in this case.
 
-[3]:
 
-See Chapter on Definitions.
+<div className="footnote-card"><strong>[2]</strong> Mercury exhausted with what is called bidabati should be used in this case.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> See Chapter on Definitions.</div>
+
+
 
 Conclusion:
 
@@ -2025,7 +2061,7 @@ This concludes ‘Mercurial operations (18): Transformation of base metals into 
 
 ---
 
-## 39. Part 1 - Alchemical apparatus (yantra)
+## Part 1 - Alchemical apparatus (yantra)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2245,13 +2281,15 @@ Baruni-yantra.
 
 This differs from a Nadika-yantra in this that it has got a water pot placed at the top of the vessel containing the drugs; it has no water trough through which the tube is to pass in a Nadika-yantra; it requires a straight and not a bent tube, and that it requires the pot meant to contain the extract to be surrounded on all sides with water.
 
-[1]:
 
-Powder of overburnt brick, according to another version.
+<div className="footnote-card"><strong>[1]</strong> Powder of overburnt brick, according to another version.</div>
 
-[2]:
 
-Pradesha is the maximum distance measured from the tip of the thumb to that of the little finger.
+
+
+<div className="footnote-card"><strong>[2]</strong> Pradesha is the maximum distance measured from the tip of the thumb to that of the little finger.</div>
+
+
 
 Conclusion:
 
@@ -2259,7 +2297,7 @@ This concludes ‘Alchemical apparatus (yantra)’ included in Bhudeb Mookerjee 
 
 ---
 
-## 40. Part 2 - Alchemical crucibles (musa)
+## Part 2 - Alchemical crucibles (musa)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2335,9 +2373,10 @@ Musala-musha.
 
 It is flat at the bottom, cylindrical, and eight angulis in height. It is suitable for the purpose of heating a paste of mercury.
 
-[1]:
 
-According to another version eight parts of burnt husk is to be used, instead of jute fiber and burnt husk.
+<div className="footnote-card"><strong>[1]</strong> According to another version eight parts of burnt husk is to be used, instead of jute fiber and burnt husk.</div>
+
+
 
 Conclusion:
 
@@ -2345,7 +2384,7 @@ This concludes ‘Alchemical crucibles (musa)’ included in Bhudeb Mookerjee Ra
 
 ---
 
-## 41. Part 3 - Burning pits (puta or samputa)
+## Part 3 - Burning pits (puta or samputa)
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2399,7 +2438,7 @@ This concludes ‘Burning pits (puta or samputa)’ included in Bhudeb Mookerjee
 
 ---
 
-## 42. Chapter VI - Laboratory equipment
+## Chapter VI - Laboratory equipment
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2409,15 +2448,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VI - Laboratory equipment
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Laboratory equipment’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 43. Chapter VII - Enumeration of technical terms
+## Chapter VII - Enumeration of technical terms
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2427,15 +2464,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VII - Enumeration of technical terms
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Enumeration of technical terms’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 44. Part 1 - Definitions of technical terms
+## Part 1 - Definitions of technical terms
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2519,9 +2554,10 @@ Copper, combined with an equal quantity of tikshna (steel), is to be smelted and
 
 Tara-rakti, which improves the colour of silver and tara-bija (silver seed), is prepared similarly.
 
-[1]:
 
-For some other kinds of poisons and semi-poisons, see page 91.
+<div className="footnote-card"><strong>[1]</strong> For some other kinds of poisons and semi-poisons, see page 91.</div>
+
+
 
 Conclusion:
 
@@ -2529,7 +2565,7 @@ This concludes ‘Definitions of technical terms’ included in Bhudeb Mookerjee
 
 ---
 
-## 45. Chapter VIII - Conclusion of first volume
+## Chapter VIII - Conclusion of first volume
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2539,15 +2575,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VIII - Conclusion of first volume
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Conclusion of first volume’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 46. Part 1 - Additional process for transformation of base metals into gold and silver
+## Part 1 - Additional process for transformation of base metals into gold and silver
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2651,13 +2685,15 @@ Bleaching of copper.
 
 A fine copper leaf is to be coated all over with a solution of apamarga burnt into ashes, and then heated. The process is to be performed for seven times with the result that the copper leaf will turn very soft, pure white, and spotless. Such copper is to be used for the purpose of transformation into gold or silver.
 
-[1]:
 
-According to another version, seventy two parts of the powder, one part of mercury, two parts of a compound made of sixteen parts of silver and twelve parts of copper.
+<div className="footnote-card"><strong>[1]</strong> According to another version, seventy two parts of the powder, one part of mercury, two parts of a compound made of sixteen parts of silver and twelve parts of copper.</div>
 
-[2]:
 
-Preparation of gold is ordinarily prohibited. It is only for the bare subsistence of life that one may have recourse to it.
+
+
+<div className="footnote-card"><strong>[2]</strong> Preparation of gold is ordinarily prohibited. It is only for the bare subsistence of life that one may have recourse to it.</div>
+
+
 
 Conclusion:
 
@@ -2665,7 +2701,7 @@ This concludes ‘Additional process for transformation of base metals into gold
 
 ---
 
-## 47. Part 2 - Measures of weight
+## Part 2 - Measures of weight
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2683,7 +2719,7 @@ This concludes ‘Measures of weight’ included in Bhudeb Mookerjee Rasa Jala N
 
 ---
 
-## 48. Chapter I - Requisites for metallurgical operations
+## Chapter I - Requisites for metallurgical operations
 
 Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory
 
@@ -2692,8 +2728,6 @@ This first volume of the Rasa-jala-nidhi includes preliminary information on Alc
 The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a compendium of Sanskrit verses dealing with ancient Indian alchemy and chem...
 
 Chapter I - Requisites for metallurgical operations
-
-- Sub-Contents: (+ / -)
 
 Conclusion:
 

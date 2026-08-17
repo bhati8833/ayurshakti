@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Basic Ayurvedic Concepts in Veterinary Texts within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 3. Basic Ayurvedic Concepts in Veterinary Texts
+## Basic Ayurvedic Concepts in Veterinary Texts
 
 Journal of the European Ayurvedic Society
 
@@ -35,7 +35,7 @@ Ayurvedasaukhya of Todarananda, Vol. II: Basic principles of ayurveda, edited an
 
 ---
 
-## 4. Miscellaneous Ayurvedic Works
+## Miscellaneous Ayurvedic Works
 
 Journal of the European Ayurvedic Society
 
@@ -91,7 +91,7 @@ R.P. Das, Miscellanea de Operibus Ayurvedicis 67 as a plural. This is obviously 
 
 ---
 
-## 5. Yukti, the fourth means of knowledge for physicians
+## Yukti, the fourth means of knowledge for physicians
 
 Journal of the European Ayurvedic Society
 
@@ -131,8 +131,6 @@ Santaraksita's interpretation. He does not accept these two as being the real th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -140,10 +138,6 @@ Santaraksita's interpretation. He does not accept these two as being the real th
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Sanskrit Ayurvedic Manuscripts in the British Isles: Journal Of The European Ayurvedic Society Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Discussion (use of plants among tribal society) within Studies In Ethnobotany Of Nath Of Bundelkhand Region. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter 6 - Discussion (use of plants among tribal society)
+## Chapter 6 - Discussion (use of plants among tribal society)
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -139,8 +139,6 @@ synthetic drugs for the treatment of various ailments but we should not loose si
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -148,10 +146,6 @@ synthetic drugs for the treatment of various ailments but we should not loose si
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Bibliography: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

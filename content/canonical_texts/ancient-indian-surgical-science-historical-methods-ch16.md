@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 12. Notes and References within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 52. 12. Notes and References
+## 12. Notes and References
 
 Surgery in ancient India (Study)
 
@@ -27,7 +27,7 @@ REFERENCES 1 Singh N.K, Dr, Agwan, AR, Encyclopedia of the Holy Qur'An, Vol-I, G
 
 ---
 
-## 53. Chapter 4 - Sushruta’s concept of SSurgery
+## Chapter 4 - Sushruta’s concept of SSurgery
 
 Surgery in ancient India (Study)
 
@@ -35,11 +35,9 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 
 Chapter 4 - Sushruta’s concept of SSurgery
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 54. 2. Medicine in pre-Susruta period
+## 2. Medicine in pre-Susruta period
 
 Surgery in ancient India (Study)
 
@@ -51,8 +49,6 @@ The history of medicine in pre Susrutian India goes back to remote antiquity. Th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -60,10 +56,6 @@ The history of medicine in pre Susrutian India goes back to remote antiquity. Th
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">3. The period of Rational Medicine: Ancient Indian Surgical Science Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

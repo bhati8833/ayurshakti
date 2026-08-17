@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Milk products and preparations in Ayurvedic cookery within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 61. Milk products and preparations in Ayurvedic cookery
+## Milk products and preparations in Ayurvedic cookery
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -41,7 +41,7 @@ It is heavy, sweet, unctuous, cold and refreshing. It promotes strength, fat and
 
 ---
 
-## 62. Appetizers in Ayurvedic cookery
+## Appetizers in Ayurvedic cookery
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -59,7 +59,7 @@ If laxative fruits such as chebula myrobalans etc. Make it fragrant by adding fr
 
 ---
 
-## 63. Panakani (Beverages) in Ayurvedic cookery
+## Panakani (Beverages) in Ayurvedic cookery
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -81,8 +81,6 @@ beverages. The properties of the beverage depend upon those of the ingredients m
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -90,10 +88,6 @@ beverages. The properties of the beverage depend upon those of the ingredients m
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">References and Notes for chapter 4: Kshemakutuhala Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

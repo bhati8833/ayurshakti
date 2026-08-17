@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Indian art of debate according to the Carakasaṃhitā within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. The Indian art of debate according to the Carakasaṃhitā
+## The Indian art of debate according to the Carakasaṃhitā
 
 Philosophy of Charaka-samhita
 
@@ -49,45 +49,56 @@ It is not sensible to enter into a debate in a hostile council even if it consis
 
 In brief, Caraka gives a conspicuous and diplomatic description of the nature and function of a debating council, taking into consideration the divergent attitudes and dispositions of the participants. The instructions about the procedures that are to be adopted by the disputant are suggestive of how they would be helpful in the successful functioning of the Pariṣads in engendering faultless and precise knowledge. When compared with a hostile discussion, a friendly discussion is an unbiased one. On the contrary, a hostile discussion always aims at either ones own victory or the defeat of the opponent. The most important aspect of a colloquy is that it reflects a secular outlook. Its goalpost is true knowledge that contributes to human betterment and happiness. So Caraka does not emphasize religion and family status of the participants. The two main things that he insists are intellectual ability and moral strength.
 
-[1]:
 
-S. Radhakrishnan, Indian Philosophy, Oxford University Press, Delhi, 6th Impression, 2000, Vol. II, p. 33.
+<div className="footnote-card"><strong>[1]</strong> S. Radhakrishnan, Indian Philosophy, Oxford University Press, Delhi, 6th Impression, 2000, Vol. II, p. 33.</div>
 
-[2]:
 
-pariṣattu khalu dvividhā—jñānavatī, mūḍhapariṣacca. saiva dvividhā satī trividhā punaranena kāraṇavibhāgena suhṛtpariṣat, udāsīna pariṣat, pratiniviṣṭa pariṣacceti., CS, Vimāna - sthāna, VIII. 20.
 
-[3]:
 
-Ibid., 15.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> pariṣattu khalu dvividhā—jñānavatī, mūḍhapariṣacca. saiva dvividhā satī trividhā punaranena kāraṇavibhāgena suhṛtpariṣat, udāsīna pariṣat, pratiniviṣṭa pariṣacceti., CS, Vimāna - sthāna, VIII. 20.
+</blockquote>
 
-[4]:
 
-Nyāyasūtra., VI. ii. 47; tadvidyaiśca saha saṃvāda iti prajñāparipākārthaṃ, Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 415.
 
-[5]:
 
-CS, vi, VIII. 16.
+<div className="footnote-card"><strong>[3]</strong> Ibid., 15.</div>
 
-[6]:
 
-Ibid., 17.
 
-[7]:
 
-Ibid.,18
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Nyāyasūtra., VI. ii. 47; tadvidyaiśca saha saṃvāda iti prajñāparipākārthaṃ, Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 415.
+</blockquote>
 
-[8]:
 
-lbid.,19.
 
-[9]:
 
-Loc. cit., F. Note, 2.
+<div className="footnote-card"><strong>[5]</strong> CS, vi, VIII. 16.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., 17.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid.,18</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> lbid.,19.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Loc. cit., F. Note, 2.</div>
 
 ---
 
-## 52. Dialectical terms (2): Demonstration (sthāpanā)
+## Dialectical terms (2): Demonstration (sthāpanā)
 
 Philosophy of Charaka-samhita
 
@@ -111,49 +122,75 @@ Conclusion (nigamana) — therefore, is eternal.
 
 This five- member syllogism is referred to by the category avayava in the Nyāya-sūtra.[3] Vātsyāyana calls it “the great nyāya”.[4] However, Kaṇāda does not speak of the five member syllogism. But later on, almost all the thinkers of the Nyāya-Vaiśeṣika system accepted it, and it came to be called “inference for others” (parārthānumāna).[5] It is also called by the appellation “nyāya”.[6] Vātsyāyana mentions certain schools of thought which admit a ten-member syllogism by including jijñāsa, saṃśaya, śakyaprāpti, prayojana and samśayavyudāsa.[7] The Mīmāṃsakas accept the first three members;[8] the Vedāntins three—either the first or the last three,[9] and the Buddhists two: example (udāharaṇa) and application (upanaya).[10]
 
-[1]:
 
-sthpāpanā nāma tasyā eva pratiñāyā hetudṛṣṭāntopanayanigamanaiḥ sthāpanā, CS, Vimāna - sthāna, VIII. 31.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> sthpāpanā nāma tasyā eva pratiñāyā hetudṛṣṭāntopanayanigamanaiḥ sthāpanā, CS, Vimāna - sthāna, VIII. 31.
+</blockquote>
 
-[2]:
 
-IFD, p. 4.
 
-[3]:
 
-pratijñāhetūdāharṇopanoyanigamanānyavayavāḥ. Nyāyasūtra., I. i. 32.
+<div className="footnote-card"><strong>[2]</strong> IFD, p. 4.</div>
 
-[4]:
 
-“....so'yaṃ paramo nyāya iti”, Vātsyāyana on Nyāyasūtra., I. i. 1; Nyāya-Bhāṣya of Vātsyāyana., p. 9.
 
-[5]:
 
-There are two types of inferences: inferring for oneself (svārthānumāna)and inferring for others (parārthānumāna). pañcāvayavena vākyena svaniścayārthapratipādanaṃ parārthānumānaṃ, Praśastapādabhāṣya., p. 558-565; taccānumānaṃ dvividhaṃ svārthaṃ parārthañca..... tāni ca vākyāni... pratijñāhetūdāharṇopanayanigamanāni, Sanakaramiśra on Vaiśeṣikadarśana., IX. ii. 2, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 493-494; TSA, p. 37-38; Saptapadārthi of Śivāditya., p. 31.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> pratijñāhetūdāharṇopanoyanigamanānyavayavāḥ. Nyāyasūtra., I. i. 32.
+</blockquote>
 
-[6]:
 
-taccanumānaṃ parārthaṃ nyāyasādhyamiti nyāyastadavayavāśca pratijñāhetūdāharaṇopanayanigamanāni nirūpyante.Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. II, Part—I, p.540. Vedatins also accept the appellation Nyāya for syllogism, See Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.75.
 
-[7]:
 
-See Vātsyāyana on Nyāyasūtra., I. i. 32. Nyāya-Bhāṣya of Vātsyāyana., p. 53.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> “....so'yaṃ paramo nyāya iti”, Vātsyāyana on Nyāyasūtra., I. i. 1; Nyāya-Bhāṣya of Vātsyāyana., p. 9.
+</blockquote>
 
-[8]:
 
-pratijñāhetūdāharaṇākhya tryavayavavādino mīmāṃsakāḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., Upotghāta, pp.70-71; Notes, TSA, p.273.
 
-[9]:
 
-avayavāśca traya eva pratijñāhetūdāharaṇarūpāḥ, udāharaṇopanayanigamanarūpā vā na tu pañca, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.75;“Upodghata”, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 71; Notes, TSA, p. 273
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> There are two types of inferences: inferring for oneself (svārthānumāna)and inferring for others (parārthānumāna). pañcāvayavena vākyena svaniścayārthapratipādanaṃ parārthānumānaṃ, Praśastapādabhāṣya., p. 558-565; taccānumānaṃ dvividhaṃ svārthaṃ parārthañca..... tāni ca vākyāni... pratijñāhetūdāharṇopanayanigamanāni, Sanakaramiśra on Vaiśeṣikadarśana., IX. ii. 2, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 493-494; TSA, p. 37-38; Saptapadārthi of Śivāditya., p. 31.
+</blockquote>
 
-[10]:
 
-bauddhāstūdāharṇopanayākhyamavayavadvayaṃ manyante Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upotghata”, p. 70; Notes, TSA, p.273
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> taccanumānaṃ parārthaṃ nyāyasādhyamiti nyāyastadavayavāśca pratijñāhetūdāharaṇopanayanigamanāni nirūpyante.Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. II, Part—I, p.540. Vedatins also accept the appellation Nyāya for syllogism, See Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.75.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> See Vātsyāyana on Nyāyasūtra., I. i. 32. Nyāya-Bhāṣya of Vātsyāyana., p. 53.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> pratijñāhetūdāharaṇākhya tryavayavavādino mīmāṃsakāḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., Upotghāta, pp.70-71; Notes, TSA, p.273.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> avayavāśca traya eva pratijñāhetūdāharaṇarūpāḥ, udāharaṇopanayanigamanarūpā vā na tu pañca, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.75;“Upodghata”, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 71; Notes, TSA, p. 273
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> bauddhāstūdāharṇopanayākhyamavayavadvayaṃ manyante Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upotghata”, p. 70; Notes, TSA, p.273
+</blockquote>
 
 ---
 
-## 53. Dialectical terms (4): Proposition (pratijñā)
+## Dialectical terms (4): Proposition (pratijñā)
 
 Philosophy of Charaka-samhita
 
@@ -163,25 +200,35 @@ Dialectical terms (4): Proposition (pratijñā)
 
 Proposition is the declaration of a thing that is to be proved.[1] This is further attested by Akṣapāda.[2] Vātsyāyana says that it is the pronouncement of an “object qualified by a property” which is to be ascertained.[3] Praśastapāda defines it as an assertion of what is to be proved by means of inference and should be devoid of contradiction.[4]
 
-[1]:
 
-pratijñā nāma sādhyavacanaṃ. Ibid., 30.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> pratijñā nāma sādhyavacanaṃ. Ibid., 30.
+</blockquote>
 
-[2]:
 
-sadhyanirdeśaḥ pratijñā, Nyāyasūtra., I. i. 33.
 
-[3]:
 
-prajñāpanīyena dharmeṇa dharmiṇo viśiṣṭayā parigrahavacanaṃ pratijñā, Vātsyāyana, Nyāya-Bhāṣya of Vātsyāyana., p. 55. The words rendered in English as “object” refer to the minor term (pakṣa) and “property” to the major term (sādhya)
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> sadhyanirdeśaḥ pratijñā, Nyāyasūtra., I. i. 33.
+</blockquote>
 
-[4]:
 
-tatrānumeyodeśo avirodhī pratijñā. Praśastapādabhāṣya., p. 566.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> prajñāpanīyena dharmeṇa dharmiṇo viśiṣṭayā parigrahavacanaṃ pratijñā, Vātsyāyana, Nyāya-Bhāṣya of Vātsyāyana., p. 55. The words rendered in English as “object” refer to the minor term (pakṣa) and “property” to the major term (sādhya)
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> tatrānumeyodeśo avirodhī pratijñā. Praśastapādabhāṣya., p. 566.
+</blockquote>
 
 ---
 
-## 54. Dialectical terms (5): Reason (hetu)
+## Dialectical terms (5): Reason (hetu)
 
 Philosophy of Charaka-samhita
 
@@ -199,45 +246,64 @@ According to the Buddhists, valid reason must fulfill three conditions such as, 
 
 In brief reason helps to prove what is to be proved. In other words, inferential knowledge owes to the knowledge of reason. It has got an important place among the members of syllogism because inferential cognition mainly depends on it.
 
-[1]:
 
-heturnāmopalabdhikāraṇaṃ CS, Vimāna - sthāna, VIII. 33.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> heturnāmopalabdhikāraṇaṃ CS, Vimāna - sthāna, VIII. 33.
+</blockquote>
 
-[2]:
 
-Ibid.
 
-[3]:
 
-CSJ, Vol. III. p.1580.
+<div className="footnote-card"><strong>[2]</strong> Ibid.</div>
 
-[4]:
 
-udāharaṇasādharmāyt sādhyasādhanaṃ hetuḥ. Nyāyasūtra., I. i. 34.
 
-[5]:
 
-udāharaṇasādharmyāt sādhyasya dharmasya sādhanaṃ hetuḥ Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p.55.
+<div className="footnote-card"><strong>[3]</strong> CSJ, Vol. III. p.1580.</div>
 
-[6]:
 
-heturanumānaṃ, Vātsyāyana on Nyāyasūtra., I. i. 1, Nyāya-Bhāṣya of Vātsyāyana., p. 9. See also Nyāya-Vārttikatātparyaṭīkā of Vācaspati Miśra., p. 57
 
-[7]:
 
-heturapadeśo liṅgaṃ pramāṇāṃ karaṇamityanarthāntaraṃ. Vaiśeṣikadarśana., IX. ii. 4.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> udāharaṇasādharmāyt sādhyasādhanaṃ hetuḥ. Nyāyasūtra., I. i. 34.
+</blockquote>
 
-[8]:
 
-liṅgavacanamapadeśaḥ, Praśastapādabhāṣya., p. 575.
 
-[9]:
 
-tatra svārthaṃ trirūpalliṅgādyadanumīyate jñānaṃ tadanumānaṃ, Nyāya Bindu of Dharmakīrti., p. 21; trirūpalingākhyānāṃ parārthānumānaṃ. Ibid, p. 46.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> udāharaṇasādharmyāt sādhyasya dharmasya sādhanaṃ hetuḥ Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p.55.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> heturanumānaṃ, Vātsyāyana on Nyāyasūtra., I. i. 1, Nyāya-Bhāṣya of Vātsyāyana., p. 9. See also Nyāya-Vārttikatātparyaṭīkā of Vācaspati Miśra., p. 57
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> heturapadeśo liṅgaṃ pramāṇāṃ karaṇamityanarthāntaraṃ. Vaiśeṣikadarśana., IX. ii. 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> liṅgavacanamapadeśaḥ, Praśastapādabhāṣya., p. 575.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> tatra svārthaṃ trirūpalliṅgādyadanumīyate jñānaṃ tadanumānaṃ, Nyāya Bindu of Dharmakīrti., p. 21; trirūpalingākhyānāṃ parārthānumānaṃ. Ibid, p. 46.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -246,10 +312,6 @@ tatra svārthaṃ trirūpalliṅgādyadanumīyate jñānaṃ tadanumānaṃ, Ny�
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana): Philosophy Of Charaka Samhita Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

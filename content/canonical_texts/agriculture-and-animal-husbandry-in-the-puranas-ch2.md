@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Date of the Purāṇas within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Part 4 - Date of the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Date of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 4 - Date of the Purāṇas
 
 Part 4 - Date of the Purāṇas
 
@@ -27,38 +23,56 @@ F.E. Pargiter opines that the Purāṇas began long before Āpastamba's time. Hi
 
 According to Pargiter, the Vāyu Purāṇa existed before A.D. 620, because it is referred to by poet Bāṇabhaṭṭa in his historical novel Harṣa-carita, and the writing in a Manuscript of the Skanda in the Royal Library of Nepal shows that that Purāṇa also existed about that time.[16] V.R.R. Dikshitar in his Some Aspects of the Vāyu Purāṇa opines that the epic Mahābhārata and its supplement the Harivaṃśa quote the Vāyu Purāṇa. This shows that this Purāṇa is much anterior to the epic Mahābhārata.[17] Again, the origin of the Bhāgavata Purāṇa may be assigned to the 13th century according to Colebrooke, Burnouf and Wilson.[18] Regarding the composition of the Viṣṇu Purāṇa it is stated that this Purāṇa was composed most probably in the last quarter of the third or the first quarter of the fourth century A.D.[19] The Agni Purāṇa is said to have been composed during the ninth century.[20] Regarding the date of the Matsya Purāṇa, Pargiter in his The Purāṇa Text of the Dynasties of the Kali Age opines that the compilation of the Matsya Purāṇa was begun in the latter part of the 2nd century in the reign of the Andhra king Yajña-Śrī Sātakarṇi.[21] A.M.T. Jackson thinks that Megasthenes was acquainted with part, at least, of a Purāṇic cosmogony and with a Purāṇic list of kings and also with a Purāṇic description of the upper and the lower world.[22] Observing Jackson’s point of view S.D. Gyani opines that Megasthenes had before him the same Purāṇa that has already been shown to have existed from the Vedic times to the 2nd Century B.C., the contents of which are, more or less, reproduced in the more primitive parts of the existing Purāṇas. The earliest part of the Purāṇas therefore, was compiled not later than the last quarter of the 4th century B.C.[23]
 
-[1]:
 
-ṛcaḥ sāmāni chandāṃsi purāṇaṃ yajuṣā saha /
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> ṛcaḥ sāmāni chandāṃsi purāṇaṃ yajuṣā saha /
 ucchiṣṭājjajñire sarve divi devā diviśritaḥ // Atharvaveda Saṃhitā  ,11.7.24
+</blockquote>
 
-[2]:
 
-evaṃ vā are’sya mahato bhūtasya niḥśvasitametadyadṛgvedo yajurvedaḥ sāmavedo’tharvāṅgirasa itihāsaḥ purāṇaṃ vidyā upaniṣadaḥ ślokāḥ sūtrāṇyanuvyākhyānāni vyākhyānāni; asyaivaitāni niḥśvasitāni/ Bṛhadāraṇyaka Upaniṣad , 2.4.10
 
-[3]:
 
-purāṇaṃ sarvaśāstrāṇāṃ prathamaṃ brāhmaṇā smṛtam// Padma Purāṇa , 1.1.45
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> evaṃ vā are’sya mahato bhūtasya niḥśvasitametadyadṛgvedo yajurvedaḥ sāmavedo’tharvāṅgirasa itihāsaḥ purāṇaṃ vidyā upaniṣadaḥ ślokāḥ sūtrāṇyanuvyākhyānāni vyākhyānāni; asyaivaitāni niḥśvasitāni/ Bṛhadāraṇyaka Upaniṣad , 2.4.10
+</blockquote>
 
-[4]:
 
-yasmātpurā hyabhūccaitatpurāṇaṃ tena tat smṛtam / Brahmāṇḍa Purāṇa ,1.1.173
 
-[5]:
 
-prathamaṃ sarvaśāstrāṇāṃ purāṇaṃ brahmaṇā smṛtam /
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> purāṇaṃ sarvaśāstrāṇāṃ prathamaṃ brāhmaṇā smṛtam// Padma Purāṇa , 1.1.45
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> yasmātpurā hyabhūccaitatpurāṇaṃ tena tat smṛtam / Brahmāṇḍa Purāṇa ,1.1.173
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> prathamaṃ sarvaśāstrāṇāṃ purāṇaṃ brahmaṇā smṛtam /
 anantaraṃ ca vaktrebhyo vedāstasya viniḥsṛtāḥ// Vāyu Purāṇa ,1.60-61
 purāṇaṃ sarvaśāstrāṇāṃ prathamaṃ brahmaṇā smṛtam /
 anantaraṃ ca vaktrebhyo vedāstasya vinirgatāḥ// Matsya Purāṇa , 53.3
+</blockquote>
 
-[6]:
 
-purāṇaṃ saṃpravakṣyāmi brahmoktaṃ vedasaṃmitam// Vāyu Purāṇa , 1.11
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> purāṇaṃ saṃpravakṣyāmi brahmoktaṃ vedasaṃmitam// Vāyu Purāṇa , 1.11
 guruṃ praṇamya vakṣyāmi purāṇaṃ vedasaṃmitam// Brahma Purāṇa ,1.30
+</blockquote>
 
-[7]:
 
-vyāsarūpī sa bhagavāñśākhābhedādyakārayat/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> vyāsarūpī sa bhagavāñśākhābhedādyakārayat/
 śākhābhedādayo viṣṇuritihāsaḥ purāṇakam//
 prāpya vyāsātpurāṇādi sūto vai lomahārṣaṇaḥ/
 sumatiścāgnivarcāśca mitrayuḥ śāṃśapāyanaḥ//
@@ -66,78 +80,99 @@ kṛtavrato’tha sāvarṇiḥ ṣaṭśiṣyāstasya cābhavan/
 śāṃśapāyanādayaścakruḥ purāṇanāṃ tu saṃhitāḥ//
 brāhmādīni purāṇāni harividyā daśāṣṭa ca/
 mahāpurāṇe hyāgneye vidyārūpo hariḥ sthitaḥ// Agni Purāṇa ,271.10-13
+</blockquote>
 
-[8]:
 
-Pargiter, F.E., Ancient Indian Historical Tradition, p. 30
 
-[9]:
 
-itihāsapurāṇābhyāṃ bodhayedarthaśāstravit/ Arthaśāstra ,5.6.18
+<div className="footnote-card"><strong>[8]</strong> Pargiter, F.E., Ancient Indian Historical Tradition, p. 30</div>
 
-[10]:
 
-ākhyanānītihāsāṃśca purāṇāni khilāni ca/ Manusaṃhitā , 3.232
 
-[11]:
 
-Pargiter, F.E., op.cit., p. 51
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> itihāsapurāṇābhyāṃ bodhayedarthaśāstravit/ Arthaśāstra ,5.6.18
+</blockquote>
 
-[12]:
 
-Winternitz, M., op.cit., volume 1, p. 502
 
-[13]:
 
-Gyani, S.D., op.cit., p. 27
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> ākhyanānītihāsāṃśca purāṇāni khilāni ca/ Manusaṃhitā , 3.232
+</blockquote>
 
-[14]:
 
-Winternitz, M., op.cit., volume 1, p. 503
 
-[15]:
 
-Hazra, R.C., op.cit., p.4
+<div className="footnote-card"><strong>[11]</strong> Pargiter, F.E., op.cit., p. 51</div>
 
-[16]:
 
-Pargiter, F.E., op.cit., p. 49
 
-[17]:
 
-Dikshitar,V.R.R., Some Aspects of the Vāyu Purāṇa, p 47
+<div className="footnote-card"><strong>[12]</strong> Winternitz, M., op.cit., volume 1, p. 502</div>
 
-[18]:
 
-Winternitz, M., op.cit., volume 1, p. 531
 
-[19]:
 
-De, S.K., et al (ed.), op.cit., volume 2, p.257
+<div className="footnote-card"><strong>[13]</strong> Gyani, S.D., op.cit., p. 27</div>
 
-[20]:
 
-Ibid., p. 262
 
-[21]:
 
-Pargiter, F.E., The Purāṇa Text of the Dynasties of the Kali Age, Introduction, p. XIII, footnote 1
+<div className="footnote-card"><strong>[14]</strong> Winternitz, M., op.cit., volume 1, p. 503</div>
 
-[22]:
 
-Gyani,S.D., op.cit., p. 28
 
-[23]:
 
-Ibid., p. 29
+<div className="footnote-card"><strong>[15]</strong> Hazra, R.C., op.cit., p.4</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Pargiter, F.E., op.cit., p. 49</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Dikshitar,V.R.R., Some Aspects of the Vāyu Purāṇa, p 47
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Winternitz, M., op.cit., volume 1, p. 531</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> De, S.K., et al (ed.), op.cit., volume 2, p.257</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., p. 262</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Pargiter, F.E., The Purāṇa Text of the Dynasties of the Kali Age, Introduction, p. XIII, footnote 1
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Gyani,S.D., op.cit., p. 28</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid., p. 29</div>
 
 ---
 
-## 8. Part 6 - Description of the Upapurāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Description of the Upapuranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 6 - Description of the Upapurāṇas
 
 Part 6 - Description of the Upapurāṇas
 
@@ -185,31 +220,15 @@ The Bṛhaddharma Purāṇa also contains a list having some similar and some di
 
 Āditya-purāṇa,
 
-Bṛhannāradīya-purāṇa,
-
-Nāradīya-purāṇa,
-
-Nandīśvara-purāṇa,
-
-Bṛhannandīśvara-purāṇa,
+Bṛhannāradīya-purāṇa,, Nāradīya-purāṇa,, Nandīśvara-purāṇa,, Bṛhannandīśvara-purāṇa,
 
 Śāmba-purāṇa,
 
-Kriyāyogasāra-purāṇa,
-
-Kālikā-purāṇa,
-
-Dharma-purāṇa,
-
-Viṣṇudharmottara-purāṇa,
+Kriyāyogasāra-purāṇa,, Kālikā-purāṇa,, Dharma-purāṇa,, Viṣṇudharmottara-purāṇa,
 
 Śivadharma-purāṇa,
 
-Viṣṇudharma-purāṇa,
-
-Vāmana-purāṇa,
-
-Vāruṇa-purāṇa,
+Viṣṇudharma-purāṇa,, Vāmana-purāṇa,, Vāruṇa-purāṇa,
 
 Nārasiṃha-purāṇa,
 
@@ -224,22 +243,31 @@ b) Nandī Upapurāṇa, where Kārtikeya has described the glory of Nandī
 c) Śāmba Upapurāṇa, deals with the nature of Śāmba and
 d) Āditya Upapurāṇa, deals with the nature of Āditya.[4]
 
-[1]:
 
-aṣṭādaśapurāṇānāmevameva vidurbudhāḥ/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> aṣṭādaśapurāṇānāmevameva vidurbudhāḥ/
 evaṃ copapurāṇānāmaṣṭādaśa prakīrtitāḥ// Brahmavaivarta Purāṇa , 4.133.22
+</blockquote>
 
-[2]:
 
-Kūrma Purāṇa ,1.1.17-20
 
-[3]:
 
-Bṛhaddharma Purāṇa, 1.25.23-26
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Kūrma Purāṇa ,1.1.17-20
+</blockquote>
 
-[4]:
 
-upabhedānpravakṣyāmi loke ye saṃpratiṣṭhitāḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Bṛhaddharma Purāṇa, 1.25.23-26
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> upabhedānpravakṣyāmi loke ye saṃpratiṣṭhitāḥ /
 pādme purāṇe tatroktaṃ narasiṃhopavarṇanam//
 taccāṣṭādaśasāhasraṃ nārasiṃhamihocyate//
 nandāyā yatra māhātmyaṃ kārtikeyena varṇyate/
@@ -249,14 +277,11 @@ procyate tatpunarloke sāmbametanmunivratāḥ//
 purātanasya kalpasya purāṇāni vidurbudhāḥ/
 dhanyaṃ yaśasyamāyuṣyaṃ purāṇānāmanukramam/
 evamādityasaṃjñā ca tatraiva parigadyate// Matsya Purāṇa , 53.59-62
+</blockquote>
 
 ---
 
-## 9. Part 7 - Division of the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Division of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 7 - Division of the Purāṇas
 
 Part 7 - Division of the Purāṇas
 
@@ -270,51 +295,65 @@ According to the Padma Purāṇa, the classification based on guṇa is as follo
 
 The Garuḍa Purāṇa[3] also gives this classification with a slight modification. According to the Garuḍa Purāṇa, the Bhāgavata, Viṣṇu, Garuḍa, Matsya, Kūrma and Vāyu are described as Sāttvika Purāṇas.[4] Among these six Purāṇas, the Bhāgavata Purāṇa, Viṣṇu Purāṇa and Garuḍa Purāṇa are exalted as superior, as they are the object of special favor of the god Viṣṇu or Hari.[5] The Rājasa Purāṇas are the Skanda, Padma, Vāmana, Varāha, Agni and Bhaviṣya.[6] The Tāmasa Purāṇas are Brahmāṇḍa, Liṅga, Brahmavaivarta, Mārkaṇḍeya, Brahma and Āditya.[7] In the Garuḍa Purāṇa the Sāttvika Purāṇas are divided into three classes. These classes are Sāttvika uttama, Sāttvika madhyama and Sāttvika adhama. Among the Sāttvika Purāṇas, Viṣṇu, Bhāgavata and Garuḍa are Sāttvika uttama, Vāyu is Sāttvika Madhyama and Matsya and Kūrma are Sāttvika adhama.[8]
 
-[1]:
 
-sāttvikeṣu purāṇeṣu māhātmyamadhikaṃ hareḥ/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> sāttvikeṣu purāṇeṣu māhātmyamadhikaṃ hareḥ/
 rājaseṣu ca māhātmyamadhikaṃ brahmaṇo biduḥ//
 tadvadagneśca māhātmyaṃ tāmaseṣu śivasya ca/
 saṃkīrṇeṣu sarasvatyāḥ pitṛṇāṃ ca nigadyate// Ibid.,53.67-68
+</blockquote>
 
-[2]:
 
-Padma Purāṇa , 6.236.18-21
 
-[3]:
 
-Garuḍa Purāṇa , 3.1.42-53,55
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Padma Purāṇa , 6.236.18-21
+</blockquote>
 
-[4]:
 
-Ibid., 3.1.43-51
 
-[5]:
 
-Ibid., 3.1.43-46
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Garuḍa Purāṇa , 3.1.42-53,55
+</blockquote>
 
-[6]:
 
-skāndaṃ pādmaṃ vāmanaṃ vai varāhaṃ tathāgneyaṃ bhaviṣyaṃ parvasṛṣṭau//
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 3.1.43-51</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 3.1.43-46</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> skāndaṃ pādmaṃ vāmanaṃ vai varāhaṃ tathāgneyaṃ bhaviṣyaṃ parvasṛṣṭau//
 etānyāhū rājasānīti viprāstatraikadeśaḥ sāttvikastāmasaśca// Ibid., 3.1.53
+</blockquote>
 
-[7]:
 
-brahmāṇḍalaiṅgye brahmavaivarttakaṃ vai mārkaṇḍeyaṃ brāhmamādityakaṃ ca//
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> brahmāṇḍalaiṅgye brahmavaivarttakaṃ vai mārkaṇḍeyaṃ brāhmamādityakaṃ ca//
 etanyāhustāmasānīti viprāstatraikadeśaḥ sāttviko rājasaśca// Ibid., 3.1.55
+</blockquote>
 
-[8]:
 
-sattvādhame mātsyakaurme tathāhurvāyuṃ cāhuḥ sāttvikaṃ madhyamaṃ ca//
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> sattvādhame mātsyakaurme tathāhurvāyuṃ cāhuḥ sāttvikaṃ madhyamaṃ ca//
 viṣṇoḥ purāṇaṃ bhāgavataṃ purāṇaṃ sattvottamaṃ gāruḍaṃ cāhurāryāḥ// Ibid., 3.1.52
+</blockquote>
 
 ---
 
-## 10. Part 5 - Number of the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Number of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 5 - Number of the Purāṇas
 
 Part 5 - Number of the Purāṇas
 
@@ -448,9 +487,9 @@ Garuḍa: 19000 verses and
 
 Brahmāṇḍa: 12800 verses.
 
-[1]:
 
-aṣṭādaśa purāṇāni purāṇajñāḥ pracakṣate/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> aṣṭādaśa purāṇāni purāṇajñāḥ pracakṣate/
 brāhmaṃ pādmaṃ vaiṣṇavañca śaivaṃ bhāgavataṃ tathā//
 athānyannāradīyañca mārkaṇḍeyañca saptamam/
 āgneyāmaṣṭamañcaiva bhaviṣyaṃ navamaṃ tathā//
@@ -459,72 +498,114 @@ vārāhaṃ dvādaśañcaiva skāṇḍañcātra trayodaśam//
 caturdaśaṃ vāmanañca kaurmaṃ pañcadaśaṃ smṛtam/
 mātsyañca gāruḍañcaiva brahmāṇḍañca tataḥ param//
 mahāpurāṇānyetāni hyaṣṭādaśa mahāmune// Viṣṇu Purāṇa ,3.6.20-24; Brahmavaivarta Purāṇa , 4.133.11-21; Bhāgavata Purāṇa , 12.7.23-24; Kūrma Purāṇa , 1.1.13-15; Skanda Purāṇa , 7.1.2.5-9; Devī Bhāgavata Purāṇa , 1.3. 2-12
+</blockquote>
 
-[2]:
 
-Matsya Purāṇa ,53.12-56
 
-[3]:
 
-Agni Purāṇa , 272.1-23
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Matsya Purāṇa ,53.12-56
+</blockquote>
 
-[4]:
 
-Nāradīya Purāṇa , 1.92.26-28
 
-[5]:
 
-Skanda Purāṇa ,5.3.1.31-45
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Agni Purāṇa , 272.1-23
+</blockquote>
 
-[6]:
 
-trayoviṃśatisāhasraṃ vaiṣṇavaṃ ca vidurbudhāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Nāradīya Purāṇa , 1.92.26-28
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Skanda Purāṇa ,5.3.1.31-45
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> trayoviṃśatisāhasraṃ vaiṣṇavaṃ ca vidurbudhāḥ/
 caturviṃśatisāhasraṃ śaivameva nirūpitam// Brahmavaivarta Purāṇa , 4.133.12
+</blockquote>
 
-[7]:
 
-brāhmaṃ pādmaṃ vaiṣṇavañca śaivaṃ bhāgavataṃ tathā// Viṣṇu Purāṇa , 3.6.20
 
-[8]:
 
-brāhmaṃ pādmaṃ vaiṣṇavaṃ ca śaivaṃ laiṅgaṃ sagāruḍam/ Bhāgavata Purāṇa , 12.7.23
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> brāhmaṃ pādmaṃ vaiṣṇavañca śaivaṃ bhāgavataṃ tathā// Viṣṇu Purāṇa , 3.6.20
+</blockquote>
 
-[9]:
 
-Gyani, S.D., op.cit., p. 5-6
 
-[10]:
 
-caturthaṃ vāyunā proktaṃ vāyavīyamiti smṛtam/
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> brāhmaṃ pādmaṃ vaiṣṇavaṃ ca śaivaṃ laiṅgaṃ sagāruḍam/ Bhāgavata Purāṇa , 12.7.23
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Gyani, S.D., op.cit., p. 5-6</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> caturthaṃ vāyunā proktaṃ vāyavīyamiti smṛtam/
 śivabhaktisamāyogācchaivaṃ taccāparākhyayā// Skanda Purāṇa ,5.3.1.33
+</blockquote>
 
-[11]:
 
-Bhāgavata Purāṇa , 12.7.23-24
 
-[12]:
 
-Vāyu Purāṇa , 104.2-11
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Bhāgavata Purāṇa , 12.7.23-24
+</blockquote>
 
-[13]:
 
-evamaṣṭādaśoktāni purāṇāni vṛhanti ca/ Ibid., 104.11
 
-[14]:
 
-Devī Bhāgavata Purāṇa , 1.3. 2
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Vāyu Purāṇa , 104.2-11
+</blockquote>
 
-[15]:
 
-Matsya Purāṇa , 53.13-56; Bhāgavata Purāṇa , 12.13.4-9; Vāyu Purāṇa , 104.1-10; Agni Purāṇa ,272.1-23
 
-[16]:
 
-Skanda Purāṇa ,5.3.1.31-45
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> evamaṣṭādaśoktāni purāṇāni vṛhanti ca/ Ibid., 104.11
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Devī Bhāgavata Purāṇa , 1.3. 2
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Matsya Purāṇa , 53.13-56; Bhāgavata Purāṇa , 12.13.4-9; Vāyu Purāṇa , 104.1-10; Agni Purāṇa ,272.1-23
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Skanda Purāṇa ,5.3.1.31-45
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -533,10 +614,6 @@ Skanda Purāṇa ,5.3.1.31-45
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">2 - Contents of the Bhāgavata Purāṇa: Agriculture And Animal Husbandry In The Puranas Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

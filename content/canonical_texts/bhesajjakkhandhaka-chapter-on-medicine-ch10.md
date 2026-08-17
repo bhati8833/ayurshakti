@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Medicines (b): Stems (Gaṇḍa) within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 34. Medicines (b): Stems (Gaṇḍa)
+## Medicines (b): Stems (Gaṇḍa)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -36,27 +36,33 @@ As described by van Wyk and Wink (2004, 16), in modern botanical science, bark i
 
 The following table summarises the stem-medicines found in the Mūlasarvāstivāda Bhaiṣajyavastu:
 
-[1]:
 
-Gilgit Manuscripts III. 1.iii: “gaṇḍabhaiṣajyaṃ| candanṃ cavikā padmakā devadāru guḍūcī dāruharidrā iti| yadvā punaranyadapi gaṇḍabhaiṣajyārthāya spharati nāmiṣārthāya|”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Gilgit Manuscripts III. 1.iii: “gaṇḍabhaiṣajyaṃ| candanṃ cavikā padmakā devadāru guḍūcī dāruharidrā iti| yadvā punaranyadapi gaṇḍabhaiṣajyārthāya spharati nāmiṣārthāya|”
+</blockquote>
 
-[2]:
 
-There is no plant recognised as 葛栢. 葛 may be a miswriting of 褐 and 褐栢(柏) possibly refers to brown cypress.
 
-[3]:
 
-Taishō Tripiṭaka 1448. 1b12-14: “莖藥者，栴檀香藥、葛栢木、天木香、不死藤、小栢，若餘體例，准前應
+<div className="footnote-card"><strong>[2]</strong> There is no plant recognised as 葛栢. 葛 may be a miswriting of 褐 and 褐栢(柏) possibly refers to brown cypress.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1448. 1b12-14: “莖藥者，栴檀香藥、葛栢木、天木香、不死藤、小栢，若餘體例，准前應
+</blockquote>
+
+
 
 用。” 天木 is the literal translation of devadāru (deodar). 不死藤 should be the literal translation of amṛtavallī, which is a synonym of guḍūcī (gulancha tinospora).
 
-[4]:
 
-See van Wyk and Wink 2004, 407.
+<div className="footnote-card"><strong>[4]</strong> See van Wyk and Wink 2004, 407.</div>
 
 ---
 
-## 35. Medicines (a): Roots (Mūla)
+## Medicines (a): Roots (Mūla)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -98,101 +104,151 @@ According to modern herbal medicine, the whole of a plant may be useful but ofte
 
 In order to facilitate readers to appreciate the root-medicines in the Chapters on Medicine, the original names, the English names, and the botanical names of those involved substances are organised in the following table.[21]
 
-[1]:
 
-The identification of the medicinal substances and their English and scientific/botanical names in this and the following sections are based on the following references: Pali-English Dictionary, Buddhadatta’s Concise Pāli-English Dictionary (1968), Dutt 2012, Appendix I in volume III of Sharma’s translation of the Suśruta Saṃhitā, and Khare’s books (2004, 2007, 2012), unless specified otherwise.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The identification of the medicinal substances and their English and scientific/botanical names in this and the following sections are based on the following references: Pali-English Dictionary, Buddhadatta’s Concise Pāli-English Dictionary (1968), Dutt 2012, Appendix I in volume III of Sharma’s translation of the Suśruta Saṃhitā, and Khare’s books (2004, 2007, 2012), unless specified otherwise.
+</blockquote>
 
-[2]:
 
-Theravāda Vinaya Piṭaka I. 201: “… mūlāni bhesajjāni haliddaṃ siṅgiveraṃ vacaṃ vacatthaṃ ativisaṃ kaṭukarohiṇiṃ usīraṃ bhaddamuttakaṃ yāni vā pan’ aññāni pi atthi mūlāni bhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti, na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituaṃ.”
 
-[3]:
 
-Taishō Tripiṭaka 1428. 867a20-23: “爾時有病比丘，須大五種根藥，佛言：「聽服。」須小五種根藥，佛言：「聽服。比丘有病因緣盡形壽服。」” These five major and five minor root-medicines are not enumerated in this Vinaya. In another part of the Dharmaguptaka Bhaiṣajyaskandhaka, there mentions certain “root-medicines,” which are in effect various types of yam (874a26-27). Since these mainly serve as food rather than medicine, they are not included here for discussion.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Theravāda Vinaya Piṭaka I. 201: “… mūlāni bhesajjāni haliddaṃ siṅgiveraṃ vacaṃ vacatthaṃ ativisaṃ kaṭukarohiṇiṃ usīraṃ bhaddamuttakaṃ yāni vā pan’ aññāni pi atthi mūlāni bhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti, na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituaṃ.”
+</blockquote>
 
-[4]:
 
-Taishō Tripiṭaka 1421. 147b29: “佛言：「一切根藥聽服」”.
 
-[5]:
 
-Taishō Tripiṭaka 1435. 194a7-9: “盡形藥者，五種根藥。何等五種？一舍利、二薑、三附子、四波提毘沙、五菖蒲根，是藥盡形壽共房宿無罪。” 舍利 seems to be śāli, which is rice grass. It is one of the five roots of grass (tṛṇa-pañcamūla) which are used in Āyurveda (Caraka Saṃhitā Cikitsāsthāna 1(1). 44; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 171). Prativiṣā (波提毘沙) is a synonym of ativiṣā (Dash 2008, 86).
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1428. 867a20-23: “爾時有病比丘，須大五種根藥，佛言：「聽服。」須小五種根藥，佛言：「聽服。比丘有病因緣盡形壽服。」” These five major and five minor root-medicines are not enumerated in this Vinaya. In another part of the Dharmaguptaka Bhaiṣajyaskandhaka, there mentions certain “root-medicines,” which are in effect various types of yam (874a26-27). Since these mainly serve as food rather than medicine, they are not included here for discussion.
+</blockquote>
 
-[6]:
 
-Gilgit Manuscripts III. 1.iii: “tatra mūlabhaiṣajyaṃ mustaṃ vaco haridrārdrakamativiṣā iti| yadvā punaranyadapi mūlabhaiṣajyārthāya spharati nāmiṣārthāya|”
 
-[7]:
 
-Taishō Tripiṭaka 1448. 1b10-12: “云何根藥？謂香附子、菖蒲、黃薑、生薑、白附子。若更有餘物，是此體 例、堪為藥者，隨意當用。” The Sanskrit and the Chinese versions are almost the same, with a minor difference in the last item of the list. The Chinese version designates this last item as baifuzi 白附子 (Aconitum coreanum), which is a close but not identical species to Indian atees (Aconitum heterophyllum).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1421. 147b29: “佛言：「一切根藥聽服」”.
+</blockquote>
 
-[8]:
 
-The Chapter on Medicine parallel in the Mahāsāṃghika Vinaya speaks of certain roots for proper time (before noon) and improper time (afternoon and at night). The roots for proper time are foods rather than medicines, and hence they are not enumerated here. The roots for improper time are given here because some of them are termed as root-medicines in other Chapters on Medicine and hence they are likely to be for medicinal usage. Elsewhere in this Vinaya (Taishō Tripiṭaka 1425. 244c29), there mentions five major and five minor roots which can be used as medicines throughout one’s whole life, but the items are not listed.
 
-[9]:
 
-尼俱律 should be the same as 尼拘律, which is nyagrodha. See Digital Dictionary of Buddhism
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1435. 194a7-9: “盡形藥者，五種根藥。何等五種？一舍利、二薑、三附子、四波提毘沙、五菖蒲根，是藥盡形壽共房宿無罪。” 舍利 seems to be śāli, which is rice grass. It is one of the five roots of grass (tṛṇa-pañcamūla) which are used in Āyurveda (Caraka Saṃhitā Cikitsāsthāna 1(1). 44; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 171). Prativiṣā (波提毘沙) is a synonym of ativiṣā (Dash 2008, 86).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Gilgit Manuscripts III. 1.iii: “tatra mūlabhaiṣajyaṃ mustaṃ vaco haridrārdrakamativiṣā iti| yadvā punaranyadapi mūlabhaiṣajyārthāya spharati nāmiṣārthāya|”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Taishō Tripiṭaka 1448. 1b10-12: “云何根藥？謂香附子、菖蒲、黃薑、生薑、白附子。若更有餘物，是此體 例、堪為藥者，隨意當用。” The Sanskrit and the Chinese versions are almost the same, with a minor difference in the last item of the list. The Chinese version designates this last item as baifuzi 白附子 (Aconitum coreanum), which is a close but not identical species to Indian atees (Aconitum heterophyllum).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> The Chapter on Medicine parallel in the Mahāsāṃghika Vinaya speaks of certain roots for proper time (before noon) and improper time (afternoon and at night). The roots for proper time are foods rather than medicines, and hence they are not enumerated here. The roots for improper time are given here because some of them are termed as root-medicines in other Chapters on Medicine and hence they are likely to be for medicinal usage. Elsewhere in this Vinaya (Taishō Tripiṭaka 1425. 244c29), there mentions five major and five minor roots which can be used as medicines throughout one’s whole life, but the items are not listed.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> 尼俱律 should be the same as 尼拘律, which is nyagrodha. See Digital Dictionary of Buddhism</div>
+
+
 
 (Digital Dictionary of Buddhism), s.v. “尼拘律” [accessed January 28, 2015, http://www.buddhism-dict.net/cgi-bin/xprddb.pl?q=%E5%B0%BC%E6%8B%98%E5%BE%8B%E6%A8%B9].
 
-[10]:
 
-佉提羅 may be katthilla (also known as punarnavā), which is spreading hogweed. Another possibility is kāṭhilla, bitter gourd.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> 佉提羅 may be katthilla (also known as punarnavā), which is spreading hogweed. Another possibility is kāṭhilla, bitter gourd.
+</blockquote>
 
-[11]:
 
-蘇揵闍 may be sugandhā. It is synonymous with gandhanākukī, which is Indian birthwort. But Khare (2004, 45; 2012, 627) says it is greater galangal.
 
-[12]:
 
-Taishō Tripiṭaka 1425. 457b14-16: “非時根者，婆吒根、蓽茇羅根、尼俱律根、佉提羅根、蘇揵闍根，如是
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> 蘇揵闍 may be sugandhā. It is synonymous with gandhanākukī, which is Indian birthwort. But Khare (2004, 45; 2012, 627) says it is greater galangal.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Taishō Tripiṭaka 1425. 457b14-16: “非時根者，婆吒根、蓽茇羅根、尼俱律根、佉提羅根、蘇揵闍根，如是
+</blockquote>
+
+
 
 比不與食合者，是名非時根。” Right after this passage, it is stated that the same rule/teaching also applies to stems, barks, leaves, flowers, and fruits.
 
-[13]:
 
-In the Caraka Saṃhitā, the minor five roots are called vidārigandhādya-gaṇa.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> In the Caraka Saṃhitā, the minor five roots are called vidārigandhādya-gaṇa.
+</blockquote>
 
-[14]:
 
-No available English name.
 
-[15]:
 
-The above information is extracted from Caraka Saṃhitā Cikitsāsthāna 1(1). 41-45; Suśruta Saṃhitā Sūtrasthāna 38. 66-77;Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 167-171. In addition, Caraka Saṃhitā Sūtrasthāna 1. 77-80 also mentions another sixteen “therapeutically useful roots” which are not included in the above groups of five.
+<div className="footnote-card"><strong>[14]</strong> No available English name.</div>
 
-[16]:
 
-The actions of the other groups of root are: the five roots of creeping plants and those of thorny plants allay the phlegm humour, the five roots of grasses calm the bile humour, the five middle roots mitigate wind and phlegm humours and the five life-promoting roots alleviate wind and bile humours (Suśruta Saṃhitā Sūtrasthāna 38. 77; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 169-170).
 
-[17]:
 
-Active ingredients are “chemicals that are biologically active, not just in themselves, but also in other organisms. Some of these chemicals enhance their own survival.... act as herbicides to inhibit the growth of competing plants... Other plants produce substances that deter browsing by insects and herbivores” (U.S. Forest Service 2015a).
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> The above information is extracted from Caraka Saṃhitā Cikitsāsthāna 1(1). 41-45; Suśruta Saṃhitā Sūtrasthāna 38. 66-77;Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 167-171. In addition, Caraka Saṃhitā Sūtrasthāna 1. 77-80 also mentions another sixteen “therapeutically useful roots” which are not included in the above groups of five.
+</blockquote>
 
-[18]:
 
-An example of rhizomes is ginger.
 
-[19]:
 
-Onion and garlic are examples of bulb.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> The actions of the other groups of root are: the five roots of creeping plants and those of thorny plants allay the phlegm humour, the five roots of grasses calm the bile humour, the five middle roots mitigate wind and phlegm humours and the five life-promoting roots alleviate wind and bile humours (Suśruta Saṃhitā Sūtrasthāna 38. 77; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 6. 169-170).
+</blockquote>
 
-[20]:
 
-Examples of tuber include potatoes, yams, etc.
 
-[21]:
 
-This format of the table will be employed in this section as well as in the following sections when dealing with other medicines. Moreover, there can be several English and botanical synonyms for one substance. The popular English and botanical names for each substance will be given. Readers can search for others based on these provided ones.
+<div className="footnote-card"><strong>[17]</strong> Active ingredients are “chemicals that are biologically active, not just in themselves, but also in other organisms. Some of these chemicals enhance their own survival.... act as herbicides to inhibit the growth of competing plants... Other plants produce substances that deter browsing by insects and herbivores” (U.S. Forest Service 2015a).</div>
 
-[22]:
 
-Although the names of the five major and five minor roots are not given in the Dharmaguptaka Vinaya (nor in the Mahāsāṃghika Vinaya), their names based on the Āyurvedic information are listed here.
+
+
+<div className="footnote-card"><strong>[18]</strong> An example of rhizomes is ginger.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Onion and garlic are examples of bulb.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Examples of tuber include potatoes, yams, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> This format of the table will be employed in this section as well as in the following sections when dealing with other medicines. Moreover, there can be several English and botanical synonyms for one substance. The popular English and botanical names for each substance will be given. Readers can search for others based on these provided ones.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Although the names of the five major and five minor roots are not given in the Dharmaguptaka Vinaya (nor in the Mahāsāṃghika Vinaya), their names based on the Āyurvedic information are listed here.
+</blockquote>
 
 ---
 
-## 36. Medical Principles (In Early Buddhist Scriptures)
+## Medical Principles (In Early Buddhist Scriptures)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -304,221 +360,343 @@ Sanitation is a significant aspect for protecting health. According to the Vinay
 
 In brief, in early Buddhist literature there are various pieces of advice pertaining to diet control, physical exercise, oral hygiene, and sanitation. These can be regarded as measures for health promotion. Besides, there are other instructions in the Buddhist scriptures, though not described for the purpose of health, that can be associated with hygiene and health, such as shaving hair, cutting nails, building and using bathrooms, washing robes, filtering water, etc. [52] These means are regarded as essential for achieving health and longevity, as per the medical teachings in the Āyuvedic texts such as the Sūtrasthāna of the Caraka Saṃhitā.
 
-[1]:
 
-In Pali-English Dictionary, kilomaka is rendered as pleura or right lung while the Sanskrit equivalent, kloman, is translated as right lung. Mitra (1985, 88-89) tells us that the meaning of this term has been uncertain for a long time. As Mitra has shown, the description in the Visuddhimagga seems to refer the term to fibrous sheaths, which cover internal organs (such as heart, kidneys, etc.) and muscles. According to modern anatomy, the diaphragm is a thin muscle with a central tendon separating the chest cavity and the abdominal cavity (Larsen 2002, 181). Thus it conforms to the description of the Visuddhimagga. Moreover, it is likely to be the diaphragm because the bodily parts preceding and following this term in the given source actually are organs adjacent to the diaphragm.
+<div className="footnote-card"><strong>[1]</strong> In Pali-English Dictionary, kilomaka is rendered as pleura or right lung while the Sanskrit equivalent, kloman, is translated as right lung. Mitra (1985, 88-89) tells us that the meaning of this term has been uncertain for a long time. As Mitra has shown, the description in the Visuddhimagga seems to refer the term to fibrous sheaths, which cover internal organs (such as heart, kidneys, etc.) and muscles. According to modern anatomy, the diaphragm is a thin muscle with a central tendon separating the chest cavity and the abdominal cavity (Larsen 2002, 181). Thus it conforms to the description of the Visuddhimagga. Moreover, it is likely to be the diaphragm because the bodily parts preceding and following this term in the given source actually are organs adjacent to the diaphragm.</div>
 
-[2]:
 
-Meda, rendered as “fat,” is “the thick unguent to be found pervading the whole body of one who is stout, and on the shank flesh, etc., of one who is lean,” as explained in the Path of Purification (Visuddhimagga) (Ñāṇamoli 1991, 355).
 
-[3]:
 
-Vasā, translated as “grease,” is “the melted unguent to be found on the palms and backs of the hands, on the soles and backs of the feet, on the nose and forehead and on the points of the shoulders, when heated by fire, and so on,” as per the Path of Purification (Visuddhimagga) (Ñāṇamoli 1991, 355).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Meda, rendered as “fat,” is “the thick unguent to be found pervading the whole body of one who is stout, and on the shank flesh, etc., of one who is lean,” as explained in the Path of Purification (Visuddhimagga) (Ñāṇamoli 1991, 355).
+</blockquote>
 
-[4]:
 
-This list is adapted from Bodhi’s translation of the terms (2012, 1412), with several modifications. The Pāli terms in the discourses are: “kesā lomā nakhā dantā taco maṃsaṃ nahārū aṭṭhī aṭṭhimiñjā vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo saṅghāṇikā lasikā muttaṃ.”
 
-[5]:
 
-Madhyama Āgama is believed by scholars to belong to the Sarvāstivāda school.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Vasā, translated as “grease,” is “the melted unguent to be found on the palms and backs of the hands, on the soles and backs of the feet, on the nose and forehead and on the points of the shoulders, when heated by fire, and so on,” as per the Path of Purification (Visuddhimagga) (Ñāṇamoli 1991, 355).
+</blockquote>
 
-[6]:
 
-In the CBETA sources, it is given as “... 麁細薄膚、皮...”. It is strange to name two terms where both are referring to skin–the former can be rendered as “coarse and fine thin-skin” and the latter is just “skin”. If we consider the punctuation between the two terms as a mistake (which commonly occurs in the Taishō Tripiṭaka and sometimes in the CBETA, but not in the earlier canons–such as the Yongle beizang 永樂北藏 (Northern Tripiṭaka of Yongle) or Qianlong zang 乾隆藏 (Tripiṭaka of Qianlong)–because there was no punctuation in the earlier texts), then the two terms become one as “麁細薄膚皮” and it merely refers to “coarse and fine thin-skin,” since “膚皮” can be considered as a single term for “skin.” “Coarse” skin may refer to the superficial layer of skin (epidermis), and “fine” skin the inner layer of skin (dermis). My translation here takes “膚皮” as one term. In the rest of this thesis, any incorrect or inappropriate punctuation in the CBETA or Taishō Tripiṭaka sources will be corrected when necessary and my translations will then be made accordingly.
 
-[7]:
 
-The list in the Madhyama Āgama is: “髮、髦、爪、齒、麁細薄膚皮、肉、筋、骨、心、腎、肝、肺、大腸、小腸、脾、胃、摶糞、腦及腦根、淚、汗、涕、唾、膿、血、肪、髓、涎、膽、小便” (Taishō Tripiṭaka
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> This list is adapted from Bodhi’s translation of the terms (2012, 1412), with several modifications. The Pāli terms in the discourses are: “kesā lomā nakhā dantā taco maṃsaṃ nahārū aṭṭhī aṭṭhimiñjā vakkaṃ hadayaṃ yakanaṃ kilomakaṃ pihakaṃ papphāsaṃ antaṃ antaguṇaṃ udariyaṃ karīsaṃ pittaṃ semhaṃ pubbo lohitaṃ sedo medo assu vasā kheḷo saṅghāṇikā lasikā muttaṃ.”
+</blockquote>
 
-[8]:
 
-. 556a14-16; 583b6-9).
 
-[9]:
 
-The term “the two unripe and ripe organs” (生熟二藏) seems to mean the upper digestive tract and the lower digestive tract (“人有生熟二藏，食在生藏，猶未變動，流入熟藏，即成糞穢”), according to Nanshan Vinaya Dictionary 南山律學辭典 (s.v. “不淨觀” (meditation on impurity) [accessed December 22, 2014, http://buddhistinformatics.ddbc.edu.tw/glossaries/files/nanshanlu.ddbc.pdf]).
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Madhyama Āgama is believed by scholars to belong to the Sarvāstivāda school.
+</blockquote>
 
-[10]:
 
-Ekottara Āgama is thought to belong to the Mahāsāṃghika school. The list of bodily parts in the Ekottara Āgama is: “毛、髮、爪、齒、皮、肉、筋、骨、髓、腦、脂膏、腸、胃、心、肝、脾、腎... 屎、尿、生熟二藏、目淚、唾、涕、血脈、肪、膽” (Taishō Tripiṭaka 125. 568.a19-21). Many texts in the Chinese Buddhist canon include similar but not identical lists of the anatomical parts. There are too many to be all cited here.
 
-[11]:
 
-These cases will be discussed in Chapter Five.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> In the CBETA sources, it is given as “... 麁細薄膚、皮...”. It is strange to name two terms where both are referring to skin–the former can be rendered as “coarse and fine thin-skin” and the latter is just “skin”. If we consider the punctuation between the two terms as a mistake (which commonly occurs in the Taishō Tripiṭaka and sometimes in the CBETA, but not in the earlier canons–such as the Yongle beizang 永樂北藏 (Northern Tripiṭaka of Yongle) or Qianlong zang 乾隆藏 (Tripiṭaka of Qianlong)–because there was no punctuation in the earlier texts), then the two terms become one as “麁細薄膚皮” and it merely refers to “coarse and fine thin-skin,” since “膚皮” can be considered as a single term for “skin.” “Coarse” skin may refer to the superficial layer of skin (epidermis), and “fine” skin the inner layer of skin (dermis). My translation here takes “膚皮” as one term. In the rest of this thesis, any incorrect or inappropriate punctuation in the CBETA or Taishō Tripiṭaka sources will be corrected when necessary and my translations will then be made accordingly.
+</blockquote>
 
-[12]:
 
-Examples of the Pāli discourses containing such information are the Mahāsatipaṭṭhāna Sutta, the Satipaṭṭhāna Sutta, and the Kāyagatāsati Sutta. The Chinese parallels of these texts also include this simple principle of physiology. However, the texts in the Madhyama Āgama mention two more elements in the body, viz. the space-element 空界 (ākāśa-dhātu) and consciousness-element 識界 (vijñānadhātu).
 
-[13]:
 
-The quotations and explanations for these four internal elements are extracted from Ñāṇamoli’s The Middle Length Discourses of the Buddha (2001, 279-282). The parallel of this Pāli discourse is found in the Madhyama Āgama at Taishō Tripiṭaka 26. 464b17-467a26.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The list in the Madhyama Āgama is: “髮、髦、爪、齒、麁細薄膚皮、肉、筋、骨、心、腎、肝、肺、大腸、小腸、脾、胃、摶糞、腦及腦根、淚、汗、涕、唾、膿、血、肪、髓、涎、膽、小便” (Taishō Tripiṭaka
+</blockquote>
 
-[14]:
 
-The original source in Ekottara Āgama reads thus: “今有四種之界。云何為四？地界、水界、火界、風界。... 地界有二種，或內地、或外地。彼云何名為內地種？髮、毛、爪、齒、身體、皮膚、筋、骨、髓、腦、腸、胃、肝、膽、脾、腎，是謂名為內地種。云何為外地種？諸有堅牢者，此名為外地種。此名為二地種。彼云何為水種？水種有二，或內水種、或外水種。內水種者：唌、唾、淚、尿、血、髓，是謂名為內水種。諸外軟溺物者，此名為外水種。是名二水種。彼云何名為火種？然火種有二，或內火、或外火。彼云何名為內火？所食之物，皆悉消化無有遺餘，此名為內火。云何名為外火？諸外物熱盛物，此名為外火種。云何名為風種？又風種有二，或有內風、或有外風。所謂脣內之風、眼風、頭風、出息風、入息風，一切支節之間風，此名為內風。彼云何名為外風？所謂輕飄動搖、速疾之物，此名為外風。”
 
-[15]:
 
-According to the commentaries, this term refers to the wrong behaviour or activities such as prolonged sitting or standing, bearing heavy loads, or roaming around at an improper time, etc. See Saṃyutta Nikāya-Aṭṭhakathā III. 81-82; Aṅguttara Nikāya-Aṭṭhakathā V. 43; Mahāniddesa-Aṭṭhakathā I. 61.
+<div className="footnote-card"><strong>[8]</strong> . 556a14-16; 583b6-9).</div>
 
-[16]:
 
-According to the commentaries, this term means assaults such as striking, binding, imprisoning, beating by an elbow, knee, weapon, etc. See Saṃyutta Nikāya-Aṭṭhakathā III. 82; Mahāniddesa-Aṭṭhakathā I. 61.
 
-[17]:
 
-Here saliva is mentioned as a factor, instead of bile.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> The term “the two unripe and ripe organs” (生熟二藏) seems to mean the upper digestive tract and the lower digestive tract (“人有生熟二藏，食在生藏，猶未變動，流入熟藏，即成糞穢”), according to Nanshan Vinaya Dictionary 南山律學辭典 (s.v. “不淨觀” (meditation on impurity) [accessed December 22, 2014, http://buddhistinformatics.ddbc.edu.tw/glossaries/files/nanshanlu.ddbc.pdf]).
+</blockquote>
 
-[18]:
 
-It means that the three humours are equally contributing to the disease, and hence it refers to the combination of the three humours.
 
-[19]:
 
-These behaviours obviously are the various ascetic practices in ancient India.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Ekottara Āgama is thought to belong to the Mahāsāṃghika school. The list of bodily parts in the Ekottara Āgama is: “毛、髮、爪、齒、皮、肉、筋、骨、髓、腦、脂膏、腸、胃、心、肝、脾、腎... 屎、尿、生熟二藏、目淚、唾、涕、血脈、肪、膽” (Taishō Tripiṭaka 125. 568.a19-21). Many texts in the Chinese Buddhist canon include similar but not identical lists of the anatomical parts. There are too many to be all cited here.
+</blockquote>
 
-[20]:
 
-Here summer seems to refer to the rains season in India, where it is cool or cold during rain and it is hot without rain.
 
-[21]:
 
-Taishō Tripiṭaka 99. 252c22-253a2: “或從風起苦，眾生覺知，或從痰起，或從唌唾起，或等分起，或自害，或他害，或因節氣。彼自害者，或拔髮、或拔鬚，或常立舉手，或蹲地，或臥灰土中，或臥棘刺上，或臥杵上、或板上，或牛屎塗地而臥其上，或臥水中，或日三洗浴，或一足而立，身隨日轉。如是眾苦精勤有行，尸婆！是名自害。他害者，或為他手石、刀、杖等，種種害身，是名他害。尸婆！若復時節所害，冬則大寒，春則大熱，夏寒暑俱，是名節氣 所害。” There is another discourse in the Saṃyukta Āgama-AT (Taishō Tripiṭaka 100. 452b4 ff.) which is supposed to be a parallel to the discourses in the Saṃyutta Nikāya and the Saṃyukta Āgama, but it differs in the minor details of the factors–there is no clear listing of those humoral factors, and the descriptions of the factors pertaining to self-harm, harm from others, and seasonal change are not identical to those in the Saṃyukta Āgama.
+<div className="footnote-card"><strong>[11]</strong> These cases will be discussed in Chapter Five.</div>
 
-[22]:
 
-The parallel is found in the Madhyama Āgama (Taishō Tripiṭaka 26. 703c21 ff.), though the context is not identical.
 
-[23]:
 
-This discourse also names actions such as killing living beings, being murderous, etc., leading to bad rebirth (even in hell) or being reborn with a short life in human form. By not doing such actions, one will be reborn in a happy state (even in heaven), or with a long life in human form.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Examples of the Pāli discourses containing such information are the Mahāsatipaṭṭhāna Sutta, the Satipaṭṭhāna Sutta, and the Kāyagatāsati Sutta. The Chinese parallels of these texts also include this simple principle of physiology. However, the texts in the Madhyama Āgama mention two more elements in the body, viz. the space-element 空界 (ākāśa-dhātu) and consciousness-element 識界 (vijñānadhātu).
+</blockquote>
 
-[24]:
 
-In the Milindapañha (Questions of Milinda) there is a discussion relating to these disease-causing factors. In this passage, it is stressed that karmic retribution is only one of the causes and it can be a minor one (Milindapañho 134-138).
 
-[25]:
 
-This account of only three diseases in ancient time is also found in the Cakkavattisīhanāda Sutta (Discourse on the Lion’s Roar of the Universal Monarch) of the Dīgha Nikāya (III. 75).
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> The quotations and explanations for these four internal elements are extracted from Ñāṇamoli’s The Middle Length Discourses of the Buddha (2001, 279-282). The parallel of this Pāli discourse is found in the Madhyama Āgama at Taishō Tripiṭaka 26. 464b17-467a26.
+</blockquote>
 
-[26]:
 
-See A Sanskrit-English Dictionary, s.v. “kilāsa”.
 
-[27]:
 
-It is not certain what rakhasā is. There is no definition found in the Pāli-English dictionaries. The Mahāniddesa-Aṭṭhakathā (I. 61) gives a non-specific explanation as “the disease is at the place scratched by nails” (nakhehi vilikhitaṭṭhāne rogo). Bodhi (2012, 1413) translates it as chickenpox. But Mitra (1985, 256-257), based on the Suśruta Saṃhitā (Nidānasthāna 5. 15), states that it “is identical with rakasā” which is a kind of minor leprosy, and it is “a sort of dry and non-exuding pimples characterised by excessive itching and appearing all over the body.”
+<div className="footnote-card"><strong>[14]</strong> The original source in Ekottara Āgama reads thus: “今有四種之界。云何為四？地界、水界、火界、風界。... 地界有二種，或內地、或外地。彼云何名為內地種？髮、毛、爪、齒、身體、皮膚、筋、骨、髓、腦、腸、胃、肝、膽、脾、腎，是謂名為內地種。云何為外地種？諸有堅牢者，此名為外地種。此名為二地種。彼云何為水種？水種有二，或內水種、或外水種。內水種者：唌、唾、淚、尿、血、髓，是謂名為內水種。諸外軟溺物者，此名為外水種。是名二水種。彼云何名為火種？然火種有二，或內火、或外火。彼云何名為內火？所食之物，皆悉消化無有遺餘，此名為內火。云何名為外火？諸外物熱盛物，此名為外火種。云何名為風種？又風種有二，或有內風、或有外風。所謂脣內之風、眼風、頭風、出息風、入息風，一切支節之間風，此名為內風。彼云何名為外風？所謂輕飄動搖、速疾之物，此名為外風。”</div>
 
-[28]:
 
-Translation is modified from Bodhi’s translation (2012, 1412-1413). The Pāli source in the Aṅguttara Nikāya is: “cakkurogo sotarogo ghānarogo jivhārogo kāyarogo sīsarogo kaṇṇarogo mukharogo dantarogo kāso sāso pināso ḍaho jaro kucchirogo mucchā pakkhandikā sūlā visūcikā kuṭṭhaṃ gaṇḍo kilāso soso apamāro daddu kaṇḍu kacchu rakhasā vitacchikā lohitapittaṃ madhumeho aṃsā piḷakā bhagandalā pittasamuṭṭhānā ābādhā semhasamuṭṭhānā ābādhā vātasamuṭṭhānā ābādhā sannipātikā ābādhā utupariṇāmajā ābādhā visamaparihārajā ābādhā opakkamikā ābādhā kammavipākajā ābādhā sītaṃ uṇhaṃ jighacchā pipāsā uccāro passāvo.” The same list of diseases is also found in the Mahāniddesa (I. 13).
 
-[29]:
 
-These above terms are all described as “痛”, which usually means pain or ache. But in classical Chinese, it can also refer to disease (病), as per the Kangxi zidian 康熙字典 (The Kangxi Dictionary). So these above terms can also be rendered as head disease, eye disease, etc.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> According to the commentaries, this term refers to the wrong behaviour or activities such as prolonged sitting or standing, bearing heavy loads, or roaming around at an improper time, etc. See Saṃyutta Nikāya-Aṭṭhakathā III. 81-82; Aṅguttara Nikāya-Aṭṭhakathā V. 43; Mahāniddesa-Aṭṭhakathā I. 61.
+</blockquote>
 
-[30]:
 
-This should refer to asthma.
 
-[31]:
 
-赤膽 should be the transliteration of rakta-pitta, which refers to haemorrhage.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> According to the commentaries, this term means assaults such as striking, binding, imprisoning, beating by an elbow, knee, weapon, etc. See Saṃyutta Nikāya-Aṭṭhakathā III. 82; Mahāniddesa-Aṭṭhakathā I. 61.
+</blockquote>
 
-[32]:
 
-This may refer to tuberculosis (sosa) in the Pāli source.
 
-[33]:
 
-The Chinese source is: “病者，謂頭痛、眼痛、耳痛、鼻痛、面痛、脣痛、齒痛、舌痛、齶痛、咽痛、風喘、咳嗽、喝吐、喉啤、癲癎、癕癭、經溢、赤膽、壯熱、枯槁、痔[病-丙+匿]、下利，若有如是比餘種種病... 是名為病。” My translation of some terms are based on the characters found in other earlier editions of Chinese Buddhist canon besides the Taishō Tripiṭaka, as provided in the CBETA; without taking into consideration these characters, the meanings of those terms are not recognisable. Some examples of such earlier characters are 噫 instead of 喝, 痺 instead of 啤, and 瘻 instead of [病-丙+匿].
+<div className="footnote-card"><strong>[17]</strong> Here saliva is mentioned as a factor, instead of bile.</div>
 
-[34]:
 
-In the original sources as mentioned, the act of appeasing a god/demon (santi-kamma) is another example of wrong livelihood. According to Dīgha Nikāya-Aṭṭhakathā (I. 97), santikamma is explained thus:
+
+
+<div className="footnote-card"><strong>[18]</strong> It means that the three humours are equally contributing to the disease, and hence it refers to the combination of the three humours.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> These behaviours obviously are the various ascetic practices in ancient India.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Here summer seems to refer to the rains season in India, where it is cool or cold during rain and it is hot without rain.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Taishō Tripiṭaka 99. 252c22-253a2: “或從風起苦，眾生覺知，或從痰起，或從唌唾起，或等分起，或自害，或他害，或因節氣。彼自害者，或拔髮、或拔鬚，或常立舉手，或蹲地，或臥灰土中，或臥棘刺上，或臥杵上、或板上，或牛屎塗地而臥其上，或臥水中，或日三洗浴，或一足而立，身隨日轉。如是眾苦精勤有行，尸婆！是名自害。他害者，或為他手石、刀、杖等，種種害身，是名他害。尸婆！若復時節所害，冬則大寒，春則大熱，夏寒暑俱，是名節氣 所害。” There is another discourse in the Saṃyukta Āgama-AT (Taishō Tripiṭaka 100. 452b4 ff.) which is supposed to be a parallel to the discourses in the Saṃyutta Nikāya and the Saṃyukta Āgama, but it differs in the minor details of the factors–there is no clear listing of those humoral factors, and the descriptions of the factors pertaining to self-harm, harm from others, and seasonal change are not identical to those in the Saṃyukta Āgama.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> The parallel is found in the Madhyama Āgama (Taishō Tripiṭaka 26. 703c21 ff.), though the context is not identical.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> This discourse also names actions such as killing living beings, being murderous, etc., leading to bad rebirth (even in hell) or being reborn with a short life in human form. By not doing such actions, one will be reborn in a happy state (even in heaven), or with a long life in human form.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> In the Milindapañha (Questions of Milinda) there is a discussion relating to these disease-causing factors. In this passage, it is stressed that karmic retribution is only one of the causes and it can be a minor one (Milindapañho 134-138).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> This account of only three diseases in ancient time is also found in the Cakkavattisīhanāda Sutta (Discourse on the Lion’s Roar of the Universal Monarch) of the Dīgha Nikāya (III. 75).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> See A Sanskrit-English Dictionary, s.v. “kilāsa”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> It is not certain what rakhasā is. There is no definition found in the Pāli-English dictionaries. The Mahāniddesa-Aṭṭhakathā (I. 61) gives a non-specific explanation as “the disease is at the place scratched by nails” (nakhehi vilikhitaṭṭhāne rogo). Bodhi (2012, 1413) translates it as chickenpox. But Mitra (1985, 256-257), based on the Suśruta Saṃhitā (Nidānasthāna 5. 15), states that it “is identical with rakasā” which is a kind of minor leprosy, and it is “a sort of dry and non-exuding pimples characterised by excessive itching and appearing all over the body.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Translation is modified from Bodhi’s translation (2012, 1412-1413). The Pāli source in the Aṅguttara Nikāya is: “cakkurogo sotarogo ghānarogo jivhārogo kāyarogo sīsarogo kaṇṇarogo mukharogo dantarogo kāso sāso pināso ḍaho jaro kucchirogo mucchā pakkhandikā sūlā visūcikā kuṭṭhaṃ gaṇḍo kilāso soso apamāro daddu kaṇḍu kacchu rakhasā vitacchikā lohitapittaṃ madhumeho aṃsā piḷakā bhagandalā pittasamuṭṭhānā ābādhā semhasamuṭṭhānā ābādhā vātasamuṭṭhānā ābādhā sannipātikā ābādhā utupariṇāmajā ābādhā visamaparihārajā ābādhā opakkamikā ābādhā kammavipākajā ābādhā sītaṃ uṇhaṃ jighacchā pipāsā uccāro passāvo.” The same list of diseases is also found in the Mahāniddesa (I. 13).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> These above terms are all described as “痛”, which usually means pain or ache. But in classical Chinese, it can also refer to disease (病), as per the Kangxi zidian 康熙字典 (The Kangxi Dictionary). So these above terms can also be rendered as head disease, eye disease, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> This should refer to asthma.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> 赤膽 should be the transliteration of rakta-pitta, which refers to haemorrhage.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> This may refer to tuberculosis (sosa) in the Pāli source.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> The Chinese source is: “病者，謂頭痛、眼痛、耳痛、鼻痛、面痛、脣痛、齒痛、舌痛、齶痛、咽痛、風喘、咳嗽、喝吐、喉啤、癲癎、癕癭、經溢、赤膽、壯熱、枯槁、痔[病-丙+匿]、下利，若有如是比餘種種病... 是名為病。” My translation of some terms are based on the characters found in other earlier editions of Chinese Buddhist canon besides the Taishō Tripiṭaka, as provided in the CBETA; without taking into consideration these characters, the meanings of those terms are not recognisable. Some examples of such earlier characters are 噫 instead of 喝, 痺 instead of 啤, and 瘻 instead of [病-丙+匿].
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> In the original sources as mentioned, the act of appeasing a god/demon (santi-kamma) is another example of wrong livelihood. According to Dīgha Nikāya-Aṭṭhakathā (I. 97), santikamma is explained thus:
+</blockquote>
+
+
 
 “Having gone to a temple, ‘if this [thing] by name takes effect for me, I will make offering with this and this to you.’ At the time [when it is] successful, the action of promise of the appeasement should be done” (santi-kamman ti, devaṭṭhānaṃ gantvā ‘sace me idaṃ nāma samijjhati tumhākaṃ iminā ca iminā ca upahāraṃ karissāmīti,’ samiddha-kāle kattabbaṃ santi-paṭissava-kammaṃ). Moreover, according to Liyanaratne (1996, 60-61), the act of appeasement is part of the ritual stated in the Suśruta Saṃhitā (Sūtrasthāna 1. 4) as a means to deal with the disease caused by possession. It may then be considered as a kind of healing ritual for pacifying the possession by a deity or demon.
 
-[35]:
 
-The Chinese source reads: “為人安胎出衣... 為人呪病... 或為醫方、鍼炙、藥石，療治眾病”.
+<div className="footnote-card"><strong>[35]</strong> The Chinese source reads: “為人安胎出衣... 為人呪病... 或為醫方、鍼炙、藥石，療治眾病”.</div>
 
-[36]:
 
-The source in the Taishō Tripiṭaka (and the CBETA) is: “作男女小兒醫、作象馬牛羊之醫... 作自醫、作女人座醫... 持藥與人使吐”. Older editions of Chinese Buddhist canon wrote 目 醫 instead of 自醫, and this makes sense as “eye-medicine” or “eye-physician”, i.e. relating to ophthalmology. Also, 座醫 is 坐醫 in older editions, and this should refer to those physicians delivering babies, for there is a Chinese term 坐婆 which means the midwives.
 
-[37]:
 
-Taishō Tripiṭaka 125. 741a9-11: “又復持心親近醫藥，不生染著之心；於彼醫藥，但欲使疾病除愈故，身體得安隱。”
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> The source in the Taishō Tripiṭaka (and the CBETA) is: “作男女小兒醫、作象馬牛羊之醫... 作自醫、作女人座醫... 持藥與人使吐”. Older editions of Chinese Buddhist canon wrote 目 醫 instead of 自醫, and this makes sense as “eye-medicine” or “eye-physician”, i.e. relating to ophthalmology. Also, 座醫 is 坐醫 in older editions, and this should refer to those physicians delivering babies, for there is a Chinese term 坐婆 which means the midwives.
+</blockquote>
 
-[38]:
 
-According to Buddhist doctrine, there are four kinds of “food”, viz. material food, sensory contact, mental volition, and consciousness. In this present discussion, food refers only to material food.
 
-[39]:
 
-The Pāli clause corresponding to “I eat at a single session” is “ekāsanabhojanaṃ bhuñjāmi”, which, according to the Venerable Professor Anuruddha, means “I eat one meal a day” (2004, 251).
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Taishō Tripiṭaka 125. 741a9-11: “又復持心親近醫藥，不生染著之心；於彼醫藥，但欲使疾病除愈故，身體得安隱。”
+</blockquote>
 
-[40]:
 
-At night, bodily functions slow down, including digestion. Digestion of food is less efficient at night and it is probably why a meal at night is not suggested by the Buddha. Moreover, if one takes a meal at night, he/she may easily become sleepy and it can hinder spiritual practice.
 
-[41]:
 
-Aṅguttara Nikāya III. 250: “Khudaṃ paṭihanati, pipāsaṃ paṭivineti, vātaṃ anulometi, vatthiṃ sodheti, āmāvasesaṃ pāceti.”
+<div className="footnote-card"><strong>[38]</strong> According to Buddhist doctrine, there are four kinds of “food”, viz. material food, sensory contact, mental volition, and consciousness. In this present discussion, food refers only to material food.</div>
 
-[42]:
 
-Theravāda Vinaya Piṭaka I. 221: “das’ ime brāhmaṇa ānisaṃsā yāguyā, katame dasa. yaguṃ dento āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti, paṭibhānaṃ deti, yāgu pītā khudaṃ paṭihanati, pipāsaṃ vinodeti, vātaṃ anulometi, vatthiṃ sodheti, āmāvasesaṃ pāceti.”
 
-[43]:
 
-Taishō Tripiṭaka 1428. 1005c26-27: “食粥五事好：除飢、解渴、消宿食、大小便通利、除風”.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> The Pāli clause corresponding to “I eat at a single session” is “ekāsanabhojanaṃ bhuñjāmi”, which, according to the Venerable Professor Anuruddha, means “I eat one meal a day” (2004, 251).
+</blockquote>
 
-[44]:
 
-Taishō Tripiṭaka 1435. 188c19-21: “粥有五事利身：一者除飢、二者除渴、三者下氣、四者却臍下冷、五者消宿食。”
 
-[45]:
 
-Taishō Tripiṭaka 1425. 462c22-23: “十利饒益於行者 色力壽樂辭清辯 宿食風除飢渇消 是名爲藥佛所説”.
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> At night, bodily functions slow down, including digestion. Digestion of food is less efficient at night and it is probably why a meal at night is not suggested by the Buddha. Moreover, if one takes a meal at night, he/she may easily become sleepy and it can hinder spiritual practice.
+</blockquote>
 
-[46]:
 
-According to Āyurvedic texts, a stick of tooth-wood with one end crushed is used for brushing the teeth without injuring the gum. This removes the foul smell and dirt of the tongue, teeth and mouth, and brings out the taste of the food. Tooth-wood should be of astringent, pungent or bitter in taste.
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Aṅguttara Nikāya III. 250: “Khudaṃ paṭihanati, pipāsaṃ paṭivineti, vātaṃ anulometi, vatthiṃ sodheti, āmāvasesaṃ pāceti.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Theravāda Vinaya Piṭaka I. 221: “das’ ime brāhmaṇa ānisaṃsā yāguyā, katame dasa. yaguṃ dento āyuṃ deti, vaṇṇaṃ deti, sukhaṃ deti, balaṃ deti, paṭibhānaṃ deti, yāgu pītā khudaṃ paṭihanati, pipāsaṃ vinodeti, vātaṃ anulometi, vatthiṃ sodheti, āmāvasesaṃ pāceti.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Taishō Tripiṭaka 1428. 1005c26-27: “食粥五事好：除飢、解渴、消宿食、大小便通利、除風”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Taishō Tripiṭaka 1435. 188c19-21: “粥有五事利身：一者除飢、二者除渴、三者下氣、四者却臍下冷、五者消宿食。”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Taishō Tripiṭaka 1425. 462c22-23: “十利饒益於行者 色力壽樂辭清辯 宿食風除飢渇消 是名爲藥佛所説”.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> According to Āyurvedic texts, a stick of tooth-wood with one end crushed is used for brushing the teeth without injuring the gum. This removes the foul smell and dirt of the tongue, teeth and mouth, and brings out the taste of the food. Tooth-wood should be of astringent, pungent or bitter in taste.</div>
+
+
 
 Twigs of plants such as karañja, karavīra, arka, mālatī, kakubha, asana, nyagrodha, khadira, nimba, madhūka, etc. are recommended for use. A twig of the thickness of a little finger with the length of twelve finger-breadths can be used. See Caraka Saṃhitā Sūtrasthāna 5. 71-74; Suśruta Saṃhitā Cikitsāsthāna 24. 4-12; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 2. 2-3.
 
-[47]:
 
-Aṅguttara Nikāya III. 250: “Pañc’ime bhikkhave ādīnavā dantakaṭṭhassa akhādane. Katame pañca? Acakkhussaṃ, mukhaṃ duggandhaṃ hoti, rasaharaṇiyo na visujjhanti, pittaṃ semhaṃ bhattaṃ pariyonaddhanti, battaṃ assa na cchādeti. Ime kho bhikkhave pañca ādīnavā dantakaṭṭhassa akhādane. Pañc’ime bhikkhave ānisaṃsā dantakaṭṭhassa khādane. Katame pañca? Cakkhussaṃ, mukhaṃ na duggandhaṃ hoti, rasaharaṇiyo visujjhanti, pittaṃ semhaṃ bhattaṃ na pariyonaddhanti, battaṃ assa chādeti. Ime kho bhikkhave pañca ānisaṃsā dantakaṭṭhassa khādane.”
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Aṅguttara Nikāya III. 250: “Pañc’ime bhikkhave ādīnavā dantakaṭṭhassa akhādane. Katame pañca? Acakkhussaṃ, mukhaṃ duggandhaṃ hoti, rasaharaṇiyo na visujjhanti, pittaṃ semhaṃ bhattaṃ pariyonaddhanti, battaṃ assa na cchādeti. Ime kho bhikkhave pañca ādīnavā dantakaṭṭhassa akhādane. Pañc’ime bhikkhave ānisaṃsā dantakaṭṭhassa khādane. Katame pañca? Cakkhussaṃ, mukhaṃ na duggandhaṃ hoti, rasaharaṇiyo visujjhanti, pittaṃ semhaṃ bhattaṃ na pariyonaddhanti, battaṃ assa chādeti. Ime kho bhikkhave pañca ānisaṃsā dantakaṭṭhassa khādane.”
+</blockquote>
 
-[48]:
 
-Taishō Tripiṭaka 1428. 1005c24-26: “不嚼楊枝有五過失：口氣臭、不善別味、熱癊不消、不引食、眼不明，是為五。嚼楊枝有五事好(即反上句是)”.
 
-[49]:
 
-Taishō Tripiṭaka 1435. 289b28-c3: “… 嚼楊枝有五利益：一者口不苦、二者口不臭、三者除風、四者除熱病、五者除痰廕。復有五利益：一者除風、二者除熱、三者口滋味、四者能食、五者眼明。”
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Taishō Tripiṭaka 1428. 1005c24-26: “不嚼楊枝有五過失：口氣臭、不善別味、熱癊不消、不引食、眼不明，是為五。嚼楊枝有五事好(即反上句是)”.
+</blockquote>
 
-[50]:
 
-Taishō Tripiṭaka 125. 703a11-14: “施人楊枝有五功德。云何為五？一者除風，二者除涎唾，三者生藏得消，四者口中不臭，五者眼得清淨。是謂，比丘！施人楊枝有五功德。”
 
-[51]:
 
-Taishō Tripiṭaka 1425. 357b19-21: “齒木者有二種：一、擗，二、團。若比丘口中有熱氣生瘡，醫言：「應 嚼齒木咽汁。」者，應當受。”. Elsewhere in this Vinaya (Taishō Tripiṭaka 1425. 505a23 ff.) rules for using tooth-wood are given. Here, the length of tooth-wood is allowed to be from four to sixteen fingerbreadths.
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Taishō Tripiṭaka 1435. 289b28-c3: “… 嚼楊枝有五利益：一者口不苦、二者口不臭、三者除風、四者除熱病、五者除痰廕。復有五利益：一者除風、二者除熱、三者口滋味、四者能食、五者眼明。”
+</blockquote>
 
-[52]:
 
-Ann Heirman and Mathieu Torch have published a book, A Pure Mind in a Clean Body (2012), examining certain issues relating to hygiene in Buddhist monasteries, such as bathing facilities, toilet facilities, oral cleaning, hair shaving, and nail trimming. Their discussions are based mainly on the information in the Dharmaguptaka and Mūlasarvāstivāda Vinaya-s and various Chinese Buddhist sources (e.g. commentaries, compilations, travellers’ accounts, etc.).
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Taishō Tripiṭaka 125. 703a11-14: “施人楊枝有五功德。云何為五？一者除風，二者除涎唾，三者生藏得消，四者口中不臭，五者眼得清淨。是謂，比丘！施人楊枝有五功德。”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Taishō Tripiṭaka 1425. 357b19-21: “齒木者有二種：一、擗，二、團。若比丘口中有熱氣生瘡，醫言：「應 嚼齒木咽汁。」者，應當受。”. Elsewhere in this Vinaya (Taishō Tripiṭaka 1425. 505a23 ff.) rules for using tooth-wood are given. Here, the length of tooth-wood is allowed to be from four to sixteen fingerbreadths.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Ann Heirman and Mathieu Torch have published a book, A Pure Mind in a Clean Body (2012), examining certain issues relating to hygiene in Buddhist monasteries, such as bathing facilities, toilet facilities, oral cleaning, hair shaving, and nail trimming. Their discussions are based mainly on the information in the Dharmaguptaka and Mūlasarvāstivāda Vinaya-s and various Chinese Buddhist sources (e.g. commentaries, compilations, travellers’ accounts, etc.).
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -527,10 +705,6 @@ Ann Heirman and Mathieu Torch have published a book, A Pure Mind in a Clean Body
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Medicines (c): Leaves (Paṇṇa/Patra): Bhesajjakkhandhaka Chapter On Medicine Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The development of a fetus in the womb within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter IV - The development of a fetus in the womb
+## Chapter IV - The development of a fetus in the womb
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -221,29 +221,29 @@ The features of a Pashava-Sattva man are perverseness of intellect, parsimonious
 
 Thus ends the fourth Chapter of the Sharira Sthana in the Shushruta Samhita which treats of fetal development etc.
 
-[1]:
 
-The complexion of a person is due to this first layer; and as the colour of an opaque body is due to the rays that are reflected from its surface, this layer is rightly named Avabhasini or reflecting layer.
+<div className="footnote-card"><strong>[1]</strong> The complexion of a person is due to this first layer; and as the colour of an opaque body is due to the rays that are reflected from its surface, this layer is rightly named Avabhasini or reflecting layer.</div>
+
+
 
 The text runs “Vriherashtadashabhaga,” which means eighteen (or so many) parts of a Vrihi; and Dalian comments that “Vrihi” stands for a measure equal to the twentieth division of a Vrihi or rice grain.
 
-[2]:
 
-Such persons may get sleep only, when being tired and exhausted they cease to think of their affairs.
+<div className="footnote-card"><strong>[2]</strong> Such persons may get sleep only, when being tired and exhausted they cease to think of their affairs.</div>
+
+
 
 C.f. Charaka:—When the active self of a person, tired in body and mind, loses touch with his worldly affairs, sleep comes to him.
 
-[3]:
 
-Hand, leg, anus, and generative organ etc.
+<div className="footnote-card"><strong>[3]</strong> Hand, leg, anus, and generative organ etc.</div>
 
-[4]:
 
-In the text we find the word “Indriya” which refers to both Jnanendriya (sensory functions) and Karmendriya (motor functions) of the body.
+
+
+<div className="footnote-card"><strong>[4]</strong> In the text we find the word “Indriya” which refers to both Jnanendriya (sensory functions) and Karmendriya (motor functions) of the body.</div>
 
 ---
-
-
 
 ---
 
@@ -252,10 +252,6 @@ In the text we find the word “Indriya” which refers to both Jnanendriya (sen
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Description of Sira (vascular system): Sushruta Samhita Sharirasthana Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

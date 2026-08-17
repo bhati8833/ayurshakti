@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Liquefaction of mica within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Part 9 - Liquefaction of mica
+## Part 9 - Liquefaction of mica
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -71,7 +71,7 @@ This concludes ‘Liquefaction of mica’ included in Bhudeb Mookerjee Rasa Jala
 
 ---
 
-## 11. Part 10 - Transformation of tin into silver by means of mica
+## Part 10 - Transformation of tin into silver by means of mica
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -95,7 +95,7 @@ This concludes ‘Transformation of tin into silver by means of mica’ included
 
 ---
 
-## 12. Chapter II - Uparasa (2): Makshika (pyrites)
+## Chapter II - Uparasa (2): Makshika (pyrites)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -105,15 +105,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter II - Uparasa (2): Makshika (pyrites)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (2): Makshika (pyrites)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 13. Part 1 - Characteristics of Pyrite (makshika)
+## Part 1 - Characteristics of Pyrite (makshika)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -143,9 +141,10 @@ Evil effects of taking makskika, not properly purified.
 
 Makshika, not properly purified and incinerated, gives rise to loss of appetite, loss of vigour, swelling of the belly with gas attended with constipation, eye diseases, leprosy, scrofula, carbuncle, and even death.
 
-[1]:
 
-Bimala is separately treated later on.
+<div className="footnote-card"><strong>[1]</strong> Bimala is separately treated later on.</div>
+
+
 
 Conclusion:
 
@@ -153,7 +152,7 @@ This concludes ‘Characteristics of Pyrite (makshika)’ included in Bhudeb Moo
 
 ---
 
-## 15. Part 2 - Purification of Makshika
+## Part 2 - Purification of Makshika
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -211,8 +210,6 @@ This concludes ‘Purification of Makshika’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -220,10 +217,6 @@ This concludes ‘Purification of Makshika’ included in Bhudeb Mookerjee Rasa 
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Incineration of Makshika: Rasa Jala Nidhi Volume 2 Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

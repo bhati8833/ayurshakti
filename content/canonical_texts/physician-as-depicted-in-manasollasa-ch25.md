@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 9. Ritucarya (conduct during different seasons) within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. 9. Ritucarya (conduct during different seasons)
+## 9. Ritucarya (conduct during different seasons)
 
 Physician as depicted in Manasollasa
 
@@ -37,8 +37,6 @@ The two Solstices: The year is divided into six seasons. The northward movement 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ The two Solstices: The year is divided into six seasons. The northward movement 
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">10. Span of Life in Ayurveda: Physician As Depicted In Manasollasa Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

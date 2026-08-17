@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The injudicious application of the Netra and Vasti within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 38. Chapter XXXVI - The injudicious application of the Netra and Vasti
+## Chapter XXXVI - The injudicious application of the Netra and Vasti
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -69,33 +69,35 @@ A purgative should be given after the lapse of a fortnight from the date of the 
 
 Thus ends the Thirty-sixth Chapter of the Chikitsita Sthana in the Sushruta Samhita which treats of the medical treatment of the diseases consequent on the injudicious applications of a Vasti.
 
-[1]:
 
-These are strangury (Mutra-kricchra), suppression of urine (Mutra- ghata), etc.
+<div className="footnote-card"><strong>[1]</strong> These are strangury (Mutra-kricchra), suppression of urine (Mutra- ghata), etc.</div>
 
-[2]:
 
-According to Dallana the remedy in this case would be that applicable in a case of Mutraghata, etc.; but Jejjata holds that the remedy lies in applying a Picchila Vasti as in the preceding case.
 
-[3]:
 
-An additional reading says that it causes vomiting, nausea, epileptic fits and a burning sensation of the body. Vrinda supports this additional reading.
+<div className="footnote-card"><strong>[2]</strong> According to Dallana the remedy in this case would be that applicable in a case of Mutraghata, etc.; but Jejjata holds that the remedy lies in applying a Picchila Vasti as in the preceding case.</div>
 
-[4]:
 
-Gayadasa reads and recommends that the purgatives to be used in such a case should be devoid of any oleaginous substances (Sneha).
 
-[5]:
 
-An additional reading says that a dry (thickend?) Niruha-vasti produces a slimy deposit in the rectum and in the pelvic region, while one with its fluid of an extremely thin consistency would produce only a little effect and might produce diarrhea.
+<div className="footnote-card"><strong>[3]</strong> An additional reading says that it causes vomiting, nausea, epileptic fits and a burning sensation of the body. Vrinda supports this additional reading.</div>
 
-[6]:
 
-Jejjata’s reading of this passage does not include the application of Sveda but means that the Uttara-vasti should be applied with a Sneha.
+
+
+<div className="footnote-card"><strong>[4]</strong> Gayadasa reads and recommends that the purgatives to be used in such a case should be devoid of any oleaginous substances (Sneha).</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> An additional reading says that a dry (thickend?) Niruha-vasti produces a slimy deposit in the rectum and in the pelvic region, while one with its fluid of an extremely thin consistency would produce only a little effect and might produce diarrhea.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Jejjata’s reading of this passage does not include the application of Sveda but means that the Uttara-vasti should be applied with a Sneha.</div>
 
 ---
-
-
 
 ---
 
@@ -104,10 +106,6 @@ Jejjata’s reading of this passage does not include the application of Sveda bu
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch37" className="text-emerald-400 hover:underline flex items-center font-medium">The treatment with an Anuvasana-vasti and an Uttara-vasti: Sushruta Samhita Cikitsasthana Chapter 37 →</a>
 </div>
-
-
-
-
 
 ---
 

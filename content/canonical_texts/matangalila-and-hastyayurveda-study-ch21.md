@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elephants in the Kingdom and as a Royal Asset within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 68. Elephants in the Kingdom and as a Royal Asset
+## Elephants in the Kingdom and as a Royal Asset
 
 Matangalila and Hastyayurveda (study)
 
@@ -41,29 +41,34 @@ According to Trautmann on the basis of the above pay structure one might surmise
 
 We would like to further add to the above interpretation a few important observations. Elephant staff had a clear cut hierarchy which can be divided into an upper and lower band on the basis of their pay structures. Some of them enjoyed a very respectable position and were paid premium salaries like the top level military officials. This shows the utility and demand of the elephants in the state structure. The commandants in battle managing the elephants are one of the highest paid which clearly points out that the animal was a major part of Indian warfare. This is further proved from the various metaphors and myths related to elephants as noticed from epigraphic and literary sources already discussed in previous chapters. Procurement of the elephants from their natural abode was one of the most important tasks and hence the salary of the overseers of the elephants and the warden of the elephant forest was also in the higher segment. Though placed below the overseer and warden of elephant forest the elephant trainer and elephant physician were imperative part of the ancient society and this is proved from the fact that besides their salary they were also provided residential facility and the king gave them land in the village. The elephant trainer’s not only would have trained the elephants for warfare but also were experts in identifying their type and tasks and hence could identify which one to retain for the royal and military purpose. Arthaśāstra especially mentions their role in the process of capturing of elephants as an expert in selection of the animal to be retained or captured.
 
-[1]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet: Permanent Black in association with Ashoka University, 2015, pp. 157-159.
+<div className="footnote-card"><strong>[1]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet: Permanent Black in association with Ashoka University, 2015, pp. 157-159.</div>
 
-[2]:
 
-Ibid., p. 160.
 
-[3]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp. 148-149.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 160.</div>
 
-[4]:
 
-Ibid., Book 5, Chapter 3, pp.350-351.
 
-[5]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, pp. 168-169.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp. 148-149.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., Book 5, Chapter 3, pp.350-351.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, pp. 168-169.</div>
 
 ---
 
-## 69. Ancient trade in Ivory and Elephant-tusks
+## Ancient trade in Ivory and Elephant-tusks
 
 Matangalila and Hastyayurveda (study)
 
@@ -97,141 +102,188 @@ The above text also provides interesting information on the training of craftsme
 
 The Hudūd-e-ālam (982-983 CE) of Sayyad Suleman Nadvi informs us that in the tenth century CE Arabians imported chank-shell and ivory from Orissa.[32] Regarding the ivory trade, Kalpanāratna [Kalpanāratnam] a text composed by the Gaṅga king Śivamāra[33] who ruled over parts of Karnataka in the 8th and 9th centuries CE, sheds new light on the preservation of elephants and their ivory. The word “Kalpanā” here indicated the art of cutting the tusks of elephants so that the ivory could be used for making useful and beautiful articles, without harming the pachyderms. In the light of this, it was necessary to know the proper time to cut the tusks of elephants and also the proper method of preserving the ivory. This is also corroborated by several epigraphs which bear reference to ivory carvers, their guilds, donation of ivory tax to donees and the royal monopoly on ivory.
 
-[1]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, New Delhi: Abhinav Publications, 1977, p.45.
+<div className="footnote-card"><strong>[1]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, New Delhi: Abhinav Publications, 1977, p.45.</div>
 
-[2]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.67.
 
-[3]:
 
-Rostovetzeff, The Economic History of the Roman Empire, Oxford, 926, the description of plate no. 17.
+<div className="footnote-card"><strong>[2]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.67.</div>
 
-[4]:
 
-John James Jones. tr. The Mahāvastu, Sacred Books of the Buddhists, Pt. II, London: Luzac, 1949, pp. 463477.
 
-[5]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.149.
+<div className="footnote-card"><strong>[3]</strong> Rostovetzeff, The Economic History of the Roman Empire, Oxford, 926, the description of plate no. 17.</div>
 
-[6]:
 
-John James Jones. tr. The Mahāvastu, Sacred Books of the Buddhists, Pt. II, London: Luzac, 1949, pp. 113, 442-443.
 
-[7]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India., p.167.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> John James Jones. tr. The Mahāvastu, Sacred Books of the Buddhists, Pt. II, London: Luzac, 1949, pp. 463477.
+</blockquote>
 
-[8]:
 
-Ibid., p.167.
 
-[9]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 68.
+<div className="footnote-card"><strong>[5]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.149.</div>
 
-[10]:
 
-Ibid., pp. 111-120.
 
-[11]:
 
-Inscriptions of Orissa, Vol.IV, p.275.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> John James Jones. tr. The Mahāvastu, Sacred Books of the Buddhists, Pt. II, London: Luzac, 1949, pp. 113, 442-443.
+</blockquote>
 
-[12]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 152.
 
-[13]:
 
-Ibid., p. 152.
+<div className="footnote-card"><strong>[7]</strong> Moti Chandra. Trade and Trade Routes in Ancient India., p.167.</div>
 
-[14]:
 
-Ibid., p. 167.
 
-[15]:
 
-V.P. Dwivedi. Indian Ivories (a survey of Indian Ivory and bone carvings from the earliest to the modern times), Delhi: Agam Prakashan, 1976, p. 16.
+<div className="footnote-card"><strong>[8]</strong> Ibid., p.167.</div>
 
-[16]:
 
-Ibid., p. 16.
 
-[17]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.68.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 68.
+</blockquote>
 
-[18]:
 
-Ibid., p.101.
 
-[19]:
 
-E.H. Warmington. The Commerce between the Roman Empire and India, Cambridge: Cambridge University Press, 1928, pp. 6-37.
+<div className="footnote-card"><strong>[10]</strong> Ibid., pp. 111-120.</div>
 
-[20]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, pp.111-112.
 
-[21]:
 
-Federico De Romanis. “Playing Sudoku on the Verso of the “Muziris Papyrus”: Pepper, Malabathron and Tortoise Shell in the Cargo of the Hermapollon”, Journal of Ancient Indian History, Volume XXVII, pp. 75101.
+<div className="footnote-card"><strong>[11]</strong> Inscriptions of Orissa, Vol.IV, p.275.</div>
 
-[22]:
 
-According to Rathbone 2000: 45 and Morelli 2011:221-222, schidai must be referred to a lower quality, broken or spoiled ivory.
 
-[23]:
 
-Frederico De Romanis. “Playing Sudoku on the Verso of the “Muziris Papyrus”: Pepper, Malabathron and Tortoise Shell in the Cargo of the Hermapollon”, Journal of Ancient Indian History,Volume XXVII, pp. 75-101.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 152.
+</blockquote>
 
-[24]:
 
-Ranabir Chakravarti. “Examining the Hinterland and Foreland of the Port of Muziris in the Wider Perspective of the Subcontinent: Long–distance Network”, Imperial Rome, Indian Oceans Regions and Muziris: New Perspectives on Maritime Trade, ed. by K.S. Mathew, New York: Routledge, 2017, p.329
 
-[25]:
 
-Casson. “New Light on Maritime Loan”, in Chakravarti (ed.):236; Romanis.”Playing Sudoku on the Verso of the “Muziris Papyrus”: Pepper, Malabathron and Tortoise Shell in the Cargo of the Hermapollon”, Journal of Ancient Indian History,Volume XXVII, pp.99-100.
+<div className="footnote-card"><strong>[13]</strong> Ibid., p. 152.</div>
 
-[26]:
 
-Ranabir Chakravarti. “Examining the Hinterland and Foreland of the Port of Muziris in the Wider Perspective of the Subcontinent: Long–distance Network”, Imperial Rome, Indian Oceans Regions and Muziris: New Perspectives on Maritime Trade, p.330.
 
-[27]:
 
-E.H. Warmington. The Commerce between the Roman Empire and India, pp. 76-78.
+<div className="footnote-card"><strong>[14]</strong> Ibid., p. 167.</div>
 
-[28]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.172.
 
-[29]:
 
-A.N. Upadhye, ed. Kuvalayamālā: Prakrit Text & Various Readings (written by Udyotan Sūri), Part I, Bombay: Adhisthata, Singhi Jain Sastra Siksapitha, 1959, pp.64ff.
+<div className="footnote-card"><strong>[15]</strong> V.P. Dwivedi. Indian Ivories (a survey of Indian Ivory and bone carvings from the earliest to the modern times), Delhi: Agam Prakashan, 1976, p. 16.</div>
 
-[30]:
 
-A.K. Nilakanta Sastri. The Colas, Madras: University of Madras, 1935, pp.535ff.
 
-[31]:
 
-A.N. Upadhye, ed. Kuvalayamālā: Prakrit Text & Various Readings, Part I, pp.150ff.
+<div className="footnote-card"><strong>[16]</strong> Ibid., p. 16.</div>
 
-[32]:
 
-V. Minorsky. tr. Hudūd-al-‘ālam, a Persian Geography, 372 A.H.(A.D. 982), Oxford: Oxford University Press, 1937, pp.86ff.
 
-[33]:
 
-H.V. Nagaraja Rao, ed. Kalpanāratnam of Śri Śivamāra Bhūpāla, Bangalore: Poornaprajna Samsodhana Mandiram, 2009.
+<div className="footnote-card"><strong>[17]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.68.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., p.101.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> E.H. Warmington. The Commerce between the Roman Empire and India, Cambridge: Cambridge University Press, 1928, pp. 6-37.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, pp.111-112.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Federico De Romanis. “Playing Sudoku on the Verso of the “Muziris Papyrus”: Pepper, Malabathron and Tortoise Shell in the Cargo of the Hermapollon”, Journal of Ancient Indian History, Volume XXVII, pp. 75101.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> According to Rathbone 2000: 45 and Morelli 2011:221-222, schidai must be referred to a lower quality, broken or spoiled ivory.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Frederico De Romanis. “Playing Sudoku on the Verso of the “Muziris Papyrus”: Pepper, Malabathron and Tortoise Shell in the Cargo of the Hermapollon”, Journal of Ancient Indian History,Volume XXVII, pp. 75-101.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Ranabir Chakravarti. “Examining the Hinterland and Foreland of the Port of Muziris in the Wider Perspective of the Subcontinent: Long–distance Network”, Imperial Rome, Indian Oceans Regions and Muziris: New Perspectives on Maritime Trade, ed. by K.S. Mathew, New York: Routledge, 2017, p.329</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Casson. “New Light on Maritime Loan”, in Chakravarti (ed.):236; Romanis.”Playing Sudoku on the Verso of the “Muziris Papyrus”: Pepper, Malabathron and Tortoise Shell in the Cargo of the Hermapollon”, Journal of Ancient Indian History,Volume XXVII, pp.99-100.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Ranabir Chakravarti. “Examining the Hinterland and Foreland of the Port of Muziris in the Wider Perspective of the Subcontinent: Long–distance Network”, Imperial Rome, Indian Oceans Regions and Muziris: New Perspectives on Maritime Trade, p.330.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> E.H. Warmington. The Commerce between the Roman Empire and India, pp. 76-78.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.172.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> A.N. Upadhye, ed. Kuvalayamālā: Prakrit Text & Various Readings (written by Udyotan Sūri), Part I, Bombay: Adhisthata, Singhi Jain Sastra Siksapitha, 1959, pp.64ff.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> A.K. Nilakanta Sastri. The Colas, Madras: University of Madras, 1935, pp.535ff.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> A.N. Upadhye, ed. Kuvalayamālā: Prakrit Text & Various Readings, Part I, pp.150ff.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> V. Minorsky. tr. Hudūd-al-‘ālam, a Persian Geography, 372 A.H.(A.D. 982), Oxford: Oxford University Press, 1937, pp.86ff.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> H.V. Nagaraja Rao, ed. Kalpanāratnam of Śri Śivamāra Bhūpāla, Bangalore: Poornaprajna Samsodhana Mandiram, 2009.
+</blockquote>
 
 ---
 
-## 70. Appendix III: Elephant on Imperial Punch Marked Coins
+## Appendix III: Elephant on Imperial Punch Marked Coins
 
 Matangalila and Hastyayurveda (study)
 
@@ -241,8 +293,6 @@ Appendix III: Elephant on Imperial Punch Marked Coins
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -250,10 +300,6 @@ Appendix III: Elephant on Imperial Punch Marked Coins
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Elephants as commodities of Trade: Matangalila And Hastyayurveda Study Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

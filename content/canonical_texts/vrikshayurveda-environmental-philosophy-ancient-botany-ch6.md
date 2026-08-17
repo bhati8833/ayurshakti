@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ethics in the context of Vedic Literatures within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. 3.2. Ethics in the context of Vedic Literatures
+## 3.2. Ethics in the context of Vedic Literatures
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -35,7 +35,7 @@ The smrtikar's of ancient times have framed rules and code of ethics for those w
 
 ---
 
-## 18. 3.3. Environmentalism and the Appreciation of Nature
+## 3.3. Environmentalism and the Appreciation of Nature
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -59,8 +59,6 @@ I.2.2.2. Environmental Art: 51 Nature art or the aesthetic formation and decorat
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -68,10 +66,6 @@ I.2.2.2. Environmental Art: 51 Nature art or the aesthetic formation and decorat
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Environment and Humanity: In the context of Philosophical View: Vrikshayurveda and Environmental Philosophy Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Prognosis from the Dark-red coloration within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 78. Chapter 9 - Prognosis from the Dark-red coloration
+## Chapter 9 - Prognosis from the Dark-red coloration
 
 Charaka Samhita (English translation)
 
@@ -79,7 +79,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 79. Chapter 4 - Prognostics pertaining to senses (indriya)
+## Chapter 4 - Prognostics pertaining to senses (indriya)
 
 Charaka Samhita (English translation)
 
@@ -153,7 +153,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 80. Chapter 10 - Prognosis of Impending Death (sadyas-marana)
+## Chapter 10 - Prognosis of Impending Death (sadyas-marana)
 
 Charaka Samhita (English translation)
 
@@ -211,7 +211,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 81. Chapter 11 - Prognosis from the Diminished Vital-heat
+## Chapter 11 - Prognosis from the Diminished Vital-heat
 
 Charaka Samhita (English translation)
 
@@ -293,7 +293,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 82. Chapter 12 - Prognosis from Powder resembling Cow-dung Powder (gomaya-curna)
+## Chapter 12 - Prognosis from Powder resembling Cow-dung Powder (gomaya-curna)
 
 Charaka Samhita (English translation)
 
@@ -445,7 +445,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 83. Chapter 1a - The Virtues of the Chebulic (abhaya) and Emblic Myrobalans (amalaki)
+## Chapter 1a - The Virtues of the Chebulic (abhaya) and Emblic Myrobalans (amalaki)
 
 Charaka Samhita (English translation)
 
@@ -553,8 +553,6 @@ Here is the recapitulatory verse—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -562,10 +560,6 @@ Here is the recapitulatory verse—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Fruits plucked with the Hand (kara-pracita): Charaka Samhita Complete Translation Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

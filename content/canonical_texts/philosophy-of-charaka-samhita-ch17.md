@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dialectical terms (16): Imperfect statement (anuyojya) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 67. Dialectical terms (16): Imperfect statement (anuyojya)
+## Dialectical terms (16): Imperfect statement (anuyojya)
 
 Philosophy of Charaka-samhita
 
@@ -23,13 +23,14 @@ An imperfect statement (anuyojya) is a faulty assertion in the form of making on
 
 Example: Some one makes a statement that a given disease is curable by elimination therapy instead of saying that it is curable by emetic or purgation therapy.[1]
 
-[1]:
 
-CS, Vimāna - sthāna, VIII. 50.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Vimāna - sthāna, VIII. 50.
+</blockquote>
 
 ---
 
-## 68. Dialectical terms (20): Defective statement (vākyadoṣa)
+## Dialectical terms (20): Defective statement (vākyadoṣa)
 
 Philosophy of Charaka-samhita
 
@@ -91,53 +92,84 @@ against tenets concerning liberation in spiritual tradition.
 
 Thus, the assertion that a therapy has four constituents is a statement against the recognized tenet of Āyurveda. Similarly, the statement that animals should not be killed in rituals is contradictory to the established tenet of the ritual tradition and the statement regarding violence towards living beings is against the spiritual tradition.
 
-[1]:
 
-vākyadoṣo nāma yathā khalvasminnarthe nyūnaṃ, adhikaṃ, anarthakaṃ, apārthakaṃ, viruddhaṃ ceti; Ibid., 54.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> vākyadoṣo nāma yathā khalvasminnarthe nyūnaṃ, adhikaṃ, anarthakaṃ, apārthakaṃ, viruddhaṃ ceti; Ibid., 54.
+</blockquote>
 
-[2]:
 
-tatra nyūnaṃ - pratijñāhetūdāharaṇopanayanigamanānāmanyatamenāpi nyūnaṃ nyūnaṃ bhavati; yadvā bahūpadiṣṭahetukmekena hetunā sādhyate tacca nyūnaṃ, Ibid.
 
-[3]:
 
-hinamanyatamenāvayvena nyūnaṃ. Nyāyasūtra.,V. ii. 12; see also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 454.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> tatra nyūnaṃ - pratijñāhetūdāharaṇopanayanigamanānāmanyatamenāpi nyūnaṃ nyūnaṃ bhavati; yadvā bahūpadiṣṭahetukmekena hetunā sādhyate tacca nyūnaṃ, Ibid.
+</blockquote>
 
-[4]:
 
-CS, Vimāna - sthāna, VIII. 54.
 
-[5]:
 
-hetūdāharaṇamadhikamadhikaṃ. Nyāyasūtra., V. ii. 13.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> hinamanyatamenāvayvena nyūnaṃ. Nyāyasūtra.,V. ii. 12; see also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 454.
+</blockquote>
 
-[6]:
 
-sabdārthayoḥ punarvacanaṃ punaruktamanytranuvādāt. Ibid., 14.
 
-[7]:
 
-anarthakaṃ nāma yadvacanamakṣaragrāmamātrameva syāt pañcavargavanna cārthato gṛhyate, CS, Vimāna - sthāna, VIII. 54.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> CS, Vimāna - sthāna, VIII. 54.
+</blockquote>
 
-[8]:
 
-varnakramanirdeśavat nirarthakāṃ, Nyāyasūtra., V. ii. 8.
 
-[9]:
 
-apārthakaṃ nāma yadarthavacca paraspareṇāsaṃyujyamānārthakaṃ; CS,Vimāna - sthāna, VIII. 54.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> hetūdāharaṇamadhikamadhikaṃ. Nyāyasūtra., V. ii. 13.
+</blockquote>
 
-[10]:
 
-paurvāparyāyogādapratisaṃbaddhārthamapārthakaṃ, Nyāyasūtra., I. ii. 10.
 
-[11]:
 
-viruddhaṃ nāma yaddṛṣṭāntasiddhāntasamayairviruddhaṃ; CS, Vimāna-sthāna, VIII. 54.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> sabdārthayoḥ punarvacanaṃ punaruktamanytranuvādāt. Ibid., 14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> anarthakaṃ nāma yadvacanamakṣaragrāmamātrameva syāt pañcavargavanna cārthato gṛhyate, CS, Vimāna - sthāna, VIII. 54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> varnakramanirdeśavat nirarthakāṃ, Nyāyasūtra., V. ii. 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> apārthakaṃ nāma yadarthavacca paraspareṇāsaṃyujyamānārthakaṃ; CS,Vimāna - sthāna, VIII. 54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> paurvāparyāyogādapratisaṃbaddhārthamapārthakaṃ, Nyāyasūtra., I. ii. 10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> viruddhaṃ nāma yaddṛṣṭāntasiddhāntasamayairviruddhaṃ; CS, Vimāna-sthāna, VIII. 54.
+</blockquote>
 
 ---
 
-## 69. Dialectical terms (18-19): Question (anuyoga) and counter question (pratyanuyoga)
+## Dialectical terms (18-19): Question (anuyoga) and counter question (pratyanuyoga)
 
 Philosophy of Charaka-samhita
 
@@ -149,17 +181,17 @@ A question (anuyoga) is a query advanced by a learned person to another in a deb
 
 Example: When one scholar makes the assertion “puruṣa is eternal” the another scholar asks “What is the reason?”.[1] If a question like “why do you ask such a question?” ensues as a response from the first person, then it is called a counter question.[2]
 
-[1]:
 
-Ibid., 52.
+<div className="footnote-card"><strong>[1]</strong> Ibid., 52.</div>
 
-[2]:
 
-Ibid., 53.
+
+
+<div className="footnote-card"><strong>[2]</strong> Ibid., 53.</div>
 
 ---
 
-## 70. Dialectical terms (22): Quibble (chala)
+## Dialectical terms (22): Quibble (chala)
 
 Philosophy of Charaka-samhita
 
@@ -195,69 +227,106 @@ Vātsyāyana also cites a similar example.[11]
 
 Akṣapāda adds one more division called figurative quibble (upacāracchala) as a third division. Accordingly, upacāracchala consists in discarding one's statement as senseless by taking its primary sense where the secondary sense is intended.[12] It is notable that Akṣapāda himself raises the objection that vākcchala is upacāracchala itself because alteration in meaning is a common feature in both the cases.[13] Further, he himself clears out the objection by pointing out that there exists specific differences between the two beyond their minor similarities.[14] Referring to this, Dasgupta suggests that the objection raised reveals his disagreement with the classification given in Carakasaṃhitā.[15] However, Akṣapāda is found to be very weak to establish his argument. The hair splitting specific difference that he claims for them to have is not convincing.
 
-[1]:
 
-chalaṃ nāma pariśaṭhamarthābhāsamanarthakaṃ vāgvastumātrameva. Ibid., 56.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> chalaṃ nāma pariśaṭhamarthābhāsamanarthakaṃ vāgvastumātrameva. Ibid., 56.
+</blockquote>
 
-[2]:
 
-Ibid.
 
-[3]:
 
-vacanavighāto'rthavikalpopatyā cchalaṃ, Nyāyasūtra., I. ii. 10.
+<div className="footnote-card"><strong>[2]</strong> Ibid.</div>
 
-[4]:
 
-Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 71.
 
-[5]:
 
-vacanavighato yaḥ kriyate sāmānyasya śabdasya viśeṣānekasaṃbandhitve sati avivakṣitāropeṇa cchalaṃ tadveditavyaṃ., Nyāya-Vārttika of Udyotakāra., p.178.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> vacanavighāto'rthavikalpopatyā cchalaṃ, Nyāyasūtra., I. ii. 10.
+</blockquote>
 
-[6]:
 
-aviśeṣābhihite'arthe vakturabhiprāyādarthāntarakalpanā vākcchalaṃ. Nyāyasūtra., 1. ii. 12.
 
-[7]:
 
-CS, Vimāna - sthāna, VIII. 56.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 71.
+</blockquote>
 
-[8]:
 
-Vātsyāyana on Nyāyasūtra., 1. ii. 12, Nyāya-Bhāṣya of Vātsyāyana., p. 80.
 
-[9]:
 
-saṃbhavato'rthasyā'pratisāmānyayogādasaṃbhūtarthakalpanā sāmānyacchalaṃ Nyāyasūtra., I. ii. 13.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> vacanavighato yaḥ kriyate sāmānyasya śabdasya viśeṣānekasaṃbandhitve sati avivakṣitāropeṇa cchalaṃ tadveditavyaṃ., Nyāya-Vārttika of Udyotakāra., p.178.
+</blockquote>
 
-[10]:
 
-CS, Vimāna - sthāna, VIII, 56.
 
-[11]:
 
-see Vātsyāyana on Nyāyasūtra., I. ii. 13, Nyāya-Bhāṣya of Vātsyāyana., p.52.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> aviśeṣābhihite'arthe vakturabhiprāyādarthāntarakalpanā vākcchalaṃ. Nyāyasūtra., 1. ii. 12.
+</blockquote>
 
-[12]:
 
-dharmavikalpanirdese'rthasadbhāvapratiṣedha upacāracchalaṃ. Nyāyasūtra., 1. ii. 14.
 
-[13]:
 
-vākcchalamevopacāracchalaṃ tadaviśeṣat, Nyāyasūtra., 1. ii. 15.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> CS, Vimāna - sthāna, VIII. 56.
+</blockquote>
 
-[14]:
 
-Nyāyasūtra., I. ii. 16, 17; See also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 85.
 
-[15]:
 
-HIPS, Vol. II. p.386.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Vātsyāyana on Nyāyasūtra., 1. ii. 12, Nyāya-Bhāṣya of Vātsyāyana., p. 80.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> saṃbhavato'rthasyā'pratisāmānyayogādasaṃbhūtarthakalpanā sāmānyacchalaṃ Nyāyasūtra., I. ii. 13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> CS, Vimāna - sthāna, VIII, 56.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> see Vātsyāyana on Nyāyasūtra., I. ii. 13, Nyāya-Bhāṣya of Vātsyāyana., p.52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> dharmavikalpanirdese'rthasadbhāvapratiṣedha upacāracchalaṃ. Nyāyasūtra., 1. ii. 14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> vākcchalamevopacāracchalaṃ tadaviśeṣat, Nyāyasūtra., 1. ii. 15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Nyāyasūtra., I. ii. 16, 17; See also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 85.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> HIPS, Vol. II. p.386.</div>
 
 ---
-
-
 
 ---
 
@@ -266,10 +335,6 @@ HIPS, Vol. II. p.386.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Dialectical terms (21): Excellent assertion (vākyapraśaṃsā): Philosophy Of Charaka Samhita Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

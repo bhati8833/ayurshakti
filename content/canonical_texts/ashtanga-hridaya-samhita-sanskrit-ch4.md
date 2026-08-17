@@ -26,8 +26,6 @@ The 123 chapters of the Ashtanga Hridaya are systematically divided into six maj
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -35,10 +33,6 @@ The 123 chapters of the Ashtanga Hridaya are systematically divided into six maj
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">🌿 The Eight Branches of Ayurveda (*Aṣṭāṅga*) Covered: Ashtanga Hridaya Samhita Sanskrit Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

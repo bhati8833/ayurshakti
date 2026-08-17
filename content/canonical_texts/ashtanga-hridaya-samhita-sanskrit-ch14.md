@@ -11,10 +11,8 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on # 1. Who wrote the Ashtanga Hridaya Samhita? within Ashtanga Hridaya Samhita Sanskrit. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-### 1. Who wrote the Ashtanga Hridaya Samhita?
+### Who wrote the Ashtanga Hridaya Samhita?
 The Ashtanga Hridaya Samhita was composed by **Acharya Vagbhata** in the 6th to 7th century CE. He was an ancient Indian physician and scholar who synthesized the classical medical wisdom of Charaka and Sushruta into a streamlined poetic text.
-
-
 
 ---
 
@@ -23,10 +21,6 @@ The Ashtanga Hridaya Samhita was composed by **Acharya Vagbhata** in the 6th to 
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit-ch15" className="text-emerald-400 hover:underline flex items-center font-medium"># 2. How does Ashtanga Hridaya differ from Charaka Samhita and Sushruta Samhita?: Ashtanga Hridaya Samhita Sanskrit Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

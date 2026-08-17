@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of glands, scrofula, tumors and goitre within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Chapter XI - Diagnosis of glands, scrofula, tumors and goitre
+## Chapter XI - Diagnosis of glands, scrofula, tumors and goitre
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -101,27 +101,27 @@ A pendent swelling whether large or small and occurring about the region of the 
 
 Thus ends the eleventh Chapter of the Nidana Sthana in the Susruta Samhita which treats of the Nidana of Granthi, Scrofula, etc.
 
-[1]:
 
-In several editions an additional line is to be found running as men well conversant with symptoms (of Granthis) recognise a type of Granthi due to the action of the deranged flesh and blood, which exhibits symptoms identical with those of a tumour (Mansjra’srayam charvuda laskhanena (lakshanena?) tulyam hi drishtamath lakskanajanih). But Jejjata has rejected it as of questionable authority.
+<div className="footnote-card"><strong>[1]</strong> In several editions an additional line is to be found running as men well conversant with symptoms (of Granthis) recognise a type of Granthi due to the action of the deranged flesh and blood, which exhibits symptoms identical with those of a tumour (Mansjra’srayam charvuda laskhanena (lakshanena?) tulyam hi drishtamath lakskanajanih). But Jejjata has rejected it as of questionable authority.</div>
 
-[2]:
 
-These glandular formations appear about the root of the penis, about the sides, in the arm-pits and about the throat and the tendons of the neck. They resemble spawns of fish in shape and size and are due to the action of the deranged Vayu, Pitta and Kapha. The appearance of such glands in the upper part of the body should be attributed to the action of the deranged and aggravated Vayu. They are extremdy hard to cure inasmuch as their growth (formation) involves the concerted action of the morbific principles (Doshas) of the body.—Bhoja.
+
+
+<div className="footnote-card"><strong>[2]</strong> These glandular formations appear about the root of the penis, about the sides, in the arm-pits and about the throat and the tendons of the neck. They resemble spawns of fish in shape and size and are due to the action of the deranged Vayu, Pitta and Kapha. The appearance of such glands in the upper part of the body should be attributed to the action of the deranged and aggravated Vayu. They are extremdy hard to cure inasmuch as their growth (formation) involves the concerted action of the morbific principles (Doshas) of the body.—Bhoja.</div>
+
+
 
 Charaka, who designates this disease as Gandamala, describes its location in regions about the jawbones alone.
 
-[3]:
 
-That they having recourse to the flesh, produce deep-seated vegetations (of flesh) is the reading adopted by Gayadasa and others.
+<div className="footnote-card"><strong>[3]</strong> That they having recourse to the flesh, produce deep-seated vegetations (of flesh) is the reading adopted by Gayadasa and others.</div>
 
-[4]:
 
-Although all types of Arvuda have their origin in the deranged flesh and blood, preponderant action of the deranged blood is found in Rakta - arvuda, while a dominant action of the deranged flesh marks the Mansarvuda type.
+
+
+<div className="footnote-card"><strong>[4]</strong> Although all types of Arvuda have their origin in the deranged flesh and blood, preponderant action of the deranged blood is found in Rakta - arvuda, while a dominant action of the deranged flesh marks the Mansarvuda type.</div>
 
 ---
-
-
 
 ---
 
@@ -130,10 +130,6 @@ Although all types of Arvuda have their origin in the deranged flesh and blood, 
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of hernia, tumours, elephantiasis, etc: Sushruta Samhita Nidanasthana Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

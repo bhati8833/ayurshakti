@@ -104,11 +104,19 @@ The Pitta-subduing groups are Utpalādi, Sārivādi and Kākolyādi groups.
 
 [3]:
 
+
+<blockquote className="ayur-shloka">
 In Place of “kaṇṭakapañcamūlī” etc.”, some read “kaṇṭakapañcakola” etc., i.e. Kantaka (Gokshura) and the drugs included in the group known as “pañcakola,” viz. Pippali, Pippali-mula, Cavya, Citraka and Nāgara. The commentator Kārtika Kundu supports this:—Dallana. For Kantaka—Panca-mula, see Chap, XXXVIII—Sutra-Sthāna.
+</blockquote>
+
 
 [4]:
 
+
+<blockquote className="ayur-shloka">
 In places of “kṣīraghṛtaṃ” and “madhukodakaṃ” some read “kṣīracalaṃ” (milk mixed with water), “māṣodakaṃ” (soup of Māsha pulse) and “madhūdakaṃ” (honey mixed with water) respectively.
+</blockquote>
+
 
 [5]:
 

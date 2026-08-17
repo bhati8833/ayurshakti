@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of cutaneous affections within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. Chapter IX - The medical treatment of cutaneous affections
+## Chapter IX - The medical treatment of cutaneous affections
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -147,105 +147,126 @@ The paring of the nails and shaving the hair off, light physical exercise, the u
 
 Thus ends the ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Kushtha.
 
-[1]:
 
-An unsalted decoction of any substance not seasoned with any spices whatever is called Yusha, while the one salted and seasoned with spices is called Supa. In preparing the soup of any pulse, all husks should be carefully thrashed out and the grain should be slightly fried before boiling.
+<div className="footnote-card"><strong>[1]</strong> An unsalted decoction of any substance not seasoned with any spices whatever is called Yusha, while the one salted and seasoned with spices is called Supa. In preparing the soup of any pulse, all husks should be carefully thrashed out and the grain should be slightly fried before boiling.</div>
 
-[2]:
 
-Tvak here means Rasa or serum.
 
-[3]:
 
-The type of Kushtha affecting the principle of Medas (fat) is generally supposed to be sin-begotten.
+<div className="footnote-card"><strong>[2]</strong> Tvak here means Rasa or serum.</div>
 
-[4]:
 
-Oil should be used in a case of Kapha-predominance, whereas clarified butter in that of Pitta-predominance. Others assert that clarified butter should be used for drinking purposes and oil for anointments.
 
-[5]:
 
-Bhallataka-preparations have been described in the treatment of Arshas, preparations of Shilajatu, Guggulu, Aguru and Tuvaraka in the treatment of Prameha-pidaka, and Khadira, Asana and Ayaskriti preparations in the treatment of Maha-kushtha.
+<div className="footnote-card"><strong>[3]</strong> The type of Kushtha affecting the principle of Medas (fat) is generally supposed to be sin-begotten.</div>
 
-[6]:
 
-Chakradatta does not read “Grishtika” but read “Ushira” instead. He also takes both the kinds of “Haridra,” of “Upakulya” (Pippali) and of “Sariva”.
 
-[7]:
 
-Chakradatta reads “Nisha” in addition to the above drugs.
+<div className="footnote-card"><strong>[4]</strong> Oil should be used in a case of Kapha-predominance, whereas clarified butter in that of Pitta-predominance. Others assert that clarified butter should be used for drinking purposes and oil for anointments.</div>
 
-[8]:
 
-In drinks or baths, a decoction should be used and in plasters and rubbings the ingredients should be pasted with Takra and the expressed juice of Kapittha.
 
-[9]:
 
-This is the best medicine for curing Shvitra.
+<div className="footnote-card"><strong>[5]</strong> Bhallataka-preparations have been described in the treatment of Arshas, preparations of Shilajatu, Guggulu, Aguru and Tuvaraka in the treatment of Prameha-pidaka, and Khadira, Asana and Ayaskriti preparations in the treatment of Maha-kushtha.</div>
 
-[10]:
 
-The internal Shvitras are those under the blisters produced by the application of the remedy mentioned first in the list.
 
-[11]:
 
-Shivadasa, the commentator of Chakradatta, says that some read jalagaṇdaje in place gajalaṇdaje which case it would mean “Shamatha.”
+<div className="footnote-card"><strong>[6]</strong> Chakradatta does not read “Grishtika” but read “Ushira” instead. He also takes both the kinds of “Haridra,” of “Upakulya” (Pippali) and of “Sariva”.</div>
 
-[12]:
 
-According to some, both the leaves and bark of the “amra” and of the “Haritaki” should be taken.
 
-[13]:
 
-The leaves and bark respectively of the Amra and the Haritaki  should be taken in the preparation. The whole stanza seems to be of faulty construction. Dallana, in his commentary, says that some read the fourth line as
+<div className="footnote-card"><strong>[7]</strong> Chakradatta reads “Nisha” in addition to the above drugs.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> In drinks or baths, a decoction should be used and in plasters and rubbings the ingredients should be pasted with Takra and the expressed juice of Kapittha.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> This is the best medicine for curing Shvitra.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> The internal Shvitras are those under the blisters produced by the application of the remedy mentioned first in the list.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Shivadasa, the commentator of Chakradatta, says that some read jalagaṇdaje in place gajalaṇdaje which case it would mean “Shamatha.”
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> According to some, both the leaves and bark of the “amra” and of the “Haritaki” should be taken.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> The leaves and bark respectively of the Amra and the Haritaki  should be taken in the preparation. The whole stanza seems to be of faulty construction. Dallana, in his commentary, says that some read the fourth line as</div>
+
+
 
 “tailena siktaṃ kaṭuna samastamalepayedevamupaiti shantim ||”
 
 This seems to be a better reading. It removes the difficulty in the construction, but it omits also the word “Kilasa” from the text. This, however, is also an improvement, inasmuch as this preparation seems to be a remedy for Shvitra (which is only a variety of Kilasa) like the preceding and the following ones; and it seems unlikely that Sushruta would introduce a remedy for Kilasa in general in the special treatment of Shvitra.
 
-[14]:
 
-A Tula is equal to a hundred Palas or twelve seers and a half of our modern measure.
+<div className="footnote-card"><strong>[14]</strong> A Tula is equal to a hundred Palas or twelve seers and a half of our modern measure.</div>
 
-[15]:
 
-Dallana, in his commentary, says that the two Ghritas (Nila and Maha-Nila) seem to be spurious (Anarsha). But he has included them in his commentary as Jejjata and Gayadasa have read and explained them before him.
 
-[16]:
 
-Cow’s urine and water in equal parts should be taken according to some commentators. Dallana, however, recommends cow’s urine only and no water.
+<div className="footnote-card"><strong>[15]</strong> Dallana, in his commentary, says that the two Ghritas (Nila and Maha-Nila) seem to be spurious (Anarsha). But he has included them in his commentary as Jejjata and Gayadasa have read and explained them before him.</div>
 
-[17]:
 
-Dallana says that the authorship of this remedy should not be attributed to Sushruta, inasmuch as Jejjata does not mention it in his commentary.
 
-[18]:
 
-The drugs are to be boiled in water in which the patient should take his bath.
+<div className="footnote-card"><strong>[16]</strong> Cow’s urine and water in equal parts should be taken according to some commentators. Dallana, however, recommends cow’s urine only and no water.</div>
 
-[19]:
 
-The decoction should be prepared in the manner of “Shadanga-kalpa.”
 
-[20]:
 
-Shivadasa, the commentator on chakradatta, asserts, on the authority of Vagbhata, that the oil should be sesamum-oil and it should be boiled with cow’s urine.
+<div className="footnote-card"><strong>[17]</strong> Dallana says that the authorship of this remedy should not be attributed to Sushruta, inasmuch as Jejjata does not mention it in his commentary.</div>
 
-[21]:
 
-According to Gayadasa mustard-oil should be used.
 
-[22]:
 
-In cooking the oil, cow’s urine weighing four times of oil should be taken.—Dallana.
+<div className="footnote-card"><strong>[18]</strong> The drugs are to be boiled in water in which the patient should take his bath.</div>
 
-[23]:
 
-The decoction of Khadira in the bath as well as in the preparation of the gruel should be prepared after the manner of Shadanga-Kalpa.—Dallana.
+
+
+<div className="footnote-card"><strong>[19]</strong> The decoction should be prepared in the manner of “Shadanga-kalpa.”</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Shivadasa, the commentator on chakradatta, asserts, on the authority of Vagbhata, that the oil should be sesamum-oil and it should be boiled with cow’s urine.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> According to Gayadasa mustard-oil should be used.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> In cooking the oil, cow’s urine weighing four times of oil should be taken.—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> The decoction of Khadira in the bath as well as in the preparation of the gruel should be prepared after the manner of Shadanga-Kalpa.—Dallana.</div>
 
 ---
-
-
 
 ---
 
@@ -254,10 +275,6 @@ The decoction of Khadira in the bath as well as in the preparation of the gruel 
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">The medical/surgical treatment of the fetus: Sushruta Samhita Cikitsasthana Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

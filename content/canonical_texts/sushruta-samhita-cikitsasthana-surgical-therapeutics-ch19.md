@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of poison caused (water insect) within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. Chapter XXI - The medical treatment of poison caused by a Shuka (water insect)
+## Chapter XXI - The medical treatment of poison caused by a Shuka (water insect)
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -55,21 +55,22 @@ The medical treatment of the patient affected with any of the following types of
 
 Thus ends the twenty-first Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Shuka-Roga.
 
-[1]:
 
-Shiva-dasa in his commentary on Chikra-datta quotes this couplet from Sushruta, but there he reads amrakṛtena in place of amratakena that is to say, he says that Amra should be used in place of Amrataka. He further adds that the stones of Amra and Tinduka fruits should be taken.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Shiva-dasa in his commentary on Chikra-datta quotes this couplet from Sushruta, but there he reads amrakṛtena in place of amratakena that is to say, he says that Amra should be used in place of Amrataka. He further adds that the stones of Amra and Tinduka fruits should be taken.
+</blockquote>
 
-[2]:
 
-For Rasa-kriya and the Prithak-parnyadi drugs, see Chapter XXXVI—Sutrasthana.
 
-[3]:
 
-This seems to be the general treatment of all the types of Shuka-Roga.
+<div className="footnote-card"><strong>[2]</strong> For Rasa-kriya and the Prithak-parnyadi drugs, see Chapter XXXVI—Sutrasthana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> This seems to be the general treatment of all the types of Shuka-Roga.</div>
 
 ---
-
-
 
 ---
 
@@ -78,10 +79,6 @@ This seems to be the general treatment of all the types of Shuka-Roga.
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of erysipelas: Sushruta Samhita Cikitsasthana Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

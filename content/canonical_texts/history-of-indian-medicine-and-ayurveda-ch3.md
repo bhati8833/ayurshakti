@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Story of Caraka within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter 6 - The Story of Caraka
+## Chapter 6 - The Story of Caraka
 
 History of Indian Medicine (and Ayurveda)
 
@@ -175,7 +175,7 @@ The neglected and worn out texts were gathered again, systematized, restored and
 
 ---
 
-## 8. Chapter 7 - The Story of Dridhabala
+## Chapter 7 - The Story of Dridhabala
 
 History of Indian Medicine (and Ayurveda)
 
@@ -308,7 +308,7 @@ In some chapters, we find that there are some verses which though running concur
 
 ---
 
-## 9. Chapter 8 - Caraka Samhita—A Redacted Treatise
+## Chapter 8 - Caraka Samhita—A Redacted Treatise
 
 History of Indian Medicine (and Ayurveda)
 
@@ -463,8 +463,6 @@ Thus Caraka, although he is a redactor only, there is much that he has added as 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -472,10 +470,6 @@ Thus Caraka, although he is a redactor only, there is much that he has added as 
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Commentators of Caraka Samhita: History Of Indian Medicine And Ayurveda Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elixirs (rasayana) for the prevention of death and decay within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 32. Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay
+## Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -83,17 +83,20 @@ The Soma plants are invisible to the impious or to the ungrateful as well to the
 
 Thus ends the Twenty-ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the Prophylactic elixirs for the innate maladies.
 
-[1]:
 
-These are decrepitude, death, hunger, thirst, sleep, etc.
+<div className="footnote-card"><strong>[1]</strong> These are decrepitude, death, hunger, thirst, sleep, etc.</div>
 
-[2]:
 
-Here death may mean, accordirg to some authorities, the death of tissues as well.
 
-[3]:
 
-The whole of the hymns in the 9th Book of the Rig-veda, besides a few in other places, are dedicated to the honour of Soma, but these twenty- four names do not occur there. The plant is there represented as a god, and his worship must at one time have attained a remarkable popularity. The extraordinary properties of the exhilarating juice of the Soma are frequently mentioned in the Rig-veda and the language throughout in which it is behymned could not be more eulogistic.
+<div className="footnote-card"><strong>[2]</strong> Here death may mean, accordirg to some authorities, the death of tissues as well.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> The whole of the hymns in the 9th Book of the Rig-veda, besides a few in other places, are dedicated to the honour of Soma, but these twenty- four names do not occur there. The plant is there represented as a god, and his worship must at one time have attained a remarkable popularity. The extraordinary properties of the exhilarating juice of the Soma are frequently mentioned in the Rig-veda and the language throughout in which it is behymned could not be more eulogistic.</div>
+
+
 
 As an instance of this we might refer to Rig-veda VIII. 48.3 which has been metrically translated by Muir as follows:—
 
@@ -108,9 +111,10 @@ Immortal god, we soar.
 
 It should be mentioned, however, that as far as our knowledge goes, this Soma is now-a-days not within our reach.—Ed.
 
-[4]:
 
-Patanjali, the propounder of the Yoga system of Philosophy, enumerates the Yamas as follows:—
+<div className="footnote-card"><strong>[4]</strong> Patanjali, the propounder of the Yoga system of Philosophy, enumerates the Yamas as follows:—</div>
+
+
 
 “ahiṃsa” (harmlessness), (truthfulness),
 
@@ -120,10 +124,10 @@ Patanjali, the propounder of the Yoga system of Philosophy, enumerates the Yamas
 
 and “aparigraha” (non-acceptance of offerings except in prescribed cases).
 
-[5]:
+
+<div className="footnote-card"><strong>[5]</strong> ### The Niyamas, according to the same authority, are</div>
 
 
-### The Niyamas, according to the same authority, are
 
 
 “śauca” (purity—external or internal),
@@ -136,45 +140,46 @@ and “aparigraha” (non-acceptance of offerings except in prescribed cases).
 
 and “īśvara-praṇidhana” (meditation of the Divine Being).
 
-[6]:
 
-A Mushti measure is equal to eight Tolas.
-
-[7]:
+<div className="footnote-card"><strong>[6]</strong> A Mushti measure is equal to eight Tolas.</div>
 
 
-### The eight godly powers, according to some authorities, are
+
+
+<div className="footnote-card"><strong>[7]</strong> ### The eight godly powers, according to some authorities, are</div>
+
+
 
 
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
 īshitvañca vashitvañca tatha kamavasayita ||
 
-[8]:
 
-The allied branches of the study of the Vedas are six in num They are:—
+<div className="footnote-card"><strong>[8]</strong> The allied branches of the study of the Vedas are six in num They are:—</div>
+
+
 
 shikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
 
-[9]:
+
+<div className="footnote-card"><strong>[9]</strong> ### The eight godly powers, according to some authorities, are</div>
 
 
-### The eight godly powers, according to some authorities, are
 
 
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
 īśitvañca vaśitvañca tatha kamavasayita ||
 
-[10]:
 
-The allied branches of the study of the Vedas are six in num They are:—
+<div className="footnote-card"><strong>[10]</strong> The allied branches of the study of the Vedas are six in num They are:—</div>
+
+
 
 śikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
 
 ---
-
-
 
 ---
 
@@ -183,10 +188,6 @@ jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch31" className="text-emerald-400 hover:underline flex items-center font-medium">Elixirs (rasayana) to remove mental and physical distress: Sushruta Samhita Cikitsasthana Chapter 31 →</a>
 </div>
-
-
-
-
 
 ---
 

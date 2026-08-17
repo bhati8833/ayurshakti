@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Religious Importance of Ashvattha within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. 4. Religious Importance of Ashvattha
+## 4. Religious Importance of Ashvattha
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -29,7 +29,7 @@ In the Vedic literature we come across a good deal of reference as to the spirit
 
 ---
 
-## 43. 3. Religious Importance of Planting Trees in Puranas
+## 3. Religious Importance of Planting Trees in Puranas
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -57,8 +57,6 @@ From the beginning of earth, before the birth of human being trees were present.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ From the beginning of earth, before the birth of human being trees were present.
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">6. Religious Importance of Tulasi and Dhatri: Vrikshayurveda and Environmental Philosophy Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

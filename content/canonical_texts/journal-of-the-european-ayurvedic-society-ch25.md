@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Kshemendra’s Garbhavakranti Avadana within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 72. Kshemendra’s Garbhavakranti Avadana
+## Kshemendra’s Garbhavakranti Avadana
 
 Journal of the European Ayurvedic Society
 
@@ -85,7 +85,7 @@ bhuktva rau ra ba ka la su tra (5) na ra ke sva barta te yo ni su | Iyadba pu ny
 
 ---
 
-## 73. Kokkoka’s Ratirahasya translation (Part 3)
+## Kokkoka’s Ratirahasya translation (Part 3)
 
 Journal of the European Ayurvedic Society
 
@@ -187,7 +187,7 @@ K. Mylius, Kokkokas Ratirahasya (III) 179 kamm' mitsamt Sahadevi 733 salbt, dem 
 
 ---
 
-## 74. Other Publications Received (Volume 5)
+## Other Publications Received (Volume 5)
 
 Journal of the European Ayurvedic Society
 
@@ -207,8 +207,6 @@ Sharma, Shiva: The System of Ayurveda, Low Price Publications: Delhi 1993. ISBN 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -216,10 +214,6 @@ Sharma, Shiva: The System of Ayurveda, Low Price Publications: Delhi 1993. ISBN 
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Reviews and Notices (Volume 5): Journal Of The European Ayurvedic Society Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

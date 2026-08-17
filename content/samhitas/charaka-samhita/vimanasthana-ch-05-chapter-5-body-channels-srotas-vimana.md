@@ -72,7 +72,11 @@ Ducts (rasayani—rasāyanī);
 
 Capillaries (rasavahin/rasavahini—rasavāhin/rasavāhinī);
 
+
+<blockquote className="ayur-shloka">
 Tubes (nadi—nāḍī);
+</blockquote>
+
 
 Passages (pathin);
 
@@ -84,7 +88,11 @@ Glands (open or closed) (samvrita-asamvrita—saṃvṛtāsaṃvṛta);
 
 Bladders (sthana—sthāna);
 
+
+<blockquote className="ayur-shloka">
 Repertories (ashaya—āśaya);
+</blockquote>
+
 
 Resorts (niketa).
 

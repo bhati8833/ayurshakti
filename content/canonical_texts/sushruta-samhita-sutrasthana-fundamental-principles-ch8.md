@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Different seasons of the year within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 14. Chapter VI - Different seasons of the year
+## Chapter VI - Different seasons of the year
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -87,25 +87,25 @@ The bodily humours such as wind, etc. are disturbed and aggravated by the contra
 
 Thus ends the sixth chapter of the Sutrasthana in the Sushruta Samhita which treats of the characteristic features of the seasons and their influence on health and drugs.
 
-[1]:
 
-This should be regarded as the excited, aggravated or agitated state of bile (Pitta) in the parlance of Ayurveda.
+<div className="footnote-card"><strong>[1]</strong> This should be regarded as the excited, aggravated or agitated state of bile (Pitta) in the parlance of Ayurveda.</div>
 
-[2]:
 
-This is called the excited or agitated state of phlegm (kapha).
 
-[3]:
 
-This is called the excited state of wind (Vayu).
+<div className="footnote-card"><strong>[2]</strong> This is called the excited or agitated state of phlegm (kapha).</div>
 
-[4]:
 
-Marriages with girls of prohibited description have been known as well to have ushered in an epidemic which devastated a whole town or a country.
+
+
+<div className="footnote-card"><strong>[3]</strong> This is called the excited state of wind (Vayu).</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Marriages with girls of prohibited description have been known as well to have ushered in an epidemic which devastated a whole town or a country.</div>
 
 ---
-
-
 
 ---
 
@@ -114,10 +114,6 @@ Marriages with girls of prohibited description have been known as well to have u
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Surgical appliances: Sushruta Samhita Sutrasthana Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

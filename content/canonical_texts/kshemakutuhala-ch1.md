@@ -24,7 +24,7 @@ description: "study of the Kshemakutuhala by Kshemasharma—an ancient Indian te
 
 ---
 
-## 3. Personal life and family history of the author (Kshemasharma)
+## Personal life and family history of the author (Kshemasharma)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -40,7 +40,7 @@ T Gauri Caraka 1 Susrta Vagbhatta Harita Bhima 36 www. Surya Majority of the ver
 
 ---
 
-## 6. Arrangement of the chapters
+## Arrangement of the chapters
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -58,8 +58,6 @@ a XIth Chapter : 1. Appetisers ☑IT XXth Chapter : 1. Beverages 2. Curds 39 I i
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -67,10 +65,6 @@ a XIth Chapter : 1. Appetisers ☑IT XXth Chapter : 1. Beverages 2. Curds 39 I i
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Types of Cooked food and Cooking: Kshemakutuhala Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

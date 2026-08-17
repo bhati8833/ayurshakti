@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Vataja Ophthalmia within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter IX - Treatment of Vataja Ophthalmia
+## Chapter IX - Treatment of Vataja Ophthalmia
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -37,29 +37,38 @@ Saindhava, Devadaru and Shunthi and the expressed juice of Matulunga, water, bre
 
 Thus ends the ninth Chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of Vataja Abhishyanda.
 
-[1]:
 
-It should be noted that the part of the forehead adjoining the eye and not the eye itself—should be fomented, since fomentation should not be applied directly over the eye.
+<div className="footnote-card"><strong>[1]</strong> It should be noted that the part of the forehead adjoining the eye and not the eye itself—should be fomented, since fomentation should not be applied directly over the eye.</div>
 
-[2]:
 
-Āścyotana (eye-drop):—Consists in dropping into the eye with the two fingers, honey, Āsava, drug-decoction or any oleaginous sub-stance. Its doses are eight drops for scarifying purposes, ten drops for lubricating the part with any oleaginous substance (Snehana), twelve drops for the healing of any local ulcer (Ropana). They should be dropped lukewarm in winter and cold in summer into the eyes. In diseases of Vātaja origin they should be of a bitter taste; oleaginous in diseases due to the Pitta; and bitter,—warm and parching in diseases due to Kapha.—Vaidyaka Nighantu as quoted in the Vaidyaka-Śabda-Sindhu. Cf. also Chapter XVIII, Uttara-Tantra.
 
-[3]:
 
-According to Dallana and Gayadāsa, this Ghrita should be prepared without any Kalka. Śrikanta holds that the drugs Vrikshadāni, Kapittha and the Panca-mula should be taken as Kalka and the Ghrita prepared with three parts of milk. Śivadāsa also seems to support this view.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Āścyotana (eye-drop):—Consists in dropping into the eye with the two fingers, honey, Āsava, drug-decoction or any oleaginous sub-stance. Its doses are eight drops for scarifying purposes, ten drops for lubricating the part with any oleaginous substance (Snehana), twelve drops for the healing of any local ulcer (Ropana). They should be dropped lukewarm in winter and cold in summer into the eyes. In diseases of Vātaja origin they should be of a bitter taste; oleaginous in diseases due to the Pitta; and bitter,—warm and parching in diseases due to Kapha.—Vaidyaka Nighantu as quoted in the Vaidyaka-Śabda-Sindhu. Cf. also Chapter XVIII, Uttara-Tantra.
+</blockquote>
 
-[4]:
 
-According to Dallana, this Anu-taila is not the one described in Chapter V of the Chikitsita Sthāna; but the one described in the Śālākya-Tantra.
 
-[5]:
 
-This couplet may also be translated as follows:—“Anjana (black-antimony) rubbed over a stone-slab with clarified butter and breast-milk is also recommended as a best remedy in such cases”.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> According to Dallana and Gayadāsa, this Ghrita should be prepared without any Kalka. Śrikanta holds that the drugs Vrikshadāni, Kapittha and the Panca-mula should be taken as Kalka and the Ghrita prepared with three parts of milk. Śivadāsa also seems to support this view.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> According to Dallana, this Anu-taila is not the one described in Chapter V of the Chikitsita Sthāna; but the one described in the Śālākya-Tantra.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> This couplet may also be translated as follows:—“Anjana (black-antimony) rubbed over a stone-slab with clarified butter and breast-milk is also recommended as a best remedy in such cases”.</div>
 
 ---
 
-## 13. Chapter X - Treatment of Pittaja Ophthalmia
+## Chapter X - Treatment of Pittaja Ophthalmia
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -99,37 +108,50 @@ Clarified butter should be administered in a case of Dhuma-darshin and the proce
 
 Thus ends the tenth chapter in the Uttra-Tantra of the Sushruta Samhita which deals with of the curative treatment of Pittabhishyanda.
 
-[1]:
 
-See Chapter XVIII, ibid.
+<div className="footnote-card"><strong>[1]</strong> See Chapter XVIII, ibid.</div>
 
-[2]:
 
-The four forms of Nasya are (1) Pratimarsha. (2) Avapida (3) Nasya (snuff) and (4) Śiro-virecana.
 
-[3]:
 
-For preparation of Rasa-kriyā see Chapter XVIII, ibid.
+<div className="footnote-card"><strong>[2]</strong> The four forms of Nasya are (1) Pratimarsha. (2) Avapida (3) Nasya (snuff) and (4) Śiro-virecana.</div>
 
-[4]:
 
-According to Dallana, ‘Vamaka’ means ‘Rocanika’. It may also mean ‘Karnikāra’ which is not accepted either by Gay or by Dallana. It may also mean ‘Chandana’ which is most probably the meaning here.
 
-[5]:
 
-In the first two compounds, some take ‘Toya’ and ‘Ambu’ for water. But Dallana having explained ‘Toya’ as ‘Valakc’ in a preceding compound we adopt that meaning of the word here also.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> For preparation of Rasa-kriyā see Chapter XVIII, ibid.
+</blockquote>
 
-[6]:
 
-Traiphala-Ghrita is prepared by duly cooking clarified butter with the Kalka and decoction of ‘Triphala’. For Tilvaka-Ghrita see chapter III. Chikistsita-Sthāna.
 
-[7]:
 
-Traiphala-Ghrita is prepared by duly cooking clarified butter with the Kalka and decoction of ‘Triphala’. For Tilvaka-Ghrita see chapter III. Chikistsita-Sthāna.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> According to Dallana, ‘Vamaka’ means ‘Rocanika’. It may also mean ‘Karnikāra’ which is not accepted either by Gay or by Dallana. It may also mean ‘Chandana’ which is most probably the meaning here.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> In the first two compounds, some take ‘Toya’ and ‘Ambu’ for water. But Dallana having explained ‘Toya’ as ‘Valakc’ in a preceding compound we adopt that meaning of the word here also.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Traiphala-Ghrita is prepared by duly cooking clarified butter with the Kalka and decoction of ‘Triphala’. For Tilvaka-Ghrita see chapter III. Chikistsita-Sthāna.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Traiphala-Ghrita is prepared by duly cooking clarified butter with the Kalka and decoction of ‘Triphala’. For Tilvaka-Ghrita see chapter III. Chikistsita-Sthāna.
+</blockquote>
 
 ---
 
-## 14. Chapter XIV - Treatment of eye-diseases which require Incision
+## Chapter XIV - Treatment of eye-diseases which require Incision
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -167,17 +189,19 @@ In the foregoing five cases of incisable eye-disease, until the setting in of su
 
 Thus ends the fourteenth chapter of the Uttara-Tantra of the Sushruta Samhita which deals with the curative treatment of (eye-) diseases requiring incisions.
 
-[1]:
 
-Both Vrinda and Chakradatta read only the first two lines of the text and hold that the incision should be dusted with Saindhava only. Their commentators, however, accept the reading there to be Suśruta’s. They supply the next two lines of Suśruta, and notice the consequent alteration in the sense.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Both Vrinda and Chakradatta read only the first two lines of the text and hold that the incision should be dusted with Saindhava only. Their commentators, however, accept the reading there to be Suśruta’s. They supply the next two lines of Suśruta, and notice the consequent alteration in the sense.
+</blockquote>
 
-[2]:
 
-Both Vrinda and Cakrapāni read ‘Mutra’ (cow’s urine) in place of ‘Tuttha’. Both of them also recommend the addition of Rasānjana in the compound.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Both Vrinda and Cakrapāni read ‘Mutra’ (cow’s urine) in place of ‘Tuttha’. Both of them also recommend the addition of Rasānjana in the compound.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -186,10 +210,6 @@ Both Vrinda and Cakrapāni read ‘Mutra’ (cow’s urine) in place of ‘Tutth
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Lekhya-roga: Sushruta Samhita Uttara Tantra Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

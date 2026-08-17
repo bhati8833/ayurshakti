@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on General Discourse within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 69. Chapter 7
+## Chapter 7
 
 Charaka Samhita and Sushruta Samhita
 
@@ -19,11 +19,9 @@ This page relates ‘Chapter 7’ of the study on the Charaka Samhita and the Su
 
 Chapter 7
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 71. Processing of medicines
+## Processing of medicines
 
 Charaka Samhita and Sushruta Samhita
 
@@ -55,129 +53,217 @@ However, the question that arises here is whether it was at all possible for ind
 
 We may envisage a situation where smaller physicians may have manufactured simple ointments and pastes while patients procured most medicines from drug shops. Vaidya settlements are known from inscriptions (which we have noted in Chapter 2) and it is also possible that members established a central drug store by pooling resources. The presence of medicine shops indicates that some physicians were engaged in producing medicines for the market.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 4.7.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 4.7.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 4.9-18.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 3.10-11.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 4.9-18.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Cikitsāsthāna 10.16.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 2.17-33.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 3.10-11.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Kalpasthāna 12.49-50; Suśruta Saṃhitā Cikitsāsthāna 10.16.
 
-[7]:
 
-Caraka Saṃhitā Kalpasthāna 1.6.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Cikitsāsthāna 10.16.
+</blockquote>
 
-[8]:
 
-C.P. Khare, (Ed.), Indian Medicinal Plants: An Illustrated Dictionary, Springer-Verlag, Berlin/Heidelberg, 2007, p.589. www.iauamol.ac.ir/Files/medicinal%20plants.pdf
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.11.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 2.17-33.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.13.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.54-57.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Kalpasthāna 12.49-50; Suśruta Saṃhitā Cikitsāsthāna 10.16.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.77-81.
 
-[13]:
 
-Caraka Saṃhitā Siddhisthāna 12.19
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Kalpasthāna 1.6.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Cikitsāsthāna 4.29.
 
-[15]:
 
-Suśruta Saṃhitā Cikitsāsthāna 3.55-62.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> C.P. Khare, (Ed.), Indian Medicinal Plants: An Illustrated Dictionary, Springer-Verlag, Berlin/Heidelberg, 2007, p.589. www.iauamol.ac.ir/Files/medicinal%20plants.pdf
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Cikitsāsthāna 12.12-19.
 
-[17]:
 
-Caraka Saṃhitā Sūtrasthāna 15.7.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 11.11.
+</blockquote>
 
-[18]:
 
-Arthaśāstra 1.21.9.
 
-[19]:
 
-Caraka Saṃhitā Siddhisthāna 6.28.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 11.13.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.7.
 
-[21]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.17.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 23.54-57.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Kalpasthāna 1.11.
 
-[23]:
 
-Caraka Saṃhitā Kalpasthāna 1.11.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 23.77-81.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Cikitsāsthāna 29.61-67.
 
-[25]:
 
-Suśruta Saṃhitā Cikitsāsthāna 4.29.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Siddhisthāna 12.19
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.28-39.
 
-[27]:
 
-Suśruta Saṃhitā Cikitsāsthāna 10.13.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Cikitsāsthāna 4.29.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Cikitsāsthāna 29.63.
 
-[29]:
 
-Caraka Saṃhitā Sūtrasthāna 15.3.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Cikitsāsthāna 3.55-62.
+</blockquote>
 
-[30]:
 
-Arthaśāstra 2.12.27.
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Cikitsāsthāna 12.12-19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Sūtrasthāna 15.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Arthaśāstra 1.21.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Siddhisthāna 6.28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 36.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Sūtrasthāna 36.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Kalpasthāna 1.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Kalpasthāna 1.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Cikitsāsthāna 29.61-67.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Cikitsāsthāna 4.29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.28-39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Cikitsāsthāna 10.13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Cikitsāsthāna 29.63.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Sūtrasthāna 15.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Arthaśāstra 2.12.27.
+</blockquote>
 
 ---
 
-## 72. Knowledge of Dietetics
+## Knowledge of Dietetics
 
 Charaka Samhita and Sushruta Samhita
 
@@ -234,245 +320,418 @@ The authors of the Saṃhitās have analysed the pharmacological properties of d
 
 Considering the importance of diet to human sustenance and its nutritional complexities, it is not surprising that Suśruta has recommended the appointment of a physician to the post of the superintendant of the kitchen. The physician had necessarily to be involved in the preparation of the patient’s diet. Besides, dietary articles are usually cooked with the requisite drugs; thus, meat soup prepared with bitter and pungent drugs or pulse soups with similar spices is offered to the convalescent.[58] This necessitates a thorough understanding of the nature of transformation of inherent dietary properties by processing, etc., consideration of habitat, the condition of the individual in question and suitable food combinations. In certain combinations food items can turn poisonous.[59]
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 11.35.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 11.35.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 25.31.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.22; 14.3.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 25.31.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 14.3.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 14.12.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 1.22; 14.3.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 25.36; Suśruta Saṃhitā Sūtrasthāna 40.1-10.
 
-[7]:
 
-Caraka adds the concept of prabhāva to understand the dissimilar actions of two drugs having similar rasa, vīrya and vipāka; Caraka Saṃhitā Sūtrasthāna 26.67.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 14.3.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Vimānasthāna 1.20. The six rasas or tastes are madhura (sweet), amla (sour), lavaṇa (salty), kaṭu (acrid), tikta (bitter) and kaṣāya (astringent). See Suśruta Saṃhitā Sūtrasthāna 42.3.
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 25.36. Substances can be heavy (guru), light (laghu), cold (śita), hot (uṣṇa), unctuous (snigdha), dry (rūkṣa), mild (manda), sharp (tikṣṇa), stable (sthira), fluid (sara), soft (mṛdu), hard (kaṭhiṇa), non-slimy (viśada), slimy (picchila), smooth (ślakṣṇa), rough (khara), fine (sūkṣma), stout (sthūla), viscid (sāndra) and liquid (drava).
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 14.12.
+</blockquote>
 
-[10]:
 
-A few are phthisis or kṣata kṣīṇa (Caraka Saṃhitā Cikitsāsthāna 11.4-8) and common cold or pratiśraya (Suśruta Saṃhitā Uttaratantra 24.3).
 
-[11]:
 
-Caraka Saṃhitā Nidāna-sthāna Suśruta Saṃhitā Uttaratantra 39.20.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 25.36; Suśruta Saṃhitā Sūtrasthāna 40.1-10.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Nidāna-sthāna 2.4; Suśruta Saṃhitā Uttaratantra 45.3-4.
 
-[13]:
 
-Caraka Saṃhitā Nidāna-sthāna 3.6.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka adds the concept of prabhāva to understand the dissimilar actions of two drugs having similar rasa, vīrya and vipāka; Caraka Saṃhitā Sūtrasthāna 26.67.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Nidāna-sthāna 4.5.
 
-[15]:
 
-Caraka Saṃhitā Nidāna-sthāna 5.6.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Vimānasthāna 1.20. The six rasas or tastes are madhura (sweet), amla (sour), lavaṇa (salty), kaṭu (acrid), tikta (bitter) and kaṣāya (astringent). See Suśruta Saṃhitā Sūtrasthāna 42.3.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Nidāna-sthāna 6.7(1).
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.5.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 25.36. Substances can be heavy (guru), light (laghu), cold (śita), hot (uṣṇa), unctuous (snigdha), dry (rūkṣa), mild (manda), sharp (tikṣṇa), stable (sthira), fluid (sara), soft (mṛdu), hard (kaṭhiṇa), non-slimy (viśada), slimy (picchila), smooth (ślakṣṇa), rough (khara), fine (sūkṣma), stout (sthūla), viscid (sāndra) and liquid (drava).
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Uttaratantra 42.77-80.
 
-[19]:
 
-Suśruta Saṃhitā Uttaratantra 43.3-4.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> A few are phthisis or kṣata kṣīṇa (Caraka Saṃhitā Cikitsāsthāna 11.4-8) and common cold or pratiśraya (Suśruta Saṃhitā Uttaratantra 24.3).
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Uttaratantra 40.3.
 
-[21]:
 
-Suśruta Saṃhitā Uttaratantra 44.3.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Nidāna-sthāna Suśruta Saṃhitā Uttaratantra 39.20.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Uttaratantra 48.4.
 
-[23]:
 
-Suśruta Saṃhitā Uttaratantra 50.3; Suśruta Saṃhitā Uttaratantra 51.3.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Nidāna-sthāna 2.4; Suśruta Saṃhitā Uttaratantra 45.3-4.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Uttaratantra 45.3-4
 
-[25]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.4.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Nidāna-sthāna 3.6.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Uttaratantra 1.27.
 
-[27]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.27.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Nidāna-sthāna 4.5.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.11.
 
-[29]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.12.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Nidāna-sthāna 5.6.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Cikitsāsthāna 39.3-4.
 
-[31]:
 
-Suśruta Saṃhitā Cikitsāsthāna 39.4-5.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Nidāna-sthāna 6.7(1).
+</blockquote>
 
-[32]:
 
-Caraka Saṃhitā Vimānasthāna 1.21.
 
-[33]:
 
-Caraka Saṃhitā Vimānasthāna 1.22(1).
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 12.5.
+</blockquote>
 
-[34]:
 
-Caraka Saṃhitā Vimānasthāna 1.22(2).
 
-[35]:
 
-Caraka Saṃhitā Sūtrasthāna 27.339.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Uttaratantra 42.77-80.
+</blockquote>
 
-[36]:
 
-Caraka Saṃhitā Vimānasthāna 1.22(3). Incompatible substances and combinations are explained in Suśruta Saṃhitā Sūtrasthāna 20.13-15.
 
-[37]:
 
-Suśruta Saṃhitā Sūtrasthāna 20.16.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Uttaratantra 43.3-4.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Vimānasthāna 1.22(4).
 
-[39]:
 
-Caraka Saṃhitā Sūtrasthāna 5.4-6.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Uttaratantra 40.3.
+</blockquote>
 
-[40]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 1.22(5).
 
-[41]:
 
-Caraka Saṃhitā Sūtrasthāna 26.88.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Uttaratantra 44.3.
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Vimānasthāna 1.22(6).
 
-[43]:
 
-Caraka Saṃhitā Vimānasthāna 1.22(7).
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Uttaratantra 48.4.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Vimānasthāna 1.25(4).
 
-[45]:
 
-Caraka Saṃhitā Vimānasthāna 1.22(8).
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Uttaratantra 50.3; Suśruta Saṃhitā Uttaratantra 51.3.
+</blockquote>
 
-[46]:
 
-Suśruta Saṃhitā Sūtrasthāna 20.9.
 
-[47]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.444-445. The same view is expressed in Caraka Saṃhitā Sūtrasthāna 27.343.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Uttaratantra 45.3-4
+</blockquote>
 
-[48]:
 
-Caraka Saṃhitā Sūtrasthāna 27.342.
 
-[49]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.136.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.4.
+</blockquote>
 
-[50]:
 
-Caraka Saṃhitā Sūtrasthāna 27.5-7.
 
-[51]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Uttaratantra 1.27.
+</blockquote>
 
-[52]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.
 
-[53]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.326-330.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Sūtrasthāna 1.27.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.446-448.
 
-[55]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.458-459.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.11.
+</blockquote>
 
-[56]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.449-482.
 
-[57]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.482-490.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.12.
+</blockquote>
 
-[58]:
 
-Suśruta Saṃhitā Uttaratantra 47.28.
 
-[59]:
 
-Suśruta Saṃhitā Sūtrasthāna 20.8
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Cikitsāsthāna 39.3-4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Cikitsāsthāna 39.4-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Caraka Saṃhitā Vimānasthāna 1.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Vimānasthāna 1.22(1).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Caraka Saṃhitā Vimānasthāna 1.22(2).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Sūtrasthāna 27.339.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Vimānasthāna 1.22(3). Incompatible substances and combinations are explained in Suśruta Saṃhitā Sūtrasthāna 20.13-15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Sūtrasthāna 20.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Vimānasthāna 1.22(4).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Caraka Saṃhitā Sūtrasthāna 5.4-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 1.22(5).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Sūtrasthāna 26.88.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Vimānasthāna 1.22(6).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Caraka Saṃhitā Vimānasthāna 1.22(7).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Vimānasthāna 1.25(4).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Vimānasthāna 1.22(8).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Suśruta Saṃhitā Sūtrasthāna 20.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Suśruta Saṃhitā Sūtrasthāna 46.444-445. The same view is expressed in Caraka Saṃhitā Sūtrasthāna 27.343.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Caraka Saṃhitā Sūtrasthāna 27.342.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Caraka Saṃhitā Cikitsāsthāna 5.136.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Caraka Saṃhitā Sūtrasthāna 27.5-7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Suśruta Saṃhitā Sūtrasthāna 46.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Suśruta Saṃhitā Sūtrasthāna 45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Suśruta Saṃhitā Sūtrasthāna 46.326-330.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Sūtrasthāna 46.446-448.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Suśruta Saṃhitā Sūtrasthāna 46.458-459.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Suśruta Saṃhitā Sūtrasthāna 46.449-482.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Suśruta Saṃhitā Sūtrasthāna 46.482-490.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Suśruta Saṃhitā Uttaratantra 47.28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Suśruta Saṃhitā Sūtrasthāna 20.8
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -481,10 +740,6 @@ Suśruta Saṃhitā Sūtrasthāna 20.8
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Trade In Medicinal Drugs: Charaka Samhita And Sushruta Samhita Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

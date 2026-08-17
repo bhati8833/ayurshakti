@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Uses of gairika within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 66. Part 4 - Uses of gairika
+## Part 4 - Uses of gairika
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -29,7 +29,7 @@ This concludes ‘Uses of gairika’ included in Bhudeb Mookerjee Rasa Jala Nidh
 
 ---
 
-## 67. Part 1 - Characteristics of Kasisa (sulphate of iron)
+## Part 1 - Characteristics of Kasisa (sulphate of iron)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -49,7 +49,7 @@ This concludes ‘Characteristics of Kasisa (sulphate of iron)’ included in Bh
 
 ---
 
-## 68. Part 2 - Purification of kasisa
+## Part 2 - Purification of kasisa
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -67,7 +67,7 @@ This concludes ‘Purification of kasisa’ included in Bhudeb Mookerjee Rasa Ja
 
 ---
 
-## 69. Part 3 - How to take kasisa
+## Part 3 - How to take kasisa
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -85,7 +85,7 @@ This concludes ‘How to take kasisa’ included in Bhudeb Mookerjee Rasa Jala N
 
 ---
 
-## 70. Chapter XI - Uparasa (12): Kankshi (clay containing alum)
+## Chapter XI - Uparasa (12): Kankshi (clay containing alum)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -95,15 +95,11 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XI - Uparasa (12): Kankshi (clay containing alum)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (12): Kankshi (clay containing alum)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
-
-
 
 ---
 
@@ -112,10 +108,6 @@ This concludes ‘Uparasa (12): Kankshi (clay containing alum)’ included in Bh
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Characteristics of Kankshi/Tubari (clay containing alum): Rasa Jala Nidhi Volume 2 Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

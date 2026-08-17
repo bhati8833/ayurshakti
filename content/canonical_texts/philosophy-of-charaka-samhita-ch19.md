@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dialectical terms (25): Criticism (upālaṃbha) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 75. Dialectical terms (25): Criticism (upālaṃbha)
+## Dialectical terms (25): Criticism (upālaṃbha)
 
 Philosophy of Charaka-samhita
 
@@ -21,13 +21,14 @@ Dialectical terms (25): Criticism (upālaṃbha)
 
 Criticism (upālaṃbha) denotes the act of pointing out the fallacies of reason in a debate.[1]
 
-[1]:
 
-upālaṃbho nāma hetordoṣavacanaṃ. CS,Vimāna - sthāna, VIII. 59.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> upālaṃbho nāma hetordoṣavacanaṃ. CS,Vimāna - sthāna, VIII. 59.
+</blockquote>
 
 ---
 
-## 76. Dialectical terms (28): Confessional retort (abhyanujñā)
+## Dialectical terms (28): Confessional retort (abhyanujñā)
 
 Philosophy of Charaka-samhita
 
@@ -37,17 +38,21 @@ Dialectical terms (28): Confessional retort (abhyanujñā)
 
 A confessional retort (abhynujñā) consists in charging the opponent with a defect by admitting the defect in oneself.[1] This corresponds to the point of defeat called matānujñā of Nyāya-sūtra.[2]
 
-[1]:
 
-abhyanujñā nāma sā ya iṣṭāniṣṭābhyupagamaḥ, CS,Vimāna - sthāna, VIII. 62.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> abhyanujñā nāma sā ya iṣṭāniṣṭābhyupagamaḥ, CS,Vimāna - sthāna, VIII. 62.
+</blockquote>
 
-[2]:
 
-svapakṣe doṣābhyupagamāt parapakṣe doṣaprasaṅgo matānujñā, Nyāyasūtra., V. ii. 20.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> svapakṣe doṣābhyupagamāt parapakṣe doṣaprasaṅgo matānujñā, Nyāyasūtra., V. ii. 20.
+</blockquote>
 
 ---
 
-## 77. Dialectical terms (29): Dodging with a wrong reason (hetvantara)
+## Dialectical terms (29): Dodging with a wrong reason (hetvantara)
 
 Philosophy of Charaka-samhita
 
@@ -57,17 +62,21 @@ Dialectical terms (29): Dodging with a wrong reason (hetvantara)
 
 If the disputant dodges a genuine reason by giving a wrong reason, it is called hetvantara.[1] The Nyāya-sūtra describes it in a different way from this. There, it consists in investing the reason with a particular character, when the reason of general character is opposed.[2]
 
-[1]:
 
-hetvantaraṃ nāma prakṛtahetau vācye yadvikṛtahetumāh. CS,Vimāna - sthāna, VIII. 63.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> hetvantaraṃ nāma prakṛtahetau vācye yadvikṛtahetumāh. CS,Vimāna - sthāna, VIII. 63.
+</blockquote>
 
-[2]:
 
-aviśeṣoktau hetau pratiṣiddhe viśeṣamicchato hetvantaraṃ. Nyāyasūtra., V. ii. 6.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> aviśeṣoktau hetau pratiṣiddhe viśeṣamicchato hetvantaraṃ. Nyāyasūtra., V. ii. 6.
+</blockquote>
 
 ---
 
-## 78. Dialectical terms (27): Violating the proposition (pratijñāhāni)
+## Dialectical terms (27): Violating the proposition (pratijñāhāni)
 
 Philosophy of Charaka-samhita
 
@@ -79,21 +88,26 @@ When one is forced to forsake his preposition due to the attack of the opponent,
 
 A quite different definition of pratijñāhāni is given by Akṣapāda who considers it as a division of the point of defeat. Accordingly, violating the proposition occurs when one admits in his example that there is the character of a counter example.[2] A person says that sound is ephemeral because it is perceptible by a sense capacity like a jar and the opponent refutes it by saying that sound is eternal because it is perceptible by a sense organ like a genus which is eternal. Then the disputant replies that if a perceptible genus is eternal, a jar also must be eternal. Here the disputant admits that in his example jar, there is the character of eternity which is a property of genus, the counter example. Thus, he denies the ephemeral nature of a jar proposed by him and admits its eternity which is the character of a counter example and hurts the disputant's proposition.[3] Even though the definition given by Caraka is different from the definition given in Nyāya-sūtra, he agrees with the core point that the disputant has to forsake his original thesis. As such, it can be treated as a point of defeat.
 
-[1]:
 
-pratijñāhānirnāma sā pūrvaparigṛhītāṃ pratijñāṃ paryanuyukto yathā parityajati, CS,Vimāna - sthāna, VIII. 61.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> pratijñāhānirnāma sā pūrvaparigṛhītāṃ pratijñāṃ paryanuyukto yathā parityajati, CS,Vimāna - sthāna, VIII. 61.
+</blockquote>
 
-[2]:
 
-pratidṛṣṭāntadharmābhyanujñā svadṛṣṭānte pratijñāhāniḥ. Nyāyasūtra., V. ii. 2.
 
-[3]:
 
-see Vātsyāyana on ibid, Nyāya-Bhāṣya of Vātsyāyana., p. 448-49.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> pratidṛṣṭāntadharmābhyanujñā svadṛṣṭānte pratijñāhāniḥ. Nyāyasūtra., V. ii. 2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> see Vātsyāyana on ibid, Nyāya-Bhāṣya of Vātsyāyana., p. 448-49.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -102,10 +116,6 @@ see Vātsyāyana on ibid, Nyāya-Bhāṣya of Vātsyāyana., p. 448-49.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Ten technical debate terms [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

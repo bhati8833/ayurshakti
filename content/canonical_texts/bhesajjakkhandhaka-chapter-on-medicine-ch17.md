@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Internal Medicine (e): Gastrointestinal Disturbances within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 56. Internal Medicine (e): Gastrointestinal Disturbances
+## Internal Medicine (e): Gastrointestinal Disturbances
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -54,35 +54,51 @@ There is no exact definition for diarrhoea in modern medicine. It is usually con
 
 In summary, cases of digestive tract problems are found in the Chapters on Medicine. In these, sick monks are presented with indigestion, vomiting, and/or diarrhoea. They were chiefly treated by alkaline substances, fluids, and light diet (like porridge). In Āyurveda, there is a more detailed information on various gastrointestinal disorders, including those mentioned in the Chapters on Medicine. Treatments given in the Āyurvedic texts for these conditions are more diverse and complex. In modern medicine, these above problems are regarded only as symptoms, which can occur in many gastrointestinal and non-gastrointestinal diseases. Treatments would direct at correcting underlying causes (if diagnosed), relieving such symptoms, and managing any complications.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññataro bhikkhu duṭṭhagahaṇiko hoti. anujānāmi bhikkhave āmisakhāraṃ pāyetun ti.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññataro bhikkhu duṭṭhagahaṇiko hoti. anujānāmi bhikkhave āmisakhāraṃ pāyetun ti.”
+</blockquote>
 
-[2]:
 
-Taishō Tripiṭaka 1428. 867a12-14: “爾時佛在舍衛國。有比丘吐下...佛言：「聽以完全麥、若完全稻穀煮令熟，勿使破，漉汁飲。」”
 
-[3]:
 
-Taishō Tripiṭaka 1428. 870c6-7: “時有比丘患吐，須細軟髮，佛言：「聽燒已末之水和漉受飲之。」”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Taishō Tripiṭaka 1428. 867a12-14: “爾時佛在舍衛國。有比丘吐下...佛言：「聽以完全麥、若完全稻穀煮令熟，勿使破，漉汁飲。」”
+</blockquote>
 
-[4]:
 
-Taishō Tripiṭaka 1428. 874c8: “爾時有吐下比丘，使舍衛城中人煮粥。”
 
-[5]:
 
-Samantapāsādikā V. 1092: “duṭṭhagahaṇiko’ti vipannagahaṇiko. kicchena uccāro nikkhamatī’ti attho.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1428. 870c6-7: “時有比丘患吐，須細軟髮，佛言：「聽燒已末之水和漉受飲之。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1428. 874c8: “爾時有吐下比丘，使舍衛城中人煮粥。”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Samantapāsādikā V. 1092: “duṭṭhagahaṇiko’ti vipannagahaṇiko. kicchena uccāro nikkhamatī’ti attho.
+</blockquote>
+
+
 
 āmisakhāran ti sukkhodanaṃ jhāpetvā tāya chārikāya paggharitakhārodakaṃ.”
 
-[6]:
 
-The use of filtered fluid obtained from burnt ashes of soft hair for treating vomiting as mentioned in the Dharmaguptaka Bhaiṣajyaskandhaka finds no similarity in the Āyurvedic texts. Such use may be due to the alkalinity of ashes, which has stimulating effect on digestive power according to Āyurveda.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The use of filtered fluid obtained from burnt ashes of soft hair for treating vomiting as mentioned in the Dharmaguptaka Bhaiṣajyaskandhaka finds no similarity in the Āyurvedic texts. Such use may be due to the alkalinity of ashes, which has stimulating effect on digestive power according to Āyurveda.
+</blockquote>
 
 ---
 
-## 57. Internal Medicine (c): Disorders of Humours/Elements
+## Internal Medicine (c): Disorders of Humours/Elements
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -125,29 +141,40 @@ In endocrinology, treatments for hypofunction disorders generally involve replac
 
 The two cases of illness mentioned in the Chapters on Medicine–body full of humours and body being moist–should be associated with phlegm humour. They were treated with emesis and/or purgation, followed by post-treatment diets. Such treatments are consistent with those employed in Āyurveda for phlegm humour diseases. In terms of modern medicine, such illnesses would probably be disorders of the endocrine and immune systems.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññataro bhikkhu abhisannakāyo hoti. anujānāmi bhikkhave virecanaṃ pātun ti. acchakañjiyā attho hoti. anujānāmi bhikkhave acchakañjikan ti. akaṭayūsena attho hoti. anujānāmi bhikkhave akaṭayūsan ti. kaṭākaṭena attho hoti. anujānāmi bhikkhave kaṭākaṭan ti. paṭicchādaniyea attho hoti. anujānāmi bhikkhave paṭicchādaniyan ti.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññataro bhikkhu abhisannakāyo hoti. anujānāmi bhikkhave virecanaṃ pātun ti. acchakañjiyā attho hoti. anujānāmi bhikkhave acchakañjikan ti. akaṭayūsena attho hoti. anujānāmi bhikkhave akaṭayūsan ti. kaṭākaṭena attho hoti. anujānāmi bhikkhave kaṭākaṭan ti. paṭicchādaniyea attho hoti. anujānāmi bhikkhave paṭicchādaniyan ti.”
+</blockquote>
 
-[2]:
 
-Taishō Tripiṭaka 1428. 876c28-877a2: “爾時世尊在毘舍離。時眾僧多有供養飲食，諸比丘身患濕，白佛，佛言：「聽作吐下藥，須羹粥與羹粥，須野鳥肉應與。」”
 
-[3]:
 
-Samantapāsādikā V. 1092: “acchakañjikan ti taṇḍulakamaṇḍā. akaṭayūsan ti asiniddho muggapacitapāniyo. kaṭākaṭan ti so’va thokaṃ siniddho. paṭicchādanīyenā’ti maṃsarasena.”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Taishō Tripiṭaka 1428. 876c28-877a2: “爾時世尊在毘舍離。時眾僧多有供養飲食，諸比丘身患濕，白佛，佛言：「聽作吐下藥，須羹粥與羹粥，須野鳥肉應與。」”
+</blockquote>
 
-[4]:
 
-The post-treatment diets usually include thin gruel; thick gruel; soup without fat, salt and sours; soup with fat, salt and sours; and then meat broth (Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 18. 29).
 
-[5]:
 
-Intrigued readers may read, e.g. Chapters 19 and 20 of Kumar &Clark’s Clinical Medicine, 8th ed., on endocrine disorders, or equivalent chapters in other medical texts.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Samantapāsādikā V. 1092: “acchakañjikan ti taṇḍulakamaṇḍā. akaṭayūsan ti asiniddho muggapacitapāniyo. kaṭākaṭan ti so’va thokaṃ siniddho. paṭicchādanīyenā’ti maṃsarasena.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The post-treatment diets usually include thin gruel; thick gruel; soup without fat, salt and sours; soup with fat, salt and sours; and then meat broth (Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 18. 29).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Intrigued readers may read, e.g. Chapters 19 and 20 of Kumar &Clark’s Clinical Medicine, 8th ed., on endocrine disorders, or equivalent chapters in other medical texts.</div>
 
 ---
 
-## 58. Ophthalmology (Sālākiya)
+## Ophthalmology (Sālākiya)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -204,165 +231,243 @@ In modern ophthalmology, there are many congenital and acquired disorders afflic
 
 Abundant data about eye problems and treatments are found in the above Buddhist sources. In most of these cases the conditions were not specified, except baiyi is named in the Dharmaguptaka Bhaiṣajyaskandhaka. Treatments mostly relied on the use of collyria, but other remedies such as smoke therapy and nose-treatment were also used. In Āyurveda, these cures are also employed. In addition, there are also surgical treatments for eye diseases. According to modern ophthalmology, many disorders can cause painful eyes. There are also various conditions that can affect the cornea, causing visual obscuration. They are treated medically with drugs and/or surgically with operations.
 
-[1]:
 
-It is an extract of Indian barberry (Dash 2008, 222; Dutt 2012, 74).
+<div className="footnote-card"><strong>[1]</strong> It is an extract of Indian barberry (Dash 2008, 222; Dutt 2012, 74).</div>
 
-[2]:
 
-See footnote 130 of Chapter Four.
 
-[3]:
 
-Horner, in The Book of Discipline IV. 276, translated “phalamaya” as “made of crystal”, based on the meaning provided in the Pali-English Dictionary (s.v. “phalamaya”) which claims that the term “stands in all probability for phalikamaya, made of crystal.” But there are fruits which can be used as containers, e.g. bitter bottle gourd and coconut. The author’s translation here is based on the word provided in the source.
+<div className="footnote-card"><strong>[2]</strong> See footnote 130 of Chapter Four.</div>
 
-[4]:
 
-Theravāda Vinaya Piṭaka I. 203-204: “tena kho pana samayena aññatarassa bhikkhuno cakkhurogābādho hoti.... atha kho bhagavā etasmiṃ nidāne dhammikathaṃ katvā bhikkhū āmantesi: anujānāmi bhikkhave añjanaṃ kāḷañjanaṃ rasañjanaṃ sotañjanaṃ gerukaṃ kapallan ti. añjanūpapisanehi attho hoti–gha–anujānāmi bhikkhave candanaṃ tagaraṃ kāḷānusāriyaṃ tālīsaṃ bhaddamuttakan ti. tena kho pana samayena bhikkhū piṭṭhāni añjanāni thālikesu pi sarāvakesu pi nikkhipanti. tiṇacuṇṇehi  pi paṃsukehi pi okiriyanti–gha–anujānāmi bhikkhave añjanin ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacā añjaniyo dhārenti sovaṇṇamayaṃ rūpiyamayaṃ. manussā ujjhāyanti khīyanti vipācenti: seyyathāpi gihī kāmabhogino’ti. bhagavato etam atthaṃ ārocesuṃ. na bhikkhave uccāvacā añjanī dhāretabbā. yo dhāreyya, āpatti dukkaṭassa. anujānāmi bhikkhave aṭṭhimayaṃ dantamayaṃ visāṇamayaṃ naḷamayaṃ veḷumayaṃ kaṭṭhamayaṃ jatumayaṃ phalamayaṃ lohamayaṃ saṅkhanābhimayan ti. tena kho pana samayena añjanī apārutā honti. tiṇacuṇṇehi pi paṃsukehi pi okiriyanti–la–anujānāmi bhikkhave apidhānan ti. apidhānaṃ nipatati. anujānāmi bhikkhave suttakena bandhitvā añjaniyā bandhitun ti. añjanī nipatati. anujānāmi bhikkhave suttakena sibbetun ti. tena kho pana samayena bhikkhū aṅguliyā añjanti. akkhīni dukkhāni honti–la–anujānāmi bhikkhave añjanisalākan ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacā añjanisalākāyo dhārenti sovaṇṇamayaṃ rūpiyamayaṃ.... na bhikkhave uccāvacā añjanisalākā dhāretabbā. yo dhāreyya, āpatti dukkaṭassa. anujānāmi bhikkhave aṭṭhimayaṃ–la–saṅkhanābhimayan ti. tena kho pana samayena añjanisalākā bhūmiyaṃ patitā pharusā hoti–la–anujānāmi bhikkhave salākodhāniyan ti. tena kho pana samayena bhikkhū añjanim pi añjanisalākam pi hatthena pariharanti–la–anujānāmi bhikkhave añjanithavikan ti. aṃsabandhako na hoti–la–anujānāmi bhikkhave aṃsabandhakaṃ bandhanasuttakan ti.”
 
-[5]:
 
-陀婆闍那 probably refers to dhūpa-añjana, i.e. smoke-collyrium, as suggested in Shanjian lüpiposha (Virtuous-Seeing: A Commentary of the Discipline) (Taishō Tripiṭaka 1462. 795a26). But no other Vinayas or any Āyurvedic texts mention this kind of collyrium.
+<div className="footnote-card"><strong>[3]</strong> Horner, in The Book of Discipline IV. 276, translated “phalamaya” as “made of crystal”, based on the meaning provided in the Pali-English Dictionary (s.v. “phalamaya”) which claims that the term “stands in all probability for phalikamaya, made of crystal.” But there are fruits which can be used as containers, e.g. bitter bottle gourd and coconut. The author’s translation here is based on the word provided in the source.</div>
 
-[6]:
 
-耆羅闍那 seems to mean gairika-añjana, i.e. red chalk, as suggested in Shanjian lüpiposha (Taishō Tripiṭaka 1462. 795a26-27).
 
-[7]:
 
-According to Kangxi zidian, 瞖 means an eye disease or a barrier to eye (Zhang et al. 2005, 743). Cihai explains that 翳, synonymous with 瞖, is a thin layer arisen on the eye (Shu et al. 2005, 1076). Thus, 白瞖 (or 白翳 in older editions of Chinese Buddhist canon) refers to a white barrier or layer on the eye which may become obstacle to vision. Furthermore, 白翳 can mean corneal scar resulting from a corneal lesion according to traditional Chinese medicine (Chongbian Guoyu cidian xiudingben 重編國語辭典修訂本 (A Redaction of the Re-Edited Chinese Dictionary), s.v.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Theravāda Vinaya Piṭaka I. 203-204: “tena kho pana samayena aññatarassa bhikkhuno cakkhurogābādho hoti.... atha kho bhagavā etasmiṃ nidāne dhammikathaṃ katvā bhikkhū āmantesi: anujānāmi bhikkhave añjanaṃ kāḷañjanaṃ rasañjanaṃ sotañjanaṃ gerukaṃ kapallan ti. añjanūpapisanehi attho hoti–gha–anujānāmi bhikkhave candanaṃ tagaraṃ kāḷānusāriyaṃ tālīsaṃ bhaddamuttakan ti. tena kho pana samayena bhikkhū piṭṭhāni añjanāni thālikesu pi sarāvakesu pi nikkhipanti. tiṇacuṇṇehi  pi paṃsukehi pi okiriyanti–gha–anujānāmi bhikkhave añjanin ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacā añjaniyo dhārenti sovaṇṇamayaṃ rūpiyamayaṃ. manussā ujjhāyanti khīyanti vipācenti: seyyathāpi gihī kāmabhogino’ti. bhagavato etam atthaṃ ārocesuṃ. na bhikkhave uccāvacā añjanī dhāretabbā. yo dhāreyya, āpatti dukkaṭassa. anujānāmi bhikkhave aṭṭhimayaṃ dantamayaṃ visāṇamayaṃ naḷamayaṃ veḷumayaṃ kaṭṭhamayaṃ jatumayaṃ phalamayaṃ lohamayaṃ saṅkhanābhimayan ti. tena kho pana samayena añjanī apārutā honti. tiṇacuṇṇehi pi paṃsukehi pi okiriyanti–la–anujānāmi bhikkhave apidhānan ti. apidhānaṃ nipatati. anujānāmi bhikkhave suttakena bandhitvā añjaniyā bandhitun ti. añjanī nipatati. anujānāmi bhikkhave suttakena sibbetun ti. tena kho pana samayena bhikkhū aṅguliyā añjanti. akkhīni dukkhāni honti–la–anujānāmi bhikkhave añjanisalākan ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacā añjanisalākāyo dhārenti sovaṇṇamayaṃ rūpiyamayaṃ.... na bhikkhave uccāvacā añjanisalākā dhāretabbā. yo dhāreyya, āpatti dukkaṭassa. anujānāmi bhikkhave aṭṭhimayaṃ–la–saṅkhanābhimayan ti. tena kho pana samayena añjanisalākā bhūmiyaṃ patitā pharusā hoti–la–anujānāmi bhikkhave salākodhāniyan ti. tena kho pana samayena bhikkhū añjanim pi añjanisalākam pi hatthena pariharanti–la–anujānāmi bhikkhave añjanithavikan ti. aṃsabandhako na hoti–la–anujānāmi bhikkhave aṃsabandhakaṃ bandhanasuttakan ti.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> 陀婆闍那 probably refers to dhūpa-añjana, i.e. smoke-collyrium, as suggested in Shanjian lüpiposha (Virtuous-Seeing: A Commentary of the Discipline) (Taishō Tripiṭaka 1462. 795a26). But no other Vinayas or any Āyurvedic texts mention this kind of collyrium.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> 耆羅闍那 seems to mean gairika-añjana, i.e. red chalk, as suggested in Shanjian lüpiposha (Taishō Tripiṭaka 1462. 795a26-27).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> According to Kangxi zidian, 瞖 means an eye disease or a barrier to eye (Zhang et al. 2005, 743). Cihai explains that 翳, synonymous with 瞖, is a thin layer arisen on the eye (Shu et al. 2005, 1076). Thus, 白瞖 (or 白翳 in older editions of Chinese Buddhist canon) refers to a white barrier or layer on the eye which may become obstacle to vision. Furthermore, 白翳 can mean corneal scar resulting from a corneal lesion according to traditional Chinese medicine (Chongbian Guoyu cidian xiudingben 重編國語辭典修訂本 (A Redaction of the Re-Edited Chinese Dictionary), s.v.</div>
+
+
 
 “白翳” [accessed April 4, 2015, http://dict.revised.moe.edu.tw/cgi-
 
 bin/newDict/dict.sh?idx=dict.idx&cond=%A5%D5%C1k&pieceLen=50&fld=1&cat=&imgFont=1 ]). But it may also refer to another lesion known as pterygium, according to the meaning of 瞖 (or 翳).
 
-[8]:
 
-琉璃 refers to veḷuriya (Pāli) or vaiḍūrya (Sanskrit), which should be beryl (Digital Dictionary of Buddhism, s.v. “琉璃” [accessed April 14, 2015, http://www.buddhism-dict.net/cgi-bin/xpr-ddb.pl?q=%E7%90%89%E7%92%83]; Foguang da cidian (Large Dictionary of the Buddha’s Light), s.v. “琉璃” [accessed April 21, 2015, https://www.fgs.org.tw/fgs_book/fgs_drser.aspx]).
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> 琉璃 refers to veḷuriya (Pāli) or vaiḍūrya (Sanskrit), which should be beryl (Digital Dictionary of Buddhism, s.v. “琉璃” [accessed April 14, 2015, http://www.buddhism-dict.net/cgi-bin/xpr-ddb.pl?q=%E7%90%89%E7%92%83]; Foguang da cidian (Large Dictionary of the Buddha’s Light), s.v. “琉璃” [accessed April 21, 2015, https://www.fgs.org.tw/fgs_book/fgs_drser.aspx]).
+</blockquote>
+
+
 
 鎞 is sometimes written as 篦, according to the Kangxi zidian. It is a spearhead-like knife, which was used in the past to cure eye diseases or to scrape the thin layer on the eye (Zhang et al. 2005, 1245). See also Chongbian Guoyu cidian xiudingben, s.v. “鎞” [accessed April 4, 2015, http://dict.revised.moe.edu.tw/cgi-
 
 bin/newDict/dict.sh?cond=%F1%5D&pieceLen=50&fld=1&cat=&ukey=-
 
-[9]:
 
-&serial=1&recNo=1&op=f&imgFont=1]). But it may also be used as an applicator for eye medicine.
+<div className="footnote-card"><strong>[9]</strong> &serial=1&recNo=1&op=f&imgFont=1]). But it may also be used as an applicator for eye medicine.</div>
 
-[10]:
 
-Taishō Tripiṭaka 1428. 867b22-29: “爾時比丘病須眼藥，佛言：「聽用。是中眼藥者，陀婆闍那，耆羅闍那，比丘有病因緣盡形壽應服。」爾時比丘眼有白瞖生，須人血，白佛，佛言：「聽用。」爾時比丘患眼白瞖，須人骨，佛言：「聽用。」爾時比丘患眼白瞖，須細軟髮。「聽燒末著眼中。」爾時畢陵伽婆蹉患眼痛，得琉璃篦，佛言：「聽為治眼病故畜用。」”
 
-[11]:
 
-Taishō Tripiṭaka 1421. 134c5-9: “有諸比丘患眼，醫言：「以人額骨磨著眼中。」諸比丘言：「佛不聽我等捉死人骨，更說餘方。」醫言：「更無餘治。」諸比丘作是念：「若世尊聽病時捉死人骨者，病可得差。」以是白佛，佛言：「聽屏處取骨，如二指大，磨著眼中。」” This account is not within the Mahīśāsaka Bhaiṣajyadharmaka.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Taishō Tripiṭaka 1428. 867b22-29: “爾時比丘病須眼藥，佛言：「聽用。是中眼藥者，陀婆闍那，耆羅闍那，比丘有病因緣盡形壽應服。」爾時比丘眼有白瞖生，須人血，白佛，佛言：「聽用。」爾時比丘患眼白瞖，須人骨，佛言：「聽用。」爾時比丘患眼白瞖，須細軟髮。「聽燒末著眼中。」爾時畢陵伽婆蹉患眼痛，得琉璃篦，佛言：「聽為治眼病故畜用。」”
+</blockquote>
 
-[12]:
 
-Taishō Tripiṭaka 1421. 147c15: “有比丘患眼，佛言：「聽作眼藥。」”
 
-[13]:
 
-羅散禪 should refer to rasāñjana.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Taishō Tripiṭaka 1421. 134c5-9: “有諸比丘患眼，醫言：「以人額骨磨著眼中。」諸比丘言：「佛不聽我等捉死人骨，更說餘方。」醫言：「更無餘治。」諸比丘作是念：「若世尊聽病時捉死人骨者，病可得差。」以是白佛，佛言：「聽屏處取骨，如二指大，磨著眼中。」” This account is not within the Mahīśāsaka Bhaiṣajyadharmaka.
+</blockquote>
 
-[14]:
 
-See Nanshan Vinaya Dictionary, s.v. “半鉢”.
 
-[15]:
 
-鍵鎡 should be ghaṭī, which is a water-jar.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Taishō Tripiṭaka 1421. 147c15: “有比丘患眼，佛言：「聽作眼藥。」”
+</blockquote>
 
-[16]:
 
-The Taishō Tripiṭaka (and the CBETA) gives 匕, which means a spoon. Older editions of Chinese
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> 羅散禪 should refer to rasāñjana.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> See Nanshan Vinaya Dictionary, s.v. “半鉢”.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> 鍵鎡 should be ghaṭī, which is a water-jar.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> The Taishō Tripiṭaka (and the CBETA) gives 匕, which means a spoon. Older editions of Chinese
+</blockquote>
+
+
 
 Buddhist canon have it as 籌 (a small piece of wood or a small stick). The author’s translation is based on older editions.
 
-[17]:
 
-Taishō Tripiṭaka 1435. 184c12-23: “佛在舍衛國。是時長老畢陵伽婆蹉目痛，藥師語言：「以羅散禪塗眼。」答言：「佛未聽我等以羅散禪塗眼。」諸比丘以是事白佛，佛言：「聽以羅散禪塗眼。」是長老以羅散禪盛著鉢中半鉢鍵鎡小鍵鎡，絡囊懸象牙杙上。取藥時流污壁及臥具，房舍中臭穢，佛言：「應用函盛。」雖盛不覆，土塵墮中，用時增益眼痛，佛言：「應作蓋。」蓋直動脫，佛言：「子口合作。」是時諸比丘，用鳥翮、雞翮、孔雀尾著眼藥，眼痛更增，佛言：「用匕。」長老優波離問佛：「應用何等物作匕？」佛言：「若鐵、若銅、若貝、若象牙、若角、若木、若瓦。」”
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Taishō Tripiṭaka 1435. 184c12-23: “佛在舍衛國。是時長老畢陵伽婆蹉目痛，藥師語言：「以羅散禪塗眼。」答言：「佛未聽我等以羅散禪塗眼。」諸比丘以是事白佛，佛言：「聽以羅散禪塗眼。」是長老以羅散禪盛著鉢中半鉢鍵鎡小鍵鎡，絡囊懸象牙杙上。取藥時流污壁及臥具，房舍中臭穢，佛言：「應用函盛。」雖盛不覆，土塵墮中，用時增益眼痛，佛言：「應作蓋。」蓋直動脫，佛言：「子口合作。」是時諸比丘，用鳥翮、雞翮、孔雀尾著眼藥，眼痛更增，佛言：「用匕。」長老優波離問佛：「應用何等物作匕？」佛言：「若鐵、若銅、若貝、若象牙、若角、若木、若瓦。」”
+</blockquote>
 
-[18]:
 
-青木香藥 should be the root of costus (Jiang and Wang 2009). But why it is prohibited by the Buddha is not clear.
 
-[19]:
 
-Taishō Tripiṭaka 1435. 275c13-21: “佛在舍衛國。爾時長老畢陵伽婆蹉眼痛，時藥師教言：「和藥作丸著火上燒服烟。」優波離問佛：「用何物作藥？」佛言：「但除青木香藥，和合餘一切香，著火中手接取烟而咽。」時以手接烟不得，佛言：「作筒。」時筒太長不得烟，佛言：「莫長作。」又復短作便燒手，佛言：「莫太短。」又時丸藥在一處、筒在一處，取時難得，佛言：「應畜囊盛。」盛時筒破藥丸，佛言：「中應施鬲。」施鬲已不繫頭筒墮地，佛言：
+<div className="footnote-card"><strong>[18]</strong> 青木香藥 should be the root of costus (Jiang and Wang 2009). But why it is prohibited by the Buddha is not clear.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Taishō Tripiṭaka 1435. 275c13-21: “佛在舍衛國。爾時長老畢陵伽婆蹉眼痛，時藥師教言：「和藥作丸著火上燒服烟。」優波離問佛：「用何物作藥？」佛言：「但除青木香藥，和合餘一切香，著火中手接取烟而咽。」時以手接烟不得，佛言：「作筒。」時筒太長不得烟，佛言：「莫長作。」又復短作便燒手，佛言：「莫太短。」又時丸藥在一處、筒在一處，取時難得，佛言：「應畜囊盛。」盛時筒破藥丸，佛言：「中應施鬲。」施鬲已不繫頭筒墮地，佛言：
+</blockquote>
+
+
 
 「應繫頭。」” This information is not in the Sarvāstivāda Bhaiṣajyadharmaka, but elsewhere in this Vinaya.
 
-[20]:
 
-Pala is a certain weight or a fluid measure (both Pali-English Dictionary and A Sanskrit-English Dictionary, s.v. “pala”).
+<div className="footnote-card"><strong>[20]</strong> Pala is a certain weight or a fluid measure (both Pali-English Dictionary and A Sanskrit-English Dictionary, s.v. “pala”).</div>
 
-[21]:
 
-Taishō Tripiṭaka 1435. 275c28-276a6: “佛在舍衛國。長老畢陵伽婆蹉患眼痛，時藥師教言：「應脂灌鼻。」時比丘以指渧鼻中，或以毳取而渧，渧時不便流入，眼更增痛劇。是事白佛，佛言：「作筒灌。」作筒大，鼻不受；復小作，溢失不中用。是事白佛，佛言：「莫大莫小作，得受
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Taishō Tripiṭaka 1435. 275c28-276a6: “佛在舍衛國。長老畢陵伽婆蹉患眼痛，時藥師教言：「應脂灌鼻。」時比丘以指渧鼻中，或以毳取而渧，渧時不便流入，眼更增痛劇。是事白佛，佛言：「作筒灌。」作筒大，鼻不受；復小作，溢失不中用。是事白佛，佛言：「莫大莫小作，得受
+</blockquote>
+
+
 
 一波羅、若一波羅半，欲唾以手承取。」以手承取故便欲吐，佛言：「聽用弊衲承取。」”
 
 This information is not in the Sarvāstivāda Bhaiṣajyadharmaka.
 
-[22]:
 
-The term puṣpāñjana has no English equivelent. The Chinese version of Mūlasarvāstivāda Bhaiṣajyavastu has rendered it as flower collyrium, based on its literal meaning. The Sanskrit term is thus translated as flower collyrium here. But exactly what substance it is it cannot be ascertained. According to Dash (2008, 222) and Sudarshan (2005, vol. 5, 35), it is zinc oxide. But it is thin flakes of brass according to Srikantha Murthy in his translation of the Aṣṭāṅga Hṛdaya Saṃhitā (vol. III, 514, table 7(3)). A Sanskrit-English Dictionary says it is calx of brass (s.v. “puṣpāñjana”).
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> The term puṣpāñjana has no English equivelent. The Chinese version of Mūlasarvāstivāda Bhaiṣajyavastu has rendered it as flower collyrium, based on its literal meaning. The Sanskrit term is thus translated as flower collyrium here. But exactly what substance it is it cannot be ascertained. According to Dash (2008, 222) and Sudarshan (2005, vol. 5, 35), it is zinc oxide. But it is thin flakes of brass according to Srikantha Murthy in his translation of the Aṣṭāṅga Hṛdaya Saṃhitā (vol. III, 514, table 7(3)). A Sanskrit-English Dictionary says it is calx of brass (s.v. “puṣpāñjana”).
+</blockquote>
 
-[23]:
 
-The Sanskrit term given in the Gilgit Manuscripts is sauvīrakāñjanaṃ, but in Āyurvedic texts it is sauvīrāñjana.
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> The Sanskrit term given in the Gilgit Manuscripts is sauvīrakāñjanaṃ, but in Āyurvedic texts it is sauvīrāñjana.
+</blockquote>
+
+
 
 It should refer to a kind of black pebble from the country of Sauvīra (Dutt 2012, 74). See also the translator’s notes to Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 2. 5.
 
-[24]:
 
-According to A Sanskrit-English Dictionary, nāgadantaka is synonymous with nāgadanta, which means an ivory peg on the wall for hanging things. See also Pali-English Dictionary, s.v. “nāgadanta”.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> According to A Sanskrit-English Dictionary, nāgadantaka is synonymous with nāgadanta, which means an ivory peg on the wall for hanging things. See also Pali-English Dictionary, s.v. “nāgadanta”.
+</blockquote>
 
-[25]:
 
-Gilgit Manuscripts III. 1.viii-ix: “śrāvastyāṃ nidānam | tena khalu samayenānyatama)sya bhikṣorakṣirogaḥ prādurbhūtaḥ | sa vaidyasakāśamupasaṃkrāntaḥ | bhadramukha akṣirogo me prādurbhūtaḥ | bhaiṣajyaṃ vyapadiśeti | sa kathayati | ārya añjanaṃ pratisevasva | svāsthyaṃ te bha(viṣyati | bhadramukha kiṃ vayaṃ kāmabhoginaḥ | ārya idaṃ te bhaiṣajyam| na śakyamanyathā svasthe-)na bhavitum | etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | vaidyopadeśenāñjanaṃ sevitavyam | te na jānanti | tairvaidyaḥ pṛṣṭaḥ | sa katha(yati | ārya śāstā te sarvajñaḥ | tameva gatvā pṛccheti | etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha) | pañcāñjanāni | puṣpāñjanaṃ rasāñjanaṃ cūrṇāñjanaṃ guṭikāñjanaṃ sauvīrakāñjanam | tena sevitam | svasthībhūtaḥ | tenāvaśiṣṭamañjanaṃ yatra tatra vā (sthāpitaṃ vinaṣṭam |... etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti ) | bhagavānāha | na bhikṣuṇā añjanaṃ yatra vā tatra vā sthāpayitavyam |... añjanadhārakairbhikṣubhirañjanāni evamevaṃ sthāpayitavyāni | puṣpāñjanaṃ pātre ) rasāñjanaṃ samudgake sthāpayitavyam | cūrṇāñjanaṃ
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Gilgit Manuscripts III. 1.viii-ix: “śrāvastyāṃ nidānam | tena khalu samayenānyatama)sya bhikṣorakṣirogaḥ prādurbhūtaḥ | sa vaidyasakāśamupasaṃkrāntaḥ | bhadramukha akṣirogo me prādurbhūtaḥ | bhaiṣajyaṃ vyapadiśeti | sa kathayati | ārya añjanaṃ pratisevasva | svāsthyaṃ te bha(viṣyati | bhadramukha kiṃ vayaṃ kāmabhoginaḥ | ārya idaṃ te bhaiṣajyam| na śakyamanyathā svasthe-)na bhavitum | etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | vaidyopadeśenāñjanaṃ sevitavyam | te na jānanti | tairvaidyaḥ pṛṣṭaḥ | sa katha(yati | ārya śāstā te sarvajñaḥ | tameva gatvā pṛccheti | etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha) | pañcāñjanāni | puṣpāñjanaṃ rasāñjanaṃ cūrṇāñjanaṃ guṭikāñjanaṃ sauvīrakāñjanam | tena sevitam | svasthībhūtaḥ | tenāvaśiṣṭamañjanaṃ yatra tatra vā (sthāpitaṃ vinaṣṭam |... etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti ) | bhagavānāha | na bhikṣuṇā añjanaṃ yatra vā tatra vā sthāpayitavyam |... añjanadhārakairbhikṣubhirañjanāni evamevaṃ sthāpayitavyāni | puṣpāñjanaṃ pātre ) rasāñjanaṃ samudgake sthāpayitavyam | cūrṇāñjanaṃ
+</blockquote>
+
+
 
 guṭikāñjanaṃ sauvīrakaṃ ca puṭikāṃ baddhvā nāgadantake sthāpa(yitavyam |...”
 
-[26]:
 
-See footnote 162 above.
+<div className="footnote-card"><strong>[26]</strong> See footnote 162 above.</div>
 
-[27]:
 
-Taishō Tripiṭaka 1448. 2b11-c7: “緣在室羅伐城，時有苾芻患眼，遂往醫人處問曰：「賢首！我今患眼，為我處方。」醫人報曰：「聖者！宜用安膳那藥，即應得差。」苾芻報曰：「我豈是愛欲之人?」醫人報曰：「聖者！此是好治眼藥，除此，餘藥不能療也。」以此因緣，時諸苾芻往白世尊。佛言：「若醫人言：『此是治眼藥，餘不能療。』者，應當用安膳那。」然彼苾芻不知用何安膳那，便問醫人，醫人報曰：「聖者！汝師具一切智，應往問之。」以斯緣故，時諸苾芻往白世尊。佛言：「有五種安膳那：一者花安膳那、二者汁安膳那、三者粖安膳那、四者丸安膳那、五者騷毘羅石安膳那。此之五種，咸能療眼。是故苾芻若患眼者，應用安膳那，方得除差。」病既差已，所有殘安膳那遂便棄却。...以此因緣，往白世尊。佛言：「苾芻！若有殘安膳那，不應輒棄而不收舉。...其安膳那，應置牢固處，花安膳那置於銅器中，汁藥安小合內，粖藥置在竹筒裏。後一一安置袋中，或以物裹，或於牆壁釘橛繫之。...」”
 
-[28]:
 
-空青, according to Cihai, is a substance found in copper ore, which can be used as an eye medicine (Shu et al. 2005, 998). It may be either azurite or malachite. Both of these are copper carbonate minerals. In Āyurveda, blue vitriol, known as tuttha or another variety mayūragrīvaka in Sanskrit, is used as eye medicine. Tuttha or mayūragrīvaka contains copper sulphate. See Dash 2008, 219.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Taishō Tripiṭaka 1448. 2b11-c7: “緣在室羅伐城，時有苾芻患眼，遂往醫人處問曰：「賢首！我今患眼，為我處方。」醫人報曰：「聖者！宜用安膳那藥，即應得差。」苾芻報曰：「我豈是愛欲之人?」醫人報曰：「聖者！此是好治眼藥，除此，餘藥不能療也。」以此因緣，時諸苾芻往白世尊。佛言：「若醫人言：『此是治眼藥，餘不能療。』者，應當用安膳那。」然彼苾芻不知用何安膳那，便問醫人，醫人報曰：「聖者！汝師具一切智，應往問之。」以斯緣故，時諸苾芻往白世尊。佛言：「有五種安膳那：一者花安膳那、二者汁安膳那、三者粖安膳那、四者丸安膳那、五者騷毘羅石安膳那。此之五種，咸能療眼。是故苾芻若患眼者，應用安膳那，方得除差。」病既差已，所有殘安膳那遂便棄却。...以此因緣，往白世尊。佛言：「苾芻！若有殘安膳那，不應輒棄而不收舉。...其安膳那，應置牢固處，花安膳那置於銅器中，汁藥安小合內，粖藥置在竹筒裏。後一一安置袋中，或以物裹，或於牆壁釘橛繫之。...」”
+</blockquote>
 
-[29]:
 
-Taishō Tripiṭaka 1425. 487c1-28: “眼藥者...佛住舍衛城耆舊童子菴婆羅園，時諸比丘眼痛...佛言：「從今已後聽用眼藥，除空青。若醫言：『尊者！此眼痛，得空青屑塗便差，更無餘方。』若爾者得塗。塗已不得眾中住，應在邊小房中，差已當淨洗得還入眾。」是名眼藥。眼藥筒者，佛住舍衛城，時諸比丘持樹葉盛眼藥。佛知而故問：「比丘！此是何等？」答言：「是眼藥。」佛言：「眼藥是貴物，應用筒盛。」時諸比丘作金銀筒盛，佛言：「金銀及一切寶不聽用。應用銅、鐵、白臘、竹、葦筐、鳥翮，下至皮裹。」是名藥筒。眼藥籌者，佛住舍衛城，時有比丘持竹作眼藥籌，佛知而故問：「比丘！此是何等？」答言：「世尊！是眼藥籌。」佛言：「眼是軟物，應用滑物作籌。」時有比丘便以金銀作，佛言：「不聽金銀及一切寶物作，應用銅、鐵、牙、骨、栴檀、堅木作，揩摩令滑澤，下至用指頭。」是名眼藥籌法。” This piece of information is not within the Chapter on Medicine parallel of the Mahāsāṃghika Vianya.
 
-[30]:
 
-In the Bhesajjakkhandhaka (Theravāda Vinaya Piṭaka I. 203), it talks about a need of powdered collyria (añjanūpapisanehi attho).
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> 空青, according to Cihai, is a substance found in copper ore, which can be used as an eye medicine (Shu et al. 2005, 998). It may be either azurite or malachite. Both of these are copper carbonate minerals. In Āyurveda, blue vitriol, known as tuttha or another variety mayūragrīvaka in Sanskrit, is used as eye medicine. Tuttha or mayūragrīvaka contains copper sulphate. See Dash 2008, 219.
+</blockquote>
 
-[31]:
 
-Samantapāsādikā V. 1090-1091: “añjanan ti sabbasaṅgāhikavacanam etaṃ. kāḷañjanan ti ekā añjanajāti sabbasambhārapakkaṃ vā. rasañjanan ti nānāsambhārehi kataṃ. sotañjanan ti nadīsotādīsu uppajjanakaañjanaṃ. geruko nāma suvaṇṇageruko. kapallan ti dīpasikhato gahitam asi. candanan ti lohitacandanādikaṃ yaṃ kiñci. tagarādīni pākaṭāni. aññāni pi nīluppalādīni vaṭṭanti yeva. añjanupapiṃsanehī’ti añjanena saddhiṃ ekato piṃsitabbehi. na hi kiñci añjanupapiṃsanaṃ na vaṭṭati. aṭṭhimayan ti manussaṭṭhiṃ ṭhapetvā avasesaṃ aṭṭhimayaṃ. dantamayan ti hatthidantādi sabbaṃ dantamayaṃ. visāṇamaye’pi akappiyaṃ nāma n’atthi, naḷamayaādayo ekantakappiyā yeva. salākodhāniyan ti yattha salākaṃ odahanti, taṃ susiradaṇḍakaṃ vā thavikaṃ vā anujānāmī’ti attho. aṃsabaddhako ti añjanatthavikāya aṃsabaddhako.”
 
-[32]:
 
-The various collyria mentioned in the Buddhist sources are found in the medical corpus of Āyurveda.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Taishō Tripiṭaka 1425. 487c1-28: “眼藥者...佛住舍衛城耆舊童子菴婆羅園，時諸比丘眼痛...佛言：「從今已後聽用眼藥，除空青。若醫言：『尊者！此眼痛，得空青屑塗便差，更無餘方。』若爾者得塗。塗已不得眾中住，應在邊小房中，差已當淨洗得還入眾。」是名眼藥。眼藥筒者，佛住舍衛城，時諸比丘持樹葉盛眼藥。佛知而故問：「比丘！此是何等？」答言：「是眼藥。」佛言：「眼藥是貴物，應用筒盛。」時諸比丘作金銀筒盛，佛言：「金銀及一切寶不聽用。應用銅、鐵、白臘、竹、葦筐、鳥翮，下至皮裹。」是名藥筒。眼藥籌者，佛住舍衛城，時有比丘持竹作眼藥籌，佛知而故問：「比丘！此是何等？」答言：「世尊！是眼藥籌。」佛言：「眼是軟物，應用滑物作籌。」時有比丘便以金銀作，佛言：「不聽金銀及一切寶物作，應用銅、鐵、牙、骨、栴檀、堅木作，揩摩令滑澤，下至用指頭。」是名眼藥籌法。” This piece of information is not within the Chapter on Medicine parallel of the Mahāsāṃghika Vianya.
+</blockquote>
 
-[33]:
 
-The above concise descriptions of treatments for eye diseases are summarised from the vast information found in Caraka Saṃhitā Cikitsāsthāna 26. 231-262; Suśruta Saṃhitā Uttarasthāna 9-19; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23-24; Uttarasthāna 9, 11, 13, 14, 16.
 
-[34]:
 
-The identification of these collyrium substances is based on the references provided by Dash (2008, 218, 221-222), Dutt (2012, 73-74), A Sanskrit-English Dictionary, Sudarshan (2005), Srikantha Murthy’s translations of the Aṣṭāṅga Hṛdaya Saṃhitā (vol. III, table 7(3)), and the Bhāvaprakāśā (vol. 1, appendix 6). It is not certain whether the chief mineral for stream collyrium and Sauvīra collyrium is antimony sulphide or lead sulphide, for the scholars above furnish different interpretations.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> In the Bhesajjakkhandhaka (Theravāda Vinaya Piṭaka I. 203), it talks about a need of powdered collyria (añjanūpapisanehi attho).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Samantapāsādikā V. 1090-1091: “añjanan ti sabbasaṅgāhikavacanam etaṃ. kāḷañjanan ti ekā añjanajāti sabbasambhārapakkaṃ vā. rasañjanan ti nānāsambhārehi kataṃ. sotañjanan ti nadīsotādīsu uppajjanakaañjanaṃ. geruko nāma suvaṇṇageruko. kapallan ti dīpasikhato gahitam asi. candanan ti lohitacandanādikaṃ yaṃ kiñci. tagarādīni pākaṭāni. aññāni pi nīluppalādīni vaṭṭanti yeva. añjanupapiṃsanehī’ti añjanena saddhiṃ ekato piṃsitabbehi. na hi kiñci añjanupapiṃsanaṃ na vaṭṭati. aṭṭhimayan ti manussaṭṭhiṃ ṭhapetvā avasesaṃ aṭṭhimayaṃ. dantamayan ti hatthidantādi sabbaṃ dantamayaṃ. visāṇamaye’pi akappiyaṃ nāma n’atthi, naḷamayaādayo ekantakappiyā yeva. salākodhāniyan ti yattha salākaṃ odahanti, taṃ susiradaṇḍakaṃ vā thavikaṃ vā anujānāmī’ti attho. aṃsabaddhako ti añjanatthavikāya aṃsabaddhako.”
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> The various collyria mentioned in the Buddhist sources are found in the medical corpus of Āyurveda.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> The above concise descriptions of treatments for eye diseases are summarised from the vast information found in Caraka Saṃhitā Cikitsāsthāna 26. 231-262; Suśruta Saṃhitā Uttarasthāna 9-19; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 23-24; Uttarasthāna 9, 11, 13, 14, 16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> The identification of these collyrium substances is based on the references provided by Dash (2008, 218, 221-222), Dutt (2012, 73-74), A Sanskrit-English Dictionary, Sudarshan (2005), Srikantha Murthy’s translations of the Aṣṭāṅga Hṛdaya Saṃhitā (vol. III, table 7(3)), and the Bhāvaprakāśā (vol. 1, appendix 6). It is not certain whether the chief mineral for stream collyrium and Sauvīra collyrium is antimony sulphide or lead sulphide, for the scholars above furnish different interpretations.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -371,10 +476,6 @@ The identification of these collyrium substances is based on the references prov
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Dermatology (a): Itching Lesions: Bhesajjakkhandhaka Chapter On Medicine Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

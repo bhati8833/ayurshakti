@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Significance of Mamsa Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Significance of Mamsa Marma
+## Significance of Mamsa Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -25,7 +25,7 @@ Table No. IV-a Vaghbata Sushrutha Indravasthi 4 Indravasthi 4 Talahrudaya 4 Tala
 
 ---
 
-## 13. Significance of Sira Marma
+## Significance of Sira Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -39,7 +39,7 @@ Vaghbata 1. Brihathi 2. Mathruka Table No.IV-b Sushrutha 2 1. Neela 2 8 2 3. Nee
 
 ---
 
-## 14. Significance of Snayu Marma
+## Significance of Snayu Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -53,8 +53,6 @@ Table No.IV-e Vaghbata Sushrutha Ani 4 Ani 4 Kurcha 4 Vitapa 2 Kurchasira 4 Kaks
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ Table No.IV-e Vaghbata Sushrutha Ani 4 Ani 4 Kurcha 4 Vitapa 2 Kurchasira 4 Kaks
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Panchabhautik Composition of Marma: Marma Sastra and Ayurvedic Science Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

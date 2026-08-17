@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The merits and measures of food suitable for the Elephant within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. The merits and measures of food suitable for the Elephant
+## The merits and measures of food suitable for the Elephant
 
 Matangalila and Hastyayurveda (study)
 
@@ -93,205 +93,286 @@ The text further mentions that elephants must be nourished by oil, milk, wines, 
 
 The medicine prescribed should be mixed with beneficial guggulu for the appeasement of that ailment and administered to the elephant. To the best category of elephant should be given one hundred and ten palas; three fourth of that to the medium and half to the inferior. Marrow and fat should be given in spring. In autumn and monsoon, drinking of oil is prescribed. In śarat and summer, drinking of ghee is prescribed. In monsoon, the well-nourished elephants should be tended with oil. In autumn and summer, when the fruitful grass dries up, drinking of oil should be avoided.[47] Consumption of oil in autumn is not prescribed as it does not get digested properly. Similarly consumption of ghee in winter also is not digested properly. Drinking oil in summer causes loss of consciousness. The text further mentions that consumption of oil also causes thirst, tremor and flows in the skin. Therefore oil should be avoided at the onset of cold (weather) and in summer. Bile is placed above the navel, and depends on the heart. Below the navel is the place for wind. The limbs, above the āmāśaya, the chest, the throat and the head–these are placed phlegm in the elephant.[48] An elephant fed and covered with grass in summer, should be put in the shed at eight and a half nāḍika. Again it should be taken to that place (in the daytime)–this is the prescription in summer. In monsoon, it should be brought in at six nāḍika, of the night. The elephant should be taken to the place again at ten nāḍika. In autumn, it should be taken there after eight nāḍiaka. In the rest of the seasons, śarat, spring and winter, they should be taken at ten nāḍika by the wise.[49] Most commonly diseases of elephants are caused by worms. But mention is also made of the elephant fever known by the special name of pākala; it is lightly dismissed with the statement that its symptoms and treatment are the same as with human fever. Following the usual Ayurveda theory, diseases are attributed to disturbance of the equilibrium of the three bodily humours, wind, gall and phlegm; the symptoms of disturbance affecting each of the three are severally described, and the next verse gives the characteristics of the healthy elephant whose humours are balanced.
 
-[1]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 1-4, pp.176-177.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 1-4, pp.176-177.
+</blockquote>
 
-[2]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 5-6, p.177.
 
-[3]:
 
-Ibid., v. 7-10, pp.177-178.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 5-6, p.177.
+</blockquote>
 
-[4]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 11-13, p. 178.
 
-[5]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 14-20, p. 179.
+<div className="footnote-card"><strong>[3]</strong> Ibid., v. 7-10, pp.177-178.</div>
 
-[6]:
 
-Ibid., v. 21.
 
-[7]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Chapter XI, v. 10, p. 87.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 11-13, p. 178.
+</blockquote>
 
-[8]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 22-23, p. 179.
 
-[9]:
 
-Ibid., v. 24-27, pp. 179-180.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 14-20, p. 179.
+</blockquote>
 
-[10]:
 
-Ibid., v. 27-28, p. 180.
 
-[11]:
 
-Ibid., v. 28-32.
+<div className="footnote-card"><strong>[6]</strong> Ibid., v. 21.</div>
 
-[12]:
 
-Vṛṣyā = Āmalakī or vasā (fat) is evocative of sexual vigour.
 
-[13]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 33-38, p.181.
+<div className="footnote-card"><strong>[7]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Chapter XI, v. 10, p. 87.</div>
 
-[14]:
 
-Ibid., v. 39-53, p.181-183.
 
-[15]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 54-63, pp. 183-185. Franklin Edgerton. tr. The Elephant-lore of the Hindus, Chapter XI, v.17, p. 84.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 22-23, p. 179.
+</blockquote>
 
-[16]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 64-81, pp.185-187.
 
-[17]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 1-154, pp.187-207.
+<div className="footnote-card"><strong>[9]</strong> Ibid., v. 24-27, pp. 179-180.</div>
 
-[18]:
 
-Ibid., v. 1-4, pp. 187-188.
 
-[19]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 5-7, p. 188.
+<div className="footnote-card"><strong>[10]</strong> Ibid., v. 27-28, p. 180.</div>
 
-[20]:
 
-Ibid., v. 8-11, pp. 188-189.
 
-[21]:
 
-Ibid., v. 11-15, p. 189.
+<div className="footnote-card"><strong>[11]</strong> Ibid., v. 28-32.</div>
 
-[22]:
 
-Ibid., v. 16-20, pp. 189-190.
 
-[23]:
 
-Vein on the back of the neck.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Vṛṣyā = Āmalakī or vasā (fat) is evocative of sexual vigour.
+</blockquote>
 
-[24]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 21-26, pp. 190-191.
 
-[25]:
 
-Ibid., v. 26-30, p. 191.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 33-38, p.181.
+</blockquote>
 
-[26]:
 
-Ibid., v. 31-35, p. 191-192.
 
-[27]:
 
-Ibid., v. 36-40, p. 192.
+<div className="footnote-card"><strong>[14]</strong> Ibid., v. 39-53, p.181-183.</div>
 
-[28]:
 
-Ibid., v. 41-45, pp. 192-193.
 
-[29]:
 
-Ibid., v. 46-50, pp. 193-194. See also Franklin Edgerton. tr. The Elephant-lore of the Hindus, Chapter XI, v. 44, p.103.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 54-63, pp. 183-185. Franklin Edgerton. tr. The Elephant-lore of the Hindus, Chapter XI, v.17, p. 84.
+</blockquote>
 
-[30]:
 
-Franklin Edgerton. tr. The Elephant-lore of the Hindus, v.20, p.97.
 
-[31]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 51-55, p. 194.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 64-81, pp.185-187.
+</blockquote>
 
-[32]:
 
-Franklin Edgerton. tr. The Elephant-lore of the Hindus, v. 22, p. 97.
 
-[33]:
 
-Ibid., v. 23, pp. 97-98.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 1-154, pp.187-207.
+</blockquote>
 
-[34]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 56-63, pp. 195-196.
 
-[35]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 64-69, p. 196.
+<div className="footnote-card"><strong>[18]</strong> Ibid., v. 1-4, pp. 187-188.</div>
 
-[36]:
 
-Ibid., v. 69-75, pp. 196-197.
 
-[37]:
 
-Ibid., v. 76-78, p. 197.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 5-7, p. 188.
+</blockquote>
 
-[38]:
 
-Ibid., v. 79-85, p. 198.
 
-[39]:
 
-Ibid., v. 86-90, pp. 198-199.
+<div className="footnote-card"><strong>[20]</strong> Ibid., v. 8-11, pp. 188-189.</div>
 
-[40]:
 
-., v. 91-95, pp. 199-200.
 
-[41]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 96-105, pp. 200-201.
+<div className="footnote-card"><strong>[21]</strong> Ibid., v. 11-15, p. 189.</div>
 
-[42]:
 
-Ibid., v. 106-115, pp. 201-202.
 
-[43]:
 
-Ibid., v. 116-120, pp. 202-203.
+<div className="footnote-card"><strong>[22]</strong> Ibid., v. 16-20, pp. 189-190.</div>
 
-[44]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 121-126, p. 203.
 
-[45]:
 
-Ibid., v. 127-131, p. 204.
+<div className="footnote-card"><strong>[23]</strong> Vein on the back of the neck.</div>
 
-[46]:
 
-Ibid., v. 132-140, pp. 204-205.
 
-[47]:
 
-Ibid., v. 141-145, pp. 205-206.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 21-26, pp. 190-191.
+</blockquote>
 
-[48]:
 
-., v. 146-150, p. 206.
 
-[49]:
 
-Ibid., v. 151-154, p. 207.
+<div className="footnote-card"><strong>[25]</strong> Ibid., v. 26-30, p. 191.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Ibid., v. 31-35, p. 191-192.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Ibid., v. 36-40, p. 192.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Ibid., v. 41-45, pp. 192-193.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Ibid., v. 46-50, pp. 193-194. See also Franklin Edgerton. tr. The Elephant-lore of the Hindus, Chapter XI, v. 44, p.103.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Franklin Edgerton. tr. The Elephant-lore of the Hindus, v.20, p.97.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 51-55, p. 194.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> Franklin Edgerton. tr. The Elephant-lore of the Hindus, v. 22, p. 97.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> Ibid., v. 23, pp. 97-98.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 56-63, pp. 195-196.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 64-69, p. 196.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> Ibid., v. 69-75, pp. 196-197.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> Ibid., v. 76-78, p. 197.</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> Ibid., v. 79-85, p. 198.</div>
+
+
+
+
+<div className="footnote-card"><strong>[39]</strong> Ibid., v. 86-90, pp. 198-199.</div>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> ., v. 91-95, pp. 199-200.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 96-105, pp. 200-201.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[42]</strong> Ibid., v. 106-115, pp. 201-202.</div>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> Ibid., v. 116-120, pp. 202-203.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha bhakṣyapeyādipadārthaguṇadoṣabidhiḥ), v. 121-126, p. 203.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[45]</strong> Ibid., v. 127-131, p. 204.</div>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> Ibid., v. 132-140, pp. 204-205.</div>
+
+
+
+
+<div className="footnote-card"><strong>[47]</strong> Ibid., v. 141-145, pp. 205-206.</div>
+
+
+
+
+<div className="footnote-card"><strong>[48]</strong> ., v. 146-150, p. 206.</div>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> Ibid., v. 151-154, p. 207.</div>
 
 ---
 
-## 40. Megasthenes’ account on Elephants
+## Megasthenes’ account on Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -307,65 +388,77 @@ According to Megasthenes sixth division of the city magistrate had charge of the
 
 According to Aelian (2nd-3rd century CE), a commentator on Megasthenes’s writings, the elephant when feeding at large ordinarily drinks water, but when undergoing the fatigues of war is allowed wine, -not that sort, however, which comes from the grape, but another which is prepared from rice (ārak). The attendants even go in advance of their elephants and gather them flowers; for they are very fond of sweet perfumes, and they are accordingly taken out to the meadows, there to be trained under the influence of the fragrance. The animal selects the flowers according to their smell, and throws them as they are gathered into a basket which is held out by the trainer. This being filled, and harvest work, so to speak, completed, he then bathes, and enjoys his bath with all the zest of a consummate voluptuary. On returning from bathing he is impatient to have his flowers, and if there is delay in bringing them he begins roaring, and will not taste a morsel of food till all the flowers he gathered are placed before him. This done, he takes the flowers out of the basket with its trunk and scatters them over the edge of his manager, and makes by his device their fine scent be, as it were, a relish to his food. He strews also a good quantity of them as litter over his stall, for he loves to have his sleep made sweet and pleasant[13]. Aelian also speaks about an Indian white elephant and his loyalty to his master[14].
 
-[1]:
 
-John W. McCrinddle, Ancient India as described by Megasthenês and Arrian, p. 91.
+<div className="footnote-card"><strong>[1]</strong> John W. McCrinddle, Ancient India as described by Megasthenês and Arrian, p. 91.</div>
 
-[2]:
 
-Ibid., p. 93.
 
-[3]:
 
-Ibid., pp. 220-221.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 93.</div>
 
-[4]:
 
-Ibid., p. 91.
 
-[5]:
 
-Ibid., p. 221.
+<div className="footnote-card"><strong>[3]</strong> Ibid., pp. 220-221.</div>
 
-[6]:
 
-Ibid.
 
-[7]:
 
-Ibid., pp. 93-94.
+<div className="footnote-card"><strong>[4]</strong> Ibid., p. 91.</div>
 
-[8]:
 
-Ibid., p. 94.
 
-[9]:
 
-Ibid., p. 92.
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 221.</div>
 
-[10]:
 
-Ibid., pp. 221-222.
 
-[11]:
 
-Ibid., p. 88.
+<div className="footnote-card"><strong>[6]</strong> Ibid.</div>
 
-[12]:
 
-Ibid., pp. 89-90.
 
-[13]:
 
-Ibid., pp. 117-118.
+<div className="footnote-card"><strong>[7]</strong> Ibid., pp. 93-94.</div>
 
-[14]:
 
-Ibid., pp. 119-120.
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., p. 94.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., p. 92.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., pp. 221-222.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid., p. 88.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid., pp. 89-90.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Ibid., pp. 117-118.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., pp. 119-120.</div>
 
 ---
 
-## 41. Care and keeping of elephants
+## Care and keeping of elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -413,307 +506,428 @@ In the first yāma of the night, when the vīramuṇḍa is being played, the se
 
 The stable probably had separate places specified for tying up of each variety of elephants as the texts mention that the expert elephant-driver places the Manda elephant in the sun, the Bhadra in the sun and shade, and ties the Mṛga in the shade.[72] The elephant shade should be planned facing east or north. The elephant house facing east should have its centre in the south. Close to it there should be a round sighting gallery, raised high and surrounded by elephants.[73] It should be large and beautiful, walled at the back, and decked with golden pillars which are whitewashed. It should be painted with many colours, with a glass floor, and surrounded by a moat, with a drawbridge as the way (over it). Another room should be built outside the moat, with an ascent without stairs to prevent elephants (from climbing it). A little behind it, on the south, a sporting-terrace should be built in front of the sighting gallery, surrounded by a moat, high, with painted walls, beautiful, large and well-adorned. Another such should be built with eight well-formed pillars on both sides, with a pair of thick and long doors having strong bolts, another such with (similar) doors etc., as high as an elephant’s chest and intercommunicating near the eastern gate with good signs. Thus the elephant-house i.e. a stable should be built with such signs.
 
-[1]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 92-104.
+<div className="footnote-card"><strong>[1]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 92-104.</div>
 
-[2]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 29. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 93-94and
 
-[3]:
 
-“tṛṇauṣadhiphalāhārāḥ vane svairasukhocitāḥ /
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 29. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 93-94and
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “tṛṇauṣadhiphalāhārāḥ vane svairasukhocitāḥ /
 baddhā dīrghāyuṣo nāgāḥ duḥkhaiśśārīramānasaiḥ //” (v. 1)
+</blockquote>
+
+
 
 “na vanyāniva rājendra prāṇāndhārayituṃ kṣamā /
 tasmādvaidyairmahāmātyairyathā śāstropacārataḥ II” (v.2),
 
 Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ i.e. Appendix: atha navagṛhītagajopacāraḥ), p.143.
 
-[4]:
 
-“bandhanātprāṇasandehātparirakṣyāḥ prayatnataḥ I ucito vanavāso yastasyālābhena dantinām II” (V.3) “doṣāḥ kupyantyasātmyatvādapūrvasyeha bhojanāt I puṣkalāṃ vā vidhāṃ labdhvā punastāṃ na labheta cet II” (v.4), Ibid.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> “bandhanātprāṇasandehātparirakṣyāḥ prayatnataḥ I ucito vanavāso yastasyālābhena dantinām II” (V.3) “doṣāḥ kupyantyasātmyatvādapūrvasyeha bhojanāt I puṣkalāṃ vā vidhāṃ labdhvā punastāṃ na labheta cet II” (v.4), Ibid.
+</blockquote>
 
-[5]:
 
-Ibid., v. 5.
 
-[6]:
 
-Ibid., v. 6, p.144.
+<div className="footnote-card"><strong>[5]</strong> Ibid., v. 5.</div>
 
-[7]:
 
-Ibid., v.7.
 
-[8]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 202.
+<div className="footnote-card"><strong>[6]</strong> Ibid., v. 6, p.144.</div>
 
-[9]:
 
-Ibid., p. 203.
 
-[10]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ i.e. Appendix: atha navagṛhītagajopacāraḥ), v.8, p.144.
+<div className="footnote-card"><strong>[7]</strong> Ibid., v.7.</div>
 
-[11]:
 
-Ibid., v. 9-10.
 
-[12]:
 
-Ibid., v.11-13.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 202.
+</blockquote>
 
-[13]:
 
-Ibid., v. 14-15, p.145.
 
-[14]:
 
-Ibid., v.16-18.
+<div className="footnote-card"><strong>[9]</strong> Ibid., p. 203.</div>
 
-[15]:
 
-Ibid., (atha gajaśāstrānubandhaḥ i.e. Appendix: atha hastivardhanaprakaḥ), v. 1, p.146.
 
-[16]:
 
-Ibid., v. 2-5.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ i.e. Appendix: atha navagṛhītagajopacāraḥ), v.8, p.144.
+</blockquote>
 
-[17]:
 
-Ibid., v. 6-7.
 
-[18]:
 
-Ibid., v. 14, p.147.
+<div className="footnote-card"><strong>[11]</strong> Ibid., v. 9-10.</div>
 
-[19]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 28-36. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 92-104.
 
-[20]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p.202.
+<div className="footnote-card"><strong>[12]</strong> Ibid., v.11-13.</div>
 
-[21]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Daśamaṃ prakaraṇaṃ: atha dantacchedakālādikathanam), v. 30, p.110.
 
-[22]:
 
-Ibid., v. 31.
+<div className="footnote-card"><strong>[13]</strong> Ibid., v. 14-15, p.145.</div>
 
-[23]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedeaṅgulavarṣabheda), v.32-33, p.111.
 
-[24]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedanasādhanam), v.33.
+<div className="footnote-card"><strong>[14]</strong> Ibid., v.16-18.</div>
 
-[25]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedanapramāṇam), v.34-35.
 
-[26]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedananiyama), v. 36-39, p.112.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Ibid., (atha gajaśāstrānubandhaḥ i.e. Appendix: atha hastivardhanaprakaḥ), v. 1, p.146.
+</blockquote>
 
-[27]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantakalpanāyāṃ śubhatithayaḥ), v. 40-41, p. 112.
 
-[28]:
 
-Ibid., v.42, p.113.
+<div className="footnote-card"><strong>[16]</strong> Ibid., v. 2-5.</div>
 
-[29]:
 
-Ibid.
 
-[30]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedagandhaphalam), v.47-50, pp.113-114.
+<div className="footnote-card"><strong>[17]</strong> Ibid., v. 6-7.</div>
 
-[31]:
 
-H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, Chapter 2, v. 31 & Chapter 5, v.118, pp.11 & 37.
 
-[32]:
 
-“If the cut is the colour of gold, lotus, honey, a grape, the king will conquer the entire earth bound by four seas. (But) if the part of the tusks showing is the colour of smoke, this foretells the loss of the king’s steeds”, Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Daśamaṃ prakaraṇaṃ: atha dantacchedavarṇaphalam), v.44-46, p.113.
+<div className="footnote-card"><strong>[18]</strong> Ibid., v. 14, p.147.</div>
 
-[33]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedagandhaphalam), v.47.
 
-[34]:
 
-., v.48, p.114.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 28-36. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 92-104.
+</blockquote>
 
-[35]:
 
-., v.49-50.
 
-[36]:
 
-Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedaṭṭaśyamānākāraphalam), v.51, p.114.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p.202.
+</blockquote>
 
-[37]:
 
-Ibid., v.51-52.
 
-[38]:
 
-Ibid., v.53.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Daśamaṃ prakaraṇaṃ: atha dantacchedakālādikathanam), v. 30, p.110.
+</blockquote>
 
-[39]:
 
-Ibid., v.55, p.115.
 
-[40]:
 
-Ibid., v.56.
+<div className="footnote-card"><strong>[22]</strong> Ibid., v. 31.</div>
 
-[41]:
 
-Ibid., v.57.
 
-[42]:
 
-Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha bālapoṣaṇavidhiḥ), v.1-3, p.169.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedeaṅgulavarṣabheda), v.32-33, p.111.
+</blockquote>
 
-[43]:
 
-Ibid., v.3-5.
 
-[44]:
 
-Ibid., v.5-6.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedanasādhanam), v.33.
+</blockquote>
 
-[45]:
 
-Ibid., v.6-7.
 
-[46]:
 
-., v.8, p.170.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedanapramāṇam), v.34-35.
+</blockquote>
 
-[47]:
 
-Ibid., v. 14, p. 170.
 
-[48]:
 
-Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha bālapoṣaṇavidhiḥ), v.9, p.170.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedananiyama), v. 36-39, p.112.
+</blockquote>
 
-[49]:
 
-Ibid., v.10.
 
-[50]:
 
-Ibid., v.11.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantakalpanāyāṃ śubhatithayaḥ), v. 40-41, p. 112.
+</blockquote>
 
-[51]:
 
-Prastha = ¼ of āḍhakas.
 
-[52]:
 
-Ibid., v.12-13.
+<div className="footnote-card"><strong>[28]</strong> Ibid., v.42, p.113.</div>
 
-[53]:
 
-Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha mandādigajotpattikālaḥ), v.1, p.171.
 
-[54]:
 
-Ibid., v.2.
+<div className="footnote-card"><strong>[29]</strong> Ibid.</div>
 
-[55]:
 
-Ibid., v.3.
 
-[56]:
 
-., v.4.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedagandhaphalam), v.47-50, pp.113-114.
+</blockquote>
 
-[57]:
 
-., v.5.
 
-[58]:
 
-Ibid., v.6, p. 171.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, Chapter 2, v. 31 & Chapter 5, v.118, pp.11 & 37.
+</blockquote>
 
-[59]:
 
-Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha mandādigajotpattikālaḥ), v.7, p.171.
 
-[60]:
 
-Ibid., v.8, p.172.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> “If the cut is the colour of gold, lotus, honey, a grape, the king will conquer the entire earth bound by four seas. (But) if the part of the tusks showing is the colour of smoke, this foretells the loss of the king’s steeds”, Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Daśamaṃ prakaraṇaṃ: atha dantacchedavarṇaphalam), v.44-46, p.113.
+</blockquote>
 
-[61]:
 
-EI, XX, pp. 71-89.
 
-[62]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp.201-202.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedagandhaphalam), v.47.
+</blockquote>
 
-[63]:
 
-., p. 78.
 
-[64]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Dasame Prakaraṇe (Chapter 10), p.122.
+<div className="footnote-card"><strong>[34]</strong> ., v.48, p.114.</div>
 
-[65]:
 
-Ibid., v. 106.
 
-[66]:
 
-Ibid., v. 107.
+<div className="footnote-card"><strong>[35]</strong> ., v.49-50.</div>
 
-[67]:
 
-Ibid., v. 108-109, p.123.
 
-[68]:
 
-Ibid., v. 110.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Ibid., (Daśamaṃ prakaraṇaṃ: atha dantacchedaṭṭaśyamānākāraphalam), v.51, p.114.
+</blockquote>
 
-[69]:
 
-., v. 111.
 
-[70]:
 
-, v. 112, p.123.
+<div className="footnote-card"><strong>[37]</strong> Ibid., v.51-52.</div>
 
-[71]:
 
-Ibid., v. 116-117, p.124.
 
-[72]:
 
-Ibid., v. 113, p.123.
+<div className="footnote-card"><strong>[38]</strong> Ibid., v.53.</div>
 
-[73]:
 
-., v. 119-120, p.124.
+
+
+<div className="footnote-card"><strong>[39]</strong> Ibid., v.55, p.115.</div>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> Ibid., v.56.</div>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> Ibid., v.57.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha bālapoṣaṇavidhiḥ), v.1-3, p.169.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> Ibid., v.3-5.</div>
+
+
+
+
+<div className="footnote-card"><strong>[44]</strong> Ibid., v.5-6.</div>
+
+
+
+
+<div className="footnote-card"><strong>[45]</strong> Ibid., v.6-7.</div>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> ., v.8, p.170.</div>
+
+
+
+
+<div className="footnote-card"><strong>[47]</strong> Ibid., v. 14, p. 170.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha bālapoṣaṇavidhiḥ), v.9, p.170.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> Ibid., v.10.</div>
+
+
+
+
+<div className="footnote-card"><strong>[50]</strong> Ibid., v.11.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Prastha = ¼ of āḍhakas.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[52]</strong> Ibid., v.12-13.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha mandādigajotpattikālaḥ), v.1, p.171.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[54]</strong> Ibid., v.2.</div>
+
+
+
+
+<div className="footnote-card"><strong>[55]</strong> Ibid., v.3.</div>
+
+
+
+
+<div className="footnote-card"><strong>[56]</strong> ., v.4.</div>
+
+
+
+
+<div className="footnote-card"><strong>[57]</strong> ., v.5.</div>
+
+
+
+
+<div className="footnote-card"><strong>[58]</strong> Ibid., v.6, p. 171.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Ibid., (Appendix -Atha gajaśāstrānubandhaḥ: atha mandādigajotpattikālaḥ), v.7, p.171.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[60]</strong> Ibid., v.8, p.172.</div>
+
+
+
+
+<div className="footnote-card"><strong>[61]</strong> EI, XX, pp. 71-89.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp.201-202.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[63]</strong> ., p. 78.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Dasame Prakaraṇe (Chapter 10), p.122.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[65]</strong> Ibid., v. 106.</div>
+
+
+
+
+<div className="footnote-card"><strong>[66]</strong> Ibid., v. 107.</div>
+
+
+
+
+<div className="footnote-card"><strong>[67]</strong> Ibid., v. 108-109, p.123.</div>
+
+
+
+
+<div className="footnote-card"><strong>[68]</strong> Ibid., v. 110.</div>
+
+
+
+
+<div className="footnote-card"><strong>[69]</strong> ., v. 111.</div>
+
+
+
+
+<div className="footnote-card"><strong>[70]</strong> , v. 112, p.123.</div>
+
+
+
+
+<div className="footnote-card"><strong>[71]</strong> Ibid., v. 116-117, p.124.</div>
+
+
+
+
+<div className="footnote-card"><strong>[72]</strong> Ibid., v. 113, p.123.</div>
+
+
+
+
+<div className="footnote-card"><strong>[73]</strong> ., v. 119-120, p.124.</div>
 
 ---
-
-
 
 ---
 
@@ -722,10 +936,6 @@ Ibid., v. 113, p.123.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Medical treatment of Elephants: Matangalila And Hastyayurveda Study Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

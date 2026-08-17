@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Vāgbhaṭṭa (Āyurveda scholar) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. Vāgbhaṭṭa (Āyurveda scholar)
+## Vāgbhaṭṭa (Āyurveda scholar)
 
 Vāgbhaṭṭa (Āyurveda scholar)
 
@@ -21,25 +21,25 @@ Vāgbhaṭṭa —> Siṃhagupta —> Vāgbhaṭṭa I —> Siṃhagupta —> V�
 
 It is clear from this opinion that the author of the Aṣṭāṅga Saṃgraha is the Vṛddha Vāgbhaṭṭa or Vāgbhaṭṭa I, and the author of the Aṣṭāṅga Hṛdayaṃ is the Laghu Vāgbhaṭṭa or second Vāgbhaṭṭa. In the thirteenth century, Vāgbhaṭṭa, the son of the Siṃhagupta, wrote a book called 'Rasaratnasamūcaya'. This book is divided into two parts and has thirty chapters. Chapters one to eleven of the first volume cover all the sciences of chemistry in detail, and chapters twelve to thirty of the second volume describe medical matters in detail.
 
-[1]:
 
-Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, pp. 95-96.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, pp. 95-96.
+</blockquote>
 
 ---
 
-## 21. Mādhavakara (Āyurveda scholar)
+## Mādhavakara (Āyurveda scholar)
 
 Mādhavakara (Āyurveda scholar)
 
 Mādhavakara—There are many Ācāryas and writers named Mādhava. But Mādhava is certainly the author of 'Rogaviniścaya' or 'Mādhava Nidāna'. Mādhava's full name is Mādhavakara. He was the son of Indukara. According to Ācārya Priyabrata Sharma, he wrote a book called 'Mādhavacikitsita'. The author of the book 'Mādhava Cikitsita' was Mādhavakara, the son of Candrakara, not Indukara. Therefore, according to him, Mādhavakara is the author of two books. But the period of Mādhavakara's advent was in the seventh century.[1]
 
-[1]:
 
-Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 357.
+<div className="footnote-card"><strong>[1]</strong> Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 357.</div>
 
 ---
 
-## 22. Caraka (Āyurveda scholar)
+## Caraka (Āyurveda scholar)
 
 Caraka (Āyurveda scholar)
 
@@ -60,45 +60,50 @@ Sri Gurupada Haldar speaks of two Carakas -one a disciple of Vaiśampāyana and 
 
 Ācārya Dṛḍhabala is famous as a reformer of the great book of Caraka- Saṃhitā, the great book of Ayurvedic medicine. One-third of the Caraka-Saṃhitā was not available at that time. Which the Dṛḍhabala completed by combining the Sutras based on another Tantra. In this way, he completed sixteen chapters of Cikitsāsthāna, twelve chapters of Kalpa sthāna and completed Siddhi sthāna. He provided the terminology of Sanskrit. Dṛḍhavala was a resident of Kashmir. His father's name was Kapilbala. The fourth century of the Gupta period is considered to be the period of Dṛḍhabala. According to Harnell Mādhava, Dṛḍhabala and Vāgbhaṭṭa II appeared between the seventh and ninth centuries[3].
 
-[1]:
 
-(BC–1/43); Buddhacaritaṃ Canto–I by Aśvaghoṣa, trans. Jayashree Chattopadhyay, Kolkata, Sanskrit Pustaka Bhandara, 2007, p. 31.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> (BC–1/43); Buddhacaritaṃ Canto–I by Aśvaghoṣa, trans. Jayashree Chattopadhyay, Kolkata, Sanskrit Pustaka Bhandara, 2007, p. 31.
+</blockquote>
 
-[2]:
 
-Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 44-47.
 
-[3]:
 
-Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 109-111.
+<div className="footnote-card"><strong>[2]</strong> Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 44-47.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 109-111.
+</blockquote>
 
 ---
 
-## 23. Śāraṅgadhara (Āyurveda scholar)
+## Śāraṅgadhara (Āyurveda scholar)
 
 Śāraṅgadhara (Āyurveda scholar)
 
 Śāraṅgadhara [Śārṅgadhara]—There were many Ācāryas named Śārṅgadhara. Some are philosophers, some are astrologers, some are dramatists and some are Āyurvedajña. Among them, Dāmodara's son Śārṅgadhara was a physician. He composed the Śārṅgadhara Saṃhitā in the twelfth century in the style of Sauḍhala. Containing thirty-two chapters and two thousand six hundred verses, this Saṃhitā is divided into three parts -Pūrva, Madhyama and Uttara khaṇḍa. The first mention of pulse examination is found in this text. Some scholars believe that the author of the Śārṅgadhara Saṃhitā and the Śārṅgadhara Paddhati is the same person. Rāghavadeva was the guru of Hamīra Naraśa of Cauhāna dynasty of Śākambharī country. His son was Dāmodara and grandson was Śārṅgadhara. Its period is acknowledged to be between the thirteenth and fourteenth centuries.[1]
 
-[1]:
 
-Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 126-127.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 126-127.
+</blockquote>
 
 ---
 
-## 24. Jayadeva Vidyālaṅkāra (Āyurveda Scholar)
+## Jayadeva Vidyālaṅkāra (Āyurveda Scholar)
 
 Jayadeva Vidyālaṅkāra (Āyurveda Scholar)
 
 Joydeva [Jayadeva] Vidyālaṅkāra is one of the notable Āyurveda Ācāryas of the modern age. He was a scholarly writer in the tradition of Gurukul Kāṅgrī Haridwar. He wrote a Hindi commentary on the Caraka-Saṃhitā which is very popular. The eighth edition was published in 1970. He wrote Hindi commentaries on Cikitsākalikā and Bhaiṣajyaratnāvalī which are very popular. Its duration is the twentieth century[1].
 
-[1]:
 
-Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 101.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 101.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -107,10 +112,6 @@ Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad It
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Suśruta-Saṃhitā (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

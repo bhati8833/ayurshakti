@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 17. The Caraka Samhita within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. 17. The Caraka Samhita
+## 17. The Caraka Samhita
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -29,8 +29,6 @@ NOTES 1 I.P., Vol.I., p.1. 2 History of Indian Logic ,p.1-53 3 Critical Survey o
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ NOTES 1 I.P., Vol.I., p.1. 2 History of Indian Logic ,p.1-53 3 Critical Survey o
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">3. Yoga and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

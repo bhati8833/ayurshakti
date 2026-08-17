@@ -46,7 +46,11 @@ Congenital Piles [arshas]
 
 8-(1). The man affected with congenital piles [arshas] is, from his very birth, exceedingly lean, discolored emaciated, low-spirited and suffers from excessive formation and stasis of flatus, urine and feces. He suffers from gravel and calculus and from constipation and diarrhea irregularly. He passes digested and undigested matter in his stools; he passes dry or loose stools and now and then he passes stools which are colored, white, yellowish-white, green, yellow, red, dusky red, thin, thick, slimy and smelling like a corpse and consisting of undigested fecal matter. He suffers from severe griping pain in umbilical, hypo-gastric and inguinal regions. He suffers from pain in the rectum, dysentery, horripilation, urinary disorders, continued intestinal stasis, borborygmus, misperistalsis, excessive secretion in the stomach and sense-organs; he suffers from severe incessant, bitter and acid eructations. He is very weak, his digestive fire is also weak; he has scanty semen, is irritable, difficult of treatment, overcome by cough, dyspnea, asthma, thirst, nausea, vomiting, anorexia, indigestion, coryza an 1 sternutation. He gets fainting fits, suffers from headaches, his voice is weak, broken, low impeded and hollow. He suffers from ear-disease, puffiness of hands, feet, face and the region round the eyes, from fever, body-ache and pain in all the bones and joints. He is affected now and then with rigidity in the side of the body, lumbar, hypogastric and epigastric regions, back and waist. He is moody and exceedingly indolent.
 
+
+<blockquote className="ayur-shloka">
 8. On account of the obstruction, in the passage covered with the congenital piles, the Apana Vata being forced to go upwards, provokes all the other four varieties of Vata [vāta] viz., Samana [samāna], Vyana [vyāna], Prana [prāṇa] and Udana [udāna] as also Pitta and Kapha. These five kinds of Vata combined with Pitta and Kapha overpower the person affected with piles and produce the aforesaid disorders. Thus ends the description of the congenital variety of piles.
+</blockquote>
+
 
 General Etiology
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Medicines (m): Unclassified Substances within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. Medicines (m): Unclassified Substances
+## Medicines (m): Unclassified Substances
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -44,37 +44,56 @@ Mahāsāṃghika:—“... except the dregs [from making] rock sugar, all remain
 
 The English and botanical names of these substances are listed below:
 
-[1]:
 
-質多羅 can be one of the followings: citrā, which is castor oil seed/plant; or citrā, being synonymous with citraphalā and indravāruṇī, is colocynth bitter apple; or citraka, which is white leadwort. See also A Sanskrit-English Dictionary, s.v. “citrā”.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> 質多羅 can be one of the followings: citrā, which is castor oil seed/plant; or citrā, being synonymous with citraphalā and indravāruṇī, is colocynth bitter apple; or citraka, which is white leadwort. See also A Sanskrit-English Dictionary, s.v. “citrā”.
+</blockquote>
 
-[2]:
 
-Taishō Tripiṭaka 1428. 867a23-24: “爾時病比丘，醫教服質多羅藥，佛言：「病比丘有因緣盡形壽聽服。」”
 
-[3]:
 
-Taishō Tripiṭaka 1428. 867a26-b1: “爾時有病比丘，醫教服娑梨娑婆藥，佛言：「病比丘聽服。娑梨娑婆者，根莖葉花菓若堅韌者也。式渠亦如是。帝菟...亦如是。」” 娑梨娑婆 should be sarṣapa. 式渠 should be śigru (Pāli: siggu). 帝菟 may be tinduka.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Taishō Tripiṭaka 1428. 867a23-24: “爾時病比丘，醫教服質多羅藥，佛言：「病比丘有因緣盡形壽聽服。」”
+</blockquote>
 
-[4]:
 
-Taishō Tripiṭaka 1428. 874a29-b2: “是中迦摩羅國諸比丘，得如是盡形壽藥，沙蔓那、摩訶沙蔓那、杏子人、兜兜漏、秦敵梨蓼。” 沙蔓那 should be sumanā. 摩訶沙蔓那 may be mahāsumanā. 兜兜漏 may be dhattūra. 秦敵梨蓼 possibly is candrikā.
 
-[5]:
 
-Taishō Tripiṭaka 1421. 147c2: “佛言：「一切草藥聽服。」”
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1428. 867a26-b1: “爾時有病比丘，醫教服娑梨娑婆藥，佛言：「病比丘聽服。娑梨娑婆者，根莖葉花菓若堅韌者也。式渠亦如是。帝菟...亦如是。」” 娑梨娑婆 should be sarṣapa. 式渠 should be śigru (Pāli: siggu). 帝菟 may be tinduka.
+</blockquote>
 
-[6]:
 
-Taishō Tripiṭaka 1435. 190c24-191a8: “藥師語言：「應食池物。」...佛言：「...何等池物？若蓮根、蓮子、菱、芡雞頭子，如是種種池物聽食。」” 菱 should be śṛṅgāṭaka. 芡雞頭子 should refer to the seeds of makhānna. See A Sanskrit-English Dictionary, s.v. “makhānna”.
 
-[7]:
 
-Taishō Tripiṭaka1425: 245a1-2: “除石蜜滓地餘一切地。” 地 here seems to mean the earth or soil (pṛthivī).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1428. 874a29-b2: “是中迦摩羅國諸比丘，得如是盡形壽藥，沙蔓那、摩訶沙蔓那、杏子人、兜兜漏、秦敵梨蓼。” 沙蔓那 should be sumanā. 摩訶沙蔓那 may be mahāsumanā. 兜兜漏 may be dhattūra. 秦敵梨蓼 possibly is candrikā.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1421. 147c2: “佛言：「一切草藥聽服。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Taishō Tripiṭaka 1435. 190c24-191a8: “藥師語言：「應食池物。」...佛言：「...何等池物？若蓮根、蓮子、菱、芡雞頭子，如是種種池物聽食。」” 菱 should be śṛṅgāṭaka. 芡雞頭子 should refer to the seeds of makhānna. See A Sanskrit-English Dictionary, s.v. “makhānna”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Taishō Tripiṭaka1425: 245a1-2: “除石蜜滓地餘一切地。” 地 here seems to mean the earth or soil (pṛthivī).
+</blockquote>
 
 ---
 
-## 47. Chapter 5 - Diseases and Treatments in the Chapter on Medicine
+## Chapter 5 - Diseases and Treatments in the Chapter on Medicine
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -82,11 +101,9 @@ This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist L
 
 Chapter 5 - Diseases and Treatments in the Chapter on Medicine
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 48. Medicines (l): Putrid Medicines
+## Medicines (l): Putrid Medicines
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -110,37 +127,48 @@ According to Nanshan Vinaya Dictionary 南山律學辭典, putrid medicine (Chin
 
 In terms of modern biology, urine and faeces are wastes from the body. They contain chiefly metabolic waste products, electrolytes, microbes and toxins. In modern medicine, except for use in investigative tests to help determine the pathology or diagnosis of a disease, they have no medical value or any therapeutic uses.
 
-[1]:
 
-Taishō Tripiṭaka 1428. 866c23-26: “爾時世尊在波羅[木*奈]國。時五比丘即從坐起，前禮佛足却住一面，白佛言：「當服何藥？」佛言：「聽服腐爛藥，病比丘有因緣盡形壽應服。」”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Taishō Tripiṭaka 1428. 866c23-26: “爾時世尊在波羅[木*奈]國。時五比丘即從坐起，前禮佛足却住一面，白佛言：「當服何藥？」佛言：「聽服腐爛藥，病比丘有因緣盡形壽應服。」”
+</blockquote>
 
-[2]:
 
-These two pieces of information are not within the Chapter on Medicine parallel in this Vinaya.
 
-[3]:
 
-Taishō Tripiṭaka 1425. 504c15: “...醫言：「應服大便汁。」”
+<div className="footnote-card"><strong>[2]</strong> These two pieces of information are not within the Chapter on Medicine parallel in this Vinaya.</div>
 
-[4]:
 
-Taishō Tripiṭaka 1425. 505a19: “比丘病，醫言：「當服小便。」”
 
-[5]:
 
-See Nanshan Vinaya Dictionary 南山律學辭典, s.v. “四依法腐爛藥制開” [accessed March 18,
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1425. 504c15: “...醫言：「應服大便汁。」”
+</blockquote>
 
-[6]:
 
-, http://buddhistinformatics.ddbc.edu.tw/glossaries/files/nanshanlu.ddbc.pdf].
 
-[7]:
 
-In contemporary Āyurveda, however, there is no mention of using urine or faeces as medicinal substances, and there are neither known scientific explanations about their usage, nor information about any components in them having therapeutic effects.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1425. 505a19: “比丘病，醫言：「當服小便。」”
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> See Nanshan Vinaya Dictionary 南山律學辭典, s.v. “四依法腐爛藥制開” [accessed March 18,</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> , http://buddhistinformatics.ddbc.edu.tw/glossaries/files/nanshanlu.ddbc.pdf].
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> In contemporary Āyurveda, however, there is no mention of using urine or faeces as medicinal substances, and there are neither known scientific explanations about their usage, nor information about any components in them having therapeutic effects.</div>
 
 ---
-
-
 
 ---
 
@@ -149,10 +177,6 @@ In contemporary Āyurveda, however, there is no mention of using urine or faeces
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Chapter Summary: Bhesajjakkhandhaka Chapter On Medicine Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

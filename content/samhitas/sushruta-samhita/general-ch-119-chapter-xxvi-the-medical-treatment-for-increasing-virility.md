@@ -82,6 +82,10 @@ Here semen would mean the testes, the receptacle of the semen.
 
 [5]:
 
+
+<blockquote className="ayur-shloka">
 Some read “śṛtena” (boiled) in place of “dhṛtena” In that case the boiled milk only should be taken and no clarified butter should be added thereto.
+</blockquote>
+
 
 ---

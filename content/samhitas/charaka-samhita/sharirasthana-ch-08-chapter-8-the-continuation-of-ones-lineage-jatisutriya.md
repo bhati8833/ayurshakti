@@ -98,7 +98,11 @@ The Vedic ritual for the fixation of the male-sex
 
 19-(2). Having culled two fresh sprouts, one each from easterly and westerly branches of a banyan tree growing in a cow-pen and dropping them together with two unbroken grains of black-gram or of white mustard-seed in curds, the woman should be made to drink it during the conjunction of the Pushya asterism with the moon.
 
+
+<blockquote className="ayur-shloka">
 19-(3). In the same manner, the paste of such drugs as Jivaka, Rishabhaka, rough chaff tree and crested purple nail dye, which have been treated either all together or separately, as prescribed, in milk or else such insects as the (Kuḍyakīṭaka [kuḍyakīṭaka] or Matsyaka) wall-insects should be swallowed by the pregnant woman having placed them in the water cupped by joining both hands, in the Pushya conjunction.
+</blockquote>
+
 
 19-(4). Likewise, in the Pushya conjunction she should swallow without leaving any part, images of men made of gold, silver and iron, flame-colored and minute in size having placed them in a handful of curds, milk or water.
 
@@ -134,7 +138,11 @@ Care of the Gravida
 
 The Nature of elephantine gestation
 
+
+<blockquote className="ayur-shloka">
 26-(1). If menstruation or other uterine discharge occurs as the reult [result?] of indulgence in hot and pungent articles of diet, in a woman with large and well nigh completely formed fetus, the fetus will cease growing, being displaced. Such a fetus will stay overlong in the mother's womb; this condition is referred to as ‘Upavistaka [upaviṣṭaka]’ or prolonged gestation.
+</blockquote>
+
 
 23. Similarly, the fetus of a woman who is riven to observances of fasts and austerities, to mal-nutrition, to avoidance of unctuous articles and to indulge [???] that have been mentioned as provocative of Vata, will not develop, being [d??ed] nourishment. Such a fetus [will][?] tarry overlong and will not quicken. To this is given the name ‘Nagodara [nāgodara]’ (elephantine gestation).
 
@@ -226,7 +234,11 @@ The Cutting of the navel-cord
 
 44. If the navel shows signs of suppuration smear it with oil boiled with the paste of lodh, liquorice, perfumed cherry, turmeric and Indian berberry. The navel should also be dusted with the powder of these herbs. Thus has been laid down the correct procedure with regard to the ligature and clipping of the umbilical cord.
 
+
+<blockquote className="ayur-shloka">
 45. If the clipping of the cord has not been properly done, it may give rise to such affections as are extensive and elevated, Pindalika [piṇḍalikā], Vinamika [vināmikā] and Vijrimbhika [vijṛmbhikā]. In dealing with such disorders, the treatment should consist of oil-rubbing and spraying with medicaments and with medicated ghees that do not cause inflammation and that allay Vata and Pitta, with due consideration to the gravity or lightness of the disorder.
+</blockquote>
+
 
 The Child’s Birth rite
 
@@ -248,7 +260,11 @@ The Ceremony of Naming the Boy
 
 50-(1). On the tenth day the woman, together with the child, should bathe in water treated with all fragrant herbs and with white rape-seed and lodh; she should put on light, new and clean garments; deck herself with pure, coveted, light and variegated ornaments; touch auspicious objects and worship the appropriate deity; receive the blessings of Brahmanas with unshorn locks, white garments and whole bodies; then having wrapped the child who should be placed with his head either towards the east or the north in folds of a new garment and declaring that it (the child) salutes the twice-born headed by the gods, the father of the child should give it two names: one name denoting the constellation under which it was born and the other of intended meaning.
 
+
+<blockquote className="ayur-shloka">
 50. Of these, the meaningful name should have a sonant for its first letter and for its last a semi-vowel or ushman [ūṣman] (sibilants and aspirate), should be free of diphthongs, reminiscent of the three ancestors (father, grand-father and great grandfather) and not new-fangled. The ‘stellar’ name shall be identical with that of the stellar deity and should be either di-syllabic or tetra-syllabic.
+</blockquote>
+
 
 Signs of long-lived children
 
@@ -278,9 +294,17 @@ The Wet-nurse etc.
 
 60. The bed, seats, spreads and covers meant for the child should be soft, light, clean and fragrant. Sweat-stained, soiled and germ-laden articles should at once be removed; so also those that are soiled with feces or urine. If fresh ones are not available the same may be used again after they have been washed well and fumigated well and rendered perfectly clean and dry.
 
-61.For fumigating the garments as also the beds, spreads and covers, the following articles, smeared with ghee may be used:—barley, rapeseed, linseed, asafoetida, gum-guggul, sweet flag, angelica, Brahmi [brāhmī], corydalis, nardus, Palankasha [palaṅkaṣā], Ashoka [aśoka], kurroa and the sloughs of snakes.
 
+<blockquote className="ayur-shloka">
+61.For fumigating the garments as also the beds, spreads and covers, the following articles, smeared with ghee may be used:—barley, rapeseed, linseed, asafoetida, gum-guggul, sweet flag, angelica, Brahmi [brāhmī], corydalis, nardus, Palankasha [palaṅkaṣā], Ashoka [aśoka], kurroa and the sloughs of snakes.
+</blockquote>
+
+
+
+<blockquote className="ayur-shloka">
 62. The following articles should be worn as talismans by the child:—Gems, tips of the right horns of a live rhinoceros, deer, gayal or bull; herbs like the Aindri [aindrī] etc., the herbs Jivaka [jīvaka] and Rishabhaka [ṛṣabhaka], as also all such articles as the Brahmanas learned in the Atharvaveda may recommend.
+</blockquote>
+
 
 Toys
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ethics within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 83. Chapter 8 - Ethics
+## Chapter 8 - Ethics
 
 Philosophy of Charaka-samhita
 
@@ -19,11 +19,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 8 - Ethics
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 85. Moral outlook of Caraka
+## Moral outlook of Caraka
 
 Philosophy of Charaka-samhita
 
@@ -37,13 +35,12 @@ Caraka adopts a rational attitude. Through the words of Ātreya he declares that
 
 If “social morality” is predominantly the morality of doing, and individual morality is the morality of “being”, we see the culmination of both in the moral conceptions of Caraka. He pays equal importance to worldly life and liberation. Mundane life is construed as a way to attain the spiritual optimum. In other words, it is a synthesis of the world- and- life-affirming moral conceptions of Vedic- tradition.
 
-[1]:
 
-CS, Su, XI. 27.
+<div className="footnote-card"><strong>[1]</strong> CS, Su, XI. 27.</div>
 
 ---
 
-## 86. Spiritual basis of moral conception
+## Spiritual basis of moral conception
 
 Philosophy of Charaka-samhita
 
@@ -55,33 +52,45 @@ In consonance with the Vedic thought, Caraka believes that the ultimate reality 
 
 Caraka believes in the world of suffering. But he does not ask to reject the socio-moral obligations for the sake of liberation. His ethical outlook is not life-negating. On the other hand, he puts forth a moral outlook which is fully world-and-life affirming. Caraka was circumspect of the realty that all activities of human-beings are directed towards the achievement of happiness.[2] Even though Caraka speaks of the four “aims of life”, namely righteousness (dharma), material prosperity (artha), desires (kāma), and liberation (mokṣa),[3] he emphasizes the first three which can be construed more subtly perhaps as attitudes or orientations[4] than the final aim of life—liberation (mokṣa). He says that one should discard unwholesome attitudes and adopt wholesome ones in regard to righteousness (dharma), material prosperity (artha), and desire (kāma), for no happiness or pain can occur without these three factors.[5] It vindicates that his prime concern is mundane life and happiness. A happy man is one who is free from all vices such as physical violence, adultery, theft, and persecution. Such a person can only relish the fruits of dharma, artha, and kāma.[6]
 
-[1]:
 
-Caraka speaks of renunciation (sanyāsa) only as the final stage of life.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka speaks of renunciation (sanyāsa) only as the final stage of life.
+</blockquote>
 
-[2]:
 
-sukhārthāḥ sarvabhūtānāṃ matāḥ sarvāḥ pravṛttayaḥ, CS, Su, XXVIII. 35.
 
-[3]:
 
-CS, Su, I. 15. Loc. cit., F. Note. 65.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> sukhārthāḥ sarvabhūtānāṃ matāḥ sarvāḥ pravṛttayaḥ, CS, Su, XXVIII. 35.
+</blockquote>
 
-[4]:
 
-“There is no state of artha, of kāma, or of dharma which a man comes to realize and rest in. Rather these terms are to be construed more subtly, perhaps as attitudes or orientations”, KHP, p. 6.
 
-[5]:
 
-“....dharmārthakāmānāmahitānāmanupasevane hitānāṃ copasevane prayatitavyaṃ.....”. CS, Su, XI. 46.
+<div className="footnote-card"><strong>[3]</strong> CS, Su, I. 15. Loc. cit., F. Note. 65.</div>
 
-[6]:
 
-Ibid, 28-30.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> “There is no state of artha, of kāma, or of dharma which a man comes to realize and rest in. Rather these terms are to be construed more subtly, perhaps as attitudes or orientations”, KHP, p. 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “....dharmārthakāmānāmahitānāmanupasevane hitānāṃ copasevane prayatitavyaṃ.....”. CS, Su, XI. 46.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid, 28-30.</div>
 
 ---
 
-## 87. Analytical devices (tantrayukis)
+## Analytical devices (tantrayukis)
 
 Philosophy of Charaka-samhita
 
@@ -185,79 +194,106 @@ probability (saṃbhava).[13]
 
 Cakrapāṇi has stated that Bhatārahariścandra, the author of Carkanāysa, has enumerated four more yuktis:
 
-paripraśna,
-
-vyākaraṇa,
-
-vyutkrāntābhidhāna,
+paripraśna,, vyākaraṇa,, vyutkrāntābhidhāna,
 
 hetu.[14]
 
 Suśruta enumerates only thirty-two tantrayuktis.[15]
 
-[1]:
 
-KFL, p. 28
+<div className="footnote-card"><strong>[1]</strong> KFL, p. 28</div>
 
-[2]:
 
-IM, pp. 13- 14
 
-[3]:
 
-“Introduction”, TV, p. i.
+<div className="footnote-card"><strong>[2]</strong> IM, pp. 13- 14</div>
 
-[4]:
 
-ataśca prakṛtaṃ buddhvā deśakālāntarāṇi ca tantrakaṛtrabhiprāyā-nupāyāṃścārthamādiśet, CS, Su, XXVI. 37.
 
-[5]:
 
-yathāmbujavanasyārkaḥ pradīpo veśmano yathā prabodhanaprakāśārthastathā, tantrasya yuktayaḥ, CS, Siddhi - sthāna, XII, 46.
+<div className="footnote-card"><strong>[3]</strong> “Introduction”, TV, p. i.</div>
 
-[6]:
 
-“ucyate vākyayojanaṃ arthayojanañca”, Suśrutasaṃhitā of Suśruta., Uttara - tantra, Ixv. 4.
 
-[7]:
 
-asadvādiprayuktānāṃ vākyānāṃ pratiṣedhanaṃ, svavākyasiddhirapi ca kriyate tantrayuktitaḥ, Ibid., 5.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> ataśca prakṛtaṃ buddhvā deśakālāntarāṇi ca tantrakaṛtrabhiprāyā-nupāyāṃścārthamādiśet, CS, Su, XXVI. 37.
+</blockquote>
 
-[8]:
 
-HIPS, Vol. II, p. 389.
 
-[9]:
 
-vyaktā noktāstu ye hyarthā līnā ye cāpyanirmalāḥ leśoktā ye ca kecitsyuḥ teṣāñcāpi prasādhanaṃ, Suśrutasaṃhitā of Suśruta., Uttara - tantra, Ixv. 6.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> yathāmbujavanasyārkaḥ pradīpo veśmano yathā prabodhanaprakāśārthastathā, tantrasya yuktayaḥ, CS, Siddhi - sthāna, XII, 46.
+</blockquote>
 
-[10]:
 
-DT, p.4
 
-[11]:
 
-The Kautilīya Arthaśāstra., XV. 3.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> “ucyate vākyayojanaṃ arthayojanañca”, Suśrutasaṃhitā of Suśruta., Uttara - tantra, Ixv. 4.
+</blockquote>
 
-[12]:
 
-Āyurvedīya Vaijñānika Itihās (Scientific History of Ayurveda), Priyavrata Sharma, Jayakrshnayurvedagranthamala No.1, Chawkhamba Orientalia, Delhi, 1981, p. 124.
 
-[13]:
 
-CS, Siddhi - sthāna, XII. 41-44.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> asadvādiprayuktānāṃ vākyānāṃ pratiṣedhanaṃ, svavākyasiddhirapi ca kriyate tantrayuktitaḥ, Ibid., 5.
+</blockquote>
 
-[14]:
 
-bhattārahariśchandreṇa tvānyaścatasrastantrayuktayḥ paripraśnavyākaraṇa-vyutkrāntābhidhāna-hetvākhyā vyahṛtāḥ, Cakrapāṇi on Ibid., 41-44.
 
-[15]:
 
-Suśrutasaṃhitā of Suśruta., Uttara - tantra, IXV. 3.
+<div className="footnote-card"><strong>[8]</strong> HIPS, Vol. II, p. 389.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> vyaktā noktāstu ye hyarthā līnā ye cāpyanirmalāḥ leśoktā ye ca kecitsyuḥ teṣāñcāpi prasādhanaṃ, Suśrutasaṃhitā of Suśruta., Uttara - tantra, Ixv. 6.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> DT, p.4</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> The Kautilīya Arthaśāstra., XV. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Āyurvedīya Vaijñānika Itihās (Scientific History of Ayurveda), Priyavrata Sharma, Jayakrshnayurvedagranthamala No.1, Chawkhamba Orientalia, Delhi, 1981, p. 124.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> CS, Siddhi - sthāna, XII. 41-44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> bhattārahariśchandreṇa tvānyaścatasrastantrayuktayḥ paripraśnavyākaraṇa-vyutkrāntābhidhāna-hetvākhyā vyahṛtāḥ, Cakrapāṇi on Ibid., 41-44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśrutasaṃhitā of Suśruta., Uttara - tantra, IXV. 3.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -266,10 +302,6 @@ Suśrutasaṃhitā of Suśruta., Uttara - tantra, IXV. 3.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Moral prescriptions for healthy and happy life: Philosophy Of Charaka Samhita Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

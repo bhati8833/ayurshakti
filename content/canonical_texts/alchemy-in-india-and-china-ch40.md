@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Case of Sindura or Cinnabar within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. 6. Case of Sindura or Cinnabar
+## 6. Case of Sindura or Cinnabar
 
 Alchemy in India and China
 
@@ -27,8 +27,6 @@ Cinnabar or mercuric sulphide is another substance which is intimately related t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ Cinnabar or mercuric sulphide is another substance which is intimately related t
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch41" className="text-emerald-400 hover:underline flex items-center font-medium">8. Case of Tutenag or Zinc: Alchemy In India And China Chapter 41 →</a>
 </div>
-
-
-
-
 
 ---
 

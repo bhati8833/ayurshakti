@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Restoring normal physical and mental health within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 29. Chapter 6 - Restoring normal physical and mental health
+## Chapter 6 - Restoring normal physical and mental health
 
 Physician as depicted in Manasollasa
 
@@ -19,11 +19,7 @@ This thesis critically evaluates the role of physicians in Ayurvedic literature,
 
 Chapter 6 - Restoring normal physical and mental health
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -32,10 +28,6 @@ Chapter 6 - Restoring normal physical and mental health
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">2. The concept of Rasa (direct action of a drug): Physician As Depicted In Manasollasa Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

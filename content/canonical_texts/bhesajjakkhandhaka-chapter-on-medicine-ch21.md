@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Conclusion: Summary of Present Research within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 68. Conclusion: Summary of Present Research
+## Conclusion: Summary of Present Research
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -37,17 +37,17 @@ Abundant medicinal substances are covered in the Chapters on Medicine, especiall
 
 Cases of diseases with their treatments recorded in the Chapters on Medicine are classified and elaborated in Chapter Five. These diseases have been put into categories according to the medical specialties in which they are usually managed. The diseases and specialties are: autumnal illness, wind diseases, humoral problems, fever, gastrointestinal disorders, headache, and jaundice in the discipline of internal medicine; snakebite and poisoning in toxicology;painful eyes and baiyi in ophthalmology; itching, carbuncles, wounds, and other skin diseases in dermatology; perineal lesions and foot problems in surgery; and insanity (or non-human-causing disease) in psychiatry. Relevant passages in the Chapters on Medicine narrating these illnesses and their remedies are grouped for each of the aforementioned diseases, and then explicated with commentarial annotations, references to Āyurvedic doctrines, and modern medical facts.
 
-[1]:
 
-The research questions and the aims of the research are set out in detail in Sections 1. 2. 1 and 1. 2. 2 in Chapter One respectively.
+<div className="footnote-card"><strong>[1]</strong> The research questions and the aims of the research are set out in detail in Sections 1. 2. 1 and 1. 2. 2 in Chapter One respectively.</div>
 
-[2]:
 
-For the details of the arguments, see p. 20-22 in Chapter One.
+
+
+<div className="footnote-card"><strong>[2]</strong> For the details of the arguments, see p. 20-22 in Chapter One.</div>
 
 ---
 
-## 69. Chapter 6 - Conclusion
+## Chapter 6 - Conclusion
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -55,11 +55,9 @@ This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist L
 
 Chapter 6 - Conclusion
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 70. Contributions of this Study
+## Contributions of this Study
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -91,13 +89,10 @@ Another advantage of this study is related to the organisation and identificatio
 
 Certain analyses/interpretations of the medical facts in this study are worthy of remark. The first one is the autumnal disease. As explained in Section 5. 1. 1, the illness, with clinical features pointing to a bowel problem, could be an infective gastroenteritis due to a virus or bacterium. The second one is the biomedical understanding of the three humours. While wind humour is maintained to be related to the nervous system by contemporary Āyurvedic scholars, bile humour would probably pertain to the digestive-metabolic function, and phlegm humour or waterelement seems likely to be associated with the endocrine-immune systems, as discussed in Section 5. 1. 3. The third one is the interpretation of the disease paṇḍuroga/pāṇḍuroga (“yellow disease”) as “jaundice”. Although the term is usually rendered as anaemia by present-day Āyurvedic scholars, we have preferred to interpret it as jaundice in Section 5. 1. 7, for this can embrace certain types of anaemia. It is because jaundice is aetiologically divided into three groups (viz. haemolytic jaundice, hyperbilirubinaemia, and cholestatic jaundice) in modern medicine, and haemolytic jaundice can be caused by various kinds of haemolytic anaemia. Thus, the interpretation of the term as jaundice could encompass certain anaemias. Then, the fourth one is the consumption of mud and other foul things (urine, dung, and ash) for curing poisoning cases. The use of such substances may be due to their effects on induced emesis and/or enhanced elimination of toxins by acting as an absorbent and reducing reabsorption of toxins in the bowel, as explained in Section 5. 2. The last one is the elaboration of the case of insanity. This case, healed by eating raw meat and drinking blood, could be due to vitamin B12 deficiency as discussed in Section 5. 6. These interpretations presented in Chapter Five, which are based on careful analyses of the medical details in the Chapters on Medicine, hence provide new explanations of the diseases mentioned in the texts.
 
-[1]:
 
-See footnote 151 on p. 192.
+<div className="footnote-card"><strong>[1]</strong> See footnote 151 on p. 192.</div>
 
 ---
-
-
 
 ---
 
@@ -106,10 +101,6 @@ See footnote 151 on p. 192.
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Limitations of this thesis and future research directions: Bhesajjakkhandhaka Chapter On Medicine Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Hridaya Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 47. Study of Hridaya Marma
+## Study of Hridaya Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -33,7 +33,7 @@ a distance of 31 cms and less than 31 cms if hit by three fingers. The injured p
 
 ---
 
-## 48. Study of Apalapa Marma
+## Study of Apalapa Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -53,7 +53,7 @@ Lohitha is seen two angula below the Poonellu (I rib). If injured the patient fa
 
 ---
 
-## 49. Study of Apastambha Marma
+## Study of Apastambha Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -71,8 +71,6 @@ blood in the pleura or adjacent structures. Similarly injury in any of the air c
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +78,6 @@ blood in the pleura or adjacent structures. Similarly injury in any of the air c
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix 2: Various other Varmams: Marma Sastra and Ayurvedic Science Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

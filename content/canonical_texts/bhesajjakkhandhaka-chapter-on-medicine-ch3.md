@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Outlines of Chapters within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Outlines of Chapters
+## Outlines of Chapters
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -31,13 +31,12 @@ In Chapter Five the cases of various diseases and their remedies recorded in the
 
 Chapter Six is the Conclusion Chapter. It will first summarise what has been covered in this thesis. Contributions and limitations of the present study will then be discussed. Possible further studies on medicine or medically related topics in Buddhist scriptures, as well as any implications of the findings in this research to modern healthcare, will also be explored.
 
-[1]:
 
-The reasons for relying on such Buddhist texts will be explained in Chapter Three.
+<div className="footnote-card"><strong>[1]</strong> The reasons for relying on such Buddhist texts will be explained in Chapter Three.</div>
 
 ---
 
-## 11. Methodology and Sources
+## Methodology and Sources
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -87,117 +86,166 @@ Another term that requires clarification is “biomedicine”. In this thesis, t
 
 Yet another term is “Buddhist medicine”. Some scholars use this term.[18] [19] Is Buddhist medicine a range of medical remedies, or a medical system/tradition? Some of these scholars refer to this term as the medical perspectives or practices found in Buddhist literature. For instance, Salguero expresses: “‘Buddhist medicine’ is a convenient shorthand for discussing Buddhist perspectives of disease, healing, and the body. … Embedded in Buddhist scriptures and practices, these ideas were spread …” (2010, 1-2). Naqvi appears to denote this term as “the practice of medicine and surgery by the Buddhists” and “the medical achievements of the Buddhists” (Naqvi 2011, xviii). However, East Asian scholars seem unanimously to apply this term as a special medical system. So, is there a system of Buddhist medicine? In early Buddhist literature, lists of diseases (classification of diseases) and depiction of causes of physical suffering (aetiology) are noted, as shown in the Girimānanda Sutta (Discourse to Girimānanda) of the Aṅguttara Nikāya (Aṅguttara Nikāya V. 108-112). Including the various therapies recorded in the Chapter on Medicine, it seems that there prevails a medical system in the early Buddhist literature which mostly conforms to the above characteristics of a medical system.[20] However, looking at the Chapter on Medicine, it can be noted that the Buddha was prescribing various remedies for the sick monks, and it is reasonable to assume that the Buddha already possessed certain medical knowledge.[21] Although this is not clearly reported in early Buddhist scriptures, the Buddha, when he was still a prince, could have received training in various skills, including medical knowledge, as his father (King Śuddhodana) aspired for his son to be a universal monarch and would have provided a supreme education for his son.[22] Furthermore, according to Zysk, some Buddhist wandering ascetics (Pāli: samaṇa; Sanskrit: śramaṇa) certainly had learned the healing arts, and such knowledge could have been brought into the monastic community and recorded in the Vinaya literature (Zysk 1991, 27).[23] Such Buddhist medical lore thus would have come from the then existing Indian medical tradition, which was incorporated into the Buddhist doctrine.[24] The early Buddhist community seemed not to have had a unique medical system of its own, with its own special theory and practice.[25] In this thesis, therefore, the term “Buddhist medicine” has the notion not of a distinctive medical system, but as medical lore preserved in early Buddhist literature.
 
-[1]:
 
-In different VPs, this section has different names such as Skandhaka, Dharmaka, Vastu, or Varga. As Yamagiwa (1994, 107n3) has stated, not all the Skandhaka sections of the VPs have been transmitted under the term Skandhaka and so for ease of discussion this collective term will be used to refer to all existing Skandhaka texts.
+<div className="footnote-card"><strong>[1]</strong> In different VPs, this section has different names such as Skandhaka, Dharmaka, Vastu, or Varga. As Yamagiwa (1994, 107n3) has stated, not all the Skandhaka sections of the VPs have been transmitted under the term Skandhaka and so for ease of discussion this collective term will be used to refer to all existing Skandhaka texts.</div>
 
-[2]:
 
-Fascicle (Chinese: juan 卷) 42-43 of the Sifen lü 四分律 (“Vinaya in Four Divisions”, i.e. the Dharmaguptaka Vinaya) (Taishō Tripiṭaka 1428).
 
-[3]:
 
-Fascicle 26 of Shisong lü 十誦律 (“Vinaya in Ten Recitations”, i.e. the Sarvāstivāda Vinaya) (Taishō Tripiṭaka 1435).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Fascicle (Chinese: juan 卷) 42-43 of the Sifen lü 四分律 (“Vinaya in Four Divisions”, i.e. the Dharmaguptaka Vinaya) (Taishō Tripiṭaka 1428).
+</blockquote>
 
-[4]:
 
-Genben shuoyiqieyoubu pinaiye yaoshi 根本說一切有部毘奈耶藥事 (the Mūlasarvāstivāda
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Fascicle 26 of Shisong lü 十誦律 (“Vinaya in Ten Recitations”, i.e. the Sarvāstivāda Vinaya) (Taishō Tripiṭaka 1435).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Genben shuoyiqieyoubu pinaiye yaoshi 根本說一切有部毘奈耶藥事 (the Mūlasarvāstivāda
+</blockquote>
+
+
 
 Vinaya) (Taishō Tripiṭaka 1448).
 
-[5]:
 
-Fascicle 22 of Mishasebu hexi wufen lü 彌沙塞部和醯五分律 (“Vinaya in Five Divisions”, i.e. the Mahīśāsaka Vinaya) (Taishō Tripiṭaka 1421).
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Fascicle 22 of Mishasebu hexi wufen lü 彌沙塞部和醯五分律 (“Vinaya in Five Divisions”, i.e. the Mahīśāsaka Vinaya) (Taishō Tripiṭaka 1421).
+</blockquote>
 
-[6]:
 
-Fascicle 28 of Mohe sengqi lü 摩訶僧祇律 (the Mahāsāṃghika Vinaya) (Taishō Tripiṭaka 1425).
 
-[7]:
 
-See footnote 32 in Chapter Two for the discussion on whether the Tibetan version of the Mūlasarvāstivāda Vinaya is whole or not.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Fascicle 28 of Mohe sengqi lü 摩訶僧祇律 (the Mahāsāṃghika Vinaya) (Taishō Tripiṭaka 1425).
+</blockquote>
 
-[8]:
 
-See Samantapāsādikā IV. 839; Sifen lü shanfan buqüe xingshi chao 四分律刪繁補闕行事鈔
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> See footnote 32 in Chapter Two for the discussion on whether the Tibetan version of the Mūlasarvāstivāda Vinaya is whole or not.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> See Samantapāsādikā IV. 839; Sifen lü shanfan buqüe xingshi chao 四分律刪繁補闕行事鈔
+</blockquote>
+
+
 
 (Commentary on Practices and Matters in the Dharmaguptaka Vinaya, by Deleting the Complex and Supplementing the Missing) (Taishō Tripiṭaka 1804. 117c15 ff.).
 
-[9]:
 
-See Oxford English Dictionary, 3rd ed., s.v. “interpretation” [accessed July 29, 2012, http://www.oed.com/view/Entry/98211?redirectedFrom=interpretation#eid].
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> See Oxford English Dictionary, 3rd ed., s.v. “interpretation” [accessed July 29, 2012, http://www.oed.com/view/Entry/98211?redirectedFrom=interpretation#eid].
+</blockquote>
 
-[10]:
 
-The six modern definitions, according to Palmer (1969, 33), encompass “the theory of biblical exegesis; general philological methodology; the science of all linguistic understanding; the methodological foundation of Geisteswessenschaften;phenomenology of existence and of existential understanding; and the systems of interpretation, both recollective and iconoclastic, used by man to reach the meaning behind myths and symbols.” These modern definitions which are actually the theories of hermeneutics (more or less in chronological development) proposed by Friedrich Schleiermacher (1768-1834), Wilhelm Dilthey (1833-1911), Edmund Husserl (18591938), Martin Heidegger (1889-1976), Hans-Georg Gadamer (1900-2002), and Paul Ricouer (1913-2005).
 
-[11]:
 
-Descriptions of the classical Āyurvedic treatises, including their dating and provenance, will be given in Section 2. 3. 1 in Chapter Two.
+<div className="footnote-card"><strong>[10]</strong> The six modern definitions, according to Palmer (1969, 33), encompass “the theory of biblical exegesis; general philological methodology; the science of all linguistic understanding; the methodological foundation of Geisteswessenschaften;phenomenology of existence and of existential understanding; and the systems of interpretation, both recollective and iconoclastic, used by man to reach the meaning behind myths and symbols.” These modern definitions which are actually the theories of hermeneutics (more or less in chronological development) proposed by Friedrich Schleiermacher (1768-1834), Wilhelm Dilthey (1833-1911), Edmund Husserl (18591938), Martin Heidegger (1889-1976), Hans-Georg Gadamer (1900-2002), and Paul Ricouer (1913-2005).</div>
 
-[12]:
 
-Zysk (1995) has written a separate article advocating the method of understanding Pāli medical texts by means of Āyurvedic treatises.
 
-[13]:
 
-Certain findings of Zysk and Obinata’s books are also referenced in our discussions and interpretations of drugs and diseases.
+<div className="footnote-card"><strong>[11]</strong> Descriptions of the classical Āyurvedic treatises, including their dating and provenance, will be given in Section 2. 3. 1 in Chapter Two.</div>
 
-[14]:
 
-Palmer (1969, 36) has expressed (while discussing biblical hermeneutics): “The text is not interpreted in terms of itself; indeed, this may be an impossible ideal. … In this sense hermeneutics is the interpreter’s system for finding the ‘hidden’ meaning of the text.” Thus interpretation of a text requires the assistance of a “system” of interpretation.
 
-[15]:
 
-Cultural approaches are now being increasingly emphasised in various scholarly fields, such as translation studies, linguistics, literary studies, and so on. “Cultural turn”–as discussed in Translation, History and Culture, edited by Susan Bassnett and André Lefevere (1990)–has become predominant in translation studies since the 1990s. It refers to the trend that “any study of translation needs to take into account the double context of both source and target cultures” (Bassnett 2005, 311).
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Zysk (1995) has written a separate article advocating the method of understanding Pāli medical texts by means of Āyurvedic treatises.
+</blockquote>
 
-[16]:
 
-These arguments against retrospective diagnosis and their details can be found in Arrizabalaga 2002;Cunningham 2002; Unschuld 1985; Wilson 2000.
 
-[17]:
 
-It is believed that the early Buddhist texts (such as the Āgamas) in Chinese translation have come from Sanskrit originals or other Middle Indic Prakrit originals (see Kuan 2008, 172n11). It is beyond the scope of this study to explore the original languages of the various available VPs.
+<div className="footnote-card"><strong>[13]</strong> Certain findings of Zysk and Obinata’s books are also referenced in our discussions and interpretations of drugs and diseases.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Palmer (1969, 36) has expressed (while discussing biblical hermeneutics): “The text is not interpreted in terms of itself; indeed, this may be an impossible ideal. … In this sense hermeneutics is the interpreter’s system for finding the ‘hidden’ meaning of the text.” Thus interpretation of a text requires the assistance of a “system” of interpretation.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Cultural approaches are now being increasingly emphasised in various scholarly fields, such as translation studies, linguistics, literary studies, and so on. “Cultural turn”–as discussed in Translation, History and Culture, edited by Susan Bassnett and André Lefevere (1990)–has become predominant in translation studies since the 1990s. It refers to the trend that “any study of translation needs to take into account the double context of both source and target cultures” (Bassnett 2005, 311).</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> These arguments against retrospective diagnosis and their details can be found in Arrizabalaga 2002;Cunningham 2002; Unschuld 1985; Wilson 2000.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> It is believed that the early Buddhist texts (such as the Āgamas) in Chinese translation have come from Sanskrit originals or other Middle Indic Prakrit originals (see Kuan 2008, 172n11). It is beyond the scope of this study to explore the original languages of the various available VPs.</div>
+
+
 
 Sanskrit terminology will, for ease of discussion, be employed for non-Pāli sources.
 
-[18]:
 
-See, for example, Cao 2006; Chen 1999, 2000; Clifford 1984; Fukunaga 1980; Gu and Zhou 2010a,
+<div className="footnote-card"><strong>[18]</strong> See, for example, Cao 2006; Chen 1999, 2000; Clifford 1984; Fukunaga 1980; Gu and Zhou 2010a,</div>
 
-[19]:
 
-b; Kageyama 2000; Liu and Han 1992; Ma 2004; Naqvi 2011; Nihonyanagi 1994; Obinata 1965; Salguero 2010, 2014;Shi 1991; Sugita 1997; Sugita and Fujiwara 2004; Wang 2003; Wang 2011; Xiao 2000a, 2000b, 2000c, 2000d; Yin 2001; Zysk 1995, etc. It seems that East Asian scholars use the term “Buddhist medicine” more frequently than Western scholars.
 
-[20]:
 
-See p. 2 above for the discussions on medicine and medical system/tradition.
+<div className="footnote-card"><strong>[19]</strong> b; Kageyama 2000; Liu and Han 1992; Ma 2004; Naqvi 2011; Nihonyanagi 1994; Obinata 1965; Salguero 2010, 2014;Shi 1991; Sugita 1997; Sugita and Fujiwara 2004; Wang 2003; Wang 2011; Xiao 2000a, 2000b, 2000c, 2000d; Yin 2001; Zysk 1995, etc. It seems that East Asian scholars use the term “Buddhist medicine” more frequently than Western scholars.</div>
 
-[21]:
 
-There is also a possibility that prevailing medical knowledge was put in the mouth of the Buddha by the compiler(s) of the Vinaya canon, as mentioned by the present writer’s thesis supervisor, Professor Halkias.
 
-[22]:
 
-In the Pāli Tipiṭaka, there is virtually no information on the education of Prince Siddhattha. It is only mentioned in the later literature. In the Milindapañha (Questions of Milinda), Sabbamitta (who is believed to be Viśvāmitra in the Lalitavistara) is stated as the second teacher of the
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> See p. 2 above for the discussions on medicine and medical system/tradition.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> There is also a possibility that prevailing medical knowledge was put in the mouth of the Buddha by the compiler(s) of the Vinaya canon, as mentioned by the present writer’s thesis supervisor, Professor Halkias.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> In the Pāli Tipiṭaka, there is virtually no information on the education of Prince Siddhattha. It is only mentioned in the later literature. In the Milindapañha (Questions of Milinda), Sabbamitta (who is believed to be Viśvāmitra in the Lalitavistara) is stated as the second teacher of the
+</blockquote>
+
+
 
 Bodhisatta (i.e. Prince Siddhattha) (see Horner’s Milinda’s Questions (1999, 38-39)). In the Nidānakathā (Introductory Talk, i.e. the introductory chapter of the Jātaka commentary) (Rhys Davids 1977, 76), it is stated that the prince was supreme at archery and twelve-fold skills. In the Lalitavistara (Extensive Grace, i.e. the Puyao jing 普曜經 (Taishō Tripiṭaka 186) or the Fangguang da zhuangyan jing 方廣大莊嚴經 (Taishō Tripiṭaka 187) in the Chinese Buddhist canon), the Abhiniṣkramaṇa Sūtra (Discourse on Entering Ascetic Life, i.e. the Fo benxing ji jing 佛本行集經 (Taishō Tripiṭaka 190)), and the Saṃghabhedavastu (Matter on the Division of the Saṅgha) of Mūlasarvāstivāda Vinaya (Taishō Tripiṭaka 1450), the prince’s learning and even excellence of various kinds of knowledge and different skills before receiving proper training are expressed. See also Foucher 1963, 53-58; Khosla 1991, 77; Penner 2009, 23; Piyadassi 1987, 12; Thomas 1949, 46-47;Wickremesinghe 2002, 25-27.
 
-[23]:
 
-Zysk’s theory on the role of wandering ascetics in the history of ancient Indian medicine will be reported in Section 2. 1. 3 in Chapter Two. He puts forth his theory on the basis of various literary materials, such as the Vedic scriptures (e.g. Ṛg Veda, Atharva Veda, Saṃhitās, Brāhmaṇas, etc.), the Jaina literature, the early Buddhist Pāli canon, and the Greek record (Megasthenes’ account) (Zysk 1991, 21-37).
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Zysk’s theory on the role of wandering ascetics in the history of ancient Indian medicine will be reported in Section 2. 1. 3 in Chapter Two. He puts forth his theory on the basis of various literary materials, such as the Vedic scriptures (e.g. Ṛg Veda, Atharva Veda, Saṃhitās, Brāhmaṇas, etc.), the Jaina literature, the early Buddhist Pāli canon, and the Greek record (Megasthenes’ account) (Zysk 1991, 21-37).
+</blockquote>
 
-[24]:
 
-For the discussion of the history of ancient Indian medicine before and up to the time of the Buddha, see Section 2. 1 in Chapter Two.
 
-[25]:
 
-Whether a Buddhist medical system was developed in the later history of Buddhism, for example in the period of Mahāyāna Buddhism, is beyond the scope of this study. It deserves further study and clarification.
+<div className="footnote-card"><strong>[24]</strong> For the discussion of the history of ancient Indian medicine before and up to the time of the Buddha, see Section 2. 1 in Chapter Two.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Whether a Buddhist medical system was developed in the later history of Buddhism, for example in the period of Mahāyāna Buddhism, is beyond the scope of this study. It deserves further study and clarification.
+</blockquote>
 
 ---
 
-## 12. History of Indian Medicine (a): Pre-Vedic Phase
+## History of Indian Medicine (a): Pre-Vedic Phase
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -217,25 +265,27 @@ Another piece of evidence is the possible worship of healing deities or persons.
 
 The Indus Valley Civilisation gradually declined and eventually collapsed in the mid-second millennium Before Common Era.[4] No medical knowledge of this civilisation has been left to us. However, as depicted above, this civilisation was a highly developed one. There is evidence pointing to its practice of public and personal health. Certain forms of medicine and healers could have existed. Although the medical lore of this civilisation is completely unknown, Basham (1976, 18) wisely suggests: “… as in many other features of Indian life, the Harappā Culture contained the seeds of much that was characteristic of later Indian medicine.”
 
-[1]:
 
-Many scholars have stated such evidence of hygiene in their works. See, for example, Filliozat 1964, 32; Mazars 2006, 2; Wujastyk 1993, 756; Zysk 1991, 12;1996, 2.
+<div className="footnote-card"><strong>[1]</strong> Many scholars have stated such evidence of hygiene in their works. See, for example, Filliozat 1964, 32; Mazars 2006, 2; Wujastyk 1993, 756; Zysk 1991, 12;1996, 2.</div>
 
-[2]:
 
-Filliozat (1964, 33) supported only the hygienic purpose of bathing while Wujastyk (1993, 756) and Zysk (1991, 12) mentioned the religious purpose of cleansing as well.
 
-[3]:
 
-Although there is no mention of trepanation in ancient Indian medical texts, there is information in Buddhist literature which may suggest the possible presence of this procedure in ancient India. In the healing records of Jīvaka (the Buddha’s physician) as found in the Vinayas of the Theravāda, the Dharmaguptaka and the Mūlasarvāstivāda schools, there is a case of Jīvaka performing craniotomy (i.e. opening of the skull) to remove worm(s) from his patient’s head even though the details in the three Vinayas are not the same.
+<div className="footnote-card"><strong>[2]</strong> Filliozat (1964, 33) supported only the hygienic purpose of bathing while Wujastyk (1993, 756) and Zysk (1991, 12) mentioned the religious purpose of cleansing as well.</div>
 
-[4]:
 
-The exact causes for this decline and collapse are not fully known, but scholars have proposed that it could be due to environmental changes, climatic changes, economical downfall, and invasions by the Āryans. See Wujastyk 1993, 756; Zysk 1996, 4.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Although there is no mention of trepanation in ancient Indian medical texts, there is information in Buddhist literature which may suggest the possible presence of this procedure in ancient India. In the healing records of Jīvaka (the Buddha’s physician) as found in the Vinayas of the Theravāda, the Dharmaguptaka and the Mūlasarvāstivāda schools, there is a case of Jīvaka performing craniotomy (i.e. opening of the skull) to remove worm(s) from his patient’s head even though the details in the three Vinayas are not the same.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> The exact causes for this decline and collapse are not fully known, but scholars have proposed that it could be due to environmental changes, climatic changes, economical downfall, and invasions by the Āryans. See Wujastyk 1993, 756; Zysk 1996, 4.</div>
 
 ---
-
-
 
 ---
 
@@ -244,10 +294,6 @@ The exact causes for this decline and collapse are not fully known, but scholars
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">History of Indian Medicine (b): Vedic Phase: Bhesajjakkhandhaka Chapter On Medicine Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

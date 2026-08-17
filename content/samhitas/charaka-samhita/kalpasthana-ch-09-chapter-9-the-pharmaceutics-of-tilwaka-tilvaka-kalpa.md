@@ -32,7 +32,11 @@ Chapter 9 - The Pharmaceutics of Tilwaka (tilvaka-kalpa)
 
 Synonyms
 
+
+<blockquote className="ayur-shloka">
 2½. Tilwaka [tilvaka] is known by its synonyms such as Lodhra, Brihatpatra [bṛhatpatra] and Tiritaka [tirīṭaka].
+</blockquote>
+
 
 Various Preparations
 

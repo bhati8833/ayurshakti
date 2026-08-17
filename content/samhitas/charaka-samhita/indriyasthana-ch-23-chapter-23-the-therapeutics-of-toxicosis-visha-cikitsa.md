@@ -40,9 +40,17 @@ Primogenesis
 
 7-8. Having its origin in water, in the rainy season, it melts like gur and spreads, and it is ‘Agastya’ that can destroy its evil. Hence, when the clouds disappear at the end of the season, poison [visha] becomes mild in effect.
 
-9-10. Serpents, insects, rats, spiders, scorpions, house lizards, leeches, fishes, frogs, hornets, Krikantaka [kṛkaṇṭaka], dogs, lions, tigers, hyenas, mongooses and similar other animals are the fanged animals from whose fangs comes out the poison known as animal poison (mobile poison).
 
+<blockquote className="ayur-shloka">
+9-10. Serpents, insects, rats, spiders, scorpions, house lizards, leeches, fishes, frogs, hornets, Krikantaka [kṛkaṇṭaka], dogs, lions, tigers, hyenas, mongooses and similar other animals are the fanged animals from whose fangs comes out the poison known as animal poison (mobile poison).
+</blockquote>
+
+
+
+<blockquote className="ayur-shloka">
 11-13. Mustaka, Paushkara [pauṣkara], Kraunca [krauñca], aconite, Balahaka [balāhaka], Karkata [karkaṭa], Kalakuta [kālakūṭa] and that with is known at oleander, Palaka [pālaka], Indrayudha [indrāyudha], Taila, Meghaka and Kushapushpaka [kuśapuṣpaka], Rohisha [rohiṣa], Pundarika [puṇḍarīka], and glory lily and Anjanabhaka [añjanābhaka], Sankoca [saṅkoca], Markata [markaṭa], Shringi [śṛṅgī] poison, Halahala [hālāhala] etc., and such others are poisons derived from roots of plants (vegetable prison),:
+</blockquote>
+
 
 14. There is another variety of poison called artificial poison which is prod need by combination of substances and which gives rise to disease-condition. Being slow in its development and action, it does not kill swiftly.
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of dropsy within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Chapter XIV - The medical treatment of dropsy
+## Chapter XIV - The medical treatment of dropsy
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -153,45 +153,53 @@ Skilled physicians should prescribe boiled milk and the soup of the flesh of ani
 
 Thus ends the fourteenth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of Udara.
 
-[1]:
 
-If this be not done, the patient is sure to die j but it is not certain whether he would get any relief from this treatment. It being, however, possible in some cases to save the life of a patient by the application of this medicine, it should be used, as the last resort with the permission of the king.—Dallana.
-
-[2]:
-
-The milk here, says Dallana on the authority of Jejjata, should be buffalo’s milk. But, according to Vagbhata and Shivadasa, the commentator of Chakradatta, cow’s milk should be used.—Ed.
-
-[3]:
-
-The Pippalis shohld be taken with milk only in the present instance,
-
-[4]:
-
-Each of the three things (liquids) should be four times as much as the clarified butter.
-
-[5]:
-
-In the absence of any mention about the quantity of water to be added, four times as much of water should be added for the completion of the preparation according to the general maxim.—Ed.
-
-[6]:
+<div className="footnote-card"><strong>[1]</strong> If this be not done, the patient is sure to die j but it is not certain whether he would get any relief from this treatment. It being, however, possible in some cases to save the life of a patient by the application of this medicine, it should be used, as the last resort with the permission of the king.—Dallana.</div>
 
 
-### Dallana explains the sentence as follows
+
+
+<div className="footnote-card"><strong>[2]</strong> The milk here, says Dallana on the authority of Jejjata, should be buffalo’s milk. But, according to Vagbhata and Shivadasa, the commentator of Chakradatta, cow’s milk should be used.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> The Pippalis shohld be taken with milk only in the present instance,</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Each of the three things (liquids) should be four times as much as the clarified butter.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> In the absence of any mention about the quantity of water to be added, four times as much of water should be added for the completion of the preparation according to the general maxim.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> ### Dallana explains the sentence as follows</div>
+
+
 
 
 Asavas, Arishtas and Suras should be prepared with urine (instead of the liquid i.e., water) and the milky exudation of Maha-vriksha (as an after-throw), and should be constantly used.
 
-[7]:
 
-Dropsical swelling of the abdomen owing to an enlargement of the spleen.
+<div className="footnote-card"><strong>[7]</strong> Dropsical swelling of the abdomen owing to an enlargement of the spleen.</div>
 
-[8]:
 
-The practice, in this case, is to add twelve Seers (three prastha measures) of water to the Prastha measure of milk at the time of cooking.
 
-[9]:
 
-The use of water is forbidden during these nine months.
+<div className="footnote-card"><strong>[8]</strong> The practice, in this case, is to add twelve Seers (three prastha measures) of water to the Prastha measure of milk at the time of cooking.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> The use of water is forbidden during these nine months.</div>
+
+
 
 “During the first six months, drinking, washing, etc., should be done with milk or the soup of Jangala animals. After this period, the said purposes should be served with half-diluted milk or meat-soup seasoned with the juice of acid fruits. Water may be used during the period of the next three ninths.”—Dallana.
 
@@ -205,8 +213,6 @@ The water of tender and green cocoanuts is used in cases of Udara in place of pu
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -214,10 +220,6 @@ The water of tender and green cocoanuts is used in cases of Udara in place of pu
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of cutaneous affections: Sushruta Samhita Cikitsasthana Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

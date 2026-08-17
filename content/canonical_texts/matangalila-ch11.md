@@ -11,11 +11,9 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on gajarakṣaṇadinartucaryādhikāra ekādaśaḥ paṭalaḥ within Matangalila. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Chapter 11 - gajarakṣaṇadinartucaryādhikāra ekādaśaḥ paṭalaḥ
+## Chapter 11 - gajarakṣaṇadinartucaryādhikāra ekādaśaḥ paṭalaḥ
 
 ---
-
-
 
 ---
 
@@ -24,10 +22,6 @@ isCanonicalText: true
   <a href="/articles/matangalila" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">ādhoraṇaguṇādyadhikāro dvādaśaḥ paṭalaḥ: Matangalila Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

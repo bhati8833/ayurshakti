@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Inference (anumāna) [in Charaka philosophy] within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 47. Inference (anumāna) [in Charaka philosophy]
+## Inference (anumāna) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -95,126 +95,199 @@ Cakrapāṇi, commenting on the dictum in conformity with the divisions in the N
 
 In the therapeutic context, five kinds of signs (liṅgas) are suggested for inferring diseases which are beyond perception. They are hetu, pūrvarūpa, rūpa, upaśaya, and saṃprāpti. A physician must be conversant with the concomitance of these five types of signs with the diseases prior to the diagnosis of a disease in order to arrive at right judgements.[28] Similarly, a long list of inferences that have greater value in determining the psychosomatic conditions is also given. The inference of digestive fire from the power of digestion, strength from the capacity for exercise, conditions of senses from their capacity to perceive, existence of mind from the perception of specific objects in the presence of all other senses and their respective objects, and rajoguṇa from attachment to woman are some of them. Caraka does not conspicuously differentiate svārthānaumāna and parārthānumāna as we see in the later Nyāya-Vaiśeṣika system. Yet he categorically explains parāthānumāna under the name sthapana.[29]
 
-[1]:
 
-anumānaṃ- mitena lingenarthasya paścānmānamanumānaṃ, Nyāya-Bhāṣya of Vātsyāyana., pp. 17-18.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> anumānaṃ- mitena lingenarthasya paścānmānamanumānaṃ, Nyāya-Bhāṣya of Vātsyāyana., pp. 17-18.
+</blockquote>
 
-[2]:
 
-Sāṃkhyakārikā. 5.
 
-[3]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Sāṃkhyakārikā. 5.
+</blockquote>
 
-[4]:
 
-JJL, p.158.
 
-[5]:
 
-For details see Vācaspatimiśra on Sāṃkhyakārikā, 5, Sāṃkhyatattvakaumudī of Vācaspati Miśra., pp.55-58.
+<div className="footnote-card"><strong>[3]</strong> Ibid.</div>
 
-[6]:
 
-atha tatpūrvakaṃ trividhamanumānaṃ—pūrvavat śeṣavat sāmānyatodṛṣṭaṃ ca, Nyāyasūtra., I. i. 5.
 
-[7]:
 
-tatpūrvakamityanena liṅgaliṅginoḥ........., smṛtyā liṅgadarśanena cāpratyakṣo'rtho'numīyate. Vātsyāyana on Nyāyasūtra., I. i. 5, Nyāya-Bhāṣya of Vātsyāyana., p. 24.
+<div className="footnote-card"><strong>[4]</strong> JJL, p.158.</div>
 
-[8]:
 
-pūrvavaditi yatra kāraṇena kāryamanumīyate. Ibid.
 
-[9]:
 
-adhavā—pūrvavaditi yatra yadhāpūrvaṃ pratyakṣabhūtayoranyataradarśanenānyatarasyāpratyakṣasya anumānaṃ yathā dhūmenāgniriti. Ibid., p. 25.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> For details see Vācaspatimiśra on Sāṃkhyakārikā, 5, Sāṃkhyatattvakaumudī of Vācaspati Miśra., pp.55-58.
+</blockquote>
 
-[10]:
 
-śeṣavat—tad yatra kāryeṇa kāraṇamanumīyate, Ibid., p. 24
 
-[11]:
 
-śeṣavat nāma pariśeṣaḥ sa ca prasaktapratiṣedhe'nyatrāprasaṅgāt śiṣyamāṇe saṃpratyayaḥ......, Ibid., p. 25.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> atha tatpūrvakaṃ trividhamanumānaṃ—pūrvavat śeṣavat sāmānyatodṛṣṭaṃ ca, Nyāyasūtra., I. i. 5.
+</blockquote>
 
-[12]:
 
-sāmanyatodṛṣṭaṃ—vrajyāpūrvakamanyatra dṛṣṭasyānyatra darśanamiti tathā ca ādityasya, tasmādastyapratyākṣāpyādityasya vrajyeti. Ibid., p. 24.
 
-[13]:
 
-sāmānyatodṛṣṭaṃ nāma yatrāpratyakṣe liṅgaliṅginoḥ saṃbandhe kenacidartheṇa liṅgasya sāmānyād apratyakṣo liṅgī gamyate.... Ibid., p. 25.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> tatpūrvakamityanena liṅgaliṅginoḥ........., smṛtyā liṅgadarśanena cāpratyakṣo'rtho'numīyate. Vātsyāyana on Nyāyasūtra., I. i. 5, Nyāya-Bhāṣya of Vātsyāyana., p. 24.
+</blockquote>
 
-[14]:
 
-asyedaṃ kāryaṃ kāraṇaṃ samyogi virodhi samavāyi ceti laiṅgikaṃ, Vaiśeṣikadarśana.. IX. ii. 1; liṅgadarśanāt sañjāyamānaṃ laiṅgikaṃ. Praśastapādabhāṣya., p. 476.
 
-[15]:
 
-yadanumeyena saṃbadhaṃ prasiddhaṃ ca tadanvite tadabhāve ca nāstyeva talliṅgamanumāpakaṃ. Ibid., p. 478. p. 480. see also Nyāyakandalī on Ibid.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> pūrvavaditi yatra kāraṇena kāryamanumīyate. Ibid.
+</blockquote>
 
-[16]:
 
-Praśastapādabhāṣya., p. 480.
 
-[17]:
 
-vyāptidarśanādasannikṛṣṭārthajñānamanumānaṃ. Mānameyodaya of Nārāyaṇa., p. 27.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> adhavā—pūrvavaditi yatra yadhāpūrvaṃ pratyakṣabhūtayoranyataradarśanenānyatarasyāpratyakṣasya anumānaṃ yathā dhūmenāgniriti. Ibid., p. 25.
+</blockquote>
 
-[18]:
 
-taccānumānaṃ dvividhaṃ svārthaṃ parārthaṃ ceti, svarthaṃ svapratipattihetuḥ............. paraṃ bodhayituṃ pañcāvayavavākyaṃ prayṅkte tat parārthānumānaṃ. Tarkabhāṣa of Keśavamiśra., pp. 79-80; tadapi liṅgaṃ dvividhaṃ svārthaṃ parārthaṃ ca, Saptapadārthi of Śivāditya., p. 31. See also the commentary by Jinavardhana Sūri on Ibid; TSA, p. 37.
 
-[19]:
 
-taccānumānaṃ parārthaṃ nyāyasādhyamiti nyāyastadavyavāśca pratijñāhetūdāharaṇopanayanigamanāni nirūpyante. Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. II, p. 540. see infra, pp. 205 - 206.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> śeṣavat—tad yatra kāryeṇa kāraṇamanumīyate, Ibid., p. 24
+</blockquote>
 
-[20]:
 
-CS, Su, XI. 7.
 
-[21]:
 
-anumānaṃ nāma tarko yuktyapekṣaḥ. CS,Vimāna - sthāna, IV. 4; Vimāna - sthāna, VIII. 40.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> śeṣavat nāma pariśeṣaḥ sa ca prasaktapratiṣedhe'nyatrāprasaṅgāt śiṣyamāṇe saṃpratyayaḥ......, Ibid., p. 25.
+</blockquote>
 
-[22]:
 
-yuktiśca saṃbandho'vinābhāva ityarthaḥ. Cakrapāṇi on CS,Vimāna - sthāna, IV. 4.
 
-[23]:
 
-pratyakṣapūrvaṃ trividhaṃ trikālaṃ cānumīyate. CS, Su, XI. 21.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> sāmanyatodṛṣṭaṃ—vrajyāpūrvakamanyatra dṛṣṭasyānyatra darśanamiti tathā ca ādityasya, tasmādastyapratyākṣāpyādityasya vrajyeti. Ibid., p. 24.
+</blockquote>
 
-[24]:
 
-pratyakṣagrahaṇaṃ vyāptigrāhakapramāṇopalakṣaṇārthaṃ, tena pratyakṣpūrvakamiti vyāptigrāhakapramāṇapūrvakaṃ, Cakrapāṇi on ibid., p.71. pratyakṣapūrvakamityanena khyāpitaṃ yad yasya kāraṇaṃ yasya ca kāryasya yat kāraṇaṃ yasya ca sāmānyaṃ yatra tayostayoḥ saṃbandhayorniyatasaṃbandhasya pratyakṣeṇa jñānaṃ liṅga jñānaṃ....., Jalpakalpataru on Ibid., CSJ, Vol. I, pp. 514-15.
 
-[25]:
 
-yatra yatra dhūmastatrāgniriti sāhacaryaniyamo vyāptiḥ, TSA, p. 35.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> sāmānyatodṛṣṭaṃ nāma yatrāpratyakṣe liṅgaliṅginoḥ saṃbandhe kenacidartheṇa liṅgasya sāmānyād apratyakṣo liṅgī gamyate.... Ibid., p. 25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> asyedaṃ kāryaṃ kāraṇaṃ samyogi virodhi samavāyi ceti laiṅgikaṃ, Vaiśeṣikadarśana.. IX. ii. 1; liṅgadarśanāt sañjāyamānaṃ laiṅgikaṃ. Praśastapādabhāṣya., p. 476.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> yadanumeyena saṃbadhaṃ prasiddhaṃ ca tadanvite tadabhāve ca nāstyeva talliṅgamanumāpakaṃ. Ibid., p. 478. p. 480. see also Nyāyakandalī on Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Praśastapādabhāṣya., p. 480.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> vyāptidarśanādasannikṛṣṭārthajñānamanumānaṃ. Mānameyodaya of Nārāyaṇa., p. 27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> taccānumānaṃ dvividhaṃ svārthaṃ parārthaṃ ceti, svarthaṃ svapratipattihetuḥ............. paraṃ bodhayituṃ pañcāvayavavākyaṃ prayṅkte tat parārthānumānaṃ. Tarkabhāṣa of Keśavamiśra., pp. 79-80; tadapi liṅgaṃ dvividhaṃ svārthaṃ parārthaṃ ca, Saptapadārthi of Śivāditya., p. 31. See also the commentary by Jinavardhana Sūri on Ibid; TSA, p. 37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> taccānumānaṃ parārthaṃ nyāyasādhyamiti nyāyastadavyavāśca pratijñāhetūdāharaṇopanayanigamanāni nirūpyante. Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. II, p. 540. see infra, pp. 205 - 206.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> CS, Su, XI. 7.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> anumānaṃ nāma tarko yuktyapekṣaḥ. CS,Vimāna - sthāna, IV. 4; Vimāna - sthāna, VIII. 40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> yuktiśca saṃbandho'vinābhāva ityarthaḥ. Cakrapāṇi on CS,Vimāna - sthāna, IV. 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> pratyakṣapūrvaṃ trividhaṃ trikālaṃ cānumīyate. CS, Su, XI. 21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> pratyakṣagrahaṇaṃ vyāptigrāhakapramāṇopalakṣaṇārthaṃ, tena pratyakṣpūrvakamiti vyāptigrāhakapramāṇapūrvakaṃ, Cakrapāṇi on ibid., p.71. pratyakṣapūrvakamityanena khyāpitaṃ yad yasya kāraṇaṃ yasya ca kāryasya yat kāraṇaṃ yasya ca sāmānyaṃ yatra tayostayoḥ saṃbandhayorniyatasaṃbandhasya pratyakṣeṇa jñānaṃ liṅga jñānaṃ....., Jalpakalpataru on Ibid., CSJ, Vol. I, pp. 514-15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> yatra yatra dhūmastatrāgniriti sāhacaryaniyamo vyāptiḥ, TSA, p. 35.
 vyāparastu parāmarśaḥ karaṇaṃ vāptidhīrbhavet anumāyāṃ, NSMK, p. 218.
+</blockquote>
 
-[26]:
 
-CS, Su, XI. 21 - 22.
 
-[27]:
 
-Nyāya-sūtra evam Carakasaṃhitā., p. 40.
+<div className="footnote-card"><strong>[26]</strong> CS, Su, XI. 21 - 22.</div>
 
-[28]:
 
-See Jalpakalpataru on CS, Su, XI, CSJ, Vol. I, p. 515.
 
-[29]:
 
-see infra, p. 296.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Nyāya-sūtra evam Carakasaṃhitā., p. 40.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> See Jalpakalpataru on CS, Su, XI, CSJ, Vol. I, p. 515.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> see infra, p. 296.</div>
 
 ---
 
-## 48. Chapter 7 - Logic and Dialectical Speculations
+## Chapter 7 - Logic and Dialectical Speculations
 
 Philosophy of Charaka-samhita
 
@@ -222,11 +295,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 7 - Logic and Dialectical Speculations
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 49. Dialectical terms [in Charaka philosophy]
+## Dialectical terms [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -238,79 +309,19 @@ Caraka was circumspect about the fact that it is essential for every medical man
 
 Caraka speaks of forty-four dialectical terms in connection with the discussion of the procedure of a debate. The dialectical terms discussed here are not seen in any literature other than in the Nyāya-sūtras. The dialectical terms thus enumerated are:
 
-debate (vāda),
-
-substance (dravya),
-
-quality (guṇa),
-
-action (karma),
-
-universal (sāmanya),
-
-particularity (viśeṣā),
-
-inherence (samavāya),
-
-proposition (pratijñā),
-
-demonstration (sthāpanā),
-
-counter argument (pratiṣṭhāpana),
-
-reason (hetu),
-
-example (dṛṣṭānta),
-
-application (upanaya),
-
-conclusion (nigamana),
-
-false rejoinder (uttara),
-
-tenet (siddhānta),
-
-word (śabda),
-
-perception (pratyakṣa),
-
-inference (anumāna),
-
-tradition (aitihya),
-
-analogy (aupamya),
+debate (vāda),, substance (dravya),, quality (guṇa),, action (karma),, universal (sāmanya),, particularity (viśeṣā),, inherence (samavāya),, proposition (pratijñā),, demonstration (sthāpanā),, counter argument (pratiṣṭhāpana),, reason (hetu),, example (dṛṣṭānta),, application (upanaya),, conclusion (nigamana),, false rejoinder (uttara),, tenet (siddhānta),, word (śabda),, perception (pratyakṣa),, inference (anumāna),, tradition (aitihya),, analogy (aupamya),
 
 doubt (saṃśaya),
 
-purpose (prayojana),
-
-inconclusive reason (savyabhicāra),
-
-investigation (jijñāsa),
-
-determination (vyavasāya),
-
-presumption (arthaprāpti),
+purpose (prayojana),, inconclusive reason (savyabhicāra),, investigation (jijñāsa),, determination (vyavasāya),, presumption (arthaprāpti),
 
 probability (saṃbhava),
 
-imperfect statement (anuyojya),
-
-infallible statement (ananuyojya),
-
-question (anuyoga),
-
-counter question (pratyanuyoga),
-
-defective statement (vākyadoṣa),
+imperfect statement (anuyojya),, infallible statement (ananuyojya),, question (anuyoga),, counter question (pratyanuyoga),, defective statement (vākyadoṣa),
 
 excellent assertion (vākyapraśaṃsā),
 
-quibble (cchala),
-
-fallacy of reason (ahetu),
-
-illogical order (atītakāla),
+quibble (cchala),, fallacy of reason (ahetu),, illogical order (atītakāla),
 
 criticism (upālaṃbha),
 
@@ -328,13 +339,12 @@ point of defeat (nigrahasthāna).[1]
 
 These terms cover almost all the topics of logic and dialectics. But they are not arranged in a systematic way as we see in the Nyāya-sūtra. The first category vāda, refers to the unbiased discussion which aims at discerning how things really are and all the other categories are its related items in one way or the other. The six fundamental categories and all kinds of the source of knowledge included in the enumeration were explained earlier in detail. So their description is excluded in the present chapter. A rearrangement is also made here for the convenience of description.
 
-[1]:
 
-CS, vi, VIII. 27.
+<div className="footnote-card"><strong>[1]</strong> CS, vi, VIII. 27.</div>
 
 ---
 
-## 50. Dialectical terms (1): Debate (vāda)
+## Dialectical terms (1): Debate (vāda)
 
 Philosophy of Charaka-samhita
 
@@ -362,65 +372,84 @@ Concept of syllogistic reasoning:
 
 Carakasaṃhitā is the earliest book which gives a comprehensive knowledge of syllogistic reasoning with all five members systematically arranged. Syllogism consists of
 
-proposition (pratijñā),
-
-reason (hetu),
-
-example (dṛṣṭānta),
-
-application (upanaya),
+proposition (pratijñā),, reason (hetu),, example (dṛṣṭānta),, application (upanaya),
 
 conclusion (nigamana).
 
 The procedure of establishing a thesis in debate by the subsequent four members of the syllogism is called sthāpana. Refutation and establishment of the antithesis by antagonistic members of syllogism is named pratiṣṭāpana.
 
-[1]:
 
-tatra vādo nāma sa yat pareṇa saha śāstrapūrvakaṃ vigṛhya kathayati. sa ca dvividhaḥ sṅgraheṇa—jalpaḥ vitaṇḍā ca. Ibid., 28.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> tatra vādo nāma sa yat pareṇa saha śāstrapūrvakaṃ vigṛhya kathayati. sa ca dvividhaḥ sṅgraheṇa—jalpaḥ vitaṇḍā ca. Ibid., 28.
+</blockquote>
 
-[2]:
 
-Ibid.
 
-[3]:
 
-tisraḥ kathā bhavanti vado jalpo vitaṇḍā ceti. Vātsyāyana on Nyāyasūtra.. I. ii. 1; Nyāya-Bhāṣya of Vātsyāyana. p. 68; Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 239; Ṣaḍdarśanasamucaya of Haribhadra., p. 40.
+<div className="footnote-card"><strong>[2]</strong> Ibid.</div>
 
-[4]:
 
-tathā ca nānāpravaktṛka vicāraviṣayavākyasandṛbdhiḥ katheti sāmānyalalakṣaṇaṃ., Nyāya-Vārttikatātparyaṭīkā of Vācaspati Miśra., p. 313.
 
-[5]:
 
-pramānatarkasādhanopālaṃbhaḥ siddhāntāviruddhaḥ pañcāvayavopapannaḥ pakṣapratipakṣaprigraho vādaḥ. Nyāyasūtra., I. ii. 1.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> tisraḥ kathā bhavanti vado jalpo vitaṇḍā ceti. Vātsyāyana on Nyāyasūtra.. I. ii. 1; Nyāya-Bhāṣya of Vātsyāyana. p. 68; Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 239; Ṣaḍdarśanasamucaya of Haribhadra., p. 40.
+</blockquote>
 
-[6]:
 
-tattvanirṇyabhalaḥ kathāviśeṣo vādaḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 239.
 
-[7]:
 
-yathoktopapannaścchalajātinigrahasthānasādhantopālambho jalpaḥ. Nyāyasūtra., I. ii. 2; ubhayasādhanavati vijigīṣukathā jalpaḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 239.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> tathā ca nānāpravaktṛka vicāraviṣayavākyasandṛbdhiḥ katheti sāmānyalalakṣaṇaṃ., Nyāya-Vārttikatātparyaṭīkā of Vācaspati Miśra., p. 313.
+</blockquote>
 
-[8]:
 
-sa pratipakṣasthāpanāhīno vitaṇḍā, Nyāyasūtra., I. ii. 3; See also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 72.
 
-[9]:
 
-tattvadhyavasāyārthaṃ jalpavitaṇde bījaprarohaṇsaṃrakṣaṇārthaṃ kaṇṭakaśākhāvaraṇavat. Nyāyasūtra., IV. ii. 50.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> pramānatarkasādhanopālaṃbhaḥ siddhāntāviruddhaḥ pañcāvayavopapannaḥ pakṣapratipakṣaprigraho vādaḥ. Nyāyasūtra., I. ii. 1.
+</blockquote>
 
-[10]:
 
-“The former (sandhāyasaṃbhāṣā) also called anulomasaṃbhāṣā, is known as vādakathā”. CHI, Vol. III. p. 563.
 
-[11]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> tattvanirṇyabhalaḥ kathāviśeṣo vādaḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 239.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> yathoktopapannaścchalajātinigrahasthānasādhantopālambho jalpaḥ. Nyāyasūtra., I. ii. 2; ubhayasādhanavati vijigīṣukathā jalpaḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 239.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> sa pratipakṣasthāpanāhīno vitaṇḍā, Nyāyasūtra., I. ii. 3; See also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 72.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> tattvadhyavasāyārthaṃ jalpavitaṇde bījaprarohaṇsaṃrakṣaṇārthaṃ kaṇṭakaśākhāvaraṇavat. Nyāyasūtra., IV. ii. 50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “The former (sandhāyasaṃbhāṣā) also called anulomasaṃbhāṣā, is known as vādakathā”. CHI, Vol. III. p. 563.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid.</div>
 
 ---
-
-
 
 ---
 
@@ -429,10 +458,6 @@ Ibid.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">The Indian art of debate according to the Carakasaṃhitā: Philosophy Of Charaka Samhita Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

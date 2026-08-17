@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The therapeutics of Insanity (unmada-cikitsa) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 96. Chapter 9 - The therapeutics of Insanity (unmada-cikitsa)
+## Chapter 9 - The therapeutics of Insanity (unmada-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -215,7 +215,7 @@ Here is a recapitulatory verse—
 
 ---
 
-## 97. Chapter 8 - The therapeutics of Consumption (raja-yakshma-cikitsa)
+## Chapter 8 - The therapeutics of Consumption (raja-yakshma-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -509,7 +509,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 98. Chapter 10 - The therapeutics of Epilepsy (apasmara-cikitsa)
+## Chapter 10 - The therapeutics of Epilepsy (apasmara-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -643,7 +643,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 99. Chapter 11 - The therapeutics of Pectoral Lesions (kshata-kshina-cikitsa)
+## Chapter 11 - The therapeutics of Pectoral Lesions (kshata-kshina-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -771,7 +771,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 100. Chapter 12 - The therapeutics of Pectoral Edema (shvayathu-cikitsa)
+## Chapter 12 - The therapeutics of Pectoral Edema (shvayathu-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -981,7 +981,7 @@ Here is the recapitulatory verse-
 
 ---
 
-## 101. Chapter 14 - The therapeutics of Abdominal Piles (arshas-cikitsa)
+## Chapter 14 - The therapeutics of Abdominal Piles (arshas-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1415,8 +1415,6 @@ Here are the recapitulatory verses—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1424,10 +1422,6 @@ Here are the recapitulatory verses—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">The therapeutics of Abdominal Disease (udara-cikitsa): Charaka Samhita Complete Translation Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

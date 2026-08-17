@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Research Methodology adopted within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. 8. Research Methodology adopted
+## 8. Research Methodology adopted
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -25,7 +25,7 @@ It is very difficult to follow and formulate a method strictly from modern resea
 
 ---
 
-## 9. Chapter 2 - The purport of Environment
+## Chapter 2 - The purport of Environment
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -35,11 +35,7 @@ Chapter 2 - The purport of Environment
 
 (and the Significance of Environmental Philosophy)
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -48,10 +44,6 @@ Chapter 2 - The purport of Environment
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">7. Representation of the Study: Vrikshayurveda and Environmental Philosophy Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

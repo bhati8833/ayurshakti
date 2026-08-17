@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Rodent venom, rabid animal bites (Alarka Visha), clinical symptoms of hydrophobia, and cauterization therapies. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. Chapter VI - Description of rat-poisoning
+## Chapter VI - Description of rat-poisoning
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -99,37 +99,50 @@ The poison of a (rabid) dog, etc., lies in the teeth and tends to aggravate the 
 
 Thus ends the sixth Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the symptoms and treatments of rat-poison.
 
-[1]:
 
-Different reading.—A bite by a Mushika of the Chucchundara class produces thirst, vomiting, fever, weakness, numbness of the muscles of the neck, swelling, abscess on the back, loss of the sense of smell and Visucikā. A compound of Cavya, Haritaki, Śunthi, Vidanga, Pippali, Śvetaka-seeds and the ashes of (the plants of) Vrihati pounded together and mixed with honey should be prescribed in this case,—Gayadāsa.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Different reading.—A bite by a Mushika of the Chucchundara class produces thirst, vomiting, fever, weakness, numbness of the muscles of the neck, swelling, abscess on the back, loss of the sense of smell and Visucikā. A compound of Cavya, Haritaki, Śunthi, Vidanga, Pippali, Śvetaka-seeds and the ashes of (the plants of) Vrihati pounded together and mixed with honey should be prescribed in this case,—Gayadāsa.
+</blockquote>
 
-[2]:
 
-Some explains “Śvetā Punarnavā” to mean “white Punarnavā.” Gayadāsa reads “Śreshthā” in place of “Śvetā” in which case also the white species of Punarnavā is evidently meant.
 
-[3]:
 
-According to Dallana, the recipe of this Ghrita is as follows:—One Prastha each of clarified butter, curd and milk, two Palas each of Karanja, etc., and sixteen seers of water to be boiled down to four seers, the drugs of the Kalka weighing one seer in all.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Some explains “Śvetā Punarnavā” to mean “white Punarnavā.” Gayadāsa reads “Śreshthā” in place of “Śvetā” in which case also the white species of Punarnavā is evidently meant.
+</blockquote>
 
-[4]:
 
-In place of “sapagandhā samṛttikā” some reads “sarpagandhāhimṛttikā”, While Jejjata reads “sarpagandhāgamṛttikā |”
 
-[5]:
 
-Some explain “Śvetā Punarnavā” to mean “white Punarnavā”, but others explain it to mean “Śvetā (Katabhi) and Punarnavā”.
+<div className="footnote-card"><strong>[3]</strong> According to Dallana, the recipe of this Ghrita is as follows:—One Prastha each of clarified butter, curd and milk, two Palas each of Karanja, etc., and sixteen seers of water to be boiled down to four seers, the drugs of the Kalka weighing one seer in all.</div>
 
-[6]:
 
-Some commentators prescribe the roots of Dhustura to be taken, while others hold that its fruits should be used.
 
-[7]:
 
-Dallana says that in place of “kṣireṇoṣṇena” Gayadāsa reads “gavyenājyena”, that is to say, the diet should be taken with clarified butter. This reading of Gayadāsa seems to be the better one, as the use of clarified butter in such cases is supported by the custom of our country.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> In place of “sapagandhā samṛttikā” some reads “sarpagandhāhimṛttikā”, While Jejjata reads “sarpagandhāgamṛttikā |”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Some explain “Śvetā Punarnavā” to mean “white Punarnavā”, but others explain it to mean “Śvetā (Katabhi) and Punarnavā”.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Some commentators prescribe the roots of Dhustura to be taken, while others hold that its fruits should be used.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Dallana says that in place of “kṣireṇoṣṇena” Gayadāsa reads “gavyenājyena”, that is to say, the diet should be taken with clarified butter. This reading of Gayadāsa seems to be the better one, as the use of clarified butter in such cases is supported by the custom of our country.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -138,10 +151,6 @@ Dallana says that in place of “kṣireṇoṣṇena” Gayadāsa reads “gavy
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sonic-detoxification-therapy-and-master-antidotes-sushruta-samhita-kalpasthana-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Sonic Detoxification Therapy and Master Antidotes: Sushruta Samhita Kalpasthana Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

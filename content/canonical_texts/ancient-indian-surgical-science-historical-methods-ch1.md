@@ -24,7 +24,7 @@ description: "Samhita details the practice of surgery known to ancient Indian tr
 
 ---
 
-## 2. 3. Origin of Ayurveda
+## 3. Origin of Ayurveda
 
 Surgery in ancient India (Study)
 
@@ -48,7 +48,7 @@ are not indicative of any beginning of the science. The phenomenon of increase b
 
 ---
 
-## 4. Chapter 1 - Ayurveda and Sanskrit literature
+## Chapter 1 - Ayurveda and Sanskrit literature
 
 Surgery in ancient India (Study)
 
@@ -56,11 +56,7 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 
 Chapter 1 - Ayurveda and Sanskrit literature
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -69,10 +65,6 @@ Chapter 1 - Ayurveda and Sanskrit literature
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">4. Veterinary science in Ayurveda: Ancient Indian Surgical Science Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

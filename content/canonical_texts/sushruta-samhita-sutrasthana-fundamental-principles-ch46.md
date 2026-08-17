@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Recipes of purgative drugs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 52. Chapter XLIV - Recipes of purgative drugs
+## Chapter XLIV - Recipes of purgative drugs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -124,37 +124,40 @@ A compound consisting of three Shana weights (one tola and a half) of powdered T
 
 Thus ends the forty-fourth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of the choice of purgatives.
 
-[1]:
 
-The quantity of old treacle should be equal to the aggregate weight of the other drugs in the compound under similar circumstances.
+<div className="footnote-card"><strong>[1]</strong> The quantity of old treacle should be equal to the aggregate weight of the other drugs in the compound under similar circumstances.</div>
 
-[2]:
 
-The weight of honey and pulverised Trivrit should be equal to a fourth part of the entire quantity of medicine taken at a time.
 
-[3]:
 
-Several authorities exclude the plant known as Sudha (Manasa), while others stick to Trivrita alone in exclusion of all other drugs.
+<div className="footnote-card"><strong>[2]</strong> The weight of honey and pulverised Trivrit should be equal to a fourth part of the entire quantity of medicine taken at a time.</div>
 
-[4]:
 
-A new earthen pitcher is first washed with water and dried in the shade. Then its inside is coated with a plaster of honey and powdered Pippali and is fumigated with the fumes of Aguru (Eagle wood).
 
-[5]:
 
-For imparting to it the necessary Enzyme,
+<div className="footnote-card"><strong>[3]</strong> Several authorities exclude the plant known as Sudha (Manasa), while others stick to Trivrita alone in exclusion of all other drugs.</div>
 
-[6]:
 
-The term little (Ishat) in the present instance stands for a quarter part.
 
-[7]:
 
-The mode of preparing the porridge is as follows:—First the wheat should be saturated with the milky juice of a Maha-Vriksha and then macerated. The powder should be then cooked with milk and treacle and made into a thick porridge.
+<div className="footnote-card"><strong>[4]</strong> A new earthen pitcher is first washed with water and dried in the shade. Then its inside is coated with a plaster of honey and powdered Pippali and is fumigated with the fumes of Aguru (Eagle wood).</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> For imparting to it the necessary Enzyme,</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> The term little (Ishat) in the present instance stands for a quarter part.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> The mode of preparing the porridge is as follows:—First the wheat should be saturated with the milky juice of a Maha-Vriksha and then macerated. The powder should be then cooked with milk and treacle and made into a thick porridge.</div>
 
 ---
-
-
 
 ---
 
@@ -163,10 +166,6 @@ The mode of preparing the porridge is as follows:—First the wheat should be sa
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch47" className="text-emerald-400 hover:underline flex items-center font-medium">Knowledge of liquid substances: Sushruta Samhita Sutrasthana Chapter 47 →</a>
 </div>
-
-
-
-
 
 ---
 

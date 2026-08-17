@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Curses borne within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 52. Curses borne by Elephants
+## Curses borne by Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -60,33 +60,37 @@ Then the sage, realizing that she was innocent, straightway said to her:
 
 Giving her son with joy to the sage, she left the form of an elephant cow and quickly went to heaven, freed from her curse, in peace. Pleased that hermit Sāmagāyana then performed the birth rite and other rites for him, and in accordance with (the instructions of) a heavenly voice gave him the name of Pālakāpya[6]. He lived and moved with elephants. They were his friends, relatives and companions. Here one can clearly notice an attempt to claim divine origin for the elephants.
 
-[1]:
 
-Ibid., p.52.
+<div className="footnote-card"><strong>[1]</strong> Ibid., p.52.</div>
 
-[2]:
 
-Ibid., p.53.
 
-[3]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, p. 53.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p.53.</div>
 
-[4]:
 
-Ibid., pp. 44-45.
 
-[5]:
 
-Ibid., v.15-20, pp.45-47.
+<div className="footnote-card"><strong>[3]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, p. 53.</div>
 
-[6]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, pp. 47-46.
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., pp. 44-45.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., v.15-20, pp.45-47.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, pp. 47-46.</div>
 
 ---
 
-## 53. Gaja-piṭha or Gaja-pṛṣṭha (elephant-platform)
+## Gaja-piṭha or Gaja-pṛṣṭha (elephant-platform)
 
 Matangalila and Hastyayurveda (study)
 
@@ -118,45 +122,54 @@ Two different interpretations are presented in two early Cālukya temples in the
 
 [14b. Close up of Gajathara image. Courtesy: Susmita Basu Majumdar]
 
-[1]:
 
-Saptapadārthī, Calcutta Sanskrit series No.VIII, 1934, p.32.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Saptapadārthī, Calcutta Sanskrit series No.VIII, 1934, p.32.
+</blockquote>
 
-[2]:
 
-Bechan Dube. Geographical Concepts in Ancient India, Varanasi: National Geographical Society in India, 1967, pp.33-34, n2.
 
-[3]:
 
-John Dowson. A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature, p.180.
+<div className="footnote-card"><strong>[2]</strong> Bechan Dube. Geographical Concepts in Ancient India, Varanasi: National Geographical Society in India, 1967, pp.33-34, n2.</div>
 
-[4]:
 
-EI, Vol. IV, pp. 32-54.
 
-[5]:
 
-Ibid., Vol. III, pp.32-33.
+<div className="footnote-card"><strong>[3]</strong> John Dowson. A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature, p.180.</div>
 
-[6]:
 
-Ibid., Vol. XII, v.19,22, p.216.
 
-[7]:
 
-Ibid., Vol. VI, pp. 243, 247-248.
+<div className="footnote-card"><strong>[4]</strong> EI, Vol. IV, pp. 32-54.</div>
 
-[8]:
 
-V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.23.
 
-[9]:
 
-V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, pp.23-25.
+<div className="footnote-card"><strong>[5]</strong> Ibid., Vol. III, pp.32-33.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., Vol. XII, v.19,22, p.216.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., Vol. VI, pp. 243, 247-248.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.23.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, pp.23-25.</div>
 
 ---
 
-## 54. Gaja-Lakṣmī motif
+## Gaja-Lakṣmī motif
 
 Matangalila and Hastyayurveda (study)
 
@@ -170,13 +183,10 @@ Image given below is from an early medieval Śiva temple in Malhar, Chhattisgarh
 
 [16. Gaja-Lakṣmī image from an early medieval Śiva temple, Malhar. Courtesy: Susmita Basu Majumdar]
 
-[1]:
 
-Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.315-316.
+<div className="footnote-card"><strong>[1]</strong> Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.315-316.</div>
 
 ---
-
-
 
 ---
 
@@ -185,10 +195,6 @@ Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.315-316.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Elephants in Jain Mythology: Matangalila And Hastyayurveda Study Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

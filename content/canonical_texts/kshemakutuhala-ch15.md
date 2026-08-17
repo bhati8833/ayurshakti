@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on References and Notes for chapter 3 within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. References and Notes for chapter 3
+## References and Notes for chapter 3
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -31,7 +31,7 @@ kalpana'a 139 58. Manu Smrti 2 - 15: 59. Ibid, 1 93, 95, 98, 101, 4 169. 60. Pan
 
 ---
 
-## 49. Ayurvedic principles of Good conduct
+## Ayurvedic principles of Good conduct
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -55,7 +55,7 @@ the universal utility of the Ayurvedic prescriptions for preservation of good he
 
 ---
 
-## 51. Cooking rules and usage of Meat in Ayurveda
+## Cooking rules and usage of Meat in Ayurveda
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -111,8 +111,6 @@ VARTIRA (bustard ) : It The meat of the bustard promotes the power of digestion.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -120,10 +118,6 @@ VARTIRA (bustard ) : It The meat of the bustard promotes the power of digestion.
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Cooking rules and usage of Vegetables in Ayurveda: Kshemakutuhala Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

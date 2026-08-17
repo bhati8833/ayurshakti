@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Classification according to Tamil Varma Shastra within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. Classification according to Tamil Varma Shastra
+## Classification according to Tamil Varma Shastra
 
 Marma-sastra and Ayurveda (study)
 
@@ -35,7 +35,7 @@ upper extremities there are 11 varmams and 24 in the lower extremities.
 
 ---
 
-## 22. Structure of Marma
+## Structure of Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -49,7 +49,7 @@ spokes/ petals starting from the centre and reaching the periphery. The grievous
 
 ---
 
-## 23. Classification of Thodu Varmam
+## Classification of Thodu Varmam
 
 Marma-sastra and Ayurveda (study)
 
@@ -67,8 +67,6 @@ Chest Table No. XII-c 1. Thrisankhupuspam 1 2. Thilakuzhi I 3. Raktamthuppi 4 4.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -76,10 +74,6 @@ Chest Table No. XII-c 1. Thrisankhupuspam 1 2. Thilakuzhi I 3. Raktamthuppi 4 4.
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Padu Varmam (vital life centres): Marma Sastra and Ayurvedic Science Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

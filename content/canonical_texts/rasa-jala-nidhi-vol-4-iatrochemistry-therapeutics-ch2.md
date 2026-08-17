@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Actions prohibited just at sunrise and sunset within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Part 15 - Actions prohibited just at sunrise and sunset
+## Part 15 - Actions prohibited just at sunrise and sunset
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Actions prohibited just at sunrise and sunset’ included in B
 
 ---
 
-## 17. Part 16 - Directions for sleeping
+## Part 16 - Directions for sleeping
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -49,7 +49,7 @@ This concludes ‘Directions for sleeping’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-## 18. Part 19 - Directions for preparing a medicine with ingredients more than one
+## Part 19 - Directions for preparing a medicine with ingredients more than one
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -61,9 +61,10 @@ Part 19 - Directions for preparing a medicine with ingredients more than one
 
 If a particular recipe contains mercury and not sulphur, the term “mercury” in that recipe is to be taken to mean incinerated mercury; but if there is a mention, in a particular recipe, of both mercury and sulphur, the term mercury is to mean there only purified mercury. Gems, minor gems, conch-shell, nabhisankha, mica, and copper-sulphate should always be used in incinerated forms. In other words, they are never to be used in medicines without having been previously reduced to ashes. Take incinerated haritala (orpiment) where it is so expressly mentioned, otherwise use orpiment, duly purified. Sulphur, realgar, and all the other remaining upa-rasas should be used after purification, and so also should poisons and minor poisons be. In case of kuchila (nux-vomica), it is to be purified and reduced to ashes by being fried with clarified butter. Guggulu should be used purified. Asafaetida (hingu) is to be always used after having been purified by being fried with clarified butter. The seven metals should always be used after having been duly reduced to ashes.[1]
 
-[1]:
 
-The processes of purification and incinreation referred to here have been described in details in the first three volumes.
+<div className="footnote-card"><strong>[1]</strong> The processes of purification and incinreation referred to here have been described in details in the first three volumes.</div>
+
+
 
 Conclusion:
 
@@ -71,7 +72,7 @@ This concludes ‘Directions for preparing a medicine with ingredients more than
 
 ---
 
-## 19. Part 20 - Special directions for taking medicines mixed with bile (pitta)
+## Part 20 - Special directions for taking medicines mixed with bile (pitta)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -89,7 +90,7 @@ This concludes ‘Special directions for taking medicines mixed with bile (pitta
 
 ---
 
-## 20. Part 18 - Dosage of medicine
+## Part 18 - Dosage of medicine
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -107,7 +108,7 @@ This concludes ‘Dosage of medicine’ included in Bhudeb Mookerjee Rasa Jala N
 
 ---
 
-## 21. Chapter I - General health prescriptions
+## Chapter I - General health prescriptions
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -117,8 +118,6 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter I - General health prescriptions
 
-- Sub-Contents: (+ / -)
-
 General directions to be followed at the time of taking of drugs, prepared from rasa or mercury (mixed or unmixed with other materials).
 
 Conclusion:
@@ -127,7 +126,7 @@ This concludes ‘General health prescriptions’ included in Bhudeb Mookerjee R
 
 ---
 
-## 22. Part 21 - Time for taking medicine
+## Part 21 - Time for taking medicine
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -145,7 +144,7 @@ This concludes ‘Time for taking medicine’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 23. Part 22 - Persons unfit to take medicines
+## Part 22 - Persons unfit to take medicines
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -163,7 +162,7 @@ This concludes ‘Persons unfit to take medicines’ included in Bhudeb Mookerje
 
 ---
 
-## 24. Part 17 - Advantages of iatro-medical treatment
+## Part 17 - Advantages of iatro-medical treatment
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -187,7 +186,7 @@ This concludes ‘Advantages of iatro-medical treatment’ included in Bhudeb Mo
 
 ---
 
-## 25. Part 23 - Bad effects of medicine, not assimilated
+## Part 23 - Bad effects of medicine, not assimilated
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -205,7 +204,7 @@ This concludes ‘Bad effects of medicine, not assimilated’ included in Bhudeb
 
 ---
 
-## 26. Part 24 - Prohibitions for taking poisonous medicine
+## Part 24 - Prohibitions for taking poisonous medicine
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -223,7 +222,7 @@ This concludes ‘Prohibitions for taking poisonous medicine’ included in Bhud
 
 ---
 
-## 27. Part 1 - Characteristics and symptoms of fever (jvara)
+## Part 1 - Characteristics and symptoms of fever (jvara)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -247,7 +246,7 @@ This concludes ‘Characteristics and symptoms of fever (jvara)’ included in B
 
 ---
 
-## 28. Part 2 - Nava-jvara (primary fever)
+## Part 2 - Nava-jvara (primary fever)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -279,7 +278,7 @@ This concludes ‘Nava-jvara (primary fever)’ included in Bhudeb Mookerjee Ras
 
 ---
 
-## 29. Part 3 - Visama-jvara (chronic fever)
+## Part 3 - Visama-jvara (chronic fever)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -297,9 +296,10 @@ Santata is a visama-jvara which lasts for seven, ten, or twelve days, at a stret
 
 The distinctive features of these three fevers are:—(1) pain in the trika or junction of the spine and the waist; (2) pain in the back, and (3) pain in the head, respectively. Chaturthaka fever is also of two kinds viz. that due to an excess of kapha (phlegm), and that due to an excess of vayu (wind). The first is characterised by pain in the thighs which gradually spreads all over the body, and the second is characterised by pain in the head which gradually spreads all over the body. There is another kind of chronic fever called chaturthaka biparyaya (i.e. chaturthaka in a reverse order). The patient suffering from this fever is free from it every first and fourth days, but is attacked with it every second and third days.
 
-[1]:
 
-Dhatus are the seven constituents of the body, viz. rasa (chyle), rakta (blood), shukra (semen), asthi (bone), majja (marrow), meda (fat), and mamsa (flesh).
+<div className="footnote-card"><strong>[1]</strong> Dhatus are the seven constituents of the body, viz. rasa (chyle), rakta (blood), shukra (semen), asthi (bone), majja (marrow), meda (fat), and mamsa (flesh).</div>
+
+
 
 Conclusion:
 
@@ -307,7 +307,7 @@ This concludes ‘Visama-jvara (chronic fever)’ included in Bhudeb Mookerjee R
 
 ---
 
-## 30. Part 5 - Fever due to the three doshas (vayu, pitta, kapha)
+## Part 5 - Fever due to the three doshas (vayu, pitta, kapha)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -343,8 +343,6 @@ This concludes ‘Fever due to the three doshas (vayu, pitta, kapha)’ included
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -352,10 +350,6 @@ This concludes ‘Fever due to the three doshas (vayu, pitta, kapha)’ included
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Directions to be followed in nava-jvara: Rasa Jala Nidhi Volume 4 Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

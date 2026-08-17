@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Characteristics of Kampilla within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 96. Part 1 - Characteristics of Kampilla
+## Part 1 - Characteristics of Kampilla
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -29,7 +29,7 @@ This concludes ‘Characteristics of Kampilla’ included in Bhudeb Mookerjee Ra
 
 ---
 
-## 97. Chapter XVII - Uparasa (18): Gauripashana (arsenic stone)
+## Chapter XVII - Uparasa (18): Gauripashana (arsenic stone)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -39,15 +39,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XVII - Uparasa (18): Gauripashana (arsenic stone)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (18): Gauripashana (arsenic stone)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 98. Part 2 - Purification of sadharana uparasas (i.e. from kampilla to bhunaga)
+## Part 2 - Purification of sadharana uparasas (i.e. from kampilla to bhunaga)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -69,7 +67,7 @@ This concludes ‘Purification of sadharana uparasas (i.e. from kampilla to bhun
 
 ---
 
-## 99. Part 1 - Characteristics of Gauripashana (arsenic stone)
+## Part 1 - Characteristics of Gauripashana (arsenic stone)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -87,7 +85,7 @@ This concludes ‘Characteristics of Gauripashana (arsenic stone)’ included in
 
 ---
 
-## 100. Part 2 - Purification of arsenic stone
+## Part 2 - Purification of arsenic stone
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -111,8 +109,6 @@ This concludes ‘Purification of arsenic stone’ included in Bhudeb Mookerjee 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -120,10 +116,6 @@ This concludes ‘Purification of arsenic stone’ included in Bhudeb Mookerjee 
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Uparasa (19): Navasara (sal ammoniac): Rasa Jala Nidhi Volume 2 Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

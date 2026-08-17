@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Case of “Ban Cha Zhuo Shui” or Visodaka within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 45. 7. Case of “Ban Cha Zhuo Shui” or Visodaka
+## 7. Case of “Ban Cha Zhuo Shui” or Visodaka
 
 Alchemy in India and China
 
@@ -69,8 +69,6 @@ Equal weights of poisonous water, sulphur and orpiment (Haribija), mixed well wi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ Equal weights of poisonous water, sulphur and orpiment (Haribija), mixed well wi
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch38" className="text-emerald-400 hover:underline flex items-center font-medium">5. Case of Nao Sha, Navasara or Sal-ammoniac: Alchemy In India And China Chapter 38 →</a>
 </div>
-
-
-
-
 
 ---
 

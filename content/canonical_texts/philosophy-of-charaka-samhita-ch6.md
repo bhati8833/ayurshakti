@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Fundamental Theories within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. Chapter 3 - Fundamental Theories
+## Chapter 3 - Fundamental Theories
 
 Philosophy of Charaka-samhita
 
@@ -19,11 +19,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 3 - Fundamental Theories
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 24. Fundamental Theories [in Charaka philosophy]
+## Fundamental Theories [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -35,25 +33,33 @@ Cosmology, the theory of five physical elements (pañcabhūtasiddhānta), and th
 
 A real understanding of man and the world presupposes the knowledge of the world constituents. Without ascertaining their real nature, their role in world construction, and also the recurrent events of origin and destruction, it is not possible to arrive at a true or at least satisfactory conclusion regarding their role in human existence. This is most essential in Āyurveda because the coceptualisation and practice of therapeutics solely depend on the theoretical concepts of world constitution. Āyurveda is scientifically established on the foundation of the theory of five physical elements,[2] the edifice being the theory of three faults. Āyurveda explains the physiological and psychological aspects of human existence and formulates the theories for the protection and promotion of health on their basis. It is with this view that Caraka describes how the world is constructed and by what being it is peopled. The pañcabhūta theory essentially explains the structure of things, on which the particular qualities and properties are based.[3] Āyurveda tries to understand the pharmacology, pathology, human physiology, medicine and therapeutics on the basis of the pañcabhūta doctrine.[4] The theory of the three faults (tridoṣasiddhānta) is a biological interpretation of the pañcabhūtasiddhānta. So, it is essential to have a thorough knowledge of the fundamental theories of cosmology, the five physical elements (pañcabhūtas), and the three faults (tridoṣa). Time and space, the two substances, also share importance in therapeutucs. So they are also discussed in this chapter.
 
-[1]:
 
-The word “fault” is found used by Dr.K. Raghavan Thirumulpad for the term doṣa. See Technical Literature in Sanskrit, ed., S. Venkatasubramonia Iyer, p. 70. However, the word is not enough to convey the real sense of doṣa as used in Āyurveda.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The word “fault” is found used by Dr.K. Raghavan Thirumulpad for the term doṣa. See Technical Literature in Sanskrit, ed., S. Venkatasubramonia Iyer, p. 70. However, the word is not enough to convey the real sense of doṣa as used in Āyurveda.
+</blockquote>
 
-[2]:
 
-“sarvaṃ dravyaṃ pañcabhautikaṃ”, CS, Su, XXVI. 10; bhutebhyo hi paraṃ yasmānnasthi cintā cikitsite, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 13; “pāñcabhautikaṃ tattu”, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, IX. 1.
 
-[3]:
 
-Raghavan Thirumulpad, “Baic Principles of Āyurveda”, SHI, p.13.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “sarvaṃ dravyaṃ pañcabhautikaṃ”, CS, Su, XXVI. 10; bhutebhyo hi paraṃ yasmānnasthi cintā cikitsite, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 13; “pāñcabhautikaṃ tattu”, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, IX. 1.
+</blockquote>
 
-[4]:
 
-see editors note, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., p. 1.
+
+
+<div className="footnote-card"><strong>[3]</strong> Raghavan Thirumulpad, “Baic Principles of Āyurveda”, SHI, p.13.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> see editors note, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., p. 1.
+</blockquote>
 
 ---
 
-## 25. Cosmology [in Charaka philosophy]
+## Cosmology [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -115,169 +121,277 @@ The differences can be summed up as follows.
 
 It may be useful to offer the charts of both the classical Sāṃkhya and Carakasaṃhitā which would give an apparent view of the materials presented to make a comparison.
 
-[1]:
 
-“........Caraka reveals the fact that he was highly influenced by the Vaiśeṣikas and the Sāṃkhyas. The first conception of the individual proceeds from the stand point of Vaiśeṣika and the last from that of Sāṃkhya. But the difficulty is not still removed”. ODST, p. 100.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> “........Caraka reveals the fact that he was highly influenced by the Vaiśeṣikas and the Sāṃkhyas. The first conception of the individual proceeds from the stand point of Vaiśeṣika and the last from that of Sāṃkhya. But the difficulty is not still removed”. ODST, p. 100.
+</blockquote>
 
-[2]:
 
-See the definition of substance given by Kaṇāda. See supra, p. 91 pṛthvyādīnāṃ navānāmapi....... svātmanyāraṃbhakatvaṃ....., Praśastapādabhāṣya., p. 54; samavāyikāraṇaṃ dravyasyaiva vijñeyaṃ, NSMK, kārikā 23, p. 91.
 
-[3]:
 
-“nitydravyāṇi paramāṇvākāśadīni....”, NSMK p. 93; pṛthivyādicatuṣṭayasya paramāṇavaḥ ākāśādipañcakaṃ ca nityadravyāṇi, Dīpikā, TSA, p. 6.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> See the definition of substance given by Kaṇāda. See supra, p. 91 pṛthvyādīnāṃ navānāmapi....... svātmanyāraṃbhakatvaṃ....., Praśastapādabhāṣya., p. 54; samavāyikāraṇaṃ dravyasyaiva vijñeyaṃ, NSMK, kārikā 23, p. 91.
+</blockquote>
 
-[4]:
 
-anāśritatvanityatve ca anyatra avayavidravyebhyaḥ, Praśastapādabhāṣya., p. 56.
 
-[5]:
 
-For details see Praśastapādabhāṣya., pp.127-129; Dīpikā, TSA, p. 9.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “nitydravyāṇi paramāṇvākāśadīni....”, NSMK p. 93; pṛthivyādicatuṣṭayasya paramāṇavaḥ ākāśādipañcakaṃ ca nityadravyāṇi, Dīpikā, TSA, p. 6.
+</blockquote>
 
-[6]:
 
-taccaikaṃ vibhu nityaṃ ca, TSA, p. 11.
 
-[7]:
 
-The asatkāryavadins view that the effect is not pre-xistent in the cause. On the contrary It is a new creation.Vaiśeṣikadarśana., I. i. 10, see Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 46- 47; NSMK pp.114-117; KHP, pp. 111-114.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> anāśritatvanityatve ca anyatra avayavidravyebhyaḥ, Praśastapādabhāṣya., p. 56.
+</blockquote>
 
-[8]:
 
-The earliest classical text on Sāṃkhya philosophy is Sāṃkhyakarikā of Īśvarakṛṣṇa. “The Classical form has found its final formulation in the Sāṃkhyakārikā, and has never been surpassed and it has remained authoritative for the entire future”. EFW, Vol. I, p. 274;FIC, Vol. I, p. 84.
 
-[9]:
 
-Sāṃkhyakārikā, 3., vide supra, p. 87.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> For details see Praśastapādabhāṣya., pp.127-129; Dīpikā, TSA, p. 9.
+</blockquote>
 
-[10]:
 
-Sāṃkhyakārikā, 19.
 
-[11]:
 
-Sāṃkhyakārikā, 11.
+<div className="footnote-card"><strong>[6]</strong> taccaikaṃ vibhu nityaṃ ca, TSA, p. 11.</div>
 
-[12]:
 
-Sir M. Monier- Williams, Indian Wisdom, George Allen, London, 1875, p. 62;NTIT, p.193.
 
-[13]:
 
-sattvaṃ laghu prakāśakamiṣtamupaṣtaṃbhakaṃ calañca rajaḥ guru varaṇakameva tamaḥ pradīpāccārthato vṛttiḥ, Sāṃkhyakārikā, 13. “It is an undifferentiated manifold, an indeterminate continuum of infinitesimal Reals. These Reals, termed Guṇās, may by another abstraction be classed under three heads (1) Sattva....., (2) Rajas..... and (3)Tamas......,” PSAH, p. 3.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The asatkāryavadins view that the effect is not pre-xistent in the cause. On the contrary It is a new creation.Vaiśeṣikadarśana., I. i. 10, see Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 46- 47; NSMK pp.114-117; KHP, pp. 111-114.
+</blockquote>
 
-[14]:
 
-The term evolution used here must not be confused with the evolution meant when one speaks of Darwinian or some other forms of biological evolution for the following reasons. “(1) prakṛti does not evolve like the forms of life that biological evolution speaks about, since it is unlike anything dicussed in the biological theory (e.g, the amoeba etc.); (2) prakṛti can scarcely struggle and evolve in any environment, since it itself is the environment; (3) in comparing the evolutes of the Sāṃkhya with those in the biological theory, there appears to be no greater coherence in the later evolutes of Sāṃkhyas whereas there does appear to be in the Darwanian scheme”. T. M. P. Mahadevan, Sāṃkhya Philosophy, unpublished lectures delivered at the Graduate school of Madras University, October, 1951, cited in NTIT, p. 198.
 
-[15]:
 
-Satkāryavāda of the Sāṃkhya's is just the opposite of Vaiśeṣika's asatkāryavāda. The ninth kārikā of Īswarakṛṣṇa constitute a locus classicus for arguments defending satkāryavāda. The kārikā is translated by Karl H. Potter in the following way. “The effect exists [in the cause] because (1) there is no causing of what is non-existent in the cause, (2) because [when one wants a particular effect] there is grasping of [its] material cause, (3) because everything is not possible, (4) because something which has capacity causes that only of which it is capable, (5) because the cause [of the particular kind] exists.” KHP, p. 107.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> The earliest classical text on Sāṃkhya philosophy is Sāṃkhyakarikā of Īśvarakṛṣṇa. “The Classical form has found its final formulation in the Sāṃkhyakārikā, and has never been surpassed and it has remained authoritative for the entire future”. EFW, Vol. I, p. 274;FIC, Vol. I, p. 84.
+</blockquote>
 
-[16]:
 
-Sāṃkhyakārikā, 21; The relation of puruṣa and prakṛti is an appearance, but not either of the two.
 
-[17]:
 
-See infra, p. 125.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Sāṃkhyakārikā, 3., vide supra, p. 87.
+</blockquote>
 
-[18]:
 
-Sāṃkhyakārikā, 23.
 
-[19]:
 
-The five cognitive sense capacities are sense of seeing (cakṣuḥ), hearing (śrotraṃ), smell (ghrāṇaṃ), taste (rasana), and touch (tvak).
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Sāṃkhyakārikā, 19.
+</blockquote>
 
-[20]:
 
-The five action capacities are those of speaking (vāk), handling (pāṇi), walking (pāda), excreting (pāyu), and procreation (upastha).
 
-[21]:
 
-The five subtle elements are named sound (śabda), touch (sparśa), colour (rūpa), taste (rasa), and smell (gandha). Even though they are names usually used to designate the specific qualities, they refer to the essence of the mahābhūtas in the evolutionary series.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Sāṃkhyakārikā, 11.
+</blockquote>
 
-[22]:
 
-Sāṃkhyakārikā, 25; see also Vācaspati Miśra on ibid., Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 187.
 
-[23]:
 
-In classical Sāṃkhya, buddhi is conceived as a purely material evolute of prakṛti. Its reflective capacity is prodominance of sattba. On the contrary Caraka regards budhi as an evolute of avyakta. Moreover the reflective capaciyt of budhi in Caraka is not because of the presence of sattva but because of the illumination of the conciousness. So budhi described in Caraka is tanslated as empirical consciousness while the usual translation intellect is used for buddhi in classical Sāṃkhya is translated as empirieal consciousness wide buddhi described in classical Sāṃkhya is translated.
+<div className="footnote-card"><strong>[12]</strong> Sir M. Monier- Williams, Indian Wisdom, George Allen, London, 1875, p. 62;NTIT, p.193.</div>
 
-[24]:
 
-"khādīni buddhiravyaktamahaṃkārastathā'ṣṭamaḥ bhūtaprakṛtiruddiṣṭā vikāraścaiva ṣoḍaśa. CS, Śārīra - sthāna, I. 63.
 
-[25]:
 
-buddhīndriyāṇi pañcaiva pañcakarmendriyāṇi ca samanaskāśca pañcārthā vikāra iti saṃjñitāḥ. Ibid., 64. Suśruta also accepts this twofold classification. But he calls the first group by the term āṣtaprakṛtis and includes sutle elements (tanmātras) instead of the five physical elements (bhūtas). The scond group is identical with that of Caraka. Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 6.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> sattvaṃ laghu prakāśakamiṣtamupaṣtaṃbhakaṃ calañca rajaḥ guru varaṇakameva tamaḥ pradīpāccārthato vṛttiḥ, Sāṃkhyakārikā, 13. “It is an undifferentiated manifold, an indeterminate continuum of infinitesimal Reals. These Reals, termed Guṇās, may by another abstraction be classed under three heads (1) Sattva....., (2) Rajas..... and (3)Tamas......,” PSAH, p. 3.
+</blockquote>
 
-[26]:
 
-In Manusmṛti avyakta is described as the universal “Self” which is beyond thought and sense perception and is construed as the source from which the universe evolves. See Manusmṛti., I. 7, p. 6.
 
-[27]:
 
-“.......iti kśetraṃ samuddiṣṭam sarvamavktavarjitaṃ. avyaktamasya kṣetrasya kṣetrajñaṃṛṣayo viduḥ.”, CS, Śārīra - sthāna, I. 65.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> The term evolution used here must not be confused with the evolution meant when one speaks of Darwinian or some other forms of biological evolution for the following reasons. “(1) prakṛti does not evolve like the forms of life that biological evolution speaks about, since it is unlike anything dicussed in the biological theory (e.g, the amoeba etc.); (2) prakṛti can scarcely struggle and evolve in any environment, since it itself is the environment; (3) in comparing the evolutes of the Sāṃkhya with those in the biological theory, there appears to be no greater coherence in the later evolutes of Sāṃkhyas whereas there does appear to be in the Darwanian scheme”. T. M. P. Mahadevan, Sāṃkhya Philosophy, unpublished lectures delivered at the Graduate school of Madras University, October, 1951, cited in NTIT, p. 198.
+</blockquote>
 
-[28]:
 
-The complexity is due to the presence of the adjuncts namely, rajas and tamas in the unmanifest. There is no reference of sattva in relation with cosmology. rajastamobhyāmāviṣta-ścakravatparivartate. Ibid., 68. Dasgupta says that avyakta and cetana are one and the same entity. HIPS, Vol. I, p. 214.
 
-[29]:
 
-vide infra, pp. 178 - 79.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Satkāryavāda of the Sāṃkhya's is just the opposite of Vaiśeṣika's asatkāryavāda. The ninth kārikā of Īswarakṛṣṇa constitute a locus classicus for arguments defending satkāryavāda. The kārikā is translated by Karl H. Potter in the following way. “The effect exists [in the cause] because (1) there is no causing of what is non-existent in the cause, (2) because [when one wants a particular effect] there is grasping of [its] material cause, (3) because everything is not possible, (4) because something which has capacity causes that only of which it is capable, (5) because the cause [of the particular kind] exists.” KHP, p. 107.
+</blockquote>
 
-[30]:
 
-jāyate buddhiravyaktādbuddhyā'hamiti manyate paraṃ khādīnyahaṃkārādutpadyante yathākramaṃ tataḥ saṃpūrṇasarvāṅgo jāto'bhyudita ucyate.', CS, Śārīra - sthāna, I. 66.
 
-[31]:
 
-Ibid., the vertical order is implied by the word “yathākramaṃ” in the articulation.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Sāṃkhyakārikā, 21; The relation of puruṣa and prakṛti is an appearance, but not either of the two.
+</blockquote>
 
-[32]:
 
-“....... tasmāt va etasmādātmanaḥ ākāśaḥ saṃbhūtaḥ. akāśadvāyuḥ. vāyoragniḥ. agnerāpaḥ. adbhyaḥ pṛthivī pṛthivyā oṣadhayaḥ......”, Ta. u., Brahmavalli, ii, 1.
 
-[33]:
 
-Manusmṛti., I. 75-78, pp. 24-25
+<div className="footnote-card"><strong>[17]</strong> See infra, p. 125.</div>
 
-[34]:
 
-teṣāmekaguṇaḥ pūrvo guṇavṛddhiḥ pare pare purvaṃ pūrvaguṇaścaiva kramaśo guṇiṣu smṛtaḥ, CS, Śārīra - sthāna, I.28.
 
-[35]:
 
-Aṣṭāṅgahṛdaya of Vāgbhaṭa., Śārīra - sthāna, III. 2.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Sāṃkhyakārikā, 23.
+</blockquote>
 
-[36]:
 
-Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Śārīra - sthāna, III, 5.
 
-[37]:
 
-Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., pp. 157-58;VSS, p. 60.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> The five cognitive sense capacities are sense of seeing (cakṣuḥ), hearing (śrotraṃ), smell (ghrāṇaṃ), taste (rasana), and touch (tvak).
+</blockquote>
 
-[38]:
 
-avyaktād vyaktatāṃ yāti vyaktādavyaktatām punaḥ, CS, Śārīra - sthāna, I, 67.
 
-[39]:
 
-Ibid., 69.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> The five action capacities are those of speaking (vāk), handling (pāṇi), walking (pāda), excreting (pāyu), and procreation (upastha).
+</blockquote>
 
-[40]:
 
-Caraka has used the word “paramāṇu”. But it is not in the sense of ultimate particular as we see in the Vaiśeṣika. For instance while discussing the organs of the body he says that the smallest unit of the body is paramāṇu which cannot be counted. They are extremely numerous and subtle, Ca, Sa,VII. 17. This is actually the smallest unit of the gross physical element.
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> The five subtle elements are named sound (śabda), touch (sparśa), colour (rūpa), taste (rasa), and smell (gandha). Even though they are names usually used to designate the specific qualities, they refer to the essence of the mahābhūtas in the evolutionary series.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Sāṃkhyakārikā, 25; see also Vācaspati Miśra on ibid., Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 187.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> In classical Sāṃkhya, buddhi is conceived as a purely material evolute of prakṛti. Its reflective capacity is prodominance of sattba. On the contrary Caraka regards budhi as an evolute of avyakta. Moreover the reflective capaciyt of budhi in Caraka is not because of the presence of sattva but because of the illumination of the conciousness. So budhi described in Caraka is tanslated as empirical consciousness while the usual translation intellect is used for buddhi in classical Sāṃkhya is translated as empirieal consciousness wide buddhi described in classical Sāṃkhya is translated.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> "khādīni buddhiravyaktamahaṃkārastathā'ṣṭamaḥ bhūtaprakṛtiruddiṣṭā vikāraścaiva ṣoḍaśa. CS, Śārīra - sthāna, I. 63.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> buddhīndriyāṇi pañcaiva pañcakarmendriyāṇi ca samanaskāśca pañcārthā vikāra iti saṃjñitāḥ. Ibid., 64. Suśruta also accepts this twofold classification. But he calls the first group by the term āṣtaprakṛtis and includes sutle elements (tanmātras) instead of the five physical elements (bhūtas). The scond group is identical with that of Caraka. Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> In Manusmṛti avyakta is described as the universal “Self” which is beyond thought and sense perception and is construed as the source from which the universe evolves. See Manusmṛti., I. 7, p. 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> “.......iti kśetraṃ samuddiṣṭam sarvamavktavarjitaṃ. avyaktamasya kṣetrasya kṣetrajñaṃṛṣayo viduḥ.”, CS, Śārīra - sthāna, I. 65.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> The complexity is due to the presence of the adjuncts namely, rajas and tamas in the unmanifest. There is no reference of sattva in relation with cosmology. rajastamobhyāmāviṣta-ścakravatparivartate. Ibid., 68. Dasgupta says that avyakta and cetana are one and the same entity. HIPS, Vol. I, p. 214.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> vide infra, pp. 178 - 79.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> jāyate buddhiravyaktādbuddhyā'hamiti manyate paraṃ khādīnyahaṃkārādutpadyante yathākramaṃ tataḥ saṃpūrṇasarvāṅgo jāto'bhyudita ucyate.', CS, Śārīra - sthāna, I. 66.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Ibid., the vertical order is implied by the word “yathākramaṃ” in the articulation.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> “....... tasmāt va etasmādātmanaḥ ākāśaḥ saṃbhūtaḥ. akāśadvāyuḥ. vāyoragniḥ. agnerāpaḥ. adbhyaḥ pṛthivī pṛthivyā oṣadhayaḥ......”, Ta. u., Brahmavalli, ii, 1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Manusmṛti., I. 75-78, pp. 24-25
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> teṣāmekaguṇaḥ pūrvo guṇavṛddhiḥ pare pare purvaṃ pūrvaguṇaścaiva kramaśo guṇiṣu smṛtaḥ, CS, Śārīra - sthāna, I.28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Aṣṭāṅgahṛdaya of Vāgbhaṭa., Śārīra - sthāna, III. 2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Śārīra - sthāna, III, 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., pp. 157-58;VSS, p. 60.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> avyaktād vyaktatāṃ yāti vyaktādavyaktatām punaḥ, CS, Śārīra - sthāna, I, 67.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[39]</strong> Ibid., 69.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka has used the word “paramāṇu”. But it is not in the sense of ultimate particular as we see in the Vaiśeṣika. For instance while discussing the organs of the body he says that the smallest unit of the body is paramāṇu which cannot be counted. They are extremely numerous and subtle, Ca, Sa,VII. 17. This is actually the smallest unit of the gross physical element.
+</blockquote>
 
 ---
 
-## 26. The theory of five physical substances (pañcabhūta-siddhānta)
+## The theory of five physical substances (pañcabhūta-siddhānta)
 
 Philosophy of Charaka-samhita
 
@@ -339,158 +453,249 @@ This enumeration is reiterated by Suśruta[36] and Vāgbhaṭa.[37]
 
 The pañcabhūta siddhānta of Caraka has got its own originality and in no way it can be equated with the concepts in other systems of thought. The idea of the successive emanation of the gross elements, the enumeration of the specific qualities sensible to touch and also the general physical qualities and the conception of the minerals like gold as earthly substance instead of fiery are some of the important salient features which add to the novelty.
 
-[1]:
 
-mahābhūtni kham vāyuragnirāpaḥ kṣitistathā śabdaḥ sparśaśca rūpaṃ ca raso gandhaśca tadguṇāḥ., CS, Śārīra - sthāna, I. 27.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> mahābhūtni kham vāyuragnirāpaḥ kṣitistathā śabdaḥ sparśaśca rūpaṃ ca raso gandhaśca tadguṇāḥ., CS, Śārīra - sthāna, I. 27.
+</blockquote>
 
-[2]:
 
-pṛthivyāḍīnāṃ pañcānāmapi bhūtatvendiyaprakṛtitvabāhyaikekendriya grāhyaviśeṣaguṇavatvāni Praśastapādabhāṣya., p. 51; Bhutatva does not refer to univeral bhūtatva. See supra, p. 78. The word bhūtatva is used to mean bhūta: “bhūtatvaṃ bhūtaśabdavācyatvaṃ”, see Nyāyakandalī on ibid; bhūtatvaṃ ca ātmānyatve sati viśeṣaguṇavatvaṃ na tu jātiḥ.., Vācaspatyaṃ, Vol. VI, p. 4684; bhūtatvaṃ [ka] “bahirindriyagrāhyaviśeṣaguṇavatvaṃ”, Nyāyakośa., p. 629, see also NSMK, p. 96.
 
-[3]:
 
-CIPM, p. 20.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> pṛthivyāḍīnāṃ pañcānāmapi bhūtatvendiyaprakṛtitvabāhyaikekendriya grāhyaviśeṣaguṇavatvāni Praśastapādabhāṣya., p. 51; Bhutatva does not refer to univeral bhūtatva. See supra, p. 78. The word bhūtatva is used to mean bhūta: “bhūtatvaṃ bhūtaśabdavācyatvaṃ”, see Nyāyakandalī on ibid; bhūtatvaṃ ca ātmānyatve sati viśeṣaguṇavatvaṃ na tu jātiḥ.., Vācaspatyaṃ, Vol. VI, p. 4684; bhūtatvaṃ [ka] “bahirindriyagrāhyaviśeṣaguṇavatvaṃ”, Nyāyakośa., p. 629, see also NSMK, p. 96.
+</blockquote>
 
-[4]:
 
-According to the Nyāya-Vaiśeṣikas, substances including the physical ones do not have any quality at the moment of its production and destruction., see notes, TSA, p.104; Vide supra, p. 35.
 
-[5]:
 
-It is with this idea that Athalye points out that the definition of earth “as having odour” (gandhavatī) is to be understood as the intimate cause of odour (gandhasamavāyikāraṇaṃ), Notes, TSA, p. 103; gandhaheturiti. gandhasamavāikaraṇamityarthaḥ, NSMK, p. 106.
+<div className="footnote-card"><strong>[3]</strong> CIPM, p. 20.</div>
 
-[6]:
 
-guṇāḥ śarīre guṇināṃ nirdiṣṭaścihnameva ca, CS, Śārīra - sthāna, I. 31.
 
-[7]:
 
-sarvam dravyaṃ pāñcabhautikaṃ....... CS, Su, XXVI. 10.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> According to the Nyāya-Vaiśeṣikas, substances including the physical ones do not have any quality at the moment of its production and destruction., see notes, TSA, p.104; Vide supra, p. 35.
+</blockquote>
 
-[8]:
 
-tatra pṛthivyāpatejovāyuvākāśānāṃ samudāyāt dravyābhinivṛttiḥ, Suśrutasaṃhitā of Suśruta., Su, XI. 3. iha hi dravyaṃ pañcabhūtātmakaṃ, Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, XVII. p. 235.
 
-[9]:
 
-Loc. cit, p. 121.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> It is with this idea that Athalye points out that the definition of earth “as having odour” (gandhavatī) is to be understood as the intimate cause of odour (gandhasamavāyikāraṇaṃ), Notes, TSA, p. 103; gandhaheturiti. gandhasamavāikaraṇamityarthaḥ, NSMK, p. 106.
+</blockquote>
 
-[10]:
 
-anyonyānupraviśṭāni sarvāṇyetāni nirdiśet, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 21; The very same idea is seen expressed in an interpolated verse in Manusmṛti: parasparānupraveśāddhārayanti parasparaṃ guṇaṃ pūrvasya pūrvasya dhārayantyuttarottaraṃ., Manusmṛti., p. 25.
 
-[11]:
 
-“.......utkarṣatvābhivyañjako bhavati idaṃ-pārthivamidamāpyamidaṃ taijasamidaṃ vāyavyamidamākāśīyamiti”. Suśrutasaṃhitā of Suśruta., Su, Xli. 3; bhūtotkarṣāpakarṣasanniveśaviśeṣāt dravyavaiṣamyaṃ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., II. 98
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> guṇāḥ śarīre guṇināṃ nirdiṣṭaścihnameva ca, CS, Śārīra - sthāna, I. 31.
+</blockquote>
 
-[12]:
 
-tatra ākāśādīni pañcabhūtānyapañcīkṛtāni tanmātrāpratipādyānyutpadyante. Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.157.In Vedanta the subtle physical elements are conceived as the products of cosmic illusion (māya) constituted by sattva, rajas, and tamas: “imāni bhūtāni triguṇamāyākāryāṇi triguṇāni”, Ibid., 159.
 
-[13]:
 
-sthūlabhūtāni tu pañcīkṛtāni, Vedānta- Sāra of Sadānanda Yogīndra., 58.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> sarvam dravyaṃ pāñcabhautikaṃ....... CS, Su, XXVI. 10.
+</blockquote>
 
-[14]:
 
-dvidhā vidhāya caikaikaṃ caturthā pradhamaṃ punaḥ svasvetaradvitīyāṃśairyojanāt pañca pañca te. Pñcadaśī, “Tattvavivekaprakaraṇaṃ”, 27; Vedānta- Sāra of Sadānanda Yogīndra., p. 58; Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 162.
 
-[15]:
 
-PSAH, p. 57.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> tatra pṛthivyāpatejovāyuvākāśānāṃ samudāyāt dravyābhinivṛttiḥ, Suśrutasaṃhitā of Suśruta., Su, XI. 3. iha hi dravyaṃ pañcabhūtātmakaṃ, Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, XVII. p. 235.
+</blockquote>
 
-[16]:
 
-PVS, p. 167.
 
-[17]:
 
-Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I, 20.
+<div className="footnote-card"><strong>[9]</strong> Loc. cit, p. 121.</div>
 
-[18]:
 
-The word dravya is also used in the special sense of drugs in the Āyurvedic literature. “dravyāṇi punaroṣadhayaḥ”; Suśrutasaṃhitā of Suśruta., Su, I. 28.
 
-[19]:
 
-See supra, p. 131, tatra, pṛthivyaptejovāyvākāśānāṃ samudāyāt dravyābhinivṛttiḥ, Suśrutasaṃhitā of Suśruta., Su, 41. 3.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> anyonyānupraviśṭāni sarvāṇyetāni nirdiśet, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 21; The very same idea is seen expressed in an interpolated verse in Manusmṛti: parasparānupraveśāddhārayanti parasparaṃ guṇaṃ pūrvasya pūrvasya dhārayantyuttarottaraṃ., Manusmṛti., p. 25.
+</blockquote>
 
-[20]:
 
-sendriyam cetanaṃ, nirīndriyamacetanaṃ. CS, Su, I. 48.
 
-[21]:
 
-atra sendriyatvena vṛkṣādīnāmapi cetanatvaṃ bodhavyaṃ; tathā hi sūryabhaktāyā yathā yathā sūryo bhramati tathā tathā bhramaṇadṛganumīyate, Cakrapāṇi on Ibid.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> “.......utkarṣatvābhivyañjako bhavati idaṃ-pārthivamidamāpyamidaṃ taijasamidaṃ vāyavyamidamākāśīyamiti”. Suśrutasaṃhitā of Suśruta., Su, Xli. 3; bhūtotkarṣāpakarṣasanniveśaviśeṣāt dravyavaiṣamyaṃ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., II. 98
+</blockquote>
 
-[22]:
 
-CS, Su, I. 67.
 
-[23]:
 
-Ibid., I. 68.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> tatra ākāśādīni pañcabhūtānyapañcīkṛtāni tanmātrāpratipādyānyutpadyante. Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.157.In Vedanta the subtle physical elements are conceived as the products of cosmic illusion (māya) constituted by sattva, rajas, and tamas: “imāni bhūtāni triguṇamāyākāryāṇi triguṇāni”, Ibid., 159.
+</blockquote>
 
-[24]:
 
-Vaiśeṣikadarśana., IV. ii. 2-4; For details see Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 285-287.
 
-[25]:
 
-Nyāyasūtra., III, I. 28. See also Vātsyāyana on ibid., pp. 244 - 45.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> sthūlabhūtāni tu pañcīkṛtāni, Vedānta- Sāra of Sadānanda Yogīndra., 58.
+</blockquote>
 
-[26]:
 
-Praśastapādabhāṣya., pp, 78-81.
 
-[27]:
 
-Vaiśeṣikadarśana., IV. ii. 5.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> dvidhā vidhāya caikaikaṃ caturthā pradhamaṃ punaḥ svasvetaradvitīyāṃśairyojanāt pañca pañca te. Pñcadaśī, “Tattvavivekaprakaraṇaṃ”, 27; Vedānta- Sāra of Sadānanda Yogīndra., p. 58; Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 162.
+</blockquote>
 
-[28]:
 
-Praśastapādabhāṣya., p. 82.
 
-[29]:
 
-NSMK, p. 120.
+<div className="footnote-card"><strong>[15]</strong> PSAH, p. 57.</div>
 
-[30]:
 
-“suvarṇaṃ samalāḥ pañca lohāḥ sasikatāḥ suddhā bhaumaṃ.......
+
+
+<div className="footnote-card"><strong>[16]</strong> PVS, p. 167.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I, 20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> The word dravya is also used in the special sense of drugs in the Āyurvedic literature. “dravyāṇi punaroṣadhayaḥ”; Suśrutasaṃhitā of Suśruta., Su, I. 28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> See supra, p. 131, tatra, pṛthivyaptejovāyvākāśānāṃ samudāyāt dravyābhinivṛttiḥ, Suśrutasaṃhitā of Suśruta., Su, 41. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> sendriyam cetanaṃ, nirīndriyamacetanaṃ. CS, Su, I. 48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> atra sendriyatvena vṛkṣādīnāmapi cetanatvaṃ bodhavyaṃ; tathā hi sūryabhaktāyā yathā yathā sūryo bhramati tathā tathā bhramaṇadṛganumīyate, Cakrapāṇi on Ibid.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> CS, Su, I. 67.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid., I. 68.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Vaiśeṣikadarśana., IV. ii. 2-4; For details see Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 285-287.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Nyāyasūtra., III, I. 28. See also Vātsyāyana on ibid., pp. 244 - 45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Praśastapādabhāṣya., pp, 78-81.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Vaiśeṣikadarśana., IV. ii. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Praśastapādabhāṣya., p. 82.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> NSMK, p. 120.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> “suvarṇaṃ samalāḥ pañca lohāḥ sasikatāḥ suddhā bhaumaṃ.......
 ...................bhaumamauṣadhamuddiṣṭaṃ.....”, CS, Su, I. 70.
+</blockquote>
 
-[31]:
 
-pārthivāḥ, suvarṇarajatamaṇimuktāmanaḥśilāmṛtkapālādayaḥ, Suśrutasaṃhitā of Suśruta., Su, I. 32.
 
-[32]:
 
-The Nyāya-Vaiśeṣikas divide the fiery objects into four namely, earthly (bhauma), heavenly (divya), gastric (udarya), and minerals (ākaraja). Metals like gold is included in the division of minerals. “viṣayascaturvidhaṃ— bhaumadivyamudaryamakarajañca.... akarajaṃ suvarṇādiḥ”, Praśastapādabhāṣya., p.100-101; TSA, p. 8; Tarkabhāṣa of Keśavamiśra., p. 178. Saptapadārthi of Śivāditya., p. 18
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> pārthivāḥ, suvarṇarajatamaṇimuktāmanaḥśilāmṛtkapālādayaḥ, Suśrutasaṃhitā of Suśruta., Su, I. 32.
+</blockquote>
 
-[33]:
 
-suvarṇaṃ taijasaṃ asatipratibandhake'atyantāgni saṃyoge'pyanucchidyamāna - janyadravatvāt yannaivaṃ tannaivaṃ yathā pṛthivītī', NSMK, pp. 140-141; Dīpikā, TSA, p. 8; also Jinavardhanasūri's commentary, Saptapadārthi of Śivāditya., p.18; Praśastapādabhāṣya., pp. 101-102.
 
-[34]:
 
-kharadravacaloṣṇatvaṃ bhūjalānilatejasāṃ ākāśasyapratīghāto dṛṣṭam liṅgamethākramaṃ. lakṣaṇaṃ sarvamevaitat sparśanendriyagocaraṃ, CS, Śārīra - sthāna, I. 29-30.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> The Nyāya-Vaiśeṣikas divide the fiery objects into four namely, earthly (bhauma), heavenly (divya), gastric (udarya), and minerals (ākaraja). Metals like gold is included in the division of minerals. “viṣayascaturvidhaṃ— bhaumadivyamudaryamakarajañca.... akarajaṃ suvarṇādiḥ”, Praśastapādabhāṣya., p.100-101; TSA, p. 8; Tarkabhāṣa of Keśavamiśra., p. 178. Saptapadārthi of Śivāditya., p. 18
+</blockquote>
 
-[35]:
 
-CS, Su, XXVI. 11.
 
-[36]:
 
-Suśrutasaṃhitā of Suśruta., Su, xIi. 4 (1 - 5).
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> suvarṇaṃ taijasaṃ asatipratibandhake'atyantāgni saṃyoge'pyanucchidyamāna - janyadravatvāt yannaivaṃ tannaivaṃ yathā pṛthivītī', NSMK, pp. 140-141; Dīpikā, TSA, p. 8; also Jinavardhanasūri's commentary, Saptapadārthi of Śivāditya., p.18; Praśastapādabhāṣya., pp. 101-102.
+</blockquote>
 
-[37]:
 
-Aṣṭāṅgasaṅgraha of Vāgbhaṭa., XVII. p. 238
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> kharadravacaloṣṇatvaṃ bhūjalānilatejasāṃ ākāśasyapratīghāto dṛṣṭam liṅgamethākramaṃ. lakṣaṇaṃ sarvamevaitat sparśanendriyagocaraṃ, CS, Śārīra - sthāna, I. 29-30.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> CS, Su, XXVI. 11.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśrutasaṃhitā of Suśruta., Su, xIi. 4 (1 - 5).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Aṣṭāṅgasaṅgraha of Vāgbhaṭa., XVII. p. 238
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -499,10 +704,6 @@ Aṣṭāṅgasaṅgraha of Vāgbhaṭa., XVII. p. 238
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Time and space [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

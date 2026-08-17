@@ -24,7 +24,7 @@ description: "focuses on research on Indian medicine."
 
 ---
 
-## 1. Volume 1 (1990)
+## Volume 1 (1990)
 
 Journal of the European Ayurvedic Society
 
@@ -32,11 +32,9 @@ The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indi
 
 Volume 1 (1990)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 2. Samanya and Vishesha in Vaisheshika and in Ayurveda
+## Samanya and Vishesha in Vaisheshika and in Ayurveda
 
 Journal of the European Ayurvedic Society
 
@@ -100,8 +98,6 @@ In this paper we have tried to examine the way in which Ayurveda has made use of
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -109,10 +105,6 @@ In this paper we have tried to examine the way in which Ayurveda has made use of
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Basic Ayurvedic Concepts in Veterinary Texts: Journal Of The European Ayurvedic Society Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

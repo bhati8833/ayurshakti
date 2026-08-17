@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ayurvedic Facial and Skincare within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Ayurvedic Facial and Skincare
+## Ayurvedic Facial and Skincare
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -31,7 +31,7 @@ kalp 15' t eventiva Las the 115 3. White clothes should be put on in rainy seaso
 
 ---
 
-## 40. Ayurvedic Dental care
+## Ayurvedic Dental care
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -53,7 +53,7 @@ It has been proved that the bacterial flora in the mouth is considerably reduced
 
 ---
 
-## 41. Ayurvedic regimens for Worship
+## Ayurvedic regimens for Worship
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -69,8 +69,6 @@ According to the Manu Smrti, Pancamahayagina were offered. Manes are satisfied b
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ According to the Manu Smrti, Pancamahayagina were offered. Manes are satisfied b
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurvedic regimens for embellishing the body: Kshemakutuhala Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

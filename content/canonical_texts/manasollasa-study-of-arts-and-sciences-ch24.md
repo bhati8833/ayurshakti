@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Mountains and Forests described in the Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 55. 3.1. Mountains and Forests described in the Manasollasa
+## 3.1. Mountains and Forests described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -35,7 +35,7 @@ Somesvara shows a fairly good knowledge of mountain ranges as also the prominent
 
 ---
 
-## 56. 5. Conclusion: The rich knowledge possessed by Someshvara
+## 5. Conclusion: The rich knowledge possessed by Someshvara
 
 Manasollasa (study of Arts and Sciences)
 
@@ -57,8 +57,6 @@ Somesvara had mastered all the branches of knowledge. As a literary artist Somes
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ Somesvara had mastered all the branches of knowledge. As a literary artist Somes
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">8. Ancient Indian Cooking and Cookery (according to Manasollasa): Manasollasa Study Of Arts And Sciences Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,19 +11,18 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Parāśara (Āyurveda scholar) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Parāśara (Āyurveda scholar)
+## Parāśara (Āyurveda scholar)
 
 Parāśara (Āyurveda scholar)
 
 Parāśara–According to the Tāṇḍya Brāhmaṇa and Jaiminīya texts, Parāśara's son was Kṛṣṇadvaipāyana Veda Vyāsa, the pioneer of the Mahābhārata. Parāśara was one of the disciples of Punarvasu Ātreya and was contemporary of Agniveśa. He wrote Parāśara Saṃhitā but it is not available. His period maybe 1000 BC.  In the treatise of HastiĀyurveda, it is stated that the sages were invited by Romapāda to learn Hasti-Āyurveda under Parāśara. The treatise takra Kalpa also attributed to him. Vāgbhaṭṭa, Ḍalhaṇa, Cakrapāṇi, Hemādri etc., quoted his name in their works. Suśruta while describing the process of development of foetus quoted the according to Parāśara umbilicus was the first organ formed in the foetus. The opinion of Parāśara was quoted regarding the quantity of vasti products and saṃkhyā. While describing Bipāka, Vāgbhaṭṭa quoted the opinion of Parāśara. Cakrapāṇi also quoted the opinion of Parāśara regarding the transformation of tissues. All we know about Parāśara only by the cross-references of other sages[1].
 
-[1]:
 
-Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 316.
+<div className="footnote-card"><strong>[1]</strong> Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 316.</div>
 
 ---
 
-## 16. History of Āyurveda
+## History of Āyurveda
 
 History of Āyurveda
 
@@ -105,96 +104,117 @@ Pathogenesis and prognosis of some important diseases coming within the realm of
 
 The Atharvaveda describes four types of treatment. Namely Ātharvaṇī Cikitsā, Āṅgirasī Cikitsā, Daivī Cikitsā, and Mānavī Cikitsā. The Vedas describe ways to stay healthy, e.g., five healer element, consumption of pure and unblemished food, rules of eating, do not stop the velocity of stool urine, preventing Tridoṣaja disorders, adopt the Sāttvika ideas, be happy, avoiding sins and bad deeds, keep the body strong and getting up before sunrise. The ways to gain longevity are as follows–avoiding Rajoguṇa and Tamoguṇa; adopt the truth; restraint of life and Apāna śakti; relinquishment of anxiety; gain power from sun and wind; prāṇaśakti with fire; abandonment and misery; drug intake; sun, moon and medicines; renounce ignorance and adopt the path of knowledge; will power and spiritual force; use of pure water; and gem and gemstone holding[12].
 
-[1]:
 
-Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 300-303.
+<div className="footnote-card"><strong>[1]</strong> Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 300-303.</div>
 
-[2]:
 
-O. Bohtlingk and R. Roth, Sanskrit Worterbuch Vol. I., St. Petersburg, Buchdr. der K. Akademie der Wissenschaften, 1864, p.112.
 
-[3]:
 
-aupadhenavamaurabhraṃ sauśrutaṃ pauṣkalāvatam |
+<div className="footnote-card"><strong>[2]</strong> O. Bohtlingk and R. Roth, Sanskrit Worterbuch Vol. I., St. Petersburg, Buchdr. der K. Akademie der Wissenschaften, 1864, p.112.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> aupadhenavamaurabhraṃ sauśrutaṃ pauṣkalāvatam |
 śeṣāṇāṃ śalyatantrāṇāṃ mūlānyetāni nirdiśet || (S. Sū. –4/8); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 36.
+</blockquote>
 
-[4]:
 
-adhvaryavo ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn |
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> adhvaryavo ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn |
 yo arbudamava nīcā babādhe tamindraṃ somasya bhṛthe hinota || (ṚV.  -II/14/4); Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 419.
+</blockquote>
 
-[5]:
 
-E. A. Wallis Budge, Babilonian Life and History, New York, Dorset Press, 1991, pp. 221-223.
 
-[6]:
 
-S. Sū. –1/9; Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 8.
+<div className="footnote-card"><strong>[5]</strong> E. A. Wallis Budge, Babilonian Life and History, New York, Dorset Press, 1991, pp. 221-223.</div>
 
-[7]:
 
-aupagaveryūnaśchātrā aupagavīyāḥ |; Mahābhāṣya–4/1/6/90.
 
-[8]:
 
-History of Indian Medicine–3 Volumes, Grindranath Mukhopadhyaya, Delhi, Munshiram Manoharlal Publishers Private Limited, 2003, p. 603
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> S. Sū. –1/9; Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 8.
+</blockquote>
 
-[9]:
 
-āsaptarātraṃ taruṇaṃ jvaramāhurmanīṣiṇaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> aupagaveryūnaśchātrā aupagavīyāḥ |; Mahābhāṣya–4/1/6/90.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> History of Indian Medicine–3 Volumes, Grindranath Mukhopadhyaya, Delhi, Munshiram Manoharlal Publishers Private Limited, 2003, p. 603</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> āsaptarātraṃ taruṇaṃ jvaramāhurmanīṣiṇaḥ |
 madhyaṃ dvādaśarātraṃ tu purāṇamata uttaram || History of Indian Medicine–3 Volumes, Grindranath Mukhopadhyaya, Delhi, Munshiram Manoharlal Publishers Private Limited, 2003, p. 604.
+</blockquote>
 
-[10]:
 
-Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 320-326.
 
-[11]:
 
-Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 83-84.
+<div className="footnote-card"><strong>[10]</strong> Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 320-326.</div>
 
-[12]:
 
-K. D. Dvivedi, Medical Science in the Vedas, Uttar Pradesh, Visvabharati Research Institute, 2018, pp. 7-15.
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 83-84.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> K. D. Dvivedi, Medical Science in the Vedas, Uttar Pradesh, Visvabharati Research Institute, 2018, pp. 7-15.</div>
 
 ---
 
-## 17. Kṣārapāṇi (Āyurveda scholar)
+## Kṣārapāṇi (Āyurveda scholar)
 
 Kṣārapāṇi (Āyurveda scholar)
 
 Kṣārapāṇi was one of the six disciples of Punarvasu Ātreya. He composed a treatise known as Kṣārapāṇi Saṃhitā but the original book is not available. Vijay Rakṣita in his Madhukoṣa-vyākhyā quoted the prognosis of Śotha taken from Kṣārapāṇi Saṃhitā. Suśruta quoted the. Features of Balāsa Jvara taken from Kṣārapāṇi Saṃhitā. Vāgbhaṭṭa quoted the name of Kṣārapāṇi while describing Rakta-gulma. Śivadās Sen quoted pippalyādi-leha for the treatment of Pittaja and Kṣayaja kāsa taken from Kṣārapāṇi Saṃhitā. Many other Ācāryas also quoted the name of Kṣārapāṇi Saṃhitā in their texts[1].
 
-[1]:
 
-Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 71.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 71.
+</blockquote>
 
 ---
 
-## 18. Varāhamihira (Āyurveda scholar)
+## Varāhamihira (Āyurveda scholar)
 
 Varāhamihira (Āyurveda scholar)
 
 Varāhamihira—Although Ācārya Varāhamihira was a scholar of astrology. Yet he did a little subtle study of Āyurveda. He described all the sections of Vṛkṣāyurveda, Hastāyurveda [Hastyāyurveda], Aśvāyurveda etc., in a very meticulous study. King Vikramāditya of Varāhamihira was one of the jewels of the Navaratna Sabhā. One of his books on astrology is Vṛhatsaṃhitā. It is written in the epilogue chapter of the Bṛhat-Jātaka, the abode of Varāhamihira was Avantī and he was enlightened by Kāpithyaka with the blessings of Lord Sun. Varāhamihira gave an example of a verse from Vāgbhaṭṭa. From this, it appears that the advent of Varāhamihira is approximately the fifth century after Vāgbhaṭṭa. His expertise in the three branches of astrology is found in mathematical astrology, applied astrology and Saṃhitā[1].
 
-[1]:
 
-Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 96.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 96.
+</blockquote>
 
 ---
 
-## 19. Suśruta (Āyurveda scholar)
+## Suśruta (Āyurveda scholar)
 
 Suśruta (Āyurveda scholar)
 
 Suśruta—Agniveśa was such the greatest among the disciples of Punarbasu Ātreya; Similarly, Suśruta was one of the disciples of Divodāsa Dhanvantari. Maharṣi Suśruta was one of the twelfth disciples of Dhanvantari. The name of his book is 'Suśrutatantra'. Which was later revised by Nāgārjuna to become known as the Suśruta Saṃhitā. The fourth chapter of the Anuśāsana-Parva of the Mahābhārata tells of Suśruta, the son of Maharṣi Viśvāmitra, an expert in surgery and a disciple of Dhanvantari. At the behest of Devarāja Indra, the Āyurvedic scholar Dhanvantari was born in Kāśīdhāma of Āyurveda and was born as a Kṣatriya named Divodāsa. When Viśvāmitra found out about it in meditation, he gave his son Suśruta there to study Āyurveda. Later, Suśruta's work was reformed by Nāgārjuna and became known as Suśruta-Saṃhitā. Again, according to many scholars, the two Suśrutas are said to be an old Suśruta and the second Suśruta to be among the disciples of Divodāsa. Old Suśruta was the first to be counted, who composed the original 'Suśrutatantra'. Then the second Suśruta reshaped him and gave him a new look. This Suśruta is the son of Viśvāmitra. The Suśruta Saṃhitā, compiled by Suśruta, was composed between the fifth and sixth centuries BC. According to many scholars, the period of old Suśruta is the Upaniṣad period (1000- 1400 BC). Many have accepted the period of Suśruta as the second century, which is considered as the time of Sātabāhana empire[1].
 
-[1]:
 
-Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 73-77.
+<div className="footnote-card"><strong>[1]</strong> Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 73-77.</div>
 
 ---
-
-
 
 ---
 
@@ -203,10 +223,6 @@ Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Vāgbhaṭṭa (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

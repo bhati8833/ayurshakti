@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Quest for Longevity (dirgha-jivita) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 72. Chapter 1 - The Quest for Longevity (dirgha-jivita)
+## Chapter 1 - The Quest for Longevity (dirgha-jivita)
 
 Charaka Samhita (English translation)
 
@@ -341,7 +341,7 @@ Summary
 
 ---
 
-## 73. Chapter 3 - Prognostic investigation (parimarshana)
+## Chapter 3 - Prognostic investigation (parimarshana)
 
 Charaka Samhita (English translation)
 
@@ -381,7 +381,7 @@ Here is the recapitulatory verse
 
 ---
 
-## 74. Chapter 5 - Prognosis from premonitory symptoms (purvarupa)
+## Chapter 5 - Prognosis from premonitory symptoms (purvarupa)
 
 Charaka Samhita (English translation)
 
@@ -517,7 +517,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 75. Chapter 6 - Prognosis from some General symptoms
+## Chapter 6 - Prognosis from some General symptoms
 
 Charaka Samhita (English translation)
 
@@ -585,7 +585,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 76. Chapter 7 - Prognosis from the Pupil-condition (pannarupa)
+## Chapter 7 - Prognosis from the Pupil-condition (pannarupa)
 
 Charaka Samhita (English translation)
 
@@ -667,7 +667,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 77. Chapter 8 - Prognostics from Topsy-turvy reflection (avakshiras)
+## Chapter 8 - Prognostics from Topsy-turvy reflection (avakshiras)
 
 Charaka Samhita (English translation)
 
@@ -753,8 +753,6 @@ Here is the recapitulatory verse—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -762,10 +760,6 @@ Here is the recapitulatory verse—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Prognosis from the Dark-red coloration: Charaka Samhita Complete Translation Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Music in Somesvara’s Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 37. 6. Music in Somesvara’s Manasollasa
+## 6. Music in Somesvara’s Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -51,7 +51,7 @@ I 258 the accomplished 'singing' and 'dancing' sculptures. They indicate not onl
 
 ---
 
-## 38. 5. Iconography and Images (Pratima)
+## 5. Iconography and Images (Pratima)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -101,8 +101,6 @@ Theres a Vari 4 temple is 241 kamadio so far, it is a possibility that cannot be
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -110,10 +108,6 @@ Theres a Vari 4 temple is 241 kamadio so far, it is a possibility that cannot be
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">4. Use, aim and Function of Art: Manasollasa Study Of Arts And Sciences Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

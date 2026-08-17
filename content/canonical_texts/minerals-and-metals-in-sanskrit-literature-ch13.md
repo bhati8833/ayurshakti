@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. References within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 55. 8. References
+## 8. References
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ Ramayana of Valmiki, Ed. Raghuvira, Banaras, 1951. Rao, S.R., 1982, The Decipher
 
 ---
 
-## 56. 7. The Buddhist Literature Sources (regarding the two epics)
+## 7. The Buddhist Literature Sources (regarding the two epics)
 
 Minerals and Metals in Sanskrit literature
 
@@ -39,7 +39,7 @@ VI-15 The Buddhist literature mentioned seven kinds of jewels or ratna suvanna (
 
 ---
 
-## 57. Chapter 7 - A millennium of Ratnashastra (gemmology) literature in India
+## Chapter 7 - A millennium of Ratnashastra (gemmology) literature in India
 
 Minerals and Metals in Sanskrit literature
 
@@ -47,11 +47,9 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 7 - A millennium of Ratnashastra (gemmology) literature in India
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 59. 4.1. Description of Diamonds (Vajra)
+## 4.1. Description of Diamonds (Vajra)
 
 Minerals and Metals in Sanskrit literature
 
@@ -71,8 +69,6 @@ VII-13 specific gravity was recognised as an important consideration. Agastimata
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +76,6 @@ VII-13 specific gravity was recognised as an important consideration. Agastimata
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">3. The Scope of Ratna-shastra (Gemmology): Minerals And Metals In Sanskrit Literature Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

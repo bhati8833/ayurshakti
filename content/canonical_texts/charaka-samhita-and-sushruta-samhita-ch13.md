@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Aetiology (b): Ādhibhautika within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Aetiology (b): Ādhibhautika
+## Aetiology (b): Ādhibhautika
 
 Charaka Samhita and Sushruta Samhita
 
@@ -27,17 +27,19 @@ Therefore, in this context, it connotes afflictions proceeding from other beings
 
 (b) Seasonal (kālabalapravṛtta)-afflictions are caused by heat, cold, wind, rain and other seasonal factors. They may be due to abnormality of the seasons or seasonal variations.
 
-[1]:
 
-Monier-Williams, p.138.
+<div className="footnote-card"><strong>[1]</strong> Monier-Williams, p.138.</div>
 
-[2]:
 
-P. Ray et al., Sushruta Saṃhitā (A Scientific Synopsis), p.48.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> P. Ray et al., Sushruta Saṃhitā (A Scientific Synopsis), p.48.
+</blockquote>
 
 ---
 
-## 43. Aetiology of Disease
+## Aetiology of Disease
 
 Charaka Samhita and Sushruta Samhita
 
@@ -197,209 +199,349 @@ On the basis of aetiology, Sūtrasthāna ruta recognises seven types of diseases
 
 The prefix “ādhi” indicates discomfort, in particular mental discomfort and is mostly used in association with vyādhi, especially bodily disease.[50] All adhyatmika diseases are intrinsic disorders while the other two categories originate from extrinsic causes.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 15.3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 15.3.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 21.3.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 21.8.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 21.3.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 20.9.
 
-[5]:
 
-Monier-Williams, p.123.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 21.8.
+</blockquote>
 
-[6]:
 
-Online Etymology Dictionary. http://www.etymonline.com/
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 1.57.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 20.9.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Sūtrasthāna 20.3.
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 20.10.
+<div className="footnote-card"><strong>[5]</strong> Monier-Williams, p.123.</div>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 21.3-4.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 21.26.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Online Etymology Dictionary. http://www.etymonline.com/
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Nidāna-sthāna 2.3.
 
-[13]:
 
-Caraka Saṃhitā Śārīrasthāna 1.13.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 1.57.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Sūtrasthāna 11.37; Caraka Saṃhitā Nidāna-sthāna 1.3.
 
-[15]:
 
-Caraka Saṃhitā Sūtrasthāna 11.37.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Sūtrasthāna 20.3.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Sūtrasthāna 8.11.
 
-[17]:
 
-Caraka Saṃhitā Sūtrasthāna 11.37.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 20.10.
+</blockquote>
 
-[18]:
 
-Caraka Saṃhitā Sūtrasthāna 11.39.
 
-[19]:
 
-S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.161.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 21.3-4.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Sūtrasthāna 1.37.
 
-[21]:
 
-Caraka Saṃhitā Śārīrasthāna 1.102.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 21.26.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Śārīrasthāna 1.102-108.
 
-[23]:
 
-Caraka Saṃhitā Śārīrasthāna 1.99.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Nidāna-sthāna 2.3.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Śārīrasthāna 1.100.
 
-[25]:
 
-Caraka Saṃhitā Śārīrasthāna 1.101.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Śārīrasthāna 1.13.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Śārīrasthāna 1.109.
 
-[27]:
 
-S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.85.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Sūtrasthāna 11.37; Caraka Saṃhitā Nidāna-sthāna 1.3.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Śārīrasthāna 1.102-108.
 
-[29]:
 
-Caraka Saṃhitā Sūtrasthāna 17.114-115/1.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Sūtrasthāna 11.37.
+</blockquote>
 
-[30]:
 
-Caraka Saṃhitā Sūtrasthāna 11.42.
 
-[31]:
 
-Caraka Saṃhitā Sūtrasthāna 17.62.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Sūtrasthāna 8.11.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.8.
 
-[33]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.8.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Sūtrasthāna 11.37.
+</blockquote>
 
-[34]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Sūtrasthāna 19.6.
 
-[35]:
 
-Caraka Saṃhitā Sūtrasthāna 19.5.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Sūtrasthāna 11.39.
+</blockquote>
 
-[36]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.195.
 
-[37]:
 
-Caraka Saṃhitā Nidāna-sthāna 7.12.
+<div className="footnote-card"><strong>[19]</strong> S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.161.</div>
 
-[38]:
 
-Suśruta Saṃhitā Uttaratantra 27.3-5.
 
-[39]:
 
-Caraka Saṃhitā Sūtrasthāna 19.6.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Sūtrasthāna 1.37.
+</blockquote>
 
-[40]:
 
-Caraka Saṃhitā Sūtrasthāna 11.45.
 
-[41]:
 
-Caraka Saṃhitā Sūtrasthāna 20.7.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Śārīrasthāna 1.102.
+</blockquote>
 
-[42]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.24.
 
-[43]:
 
-P. Ray et al., Sushruta Saṃhitā (A Scientific Synopsis), New Delhi, 1993 (Reprint), p.49.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Śārīrasthāna 1.102-108.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Śārīrasthāna 1.115.
 
-[45]:
 
-Caraka Saṃhitā Vimānasthāna 6.3.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Śārīrasthāna 1.99.
+</blockquote>
 
-[46]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.4.
 
-[47]:
 
-Caraka Saṃhitā Sūtrasthāna 6.4.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Śārīrasthāna 1.100.
+</blockquote>
 
-[48]:
 
-Caraka Saṃhitā Sūtrasthāna 18.42.
 
-[49]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.5-7.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Śārīrasthāna 1.101.
+</blockquote>
 
-[50]:
 
-S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.18.
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Śārīrasthāna 1.109.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.85.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Śārīrasthāna 1.102-108.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Sūtrasthāna 17.114-115/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Caraka Saṃhitā Sūtrasthāna 11.42.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Caraka Saṃhitā Sūtrasthāna 17.62.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Sūtrasthāna 24.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Sūtrasthāna 24.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Cakrapāṇidatta on Caraka Saṃhitā Sūtrasthāna 19.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Sūtrasthāna 19.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Cikitsāsthāna 30.195.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Nidāna-sthāna 7.12.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Uttaratantra 27.3-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Caraka Saṃhitā Sūtrasthāna 19.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka Saṃhitā Sūtrasthāna 11.45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Sūtrasthāna 20.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Suśruta Saṃhitā Sūtrasthāna 1.24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> P. Ray et al., Sushruta Saṃhitā (A Scientific Synopsis), New Delhi, 1993 (Reprint), p.49.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Śārīrasthāna 1.115.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Vimānasthāna 6.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Caraka Saṃhitā Nidāna-sthāna 1.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Caraka Saṃhitā Sūtrasthāna 6.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Caraka Saṃhitā Sūtrasthāna 18.42.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Suśruta Saṃhitā Sūtrasthāna 24.5-7.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[50]</strong> S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.18.</div>
 
 ---
 
-## 44. Karma and Disease
+## Karma and Disease
 
 Charaka Samhita and Sushruta Samhita
 
@@ -455,109 +597,176 @@ Here we may cite from Suśruta:
 
 Any abnormality of the human body cannot be isolated from the doṣas. The multifarious manifestations of diseases can be attributed to the interaction among the doṣas, dhātus and malas, the specific location of the perturbed doṣa, and diverse aetiological factors involved. Thus, the vitiated doṣa may affect any the tissue and the disease is designated accordingly.[25]
 
-[1]:
 
-M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”, in W.D. O”Flaherty (Ed.), Karma and Rebirth in Classical Indian Tradition, Berkeley and London, 1980, p.90.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”, in W.D. O”Flaherty (Ed.), Karma and Rebirth in Classical Indian Tradition, Berkeley and London, 1980, p.90.
+</blockquote>
 
-[2]:
 
-J. Jolly (trans.), The Institutes of Viṣṇu, 45.29.
 
-[3]:
 
-Manusmṛti XI.49-52.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> J. Jolly (trans.), The Institutes of Viṣṇu, 45.29.
+</blockquote>
 
-[4]:
 
-Manusmṛti XI.53.
 
-[5]:
 
-On the basis of the meaning of “daiva” in Monier-Williams, p.497.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Manusmṛti XI.49-52.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Śārīrasthāna 1.116.
 
-[7]:
 
-M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”p.93.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Manusmṛti XI.53.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Vimānasthāna 3.29-32.
 
-[9]:
 
-Caraka Saṃhitā Vimānasthāna 3.33.
+<div className="footnote-card"><strong>[5]</strong> On the basis of the meaning of “daiva” in Monier-Williams, p.497.</div>
 
-[10]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 3.29-32.
 
-[11]:
 
-Caraka Saṃhitā Vimānasthāna 3.35.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Śārīrasthāna 1.116.
+</blockquote>
 
-[12]:
 
-S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.403.
 
-[13]:
 
-Caraka Saṃhitā Vimānasthāna 3.36.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”p.93.
+</blockquote>
 
-[14]:
 
-S.N. Dasgupta, A History of Indian Philosophy, Vol.II, p.403; M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”, p.95.
 
-[15]:
 
-Caraka Saṃhitā Nidāna-sthāna 7.10.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Vimānasthāna 3.29-32.
+</blockquote>
 
-[16]:
 
-M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”, p.93.
 
-[17]:
 
-Suśruta Saṃhitā Nidāna-sthāna 5.3.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Vimānasthāna 3.33.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Nidāna-sthāna 5.30.
 
-[19]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.50.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 3.29-32.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.52.
 
-[21]:
 
-Suśruta Saṃhitā Uttaratantra 40.163.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Vimānasthāna 3.35.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Uttaratantra 40.164.
 
-[23]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 30.7-8.
+<div className="footnote-card"><strong>[12]</strong> S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.403.</div>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.8.
 
-[25]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.8.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Vimānasthāna 3.36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> S.N. Dasgupta, A History of Indian Philosophy, Vol.II, p.403; M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”, p.95.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Nidāna-sthāna 7.10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> M.G. Weiss, “Caraka Saṃhitā on the Doctrine of Karma”, p.93.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Nidāna-sthāna 5.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Nidāna-sthāna 5.30.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Śārīrasthāna 2.50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Śārīrasthāna 2.52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Uttaratantra 40.163.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Uttaratantra 40.164.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 30.7-8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 24.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Sūtrasthāna 24.8.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -566,10 +775,6 @@ Suśruta Saṃhitā Sūtrasthāna 24.8.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Aetiology (c): Ādhidaivika: Charaka Samhita And Sushruta Samhita Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

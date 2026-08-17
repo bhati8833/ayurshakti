@@ -86,7 +86,11 @@ Thus ends the fiftieth chapter in the Uttara-Tantra of the Sushruta Samhita whic
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 By the word “Mula” (i.e., root) of the Jatru (clavicles) Gayadāśa understands the regions of the heart, Kloma, throat, etc.—Dallana.
+</blockquote>
+
 
 [2]:
 
@@ -98,7 +102,11 @@ Tepid milk, tepid clarified butter and expressed juice of sugar-cane are also se
 
 [4]:
 
+
+<blockquote className="ayur-shloka">
 Some render “śuṇṭhītoya” as the decoction of Śunthi.
+</blockquote>
+
 
 [5]:
 

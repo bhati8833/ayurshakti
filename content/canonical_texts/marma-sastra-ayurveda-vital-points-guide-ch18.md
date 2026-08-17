@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Ksipra Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 61. Study of Ksipra Marma
+## Study of Ksipra Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -33,7 +33,7 @@ Tamil varma sastra In Tamil literature it is termed as cuttu varma. This lies on
 
 ---
 
-## 62. Study of Talahridaya Marma
+## Study of Talahridaya Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -53,7 +53,7 @@ Gray in his book has also mentioned the same "the wounds of the palmar arches ar
 
 ---
 
-## 63. Study of Kurcha Marma
+## Study of Kurcha Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -73,8 +73,6 @@ Discussion ☐ Interrosseus Muscle If injured the pain will be greater. The panc
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -82,10 +80,6 @@ Discussion ☐ Interrosseus Muscle If injured the pain will be greater. The panc
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Kurchashira Marma: Marma Sastra and Ayurvedic Science Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

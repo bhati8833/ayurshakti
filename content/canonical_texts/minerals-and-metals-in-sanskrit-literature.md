@@ -13,91 +13,89 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Minerals And Metals In Sanskrit Literature Chapter 1](/articles/minerals-and-metals-in-sanskrit-literature-ch1)
+### [General Discourse: Minerals And Metals In Sanskrit Literature Chapter 1](/articles/minerals-and-metals-in-sanskrit-literature-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Minerals And Metals In Sanskrit Literature.
 
-### 2. [4. The Meaning of Ayas: Minerals And Metals In Sanskrit Literature Chapter 2](/articles/minerals-and-metals-in-sanskrit-literature-ch2)
+### [4. The Meaning of Ayas: Minerals And Metals In Sanskrit Literature Chapter 2](/articles/minerals-and-metals-in-sanskrit-literature-ch2)
 **Overview**: Detailed classical discussion on 4. The Meaning of Ayas within Minerals And Metals In Sanskrit Literature.
 
-### 3. [6. Ornaments and Gems in the Rigveda: Minerals And Metals In Sanskrit Literature Chapter 3](/articles/minerals-and-metals-in-sanskrit-literature-ch3)
+### [6. Ornaments and Gems in the Rigveda: Minerals And Metals In Sanskrit Literature Chapter 3](/articles/minerals-and-metals-in-sanskrit-literature-ch3)
 **Overview**: Detailed classical discussion on 6. Ornaments and Gems in the Rigveda within Minerals And Metals In Sanskrit Literature.
 
-### 4. [6. Ornamental and Barter Metals: Minerals And Metals In Sanskrit Literature Chapter 4](/articles/minerals-and-metals-in-sanskrit-literature-ch4)
+### [6. Ornamental and Barter Metals: Minerals And Metals In Sanskrit Literature Chapter 4](/articles/minerals-and-metals-in-sanskrit-literature-ch4)
 **Overview**: Detailed classical discussion on 6. Ornamental and Barter Metals within Minerals And Metals In Sanskrit Literature.
 
-### 5. [8. Potteries and other Inorganic Materials: Minerals And Metals In Sanskrit Literature Chapter 5](/articles/minerals-and-metals-in-sanskrit-literature-ch5)
+### [8. Potteries and other Inorganic Materials: Minerals And Metals In Sanskrit Literature Chapter 5](/articles/minerals-and-metals-in-sanskrit-literature-ch5)
 **Overview**: Detailed classical discussion on 8. Potteries and other Inorganic Materials within Minerals And Metals In Sanskrit Literature.
 
-### 6. [2. Mine and Mineral Engineering: Minerals And Metals In Sanskrit Literature Chapter 6](/articles/minerals-and-metals-in-sanskrit-literature-ch6)
+### [2. Mine and Mineral Engineering: Minerals And Metals In Sanskrit Literature Chapter 6](/articles/minerals-and-metals-in-sanskrit-literature-ch6)
 **Overview**: Detailed classical discussion on 2. Mine and Mineral Engineering within Minerals And Metals In Sanskrit Literature.
 
-### 7. [5. Gold and Coins (in the Ashtadhyayi): Minerals And Metals In Sanskrit Literature Chapter 7](/articles/minerals-and-metals-in-sanskrit-literature-ch7)
+### [5. Gold and Coins (in the Ashtadhyayi): Minerals And Metals In Sanskrit Literature Chapter 7](/articles/minerals-and-metals-in-sanskrit-literature-ch7)
 **Overview**: Detailed classical discussion on 5. Gold and Coins (in the Ashtadhyayi) within Minerals And Metals In Sanskrit Literature.
 
-### 8. [3. Indian Topography of the Mineral Resources: Minerals And Metals In Sanskrit Literature Chapter 8](/articles/minerals-and-metals-in-sanskrit-literature-ch8)
+### [3. Indian Topography of the Mineral Resources: Minerals And Metals In Sanskrit Literature Chapter 8](/articles/minerals-and-metals-in-sanskrit-literature-ch8)
 **Overview**: Detailed classical discussion on 3. Indian Topography of the Mineral Resources within Minerals And Metals In Sanskrit Literature.
 
-### 9. [4. The Director of Mines and his Duties: Minerals And Metals In Sanskrit Literature Chapter 9](/articles/minerals-and-metals-in-sanskrit-literature-ch9)
+### [4. The Director of Mines and his Duties: Minerals And Metals In Sanskrit Literature Chapter 9](/articles/minerals-and-metals-in-sanskrit-literature-ch9)
 **Overview**: Detailed classical discussion on 4. The Director of Mines and his Duties within Minerals And Metals In Sanskrit Literature.
 
-### 10. [11. On Vaikrintaka, Vritta and Tikshna: Minerals And Metals In Sanskrit Literature Chapter 10](/articles/minerals-and-metals-in-sanskrit-literature-ch10)
+### [11. On Vaikrintaka, Vritta and Tikshna: Minerals And Metals In Sanskrit Literature Chapter 10](/articles/minerals-and-metals-in-sanskrit-literature-ch10)
 **Overview**: Detailed classical discussion on 11. On Vaikrintaka, Vritta and Tikshna within Minerals And Metals In Sanskrit Literature.
 
-### 11. [10. The Lohadhyaksha (the Director of Metals): Minerals And Metals In Sanskrit Literature Chapter 11](/articles/minerals-and-metals-in-sanskrit-literature-ch11)
+### [10. The Lohadhyaksha (the Director of Metals): Minerals And Metals In Sanskrit Literature Chapter 11](/articles/minerals-and-metals-in-sanskrit-literature-ch11)
 **Overview**: Detailed classical discussion on 10. The Lohadhyaksha (the Director of Metals) within Minerals And Metals In Sanskrit Literature.
 
-### 12. [5. The Mahabharata—Post-Christian Era Additions: Minerals And Metals In Sanskrit Literature Chapter 12](/articles/minerals-and-metals-in-sanskrit-literature-ch12)
+### [5. The Mahabharata—Post-Christian Era Additions: Minerals And Metals In Sanskrit Literature Chapter 12](/articles/minerals-and-metals-in-sanskrit-literature-ch12)
 **Overview**: Detailed classical discussion on 5. The Mahabharata—Post-Christian Era Additions within Minerals And Metals In Sanskrit Literature.
 
-### 13. [8. References: Minerals And Metals In Sanskrit Literature Chapter 13](/articles/minerals-and-metals-in-sanskrit-literature-ch13)
+### [8. References: Minerals And Metals In Sanskrit Literature Chapter 13](/articles/minerals-and-metals-in-sanskrit-literature-ch13)
 **Overview**: Detailed classical discussion on 8. References within Minerals And Metals In Sanskrit Literature.
 
-### 14. [3. The Scope of Ratna-shastra (Gemmology): Minerals And Metals In Sanskrit Literature Chapter 14](/articles/minerals-and-metals-in-sanskrit-literature-ch14)
+### [3. The Scope of Ratna-shastra (Gemmology): Minerals And Metals In Sanskrit Literature Chapter 14](/articles/minerals-and-metals-in-sanskrit-literature-ch14)
 **Overview**: Detailed classical discussion on 3. The Scope of Ratna-shastra (Gemmology) within Minerals And Metals In Sanskrit Literature.
 
-### 15. [Gem Minerals Containing Beryllium: Minerals And Metals In Sanskrit Literature Chapter 15](/articles/minerals-and-metals-in-sanskrit-literature-ch15)
+### [Gem Minerals Containing Beryllium: Minerals And Metals In Sanskrit Literature Chapter 15](/articles/minerals-and-metals-in-sanskrit-literature-ch15)
 **Overview**: Detailed classical discussion on Gem Minerals Containing Beryllium within Minerals And Metals In Sanskrit Literature.
 
-### 16. [Description of Zircon, Garnet and Tourmaline: Minerals And Metals In Sanskrit Literature Chapter 16](/articles/minerals-and-metals-in-sanskrit-literature-ch16)
+### [Description of Zircon, Garnet and Tourmaline: Minerals And Metals In Sanskrit Literature Chapter 16](/articles/minerals-and-metals-in-sanskrit-literature-ch16)
 **Overview**: Detailed classical discussion on Description of Zircon, Garnet and Tourmaline within Minerals And Metals In Sanskrit Literature.
 
-### 17. [Feldspar Group of Gems: Minerals And Metals In Sanskrit Literature Chapter 17](/articles/minerals-and-metals-in-sanskrit-literature-ch17)
+### [Feldspar Group of Gems: Minerals And Metals In Sanskrit Literature Chapter 17](/articles/minerals-and-metals-in-sanskrit-literature-ch17)
 **Overview**: Detailed classical discussion on Feldspar Group of Gems within Minerals And Metals In Sanskrit Literature.
 
-### 18. [7. Concluding Remarks and References: Minerals And Metals In Sanskrit Literature Chapter 18](/articles/minerals-and-metals-in-sanskrit-literature-ch18)
+### [7. Concluding Remarks and References: Minerals And Metals In Sanskrit Literature Chapter 18](/articles/minerals-and-metals-in-sanskrit-literature-ch18)
 **Overview**: Detailed classical discussion on 7. Concluding Remarks and References within Minerals And Metals In Sanskrit Literature.
 
-### 19. [4. Patanjali’s Successor: Nagarjuna (the alchemist): Minerals And Metals In Sanskrit Literature Chapter 19](/articles/minerals-and-metals-in-sanskrit-literature-ch19)
+### [4. Patanjali’s Successor: Nagarjuna (the alchemist): Minerals And Metals In Sanskrit Literature Chapter 19](/articles/minerals-and-metals-in-sanskrit-literature-ch19)
 **Overview**: Detailed classical discussion on 4. Patanjali’s Successor: Nagarjuna (the alchemist) within Minerals And Metals In Sanskrit Literature.
 
-### 20. [7. Materials discussed in the Angavijja and Amarakosha: Minerals And Metals In Sanskrit Literature Chapter 20](/articles/minerals-and-metals-in-sanskrit-literature-ch20)
+### [7. Materials discussed in the Angavijja and Amarakosha: Minerals And Metals In Sanskrit Literature Chapter 20](/articles/minerals-and-metals-in-sanskrit-literature-ch20)
 **Overview**: Detailed classical discussion on 7. Materials discussed in the Angavijja and Amarakosha within Minerals And Metals In Sanskrit Literature.
 
-### 21. [The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry: Minerals And Metals In Sanskrit Literature Chapter 21](/articles/minerals-and-metals-in-sanskrit-literature-ch21)
+### [The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry: Minerals And Metals In Sanskrit Literature Chapter 21](/articles/minerals-and-metals-in-sanskrit-literature-ch21)
 **Overview**: Detailed classical discussion on The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry within Minerals And Metals In Sanskrit Literature.
 
-### 22. [1. Technical Terms in the Rasaratna-samuccaya: Minerals And Metals In Sanskrit Literature Chapter 22](/articles/minerals-and-metals-in-sanskrit-literature-ch22)
+### [1. Technical Terms in the Rasaratna-samuccaya: Minerals And Metals In Sanskrit Literature Chapter 22](/articles/minerals-and-metals-in-sanskrit-literature-ch22)
 **Overview**: Detailed classical discussion on 1. Technical Terms in the Rasaratna-samuccaya within Minerals And Metals In Sanskrit Literature.
 
-### 23. [9. Some Tentative Interpretations (of the Rasaratna-samuccaya): Minerals And Metals In Sanskrit Literature Chapter 23](/articles/minerals-and-metals-in-sanskrit-literature-ch23)
+### [9. Some Tentative Interpretations (of the Rasaratna-samuccaya): Minerals And Metals In Sanskrit Literature Chapter 23](/articles/minerals-and-metals-in-sanskrit-literature-ch23)
 **Overview**: Detailed classical discussion on 9. Some Tentative Interpretations (of the Rasaratna-samuccaya) within Minerals And Metals In Sanskrit Literature.
 
-### 24. [2. Scientific, Concepts Related to Material Science: Minerals And Metals In Sanskrit Literature Chapter 24](/articles/minerals-and-metals-in-sanskrit-literature-ch24)
+### [2. Scientific, Concepts Related to Material Science: Minerals And Metals In Sanskrit Literature Chapter 24](/articles/minerals-and-metals-in-sanskrit-literature-ch24)
 **Overview**: Detailed classical discussion on 2. Scientific, Concepts Related to Material Science within Minerals And Metals In Sanskrit Literature.
 
-### 25. [Appendix B (2) - Technical terms in the other Vedic literatures: Minerals And Metals In Sanskrit Literature Chapter 25](/articles/minerals-and-metals-in-sanskrit-literature-ch25)
+### [Appendix B (2) - Technical terms in the other Vedic literatures: Minerals And Metals In Sanskrit Literature Chapter 25](/articles/minerals-and-metals-in-sanskrit-literature-ch25)
 **Overview**: Detailed classical discussion on Appendix B (2) - Technical terms in the other Vedic literatures within Minerals And Metals In Sanskrit Literature.
 
-### 26. [Appendix B (1) - Words related to Minerals and Metal in the Rigveda: Minerals And Metals In Sanskrit Literature Chapter 26](/articles/minerals-and-metals-in-sanskrit-literature-ch26)
+### [Appendix B (1) - Words related to Minerals and Metal in the Rigveda: Minerals And Metals In Sanskrit Literature Chapter 26](/articles/minerals-and-metals-in-sanskrit-literature-ch26)
 **Overview**: Detailed classical discussion on Appendix B (1) - Words related to Minerals and Metal in the Rigveda within Minerals And Metals In Sanskrit Literature.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Abstract
+## Abstract
 
 Minerals and Metals in Sanskrit literature
 
@@ -113,7 +111,7 @@ Taxila. Kautiliya Arthasastra describes the Mauryan political economy, the emerg
 
 ---
 
-## 2. Acknowledgement
+## Acknowledgement
 
 Minerals and Metals in Sanskrit literature
 
@@ -125,7 +123,7 @@ I am grateful to the Kanpur University for allowing me to submit thesis for doct
 
 ---
 
-## 4. 1. Introduction to the Rigveda
+## 1. Introduction to the Rigveda
 
 Minerals and Metals in Sanskrit literature
 
@@ -141,7 +139,7 @@ II-3 Panis or Harappan traders. The Rgvedic war was basically a civil war fought
 
 ---
 
-## 6. Introduction to Minerals and Metals in Sanskrit literatures
+## Introduction to Minerals and Metals in Sanskrit literatures
 
 Minerals and Metals in Sanskrit literature
 
@@ -159,7 +157,7 @@ I-4 (a) correlation of the literary evidences with the archaeological data and o
 
 ---
 
-## 14. 1. Introduction to Vedic literature after Rigveda
+## 1. Introduction to Vedic literature after Rigveda
 
 Minerals and Metals in Sanskrit literature
 
@@ -175,7 +173,7 @@ III-3 universe was only space. atmosphere and then water. Gradually it condensed
 
 ---
 
-## 26. 1. Introduction to Panini’s Ashtadhyayi
+## 1. Introduction to Panini’s Ashtadhyayi
 
 Minerals and Metals in Sanskrit literature
 
@@ -189,7 +187,7 @@ IV-2 by Panini himself. We may conclude that Panini lived around 500 B.C. near t
 
 ---
 
-## 36. 1. Introduction to Kautiliya Arthashastra
+## 1. Introduction to Kautiliya Arthashastra
 
 Minerals and Metals in Sanskrit literature
 
@@ -205,7 +203,7 @@ V-3 of men. From the word vrtti is obviously derived vartta, the three-fold econ
 
 ---
 
-## 58. 1. Introduction to Ratna-shastra (gemmology) literature
+## 1. Introduction to Ratna-shastra (gemmology) literature
 
 Minerals and Metals in Sanskrit literature
 
@@ -221,7 +219,7 @@ VII-3 TABLE VII - 1 SOME INDIAN TEXTS CONTAINING REFERENCES TO GEMMOLOGY (RATNAS
 
 ---
 
-## 78. 1. Introduction to ancient Indian alchemy and Atomism
+## 1. Introduction to ancient Indian alchemy and Atomism
 
 Minerals and Metals in Sanskrit literature
 
@@ -239,7 +237,7 @@ VIII-4 the Indian expertise on minerals and metals remained isolated from the th
 
 ---
 
-## 82. 2. Introduction to the Samhitas of Charaka and Sushruta
+## 2. Introduction to the Samhitas of Charaka and Sushruta
 
 Minerals and Metals in Sanskrit literature
 
@@ -257,7 +255,7 @@ VIII-7 Caraka Samhita is based on an earlier work of Agnivesa, whose teacher Atr
 
 ---
 
-## 89. 9. Introduction to the Rasa-shastra texts
+## 9. Introduction to the Rasa-shastra texts
 
 Minerals and Metals in Sanskrit literature
 

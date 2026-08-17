@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Disease in the classical Saṃhitās within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Disease in the classical Saṃhitās
+## Disease in the classical Saṃhitās
 
 Charaka Samhita and Sushruta Samhita
 
@@ -29,113 +29,183 @@ Disease is conceptualized as an altered condition of the body and/or the mind th
 
 Caraka refers to two allegorical narratives relating to the origin of fever and tuberculosis. The wrath of Śiva afflicts men with fever;[24] and that of Dakṣa afflicted Candra with consumption.[25] In both situations, anger is personified as malevolent force that begets suffering in humans as disease. Thus, anger/krodha, yakṣmā, jvara and roga are synonymous in medical parlance and all they connote duḥkha or misery (krodho yakṣmā jvaro roga ekārtho duḥkhasaṃjñak).[26]
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 9.4.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 9.4.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 1.15.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 1.22.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 1.15.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 1.6.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.16.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 1.22.
+</blockquote>
 
-[6]:
 
-Monier-Williams, p.483.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 9.4.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 1.6.
+</blockquote>
 
-[8]:
 
-Cakrapāṇidatta’s commentary on Caraka Saṃhitā Sūtrasthāna 9.4.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 15.41.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 1.16.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Sūtrasthāna 1.55.
 
-[11]:
 
-Eg. Caraka Saṃhitā Śārīrasthāna 1.108; Suśruta Saṃhitā Sūtrasthāna 21.33.
+<div className="footnote-card"><strong>[6]</strong> Monier-Williams, p.483.</div>
 
-[12]:
 
-Eg. Caraka Saṃhitā Sūtrasthāna 6.50.
 
-[13]:
 
-Eg. Caraka Saṃhitā Śārīrasthāna 1.114; Suśruta Saṃhitā Sūtrasthāna 33.5/1.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 9.4.
+</blockquote>
 
-[14]:
 
-Eg. Suśruta Saṃhitā Sūtrasthāna 10.5.
 
-[15]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.5.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Cakrapāṇidatta’s commentary on Caraka Saṃhitā Sūtrasthāna 9.4.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.5.
 
-[17]:
 
-Eg. Suśruta Saṃhitā Sūtrasthāna 21.29.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 15.41.
+</blockquote>
 
-[18]:
 
-Eg. Caraka Saṃhitā Śārīrasthāna 1.115; Suśruta Saṃhitā Sūtrasthāna 12.9.
 
-[19]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.5.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Sūtrasthāna 1.55.
+</blockquote>
 
-[20]:
 
-Āma implies undigested matter.
 
-[21]:
 
-Monier-Williams, p.134.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Eg. Caraka Saṃhitā Śārīrasthāna 1.108; Suśruta Saṃhitā Sūtrasthāna 21.33.
+</blockquote>
 
-[22]:
 
-Cakrapāṇidatta’s commentary to Caraka Saṃhitā Nidāna-sthāna 1.5.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 1.22.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Eg. Caraka Saṃhitā Sūtrasthāna 6.50.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.23-24.
 
-[25]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.5.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Eg. Caraka Saṃhitā Śārīrasthāna 1.114; Suśruta Saṃhitā Sūtrasthāna 33.5/1.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.11.
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Eg. Suśruta Saṃhitā Sūtrasthāna 10.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Nidāna-sthāna 1.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Nidāna-sthāna 1.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Eg. Suśruta Saṃhitā Sūtrasthāna 21.29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Eg. Caraka Saṃhitā Śārīrasthāna 1.115; Suśruta Saṃhitā Sūtrasthāna 12.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Nidāna-sthāna 1.5.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Āma implies undigested matter.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Monier-Williams, p.134.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Cakrapāṇidatta’s commentary to Caraka Saṃhitā Nidāna-sthāna 1.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 1.22.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Cikitsāsthāna 3.23-24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Cikitsāsthāna 8.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Cikitsāsthāna 8.11.
+</blockquote>
 
 ---
 
-## 40. Disease in the Vedas
+## Disease in the Vedas
 
 Charaka Samhita and Sushruta Samhita
 
@@ -161,161 +231,197 @@ It is noteworthy as Zysk points out, that the idea of health in the positive sen
 
 From the discussion of the aetiology of diseases arises the question as to whether the Atharvan healer had any knowledge of the tridoṣa theory of the body, a fundamental cornerstone of the classical medical texts. The principle of three doṣas (dhātus) of the human body goes like a red thread through the whole of medicine.[32] Bolling opines that it does not appear in the early Atharvan texts[33] though some scholars like S.N. Dasgupta[34] and Karambelkar think that the germs of tridoṣa theory are to be found in the Atharvan hymns.[35] Rao traces the theory back to the Ṛgveda (Ṛgveda 1.34).[36] However, the theory of three active elements of the organism which, on their equilibrium being disturbed or because of functional anomalies, become its three elements of trouble (tridoṣa), the wind, the phlegm and the bile, had not yet been constituted at the times of the Vedas themselves.[37] Filliozat points out that the notion of phlegm hardly prefigures in the Atharvaveda, and it is in the Śatapatha-Brāhmaṇa, that this element is named under one of its principal names, the ślesman.[38]
 
-[1]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.37.
+<div className="footnote-card"><strong>[1]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.37.</div>
 
-[2]:
 
-J.Jolly, “Disease and Medicine (Hindu)”, in J.Hastings (Ed.), Encyclopaedia of Religion and Ethics, Vol. IV, Edinburgh, New York, London, 1911, p.753.
 
-[3]:
 
-G.M. Bolling, “Disease and Medicine (Vedic)”, in J. Hastings (Ed.), Encyclopaedia of Religion and Ethics, Vol. IV, Edinburgh, New York, London, 1911, p.762.
+<div className="footnote-card"><strong>[2]</strong> J.Jolly, “Disease and Medicine (Hindu)”, in J.Hastings (Ed.), Encyclopaedia of Religion and Ethics, Vol. IV, Edinburgh, New York, London, 1911, p.753.</div>
 
-[4]:
 
-K.G. Zysk, Medicine in the Veda: Religious Healing in the Veda, p.12.
 
-[5]:
 
-Ṛgveda X.97.6; V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 114.
+<div className="footnote-card"><strong>[3]</strong> G.M. Bolling, “Disease and Medicine (Vedic)”, in J. Hastings (Ed.), Encyclopaedia of Religion and Ethics, Vol. IV, Edinburgh, New York, London, 1911, p.762.</div>
 
-[6]:
 
-K.G. Zysk, Medicine in the Veda, p. 49.
 
-[7]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 41.
+<div className="footnote-card"><strong>[4]</strong> K.G. Zysk, Medicine in the Veda: Religious Healing in the Veda, p.12.</div>
 
-[8]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 42.
 
-[9]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 42.
+<div className="footnote-card"><strong>[5]</strong> Ṛgveda X.97.6; V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 114.</div>
 
-[10]:
 
-G.M. Bolling, Disease and Medicine (Vedic), in J. Hastings (ed.), Encyclopaedia of Religion and Ethics, Vol. IV, p.762.
 
-[11]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.42.
+<div className="footnote-card"><strong>[6]</strong> K.G. Zysk, Medicine in the Veda, p. 49.</div>
 
-[12]:
 
-Ṛgveda IV.37.
 
-[13]:
 
-V. Grohmann was the first to observe close resemblance between takman and malarial fever. See K.G. Zysk, Medicine in the Veda: Religious Healing in the Veda, p.34, fn.2.
+<div className="footnote-card"><strong>[7]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 41.</div>
 
-[14]:
 
-K.G. Zysk, Medicine in the Veda, p. 34.
 
-[15]:
 
-Atharvaveda IX.8.6.
+<div className="footnote-card"><strong>[8]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 42.</div>
 
-[16]:
 
-K.G. Zysk, Medicine in the Veda, p.35.
 
-[17]:
 
-K.G. Zysk, Medicine in the Veda, p.35.
+<div className="footnote-card"><strong>[9]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p. 42.</div>
 
-[18]:
 
-Atharvaveda VI.20.2.
 
-[19]:
 
-Atharvaveda I.25.3.
+<div className="footnote-card"><strong>[10]</strong> G.M. Bolling, Disease and Medicine (Vedic), in J. Hastings (ed.), Encyclopaedia of Religion and Ethics, Vol. IV, p.762.</div>
 
-[20]:
 
-G.M. Bolling, “Disease and Medicine (Vedic)”, p.763-764.
 
-[21]:
 
-K.G. Zysk, Medicine in the Veda, p.8.
+<div className="footnote-card"><strong>[11]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.42.</div>
 
-[22]:
 
-Atharvaveda II.31; II.32, V.23.
 
-[23]:
 
-J.Jolly, “Disease and Medicine (Hindu)”, p.754.
+<div className="footnote-card"><strong>[12]</strong> Ṛgveda IV.37.</div>
 
-[24]:
 
-Atharvaveda V.22.1; Taken from K.G. Zysk, Medicine in the Veda, p. 41.
 
-[25]:
 
-K.G. Zysk, Medicine in the Veda, pp.29-30.
+<div className="footnote-card"><strong>[13]</strong> V. Grohmann was the first to observe close resemblance between takman and malarial fever. See K.G. Zysk, Medicine in the Veda: Religious Healing in the Veda, p.34, fn.2.</div>
 
-[26]:
 
-Atharvaveda I.22.
 
-[27]:
 
-Atharvaveda VII.116.
+<div className="footnote-card"><strong>[14]</strong> K.G. Zysk, Medicine in the Veda, p. 34.</div>
 
-[28]:
 
-Atharvaveda V.22.
 
-[29]:
 
-Atharvaveda VI.20.
+<div className="footnote-card"><strong>[15]</strong> Atharvaveda IX.8.6.</div>
 
-[30]:
 
-K.G. Zysk, Medicine in the Veda, p.97.
 
-[31]:
 
-K.G. Zysk, Medicine in the Veda, p.8.
+<div className="footnote-card"><strong>[16]</strong> K.G. Zysk, Medicine in the Veda, p.35.</div>
 
-[32]:
 
-J. Jolly, Indian Medicine,.G. Kashikar, p.49.
 
-[33]:
 
-G.M. Bolling, “Disease and Medicine (Vedic)”, p. 763.
+<div className="footnote-card"><strong>[17]</strong> K.G. Zysk, Medicine in the Veda, p.35.</div>
 
-[34]:
 
-S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.299.
 
-[35]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.62.
+<div className="footnote-card"><strong>[18]</strong> Atharvaveda VI.20.2.</div>
 
-[36]:
 
-S.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, Bangalore and Mumbai, 2003 (second reprint), p. 208.
 
-[37]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine: Its Origin and its Greek Parallels, Delhi, 1964 (first Indian edition), p. 187.
+<div className="footnote-card"><strong>[19]</strong> Atharvaveda I.25.3.</div>
 
-[38]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, pp. 187-188.
+
+
+<div className="footnote-card"><strong>[20]</strong> G.M. Bolling, “Disease and Medicine (Vedic)”, p.763-764.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> K.G. Zysk, Medicine in the Veda, p.8.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Atharvaveda II.31; II.32, V.23.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> J.Jolly, “Disease and Medicine (Hindu)”, p.754.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Atharvaveda V.22.1; Taken from K.G. Zysk, Medicine in the Veda, p. 41.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> K.G. Zysk, Medicine in the Veda, pp.29-30.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Atharvaveda I.22.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Atharvaveda VII.116.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Atharvaveda V.22.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Atharvaveda VI.20.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> K.G. Zysk, Medicine in the Veda, p.97.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> K.G. Zysk, Medicine in the Veda, p.8.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> J. Jolly, Indian Medicine,.G. Kashikar, p.49.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> G.M. Bolling, “Disease and Medicine (Vedic)”, p. 763.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.299.</div>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.62.</div>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> S.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, Bangalore and Mumbai, 2003 (second reprint), p. 208.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine: Its Origin and its Greek Parallels, Delhi, 1964 (first Indian edition), p. 187.</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, pp. 187-188.</div>
 
 ---
 
-## 41. Aetiology (a): Ādhyatmika
+## Aetiology (a): Ādhyatmika
 
 Charaka Samhita and Sushruta Samhita
 
@@ -351,13 +457,10 @@ Doṣika (humoral) diseases can be of further two types:
 
 (d) mānasā-psychic.
 
-[1]:
 
-Monier-Williams, p.139.
+<div className="footnote-card"><strong>[1]</strong> Monier-Williams, p.139.</div>
 
 ---
-
-
 
 ---
 
@@ -366,10 +469,6 @@ Monier-Williams, p.139.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Aetiology (b): Ādhibhautika: Charaka Samhita And Sushruta Samhita Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

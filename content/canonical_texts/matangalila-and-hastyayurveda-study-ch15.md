@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Eight noble Elephants (aṣṭadiggajas) within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 49. Eight noble Elephants (aṣṭadiggajas)
+## Eight noble Elephants (aṣṭadiggajas)
 
 Matangalila and Hastyayurveda (study)
 
@@ -49,45 +49,62 @@ The dissemination of the knowledge of veterinary sciences, surrounding elephants
 
 The creation myth of the elephants is not only restricted to their creation and divine origin and introduction of Pālakāpya and Romapāda but also goes beyond that claiming a special status for the other elephants in the forests. In this context it may be highlighted that the Aṣṭadiggajas and their four descendants had several other descendants who also claimed special status as the texts mention that in course of time those elephants, their many sons and grandsons, etc. endowed with spirit and might range at will own the forests, rivers, and mountains of the whole world thus gaining prominence and divine pedigree[9].
 
-[1]:
 
-Brahmāṇḍa Purāṇa, Pt.2, Sec.3, Chap.7, v.314-324; Mahābhārata, Ādi Parvva, Chap.66.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Brahmāṇḍa Purāṇa, Pt.2, Sec.3, Chap.7, v.314-324; Mahābhārata, Ādi Parvva, Chap.66.
+</blockquote>
 
-[2]:
 
-“Mārtaṇḍasya yatoaṇḍato janirabhūd brahmarṣibhirdarśitaṃ/ sandīptaṃ kila tatkapālayugalaṃ pāṇidvayenādarāt/saptāgāyadajaḥ pragṛhihya yugapat sāmānyathairāvato/ nāgoabhūdatha sapta vāraṇavarā jātāḥ pṛthag gānataḥ”, Gaṇapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, Prathama Paṭala, v. 22, Trivandum: Trivandum Sanskrit series, No.X, 1910, p. 4 & Franklin Edgerton. The Elephant-lore of the Hindus, Chapter I, v. 22, p.47.
 
-[3]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri, ed. &tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Chapter 2, v. 2629, Saraswati Mahal Series No. 76, Tanjore: T.M.S.S.M. Library, 1958, p. 19.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “Mārtaṇḍasya yatoaṇḍato janirabhūd brahmarṣibhirdarśitaṃ/ sandīptaṃ kila tatkapālayugalaṃ pāṇidvayenādarāt/saptāgāyadajaḥ pragṛhihya yugapat sāmānyathairāvato/ nāgoabhūdatha sapta vāraṇavarā jātāḥ pṛthag gānataḥ”, Gaṇapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, Prathama Paṭala, v. 22, Trivandum: Trivandum Sanskrit series, No.X, 1910, p. 4 & Franklin Edgerton. The Elephant-lore of the Hindus, Chapter I, v. 22, p.47.
+</blockquote>
 
-[4]:
 
-Brahmāṇḍa Purāṇa, Pt.2, Sec.3, Chap.7, v.314-324; Mahābhārata, Ādi Parvva, Chap.66.
 
-[5]:
 
-John Dowson. A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature, London: Routledge, 2000 (reprint), (First published in 1879), p. 180.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri, ed. &tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Chapter 2, v. 2629, Saraswati Mahal Series No. 76, Tanjore: T.M.S.S.M. Library, 1958, p. 19.
+</blockquote>
 
-[6]:
 
-Rāmāyaṇa, Book I, Canto.-40.
 
-[7]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, Chapter1, v.11-13, p.14.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Brahmāṇḍa Purāṇa, Pt.2, Sec.3, Chap.7, v.314-324; Mahābhārata, Ādi Parvva, Chap.66.
+</blockquote>
 
-[8]:
 
-Vikramajit Ram. Elephant Kingdom-Sculptures from Indian Architecture, Mapin Publishing Pvt. Ltd., 2007.
 
-[9]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, v.23, pp.47-48.
+<div className="footnote-card"><strong>[5]</strong> John Dowson. A Classical Dictionary of Hindu Mythology and Religion, Geography, History, and Literature, London: Routledge, 2000 (reprint), (First published in 1879), p. 180.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Rāmāyaṇa, Book I, Canto.-40.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, Chapter1, v.11-13, p.14.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Vikramajit Ram. Elephant Kingdom-Sculptures from Indian Architecture, Mapin Publishing Pvt. Ltd., 2007.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, v.23, pp.47-48.</div>
 
 ---
 
-## 50. Divine origin of Elephants
+## Divine origin of Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -107,29 +124,32 @@ Deficient in girth and length, his whole body lean, his form has a greyish colou
 
 The elephants of mixed class are born abundantly in the Kali age; they are so named from the mixture of the characteristics mentioned for the “Slow” and the other classes.[5] The designation of elephants and their association with varied time periods is quite interesting this shows that concept of time and chronological phases in early India and associating and assigning events and descriptions to such chronological orders is atypical.
 
-[1]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, p.48.
+<div className="footnote-card"><strong>[1]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, p.48.</div>
 
-[2]:
 
-Ibid., p.49.
 
-[3]:
 
-Ibid.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p.49.</div>
 
-[4]:
 
-Ibid., pp.48-49.
 
-[5]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, p.50.
+<div className="footnote-card"><strong>[3]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., pp.48-49.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, p.50.</div>
 
 ---
 
-## 51. Airāvata (vehicle of the King of Gods—Indra)
+## Airāvata (vehicle of the King of Gods—Indra)
 
 Matangalila and Hastyayurveda (study)
 
@@ -153,41 +173,49 @@ It is not difficult to demonstrate this higher dignity of the chariot–the gods
 
 In a variation of ocean myth, Airāvata is accountable (albeit indirectly) for the churning of the ocean. Here, the elephant already belongs to the king of gods. Epigraphic records also reflect the same references. Along with other Purāṇic treatise Mātaṅgalīlā also gives a mythical story which tells Durvāsā respectfully gave the Lord of the Gods a marvellous garland. It was crushed by Airāvata, on seeing this the sage mercilessly cursed him. By his curse he was destroyed, and then was (re-)born (as) the mate of Abhramu in the ocean when it was churned (by Indra) to win him back and to win complete supremacy. Hence he is reputed to be born of the milk ocean. Cambay plates of Govinda IV of Śaka-samvat 852 (CE 930) gives a magnificent description of the rising of Airāvata by churning milk ocean. Started with evoking Keśava (Viṣṇu), on whose person horripilation was caused by the waves which sprang up in the milky ocean agitated by the revolution of the Mandāra mountain, and which were reddened by the dense washing of quantities of red chalk of the best of the elephant. This refers to Airāvata, the elephant of Indra who was produced by the churning of the milky ocean.[7] Another inscription of Chandella’s from Mahoba, of which verse 26 records the victory of Kīrtivarman over Lakṣmīkarṇa with the description of Purāṇic myths of churning of milk-ocean. According to this record–“Just as Puruṣottama (Viṣṇu), having produced the nectar by churning with the mountain (Mandāra) the rolling (milk) ocean, whose high waves had swallowed many mountains, obtained (the goddess) Lakṣmī together with the elephants (of the eight regions), -he (viz. Kīrtivarman), having acquired fame by crushing with his strong arm the haughty Lakṣmīkarṇa, whose armies had destroyed many princess, obtained splendour in this world together with elephants”.[8]
 
-[1]:
 
-“Kṣīrabdhi-manthana’ (the churning of the Ocean of Milk). Variations of the myths recur in the Agni Purāṇa, Viṣṇu Purāṇa and Bhāgavata Purāṇa and in the epics Rāmāyaṇa and Mahābhārata.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> “Kṣīrabdhi-manthana’ (the churning of the Ocean of Milk). Variations of the myths recur in the Agni Purāṇa, Viṣṇu Purāṇa and Bhāgavata Purāṇa and in the epics Rāmāyaṇa and Mahābhārata.
+</blockquote>
 
-[2]:
 
-V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p. 12.
 
-[3]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet: Permanent Black in association with Ashoka University, 2015, p.100.
+<div className="footnote-card"><strong>[2]</strong> V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p. 12.</div>
 
-[4]:
 
-Heinrich Zimmer. Myths and Symbols in Indian Art and Civilization, Princeton: Princeton University Press, 1974, p. 53.
 
-[5]:
 
-Arthur Berriedale Keith. Rigveda Brahmanas: the Aitareya and Kauṣītaki Brāhmanas of the Rigveda, Cambridge: Mass, Harvard University Press, 1920, p.337.
+<div className="footnote-card"><strong>[3]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet: Permanent Black in association with Ashoka University, 2015, p.100.</div>
 
-[6]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, p.122.
 
-[7]:
 
-EI, Vol. VII, pp. 26-27.
+<div className="footnote-card"><strong>[4]</strong> Heinrich Zimmer. Myths and Symbols in Indian Art and Civilization, Princeton: Princeton University Press, 1974, p. 53.</div>
 
-[8]:
 
-EI, Vol. I, p.219.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Arthur Berriedale Keith. Rigveda Brahmanas: the Aitareya and Kauṣītaki Brāhmanas of the Rigveda, Cambridge: Mass, Harvard University Press, 1920, p.337.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, p.122.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> EI, Vol. VII, pp. 26-27.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> EI, Vol. I, p.219.</div>
 
 ---
-
-
 
 ---
 
@@ -196,10 +224,6 @@ EI, Vol. I, p.219.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Curses borne: Matangalila And Hastyayurveda Study Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

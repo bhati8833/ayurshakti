@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Astanga Sangraha, Kalpasthana II: Translation and Notes within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. Astanga Sangraha, Kalpasthana II: Translation and Notes
+## Astanga Sangraha, Kalpasthana II: Translation and Notes
 
 Journal of the European Ayurvedic Society
 
@@ -89,7 +89,7 @@ K.G. Zysk, Astangasangraha, Kalpasthana II 351 royal consumption (rajayaksmin) s
 
 ---
 
-## 49. The Many Faces of Ayurveda
+## The Many Faces of Ayurveda
 
 Journal of the European Ayurvedic Society
 
@@ -121,7 +121,7 @@ the revival, Gangadhara, a resident of Bengal, born in 1789, and a very prolific
 
 ---
 
-## 50. Astanga Sangraha, Kalpasthana III: Translation and Notes
+## Astanga Sangraha, Kalpasthana III: Translation and Notes
 
 Journal of the European Ayurvedic Society
 
@@ -191,8 +191,6 @@ K.G. Zysk, Astangasangraha, Kalpasthana III 53 Cakra), which is old, not infused
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -200,10 +198,6 @@ K.G. Zysk, Astangasangraha, Kalpasthana III 53 Cakra), which is old, not infused
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">A Note on the Sanskrit Word Svastha: Journal Of The European Ayurvedic Society Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

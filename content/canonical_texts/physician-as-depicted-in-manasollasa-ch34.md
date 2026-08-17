@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Food and Diet (in Ayurveda and Manasollasa) within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 37. 8. Food and Diet (in Ayurveda and Manasollasa)
+## 8. Food and Diet (in Ayurveda and Manasollasa)
 
 Physician as depicted in Manasollasa
 
@@ -39,8 +39,6 @@ We know already that diet or food for satisfying hunger is one of the biological
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -48,10 +46,6 @@ We know already that diet or food for satisfying hunger is one of the biological
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch35" className="text-emerald-400 hover:underline flex items-center font-medium">Selected Bibliography: Physician As Depicted In Manasollasa Chapter 35 →</a>
 </div>
-
-
-
-
 
 ---
 

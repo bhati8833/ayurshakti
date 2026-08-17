@@ -11,19 +11,20 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Aṣṭāṅga-Saṃgraha (Āyurveda book) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. Aṣṭāṅga-Saṃgraha (Āyurveda book)
+## Aṣṭāṅga-Saṃgraha (Āyurveda book)
 
 Aṣṭāṅga-Saṃgraha (Āyurveda book)
 
 Aṣṭāṅga-Saṃgraha—A notable book of Āyurveda written by Maharṣi Vāgbhaṭṭa is the Aṣṭāṅga Saṃgraha. He studied the books of his previous Āyurvedācāryas and collected materials from their books and compiled Aṣṭāṅga Saṃgraha. Aṣṭāṅga Saṃgraha is a voluminous text having one hundred fifty Adhyāyas or chapters divided into six sthānas or sections. The first section Sūtra sthāna consists of forty chapters. This section describes the basic doctrines, principles of health, prevention of diseases-diet articlesfood habits-causes of diseases. The second section Śarīra sthāna consists of twelve chapters. This section describes deals with evolution and composition of the universehuman embryology-anatomy-physiology physical and psychological temperamentsdreams- omens total signs etc. The third section Nidānasthāna consists of sixteen chapters. This section describes the causes, signs, symptoms, pathogenesis, prognosis etc., of major diseases. The fourth section Cikitsāsthāna of twenty-four chapters. This section describes elaborate methods of treatment, medicines, diet, care of the patient etc., of all diseases about Kāyacikitsā or inner medicine. The fifth consists of eight chapters. This sections Kalpa sthāna deals with the method of preparing purificatory recipes i.e. -emetics, purgative and enemata; administration of purificatory therapies, management of complications, principles of pharmacy weights and measures etc. The sixth and last sections of Uttarasthāna is consists of fifty chapters. This chapter describes Bāla cikitsā or paediatrics, Graha cikitsā or demonology, Ūrdhvāṅga cikitsā or Netraroga cikitsā or ophthalmology, Karṇaroga cikitsā or otology, Nāsāroga cikitsā or rhinology, Mukharoga cikitsā or treatment of lips, teeth gums, tongue, palate and throat, Śīroroga or treatment of head and scalp, Śalya cikitsā or surgery, Daṃṣṭrā viṣa cikitsā or toxicology, Jarā or Rasāyana or rejuvenation, Vṛṣa or Vājīkaraṇa or vilification[1].
 
-[1]:
 
-Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2018, pp. 1-631, 1-622, 1-546.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2018, pp. 1-631, 1-622, 1-546.
+</blockquote>
 
 ---
 
-## 31. Rasaratnākara (Āyurveda book)
+## Rasaratnākara (Āyurveda book)
 
 Rasaratnākara (Āyurveda book)
 
@@ -33,13 +34,14 @@ In Indian medicine, he is called the pioneer of chemistry and the father of merc
 
 Nāgārjuna will be remembered for curing various diseases by applying for herbal medicine in combination with different metals such as Sulphur, amber, copper, conch, diamond, gold, lead etc. instead of arms[1].
 
-[1]:
 
-Rasaratnākara with Hindi Commentary by Nityanath, trans. Khemraj Sri Krishna Das, Mumbai, Khemraj Shrikrishnadass, 2013, pp. 10-700.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Rasaratnākara with Hindi Commentary by Nityanath, trans. Khemraj Sri Krishna Das, Mumbai, Khemraj Shrikrishnadass, 2013, pp. 10-700.
+</blockquote>
 
 ---
 
-## 32. Kāśyapa Saṃhitā (Āyurveda book)
+## Kāśyapa Saṃhitā (Āyurveda book)
 
 Kāśyapa Saṃhitā (Āyurveda book)
 
@@ -49,13 +51,14 @@ In addition to eight sthāna, one supplementary part named Khilasthāna having e
 
 Aṣṭappidikā or eight furunculosis, ulcers of the overactive crawling child, dadru or ringworm along with blisters developing due to infliction by duḥsaha and other skin disorders specific in the children are mentioned. A Detailed story about duḥsaha, reasons for abduction by it and it worship on pañcamī is described[1].
 
-[1]:
 
-Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, trans. Satyapāla Bhiṣgāchārya, Varanasi, Chaukhambha Sanskrit Sansthan, 2018, pp. 1-960.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, trans. Satyapāla Bhiṣgāchārya, Varanasi, Chaukhambha Sanskrit Sansthan, 2018, pp. 1-960.
+</blockquote>
 
 ---
 
-## 33. Bhāvaprakāśa (Āyurveda book)
+## Bhāvaprakāśa (Āyurveda book)
 
 Bhāvaprakāśa (Āyurveda book)
 
@@ -65,13 +68,14 @@ Description of different groups of drugs and articles of diet is dealt is twenty
 
 Madhyakhaṇḍa or middle/second section has seventy-one chapters dealing with the Nidāna or aetiology, Lakṣaṇa or symptomatology, Samprāpti of pathogenesis and cikitsā or treatment of all diseases, with greater emphasis on Kāyacikitsā or inner medicine. Both kaṣṭauṣadha (formulae from vegetable drugs) and rasauṣadha (formulae from mercury and minerals) are mentioned in the treatment. Uttara Khaṇḍa-third and last section has only two chapters, one dealing with Vājīkaraṇa cikitsā (vilification therapy) and the other with rasāyana cikitsā (rejuvenation therapy)[1].
 
-[1]:
 
-Bhāvaprakāśa by Bhāvamiśra Vol. I–IV, trans. Kalishachandra Sengupta, Vaidyacarya Kalikinkara Senasharma & Ayurvedacharya Satya Shekhara Bhattyacharya (eds.), Kolkata, Deepayan, 2000, pp. 1- 395, 2-410, 1-278, 1-256.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Bhāvaprakāśa by Bhāvamiśra Vol. I–IV, trans. Kalishachandra Sengupta, Vaidyacarya Kalikinkara Senasharma & Ayurvedacharya Satya Shekhara Bhattyacharya (eds.), Kolkata, Deepayan, 2000, pp. 1- 395, 2-410, 1-278, 1-256.
+</blockquote>
 
 ---
 
-## 34. Yogaratnākara (Āyurveda book)
+## Yogaratnākara (Āyurveda book)
 
 Yogaratnākara (Āyurveda book)
 
@@ -85,13 +89,12 @@ The Yogaratnākara texts give a detailed description of various types of experim
 
 Studying the Sāṅgapāṅga of this book, it seems that the author collected the essence of different books and nourished them in such a way that no part of the book should be inferior. Therefore, there is no room for doubt that a person can become a famous doctor by studying this book[1].
 
-[1]:
 
-Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripathi & Daya Shankar Tripathi, Varanasi, Chowkhamba Krishnadas Academy, 2013, pp. 1-894.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripathi & Daya Shankar Tripathi, Varanasi, Chowkhamba Krishnadas Academy, 2013, pp. 1-894.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -100,10 +103,6 @@ Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripath
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Rasendrasāra Saṅgraha (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

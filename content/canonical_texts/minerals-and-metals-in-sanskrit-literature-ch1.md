@@ -24,7 +24,7 @@ description: "examines the evolutio."
 
 ---
 
-## 3. Chapter 2 - Minerals and Metals in the Rigveda
+## Chapter 2 - Minerals and Metals in the Rigveda
 
 Minerals and Metals in Sanskrit literature
 
@@ -32,11 +32,9 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 2 - Minerals and Metals in the Rigveda
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 5. 2. Transition from the Neolithic to the Chalcolithic Age
+## 2. Transition from the Neolithic to the Chalcolithic Age
 
 Minerals and Metals in Sanskrit literature
 
@@ -50,7 +48,7 @@ II-4 recorded here that in the Pre-Harappan stratum of Kalibangan, chalcedony an
 
 ---
 
-## 7. 3. Fire in Metallurgy
+## 3. Fire in Metallurgy
 
 Minerals and Metals in Sanskrit literature
 
@@ -66,8 +64,6 @@ II-6 The metallic gem thus obtained by the smelting or melting process was known
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -75,10 +71,6 @@ II-6 The metallic gem thus obtained by the smelting or melting process was known
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">4. The Meaning of Ayas: Minerals And Metals In Sanskrit Literature Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

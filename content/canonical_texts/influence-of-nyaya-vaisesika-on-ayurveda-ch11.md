@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 11. Origin and Antiquity of Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. 11. Origin and Antiquity of Ayurveda
+## 11. Origin and Antiquity of Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -27,8 +27,6 @@ knowledge of Ayurveda as eternal, but considers it have a beginning from its fir
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ knowledge of Ayurveda as eternal, but considers it have a beginning from its fir
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">12. Pre-Vedic Period of Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

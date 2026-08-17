@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Conclusion within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 53. Chapter 5 - Conclusion
+## Chapter 5 - Conclusion
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -47,8 +47,6 @@ So this perhaps the reason the most prominent work in Ayurveda, the Caraka-Samhi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -56,10 +54,6 @@ So this perhaps the reason the most prominent work in Ayurveda, the Caraka-Samhi
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch50" className="text-emerald-400 hover:underline flex items-center font-medium">Notes for chapter 4: Influence Of Nyaya Vaisesika On Ayurveda Chapter 50 →</a>
 </div>
-
-
-
-
 
 ---
 

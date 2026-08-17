@@ -94,7 +94,11 @@ Treatment of Corpulency and of Emaciation
 
 24. The course of pentaradices of the bael group mixed with honey, or the course of mineral pitch mixed with the decoction of windkiller is also considered beneficial.
 
+
+<blockquote className="ayur-shloka">
 25-27. Prashatika (praśātikā), Italian millet sanwa millet, wild barley, barley, great millet, common millet, green gram horse-gram, Cakramudgaka, the seed of pigeon-pea mixed with wild snake-gourd and emblic myrobalan should be used as food followed by hydromel as drink. Such wines as are eliminative of fat, flesh and Kapha should be prescribed as post-prandial drinks in proper dose, for the cure of excessive corpulency.
+</blockquote>
+
 
 28. One desirous of getting rid of corpulency must indulge, in a gradually increasing measure, in nightwaking, sex-act, exercise and mental exertion.
 

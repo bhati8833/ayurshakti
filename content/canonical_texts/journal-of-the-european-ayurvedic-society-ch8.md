@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford
+## Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford
 
 Journal of the European Ayurvedic Society
 
@@ -59,7 +59,7 @@ Jinadasa Liyanaratne Sri Lankan Medical Manuscripts ... 53 = vi In the above tab
 
 ---
 
-## 22. On the Identity of Arka, an Ayurvedic Class of Medicines
+## On the Identity of Arka, an Ayurvedic Class of Medicines
 
 Journal of the European Ayurvedic Society
 
@@ -87,7 +87,7 @@ Anonymous 1978 Ayurvedacharya 1951 Bhattacharya 1969 Egan-Kirk-Sawyer 1981 Meule
 
 ---
 
-## 23. The Svastika antidote
+## The Svastika antidote
 
 Journal of the European Ayurvedic Society
 
@@ -143,8 +143,6 @@ R.E. Emmerick, The Svastika antidote 81 For vrksan aindrasanir yatha cf. gaja iv
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -152,10 +150,6 @@ R.E. Emmerick, The Svastika antidote 81 For vrksan aindrasanir yatha cf. gaja iv
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">On the Dravyaguna-sangraha of Chakrapani-datta: Journal Of The European Ayurvedic Society Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

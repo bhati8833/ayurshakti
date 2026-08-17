@@ -82,7 +82,11 @@ Pathology and Treatment of Vital Affections
 
 25-26. The following thirteen are the urinary morbidities:—
 
+
+<blockquote className="ayur-shloka">
 1. Mutraukasada [mūtraukasāda] (Dense urine); 2. Mutrajathara [mūtrajaṭhara] (uro-celioncus); 3 Kricchra [kṛcchra] (dysuria); 4. Mutrotsanga [mūtrotsaṅga] (Residual urination); 5. Samkshaya [saṃkṣaya] (Suppression of urine); 6 Mutratita [mūtrātīta] (Delayed Micturition); 7. Vatashthila [vātāṣṭhīlā] (Stone hard tumor); 8. Vatabasti [vātabasti] (Vāta affection of the bladder); 9. Ushnamaruta [uṣṇamāruta] (Vāta-cum-Pitta condition); 10. Vatakundalika [vātakuṇḍalikā] (Circumgyratory Vāta in the bladder); 11. Raktagranthi (Blood tumor); 12. Vidghata [viḍghāta] (Fecal fistula); 13. Bastikundala [bastikuṇḍala] (circular distension of the bladder).
+</blockquote>
+
 
 Hear now the symptoms of each of them.
 

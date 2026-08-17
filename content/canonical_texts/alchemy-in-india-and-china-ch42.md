@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Indian and Chinese Alchemy—Parallels within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 50. Chapter 7 - Indian and Chinese Alchemy—Parallels
+## Chapter 7 - Indian and Chinese Alchemy—Parallels
 
 Alchemy in India and China
 
@@ -19,13 +19,9 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 Chapter 7 - Indian and Chinese Alchemy—Parallels
 
-- Sub-Contents: (+ / -)
-
 [Full title: Some parallels between medieval Indian alchemy and that described in the Chinese text “Chun Zhu Ji Wen”—Records of things heard at Spring island]
 
 ---
-
-
 
 ---
 
@@ -34,10 +30,6 @@ Chapter 7 - Indian and Chinese Alchemy—Parallels
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch43" className="text-emerald-400 hover:underline flex items-center font-medium">9. Case of “Crow’s Beak Gold”: Alchemy In India And China Chapter 43 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for indigestion (23): Kambu rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 437. Part 25 - Treatment for indigestion (23): Kambu rasa
+## Part 25 - Treatment for indigestion (23): Kambu rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,8 +29,6 @@ This concludes ‘Treatment for indigestion (23): Kambu rasa’ included in Bhud
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ This concludes ‘Treatment for indigestion (23): Kambu rasa’ included in Bhud
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

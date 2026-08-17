@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Element of Provincial Administration within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. 2.7. Element of Provincial Administration
+## 2.7. Element of Provincial Administration
 
 Manasollasa (study of Arts and Sciences)
 
@@ -37,7 +37,7 @@ During the time of Somesvara, the Calukya empire had become too extensive to be 
 
 ---
 
-## 13. Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasollasa
+## Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -47,11 +47,7 @@ The Manasollasa is ...
 
 Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasollasa
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -60,10 +56,6 @@ Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasolla
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Element of the Treasury (Kosha): Manasollasa Study Of Arts And Sciences Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Characteristics of pseudo and feigned Physicians within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 34. 5. Characteristics of pseudo and feigned Physicians
+## 5. Characteristics of pseudo and feigned Physicians
 
 Physician as depicted in Manasollasa
 
@@ -25,8 +25,6 @@ According to Caraka pseudo and feigned physicians are those who move about from 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ According to Caraka pseudo and feigned physicians are those who move about from 
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch32" className="text-emerald-400 hover:underline flex items-center font-medium">7. Examination of Diseases: Physician As Depicted In Manasollasa Chapter 32 →</a>
 </div>
-
-
-
-
 
 ---
 

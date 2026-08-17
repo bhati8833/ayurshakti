@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of diseases of the penis within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Chapter XIV - Diagnosis of diseases of the penis
+## Chapter XIV - Diagnosis of diseases of the penis
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -29,39 +29,7 @@ Any of the eighteen different types of the disease may affect the genital (penis
 
 Diseases, which result from such malpractices, are known as,—
 
-Sarshapika,
-
-Ashthilika,
-
-Grathita,
-
-Kumbhika,
-
-Alaji,
-
-Mridita,
-
-Sammudha-pidaka,
-
-Avamantha,
-
-Pushkarika,
-
-Sparshahani,
-
-Uttama,
-
-Shatoponaka,
-
-Tvakapaka,
-
-Shonitarvuda,
-
-Mansarvuda,
-
-Mansapaka,
-
-Vidradhi
+Sarshapika,, Ashthilika,, Grathita,, Kumbhika,, Alaji,, Mridita,, Sammudha-pidaka,, Avamantha,, Pushkarika,, Sparshahani,, Uttama,, Shatoponaka,, Tvakapaka,, Shonitarvuda,, Mansarvuda,, Mansapaka,, Vidradhi
 
 and Tilakalak. 2.
 
@@ -87,13 +55,10 @@ Of the above enumerated malignant diseases of the penis, those known as Mansarvu
 
 Thus ends the fourteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of Nidana of different types of Shukadohsa.
 
-[1]:
 
-According to Dallana it is due to the action of Vayu and blood.
+<div className="footnote-card"><strong>[1]</strong> According to Dallana it is due to the action of Vayu and blood.</div>
 
 ---
-
-
 
 ---
 
@@ -102,10 +67,6 @@ According to Dallana it is due to the action of Vayu and blood.
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of fractures-dislocations: Sushruta Samhita Nidanasthana Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

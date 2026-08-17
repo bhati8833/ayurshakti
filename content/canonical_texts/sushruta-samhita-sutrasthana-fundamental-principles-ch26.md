@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Knowledge of diseases within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 32. Chapter XXIV - Knowledge of diseases
+## Chapter XXIV - Knowledge of diseases
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -139,29 +139,30 @@ We shall describe the nature, intensity and quality of diseases with their compl
 
 Thus ends the twenty-fourth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the classification of diseases according to their specific nature.
 
-[1]:
 
-Certain commentators interpret the term “Atman” in “Adhyatmika” to mean body only, and accordingly designate all phenomena that may be manifest in the body as Adhyatmika.
+<div className="footnote-card"><strong>[1]</strong> Certain commentators interpret the term “Atman” in “Adhyatmika” to mean body only, and accordingly designate all phenomena that may be manifest in the body as Adhyatmika.</div>
 
-[2]:
 
-According to certain authorities “Death” may also mean death of tissues.
 
-[3]:
 
-Several authorities on the other hand include such diseases as thirst, hunger etc., within the Adhyatmika class inasmuch as they are but the indications of the want of certain vital principles in the body and appear in the mental plane (Adhyatmika) only as longings for water, food, etc
+<div className="footnote-card"><strong>[2]</strong> According to certain authorities “Death” may also mean death of tissues.</div>
 
-[4]:
 
-The Sattva Illuminating or psychic principle. Rajas:—Principle of Action and Co-hesion. Tanias: —Principle of Nescience or Illusion.
 
-[5]:
 
-This answers the question, “how can the deranged bodily humours bring about a disease of the Adhi-vala-type—a disease which is specifically due to the derangement of the innate and primary factors of life.”
+<div className="footnote-card"><strong>[3]</strong> Several authorities on the other hand include such diseases as thirst, hunger etc., within the Adhyatmika class inasmuch as they are but the indications of the want of certain vital principles in the body and appear in the mental plane (Adhyatmika) only as longings for water, food, etc</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> The Sattva Illuminating or psychic principle. Rajas:—Principle of Action and Co-hesion. Tanias: —Principle of Nescience or Illusion.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> This answers the question, “how can the deranged bodily humours bring about a disease of the Adhi-vala-type—a disease which is specifically due to the derangement of the innate and primary factors of life.”</div>
 
 ---
-
-
 
 ---
 
@@ -170,10 +171,6 @@ This answers the question, “how can the deranged bodily humours bring about a 
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">Knowledge of foreign bodies: Sushruta Samhita Sutrasthana Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

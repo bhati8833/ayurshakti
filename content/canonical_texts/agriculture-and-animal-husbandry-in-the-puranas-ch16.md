@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Worship of Cow and Go-vrata within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 66. Part 7 - The Worship of Cow and Go-vrata
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Worship of Cow and Go-vrata’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 7 - The Worship of Cow and Go-vrata
 
 Part 7 - The Worship of Cow and Go-vrata
 
@@ -23,38 +19,47 @@ The Agni Purāṇa states that the gods, the Brāhmaṇas, the cows and the holy
 
 The Agni Purāṇa mentions the name of the penance go-vrata. In this penance a man should wash his body with the urine of a cow, live on a diet which consists of the preparations of her milk, should look after a herd of cows, and eat his meals after the cows had been fed up. In this penance, one should observe such a life for continuous one month. By practicing this vow one would be freed from all sins and ascended the Goloka i.e. the region of Viṣṇu, after death.[5]
 
-[1]:
 
-devabhāhmaṇagosādhusādhvībhiḥ sakalaṃ jagat/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> devabhāhmaṇagosādhusādhvībhiḥ sakalaṃ jagat/
 dhāryate vai sadā tasmātsarve pūjyatamā matāḥ// Agni Purāṇa , 292.21
+</blockquote>
 
-[2]:
 
-gavyeṣuṇeti yo nityaṃ sāyaṃ prātaratandritaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> gavyeṣuṇeti yo nityaṃ sāyaṃ prātaratandritaḥ/
 upasthānaṃ gavāṃ kuryāttasya syustāḥ sadā gṛhe// Ibid., 261.18
+</blockquote>
 
-[3]:
 
-Viṣṇu Purāṇa , 5.10.36
 
-[4]:
 
-gāvaḥ śailaṃ tataścakruścārccitāsyāḥ pradakṣiṇam/
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Viṣṇu Purāṇa , 5.10.36
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> gāvaḥ śailaṃ tataścakruścārccitāsyāḥ pradakṣiṇam/
 ṛṣabhāścāpi narddantaḥ satoyā jaladā iva// Ibid.,5.10.46
+</blockquote>
 
-[5]:
 
-gomūtreṇācaretsnānaṃ vṛttiṃ kuryācca gorasaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> gomūtreṇācaretsnānaṃ vṛttiṃ kuryācca gorasaiḥ/
 gobhirvrajecca bhuktāsu bhuñjītathā ca govratī//
 māsenaikena niṣpāpo golokī sagaṇo bhavet/ Agni Purāṇa , 292.12-13a
+</blockquote>
 
 ---
 
-## 67. Part 9 - Rites Performed for the Welfare of Cow
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Rites Performed for the Welfare of Cow’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 9 - Rites Performed for the Welfare of Cow
 
 Part 9 - Rites Performed for the Welfare of Cow
 
@@ -62,25 +67,23 @@ The Agni Purāṇa mentions the rites which grant peace for the cow. On the brig
 
 In the Naimittika form of the pacificatory rite, the god Viṣṇu should be worshipped at the centre of the lotus shaped mystic diagram, laid out on the ground. The Gods should be worshipped on the petals of the lotus shaped diagram. Ravi(the Sun god) and Bahurūpa should be worshipped on the edge of the outer surface of the circle.The heaven, the Viśva-rūpas, the Siddhis, the Riddhis, the goddess of peace, Rohiṇī, the cows of the different quarters of heaven should also be worshipped.The moon, Īśvara and Dikpālas should be worshipped in the leaves of the lotus shaped diagram and sticks(samidha) of kṣīra tree sinked in clarified butter should be poured on the fire in honour of them.Sun-dried rice and mustard seeds should also be mixed with the clarified butter. Gold (suvarṇa) and kāṃsya should be given to the Brāhmaṇas.The cows should be worshipped and released for peace.[2]
 
-[1]:
 
-aśvayukśuklapakṣasya pañcadaśyāṃ yajeddharim/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> aśvayukśuklapakṣasya pañcadaśyāṃ yajeddharim/
 hariṃ rudramajaṃ sūryaṃ śriyamagniṃ ghṛtena ca//
 dadhi samprāśya gāḥ pūjya kāryā vahnipradakṣiṇāḥ/
 vṛṣāṇāṃ yojayedyuddhaṃ gītavādyaravairbahiḥ//
 gavāṃ tu lavaṇaṃ deyaṃ brāhmaṇānāṃ ca dakṣiṇā// Agni Purāṇa , 292.37-39.a
+</blockquote>
 
-[2]:
 
-Ibid., 292.39b-43
+
+
+<div className="footnote-card"><strong>[2]</strong> Ibid., 292.39b-43</div>
 
 ---
 
-## 68. Part 12 - Pañcagavya (Produced from Cow) used in different occasions
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Pancagavya (Produced from Cow) used in different occasions’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 12 - Pañcagavya (Produced from Cow) used in different occasions
 
 Part 12 - Pañcagavya (Produced from Cow) used in different occasions
 
@@ -92,138 +95,203 @@ A diet consisting of the dung and urine of a cow, and the curd and kṣīra prep
 
 The word paya in the Purāṇa referred to cow’s milk for śrāddha.[25] It is said that the cow’s milk mixed with honey and rice cooked in cow’s milk, clarified butter made of cow’s milk offered even in small quantity, satisfies Pitṛs, the Pūrvadevatās, to the maximum possible extant.[26] Curd is associated with the gain of rains. If curds, honey and clarified butter are offered with the mantra apaḥ piva, it causes torrential rains.[27]
 
-[1]:
 
-Matsya Purāṇa ,56.6; 57.5; 60.17; 62.8; 266.6; 267.5-6; Vāyu Purāṇa ,110.15
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Matsya Purāṇa ,56.6; 57.5; 60.17; 62.8; 266.6; 267.5-6; Vāyu Purāṇa ,110.15
+</blockquote>
 
-[2]:
 
-Vide., Apte, V.S., The Practical Sanskrit-English Dictionary, p. 578
 
-[3]:
 
-tadā snānaṃ naraḥ kuryātpañcagavyena sarṣapaiḥ/
+<div className="footnote-card"><strong>[2]</strong> Vide., Apte, V.S., The Practical Sanskrit-English Dictionary, p. 578</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> tadā snānaṃ naraḥ kuryātpañcagavyena sarṣapaiḥ/
 āpyāyasveti tu japedvidvānaṣṭaśataṃ punaḥ// Matsya Purāṇa , 57.5
+</blockquote>
 
-[4]:
 
-Agni Purāṇa , 34.9-11
 
-[5]:
 
-mūrdhānaṃ pañcagavyena bhadrāsanagataṃ nṛpam/ Ibid., 218.17cd
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Agni Purāṇa , 34.9-11
+</blockquote>
 
-[6]:
 
-Ibid., 197.12
 
-[7]:
 
-gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśodakam/
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> mūrdhānaṃ pañcagavyena bhadrāsanagataṃ nṛpam/ Ibid., 218.17cd
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., 197.12</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśodakam/
 ṣaḍaṅgaṃ paramaṃ pāne duḥsvapnādinivāraṇam// Ibid., 292.3
+</blockquote>
 
-[8]:
 
-pañcagavyaṃ saktumiśramudvartya snānamācaret// Ibid.,265.8ab
 
-[9]:
 
-Ibid., 184.2
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> pañcagavyaṃ saktumiśramudvartya snānamācaret// Ibid.,265.8ab
+</blockquote>
 
-[10]:
 
-Ibid., 196.19
 
-[11]:
 
-viḍaṅgacūrṇaṃ gomūtraṃ sarvatra kṛmināśane// Ibid., 279.42b
+<div className="footnote-card"><strong>[9]</strong> Ibid., 184.2</div>
 
-[12]:
 
-dhānyāmbunārikelaṃ gomūtraṃ kramukaviśvayuk/
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., 196.19</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> viḍaṅgacūrṇaṃ gomūtraṃ sarvatra kṛmināśane// Ibid., 279.42b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> dhānyāmbunārikelaṃ gomūtraṃ kramukaviśvayuk/
 kvāthitaṃ kavalaṃ kāryaṃ jihvāvyādhipraśāntaye// Ibid., 283.10
+</blockquote>
 
-[13]:
 
-pallavairarkapūtīkasnuhīrugghātajātikaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> pallavairarkapūtīkasnuhīrugghātajātikaiḥ/
 udvartayetsagomūtraiḥ sarvatvagdoṣanāśanaḥ// Ibid.,283.12
+</blockquote>
 
-[14]:
 
-gomūtraṃ pāṇḍurogeṣu rajanībhyāṃ ghṛtaṃ dvija/ Ibid.,287.8a
 
-[15]:
 
-Ibid., 287.18
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> gomūtraṃ pāṇḍurogeṣu rajanībhyāṃ ghṛtaṃ dvija/ Ibid.,287.8a
+</blockquote>
 
-[16]:
 
-gomayaṃ lavaṇaṃ mūtraṃ kvathitaṃ mṛtsamanvitam/
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., 287.18</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> gomayaṃ lavaṇaṃ mūtraṃ kvathitaṃ mṛtsamanvitam/
 aṅgalepo makṣikādidaṃśaśramavināśanaḥ// Ibid.,288.57
+</blockquote>
 
-[17]:
 
-hiṅgusauvarcalavyoṣairdvipalāṃśairghṛtāḍhakam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> hiṅgusauvarcalavyoṣairdvipalāṃśairghṛtāḍhakam/
 caturguṇe gavāṃ mūtre siddhamunmādanāśanam// Ibid.,285.18
+</blockquote>
 
-[18]:
 
-gośakṛnmūtravalmīkamṛttikābhasmavāribhiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> gośakṛnmūtravalmīkamṛttikābhasmavāribhiḥ/
 veśmāyatanaliṅgādeḥ kāryamevaṃ viśodhanam// Ibid., 327.6b-7a
+</blockquote>
 
-[19]:
 
-harītakīṃ mūtrasiddhāṃ satailalavaṇānvitām/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> harītakīṃ mūtrasiddhāṃ satailalavaṇānvitām/
 prātaḥ prātaśca seveta kaphavātāmayāpahām// Ibid., 285.37
+</blockquote>
 
-[20]:
 
-gomūtraṃ gomayaṃ sarpiḥ kṣīraṃ dadhi kuśodakam /
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> gomūtraṃ gomayaṃ sarpiḥ kṣīraṃ dadhi kuśodakam /
 ekarātropavāsaśca śvapākamapi śodhayet// Ibid., 292.6-7a
+</blockquote>
 
-[21]:
 
-sarvāśubhavināśāya purācaritamīśvaraiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> sarvāśubhavināśāya purācaritamīśvaraiḥ/
 pratyekaṃ ca tryahābhyastaṃ mahāsāntapanaṃ smṛtam/
 sarvakāmapradaṃ caitatsarvāśubhavimardanam// Ibid., 292.7b-8
+</blockquote>
 
-[22]:
 
-kṛcchrātikṛcchraṃ payasā divasānekaviṃśatim/
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> kṛcchrātikṛcchraṃ payasā divasānekaviṃśatim/
 nirmalāḥ sarvakāmāptyā svargagāḥ syurnarottamāḥ// Ibid., 292.9
+</blockquote>
 
-[23]:
 
-tryahamuṣṇaṃ pibenmūtraṃ tryahamuṣṇaṃ ghṛtaṃ pibet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> tryahamuṣṇaṃ pibenmūtraṃ tryahamuṣṇaṃ ghṛtaṃ pibet/
 tryahamuṣṇaṃ payaḥ pītvā vāyubhakṣaḥ paraṃ tryham//
 taptakṛcchravrataṃ sarvapāpaghnaṃ Brahmālokadam// Ibid., 292.10-11a
+</blockquote>
 
-[24]:
 
-śītaistu śītakṛcchraṃ syādbrahmoktaṃ Brahmālokadam// Ibid., 292.11b
 
-[25]:
 
-saṃvatsaraṃ tu gavyena payasā pāyasena ca// Matsya Purāṇa ,17.34
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> śītaistu śītakṛcchraṃ syādbrahmoktaṃ Brahmālokadam// Ibid., 292.11b
+</blockquote>
 
-[26]:
 
-yatkiṃcinmadhusaṃmiśraṃ gokṣīraṃ ghṛtapāyasam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> saṃvatsaraṃ tu gavyena payasā pāyasena ca// Matsya Purāṇa ,17.34
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> yatkiṃcinmadhusaṃmiśraṃ gokṣīraṃ ghṛtapāyasam/
 dattamakṣayamityāhuḥ pitaraḥ pūrvadevatāḥ// Ibid.,17.36
+</blockquote>
 
-[27]:
 
-apāṃ garbhamiti hutvā devaṃ varṣāpayeddhruvam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> apāṃ garbhamiti hutvā devaṃ varṣāpayeddhruvam/
 apaḥ pibeti ca tathā hutvā dadhi ghṛtaṃ madhu//
 pravartayati dharmajña mahāvṛṣṭimanantaram// Agni Purāṇa , 260.50-51
+</blockquote>
 
 ---
 
-## 69. Part 11 - Cows Used as Gifts in Various Rituals
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Cows Used as Gifts in Various Rituals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 11 - Cows Used as Gifts in Various Rituals
 
 Part 11 - Cows Used as Gifts in Various Rituals
 
@@ -231,23 +299,7 @@ Various gifts of cows are mentioned in the Purāṇas.The importance of cow gift
 
 The Agni Purāṇa likewise mentions ten such cows—
 
-guḍa-dhenu,
-
-ghṛta-dhenu,
-
-tila-dhenu,
-
-jala-dhenu,
-
-kṣīra-dhenu,
-
-madhu-dhenu,
-
-śarkarā-dhenu,
-
-dadhi-dhenu,
-
-rasa-dhenu and
+guḍa-dhenu,, ghṛta-dhenu,, tila-dhenu,, jala-dhenu,, kṣīra-dhenu,, madhu-dhenu,, śarkarā-dhenu,, dadhi-dhenu,, rasa-dhenu and
 
 the real cow.[5]
 
@@ -257,114 +309,171 @@ God Agni states the significance of offering gifts of cows and buffaloes to the 
 
 The word Ratnadhenu in the Matsya Purāṇa indicates the gift of a cow with precious gems set in every part of its body.It takes one to the world of Viṣṇu and makes him attain the place of Śambhu with his sons, grandsons, etc.[16] The term pañcadaśī in the Matsya Purāṇa indicates the fifteenth day of the Āśvina month for making gift of a cow. One who gives away the Nāradīya Purāṇa in charity,on the full-moon day of Āśvina, along with a cow, attains bliss, and is liberated from the cycles of birth.[17] In the Māheśvara vrata (Śiva Caturdaśī), which begins on the 13th day of the bright half of Mārgaśīrṣa in honour of Śaṃkara, a gold cow and calf is to be offered as present to a śrotriya; ladies who perform this with permission from husband attains bliss by the grace of Pinākapāṇi(the holder of Pināka bow)Śiva.[18] The performer of Ahiṃsāvrata, becomes a king; he who becoming vegetarian and leaving to eat meat for a year, gives away a cow at the end.[19] The term Gosahasra signifies the gift of cows, a thousand in number properly adorned with bronze milking vessels and a bull in the midst, leads one to Śiva’s abode.[20] The Matsya Purāṇa mentions about Kapila Dhenu, the brown cow fit for gift in honour of the sun.[21] Gift of Kapila Dhenu is equal to hearing ten chapters of the Viṣṇu Purāṇa.[22] Reference is met with in the Bhāgavāta Purāṇa that, Balarāma made a gift of ten thousand cows to Brāhmaṇas.[23] Gift of a cow in Vaitaraṇī, the devanadī (the divine river), secures release for twenty-one generation.[24] Goloka, is the residence of Surabhi, the wish yielding heavenly cow;givers of cow with calf go to this region.[25]
 
-[1]:
 
-Garuḍa Purāṇa , 2.31.19b-20
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Garuḍa Purāṇa , 2.31.19b-20
+</blockquote>
 
-[2]:
 
-Matsya Purāṇa , 55.24-25
 
-[3]:
 
-Ibid., 82.18-20
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Matsya Purāṇa , 55.24-25
+</blockquote>
 
-[4]:
 
-Ibid., 81.27; 82.2-31
 
-[5]:
 
-Agni Purāṇa , 210.10-12
+<div className="footnote-card"><strong>[3]</strong> Ibid., 82.18-20</div>
 
-[6]:
 
-viṣṇvādīnpūjya taṃ datvā bhuktabhogo nṛpo bhavet/
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 81.27; 82.2-31</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Agni Purāṇa , 210.10-12
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> viṣṇvādīnpūjya taṃ datvā bhuktabhogo nṛpo bhavet/
 aśvasaṃkhyāpramāṇena gomeruṃ pūrvavaddadet// Ibid., 212.26
+</blockquote>
 
-[7]:
 
-godānātkīrtanādrakṣāṃ kṛtvā coddharate kulam // Ibid., 292.5b
 
-[8]:
 
-gṛhaṃ maṭhaṃ sabhāṃ svargī datvā syācca pratiśrayam/
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> godānātkīrtanādrakṣāṃ kṛtvā coddharate kulam // Ibid., 292.5b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> gṛhaṃ maṭhaṃ sabhāṃ svargī datvā syācca pratiśrayam/
 dattvā kṛtvā gogṛhaṃ ca niṣpāpaḥ svargamāpnuyāt// Ibid., 211.18
+</blockquote>
 
-[9]:
 
-godānādāyurārogyasaubhāgyasvargamāpnuyāt// Ibid., 211.4a
 
-[10]:
 
-ekāṃ gāṃ daśagurdadyāddaśa dadyācca gośatī/
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> godānādāyurārogyasaubhāgyasvargamāpnuyāt// Ibid., 211.4a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> ekāṃ gāṃ daśagurdadyāddaśa dadyācca gośatī/
 śataṃ sahasragurdadyātsarve tulyaphalā hi te// Ibid., 211.1
+</blockquote>
 
-[11]:
 
-mahiṣīdānācca sobhāgyaṃ vṛṣadānāddivaṃ vrajet// Ibid., 211.6b
 
-[12]:
 
-daśānāṃ kapilānāṃ tu dattānāṃ jyeṣṭhapuṣkare/
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> mahiṣīdānācca sobhāgyaṃ vṛṣadānāddivaṃ vrajet// Ibid., 211.6b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> daśānāṃ kapilānāṃ tu dattānāṃ jyeṣṭhapuṣkare/
 tatphalaṃ cākṣayaṃ proktaṃ vṛṣabhasya to mokṣaṇe// Ibid., 211.8b-9a
+</blockquote>
 
-[13]:
 
-Matsya Purāṇa , 101.29-30
 
-[14]:
 
-Ibid., 274.8
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Matsya Purāṇa , 101.29-30
+</blockquote>
 
-[15]:
 
-Bhāgavata Purāṇa , 9.24.14; 10.41.6; 49.3; 57.32; Vāyu Purāṇa , 96.105; Viṣṇu Purāṇa , 4.14.2
 
-[16]:
 
-Matsya Purāṇa , 274.10; 288.1-17
+<div className="footnote-card"><strong>[14]</strong> Ibid., 274.8</div>
 
-[17]:
 
-āśvine pañcadaśyāṃ tu dadyāddhenusamanvitam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Bhāgavata Purāṇa , 9.24.14; 10.41.6; 49.3; 57.32; Vāyu Purāṇa , 96.105; Viṣṇu Purāṇa , 4.14.2
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Matsya Purāṇa , 274.10; 288.1-17
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> āśvine pañcadaśyāṃ tu dadyāddhenusamanvitam/
 paramāṃ siddhimāpnoti punarāvṛttirdurlabhām// Ibid., 53.24
+</blockquote>
 
-[18]:
 
-Ibid.,95.5-38
 
-[19]:
 
-Ibid., 101.35
+<div className="footnote-card"><strong>[18]</strong> Ibid.,95.5-38</div>
 
-[20]:
 
-Ibid., 274.7; 278.1-29
 
-[21]:
 
-Ibid., 93.60; 105.16
+<div className="footnote-card"><strong>[19]</strong> Ibid., 101.35</div>
 
-[22]:
 
-Viṣṇu Purāṇa , 6.8.52
 
-[23]:
 
-Bhāgavata Purāṇa , 10.56.28; 10.79.15-16
+<div className="footnote-card"><strong>[20]</strong> Ibid., 274.7; 278.1-29</div>
 
-[24]:
 
-Vāyu Purāṇa , 105.44; 108.80; 109.17; 112.26
 
-[25]:
 
-Bhāgavata Purāṇa , 10.27.1; Vāyu Purāṇa , 100.159; 104.53-55; Matsya Purāṇa , 191.98; 205.8
+<div className="footnote-card"><strong>[21]</strong> Ibid., 93.60; 105.16</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Viṣṇu Purāṇa , 6.8.52
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Bhāgavata Purāṇa , 10.56.28; 10.79.15-16
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Vāyu Purāṇa , 105.44; 108.80; 109.17; 112.26
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Bhāgavata Purāṇa , 10.27.1; Vāyu Purāṇa , 100.159; 104.53-55; Matsya Purāṇa , 191.98; 205.8
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -373,10 +482,6 @@ Bhāgavata Purāṇa , 10.27.1; Vāyu Purāṇa , 100.159; 104.53-55; Matsya Pur
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Classification of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

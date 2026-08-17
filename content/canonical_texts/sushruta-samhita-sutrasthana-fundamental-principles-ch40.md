@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Kinds of land regions within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. Chapter XXXVII - Kinds of land regions
+## Chapter XXXVII - Kinds of land regions
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -53,17 +53,15 @@ The pharmacy and the medicinal store of a physician should occupy a commendable 
 
 Thus ends the thirty-seventh Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Classification of grounds for the culture of medicinal plants and herbs, etc.
 
-[1]:
 
-Herbs or drugs, which in virtue of their own essential properties soothe or subdue a disease without eliminating the morbid humours or without exercising any emetic or purgative action.
+<div className="footnote-card"><strong>[1]</strong> Herbs or drugs, which in virtue of their own essential properties soothe or subdue a disease without eliminating the morbid humours or without exercising any emetic or purgative action.</div>
 
-[2]:
 
-Hence the doctrine, as regards the culling of the different parts of a medicinal plant such as, the leaves, roots, etc., in the different seasons of the year, naturally falls to the ground.
+
+
+<div className="footnote-card"><strong>[2]</strong> Hence the doctrine, as regards the culling of the different parts of a medicinal plant such as, the leaves, roots, etc., in the different seasons of the year, naturally falls to the ground.</div>
 
 ---
-
-
 
 ---
 
@@ -72,10 +70,6 @@ Hence the doctrine, as regards the culling of the different parts of a medicinal
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch41" className="text-emerald-400 hover:underline flex items-center font-medium">Groups of drugs: Sushruta Samhita Sutrasthana Chapter 41 →</a>
 </div>
-
-
-
-
 
 ---
 

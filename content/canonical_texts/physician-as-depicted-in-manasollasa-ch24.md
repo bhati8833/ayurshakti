@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Environment in Manasollasa within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. Chapter 5 - The Environment in Manasollasa
+## Chapter 5 - The Environment in Manasollasa
 
 Physician as depicted in Manasollasa
 
@@ -21,8 +21,6 @@ Chapter 5 - The Environment in Manasollasa
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -30,10 +28,6 @@ Chapter 5 - The Environment in Manasollasa
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">9. Ritucarya (conduct during different seasons): Physician As Depicted In Manasollasa Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

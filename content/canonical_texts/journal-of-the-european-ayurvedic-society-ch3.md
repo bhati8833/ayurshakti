@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Sanskrit Ayurvedic Manuscripts in the British Isles within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Sanskrit Ayurvedic Manuscripts in the British Isles
+## Sanskrit Ayurvedic Manuscripts in the British Isles
 
 Journal of the European Ayurvedic Society
 
@@ -35,7 +35,7 @@ enquiry, for which a sound knowledge of the Nepalese script is required. The Cam
 
 ---
 
-## 7. Ayurvedic manuscripts in the Cambridge University Library
+## Ayurvedic manuscripts in the Cambridge University Library
 
 Journal of the European Ayurvedic Society
 
@@ -55,7 +55,7 @@ D. Wujastyk, Sanskrit Ayurvedic Manuscripts... mahesvarapadambhojapujaprakhyatam
 
 ---
 
-## 8. Ayurvedic manuscripts in the Chandra Shum Shere collection, Oxford
+## Ayurvedic manuscripts in the Chandra Shum Shere collection, Oxford
 
 Journal of the European Ayurvedic Society
 
@@ -109,8 +109,6 @@ D. Wujastyk, Sanskrit Ayurvedic Manuscripts ... Leaf 30 r has: iti takradadhigun
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -118,10 +116,6 @@ D. Wujastyk, Sanskrit Ayurvedic Manuscripts ... Leaf 30 r has: iti takradadhigun
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurvedic manuscripts in the British Library: Journal Of The European Ayurvedic Society Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

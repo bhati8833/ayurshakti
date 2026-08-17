@@ -34,7 +34,11 @@ Chapter 7 - The Pharmaceutics of Turpeth (trivrit-kalpa)
 
 Synonyms, Qualities and Varieties
 
+
+<blockquote className="ayur-shloka">
 4. Tribhandi [tribhaṇḍī], Trivrita [trivṛtā], Shyama [śyāmā], Kutarana [kūṭaraṇā], Sarvanubhuti [sarvānubhūti] and Suvaha [suvahā] are its synonyms.
+</blockquote>
+
 
 5-6. In taste, it is astringent, sweet and dry. It is pungent in its post-digestive effect and is curative of Kapha and Pitta; and owing to its quality of dryness, it is provocative of Vata. This drug, when combined with drugs curative of Vata, Pitta and Kapha, acquires a special property by virtue of such pharmaceutical preparation, and is able to cure all kinds of diseases.
 
@@ -80,7 +84,11 @@ Various Preparations
 
 30-32. The expressed juice of the fruits of pomelo, chebulic myrobalan, emblic myrobalan, white teak, jujube and pomegranate should be seasoned and cooked with oil. In it the pulp of the sour mango and bael, or any other fruit should be cast. When it has become thickened as described before, the powder of the turpeth along with the powder of the cinnamon bark and leaf, fragrant poon, and cardamom and honey in due proportion should be put into this. This linctus is indicated as purgative for aristocratic persons who are full of morbid Kapha.
 
+
+<blockquote className="ayur-shloka">
 33. In the same manner, syrups, meat-juices, gruels, sweet-meats and Ragas [rāgas] and Shadavas [ṣāḍavas] should be prepared for administering purgation in conditions of predominance of Kapha.
+</blockquote>
+
 
 34-35. A demulcent drink prepared from the powder of equal parts of cinnamon and cardamom and indigo equal in measure to both of them combined and turpeth [trivrit] equal in measure to all the three combined, and sugar equal in measure to all four combined add mixed with fruit juice, honey and roasted paddy powder, may be taken. This acts as a safe purgative in disorders born of Vata, Pitta or Kapha, in dullness of the gastric fire, and in. persons of delicate constitution.
 
@@ -130,7 +138,11 @@ Various Preparations
 
 73.Clean, unhusked and roasted barley boiled in the decoction of turpeth and mixed with half-boiled barley-powder should be soaked and made to ferment for six days in water, in a vessel buried under a heap of grain; and the resulting Tushodaka wine should be used in the same manner as Sauviraka wine.
 
+
+<blockquote className="ayur-shloka">
 74. Ten different preparations of Shadava [ṣāḍava] etc., described in the pharmaceutics of the emetic nut, should be mixed with the powder of turpeth and administered for purgation.
+</blockquote>
+
 
 Emetics as cure in Vomiting
 

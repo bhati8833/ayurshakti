@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Ancient Indian Cooking and Cookery (according to Manasollasa) within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 57. 8. Ancient Indian Cooking and Cookery (according to Manasollasa)
+## 8. Ancient Indian Cooking and Cookery (according to Manasollasa)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -51,7 +51,7 @@ re 362 powder of Hingu is mixed with water and kept standing for some time. Acco
 
 ---
 
-## 58. 4. Poetical thoughts in Somesvara’s Manasollasa
+## 4. Poetical thoughts in Somesvara’s Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -97,8 +97,6 @@ Somesvara is hailed as the Prince among Indian Poets. Individuals may equal or e
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -106,10 +104,6 @@ Somesvara is hailed as the Prince among Indian Poets. Individuals may equal or e
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Regions, States and Cities described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

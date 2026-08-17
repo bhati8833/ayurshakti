@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Apvā disease (Jalodara or Dropsy) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 53. Treatment of Apvā disease (Jalodara or Dropsy)
+## Treatment of Apvā disease (Jalodara or Dropsy)
 
 Treatment of Apvā disease (Jalodara or Dropsy)
 
@@ -21,21 +21,28 @@ The practices associated with Jalodara are simple. In a purely symbolic practice
 
 In the Atharvaveda, the word Udaradāra has been applied for sharp-bellyache. In the three sūktas of Atharvaveda, the virtues of applying Apāmārga or Circiṭā and Laṭajīrā are discussed. Apāmārga is a very important medicine in the prevention of colic. There is also a Śveta-Punarṇavā in the Atharvaveda. Śveta-Punarṇavā relieves stomach ailments, Pāṇḍu-roga and various ailments.
 
-[1]:
 
-ayaṃ devānamityekaviṃśatya darbhapiñjūlībhirvalokaiḥ sārdhamadhiśiro'vasiñcati || (Kauśika Sūtra 25.37); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 58.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> ayaṃ devānamityekaviṃśatya darbhapiñjūlībhirvalokaiḥ sārdhamadhiśiro'vasiñcati || (Kauśika Sūtra 25.37); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 58.
+</blockquote>
 
-[2]:
 
-himavata iti syandamānādanvīpamāhārya valīkaiḥ || (Kauśika Sūtra 30.13); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 71.
 
-[3]:
 
-pañcamena varuṇagṛhītasya mūrdhni sampātānānayati || (Kauśika Sūtra 26.39); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 62.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> himavata iti syandamānādanvīpamāhārya valīkaiḥ || (Kauśika Sūtra 30.13); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 71.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> pañcamena varuṇagṛhītasya mūrdhni sampātānānayati || (Kauśika Sūtra 26.39); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 62.
+</blockquote>
 
 ---
 
-## 54. Treatment of Bhasmaka disease
+## Treatment of Bhasmaka disease
 
 Treatment of Bhasmaka disease
 
@@ -43,7 +50,7 @@ The Atharvaveda discusses Bhasmaka diseases. If the fire in the abdomen is more 
 
 ---
 
-## 55. Treatment of Mandāgni (Indigestion)
+## Treatment of Mandāgni (Indigestion)
 
 Treatment of Mandāgni (Indigestion)
 
@@ -53,15 +60,15 @@ If food is not digested properly, Mandāgni disease occurs. This disease is caus
 
 ---
 
-## 56. Treatment of Bhagandara (fistula in the anus)
+## Treatment of Bhagandara (fistula in the anus)
 
 Treatment of Bhagandara (fistula in the anus)
 
 In Atharvaveda Bhagandara or fistula in the anus is boil or Nāsura. Atharvaveda speaks about the treatment of this disease. Aṣṭāṅga Hṛdaya says, if you ride, elephant, horse etc., if you perform painful and severe asana, on forcefully controlling the pressure of excretion, excessively passionate sex, you can have this disease[1]. For fistula patients, it is very important to have a cleansed stomach. In the Atharvaveda, the following medicine is beneficial for fistula like Arka, and Srekaparṇa etc.
 
-[1]:
 
-hastyaśvapṛṣṭhagamanakaṭhinotkaṭakāsanaiḥ |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> hastyaśvapṛṣṭhagamanakaṭhinotkaṭakāsanaiḥ |
 arśonidānābhihitaiparaiśca niṣevitaiḥ ||
 aniṣṭādṛṣṭapākena sadyo vā sādhugarhaṇaiḥ |
 prāyeṇa piṭikāparvo yo'ṅgulo hyaṅgule'pi vā ||
@@ -71,30 +78,33 @@ bhagandaraḥ sa sarvāśca dārayatyakriyāvataḥ |
 bhagabastigudāṃsteṣu dīryamāṇeṣu bhūribhiḥ ||
 vātamūtraśakṛcchu kraṃ khaiḥ sūkṣmairvamati kramāt |
 doṣaiḥ pṛthagyutaiḥ sarvairāgantuḥ so'ṣṭamaḥ smṛtaḥ || (Aṣṭā. H.  –Uttarasthāna- 28/1-5); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, pp.265-266.
+</blockquote>
 
 ---
 
-## 57. Treatment of Piles (durṇāmā)
+## Treatment of Piles (durṇāmā)
 
 Treatment of Piles (durṇāmā)
 
 Atharvaveda discusses the disease piles. In Caraka-Saṃhitā and Aṣṭāṅga Hṛdaya. If the anus is obstructed with fleshly growth then it is called Arśa. Piles are of two types–dry or there is no blood and Srāvī meaning where there is blood flow. The reason for piles is being Agnimanda by the doṣas, if solid waste collects in the intestine to an abnormal degree, too much sex, obstructing the flow of excretion, Atisāra and Grahaṇī etc. The word synonymous to piles are durṇāmā, durṇāmnī and durvāca[1]. The two types of treatment mentioned in Atharvaveda regarding piles are–Medicine and surgery. In Medicine Pṛśniparṇī and Apāmārga are mentioned. In Atharvaveda, in one hymn the surgical cure for headache and piles is mentioned[2]. The following medicines are said to be beneficial for the treatment of piles. Namely, Arka, Upavāka, Karīra, Pippalī, Bibhīdaka, Māṣa, Muñja, Vetasa, Śamī, Sahadevī, Nīlī, Śatavāra and Madugha or Madhūlaka etc.
 
-[1]:
 
-sahamāneyaṃ prathamā pṛśniparṇyajāyata |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> sahamāneyaṃ prathamā pṛśniparṇyajāyata |
 tayāhaṃ durṇāmnā śiro vṛścāmi śakuneriva ||
 dauṣvapnyaṃ daurjīvityaṃ rakṣo abhvamarāyyaḥ |
 durṇāmnīḥ sarvā durvācastā asmannāśayāmasi || (AV. –II/25/2; IV/17/5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 250; 334.
+</blockquote>
 
-[2]:
 
-sahamāneyaṃ prathamā pṛśniparṇyajāyata |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> sahamāneyaṃ prathamā pṛśniparṇyajāyata |
 tayāhaṃ durṇāmnā śiro vṛścāmi śakuneriva || (AV. –II/25/2); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 90.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -103,10 +113,6 @@ tayāhaṃ durṇāmnā śiro vṛścāmi śakuneriva || (AV. –II/25/2); Acary
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Upadaṃśa (syphilis): Atharvaveda And Charaka Samhita Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. The Meaning of Ayas within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. 4. The Meaning of Ayas
+## 4. The Meaning of Ayas
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ II-7 and its alloys. In the subsequent Vedic literature, copper was mentioned as
 
 ---
 
-## 9. 5. Some Metallic Objects
+## 5. Some Metallic Objects
 
 Minerals and Metals in Sanskrit literature
 
@@ -41,7 +41,7 @@ II-9 (some metallic) pitchers (ahava, kalasa and kumbha) and some muscial instru
 
 ---
 
-## 10. Chapter 3 - Minerals and Metals in the Vedic literature after Rigveda
+## Chapter 3 - Minerals and Metals in the Vedic literature after Rigveda
 
 Minerals and Metals in Sanskrit literature
 
@@ -49,11 +49,9 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 3 - Minerals and Metals in the Vedic literature after Rigveda
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 11. 7. Concluding Remarks and References
+## 7. Concluding Remarks and References
 
 Minerals and Metals in Sanskrit literature
 
@@ -71,8 +69,6 @@ II-15 Stein, Aurel, 1942, A Survey of Ancient Sites along the Lost Sarasvati Riv
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +76,6 @@ II-15 Stein, Aurel, 1942, A Survey of Ancient Sites along the Lost Sarasvati Riv
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">6. Ornaments and Gems in the Rigveda: Minerals And Metals In Sanskrit Literature Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

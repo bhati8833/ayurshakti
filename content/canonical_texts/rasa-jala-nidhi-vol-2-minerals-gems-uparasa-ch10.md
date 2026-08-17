@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on How rasaka may be made to stand fire within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. Part 2 - How rasaka may be made to stand fire
+## Part 2 - How rasaka may be made to stand fire
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -35,7 +35,7 @@ This concludes ‘How rasaka may be made to stand fire’ included in Bhudeb Moo
 
 ---
 
-## 47. Part 3 - Purification of kharpara
+## Part 3 - Purification of kharpara
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -71,7 +71,7 @@ This concludes ‘Purification of kharpara’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 48. Part 4 - Incineration of kharpara
+## Part 4 - Incineration of kharpara
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -99,7 +99,7 @@ This concludes ‘Incineration of kharpara’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 49. Part 5 - Extraction of essence from Rasaka (calamine)
+## Part 5 - Extraction of essence from Rasaka (calamine)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -125,9 +125,10 @@ Patala-yantra.
 
 In a pit in the ground, one cubit deep, place a vessel. Another vessel containing prescribed materials and having its mouth tightly covered with a basin, full of holes, is to be placed upside down upon the mouth of the first vessel. The joints are to be closed and the pit covered with mud. The apparatus is then to be heated by means of charcoal fire being placed all round the upper vessel, when cooled of itself, the essence, oil, or tincture, as the case may be, is to be taken out from inside the lower vessel.
 
-[1]:
 
-Muka-musha (dumb crucible) and andha-musha (blind crucible) refer to the same kind of crucible—a crucible not provided with any passage for the entrance of air into it.
+<div className="footnote-card"><strong>[1]</strong> Muka-musha (dumb crucible) and andha-musha (blind crucible) refer to the same kind of crucible—a crucible not provided with any passage for the entrance of air into it.</div>
+
+
 
 Conclusion:
 
@@ -135,7 +136,7 @@ This concludes ‘Extraction of essence from Rasaka (calamine)’ included in Bh
 
 ---
 
-## 50. Part 6 - Incineration of the essence of rasaka
+## Part 6 - Incineration of the essence of rasaka
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -153,8 +154,6 @@ This concludes ‘Incineration of the essence of rasaka’ included in Bhudeb Mo
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -162,10 +161,6 @@ This concludes ‘Incineration of the essence of rasaka’ included in Bhudeb Mo
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Dyeing of mercury, etc: Rasa Jala Nidhi Volume 2 Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

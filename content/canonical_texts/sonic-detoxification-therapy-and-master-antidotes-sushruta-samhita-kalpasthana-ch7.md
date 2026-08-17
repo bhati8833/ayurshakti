@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Therapeutic anti-venomous sound drums (Dundubhi Svaniya), Kshara-agada, Kalyanaka Ghrita, and Mahasugandhi Agada. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Chapter VII - Description and preparation medicated drums
+## Chapter VII - Description and preparation medicated drums
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -67,25 +67,33 @@ The restoration of the deranged Doshas and of the vital principles (Dhatus of th
 
 Thus ends the Seventh Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of the sounds of medicated drums, etc.
 
-[1]:
 
-The plants of these should be taken in full i.e. with their leaves, roots, branches, etc. The prepared ash should be dissolved in cow’s urine weighing six times the combined weight of the ashes. Dallana says that Gayadāsa does not read “Śirisha, Pichumarda, Kakubha, Arushkara and Madhu-Śigru” in the list.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The plants of these should be taken in full i.e. with their leaves, roots, branches, etc. The prepared ash should be dissolved in cow’s urine weighing six times the combined weight of the ashes. Dallana says that Gayadāsa does not read “Śirisha, Pichumarda, Kakubha, Arushkara and Madhu-Śigru” in the list.
+</blockquote>
 
-[2]:
 
-The total weight of these powders to be added should be one thirtieth part of the prepared alkaline solution. Dallana says that Gayadāsa counts only thirty and he does not read “Marica, Soma, Guhā, Lavana, Chakra and Ala in the text. We do not, however, find Chakra and Ala in the text. We have, on the other hand, the names of some more drugs which are believed to be mere interpolations from the marginal notes of some manuscripts.
 
-[3]:
 
-Dallana explains “Śita-śiva” to mean “camphor”. Others explain it to mean “Śami.”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The total weight of these powders to be added should be one thirtieth part of the prepared alkaline solution. Dallana says that Gayadāsa counts only thirty and he does not read “Marica, Soma, Guhā, Lavana, Chakra and Ala in the text. We do not, however, find Chakra and Ala in the text. We have, on the other hand, the names of some more drugs which are believed to be mere interpolations from the marginal notes of some manuscripts.
+</blockquote>
 
-[4]:
 
-The text has “Śvetā” in the dual number meaning the two kinds of “Śvetā” viz; white Vaca and white Aparājitā. Dallana gives only “Vacā” as its synonym, which shows he takes the word in the singular number and not in the dual as in the printed text. This appears to be the correct reading, for otherwise the number of the drugs in the list would be more than eighty-five.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Dallana explains “Śita-śiva” to mean “camphor”. Others explain it to mean “Śami.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The text has “Śvetā” in the dual number meaning the two kinds of “Śvetā” viz; white Vaca and white Aparājitā. Dallana gives only “Vacā” as its synonym, which shows he takes the word in the singular number and not in the dual as in the printed text. This appears to be the correct reading, for otherwise the number of the drugs in the list would be more than eighty-five.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -94,10 +102,6 @@ The text has “Śvetā” in the dual number meaning the two kinds of “Śvet�
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/medical-management-of-insect-and-spider-venom-sushruta-samhita-kalpasthana-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Medical Management of Insect and Spider Venom: Sushruta Samhita Kalpasthana Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

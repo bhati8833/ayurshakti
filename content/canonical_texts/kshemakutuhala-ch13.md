@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ayurvedic regimens for embellishing the body within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Ayurvedic regimens for embellishing the body
+## Ayurvedic regimens for embellishing the body
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -33,7 +33,7 @@ gems and jewels suitable to planets respectively. Wearing ornaments is one of th
 
 ---
 
-## 43. Ayurvedic regimens for Lunch
+## Ayurvedic regimens for Lunch
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -47,7 +47,7 @@ or many persons. This helps in the accomplishment of one's own desires. This giv
 
 ---
 
-## 44. Chewing of Tambula
+## Chewing of Tambula
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -61,8 +61,6 @@ There is a special method of preparing tambula. The tip and the portion near the
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -70,10 +68,6 @@ There is a special method of preparing tambula. The tip and the portion near the
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurvedic regimens for Afternoon and Nightly activities: Kshemakutuhala Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

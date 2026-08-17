@@ -24,7 +24,7 @@ description: "Texts: Matangalila and Hastyayurveda’ of the study on the Matang
 
 ---
 
-## 3. Chapter 1
+## Chapter 1
 
 Matangalila and Hastyayurveda (study)
 
@@ -32,11 +32,9 @@ This page relates ‘Chapter 1’ of the study on the Matangalina and Hastyayurv
 
 Chapter 1
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 5. Summary of the Mātaṅgalīlā
+## Summary of the Mātaṅgalīlā
 
 Matangalila and Hastyayurveda (study)
 
@@ -151,69 +149,90 @@ The twelfth chapter:
 
 The twelfth and the last chapter (Dvādaśaḥ paṭalaḥ: ādhoraṇaguṇāddhādhikāro) is miscellaneous, but is a very important chapter dealing primarily with the character and activities of elephant managers, trainers and drivers.
 
-[1]:
 
-Gaṇapati Sāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, Trivandum: Trivandum Sanskrit Series, No.X, 1910.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Gaṇapati Sāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, Trivandum: Trivandum Sanskrit Series, No.X, 1910.
+</blockquote>
 
-[2]:
 
-Ibid, p. Preface.
 
-[3]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, pp.113-125.
+<div className="footnote-card"><strong>[2]</strong> Ibid, p. Preface.</div>
 
-[4]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet: Permanent Black in association with Ashoka University, 2015, p.150.
 
-[5]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, p. 6.
+<div className="footnote-card"><strong>[3]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, pp.113-125.</div>
 
-[6]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Chapter IV, v. 1927, Saraswati Mahal Series No. 76, Tanjore: T.M.S.S.M. Library, 1958, pp. 36-38.
 
-[7]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, pp.150-152.
+<div className="footnote-card"><strong>[4]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, Ranikhet: Permanent Black in association with Ashoka University, 2015, p.150.</div>
 
-[8]:
 
-Gaṇapati Sāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, p. Preface.
 
-[9]:
 
-Sreedhar Vijayakrishnan. Elephant in the Room II, C.N. Namboothiri. Mātaṅgalīlā, Arthavedīvyākhyānam, Kodungalloor: Santha Publishers, 2009.
+<div className="footnote-card"><strong>[5]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, p. 6.</div>
 
-[10]:
 
-Franklin Edgerton., pp.50-51 and Ga , p. 6.
 
-[11]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, pp.56-57 and Gaṇapati Śāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, pp.9-10.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Chapter IV, v. 1927, Saraswati Mahal Series No. 76, Tanjore: T.M.S.S.M. Library, 1958, pp. 36-38.
+</blockquote>
 
-[12]:
 
-Ibid., p.59 and p. 11, respectively.
 
-[13]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, pp.60-61.
+<div className="footnote-card"><strong>[7]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, pp.150-152.</div>
 
-[14]:
 
-Franklin Edgerton., pp.50-61 and Ga , pp.11-12.
 
-[15]:
 
-Franklin Edgerton., pp.62-66 and Ga , pp. 12-15.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gaṇapati Sāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, p. Preface.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Sreedhar Vijayakrishnan. Elephant in the Room II, C.N. Namboothiri. Mātaṅgalīlā, Arthavedīvyākhyānam, Kodungalloor: Santha Publishers, 2009.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Franklin Edgerton., pp.50-51 and Ga , p. 6.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, pp.56-57 and Gaṇapati Śāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, pp.9-10.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid., p.59 and p. 11, respectively.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, pp.60-61.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Franklin Edgerton., pp.50-61 and Ga , pp.11-12.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Franklin Edgerton., pp.62-66 and Ga , pp. 12-15.</div>
 
 ---
-
-
 
 ---
 
@@ -222,10 +241,6 @@ Franklin Edgerton., pp.62-66 and Ga , pp. 12-15.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Summary of the Hastyāyurveda: Matangalila And Hastyayurveda Study Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

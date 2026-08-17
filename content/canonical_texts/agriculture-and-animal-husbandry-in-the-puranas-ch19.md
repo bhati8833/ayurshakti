@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Management and Treatment of Elephants within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 79. Part 15 - Management and Treatment of Elephants
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Management and Treatment of Elephants’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 15 - Management and Treatment of Elephants
 
 Part 15 - Management and Treatment of Elephants
 
@@ -76,178 +72,269 @@ For victory in battle the body of the war-elephants should be fumigated with the
 
 A liniment composed of pippala, oil, rice, madhvikā and makṣikā applied along the eyelids of an elephant, sharpens its eyesight.[34] The petals of blue lotus, muṣṭa and tagara crushed into a paste, mixing the water which is used to wash rice to it, would be beneficial for elephant’s eyes.Anointing with oil is the best remedy for a broken nail.[35]
 
-[1]:
 
-Matsya Purāṇa , 215.8,34
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Matsya Purāṇa , 215.8,34
+</blockquote>
 
-[2]:
 
-tārodarādviniṣkrāntaḥ kumāraścandrasaṃnibhaḥ/ sarvārthaśāstraviddhīmānhastiśāstrapravartakaḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> tārodarādviniṣkrāntaḥ kumāraścandrasaṃnibhaḥ/ sarvārthaśāstraviddhīmānhastiśāstrapravartakaḥ//
 nāma yadrājaputrīya viśrutaṃ gajavaidyakam/
 rājñaḥ somasya putratvādrājaputro budhaḥ smṛtaḥ// Ibid., 24.2-3
+</blockquote>
 
-[3]:
 
-Ibid., 215.35
 
-[4]:
 
-kleśakṣamastathā rājño gajādhyakṣaḥ praśasyate/
+<div className="footnote-card"><strong>[3]</strong> Ibid., 215.35</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> kleśakṣamastathā rājño gajādhyakṣaḥ praśasyate/
 etaireva guṇairyuktaḥ svāsanaśca viśeṣataḥ// Ibid., 215. 35
+</blockquote>
 
-[5]:
 
-Ibid., 215.36
 
-[6]:
 
-gajārohī narendrasya sarvakarmasu śasyate// Ibid., 215.36a
+<div className="footnote-card"><strong>[5]</strong> Ibid., 215.36</div>
 
-[7]:
 
-abhyaṅgaḥ śirasaḥ śūle nasyaṃ caiva praśasyate// Agni Purāṇa , 287.10.b
 
-[8]:
 
-nāgānāṃ snehapuṭakaiḥ pādarogānupakramet/
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> gajārohī narendrasya sarvakarmasu śasyate// Ibid., 215.36a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> abhyaṅgaḥ śirasaḥ śūle nasyaṃ caiva praśasyate// Agni Purāṇa , 287.10.b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> nāgānāṃ snehapuṭakaiḥ pādarogānupakramet/
 paścātkalkakaṣāyeṇa śodhanaṃ ca bidhīyate// Ibid., 287.11
+</blockquote>
 
-[9]:
 
-śikhitittiralāvānāṃ pippalīmaricānvitaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> śikhitittiralāvānāṃ pippalīmaricānvitaiḥ/
 rasaiḥ sambhojayannāgaṃ vaipathuryasya jāyate// Ibid., 287.12
+</blockquote>
 
-[10]:
 
-bālabilvaṃ tathā lodhraṃ dhātakī sitayā saha/
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> bālabilvaṃ tathā lodhraṃ dhātakī sitayā saha/
 atisāravināśāya piṇḍīṃ bhuñjīta kuñjaraḥ// Ibid., 287.13
+</blockquote>
 
-[11]:
 
-nasyaṃ karagrahe deyaṃ ghṛtaṃ lavaṇasaṃyutam/ Ibid., 287.14a
 
-[12]:
 
-māgadhī nāgarājājī yavāgūrmustasādhitā/
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> nasyaṃ karagrahe deyaṃ ghṛtaṃ lavaṇasaṃyutam/ Ibid., 287.14a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> māgadhī nāgarājājī yavāgūrmustasādhitā/
 utkarṇake tu dātavyā vārāhaṃ ca tathā rasam// Ibid., 287.14b-15a
+</blockquote>
 
-[13]:
 
-daśamūlakulatthāmlakākamācīvipācitam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> daśamūlakulatthāmlakākamācīvipācitam/
 tailaṃ sṛṃkhalasaṃyuktaṃ galagrahagadāpaham// Ibid., 287.15b-16a
+</blockquote>
 
-[14]:
 
-aṣṭabhirlavaṇaiḥ piṣṭaiḥ prasannaṃ pāyayedghṛtam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> aṣṭabhirlavaṇaiḥ piṣṭaiḥ prasannaṃ pāyayedghṛtam/
 mūtrabhaṅge’tha vā bījaṃ kvathitaṃ trapuṣasya ca// Ibid., 287.16b-17a
+</blockquote>
 
-[15]:
 
-tvagdoṣeṣu pibennimbaṃ vṛṣaṃ vā kvathitaṃ dvipaḥ// Ibid., 287.17b
 
-[16]:
 
-gavāṃ mūtraṃ viḍaṅgāni kṛmikoṣṭheṣu śasyate// Ibid., 287.18a
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> tvagdoṣeṣu pibennimbaṃ vṛṣaṃ vā kvathitaṃ dvipaḥ// Ibid., 287.17b
+</blockquote>
 
-[17]:
 
-Ibid., 287.18b-21
 
-[18]:
 
-yaṣṭikaṃ mudgasūpena śāradena tathā pibet/
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> gavāṃ mūtraṃ viḍaṅgāni kṛmikoṣṭheṣu śasyate// Ibid., 287.18a
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid., 287.18b-21</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> yaṣṭikaṃ mudgasūpena śāradena tathā pibet/
 bālabilvaistathā lepaḥ kaṭarogeṣu śasyate//
 viḍaṅgendrayavau hiṅgu saralaṃ rajanīdvayam/
 pūrvāhṇe dāpayetpiṇḍānsarvaśūlopaśāntaye// Ibid., 287.22-23
+</blockquote>
 
-[19]:
 
-triphalāpañcakole ca daśamūlaṃ viḍaṅgakam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> triphalāpañcakole ca daśamūlaṃ viḍaṅgakam/
 śatāvarī guḍūcī ca nimbavāsakakiṃśukāḥ// Garuḍa Purāṇa , 1.201.38
+</blockquote>
 
-[20]:
 
-gomūtraṃ pāṇḍurogeṣu rajanībhyāṃ ghṛtaṃ dvijaḥ/ Agni Purāṇa ,287.8a
 
-[21]:
 
-ānāhe tailasiktasya niṣekastasya śasyte// Ibid., 287.8b
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> gomūtraṃ pāṇḍurogeṣu rajanībhyāṃ ghṛtaṃ dvijaḥ/ Agni Purāṇa ,287.8a
+</blockquote>
 
-[22]:
 
-lavaṇaiḥ pañcabhirmiśrā pratipānāya vāruṇī/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> ānāhe tailasiktasya niṣekastasya śasyte// Ibid., 287.8b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> lavaṇaiḥ pañcabhirmiśrā pratipānāya vāruṇī/
 viḍaṅgatriphalāvyoṣasaindhavaiḥ kavalānkṛtān//
 mūrcchāsu bhojayennāgaṃ kṣaudraṃ toyam ca pāyayet// Ibid., 287.9-10a
+</blockquote>
 
-[23]:
 
-pradhānabhojane teṣāṃ ṣaṣṭikavrīhiśālayaḥ// Ibid., 287.24a
 
-[24]:
 
-madhyamau yavagodhūmau seṣā dantini cādhamāḥ// Ibid., 24b
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> pradhānabhojane teṣāṃ ṣaṣṭikavrīhiśālayaḥ// Ibid., 287.24a
+</blockquote>
 
-[25]:
 
-yavaścaiva tathaivekṣurnāgānāṃ balavardhanaḥ// Ibid., 287.25a
 
-[26]:
 
-nāgānāṃ yavasaṃ śuṣkaṃ tathā dhatuprakopaṇaḥ//
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> madhyamau yavagodhūmau seṣā dantini cādhamāḥ// Ibid., 24b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> yavaścaiva tathaivekṣurnāgānāṃ balavardhanaḥ// Ibid., 287.25a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> nāgānāṃ yavasaṃ śuṣkaṃ tathā dhatuprakopaṇaḥ//
 madakṣīṇasya nāgasya payaḥ pānaṃ praśasyate/
 dīpanīyaistathā dravyaiḥ śṛto māṃsarasaḥ śubhaḥ// Ibid., 287.25b-26
+</blockquote>
 
-[27]:
 
-vāyasaḥ kukkuraścobhau kākolūkakkulaṃ hariḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> vāyasaḥ kukkuraścobhau kākolūkakkulaṃ hariḥ/
 bhavetkṣaudreṇa saṃyuktaḥ piṇḍodrekagadāpahaḥ// Ibid., 287.27
+</blockquote>
 
-[28]:
 
-Garuḍa Purāṇa , 1.201.35-37
 
-[29]:
 
-pākaleṣu ca sarveṣu kartavyamanuvāsanam/
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Garuḍa Purāṇa , 1.201.35-37
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> pākaleṣu ca sarveṣu kartavyamanuvāsanam/
 ghṛtatailābhyaṅgayuktaṃ snānaṃ vātavivarjitam// Agni Purāṇa ,287.6b-7a
+</blockquote>
 
-[30]:
 
-skandheṣu ca kriyā kāryā tathā pālakavannṛpaiḥ// Ibid., 287.7b
 
-[31]:
 
-Ibid., 287.33
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> skandheṣu ca kriyā kāryā tathā pālakavannṛpaiḥ// Ibid., 287.7b
+</blockquote>
 
-[32]:
 
-kaṭumatsyaviḍaṅgāni kṣāraḥ koṣātakīpayaḥ/
+
+
+<div className="footnote-card"><strong>[31]</strong> Ibid., 287.33</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> kaṭumatsyaviḍaṅgāni kṣāraḥ koṣātakīpayaḥ/
 haridrā ceti dhūpo’yaṃ kuñjarasya jayāvahaḥ// Ibid., 287.28
+</blockquote>
 
-[33]:
 
-purīṣaṃ catakāyāśca tathā pārāvatasya ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> purīṣaṃ catakāyāśca tathā pārāvatasya ca/
 kṣīravṛkṣaḥ karīṣaśca prasannā ceṣṭamañjanam//
 anenāñjitanetrastu karoti kadanaṃ raṇe// Ibid.,287.30-31a
+</blockquote>
 
-[34]:
 
-pippalītaṇḍulītailaṃ mādhvīkaṃ mākṣikaṃ tathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> pippalītaṇḍulītailaṃ mādhvīkaṃ mākṣikaṃ tathā/
 netrayoḥ pariṣeko’yaṃ dīpanīyaḥ praśasyate// Ibid., 287.29
+</blockquote>
 
-[35]:
 
-utpalāni ca nīlāni mustaṃ tagarameva ca//
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> utpalāni ca nīlāni mustaṃ tagarameva ca//
 taṇḍulodakapiṣṭāni netranirvāpaṇaṃ paraṃ/
 nakhavṛddhau nakhacchedastailasekaśca māsyapi// Ibid.,287.31b-32
+</blockquote>
 
 ---
 
-## 80. Part 23 - Kingdoms Noted for Horses
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Kingdoms Noted for Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 23 - Kingdoms Noted for Horses
 
 Part 23 - Kingdoms Noted for Horses
 
@@ -257,63 +344,90 @@ Gāndhāra was the son of Śaradvat and the grandson of Druhyu. After him the co
 
 In the Purāṇas, names of Kings are found, who kept horses in their kingdom. Pratarddana, the son of Divodāsa, who was from the race of Dhanvantari, had a horse (aśva) named Kuvalaya; therefore, Pratarddana was famous as Kuvalayāśca.[7] The Viṣṇu Purāṇa refers to the demon Narakāsura, the ruller of Prāgjyotiṣa, who beheld six thousand elephants having four tusks and twenty one lakhs horses of Kamboja and other excellent breeds.[8] Dhṛti, the son of Āhuka, had ten lakh and eighty youthful horses.[9] Candraprabhā was the name of Ilā’s horse which became a mare in the Śaravaṇa forest.[10] References of horse-riding are also found in the Purāṇas. Riding on a horse of Sindhu breed, Sudyumna, the foremost among men, rode to the northern forests.[11]
 
-[1]:
 
-Matsya Purāṇa , 114.11, 41; 121.43; Vāyu Purāṇa , 88.122; 45.82,116; 58.82; 98.107
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Matsya Purāṇa , 114.11, 41; 121.43; Vāyu Purāṇa , 88.122; 45.82,116; 58.82; 98.107
+</blockquote>
 
-[2]:
 
-Matsya Purāṇa , 121.47
 
-[3]:
 
-druhyustu tanayau śūrau setuḥ ketustathaiva ca/
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Matsya Purāṇa , 121.47
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> druhyustu tanayau śūrau setuḥ ketustathaiva ca/
 setuputraḥ śaradvāṃstu gandhārastasya cātmajaḥ//
 khyāyate yasya nāmnā’sau gandhāraviṣayo mahān/
 āraṭṭadeśajātasya turagā vājināṃ varāḥ// Matsya Purāṇa , 48.6-7; Bhāgavata Purāṇa , 9.23.14; Vāyu Purāṇa , 99.9-10a; Viṣṇu Purāṇa , 4.17.2
+</blockquote>
 
-[4]:
 
-Matsya Purāṇa , 114.8
 
-[5]:
 
-Vāyu Purāṇa , 88.122
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Matsya Purāṇa , 114.8
+</blockquote>
 
-[6]:
 
-Matsya Purāṇa ,121.46;144.57
 
-[7]:
 
-tasya ca dhanvantareḥ putraḥ ketumān/ketumato bhīmarathaḥ, tasyāpi divodāsaḥ, tataḥ pratarddanaḥ/ Viṣṇu Purāṇa , 4.8.5a satyavratatayā ṛtadhvajasaṃjñāmavāpa/punaśca kuvalayanāmānamaśvaṃ lebhe, kuvalayāśca ityasyāṃ pṛthivyāṃ prathitaḥ// Viṣṇu Purāṇa , 4.8.7
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Vāyu Purāṇa , 88.122
+</blockquote>
 
-[8]:
 
-caturdantān gajāścograyān ṣaṭsahasrān sa dṛṣṭavān/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Matsya Purāṇa ,121.46;144.57
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> tasya ca dhanvantareḥ putraḥ ketumān/ketumato bhīmarathaḥ, tasyāpi divodāsaḥ, tataḥ pratarddanaḥ/ Viṣṇu Purāṇa , 4.8.5a satyavratatayā ṛtadhvajasaṃjñāmavāpa/punaśca kuvalayanāmānamaśvaṃ lebhe, kuvalayāśca ityasyāṃ pṛthivyāṃ prathitaḥ// Viṣṇu Purāṇa , 4.8.7
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> caturdantān gajāścograyān ṣaṭsahasrān sa dṛṣṭavān/
 kāmbojānāṃ tathāśvānāṃ niyutānye viṃśatim// Ibid., 5.29.32
+</blockquote>
 
-[9]:
 
-āhukasya dhṛtiḥ putraḥ ityevamanuśuśruma/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> āhukasya dhṛtiḥ putraḥ ityevamanuśuśruma/
 śvetena paricāreṇa kiśorapratimānhayān/
 aśītimaśvaniyutānyāhukapratimo’vrajat// Vāyu Purāṇa , 96.123b-124
+</blockquote>
 
-[10]:
 
-Matsya Purāṇa , 12.3
 
-[11]:
 
-Bhāgavata Purāṇa , 9.1.23
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Matsya Purāṇa , 12.3
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Bhāgavata Purāṇa , 9.1.23
+</blockquote>
 
 ---
 
-## 81. Part 22 - Rites Performed for the Welfare of Horses
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Rites Performed for the Welfare of Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 22 - Rites Performed for the Welfare of Horses
 
 Part 22 - Rites Performed for the Welfare of Horses
 
@@ -333,28 +447,27 @@ Again on the fifteenth day of the bright half of the month Āśvina, the Aśvins
 
 In the Naimittika form of pacificatory rite, the God Viṣṇu and the Goddess Lakṣmī is worshipped, when the sun enters the sign of the Capricorn. Brahmā, Śaṃkara, Soma, Āditya, Aśvina, Revanta, Uccaiḥśravā and the guardian deities (Dikpālaḥ) of the different quarters of the sky should also be worshipped. Jars full of water should be ceremonially assigned to the aforesaid deities.Oblations consist of sesamum, sun-dried rice and clarified butter should be poured on the sacrificial fire. Oblations consist of the same should also be offered hundred times in the honour of each deities. The performer should observe a fast that day.[3]
 
-[1]:
 
-nityāṃ naimittikīṃ kāmyāṃ vividhāṃ śṛṇu suśrut//
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> nityāṃ naimittikīṃ kāmyāṃ vividhāṃ śṛṇu suśrut//
 śubhe dine śrīdharaṃ ca śriyamuccaiḥśravaḥ sutam/
 hayarājaṃ samabhyarcya sāvitrairjuhuyādghṛtam/
 dvijebhyo dakṣiṇāṃ dadyādaśvavṛddhistato bhavet// Agni Purāṇa, 290.1b-3a
+</blockquote>
 
-[2]:
 
-Ibid., 290.3a-6a
 
-[3]:
 
-Ibid.,290.6b-8
+<div className="footnote-card"><strong>[2]</strong> Ibid., 290.3a-6a</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid.,290.6b-8</div>
 
 ---
 
-## 82. Part 21 - Treatment and Care of Horses
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Treatment and Care of Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 21 - Treatment and Care of Horses
 
 Part 21 - Treatment and Care of Horses
 
@@ -420,215 +533,319 @@ Preservation of Horse-Life:
 
 References of shelters of elephants, stables of horses and references of chariots (hastyaśvarathaśālā) are met with in the Purāṇas.[34] While enumerating the ways of protecting the fort and the city of a king, the Matsya Purāṇa attests that the stables and cowsheds should be to the left side of the king’s palace. The stables should face to the north or to the south. If they face to other directions then it was considered bad. Moreover, there should be lamp burning in the stables through the whole night. The horses should stay in the stables.[35] It was customary to keep in the stables the following beasts for the welfare of the horses—the cocks, the monkeys, especially the apes, cows with their calves and she-goats. Dung should always be cleared away from the stables or elephant yards or cow sheds, before sunset. The quarters of the charioteers (sārathī) should be near the stables.[36] As diseases become more powerful in the fortress therefore, Veterinary doctors (govaidya, aśvavaidya and gajavaidya) should be provided lodging within the fortress.[37] It is suggested there in the Agni Purāṇa that, horses should be stabled in a well-ventilated house and dried bay should be strewn over its floors. The stable should be guarded well and lamps should be lighted there. Goats(aja), monkeys(kapaya), kṛkavākas, deers(mṛgas) should be kept in the stable.[38]
 
-[1]:
 
-revantapūjanāddhomādrakṣyāśca dvijabhojanāt/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> revantapūjanāddhomādrakṣyāśca dvijabhojanāt/
 saralaṃ nimbapatrāṇi guggulaṃ sarṣapānghṛtam//
 tilañcaiva vacāṃ hiṅguṃ vadhnīyādvājino gale// Garuḍa Purāṇa , 1.201.6-7a
+</blockquote>
 
-[2]:
 
-rasonaṃ saindhavaṃ vāpi takrakāñjikapeṣitam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> rasonaṃ saindhavaṃ vāpi takrakāñjikapeṣitam/
 tilasaktukapiṇḍikā dadhiyuktā sasaindhavā/
 nimbapatrayutaṃ piṇḍaṃ vraṇaśodhanaropaṇam// Ibid., 1.201.10
+</blockquote>
 
-[3]:
 
-paṭolaṃ nimbapatrañca vacā citrakameva ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> paṭolaṃ nimbapatrañca vacā citrakameva ca/
 pippalīśṛṅgaverañca cūrṇamekatra kārayet//
 etatpānātkrimiśleṣmamandānilavināśanam// Ibid., 1.201.11-12a
+</blockquote>
 
-[4]:
 
-nimbapatraṃ paṭolañca triphalā khadiraṃ tathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> nimbapatraṃ paṭolañca triphalā khadiraṃ tathā/
 kvāthayitvā tato vāhaṃ sṛtaraktaṃ vicakṣaṇaḥ//
 tryahameva pradātavyaṃ hayakuṣṭhopaśāntaye// Ibid., 1.201.12b-13
+</blockquote>
 
-[5]:
 
-arddhapraharaṇe dhuryye gugguluṃ prāśayeddhayam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> arddhapraharaṇe dhuryye gugguluṃ prāśayeddhayam/
 bhojayetpāyasaṃ dugdhaṃ satvaraṃ susthiro hayaḥ// Ibid., 1.201.20
+</blockquote>
 
-[6]:
 
-ghāsairdūrvā sarvaroge prathame’hni palaṃ dadet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> ghāsairdūrvā sarvaroge prathame’hni palaṃ dadet/
 vivarddhayettataḥ karṣamekā’hni palapañcakam//
 pāne ca bhojane caiva aśītipalakaṃ param/
 madhye ṣaṣṭiścādhameṣu catvāriṃśacca bhogiṣu// Ibid., 1.201.23-24
+</blockquote>
 
-[7]:
 
-vikāre bhojane dugdhaṃ śālyannaṃ vātale dadet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> vikāre bhojane dugdhaṃ śālyannaṃ vātale dadet/
 karṣamāṃsarasaiḥ pitte madhumudgarasājyakaiḥ//
 kaphe mudgānkulatthānvā kaṭutiktānkaphe haye// Ibid., 1.201.21-22a
+</blockquote>
 
-[8]:
 
-vraṇe kuṣṭheṣu khañjeṣu triphalākvāthasaṃyutam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> vraṇe kuṣṭheṣu khañjeṣu triphalākvāthasaṃyutam/
 mandāgnauśotharoge ca gavāṃ mūtreṇa yojitam// Ibid., 1.201.25
+</blockquote>
 
-[9]:
 
-vātapitte vraṇe vyādhau gokṣīraṃ ghṛtasaṃyutam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> vātapitte vraṇe vyādhau gokṣīraṃ ghṛtasaṃyutam/
 deyaṃ kṛśānāṃ puṣṭyarthaṃ māṃsairyuktaṃ ca bhojanam// Ibid., 1.201.26
+</blockquote>
 
-[10]:
 
-Ibid.,1.201.27-29
 
-[11]:
 
-Agni Purāṇa , 289
+<div className="footnote-card"><strong>[10]</strong> Ibid.,1.201.27-29</div>
 
-[12]:
 
-mañjīṣṭhā madhukaṃ drākṣābṛhatyau raktacandanam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Agni Purāṇa , 289
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> mañjīṣṭhā madhukaṃ drākṣābṛhatyau raktacandanam/
 trapuṣībījamūlāni śṛṅgāṭakakaserukam//
 ajāpayaḥ śṛtamidaṃsuśītaṃ śarkarānvitam/
 pītvā niraśano vājī raktamehātpramucyate// Ibid., 289.21-22
+</blockquote>
 
-[13]:
 
-Ibid., 289.11-14a
 
-[14]:
 
-priyaṅgusārivābhyāṃ ca yuktamājaṃ śṛtaṃ payaḥ/
+<div className="footnote-card"><strong>[13]</strong> Ibid., 289.11-14a</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> priyaṅgusārivābhyāṃ ca yuktamājaṃ śṛtaṃ payaḥ/
 paryāptaśarkaraṃ pītvā śramādvājī vimucyate// Ibid., 289.14b-15a
+</blockquote>
 
-[15]:
 
-lodhrakarañjayormūlaṃ mātuluṅgāgnināgarāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> lodhrakarañjayormūlaṃ mātuluṅgāgnināgarāḥ/
 kuṣṭhaṃ hiṅgu vacā rāsnā lepo’yaṃ śothanāśanaḥ// Ibid., 289.20
+</blockquote>
 
-[16]:
 
-manyāhanunigālasthaśirāśotho galagrahaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> manyāhanunigālasthaśirāśotho galagrahaḥ/
 abhyaṅgaḥ kaṭutailena tatra teṣveva śasyate// Ibid., 289.23
+</blockquote>
 
-[17]:
 
-dāḍimaṃ triphalā vyoṣaṃ guḍaśca samabhāvitaḥ/ piṇḍametatpradātavyamaśvānāṃ kārśyanāśanam//
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> dāḍimaṃ triphalā vyoṣaṃ guḍaśca samabhāvitaḥ/ piṇḍametatpradātavyamaśvānāṃ kārśyanāśanam//
 priyaṅgulodhramadhubhiḥ pibedvṛṣarasaṃ hayaḥ/
 kṣīraṃ vā pañcakolādyaṃ kāsanāddhi pramocyate// Ibid., 289.16b-18a
+</blockquote>
 
-[18]:
 
-galagrahagadaḥ śothaḥ prāyaśo galadeśake/
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> galagrahagadaḥ śothaḥ prāyaśo galadeśake/
 pratyakpuṣpī tathā vahniḥ saindhavaṃ sauraso rasaḥ//
 kṛṣṇāhiṅguyutairebhiḥ kṛtvā nasyaṃ na sīdati// Ibid., 289.24-25a
+</blockquote>
 
-[19]:
 
-niśe jyotiṣmatī pāṭhā kṛṣṇā kuṣṭhaṃ vacā madhu/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> niśe jyotiṣmatī pāṭhā kṛṣṇā kuṣṭhaṃ vacā madhu/
 jihvāstambhe ca lepo’yaṃ guḍamūtrayuto hitaḥ// Ibid., 289.25b-26a
+</blockquote>
 
-[20]:
 
-droṇikāyāṃ tu dātavyā tailabastisturaṅgame/
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> droṇikāyāṃ tu dātavyā tailabastisturaṅgame/
 koṣṭhajā vā śirā vedhyāstena tasya sukhaṃ bhavet// Ibid., 289.15b-16a
+</blockquote>
 
-[21]:
 
-tilairyaṣṭyā rajanyā ca nimbapatraiśca yojitā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> tilairyaṣṭyā rajanyā ca nimbapatraiśca yojitā/
 kṣaudreṇa śodhanī piṇḍī sarpiṣā vraṇaropaṇī// Ibid., 289.26b-27a
+</blockquote>
 
-[22]:
 
-aśvatthodumbaraplakṣamadhūkavaṭavilvakaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> aśvatthodumbaraplakṣamadhūkavaṭavilvakaiḥ/
 prabhūtasalilakvāthaḥ sukheṣṇo vraṇaśodhanaḥ// Ibid.,289.29b-30a
+</blockquote>
 
-[23]:
 
-raktasrāvo jalaukābhirnetrānte netrarogiṇaḥ/ khadirodumbarāśvatthakaṣāyeṇa ca sādhanam//
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> raktasrāvo jalaukābhirnetrānte netrarogiṇaḥ/ khadirodumbarāśvatthakaṣāyeṇa ca sādhanam//
 dhātrīdurālabhātiktāpriyaṅgukumkumaiḥ samaiḥ// Ibid.,289.32b-33
+</blockquote>
 
-[24]:
 
-gośakṛnmañjikākuṣṭharajanītilasarṣapaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> gośakṛnmañjikākuṣṭharajanītilasarṣapaiḥ/
 gavāṃ mūtreṇa piṣṭaiśca mardanaṃ kaṇḍunāśanam// Ibid.,289.35b-36a
+</blockquote>
 
-[25]:
 
-satāhvānāgaraṃ rāsnāmañjiṣṭhākuṣṭhasaindhavaiḥ// devadāruvacāyugmarajanīraktacandanaiḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> satāhvānāgaraṃ rāsnāmañjiṣṭhākuṣṭhasaindhavaiḥ// devadāruvacāyugmarajanīraktacandanaiḥ//
 tailaṃ siddhaṃ kaṣāyeṇa guḍūcyāḥ payasā saha/
 mrakṣaṇe bastinasye ca yojyaṃ sarvatra liṅgite// Ibid.,289.30b-32a
+</blockquote>
 
-[26]:
 
-nidāghoddhṛtapittā ye śaratsu puṣṭaśoṇitāḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> nidāghoddhṛtapittā ye śaratsu puṣṭaśoṇitāḥ//
 prāvṛḍbhinnapurīṣāśca pibeyurvājino ghṛtam/
 pibeyurvājinastailaṃ kaphavāyvadhikāstu ye// Ibid.,289.43b-44
+</blockquote>
 
-[27]:
 
-dūrvāḥ pittaṃ yavaḥ kāsaṃ busaśca śleṣmasañcayam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> dūrvāḥ pittaṃ yavaḥ kāsaṃ busaśca śleṣmasañcayam/
 nāśayatyarjunaḥ śvāsaṃ tathā vālo balakṣayam//
 vātikāḥ paittikāścaiva śleṣmajāḥ sānnipātikāḥ/
 na rogāḥ pīḍayiṣyanti dūrvāhāraṃ turaṅgamam// Ibid., 289.52-53
+</blockquote>
 
-[28]:
 
-nistuṣāṇaṃ pradātavyā yavānāṃ caturāḍhakī/
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> nistuṣāṇaṃ pradātavyā yavānāṃ caturāḍhakī/
 caṇakavrīhimaudgāni kalāyaṃ vā’pi dāpayet// Ibid., 289.50
+</blockquote>
 
-[29]:
 
-śīto madhuyutaḥ kvātho nāsikāyāṃ saśarkaraḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> śīto madhuyutaḥ kvātho nāsikāyāṃ saśarkaraḥ//
 raktapitta haraḥ pānādaśvakarṇe tathaiva ca/
 saptame saptame deyamaśvānāṃ lavaṇaṃ dine//
 tathā bhuktavatāṃ deyā pratipāne ca vāruṇī// Ibid., 289.36b-38a
+</blockquote>
 
-[30]:
 
-jīvanīyaiḥ samadhurairmṛdvīkāśarkarāyutaiḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> jīvanīyaiḥ samadhurairmṛdvīkāśarkarāyutaiḥ//
 sapippalīkaiḥ śaradi pratipānaṃ sapadmakaiḥ// Ibid., 289.38b-39a
+</blockquote>
 
-[31]:
 
-viḍaṅgāpippalīdhānyaśatāhvālodhrasaindhavaiḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> viḍaṅgāpippalīdhānyaśatāhvālodhrasaindhavaiḥ//
 sacitrakaisturaṅgāṇāṃ pratipānaṃ himāgame// Ibid., 289.39b-40a
+</blockquote>
 
-[32]:
 
-lodhrapriyaṅgukāmustāpippalīviśvabheṣajaiḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> lodhrapriyaṅgukāmustāpippalīviśvabheṣajaiḥ//
 sakṣaudraiḥ pratipānaṃ syādvasante kaphanāśanam// Ibid., 289.40b-41a
+</blockquote>
 
-[33]:
 
-priyaṅgupippalīlodhrayaṣṭyāhvaiḥ samahauṣadhaiḥ//
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> priyaṅgupippalīlodhrayaṣṭyāhvaiḥ samahauṣadhaiḥ//
 nidāghe saguḍā deyā madirā pratipānake/
 lodhrakāṣṭhaṃ salavaṇaṃ pippalyo viśvabheṣajam//
 bhavettailayutairebhiḥ pratipānaṃ ghanāgame// Ibid.,289.41b-43a
+</blockquote>
 
-[34]:
 
-Vāyu Purāṇa , 30.280
 
-[35]:
 
-gavāṃ sthānaṃ tathaivātra turagāṇāṃ tathaiva ca/
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Vāyu Purāṇa , 30.280
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> gavāṃ sthānaṃ tathaivātra turagāṇāṃ tathaiva ca/
 uttarābhimukhā śreṇī turagāṇāṃ vidhīyate//
 dakṣiṇābhimukhā vātha pariśiṣṭāstu garhitāḥ/
 turagāste tathā dhāryāḥ pradīpaiḥ sārvarātrikaiḥ// Matsya Purāṇa , 217.19-20
+</blockquote>
 
-[36]:
 
-Ibid., 217.21-23
 
-[37]:
 
-govaidyānaśvavaidyāṃśca gajavaidyāṃstathaiva ca// Ibid., 217.25
+<div className="footnote-card"><strong>[36]</strong> Ibid., 217.21-23</div>
 
-[38]:
 
-vāseyustvāstṛte sthāne kṛtadhūpanabhūmayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> govaidyānaśvavaidyāṃśca gajavaidyāṃstathaiva ca// Ibid., 217.25
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> vāseyustvāstṛte sthāne kṛtadhūpanabhūmayaḥ/
 yatnopanyastayavasāḥ sapradīpāḥ surakṣitāḥ//
 kṛkavākvajakapayo dhāryāścāśvagṛhe mṛgāḥ// Agni Purāṇa , 289.55-56
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -637,10 +854,6 @@ kṛkavākvajakapayo dhāryāścāśvagṛhe mṛgāḥ// Agni Purāṇa , 289.5
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Horses Used for Chariots: Agriculture And Animal Husbandry In The Puranas Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

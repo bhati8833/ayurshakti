@@ -13,157 +13,155 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Sushruta Samhita Sutrasthana Chapter 1](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch1)
+### [General Discourse: Sushruta Samhita Sutrasthana Chapter 1](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Sushruta Samhita Sutrasthana.
 
-### 2. [Invocation: Sushruta Samhita Sutrasthana Chapter 2](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch2)
+### [Invocation: Sushruta Samhita Sutrasthana Chapter 2](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch2)
 **Overview**: Detailed classical discussion on Invocation within Sushruta Samhita Sutrasthana.
 
-### 3. [Origin of Ayurveda: Sushruta Samhita Sutrasthana Chapter 3](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch3)
+### [Origin of Ayurveda: Sushruta Samhita Sutrasthana Chapter 3](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch3)
 **Overview**: Detailed classical discussion on Origin of Ayurveda within Sushruta Samhita Sutrasthana.
 
-### 4. [Classification of Ayurveda: Sushruta Samhita Sutrasthana Chapter 4](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch4)
+### [Classification of Ayurveda: Sushruta Samhita Sutrasthana Chapter 4](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch4)
 **Overview**: Detailed classical discussion on Classification of Ayurveda within Sushruta Samhita Sutrasthana.
 
-### 5. [General explanations: Sushruta Samhita Sutrasthana Chapter 5](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch5)
+### [General explanations: Sushruta Samhita Sutrasthana Chapter 5](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch5)
 **Overview**: Detailed classical discussion on General explanations within Sushruta Samhita Sutrasthana.
 
-### 6. [Preliminary measures: Sushruta Samhita Sutrasthana Chapter 6](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch6)
+### [Preliminary measures: Sushruta Samhita Sutrasthana Chapter 6](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch6)
 **Overview**: Detailed classical discussion on Preliminary measures within Sushruta Samhita Sutrasthana.
 
-### 7. [Initiation of the pupil: Sushruta Samhita Sutrasthana Chapter 7](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch7)
+### [Initiation of the pupil: Sushruta Samhita Sutrasthana Chapter 7](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch7)
 **Overview**: Detailed classical discussion on Initiation of the pupil within Sushruta Samhita Sutrasthana.
 
-### 8. [Different seasons of the year: Sushruta Samhita Sutrasthana Chapter 8](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch8)
+### [Different seasons of the year: Sushruta Samhita Sutrasthana Chapter 8](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch8)
 **Overview**: Detailed classical discussion on Different seasons of the year within Sushruta Samhita Sutrasthana.
 
-### 9. [Surgical appliances: Sushruta Samhita Sutrasthana Chapter 9](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch9)
+### [Surgical appliances: Sushruta Samhita Sutrasthana Chapter 9](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch9)
 **Overview**: Detailed classical discussion on Surgical appliances within Sushruta Samhita Sutrasthana.
 
-### 10. [Surgical instruments: Sushruta Samhita Sutrasthana Chapter 10](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch10)
+### [Surgical instruments: Sushruta Samhita Sutrasthana Chapter 10](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch10)
 **Overview**: Detailed classical discussion on Surgical instruments within Sushruta Samhita Sutrasthana.
 
-### 11. [Practical surgical instructions: Sushruta Samhita Sutrasthana Chapter 11](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch11)
+### [Practical surgical instructions: Sushruta Samhita Sutrasthana Chapter 11](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch11)
 **Overview**: Detailed classical discussion on Practical surgical instructions within Sushruta Samhita Sutrasthana.
 
-### 12. [Qualifications of a physician: Sushruta Samhita Sutrasthana Chapter 12](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch12)
+### [Qualifications of a physician: Sushruta Samhita Sutrasthana Chapter 12](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch12)
 **Overview**: Detailed classical discussion on Qualifications of a physician within Sushruta Samhita Sutrasthana.
 
-### 13. [Thermal cautery: Sushruta Samhita Sutrasthana Chapter 13](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch13)
+### [Thermal cautery: Sushruta Samhita Sutrasthana Chapter 13](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch13)
 **Overview**: Detailed classical discussion on Thermal cautery within Sushruta Samhita Sutrasthana.
 
-### 14. [Usage of leeches: Sushruta Samhita Sutrasthana Chapter 14](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch14)
+### [Usage of leeches: Sushruta Samhita Sutrasthana Chapter 14](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch14)
 **Overview**: Detailed classical discussion on Usage of leeches within Sushruta Samhita Sutrasthana.
 
-### 15. [Description of blood: Sushruta Samhita Sutrasthana Chapter 15](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch15)
+### [Description of blood: Sushruta Samhita Sutrasthana Chapter 15](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch15)
 **Overview**: Detailed classical discussion on Description of blood within Sushruta Samhita Sutrasthana.
 
-### 16. [Alkaline cautery: Sushruta Samhita Sutrasthana Chapter 16](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch16)
+### [Alkaline cautery: Sushruta Samhita Sutrasthana Chapter 16](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch16)
 **Overview**: Detailed classical discussion on Alkaline cautery within Sushruta Samhita Sutrasthana.
 
-### 17. [Knowledge of doshas etc: Sushruta Samhita Sutrasthana Chapter 17](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch17)
+### [Knowledge of doshas etc: Sushruta Samhita Sutrasthana Chapter 17](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch17)
 **Overview**: Detailed classical discussion on Knowledge of doshas etc within Sushruta Samhita Sutrasthana.
 
-### 18. [Puncturing and Bandaging the ear: Sushruta Samhita Sutrasthana Chapter 18](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch18)
+### [Puncturing and Bandaging the ear: Sushruta Samhita Sutrasthana Chapter 18](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch18)
 **Overview**: Detailed classical discussion on Puncturing and Bandaging the ear within Sushruta Samhita Sutrasthana.
 
-### 19. [Features of unripe and ripe swelling: Sushruta Samhita Sutrasthana Chapter 19](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch19)
+### [Features of unripe and ripe swelling: Sushruta Samhita Sutrasthana Chapter 19](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch19)
 **Overview**: Detailed classical discussion on Features of unripe and ripe swelling within Sushruta Samhita Sutrasthana.
 
-### 20. [Care of the wounded: Sushruta Samhita Sutrasthana Chapter 20](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch20)
+### [Care of the wounded: Sushruta Samhita Sutrasthana Chapter 20](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch20)
 **Overview**: Detailed classical discussion on Care of the wounded within Sushruta Samhita Sutrasthana.
 
-### 21. [Suitable and unsuitables for health: Sushruta Samhita Sutrasthana Chapter 21](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch21)
+### [Suitable and unsuitables for health: Sushruta Samhita Sutrasthana Chapter 21](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch21)
 **Overview**: Detailed classical discussion on Suitable and unsuitables for health within Sushruta Samhita Sutrasthana.
 
-### 22. [Poulticing and bandaging of wounds: Sushruta Samhita Sutrasthana Chapter 22](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch22)
+### [Poulticing and bandaging of wounds: Sushruta Samhita Sutrasthana Chapter 22](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch22)
 **Overview**: Detailed classical discussion on Poulticing and bandaging of wounds within Sushruta Samhita Sutrasthana.
 
-### 23. [Questions concerning wounds: Sushruta Samhita Sutrasthana Chapter 23](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch23)
+### [Questions concerning wounds: Sushruta Samhita Sutrasthana Chapter 23](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch23)
 **Overview**: Detailed classical discussion on Questions concerning wounds within Sushruta Samhita Sutrasthana.
 
-### 24. [Knowledge of exudates of wounds: Sushruta Samhita Sutrasthana Chapter 24](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch24)
+### [Knowledge of exudates of wounds: Sushruta Samhita Sutrasthana Chapter 24](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch24)
 **Overview**: Detailed classical discussion on Knowledge of exudates of wounds within Sushruta Samhita Sutrasthana.
 
-### 25. [Prognosis of wounds: Sushruta Samhita Sutrasthana Chapter 25](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch25)
+### [Prognosis of wounds: Sushruta Samhita Sutrasthana Chapter 25](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch25)
 **Overview**: Detailed classical discussion on Prognosis of wounds within Sushruta Samhita Sutrasthana.
 
-### 26. [Knowledge of diseases: Sushruta Samhita Sutrasthana Chapter 26](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch26)
+### [Knowledge of diseases: Sushruta Samhita Sutrasthana Chapter 26](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch26)
 **Overview**: Detailed classical discussion on Knowledge of diseases within Sushruta Samhita Sutrasthana.
 
-### 27. [Knowledge of foreign bodies: Sushruta Samhita Sutrasthana Chapter 27](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch27)
+### [Knowledge of foreign bodies: Sushruta Samhita Sutrasthana Chapter 27](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch27)
 **Overview**: Detailed classical discussion on Knowledge of foreign bodies within Sushruta Samhita Sutrasthana.
 
-### 28. [Removal of foreign bodies: Sushruta Samhita Sutrasthana Chapter 28](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch28)
+### [Removal of foreign bodies: Sushruta Samhita Sutrasthana Chapter 28](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch28)
 **Overview**: Detailed classical discussion on Removal of foreign bodies within Sushruta Samhita Sutrasthana.
 
-### 29. [Prognosis of wounds: Sushruta Samhita Sutrasthana Chapter 29](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch29)
+### [Prognosis of wounds: Sushruta Samhita Sutrasthana Chapter 29](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch29)
 **Overview**: Detailed classical discussion on Prognosis of wounds within Sushruta Samhita Sutrasthana.
 
-### 30. [Eight kinds of surgical operations: Sushruta Samhita Sutrasthana Chapter 30](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch30)
+### [Eight kinds of surgical operations: Sushruta Samhita Sutrasthana Chapter 30](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch30)
 **Overview**: Detailed classical discussion on Eight kinds of surgical operations within Sushruta Samhita Sutrasthana.
 
-### 31. [Good and bad sensory perceptions: Sushruta Samhita Sutrasthana Chapter 31](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch31)
+### [Good and bad sensory perceptions: Sushruta Samhita Sutrasthana Chapter 31](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch31)
 **Overview**: Detailed classical discussion on Good and bad sensory perceptions within Sushruta Samhita Sutrasthana.
 
-### 32. [Good And Bad Colour Etc. Fatal Signs: Sushruta Samhita Sutrasthana Chapter 32](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch32)
+### [Good And Bad Colour Etc. Fatal Signs: Sushruta Samhita Sutrasthana Chapter 32](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch32)
 **Overview**: Detailed classical discussion on Good And Bad Colour Etc. Fatal Signs within Sushruta Samhita Sutrasthana.
 
-### 33. [Fatal Signs of Diseases: Sushruta Samhita Sutrasthana Chapter 33](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch33)
+### [Fatal Signs of Diseases: Sushruta Samhita Sutrasthana Chapter 33](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch33)
 **Overview**: Detailed classical discussion on Fatal Signs of Diseases within Sushruta Samhita Sutrasthana.
 
-### 34. [Good and bad nature of body parts fatal signs: Sushruta Samhita Sutrasthana Chapter 34](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch34)
+### [Good and bad nature of body parts fatal signs: Sushruta Samhita Sutrasthana Chapter 34](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch34)
 **Overview**: Detailed classical discussion on Good and bad nature of body parts fatal signs within Sushruta Samhita Sutrasthana.
 
-### 35. [Duties of army surgeon: Sushruta Samhita Sutrasthana Chapter 35](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch35)
+### [Duties of army surgeon: Sushruta Samhita Sutrasthana Chapter 35](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch35)
 **Overview**: Detailed classical discussion on Duties of army surgeon within Sushruta Samhita Sutrasthana.
 
-### 36. [Auspicious and inauspicious dreams: Sushruta Samhita Sutrasthana Chapter 36](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch36)
+### [Auspicious and inauspicious dreams: Sushruta Samhita Sutrasthana Chapter 36](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch36)
 **Overview**: Detailed classical discussion on Auspicious and inauspicious dreams within Sushruta Samhita Sutrasthana.
 
-### 37. [Drugs of specific actions: Sushruta Samhita Sutrasthana Chapter 37](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch37)
+### [Drugs of specific actions: Sushruta Samhita Sutrasthana Chapter 37](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch37)
 **Overview**: Detailed classical discussion on Drugs of specific actions within Sushruta Samhita Sutrasthana.
 
-### 38. [Examination of the patient: Sushruta Samhita Sutrasthana Chapter 38](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch38)
+### [Examination of the patient: Sushruta Samhita Sutrasthana Chapter 38](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch38)
 **Overview**: Detailed classical discussion on Examination of the patient within Sushruta Samhita Sutrasthana.
 
-### 39. [Purificatory and Palliative Drugs: Sushruta Samhita Sutrasthana Chapter 39](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch39)
+### [Purificatory and Palliative Drugs: Sushruta Samhita Sutrasthana Chapter 39](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch39)
 **Overview**: Detailed classical discussion on Purificatory and Palliative Drugs within Sushruta Samhita Sutrasthana.
 
-### 40. [Kinds of land regions: Sushruta Samhita Sutrasthana Chapter 40](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch40)
+### [Kinds of land regions: Sushruta Samhita Sutrasthana Chapter 40](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch40)
 **Overview**: Detailed classical discussion on Kinds of land regions within Sushruta Samhita Sutrasthana.
 
-### 41. [Groups of drugs: Sushruta Samhita Sutrasthana Chapter 41](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch41)
+### [Groups of drugs: Sushruta Samhita Sutrasthana Chapter 41](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch41)
 **Overview**: Detailed classical discussion on Groups of drugs within Sushruta Samhita Sutrasthana.
 
-### 42. [Knowledge of taste etc of drugs: Sushruta Samhita Sutrasthana Chapter 42](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch42)
+### [Knowledge of taste etc of drugs: Sushruta Samhita Sutrasthana Chapter 42](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch42)
 **Overview**: Detailed classical discussion on Knowledge of taste etc of drugs within Sushruta Samhita Sutrasthana.
 
-### 43. [Knowledge of tastes of drugs: Sushruta Samhita Sutrasthana Chapter 43](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch43)
+### [Knowledge of tastes of drugs: Sushruta Samhita Sutrasthana Chapter 43](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch43)
 **Overview**: Detailed classical discussion on Knowledge of tastes of drugs within Sushruta Samhita Sutrasthana.
 
-### 44. [Knowledge of categories of drugs: Sushruta Samhita Sutrasthana Chapter 44](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch44)
+### [Knowledge of categories of drugs: Sushruta Samhita Sutrasthana Chapter 44](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch44)
 **Overview**: Detailed classical discussion on Knowledge of categories of drugs within Sushruta Samhita Sutrasthana.
 
-### 45. [Recipes of emetic drugs: Sushruta Samhita Sutrasthana Chapter 45](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch45)
+### [Recipes of emetic drugs: Sushruta Samhita Sutrasthana Chapter 45](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch45)
 **Overview**: Detailed classical discussion on Recipes of emetic drugs within Sushruta Samhita Sutrasthana.
 
-### 46. [Recipes of purgative drugs: Sushruta Samhita Sutrasthana Chapter 46](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch46)
+### [Recipes of purgative drugs: Sushruta Samhita Sutrasthana Chapter 46](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch46)
 **Overview**: Detailed classical discussion on Recipes of purgative drugs within Sushruta Samhita Sutrasthana.
 
-### 47. [Knowledge of liquid substances: Sushruta Samhita Sutrasthana Chapter 47](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch47)
+### [Knowledge of liquid substances: Sushruta Samhita Sutrasthana Chapter 47](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch47)
 **Overview**: Detailed classical discussion on Knowledge of liquid substances within Sushruta Samhita Sutrasthana.
 
-### 48. [Diet articles and regimen of diet: Sushruta Samhita Sutrasthana Chapter 48](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch48)
+### [Diet articles and regimen of diet: Sushruta Samhita Sutrasthana Chapter 48](/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch48)
 **Overview**: Detailed classical discussion on Diet articles and regimen of diet within Sushruta Samhita Sutrasthana.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Preface
+## Preface
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -194,7 +192,7 @@ Kaviraj.
 
 ---
 
-## 3. Plate I
+## Plate I
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -217,7 +215,7 @@ Plate I
 
 ---
 
-## 4. Introduction
+## Introduction
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -563,15 +561,18 @@ Sushruta as an Observer It has been lately discovered by a German physiologist t
 
 in its origin and in no way inferior to the modern introduction of Cogghill’s respirators. The microscopic germs that are said to propagate septic fever otherwise called bhūtabhi ṣaṅgottha (saṅgottha?) viṣasajvara are found very often to disappear under this Indian device where no medicines produce any impression. Thus many a wonderful discovery like the above hails from the dimness of a bygone age. Many truths lie embedded in the vast medical literature of the Brahmanas which claimed close attention and devout study, even by the western savants. We have not laboured in vain if these pages can help a little to revive the old genius of the Ayurveda, or help the progress of human Science one step onward towards the attainment of its goal.
 
-[1]:
 
-śyāmāyano'tha gārgyaśca jābāliḥ suśrutastathā | 
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> śyāmāyano'tha gārgyaśca jābāliḥ suśrutastathā | 
 viśvāmitrātmajāḥ sabbeṃ (sarve?) munayo brahmavādinaḥ || 
       Mahābhāratam—Anushasan Parva, Ch. IV
+</blockquote>
 
-[2]:
 
-viśvāmitrāddevarāta maducchandādayaḥ sutāḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> viśvāmitrāddevarāta maducchandādayaḥ sutāḥ | 
 āyuṣo nahuṣastasmādanenā rajirambhakau ||  
 kṣattravṛddhaḥ kṣattravṛddhāt suhotraścābhavannṛpaḥ | 
 kāśyakāśaugṛtsamadaḥ suhotrādabhavaṃstrayaḥ || 
@@ -579,11 +580,17 @@ gṛtsamadācchaunako'bhūt kāśyāddīrghatamāstathā |
 vaidyo dhanvantaristasmāt ketumāṃścatadātmajaḥ | 
 bhīmarathaḥ ketumato divodāsastadātmajaḥ || 
       Garuda Puranām, Chap. 139, Vs. 8-11,
+</blockquote>
 
-[3]:
 
-“yatra yatra parokṣe niyogastatra tatraiva pratisaṃskarttṛsutraṃ kṣātavyaṃ | pratisaṃskarttāpīhanāgājuna eva |” 
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “yatra yatra parokṣe niyogastatra tatraiva pratisaṃskarttṛsutraṃ kṣātavyaṃ | pratisaṃskarttāpīhanāgājuna eva |” 
       Dallana’s Commentary, Sutrasthānam, Ch. I. 1.
+</blockquote>
+
+
 
 Dallana mentions the names of Jejjada, Gayadasa etc., as the redactors of the original Samhita, and rejects as spurious or of questionable authority the texts which cannot be found in their editions of the work. Most probably the authoritative verses are quotations from the Vriddha Sushruta.
 
@@ -594,162 +601,217 @@ saṃskarttā kurute tantraṃ purāṇañca punarnavaṃ ||
 
 A Samhitā, on the other hand, deals with aphorisms contained in the Vedas.
 
-[4]:
 
-vedavākyanibaddhatvāt saṃhitāstāḥ prakīrttitāḥ | 
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> vedavākyanibaddhatvāt saṃhitāstāḥ prakīrttitāḥ | 
 tadā bhagavataḥ śākyasiṃhasya paranirvvateḥ | 
 asminmahīlokadhātau sārddhaṃ varṣaśataṃ hyagā?? || 
 vodhisattvaśca deśesminneko bhumīścarobhavat | 
 sa ca nāgārjanaḥ śrīmān * * * || 
       Rājatarangini I. Taranga. Vs. 172-173.
+</blockquote>
 
-[5]:
 
-Mahamahopadhyaya Kaviraj Dvaraka Nath Sen Kaviratna of Calcutta subscribes to this opinion. —Tr.
 
-[6]:
 
-Bael’s Buddhistic Records of the Western World. Vol. II. P. 212. Stein’s Rajatarangini.
+<div className="footnote-card"><strong>[5]</strong> Mahamahopadhyaya Kaviraj Dvaraka Nath Sen Kaviratna of Calcutta subscribes to this opinion. —Tr.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Bael’s Buddhistic Records of the Western World. Vol. II. P. 212. Stein’s Rajatarangini.</div>
+
+
 
 (???) Lalita-Vistara—Raja R. L. Milter’s Edition, Chapter I.
 
-[7]:
 
-suśrutena proktaṃ sauśrutaṃ 
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> suśrutena proktaṃ sauśrutaṃ 
       Kālyāyana’s Vārtikas to Pānini’s Grammar.
+</blockquote>
 
-[8]:
 
-nagarjjuno sunīndraḥ shashasa yallohashastramatigahanaṃ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> nagarjjuno sunīndraḥ shashasa yallohashastramatigahanaṃ | 
  tasyarthasya smṛtayevayabhetahishadakṣaraibrumaḥ | 
       Chakra Dutta—Rashayandhikara.
+</blockquote>
 
-[9]:
 
-P. C. Roy—Hindu Chemistry p. XVIII. (1902).
 
-[10]:
 
-Nagarjuna Bodhisattva was well practised in the art of compounding medicine. Nagarjuna Bodhisattva by moistening all the great stones with a divine and superior decoction changed them into gold.—Bael’s Buddhistic Records of the western world Vol. II.
+<div className="footnote-card"><strong>[9]</strong> P. C. Roy—Hindu Chemistry p. XVIII. (1902).</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Nagarjuna Bodhisattva was well practised in the art of compounding medicine. Nagarjuna Bodhisattva by moistening all the great stones with a divine and superior decoction changed them into gold.—Bael’s Buddhistic Records of the western world Vol. II.</div>
+
+
 
 prajapatiṣṭavadhrat prathamamastṛtat vīryyaya kaṃ | taṃ te vadhramyayuṣe 
       Anuvak 19. 45. 46. 5.
 
-[11]:
 
-There s no ground whatever to suppose that Sushruta borrowed his system of medicine from the Greeks. On the contrary, there is much to tell against such an idea—Weber’s History of Indian Literature.
+<div className="footnote-card"><strong>[11]</strong> There s no ground whatever to suppose that Sushruta borrowed his system of medicine from the Greeks. On the contrary, there is much to tell against such an idea—Weber’s History of Indian Literature.</div>
 
-[12]:
 
-The Origin and Growth of the Healing Art—Bedroe P. 162.
 
-[13]:
 
-Pratt’s Flowering Plants. Vol. I P. 57.
+<div className="footnote-card"><strong>[12]</strong> The Origin and Growth of the Healing Art—Bedroe P. 162.</div>
 
-[14]:
 
-These Simoi (venerable) whom Clement of Alexandria has narrated to have rendered worship to a pyramid originally dedicated to the relics of a god, were the Buddhist Arhats (venerables) Sramanas. 
-      Lalita-Vistara—Raja Rajendra Lala Miner’s Edition, Ch. I
 
-[15]:
 
-ākṛṣṭaśaktiśca mahī tayā yat khasthaṃ gurusvābhimukhaḥ svaśaktyā | 
+<div className="footnote-card"><strong>[13]</strong> Pratt’s Flowering Plants. Vol. I P. 57.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> These Simoi (venerable) whom Clement of Alexandria has narrated to have rendered worship to a pyramid originally dedicated to the relics of a god, were the Buddhist Arhats (venerables) Sramanas. 
+      Lalita-Vistara—Raja Rajendra Lala Miner’s Edition, Ch. I</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> ākṛṣṭaśaktiśca mahī tayā yat khasthaṃ gurusvābhimukhaḥ svaśaktyā | 
 ākṛṣyate tatpatatīva bhāti same samantāt kuriyaṃ yataḥ khe ||
       Siddhanta Shiromani (Bhaskardcharyaya) Golodhyaya.
+</blockquote>
 
-[16]:
 
-dhātūnām pūraṇaṃ samyak sparśajñanamasaṃśayam | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> dhātūnām pūraṇaṃ samyak sparśajñanamasaṃśayam | 
 svasirāmcaradraktaṃ kuryyāccānyān guṇān api || 
 yadātu kupitaṃ raktaṃ sevate svavahā sirāḥ, 
 tadāsya vividhā rogā jāyante raktasambhavā | bhāvaprakāśam | (Bhāvaprakāsha)
+</blockquote>
+
+
 
 The Harita Samhita, which according to certain scholars, is older than the Sushruta Samhita, refers to the circulation of blood in describing Panduroga (Anemia). The disease, he observes, is caused by eating clay which thus blocks the lumen of veins and obstructs the circulation of blood. Bhavamisra, the celebrated author of Bhavaprakasha, and who is a century older than Harvey, has the above couplets bearing on the subject.
 
-[17]:
 
-(A). “The great works of Charaka and Sushruta were translated into Arabic, under the patronage of Kaliph Almansur, in the seventh century. The Arabic version of Sushruta is known by the name of “Kelale-Shawshoore-al-Hindi.” These translations in their turn were rendered into Latin. The Latin versions formed the basis of European medicine, which remained indebted to the Eastern science of medicine down to the seventeenth century.”—History of the Aryan Medical science (Thakore Saheb of Gondal) P. 196.
+<div className="footnote-card"><strong>[17]</strong> (A). “The great works of Charaka and Sushruta were translated into Arabic, under the patronage of Kaliph Almansur, in the seventh century. The Arabic version of Sushruta is known by the name of “Kelale-Shawshoore-al-Hindi.” These translations in their turn were rendered into Latin. The Latin versions formed the basis of European medicine, which remained indebted to the Eastern science of medicine down to the seventeenth century.”—History of the Aryan Medical science (Thakore Saheb of Gondal) P. 196.</div>
+
+
 
 (B). For the indebtedness of Arabic school of Medicine to the works of Indian masters, see Puschmann P. 162.
 
 (C). Bedro’e. Book IV. Ch. II. 286—299.
 
-[18]:
 
-[19]:
+<div className="footnote-card"><strong>[18]</strong> [19]:</div>
+
+
 
 Dr. Wise (Hindu system of medicine).
 
-[20]:
 
-kṣīrodamathane vaidyo devo dhanvantarirhyabhūt | 
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> kṣīrodamathane vaidyo devo dhanvantarirhyabhūt | 
 vibhrat kamuṇḍaluṃ pūrṇamamṛtena samutthitaḥ || 
 āyurvedamathāṣṭāṅgaṃ suśrutāya sa uktavān |
       Garuda Purana. Chap. 142. Vs. 5-6.
+</blockquote>
 
-[21]:
 
-sarvāṅganivṛttiryugapaditi dhanvantariḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> sarvāṅganivṛttiryugapaditi dhanvantariḥ | 
       Charaka, Sharirasthana. Chap. V.
+</blockquote>
+
+
 
 tatra dhānvantarīyānāmadhikāraḥ kriyāvidhau | 
 vaidyānām kṛtayogānām vyadhaśodhanaropaṇe ||
       Charaka, Chikitshasthana. Chap. V.
 
-[22]:
 
-Sushruta Samhita, Sutrasthana. Ch. I. 3.
+<div className="footnote-card"><strong>[22]</strong> Sushruta Samhita, Sutrasthana. Ch. I. 3.</div>
 
-[23]:
 
-ṛgvedasyāyurveda upavedaḥ 
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> ṛgvedasyāyurveda upavedaḥ 
       Charana Vyuha by Vyasa.
+</blockquote>
 
-[24]:
 
-gobhiryavaṃ cakṛṣat | ṛgveda १ ma | २३ | १५
 
-[25]:
 
-śaraḥ śaṇaḥ adhahiṣṭādevajātā vīrucchapatharopanī | 
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> gobhiryavaṃ cakṛṣat | ṛgveda १ ma | २३ | १५
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> śaraḥ śaṇaḥ adhahiṣṭādevajātā vīrucchapatharopanī | 
 vabhrorarjunakāṇḍasya yavasyate palānyātilasya tilopiñja(ā/pā?) ||
       Atharvan Samhita
+</blockquote>
+
+
 
 B. See also Ibid I. 2 II. 4. 7. 9. 25, 27 and 36.
 
-[26]:
 
-tasmādakṣīnāsatyāvicakṣa ādhattama dasābhiṣajātharvvān | 
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> tasmādakṣīnāsatyāvicakṣa ādhattama dasābhiṣajātharvvān | 
       Rik Samhita I M. 116-16.
+</blockquote>
 
-[27]:
 
-Mahabharata. Shantiparva. Rajadharmanushashan Parvadhyaya.
 
-[28]:
 
-rutaṃ bhiṣak | 
+<div className="footnote-card"><strong>[27]</strong> Mahabharata. Shantiparva. Rajadharmanushashan Parvadhyaya.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> rutaṃ bhiṣak | 
       Rigveda. IX M. 112.
+</blockquote>
 
-[29]:
 
-śataṃ te rājāna bhiṣaka sahasamurvvīgabhīrā. Rik.
 
-[30]:
 
-Bedroe’s Origin of the Healing Art, and Sir John Lubbock's Prehistoric times.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> śataṃ te rājāna bhiṣaka sahasamurvvīgabhīrā. Rik.
+</blockquote>
 
-[31]:
 
-sadyo jaṃdhāmāyasīm viśpalāyai dhane hitāsartave pratyadhattaṃ || 
+
+
+<div className="footnote-card"><strong>[30]</strong> Bedroe’s Origin of the Healing Art, and Sir John Lubbock's Prehistoric times.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> sadyo jaṃdhāmāyasīm viśpalāyai dhane hitāsartave pratyadhattaṃ || 
 * * * * * 
 tasmā akṣīnāsatyāvicakṣa ādhattṃ dasābhiṣajātharvvān || 
       Rik Samhita I A. 8 Ad. 186 S. 116. 5.
+</blockquote>
 
-[32]:
 
-(A) divyauṣadhiṃ vinā devi śastravidyā suniṣphalā | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> (A) divyauṣadhiṃ vinā devi śastravidyā suniṣphalā | 
 vairūpyaṃ kurute yā ca duścikitsye vyadhāntare || 
 jāyantaṃ hi yathārśāṃsi pāṭitāni punaḥ punaḥ | 
 kiṃ tatra (?)strasādhyaṃ syāt susiddhairbheṣajairvinā || 
@@ -758,30 +820,39 @@ hyāmaye dustare tasmin śastrameva vidhīyate ||
 punaḥ saṃśamanaṃ tatra dhātūnām hi praśāntaye | 
 pradātavyaṃ mahādevi śastrādarvvāk bravīmi te ||
       Mahanilatantra, Patola X. Vs. 72-74.
+</blockquote>
+
+
 
 B) See the Article on “Heredity and some of its Surgical Aspects.” By F. C. Titzell, m. n. The medie?al Advance Vol. LXIV. June 1906. Page 357.
 
-[33]:
 
-For the use of Sanmohinis (anesthetics) for surgical purposes, see Bhoja Prabandha by Ballala Pandit.
+<div className="footnote-card"><strong>[33]</strong> For the use of Sanmohinis (anesthetics) for surgical purposes, see Bhoja Prabandha by Ballala Pandit.</div>
 
-[34]:
 
-The Aitareya Brahnaana describes a particular way of dividing the organs and viscera of the sacrificial animals which was kept secret among the priests. Aitareya Brahmana VIII. 1.
 
-[35]:
 
-(A). tayā samasya hṛdayamārisva kikirākṛṇu 
+<div className="footnote-card"><strong>[34]</strong> The Aitareya Brahnaana describes a particular way of dividing the organs and viscera of the sacrificial animals which was kept secret among the priests. Aitareya Brahmana VIII. 1.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> (A). tayā samasya hṛdayamārisva kikirākṛṇu 
       Rik Samhita V. NII, 1, 23, 538.
+</blockquote>
+
+
 
 hṛdā iva kukṣaya somadhānāḥ 
       Ibid
 
 B. Vide also Aitareya Brahmana I 2. II 12. III 37.
 
-[36]:
 
-The nature of the human hody as the resulting effect of the combination of the five elementals have been clearly described in the verse.
+<div className="footnote-card"><strong>[36]</strong> The nature of the human hody as the resulting effect of the combination of the five elementals have been clearly described in the verse.</div>
+
+
 
 mūryya cakṣurgaccatu vātamātmādyāṃ cagaccha pṛthivīṃ ca dharmmaṇā 
 āponāgaccha yadi tatra te hitamoṣadhīṣu pratitiṣṭhāśarīraiḥ |
@@ -791,103 +862,138 @@ Which being translated reads:—
 
 “Let his eye go to the sun, let his breath-wind mix with the wind of the atmosphere, and to the sky, earth and the cereals the parts which have sprung out of them, &c.”
 
-[37]:
 
-Vide Aitareya Brahmana VII. 13.
+<div className="footnote-card"><strong>[37]</strong> Vide Aitareya Brahmana VII. 13.</div>
 
-[38]:
 
-The injunction of the Hindu Shastras is that “corpse of persons more than 2 years old should be burned.” Cremation of dead bodies being obligatory on Government, as well as on private individuals, it was almost impossible to secure a full-grown anatomical subject in Pauranic India, the more so when we consider that the Hindus look upon the non-cremation and mutilation of a corpse with a peculiar horror as it prevents the spirit from purging off its uncleanness in the funeral fire, and bars its access to a higher spiritual life. Naturally in later and more ceremonial times the interred corpses of infants, less than 2 years old, had to be unearthed and dissected for anatomical purposes; and these portions of the Sushruta Samhita might have been modified by the subsequent commentators in order to conform them to occular proofs.—T. R.
 
-[39]:
 
-See Gray’s Anatomy (1897) p. 288 and 301 Figs. 248 and 262.
+<div className="footnote-card"><strong>[38]</strong> The injunction of the Hindu Shastras is that “corpse of persons more than 2 years old should be burned.” Cremation of dead bodies being obligatory on Government, as well as on private individuals, it was almost impossible to secure a full-grown anatomical subject in Pauranic India, the more so when we consider that the Hindus look upon the non-cremation and mutilation of a corpse with a peculiar horror as it prevents the spirit from purging off its uncleanness in the funeral fire, and bars its access to a higher spiritual life. Naturally in later and more ceremonial times the interred corpses of infants, less than 2 years old, had to be unearthed and dissected for anatomical purposes; and these portions of the Sushruta Samhita might have been modified by the subsequent commentators in order to conform them to occular proofs.—T. R.</div>
 
-[40]:
 
-“asthāṃ tribhiḥ ṣaṣṭhādhikaiḥ dhāryyamānaṃ |” 
+
+
+<div className="footnote-card"><strong>[39]</strong> See Gray’s Anatomy (1897) p. 288 and 301 Figs. 248 and 262.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> “asthāṃ tribhiḥ ṣaṣṭhādhikaiḥ dhāryyamānaṃ |” 
       Vishnu Smriti. Ch. 96. 55.
+</blockquote>
+
+
 
 “triṇi ṣaṣṭhādhikāni śata?nyasthām saha dant(tt?)olūmalanakhaiḥ |” 
       Charaka, Sharirasthana.
 
-[41]:
 
-Journal of the Asiatic Society Calcutta Vol. VII. P. 261.
+<div className="footnote-card"><strong>[41]</strong> Journal of the Asiatic Society Calcutta Vol. VII. P. 261.</div>
 
-[42]:
 
-avyaktādīni bhutāni vyaktamadhyāni bh??ta | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> avyaktādīni bhutāni vyaktamadhyāni bh??ta | 
 avyaktanidhanānyeva tatra kā pa?i?edanā ||  
       Bhagavat Gita II. 28.
+</blockquote>
 
-[43]:
 
-śuddhe śukrārttave sattvaḥ ma?karmmakleśvoditaḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> śuddhe śukrārttave sattvaḥ ma?karmmakleśvoditaḥ | 
 garbhaḥ sampadyate yukti?vaśādagnirivāraṇau || 
       Astanga Hridayam (Vagbhat) 
       Sharira Sthana. Ch. I. I.
+</blockquote>
 
-[44]:
 
-tasmāt parāṃ? cogarbhādhīyante, parāṃ ca sambhavanti | * 
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> tasmāt parāṃ? cogarbhādhīyante, parāṃ ca sambhavanti | * 
 * * * tasmāt madhyegarbhaḥ | 
       Aiteriya Brahmana VI. 10?ed
+</blockquote>
 
-[45]:
 
-viṣṇuryoniṃ kalpayatu, tvaṣṭā rūpāṇi piṃśatu | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> viṣṇuryoniṃ kalpayatu, tvaṣṭā rūpāṇi piṃśatu | 
 āsiñcatu prajāpatirdhātā gharbhaṃ dadhātu te || 
 gharbhaṃ dhehi sinīvālī, gharbhaṃ dhehi sarasvati | 
 gharbhaṃ teaśvinau devāvā dhattāṃ puṣkarasrajā || 
 hiraṇyayī araṇī yaṃ nirmanthato aśvinā | 
 taṃ tegharbhaṃ havāmahe daśame māsi sūtave ||
       Rik Samhita X. M. 184, S.
+</blockquote>
 
-[46]:
 
-For a short history of the Theories of Fertilisation, Vide Evolution of Sex (Prof. P. Geddes and J. A. Thompson) Chap. XII. pp. 169—171.
 
-[47]:
 
-Vide the charl of menstrual wave prepared by Von Ott given in Man and Woman (Havelock and Ellis) Chap. XI.
+<div className="footnote-card"><strong>[46]</strong> For a short history of the Theories of Fertilisation, Vide Evolution of Sex (Prof. P. Geddes and J. A. Thompson) Chap. XII. pp. 169—171.</div>
 
-[48]:
 
-The Evolution of Sex Ch. XIII. P. 185. (Prof. P. Geddes? and J. A. hompson.)
 
-[49]:
 
-Sharirasthana Ch. II.
+<div className="footnote-card"><strong>[47]</strong> Vide the charl of menstrual wave prepared by Von Ott given in Man and Woman (Havelock and Ellis) Chap. XI.</div>
 
-[50]:
 
-hidhākṛtvātmano dihamarddhena puruṣo'bhavat | 
+
+
+<div className="footnote-card"><strong>[48]</strong> The Evolution of Sex Ch. XIII. P. 185. (Prof. P. Geddes? and J. A. hompson.)</div>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> Sharirasthana Ch. II.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> hidhākṛtvātmano dihamarddhena puruṣo'bhavat | 
 arddhena nārīṃ tasyāṃ sa virājamasṛjat prabhuḥ ||
       Manu Samhita Ch. I. 32.
+</blockquote>
 
-[51]:
 
-dakṣiṇāṃśaḥ smṛtaḥ saryyo? bāmabhāgoniśākar?aḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> dakṣiṇāṃśaḥ smṛtaḥ saryyo? bāmabhāgoniśākar?aḥ | 
       Sarada Tilak Tantra.
+</blockquote>
 
-[52]:
 
-Vishnu Purana Ch. 7. Vs. 10–11.
 
-[53]:
 
-kālaḥ saṃharate jantūn kālo janayati prajāḥ | 
+<div className="footnote-card"><strong>[52]</strong> Vishnu Purana Ch. 7. Vs. 10–11.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> kālaḥ saṃharate jantūn kālo janayati prajāḥ | 
 kalanāt sarvvabhūtānāṃ kāla ityabhidhīyate || 
       Mahabharata
+</blockquote>
 
-[54]:
 
-The Evolution of Sex. Ch. XVIII. (Prof. P. Geddes and J. A. Thomson.)
 
-[55]:
 
-“The body or soma”, Weismann says,
+<div className="footnote-card"><strong>[54]</strong> The Evolution of Sex. Ch. XVIII. (Prof. P. Geddes and J. A. Thomson.)</div>
+
+
+
+
+<div className="footnote-card"><strong>[55]</strong> “The body or soma”, Weismann says,</div>
+
+
 
 “thus appears to a certain extent as a subsidiary appendage of the true bearers of the life,—the reproductive cells”.
 
@@ -897,37 +1003,52 @@ Ray Lankester has again well expressed this:—
 
 —Quoted in the Evolution of Sex (P. Geddes and J. A. Thompson) 1901. Chap. XVIII.
 
-[56]:
 
-(A) raktādhikā bhavennārau(ī?) bhavedretodhikaḥ pumān | 
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> (A) raktādhikā bhavennārau(ī?) bhavedretodhikaḥ pumān | 
 ubhayoḥ samatāyāntu napuṃsakamiti sthitiḥ ||
       Sarada Tilak Tantra.
+</blockquote>
+
+
 
 (B) Sushruta Samhita (Sharira Sthana Ch. III)
 
-[57]:
 
-rasollāsākhyā sā siddhiḥ tayā hanti kṣudhaṃ naraḥ | 
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> rasollāsākhyā sā siddhiḥ tayā hanti kṣudhaṃ naraḥ | 
 kriyādi nirapekṣeṇa sadā tṛptāḥ prajāstadā ||
       Skanda Purana quoted by Shridhara Svami in his commentaries on the Vishnu Purana. Ch. VI. V. 16.
+</blockquote>
 
-[58]:
 
-karmmaṇā pitṛlokāt | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> karmmaṇā pitṛlokāt | 
       Shruti.
+</blockquote>
 
-[59]:
 
-strīpuṃsayoḥ susuṃyoge yadyādau visṛjet pumān | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> strīpuṃsayoḥ susuṃyoge yadyādau visṛjet pumān | 
 śukra tataḥ pumānvīro jāyate valavān dṛṭḥ || 
 athacedanitā pūrvvaṃ visṛjedraktasaṃyutam | 
 tatorūpānvitā kanyā jāyate dṛḍhasaṃhatā ||
       Darubahi (Quoted by Arunadatta in his commentaries on Vagbhat).
+</blockquote>
 
-[60]:
 
-(A) pāramparyyato'nveṣaṇā vījāṅkuravat | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> (A) pāramparyyato'nveṣaṇā vījāṅkuravat | 
       Sankhya Sutra Ch. I. 122.
+</blockquote>
+
+
 
 (B) tadījāt saṃsṛti
       Ibid. Ch. III. 3.
@@ -935,49 +1056,69 @@ tatorūpānvitā kanyā jāyate dṛḍhasaṃhatā ||
 *      *      *      vījākhyānāṃ dāho videha kaivalye tu      * | 
       Sankhya Prabacana Vashya (Vijnan Bhikshu) Ch. I. S. I.
 
-[61]:
 
-āhitāgne sadā pathyānyantarāgnaujuhoti yaḥ | 
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> āhitāgne sadā pathyānyantarāgnaujuhoti yaḥ | 
 ṣaṭatriṃśacca sahasāni rātrināṃ hitabhojanaḥ ||
       Charaka Samhita.
+</blockquote>
 
-[62]:
 
-It is curious that the phonetic and etymological resemblance between Sanskrit “Juyutsu” and Japanese “Jiujitsu” (would be fighter) should be so close. Perhaps it was the Buddhist missionaries (and they were not always peaceful hermits) who had carried with them a system of scientific wrestling from India, which was subsequently developed in Japan. Compare with the complete Kano, Jiu-Jitsu (Jeudo) by H. Irving Hancock and Katsukuma Higashi. Chart I and III.
 
-[63]:
 
-* * * tridhātu śarmma vahataṃ śubhaspatī || 
+<div className="footnote-card"><strong>[62]</strong> It is curious that the phonetic and etymological resemblance between Sanskrit “Juyutsu” and Japanese “Jiujitsu” (would be fighter) should be so close. Perhaps it was the Buddhist missionaries (and they were not always peaceful hermits) who had carried with them a system of scientific wrestling from India, which was subsequently developed in Japan. Compare with the complete Kano, Jiu-Jitsu (Jeudo) by H. Irving Hancock and Katsukuma Higashi. Chart I and III.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> * * * tridhātu śarmma vahataṃ śubhaspatī || 
       Rik. Samhita. I. 3, 6.
+</blockquote>
+
+
 
 Sayana explains it as: vātapittaśleṣma dhātutrayopa śamanaviṣayaṃ sukhyaṃ vahataṃ |
 
-[64]:
 
-āpaḥ pītāstredhā vidhīyante | tāsāṃ yaḥ sthaviṣṭho??tutanmūtraṃ bhavati, yomadhyama stallohitaṃ, yo'miṣṭhaḥ saḥ prāṇaḥ | dadhaḥ saumya ! sathyamānasya yo'nimā sa ūrddhaḥ samudīṣati tat sarpirbhavati, evameva khalu saumya ! annasyāśyam?nasya yo'ṇimā sa ūrddhaḥ samudīṣati | 
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> āpaḥ pītāstredhā vidhīyante | tāsāṃ yaḥ sthaviṣṭho??tutanmūtraṃ bhavati, yomadhyama stallohitaṃ, yo'miṣṭhaḥ saḥ prāṇaḥ | dadhaḥ saumya ! sathyamānasya yo'nimā sa ūrddhaḥ samudīṣati tat sarpirbhavati, evameva khalu saumya ! annasyāśyam?nasya yo'ṇimā sa ūrddhaḥ samudīṣati | 
       Chandagya Brahmana.
+</blockquote>
 
-[65]:
 
-śarīrāvayavāstu paramāṇubhedenāparisaṃkhyeyā bhavanti(?), ativahutvādati saumyādatīndriyatvācca | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> śarīrāvayavāstu paramāṇubhedenāparisaṃkhyeyā bhavanti(?), ativahutvādati saumyādatīndriyatvācca | 
       Charaka Samhita Sharirasthana, Chap. VII.
+</blockquote>
 
-[66]:
 
-prāṇanāccaiva bhūtānāṃ prāṇa ityabhidhīyate | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> prāṇanāccaiva bhūtānāṃ prāṇa ityabhidhīyate | 
 prerayatyabhre saṃkhātān dhumajāñcoṣmajāṃścaya || 
 prathamaḥ prathame mārge pravāho nāma yo'nilaḥ | 
 ambare snehamabhetya taḍidbhyāścottamadyutiḥ ||
       Mahabharata. Shanti Pay?a S. 39.
+</blockquote>
 
-[67]:
 
-Force may be defined as that which tends to produce motion in a body at rest, or to produce change of motion in a body which is moving.—Daschanel.
 
-[68]:
 
-(A) vāyustantrayantradharaḥ pracarttakaśceṣtānām | 
+<div className="footnote-card"><strong>[67]</strong> Force may be defined as that which tends to produce motion in a body at rest, or to produce change of motion in a body which is moving.—Daschanel.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> (A) vāyustantrayantradharaḥ pracarttakaśceṣtānām | 
       Charaka, Sutrasthana. Chap. XII.
+</blockquote>
+
+
 
 (B) pittaṃ paṅgaḥ kaphaḥ paṅgaḥ paṅgavao bhaladhātavaḥ (maladhātavaḥ?) | 
 vāyunā yatra nīyante tatra gacchanti medhavat ||
@@ -985,34 +1126,45 @@ vāyunā yatra nīyante tatra gacchanti medhavat ||
 
 Inert is Pitta, inert is Kaphah, inert are the Malas & Dhatus Like clouds, they go wherever they are carried by the Vayu.
 
-[69]:
 
-dravatejaḥ samudāyātmakasyāpi pittasya tejobhāgo'gniriti | 
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> dravatejaḥ samudāyātmakasyāpi pittasya tejobhāgo'gniriti | 
 tena pittamapyagnivaṇmanyate | atitāpitāyo golakavat | 
 paramārthatastu agniḥ pittādbhinna eveti siddhāntaḥ ||
        Madhukosha.
+</blockquote>
 
-[70]:
 
-nābhirāśayaḥ svedolasīkārudhiraṃ rasaḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> nābhirāśayaḥ svedolasīkārudhiraṃ rasaḥ | 
 dṛkasparśanaṃ ca pittasya nābhiratra viśeṣata || 
       Bagbhat (Sutra Sthana ch. XII.)
+</blockquote>
 
-[71]:
 
-The bile assists in emulsifying the fats of the foods, and thus rendering them capable of passing into the lacteals by absorption. The bile has beeen considered as a natural purgative * * * The bile appears to have the power of precipitating the gastric proteoses and peptones, together with the pepsin, which is mixed up with them. * * * As an excrementitious substance, the bile may serve as a medicine for the separation of certain highly carbonaceous substances from the blood.
-      Kirk’s Physiology Ch. XIII. pp 377-378.
 
-[72]:
 
-tatrasthamevapittānāṃ śeṣānāmapyanugraham | 
+<div className="footnote-card"><strong>[71]</strong> The bile assists in emulsifying the fats of the foods, and thus rendering them capable of passing into the lacteals by absorption. The bile has beeen considered as a natural purgative * * * The bile appears to have the power of precipitating the gastric proteoses and peptones, together with the pepsin, which is mixed up with them. * * * As an excrementitious substance, the bile may serve as a medicine for the separation of certain highly carbonaceous substances from the blood.
+      Kirk’s Physiology Ch. XIII. pp 377-378.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> tatrasthamevapittānāṃ śeṣānāmapyanugraham | 
 karoti valadānena pācakaṃ nāma tatsma tam || 
       Bagbhat Sutra ch. XII.
+</blockquote>
 
-[73]:
 
-A. The colouring matter of the bile is derived from and is closely related to that of blood, since the qualities of the bile pigment secreted are markedly increased by the injection of substances into the veins which are capable of setting free hemoglobin 
-      Kirk's Physiology—(Metabolism in the liver.) Ch. XII. p. 505.
+
+
+<div className="footnote-card"><strong>[73]</strong> A. The colouring matter of the bile is derived from and is closely related to that of blood, since the qualities of the bile pigment secreted are markedly increased by the injection of substances into the veins which are capable of setting free hemoglobin 
+      Kirk's Physiology—(Metabolism in the liver.) Ch. XII. p. 505.</div>
+
+
 
 B. There seems to be a close relationship between the colouring matters of the blood and of the bile, and * * between these and that of urine (urobilin) and of the feces—
       Ibid Ch. VIII. p. 376.
@@ -1020,59 +1172,77 @@ B. There seems to be a close relationship between the colouring matters of the b
 C. It seems probable that the spleen, like the lymphatic glands, is engaged in the formation of blood corpuscles. For it is quite certain, that the blood of the splenic vein contains an unusually large number of white corpuscles. † † † In Kottiker’s opinion, the development of colourless and also coloured corpuscles of the blood, is one of the essential functions of the spleen, into the veins of which the new formed corpuscles pass, and are conveyed into the general current of the circulations. 
       Ibid. Ch. XII.
 
-[74]:
 
-A. The contraction (of the heart) can not be long maintained without a due supply of blood or of a similar nutritive fluid. * * * The view that is at present taken of the action of the heart is * * that in heart muscle, as in protoplasm generally, the metabolic processes are those of anabolism or building up. which takes place during diastole of the heart * * * and the katabolism or discharge which is manifested in the contraction of the heart. 
-      Kirk’s Physiology (metabolism of the heart). Ch. VI.
+<div className="footnote-card"><strong>[74]</strong> A. The contraction (of the heart) can not be long maintained without a due supply of blood or of a similar nutritive fluid. * * * The view that is at present taken of the action of the heart is * * that in heart muscle, as in protoplasm generally, the metabolic processes are those of anabolism or building up. which takes place during diastole of the heart * * * and the katabolism or discharge which is manifested in the contraction of the heart. 
+      Kirk’s Physiology (metabolism of the heart). Ch. VI.</div>
+
+
 
 B vuddhimedhābhimānādyai?bhipretārtha | 
 sādhakaṃ hṛdgataṃ pittam ||
       Bagbhat Sutra. Ch. XII. 13.
 
-[75]:
 
-The seat of the moon is at the root of the palate and that of the sun is at the root of the navel; the place of the air (or breath) is above the sun, and mind dwells above the moon. Chitta (or the passage between the mind and the spiritual soul) dwells above the sun, and life dwells above the moon. 
-      Jnana Sankalini Tantrani, International Journal of Tantrik order (New York) Vol. V. No. 5 p. 109.
+<div className="footnote-card"><strong>[75]</strong> The seat of the moon is at the root of the palate and that of the sun is at the root of the navel; the place of the air (or breath) is above the sun, and mind dwells above the moon. Chitta (or the passage between the mind and the spiritual soul) dwells above the sun, and life dwells above the moon. 
+      Jnana Sankalini Tantrani, International Journal of Tantrik order (New York) Vol. V. No. 5 p. 109.</div>
 
-[76]:
 
-It is supposed that the change effected by the light, which falls upon the retina, is in fact a chemical alteration in the protoplasm, and that this stimulates the optic nerve-endings. 
-      Kirk’s Physiology Ch. XVII,
 
-[77]:
 
-(A) śleṣmāgnisādanaḥ—Bagbhat.
+<div className="footnote-card"><strong>[76]</strong> It is supposed that the change effected by the light, which falls upon the retina, is in fact a chemical alteration in the protoplasm, and that this stimulates the optic nerve-endings. 
+      Kirk’s Physiology Ch. XVII,</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> (A) śleṣmāgnisādanaḥ—Bagbhat.
+</blockquote>
+
+
 
 (B) tasmāttaṃ vidhitatyukterannapānendhanairhitaiḥ | 
 pālayet prayanna?stasya sthitauhyāyurvalasthitiḥ || 
       Charaka Chikitshasthana. Chap. 15.
 
-[78]:
 
-(A). kedāreṣu yathākulyāḥ puṇānti vividhauṣadhīḥ | 
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> (A). kedāreṣu yathākulyāḥ puṇānti vividhauṣadhīḥ | 
 tathākalevare dhātun sarbbān varddhayate rasaḥ || 
       Bhava Mishra.
+</blockquote>
+
+
 
 (B). khale kapotanyāyenāhayasannarasaḥ pṛthak pṛthak dhātumārge gataḥ san ramādīn poṣayati | * * evaṃ rasapoṣaṇakālāduttarakālaṃ raktapoṣakamārgacārittvāt raktapoṣako rasabhāgo raktaṃ poṣayati | * * * evaṃ māmsamedaprabhṛti poṣaṇa'pijñeya | 
       Chakra Datta’s commentary on the Charaka Samhita, Sutrasthana. Ch XXVIII.
 
-[79]:
 
-(A) dhātavaśca malaścāpi duṣyantyebhiḥ yatastataḥ | 
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> (A) dhātavaśca malaścāpi duṣyantyebhiḥ yatastataḥ | 
 vātapittakaphā?ete trayo diṣā iti smṛtāḥ ||
       Bhavaprakasha Part I.
+</blockquote>
+
+
 
 B vāyapittaṃ kaphaścoktaḥ śārīra doṣasaṃgnaham | 
       Charaka Sutrasthana Chap. I.
 
-[80]:
 
-pañca pittasya —Charaka Samhita.
+<blockquote className="ayur-shloka">
+<strong>[80]</strong> pañca pittasya —Charaka Samhita.
+</blockquote>
 
-[81]:
 
-(A) evaṃ pāñcabhautikā agnayaḥ—eka udarāgniḥ, sapradhātvagnayo vakṣyamānā iti trayodaśā'gnayaḥ | nanupārthivādyuṣmābhiḥ pakkasya punaḥ dhātuṣmābhiḥ pāka dhātunāmapi pāñcabhautikatvāt tatrāpi pārthivādyuṣmābhāvaḥ | taiśca pārthivādyuṣmābhi punaḥ pākaḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[81]</strong> (A) evaṃ pāñcabhautikā agnayaḥ—eka udarāgniḥ, sapradhātvagnayo vakṣyamānā iti trayodaśā'gnayaḥ | nanupārthivādyuṣmābhiḥ pakkasya punaḥ dhātuṣmābhiḥ pāka dhātunāmapi pāñcabhautikatvāt tatrāpi pārthivādyuṣmābhāvaḥ | taiśca pārthivādyuṣmābhi punaḥ pākaḥ | 
       Arundatta.
+</blockquote>
+
+
 
 B. tathā sapraṣu sirāśate sapro'gniśatāni | 
  pañcaṣu māṃsapeśī śateṣu ca pañcāgniśatānīti || 
@@ -1095,94 +1265,130 @@ D). saptarbhideha dhātāro dhātavo dvividha punaḥ |
 yathāsvamagnibhiḥ pākaṃ yānti kiṭṭa prasādataḥ || 
       Vid Ibid Chap. XX.
 
-[82]:
 
-A. daghnaḥ saumya yathā mathyamānasya yo'nimā sa uddharaṃ samudoryyati eva so khalu saumya annasyāśyamānasya | 
+<blockquote className="ayur-shloka">
+<strong>[82]</strong> A. daghnaḥ saumya yathā mathyamānasya yo'nimā sa uddharaṃ samudoryyati eva so khalu saumya annasyāśyamānasya | 
       Chandogya Upanishad.
+</blockquote>
+
+
 
 B. annasya odanāderaśyamānasya bhuñjamānasya audargyena agninā vāyu sahitena khajena iva satya(?) prānasya | 
       Chandogya Bhasyam.
 
-[83]:
 
-These facts and other considerations, which might be brought forward, lead to the tentative conception of protoplasm as being a substance (if we may use the word in somewhat loose sense) not only unstable in nature but subject to incessant change, existing indeed as the expression of incessant molecular, i. e. chemical and physical change, very much as a fountain is the expression of incessant replacement of water. We may picture to ourselves the total change, which we denote by the term “metabolism,” as consisting on the one hand, of a downward series of (Katabolic changes) a stair of many steps in which the more complex bodies are broken down with the setting free of energy into simpler waste bodies, and, on the other hand, of an upward series of changes (anabolic changes) also a stair of. many steps, by which the dead food of varying simplicity or complexity is with further assumption of energy built up into more and more complex bodies. The summit of the double stair we call “protoplasm” whether we have right to speak of it as a single body tin the chemical sense of that word or as a mixture in some way of several bodies. Whether we should regard it as the very summit of the double stair, or as embracing as well as the topmost steps in either side, we can not at present tell. Even if this be a simple substance forming the topmost summit, its existence is absolutely temporary, at one instance it is made, at the next it is unmade matter, which is passing through the phase of life, rolls up the ascending step to the top and forthwith rolls down on the other side * * *
+<div className="footnote-card"><strong>[83]</strong> These facts and other considerations, which might be brought forward, lead to the tentative conception of protoplasm as being a substance (if we may use the word in somewhat loose sense) not only unstable in nature but subject to incessant change, existing indeed as the expression of incessant molecular, i. e. chemical and physical change, very much as a fountain is the expression of incessant replacement of water. We may picture to ourselves the total change, which we denote by the term “metabolism,” as consisting on the one hand, of a downward series of (Katabolic changes) a stair of many steps in which the more complex bodies are broken down with the setting free of energy into simpler waste bodies, and, on the other hand, of an upward series of changes (anabolic changes) also a stair of. many steps, by which the dead food of varying simplicity or complexity is with further assumption of energy built up into more and more complex bodies. The summit of the double stair we call “protoplasm” whether we have right to speak of it as a single body tin the chemical sense of that word or as a mixture in some way of several bodies. Whether we should regard it as the very summit of the double stair, or as embracing as well as the topmost steps in either side, we can not at present tell. Even if this be a simple substance forming the topmost summit, its existence is absolutely temporary, at one instance it is made, at the next it is unmade matter, which is passing through the phase of life, rolls up the ascending step to the top and forthwith rolls down on the other side * * *</div>
+
+
 
 Further the dead food itself fairly, but far from being wholly stable in character, becomes more and more complex living material. It becomes more and more explosive and when it reaches the summit its equilibrium is over-thrown and it actually explodes. The whole downward stair of events seems in fact to be a series of explosives by means of which the energy latent in the dead food and augmented by the touches through which the dead food becomes living protoplasm, is set free. Some of those freed energy is used up again by the material itself, in order to carry on tin's same vivification of dead food, the rest leaves the body as heat or motion.
 
 If this be admitted it almost inevitably follows, that what we have called protoplasm, can not be always the same thing: that there must be many varieties of protoplasm with different qualities and with corresponding different molecular structure and composition. Using the word “protoplasm” in this sense, it is obvious that the varieties of protoplasm are numerous indeed, almost innumerable. The molecular protoplasm, which brings forth a contractile kata-state must differ in nature, in composition, that is in construction from glandular protoplasm where kata-state is a mother of ferment. Further the protoplasm of a swiftly contracting striped muscular fibre must differ from that of the torpid, smooth, unstriated fibre, the protoplasm of a human muscle must differ from that of a sheep or a frog, the protoplasm of one muscle must differ from that of another muscle, in the same kind of animal, and the protoplasm of Smith’s biceps must differ from that of Jone’s—Foster.
 
-[84]:
 
-tridhātu śarmma vahaṃtaṃ | vātapittakapha śamanaviṣayasukhaṃ vahaṃtaṃ | 
+<blockquote className="ayur-shloka">
+<strong>[84]</strong> tridhātu śarmma vahaṃtaṃ | vātapittakapha śamanaviṣayasukhaṃ vahaṃtaṃ | 
       Sayana’s Commentary Rig V. I A.
+</blockquote>
 
-[85]:
 
-dhatuvaivamyanimittāḥ vyādhayaḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[85]</strong> dhatuvaivamyanimittāḥ vyādhayaḥ | 
       Charaka.
+</blockquote>
 
-[86]:
 
-śarīraduṣaṇāddoṣo dhātavo dehadhāraṇāt | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[86]</strong> śarīraduṣaṇāddoṣo dhātavo dehadhāraṇāt | 
 vātapitta kaphājñeyā malinī karaṇānmalāḥ || śāṅgadhara |
+</blockquote>
 
-[87]:
 
-ojastu tejodhātūnāṃ śukrāntānāṃ paraṃsmṛtam | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[87]</strong> ojastu tejodhātūnāṃ śukrāntānāṃ paraṃsmṛtam | 
 hṛdayasthaptapi vyāpi dehasthitimivandhanam || 
       Vagbhat.
+</blockquote>
 
-[88]:
 
-hṛdi tiṣṭhati yacchubhraṃ raktamīṣat sapītakam | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[88]</strong> hṛdi tiṣṭhati yacchubhraṃ raktamīṣat sapītakam | 
 ojaḥ śarīre saṃkhyātaṃ tannāśānnā vinaśyavi || 
       Charaka (Sutra Sthana) Ch. XVII.
+</blockquote>
 
-[89]:
 
-A. tairāvṛtagatirvāyuroja ādāya gaccati | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[89]</strong> A. tairāvṛtagatirvāyuroja ādāya gaccati | 
 yadā bastiṃ tadā kṛcchro madhumehaḥ pravartate || 
       Charaka (Sutra Sthana) Ch. XVII.
+</blockquote>
+
+
 
 B. ojaḥ punarmadhura-svabhāvaṃ, tadraukṣyād vāyuśca kaṣāyatvena abhisaṃ sṛjya sutrāśaye'bhivahan madhumeha karoti | 
       Charaka (Sharira Sthana) Ch. IV.
 
-[90]:
 
-ojaḥ sarvvaśarīrasthaṃ snigdha śītaṃ sthiraṃ sitam | 
+<blockquote className="ayur-shloka">
+<strong>[90]</strong> ojaḥ sarvvaśarīrasthaṃ snigdha śītaṃ sthiraṃ sitam | 
 somātmakaṃ śarīrasya valapuṣṭikaraṃ satam || 
       Bhavaprakasha. Part I.
+</blockquote>
+
+
 
 B. kṣire ghṛtamiva tadeva valam | 
       Bhavaprakasha.
 
-[91]:
 
-tejo'pyāgne? kramaśaḥ pacyamānānāṃ dhātūnāmabhinivṛttamantarasthaṃ snehajāta vasākhyṃ strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāyyaṃ bhavati | 
+<blockquote className="ayur-shloka">
+<strong>[91]</strong> tejo'pyāgne? kramaśaḥ pacyamānānāṃ dhātūnāmabhinivṛttamantarasthaṃ snehajāta vasākhyṃ strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāyyaṃ bhavati | 
       Dallana Mishra.
+</blockquote>
 
-[92]:
 
-See Note 3 (B) Page iiv.
 
-[93]:
 
-yat sāramādau garbhasya yattadgarbharasādrasaḥ | 
+<div className="footnote-card"><strong>[92]</strong> See Note 3 (B) Page iiv.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[93]</strong> yat sāramādau garbhasya yattadgarbharasādrasaḥ | 
 mamaṃvarttamānaṃ hṛdayaṃ samāviśati yat purā || 
       Charaka Sutrasthana, Chap. XXX.
+</blockquote>
 
-[94]:
 
-A. prākṛtastu valaṃ śleṣmā vikṛto mala ucyate | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[94]</strong> A. prākṛtastu valaṃ śleṣmā vikṛto mala ucyate | 
 sacaivojaḥ smṛtaṃ kāye sa ca pāṣmopadiśyate || 
       Charaka Samhita Sutrasthana, Chap. XVII.
+</blockquote>
+
+
 
 B. dahanasyāpi dhātvagnāvavakalpanaṃ sthānaviśeṣāt kāryyaviśeṣācca | 
       Chakradatta’s Commentary S. Samhita, Sutrasthana Chap. XV.
 
-[95]:
 
-“From these extracts it appears to us still more vividly that our countrymen did also discover, like Dr. Pavy, the importance of fat and sugar in the animal economy, as well as the mode in which they can be elaborated from one common principle. (76-7S). A comparative study of the two systems of medical science, Indian and European, has led us to arrive at this conclusion; if we, therefore are not inclined to identify Ojah with albumen, as it has been done by some modern Indian commentators, we have reasons to believe that the aforesaid extracts have not as yet received sufficient consideration from them, as forming the nutritive? basis of the procreative elements; in short the subject has hitherto been neglected or, at least, been placed in the back-ground, from? want of attention on the part of those whose business it was to investigate into the truths of Science. To hold that Ojah is kept in deposit in the heart, as a reserved food material, for the maintenance of its own work as well as for the production of germinal seed, is to admit that efficiency of reproduction depends entirely upon the efficiency of this important substance in the body.”
+<div className="footnote-card"><strong>[95]</strong> “From these extracts it appears to us still more vividly that our countrymen did also discover, like Dr. Pavy, the importance of fat and sugar in the animal economy, as well as the mode in which they can be elaborated from one common principle. (76-7S). A comparative study of the two systems of medical science, Indian and European, has led us to arrive at this conclusion; if we, therefore are not inclined to identify Ojah with albumen, as it has been done by some modern Indian commentators, we have reasons to believe that the aforesaid extracts have not as yet received sufficient consideration from them, as forming the nutritive? basis of the procreative elements; in short the subject has hitherto been neglected or, at least, been placed in the back-ground, from? want of attention on the part of those whose business it was to investigate into the truths of Science. To hold that Ojah is kept in deposit in the heart, as a reserved food material, for the maintenance of its own work as well as for the production of germinal seed, is to admit that efficiency of reproduction depends entirely upon the efficiency of this important substance in the body.”</div>
+
+
 
 (76) gurusnigdhāmlalavaṇānyatimātraṃ samaśnatām | 
 navamannañca pānañca nidrāmāsyāsukhāni ca || 
@@ -1207,29 +1413,40 @@ strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāryyaṃ bhavati |
 
 78. “Teja (Ojah) too is combustible; in course of tissue-combustion, the excess quantity of it gets deposited especially in the female body as fat which produces softness and elegance.”
 
-[96]:
 
-kanṭhakūpe kṣutpipāsā nivṛttiḥ | 
+<blockquote className="ayur-shloka">
+<strong>[96]</strong> kanṭhakūpe kṣutpipāsā nivṛttiḥ | 
 kūrmanāḍyā sthairyyam | 
       Patanjala Darshana Vibhutipada 29—30 A.
+</blockquote>
 
-[97]:
 
-sopakramaṃ nirupakramañca karmma tatsaṃyamāda parāntañjānamariṣṭebhyovā | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[97]</strong> sopakramaṃ nirupakramañca karmma tatsaṃyamāda parāntañjānamariṣṭebhyovā | 
       Patanjala Darshana. Vibhutipada. A.
+</blockquote>
 
-[98]:
 
-tasmāt puruṣo'dhiṣṭānam | taddukha saṃyogāśca vyādhaya ityucyante | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[98]</strong> tasmāt puruṣo'dhiṣṭānam | taddukha saṃyogāśca vyādhaya ityucyante | 
       Sushruta samhita. Sutra. Chap. I.
+</blockquote>
 
-[99]:
 
-That Hahnemann's theory of disease was long before foreshadowed by Sushruta, will appear from the above extracts from his works. Hahnemann observes that, when a person falls ill, it is only this spiritual self-acting vital force, everywhere present in the organism, that is primarily deranged by the dynamic influence of a morbific agent inimical to life—Orgenon.
 
-[100]:
 
-Similar in character to the exciting factors of a disease—Similar in character to the Esse of a disease—Similar in character both to the exciting actors and Esse of a disease.
+<div className="footnote-card"><strong>[99]</strong> That Hahnemann's theory of disease was long before foreshadowed by Sushruta, will appear from the above extracts from his works. Hahnemann observes that, when a person falls ill, it is only this spiritual self-acting vital force, everywhere present in the organism, that is primarily deranged by the dynamic influence of a morbific agent inimical to life—Orgenon.</div>
+
+
+
+
+<div className="footnote-card"><strong>[100]</strong> Similar in character to the exciting factors of a disease—Similar in character to the Esse of a disease—Similar in character both to the exciting actors and Esse of a disease.</div>
+
+
 
 Contrary in character to the exciting factors of a disease. 
 Contrary in character to the Esse of a disease. 
@@ -1239,23 +1456,30 @@ hetuvyādhi viparyyasta vipuryyastārthakāriṇām |
 auṣadhānnavihārāṇāmupayogaṃ sukhāvaham || 
       Madhava Nidana Ch I. V. 8.
 
-[101]:
 
-dīrghamāyuḥ smṛti medhāmarogaṃ taruṇaṃ vayuḥ | 
+<blockquote className="ayur-shloka">
+<strong>[101]</strong> dīrghamāyuḥ smṛti medhāmarogaṃ taruṇaṃ vayuḥ | 
 prabhāvarṇa svaraudāryyaṃ dehendriya balaṃ paraṃ || 
 vākasiddhiṃ praṇatiṃ kāntiṃ labhate nā rasāyanāt | 
 lābhopāyo hi śapranāṃ rasādīnāṃ rasāyanaṃ || 
       Charaka Samhita Chikitsa Sthana Ch I.
+</blockquote>
 
-[102]:
 
-kharāśva godhenuka saṃbhṛtānāṃḳ, tathā yavānāṃ vividhāśca bhakṣyāḥ | 
+
+
+<blockquote className="ayur-shloka">
+<strong>[102]</strong> kharāśva godhenuka saṃbhṛtānāṃḳ, tathā yavānāṃ vividhāśca bhakṣyāḥ | 
 deyāstathā veṇuyavā yavānāṃ, kalpena godhūmamayāśca bhakṣyāḥ || 
       Charaka Samhita, Chikitsa Sthana. Ch. VI. 23.
+</blockquote>
 
-[103]:
 
-The efficacy of such exclusion has been lately demonstrated by the researches of Dr. Benjamin Horniman (Lectures, Sanitarium, Park st. London.)
+
+
+<div className="footnote-card"><strong>[103]</strong> The efficacy of such exclusion has been lately demonstrated by the researches of Dr. Benjamin Horniman (Lectures, Sanitarium, Park st. London.)</div>
+
+
 
 ?†? A. tathoṣṇa lavaṇāmlāni vidāhīni gurūṇica | 
 nādyādannāni jaṭharī toyapānaṃ ca varjayet || 
@@ -1268,28 +1492,24 @@ C. saptāhamauṣṭrantvathavāpi māsaṃ payaḥ pivedbhojanavārivarjjī |
 gavyaṃ samūtraṃ mahiṣīpayo ca kṣīrāśanaṃ mūtromatho gavāṃ cā || 
       Charaka Chikitsha Sthana Chap. 12.
 
-[104]:
 
-Lead crystals (including diamond) gold and mineral poisons are mentioned in the I. 16. I. 29. I 55. and IV 10. of the Atharva Samhita.
+<div className="footnote-card"><strong>[104]</strong> Lead crystals (including diamond) gold and mineral poisons are mentioned in the I. 16. I. 29. I 55. and IV 10. of the Atharva Samhita.</div>
 
-[105]:
 
-apasvaṃtarasṛtamapsu bheṣajamapāmata praśāntaye || 
+
+
+<blockquote className="ayur-shloka">
+<strong>[105]</strong> apasvaṃtarasṛtamapsu bheṣajamapāmata praśāntaye || 
       Rik Samhita I. 23 s. 19.
+</blockquote>
 
 ---
 
-## 5. Title Page
+## Title Page
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
-Title Page
-
-AN ENGLISH TRANSLATION
-
-OF
-
-THE SUSHRUTA SAMHITA
+Title Page, AN ENGLISH TRANSLATION, OF, THE SUSHRUTA SAMHITA
 
 BASED ON ORIGINAL SANSKRIT TEXT.
 
@@ -1317,7 +1537,7 @@ I907.
 
 ---
 
-## 6. Plate II
+## Plate II
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -1340,7 +1560,7 @@ Plate II
 
 ---
 
-## 7. Plate III
+## Plate III
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -1357,7 +1577,7 @@ Plate III
 
 ---
 
-## 8. Plate IV
+## Plate IV
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 

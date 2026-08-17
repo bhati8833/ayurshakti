@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of Diabetes within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Chapter XIII - The medical treatment of Diabetes
+## Chapter XIII - The medical treatment of Diabetes
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -67,33 +67,35 @@ The pith (inner pulp of the seeds' of the Tuvaraka burnt in a closed vessel (Ant
 
 Thus ends the thirteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Madhu-Meha.
 
-[1]:
 
-It is evident from the reading of Chakradatta that “Sarodaka” means a decoction of the drugs of the Shala-saradi group. But Dallana explains it as “Panca-sarodaka” which is quite unintelligible. In practice, also, Chakradatta is followed.—Ed.
+<div className="footnote-card"><strong>[1]</strong> It is evident from the reading of Chakradatta that “Sarodaka” means a decoction of the drugs of the Shala-saradi group. But Dallana explains it as “Panca-sarodaka” which is quite unintelligible. In practice, also, Chakradatta is followed.—Ed.</div>
 
-[2]:
 
-Some take the term in its ordinary sense to mean the five measures of emetics, purgatives, etc.; but Dallana would explain it as the measures adopted in the treatment of the Kushtha affecting the bone which is the fifth Dhatu in the system.
 
-[3]:
 
-The Kapha should be first reduced with emetics; and after a fortnight, the Pitta with purgatives. A fortnight after the use of purgatives, a potion of the Tuvarka oil should be administered inasmuch as it is a Samshodhaka (cleansing) remedy.
+<div className="footnote-card"><strong>[2]</strong> Some take the term in its ordinary sense to mean the five measures of emetics, purgatives, etc.; but Dallana would explain it as the measures adopted in the treatment of the Kushtha affecting the bone which is the fifth Dhatu in the system.</div>
 
-[4]:
 
-On the sixteenth day after the administration of the cleansing measures, as well as on the morning of the seventeenth day, the patient should take his meals as usual. On the evening of the seventeenth day no meal should be taken. On the following morning the oil should be taken.
 
-[5]:
 
-A little quantity of salt and of oil or clarified butter may be given.
+<div className="footnote-card"><strong>[3]</strong> The Kapha should be first reduced with emetics; and after a fortnight, the Pitta with purgatives. A fortnight after the use of purgatives, a potion of the Tuvarka oil should be administered inasmuch as it is a Samshodhaka (cleansing) remedy.</div>
 
-[6]:
 
-Dallana recommends the three things, viz., the pith of the Tuvaraka, the Saindhava-salt and the Rasanjana to be mixed and burnt together in a closed vessel.
+
+
+<div className="footnote-card"><strong>[4]</strong> On the sixteenth day after the administration of the cleansing measures, as well as on the morning of the seventeenth day, the patient should take his meals as usual. On the evening of the seventeenth day no meal should be taken. On the following morning the oil should be taken.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> A little quantity of salt and of oil or clarified butter may be given.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Dallana recommends the three things, viz., the pith of the Tuvaraka, the Saindhava-salt and the Rasanjana to be mixed and burnt together in a closed vessel.</div>
 
 ---
-
-
 
 ---
 
@@ -102,10 +104,6 @@ Dallana recommends the three things, viz., the pith of the Tuvaraka, the Saindha
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of dropsy: Sushruta Samhita Cikitsasthana Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -32,7 +32,11 @@ Chapter 11 - The Pharmaceutics of the Soap-pod and Clenolepis
 
 Synonyms and Qualities
 
+
+<blockquote className="ayur-shloka">
 3. Soap-pod is also known by its synonyms, of Saptala [saptalā], Carmasahva [carmasāhvā] and Bahuphenarasa [bahūphenarasā]; while Clenolepis is known by the names of Sankhini [saṅkhinī], Tiktala [tiktalā], Yavatikta [yavatiktā] and Akshipidaka [akṣipīḍaka/akṣapīḍaka].
+</blockquote>
+
 
 4. These should be administered in Gulma, chronic poisoning, cardiac-disorder, dermatosis, edema, abdominal disease etc., and in conditions of predominance of Kapha, as they are anti-spasmodic, acute and dry in quality.
 

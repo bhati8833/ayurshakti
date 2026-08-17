@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Extraction of essence from earthworm within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 131. Part 3 - Extraction of essence from earthworm
+## Part 3 - Extraction of essence from earthworm
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -43,7 +43,7 @@ This concludes ‘Extraction of essence from earthworm’ included in Bhudeb Moo
 
 ---
 
-## 132. Notes on the five tastes (sweet, sour, salty, pungent, bitter, astringent)
+## Notes on the five tastes (sweet, sour, salty, pungent, bitter, astringent)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -73,7 +73,7 @@ This concludes ‘Notes on the five tastes (sweet, sour, salty, pungent, bitter,
 
 ---
 
-## 133. Theory of vayu (vata), pitta and kapha
+## Theory of vayu (vata), pitta and kapha
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -113,7 +113,7 @@ This concludes ‘Theory of vayu (vata), pitta and kapha’ included in Bhudeb M
 
 ---
 
-## 134. Part 5 - Use of essence of Makshika
+## Part 5 - Use of essence of Makshika
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -143,8 +143,6 @@ This concludes ‘Use of essence of Makshika’ included in Bhudeb Mookerjee Ras
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -152,10 +150,6 @@ This concludes ‘Use of essence of Makshika’ included in Bhudeb Mookerjee Ras
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

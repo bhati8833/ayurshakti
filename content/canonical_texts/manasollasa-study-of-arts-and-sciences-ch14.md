@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 18. Marriage in Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. 18. Marriage in Manasollasa
+## 18. Marriage in Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -35,7 +35,7 @@ Somesvara mentions five kinds of marriage, Brahma, Raksasa, Gandharva, asura and
 
 ---
 
-## 32. Chapter 4 - Fine arts in Manasollassa
+## Chapter 4 - Fine arts in Manasollassa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -45,11 +45,7 @@ The Manasollasa is ...
 
 Chapter 4 - Fine arts in Manasollassa
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -58,10 +54,6 @@ Chapter 4 - Fine arts in Manasollassa
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">15. Falcon fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

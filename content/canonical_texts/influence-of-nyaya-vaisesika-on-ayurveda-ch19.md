@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Yoga and Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. 3. Yoga and Ayurveda
+## 3. Yoga and Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -47,8 +47,6 @@ NOTES 1 Critical Survey of Indian Philosophy , p.149-150 2 Ibid., p.151-162. 3 C
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -56,10 +54,6 @@ NOTES 1 Critical Survey of Indian Philosophy , p.149-150 2 Ibid., p.151-162. 3 C
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">1. Nyaya-Vaisesika theory of Epistemology: Influence Of Nyaya Vaisesika On Ayurveda Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

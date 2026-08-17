@@ -23,8 +23,6 @@ description: "Comprehensive English overview and classical Sanskrit chapter inde
 labels: ["Ashtanga Hridaya", "Vagbhata", "Sanskrit Samhitas", "Ayurvedic Classics", "Brihat Trayi"]
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -32,10 +30,6 @@ labels: ["Ashtanga Hridaya", "Vagbhata", "Sanskrit Samhitas", "Ayurvedic Classic
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">TL;DR — Quick Executive Summary: Ashtanga Hridaya Samhita Sanskrit Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

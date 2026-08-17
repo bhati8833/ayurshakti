@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Historical significance of Elephant lore within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Historical significance of Elephant lore
+## Historical significance of Elephant lore
 
 Matangalila and Hastyayurveda (study)
 
@@ -52,93 +52,122 @@ From an overall discussion, according to the two texts, its readers can be divid
 
 Therefore we can perceive that texts were composed especially on elephants highlighting various aspects like their mythical origin, life cycle, capturing techniques, types, qualities, etc. Mātaṅgalīlā and Hastyāyurveda are two imperative texts on elephants with different focus. Scholars are not unanimous about the exact time of their composition and compilation. Though the styles of composition of both the texts are similar to other texts composed in early historic period, yet they went through a process of evolution and interpolations.
 
-[1]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, Chapter XII, v. 29, p. 112.
+<div className="footnote-card"><strong>[1]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, Chapter XII, v. 29, p. 112.</div>
 
-[2]:
 
-Gaṇapati Sāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, Chapter XII, v. 29, p. 40.
 
-[3]:
 
-H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, p. 310.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Gaṇapati Sāstrī. ed.The Mātaṅgalīlā of Nīlakaṇṭha, Chapter XII, v. 29, p. 40.
+</blockquote>
 
-[4]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, p.147.
 
-[5]:
 
-Śivadatta Śarmaṇa. ed. Pālakāpyamuniviracita Hastyāyurvedaḥ, (Hastyāyurvedaprastāvanā), p. 2.
+<div className="footnote-card"><strong>[3]</strong> H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, p. 310.</div>
 
-[6]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, p.147.
 
-[7]:
 
-Ibid.
+<div className="footnote-card"><strong>[4]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, p.147.</div>
 
-[8]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, p.338.
 
-[9]:
 
-H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, p. 311.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Śivadatta Śarmaṇa. ed. Pālakāpyamuniviracita Hastyāyurvedaḥ, (Hastyāyurvedaprastāvanā), p. 2.
+</blockquote>
 
-[10]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, pp. 47-46.
 
-[11]:
 
-H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, pp. 311-312.
+<div className="footnote-card"><strong>[6]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, p.147.</div>
 
-[12]:
 
-Ibid., pp.312-313.
 
-[13]:
 
-H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, pp. 313.
+<div className="footnote-card"><strong>[7]</strong> Ibid.</div>
 
-[14]:
 
-A.F. Rudolf Hoernle. The Bower Manuscript, Calcutta: Archaeological Survey of India, 1897.
 
-[15]:
 
-V.N. Pandey & Ayodhya Pandey, “A Study of The Nāvanītaka: The Bower Manuscript”, Bulletin of the Indian Institute of History of Medicine, Vol.18, p.1.
+<div className="footnote-card"><strong>[8]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, p.338.</div>
 
-[16]:
 
-P. Ray, et al. Suśruta Saṃhitā: a scientific synopsis, New Delhi: Indian National Science Academy, 1980.
 
-[17]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, p.42.
+<div className="footnote-card"><strong>[9]</strong> H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, p. 311.</div>
 
-[18]:
 
-H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, pp. 312-313.
 
-[19]:
 
-G.J. Meulenbeld. The Mādhavanidāna and Its Chief Commentary, Chapters 1-10, Leiden: E.J. Brill, 1974, p.416.
+<div className="footnote-card"><strong>[10]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, pp. 47-46.</div>
 
-[20]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, pp.147-148.
 
-[21]:
 
-Thomas R. Trautmann. Elephants and Kings An Environmental History, pp.146-147.
+<div className="footnote-card"><strong>[11]</strong> H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, pp. 311-312.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid., pp.312-313.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, pp. 313.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> A.F. Rudolf Hoernle. The Bower Manuscript, Calcutta: Archaeological Survey of India, 1897.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> V.N. Pandey & Ayodhya Pandey, “A Study of The Nāvanītaka: The Bower Manuscript”, Bulletin of the Indian Institute of History of Medicine, Vol.18, p.1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> P. Ray, et al. Suśruta Saṃhitā: a scientific synopsis, New Delhi: Indian National Science Academy, 1980.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, p.42.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> H.P. Shastri. “Contribution of Bengal to Hindu Civilization”, Journal of the Bihar and Orissa Research Society, Vol. V, Part III, 1919, pp. 312-313.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> G.J. Meulenbeld. The Mādhavanidāna and Its Chief Commentary, Chapters 1-10, Leiden: E.J. Brill, 1974, p.416.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, pp.147-148.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Thomas R. Trautmann. Elephants and Kings An Environmental History, pp.146-147.</div>
 
 ---
 
-## 10. Chapter 2
+## Chapter 2
 
 Matangalila and Hastyayurveda (study)
 
@@ -146,11 +175,9 @@ This page relates ‘Chapter 2’ of the study on the Matangalina and Hastyayurv
 
 Chapter 2
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 11. Rutting elephants (based on inscriptions)
+## Rutting elephants (based on inscriptions)
 
 Matangalila and Hastyayurveda (study)
 
@@ -164,37 +191,42 @@ In fact, every king wished to kill rutting elephants of the enemies’ troop, so
 
 Often and often mention of the rutting juice in inscriptions expressed the positive effect of it in the royal status. One of the pillar inscriptions of Eastern Cālukya chiefs at Śrīkurmam near Chicacole in the Ganjam district (Śaka samvat 1195, i.e., CE 1272) expressed the valour of the king Rājarāja (CE 1022-1063) whose elephant squad had huge mast elephants and auspicious rutting juice, trickling from their big temples created like a shower of rain on the rivers and that attest the victorious career of that very king (v.5)[6]. Alas plates of the Yuvarāja Govindarāja II of Śaka samvat 692[7] mentions about the king Indrarāja II whose expansive soldiers were full of graceful scratches consequent upon the strokes of the tusks of (hostile) elephants from whose cleft temples ichor trickled down (and) who destroyed (all his) enemies on earth, became, as it were, the golden mountain (Meru) of the excellent Rāṣṭrakūṭas. In this context it should be mentioned that both Buhler and Fleet connect prabhinna-karaṭa-cyutadāna with rucira, and danti-danta prahāra with ullikhita; but this course is objectionable because the word dantin occurring after dāna shows the preceding expression to be a bahuvrīhi compound and an attribute of dantin.
 
-[1]:
 
-EI, Vol. XXVIII, l. 7.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol. XXVIII, l. 7.</div>
 
-[2]:
 
-Ibid., Vol.I, pp. 80, 84.
 
-[3]:
 
-Ibid., Vol.II, p.249
+<div className="footnote-card"><strong>[2]</strong> Ibid., Vol.I, pp. 80, 84.</div>
 
-[4]:
 
-Ākṛta appears to be a grammatical blonder for ākīrṇa.
 
-[5]:
 
-EI., Vol.III, p.89.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Vol.II, p.249</div>
 
-[6]:
 
-EI., Vol.V, p.33-34.
 
-[7]:
 
-Ibid., Vol.VI, pp.208-213.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Ākṛta appears to be a grammatical blonder for ākīrṇa.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> EI., Vol.III, p.89.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> EI., Vol.V, p.33-34.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., Vol.VI, pp.208-213.</div>
 
 ---
-
-
 
 ---
 
@@ -203,10 +235,6 @@ Ibid., Vol.VI, pp.208-213.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">The gaja-śārdula concept: Matangalila And Hastyayurveda Study Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

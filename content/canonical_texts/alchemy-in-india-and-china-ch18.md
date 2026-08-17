@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Alchemy in Tang, Song and Ming Dynasties within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. 8. Alchemy in Tang, Song and Ming Dynasties
+## 8. Alchemy in Tang, Song and Ming Dynasties
 
 Alchemy in India and China
 
@@ -39,8 +39,6 @@ Li Shi-zhen tells us that Geng-Xin Yu-ce included a total of 541 items listed un
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -48,10 +46,6 @@ Li Shi-zhen tells us that Geng-Xin Yu-ce included a total of 541 items listed un
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">4. Surface Film Formation and Tinging: Alchemy In India And China Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

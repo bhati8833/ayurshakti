@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 11. Sadrasas or Six tastes within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 37. 11. Sadrasas or Six tastes
+## 11. Sadrasas or Six tastes
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -33,8 +33,6 @@ NOTES 1 tadbhinnam jnanamanubhavah | sa dvividha yathartho'yatharthasceti |  Tar
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -42,10 +40,6 @@ NOTES 1 tadbhinnam jnanamanubhavah | sa dvividha yathartho'yatharthasceti |  Tar
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch34" className="text-emerald-400 hover:underline flex items-center font-medium">1. Concept of pramanas in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 34 →</a>
 </div>
-
-
-
-
 
 ---
 

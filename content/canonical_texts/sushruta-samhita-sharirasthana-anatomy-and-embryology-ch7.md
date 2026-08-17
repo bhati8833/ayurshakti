@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Marmas (vital parts of the body) within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Chapter VI - The Marmas (vital parts of the body)
+## Chapter VI - The Marmas (vital parts of the body)
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -149,25 +149,28 @@ The diseases which are seated in the Marmas, are generally serious, but they may
 
 Thus ends the sixth Chapter of the Sharira Sthana in the Sushruta Samhita, which treats of Marmas.
 
-[1]:
 
-Places where veins, arteries, ligaments, joints and muscles unite and an injury to which proves generally fatal.
+<div className="footnote-card"><strong>[1]</strong> Places where veins, arteries, ligaments, joints and muscles unite and an injury to which proves generally fatal.</div>
 
-[2]:
 
-Some are of opinion that hallucination, delirium, death, stupor and coma as described in the Sutrast?(h)?ana are the results of injuries to these Marmas.
 
-[3]:
 
-The Marmas, such as Stana-mula, Apalapa, Apastambha, Simanta, Katika-Taruna, Parsva-Sandhi, Vrihati, and Nitamva belonging to the Kalantara-maraka group, are devoid of Mansa (muscles); and the ‘Marmas’ known as Stanarohita, Talahridaya, Kshipra, and Indravasti, belonging to the same class, are devoid of Asthi (bones).
+<div className="footnote-card"><strong>[2]</strong> Some are of opinion that hallucination, delirium, death, stupor and coma as described in the Sutrast?(h)?ana are the results of injuries to these Marmas.</div>
 
-[4]:
 
-The Utkshepa marma, belonging to the Vishalya-pranahara group, is devoid of Mansa (muscles) and Sandhi (joint).
 
-[5]:
 
-The Sthapani-Marma, belonging to the Vaikalyakara class, is devoid of Mansa (muscle), Shira and Snayu; 
+<div className="footnote-card"><strong>[3]</strong> The Marmas, such as Stana-mula, Apalapa, Apastambha, Simanta, Katika-Taruna, Parsva-Sandhi, Vrihati, and Nitamva belonging to the Kalantara-maraka group, are devoid of Mansa (muscles); and the ‘Marmas’ known as Stanarohita, Talahridaya, Kshipra, and Indravasti, belonging to the same class, are devoid of Asthi (bones).</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> The Utkshepa marma, belonging to the Vishalya-pranahara group, is devoid of Mansa (muscles) and Sandhi (joint).</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> The Sthapani-Marma, belonging to the Vaikalyakara class, is devoid of Mansa (muscle), Shira and Snayu; 
 the Lohitaksha-marma (of the same group) is devoid of Snayu, Sandhi and Asthi (bones); 
 the Janu-marma (of the same group) is devoid of Mansa, Shira and Snayu: 
 the Urvi-marma (of the said group) is devoid of Asthi, Mansa and Snayu; 
@@ -181,195 +184,239 @@ the Ansa-marma (of the same group) is devoid of Mansa, Snayu and Sandhi;
 the Ansa-phalaka-marma (of the said group) is devoid of Mansa, Snayu and Sandhi; 
 the Nila, Manya and Phana Marmas (of the same group) are devoid of Mansa, Sandhi and Asthi; 
 the Avarta-marma is devoid of Shira, Snayu and Mansa; 
-the Apanga-marma (of the said class) is devoid of Mansa, Snayu and Sandhi.
+the Apanga-marma (of the said class) is devoid of Mansa, Snayu and Sandhi.</div>
 
-[6]:
 
-The Gulpha, Manibandha, and Kurcca-shira Marmas, belonging to the Rujakara group, are devoid of Mansa, Shira, Snayu and Asthi, i.e.  Sandhi alone is present in these.
 
-[7]:
 
-Hence the piercing of a bone is attended with bleeding.
+<div className="footnote-card"><strong>[6]</strong> The Gulpha, Manibandha, and Kurcca-shira Marmas, belonging to the Rujakara group, are devoid of Mansa, Shira, Snayu and Asthi, i.e.  Sandhi alone is present in these.</div>
 
-[8]:
 
-If any of the Marmas of the Kalantara-Pranahara group be deeply perforated, then this perforation is sure to bring on death within a day (i.e. it will act like a slightly injured Marma of the Sadyah- Pranahara group).
 
-[9]:
 
-Any Marma of the Vishaiyaghna-group, being deeply perforated, brings on death within seven days (i. e. it will behave like a slightly injured Marma of the Kalantara-Pranahara class).
+<div className="footnote-card"><strong>[7]</strong> Hence the piercing of a bone is attended with bleeding.</div>
 
-[10]:
 
-Any Marma of the Rujakara class, being deeply perforated (injured), is sure to bring excruciating pain etc, (i.e., it will act like a slightly injured Marma of the Vishalyaghna group).
 
-[11]:
 
-It is a Snayu-Marma (ligament) to the width of half a finger, and belongs to the Kalantara group.
+<div className="footnote-card"><strong>[8]</strong> If any of the Marmas of the Kalantara-Pranahara group be deeply perforated, then this perforation is sure to bring on death within a day (i.e. it will act like a slightly injured Marma of the Sadyah- Pranahara group).</div>
 
-[12]:
 
-It is a Mansa-Marma to the width of half a finger and belongs to the Kalantara group.
 
-[13]:
 
-It is a Snayu-Marma to the length of four fingers’ width, and belongs to the Vaikalyakara group.
+<div className="footnote-card"><strong>[9]</strong> Any Marma of the Vishaiyaghna-group, being deeply perforated, brings on death within seven days (i. e. it will behave like a slightly injured Marma of the Kalantara-Pranahara class).</div>
 
-[14]:
 
-It is a Snayu-Marma, one finger in length and belongs to the Vaikalyakara group.
 
-[15]:
 
-It is a Sandhi-Marma, to the length of two fingers’, and belongs to the Vaikalyakara group.
+<div className="footnote-card"><strong>[10]</strong> Any Marma of the Rujakara class, being deeply perforated (injured), is sure to bring excruciating pain etc, (i.e., it will act like a slightly injured Marma of the Vishalyaghna group).</div>
 
-[16]:
 
-Indravasti measures two fingers in length according to Bhoja and Gayadasa, though half a finger in width according to others. It is a Mansa-Marma and belongs to the Kalantara group.
 
-[17]:
 
-It is a joint-Marma, three fingers in length and belongs to the Vaikalyakara group.
+<div className="footnote-card"><strong>[11]</strong> It is a Snayu-Marma (ligament) to the width of half a finger, and belongs to the Kalantara group.</div>
 
-[18]:
 
-It is a ligament-Marma, half a finger in length, (three fingers according to Gayadasa) and is of the Vaikalyakara class.
 
-[19]:
 
-It is a Shira-Marma, half a finger in length and of the Vaikalyakara group.
+<div className="footnote-card"><strong>[12]</strong> It is a Mansa-Marma to the width of half a finger and belongs to the Kalantara group.</div>
 
-[20]:
 
-It is a Shira-Marma, half a finger in length and of the Vaikalyakara group.
 
-[21]:
 
-It is a Snayu-Marma to the length of one finger and of the Vaikalyakara group.
+<div className="footnote-card"><strong>[13]</strong> It is a Snayu-Marma to the length of four fingers’ width, and belongs to the Vaikalyakara group.</div>
 
-[22]:
 
-It is a Mansa-Marma to the length of four fingers’ width and belongs to the Sadyo-maraka class.
 
-[23]:
 
-It is a ligament combination (Snayu marma) to the length of four fingers, belonging to the Sadyah-Pranhara class.
+<div className="footnote-card"><strong>[14]</strong> It is a Snayu-Marma, one finger in length and belongs to the Vaikalyakara group.</div>
 
-[24]:
 
-It is a Shira-Marma to the length of four fingers, belonging to the Sadyah-Pranahara class.
 
-[25]:
 
-It is a Shira-Marma to the length of four fingers and of the Sadyah- Pranahara class.
+<div className="footnote-card"><strong>[15]</strong> It is a Sandhi-Marma, to the length of two fingers’, and belongs to the Vaikalyakara group.</div>
 
-[26]:
 
-It is a Shira-Marma, two fingers in length and of the Kalantara class.
 
-[27]:
 
-It is a Mansa-Marma about half a finger in length and of the Kalantara class, (according to Vgabhata, of the Sadyo-Maraka class).
+<div className="footnote-card"><strong>[16]</strong> Indravasti measures two fingers in length according to Bhoja and Gayadasa, though half a finger in width according to others. It is a Mansa-Marma and belongs to the Kalantara group.</div>
 
-[28]:
 
-It is a Shira-Marma, half a finger in length, and of the Kalantara class.
 
-[29]:
 
-It is a Shira-Marma, half a finger in length and belongs to the Kalantara class.
+<div className="footnote-card"><strong>[17]</strong> It is a joint-Marma, three fingers in length and belongs to the Vaikalyakara group.</div>
 
-[30]:
 
-It is an Asthi-Marma, half a finger in length and of the Kalantara-maraka class.
 
-[31]:
 
-They are Joint-mar mas (Sandhi), half a finger in length and of the Vaikalyakara group.
+<div className="footnote-card"><strong>[18]</strong> It is a ligament-Marma, half a finger in length, (three fingers according to Gayadasa) and is of the Vaikalyakara class.</div>
 
-[32]:
 
-It is a bone Marma, half a finger in length, and of the Kalantara class.
 
-[33]:
 
-It is a Shira-Marma to the length of half a finger and belongs to the Kalantara class.
+<div className="footnote-card"><strong>[19]</strong> It is a Shira-Marma, half a finger in length and of the Vaikalyakara group.</div>
 
-[34]:
 
-They are Shira-Marmas (arterial anestomsis) to the lengt of half a finger and belong to the Kalantara class.
 
-[35]:
 
-It is an Asthi-Marma, half a finger in length and is Vaikalyakara.
+<div className="footnote-card"><strong>[20]</strong> It is a Shira-Marma, half a finger in length and of the Vaikalyakara group.</div>
 
-[36]:
 
-They are Snayu Marmas, half a finger in length and of the Vaikalyakara class.
 
-[37]:
 
-They are Shira-Marmas, to the length of four fingers and of the Vaikalyakara class.
+<div className="footnote-card"><strong>[21]</strong> It is a Snayu-Marma to the length of one finger and of the Vaikalyakara group.</div>
 
-[38]:
 
-They are Shira-Marmas, four fingers in length and of the Sadyo-Maran class.
 
-[39]:
 
-They are Sandhi-Marmas, half a finger in length, and of the Vaikalyakara group.
+<div className="footnote-card"><strong>[22]</strong> It is a Mansa-Marma to the length of four fingers’ width and belongs to the Sadyo-maraka class.</div>
 
-[40]:
 
-It is a Shnayu-Marma, and is of the Vaikalyakara class.
 
-[41]:
 
-They are Shira-Marmas to the length of half a finger and of the Vaikalyakara class.
+<div className="footnote-card"><strong>[23]</strong> It is a ligament combination (Snayu marma) to the length of four fingers, belonging to the Sadyah-Pranhara class.</div>
 
-[42]:
 
-They are Shira-Marmas to the length of half a finger and of the Vaikalyakara class.
 
-[43]:
 
-They are Sandhi-Marmas, to the length of half a finger and of the Vaikalyakara class.
+<div className="footnote-card"><strong>[24]</strong> It is a Shira-Marma to the length of four fingers, belonging to the Sadyah-Pranahara class.</div>
 
-[44]:
 
-They are Asthi-Marmas to the length of half a finger.
 
-[45]:
 
-They are Shnayu-Marmas, half a finger in length and of the Vishalyaghna class.
+<div className="footnote-card"><strong>[25]</strong> It is a Shira-Marma to the length of four fingers and of the Sadyah- Pranahara class.</div>
 
-[46]:
 
-They are Shira-Marmas to the length of half a finger and of the Visalyaghna class.
 
-[47]:
 
-They are Sandhi-Marmas to the length of four fingers and of the Kalantara-Pranahara class.
+<div className="footnote-card"><strong>[26]</strong> It is a Shira-Marma, two fingers in length and of the Kalantara class.</div>
 
-[48]:
 
-They are Shira-Marmas to the length of four fingers and of the Sadyah-Pranahara class.
 
-[49]:
 
-It is a Sandhi-Marma, half a finger in length and of the Sadyah- Pranahara class.
+<div className="footnote-card"><strong>[27]</strong> It is a Mansa-Marma about half a finger in length and of the Kalantara class, (according to Vgabhata, of the Sadyo-Maraka class).</div>
 
-[50]:
 
-Some are of opinion that a surgical operation (in the case of the remaining fifty-six) should be made, leaving a space equal in measurement to the dimensions of a palm (from the affected part). Gayadasa, having learnt from Bhoja, explains that a space of two fingers should be left (from the affected part) in making surgical operations of the ten marmas, namely, the two Gulphas, the roots of the two breasts, the four Indravastis, and the two Manivandhas.
 
-[51]:
 
-Gayadasa does not read this verse.
+<div className="footnote-card"><strong>[28]</strong> It is a Shira-Marma, half a finger in length, and of the Kalantara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> It is a Shira-Marma, half a finger in length and belongs to the Kalantara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> It is an Asthi-Marma, half a finger in length and of the Kalantara-maraka class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> They are Joint-mar mas (Sandhi), half a finger in length and of the Vaikalyakara group.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> It is a bone Marma, half a finger in length, and of the Kalantara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> It is a Shira-Marma to the length of half a finger and belongs to the Kalantara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> They are Shira-Marmas (arterial anestomsis) to the lengt of half a finger and belong to the Kalantara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> It is an Asthi-Marma, half a finger in length and is Vaikalyakara.</div>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> They are Snayu Marmas, half a finger in length and of the Vaikalyakara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> They are Shira-Marmas, to the length of four fingers and of the Vaikalyakara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> They are Shira-Marmas, four fingers in length and of the Sadyo-Maran class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[39]</strong> They are Sandhi-Marmas, half a finger in length, and of the Vaikalyakara group.</div>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> It is a Shnayu-Marma, and is of the Vaikalyakara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> They are Shira-Marmas to the length of half a finger and of the Vaikalyakara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[42]</strong> They are Shira-Marmas to the length of half a finger and of the Vaikalyakara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> They are Sandhi-Marmas, to the length of half a finger and of the Vaikalyakara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[44]</strong> They are Asthi-Marmas to the length of half a finger.</div>
+
+
+
+
+<div className="footnote-card"><strong>[45]</strong> They are Shnayu-Marmas, half a finger in length and of the Vishalyaghna class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> They are Shira-Marmas to the length of half a finger and of the Visalyaghna class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[47]</strong> They are Sandhi-Marmas to the length of four fingers and of the Kalantara-Pranahara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[48]</strong> They are Shira-Marmas to the length of four fingers and of the Sadyah-Pranahara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> It is a Sandhi-Marma, half a finger in length and of the Sadyah- Pranahara class.</div>
+
+
+
+
+<div className="footnote-card"><strong>[50]</strong> Some are of opinion that a surgical operation (in the case of the remaining fifty-six) should be made, leaving a space equal in measurement to the dimensions of a palm (from the affected part). Gayadasa, having learnt from Bhoja, explains that a space of two fingers should be left (from the affected part) in making surgical operations of the ten marmas, namely, the two Gulphas, the roots of the two breasts, the four Indravastis, and the two Manivandhas.</div>
+
+
+
+
+<div className="footnote-card"><strong>[51]</strong> Gayadasa does not read this verse.</div>
 
 ---
-
-
 
 ---
 
@@ -378,10 +425,6 @@ Gayadasa does not read this verse.
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">The method of Venesection: Sushruta Samhita Sharirasthana Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

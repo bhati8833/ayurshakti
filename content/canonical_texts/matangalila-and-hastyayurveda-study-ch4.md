@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The gaja-śārdula concept within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. The gaja-śārdula concept
+## The gaja-śārdula concept
 
 Matangalila and Hastyayurveda (study)
 
@@ -46,53 +46,62 @@ Another consequence of the expression is that there is no doubt this was present
 
 According to Fleet in the word “nāgādhipa” would seem “to have a double meaning and to indicate also a defeat of some hostile chiefs of the Nāgas”[10]. But from the above circumstances, it seemed to be more reliable to identify this “nāgadhipa” with the Gaṅgas. Because it is well known that their elephant squad was very famous and elephant is the royal emblem of Gaṅga kings. Vijayāditya’s seal describes him as “Tribhuvanāṃkuśa”. The inscription also describes Vijayāditya III’s son Mahārāja Viṣṇuvardhana that when he ascended his elephant, his enemies ascend the mountain top….(l.10)[11]. So, his son was similarly expert in elephant riding in battle field like his father.
 
-[1]:
 
-EI, Vol.II, p. 5.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol.II, p. 5.</div>
 
-[2]:
 
-Ibid., Vol.II, p.173.
 
-[3]:
 
-Ibid., Vol.III, p.311.
+<div className="footnote-card"><strong>[2]</strong> Ibid., Vol.II, p.173.</div>
 
-[4]:
 
-EI, Vol.III, p.323.
 
-[5]:
 
-Ibid.., Vol.IV, pp.283, 287, v.12.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Vol.III, p.311.</div>
 
-[6]:
 
-CII, Vol. VI, p. 42.
 
-[7]:
 
-Ibid., pp. 39-40.
+<div className="footnote-card"><strong>[4]</strong> EI, Vol.III, p.323.</div>
 
-[8]:
 
-EI, Vol. V, pp.126&124.
 
-[9]:
 
-Ibid., p.124.
+<div className="footnote-card"><strong>[5]</strong> Ibid.., Vol.IV, pp.283, 287, v.12.</div>
 
-[10]:
 
-Ind. Ant. Vol.XX, p.101.
 
-[11]:
 
-EI, Vol. V, pp.126.
+<div className="footnote-card"><strong>[6]</strong> CII, Vol. VI, p. 42.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., pp. 39-40.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> EI, Vol. V, pp.126&124.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., p.124.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ind. Ant. Vol.XX, p.101.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> EI, Vol. V, pp.126.</div>
 
 ---
 
-## 14. Elephants in the Royal army
+## Elephants in the Royal army
 
 Matangalila and Hastyayurveda (study)
 
@@ -151,101 +160,124 @@ Another inscription Kadaba plates of Prabhutavarṣa stated that when once in ba
 
 There are several elegantly sculptured hero stones bearing inscriptions some of which illustrate elephants engaged in warfare. One of them is kept at the entrance into the Mamlatdar’s office at Roṇ, Dharwar district belongs to the reign of (the Rāṣṭakūṭa king) Kannaradeva and states that his brother-in-law Mahāmṇḍalika Permāri Bhūtārya was governing Gaṅgavāḍi. It records the death of Paṃpayya of the Vāji lineage in an encounter with Bhūtayya-permāḍi when the latter had attacked Roṇ on 24th April, CE 942. The lower panel depicts a battle scene where heroes mounted on two elephants and horse-back was engaged.[23]
 
-[1]:
 
-EI, Vol.XX, p.87.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol.XX, p.87.</div>
 
-[2]:
 
-Ibid., p. 79.
 
-[3]:
 
-Ibid., pp. 87-88.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 79.</div>
 
-[4]:
 
-Ibid., p. 79.
 
-[5]:
 
-EI, Vol. XX, pp. 79-80; 88.
+<div className="footnote-card"><strong>[3]</strong> Ibid., pp. 87-88.</div>
 
-[6]:
 
-Ibid., pp. 80, 88.
 
-[7]:
 
-Ibid., pp. 88, 80.
+<div className="footnote-card"><strong>[4]</strong> Ibid., p. 79.</div>
 
-[8]:
 
-Susmita Basu Majumdar & Shivakant Bajpai. Select Early Historic Inscriptions: Epigraphic Perspective on the Ancient Past of Chhattisgarh, Raipur: Shatakshi Prakashan, 2014, pp. 48-55.
 
-[9]:
 
-EI, Vol. V, p. 149.
+<div className="footnote-card"><strong>[5]</strong> EI, Vol. XX, pp. 79-80; 88.</div>
 
-[10]:
 
-For “tūbara’ the Dictionaries give the meaning of bull without horns, beardless man, a eunuch, here it evidently denotes a tusk less elephant as oppose to “dantin’, the tusked elephant. But some scholars differ from him only with regard to the words “nyakkāreṇa pituḥ’ elephant, when, on account of an insult to his father, he was tearing the royal fortune from the family of the Kalachuris. And cutting off Jaitrasiṃha who was asset, the right arm of that Bhillama, he, the hero, acquired also the sovereignty over the country of Kuntala, A revised translation of the verse was given by Fleet in Dyn.Kan.Dist., p.464
 
-[11]:
 
-Hatigumpha inscription of Kharavela.
+<div className="footnote-card"><strong>[6]</strong> Ibid., pp. 80, 88.</div>
 
-[12]:
 
-EI, Vol. VII, p.158
 
-[13]:
 
-EI, Vol. XII, p.72.
+<div className="footnote-card"><strong>[7]</strong> Ibid., pp. 88, 80.</div>
 
-[14]:
 
-Ibid., Vol.V, pp.211-212.
 
-[15]:
 
-Ibid., Vol. VI, p.34.
+<div className="footnote-card"><strong>[8]</strong> Susmita Basu Majumdar & Shivakant Bajpai. Select Early Historic Inscriptions: Epigraphic Perspective on the Ancient Past of Chhattisgarh, Raipur: Shatakshi Prakashan, 2014, pp. 48-55.</div>
 
-[16]:
 
-Ibid., Vol.VII, p.190.
 
-[17]:
 
-Ibid., Vol.IV, p.197.
+<div className="footnote-card"><strong>[9]</strong> EI, Vol. V, p. 149.</div>
 
-[18]:
 
-Dyn.Kan.Dist., p.464.
 
-[19]:
 
-EI., Vol. II, p. 191.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> For “tūbara’ the Dictionaries give the meaning of bull without horns, beardless man, a eunuch, here it evidently denotes a tusk less elephant as oppose to “dantin’, the tusked elephant. But some scholars differ from him only with regard to the words “nyakkāreṇa pituḥ’ elephant, when, on account of an insult to his father, he was tearing the royal fortune from the family of the Kalachuris. And cutting off Jaitrasiṃha who was asset, the right arm of that Bhillama, he, the hero, acquired also the sovereignty over the country of Kuntala, A revised translation of the verse was given by Fleet in Dyn.Kan.Dist., p.464
+</blockquote>
 
-[20]:
 
-Ibid.
 
-[21]:
 
-EI, Vol.IV, p.317.
+<div className="footnote-card"><strong>[11]</strong> Hatigumpha inscription of Kharavela.</div>
 
-[22]:
 
-Ibid. p.247.
 
-[23]:
 
-Annigeri, A.M. “Inscriptions on Hero-stones in Karnataka”, Studies in Indian Epigraphy, Vol.3, p.103-104.
+<div className="footnote-card"><strong>[12]</strong> EI, Vol. VII, p.158</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> EI, Vol. XII, p.72.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., Vol.V, pp.211-212.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., Vol. VI, p.34.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid., Vol.VII, p.190.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid., Vol.IV, p.197.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Dyn.Kan.Dist., p.464.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> EI., Vol. II, p. 191.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> EI, Vol.IV, p.317.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid. p.247.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Annigeri, A.M. “Inscriptions on Hero-stones in Karnataka”, Studies in Indian Epigraphy, Vol.3, p.103-104.</div>
 
 ---
 
-## 15. Elephants as fourth or fifth wing of the Royal army
+## Elephants as fourth or fifth wing of the Royal army
 
 Matangalila and Hastyayurveda (study)
 
@@ -273,49 +305,57 @@ Vijayāditya himself was a good elephant and horse rider—
 
 The Nidhanpur copper plates of Bhāskaravarman refer to Supratiṣṭhitavarman, who was possessed of rich elephants (v.21)[8]. The Assam plates of Ballabhadeva, a prince, of Śaka samvat 1107 or CE1184/85 tells us that one of his predecessors Rāyarideva was engaged at the gorgeous festival of battle which was fearful on account of the presence of the lordly elephants of Vaṅga-“Vaṅga-karīndra-saṅga….”, made the enemy abandon the entire practice of arms on the battlefield, and who, in his own person rendered the creation of “the lion of the three worlds” (Trailokya siṃha) exceedingly fruitful[9]. It indicates to the huge and powerful elephants of the Vaṅga country as we all know that the Bengal region is famous for its elephants. Three records in the Bangalore Museum states that Amoghavarṣadeva (Vaddiga)…. Marvel with elephants; a wrestler against forest elephants (l.2)[10].
 
-[1]:
 
-Ibid., Vol. XX, p.87.
+<div className="footnote-card"><strong>[1]</strong> Ibid., Vol. XX, p.87.</div>
 
-[2]:
 
-Ibid., Vol.II, pp.1-7.
 
-[3]:
 
-Ibid., Vol.IV, p.48.
+<div className="footnote-card"><strong>[2]</strong> Ibid., Vol.II, pp.1-7.</div>
 
-[4]:
 
-Ibid., Vol.V, pp.211-212
 
-[5]:
 
-EI, Vol. X, Appendix, p.160-161.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Vol.IV, p.48.</div>
 
-[6]:
 
-Cf. Kāmandakiya nītisāra, XV, 7.
 
-[7]:
 
-EI, Vol.XII, pp.48-55.
+<div className="footnote-card"><strong>[4]</strong> Ibid., Vol.V, pp.211-212</div>
 
-[8]:
 
-Ibid., p.78.
 
-[9]:
 
-Ibid., Vol.V, pp.184&186.
+<div className="footnote-card"><strong>[5]</strong> EI, Vol. X, Appendix, p.160-161.</div>
 
-[10]:
 
-Ibid.,Vol.VI, p.55.
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Cf. Kāmandakiya nītisāra, XV, 7.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> EI, Vol.XII, pp.48-55.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., p.78.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., Vol.V, pp.184&186.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid.,Vol.VI, p.55.</div>
 
 ---
-
-
 
 ---
 
@@ -324,10 +364,6 @@ Ibid.,Vol.VI, p.55.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Elephants as gift: Matangalila And Hastyayurveda Study Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

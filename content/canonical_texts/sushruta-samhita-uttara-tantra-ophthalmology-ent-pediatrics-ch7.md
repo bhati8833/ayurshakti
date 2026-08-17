@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Preparations and medicinal measures for ocular affections in general within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. Chapter XVIII - Preparations and medicinal measures for ocular affections in general
+## Chapter XVIII - Preparations and medicinal measures for ocular affections in general
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -163,87 +163,132 @@ One part each of Haritaki, Yashti-madhu with sixteen parts of Marica should be p
 
 Thus ends the eighteenth chapter of the Uttara-Tantra in the Sushruta Samhita whieh deals with the preparations and uses of the medicinal measures to be used in different ocular affections.
 
-[1]:
 
-According to some, the ‘Purana’ should be retained in the eye for a period required to count one thousand syllables in cases of Sarva-gata and eighteen hundred words in cases of Drishti-gata eye-diseases.
+<div className="footnote-card"><strong>[1]</strong> According to some, the ‘Purana’ should be retained in the eye for a period required to count one thousand syllables in cases of Sarva-gata and eighteen hundred words in cases of Drishti-gata eye-diseases.</div>
 
-[2]:
 
-According to Gayadāsa, this rule should be observed for one, three, or five days in cases of the preponderance of Vāyu, Pitta and Kapha respectively, and according to Jejjata, in cases of mild, moderate and severe attack respectively.
 
-[3]:
 
-A different reading, mentioned by Dallana, does not read “Vāta.”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> According to Gayadāsa, this rule should be observed for one, three, or five days in cases of the preponderance of Vāyu, Pitta and Kapha respectively, and according to Jejjata, in cases of mild, moderate and severe attack respectively.
+</blockquote>
 
-[4]:
 
-In place of “snehamāṃsa”meaning flesh abounding in Sneha, a different reading “sarpirmmāṃsa” (i.e., clarified butter and flesh) is quoted by Dallana.
 
-[5]:
 
-In place of “madhvājya” (honey and clarified butter) Dallana quotes a variant “medhyājya”—lit. sacred clarified butter i.e., clarified butter prepared from cow’s milk.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> A different reading, mentioned by Dallana, does not read “Vāta.”
+</blockquote>
 
-[6]:
 
-Dallana explains that the application of the Puta-pāka measure should be made for one day only in Kaphaja eye-diseases, or if the Puta-pāka be a Lekhana one; and it should be continued for two days in Pittaja eye-diseases, or if it be a Snehana one; and for three days in Vātaja eye-diseases, or if it be a Ropana Puta-pāka.
 
-[7]:
 
-The period for which an affected eye should be subjected to the Āścyotana measure, is not given in the text, but Dallana says that it should be the same as observed in cases of Puta-pāka. Some, however, hold that in cases of both Seka and Āścyotana the period would be twice as that for Puta-pāka.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> In place of “snehamāṃsa”meaning flesh abounding in Sneha, a different reading “sarpirmmāṃsa” (i.e., clarified butter and flesh) is quoted by Dallana.
+</blockquote>
 
-[8]:
 
-This rule for subjecting the affected eye to the measure till the disease is gradually and wholly removed is for Seka and Āścyotana only 5 but according to some it is a general rule which applies also to cases of Puta-pāka and Tarpana, etc.
 
-[9]:
 
-The Lekhana-seka and Āścyotana should be applied in the morning in the aggravation of Kapha, while the Snehana one should be applied in the afternoon in the aggravation of Vaiyu, —the Ropana ones being applied at noon in the aggravation of Blood and Pitta.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> In place of “madhvājya” (honey and clarified butter) Dallana quotes a variant “medhyājya”—lit. sacred clarified butter i.e., clarified butter prepared from cow’s milk.
+</blockquote>
 
-[10]:
 
-Dallana holds, that both the Seka and Āścyotana measures may be applied whenever there is pain in the affected eye, but others hold that this rule applies only in cases of Seka.
 
-[11]:
 
-In cases of the derangement of the local Vāyu, the Anjana should be prepared with the drugs of acid and saline tastes (Rasa); in the derangement of the Pitta with those of astringent taste; in Kapha with those of astringent, bitter and pungent tastes In cases of the derangement of the blood, the Anjana should be like that in the derangement of Pitta, and in cases of the derangement of two or three Doshas simultaneously, the Anjana should be prepared with drugs of two or three of the tastes required.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Dallana explains that the application of the Puta-pāka measure should be made for one day only in Kaphaja eye-diseases, or if the Puta-pāka be a Lekhana one; and it should be continued for two days in Pittaja eye-diseases, or if it be a Snehana one; and for three days in Vātaja eye-diseases, or if it be a Ropana Puta-pāka.
+</blockquote>
 
-[12]:
 
-The Anjana should be applied in the morning, in the evening and in the night respectively in the cases of the derangement of the Kapha Vāyu and the Pitta. According to the others, the Śodhana, the Ropana and the Snehana Anjanas should be respectively used in the morning, in the evening and in the night. Others, however, are of opinion that these different times should be judiciously selected in the different seasons of the year according to requirement.
 
-[13]:
 
-Dallana says that Pill-Anjanas, Liquid-Anjanas and Powder-Anjanas should be prescribed in cases of severe, intermediate and mild attacks respectively.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The period for which an affected eye should be subjected to the Āścyotana measure, is not given in the text, but Dallana says that it should be the same as observed in cases of Puta-pāka. Some, however, hold that in cases of both Seka and Āścyotana the period would be twice as that for Puta-pāka.
+</blockquote>
 
-[14]:
 
-According to Dallana the Anjana of sweet taste should be placed in a golden vessel, that of acid taste in a silver vessel, that of saline taste in a vessel made of horn (of a sheep), that of astringent taste, in a vessel either of copper or iron, that of pungent taste in a vessel made of Vaidurya, and that of bitter taste should be placed in a vessel made of bell-metal. The Śalākā (rod) for the use of the different kinds of Anjana should be also accordingly prepared.
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> This rule for subjecting the affected eye to the measure till the disease is gradually and wholly removed is for Seka and Āścyotana only 5 but according to some it is a general rule which applies also to cases of Puta-pāka and Tarpana, etc.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> The Lekhana-seka and Āścyotana should be applied in the morning in the aggravation of Kapha, while the Snehana one should be applied in the afternoon in the aggravation of Vaiyu, —the Ropana ones being applied at noon in the aggravation of Blood and Pitta.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Dallana holds, that both the Seka and Āścyotana measures may be applied whenever there is pain in the affected eye, but others hold that this rule applies only in cases of Seka.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> In cases of the derangement of the local Vāyu, the Anjana should be prepared with the drugs of acid and saline tastes (Rasa); in the derangement of the Pitta with those of astringent taste; in Kapha with those of astringent, bitter and pungent tastes In cases of the derangement of the blood, the Anjana should be like that in the derangement of Pitta, and in cases of the derangement of two or three Doshas simultaneously, the Anjana should be prepared with drugs of two or three of the tastes required.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> The Anjana should be applied in the morning, in the evening and in the night respectively in the cases of the derangement of the Kapha Vāyu and the Pitta. According to the others, the Śodhana, the Ropana and the Snehana Anjanas should be respectively used in the morning, in the evening and in the night. Others, however, are of opinion that these different times should be judiciously selected in the different seasons of the year according to requirement.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Dallana says that Pill-Anjanas, Liquid-Anjanas and Powder-Anjanas should be prescribed in cases of severe, intermediate and mild attacks respectively.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> According to Dallana the Anjana of sweet taste should be placed in a golden vessel, that of acid taste in a silver vessel, that of saline taste in a vessel made of horn (of a sheep), that of astringent taste, in a vessel either of copper or iron, that of pungent taste in a vessel made of Vaidurya, and that of bitter taste should be placed in a vessel made of bell-metal. The Śalākā (rod) for the use of the different kinds of Anjana should be also accordingly prepared.
+</blockquote>
+
+
 
 According to Nimi, however, as quoted by Dallana and Śrikantha Datta, in their commentaries, the Ropana, Lekhana and Prasādana Anjanas should be placed in a vessel and used with a rod prepared respectively of iron, copper and gold. The other materials may be, however, used with discretion by an experienced physician.
 
-[15]:
 
-The word ‘api’ in the text shows that a rod of gold may also be used with benefit—Dallana.
+<div className="footnote-card"><strong>[15]</strong> The word ‘api’ in the text shows that a rod of gold may also be used with benefit—Dallana.</div>
 
-[16]:
 
-In some editions there is an additional text—“nidrākṣayaṃ ca kurute niṣiddhe yuktamañjanam” supplies a complete verb and makes the sense complete. The line means—“the application of an Anjana in a forbidden case produces loss of sleep (insomnia) in addition (to redness, pain etc, mentioned in the preceding line)”.
 
-[17]:
 
-See Śloka 5 of this Chapter,
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> In some editions there is an additional text—“nidrākṣayaṃ ca kurute niṣiddhe yuktamañjanam” supplies a complete verb and makes the sense complete. The line means—“the application of an Anjana in a forbidden case produces loss of sleep (insomnia) in addition (to redness, pain etc, mentioned in the preceding line)”.
+</blockquote>
 
-[18]:
 
-The seven kinds of gems are (1) Padmarāga, (2) Marakata, (3) Nila, (4) Vaidurya, (5) Muktā (pearl) (6) Pravāla and (7) Hema (gold).
 
-[19]:
 
-According to some the weight of the Yashti-madhu to be used in this Anjana should be equal to that of all the other drugs combined.
+<div className="footnote-card"><strong>[17]</strong> See Śloka 5 of this Chapter,</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> The seven kinds of gems are (1) Padmarāga, (2) Marakata, (3) Nila, (4) Vaidurya, (5) Muktā (pearl) (6) Pravāla and (7) Hema (gold).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> According to some the weight of the Yashti-madhu to be used in this Anjana should be equal to that of all the other drugs combined.</div>
 
 ---
 
-## 22. Chapter XIX - Treatment of hurt or injnry to the eye
+## Chapter XIX - Treatment of hurt or injnry to the eye
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -285,21 +330,28 @@ The Science of medicine is as incomprehensible as the ocean. It cannot be fully 
 
 Thus ends the nineteenth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment to be adopted in cases of hurt or injury to the eye.
 
-[1]:
 
-See Chikitsita-sthāna, Chapter II, Para 29.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> See Chikitsita-sthāna, Chapter II, Para 29.
+</blockquote>
 
-[2]:
 
-“Darvi” generally means Dāru-haridrā; but, here, on the authority of Videha, Dallana takes it to mean the two kinds of Haridrā, viz., Haridrā and Dāru-haridrā.
 
-[3]:
 
-The method of preparing this Anjana, as explained by Dallana on the authority of Videha, is as follows:—Śamkha (conch-shell) and Saindhava should be first pasted together with curd (Dadhi) and then a quantity of Rasānjana should be soaked with this preparation for seven days and a half and Varti should then be prepared therewith and applied to the eye as an Anjana.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “Darvi” generally means Dāru-haridrā; but, here, on the authority of Videha, Dallana takes it to mean the two kinds of Haridrā, viz., Haridrā and Dāru-haridrā.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> The method of preparing this Anjana, as explained by Dallana on the authority of Videha, is as follows:—Śamkha (conch-shell) and Saindhava should be first pasted together with curd (Dadhi) and then a quantity of Rasānjana should be soaked with this preparation for seven days and a half and Varti should then be prepared therewith and applied to the eye as an Anjana.
+</blockquote>
 
 ---
 
-## 23. Chapter XX - Causes and symptoms of Ear-disease
+## Chapter XX - Causes and symptoms of Ear-disease
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -351,25 +403,33 @@ A process of suppuration setting in (in any of these boils) in the ear through t
 
 Thus ends the twentieth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the causes and symptoms of the diseases peculiar to the ear.
 
-[1]:
 
-Tha difference in the “Karna-nāda” and “Kshveda” is that in the former the sound in the ear is produced by the deranged Vāyu alone and is of various kinds, whereas, in the latter it is of a special kind, viz., that of a wind-pipe—the exciting cause being the deranged local Pitta, Kapha and blood.—Videha.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Tha difference in the “Karna-nāda” and “Kshveda” is that in the former the sound in the ear is produced by the deranged Vāyu alone and is of various kinds, whereas, in the latter it is of a special kind, viz., that of a wind-pipe—the exciting cause being the deranged local Pitta, Kapha and blood.—Videha.
+</blockquote>
 
-[2]:
 
-Some explain “ghrāṇamukhaṃ” to mean the cavity of the nose and of the mouth.
 
-[3]:
 
-In place of “śiraso'bhitāpanaḥ” (producer of head-disease) Mādhava in his Nidāna reads “śiraso'rddhabhedakṛt” i.e.,producer of the head-disease known as Ardha-Vedhaka (see chapter XXV).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Some explain “ghrāṇamukhaṃ” to mean the cavity of the nose and of the mouth.
+</blockquote>
 
-[4]:
 
-See chapter VI, XVIII and XXIII, Chikitsita-Sthāna.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> In place of “śiraso'bhitāpanaḥ” (producer of head-disease) Mādhava in his Nidāna reads “śiraso'rddhabhedakṛt” i.e.,producer of the head-disease known as Ardha-Vedhaka (see chapter XXV).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> See chapter VI, XVIII and XXIII, Chikitsita-Sthāna.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -378,10 +438,6 @@ See chapter VI, XVIII and XXIII, Chikitsita-Sthāna.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Medical Treatment of Ear-disease: Sushruta Samhita Uttara Tantra Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

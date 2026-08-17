@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix 1: Various other Varmas within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 40. Appendix 1: Various other Varmas
+## Appendix 1: Various other Varmas
 
 Marma-sastra and Ayurveda (study)
 
@@ -31,7 +31,7 @@ groove at the posterior part of the neck. Otherwise this site will develop oedem
 
 ---
 
-## 41. Study of Guda Marma
+## Study of Guda Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -51,7 +51,7 @@ into consideration. This is the area where the filum terminale ends. So any inju
 
 ---
 
-## 43. Study of Vasti Marma
+## Study of Vasti Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -69,8 +69,6 @@ Cure can be achieved if treated within a span of 27 nazhigai (10 hours and 30 mi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ Cure can be achieved if treated within a span of 27 nazhigai (10 hours and 30 mi
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Sthanamula Marma: Marma Sastra and Ayurvedic Science Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

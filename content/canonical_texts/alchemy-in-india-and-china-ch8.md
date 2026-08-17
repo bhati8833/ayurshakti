@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Endeavours of the Medieval Alchemist within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. 5. Endeavours of the Medieval Alchemist
+## 5. Endeavours of the Medieval Alchemist
 
 Alchemy in India and China
 
@@ -29,8 +29,6 @@ importance. Other compounds which largely occur in such operations are: 30 Iron 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ importance. Other compounds which largely occur in such operations are: 30 Iron 
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">2. Origins of Alchemy in China and Its relation to Taoism: Alchemy In India And China Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

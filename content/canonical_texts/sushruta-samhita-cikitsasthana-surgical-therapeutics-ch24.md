@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of hernia within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. Chapter XIX - The medical treatment of hernia
+## Chapter XIX - The medical treatment of hernia
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -141,65 +141,77 @@ The ashes of the Dravanti, Trivrit, Danti, Nili, Shyama, Saptala and Shamkhini s
 
 Thus ends the nineteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Vriddhi, Upadamsha and Shlipada.
 
-[1]:
 
-After a period of one week from the time of the application of purgatives and in case the patient is strong enough to undergo the Niruha. Vasti measure.
+<div className="footnote-card"><strong>[1]</strong> After a period of one week from the time of the application of purgatives and in case the patient is strong enough to undergo the Niruha. Vasti measure.</div>
 
-[2]:
 
-According to Gayadasa, the measures to be adopted should be those laid down in the Mishraka chapter (Chap. XXV).
 
-[3]:
 
-Some say that the heat-producing drugs are those comprised in the Aja-gandhadi group mentioned in the Mishraka chapter, Sutra Sthana.
+<div className="footnote-card"><strong>[2]</strong> According to Gayadasa, the measures to be adopted should be those laid down in the Mishraka chapter (Chap. XXV).</div>
 
-[4]:
 
-The fomentation should be applied according to Shivadasha, with balls of cow-dung, etc., slightly heated. It should be noted in this connection that strong fomentations should not, in any case, be applied to the testes.
 
-[5]:
 
-Incision and cauterization should be performed in the thumb of the right hand, if the left testis is affected, and in case the affection is in the right testis, incision and cauterization should be made in the thumb of the left hand.
+<div className="footnote-card"><strong>[3]</strong> Some say that the heat-producing drugs are those comprised in the Aja-gandhadi group mentioned in the Mishraka chapter, Sutra Sthana.</div>
 
-[6]:
 
-See note, Chapter XII., Nidana Sthana.
 
-[7]:
 
-Jejjata holds that leeches should be applied in a case of superficial Upadamsha.
+<div className="footnote-card"><strong>[4]</strong> The fomentation should be applied according to Shivadasha, with balls of cow-dung, etc., slightly heated. It should be noted in this connection that strong fomentations should not, in any case, be applied to the testes.</div>
 
-[8]:
 
-According to Shivadasa the Sneha to be used in the plaster should be clarified butter washed a hundred times.
 
-[9]:
 
-According to Chakradatta the five kinds of leaves should be separately used in the preparations of the decoctions for washing.
+<div className="footnote-card"><strong>[5]</strong> Incision and cauterization should be performed in the thumb of the right hand, if the left testis is affected, and in case the affection is in the right testis, incision and cauterization should be made in the thumb of the left hand.</div>
 
-[10]:
 
-“Mashaparni” according to Gayadasa.
 
-[11]:
 
-Chakradatta reads “snehasvedopanahaṃshca” in place of “snehasvedopapanne” meaning thereby that such Sveda and Upanaha should be applied before the incision of the vein. Gayadasa also supports this reading as is evident from Dallana’s commentary.—Ed.
+<div className="footnote-card"><strong>[6]</strong> See note, Chapter XII., Nidana Sthana.</div>
 
-[12]:
 
-The particle “ca” in the text shows that Kapha-subduing remedies and measures should also be used in all these cases.
 
-[13]:
 
-Chakradatta reads “pivet sarṣapa tailena” in place of “pivet sarṣapa tailaṃ va” which shows that the expressed juice of Puti-Karanja leaves should be taken with mustard oil and not separately. Dallana evidently supports this in his commentary. That Chakradatta’s reading is the correct one is also evident from the next copulet which says that the expressed juice of Putranjivaka should be taken in the preceding manner. This “preceding manner” evidently means “with mustard oil”, and unless’ we accept Chakradatta’s reading, the expression would be unmeaning.—Ed.
+<div className="footnote-card"><strong>[7]</strong> Jejjata holds that leeches should be applied in a case of superficial Upadamsha.</div>
 
-[14]:
 
-It evidently means that the expressed juice of Putranjivaka should be taken with mustard oil—see last note.—Ed.
+
+
+<div className="footnote-card"><strong>[8]</strong> According to Shivadasa the Sneha to be used in the plaster should be clarified butter washed a hundred times.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> According to Chakradatta the five kinds of leaves should be separately used in the preparations of the decoctions for washing.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> “Mashaparni” according to Gayadasa.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Chakradatta reads “snehasvedopanahaṃshca” in place of “snehasvedopapanne” meaning thereby that such Sveda and Upanaha should be applied before the incision of the vein. Gayadasa also supports this reading as is evident from Dallana’s commentary.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> The particle “ca” in the text shows that Kapha-subduing remedies and measures should also be used in all these cases.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Chakradatta reads “pivet sarṣapa tailena” in place of “pivet sarṣapa tailaṃ va” which shows that the expressed juice of Puti-Karanja leaves should be taken with mustard oil and not separately. Dallana evidently supports this in his commentary. That Chakradatta’s reading is the correct one is also evident from the next copulet which says that the expressed juice of Putranjivaka should be taken in the preceding manner. This “preceding manner” evidently means “with mustard oil”, and unless’ we accept Chakradatta’s reading, the expression would be unmeaning.—Ed.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> It evidently means that the expressed juice of Putranjivaka should be taken with mustard oil—see last note.—Ed.</div>
 
 ---
-
-
 
 ---
 
@@ -208,10 +220,6 @@ It evidently means that the expressed juice of Putranjivaka should be taken with
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of a variety of diseases: Sushruta Samhita Cikitsasthana Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

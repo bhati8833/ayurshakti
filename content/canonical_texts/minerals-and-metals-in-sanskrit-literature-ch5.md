@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Potteries and other Inorganic Materials within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. 8. Potteries and other Inorganic Materials
+## 8. Potteries and other Inorganic Materials
 
 Minerals and Metals in Sanskrit literature
 
@@ -27,7 +27,7 @@ III-16 nature and yet imparts salty taste to the entire mass of water: saindhava
 
 ---
 
-## 22. Chapter 4 - Materials and Concepts in Panini’s Ashtadhyayi
+## Chapter 4 - Materials and Concepts in Panini’s Ashtadhyayi
 
 Minerals and Metals in Sanskrit literature
 
@@ -35,11 +35,9 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 4 - Materials and Concepts in Panini’s Ashtadhyayi
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 23. 3. Extractive Metallurgy
+## 3. Extractive Metallurgy
 
 Minerals and Metals in Sanskrit literature
 
@@ -53,7 +51,7 @@ IV-4 pipe and pair of bellows with nozzles have been found in the Parthian strat
 
 ---
 
-## 24. 10. Concluding Remarks and References
+## 10. Concluding Remarks and References
 
 Minerals and Metals in Sanskrit literature
 
@@ -77,8 +75,6 @@ III-24 Macdonell, A. A. and Keith, A. B., 1912, 1958, Vedic Index of Names and S
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -86,10 +82,6 @@ III-24 Macdonell, A. A. and Keith, A. B., 1912, 1958, Vedic Index of Names and S
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">2. Mine and Mineral Engineering: Minerals And Metals In Sanskrit Literature Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

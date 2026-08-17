@@ -13,85 +13,83 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Sushruta Samhita Uttara Tantra Chapter 1](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch1)
+### [General Discourse: Sushruta Samhita Uttara Tantra Chapter 1](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Sushruta Samhita Uttara Tantra.
 
-### 2. [Pathology of the diseases of the sclerotic coat: Sushruta Samhita Uttara Tantra Chapter 2](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch2)
+### [Pathology of the diseases of the sclerotic coat: Sushruta Samhita Uttara Tantra Chapter 2](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch2)
 **Overview**: Detailed classical discussion on Pathology of the diseases of the sclerotic coat within Sushruta Samhita Uttara Tantra.
 
-### 3. [Pathology of the diseases affecting the eyes as a whole: Sushruta Samhita Uttara Tantra Chapter 3](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch3)
+### [Pathology of the diseases affecting the eyes as a whole: Sushruta Samhita Uttara Tantra Chapter 3](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch3)
 **Overview**: Detailed classical discussion on Pathology of the diseases affecting the eyes as a whole within Sushruta Samhita Uttara Tantra.
 
-### 4. [Treatment of Vataja Ophthalmia: Sushruta Samhita Uttara Tantra Chapter 4](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch4)
+### [Treatment of Vataja Ophthalmia: Sushruta Samhita Uttara Tantra Chapter 4](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch4)
 **Overview**: Detailed classical discussion on Treatment of Vataja Ophthalmia within Sushruta Samhita Uttara Tantra.
 
-### 5. [Treatment of Lekhya-roga: Sushruta Samhita Uttara Tantra Chapter 5](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch5)
+### [Treatment of Lekhya-roga: Sushruta Samhita Uttara Tantra Chapter 5](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch5)
 **Overview**: Detailed classical discussion on Treatment of Lekhya-roga within Sushruta Samhita Uttara Tantra.
 
-### 6. [Treatment of eye-diseases which require Excision: Sushruta Samhita Uttara Tantra Chapter 6](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch6)
+### [Treatment of eye-diseases which require Excision: Sushruta Samhita Uttara Tantra Chapter 6](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch6)
 **Overview**: Detailed classical discussion on Treatment of eye-diseases which require Excision within Sushruta Samhita Uttara Tantra.
 
-### 7. [Preparations and medicinal measures for ocular affections in general: Sushruta Samhita Uttara Tantra Chapter 7](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch7)
+### [Preparations and medicinal measures for ocular affections in general: Sushruta Samhita Uttara Tantra Chapter 7](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch7)
 **Overview**: Detailed classical discussion on Preparations and medicinal measures for ocular affections in general within Sushruta Samhita Uttara Tantra.
 
-### 8. [Medical Treatment of Ear-disease: Sushruta Samhita Uttara Tantra Chapter 8](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch8)
+### [Medical Treatment of Ear-disease: Sushruta Samhita Uttara Tantra Chapter 8](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch8)
 **Overview**: Detailed classical discussion on Medical Treatment of Ear-disease within Sushruta Samhita Uttara Tantra.
 
-### 9. [Symptoms of diseases of the head: Sushruta Samhita Uttara Tantra Chapter 9](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch9)
+### [Symptoms of diseases of the head: Sushruta Samhita Uttara Tantra Chapter 9](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch9)
 **Overview**: Detailed classical discussion on Symptoms of diseases of the head within Sushruta Samhita Uttara Tantra.
 
-### 10. [Treatment of diseases of the head: Sushruta Samhita Uttara Tantra Chapter 10](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch10)
+### [Treatment of diseases of the head: Sushruta Samhita Uttara Tantra Chapter 10](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch10)
 **Overview**: Detailed classical discussion on Treatment of diseases of the head within Sushruta Samhita Uttara Tantra.
 
-### 11. [Treatment of an attack -graha: Sushruta Samhita Uttara Tantra Chapter 11](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch11)
+### [Treatment of an attack -graha: Sushruta Samhita Uttara Tantra Chapter 11](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch11)
 **Overview**: Detailed classical discussion on Treatment of an attack -graha within Sushruta Samhita Uttara Tantra.
 
-### 12. [Theraputics Of An Attack -Graha: Sushruta Samhita Uttara Tantra Chapter 12](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch12)
+### [Theraputics Of An Attack -Graha: Sushruta Samhita Uttara Tantra Chapter 12](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch12)
 **Overview**: Detailed classical discussion on Theraputics Of An Attack -Graha within Sushruta Samhita Uttara Tantra.
 
-### 13. [Treatment of an attack -mandika: Sushruta Samhita Uttara Tantra Chapter 13](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch13)
+### [Treatment of an attack -mandika: Sushruta Samhita Uttara Tantra Chapter 13](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch13)
 **Overview**: Detailed classical discussion on Treatment of an attack -mandika within Sushruta Samhita Uttara Tantra.
 
-### 14. [Treatment of an attack: Sushruta Samhita Uttara Tantra Chapter 14](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch14)
+### [Treatment of an attack: Sushruta Samhita Uttara Tantra Chapter 14](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch14)
 **Overview**: Detailed classical discussion on Treatment of an attack within Sushruta Samhita Uttara Tantra.
 
-### 15. [Symptoms and Treatment of Phthisis (Shosha): Sushruta Samhita Uttara Tantra Chapter 15](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch15)
+### [Symptoms and Treatment of Phthisis (Shosha): Sushruta Samhita Uttara Tantra Chapter 15](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch15)
 **Overview**: Detailed classical discussion on Symptoms and Treatment of Phthisis (Shosha) within Sushruta Samhita Uttara Tantra.
 
-### 16. [Symptoms and Treatment of Hemorrhage (Rakta-pitta): Sushruta Samhita Uttara Tantra Chapter 16](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch16)
+### [Symptoms and Treatment of Hemorrhage (Rakta-pitta): Sushruta Samhita Uttara Tantra Chapter 16](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch16)
 **Overview**: Detailed classical discussion on Symptoms and Treatment of Hemorrhage (Rakta-pitta) within Sushruta Samhita Uttara Tantra.
 
-### 17. [Symptoms and Treatment of thirst (Trishna): Sushruta Samhita Uttara Tantra Chapter 17](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch17)
+### [Symptoms and Treatment of thirst (Trishna): Sushruta Samhita Uttara Tantra Chapter 17](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch17)
 **Overview**: Detailed classical discussion on Symptoms and Treatment of thirst (Trishna) within Sushruta Samhita Uttara Tantra.
 
-### 18. [Symptoms and Treatment of Hiccough (Hicca): Sushruta Samhita Uttara Tantra Chapter 18](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch18)
+### [Symptoms and Treatment of Hiccough (Hicca): Sushruta Samhita Uttara Tantra Chapter 18](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch18)
 **Overview**: Detailed classical discussion on Symptoms and Treatment of Hiccough (Hicca) within Sushruta Samhita Uttara Tantra.
 
-### 19. [Symptoms and Treatment of Cough (Kasa): Sushruta Samhita Uttara Tantra Chapter 19](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch19)
+### [Symptoms and Treatment of Cough (Kasa): Sushruta Samhita Uttara Tantra Chapter 19](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch19)
 **Overview**: Detailed classical discussion on Symptoms and Treatment of Cough (Kasa) within Sushruta Samhita Uttara Tantra.
 
-### 20. [Symptoms and Treatment of repression of natural urging (Udavarta): Sushruta Samhita Uttara Tantra Chapter 20](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch20)
+### [Symptoms and Treatment of repression of natural urging (Udavarta): Sushruta Samhita Uttara Tantra Chapter 20](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch20)
 **Overview**: Detailed classical discussion on Symptoms and Treatment of repression of natural urging (Udavarta) within Sushruta Samhita Uttara Tantra.
 
-### 21. [Symptoms and Treatment of aversion to food (Arochaka): Sushruta Samhita Uttara Tantra Chapter 21](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch21)
+### [Symptoms and Treatment of aversion to food (Arochaka): Sushruta Samhita Uttara Tantra Chapter 21](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch21)
 **Overview**: Detailed classical discussion on Symptoms and Treatment of aversion to food (Arochaka) within Sushruta Samhita Uttara Tantra.
 
-### 22. [Bhuta-vidya-tantra (psychology and psychiatry): Sushruta Samhita Uttara Tantra Chapter 22](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch22)
+### [Bhuta-vidya-tantra (psychology and psychiatry): Sushruta Samhita Uttara Tantra Chapter 22](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch22)
 **Overview**: Detailed classical discussion on Bhuta-vidya-tantra (psychology and psychiatry) within Sushruta Samhita Uttara Tantra.
 
-### 23. [Tantra-bhusana-adhyaya (embellishing chapters): Sushruta Samhita Uttara Tantra Chapter 23](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch23)
+### [Tantra-bhusana-adhyaya (embellishing chapters): Sushruta Samhita Uttara Tantra Chapter 23](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch23)
 **Overview**: Detailed classical discussion on Tantra-bhusana-adhyaya (embellishing chapters) within Sushruta Samhita Uttara Tantra.
 
-### 24. [The Technical terms used in the treatise: Sushruta Samhita Uttara Tantra Chapter 24](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch24)
+### [The Technical terms used in the treatise: Sushruta Samhita Uttara Tantra Chapter 24](/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch24)
 **Overview**: Detailed classical discussion on The Technical terms used in the treatise within Sushruta Samhita Uttara Tantra.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Plate I
+## Plate I
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -103,7 +101,7 @@ Kaviraj Kunja Lall Bhishgratna, M.R.A.S. (Lond.)
 
 ---
 
-## 2. Title Page
+## Title Page
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -144,7 +142,7 @@ S. L. BHADURI, B. L.
 
 ---
 
-## 9. Preface
+## Preface
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Alchemy in India within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 4. Chapter 2 - Alchemy in India
+## Chapter 2 - Alchemy in India
 
 Alchemy in India and China
 
@@ -19,11 +19,7 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 Chapter 2 - Alchemy in India
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -32,10 +28,6 @@ Chapter 2 - Alchemy in India
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">2. The Philosophy of Mercury: Alchemy In India And China Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

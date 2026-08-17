@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Selected Bibliography within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 38. Selected Bibliography
+## Selected Bibliography
 
 Physician as depicted in Manasollasa
 
@@ -35,8 +35,6 @@ SELECT BIBLIOGRAPHY I. English 1. Agnivesa (P.I.), Carakasamhita (with comm of C
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -44,10 +42,6 @@ SELECT BIBLIOGRAPHY I. English 1. Agnivesa (P.I.), Carakasamhita (with comm of C
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch36" className="text-emerald-400 hover:underline flex items-center font-medium">Conclusion: Physician As Depicted In Manasollasa Chapter 36 →</a>
 </div>
-
-
-
-
 
 ---
 

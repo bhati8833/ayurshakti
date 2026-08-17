@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Surgery in the Venisamhara within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 29. 8. Surgery in the Venisamhara
+## 8. Surgery in the Venisamhara
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ taken from the Mahabharata, and covers the period which elapses between the retu
 
 ---
 
-## 30. 10. Buddhism and Surgery
+## 10. Buddhism and Surgery
 
 Surgery in ancient India (Study)
 
@@ -41,7 +41,7 @@ life of all beings. His followers built many health centres for men and animals.
 
 ---
 
-## 31. 13. Surgical references in Jainism
+## 13. Surgical references in Jainism
 
 Surgery in ancient India (Study)
 
@@ -55,8 +55,6 @@ Ayurveda. The treatment mentioned in the Siddhanta Rasayana Kalpa was according 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -64,10 +62,6 @@ Ayurveda. The treatment mentioned in the Siddhanta Rasayana Kalpa was according 
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">12. Nagarjuna Acharya and Surgery: Ancient Indian Surgical Science Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

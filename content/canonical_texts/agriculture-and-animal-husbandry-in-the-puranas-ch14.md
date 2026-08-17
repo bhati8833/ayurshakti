@@ -11,23 +11,13 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Animal husbandry in the Purāṇas within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 57. Chapter 4 - Animal husbandry in the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Animal husbandry in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Chapter 4 - Animal husbandry in the Purāṇas
 
 Chapter 4 - Animal husbandry in the Purāṇas
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 58. Part 1 - Meaning of the term Paśu-pālana (Animal Husbandry)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Meaning of the term Pashu-palana (Animal Husbandry)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 1 - Meaning of the term Paśu-pālana (Animal Husbandry)
 
 Part 1 - Meaning of the term Paśu-pālana (Animal Husbandry)
 
@@ -43,64 +33,81 @@ There are voluminous treatises on animal husbandry.We find the name of Śālihot
 
 The originator of the science of elephants is said to be wise Pālakāpya.[10] The treatise on Hastyāyurveda (the science of healing elephants) is the Pālakāpyasaṃhitā which is attributed to sage Pālakāpya.It deals with anatomy, physiology, pathology, major and minor diseases with medical and surgical treatments, and drugs and diet.The Mātaṅgalīlā of Nīlakaṇṭhācārya is also a work on the science of healing elephants.[11]
 
-[1]:
 
-tasmādbrahmacāriṇa ācāryaṃ gopāyanti/ gṛhānpaśūnnenno’paharāniti/ Śatapatha Brāhmaṇa , 3.6.2.15
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> tasmādbrahmacāriṇa ācāryaṃ gopāyanti/ gṛhānpaśūnnenno’paharāniti/ Śatapatha Brāhmaṇa , 3.6.2.15
+</blockquote>
 
-[2]:
 
-Ṛgveda Saṃhitā , 1.33.1; 1.90.8; 1.191.4; 2.25.2; 5.20.4; 6.28.1; 7.103.10; 7.41.3; 7.18.1; 7.54.2; 8.4.18; 8.14.3; 8.47.12; 9.64.3; 9.112.3
 
-[3]:
 
-Apte,V.S., The Practical Sanskrit-English Dictionary, p. 606;
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Ṛgveda Saṃhitā , 1.33.1; 1.90.8; 1.191.4; 2.25.2; 5.20.4; 6.28.1; 7.103.10; 7.41.3; 7.18.1; 7.54.2; 8.4.18; 8.14.3; 8.47.12; 9.64.3; 9.112.3
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Apte,V.S., The Practical Sanskrit-English Dictionary, p. 606;
 Vācaspatyam,volume 5, p. 4276;
 Śabdakalpadruma, volume 3, p. 85
+</blockquote>
 
-[4]:
 
-Apte, V.S., loc.cit.
 
-[5]:
 
-Vācaspatyam,volume 5, p. 4280
+<div className="footnote-card"><strong>[4]</strong> Apte, V.S., loc.cit.</div>
 
-[6]:
 
-Williams, M.M., A Sanskrit-English Dictionary, p.611
 
-[7]:
 
-punaretā ni vartantāmasminpuṣyantu gopatau/
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Vācaspatyam,volume 5, p. 4280
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Williams, M.M., A Sanskrit-English Dictionary, p.611</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> punaretā ni vartantāmasminpuṣyantu gopatau/
 ihaivāgne ni dhārayeha tiṣṭhatu yā rayiḥ//
 yanniyānaṃ nyayanaṃ saṃjñānaṃ yatparāyaṇam/
 āvartanaṃ nivartanaṃ yo gopā api taṃ huve//
 ya udānaḍ vyayanaṃ ya udānaṭ parāyaṇam/
 āvartanaṃ nivartanamapi gopā ni vartatām// Ṛgveda Saṃhitā , 10.19.3-5
+</blockquote>
 
-[8]:
 
-Viṣṇu Purāṇa , 3.13.10
 
-[9]:
 
-Vide, Winternitz, M., A History of Indian Literature, volume 3, p. 645
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Viṣṇu Purāṇa , 3.13.10
+</blockquote>
 
-[10]:
 
-Ibid., p. 646
 
-[11]:
 
-De, S. K., et al (ed.), The Cultural Heritage of India, volume 6, p.175
+<div className="footnote-card"><strong>[9]</strong> Vide, Winternitz, M., A History of Indian Literature, volume 3, p. 645</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., p. 646</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> De, S. K., et al (ed.), The Cultural Heritage of India, volume 6, p.175</div>
 
 ---
 
-## 59. Part 11 - The Account of Uplifting the Mountain Govardhana
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Account of Uplifting the Mountain Govardhana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 11 - The Account of Uplifting the Mountain Govardhana
 
 Part 11 - The Account of Uplifting the Mountain Govardhana
 
@@ -128,157 +135,233 @@ dṛśyate yatra dṛśyante vṛṣṭimanto balāhakāḥ//[25]
 
 S.S. Dange opines in his The Bhāgavata Purāṇa: Mytho-Social Study that the heap of boiled rice offered to the mountain Govardhana makes it the corn-spirit, and a special festival of offerings on the mountain identified with Kṛṣṇa shows Kṛṣṇa to be a vegetation God.[26] The Viṣṇu Purāṇa too narrates the story of uplifting the mountain Govardhana.[27] According to the Viṣṇu Purāṇa, as Kṛṣṇa preserved the cattle of Gokula by raising up Govardhana, the chief of mountains, so Indra being grateful, installed Kṛṣṇa as Upendra. And as Lord Kṛṣṇa was Indra of the cows, so he was called as Govinda.[28]
 
-[1]:
 
-Bhāgavata Purāṇa , 10.24.1
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Bhāgavata Purāṇa , 10.24.1
+</blockquote>
 
-[2]:
 
-parjanyo bhagavānindro meghāstasyātma mūrtayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> parjanyo bhagavānindro meghāstasyātma mūrtayaḥ/
 te’bhivarṣanti bhūtānāṃ prāṇanaṃ jīvanaṃ payaḥ// Ibid., 10.24.8
+</blockquote>
 
-[3]:
 
-taṃ tāta vayamanye ca vārmucāṃ patimīśvaram/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> taṃ tāta vayamanye ca vārmucāṃ patimīśvaram/
 dravyaistadretasā siddhairyajante kratubhirnarāḥ// Ibid., 10.24.9
+</blockquote>
 
-[4]:
 
-taccheṣeṇopajīvanti trivargaphalahetave/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> taccheṣeṇopajīvanti trivargaphalahetave/
 puṃsāṃ puruṣakārāṇāṃ parjanyaḥ phalabhāvanaḥ// Ibid.,10.24.10
+</blockquote>
 
-[5]:
 
-ya evaṃ visṛjeddharmaṃ pāramparyāgataṃ naraḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> ya evaṃ visṛjeddharmaṃ pāramparyāgataṃ naraḥ/
 kāmāllobhādbhayāddveṣāt sa vai nāpnoti śobhanam// Ibid.,10.24.11
+</blockquote>
 
-[6]:
 
-indrāya manyuṃ janayan pitaraṃ prāha keśavaḥ// Ibid., 10.24.12b
 
-[7]:
 
-karmaṇā jāyate jantuḥ karmaṇaiva vilīyate/
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> indrāya manyuṃ janayan pitaraṃ prāha keśavaḥ// Ibid., 10.24.12b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> karmaṇā jāyate jantuḥ karmaṇaiva vilīyate/
 sukhaṃ duḥkhaṃ bhayaṃ kṣemaṃ karmaṇaivābhipadyate// Ibid., 10.24.13
+</blockquote>
 
-[8]:
 
-ājīvyaikataraṃ bhāvaṃ yastvanya mupajīvati/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> ājīvyaikataraṃ bhāvaṃ yastvanya mupajīvati/
 na tasmādvindate kṣemaṃ jārānnārya satī yathā// Ibid., 10.24.19
+</blockquote>
 
-[9]:
 
-Viṣṇu Purāṇa , 5.10.27
 
-[10]:
 
-na naḥ puro janapadā na grāmā na gṛhā vayam/
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Viṣṇu Purāṇa , 5.10.27
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> na naḥ puro janapadā na grāmā na gṛhā vayam/
 nityaṃ vanaukasastāta vanaśailanivāsinaḥ//
 tasmād gavāṃ brāhmaṇānāmadre ścārabhyatāṃ makhaḥ/
 ya indrayāga saṃbhārātairayaṃ sādhyatāṃ makhaḥ// Bhāgavata Purāṇa ,10.24.24-25
+</blockquote>
 
-[11]:
 
-giriyajñastvayaṃ tasmād goyajñaśca pravarttyatām/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> giriyajñastvayaṃ tasmād goyajñaśca pravarttyatām/
 kimasmākaṃ mahendreṇa gāvaḥ śailāśca devatāḥ// Viṣṇu Purāṇa , 5.10.36
+</blockquote>
 
-[12]:
 
-pacyantāṃ vividhāḥ pākāḥ sūpāntāḥ pāyasādayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> pacyantāṃ vividhāḥ pākāḥ sūpāntāḥ pāyasādayaḥ/
 saṃyāvāpūpa śaṣkulyaḥ sarvadohaśca gṛhyatām//
 hūyantāmagnayaḥ samyag brāhmaṇairbrahmavādibhiḥ/
 annaṃ bahuguṇaṃ tebhyo deyaṃ vo dhenudakṣināḥ// Bhāgavata Purāṇa ,10.24.26-27
+</blockquote>
 
-[13]:
 
-svalaṃkṛtā bhuktavantaḥ svanuliptāḥ suvāsasaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> svalaṃkṛtā bhuktavantaḥ svanuliptāḥ suvāsasaḥ/
 pradakṣiṇaṃ ca kuruta goviprā’nalaparvatān// Ibid., 10.24.29
+</blockquote>
 
-[14]:
 
-Ibid., 10.24.32-34
 
-[15]:
 
-kṛṣṇastvanyatamaṃ rūpaṃ gopa viśrambhaṇaṃ gataḥ/
+<div className="footnote-card"><strong>[14]</strong> Ibid., 10.24.32-34</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> kṛṣṇastvanyatamaṃ rūpaṃ gopa viśrambhaṇaṃ gataḥ/
 śailo’smīti bruvan bhūri balimādad bṛhadvapuḥ// Ibid., 10.24.35
+</blockquote>
 
-[16]:
 
-eṣo’vajānato martyān kāmarūpī vanaukasaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> eṣo’vajānato martyān kāmarūpī vanaukasaḥ/
 hanti hyasmai namasyāmaḥ śarmaṇe ātmano gavām//
 ityadrigodvijamakhaṃ vāsudevapraṇoditāḥ/
 yathā vidhāya te gopāḥ sahakṛṣṇā vrajaṃ yayuḥ// Ibid.,10.24.37-38
+</blockquote>
 
-[17]:
 
-indrastadātmanaḥ pūjāṃ vijñāya vihatāṃ nṛpa/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> indrastadātmanaḥ pūjāṃ vijñāya vihatāṃ nṛpa/
 gopebhyaḥ kṛṣṇanāthebhyo nandādibhya ścakopa saḥ// Ibid.,10.25.1
+</blockquote>
 
-[18]:
 
-gaṇaṃ sāṃvartakaṃ nāma meghānāṃ cāntakāriṇām/
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> gaṇaṃ sāṃvartakaṃ nāma meghānāṃ cāntakāriṇām/
 indraḥ prācodayat kroddho vākyaṃ cāheśamānyuta//
 aho śrīmadamāhātmyaṃ gopānam kānanaukasām/
 kṛṣṇaṃ martyamupāśritya ye cakrurdevahelanam// Ibid.,10.25.2-3
+</blockquote>
 
-[19]:
 
-ahaṃ cairāvataṃ nāgamāruhyānuvraje vrajam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> ahaṃ cairāvataṃ nāgamāruhyānuvraje vrajam/
 marudgaṇairmahāvīryairnandagoṣṭhāṃjighāṃsayā// Ibid.,10.25.7
+</blockquote>
 
-[20]:
 
-itthaṃ maghavatājñaptā meghā nirmuktabandhanāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> itthaṃ maghavatājñaptā meghā nirmuktabandhanāḥ/
 nandagokulamāsāraiḥ pīḍayāmāsurojasā// Ibid.,10.25.8
+</blockquote>
 
-[21]:
 
-kṛṣṇa kṛṣṇa mahābhāga tvannāthaṃ gokulaṃ prabho/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> kṛṣṇa kṛṣṇa mahābhāga tvannāthaṃ gokulaṃ prabho/
 trātumarhasi devānnaḥ kupitādbhakta vatsala// Ibid., 10.25.13
+</blockquote>
 
-[22]:
 
-ityuktvaikena hastena kṛttvā govardhanācalam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> ityuktvaikena hastena kṛttvā govardhanācalam/
 dadhāra līlayā kṛṣṇaśchatrākamiva bālakaḥ//
 athāha bhagavān gopān he’mba tāta vrajaukasaḥ/
 yathopajoṣaṃ viśata girigartaṃ sagodhanāḥ// Ibid., 10.25.19-20
+</blockquote>
 
-[23]:
 
-vīkṣyamāṇo dadhāvadriṃ saptāhaṃ nācalat padāt/ Ibid., 10.25.23b
 
-[24]:
 
-kṛṣṇayogānubhāvaṃ taṃ niśamyendro’tivismitaḥ/
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> vīkṣyamāṇo dadhāvadriṃ saptāhaṃ nācalat padāt/ Ibid., 10.25.23b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> kṛṣṇayogānubhāvaṃ taṃ niśamyendro’tivismitaḥ/
 nistambho bhraṣṭasaṃkalpaḥ svān meghān svaṃnyavārayat// Ibid., 10.25.24
+</blockquote>
 
-[25]:
 
-Viṣṇu Purāṇa , 5.10.22
 
-[26]:
 
-Vide., Dange, S.S., The Bhāgavata Purāṇa: Mytho-Social Study, p. 4
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Viṣṇu Purāṇa , 5.10.22
+</blockquote>
 
-[27]:
 
-Viṣṇu Purāṇa , 5.11
 
-[28]:
 
-gobhiśca coditaḥ kṛṣṇa tvatsakāśamihāgataḥ/
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Vide., Dange, S.S., The Bhāgavata Purāṇa: Mytho-Social Study, p. 4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Viṣṇu Purāṇa , 5.11
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> gobhiśca coditaḥ kṛṣṇa tvatsakāśamihāgataḥ/
 tvayā trātabhiratyarthaṃ yuṣmatsatkārakāraṇāt//
 sa tvāṃ kṛṣṇābhiṣekṣyāmi gavāṃ vākyapracoditaḥ/
 upendratve gavāmindro govindastvaṃ bhaviṣyasi// Ibid., 5.12.11-12
+</blockquote>
 
 ---
 
-## 60. Part 12 - Establishment of Vārtā-Vṛtti
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Establishment of Varta-Vritti’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 12 - Establishment of Vārtā-Vṛtti
 
 Part 12 - Establishment of Vārtā-Vṛtti
 
@@ -293,45 +376,58 @@ This occurred in the Tretāyuga during the period of Svāyambhuva Manu.[6] Accor
 
 Thus, various myths are found in the Purāṇas which are directly or indirectly associated with agriculture.
 
-[1]:
 
-antarhitāyāṃ sandhyāyāṃ sārddhaṃ kṛtayugena hi/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> antarhitāyāṃ sandhyāyāṃ sārddhaṃ kṛtayugena hi/
 kālākhyāyāṃ pravṛttāyāṃ prāpte tretāyuge tadā// Matsya Purāṇa , 143.2
+</blockquote>
 
-[2]:
 
-catvāryāhuḥ sahasrāṇi varṣāṇāṃ tatkṛtaṃ yugam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> catvāryāhuḥ sahasrāṇi varṣāṇāṃ tatkṛtaṃ yugam/
 tasya tāvacchatī sandhyā sandhyāṃśaśca tathāvidhaḥ//
 itareṣu sasandhyeṣu sasandhyāṃśeṣu ca triṣu/
 ekapāde nivarttante sahasrāṇi śatāni ca// Ibid., 142.19-20
+</blockquote>
 
-[3]:
 
-Apte, V.S., op.cit., p. 957
 
-[4]:
 
-Ibid.
+<div className="footnote-card"><strong>[3]</strong> Apte, V.S., op.cit., p. 957</div>
 
-[5]:
 
-Matsya Purāṇa ,143.3
 
-[6]:
 
-kathaṃ tretāyugamukhe…/
+<div className="footnote-card"><strong>[4]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Matsya Purāṇa ,143.3
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> kathaṃ tretāyugamukhe…/
 pūrve svāyambhuve sarge…// Ibid., 143.1
+</blockquote>
 
-[7]:
 
-vaiśyastu vārtaya jīvecchūdrastu dvijasevayā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> vaiśyastu vārtaya jīvecchūdrastu dvijasevayā/
 kṛṣivāṇijyagorakṣāḥ kusīdaṃ turyamucyate/
 vārtā caturvidhā tatra vayaṃ govṛttayo’niśam//
   Bhāgavata Purāṇa ,10.24.20-21; 3.12.43; 7.6.26; 7.11.15
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -340,10 +436,6 @@ vārtā caturvidhā tatra vayaṃ govṛttayo’niśam//
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Animal Husbandry in the Vedic Period: Agriculture And Animal Husbandry In The Puranas Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

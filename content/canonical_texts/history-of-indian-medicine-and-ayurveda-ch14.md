@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Ceremonials observed in Childhood within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 40. Chapter 1 - The Ceremonials observed in Childhood
+## Chapter 1 - The Ceremonials observed in Childhood
 
 History of Indian Medicine (and Ayurveda)
 
@@ -74,7 +74,7 @@ This was an essential religious ceremony for both the male as well as the female
 
 ---
 
-## 42. Chapter 2 - The Routine of Daily Life
+## Chapter 2 - The Routine of Daily Life
 
 History of Indian Medicine (and Ayurveda)
 
@@ -245,7 +245,7 @@ And here is a description of the action of this special course of Rasayana.
 
 ---
 
-## 43. Chapter 27 - Quacks (Kuvaidya or Kuhaka)
+## Chapter 27 - Quacks (Kuvaidya or Kuhaka)
 
 History of Indian Medicine (and Ayurveda)
 
@@ -399,8 +399,6 @@ The institution of quackery flourishes wherever there is a rigorous standard dem
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -408,10 +406,6 @@ The institution of quackery flourishes wherever there is a rigorous standard dem
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Dress and Clothing: History Of Indian Medicine And Ayurveda Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

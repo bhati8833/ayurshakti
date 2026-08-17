@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Gajendra-Mokṣa (Gajendra’s salvation) within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 58. Gajendra-Mokṣa (Gajendra’s salvation)
+## Gajendra-Mokṣa (Gajendra’s salvation)
 
 Matangalila and Hastyayurveda (study)
 
@@ -41,29 +41,36 @@ The rescue-scene emerges with quite grandeur on the Northern facade of the Daś�
 
 Another interesting fact is the association of Gajendra with a typical kind of cloud. Puranic scholars have categorised these clouds into three classes, the first of those is “āgneya”. It originates from fire or heat or in other words evaporation. In a better sense they may be called cyclonic, thermal or clouds formed due to insolation. The Brahmāṇḍa Purāṇa explains that the āgneya clouds occurs in the winter season and assume the form of an elephant including a buffalo or boar being devoid of lightning and thunder (Vidyutguṇavihīnāḥ). These are of immense importance and are said to bring rainfall on the mountain foot within a radius of a krośa or a half (3 km. or 1.5 km).[5] It can be assumed that the clouds in elephant form might be hindered by some atmospheric reason that may have an adverse effect on the water resources. This atmospheric hindrance is depicted as the water-monster is the mythology. What is interesting is the fact that the elephants need water bodies for their survival and good health and their association with water, its evaporation and finally with clouds is the indication of the embedded concept of water cycle. The symbolism of these narratives has a much deeper insight.
 
-[1]:
 
-Bhāgavata Purāṇa, Book VIII, Chapters 2-4.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Bhāgavata Purāṇa, Book VIII, Chapters 2-4.
+</blockquote>
 
-[2]:
 
-EI, Vol. I, p.272.
 
-[3]:
 
-Ibid., Vol. XX, p.118.
+<div className="footnote-card"><strong>[2]</strong> EI, Vol. I, p.272.</div>
 
-[4]:
 
-V. Ram., p.43.
 
-[5]:
 
-Brahmāṇḍa Purāṇa, 11.22.31-35 (they correspond to large cumulous clouds and nimbus clouds) and Bechan Dube. Geographical Concepts in Ancient India, p. 64.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Vol. XX, p.118.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> V. Ram., p.43.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Brahmāṇḍa Purāṇa, 11.22.31-35 (they correspond to large cumulous clouds and nimbus clouds) and Bechan Dube. Geographical Concepts in Ancient India, p. 64.
+</blockquote>
 
 ---
 
-## 59. Hybrid and Sea-creatures
+## Hybrid and Sea-creatures
 
 Matangalila and Hastyayurveda (study)
 
@@ -81,17 +88,17 @@ Sea-monsters and mythical serpents have a less cordial relationship with the ele
 
 This was the working out of an old curse the elephant was a Vaiṣṇva king Indradyumna, who is at his prayers one morning when the sage Agastya arrives at the palace Indradyumana cannot break off his prayers to receive the visitor; Agastya takes umbrage and curses the king that he may turn into an elephant. Emerging from his prayers, Indradyumna is horrified to hear that he has been cursed. As small consolation, Agastya tells him that the curse would only come undone if the King’s beloved Viṣṇu were to ever reach out to save him. The elephant of the story stands for the typical human soul of our age, exited by desires; given over too much to sensual pleasure, the demon would have carried him away, he knew not where. There was no salvation for him until he called on Viṣṇu, who speedily saves all those who call upon him with devotion.[2]
 
-[1]:
 
-V. Ram., p.40.
+<div className="footnote-card"><strong>[1]</strong> V. Ram., p.40.</div>
 
-[2]:
 
-Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.331-332.
+
+
+<div className="footnote-card"><strong>[2]</strong> Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.331-332.</div>
 
 ---
 
-## 60. The Elephant-headed God (Gaṇeśa)
+## The Elephant-headed God (Gaṇeśa)
 
 Matangalila and Hastyayurveda (study)
 
@@ -103,13 +110,10 @@ Purāṇas narrate the story of the creation of the elephant headed God. At his 
 
 Coomaraswamy and Nivedita discuss the significance of this narrative.[1] What is interesting in this narrative is not the creation of an elephant headed God but to show the power of Śani, and consequently to generate a requirement of his propitiation to get rid of his evil eye.
 
-[1]:
 
-Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.381-382.
+<div className="footnote-card"><strong>[1]</strong> Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.381-382.</div>
 
 ---
-
-
 
 ---
 
@@ -118,10 +122,6 @@ Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.381-382.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Elephants in Śaktism: Matangalila And Hastyayurveda Study Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

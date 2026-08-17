@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Identity of Aurabhra within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 45. 8. Identity of Aurabhra
+## 8. Identity of Aurabhra
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ these acaryas are supposed to have lived during the Upanisad period. References 
 
 ---
 
-## 46. 9. Identity of Susruta
+## 9. Identity of Susruta
 
 Surgery in ancient India (Study)
 
@@ -39,7 +39,7 @@ writings of Susruta and Varahamihira, the eminent mathematician of India. Severa
 
 ---
 
-## 47. 6. Identity of Pauskalavata
+## 6. Identity of Pauskalavata
 
 Surgery in ancient India (Study)
 
@@ -53,8 +53,6 @@ also stated that this is then the Sanskrit translation of Puskalavata. Hence, it
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ also stated that this is then the Sanskrit translation of Puskalavata. Hence, it
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">7. Identity of Karavirya: Ancient Indian Surgical Science Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

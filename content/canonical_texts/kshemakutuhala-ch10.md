@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ayurvedic regimens in Sisira (Late Winter) within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 32. Ayurvedic regimens in Sisira (Late Winter)
+## Ayurvedic regimens in Sisira (Late Winter)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -23,7 +23,7 @@ SISIRA (Late Winter) (IV 12 to 15)—NATURAL FEATURES: 1. Intensive dew is sprea
 
 ---
 
-## 33. Ayurvedic regimens in Hemanta (Early Winter)
+## Ayurvedic regimens in Hemanta (Early Winter)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -41,7 +41,7 @@ The cold wind from the north blow with the blossoms of the Lodhra, Priyangu and 
 
 ---
 
-## 34. Ayurvedic regimens in Grisma (Summer)
+## Ayurvedic regimens in Grisma (Summer)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -57,8 +57,6 @@ Sexual intercourse should be performed on the fifteenth day in the day time duri
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ Sexual intercourse should be performed on the fifteenth day in the day time duri
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurvedic regimens in Varsa (Rainy Season): Kshemakutuhala Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

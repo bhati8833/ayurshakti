@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Kāśyapa and Jīvaka (Āyurveda scholars) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Kāśyapa and Jīvaka (Āyurveda scholars)
+## Kāśyapa and Jīvaka (Āyurveda scholars)
 
 Kāśyapa and Jīvaka (Āyurveda scholars)
 
@@ -23,7 +23,7 @@ At the starting of Kaliyuga, one copy of Vṛddha Jīvaka Tantra was preserved b
 
 ---
 
-## 11. Agniveśa (Āyurveda scholars)
+## Agniveśa (Āyurveda scholars)
 
 Agniveśa (Āyurveda scholars)
 
@@ -31,13 +31,12 @@ There are eight sects in Āyurveda i.e. Ātreya, Dhanvantari, Śālākya, Bhūta
 
 Agniveśa was the most intelligent disciple of Punarvasu Ātreya. He was one among the six disciples of Ātreya. The methodology of teachings of Punarvasu Ātreya shows the clarifications by Ātreya to the questions raised by Agniveśa which proves the priority of Agniveśa among the six disciples of Ātreya. His period maybe 1000 BC.  Agniveśa was the son of Devadatta. He was also called Hutāsa, Hutāsaveśa, Vahniveśa. Bhāgavat Purāṇa mentions him as the incarnation of God Agni. Agniveśa was the first man who composed a treatise known as Agniveśa Tantra in twelve thousand verses, eight divisions, one hundred twenty chapters but the original Agniveśa Tantra is not available now. It was revised by Caraka divided by Dṛḍhavala and available as Caraka-Saṃhitā, a popular book of General medicine. In total forty-one chapters are seventeen from cikitsā sthāna, twelve Kalpa sthāna, twelve Siddhi sthāna. Forty-one chapters were lost from Agniveśa Tantra. Formulations attributed to Agniveśa–Caṅgeri ghṛta, Vasādya ghṛta, Śataphala ghṛta, Tiktaka ghṛta, Mahātiktaka ghṛta, Tṛṣṇādya ghṛta. Works of Agniveśa–Agniveśa Tantra, Añjana Nidāna, Nidāna Sthāna, Nādi Parīkṣā, Rāmāyaṇa Rahasya, Rāmāyaṇa Śataśloki[1].
 
-[1]:
 
-Dr. Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 307-313.
+<div className="footnote-card"><strong>[1]</strong> Dr. Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 307-313.</div>
 
 ---
 
-## 12. Hārīta (Āyurveda scholar)
+## Hārīta (Āyurveda scholar)
 
 Hārīta (Āyurveda scholar)
 
@@ -45,13 +44,12 @@ Hārīta–He was one of six disciples of Punarvasu Ātreya, contemporary to Agn
 
 The name Hārīta was quoted in may famous medical treatises like Tattva-Candrikā, Tattva-Pradīpikā, Bhāva-Prakāśa, Caraka-Saṃhitā, Suśruta-Saṃhitā etc. Hārīta Saṃhitā consists of seven Sthāna and one hundred three chapters as follows: Vaidyaguṇa- doṣa, Śāstra Reading Rules, Vaidyaka sarvasva, Vaidya śikṣā, Ṛtucaryā, Doṣaprakopa, ṣaḍarasa, Jalavarga, Trivarga, Mūvarga, Ikṣuvarga, Kāñjikavarga, Maṇḍavarga, Yūṣavarga, Tailabasāvarga, Dhyānavarga, Śākavarga, Phalavarga, Madhuvarga, Madhyavarga, Catuṣpada-meat-Varga, Jalacara-meat-Varga, Sthalacarameat- Varga, Anyāpana -Varga etc. The second sthāna consists of nine chapters. This sthāna described Pāpadoṣa pratikāra, Svapnādhyāya, Svāsthyāriṣṭa, Vyādhyariṣṭā, Pañca-indriya-bikāra, Nakṣatra jñāna, Homabidhi, Dūtaparīkṣā, description of Śakūna etc. The third sthāna consists of fifty-eight chapters described this sthāna are herbal medicine, diagnosis of fever, Atisāra Virecana, Gulma, Kṛmi, different types of fire and diagnosis, Śūla, Pāṇḍuroga, erosion, hemoptysis, haemorrhoids, cough, Kṛṣṇā-tālu defect, fainting, sleep, Madātyaya, Dāharoga, Apasmāra, Unmāda, Vātavyādhi, Āmavāta, Dṛghnasi, Vātarakta, Amlabṛtta, Śoka, Gulma, Jalodara, Prameha, Mūtrakṛccha, Mūtrarodha, Aśmarī, Mūtrabṛddhi, Bisarpa, Upasarpa, Braṇa, Ślīpada, Arbudha, Lūtāgaṇḍamālā, Kuṣṭha, Urdhvajatru, Gataroga, Śiroroga, Bhrūroga, Nasal Disease, Indralupta, Ear Disease, Eye Disease, Oral Disease, Bajīkaraṇa, Strīroga bibecana, gynaecology, Hrallasi, Chardi etc., treatment of the eight infestations of the pregnant woman, stupid pregnancy treatment, Sūtikāroga treatment, Bālaroga Treatment, Bhūtavidyā, Biṣatantra, fracture treatment, and burn treatment etc. The fourth sthāna consists of six chapters. This sthāna described are–Tulāmāna-Bidhi, Tailapāka-Bidhi, Niruha-Bastikarma-Bidhi, Svedana-Bidhi, Raktābasecana-Bidhi, Jalokābacāra-Bidhi, etc. The fifth sthāna consists of five chapters. This sthāna described are-Harītakīkalpa, Triphalākalpa, Rasonakalpa, Gugulukalpa etc. The sixth sthāna consists of one chapter and Pariśiṣṭa sthāna consists of one chapter[1].
 
-[1]:
 
-Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 66-70.
+<div className="footnote-card"><strong>[1]</strong> Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 66-70.</div>
 
 ---
 
-## 13. Jatukarṇa (Āyurveda scholar)
+## Jatukarṇa (Āyurveda scholar)
 
 Jatukarṇa (Āyurveda scholar)
 
@@ -59,13 +57,14 @@ Jatukarṇa–He was one of the six disciples of Punarvasu Ātreya. His period m
 
 Jejjata, Cakrapāṇi, Dalhaṇa, Arunadatta, Vijayarakṣita, Śrīkaṇṭhadatta, Śivadās Sen etc. Ācāryas quoted the reference of Jatukarṇa which proves that he was a great scholar of Āyurveda. As per the reference of Śatapatha-Brāhmaṇa, Jatukarṇa was the pro-pounder of Brāhmavidyā[1].
 
-[1]:
 
-Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 93-94.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 93-94.
+</blockquote>
 
 ---
 
-## 14. Bhela and Bhela Saṃhitā
+## Bhela and Bhela Saṃhitā
 
 Bhela and Bhela Saṃhitā
 
@@ -87,13 +86,10 @@ The name of the first chapter in the Cikitsāsthāna is ‘Ekādaśaspiṣkādhy
 
 There are six chapters in Kalpasthāna. Namely-Madan, Ikṣvāku, Dhāmārgaba, Kūṭaja, Caturaṅgula, Dantīphala Śaṅkhinī, and Śyāmātribṛta. The name of the first to eighth chapters of Siddhisthāna is 'Vamanavirecana’, ‘Śirovirecanasiddhi’, ‘Daśavyāpadīyavamana-Virecanasiddhi’, ‘Bastimātrīyasiddhi’, ‘Upakalpasiddhi’ ‘Phalamātrāsiddhi’, ‘Daśabyāpaṭikā āsthāpanānuvāsana Siddhi. The rest of the chapters of Kalpa and Siddhi places are fragmented[1].
 
-[1]:
 
-Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 59-66.
+<div className="footnote-card"><strong>[1]</strong> Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 59-66.</div>
 
 ---
-
-
 
 ---
 
@@ -102,10 +98,6 @@ Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Parāśara (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

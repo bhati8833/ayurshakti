@@ -13,85 +13,83 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Philosophy Of Charaka Samhita Chapter 1](/articles/philosophy-of-charaka-samhita-ch1)
+### [General Discourse: Philosophy Of Charaka Samhita Chapter 1](/articles/philosophy-of-charaka-samhita-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Philosophy Of Charaka Samhita.
 
-### 2. [Ill-fate of Āyurveda and other sciences: Philosophy Of Charaka Samhita Chapter 2](/articles/philosophy-of-charaka-samhita-ch2)
+### [Ill-fate of Āyurveda and other sciences: Philosophy Of Charaka Samhita Chapter 2](/articles/philosophy-of-charaka-samhita-ch2)
 **Overview**: Detailed classical discussion on Ill-fate of Āyurveda and other sciences within Philosophy Of Charaka Samhita.
 
-### 3. [Substance (dravya) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 3](/articles/philosophy-of-charaka-samhita-ch3)
+### [Substance (dravya) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 3](/articles/philosophy-of-charaka-samhita-ch3)
 **Overview**: Detailed classical discussion on Substance (dravya) [in Charaka philosophy] within Philosophy Of Charaka Samhita.
 
-### 4. [Enumeration of attributes (guṇa): Philosophy Of Charaka Samhita Chapter 4](/articles/philosophy-of-charaka-samhita-ch4)
+### [Enumeration of attributes (guṇa): Philosophy Of Charaka Samhita Chapter 4](/articles/philosophy-of-charaka-samhita-ch4)
 **Overview**: Detailed classical discussion on Enumeration of attributes (guṇa) within Philosophy Of Charaka Samhita.
 
-### 5. [Action (karma) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 5](/articles/philosophy-of-charaka-samhita-ch5)
+### [Action (karma) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 5](/articles/philosophy-of-charaka-samhita-ch5)
 **Overview**: Detailed classical discussion on Action (karma) [in Charaka philosophy] within Philosophy Of Charaka Samhita.
 
-### 6. [Fundamental Theories: Philosophy Of Charaka Samhita Chapter 6](/articles/philosophy-of-charaka-samhita-ch6)
+### [Fundamental Theories: Philosophy Of Charaka Samhita Chapter 6](/articles/philosophy-of-charaka-samhita-ch6)
 **Overview**: Detailed classical discussion on Fundamental Theories within Philosophy Of Charaka Samhita.
 
-### 7. [Time and space [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 7](/articles/philosophy-of-charaka-samhita-ch7)
+### [Time and space [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 7](/articles/philosophy-of-charaka-samhita-ch7)
 **Overview**: Detailed classical discussion on Time and space [in Charaka philosophy] within Philosophy Of Charaka Samhita.
 
-### 8. [The theory of three faults (tridoṣa-siddhānta): Philosophy Of Charaka Samhita Chapter 8](/articles/philosophy-of-charaka-samhita-ch8)
+### [The theory of three faults (tridoṣa-siddhānta): Philosophy Of Charaka Samhita Chapter 8](/articles/philosophy-of-charaka-samhita-ch8)
 **Overview**: Detailed classical discussion on The theory of three faults (tridoṣa-siddhānta) within Philosophy Of Charaka Samhita.
 
-### 9. [Composite man (rāśi-puruṣa): Philosophy Of Charaka Samhita Chapter 9](/articles/philosophy-of-charaka-samhita-ch9)
+### [Composite man (rāśi-puruṣa): Philosophy Of Charaka Samhita Chapter 9](/articles/philosophy-of-charaka-samhita-ch9)
 **Overview**: Detailed classical discussion on Composite man (rāśi-puruṣa) within Philosophy Of Charaka Samhita.
 
-### 10. [Source of Knowledge (pramāṇa): Philosophy Of Charaka Samhita Chapter 10](/articles/philosophy-of-charaka-samhita-ch10)
+### [Source of Knowledge (pramāṇa): Philosophy Of Charaka Samhita Chapter 10](/articles/philosophy-of-charaka-samhita-ch10)
 **Overview**: Detailed classical discussion on Source of Knowledge (pramāṇa) within Philosophy Of Charaka Samhita.
 
-### 11. [Verbal Testimony (śabda) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 11](/articles/philosophy-of-charaka-samhita-ch11)
+### [Verbal Testimony (śabda) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 11](/articles/philosophy-of-charaka-samhita-ch11)
 **Overview**: Detailed classical discussion on Verbal Testimony (śabda) [in Charaka philosophy] within Philosophy Of Charaka Samhita.
 
-### 12. [Inference (anumāna) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 12](/articles/philosophy-of-charaka-samhita-ch12)
+### [Inference (anumāna) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 12](/articles/philosophy-of-charaka-samhita-ch12)
 **Overview**: Detailed classical discussion on Inference (anumāna) [in Charaka philosophy] within Philosophy Of Charaka Samhita.
 
-### 13. [The Indian art of debate according to the Carakasaṃhitā: Philosophy Of Charaka Samhita Chapter 13](/articles/philosophy-of-charaka-samhita-ch13)
+### [The Indian art of debate according to the Carakasaṃhitā: Philosophy Of Charaka Samhita Chapter 13](/articles/philosophy-of-charaka-samhita-ch13)
 **Overview**: Detailed classical discussion on The Indian art of debate according to the Carakasaṃhitā within Philosophy Of Charaka Samhita.
 
-### 14. [Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana): Philosophy Of Charaka Samhita Chapter 14](/articles/philosophy-of-charaka-samhita-ch14)
+### [Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana): Philosophy Of Charaka Samhita Chapter 14](/articles/philosophy-of-charaka-samhita-ch14)
 **Overview**: Detailed classical discussion on Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana) within Philosophy Of Charaka Samhita.
 
-### 15. [Dialectical terms (6): Example: (dṛṣṭānta): Philosophy Of Charaka Samhita Chapter 15](/articles/philosophy-of-charaka-samhita-ch15)
+### [Dialectical terms (6): Example: (dṛṣṭānta): Philosophy Of Charaka Samhita Chapter 15](/articles/philosophy-of-charaka-samhita-ch15)
 **Overview**: Detailed classical discussion on Dialectical terms (6): Example: (dṛṣṭānta) within Philosophy Of Charaka Samhita.
 
-### 16. [Dialectical terms (12): Purpose (prayojana): Philosophy Of Charaka Samhita Chapter 16](/articles/philosophy-of-charaka-samhita-ch16)
+### [Dialectical terms (12): Purpose (prayojana): Philosophy Of Charaka Samhita Chapter 16](/articles/philosophy-of-charaka-samhita-ch16)
 **Overview**: Detailed classical discussion on Dialectical terms (12): Purpose (prayojana) within Philosophy Of Charaka Samhita.
 
-### 17. [Dialectical terms (16): Imperfect statement (anuyojya): Philosophy Of Charaka Samhita Chapter 17](/articles/philosophy-of-charaka-samhita-ch17)
+### [Dialectical terms (16): Imperfect statement (anuyojya): Philosophy Of Charaka Samhita Chapter 17](/articles/philosophy-of-charaka-samhita-ch17)
 **Overview**: Detailed classical discussion on Dialectical terms (16): Imperfect statement (anuyojya) within Philosophy Of Charaka Samhita.
 
-### 18. [Dialectical terms (21): Excellent assertion (vākyapraśaṃsā): Philosophy Of Charaka Samhita Chapter 18](/articles/philosophy-of-charaka-samhita-ch18)
+### [Dialectical terms (21): Excellent assertion (vākyapraśaṃsā): Philosophy Of Charaka Samhita Chapter 18](/articles/philosophy-of-charaka-samhita-ch18)
 **Overview**: Detailed classical discussion on Dialectical terms (21): Excellent assertion (vākyapraśaṃsā) within Philosophy Of Charaka Samhita.
 
-### 19. [Dialectical terms (25): Criticism (upālaṃbha): Philosophy Of Charaka Samhita Chapter 19](/articles/philosophy-of-charaka-samhita-ch19)
+### [Dialectical terms (25): Criticism (upālaṃbha): Philosophy Of Charaka Samhita Chapter 19](/articles/philosophy-of-charaka-samhita-ch19)
 **Overview**: Detailed classical discussion on Dialectical terms (25): Criticism (upālaṃbha) within Philosophy Of Charaka Samhita.
 
-### 20. [Ten technical debate terms [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 20](/articles/philosophy-of-charaka-samhita-ch20)
+### [Ten technical debate terms [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 20](/articles/philosophy-of-charaka-samhita-ch20)
 **Overview**: Detailed classical discussion on Ten technical debate terms [in Charaka philosophy] within Philosophy Of Charaka Samhita.
 
-### 21. [Ethics: Philosophy Of Charaka Samhita Chapter 21](/articles/philosophy-of-charaka-samhita-ch21)
+### [Ethics: Philosophy Of Charaka Samhita Chapter 21](/articles/philosophy-of-charaka-samhita-ch21)
 **Overview**: Detailed classical discussion on Ethics within Philosophy Of Charaka Samhita.
 
-### 22. [Moral prescriptions for healthy and happy life: Philosophy Of Charaka Samhita Chapter 22](/articles/philosophy-of-charaka-samhita-ch22)
+### [Moral prescriptions for healthy and happy life: Philosophy Of Charaka Samhita Chapter 22](/articles/philosophy-of-charaka-samhita-ch22)
 **Overview**: Detailed classical discussion on Moral prescriptions for healthy and happy life within Philosophy Of Charaka Samhita.
 
-### 23. [Liberation (mokṣa) as the ultimate moral end: Philosophy Of Charaka Samhita Chapter 23](/articles/philosophy-of-charaka-samhita-ch23)
+### [Liberation (mokṣa) as the ultimate moral end: Philosophy Of Charaka Samhita Chapter 23](/articles/philosophy-of-charaka-samhita-ch23)
 **Overview**: Detailed classical discussion on Liberation (mokṣa) as the ultimate moral end within Philosophy Of Charaka Samhita.
 
-### 24. [Way of life to liberation [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 24](/articles/philosophy-of-charaka-samhita-ch24)
+### [Way of life to liberation [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 24](/articles/philosophy-of-charaka-samhita-ch24)
 **Overview**: Detailed classical discussion on Way of life to liberation [in Charaka philosophy] within Philosophy Of Charaka Samhita.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Introduction
+## Introduction
 
 Philosophy of Charaka-samhita
 
@@ -107,17 +105,17 @@ So it is essential to give a reasonable or at least a satisfactory answer to the
 
 A retrospective introspection of the evolution of human thought reveals that “man began by dealing wholesale with the world, indulging in speculations about the general nature and behaviour of the universe without separating scientific and philosophic fields and methods of investigation from one another”.[1] Gradually persuaded by increasing human needs and directed to different groups of events, the spirit of universal enquiry was subdivided into specialized investigations. Thus, in the West, special sciences like Astronomy, Medicine, and Logic slowly originated at a fairly early date and steadily became independent and self supporting.[2] This shows that the Western sciences have their roots in the early philosophical thoughts, but got isolated from them in course of time.
 
-[1]:
 
-FM, Contents I, p.15.
+<div className="footnote-card"><strong>[1]</strong> FM, Contents I, p.15.</div>
 
-[2]:
 
-Physics and Chemistry did not take firm independent root until after the Renaissance. Ibid., p.16
+
+
+<div className="footnote-card"><strong>[2]</strong> Physics and Chemistry did not take firm independent root until after the Renaissance. Ibid., p.16</div>
 
 ---
 
-## 5. Chapter 1 - Introduction
+## Chapter 1 - Introduction
 
 Philosophy of Charaka-samhita
 
@@ -125,11 +123,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 1 - Introduction
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 7. Preface
+## Preface
 
 Philosophy of Charaka-samhita
 
@@ -151,7 +147,7 @@ The next chapter describes the Self as the foundational cause of the Universe. A
 
 ---
 
-## 84. Introduction (ethics according to Charaka philosophy)
+## Introduction (ethics according to Charaka philosophy)
 
 Philosophy of Charaka-samhita
 

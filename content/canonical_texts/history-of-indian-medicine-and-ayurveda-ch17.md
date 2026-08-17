@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment and the Status of the Patient within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 50. Chapter 8 - Treatment and the Status of the Patient
+## Chapter 8 - Treatment and the Status of the Patient
 
 History of Indian Medicine (and Ayurveda)
 
@@ -60,7 +60,7 @@ Thus in spite of the dominance of the aristocracy, the poor patients were not ne
 
 ---
 
-## 51. Chapter 9 - Thu use of Ornaments
+## Chapter 9 - Thu use of Ornaments
 
 History of Indian Medicine (and Ayurveda)
 
@@ -166,7 +166,7 @@ Besides these we come across references to (pravāla, vidruma, śaṅk?, śukti,
 
 ---
 
-## 52. Chapter 11 - The Sense of Smell
+## Chapter 11 - The Sense of Smell
 
 History of Indian Medicine (and Ayurveda)
 
@@ -251,21 +251,7 @@ Objective or subjective symptoms pertaining to smell were found useful in the di
 
 Important osmatic references are found in the following disease condition.
 
-uvara,
-
-raktapitta,
-
-gulma,
-
-prameha,
-
-śotha,
-
-arśa,
-
-grahaṇī,
-
-kāsa,
+uvara,, raktapitta,, gulma,, prameha,, śotha,, arśa,, grahaṇī,, kāsa,
 
 atisāra, etc.
 
@@ -286,8 +272,6 @@ Tropical countries are rich in fragrant plant products and hence we find that th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -295,10 +279,6 @@ Tropical countries are rich in fragrant plant products and hence we find that th
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">a - Routine observed during the Purificatory Procedures: History Of Indian Medicine And Ayurveda Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Environmental Philosophy and its relevance within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 14. 2. Environmental Philosophy and its relevance
+## 2. Environmental Philosophy and its relevance
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -25,7 +25,7 @@ Environmental philosophy is a branch of philosophy that is concerned with the na
 
 ---
 
-## 16. 3.4. Environment Verses Human Being: In the context of Scientific view
+## 3.4. Environment Verses Human Being: In the context of Scientific view
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -39,8 +39,6 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -48,10 +46,6 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Ethics in the context of Vedic Literatures: Vrikshayurveda and Environmental Philosophy Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

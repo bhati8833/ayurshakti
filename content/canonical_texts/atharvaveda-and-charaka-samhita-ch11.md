@@ -11,15 +11,15 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Upadaṃśa (syphilis) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 58. Treatment of Upadaṃśa (syphilis)
+## Treatment of Upadaṃśa (syphilis)
 
 Treatment of Upadaṃśa (syphilis)
 
 Upadaṃśa or Syphilis is a terrifying disease. It gives rise to an insatiable desire for sex. In Aṣṭāṅga Hṛdaya, the following reasons have been described for Upadaṃśa roga—non-consensual sex with women, copulation with animals etc.[1] In Atharvaveda, the following medicines have been prescribed as a treatment for this disease -Arka, Pītudāru, devadāru, Maṇḍūkī or Maṇḍūkaparṇī, soma, Srekaparṇa, Guggulu etc.
 
-[1]:
 
-strīvyavāyanivṛttasya sahasā bhajato'thavā |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> strīvyavāyanivṛttasya sahasā bhajato'thavā |
 doṣādhyuṣitasaṅkīrṇamalināṇujaḥpathām ||
 anyayonimanicchantīmagamyāṃ navasūtikām |
 dūṣitaṃ spṛśatastoyaṃ ratānteṣvapi naiva vā ||
@@ -29,61 +29,74 @@ veganigrahadīrghātikharasparśavighaṭṭanaiḥ |
 doṣā duṣṭā gatā guhyaṃ trayoviṃśatimāmayān ||
 janayantyupaṃdaśādīn upadaṃśo'tra pañcadhā |
 pṛthagdoṣaiḥ sarudhiraiḥ samastaiśca atra mārutāt || (Aṣṭā. H.  –Uttarasthāna- 33/1-5); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. III, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, pp. 305-306.
+</blockquote>
 
 ---
 
-## 59. Treatment of Visarpa disease
+## Treatment of Visarpa disease
 
 Treatment of Visarpa disease
 
 When spotted red marks and boils spread across the body then it is called Visarpa. The synonyms of Visarpa are Visalpa and Visalpaka as mentioned in Atharvaveda[1]. Atharvaveda mentioned Cīpudru as Medicine for Visarpa[2]. Also, Āñjana and Āñjana-maṇi are mentioned as the medicine for Visarpa.
 
-[1]:
 
-visalpasyavidradhasyavātīkārasyavālajeḥ |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> visalpasyavidradhasyavātīkārasyavālajeḥ |
 yakṣmāṇāṃsarveṣāṃviṣaṃniravocamahaṃtvat ||(AV. –IX/8/20); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. II, Delhi, Parimal Publication, 2015, p. 274.
+</blockquote>
 
-[2]:
 
-yau te balāsa tiṣṭhataḥ kakṣe muṣkāvapaśritau |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> yau te balāsa tiṣṭhataḥ kakṣe muṣkāvapaśritau |
 vedāhaṃ tasya bheṣajaṃ cīpudrurabhicakṣaṇam || (AV. –VI/127/2); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 508.
+</blockquote>
 
 ---
 
-## 60. Treatment of Śotha disease
+## Treatment of Śotha disease
 
 Treatment of Śotha disease
 
 Atharvaveda Examines the Śotha disease. Sores and Pain etc., are called Śotha. For the Remedy of Śotha Atharvaveda endorses the following medicines—Puṣkara, Puṣkaramūla, Plakṣa, Nyagrodha, Vaṃśa, and Varaṇa Trees, etc.[1] The Ṛgveda proclaims Śigru tree as the cure for Śotha[2] and for the medical rehabilitation of Pakṣaghāta, the Kauśika Sūtra rubricates VI.80[3]. The practice recommended is as follows: The paralysed part of the body is rubbed with earth taken from the foot-print of a dog while keeping the part in a quick motion. Then the part is fumigated by burning an insect taken from the dog. The hymn is to be recited while the whole performance is carried out.
 
-[1]:
 
-tasyāścitrarathaḥ sauryavarcaso vatsa āsīt puṣkaraparṇaṃ pātram | (AV. –VIII/14/6); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 479.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> tasyāścitrarathaḥ sauryavarcaso vatsa āsīt puṣkaraparṇaṃ pātram | (AV. –VIII/14/6); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 479.
+</blockquote>
 
-[2]:
 
-parṇo vo vasatiṣkṛtā | (ṚV.  -X/97/5); Acharya Vedanta Tirtha (ed.), Rigveda–Vol. 4, Delhi, Manoj Publication, 2012, p. 435.
 
-[3]:
 
-antarikṣeṇeti pakṣahataṃ mantroktaṃ caṅkamayā || kīṭena dhūpayati || (Kauśika Sūtra 31.18-19);Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p.74.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> parṇo vo vasatiṣkṛtā | (ṚV.  -X/97/5); Acharya Vedanta Tirtha (ed.), Rigveda–Vol. 4, Delhi, Manoj Publication, 2012, p. 435.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> antarikṣeṇeti pakṣahataṃ mantroktaṃ caṅkamayā || kīṭena dhūpayati || (Kauśika Sūtra 31.18-19);Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p.74.
+</blockquote>
 
 ---
 
-## 61. Treatment of Pāman disease
+## Treatment of Pāman disease
 
 Treatment of Pāman disease
 
 In Taittirīya Saṃhitā and Kāṭhaka Saṃhitā the word of Pāman[1] is mentioned. These are Khāja and Khujalī. In Āyurveda, this is known as a form of Kuṣṭha. Atharvaveda prescribes the following medicine for the treatment of the problem, namely, Arka, Āsurī, Maṇḍūkī, Hāridrava, and Haridru etc.
 
-[1]:
 
-hastena kaṇḍū yeta pāmanabhāvukāḥ prajāḥ syuḥ | Tai.  S.–6/1/3/8.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> hastena kaṇḍū yeta pāmanabhāvukāḥ prajāḥ syuḥ | Tai.  S.–6/1/3/8.
 pāmanā jāyeran | Kāṭh. S.  –23/4.
+</blockquote>
 
 ---
 
-## 62. Treatment of Pāṇḍuroga (Hariman)
+## Treatment of Pāṇḍuroga (Hariman)
 
 Treatment of Pāṇḍuroga (Hariman)
 
@@ -93,30 +106,38 @@ Secondly, red cow's milk is said to be efficacious in treating Hārimā or Pā�
 
 Also, in the Atharvaveda, the holding of Añjana maṇi and Jaṅgiḍa maṇi is said to be useful in the case of Pāṇḍuroga. The drug Añjana is said to be efficacious in treating Hārimā or Pāṇḍuroga. Besides, the following medicines have been said to be beneficial in cases of jaundice, namely -Punarṇavā, Vanaspati, Pippalī and Hāridrava or Haridru. The Atharvaveda gives scant regard to life that is non-human preferring that the sufferings of humans be transposed to them.
 
-[1]:
 
-udyannadya mitramaha ārohannuttarāṃ divam |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> udyannadya mitramaha ārohannuttarāṃ divam |
 hṛdrogaṃ mama sūrya harimāṇaṃ ca nāśaya || (ṚV.  -I/50/11); Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 121.
 anu sūryamudayatāṃ hṛddyoto harimā ca te |
 gorohitasya varṇena tena tvā pari dadhmasi || (AV. –I/22/1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 51.
+</blockquote>
 
-[2]:
 
-sanemi sakhyaṃ svapasyamānaḥ sūnurdādhāra śavasā sudaṃsāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> sanemi sakhyaṃ svapasyamānaḥ sūnurdādhāra śavasā sudaṃsāḥ |
 amāsu cid dadhiṣe pakvamantaḥ payaḥ kṛṣṇāsu ruśad rohiṇīṣu || (ṚV.  -I/62/9); Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 144.
+</blockquote>
 
-[3]:
 
-yo rohiṇīrdevatya gāvo yā uata rohiṇīḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> yo rohiṇīrdevatya gāvo yā uata rohiṇīḥ |
 rūpaṃ rūpaṃ vayovayastābhiṣṭvā pari dadhmasi || (AV. –I/22/3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 156.
+</blockquote>
 
-[4]:
 
-anusūryamiti mantroktasya lomamiśramācamayati || pṛṣṭe pānīya || śaṅ kudhānaṃ carmaṇyāsīnāya dugdhe sampātavantaṃ badhnāti | pāyayati || haridraudanabhuktamucchiṣṭānucchiṣṭenāprapadātpralipya mantroktānadhastalpe haritasūtreṇa savyajaṅghāsu baddhāvasnāpayati || prapādayati || vadata upasthapayati || kroḍalomāni jatunā saṃdihya jātarūpeṇāpidhāpya || (Kauśika Sūtra-26.14-21); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 63-65.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> anusūryamiti mantroktasya lomamiśramācamayati || pṛṣṭe pānīya || śaṅ kudhānaṃ carmaṇyāsīnāya dugdhe sampātavantaṃ badhnāti | pāyayati || haridraudanabhuktamucchiṣṭānucchiṣṭenāprapadātpralipya mantroktānadhastalpe haritasūtreṇa savyajaṅghāsu baddhāvasnāpayati || prapādayati || vadata upasthapayati || kroḍalomāni jatunā saṃdihya jātarūpeṇāpidhāpya || (Kauśika Sūtra-26.14-21); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 63-65.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -125,10 +146,6 @@ anusūryamiti mantroktasya lomamiśramācamayati || pṛṣṭe pānīya || śa�
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Kaphaja (heart disease): Atharvaveda And Charaka Samhita Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

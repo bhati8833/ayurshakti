@@ -20,23 +20,14 @@ category: "Canonical Texts & Sanskrit Samhitas"
 status: "Published"
 date: "2026-08-17"
 description: "presents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research."
----
 
----
-
-
-
----
+---, ---, ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-emerald-400 hover:underline font-medium">← Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Social condition of Nath: Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

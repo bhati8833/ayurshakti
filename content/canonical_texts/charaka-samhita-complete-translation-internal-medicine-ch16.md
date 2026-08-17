@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The man of enhanced virility etc. (pums-jatabala) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 90. Chapter 2d - The man of enhanced virility etc. (pums-jatabala)
+## Chapter 2d - The man of enhanced virility etc. (pums-jatabala)
 
 Charaka Samhita (English translation)
 
@@ -119,7 +119,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 91. Chapter 4 - The therapeutics of Hemothermia (raktapitta-cikitsa)
+## Chapter 4 - The therapeutics of Hemothermia (raktapitta-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -335,7 +335,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 92. Chapter 3 - The therapeutics of Fever (jvara-cikitsa)
+## Chapter 3 - The therapeutics of Fever (jvara-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -993,7 +993,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 93. Chapter 6 - The therapeutics of Urinary disorders (prameha-cikitsa)
+## Chapter 6 - The therapeutics of Urinary disorders (prameha-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1147,7 +1147,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 94. Chapter 7 - The therapeutics of Dermatosis (kushtha-cikitsa)
+## Chapter 7 - The therapeutics of Dermatosis (kushtha-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1441,7 +1441,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 95. Chapter 5 - The therapeutics of Gulma (abdominal swellings)
+## Chapter 5 - The therapeutics of Gulma (abdominal swellings)
 
 Charaka Samhita (English translation)
 
@@ -1779,8 +1779,6 @@ Here are the recapitulatory verses—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1788,10 +1786,6 @@ Here are the recapitulatory verses—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">The therapeutics of Insanity (unmada-cikitsa): Charaka Samhita Complete Translation Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

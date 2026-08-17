@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Knowledge of categories of drugs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 50. Chapter XLI - Knowledge of categories of drugs
+## Chapter XLI - Knowledge of categories of drugs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -79,13 +79,10 @@ Properties, which characterise drugs and substances, may be as well found in a h
 
 Thus ends the forty-first Chapter of the Sutrasthana in the Sushruta Samhita which treats of specific properties of drugs.
 
-[1]:
 
-These may be translated as Solid, Liquid, Gas, Ether, and Etherion in the parlance of modern science.
+<div className="footnote-card"><strong>[1]</strong> These may be translated as Solid, Liquid, Gas, Ether, and Etherion in the parlance of modern science.</div>
 
 ---
-
-
 
 ---
 
@@ -94,10 +91,6 @@ These may be translated as Solid, Liquid, Gas, Ether, and Etherion in the parlan
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch45" className="text-emerald-400 hover:underline flex items-center font-medium">Recipes of emetic drugs: Sushruta Samhita Sutrasthana Chapter 45 →</a>
 </div>
-
-
-
-
 
 ---
 

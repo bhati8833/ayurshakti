@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Measure of Depopulation through Epidemics (uddhvamsa-vimana) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 54. Chapter 3 - The Measure of Depopulation through Epidemics (uddhvamsa-vimana)
+## Chapter 3 - The Measure of Depopulation through Epidemics (uddhvamsa-vimana)
 
 Charaka Samhita (English translation)
 
@@ -217,7 +217,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 55. Chapter 4 - The Three methods of investigation (trividha-vimana)
+## Chapter 4 - The Three methods of investigation (trividha-vimana)
 
 Charaka Samhita (English translation)
 
@@ -291,7 +291,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 56. Chapter 5 - Body-channels (srotas-vimana)
+## Chapter 5 - Body-channels (srotas-vimana)
 
 Charaka Samhita (English translation)
 
@@ -431,7 +431,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 57. Chapter 6 - Nosology (roganika-vimana)
+## Chapter 6 - Nosology (roganika-vimana)
 
 Charaka Samhita (English translation)
 
@@ -547,7 +547,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 58. Chapter 7 - The Appearance of the Diseased Patient (vyadhita-rupin)
+## Chapter 7 - The Appearance of the Diseased Patient (vyadhita-rupin)
 
 Charaka Samhita (English translation)
 
@@ -685,7 +685,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 59. Sharirasthana (Sharira Sthana) — Section on Human Embodiment
+## Sharirasthana (Sharira Sthana) — Section on Human Embodiment
 
 Charaka Samhita (English translation)
 
@@ -693,11 +693,7 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Sharirasthana (Sharira Sthana) — Section on Human Embodiment
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -706,10 +702,6 @@ Sharirasthana (Sharira Sthana) — Section on Human Embodiment
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">The Treatment of Disease (roga-bhishaj-jiti-vimana): Charaka Samhita Complete Translation Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

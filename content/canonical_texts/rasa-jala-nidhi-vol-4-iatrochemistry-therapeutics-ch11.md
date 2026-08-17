@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (114): Jvara-nrisimha rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 152. Treatment for fever (114): Jvara-nrisimha rasa
+## Treatment for fever (114): Jvara-nrisimha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (114): Jvara-nrisimha rasa’ included in 
 
 ---
 
-## 153. Treatment for fever (115): Kasturi-bhusana rasa
+## Treatment for fever (115): Kasturi-bhusana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (115): Kasturi-bhusana rasa’ included in
 
 ---
 
-## 154. Treatment for fever (116): Suvarnadi rasa
+## Treatment for fever (116): Suvarnadi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (116): Suvarnadi rasa’ included in Bhude
 
 ---
 
-## 155. Treatment for fever (118): Girisha-karuna rasa
+## Treatment for fever (118): Girisha-karuna rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for fever (118): Girisha-karuna rasa’ included in 
 
 ---
 
-## 156. Treatment for fever (119): Sharvari-ballava rasa
+## Treatment for fever (119): Sharvari-ballava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for fever (119): Sharvari-ballava rasa’ included i
 
 ---
 
-## 157. Treatment for fever (120): Vomiting in visama-jvara
+## Treatment for fever (120): Vomiting in visama-jvara
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for fever (120): Vomiting in visama-jvara’ include
 
 ---
 
-## 158. Treatment for fever (117): Ksemasundara rasa.
+## Treatment for fever (117): Ksemasundara rasa.
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for fever (117): Ksemasundara rasa.’ included in B
 
 ---
 
-## 159. Treatment for fever (121): Anjana-bhairava
+## Treatment for fever (121): Anjana-bhairava
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for fever (121): Anjana-bhairava’ included in Bhud
 
 ---
 
-## 160. Treatment for fever (122): Vatapittantaka rasa
+## Treatment for fever (122): Vatapittantaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for fever (122): Vatapittantaka rasa’ included in 
 
 ---
 
-## 161. Treatment for fever (123): Jvara-kunjara-parindra rasa
+## Treatment for fever (123): Jvara-kunjara-parindra rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for fever (123): Jvara-kunjara-parindra rasa’ incl
 
 ---
 
-## 162. Treatment for fever (124): Tryahikari rasa
+## Treatment for fever (124): Tryahikari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for fever (124): Tryahikari rasa’ included in Bhud
 
 ---
 
-## 163. Treatment for fever (125): Chaturthakari rasa
+## Treatment for fever (125): Chaturthakari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -227,7 +227,7 @@ This concludes ‘Treatment for fever (125): Chaturthakari rasa’ included in B
 
 ---
 
-## 164. Treatment for fever (127): Chandranatha rasa
+## Treatment for fever (127): Chandranatha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Treatment for fever (127): Chandranatha rasa’ included in Bh
 
 ---
 
-## 165. Treatment for fever (128): Parna-khandeshvara rasa
+## Treatment for fever (128): Parna-khandeshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -263,7 +263,7 @@ This concludes ‘Treatment for fever (128): Parna-khandeshvara rasa’ included
 
 ---
 
-## 166. Treatment for fever (129): Rasaraja rasa
+## Treatment for fever (129): Rasaraja rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -281,8 +281,6 @@ This concludes ‘Treatment for fever (129): Rasaraja rasa’ included in Bhudeb
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -290,10 +288,6 @@ This concludes ‘Treatment for fever (129): Rasaraja rasa’ included in Bhudeb
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (130): Jvarari rasa: Rasa Jala Nidhi Volume 4 Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

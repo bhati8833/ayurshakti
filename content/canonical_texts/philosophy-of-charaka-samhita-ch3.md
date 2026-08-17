@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Substance (dravya) [in Charaka philosophy] within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Substance (dravya) [in Charaka philosophy]
+## Substance (dravya) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -49,157 +49,242 @@ In spite of the basic differences between Caraka and Suśruta with regard to “
 
 Caraka enumerates nine substances namely, ākāśa, air (vāyuḥ), fire (agni), water (ap) earth (pṛthivī), self (ātmā), mind (manas), time (kāla), and space (dik).[34] This classification is also akin to the classification in the Vaiśeṣika philosophy.[35] Almost all except the Bhāṭṭamīmāṃsakas do accept this classification.[36] These substances are heterogeneous in sense. Among these nine substances the first five namely, ākāśa, air, fire, water and earth form one group and are called physical or material substances (bhūtas). The remaining four are non-material substances. The material substances constitute the physical world. Among the non-material substances mind and self are differentiated from the rest and Caraka calles them spiritual substances (adhyātmadravyas).[37] Mind represents the psychological world and self represents the spiritual world. Thus, the schemata of substance reveal the physical, the psychological, and the spiritual world and also the space time continuum.
 
-[1]:
 
-BWT, p. 89.
+<div className="footnote-card"><strong>[1]</strong> BWT, p. 89.</div>
 
-[2]:
 
-See A. Quinton, The Nature of Things, London, 1973, p.1. Quoted from Ibid., p. 89.
 
-[3]:
 
-FM, Contents - I. p. 199.
+<div className="footnote-card"><strong>[2]</strong> See A. Quinton, The Nature of Things, London, 1973, p.1. Quoted from Ibid., p. 89.</div>
 
-[4]:
 
-“In Aristotle (Metaphysics z, vii) this essence becomes more than just the matter, but a unity of matter and form”. Simon Blackburn, The Oxford Dictionary of Philosophy, Oxford University Press, London, 1994, p. 366.
 
-[5]:
 
-See also “Substance and Attribute”, P. Edward, ed., Encyclopedia of Philosophy, by Vol. 8, art. “Substance and attribute”, cited in BWT, pp. 89-90.
+<div className="footnote-card"><strong>[3]</strong> FM, Contents - I. p. 199.</div>
 
-[6]:
 
-Lexicon Universal Encyclopedia, Lexicon Publication, Inc, New York, N. Y., Delux Home edn., 1990, Vol. XVIII, p. 377 “In philosophy substance is the primary being of things, or that which underlies changes of quality”. The Encyclopedia Americana, Grolier Incorporated, Connecticut, International edn. 2001, Vol. XXV, p. 828.
 
-[7]:
 
-BWT, p. 90.
+<div className="footnote-card"><strong>[4]</strong> “In Aristotle (Metaphysics z, vii) this essence becomes more than just the matter, but a unity of matter and form”. Simon Blackburn, The Oxford Dictionary of Philosophy, Oxford University Press, London, 1994, p. 366.</div>
 
-[8]:
 
-droḍhuṃ guṇakarmādibhirāśritatvena prāptuṃ yogyamityarthe “aco yat” (Aṣṭādhyāyī-sūtrapāṭha of Pāṇini..3-1-61) iti sūtreṇa kṛtyapratyayena niṣpanno'yam dravyaśabdaḥ pṛthivyādi dravya vācako bhavati. Pāṇinīyavyākaraṇaśāstre Vaiśeṣikatattvamīmāṃsā, Dr. Ramsharan Sastri, Delhi, 1976, p.7.
 
-[9]:
 
-“cādayo'satve” Aṣṭādhyāyī-sūtrapāṭha of Pāṇini.. I. iv.57. Patañjali interprets the word sattva in the sūtra as “ayaṃ sattvaśabdḥ - astyeva dravyapadārthakaḥ.......asti kriyā- padārthaḥ, sadbhāvaḥ sattvamiti. kasyedaṃ grahaṇaṃ? dravyapadārthakaḥ”. Vyākaraṇamahābhāṣya of Patañjali., Vol. II, I. iv. 4, p. 282; “sattvamiti dravyamucyate”, KV (on Aṣṭādhyāyī-sūtrapāṭha of Pāṇini.. I. iv, 57), Vol. I, p. 77.
+<div className="footnote-card"><strong>[5]</strong> See also “Substance and Attribute”, P. Edward, ed., Encyclopedia of Philosophy, by Vol. 8, art. “Substance and attribute”, cited in BWT, pp. 89-90.</div>
 
-[10]:
 
-“adhikaraṇavicāle ca” Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., V. iii. 43; dravyaṃ hi loke "adhikaraṇaṃ' ityucyate, Vyākaraṇamahābhāṣya of Patañjali., Vol. II, II. i. 1, p. 344; “adhikaraṇaṃ dravyaṃ” KV (on Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., V. iii. 43), Vol. II, p. 83.
 
-[11]:
 
-kiṃ punaradravyaṃ? ke punarguṇaḥ? śabdasparśarūparasgandhā guṇaḥ, tato'nyat dravyaṃ. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V. i. 2, p. 297.
+<div className="footnote-card"><strong>[6]</strong> Lexicon Universal Encyclopedia, Lexicon Publication, Inc, New York, N. Y., Delux Home edn., 1990, Vol. XVIII, p. 377 “In philosophy substance is the primary being of things, or that which underlies changes of quality”. The Encyclopedia Americana, Grolier Incorporated, Connecticut, International edn. 2001, Vol. XXV, p. 828.</div>
 
-[12]:
 
-anvarthaṃ khalu nirvacanaṃ - "guṇasandrāvo dravyaṃ'. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V. i. 2, p. 299. see infra, F. Notes, 85, p. 94.
 
-[13]:
 
-sandrūyate-saṅgamyate-āśrīyate iti sandrāvaḥ. "samiyadruduvaḥ' iti ghañ. guṇānāmāśrayo dravyamityarthaḥ. Bhāṣyapradīpa, Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V.i.2, p. 299; evañca "guṇasamūho dravyamiti patañjaliḥ' iti yogabhāṣyeṇa na virodha iti mañjūṣāyāṃ nirūpitaṃ, Pradīpapradyota, Ibid.
+<div className="footnote-card"><strong>[7]</strong> BWT, p. 90.</div>
 
-[14]:
 
-guṇāṇamāsayo davvaṃ, egdavvasiya guṇā, larakaṇaṃ pajjavāṇaṃ tu ubhau assiya bhave. US, 28. 6, p. 713.
 
-[15]:
 
-dhammo, adhammo, āgāsam, kalo, puggala, jantavoes logutti pannatto jṇohi varadaṃsihi, Ibid., 28.7, p.714.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> droḍhuṃ guṇakarmādibhirāśritatvena prāptuṃ yogyamityarthe “aco yat” (Aṣṭādhyāyī-sūtrapāṭha of Pāṇini..3-1-61) iti sūtreṇa kṛtyapratyayena niṣpanno'yam dravyaśabdaḥ pṛthivyādi dravya vācako bhavati. Pāṇinīyavyākaraṇaśāstre Vaiśeṣikatattvamīmāṃsā, Dr. Ramsharan Sastri, Delhi, 1976, p.7.
+</blockquote>
 
-[16]:
 
-sāṃkhyayogdarśanayorguṇasamūho dravyaṃ, Dr. Ramsaran Sastri, Pāṇinīya Vyākaraṇa-sūtre Vaiśeṣikatattvamīmāṃsa, Delhi, 1976, p. 1.
 
-[17]:
 
-Vijñānabhikśu uses the word guṇa in the sense of “strand”: “guṇaśabdaḥ puruṣopakaraṇatvāt puruṣapaśubandhakatriguṇātmakamahadādirajjunirmātṛtvācca prayujyate”. Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 38. It is also designated by the Sanskrit terms “māyā” and prakṛti. “māyā abdena ca prakrḥtirevocyate. māyāṃ tu prakrḥtiṃ vidyāditi (śve. U. 2/10) śrutau,.......kiñcāvidyāyā dravyatve śabdamātrabhedo, guṇatve ca tadādhāratayā prakṛtisiddhiḥ”. Ibid (on Sāṃkhya-sūtra,. I. 69), pp. 47-48.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> “cādayo'satve” Aṣṭādhyāyī-sūtrapāṭha of Pāṇini.. I. iv.57. Patañjali interprets the word sattva in the sūtra as “ayaṃ sattvaśabdḥ - astyeva dravyapadārthakaḥ.......asti kriyā- padārthaḥ, sadbhāvaḥ sattvamiti. kasyedaṃ grahaṇaṃ? dravyapadārthakaḥ”. Vyākaraṇamahābhāṣya of Patañjali., Vol. II, I. iv. 4, p. 282; “sattvamiti dravyamucyate”, KV (on Aṣṭādhyāyī-sūtrapāṭha of Pāṇini.. I. iv, 57), Vol. I, p. 77.
+</blockquote>
 
-[18]:
 
-sāmānyaviśeṣasamudāyo'tra dravyaṃ, YD, pp. 365-66.
 
-[19]:
 
-“In the Buddhists view, the mango is nothing but an aggragate of qualia and actions (guṇakarmasamudāya)”. CIPM, p. 81; Notes,TSA, 78.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “adhikaraṇavicāle ca” Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., V. iii. 43; dravyaṃ hi loke "adhikaraṇaṃ' ityucyate, Vyākaraṇamahābhāṣya of Patañjali., Vol. II, II. i. 1, p. 344; “adhikaraṇaṃ dravyaṃ” KV (on Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., V. iii. 43), Vol. II, p. 83.
+</blockquote>
 
-[20]:
 
-Ibid.
 
-[21]:
 
-kriyāguṇavān samavāyikāraṇaṃiti dravyalakṣaṇaṃ, Vaiśeṣikadarśana., I. i. 15.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> kiṃ punaradravyaṃ? ke punarguṇaḥ? śabdasparśarūparasgandhā guṇaḥ, tato'nyat dravyaṃ. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V. i. 2, p. 297.
+</blockquote>
 
-[22]:
 
-Vaiśeṣikadarśana., I. i.5.
 
-[23]:
 
-BWT, p. 90.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> anvarthaṃ khalu nirvacanaṃ - "guṇasandrāvo dravyaṃ'. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V. i. 2, p. 299. see infra, F. Notes, 85, p. 94.
+</blockquote>
 
-[24]:
 
-yatrāśritāḥ karmaguṇāḥ kāraṇaṃ samavāyi yat tat dravyaṃ. CS, Su, I. 50.
 
-[25]:
 
-See Cakrāpaṇi on ibid., p. 13.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> sandrūyate-saṅgamyate-āśrīyate iti sandrāvaḥ. "samiyadruduvaḥ' iti ghañ. guṇānāmāśrayo dravyamityarthaḥ. Bhāṣyapradīpa, Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V.i.2, p. 299; evañca "guṇasamūho dravyamiti patañjaliḥ' iti yogabhāṣyeṇa na virodha iti mañjūṣāyāṃ nirūpitaṃ, Pradīpapradyota, Ibid.
+</blockquote>
 
-[26]:
 
-dravyatvajātimatvaṃ guṇavatvaṃ vā dravyalakṣaṇaṃ, TSA, p. 4. The term kriyāvatva can also be added to it.
 
-[27]:
 
-utpannaṃ dravyaṃ kṣaṇamaguṇamakriyaṃ ca tiṣṭati is an axiom of the Nyāya- Vaiśeṣika. They hold this axiom because if the qualities are supposed to be produced simultaneously with production of the substances then all distinctions between qualities and actions with substance will disappear.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> guṇāṇamāsayo davvaṃ, egdavvasiya guṇā, larakaṇaṃ pajjavāṇaṃ tu ubhau assiya bhave. US, 28. 6, p. 713.
+</blockquote>
 
-[28]:
 
-guṇasamānādhikaraṇasattābhinnajātimatvasya vivakṣtatvāt. TSA, p.4. kāryasamavāyikāraṇatāvacchedakatayā, saṃyogasya, vibhāgasya, vā samavāyikāraṇatāvacchedakatayā, dravyatvajātisiddiḥ. NSMK, p.
 
-[29]:
 
-TSA, notes, p. 77.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> dhammo, adhammo, āgāsam, kalo, puggala, jantavoes logutti pannatto jṇohi varadaṃsihi, Ibid., 28.7, p.714.
+</blockquote>
 
-[30]:
 
-dravyalakṣaṇaṃ tu kriyāguṇavat samavāyikāraṇaṃ iti. Suśrutasaṃhitā of Suśruta., Su, 40, 3.
 
-[31]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> sāṃkhyayogdarśanayorguṇasamūho dravyaṃ, Dr. Ramsaran Sastri, Pāṇinīya Vyākaraṇa-sūtre Vaiśeṣikatattvamīmāṃsa, Delhi, 1976, p. 1.
+</blockquote>
 
-[32]:
 
-dravyamāśrayalākṣaṇaṃ pañcānāṃ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., I.166, p. 60.
 
-[33]:
 
-dravyarasaguṇavīryavipākakarmāṇyanayormūlaṃ. Ibid., I. 4. p. 8. Even though rasa is a ramification of quality, it is because of its specific importance in therapeutics it is treated as a separate division.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Vijñānabhikśu uses the word guṇa in the sense of “strand”: “guṇaśabdaḥ puruṣopakaraṇatvāt puruṣapaśubandhakatriguṇātmakamahadādirajjunirmātṛtvācca prayujyate”. Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 38. It is also designated by the Sanskrit terms “māyā” and prakṛti. “māyā abdena ca prakrḥtirevocyate. māyāṃ tu prakrḥtiṃ vidyāditi (śve. U. 2/10) śrutau,.......kiñcāvidyāyā dravyatve śabdamātrabhedo, guṇatve ca tadādhāratayā prakṛtisiddhiḥ”. Ibid (on Sāṃkhya-sūtra,. I. 69), pp. 47-48.
+</blockquote>
 
-[34]:
 
-khādīnyātma manaḥ kālo diśaśca dravyasaṃgrahaḥ, CS, Su, I. 48. ākāśa is sometimes translated as ether. But the latter was introduced by some physicists as the medium of light. The translation as ether is avoided since ākāśa is not a medium of light.
 
-[35]:
 
-Vaiśeṣikadarśana., I. i. 5.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> sāmānyaviśeṣasamudāyo'tra dravyaṃ, YD, pp. 365-66.
+</blockquote>
 
-[36]:
 
-The Bhāṭṭamīṃāṃsakas accept darkness as an additional substance. Madhavācārya, the author of Sarvadarśanaṃgraha mentions that a section of Prābhākaramīmāṃsakas and Srīdharācārya, the author of Nyāyakandalī also accept this view, TSA, notes, p. 79.
 
-[37]:
 
-CS, Su, VIII. 13.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> “In the Buddhists view, the mango is nothing but an aggragate of qualia and actions (guṇakarmasamudāya)”. CIPM, p. 81; Notes,TSA, 78.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> kriyāguṇavān samavāyikāraṇaṃiti dravyalakṣaṇaṃ, Vaiśeṣikadarśana., I. i. 15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Vaiśeṣikadarśana., I. i.5.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> BWT, p. 90.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> yatrāśritāḥ karmaguṇāḥ kāraṇaṃ samavāyi yat tat dravyaṃ. CS, Su, I. 50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> See Cakrāpaṇi on ibid., p. 13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> dravyatvajātimatvaṃ guṇavatvaṃ vā dravyalakṣaṇaṃ, TSA, p. 4. The term kriyāvatva can also be added to it.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> utpannaṃ dravyaṃ kṣaṇamaguṇamakriyaṃ ca tiṣṭati is an axiom of the Nyāya- Vaiśeṣika. They hold this axiom because if the qualities are supposed to be produced simultaneously with production of the substances then all distinctions between qualities and actions with substance will disappear.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> guṇasamānādhikaraṇasattābhinnajātimatvasya vivakṣtatvāt. TSA, p.4. kāryasamavāyikāraṇatāvacchedakatayā, saṃyogasya, vibhāgasya, vā samavāyikāraṇatāvacchedakatayā, dravyatvajātisiddiḥ. NSMK, p.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> TSA, notes, p. 77.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> dravyalakṣaṇaṃ tu kriyāguṇavat samavāyikāraṇaṃ iti. Suśrutasaṃhitā of Suśruta., Su, 40, 3.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> dravyamāśrayalākṣaṇaṃ pañcānāṃ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., I.166, p. 60.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> dravyarasaguṇavīryavipākakarmāṇyanayormūlaṃ. Ibid., I. 4. p. 8. Even though rasa is a ramification of quality, it is because of its specific importance in therapeutics it is treated as a separate division.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> khādīnyātma manaḥ kālo diśaśca dravyasaṃgrahaḥ, CS, Su, I. 48. ākāśa is sometimes translated as ether. But the latter was introduced by some physicists as the medium of light. The translation as ether is avoided since ākāśa is not a medium of light.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Vaiśeṣikadarśana., I. i. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> The Bhāṭṭamīṃāṃsakas accept darkness as an additional substance. Madhavācārya, the author of Sarvadarśanaṃgraha mentions that a section of Prābhākaramīmāṃsakas and Srīdharācārya, the author of Nyāyakandalī also accept this view, TSA, notes, p. 79.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> CS, Su, VIII. 13.</div>
 
 ---
 
-## 12. The importance of the philosophy of Carakasaṃhitā
+## The importance of the philosophy of Carakasaṃhitā
 
 Philosophy of Charaka-samhita
 
@@ -225,29 +310,38 @@ The discussion of the methodology of thought and expression is also significant.
 
 Thus, Carakasaṃhitā is not a treatise on an incoherent area of unconnected discipline which deals with the morbid science of disease in the Western style. On the other hand, it is a complete book which contains deliberations and insightful knowledge of the complex man and his environment for health and human perfection. Caraka construes man as a somatic being and spiritual being. Philosophical abstractions and scientific observations are found interlocked. In brief it is a synthesis of the subjective and the objective, the two cornerstones of epistemology. Hence the philosophical speculations of Carakasaṃhitā are of prime importance.
 
-[1]:
 
-hetulingauṣadhjñānaṃ svasthāturaparāyaṇaṃ trisūtraṃ śāśvataṃ puṇyaṃ bubudhe yaṃ pitāmahaḥ, CS, Su, I. 24.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> hetulingauṣadhjñānaṃ svasthāturaparāyaṇaṃ trisūtraṃ śāśvataṃ puṇyaṃ bubudhe yaṃ pitāmahaḥ, CS, Su, I. 24.
+</blockquote>
 
-[2]:
 
-CS Su, I. 28—29.
 
-[3]:
 
-tasyopayogo'bhihitaścikitsāṃprati sarvadā bhūtebhyo hi paraṃ yasmānnāsti cintā cikitsite, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 13.
+<div className="footnote-card"><strong>[2]</strong> CS Su, I. 28—29.</div>
 
-[4]:
 
-yadihāsti tadanyatra yannehāsti na tatkvacit, CS, Siddhi-sthāna, XII. 54.
 
-[5]:
 
-R.C. Pradhan, “Structure of Philosophical Knowledge: In Defence of the Metaphysics of First Principles”, HSPCIC, Vol. XI, Part—I, p. 276.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> tasyopayogo'bhihitaścikitsāṃprati sarvadā bhūtebhyo hi paraṃ yasmānnāsti cintā cikitsite, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> yadihāsti tadanyatra yannehāsti na tatkvacit, CS, Siddhi-sthāna, XII. 54.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> R.C. Pradhan, “Structure of Philosophical Knowledge: In Defence of the Metaphysics of First Principles”, HSPCIC, Vol. XI, Part—I, p. 276.</div>
 
 ---
 
-## 13. Attribute (guṇa) [in Charaka philosophy]
+## Attribute (guṇa) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -275,117 +369,190 @@ From the above description, it can be concluded that the definition of attribute
 
 Later on, Praśastapāda defines attribute thus: qualities like colour are those which are endowed with the universal attributeness (guṇatva), exists in substances, and are devoid of further attributes and motion.[22] For Sivāditya, attribute is that which possesses attributeness.[23] Again, it is said that being endowed with the universal it is devoid of motion and is not a substantial cause.[24] Keśavamiśra who expresses more or less the same idea, makes it clear that guṇa is only an efficient cause (asamavāyikāraṇa).[25] Annabhaṃbhaṭṭa defines it thus: attribute is that which possesses universal and at the same time different from substances and motion, or it is that which possesses attributeness.[26] From the point of view of the Mīmāṃsakas, attribute is that which is distinct from motion, has subgenises and is excluded from the substantial causes (upādānakāraṇa).[27]
 
-[1]:
 
-Attribute, quality, characteristics, and property are synonyms, See Webster’s Encyclpedic Unabridged Dictionay of the English Language, New York, p. 96, 1175. The term quality narrows down the scope of guṇa. “A quality denotes what a thing really is in some one respect; an attribute is what we conceive a thing to be in one respect; while attribute may, quality must express something of the real nature of that to which it is ascribed”. Standard Comprehensive International Dictionary, Illinois, 1973, p. 94. See also EIPK, Vol. II, p. 112; ENVC, pp. 132-133.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Attribute, quality, characteristics, and property are synonyms, See Webster’s Encyclpedic Unabridged Dictionay of the English Language, New York, p. 96, 1175. The term quality narrows down the scope of guṇa. “A quality denotes what a thing really is in some one respect; an attribute is what we conceive a thing to be in one respect; while attribute may, quality must express something of the real nature of that to which it is ascribed”. Standard Comprehensive International Dictionary, Illinois, 1973, p. 94. See also EIPK, Vol. II, p. 112; ENVC, pp. 132-133.
+</blockquote>
 
-[2]:
 
-yadhā guṇo guṇamanvasyati, evameva talloke lokamanvasyati, dhṛtyā, aśithilaṃbhāvāya. Taittirīya- Kṛśṇa-Yajuḥ-Saṃhitā, with Mādhava's Vedārthaprakāśa, Bibliolitheca Indica, Asiatic Society of Bengal, Culcutta, 1899, VII, ii. 4. 2, Vol. VI, p. 247. Patañjali also refer to the meaning of strand for guṇa.
 
-[3]:
 
-Loc, cit., F. Note, 59.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> yadhā guṇo guṇamanvasyati, evameva talloke lokamanvasyati, dhṛtyā, aśithilaṃbhāvāya. Taittirīya- Kṛśṇa-Yajuḥ-Saṃhitā, with Mādhava's Vedārthaprakāśa, Bibliolitheca Indica, Asiatic Society of Bengal, Culcutta, 1899, VII, ii. 4. 2, Vol. VI, p. 247. Patañjali also refer to the meaning of strand for guṇa.
+</blockquote>
 
-[4]:
 
-“ākāśaguṇaḥ śabdaḥ ākāśādvāyurdviguṇaḥ sparśena vāyorjyotistriguṇaṃ rūpeṇa  jyotiṣa āpaśaturguṇā rasenādbhyaḥ pṛthivī pañcaguṇā gandhena pṛthivyāḥ bhūtagrāmasthāvara-jaṇgamāḥ...” “Pariśiṣṭa”, 2, Nirukta, p. 148.
 
-[5]:
 
-“voto guṇavacanāt, Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., IV. i. 44; sattvaṃ dravyaṃ samavāyikāraṇaṃ tatraiva niveśite samavaiti yaḥ sa guṇa ityanvayaḥ”. Bālamanoramā on ibid., Strīpratyayaprakaraṇa, Vaiyākaraṇasiddhāntakaumudī of Bhaṭṭojidīkṣita.,Vol. I, p. 559.
+<div className="footnote-card"><strong>[3]</strong> Loc, cit., F. Note, 59.</div>
 
-[6]:
 
-guṇaśabdo'yaṃ bahvarthaḥ. Astyeva sameṣvavayaveṣu vartate. tadyatha-dviguṇā rajjuḥ, triguṇā rajjuriti........... asti saṃskāro vartate. tadyathā - saṃskṛtamannaṃ guṇavadityucyate. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V. i. 2, p. 299; “ke punarguṇāḥ? śabdasparśarūparasagandhā guṇā”, see also Ibid., p. 297. Ibid., Vol. II, I. ii. 3, pp. 98-99.
 
-[7]:
 
-satve niveśite'paiti pṛthagjātiṣu dṛśyate ādheyaścākriyaśca so'sattvaprakṛtirguṇaḥ. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, IV. i. 2, p. 62.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> “ākāśaguṇaḥ śabdaḥ ākāśādvāyurdviguṇaḥ sparśena vāyorjyotistriguṇaṃ rūpeṇa  jyotiṣa āpaśaturguṇā rasenādbhyaḥ pṛthivī pañcaguṇā gandhena pṛthivyāḥ bhūtagrāmasthāvara-jaṇgamāḥ...” “Pariśiṣṭa”, 2, Nirukta, p. 148.
+</blockquote>
 
-[8]:
 
-dravyāśrayyaguṇavān saṃyogavibhāgeṣvakāraṇamanapekṣa iti guṇalakśaṇaṃ. Vaiśeṣikadarśana., I. i. 16.
 
-[9]:
 
-“.....guṇāśca guṇāntaraṃ”, Ibid., I. i. 10.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “voto guṇavacanāt, Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., IV. i. 44; sattvaṃ dravyaṃ samavāyikāraṇaṃ tatraiva niveśite samavaiti yaḥ sa guṇa ityanvayaḥ”. Bālamanoramā on ibid., Strīpratyayaprakaraṇa, Vaiyākaraṇasiddhāntakaumudī of Bhaṭṭojidīkṣita.,Vol. I, p. 559.
+</blockquote>
 
-[10]:
 
-See Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 47.
 
-[11]:
 
-saṃyogasyaikasya saṃyogajanakatve guṇāśca guṇāntaramārabhanta iti sūtravirodhaḥ? na sūtrārthāparijñānāt guṇānāmapi.... tadaśrutavyākhyātṛṇāṃ prakṛṣṭadhīyāmeva nirvahati nāsmākaṃ, Nyāyakandali, Praśastapādabhāṣya., p. 352.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> guṇaśabdo'yaṃ bahvarthaḥ. Astyeva sameṣvavayaveṣu vartate. tadyatha-dviguṇā rajjuḥ, triguṇā rajjuriti........... asti saṃskāro vartate. tadyathā - saṃskṛtamannaṃ guṇavadityucyate. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, V. i. 2, p. 299; “ke punarguṇāḥ? śabdasparśarūparasagandhā guṇā”, see also Ibid., p. 297. Ibid., Vol. II, I. ii. 3, pp. 98-99.
+</blockquote>
 
-[12]:
 
-samavāyī tu nśceśṭaḥ kāraṇaṃ guṇaḥ. CS, Su, I. 51.
 
-[13]:
 
-See Cakrapāṇi on Ibid.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> satve niveśite'paiti pṛthagjātiṣu dṛśyate ādheyaścākriyaśca so'sattvaprakṛtirguṇaḥ. Vyākaraṇamahābhāṣya of Patañjali., Vol. IV, IV. i. 2, p. 62.
+</blockquote>
 
-[14]:
 
-This interpretation is in consonance with the Nyāya - Vaiśeṣika. Viśvanātha has pointed out that dimension of paramāṇus and ubiquitous substances, unperceivable universal and particularity as entities devoid of causality. (“aṇuparimāṇaṃtu na kasyāpi kāraṇaṃ.... evaṃ paramamahatparimāṇamatīndriyasāmānyaṃ viśeśāca bodhyāḥ”.) NSMK, pp. 74 - 76. It has been pointed out by Śaṅkaramiśra that attributes of final aggregates are not causes. See Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 47.
 
-[15]:
 
-See Cakrapāṇi on CS, Su, I. 51.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> dravyāśrayyaguṇavān saṃyogavibhāgeṣvakāraṇamanapekṣa iti guṇalakśaṇaṃ. Vaiśeṣikadarśana., I. i. 16.
+</blockquote>
 
-[16]:
 
-Ibid.
 
-[17]:
 
-Mānameyodaya of Nārāyaṇa., p. 268.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> “.....guṇāśca guṇāntaraṃ”, Ibid., I. i. 10.
+</blockquote>
 
-[18]:
 
-For instance see CS, Su, XXVI. 73-79.
 
-[19]:
 
-guṇā guaśrayā noktāstasmādrasaguṇān bhiṣak vidyādravyaguṇān karturabhiprāyāḥ pṛthagvidhāḥ. CS, Su, XXVI. 36.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> See Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 47.
+</blockquote>
 
-[20]:
 
-“bhrāntaṃ tat”, Vaiśeṣikadarśana., VII, ii. 4. 5. see also Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 400 - 401 ekārthasamavāyādeva tādṛśavyavahāropapattau guṇe guṅānaṅgīkārāt. TSA, p. 4. Thus, the idea implied in Caraka’s articulation recalls the expression "aguṇaṃ' in Kaṇādas definition.
 
-[21]:
 
-Kaṇāda had set the condition “saṃyogavibhāgeṣva-kāraṇamanapekṣa” to exclude motion which becomes an independent cause to conjunction and disjunction. For details see HSPCIC, Vol. II, 4, p.30. Similarly Carak has set the condition “one without motion” (niśceśṭa) to exclude motion. See supra, p. 39.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> saṃyogasyaikasya saṃyogajanakatve guṇāśca guṇāntaramārabhanta iti sūtravirodhaḥ? na sūtrārthāparijñānāt guṇānāmapi.... tadaśrutavyākhyātṛṇāṃ prakṛṣṭadhīyāmeva nirvahati nāsmākaṃ, Nyāyakandali, Praśastapādabhāṣya., p. 352.
+</blockquote>
 
-[22]:
 
-rūpādīnāṃ guṇānāṃ sarveṣāṃ guṇtvābhisaṃbandho dravyāśritatvaṃ nirguṇatvaṃ niṣkriyatvaṃ. Praśastapādabhāṣya., p. 227.
 
-[23]:
 
-guṇatvajātiyogī guṇaḥ, Saptapadārthi of Śivāditya., p. 48.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> samavāyī tu nśceśṭaḥ kāraṇaṃ guṇaḥ. CS, Su, I. 51.
+</blockquote>
 
-[24]:
 
-jātimatve acalanātmakatve sati samavāyikāraṇarahitaśceti, ibid.
 
-[25]:
 
-sāmānyavān asamavāyikāraṇaṃ aspandātmā guṇaḥ, Tarkabhāṣa of Keśavamiśra.., p. 191. In the text, instead of aspandātmā it is printed spandātmā. However it is a discrepancy.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> See Cakrapāṇi on Ibid.
+</blockquote>
 
-[26]:
 
-dravyakarmabhinnatve sati sāmānyavān guṇaḥ guṇatvajātimān vā. TSA, p. 5.
 
-[27]:
 
-karmaṇo vyatiriktatve satyāvāntarajātimān upādānatvanirmukto guṇo guṇavidāṃ mataḥ. Mānameyodaya of Nārāyaṇa., p. 244.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> This interpretation is in consonance with the Nyāya - Vaiśeṣika. Viśvanātha has pointed out that dimension of paramāṇus and ubiquitous substances, unperceivable universal and particularity as entities devoid of causality. (“aṇuparimāṇaṃtu na kasyāpi kāraṇaṃ.... evaṃ paramamahatparimāṇamatīndriyasāmānyaṃ viśeśāca bodhyāḥ”.) NSMK, pp. 74 - 76. It has been pointed out by Śaṅkaramiśra that attributes of final aggregates are not causes. See Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 47.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> See Cakrapāṇi on CS, Su, I. 51.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Mānameyodaya of Nārāyaṇa., p. 268.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> For instance see CS, Su, XXVI. 73-79.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> guṇā guaśrayā noktāstasmādrasaguṇān bhiṣak vidyādravyaguṇān karturabhiprāyāḥ pṛthagvidhāḥ. CS, Su, XXVI. 36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> “bhrāntaṃ tat”, Vaiśeṣikadarśana., VII, ii. 4. 5. see also Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 400 - 401 ekārthasamavāyādeva tādṛśavyavahāropapattau guṇe guṅānaṅgīkārāt. TSA, p. 4. Thus, the idea implied in Caraka’s articulation recalls the expression "aguṇaṃ' in Kaṇādas definition.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Kaṇāda had set the condition “saṃyogavibhāgeṣva-kāraṇamanapekṣa” to exclude motion which becomes an independent cause to conjunction and disjunction. For details see HSPCIC, Vol. II, 4, p.30. Similarly Carak has set the condition “one without motion” (niśceśṭa) to exclude motion. See supra, p. 39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> rūpādīnāṃ guṇānāṃ sarveṣāṃ guṇtvābhisaṃbandho dravyāśritatvaṃ nirguṇatvaṃ niṣkriyatvaṃ. Praśastapādabhāṣya., p. 227.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> guṇatvajātiyogī guṇaḥ, Saptapadārthi of Śivāditya., p. 48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> jātimatve acalanātmakatve sati samavāyikāraṇarahitaśceti, ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> sāmānyavān asamavāyikāraṇaṃ aspandātmā guṇaḥ, Tarkabhāṣa of Keśavamiśra.., p. 191. In the text, instead of aspandātmā it is printed spandātmā. However it is a discrepancy.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> dravyakarmabhinnatve sati sāmānyavān guṇaḥ guṇatvajātimān vā. TSA, p. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> karmaṇo vyatiriktatve satyāvāntarajātimān upādānatvanirmukto guṇo guṇavidāṃ mataḥ. Mānameyodaya of Nārāyaṇa., p. 244.
+</blockquote>
 
 ---
 
-## 14. Specific attributes (vaiśeṣika-guṇas)
+## Specific attributes (vaiśeṣika-guṇas)
 
 Philosophy of Charaka-samhita
 
@@ -421,145 +588,237 @@ Smell, touch, and sound are the qualities which are apprehended by their respect
 
 One of the most important things to be noted in this connection is that Caraka makes use of the theory of paka which is responsible for change in colour, taste, smell, and touch in ephemeral substances.[33] But he does not postulate a theory on it. It is in the Nyāya-Vaiśeṣikas that we meet with such a theory. Accordingly, the specific qualities, namely, colour, taste, smell, and touch inhering in earth are ephemeral and can sometimes be changed by the application of heat. There is a sharp difference of view in this matter between the Vaiśeṣikas and the Naiyāyikas. The Vaiśeṣikas, who hold the theory of pīlupāka, believe that the change of qualities are affected in the paramāṇus which form the parts of the whole like a jar, in accordance with the application of external heat. Naiyāyikas, who hold the theory of piṭharapāka, argue that the change takes place in the whole, that is, in the jar itself.[34]
 
-[1]:
 
-Ibid., VIII. 11.
+<div className="footnote-card"><strong>[1]</strong> Ibid., VIII. 11.</div>
 
-[2]:
 
-“arthāḥ śabdādayo jñeyāḥ gocarāḥ viṣayāḥ guṇaḥ”. CS, Śārīra - sthāna, I. 31.
 
-[3]:
 
-“artha iti dravyaguṇakarmasu”, Vaiśeṣikadarśana., VIII. ii. 3. For details see CSP, p. 37.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “arthāḥ śabdādayo jñeyāḥ gocarāḥ viṣayāḥ guṇaḥ”. CS, Śārīra - sthāna, I. 31.
+</blockquote>
 
-[4]:
 
-ete ca vaiśeṣikāḥ; yataḥ ākaśasyaiva śabdaḥ prādhānyena, vāyoreva sparśaḥ prādhānyena evamagnyādiṣu rūpādayḥ, Cakrapāṇi on CS, Su, I. 49.
 
-[5]:
 
-“śabdasparśarūparasagandhā bāhyekaikendriyagrāhyaguṇāḥ”, Praśastapādabhāṣya., p. 231.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “artha iti dravyaguṇakarmasu”, Vaiśeṣikadarśana., VIII. ii. 3. For details see CSP, p. 37.
+</blockquote>
 
-[6]:
 
-Mānameyodaya of Nārāyaṇa., pp. 245-46.
 
-[7]:
 
-Praśastapādabhāṣya., p. 230; budhyādiṣaḍkaṃ..... amī vaiśeṣiko guṇāḥ, NSMK, p. 370
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> ete ca vaiśeṣikāḥ; yataḥ ākaśasyaiva śabdaḥ prādhānyena, vāyoreva sparśaḥ prādhānyena evamagnyādiṣu rūpādayḥ, Cakrapāṇi on CS, Su, I. 49.
+</blockquote>
 
-[8]:
 
-TSA, p. 14; Tarkabhāṣa of Keśavamiśra., pp. 191-92.
 
-[9]:
 
-ṣaḍeva rasā ityuvāca bhagavānātreyaḥ punarvasuḥ madhrāmlalavaṇakaṭutiktakaṣāyāḥ, CS, SU, XXVI. 9.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “śabdasparśarūparasagandhā bāhyekaikendriyagrāhyaguṇāḥ”, Praśastapādabhāṣya., p. 231.
+</blockquote>
 
-[10]:
 
-Suśrutasaṃhitā of Suśruta., Su, xlii, 3.
 
-[11]:
 
-Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 14.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Mānameyodaya of Nārāyaṇa., pp. 245-46.
+</blockquote>
 
-[12]:
 
-Praśastapādabhāṣya., p. 254; Saptapadārthi of Śivāditya.. 26. Mānameyodaya of Nārāyaṇa., p. 245.
 
-[13]:
 
-Mānameyodaya of Nārāyaṇa., P. 245.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Praśastapādabhāṣya., p. 230; budhyādiṣaḍkaṃ..... amī vaiśeṣiko guṇāḥ, NSMK, p. 370
+</blockquote>
 
-[14]:
 
-madhuro lavaṇastiktaḥ kaṣāyo'mlaḥ katustathā eṣa ṣadvidhavistāro vārimayaḥ smṛtaḥ, Mahābhārata., Mokṣa, 177, 30.
 
-[15]:
 
-see infra, p. 122. gandhrūpasparśaśabdaguṇāḥ pṛthivyaptejovāyvākāśānāṃ, pūrvaḥ pūrvo pakṛṣyate, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., II. 40. guṇāḥ pūrvasya pūrvasya prāpnuvantyuttarottaraṃ. Mahābhārata., Mokṣa, 224. 39.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> TSA, p. 14; Tarkabhāṣa of Keśavamiśra., pp. 191-92.
+</blockquote>
 
-[16]:
 
-rasanārtho rasastasya dravyamāpaḥ kṣtistathā, CS, Su, I. 64.
 
-[17]:
 
-teṣāṃ ṣaṇṇāṃ rasānāṃ yonirudakaṃ, CS, Su, XXVI. 9.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> ṣaḍeva rasā ityuvāca bhagavānātreyaḥ punarvasuḥ madhrāmlalavaṇakaṭutiktakaṣāyāḥ, CS, SU, XXVI. 9.
+</blockquote>
 
-[18]:
 
-“.....tasmādāpyo rasaḥ”, Suśrutasaṃhitā of Suśruta., Su, xlii. 3.
 
-[19]:
 
-kṣitistvapāmeva rasena nityānuṣaktena rasvatītyucyate, Cakrapāṇi on CS, Su, I. 64.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśrutasaṃhitā of Suśruta., Su, xlii, 3.
+</blockquote>
 
-[20]:
 
-Loc. cit. F. Note,132.
 
-[21]:
 
-pañcamahābhūtavikarastvāśrayāḥ prakṛtivikṛtivicāradeśakālavaśāḥ, CS, Su, XXVI. 9.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 14.
+</blockquote>
 
-[22]:
 
-kṣārameke saptamaṃ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III. 3.
 
-[23]:
 
-kṣaraṇāt kṣāraḥ, nāsau rasaḥ,. CS, Su, XXVI. 9. See also Cakrapanion Ibid.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Praśastapādabhāṣya., p. 254; Saptapadārthi of Śivāditya.. 26. Mānameyodaya of Nārāyaṇa., p. 245.
+</blockquote>
 
-[24]:
 
-avyaktamaṣtamamityeke, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III, 4.
 
-[25]:
 
-avyaktībhāvastu khalu rasānāṃ prakṛtau bhavatyanurase anurasasamanvaye vā dravye, CS, Su, XXVI, 9.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Mānameyodaya of Nārāyaṇa., P. 245.
+</blockquote>
 
-[26]:
 
-CS, Su, XXVI, 40; Suśrutasaṃhitā of Suśruta., Su, xlii. 3; Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III. 38-43. “kṣmāṃbhognikṣmāṃbutejaḥ..... bhūtairmadhurādirasodbhavaḥ”. Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, X.1.
 
-[27]:
 
-Praśastapādabhāṣya., p. 254; TSA, p.15; Sivādityaya adds one more: citrarasa. Saptapadārthi of Śivāditya., p. 46.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> madhuro lavaṇastiktaḥ kaṣāyo'mlaḥ katustathā eṣa ṣadvidhavistāro vārimayaḥ smṛtaḥ, Mahābhārata., Mokṣa, 177, 30.
+</blockquote>
 
-[28]:
 
-Praśastapādabhāṣya., p. 255, TSA, p. 16.
 
-[29]:
 
-Mānameyodaya of Nārāyaṇa., p. 245.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> see infra, p. 122. gandhrūpasparśaśabdaguṇāḥ pṛthivyaptejovāyvākāśānāṃ, pūrvaḥ pūrvo pakṛṣyate, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., II. 40. guṇāḥ pūrvasya pūrvasya prāpnuvantyuttarottaraṃ. Mahābhārata., Mokṣa, 224. 39.
+</blockquote>
 
-[30]:
 
-Praśastapādabhāṣya., p. 256; Saptapadārthi of Śivāditya., p. 27; TSA, p. 16.
 
-[31]:
 
-TSA, p. 16.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> rasanārtho rasastasya dravyamāpaḥ kṣtistathā, CS, Su, I. 64.
+</blockquote>
 
-[32]:
 
-Mānameyodaya of Nārāyaṇa., p. 246.
 
-[33]:
 
-Pāka is the application of external heat which effects a change of colour, taste, smell and touch in earth. “pāko nāma vijātīyatejasaṃyogaḥ”, TSA, p. 17.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> teṣāṃ ṣaṇṇāṃ rasānāṃ yonirudakaṃ, CS, Su, XXVI. 9.
+</blockquote>
 
-[34]:
 
-For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also the notes on it, pp.156 - 159.
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> “.....tasmādāpyo rasaḥ”, Suśrutasaṃhitā of Suśruta., Su, xlii. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> kṣitistvapāmeva rasena nityānuṣaktena rasvatītyucyate, Cakrapāṇi on CS, Su, I. 64.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Loc. cit. F. Note,132.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> pañcamahābhūtavikarastvāśrayāḥ prakṛtivikṛtivicāradeśakālavaśāḥ, CS, Su, XXVI. 9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> kṣārameke saptamaṃ, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> kṣaraṇāt kṣāraḥ, nāsau rasaḥ,. CS, Su, XXVI. 9. See also Cakrapanion Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> avyaktamaṣtamamityeke, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III, 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> avyaktībhāvastu khalu rasānāṃ prakṛtau bhavatyanurase anurasasamanvaye vā dravye, CS, Su, XXVI, 9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> CS, Su, XXVI, 40; Suśrutasaṃhitā of Suśruta., Su, xlii. 3; Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., III. 38-43. “kṣmāṃbhognikṣmāṃbutejaḥ..... bhūtairmadhurādirasodbhavaḥ”. Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, X.1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Praśastapādabhāṣya., p. 254; TSA, p.15; Sivādityaya adds one more: citrarasa. Saptapadārthi of Śivāditya., p. 46.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Praśastapādabhāṣya., p. 255, TSA, p. 16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Mānameyodaya of Nārāyaṇa., p. 245.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Praśastapādabhāṣya., p. 256; Saptapadārthi of Śivāditya., p. 27; TSA, p. 16.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> TSA, p. 16.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Mānameyodaya of Nārāyaṇa., p. 246.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Pāka is the application of external heat which effects a change of colour, taste, smell and touch in earth. “pāko nāma vijātīyatejasaṃyogaḥ”, TSA, p. 17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also the notes on it, pp.156 - 159.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -568,10 +827,6 @@ For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also t
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Enumeration of attributes (guṇa): Philosophy Of Charaka Samhita Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

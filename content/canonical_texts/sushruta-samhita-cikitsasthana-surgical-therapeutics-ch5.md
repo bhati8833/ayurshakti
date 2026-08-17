@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The diseases affecting the nervous system within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter V - The diseases affecting the nervous system
+## Chapter V - The diseases affecting the nervous system
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -195,21 +195,25 @@ Guggulu is aromatic, light, penetrating into the minutest parts of the body, sha
 
 Thus ends the fifth Chapter of the Chikitsita Sthana in the Sushruta-Samhita which deals with the medical treatment of Maha-Vata-Vyadhi.
 
-[1]:
 
-According to Jejjata Acaryya, the “Vala-Taila”, which is administered in the medical treatment of Mudha-garbha, should be prescribed in this case.
+<div className="footnote-card"><strong>[1]</strong> According to Jejjata Acaryya, the “Vala-Taila”, which is administered in the medical treatment of Mudha-garbha, should be prescribed in this case.</div>
 
-[2]:
 
-Such as sesamum, castor-seed, linseed, Vibhitaka-seeds, etc.
 
-[3]:
 
-Some say that a paste of sesamum only should be used as a separate plaster.
+<div className="footnote-card"><strong>[2]</strong> Such as sesamum, castor-seed, linseed, Vibhitaka-seeds, etc.</div>
 
-[4]:
 
-D. R.—Sweet, bitter, and astringent drugs.
+
+
+<div className="footnote-card"><strong>[3]</strong> Some say that a paste of sesamum only should be used as a separate plaster.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> D. R.—Sweet, bitter, and astringent drugs.</div>
+
+
 
 Bitter drugs—Patoladi group;
 
@@ -217,81 +221,93 @@ Kashaya drugs—Triphaladi group;
 
 Sweet drugs—Kakolyadi group,
 
-[5]:
 
-Flour of barley or fried grain, dissolved in water, is known as Tarpana.
+<div className="footnote-card"><strong>[5]</strong> Flour of barley or fried grain, dissolved in water, is known as Tarpana.</div>
 
-[6]:
 
-The dosage should begin originally with five or ten Pippalis according to the strength of the patient.
 
-[7]:
 
-Maharshi Charaka mentions this Yoga in the chapter on Rasayana and prescribes it also in the treatement of Udara. Chakradatta mentions the use of this medicine in the treatment of liver and spleen and of fever.
+<div className="footnote-card"><strong>[6]</strong> The dosage should begin originally with five or ten Pippalis according to the strength of the patient.</div>
 
-[8]:
 
-Milk four times of oil should be taken.
 
-[9]:
 
-The “Vala-Taila” described in the medical treatment of Mudha- garbha, ch. XV.
+<div className="footnote-card"><strong>[7]</strong> Maharshi Charaka mentions this Yoga in the chapter on Rasayana and prescribes it also in the treatement of Udara. Chakradatta mentions the use of this medicine in the treatment of liver and spleen and of fever.</div>
 
-[10]:
 
-In the case of Vata-roga with preponderant Pitta, the patient should take the food with milk; in the preponderance of Vayu, with the soup of Jangala meat; and in the preponderance of Kapha, with Mudga-soup, devoid of any acid combination.
 
-[11]:
 
-In the case of Vata-roga, with a preponderance of Pitta, the patient should take his food with milk; in the preponderance of Vayu, with the soup of Jangala meat; and in the preponderance of Kapha, with Mudga- soup, devoid of any acid combination.
+<div className="footnote-card"><strong>[8]</strong> Milk four times of oil should be taken.</div>
 
-[12]:
 
-In the preponderance of Kapha, emetics should be employed; in the preponderance of Pitta, purgatives should be given; and in the preponderance of Vayu, Anuvasana and asthapana measures should be resorted to.
 
-[13]:
 
-According to Jejjata, “Panca-Vargam” means the flesh of the five kinds of Anupa animals, vis., Kulacara, Plava, Koshastha, Padin and Matsya (fishes).
+<div className="footnote-card"><strong>[9]</strong> The “Vala-Taila” described in the medical treatment of Mudha- garbha, ch. XV.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> In the case of Vata-roga with preponderant Pitta, the patient should take the food with milk; in the preponderance of Vayu, with the soup of Jangala meat; and in the preponderance of Kapha, with Mudga-soup, devoid of any acid combination.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> In the case of Vata-roga, with a preponderance of Pitta, the patient should take his food with milk; in the preponderance of Vayu, with the soup of Jangala meat; and in the preponderance of Kapha, with Mudga- soup, devoid of any acid combination.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> In the preponderance of Kapha, emetics should be employed; in the preponderance of Pitta, purgatives should be given; and in the preponderance of Vayu, Anuvasana and asthapana measures should be resorted to.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> According to Jejjata, “Panca-Vargam” means the flesh of the five kinds of Anupa animals, vis., Kulacara, Plava, Koshastha, Padin and Matsya (fishes).</div>
+
+
 
 The reading here is doubtful. The term “Audaka” in the compound word “Sanupaudaka-mamsam” seems to be redundant, inasmuch as “Audaka” animals are included in the “Anupa” class. (Sutra, chap. XLVI. Page 487, Vol I). In this case the word “Panca-vargam” also seems to be only an explanation of the term “Anupa” meaning the fiive kinds of Anupa flesh, and it seems to have surreptitiously crept into the body of the text from the marginal notes of some authoritative manuscript copy of the book. If, however, we are to abide by the current reading of the book, “Panca-varga” cannot mean the five kinds of flesh in the presence of the word “Audaka” mentioned separately, as Jejjata would have it. In that case it can only mean either the five groups of Panca-mulas, viz., the major Panca-mulas, the minor Panca-mulas, the Valli-Pancba-mulas, the Kantaka-Panca- mulas and the Trina-Panca-mulas. (Sutra, chap. XXXVIII, Pages 355-6, Vol. I), as some would explain it to mean. Others, however, prefer the reading as it is and explain the term “Fanca-varga” to be the five kinds of medicinal drugs mentioned before in the sentence, viz., the Valaghna drugs, Yava, Kola, Kulattha and flesh. Others, again, mean by the term “Panca-varga” the five parts, viz., leaf, fruit, flower, bark and root, of the Vataghna drugs mentioned in the sentence.
 
 We have, however, the authority of Vagbhata and Chakradatta in our side to accept the first view that the term “Audaka” is redundant, inasmuch as they have not read the word “Audaka” in their compilations.–Ed.
 
-[14]:
 
-According to Dallana, four seers of clarified butter, oil, lard and marrow (each weighing one seer), sixteen seers of Kanji, etc., sixteen seers of milk, sixteen seers of the decoction and one seer of the Kalka (paste) should be taken in its preparation. But Gayadasa is of opinion that four seers of milk should be taken instead of sixteen seers.
+<div className="footnote-card"><strong>[14]</strong> According to Dallana, four seers of clarified butter, oil, lard and marrow (each weighing one seer), sixteen seers of Kanji, etc., sixteen seers of milk, sixteen seers of the decoction and one seer of the Kalka (paste) should be taken in its preparation. But Gayadasa is of opinion that four seers of milk should be taken instead of sixteen seers.</div>
+
+
 
 Four seers of Ghrita, etc., four seers of milk, six seers of Kanji, six seers of the decoction and one seer of the Kalka (paste) are generally taken by experienced physicians in its preparation.–Ed.
 
-[15]:
 
-Vriddha Vagbhata recommends external application with these lards.
+<div className="footnote-card"><strong>[15]</strong> Vriddha Vagbhata recommends external application with these lards.</div>
 
-[16]:
 
-Chakradatta quotes this in the chapter on the treatment of colic (shula), but does not read ‘Amla-vetasa’ there.
 
-[17]:
 
-Sneha-Lavana has been described in Chap. 4. (treatment of Vata-vyadhi) para. 24.
+<div className="footnote-card"><strong>[16]</strong> Chakradatta quotes this in the chapter on the treatment of colic (shula), but does not read ‘Amla-vetasa’ there.</div>
 
-[18]:
 
-“Bhavana” consists in soaking a powder or a pulverised compound with the expressed juice or decoction of any drugs or with any liquid and in getting it dry (generally). This process should be cotinued many times (generally seven times) in succesion.
 
-[19]:
 
-Some explain that a third decoction should be that of Triphala, Darvi, Patola and Kusha grass taken together.—Dallana.
+<div className="footnote-card"><strong>[17]</strong> Sneha-Lavana has been described in Chap. 4. (treatment of Vata-vyadhi) para. 24.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> “Bhavana” consists in soaking a powder or a pulverised compound with the expressed juice or decoction of any drugs or with any liquid and in getting it dry (generally). This process should be cotinued many times (generally seven times) in succesion.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Some explain that a third decoction should be that of Triphala, Darvi, Patola and Kusha grass taken together.—Dallana.</div>
+
+
 
 The decoctions may be prepared separately with Triphala, Darvi, Patola and Kusha.—Ed.
 
-[20]:
 
-Some read “Kshira” (milk) in the place of “Kshara” (alkali).
+<div className="footnote-card"><strong>[20]</strong> Some read “Kshira” (milk) in the place of “Kshara” (alkali).</div>
 
 ---
-
-
 
 ---
 
@@ -300,10 +316,6 @@ Some read “Kshira” (milk) in the place of “Kshara” (alkali).
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of wounds or sores: Sushruta Samhita Cikitsasthana Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

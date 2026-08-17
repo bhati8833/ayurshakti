@@ -11,10 +11,8 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on # 2. How does Ashtanga Hridaya differ from Charaka Samhita and Sushruta Samhita? within Ashtanga Hridaya Samhita Sanskrit. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-### 2. How does Ashtanga Hridaya differ from Charaka Samhita and Sushruta Samhita?
+### How does Ashtanga Hridaya differ from Charaka Samhita and Sushruta Samhita?
 While Charaka Samhita emphasizes internal medicine and philosophy, and Sushruta Samhita focuses heavily on surgery and anatomy, Ashtanga Hridaya integrates both disciplines into a concise, highly practical, and poetic handbook consisting of 7,120 verses.
-
-
 
 ---
 
@@ -23,10 +21,6 @@ While Charaka Samhita emphasizes internal medicine and philosophy, and Sushruta 
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit-ch16" className="text-emerald-400 hover:underline flex items-center font-medium"># 3. What does "Ashtanga" mean in Ayurveda?: Ashtanga Hridaya Samhita Sanskrit Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms and Treatment of Hiccough (Hicca) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 54. Chapter L - Symptoms and Treatment of Hiccough (Hicca)
+## Chapter L - Symptoms and Treatment of Hiccough (Hicca)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -91,37 +91,54 @@ Purgatives as well as potions of tepid clarified butter mixed with Saindhava- sa
 
 Thus ends the fiftieth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of hiccough.
 
-[1]:
 
-By the word “Mula” (i.e., root) of the Jatru (clavicles) Gayadāśa understands the regions of the heart, Kloma, throat, etc.—Dallana.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> By the word “Mula” (i.e., root) of the Jatru (clavicles) Gayadāśa understands the regions of the heart, Kloma, throat, etc.—Dallana.
+</blockquote>
 
-[2]:
 
-Tepid milk, tepid clarified butter and expressed juice of sugar-cane are also separately used as snuff.
 
-[3]:
 
-Śvāvidh and Śallaki are the two different kinds of porcupine.
+<div className="footnote-card"><strong>[2]</strong> Tepid milk, tepid clarified butter and expressed juice of sugar-cane are also separately used as snuff.</div>
 
-[4]:
 
-Some render “śuṇṭhītoya” as the decoction of Śunthi.
 
-[5]:
 
-Puti-kīta is a kind of bad-smelling worm appearing generally during the rainy season.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Śvāvidh and Śallaki are the two different kinds of porcupine.
+</blockquote>
 
-[6]:
 
-Some read “hiṅgvañca”(?) (Hingu and lotus) in place of “hiṅgvambu” | In both cases, however, “bhāvita” means simply ‘mixed’.
 
-[7]:
 
-According to Vrinda and Cakrapāni lambatives should be prepared with these drugs. According to some, the decoction should be used.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Some render “śuṇṭhītoya” as the decoction of Śunthi.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Puti-kīta is a kind of bad-smelling worm appearing generally during the rainy season.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Some read “hiṅgvañca”(?) (Hingu and lotus) in place of “hiṅgvambu” | In both cases, however, “bhāvita” means simply ‘mixed’.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> According to Vrinda and Cakrapāni lambatives should be prepared with these drugs. According to some, the decoction should be used.
+</blockquote>
 
 ---
 
-## 55. Chapter XL - Symptoms and treatment of Diarrhea (Atisara)
+## Chapter XL - Symptoms and treatment of Diarrhea (Atisara)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -401,37 +418,52 @@ Appropriate emetics and purgatives should be exhibted (for cleansing the upper a
 
 Thus ends the fortieth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms) and medical treatment of Atisara.
 
-[1]:
 
-We have the recipe of this Ghrita in Charaka Samhitā also. But there we find Kshārā in place of Kshira and that appears to be the better reading. See Chapter XIX,—under Cāngeri Ghrita, Charaka Samhitā.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> We have the recipe of this Ghrita in Charaka Samhitā also. But there we find Kshārā in place of Kshira and that appears to be the better reading. See Chapter XIX,—under Cāngeri Ghrita, Charaka Samhitā.
+</blockquote>
 
-[2]:
 
-Powders of Śālmali stem should be kept immersed for whole night in an equal quantity of water. In the morning the water should be passed through a piece of linen. Four-Pala-weight of this water mixed with a Karsha weight of Yashti-madhu and honey should be taken.
 
-[3]:
 
-D. R.—When the stool would harden “saktaviṭ”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Powders of Śālmali stem should be kept immersed for whole night in an equal quantity of water. In the morning the water should be passed through a piece of linen. Four-Pala-weight of this water mixed with a Karsha weight of Yashti-madhu and honey should be taken.
+</blockquote>
 
-[4]:
 
-According to some variants this compound should be taken thrice daily.
 
-[5]:
 
-In place of “kupya”—Kupya (any metal other than gold and silver) some read “kurpa”—Kurpa which is explained to mean a kind of stone.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> D. R.—When the stool would harden “saktaviṭ”
+</blockquote>
 
-[6]:
 
-The printed edition of Dallana’s commentary says that these are the symptoms of cases of aggravated Atisāra.
 
-[7]:
 
-The use of “api” in the text shows, say the commentators, that Grahani is possible even without a previous attack of Atisāra.
+<div className="footnote-card"><strong>[4]</strong> According to some variants this compound should be taken thrice daily.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> In place of “kupya”—Kupya (any metal other than gold and silver) some read “kurpa”—Kurpa which is explained to mean a kind of stone.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The printed edition of Dallana’s commentary says that these are the symptoms of cases of aggravated Atisāra.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The use of “api” in the text shows, say the commentators, that Grahani is possible even without a previous attack of Atisāra.
+</blockquote>
 
 ---
 
-## 56. Chapter LI - Symptoms and Treatment of Asthma (Shvasa)
+## Chapter LI - Symptoms and Treatment of Asthma (Shvasa)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -547,37 +579,50 @@ Irresistible is an attack of asthma like that of a fire fed with heaps of fuel (
 
 Thus ends the fifty-first chapter in the Uttara-Tantra of the Sushruta-Samhita which deals with the (symptoms and) treatment of asthma.
 
-[1]:
 
-Some prescribe the Kalkas to be taken in the ordinary way and say that the dose would be one Kola weight.
+<div className="footnote-card"><strong>[1]</strong> Some prescribe the Kalkas to be taken in the ordinary way and say that the dose would be one Kola weight.</div>
 
-[2]:
 
-Some editors add this sentence after the next (Tālisādi) Ghrita.
 
-[3]:
 
-Vāsā-Ghrita is mentioned in the treatment ‘of Rakta-pitta (Ch. XLV, 20, Uttara-Tantra). It should be prescribed in cases of asthma when Pitta predominates.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Some editors add this sentence after the next (Tālisādi) Ghrita.
+</blockquote>
 
-[4]:
 
-Shatpala-Ghrita is mentioned in the treatment of Vāta-Vyādhi. It should be prescribed if Vāyu prevail.
 
-[5]:
 
-Maghadhikā and Kanā arc synonyms and mean Pippali. Some, therefore, prescribe two parts of Pippali in the compound. Others prescribe one part of Pippali, and one of Gaja-pippali.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Vāsā-Ghrita is mentioned in the treatment ‘of Rakta-pitta (Ch. XLV, 20, Uttara-Tantra). It should be prescribed in cases of asthma when Pitta predominates.
+</blockquote>
 
-[6]:
 
-The skin of the deer should be burnt in a covered earthen pitcher and the black contents should be used.
 
-[7]:
 
-We do not know what ‘Tala-kīta’ is. Some printed editions read “Talpa-kīla” which would evidently mean a “bug”. Dallana is silent on the point.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Shatpala-Ghrita is mentioned in the treatment of Vāta-Vyādhi. It should be prescribed if Vāyu prevail.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Maghadhikā and Kanā arc synonyms and mean Pippali. Some, therefore, prescribe two parts of Pippali in the compound. Others prescribe one part of Pippali, and one of Gaja-pippali.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> The skin of the deer should be burnt in a covered earthen pitcher and the black contents should be used.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> We do not know what ‘Tala-kīta’ is. Some printed editions read “Talpa-kīla” which would evidently mean a “bug”. Dallana is silent on the point.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -586,10 +631,6 @@ We do not know what ‘Tala-kīta’ is. Some printed editions read “Talpa-kī
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms and Treatment of Cough (Kasa): Sushruta Samhita Uttara Tantra Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

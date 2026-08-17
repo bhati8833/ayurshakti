@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of fractures-dislocations within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Chapter XV - Diagnosis of fractures-dislocations
+## Chapter XV - Diagnosis of fractures-dislocations
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -43,27 +43,7 @@ In case of a friction of a joint by two articular extremeties (Utplishta) a swel
 
 Now we shall describe the Kanda-Bhagna (fracture etc.). Fractures may be divided into twelve different kinds which are known as,
 
-Karkataka,
-
-Ashvakarna,
-
-Churnita,
-
-Piccita,
-
-Asthi-chalita,
-
-Kanda-bhagna,
-
-Majjagata,
-
-Atipatita,
-
-Vakra,
-
-Chinna,
-
-Patita
+Karkataka,, Ashvakarna,, Churnita,, Piccita,, Asthi-chalita,, Kanda-bhagna,, Majjagata,, Atipatita,, Vakra,, Chinna,, Patita
 
 and Sphutita. 6.
 
@@ -91,17 +71,15 @@ A bending of a gristle or cartilage (Taruna) is called its fracture. A Nalaka (l
 
 Thus ends the fifteenth Chapter of the Nidana Sthana in the Sushruta samhita which treats of the Nidana of dislocations and fractures.
 
-[1]:
 
-The word Adito may be taken into the sense of congenital malformation which is beyond remedy.
+<div className="footnote-card"><strong>[1]</strong> The word Adito may be taken into the sense of congenital malformation which is beyond remedy.</div>
 
-[2]:
 
-The presence of the particle ‘ca’ denotes Valya-asthi.
+
+
+<div className="footnote-card"><strong>[2]</strong> The presence of the particle ‘ca’ denotes Valya-asthi.</div>
 
 ---
-
-
 
 ---
 
@@ -110,10 +88,6 @@ The presence of the particle ‘ca’ denotes Valya-asthi.
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of minor diseases: Sushruta Samhita Nidanasthana Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

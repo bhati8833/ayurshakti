@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 10. Concept of Dravya in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. 10. Concept of Dravya in Ayurveda
+## 10. Concept of Dravya in Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -37,8 +37,6 @@ diet that one is accustomed to take, and those that are conducive to one's well 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ diet that one is accustomed to take, and those that are conducive to one's well 
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch45" className="text-emerald-400 hover:underline flex items-center font-medium">13. Concept of Sukha (happiness) and Dukha (misery): Influence Of Nyaya Vaisesika On Ayurveda Chapter 45 →</a>
 </div>
-
-
-
-
 
 ---
 

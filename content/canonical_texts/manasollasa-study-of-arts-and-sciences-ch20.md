@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Mathematics in Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 44. 3. Mathematics in Manasollasa
+## 3. Mathematics in Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -41,7 +41,7 @@ the following table. Number 38 305 No. of Zeros after the number One Name of the
 
 ---
 
-## 45. 3. Art in Vastuvidya or Architecture
+## 3. Art in Vastuvidya or Architecture
 
 Manasollasa (study of Arts and Sciences)
 
@@ -95,8 +95,6 @@ Sarvatobhadra. Nandyavarta. Vardhamana. Svastika. Rucika.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -104,10 +102,6 @@ Sarvatobhadra. Nandyavarta. Vardhamana. Svastika. Rucika.
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">4. Ancient Indian sciences and medieval Europe: Manasollasa Study Of Arts And Sciences Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

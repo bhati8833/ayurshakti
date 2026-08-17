@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Surgery in the Puranas within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. 7. Surgery in the Puranas
+## 7. Surgery in the Puranas
 
 Surgery in ancient India (Study)
 
@@ -23,7 +23,7 @@ Our puranas give us a lot of information about surgery which is found in Itihasa
 
 ---
 
-## 27. 9. Surgery in the Bhoja Prabandha
+## 9. Surgery in the Bhoja Prabandha
 
 Surgery in ancient India (Study)
 
@@ -35,7 +35,7 @@ SURGERY IN BHOJA PRABANDHA There is the description of king Bhojas suffering fro
 
 ---
 
-## 28. 11. Jumara Jivaka and Surgery
+## 11. Jumara Jivaka and Surgery
 
 Surgery in ancient India (Study)
 
@@ -49,8 +49,6 @@ Devadatta became the master of Ajatasatru, the Magadha king who destroyed the re
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -58,10 +56,6 @@ Devadatta became the master of Ajatasatru, the Magadha king who destroyed the re
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">8. Surgery in the Venisamhara: Ancient Indian Surgical Science Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

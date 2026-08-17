@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatments of fractures and dislocations within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Chapter III - The medical treatments of fractures and dislocations
+## Chapter III - The medical treatments of fractures and dislocations
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -89,61 +89,69 @@ A physician should exert his utmost to guard against the advent of any suppurati
 
 Thus ends the third Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of fractures and dislocations.
 
-[1]:
 
-Jejjata does not read the first verse, but Gayi does.
+<div className="footnote-card"><strong>[1]</strong> Jejjata does not read the first verse, but Gayi does.</div>
 
-[2]:
 
-As a general rule, milk should not be prescribed to a patient suffering from an ulcer (Vrana) in general; but a case of fracture forms an exception thereto. Some authorities hold that tepid milk may be given to a fracture-patient, if there be no ulcer (Vrana). Others, on the contrary, are of opinion that milk should not, in any case, be given to a fracture-patient for fear of suppuration and the setting in of pus.
+
+
+<div className="footnote-card"><strong>[2]</strong> As a general rule, milk should not be prescribed to a patient suffering from an ulcer (Vrana) in general; but a case of fracture forms an exception thereto. Some authorities hold that tepid milk may be given to a fracture-patient, if there be no ulcer (Vrana). Others, on the contrary, are of opinion that milk should not, in any case, be given to a fracture-patient for fear of suppuration and the setting in of pus.</div>
+
+
 
 Others, however, take “Kshira-sarpih” to be a compound word and explain the term to mean the clarified butter prepared from milk (as distinguished from that prepared from curd).
 
 But experience tells us that in cases of excessive weakness or emaciation, milk may be given without any hesitation—Ed.
 
-[3]:
 
-In winter and where the aching pain is present due to Vayu and Kapha.
+<div className="footnote-card"><strong>[3]</strong> In winter and where the aching pain is present due to Vayu and Kapha.</div>
 
-[4]:
 
-Consisting of the drugs of the Kakolyadi group weighing two Tolas, milk sixteen Tolas, water sixty-four Tolas, boiled together with the water entirely evaporated.
 
-[5]:
 
-In the Nidana-Sthana—Chap. XV., 9—it is stated that a case of fracture in the Kati should be given up (Varjjayet). Jejjata, however, explains “Varjjayet” as “hard to cure.”
+<div className="footnote-card"><strong>[4]</strong> Consisting of the drugs of the Kakolyadi group weighing two Tolas, milk sixteen Tolas, water sixty-four Tolas, boiled together with the water entirely evaporated.</div>
 
-[6]:
 
-The text has “Ubhe tale same kritva.” Jejjata explains “Ubhe tale” to mean “palms of the hands and soles of the feet;” Gaya Dasa explains it to mean “the palms of both the hands.”
 
-[7]:
 
-According to Gayi, the lifting up of the head by putting fingers in the Avatu and in the Hanus should be made in cases of bending and intussusception of the neck respectively.
+<div className="footnote-card"><strong>[5]</strong> In the Nidana-Sthana—Chap. XV., 9—it is stated that a case of fracture in the Kati should be given up (Varjjayet). Jejjata, however, explains “Varjjayet” as “hard to cure.”</div>
 
-[8]:
 
-Honey, clarified butter, and drugs of the Nyagrodhadi group.
 
-[9]:
 
-In the case of such an emission or oozing out a plug of bristles or hair as described in the preceding chapter and remedial agents laid down in connection therewith, should be used.
+<div className="footnote-card"><strong>[6]</strong> The text has “Ubhe tale same kritva.” Jejjata explains “Ubhe tale” to mean “palms of the hands and soles of the feet;” Gaya Dasa explains it to mean “the palms of both the hands.”</div>
 
-[10]:
 
-The principle of splintering and bandaging may be profitably compared with those followed in Agnur’s splint.
 
-[11]:
 
-According to Jejjata, not only Anuvasana-enematas but potions of clarified butter and errhines also should be prescribed in cases of fractures in the extremeties.
+<div className="footnote-card"><strong>[7]</strong> According to Gayi, the lifting up of the head by putting fingers in the Avatu and in the Hanus should be made in cases of bending and intussusception of the neck respectively.</div>
 
-[12]:
 
-There should be three parts of sesamum powder and one part of the powders of Kakolyadi, Yashti-madhu, Manjishtha, etc. (combined). But Shiva Dasa says that four parts of sesamum-powders should be taken.
+
+
+<div className="footnote-card"><strong>[8]</strong> Honey, clarified butter, and drugs of the Nyagrodhadi group.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> In the case of such an emission or oozing out a plug of bristles or hair as described in the preceding chapter and remedial agents laid down in connection therewith, should be used.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> The principle of splintering and bandaging may be profitably compared with those followed in Agnur’s splint.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> According to Jejjata, not only Anuvasana-enematas but potions of clarified butter and errhines also should be prescribed in cases of fractures in the extremeties.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> There should be three parts of sesamum powder and one part of the powders of Kakolyadi, Yashti-madhu, Manjishtha, etc. (combined). But Shiva Dasa says that four parts of sesamum-powders should be taken.</div>
 
 ---
-
-
 
 ---
 
@@ -152,10 +160,6 @@ There should be three parts of sesamum powder and one part of the powders of Kak
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of nervous disorders: Sushruta Samhita Cikitsasthana Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

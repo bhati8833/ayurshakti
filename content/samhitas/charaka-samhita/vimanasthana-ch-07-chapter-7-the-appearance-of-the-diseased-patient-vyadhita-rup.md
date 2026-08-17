@@ -64,7 +64,11 @@ The Varieties of Parasites
 
 10. The excretion is external and internal. Those which are produced in external excretion are said to be born of excretion. Their cause is lack of cleanliness. Their habitat is the hair on the head, face body, eye-lashes and clothes. Their form is minute, Til-shaped and multipedal. Their color is black or white. Their names are ‘lice’ and ‘nits.’ Their effect is the causing of itching and production of wheals and pimples on the body. Their treatment consists in their removal together with the removal of the dirt on the body and in the avoidance of conditions leading to the formation of excretion.
 
+
+<blockquote className="ayur-shloka">
 11. The cause of the blood-born parasites, indeed, is similar to that causing dermatosis, Their habitat is blood-carrying vessel. Their form is minute, round, having no pedicle, some being too minute to be visible to the naked eye. Their color is coppery red. Their names are Keshada [Keśāda], Lomada [Lomāda], Lomadvipa [Lomadvīpa], Saurasa, Audumbara [Auḍumbara] and Jantumatara [Jantumātara]. Their effects are the destruction of the hair on the head, face and body, and of the nails and eye-lashes and when infesting the wound, they cause hyper esthesia, itching, pricking pain, creepy sensation, and when extensively developed they eat up the skin, vessels, muscles, flesh and cartilages. Their treatment is similar to that of dermatosis, which will be expounded in the subsequent chapters.
+</blockquote>
+
 
 12-(l). Those born of Kapha are caused by milk, gur, til, fishes, flesh of wet-land animals, pasted articles of diet, milk pudding, oil of safflower (Kusumbha), eating pre-digestion meals, taking putrid and softened, promiscuous, antagonistic and unwholesome diet. Their habitat is the stomach, When fully grown they migrate upwards or downwards or both ways.
 
@@ -72,7 +76,11 @@ The Varieties of Parasites
 
 13-(1). The worms born of the feces have the same causation as those born of Kapha. Their habitat is the colon. When they are fully grown, they migrate downwards, and if they then migrate towards the stomach, eructation and breath of the man give out the fecal smell.
 
+
+<blockquote className="ayur-shloka">
 13-(2). Their characteristic form and color are: some are minute, cylindrical and whitish, long, like a fibre of wool in appearance. Some are large, cylindrical, dusty, blue, green or yellow. Their names are Kakeruka, Makeruka, Leliha, Sashulaka [Saśūlaka], Sausurada [Sausurāda].
+</blockquote>
+
 
 13. Their effects are: looseness of stools, emaciation, roughness and the manifestation of horripilation. They inhabit the anal region, and causing constant irritation in the anal orifice, give rise to pruritus; and when hyperactive they often come, out of the rectum. These are the characteristic causes of worms born of the Kapha and the feces.
 
@@ -90,7 +98,11 @@ Treatment in brief, of Diseases due to Parasites
 
 16. And after ascertaining that the patient has comfortably passed the previous night and the meal has been fully digested, he should be,, on that day, treated with corrective enema, emesis or purgation, if the patient has been found fit after thorough investigation of all the systems of his body.
 
+
+<blockquote className="ayur-shloka">
 17-(1) The physician should say. “Bring garden radish, white mustard, garlic, Indian beech, drumstick, seeds of drumstick, celery, ginger-grass, sal, holy basil, shrubby basil, Gandira [Gaṇḍīra], Kalamalaka [Kālamālaka], Parnasa [Parṇāsa], sneezewort anc. sweet marjoram. Bring all of these or whatever of them is available.” Then the physician should carefully examine the qualities of the drugs brought; they should be cut into small pieces, washed with water, placed in a well-cleaned vessel, and.soaked in cow’s urine diluted with half the quantity of water, and then boiled, and should be continuously stirred with a ladle; when most of the water and liquid part of the herbs have evaporated, the vessel should be removed from the fire and the decoction should be well-filtered. This decoction, while warm, mixed with oil and the paste of emetic nut, long pepper. and embelia and salted with salsoda salt, should be given to the patient systematically as corrective enema
+</blockquote>
+
 
 17. Similarly, the decoction of mudar, mudar (Catagories procera), kurchi, pigeon pea, costus and curryleaf tree, or the decoction of drumstick, tooth brush tree, coriander, kurroa and white mustard or the decoction of Emblic myrobalan ginger, turmeric and neem mixed with the pasta of emetic nut and other ingredients, should be used in corrective enema for the period of three or seven nights.
 

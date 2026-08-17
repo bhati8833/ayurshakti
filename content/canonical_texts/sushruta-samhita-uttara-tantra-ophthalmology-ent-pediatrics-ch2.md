@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Pathology of the diseases of the sclerotic coat within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Chapter IV - Pathology of the diseases of the sclerotic coat
+## Chapter IV - Pathology of the diseases of the sclerotic coat
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -37,13 +37,14 @@ The appearance of dark brown specks resembling flesh in colour or of those havin
 
 Thus ends the fourth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases of the Sceloretic region of the eye.
 
-[1]:
 
-The reading in Mādhava’s Nidāna is quite different here, and Dallana seems to support that. It is defined as the disease in which a hard speck appears like a drop of water on the white coat and looks like bell-metal in colour.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The reading in Mādhava’s Nidāna is quite different here, and Dallana seems to support that. It is defined as the disease in which a hard speck appears like a drop of water on the white coat and looks like bell-metal in colour.
+</blockquote>
 
 ---
 
-## 6. Chapter II - Pathology of the diseases of the eye-joints
+## Chapter II - Pathology of the diseases of the eye-joints
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -77,33 +78,47 @@ A small, round and copper-coloured swelling occurring at the joining of the Kris
 
 Thus ends the second chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the pathology of the diseases peculiar to the Sandhi (unions) of the eye.
 
-[1]:
 
-According to Mādhava’s reading, the swelling should be painful (satodaḥ)- There is no mention whether the pus should be dense (sāndra) or otherwise.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Mādhava’s reading, the swelling should be painful (satodaḥ)- There is no mention whether the pus should be dense (sāndra) or otherwise.
+</blockquote>
 
-[2]:
 
-The term “Dosha” here means Śleshmā, Pitta, Rakta (blood) and the concerted action of the above three Doshas. It should be noted that Vāyu is excluded from the list as it does not produce any secretion.
 
-[3]:
 
-Mādhava does not mention this (painlessness) to be a symptom.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The term “Dosha” here means Śleshmā, Pitta, Rakta (blood) and the concerted action of the above three Doshas. It should be noted that Vāyu is excluded from the list as it does not produce any secretion.
+</blockquote>
 
-[4]:
 
-According to Mādhava’s reading, the absence of pain is not a necessary concomitant in this case.
 
-[5]:
 
-According to Mādhava’s reading thinness and warmness are not essential.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Mādhava does not mention this (painlessness) to be a symptom.
+</blockquote>
 
-[6]:
 
-The difference between a case of Parvani and that of Alaji is that the swelling in a case of Parvani is smaller, and that in the Alaji is larger.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> According to Mādhava’s reading, the absence of pain is not a necessary concomitant in this case.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> According to Mādhava’s reading thinness and warmness are not essential.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> The difference between a case of Parvani and that of Alaji is that the swelling in a case of Parvani is smaller, and that in the Alaji is larger.</div>
 
 ---
 
-## 7. Chapter V - Pathology of the diseases of the black part of the eye
+## Chapter V - Pathology of the diseases of the black part of the eye
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -131,13 +146,12 @@ The appearance of a whitish milky film over the black part of the eye slowly shr
 
 Thus ends the fifth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases of the black part of the eye.
 
-[1]:
 
-According to Mādhava’s reading in his Nidāna, this disease need not necessarily result from an attack of Akshi-kopa, and there need not be an acute pain, and it would be incurable.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Mādhava’s reading in his Nidāna, this disease need not necessarily result from an attack of Akshi-kopa, and there need not be an acute pain, and it would be incurable.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -146,10 +160,6 @@ According to Mādhava’s reading in his Nidāna, this disease need not necessar
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Pathology of the diseases affecting the eyes as a whole: Sushruta Samhita Uttara Tantra Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

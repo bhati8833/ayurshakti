@@ -180,7 +180,11 @@ According to some, both the leaves and bark of the “amra” and of the “Hari
 
 The leaves and bark respectively of the Amra and the Haritaki  should be taken in the preparation. The whole stanza seems to be of faulty construction. Dallana, in his commentary, says that some read the fourth line as
 
+
+<blockquote className="ayur-shloka">
 “tailena siktaṃ kaṭuna samastamalepayedevamupaiti shantim ||”
+</blockquote>
+
 
 This seems to be a better reading. It removes the difficulty in the construction, but it omits also the word “Kilasa” from the text. This, however, is also an improvement, inasmuch as this preparation seems to be a remedy for Shvitra (which is only a variety of Kilasa) like the preceding and the following ones; and it seems unlikely that Sushruta would introduce a remedy for Kilasa in general in the special treatment of Shvitra.
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Purification of haritala within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 76. Part 2 - Purification of haritala
+## Part 2 - Purification of haritala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -57,7 +57,7 @@ This concludes ‘Purification of haritala’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 77. Part 3 - Incineration of haritala
+## Part 3 - Incineration of haritala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -149,9 +149,10 @@ Accompaniments of haritala.
 
 Incinerated haritala is to be used with the juice of amra-haridra in impurity of the blood; with purified aconite and jeera in hysteria; with samudra-phala in dropsy; with the juice of devadali in bhagandara and priyanga diseases (syphilis); with the decoction of manjista, etc.[1] in eighteen different kinds of leprosy; with triphala and sugar in jaundice; with powdered shunthi in rheumatism, with incinerated gold in raktapitta; with the juice of tanduliya in eight different kinds of fever. Such accompaniments may be devised by the physician himself in accordance with the particular requirements of the case.
 
-[1]:
 
-Manjistha, bakuchi, chakramarda, nimba, haritaki, haridra, amalaki, basa, shatabari, bala, nagabala, jastimadhu, kokilaksha seeds, patola leaves, ushira, gudachi, and rakta-chandana.
+<div className="footnote-card"><strong>[1]</strong> Manjistha, bakuchi, chakramarda, nimba, haritaki, haridra, amalaki, basa, shatabari, bala, nagabala, jastimadhu, kokilaksha seeds, patola leaves, ushira, gudachi, and rakta-chandana.</div>
+
+
 
 Conclusion:
 
@@ -159,7 +160,7 @@ This concludes ‘Incineration of haritala’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 78. Part 4 - Liquefaction of haritala
+## Part 4 - Liquefaction of haritala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -177,7 +178,7 @@ This concludes ‘Liquefaction of haritala’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 79. Part 5 - Extraction of essence from haritala
+## Part 5 - Extraction of essence from haritala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -251,7 +252,7 @@ This concludes ‘Extraction of essence from haritala’ included in Bhudeb Mook
 
 ---
 
-## 80. Part 6 - Using haritala
+## Part 6 - Using haritala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -295,8 +296,6 @@ This concludes ‘Using haritala’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -304,10 +303,6 @@ This concludes ‘Using haritala’ included in Bhudeb Mookerjee Rasa Jala Nidhi
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Transformation of base metals into gold: Rasa Jala Nidhi Volume 2 Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

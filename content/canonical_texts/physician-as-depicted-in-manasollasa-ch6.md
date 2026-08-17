@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Importance of Physician in society within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter 2 - Importance of Physician in society
+## Chapter 2 - Importance of Physician in society
 
 Physician as depicted in Manasollasa
 
@@ -53,8 +53,6 @@ The significance and relevance of Manasollasa even today have been discussed in 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ The significance and relevance of Manasollasa even today have been discussed in 
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">b - Sapta Dhatus (the seven dhatus): Physician As Depicted In Manasollasa Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Normal diet within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. Normal diet
+## Normal diet
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -25,7 +25,7 @@ considered to determine the normal diet conductive to an individual. Eventhough 
 
 ---
 
-## 14. Improper meals
+## Improper meals
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -41,7 +41,7 @@ The Kshemakutuhala enumerates following incompatible food combinations (III 39-4
 
 ---
 
-## 15. Theory of Matra (proper quantity)
+## Theory of Matra (proper quantity)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -57,8 +57,6 @@ Among the dietic rules and regimens, theory of Matra
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ Among the dietic rules and regimens, theory of Matra
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Proper time of taking food: Kshemakutuhala Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

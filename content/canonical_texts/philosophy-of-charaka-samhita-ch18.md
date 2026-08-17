@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dialectical terms (21): Excellent assertion (vākyapraśaṃsā) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 71. Dialectical terms (21): Excellent assertion (vākyapraśaṃsā)
+## Dialectical terms (21): Excellent assertion (vākyapraśaṃsā)
 
 Philosophy of Charaka-samhita
 
@@ -21,13 +21,12 @@ Dialectical terms (21): Excellent assertion (vākyapraśaṃsā)
 
 An excellent assertion (vākyapraśaṃsā) is a brilliant statement which is free from the aforesaid defects of inadequacy, redundancy, meaninglessness, incoherence, contradiction and is well expressive of the sense.[1] It is to be noted here that Akṣapāda does not refer to vākyapraśaṃsā though he deals with the four divisions of vākyadoṣas under the category nigrahasthāna.
 
-[1]:
 
-Ibid., 55.
+<div className="footnote-card"><strong>[1]</strong> Ibid., 55.</div>
 
 ---
 
-## 72. Dialectical terms (24): Illogical order (atītakāla)
+## Dialectical terms (24): Illogical order (atītakāla)
 
 Philosophy of Charaka-samhita
 
@@ -39,21 +38,28 @@ Illogical order (atītakāla) is a fallacy which occurs when something which sho
 
 The first part of the explanation given for atītakāla corresponds to a division of point of defeat (nigrahasthāna) called aprāptakāla of the Nyāyasūtra. There, it is being defined as the making of an alteration in the sequence of a syllogism.[2] The common feature in both the cases is the illogical sequence of the members of syllogism and so they cannot convey any connected meaning. Taking account of this fact, Cakrapāṇi cites an example pertaining to syllogism in which the proposition which should be said first is stated last and the conclusion which should be said last is stated first.[3] But it is to be noted that the second part of the definition given by Caraka vindicates that he does not restrict the alteration to the sequence of the members of syllogism but also to other points breaking logical sequence on occasions of points of defeat.
 
-[1]:
 
-CS, Vimāna-sthāna, VIII. 58.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Vimāna-sthāna, VIII. 58.
+</blockquote>
 
-[2]:
 
-avayavaviparyāsavacanamaprāptakālaṃ. Nyāyasūtra., V. II. 11.
 
-[3]:
 
-See Cakrapāṇi on CS,Vimāna-sthāna, VIII. 58.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> avayavaviparyāsavacanamaprāptakālaṃ. Nyāyasūtra., V. II. 11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> See Cakrapāṇi on CS,Vimāna-sthāna, VIII. 58.
+</blockquote>
 
 ---
 
-## 73. Dialectical terms (26): Resolve (parihāra)
+## Dialectical terms (26): Resolve (parihāra)
 
 Philosophy of Charaka-samhita
 
@@ -65,17 +71,19 @@ Resolve (parihāra) is the resolution given as reply to the objections raised by
 
 For instance, the following is the resolution given in reply to the objection raised against establishing that the self is eternal. “The self is eternal. It shows signs as long as it remains in the body and when it leaves the body there will be no signs in the body even if it is there. Therefore, the self is different form the body and is eternal”.[2]
 
-[1]:
 
-pariharo nama tasyaiva doṣavacanasya parihāraṇaṃ; CS,Vimāna - sthāna, VIII. 60.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> pariharo nama tasyaiva doṣavacanasya parihāraṇaṃ; CS,Vimāna - sthāna, VIII. 60.
+</blockquote>
 
-[2]:
 
-Ibid.
+
+
+<div className="footnote-card"><strong>[2]</strong> Ibid.</div>
 
 ---
 
-## 74. Dialectical terms (23): Fallacies of reason (ahetu)
+## Dialectical terms (23): Fallacies of reason (ahetu)
 
 Philosophy of Charaka-samhita
 
@@ -97,13 +105,7 @@ equalizing the proposition (varṇyasama).[5]
 
 Akṣapāda describes five fallacies of reason. They are:
 
-savyabhicāra,
-
-viruddha,
-
-prakaraṇasama,
-
-sādhyasama,
+savyabhicāra,, viruddha,, prakaraṇasama,, sādhyasama,
 
 (kālātīta).[6]
 
@@ -127,81 +129,129 @@ In Nyāyas-sūtra, saṃśayasama is regarded as a false rejoinder. There, saṃ
 
 If the example cited to confirm a major term is an unproved one and makes no difference to the major term, it is called varṇyasama. For instance, when it is stated that intellect is ephemeral like sound since intellect is untouchable like the latter, the ephemeral nature of sound remains as much in need of a proof as the intellect for its confirmation. Hence, the proposition intellect is eternal also remains unproved on the basis of the example “sound”.[17] This fallacy of reason is similar to the false rejoinder called sādhyasama of the Nyāyasūtra. Revealing this idea, Jayantabhaṭṭa describes sādhyasama as the equalising nature of the example and the major term in respect of provability.[18]
 
-[1]:
 
-hetulakṣaṇabhāvādahetavo hetusāmānyād hetuvadābhāsamānāḥ. Vātsyāyana on Nyāyasūtra., I. ii. 4;Nyāya-Bhāṣya of Vātsyāyana., p. 72.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> hetulakṣaṇabhāvādahetavo hetusāmānyād hetuvadābhāsamānāḥ. Vātsyāyana on Nyāyasūtra., I. ii. 4;Nyāya-Bhāṣya of Vātsyāyana., p. 72.
+</blockquote>
 
-[2]:
 
-anyataraliṅgadharmānuvidhānena pravartamānā ahetavaḥ santo hetuvadābhāsanta iti hetvābhāsāḥ, Nyāya-Vārttika of Udyotakāra., p. 20.
 
-[3]:
 
-anumitipratibandhakayathārthajñānaviṣayatvaṃ hetvābhāsatvaṃ. Dīpkā, TSA, p. 44.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> anyataraliṅgadharmānuvidhānena pravartamānā ahetavaḥ santo hetuvadābhāsanta iti hetvābhāsāḥ, Nyāya-Vārttika of Udyotakāra., p. 20.
+</blockquote>
 
-[4]:
 
-ahetuḥ asādhakaheturityarthaḥ, Cakrapanni on CS,Vi,VIII. 57.
 
-[5]:
 
-aheturnāma prakaraṇasamaḥ, saṃśayasamaḥ varṇyasamaśceti. CS, Vimāna-sthāna, VIII. 57.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> anumitipratibandhakayathārthajñānaviṣayatvaṃ hetvābhāsatvaṃ. Dīpkā, TSA, p. 44.
+</blockquote>
 
-[6]:
 
-Nyāyasūtra., I. ii. 4.
 
-[7]:
 
-aprasiddho'napadeśo'san sandigdhaścnānapadeśaḥ. Vaiśeṣikadarśana., III. i. 15. Praśastapāda designates anapadeśa as viruddha. See Praśastapādabhāṣya., p. 480.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> ahetuḥ asādhakaheturityarthaḥ, Cakrapanni on CS,Vi,VIII. 57.
+</blockquote>
 
-[8]:
 
-savyabhicāraviruddha satpratipakṣāsiddhabādhitaḥ pañca hetvābhāsāḥ. TSA, p. 44.
 
-[9]:
 
-savyabhicārasya hetudoṣatvādanyatra ca doṣatvāddhetumātradoṣatvābhāvācca tadhā viruddhasya cātītakālasya ca sādhāraṇadoṣa-tvat pṛthagihoktaḥ. Jalpakalpataru, CSJ, Vol. III. p.1640.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> aheturnāma prakaraṇasamaḥ, saṃśayasamaḥ varṇyasamaśceti. CS, Vimāna-sthāna, VIII. 57.
+</blockquote>
 
-[10]:
 
-atra prakaraṇasamo nāmāheturythā—anyaḥ śarīrādanyaḥ ātmā nitya iti; “............ ya eva pakṣaḥ sa eva heturiti”. CS,Vimāna - sthāna, VIII. 57.
 
-[11]:
 
-yasmāt prakāraṇacintā sa nirṇayārthamapadiṣṭaḥ prakāraṇasamaḥ, Nyāyasūtra., l. ii. 7.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Nyāyasūtra., I. ii. 4.
+</blockquote>
 
-[12]:
 
-ubhayasādharmyāt prakriyāsiddheḥ prakāraṇasamaḥ, Nyāyasūtra.,V. i. 16.
 
-[13]:
 
-Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., pp. 429-430
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> aprasiddho'napadeśo'san sandigdhaścnānapadeśaḥ. Vaiśeṣikadarśana., III. i. 15. Praśastapāda designates anapadeśa as viruddha. See Praśastapādabhāṣya., p. 480.
+</blockquote>
 
-[14]:
 
-saṃśayasamo nāmāheturya eva saṃśayahetuḥ sa eva saṃśayoccheda hetuḥ, CS, Vimāna - sthāna, VIII. 57.
 
-[15]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> savyabhicāraviruddha satpratipakṣāsiddhabādhitaḥ pañca hetvābhāsāḥ. TSA, p. 44.
+</blockquote>
 
-[16]:
 
-samanyadṛṣṭāntayoraindriyakatve samane nityānityasādharmyāt saṃśayasamaḥ, Nyāyasūtra., V. i. 14.
 
-[17]:
 
-varṇyasamo nāmāhetuḥ—yo heturvarṇyāviśiṣṭaḥ;.....asparśatvāt buddhiranityā śabdavaditi... tadubhayavarnyāviśiṣṭatvādvarṇyasamo'pyahetuḥ. CS,Vimāna - sthāna, VIII. 57.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> savyabhicārasya hetudoṣatvādanyatra ca doṣatvāddhetumātradoṣatvābhāvācca tadhā viruddhasya cātītakālasya ca sādhāraṇadoṣa-tvat pṛthagihoktaḥ. Jalpakalpataru, CSJ, Vol. III. p.1640.
+</blockquote>
 
-[18]:
 
-ubhayorapi sādhyadṛṣṭāntayoḥ sadhytvāpādanena pratyavasthānaṃ sādhyasaṃaḥ pratiṣedhaḥ, Nyāyamañjarī of Jayantabhaṭṭa., Part—II. p.1 77.
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> atra prakaraṇasamo nāmāheturythā—anyaḥ śarīrādanyaḥ ātmā nitya iti; “............ ya eva pakṣaḥ sa eva heturiti”. CS,Vimāna - sthāna, VIII. 57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> yasmāt prakāraṇacintā sa nirṇayārthamapadiṣṭaḥ prakāraṇasamaḥ, Nyāyasūtra., l. ii. 7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> ubhayasādharmyāt prakriyāsiddheḥ prakāraṇasamaḥ, Nyāyasūtra.,V. i. 16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., pp. 429-430
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> saṃśayasamo nāmāheturya eva saṃśayahetuḥ sa eva saṃśayoccheda hetuḥ, CS, Vimāna - sthāna, VIII. 57.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> samanyadṛṣṭāntayoraindriyakatve samane nityānityasādharmyāt saṃśayasamaḥ, Nyāyasūtra., V. i. 14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> varṇyasamo nāmāhetuḥ—yo heturvarṇyāviśiṣṭaḥ;.....asparśatvāt buddhiranityā śabdavaditi... tadubhayavarnyāviśiṣṭatvādvarṇyasamo'pyahetuḥ. CS,Vimāna - sthāna, VIII. 57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> ubhayorapi sādhyadṛṣṭāntayoḥ sadhytvāpādanena pratyavasthānaṃ sādhyasaṃaḥ pratiṣedhaḥ, Nyāyamañjarī of Jayantabhaṭṭa., Part—II. p.1 77.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -210,10 +260,6 @@ ubhayorapi sādhyadṛṣṭāntayoḥ sadhytvāpādanena pratyavasthānaṃ sā
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Dialectical terms (25): Criticism (upālaṃbha): Philosophy Of Charaka Samhita Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

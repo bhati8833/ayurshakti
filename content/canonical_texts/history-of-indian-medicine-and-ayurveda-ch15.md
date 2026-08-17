@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dress and Clothing within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 44. Chapter 3 - Dress and Clothing
+## Chapter 3 - Dress and Clothing
 
 History of Indian Medicine (and Ayurveda)
 
@@ -101,7 +101,7 @@ Thus it is evident that a high degree of sanitary sense was prevalent then as re
 
 ---
 
-## 45. Chapter 4 - The Use of Wine
+## Chapter 4 - The Use of Wine
 
 History of Indian Medicine (and Ayurveda)
 
@@ -169,7 +169,7 @@ Thus we may safely conclude that though the ideal of abstention from drink whs u
 
 ---
 
-## 46. Chapter 5 - The Practice of Smoking
+## Chapter 5 - The Practice of Smoking
 
 History of Indian Medicine (and Ayurveda)
 
@@ -232,8 +232,6 @@ The ancient writers have paid full attention to the method of smoking through th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -241,10 +239,6 @@ The ancient writers have paid full attention to the method of smoking through th
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Company: History Of Indian Medicine And Ayurveda Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

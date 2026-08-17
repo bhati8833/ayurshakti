@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ill-fate of Āyurveda and other sciences within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Ill-fate of Āyurveda and other sciences
+## Ill-fate of Āyurveda and other sciences
 
 Philosophy of Charaka-samhita
 
@@ -27,29 +27,34 @@ In the later period, during the colonial rule, the direct presence of the Europe
 
 Even though projects are being carried out to free ourselves from this intellectual bondage, at least some people believe that the theme of Āyurveda is not completely tenable and is not in any way considered as an authentic system of knowledge. This is because the knowledge imparted by the Western sciences is considered the most prestigious, for it is honoured for its practical utility and its usefulness in our day-to-day life. This has led to the belief that the theoretical explanations of Western sciences are factual, logical, and reliable while those of Indian sciences are illogical and dogmatic. But such notions are false and have no relevance.
 
-[1]:
 
-Ibid., 79.
+<div className="footnote-card"><strong>[1]</strong> Ibid., 79.</div>
 
-[2]:
 
-Mu. U., I, 5. See Supra, p. 2.
 
-[3]:
 
-See “adṛṣṭasya svargādeḥ śāstraikakāraṇatvaṃ”, Nyāyamañjarī of Jayantabhaṭṭa., Part--I, p. 2.
+<div className="footnote-card"><strong>[2]</strong> Mu. U., I, 5. See Supra, p. 2.</div>
 
-[4]:
 
-D.P. Chattopadhyaya, “Science as a Form of Culture”, HSPCIC, Vol. XI, Part -- 2, p. 322.
 
-[5]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> See “adṛṣṭasya svargādeḥ śāstraikakāraṇatvaṃ”, Nyāyamañjarī of Jayantabhaṭṭa., Part--I, p. 2.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> D.P. Chattopadhyaya, “Science as a Form of Culture”, HSPCIC, Vol. XI, Part -- 2, p. 322.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid.</div>
 
 ---
 
-## 8. Comprehensiveness of philosophical consciousness
+## Comprehensiveness of philosophical consciousness
 
 Philosophy of Charaka-samhita
 
@@ -65,37 +70,42 @@ The philosophical illumination or wisdom thus achieved should be distinguished f
 
 The task of philosophical reasoning is to decipher the essential structures underlying the phenomena. Here one thing is to be remembered as some thing important. That is, reason is not partial to the transcendental; it is equally responsible to the empirical also, for there cannot be any empirical without a corresponding trans-empirical. In essence philosophy is the enquiry of the meaning and significance of human existence, temporal, and supra-temporal. Philosophy can argue for the compatibility of both the phenomenal and the transcendental.
 
-[1]:
 
-F RIP, p. 48.
+<div className="footnote-card"><strong>[1]</strong> F RIP, p. 48.</div>
 
-[2]:
 
-Sibajiban Bhattacharyya, “Some Considerations on Philosophical Consciousness and Scientific Knowledge: Conceptual Linkages and Civilizational Background”, HSPCIC, Vol. XI, Part—I, p. 3.
 
-[3]:
 
-Kireet Joshi, “Philosophical Consciousness and Scientific Knowledge: Problems of their Interrelationships”, Ibid., p. 87.
+<div className="footnote-card"><strong>[2]</strong> Sibajiban Bhattacharyya, “Some Considerations on Philosophical Consciousness and Scientific Knowledge: Conceptual Linkages and Civilizational Background”, HSPCIC, Vol. XI, Part—I, p. 3.</div>
 
-[4]:
 
-Ibid.
 
-[5]:
 
-FRIP pp. 48 - 49.
+<div className="footnote-card"><strong>[3]</strong> Kireet Joshi, “Philosophical Consciousness and Scientific Knowledge: Problems of their Interrelationships”, Ibid., p. 87.</div>
 
-[6]:
 
-R.C. Pradhan, “Structure of Philosophical Knowledge: In Defence of the Metaphysics of First Principles”, HSPCIC, Vol. XI, Part—1, p. 275.
 
-[7]:
 
-Kireet Joshi, “Philosophical Consciousness and Scientific Knowledge: Problems of Their Interrelationships”, Ibid., p. 87.
+<div className="footnote-card"><strong>[4]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> FRIP pp. 48 - 49.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> R.C. Pradhan, “Structure of Philosophical Knowledge: In Defence of the Metaphysics of First Principles”, HSPCIC, Vol. XI, Part—1, p. 275.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Kireet Joshi, “Philosophical Consciousness and Scientific Knowledge: Problems of Their Interrelationships”, Ibid., p. 87.</div>
 
 ---
 
-## 9. Chapter 2 - Fundamental Categories
+## Chapter 2 - Fundamental Categories
 
 Philosophy of Charaka-samhita
 
@@ -103,11 +113,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 2 - Fundamental Categories
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 10. Methodological inadequacy of modern sciences
+## Methodological inadequacy of modern sciences
 
 Philosophy of Charaka-samhita
 
@@ -133,81 +141,95 @@ The extrinsic explanation of man without knowing the inner self fails to underst
 
 Modern medicine is also not an exception to what has been stated above. Like any other science, modern medicine has the tendency to discard or reject the whole notion of life force, and this is rooted in a philosophical perspective of empiricism and analysis. Hence modern medicine seeks to reduce the art of healing to the psychochemical manipulation of the body as directly as possible.[18]
 
-[1]:
 
-Sibajiban Bhattacharyya, “Some Considerations on Philosophical Consciousness and Scientific Knowledge: Conceptual Linkages and Civilizational Background”, HSPCIC, Vol. XI, Part—1, p. 3.
+<div className="footnote-card"><strong>[1]</strong> Sibajiban Bhattacharyya, “Some Considerations on Philosophical Consciousness and Scientific Knowledge: Conceptual Linkages and Civilizational Background”, HSPCIC, Vol. XI, Part—1, p. 3.</div>
 
-[2]:
 
-“A hypothesis is a possible explanation based on a hunch and inspiration. Whatever it is, it is not a hypothesis unless it can be tested—validated or invalidated—by an experiment or observation”. BLS, p. 27.
 
-[3]:
 
-Ibid.
+<div className="footnote-card"><strong>[2]</strong> “A hypothesis is a possible explanation based on a hunch and inspiration. Whatever it is, it is not a hypothesis unless it can be tested—validated or invalidated—by an experiment or observation”. BLS, p. 27.</div>
 
-[4]:
 
-“The place of Modern physics in the Mechanical View of Nature”, Max Plank. Quoted from “Principles of the Theory of the Historical Process in Philosophy”, Trans., Campbell Creighton (Oxon), Progress Publishers, Moscow, 1986, p. 12.
 
-[5]:
 
-NSS, p. 251
+<div className="footnote-card"><strong>[3]</strong> Ibid.</div>
 
-[6]:
 
-Ibid., 251.
 
-[7]:
 
-Sibajiban Bhattacharyya, “Some Considerations on Philosophical Consciousness and Scientific Knowledge: Conceptual Linkages and Civilizational Background”, HSPCIC, Vol. XI, Part—I, p. 4. There are three types of theories regarding the nature of Mathematical objects namely, Platonism, Formalism and Intuitionalism. David Herbert was the head of the Formalist Movement. Ibid.
+<div className="footnote-card"><strong>[4]</strong> “The place of Modern physics in the Mechanical View of Nature”, Max Plank. Quoted from “Principles of the Theory of the Historical Process in Philosophy”, Trans., Campbell Creighton (Oxon), Progress Publishers, Moscow, 1986, p. 12.</div>
 
-[8]:
 
-Ibid.
 
-[9]:
 
-Objectivism—The factual sciences study the physical objects. These disciplines try to find out laws of such subjects, in particular their laws of change. The law statements of the factual scientists tell us what the really possible states of things are as well as what the really possible changes of state, of concrete objects are. For details see SM, pp. 162 - 63.
+<div className="footnote-card"><strong>[5]</strong> NSS, p. 251</div>
 
-[10]:
 
-See Ramakant Sinari, “The World as the Ontological Project of Man”, PIP, p. 198.
 
-[11]:
 
-Subjectivity is the core of ones very existence in the sense that within one's inner self, he is aware of his personal identity, his unique reality, freedom to manipulate his own thoughts, feelings, volitions, attitudes. Ibid., p. 199. See also p. 204.
+<div className="footnote-card"><strong>[6]</strong> Ibid., 251.</div>
 
-[12]:
 
-Ibid., p.199.
 
-[13]:
 
-Ibid., p. 198.
+<div className="footnote-card"><strong>[7]</strong> Sibajiban Bhattacharyya, “Some Considerations on Philosophical Consciousness and Scientific Knowledge: Conceptual Linkages and Civilizational Background”, HSPCIC, Vol. XI, Part—I, p. 4. There are three types of theories regarding the nature of Mathematical objects namely, Platonism, Formalism and Intuitionalism. David Herbert was the head of the Formalist Movement. Ibid.</div>
 
-[14]:
 
-Ibid., p. 200.
 
-[15]:
 
-Ibid., p. 205.
+<div className="footnote-card"><strong>[8]</strong> Ibid.</div>
 
-[16]:
 
-KFL, p. 163.
 
-[17]:
 
-Ramakant Sinari, “The World as the Ontological Project of Man”, PIP, p. 205.
+<div className="footnote-card"><strong>[9]</strong> Objectivism—The factual sciences study the physical objects. These disciplines try to find out laws of such subjects, in particular their laws of change. The law statements of the factual scientists tell us what the really possible states of things are as well as what the really possible changes of state, of concrete objects are. For details see SM, pp. 162 - 63.</div>
 
-[18]:
 
-FIC, 243.
+
+
+<div className="footnote-card"><strong>[10]</strong> See Ramakant Sinari, “The World as the Ontological Project of Man”, PIP, p. 198.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Subjectivity is the core of ones very existence in the sense that within one's inner self, he is aware of his personal identity, his unique reality, freedom to manipulate his own thoughts, feelings, volitions, attitudes. Ibid., p. 199. See also p. 204.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid., p.199.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Ibid., p. 198.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., p. 200.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., p. 205.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> KFL, p. 163.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ramakant Sinari, “The World as the Ontological Project of Man”, PIP, p. 205.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> FIC, 243.</div>
 
 ---
-
-
 
 ---
 
@@ -216,10 +238,6 @@ FIC, 243.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Substance (dravya) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

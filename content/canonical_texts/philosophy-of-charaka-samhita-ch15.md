@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dialectical terms (6): Example: (dṛṣṭānta) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 59. Dialectical terms (6): Example: (dṛṣṭānta)
+## Dialectical terms (6): Example: (dṛṣṭānta)
 
 Philosophy of Charaka-samhita
 
@@ -25,37 +25,54 @@ In syllogism, an example has to serve the purpose of demonstrating the presence 
 
 Praśastapāda, who presupposes the ascertainment of the invariable concomitance of the major term (sādhya) and the middle term (sādhana) in the example, divides example into two: positive example (sādharmya nidarśana) and negative example (vaidharmya nidarśana) on the basis of the similarity and dissimilarity.[6] He also explains fake examples (nidarśanābhāsa), where the example adduced is inadequate to substantiate the concomitance of the minor term and the major term.[7]
 
-[1]:
 
-dṛṣṭānto nāma yatra mūrkhaviduṣāṃ buddhisāmyaṃ, yo varṇyaṃ varṇayati. CS, Vimāna - sthāna, VIII. 34.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> dṛṣṭānto nāma yatra mūrkhaviduṣāṃ buddhisāmyaṃ, yo varṇyaṃ varṇayati. CS, Vimāna - sthāna, VIII. 34.
+</blockquote>
 
-[2]:
 
-laukikaparīkṣakāṇāṃ yasminnarthe buddhisāmyaṃ sodāharaṇaṃ. Nyāyasūtra., 1. i. 25; See also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 49.
 
-[3]:
 
-sādhyasādharmyāt tadharmabhavī dṛṣṭānta udāharaṇaṃ, Nyāyasūtra., I. i. 36; tadviparyayādvā viparītaṃ, Ibid., 37.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> laukikaparīkṣakāṇāṃ yasminnarthe buddhisāmyaṃ sodāharaṇaṃ. Nyāyasūtra., 1. i. 25; See also Vātsyāyana on ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 49.
+</blockquote>
 
-[4]:
 
-udāhriyate'nena dharmayoḥ sādhyasādhnabhāva ityudāharaṇaṃ, Vatsyāyna on Nyāyasūtra., I. i. 36;Nyāya-Bhāṣya of Vātsyāyana., p.57.
 
-[5]:
 
-See IFD, p. 5.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> sādhyasādharmyāt tadharmabhavī dṛṣṭānta udāharaṇaṃ, Nyāyasūtra., I. i. 36; tadviparyayādvā viparītaṃ, Ibid., 37.
+</blockquote>
 
-[6]:
 
-Praśastapādabhāṣya., p. 599.
 
-[7]:
 
-Praśastapādabhāṣya., pp.600-603.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> udāhriyate'nena dharmayoḥ sādhyasādhnabhāva ityudāharaṇaṃ, Vatsyāyna on Nyāyasūtra., I. i. 36;Nyāya-Bhāṣya of Vātsyāyana., p.57.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> See IFD, p. 5.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Praśastapādabhāṣya., p. 599.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Praśastapādabhāṣya., pp.600-603.
+</blockquote>
 
 ---
 
-## 60. Dialectical terms (11): Doubt (saṃśaya)
+## Dialectical terms (11): Doubt (saṃśaya)
 
 Philosophy of Charaka-samhita
 
@@ -71,41 +88,63 @@ Vātsyāyana says that there is no need of applying the nyāya to an object whic
 
 If we look at the whole explanations, we can see that doubt is an erroneous cognition which originates from uncertainty because of attributing contradictory characteristics to an object. Thus, in essence, all the later explanations make no difference with the explanation given in the Carakasaṃhitā. In fact, if Caraka explained the nature of doubt, Akṣapāda and others focused on its cause.
 
-[1]:
 
-saṃśayo nāma sandehalakṣaṇānusandigdheṣvartheṣvaniścayaḥ, CS,Vimāna - sthāna, VIII. 43; Caraka includes doubt in the group of tantrayukties also. See supra, p. 333.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> saṃśayo nāma sandehalakṣaṇānusandigdheṣvartheṣvaniścayaḥ, CS,Vimāna - sthāna, VIII. 43; Caraka includes doubt in the group of tantrayukties also. See supra, p. 333.
+</blockquote>
 
-[2]:
 
-samānanekadharmopalebdhervipratipaterupalebdhyanupalabdh yavyavasthātaśca viśeṣāpekṣo vimarśaḥ saṃśayaḥ. Nyāyasūtra., I. 1. 23.
 
-[3]:
 
-tatra nā'nuplabdhe no nirīte arthe nyāyaḥ pravartate. kiṃ tarhi? samśayite arthe, Vātsyāyana on Nyāyasūtra., I. i. l, Nyāya-Bhāṣya of Vātsyāyana., p. 6
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> samānanekadharmopalebdhervipratipaterupalebdhyanupalabdh yavyavasthātaśca viśeṣāpekṣo vimarśaḥ saṃśayaḥ. Nyāyasūtra., I. 1. 23.
+</blockquote>
 
-[4]:
 
-Vātsyāyana on Nyāyasūtra., I. i. 23, Nyāya-Bhāṣya of Vātsyāyana., pp.46-48.
 
-[5]:
 
-sāmānyapratyakṣād viśeṣānusmaraṇācca saṃśayaḥ. Vaiśeṣikadarśana., II. ii. 17.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> tatra nā'nuplabdhe no nirīte arthe nyāyaḥ pravartate. kiṃ tarhi? samśayite arthe, Vātsyāyana on Nyāyasūtra., I. i. l, Nyāya-Bhāṣya of Vātsyāyana., p. 6
+</blockquote>
 
-[6]:
 
-saṃśayastāvat prasiddhānekaviśeṣayoḥ sādṛśyamātradarśanāt ubhayaviśeṣānusmaraṇācca kiṃsvidityubhyāvalaṃbī vimarśaḥ samśayaḥ, Praśastapādabhāṣya., pp. 4 11 - 412.
 
-[7]:
 
-anavadhāraṇaṃ jñānaṃ saṃśayaḥ, Saptapadārthi of Śivāditya., p. 68
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Vātsyāyana on Nyāyasūtra., I. i. 23, Nyāya-Bhāṣya of Vātsyāyana., pp.46-48.
+</blockquote>
 
-[8]:
 
-ūhānādhyavasāyayostu saṃśaya eva. Ibid., p.34.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> sāmānyapratyakṣād viśeṣānusmaraṇācca saṃśayaḥ. Vaiśeṣikadarśana., II. ii. 17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> saṃśayastāvat prasiddhānekaviśeṣayoḥ sādṛśyamātradarśanāt ubhayaviśeṣānusmaraṇācca kiṃsvidityubhyāvalaṃbī vimarśaḥ samśayaḥ, Praśastapādabhāṣya., pp. 4 11 - 412.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> anavadhāraṇaṃ jñānaṃ saṃśayaḥ, Saptapadārthi of Śivāditya., p. 68
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> ūhānādhyavasāyayostu saṃśaya eva. Ibid., p.34.
+</blockquote>
 
 ---
 
-## 61. Dialectical terms (13): Inconclusive reason (savyabhicāra)
+## Dialectical terms (13): Inconclusive reason (savyabhicāra)
 
 Philosophy of Charaka-samhita
 
@@ -117,29 +156,42 @@ A cause must be consistently concomitant with the effect. If it is inconsistent,
 
 Whatever might be the division, the lack of invariable concomitance leading to inconclusiveness is the key concept of savyabhicāra. Hence the knowledge of savyabhicāra has got a prominent role in ascertaining accurate reason.
 
-[1]:
 
-savyabhicāraṃ nāma yadvyabhicāraṇaṃ, CS, Vimāna - sthāna, VIII. 45.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> savyabhicāraṃ nāma yadvyabhicāraṇaṃ, CS, Vimāna - sthāna, VIII. 45.
+</blockquote>
 
-[2]:
 
-anaikāntikaḥ savyabhcāraḥ, Nyāyasūtra., I. ii. 5.
 
-[3]:
 
-See Vātsyāyana on ibid. Nyāya-Bhāṣya of Vātsyāyana., p. 73.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> anaikāntikaḥ savyabhcāraḥ, Nyāyasūtra., I. ii. 5.
+</blockquote>
 
-[4]:
 
-Vaiśeṣikadarśana., III. i. 15,17.
 
-[5]:
 
-savyabhicāro'naikāntikaḥ. sa trividhaḥ sādhāraṇasādhāraṇanupasaṃhāribhedāt., TSA, p. 44; NSMK, pp.263-64.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> See Vātsyāyana on ibid. Nyāya-Bhāṣya of Vātsyāyana., p. 73.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Vaiśeṣikadarśana., III. i. 15,17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> savyabhicāro'naikāntikaḥ. sa trividhaḥ sādhāraṇasādhāraṇanupasaṃhāribhedāt., TSA, p. 44; NSMK, pp.263-64.
+</blockquote>
 
 ---
 
-## 62. Dialectical terms (10): Tenet (siddhānta)
+## Dialectical terms (10): Tenet (siddhānta)
 
 Philosophy of Charaka-samhita
 
@@ -167,53 +219,78 @@ Example: Sometimes substance is accepted as the most important; on some other oc
 
 Akṣapāda, who shares almost the very same view of Caraka, defines tenet as a postulation resting on either the authority of a certain school, hypothesis, or implication.[8] Then he classifies it into four as the above.[9] Udyotakara defines tenet as a conviction with regard to the exact nature of a thing.[10] Keśavamiśra defines it as something which is authoritatively settled true.[11] The conception of both Caraka and Akṣapāda regarding tenet is one and the same.
 
-[1]:
 
-siddhānto nāma sa yaḥ parīkṣakairbahuvidhaṃ parīkṣya hetubhiśca sādhayitva sthāpyate nirṇayaḥ. CS, Vimāna - sthāna, VIII. 37.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> siddhānto nāma sa yaḥ parīkṣakairbahuvidhaṃ parīkṣya hetubhiśca sādhayitva sthāpyate nirṇayaḥ. CS, Vimāna - sthāna, VIII. 37.
+</blockquote>
 
-[2]:
 
-sarvatantrasiddhānto nāma tasmiṃstasmin sarvasminstantre tattat prasiddhaṃ, Ibid.
 
-[3]:
 
-pratitantrasiddhānto nāma tasmiṃstasminnekasmiṃstantre tattat prasiddhaṃ, Ibid.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> sarvatantrasiddhānto nāma tasmiṃstasmin sarvasminstantre tattat prasiddhaṃ, Ibid.
+</blockquote>
 
-[4]:
 
-adhikāraṇasiddhānto nāma sa yasminnadhikaraṇe prastūyamāne siddhānyanyānyapyadhikaraṇāni bhavanti, Ibid.
 
-[5]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> pratitantrasiddhānto nāma tasmiṃstasminnekasmiṃstantre tattat prasiddhaṃ, Ibid.
+</blockquote>
 
-[6]:
 
-abhyupagamasiddhānto nāma sa yamarthamasiddhamaparīkṣitamanupadiṣṭamahetukaṃ vā vādakāle'bhyupagacchanti bhiṣajaḥ, Ibid.
 
-[7]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> adhikāraṇasiddhānto nāma sa yasminnadhikaraṇe prastūyamāne siddhānyanyānyapyadhikaraṇāni bhavanti, Ibid.
+</blockquote>
 
-[8]:
 
-tantrādhikaraṇābhyupagamasaṃsthitiḥ siddhāntaḥ, Nyāyasūtra., I. i. 26.
 
-[9]:
 
-sarvatantrapratitantrādhikāraṇābhyupagamasaṃsthityarthāntarabhāvāt, Nyāyasūtra., I. i. 27.
+<div className="footnote-card"><strong>[5]</strong> Ibid.</div>
 
-[10]:
 
-abhyupagamavyavasthā siddhantaḥ, Nyāya-Vārttika of Udyotakāra., p.107.
 
-[11]:
 
-prāmāṇikatvena abhyupagato'rthaḥ sidhdhāntaḥ, Tarkabhāṣa of Keśavamiśra., p. 238.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> abhyupagamasiddhānto nāma sa yamarthamasiddhamaparīkṣitamanupadiṣṭamahetukaṃ vā vādakāle'bhyupagacchanti bhiṣajaḥ, Ibid.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> tantrādhikaraṇābhyupagamasaṃsthitiḥ siddhāntaḥ, Nyāyasūtra., I. i. 26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> sarvatantrapratitantrādhikāraṇābhyupagamasaṃsthityarthāntarabhāvāt, Nyāyasūtra., I. i. 27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> abhyupagamavyavasthā siddhantaḥ, Nyāya-Vārttika of Udyotakāra., p.107.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> prāmāṇikatvena abhyupagato'rthaḥ sidhdhāntaḥ, Tarkabhāṣa of Keśavamiśra., p. 238.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -222,10 +299,6 @@ prāmāṇikatvena abhyupagato'rthaḥ sidhdhāntaḥ, Tarkabhāṣa of Keśavam
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Dialectical terms (12): Purpose (prayojana): Philosophy Of Charaka Samhita Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

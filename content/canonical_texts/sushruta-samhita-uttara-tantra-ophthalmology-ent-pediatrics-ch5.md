@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Lekhya-roga within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Chapter XIII - Treatment of Lekhya-roga
+## Chapter XIII - Treatment of Lekhya-roga
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -39,21 +39,26 @@ In the following diseases of the eye, viz., Vartma-vabandha, Klishta-vartma, Bah
 
 Thus ends the thirteenth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of (eye-) diseases amenable to scarification.
 
-[1]:
 
-It should be noted that the patient should also be fomented (Sveda) after being treated with the emulsive measures.
+<div className="footnote-card"><strong>[1]</strong> It should be noted that the patient should also be fomented (Sveda) after being treated with the emulsive measures.</div>
 
-[2]:
 
-For the first seven clays the treatment should be like that of an incidental ulcer (Sadyo-vrana) after which period, the case should be treated, if necessary, as a case of Śārira-Vrana.
 
-[3]:
 
-Dallana says that some read ‘svehayitvā’ (fomenting) in place of ‘snehayitvā’ (anointing).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> For the first seven clays the treatment should be like that of an incidental ulcer (Sadyo-vrana) after which period, the case should be treated, if necessary, as a case of Śārira-Vrana.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Dallana says that some read ‘svehayitvā’ (fomenting) in place of ‘snehayitvā’ (anointing).
+</blockquote>
 
 ---
 
-## 16. Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids
+## Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -77,21 +82,26 @@ In case of the failure of the preceding measure, the eye-lid should be carefully
 
 Thus ends the sixteenth chapter of the Uttara-Tantra in the Shushruta Samhita which treats of the remedies of Pakshma-kopa.
 
-[1]:
 
-According to Vāgbhata, the stitching hair should be removed on the fifth day.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Vāgbhata, the stitching hair should be removed on the fifth day.
+</blockquote>
 
-[2]:
 
-The four measures are (a) operation, (b) cauterisation with fire, (c) cauterisation with alkali, and (d) application of medicinal drugs.
 
-[3]:
 
-It should be noted that this disease cannot be radically cured, but is amenable only to palliative treatments (yāpya).
+<div className="footnote-card"><strong>[2]</strong> The four measures are (a) operation, (b) cauterisation with fire, (c) cauterisation with alkali, and (d) application of medicinal drugs.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> It should be noted that this disease cannot be radically cured, but is amenable only to palliative treatments (yāpya).
+</blockquote>
 
 ---
 
-## 17. Chapter XII - Treatment of Raktaja Ophthalmia
+## Chapter XII - Treatment of Raktaja Ophthalmia
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -183,69 +193,100 @@ An eye-salve or an Anjana made of Samudra-phena, Saindhava, conch-shell, Mudga a
 
 Thus ends the twelfth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of Raktabhishyanda.
 
-[1]:
 
-See Chapter XLV, Sutra-Sthāna.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> See Chapter XLV, Sutra-Sthāna.
+</blockquote>
 
-[2]:
 
-Dallana explains “Abhyanjana” as collyrium, but he also says that some commentators take it in its usual sense of anointment with clarified butter washed hundred times in water, or such other Sneha.
 
-[3]:
 
-Both Dallana and Śivadāsa say that pure transparent water may be used in preparing the compound if rain-water is not available. Dallana says further that the affected eye should also be washed with the liquid compound thus prepared. Śivadāsa, however, supports this latter view.
+<div className="footnote-card"><strong>[2]</strong> Dallana explains “Abhyanjana” as collyrium, but he also says that some commentators take it in its usual sense of anointment with clarified butter washed hundred times in water, or such other Sneha.</div>
 
-[4]:
 
-Dallana explains “Vetrāmla” as “Amla vetasa”. Some, however, divide it into two words viz., “Vetra” and “Amla” meaning thereby sprouts of Vetra (cane) and Amla-vetasa respectively.
 
-[5]:
 
-The group beginning with Kāśiśa—See Chapter XXXVI, Sutra-Sthana, page 334, Vol. 1.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Both Dallana and Śivadāsa say that pure transparent water may be used in preparing the compound if rain-water is not available. Dallana says further that the affected eye should also be washed with the liquid compound thus prepared. Śivadāsa, however, supports this latter view.
+</blockquote>
 
-[6]:
 
-See paras 3 and 4 of this Chapter.
 
-[7]:
 
-“Superficial” (Uttāna) is here used in the sense of “seated in the first layer” and “deep seated” (Avagādha) ‘seated in the second layer’,
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Dallana explains “Vetrāmla” as “Amla vetasa”. Some, however, divide it into two words viz., “Vetra” and “Amla” meaning thereby sprouts of Vetra (cane) and Amla-vetasa respectively.
+</blockquote>
 
-[8]:
 
-One part of Saindhava, two parts of Marica, four of Manahśilā, eight of Śamkha and sixteen parts of copper should be taken in the preparation of the compound.
 
-[9]:
 
-See Chapter XI, para 6.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> The group beginning with Kāśiśa—See Chapter XXXVI, Sutra-Sthana, page 334, Vol. 1.
+</blockquote>
 
-[10]:
 
-The spathe (Jatā) of the palm tree and the shell of the cocoanut fruit should be taken in preparing the compound.—Śivadāsa.
 
-[11]:
 
-The prepared powder of elephant’s bone should be mixed with honey and rubbed over the affected part (Śukra) with the tip of the finger or with a Śalākā (rod). The eye should then be washed with the infusion of Triphalā. —Dallana.
+<div className="footnote-card"><strong>[6]</strong> See paras 3 and 4 of this Chapter.</div>
 
-[12]:
 
-Some add honey in the list.
 
-[13]:
 
-Dallana says that the deranged Doshas of the system should be cleansed with the application of Sneha, Venesection, purgative, errhines and Āsthāpana.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> “Superficial” (Uttāna) is here used in the sense of “seated in the first layer” and “deep seated” (Avagādha) ‘seated in the second layer’,
+</blockquote>
 
-[14]:
 
-In place of ‘roghrotpalasārivābhiḥ’ some read ‘lodhrāsitasārivābhiḥ’, meaning in this case ‘Syāma-latā’ by the term ‘Asita-sārivā’. Others again mean ‘Rasānjana’ by the term ‘Asita’.—Dallana.
 
-[15]:
 
-Dallana recommends ‘rain water’ as the liquid for the preparation.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> One part of Saindhava, two parts of Marica, four of Manahśilā, eight of Śamkha and sixteen parts of copper should be taken in the preparation of the compound.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> See Chapter XI, para 6.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> The spathe (Jatā) of the palm tree and the shell of the cocoanut fruit should be taken in preparing the compound.—Śivadāsa.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> The prepared powder of elephant’s bone should be mixed with honey and rubbed over the affected part (Śukra) with the tip of the finger or with a Śalākā (rod). The eye should then be washed with the infusion of Triphalā. —Dallana.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Some add honey in the list.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Dallana says that the deranged Doshas of the system should be cleansed with the application of Sneha, Venesection, purgative, errhines and Āsthāpana.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> In place of ‘roghrotpalasārivābhiḥ’ some read ‘lodhrāsitasārivābhiḥ’, meaning in this case ‘Syāma-latā’ by the term ‘Asita-sārivā’. Others again mean ‘Rasānjana’ by the term ‘Asita’.—Dallana.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Dallana recommends ‘rain water’ as the liquid for the preparation.</div>
 
 ---
-
-
 
 ---
 
@@ -254,10 +295,6 @@ Dallana recommends ‘rain water’ as the liquid for the preparation.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of eye-diseases which require Excision: Sushruta Samhita Uttara Tantra Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

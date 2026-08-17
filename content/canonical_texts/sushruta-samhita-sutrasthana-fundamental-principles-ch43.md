@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Knowledge of tastes of drugs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 49. Chapter XLII - Knowledge of tastes of drugs
+## Chapter XLII - Knowledge of tastes of drugs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -127,13 +127,10 @@ The man, who gradually habituates himself to the use of each of the six aforesai
 
 Thus ends the forty-second Chapter of the Sutrasthana in the Sushruta Samhita, which treats of the specific properties of flavours.
 
-[1]:
 
-To put it more explicitly the property of sound belongs to the sky (Akasha). The properties of sound and touch appertain to the air (Vayu). The properties of sound, touch and colour form the characteristics of Fire (Teja). Sound, touch, colour and taste form the specific properties of water (Toya). Sound, touch, colour, taste and smell mark the earth matter (Bhumi).
+<div className="footnote-card"><strong>[1]</strong> To put it more explicitly the property of sound belongs to the sky (Akasha). The properties of sound and touch appertain to the air (Vayu). The properties of sound, touch and colour form the characteristics of Fire (Teja). Sound, touch, colour and taste form the specific properties of water (Toya). Sound, touch, colour, taste and smell mark the earth matter (Bhumi).</div>
 
 ---
-
-
 
 ---
 
@@ -142,10 +139,6 @@ To put it more explicitly the property of sound belongs to the sky (Akasha). The
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch44" className="text-emerald-400 hover:underline flex items-center font-medium">Knowledge of categories of drugs: Sushruta Samhita Sutrasthana Chapter 44 →</a>
 </div>
-
-
-
-
 
 ---
 

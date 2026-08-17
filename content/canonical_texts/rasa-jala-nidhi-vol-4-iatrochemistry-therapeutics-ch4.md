@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (8): Brihat-jvarankusha rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. Treatment for fever (8): Brihat-jvarankusha rasa
+## Treatment for fever (8): Brihat-jvarankusha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (8): Brihat-jvarankusha rasa’ included i
 
 ---
 
-## 47. Treatment for fever (9): Batuka-bhairava rasa
+## Treatment for fever (9): Batuka-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (9): Batuka-bhairava rasa’ included in B
 
 ---
 
-## 48. Treatment for fever (10): Nandikeshvara rasa
+## Treatment for fever (10): Nandikeshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (10): Nandikeshvara rasa’ included in Bh
 
 ---
 
-## 49. Treatment for fever (12): Lokendra rasa
+## Treatment for fever (12): Lokendra rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -79,9 +79,10 @@ One fourth tola of mercury is to be purified by rubbing it with powdered brick, 
 
 Two of such pills should be given to a patient suffering from fever due to an abnormal excess of the three dosas, specially when he is in a state of delirium or unconciousness. The body of the patient should be covered by means of a thick piece of cloth, so long as the patient does not feel better by purgation. He should then be allowed to take food with curd and to drink a sufficient quantity of water. A little later, medicated oil, having the property of pacifying vayu (such as narayana-taila) should be rubbed all over the body. The following are the accompaniments of the medicine:—decoction of panchamuli in chronic fever, decoction of ativisa in chronic diarrhoea and dysentery, juice of parpata in fever attended with shivering, and water in which jira has been kept immersed for about three hours in fever attended with diarrhoea. This medicine may also be used in indigestion, jaundice, asthma, and cough.
 
-[1]:
 
-Mercury and sulphur may also be purified in the way described in Vols. I & II.
+<div className="footnote-card"><strong>[1]</strong> Mercury and sulphur may also be purified in the way described in Vols. I & II.</div>
+
+
 
 Conclusion:
 
@@ -89,7 +90,7 @@ This concludes ‘Treatment for fever (12): Lokendra rasa’ included in Bhudeb 
 
 ---
 
-## 50. Treatment for fever (13): Jvara-mrityunjaya rasa
+## Treatment for fever (13): Jvara-mrityunjaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -107,7 +108,7 @@ This concludes ‘Treatment for fever (13): Jvara-mrityunjaya rasa’ included i
 
 ---
 
-## 51. Treatment for fever (14): Sarva-jvarari rasa
+## Treatment for fever (14): Sarva-jvarari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -125,7 +126,7 @@ This concludes ‘Treatment for fever (14): Sarva-jvarari rasa’ included in Bh
 
 ---
 
-## 52. Treatment for fever (11): Bhudeva-ranjana rasa
+## Treatment for fever (11): Bhudeva-ranjana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -143,7 +144,7 @@ This concludes ‘Treatment for fever (11): Bhudeva-ranjana rasa’ included in 
 
 ---
 
-## 53. Treatment for fever (15): Ratnagiri rasa
+## Treatment for fever (15): Ratnagiri rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -161,7 +162,7 @@ This concludes ‘Treatment for fever (15): Ratnagiri rasa’ included in Bhudeb
 
 ---
 
-## 54. Treatment for fever (16): Navajvarari rasa
+## Treatment for fever (16): Navajvarari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -179,7 +180,7 @@ This concludes ‘Treatment for fever (16): Navajvarari rasa’ included in Bhud
 
 ---
 
-## 55. Chapter II - Fever (jvara)
+## Chapter II - Fever (jvara)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -189,15 +190,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter II - Fever (jvara)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Fever (jvara)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 56. Treatment for fever (17): Parvati-sankara rasa
+## Treatment for fever (17): Parvati-sankara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -215,7 +214,7 @@ This concludes ‘Treatment for fever (17): Parvati-sankara rasa’ included in 
 
 ---
 
-## 57. Treatment for fever (18): Navajvarankusa rasa
+## Treatment for fever (18): Navajvarankusa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -233,7 +232,7 @@ This concludes ‘Treatment for fever (18): Navajvarankusa rasa’ included in B
 
 ---
 
-## 58. Treatment for fever (20): Svachchhanda-bhairava rasa
+## Treatment for fever (20): Svachchhanda-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -251,7 +250,7 @@ This concludes ‘Treatment for fever (20): Svachchhanda-bhairava rasa’ includ
 
 ---
 
-## 59. Treatment for fever (21): Nava-jvarebhankusha rasa
+## Treatment for fever (21): Nava-jvarebhankusha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -271,7 +270,7 @@ This concludes ‘Treatment for fever (21): Nava-jvarebhankusha rasa’ included
 
 ---
 
-## 60. Treatment for fever (23): Nava-jvara-hara rasa
+## Treatment for fever (23): Nava-jvara-hara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -289,8 +288,6 @@ This concludes ‘Treatment for fever (23): Nava-jvara-hara rasa’ included in 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -298,10 +295,6 @@ This concludes ‘Treatment for fever (23): Nava-jvara-hara rasa’ included in 
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (24): Sarvanga-sundara-chintamani rasa: Rasa Jala Nidhi Volume 4 Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

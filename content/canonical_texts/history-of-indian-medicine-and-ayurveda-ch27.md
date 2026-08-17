@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on b - Pathological Conditions or Processes in Ayurveda within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 80. Chapter 9b - Pathological Conditions or Processes in Ayurveda
+## Chapter 9b - Pathological Conditions or Processes in Ayurveda
 
 History of Indian Medicine (and Ayurveda)
 
@@ -175,7 +175,7 @@ The eight censurable body conditions described therein are as follows.—Obesity
 
 ---
 
-## 81. Chapter 14 - The Ideal of Health in Ayurveda
+## Chapter 14 - The Ideal of Health in Ayurveda
 
 History of Indian Medicine (and Ayurveda)
 
@@ -257,8 +257,6 @@ The life of that man is said to be good who is a well-wisher of all creatures, w
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -266,10 +264,6 @@ The life of that man is said to be good who is a well-wisher of all creatures, w
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

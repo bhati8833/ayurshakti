@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Social Implications of Diseases and their Treatment within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Social Implications of Diseases and their Treatment
+## Social Implications of Diseases and their Treatment
 
 Charaka Samhita and Sushruta Samhita
 
@@ -21,13 +21,14 @@ Social Implications of Diseases and their Treatment
 
 Since the last few decades disease is no longer being viewed only as a biological process but also as a social construct. A branch of medical sociology is engaged in the study of the cultural and historical aspects of phenomena thought to be exclusively natural.[1] The medical concept of disease may be different from its societal perceptions. The nature and course of therapeutics are determined by the understanding of aetiology. Alleviation of the syndrome is possible only by the removal of the causal factor leading to the restoration of the original physiological condition. Associated with disease are socio-cultural notions whereby some pathological conditions cause isolation of the patient. In this chapter we will attempt to study the perception of disease in the two ancient Āyurvedic classics, the basic principles and the nature of therapeutics, and the socio-cultural notions of disease.
 
-[1]:
 
-P. Conrad and K.K. Barker, “The Social Construction of Illness: Key Insights and Policy Implications” in Journal of Health and Social Behavior, 2010: 51(S) S67-S79. DOI: 10.1177/0022146510383495
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> P. Conrad and K.K. Barker, “The Social Construction of Illness: Key Insights and Policy Implications” in Journal of Health and Social Behavior, 2010: 51(S) S67-S79. DOI: 10.1177/0022146510383495
+</blockquote>
 
 ---
 
-## 37. Teacher-Student Relationship
+## Teacher-Student Relationship
 
 Charaka Samhita and Sushruta Samhita
 
@@ -59,101 +60,162 @@ On the basis of the study of the Caraka and Suśruta Saṃhitās it is difficult
 
 The student is advised to always strive to acquire the desirable qualities and learn similar noble qualities even from his enemies without having any sense of jealousy. Further, he should consider the entire universe as his preceptor as the wise do and it would be foolish think otherwise. The aspiring physician should, therefore, welcome good advice which brings fame, which promotes longevity and strength and which is acceptable to the people. Such advice can be had even from an enemy and be adopted in practice.[21] These words of counsel to the prospective physician embody open-mindedness to concepts and therapeutic practices of not only other experts of the same medical tradition but other traditions as well. Anything that is beneficial should be accepted without prejudice by the practitioner of medicine. Therefore, Caraka insists on making honest efforts to be in constant touch with this science[22] and Suśruta advocates continued study and practice after completion of the course.[23] Perhaps, it would not be wrong to conclude that the ultimate aim of the study of medicine and surgery was not just the cure of the sick but the cultivation of a scientific attitude as well.
 
-[1]:
 
-Caraka Saṃhitā Vimānasthāna 8.5.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Vimānasthāna 8.5.
+</blockquote>
 
-[2]:
 
-Āyurvedācārya J. Vidyalankar, Caraka Saṃhitā, translated into Hindi, Delhi, 2007 (Reprint), p.351.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.6.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Āyurvedācārya J. Vidyalankar, Caraka Saṃhitā, translated into Hindi, Delhi, 2007 (Reprint), p.351.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Vimānasthāna 8.13.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.6.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 2.6.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Vimānasthāna 8.13.
 
-[7]:
 
-Dagmar Wujastyk, Well-Mannered Medicine, p.86.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Vimānasthāna 8.13.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Vimānasthāna 8.14.
 
-[9]:
 
-R.K. Mookerji, Ancient Indian Education, p.93.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 2.6.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.7.
 
-[11]:
 
-L.M.Singh, K,K. Thakral, P.J. Deshpande, “Suśruta’s Contributions to the Fundamentals of Surgery”, Indian Journal of History of Science, Vol.5, No.1, pp. 38-50.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Vimānasthāna 8.13.
+</blockquote>
 
-[12]:
 
-Manusmṛti II.233.
 
-[13]:
 
-Āpastamba Dharmasūtra I.8.27.
+<div className="footnote-card"><strong>[7]</strong> Dagmar Wujastyk, Well-Mannered Medicine, p.86.</div>
 
-[14]:
 
-Āpastamba Dharmasūtra I.8.23.
 
-[15]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.5.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Vimānasthāna 8.14.
+</blockquote>
 
-[16]:
 
-Jātaka, Vol. II, No.411.
 
-[17]:
 
-The Questions of King Milinda, VI.10.
+<div className="footnote-card"><strong>[9]</strong> R.K. Mookerji, Ancient Indian Education, p.93.</div>
 
-[18]:
 
-Mahāvagga VIII.1.6.
 
-[19]:
 
-Suśruta Saṃhitā Sūtrasthāna 4.6.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 2.7.
+</blockquote>
 
-[20]:
 
-They are Śaunaka, Kṛtavīrya, Pārāsarya, Mārkaṇḍeya and Subhūti Gautam; Suśruta Saṃhitā Śārīrasthāna 3.32.
 
-[21]:
 
-Caraka Saṃhitā Vimānasthāna 8.14.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> L.M.Singh, K,K. Thakral, P.J. Deshpande, “Suśruta’s Contributions to the Fundamentals of Surgery”, Indian Journal of History of Science, Vol.5, No.1, pp. 38-50.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Vimānasthāna 8.14.
 
-[23]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.56.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Manusmṛti II.233.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Āpastamba Dharmasūtra I.8.27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Āpastamba Dharmasūtra I.8.23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Sūtrasthāna 1.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Jātaka, Vol. II, No.411.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> The Questions of King Milinda, VI.10.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Mahāvagga VIII.1.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Sūtrasthāna 4.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> They are Śaunaka, Kṛtavīrya, Pārāsarya, Mārkaṇḍeya and Subhūti Gautam; Suśruta Saṃhitā Śārīrasthāna 3.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Vimānasthāna 8.14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Vimānasthāna 8.14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Sūtrasthāna 3.56.
+</blockquote>
 
 ---
 
-## 38. The Student of Āyurveda (3c): Practical Knowledge
+## The Student of Āyurveda (3c): Practical Knowledge
 
 Charaka Samhita and Sushruta Samhita
 
@@ -214,65 +276,93 @@ As regards scientific dissection, Zysk is of the view that it was initiated in I
 
 We have dealt with the details of experimental surgery and dissection in Chapter 9 of our thesis in the context of the training of the surgeon. It is significant that among the four sources of knowledge (pramāṇa) Suśruta gives precedence to direct observation (pratyakṣa) over authoritative texts (āgama), inference (anumāna) and analogy (upamāna)[14] signifying the importance of practical work in surgery. As we have already noted in Chapter 2 Suśruta mentions that it is essential for the physician to observe the operations and perform them experimentally to become eligible to practice.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.47.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 3.47.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.48.
 
-[3]:
 
-Caraka Saṃhitā Vimānasthāna 8. 68-78, 84.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 3.48.
+</blockquote>
 
-[4]:
 
-M.S.Valiathan, The Legacy of Caraka, p. lxxxiv.
 
-[5]:
 
-Caraka Saṃhitā Vimānasthāna 8.85-151.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Vimānasthāna 8. 68-78, 84.
+</blockquote>
 
-[6]:
 
-M.S.Valiathan, The Legacy of Caraka, p.lxxxiv.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 9.3.
+<div className="footnote-card"><strong>[4]</strong> M.S.Valiathan, The Legacy of Caraka, p. lxxxiv.</div>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 9.4.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 9.6.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Vimānasthāna 8.85-151.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.46-47.
 
-[11]:
 
-K.G. Zysk, “The Evolution of Anatomical Knowledge in Ancient India, with Special Reference to Cross-Cultural Influences”, Journal of American Oriental Society, 106.4, 1986, pp. 687-705.
+<div className="footnote-card"><strong>[6]</strong> M.S.Valiathan, The Legacy of Caraka, p.lxxxiv.</div>
 
-[12]:
 
-K.G. Zysk, “The Evolution of Anatomical Knowledge”, pp. 687-705.
 
-[13]:
 
-J. Bhattacharya, “Encounter in Anatomical Knowledge: East and West”, Indian Journal of History of Science, 43.2 (2008), pp. 163-209.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 9.3.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.16.
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 9.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 9.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Śārīrasthāna 5.46-47.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> K.G. Zysk, “The Evolution of Anatomical Knowledge in Ancient India, with Special Reference to Cross-Cultural Influences”, Journal of American Oriental Society, 106.4, 1986, pp. 687-705.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> K.G. Zysk, “The Evolution of Anatomical Knowledge”, pp. 687-705.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> J. Bhattacharya, “Encounter in Anatomical Knowledge: East and West”, Indian Journal of History of Science, 43.2 (2008), pp. 163-209.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 1.16.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -281,10 +371,6 @@ Suśruta Saṃhitā Sūtrasthāna 1.16.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Disease in the classical Saṃhitās: Charaka Samhita And Sushruta Samhita Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Social Implications of Disease within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 54. The Social Implications of Disease
+## The Social Implications of Disease
 
 Charaka Samhita and Sushruta Samhita
 
@@ -88,297 +88,485 @@ The manifestation of the third category of diseases can be of two types: the con
 
 The statement is an admission of the inadequacy of therapeutics alone in the healing of obstinate maladies and emphasizes the importance of what may be regarded as non-pharmacological aspects of healing, such as rituals, behavioural modification, paying respect to preceptors, brāhmaṇas, etc. Besides, when two cases with similar symptoms show different results, the physician could fall back on the notion of karma. The intrusion of non-rational elements can be attributed to popularity of such perception among lay persons as also to inadequacies of the medical theory itself to explain particular clinical symptoms.
 
-[1]:
 
-Caraka Saṃhitā Vimānasthāna 3.24-27.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Vimānasthāna 3.24-27.
+</blockquote>
 
-[2]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 3.14.
 
-[3]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.15.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 3.14.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.15-25.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.10.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Nidāna-sthāna 1.15.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Nidāna-sthāna 7.21-22.
 
-[7]:
 
-J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with special reference to Tripiṭaka, p.237.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Cikitsāsthāna 3.15-25.
+</blockquote>
 
-[8]:
 
-Mahāvagga I.68.126.
 
-[9]:
 
-Mahāvagga I.68.126.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 8.10.
+</blockquote>
 
-[10]:
 
-Mahāvagga I.62.119.
 
-[11]:
 
-Mahāvagga I.62.119.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Nidāna-sthāna 7.21-22.
+</blockquote>
 
-[12]:
 
-Mahāvagga I.68.26.
 
-[13]:
 
-Manusmṛti XI.48.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with special reference to Tripiṭaka, p.237.
+</blockquote>
 
-[14]:
 
-Manusmṛti XI.49-52.
 
-[15]:
 
-Manusmṛti XI.53-54.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Mahāvagga I.68.126.
+</blockquote>
 
-[16]:
 
-Manusmṛti III.151.
 
-[17]:
 
-Manusmṛti III.153.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Mahāvagga I.68.126.
+</blockquote>
 
-[18]:
 
-Manusmṛti III.154.
 
-[19]:
 
-Manusmṛti III.159.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Mahāvagga I.62.119.
+</blockquote>
 
-[20]:
 
-Manusmṛti III.161.
 
-[21]:
 
-Manusmṛti VIII.163.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Mahāvagga I.62.119.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā SU.29.8.
 
-[23]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.45.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Mahāvagga I.68.26.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.8,177; Suśruta Saṃhitā Cikitsāsthāna 9.3.
 
-[25]:
 
-Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, Journal of Ancient Indian History, Vol. XXIV, 2007-2008, pp. 33-42.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Manusmṛti XI.48.
+</blockquote>
 
-[26]:
 
-Aparna Chattopadhyay, “Diseases Caused by Sins and Cure by Divine Blessings or Penance” in A. Chattopadhyay, Studies in Ancient Indian Medicine, Varanasi, 1993.
 
-[27]:
 
-E. Robinson, (revised), Calmet’s Dictionary of the Holy Bible as published by the Late Mr. Charles Taylor with the Fragments Incorporated, Boston, 1832, p.614.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Manusmṛti XI.49-52.
+</blockquote>
 
-[28]:
 
-Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, pp. 33-42.
 
-[29]:
 
-Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, pp. 33-42.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Manusmṛti XI.53-54.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Nidāna-sthāna 5.31.
 
-[31]:
 
-Suśruta Saṃhitā Nidāna-sthāna 5.30.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Manusmṛti III.151.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Nidāna-sthāna 5.33-34.
 
-[33]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.9.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Manusmṛti III.153.
+</blockquote>
 
-[34]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.37.
 
-[35]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.48; 116, 159.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Manusmṛti III.154.
+</blockquote>
 
-[36]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.134; 157; Suśruta Saṃhitā Cikitsāsthāna 51-53.
 
-[37]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.157; Suśruta Saṃhitā Cikitsāsthāna 9.51-57.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Manusmṛti III.159.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.177.—vacāṃsyatathyāni kṛtaghnabhāvo nindā surāṇāṃ ṣanaṃ. pāpakriyā pūrvakṛtaṃ ca karma hetuḥ kilāsasyavirodhi cānnam.
 
-[39]:
 
-Manusmṛti XI.49.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Manusmṛti III.161.
+</blockquote>
 
-[40]:
 
-P.V. Sharma, Indian Medicine in the Classical Age, p. 60.
 
-[41]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.58.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Manusmṛti VIII.163.
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.20.
 
-[43]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.21.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā SU.29.8.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.21.
 
-[45]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.21.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.45.
+</blockquote>
 
-[46]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.21.
 
-[47]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.88.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Cikitsāsthāna 7.8,177; Suśruta Saṃhitā Cikitsāsthāna 9.3.
+</blockquote>
 
-[48]:
 
-C.V. Haldipur, “Madness in Ancient India: Concept of Insanity in Charaka Samhita (1st Century A.D.)”, Comprehensive Psychiatry, Vol. 25, No. 3 (May/June), 1984, p.335-344.
 
-[49]:
 
-Suśruta Saṃhitā Uttaratantra 61.31-38.
+<div className="footnote-card"><strong>[25]</strong> Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, Journal of Ancient Indian History, Vol. XXIV, 2007-2008, pp. 33-42.</div>
 
-[50]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.96.
 
-[51]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.163.
+<div className="footnote-card"><strong>[26]</strong> Aparna Chattopadhyay, “Diseases Caused by Sins and Cure by Divine Blessings or Penance” in A. Chattopadhyay, Studies in Ancient Indian Medicine, Varanasi, 1993.</div>
 
-[52]:
 
-Caraka Saṃhitā Śārīrasthāna 2.7-10.
 
-[53]:
 
-Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, pp. 33-42.
+<div className="footnote-card"><strong>[27]</strong> E. Robinson, (revised), Calmet’s Dictionary of the Holy Bible as published by the Late Mr. Charles Taylor with the Fragments Incorporated, Boston, 1832, p.614.</div>
 
-[54]:
 
-Caraka Saṃhitā Sūtrasthāna 11.17.
 
-[55]:
 
-Caraka Saṃhitā Sūtrasthāna 11.25.
+<div className="footnote-card"><strong>[28]</strong> Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, pp. 33-42.</div>
 
-[56]:
 
-D.P.Chattopadhyaya, Science and Society in Ancient India, p.155.
 
-[57]:
 
-Caraka Saṃhitā Sūtrasthāna 1.51-52.
+<div className="footnote-card"><strong>[29]</strong> Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, pp. 33-42.</div>
 
-[58]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 152-154.
 
-[59]:
 
-Caraka Saṃhitā Sūtrasthāna 10.4-5.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Nidāna-sthāna 5.31.
+</blockquote>
 
-[60]:
 
-Caraka Saṃhitā Śārīrasthāna 6.27.
 
-[61]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 2-3.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Nidāna-sthāna 5.30.
+</blockquote>
 
-[62]:
 
-Caraka Saṃhitā Siddhisthāna 2.25.
 
-[63]:
 
-Caraka Saṃhitā Siddhisthāna 2.26.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Nidāna-sthāna 5.33-34.
+</blockquote>
 
-[64]:
 
-Caraka Saṃhitā Vimānasthāna 8.149.
 
-[65]:
 
-Caraka Saṃhitā Siddhisthāna 2.28.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Cikitsāsthāna 7.9.
+</blockquote>
 
-[66]:
 
-S.K.R.Rao, Encyclopaedia of Indian Medicine, Vol.II, p. 175.
 
-[67]:
 
-V. Nutton, Ancient Medicine, Oxon, second edition, 2013, p.88.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Caraka Saṃhitā Cikitsāsthāna 7.37.
+</blockquote>
 
-[68]:
 
-D.P.Chattopadhyaya, Science and Society in Ancient India, p.375.
 
-[69]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.8; Suśruta Saṃhitā Cikitsāsthāna 9.3.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Cikitsāsthāna 7.48; 116, 159.
+</blockquote>
 
-[70]:
 
-Suśruta Saṃhitā Uttaratantra 40.163.
 
-[71]:
 
-Suśruta Saṃhitā Uttaratantra 40.164-166/1.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Cikitsāsthāna 7.134; 157; Suśruta Saṃhitā Cikitsāsthāna 51-53.
+</blockquote>
 
-[72]:
 
-Ḍalhaṇa on Suśruta Saṃhitā Uttaratantra 40.166/1.
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Cikitsāsthāna 7.157; Suśruta Saṃhitā Cikitsāsthāna 9.51-57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Cikitsāsthāna 7.177.—vacāṃsyatathyāni kṛtaghnabhāvo nindā surāṇāṃ ṣanaṃ. pāpakriyā pūrvakṛtaṃ ca karma hetuḥ kilāsasyavirodhi cānnam.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Manusmṛti XI.49.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> P.V. Sharma, Indian Medicine in the Classical Age, p. 60.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Cikitsāsthāna 9.58.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Cikitsāsthāna 9.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Caraka Saṃhitā Cikitsāsthāna 9.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Cikitsāsthāna 9.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Cikitsāsthāna 9.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Caraka Saṃhitā Cikitsāsthāna 9.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Caraka Saṃhitā Cikitsāsthāna 9.88.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> C.V. Haldipur, “Madness in Ancient India: Concept of Insanity in Charaka Samhita (1st Century A.D.)”, Comprehensive Psychiatry, Vol. 25, No. 3 (May/June), 1984, p.335-344.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Suśruta Saṃhitā Uttaratantra 61.31-38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Caraka Saṃhitā Cikitsāsthāna 9.96.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Caraka Saṃhitā Cikitsāsthāna 8.163.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Caraka Saṃhitā Śārīrasthāna 2.7-10.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[53]</strong> Sukla Das, “In Quest of the Antiquity of Leprosy: The Early Indian Context”, pp. 33-42.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Caraka Saṃhitā Sūtrasthāna 11.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Caraka Saṃhitā Sūtrasthāna 11.25.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[56]</strong> D.P.Chattopadhyaya, Science and Society in Ancient India, p.155.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Caraka Saṃhitā Sūtrasthāna 1.51-52.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[58]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 152-154.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Caraka Saṃhitā Sūtrasthāna 10.4-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Caraka Saṃhitā Śārīrasthāna 6.27.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[61]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, pp. 2-3.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> Caraka Saṃhitā Siddhisthāna 2.25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> Caraka Saṃhitā Siddhisthāna 2.26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Caraka Saṃhitā Vimānasthāna 8.149.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> Caraka Saṃhitā Siddhisthāna 2.28.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[66]</strong> S.K.R.Rao, Encyclopaedia of Indian Medicine, Vol.II, p. 175.</div>
+
+
+
+
+<div className="footnote-card"><strong>[67]</strong> V. Nutton, Ancient Medicine, Oxon, second edition, 2013, p.88.</div>
+
+
+
+
+<div className="footnote-card"><strong>[68]</strong> D.P.Chattopadhyaya, Science and Society in Ancient India, p.375.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> Caraka Saṃhitā Cikitsāsthāna 7.8; Suśruta Saṃhitā Cikitsāsthāna 9.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> Suśruta Saṃhitā Uttaratantra 40.163.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Suśruta Saṃhitā Uttaratantra 40.164-166/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> Ḍalhaṇa on Suśruta Saṃhitā Uttaratantra 40.166/1.
+</blockquote>
 
 ---
 
-## 55. Chapter 6
+## Chapter 6
 
 Charaka Samhita and Sushruta Samhita
 
@@ -386,11 +574,9 @@ This page relates ‘Chapter 6’ of the study on the Charaka Samhita and the Su
 
 Chapter 6
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 56. Epidemics (maraka)
+## Epidemics (maraka)
 
 Charaka Samhita and Sushruta Samhita
 
@@ -523,153 +709,255 @@ Change of place (sthāna-parityāga) is advised by Suśruta along with the simil
 
 The absence of extraordinary therapeutic measures to cope with such calamitous events is indeed striking. We are in the dark about how such outbreaks affected different strata of society. Even more curious is the absence of a separate chapter dealing with epidemic outbreaks in Suśruta’s compendium wherein the subject has been dealt with cursorily. In fact, taken as a whole, our information about epidemics is quite meagre in our sources.
 
-[1]:
 
-Caraka Saṃhitā Vimānasthāna 3.4.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Vimānasthāna 3.4.
+</blockquote>
 
-[2]:
 
-Arthaśāstra 8.4.7-8.
 
-[3]:
 
-Arthaśāstra 9.7.82.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Arthaśāstra 8.4.7-8.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Vimānasthāna 3.6.
 
-[5]:
 
-Caraka Saṃhitā Vimānasthāna 3.4.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Arthaśāstra 9.7.82.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Sūtrasthāna 6.15-17.
 
-[7]:
 
-This refers to storm conditions for it is known that when an air mass clashes with another having a different temperature and humidity, it can result in a storm.—National Geographic Education Encyclopaedia; http://education.nationalgeographic.com/education/encyclopedia/air-mass/?ar_a=1 (Accessed on 23.1.2013).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Vimānasthāna 3.6.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Vimānasthāna 3.7(1).
 
-[9]:
 
-Caraka Saṃhitā Vimānasthāna 3.7(2).
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Vimānasthāna 3.4.
+</blockquote>
 
-[10]:
 
-Shrikrishna “Jugnu”, J.H.C. Kern (Eds.) and N.C Iyer, (trans.), Bṛhat-Saṃhitā of Varāha-Mihira, Vol.1, Delhi, 2013, 46.50. Hereafter Bṛhatsaṃhitā.
 
-[11]:
 
-Bṛhatsaṃhitā, 46.49.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Sūtrasthāna 6.15-17.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 6.19.
 
-[13]:
 
-Caraka Saṃhitā Vimānasthāna 3.7(3).
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> This refers to storm conditions for it is known that when an air mass clashes with another having a different temperature and humidity, it can result in a storm.—National Geographic Education Encyclopaedia; http://education.nationalgeographic.com/education/encyclopedia/air-mass/?ar_a=1 (Accessed on 23.1.2013).
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Vimānasthāna 3.7(4).
 
-[15]:
 
-Caraka Saṃhitā Vimānasthāna 3.7.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Vimānasthāna 3.7(1).
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Vimānasthāna 3.4.
 
-[17]:
 
-WHO Webpage, “Environmental Factors in Emergencies”; http://www.who.int/environmental_health_emergencies/disease_outbreaks/communicable_dis eases/en/ (Accessed on 28.02.2013).
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Vimānasthāna 3.7(2).
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 6.19.
 
-[19]:
 
-Bṛhatsaṃhitā 46.76.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Shrikrishna “Jugnu”, J.H.C. Kern (Eds.) and N.C Iyer, (trans.), Bṛhat-Saṃhitā of Varāha-Mihira, Vol.1, Delhi, 2013, 46.50. Hereafter Bṛhatsaṃhitā.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Vimānasthāna 3.9-10.
 
-[21]:
 
-Caraka Saṃhitā Vimānasthāna 3.11.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Bṛhatsaṃhitā, 46.49.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Vimānasthāna 3.20.
 
-[23]:
 
-Bṛhatsaṃhitā, 46.7.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 6.19.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Vimānasthāna 3.21.
 
-[25]:
 
-Caraka Saṃhitā Vimānasthāna 3.22.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Vimānasthāna 3.7(3).
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Vimānasthāna 3.23.
 
-[27]:
 
-Caraka Saṃhitā Vimānasthāna 3.24.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Vimānasthāna 3.7(4).
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Vimānasthāna 3.24.
 
-[29]:
 
-Caraka Saṃhitā Vimānasthāna 3.25.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Vimānasthāna 3.7.
+</blockquote>
 
-[30]:
 
-Translation taken from D. Wujastyk, The Roots of Āyurveda: Selections from Sanskrit Medical Writings, New Delhi, 2001 (revised edition), p.85.
 
-[31]:
 
-Caraka Saṃhitā Vimānasthāna 3.8.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Vimānasthāna 3.4.
+</blockquote>
 
-[32]:
 
-Caraka Saṃhitā Vimānasthāna 3.13.
 
-[33]:
 
-Caraka Saṃhitā Vimānasthāna 3.13-14.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> WHO Webpage, “Environmental Factors in Emergencies”; http://www.who.int/environmental_health_emergencies/disease_outbreaks/communicable_dis eases/en/ (Accessed on 28.02.2013).
+</blockquote>
 
-[34]:
 
-Caraka Saṃhitā Vimānasthāna 3.15-17.
 
-[35]:
 
-Suśruta Saṃhitā Sūtrasthāna 6.20.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 6.19.
+</blockquote>
 
-[36]:
 
-Bṛhat-Saṃhitā, 46.6.
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Bṛhatsaṃhitā 46.76.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Vimānasthāna 3.9-10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Vimānasthāna 3.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Vimānasthāna 3.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Bṛhatsaṃhitā, 46.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Vimānasthāna 3.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Vimānasthāna 3.22.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Vimānasthāna 3.23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Vimānasthāna 3.24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Vimānasthāna 3.24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Vimānasthāna 3.25.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Translation taken from D. Wujastyk, The Roots of Āyurveda: Selections from Sanskrit Medical Writings, New Delhi, 2001 (revised edition), p.85.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Caraka Saṃhitā Vimānasthāna 3.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Caraka Saṃhitā Vimānasthāna 3.13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Vimānasthāna 3.13-14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Caraka Saṃhitā Vimānasthāna 3.15-17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Sūtrasthāna 6.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Bṛhat-Saṃhitā, 46.6.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -678,10 +966,6 @@ Bṛhat-Saṃhitā, 46.6.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Personal Hygiene: Charaka Samhita And Sushruta Samhita Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

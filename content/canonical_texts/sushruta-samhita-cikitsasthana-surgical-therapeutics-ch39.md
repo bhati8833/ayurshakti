@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The treatment of distressing symptoms within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 41. Chapter XXXIX - The treatment of distressing symptoms
+## Chapter XXXIX - The treatment of distressing symptoms
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -65,21 +65,25 @@ A diet consisting of cooked Shashti grain (Tandula) or matured Shali rice, Mudga
 
 Thus ends the Thirty-ninth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of distressing symptoms which are manifested in a patient.
 
-[1]:
 
-By “distressing symptoms” are generally meant those complications that follow the exhibition of emetics, purgatives, Vastis, etc.
+<div className="footnote-card"><strong>[1]</strong> By “distressing symptoms” are generally meant those complications that follow the exhibition of emetics, purgatives, Vastis, etc.</div>
 
-[2]:
 
-We have been told that the digestive fire is kindled by the exhibition of emetics, purgatives, etc., but here we are told just the reverse. The solution is that the digestive fire is ultimately kindled by these measures, whereas, immediately after the exhibition, it becomes dull and sluggish.
 
-[3]:
 
-The Prastha measure here means thirteen Palas and a half.
+<div className="footnote-card"><strong>[2]</strong> We have been told that the digestive fire is kindled by the exhibition of emetics, purgatives, etc., but here we are told just the reverse. The solution is that the digestive fire is ultimately kindled by these measures, whereas, immediately after the exhibition, it becomes dull and sluggish.</div>
 
-[4]:
 
-Here a line is not found in the printed edition of the Sushruta Samhita, which is evident from Dallana’s commentary and supported by Shrikantha Datta in his commentary on Vrinda.
+
+
+<div className="footnote-card"><strong>[3]</strong> The Prastha measure here means thirteen Palas and a half.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Here a line is not found in the printed edition of the Sushruta Samhita, which is evident from Dallana’s commentary and supported by Shrikantha Datta in his commentary on Vrinda.</div>
+
+
 
 
 ### The line is as follows
@@ -87,13 +91,15 @@ Here a line is not found in the printed edition of the Sushruta Samhita, which i
 
 “shleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 
-[5]:
 
-Some commentators explain this verse to mean that the patient should observe the rules of diet and conduct (prescribed hereafter) for a period of three days after each application of a Vasti, but after the third application the rules of diet and conduct should be determined according to requirements.
+<div className="footnote-card"><strong>[5]</strong> Some commentators explain this verse to mean that the patient should observe the rules of diet and conduct (prescribed hereafter) for a period of three days after each application of a Vasti, but after the third application the rules of diet and conduct should be determined according to requirements.</div>
 
-[6]:
 
-Here a line is not found in the printed edition of the Sushruta Samhita, which is evident from Dallana’s commentary and supported by Shrikantha Datta in his commentary on Vrinda.
+
+
+<div className="footnote-card"><strong>[6]</strong> Here a line is not found in the printed edition of the Sushruta Samhita, which is evident from Dallana’s commentary and supported by Shrikantha Datta in his commentary on Vrinda.</div>
+
+
 
 
 ### The line is as follows
@@ -101,21 +107,24 @@ Here a line is not found in the printed edition of the Sushruta Samhita, which i
 
 “śleṣmantatvahirekasya na tamicchanti tahidaḥ |”
 
-[7]:
 
-The Pitta-origined distempers are thirst, burning sensation, etc.
+<div className="footnote-card"><strong>[7]</strong> The Pitta-origined distempers are thirst, burning sensation, etc.</div>
 
-[8]:
 
-In place of “shītasambhogatoyanaṃ (?)” Gayadasa reads “shītabhojanatoyanaṃ” which means the use of cold food and drink. This reading seems to be better.—Ed.
 
-[9]:
 
-In place of “śītasambhogatoyanaṃ (?)” Gayadasa reads “śītabhojanatoyanaṃ” which means the use of cold food and drink. This reading seems to be better.—Ed.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> In place of “shītasambhogatoyanaṃ (?)” Gayadasa reads “shītabhojanatoyanaṃ” which means the use of cold food and drink. This reading seems to be better.—Ed.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> In place of “śītasambhogatoyanaṃ (?)” Gayadasa reads “śītabhojanatoyanaṃ” which means the use of cold food and drink. This reading seems to be better.—Ed.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -124,10 +133,6 @@ In place of “śītasambhogatoyanaṃ (?)” Gayadasa reads “śītabhojanatoy
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch40" className="text-emerald-400 hover:underline flex items-center font-medium">Description of medicated fumes, snuffs, errhines and gargles: Sushruta Samhita Cikitsasthana Chapter 40 →</a>
 </div>
-
-
-
-
 
 ---
 

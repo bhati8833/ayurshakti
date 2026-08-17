@@ -50,7 +50,11 @@ The Arteries are the Ten Great Roots
 
 The actions of the vital essence and the definition of vein, artery and vessel
 
+
+<blockquote className="ayur-shloka">
 9-12. They are styled the great fruiters because they have for their fruit as it were that vital essence (ojas) whereby all the embodied creatures subsist, being nourished; that in whose absence the life of all beings would cease to be; that which is the primary essence of the embryo,. that which is the quintessence of the fetal life, that which first enters the embryonic heart as it begins to develop; that on whose destruction the destruction of the organism ensues; that which is the support stationed in the heart; that which is the unctuous element of the body-fluid and that wherein the life-breaths are established, Or, it may be, the arteries are so styled, because they fruition in great many ways. They are called (Dhamanya) arteries because they pulsate, (srotānsi [srotāṃsi—srotas]) channels because they convey the essential juices and (sirāḥ [sirāḥ—sirā]) vessels because they conduct the blood etc., from one place to another.
+</blockquote>
+
 
 Things to be practised and avoided in the protection of the heart etc.
 

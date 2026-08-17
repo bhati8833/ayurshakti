@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Kingdoms Noted for Elephants and Kings Who Had Elephants within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 74. Part 17 - Kingdoms Noted for Elephants and Kings Who Had Elephants
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Kingdoms Noted for Elephants and Kings Who Had Elephants’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 17 - Kingdoms Noted for Elephants and Kings Who Had Elephants
 
 Part 17 - Kingdoms Noted for Elephants and Kings Who Had Elephants
 
@@ -25,62 +21,90 @@ Elephants Used for Chariots:
 
 Airāvata, the lord of elephants (Gajendra), which was a species of white elephants with four tusks and was the vehicle of Indra, travelled in the sun’s chariot during the month of Kārtika.[9] At the time of the churning of the ocean of milk, when the elephant Airāvata came out, Lord Indra took him and employed him as his vehicle.[10] Añjana, the elephant belonging to Saṃkīrṇa variety, was the vehicle of Yama, Supratika was the vehicle of Varuṇa,Padma was the vehicle of Kuvera and Vāmana was the vehicle of Agni.[11] Demon Nimi had a chariot of elephants.[12]
 
-[1]:
 
-Vāyu Purāṇa , 69.241
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vāyu Purāṇa , 69.241
+</blockquote>
 
-[2]:
 
-Bhāgavata Purāṇa , 5.19.18; 7.13.12; 11.5.39; Vāyu Purāṇa , 45.104; 77.28
 
-[3]:
 
-Vāyu Purāṇa , 47.11
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Bhāgavata Purāṇa , 5.19.18; 7.13.12; 11.5.39; Vāyu Purāṇa , 45.104; 77.28
+</blockquote>
 
-[4]:
 
-Matsya Purāṇa , 114.52
 
-[5]:
 
-Matsya Purāṇa , 114.44;121,50; Vāyu Purāṇa ,47.48
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Vāyu Purāṇa , 47.11
+</blockquote>
 
-[6]:
 
-pūrvasyāṃ diśi nāgānāṃ bhojasya pratimo’bhavat/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Matsya Purāṇa , 114.52
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Matsya Purāṇa , 114.44;121,50; Vāyu Purāṇa ,47.48
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> pūrvasyāṃ diśi nāgānāṃ bhojasya pratimo’bhavat/
 rūpyakāñcanakakṣāṇāṃ sahasrāṇyekaviṃśatiḥ// Vāyu Purāṇa , 96.125
+</blockquote>
 
-[7]:
 
-Bhāgavata Purāṇa , 10.36.25; 37.16; 43.1-18
 
-[8]:
 
-Ibid., 10.59.38
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Bhāgavata Purāṇa , 10.36.25; 37.16; 43.1-18
+</blockquote>
 
-[9]:
 
-Bhāgavata Purāṇa , 10.59.38; Viṣṇu Purāṇa , 1.9.7,25;22.5; 2.10.11; 5.12.2,13 and 25; 29.1; 5.30.65
 
-[10]:
 
-gajendraṃ sa sahasrākṣo hayaratnaṃ ca bhāskaraḥ// Matsya Purāṇa , 251.3b
+<div className="footnote-card"><strong>[8]</strong> Ibid., 10.59.38</div>
 
-[11]:
 
-Vāyu Purāṇa , 69.215-216
 
-[12]:
 
-Matsya Purāṇa ,148.42,51
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Bhāgavata Purāṇa , 10.59.38; Viṣṇu Purāṇa , 1.9.7,25;22.5; 2.10.11; 5.12.2,13 and 25; 29.1; 5.30.65
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> gajendraṃ sa sahasrākṣo hayaratnaṃ ca bhāskaraḥ// Matsya Purāṇa , 251.3b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Vāyu Purāṇa , 69.215-216
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Matsya Purāṇa ,148.42,51
+</blockquote>
 
 ---
 
-## 75. Part 16 - Rites Performed for the Welfare of Elephants
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Rites Performed for the Welfare of Elephants’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 16 - Rites Performed for the Welfare of Elephants
 
 Part 16 - Rites Performed for the Welfare of Elephants
 
@@ -91,57 +115,53 @@ The gods should be invoked and worshipped on the edge of the outer surface of th
 Then the priest who is familiar with the influences of stars and the significance of the time (kālavit), should ride on a female elephant and addressing her as the queen of elephant speak to her that he has performed this pacificatory rite.The king has made her the chief of his stable and he will worship her with flower-garlands and perfumes. Obeying the order of the king the people will also worship her.The elephant may protect the king in battle and home. Giving up her animal nature she may remember her divine origin.The gods created the heavenly elephants on the occasion of the war between them and the demons.Again, Ariṣṭa, who was the son of Airāvata derived the strength and the quality of showing good judgement from his divine father. Developing all these qualities the elephant may protect the king in battle.[5]
 Consecrating the elephant thus, the king should ride on its back and the warriors with their weapons should follow him. Again a mystical diagram should be placed on the ground of the elephant shed and the Dikpālas should be worshipped at its centre. Moreover, Godess Earth and Sarasvatī, Bala, Nāga should also be worshipped at its petals. The hand-drum should be worshipped and flowers, perfumes and garlands should also be offered to it.Libations in honour of the gods, should be poured on the fire. Pitchers full of juice should be given to a Brāhmaṇa.The superintendent of the elephants, the groom and the astrologer should be worshipped. Then the hand-drum should be given to the superintendent of the elephants who by beating it would greet his king with the continuous deep sound.[6]
 
-[1]:
 
-Ibid., 291.1b-4
+<div className="footnote-card"><strong>[1]</strong> Ibid., 291.1b-4</div>
 
-[2]:
 
-Ibid.,291.5-9
 
-[3]:
 
-Ibid., 291.10-12a
+<div className="footnote-card"><strong>[2]</strong> Ibid.,291.5-9</div>
 
-[4]:
 
-Ibid., 291.12b-14
 
-[5]:
 
-Ibid., 291.15-20
+<div className="footnote-card"><strong>[3]</strong> Ibid., 291.10-12a</div>
 
-[6]:
 
-Ibid., 291.21-24
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 291.12b-14</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 291.15-20</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., 291.21-24</div>
 
 ---
 
-## 76. Part 18 - Elephants Used for Gifts
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Elephants Used for Gifts’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 18 - Elephants Used for Gifts
 
 Part 18 - Elephants Used for Gifts
 
 The elephants too were used for gift.The word hemahastiratha indicates the gift of a chariot with elephants in gold on an auspicious day with prayers to all deities which takes one to the abode of Lord Viṣṇu.[1] Vināyakavrata is the vrata in honour of Vināyaka. It bestows Śivaloka; one who observes this vrata and gives away a golden elephant on the fourth day of the moon (Caturthī tithi), achieves the place of Śiva.[2]
 
-[1]:
 
-Ibid., 274.8;282.1
+<div className="footnote-card"><strong>[1]</strong> Ibid., 274.8;282.1</div>
 
-[2]:
 
-Ibid., 101.61
+
+
+<div className="footnote-card"><strong>[2]</strong> Ibid., 101.61</div>
 
 ---
 
-## 77. Part 20 - Management of Horses
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Management of Horses’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 20 - Management of Horses
 
 Part 20 - Management of Horses
 
@@ -155,132 +175,198 @@ A wise man should relax and ride a horse that raises its head from its knee onwa
 
 The Agni Purāṇa mentions the four sorts of political measures such asconciliation, division, punishment and gift–which may be emblematically expanded to hold good quality in the administration of a horse. Here conciliation would mean stroking. Division would denote separation from the companions of the stud. Punishment would incorporate whipping and so forth, while gift would imply long sufferingness or an act of restricting time.[21] Each succeeding measure should be taken on the disappointment of the former one. In the case of a riding horse, the reins should be attached to the loops of the curb lying on the tips of its jaws and the horse should be pulled to take the curb in its mouth.[22] On account of an ulcerated lip, the curb or the string controlling the tongue of the animal should be barred. The string ought to be clutched on until the horse would surrender the ferocious habit of jumping.[23] The string ought to be tied up more tightly in the case where the horse throws up it face on the slightest nose and shies and tries to lock at seeing an interesting object and the rider should always be alert to recognize such endeavours of horse as early as possible.[24] The left fore-leg should be tied with the curb to the left rear leg of a horse of ill-behaved habit, which should be driven by means of the left curb.[25] It is the nature of a horse to turn his face, once in a while and it ought not to be faulted for to the tying of his legs as stated above.[26]
 
-[1]:
 
-Vāyu Purāṇa , 82.14
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vāyu Purāṇa , 82.14
+</blockquote>
 
-[2]:
 
-Matsya Purāṇa , 215.8
 
-[3]:
 
-Ibid., 215.37
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Matsya Purāṇa , 215.8
+</blockquote>
 
-[4]:
 
-nimittaśakunajñānī hayaśikṣāviśāradaḥ/
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., 215.37</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> nimittaśakunajñānī hayaśikṣāviśāradaḥ/
 hayāyurvedatattvajño bhuvo bhāgavicakṣaṇaḥ// Ibid., 215.20
+</blockquote>
 
-[5]:
 
-ṛtuparṇo nalasakho yo’śvavidyāmayānnalāt/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> ṛtuparṇo nalasakho yo’śvavidyāmayānnalāt/
 dattvā’kṣahṛdayaṃ cāsmai sarvakāmastu tatsutaḥ// Bhāgavata Purāṇa , 9.9,17; Vāyu Purāṇa ,88.174
+</blockquote>
 
-[6]:
 
-kulīnaḥ śīlasampanno dhanurvedaviśāradaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> kulīnaḥ śīlasampanno dhanurvedaviśāradaḥ/
 hastiśikṣāśvāśikṣāsu kuśalaḥ ślakṣṇabhāṣitaḥ// Matsya Purāṇa ,215.8
+</blockquote>
 
-[7]:
 
-hayaśikṣāvidhānajñaścikitsitaviśāradaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> hayaśikṣāvidhānajñaścikitsitaviśāradaḥ/
 aśvādhyakṣo mahībharttuḥ svāsanaśca praśasyate// Ibid.,215.36b-37a
+</blockquote>
 
-[8]:
 
-Viṣṇu Purāṇa , 1.13.51
 
-[9]:
 
-Agni Purāṇa , 288
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Viṣṇu Purāṇa , 1.13.51
+</blockquote>
 
-[10]:
 
-vājināṃ saṅgrahaḥ kāryo dharmakarmārthasiddhaye// Ibid., 288.1
 
-[11]:
 
-tīvrairna capalairdaṇḍairvadane na ca tāḍayet/
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Agni Purāṇa , 288
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> vājināṃ saṅgrahaḥ kāryo dharmakarmārthasiddhaye// Ibid., 288.1
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> tīvrairna capalairdaṇḍairvadane na ca tāḍayet/
 kīlāsthisaṅkule caiva viṣame kaṭakānvite// Ibid., 288.4
+</blockquote>
 
-[12]:
 
-āruhya sahasā naiva tāḍanīyo hayottamaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> āruhya sahasā naiva tāḍanīyo hayottamaḥ/
 tāḍanādbhayamāpnoti bhayānmohaśca jāyate// Ibid.,288.27
+</blockquote>
 
-[13]:
 
-upāyajño’tha cittajño viśuddho doṣanāśanaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> upāyajño’tha cittajño viśuddho doṣanāśanaḥ/
 guṇārjanaparo nityaṃ sarvakarmaviśāradaḥ// Ibid.,288.25
+</blockquote>
 
-[14]:
 
-pragraheṇa gṛhītvā’tha praviṣṭo vāhabhūtalam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> pragraheṇa gṛhītvā’tha praviṣṭo vāhabhūtalam/
 savyāpasavyabhedena vāhanīyaḥ susādinā// Ibid.,288.26
+</blockquote>
 
-[15]:
 
-prātaḥ sādī plutenaiva balgāmuddhṛtya cālayet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> prātaḥ sādī plutenaiva balgāmuddhṛtya cālayet/
 mandaṃ mandaṃ vinā nālaṃ dhṛtavalgo dināntare// Ibid.,288.28
+</blockquote>
 
-[16]:
 
-utthito yoṅghriṇā’nena pārṣṇipādān turaṅgamaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> utthito yoṅghriṇā’nena pārṣṇipādān turaṅgamaḥ/
 gṛhyate yatkhalīkṛtya khalīkāraḥ sa ceṣyate// Ibid., 288.46
+</blockquote>
 
-[17]:
 
-ājānūrdhvānanaṃ vāhaṃ śithilaṃ vāhayetsudhīḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> ājānūrdhvānanaṃ vāhaṃ śithilaṃ vāhayetsudhīḥ/
 aṅgeṣu lāghavaṃ yāvattāvattam vāhayedhayam// Ibid., 288.51
+</blockquote>
 
-[18]:
 
-mṛduḥ skandhe laghurvaktre śithilaḥ sarvasandhisu/
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> mṛduḥ skandhe laghurvaktre śithilaḥ sarvasandhisu/
 yadā sa sādino vaśyaḥ saṅgṛhṇīyāttadā hayam// Ibid.,288.52
+</blockquote>
 
-[19]:
 
-Ibid., 288.53
 
-[20]:
 
-Ibid., 288.54-56
+<div className="footnote-card"><strong>[19]</strong> Ibid., 288.53</div>
 
-[21]:
 
-proktamāśvāsanaṃ sāmabhedo’śvena niyojyate/
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., 288.54-56</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> proktamāśvāsanaṃ sāmabhedo’śvena niyojyate/
 kaśāditāḍanaṃ daṇḍo dānaṃ kālasahiṣṇutā// Ibid.,288.29
+</blockquote>
 
-[22]:
 
-pūrvapūrvaviśuddhau tu vidadhyāduttarottaram/
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> pūrvapūrvaviśuddhau tu vidadhyāduttarottaram/
 jihvātale vinā yogaṃ vidadhyādvāhane haye//
 guṇottaraśatāṃ valgāṃ sṛkkaṇyā saha gāhayet/
 vismārya vāhanaṃ kuryācchithilānāṃ śanaiḥ śanaiḥ// Ibid.,288.30-31
+</blockquote>
 
-[23]:
 
-hayajihvāṅgamāhīne jihvāgranthiṃ vimocayet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> hayajihvāṅgamāhīne jihvāgranthiṃ vimocayet/
 gāḍhatāṃ mocayettāvadyāvatstobhaṃ na muñcati// Ibid.,288.32
+</blockquote>
 
-[24]:
 
-Ibid., 288.33-36
 
-[25]:
 
-yo hṛtau duṣkare caiva moṭake nāṭakāyanam/
+<div className="footnote-card"><strong>[24]</strong> Ibid., 288.33-36</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> yo hṛtau duṣkare caiva moṭake nāṭakāyanam/
 savyahīnaṃ khalīkāro hanane guṇane tathā// Ibid., 288.37
+</blockquote>
 
-[26]:
 
-svabhāvaṃ hi turaṅgasya mukhavyāvartanaṃ punaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> svabhāvaṃ hi turaṅgasya mukhavyāvartanaṃ punaḥ/
 na caivetthaṃ turaṅgāṇāṃ pādagrahaṇahetavaḥ// Ibid., 288.3
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -289,10 +375,6 @@ na caivetthaṃ turaṅgāṇāṃ pādagrahaṇahetavaḥ// Ibid., 288.3
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Management and Treatment of Elephants: Agriculture And Animal Husbandry In The Puranas Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

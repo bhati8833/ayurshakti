@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Scientific, Concepts Related to Material Science within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 103. 2. Scientific, Concepts Related to Material Science
+## 2. Scientific, Concepts Related to Material Science
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ X-5 variety of gems is caused by the characteristic qualities of the earth, and 
 
 ---
 
-## 104. Chapter 10 - Concluding Remarks
+## Chapter 10 - Concluding Remarks
 
 Minerals and Metals in Sanskrit literature
 
@@ -33,11 +33,9 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 10 - Concluding Remarks
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 105. 4. Concluding Remarks and References
+## 4. Concluding Remarks and References
 
 Minerals and Metals in Sanskrit literature
 
@@ -53,7 +51,7 @@ X-16 Chattopadhyaya, Debiprasad, 1986, History of Science and Technology in Anci
 
 ---
 
-## 106. 3. Scientific Attitude in Ancient India
+## 3. Scientific Attitude in Ancient India
 
 Minerals and Metals in Sanskrit literature
 
@@ -79,8 +77,6 @@ X-13 'I have performed the aforesaid experiments with my own hands and have seen
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -88,10 +84,6 @@ X-13 'I have performed the aforesaid experiments with my own hands and have seen
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix B (2) - Technical terms in the other Vedic literatures: Minerals And Metals In Sanskrit Literature Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

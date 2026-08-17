@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of diabetes within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter VI - Diagnosis of diabetes
+## Chapter VI - Diagnosis of diabetes
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -119,29 +119,30 @@ For English equivalents of the different types of Prameha compare:—Cystitis (A
 
 Thus ends the sixth Chapter of the Nidana Sthana in the Sushruta Samhita, which treats of the Nidana of Prameha.
 
-[1]:
 
-The particle “ca” in the text denotes other virus or morbific matter. Dallana.
+<div className="footnote-card"><strong>[1]</strong> The particle “ca” in the text denotes other virus or morbific matter. Dallana.</div>
 
-[2]:
 
-Remain incarcerated therein according to others.
 
-[3]:
 
-The Sanskrit term Meha literally means to micturate. The verbal noun  Mehana signifies urination as well as the act of passing any morbid urethral secretion. Hence the urine in most of these cases denotes the fact of its being charged with pus or any other morbid secretion of the urinary organs such as Ojah (albumen), marrow, etc., which imparts their characteristic colours to the fluid,—a fact which determines the nomenclature of the disease and forms the keynote of its diagnosis in the Ayurveda.—Ed.
+<div className="footnote-card"><strong>[2]</strong> Remain incarcerated therein according to others.</div>
 
-[4]:
 
-The urine acquires a distinct alkaline taste, smell, colour and touch. (Madhaba Nidana).
 
-[5]:
 
-Charaka has included it within Kshaudra Meha and Madhu Meha.
+<div className="footnote-card"><strong>[3]</strong> The Sanskrit term Meha literally means to micturate. The verbal noun  Mehana signifies urination as well as the act of passing any morbid urethral secretion. Hence the urine in most of these cases denotes the fact of its being charged with pus or any other morbid secretion of the urinary organs such as Ojah (albumen), marrow, etc., which imparts their characteristic colours to the fluid,—a fact which determines the nomenclature of the disease and forms the keynote of its diagnosis in the Ayurveda.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> The urine acquires a distinct alkaline taste, smell, colour and touch. (Madhaba Nidana).</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Charaka has included it within Kshaudra Meha and Madhu Meha.</div>
 
 ---
-
-
 
 ---
 
@@ -150,10 +151,6 @@ Charaka has included it within Kshaudra Meha and Madhu Meha.
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of abscess: Sushruta Samhita Nidanasthana Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Surgical appliances within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Chapter VII - Surgical appliances
+## Chapter VII - Surgical appliances
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -75,13 +75,10 @@ The use of an instrument devoid of the abovesaid defects and measuring eighteen 
 
 Thus ends the seventh chapter of the Sutrasthana of the Sushruta Samhita which treats of the shape, construction and dimensions of surgical appliances.
 
-[1]:
 
-According to certain authorities hundred is here indefinitely used for a large number.
+<div className="footnote-card"><strong>[1]</strong> According to certain authorities hundred is here indefinitely used for a large number.</div>
 
 ---
-
-
 
 ---
 
@@ -90,10 +87,6 @@ According to certain authorities hundred is here indefinitely used for a large n
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Surgical instruments: Sushruta Samhita Sutrasthana Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

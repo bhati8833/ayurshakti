@@ -13,91 +13,89 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Manasollasa Study Of Arts And Sciences Chapter 1](/articles/manasollasa-study-of-arts-and-sciences-ch1)
+### [General Discourse: Manasollasa Study Of Arts And Sciences Chapter 1](/articles/manasollasa-study-of-arts-and-sciences-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Manasollasa Study Of Arts And Sciences.
 
-### 2. [The life, date, and works of Someshvara III: Manasollasa Study Of Arts And Sciences Chapter 2](/articles/manasollasa-study-of-arts-and-sciences-ch2)
+### [The life, date, and works of Someshvara III: Manasollasa Study Of Arts And Sciences Chapter 2](/articles/manasollasa-study-of-arts-and-sciences-ch2)
 **Overview**: Detailed classical discussion on The life, date, and works of Someshvara III within Manasollasa Study Of Arts And Sciences.
 
-### 3. [Element of the Minister or Amatya: Manasollasa Study Of Arts And Sciences Chapter 3](/articles/manasollasa-study-of-arts-and-sciences-ch3)
+### [Element of the Minister or Amatya: Manasollasa Study Of Arts And Sciences Chapter 3](/articles/manasollasa-study-of-arts-and-sciences-ch3)
 **Overview**: Detailed classical discussion on Element of the Minister or Amatya within Manasollasa Study Of Arts And Sciences.
 
-### 4. [Element of Kingdom (Rashtra or Janapada): Manasollasa Study Of Arts And Sciences Chapter 4](/articles/manasollasa-study-of-arts-and-sciences-ch4)
+### [Element of Kingdom (Rashtra or Janapada): Manasollasa Study Of Arts And Sciences Chapter 4](/articles/manasollasa-study-of-arts-and-sciences-ch4)
 **Overview**: Detailed classical discussion on Element of Kingdom (Rashtra or Janapada) within Manasollasa Study Of Arts And Sciences.
 
-### 5. [Element of Provincial Administration: Manasollasa Study Of Arts And Sciences Chapter 5](/articles/manasollasa-study-of-arts-and-sciences-ch5)
+### [Element of Provincial Administration: Manasollasa Study Of Arts And Sciences Chapter 5](/articles/manasollasa-study-of-arts-and-sciences-ch5)
 **Overview**: Detailed classical discussion on Element of Provincial Administration within Manasollasa Study Of Arts And Sciences.
 
-### 6. [Element of the Treasury (Kosha): Manasollasa Study Of Arts And Sciences Chapter 6](/articles/manasollasa-study-of-arts-and-sciences-ch6)
+### [Element of the Treasury (Kosha): Manasollasa Study Of Arts And Sciences Chapter 6](/articles/manasollasa-study-of-arts-and-sciences-ch6)
 **Overview**: Detailed classical discussion on Element of the Treasury (Kosha) within Manasollasa Study Of Arts And Sciences.
 
-### 7. [3. Religion during the period of Someshvara III: Manasollasa Study Of Arts And Sciences Chapter 7](/articles/manasollasa-study-of-arts-and-sciences-ch7)
+### [3. Religion during the period of Someshvara III: Manasollasa Study Of Arts And Sciences Chapter 7](/articles/manasollasa-study-of-arts-and-sciences-ch7)
 **Overview**: Detailed classical discussion on 3. Religion during the period of Someshvara III within Manasollasa Study Of Arts And Sciences.
 
-### 8. [4. Social Customs described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 8](/articles/manasollasa-study-of-arts-and-sciences-ch8)
+### [4. Social Customs described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 8](/articles/manasollasa-study-of-arts-and-sciences-ch8)
 **Overview**: Detailed classical discussion on 4. Social Customs described in the Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 9. [6. Entertainments reflected in Somesvara’s writings: Manasollasa Study Of Arts And Sciences Chapter 9](/articles/manasollasa-study-of-arts-and-sciences-ch9)
+### [6. Entertainments reflected in Somesvara’s writings: Manasollasa Study Of Arts And Sciences Chapter 9](/articles/manasollasa-study-of-arts-and-sciences-ch9)
 **Overview**: Detailed classical discussion on 6. Entertainments reflected in Somesvara’s writings within Manasollasa Study Of Arts And Sciences.
 
-### 10. [8. Horse fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 10](/articles/manasollasa-study-of-arts-and-sciences-ch10)
+### [8. Horse fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 10](/articles/manasollasa-study-of-arts-and-sciences-ch10)
 **Overview**: Detailed classical discussion on 8. Horse fighting described in the Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 11. [11. Ram fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 11](/articles/manasollasa-study-of-arts-and-sciences-ch11)
+### [11. Ram fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 11](/articles/manasollasa-study-of-arts-and-sciences-ch11)
 **Overview**: Detailed classical discussion on 11. Ram fighting described in the Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 12. [13. Pigeon games described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 12](/articles/manasollasa-study-of-arts-and-sciences-ch12)
+### [13. Pigeon games described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 12](/articles/manasollasa-study-of-arts-and-sciences-ch12)
 **Overview**: Detailed classical discussion on 13. Pigeon games described in the Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 13. [16. Matsya-vinoda (the sport of catching fish): Manasollasa Study Of Arts And Sciences Chapter 13](/articles/manasollasa-study-of-arts-and-sciences-ch13)
+### [16. Matsya-vinoda (the sport of catching fish): Manasollasa Study Of Arts And Sciences Chapter 13](/articles/manasollasa-study-of-arts-and-sciences-ch13)
 **Overview**: Detailed classical discussion on 16. Matsya-vinoda (the sport of catching fish) within Manasollasa Study Of Arts And Sciences.
 
-### 14. [18. Marriage in Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 14](/articles/manasollasa-study-of-arts-and-sciences-ch14)
+### [18. Marriage in Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 14](/articles/manasollasa-study-of-arts-and-sciences-ch14)
 **Overview**: Detailed classical discussion on 18. Marriage in Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 15. [15. Falcon fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 15](/articles/manasollasa-study-of-arts-and-sciences-ch15)
+### [15. Falcon fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 15](/articles/manasollasa-study-of-arts-and-sciences-ch15)
 **Overview**: Detailed classical discussion on 15. Falcon fighting described in the Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 16. [2. Art in Citra or Painting: Manasollasa Study Of Arts And Sciences Chapter 16](/articles/manasollasa-study-of-arts-and-sciences-ch16)
+### [2. Art in Citra or Painting: Manasollasa Study Of Arts And Sciences Chapter 16](/articles/manasollasa-study-of-arts-and-sciences-ch16)
 **Overview**: Detailed classical discussion on 2. Art in Citra or Painting within Manasollasa Study Of Arts And Sciences.
 
-### 17. [6. Music in Somesvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 17](/articles/manasollasa-study-of-arts-and-sciences-ch17)
+### [6. Music in Somesvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 17](/articles/manasollasa-study-of-arts-and-sciences-ch17)
 **Overview**: Detailed classical discussion on 6. Music in Somesvara’s Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 18. [4. Use, aim and Function of Art: Manasollasa Study Of Arts And Sciences Chapter 18](/articles/manasollasa-study-of-arts-and-sciences-ch18)
+### [4. Use, aim and Function of Art: Manasollasa Study Of Arts And Sciences Chapter 18](/articles/manasollasa-study-of-arts-and-sciences-ch18)
 **Overview**: Detailed classical discussion on 4. Use, aim and Function of Art within Manasollasa Study Of Arts And Sciences.
 
-### 19. [7. Dance in Somesvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 19](/articles/manasollasa-study-of-arts-and-sciences-ch19)
+### [7. Dance in Somesvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 19](/articles/manasollasa-study-of-arts-and-sciences-ch19)
 **Overview**: Detailed classical discussion on 7. Dance in Somesvara’s Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 20. [3. Mathematics in Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 20](/articles/manasollasa-study-of-arts-and-sciences-ch20)
+### [3. Mathematics in Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 20](/articles/manasollasa-study-of-arts-and-sciences-ch20)
 **Overview**: Detailed classical discussion on 3. Mathematics in Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 21. [4. Ancient Indian sciences and medieval Europe: Manasollasa Study Of Arts And Sciences Chapter 21](/articles/manasollasa-study-of-arts-and-sciences-ch21)
+### [4. Ancient Indian sciences and medieval Europe: Manasollasa Study Of Arts And Sciences Chapter 21](/articles/manasollasa-study-of-arts-and-sciences-ch21)
 **Overview**: Detailed classical discussion on 4. Ancient Indian sciences and medieval Europe within Manasollasa Study Of Arts And Sciences.
 
-### 22. [7. Description and treatment of Fever (Jvara): Manasollasa Study Of Arts And Sciences Chapter 22](/articles/manasollasa-study-of-arts-and-sciences-ch22)
+### [7. Description and treatment of Fever (Jvara): Manasollasa Study Of Arts And Sciences Chapter 22](/articles/manasollasa-study-of-arts-and-sciences-ch22)
 **Overview**: Detailed classical discussion on 7. Description and treatment of Fever (Jvara) within Manasollasa Study Of Arts And Sciences.
 
-### 23. [2. Upabhogas or Enjoyments in Someshvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 23](/articles/manasollasa-study-of-arts-and-sciences-ch23)
+### [2. Upabhogas or Enjoyments in Someshvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 23](/articles/manasollasa-study-of-arts-and-sciences-ch23)
 **Overview**: Detailed classical discussion on 2. Upabhogas or Enjoyments in Someshvara’s Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 24. [Mountains and Forests described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 24](/articles/manasollasa-study-of-arts-and-sciences-ch24)
+### [Mountains and Forests described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 24](/articles/manasollasa-study-of-arts-and-sciences-ch24)
 **Overview**: Detailed classical discussion on Mountains and Forests described in the Manasollasa within Manasollasa Study Of Arts And Sciences.
 
-### 25. [8. Ancient Indian Cooking and Cookery (according to Manasollasa): Manasollasa Study Of Arts And Sciences Chapter 25](/articles/manasollasa-study-of-arts-and-sciences-ch25)
+### [8. Ancient Indian Cooking and Cookery (according to Manasollasa): Manasollasa Study Of Arts And Sciences Chapter 25](/articles/manasollasa-study-of-arts-and-sciences-ch25)
 **Overview**: Detailed classical discussion on 8. Ancient Indian Cooking and Cookery (according to Manasollasa) within Manasollasa Study Of Arts And Sciences.
 
-### 26. [Regions, States and Cities described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 26](/articles/manasollasa-study-of-arts-and-sciences-ch26)
+### [Regions, States and Cities described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 26](/articles/manasollasa-study-of-arts-and-sciences-ch26)
 **Overview**: Detailed classical discussion on Regions, States and Cities described in the Manasollasa within Manasollasa Study Of Arts And Sciences.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. 1. Introduction to Polity and Statecraft (according to the Manasollasa)
+## 1. Introduction to Polity and Statecraft (according to the Manasollasa)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -117,7 +115,7 @@ The question as to how far the ancient Hindus were a political people and evolve
 
 ---
 
-## 3. Preface
+## Preface
 
 Manasollasa (study of Arts and Sciences)
 
@@ -137,7 +135,7 @@ $ iv eminence among the scholars, who have made significant contributions to the
 
 ---
 
-## 4. Acknowledgement
+## Acknowledgement
 
 Manasollasa (study of Arts and Sciences)
 
@@ -155,7 +153,7 @@ i My sincere thanks are due to the University Grants Commission for extending to
 
 ---
 
-## 5. 2. The Seven Elements of State—Introduction
+## 2. The Seven Elements of State—Introduction
 
 Manasollasa (study of Arts and Sciences)
 
@@ -175,7 +173,7 @@ It is a note-worthy feature of Somesvara as a political thinker that he divests 
 
 ---
 
-## 15. 1. Introduction to the ancient Indian science of Government
+## 1. Introduction to the ancient Indian science of Government
 
 Manasollasa (study of Arts and Sciences)
 
@@ -209,7 +207,7 @@ The Manasollasa mentions different terms for the science of Government, which te
 
 ---
 
-## 42. 1. Introduction to science in ancient India
+## 1. Introduction to science in ancient India
 
 Manasollasa (study of Arts and Sciences)
 
@@ -235,7 +233,7 @@ The applications of science are playing a very important part in our daily life.
 
 ---
 
-## 47. 5. Ayurveda or Indian Medicine—Introduction
+## 5. Ayurveda or Indian Medicine—Introduction
 
 Manasollasa (study of Arts and Sciences)
 
@@ -301,7 +299,7 @@ Ayurveda Sastra is very vast, but the following study is only a brief survey of 
 
 ---
 
-## 51. 1. Introduction: the Manasollasa and Encyclopaedic knowledge
+## 1. Introduction: the Manasollasa and Encyclopaedic knowledge
 
 Manasollasa (study of Arts and Sciences)
 
@@ -329,7 +327,7 @@ wheat. 9 375 Then he tells about the treatment of soil. The soil used for the pl
 
 ---
 
-## 53. 3. Somesvara’s Geographical Knowledge of India—Introduction
+## 3. Somesvara’s Geographical Knowledge of India—Introduction
 
 Manasollasa (study of Arts and Sciences)
 

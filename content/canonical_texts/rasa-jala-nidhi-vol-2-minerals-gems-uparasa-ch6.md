@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Purification of shilajatu within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. Part 2 - Purification of shilajatu
+## Part 2 - Purification of shilajatu
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -73,9 +73,10 @@ The man who takes shilajatu should avoid the following, not only during the peri
 
 He should drink rain water, carefully collected during the rainy season, and water from big wells and fountains. He should avoid, once for all, kulattha gram, kakamachi, and flesh of pigeons.
 
-[1]:
 
-Milk proves injurious to the system, if it is taken with such things as meat, fish, sours, beans, etc. (See Charaka and other books on Indian Hygiene).
+<div className="footnote-card"><strong>[1]</strong> Milk proves injurious to the system, if it is taken with such things as meat, fish, sours, beans, etc. (See Charaka and other books on Indian Hygiene).</div>
+
+
 
 Conclusion:
 
@@ -83,7 +84,7 @@ This concludes ‘Purification of shilajatu’ included in Bhudeb Mookerjee Rasa
 
 ---
 
-## 27. Part 3 - Incineration of shilajatu
+## Part 3 - Incineration of shilajatu
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -109,7 +110,7 @@ This concludes ‘Incineration of shilajatu’ included in Bhudeb Mookerjee Rasa
 
 ---
 
-## 28. Part 4 - Karpura-shilajatu (having the odour and appearance of camphor)
+## Part 4 - Karpura-shilajatu (having the odour and appearance of camphor)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -127,7 +128,7 @@ This concludes ‘Karpura-shilajatu (having the odour and appearance of camphor)
 
 ---
 
-## 29. Part 5 - Evil effects of taking impure shila-jatu
+## Part 5 - Evil effects of taking impure shila-jatu
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -149,7 +150,7 @@ This concludes ‘Evil effects of taking impure shila-jatu’ included in Bhudeb
 
 ---
 
-## 30. Part 6 - Sora: a kind of shila-jatu
+## Part 6 - Sora: a kind of shila-jatu
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -167,8 +168,6 @@ This concludes ‘Sora: a kind of shila-jatu’ included in Bhudeb Mookerjee Ras
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -176,10 +175,6 @@ This concludes ‘Sora: a kind of shila-jatu’ included in Bhudeb Mookerjee Ras
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Uparasa (5-6): Tuttha and Sasyaka (copper sulphate): Rasa Jala Nidhi Volume 2 Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

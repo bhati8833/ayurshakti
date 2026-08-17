@@ -138,7 +138,11 @@ Vide Uttara-Tantra, Chapter LXIII.
 
 [8]:
 
+
+<blockquote className="ayur-shloka">
 Both Vrinda and Chakrapani read this but with little difference. Both of them read “kale ca shītale”, i.e., in the cold season. But their commentators accept the reading “kale natyuṣṇashītale”, as in the text, to be a variant. We have the authority of Charaka, however, to accept the reading of the text.
+</blockquote>
+
 
 [9]:
 
@@ -146,7 +150,11 @@ In place of “sūpakalpita” (well-cooked), Chakradatta reads ‘svalpataṇdu
 
 [10]:
 
+
+<blockquote className="ayur-shloka">
 Both Vrinda and Chakrapani read this but with little difference. Both of them read “kale ca śītale”, i.e., in the cold season. But their commentators accept the reading “kale natyuṣṇaśītale”, as in the text, to be a variant. We have the authority of Charaka, however, to accept the reading of the text.
+</blockquote>
+
 
 [11]:
 

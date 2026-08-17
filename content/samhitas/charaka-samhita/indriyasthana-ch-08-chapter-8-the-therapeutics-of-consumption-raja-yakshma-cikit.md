@@ -32,7 +32,11 @@ Chapter 8 - The therapeutics of Consumption (raja-yakshma-cikitsa)
 
 Primogenesis
 
+
+<blockquote className="ayur-shloka">
 3-10. The sages heard an ancient tale of passion concerning the moon as it was narrated among the gods. The moon was so excessively attached to Rohini [rohiṇī], even to the extent of neglecting his physical well-being that his body became very emaciated by the loss of the unctuous element. The great progenitor, Daksha, enraged by the conduct of the moon who neglected the other daughters of Daksha whom be had also taken as his wives, exhaled his wrath through his breath; for indeed the moon took all the twenty-eight of the great progenitor’s daughters for his wives, but failed to live impartially with all of them. Thus, cursed by the great progenitor, consumption [yakshma] entered into the moon who had failed to treat all his wives impartially, and who was submergedin passion and had grown weak. Having grown lustreless in consequence of the great wrath of the progenitor, the moon went to seek his forgiveness, taking the gods and the divine sages with him. The progenitor, finding him to have come back to the path of virtue, was gracious to him and the moon received his treatment from the Ashvius. After he was liberated from the grip of the disease, he shone greatly. The Ashvins having increased his vital essence he acquired also great purity of mind.
+</blockquote>
+
 
 11. Wrath, consumption, fever and disease—all mean the same thing and signify suffering. Since this disease first befell the king (of the stars) it is called the royal disease [i.e., raja-yakshma].
 

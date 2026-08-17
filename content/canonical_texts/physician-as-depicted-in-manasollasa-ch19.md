@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Three phases of Dosasthana within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. 8. Three phases of Dosasthana
+## 8. Three phases of Dosasthana
 
 Physician as depicted in Manasollasa
 
@@ -35,8 +35,6 @@ Three phases of dosasthana—vrddhi  and ksaya  and importance of dhatu  in the 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -44,10 +42,6 @@ Three phases of dosasthana—vrddhi  and ksaya  and importance of dhatu  in the 
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">9. Surgery in Ayurveda: Physician As Depicted In Manasollasa Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

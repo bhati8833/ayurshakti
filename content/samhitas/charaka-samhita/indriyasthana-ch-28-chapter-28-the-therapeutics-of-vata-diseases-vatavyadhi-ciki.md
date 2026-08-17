@@ -116,7 +116,11 @@ Aksepaka
 
 Danda
 
+
+<blockquote className="ayur-shloka">
 51-51½. That is called staff-like rigidity or tonic contraction of the muscles, where the Vata causes tonic rigidity of muscles of the hands, feet, head, back and hips, so that the body becomes as rigid as a staff (Daṇḍa [daṇḍa]). This condition is irremediable.
+</blockquote>
+
 
 52-52½. When the force of the paroxysm is gone in the above condition, the patient returns to normal. If the paroxysm does not leave, the patient gets afflicted with pain and other characteristics peculiar to the lesions. Physicians should regard this condition as incurable
 
@@ -232,7 +236,11 @@ Enema
 
 100. In hemiplegia, sudation with unctuous preparations and purgation are beneficial.
 
+
+<blockquote className="ayur-shloka">
 100-100¾. In sciatica, venesection of the vein situated between Kandara [kaṇḍarā] (tendo-calcaneus) and Gulpha (Malleolus), enemata and cauterization should be resorted to.
+</blockquote>
+
 
 101-101½. In Khalli [khallī], hot poultices prepared with milk pudding or kedgeree ot flesh mixed with oil and ghee are beneficial.
 
@@ -304,9 +312,17 @@ Unctuous Preparations
 
 148-154½. Take 400 tolas of sida, one fourth part of guduch and one eighth quantity of Indian groundsel and cook in 25600 tolas of water till it is reduced to one tenth of the quantity. Prepare 256 tolas of oil with this decoction adding equal quantities of whey, sugar-cane juice and vinegar along with half the quantity of goat’s milk and the paste of four tolas of the leaves of each of the following drugs: zedoary, long leaved pine, deodar, small cardamom, Indian madder, eaglewood, sandal, Himalayan cherry, atees, nut-grass, wild bean, pea, liquorice, holy basil, shell, Rishabhaka, Jivaka, palas-juice, musk, hairy onosma, buds of Spanish jasmine, melilot, saffron lichen, nutmeg, musk mallow, fragrant sticky mallow, cinnamon, resin of Indian olebanum, camphor, liquid storex, yellow resin, cloves, shell, cubeb pepper, costus, nardus, perfumed cherry, glory tree, Indian valerian, ginger grass, sweet flag, sprouts of emetic nut and fragrant poon. This should then be strained and the paste of fragrant drugs added to it and administered duly.
 
-155-156½. This excellent Sida oil is curative of Vata disorders [vatavyadhi] in general and particularly of dyspnea, cough, fever, hyccup, vomiting, Gulma, pectoral lesions, cachexia, splenic disorders, consumption, epilepsy and lack-lustre appearance. (This has been taught to Agniveśa by his guru Kṛṣṇa Ātreya). Thus has been described ‘The Sida Oil’.
 
+<blockquote className="ayur-shloka">
+155-156½. This excellent Sida oil is curative of Vata disorders [vatavyadhi] in general and particularly of dyspnea, cough, fever, hyccup, vomiting, Gulma, pectoral lesions, cachexia, splenic disorders, consumption, epilepsy and lack-lustre appearance. (This has been taught to Agniveśa by his guru Kṛṣṇa Ātreya). Thus has been described ‘The Sida Oil’.
+</blockquote>
+
+
+
+<blockquote className="ayur-shloka">
 157-164. Decoct 2000 tolas of guduch in 8192 tolas of water till reduced to one fourth its quantity. Prepare a medicated oil in this solution by adding 512 tolas of til oil and equal quantity of milk along with the paste of one tola each of cardamom, nardus, Indian valerian, cuscus, Indian sarsaparilla, costus, sandal, sida, ground phyllanthus, Meda, dill seed, Ridhi, Jivaka, Kakoli, Kshirakakoli, small east Indian globe thistle, evening mallow, shell, east Indian globe thistle, cork swallowwort, white yam, cowage, climbing asparagus, Mahameda, galls, pea, sweet flag, Indian caltrops, castor, Indian groundsel, dark blue creeper, crested purple nail dye. climbing asparagus, Indian olebanum, nut-grass, cinnamon, cassia cinnamon, Rishabhaka, fragrant sticky mallow, wild black gram, large cardamom, saffron, melilot and deodar, three tolas of Indian madder and 32 tolas of liquorice. This medicated oil restores the health of those affected with loss of semen, gastric power and vitality and of those who are deluded of mind, as also of those who suffer from insanity aud epilepsy. This foremost of medicated oils, which is curative of Vata-disorders [vatavyadhi], is known by the name of Guduch oil. (This oil described by the preceptor Kṛṣṇa Ātreya is held in high regard by the physicians). Thus has been described ‘The Compound Guduch Oil.’
+</blockquote>
+
 
 165-166. Prepare a medicated oil taking 1024 tolas of oil and cooking it in 4000 tolas of the decoction of Indian groundsel along with the paste of the fragrant group of drugs grown in the Himalayas, adding the cardamom group of drugs. This oil is curative of Vata. Similarly may be prepared the medicated oil of winter-cherry, Chinese moon-creeper and the two varieties of sida or medicated oil of sida and other drugs may be prepared using these drugs individually in the form of decoction, paste or milk. Thus has been described ‘The Indian Groundsel Oil.’
 

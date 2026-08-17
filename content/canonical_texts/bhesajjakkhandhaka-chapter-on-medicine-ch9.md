@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Medicinal Substances in the Chapter on Medicine within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. Chapter 4 - Medicinal Substances in the Chapter on Medicine
+## Chapter 4 - Medicinal Substances in the Chapter on Medicine
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -19,11 +19,9 @@ This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist L
 
 Chapter 4 - Medicinal Substances in the Chapter on Medicine
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 31. Seven-day Medicines (a): Lipids and Sweets
+## Seven-day Medicines (a): Lipids and Sweets
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -72,73 +70,113 @@ In modern nutritional science, these above-mentioned seven-day medicines are all
 
 In brief, certain substances were allowed by the Buddha to be used at most for seven days. These seven-day medicines include ghee, fresh butter, oil, honey, molasses, and rock sugar, as mentioned in the various versions of the Chapter on Medicine. These medicines, according to Āyurveda, have their own properties and therapeutic usages. In modern science, they are important sources of energy. Their usage as medicines may be understood by the fact that large amounts of energy would be needed by the body during sickness for combating illness and for recovery. Thus, foods which provide large amounts of energy would be beneficial according to ancient Indian medicine.
 
-[1]:
 
-Abbreviations for Buddhist schools will be used in the tables in this and the next chapters as: Theravāda for Theravāda, Dharmaguptaka for Dharmaguptaka, Mahīśāsaka for Mahīśāsaka, Sarvāstivāda for Sarvāstivāda, Mūlasarvāstivāda for Mūlasarvāstivāda, and Mahāsāṃghika for Mahāsāṃghika.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Abbreviations for Buddhist schools will be used in the tables in this and the next chapters as: Theravāda for Theravāda, Dharmaguptaka for Dharmaguptaka, Mahīśāsaka for Mahīśāsaka, Sarvāstivāda for Sarvāstivāda, Mūlasarvāstivāda for Mūlasarvāstivāda, and Mahāsāṃghika for Mahāsāṃghika.
+</blockquote>
 
-[2]:
 
-Theravāda Vinaya Piṭaka I. 199: “imāni kho pañca bhesajjāni seyyath’ īdaṃ sappi navanītaṃ telaṃ madhu phānitaṃ bhesajjāni c’ eva bhesajjasammatāni ca lokassa āhārattañ ca pharanti na ca oḷāriko āhāro paññāyati.”
 
-[3]:
 
-Gilgit Manuscritps (Gilgit Manuscripts) III. 1.iii: “sāptāhikaṃ sarpistathā tailaṃ phāṇitaṃ madhu śarkarā.” Taishō Tripiṭaka
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Theravāda Vinaya Piṭaka I. 199: “imāni kho pañca bhesajjāni seyyath’ īdaṃ sappi navanītaṃ telaṃ madhu phānitaṃ bhesajjāni c’ eva bhesajjasammatāni ca lokassa āhārattañ ca pharanti na ca oḷāriko āhāro paññāyati.”
+</blockquote>
 
-[4]:
 
-Milk (乳) is kṣīra in Sanskrit, curds (酪) is dadhi, butter (生酥) is navanīta, ghee (or clarified butter) (熟酥) is ghṛta (or sarpi), and the finest ghee (醍醐) is sarpirmaṇḍa, according to Foguang da cidian 佛光大辭典 (Large Dictionary of the Buddha’s Light), s.v. “五味” [accessed January 12, 2015, https://www.fgs.org.tw/fgs_book/fgs_drser.aspx].
 
-[5]:
 
-. 1b8: “七日藥者：酥、油、糖、蜜、石蜜。”
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Gilgit Manuscritps (Gilgit Manuscripts) III. 1.iii: “sāptāhikaṃ sarpistathā tailaṃ phāṇitaṃ madhu śarkarā.” Taishō Tripiṭaka
+</blockquote>
 
-[6]:
 
-Taishō Tripiṭaka 1428. 869b26-28: “有五種藥，是世常用者，酥、油、蜜、生酥、石蜜。我今寧可令諸比丘食之，當食常藥不令麁現，如飯麨法。”
 
-[7]:
 
-The Chapter on Medicine parallel in the Mahāsāṃghika Vinaya does not contain a passage on the autumnal disease and the seven-day medicines. This list is extracted from elsewhere in this Vinaya.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Milk (乳) is kṣīra in Sanskrit, curds (酪) is dadhi, butter (生酥) is navanīta, ghee (or clarified butter) (熟酥) is ghṛta (or sarpi), and the finest ghee (醍醐) is sarpirmaṇḍa, according to Foguang da cidian 佛光大辭典 (Large Dictionary of the Buddha’s Light), s.v. “五味” [accessed January 12, 2015, https://www.fgs.org.tw/fgs_book/fgs_drser.aspx].
+</blockquote>
 
-[8]:
 
-Taishō Tripiṭaka 1421. 147b8: “世人以酥、油、蜜、石蜜為藥，我今當聽諸比丘服。”
 
-[9]:
 
-Taishō Tripiṭaka 1425. 454b21-22: “七日藥者，酥、油、蜜、石蜜、生酥、膏... 是名七日藥。” Grease or animal fat (vasā) is approved as one of the seven-day medicines in the Vinayas, though the lists of such substances for curing autumnal disease do not include it. This group will be discussed in the next section.
+<div className="footnote-card"><strong>[5]</strong> . 1b8: “七日藥者：酥、油、糖、蜜、石蜜。”</div>
 
-[10]:
 
-These four are described as “含消”, which literally means “being held in mouth, [it] disappears.” It refers to those foods or medicines which are soft and easily swallowed.
 
-[11]:
 
-Madhuka, which should be madhūka, is mahua tree (Bassia latifolia). See Pali-English Dictionary, s.v. “madhuka”; Dutt 2012, 188; Khare 2004, 297-298.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Taishō Tripiṭaka 1428. 869b26-28: “有五種藥，是世常用者，酥、油、蜜、生酥、石蜜。我今寧可令諸比丘食之，當食常藥不令麁現，如飯麨法。”
+</blockquote>
 
-[12]:
 
-Taishō Tripiṭaka 1435. 184c3: “…四種含消藥酥油蜜石蜜。” These are allowed for use before and after noon (184c11).
 
-[13]:
 
-Theravāda Vinaya Piṭaka III. 251: “sappi nāma gosappi vā ajikāsappi vā māhisaṃ vā sappi, yesaṃ maṃsaṃ kappati tesaṃ sappi. navanītaṃ nāma tesaṃ yeva navanītaṃ. telaṃ nāma tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ. madhu nāma makkhikāmadhu. phāṇitaṃ nāma ucchumhā nibbattaṃ.” The Mahāsāṃghika Vinaya enumerates a lot more items for each kind of the sevenday medicines than those given in the Theravāda Suttavibhaṅga (Taishō Tripiṭaka 1425. 244c13-25). However, these items are too many to be translated all here. In fact, abundant items for all four types of medicine can be found in Taishō Tripiṭaka 1425. 244b20-245a3.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The Chapter on Medicine parallel in the Mahāsāṃghika Vinaya does not contain a passage on the autumnal disease and the seven-day medicines. This list is extracted from elsewhere in this Vinaya.
+</blockquote>
 
-[14]:
 
-Other milk products named in the Āyurvedic texts are curds (dadhi), buttermilk (takra), whey (mastu), etc.
 
-[15]:
 
-See the translators’ notes to Caraka Saṃhitā Sūtrasthāna 13. 18 (in Sharma and Dash 2005-2013, vol. 1, 249) for detailed explanation. Autumnal illness will be discussed in Chapter Five.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Taishō Tripiṭaka 1421. 147b8: “世人以酥、油、蜜、石蜜為藥，我今當聽諸比丘服。”
+</blockquote>
 
-[16]:
 
-For further information of these substances in modern science, see Encyclopædia Britannica Online, s.v. “human nutrition” and “sugar” [accessed January 14, 2015, http://academic.eb.com/EBchecked/topic/422896/human-nutrition, and http://academic.eb.com/EBchecked/topic/571880/sugar, respectively]; Khan, Abadin, and Rauf 2007, 1705-1707; Lerner and Lerner 2008a, 1692-1693.
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Taishō Tripiṭaka 1425. 454b21-22: “七日藥者，酥、油、蜜、石蜜、生酥、膏... 是名七日藥。” Grease or animal fat (vasā) is approved as one of the seven-day medicines in the Vinayas, though the lists of such substances for curing autumnal disease do not include it. This group will be discussed in the next section.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> These four are described as “含消”, which literally means “being held in mouth, [it] disappears.” It refers to those foods or medicines which are soft and easily swallowed.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Madhuka, which should be madhūka, is mahua tree (Bassia latifolia). See Pali-English Dictionary, s.v. “madhuka”; Dutt 2012, 188; Khare 2004, 297-298.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Taishō Tripiṭaka 1435. 184c3: “…四種含消藥酥油蜜石蜜。” These are allowed for use before and after noon (184c11).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Theravāda Vinaya Piṭaka III. 251: “sappi nāma gosappi vā ajikāsappi vā māhisaṃ vā sappi, yesaṃ maṃsaṃ kappati tesaṃ sappi. navanītaṃ nāma tesaṃ yeva navanītaṃ. telaṃ nāma tilatelaṃ sāsapatelaṃ madhukatelaṃ eraṇḍatelaṃ vasātelaṃ. madhu nāma makkhikāmadhu. phāṇitaṃ nāma ucchumhā nibbattaṃ.” The Mahāsāṃghika Vinaya enumerates a lot more items for each kind of the sevenday medicines than those given in the Theravāda Suttavibhaṅga (Taishō Tripiṭaka 1425. 244c13-25). However, these items are too many to be translated all here. In fact, abundant items for all four types of medicine can be found in Taishō Tripiṭaka 1425. 244b20-245a3.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Other milk products named in the Āyurvedic texts are curds (dadhi), buttermilk (takra), whey (mastu), etc.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> See the translators’ notes to Caraka Saṃhitā Sūtrasthāna 13. 18 (in Sharma and Dash 2005-2013, vol. 1, 249) for detailed explanation. Autumnal illness will be discussed in Chapter Five.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> For further information of these substances in modern science, see Encyclopædia Britannica Online, s.v. “human nutrition” and “sugar” [accessed January 14, 2015, http://academic.eb.com/EBchecked/topic/422896/human-nutrition, and http://academic.eb.com/EBchecked/topic/571880/sugar, respectively]; Khan, Abadin, and Rauf 2007, 1705-1707; Lerner and Lerner 2008a, 1692-1693.
+</blockquote>
 
 ---
 
-## 32. Seven-day Medicines (b): Animal Fats (Vasā)
+## Seven-day Medicines (b): Animal Fats (Vasā)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -275,73 +313,114 @@ Mahāsāṃghika:—
 猪脂 (pig fat)
 失修摩羅脂 (alligator fat)
 
-[1]:
 
-See, for example, Taishō Tripiṭaka 1425. 244c20-c23. In addition, the Mahāsāṃghika Vinaya says clearly that wind diseases should be treated with oils or animal fats, while fever (i.e. diseases by bile humour) should be cured by ghee, water diseases (i.e. diseases by phlegm humour) by honey, and diseases due to a combination of three humours by these three medicines (Taishō Tripiṭaka 1425. 316c21-23).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> See, for example, Taishō Tripiṭaka 1425. 244c20-c23. In addition, the Mahāsāṃghika Vinaya says clearly that wind diseases should be treated with oils or animal fats, while fever (i.e. diseases by bile humour) should be cured by ghee, water diseases (i.e. diseases by phlegm humour) by honey, and diseases due to a combination of three humours by these three medicines (Taishō Tripiṭaka 1425. 316c21-23).
+</blockquote>
 
-[2]:
 
-Susukā was rendered as alligator in Pali-English Dictionary. The English translation of the Theravāda Vinaya (The Book of the Discipline) also translated this term as alligator. This seemingly was adopted by Zysk (1991, 76). But this meaning is probably incorrect. The Mahāniddesa-Āṭṭhakathā (II. 396) explains it thus: “susukā is said as a fierce fish” (susukā vuccati caṇḍamaccho). This rendering can be supported by the related information in the Mūlasarvāstivāda Vinaya: By comparing the Sanskrit and Chinese versions of the Bhaiṣajyavastu of this Vinaya, the term śuśukā should parallel with finless porpoise (江豚), which should refer to Gangetic porpoise. Hence the term susukā should mean Gangetic porpoise.
 
-[3]:
 
-Theravāda Vinaya Piṭaka I. 200: “vasāni bhesajjāni acchavasaṃ macchavasaṃ susukāvasaṃ sūkaravasaṃ gadrabhavasaṃ kāle paṭiggahitaṃ kāle nipakkaṃ kāle saṃsaṭṭhaṃ telaparibhogena paribhuñjituṃ.”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Susukā was rendered as alligator in Pali-English Dictionary. The English translation of the Theravāda Vinaya (The Book of the Discipline) also translated this term as alligator. This seemingly was adopted by Zysk (1991, 76). But this meaning is probably incorrect. The Mahāniddesa-Āṭṭhakathā (II. 396) explains it thus: “susukā is said as a fierce fish” (susukā vuccati caṇḍamaccho). This rendering can be supported by the related information in the Mūlasarvāstivāda Vinaya: By comparing the Sanskrit and Chinese versions of the Bhaiṣajyavastu of this Vinaya, the term śuśukā should parallel with finless porpoise (江豚), which should refer to Gangetic porpoise. Hence the term susukā should mean Gangetic porpoise.
+</blockquote>
 
-[4]:
 
-Taishō Tripiṭaka 1428. 869c15-17: “五種脂：羆脂、魚脂、驢脂、猪脂、失守摩羅脂... 時受時漉時煮，
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Theravāda Vinaya Piṭaka I. 200: “vasāni bhesajjāni acchavasaṃ macchavasaṃ susukāvasaṃ sūkaravasaṃ gadrabhavasaṃ kāle paṭiggahitaṃ kāle nipakkaṃ kāle saṃsaṭṭhaṃ telaparibhogena paribhuñjituṃ.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1428. 869c15-17: “五種脂：羆脂、魚脂、驢脂、猪脂、失守摩羅脂... 時受時漉時煮，
+</blockquote>
+
+
 
 如油法服”. 失守摩羅 should be śiśumāra (alligator). See Dash 2008, 571. In addition, there is another case in the Dharmaguptaka Bhaiṣajyaskandhaka concerning the use of human fat to treat pimples (Taishō Tripiṭaka 1428. 870c5-6). But there is no specification of the seven-day use for this case.
 
-[5]:
 
-Taishō Tripiṭaka 1421. 147b24: “牛、驢、駱駝、鱣脂。”
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1421. 147b24: “牛、驢、駱駝、鱣脂。”
+</blockquote>
 
-[6]:
 
-This list of animal fats as medicines is found not in the Sarvāstivāda Bhaiṣajyadharmaka, but elsewhere in this Vinaya.
 
-[7]:
 
-Taishō Tripiṭaka 1435. 156c26 or 333c12-13: “四種淨脂：熊脂、驢脂、猪脂、鱣脂”.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> This list of animal fats as medicines is found not in the Sarvāstivāda Bhaiṣajyadharmaka, but elsewhere in this Vinaya.
+</blockquote>
 
-[8]:
 
-Gilgit Manuscripts III. 1.v: “pañca vasāḥ prasevitavyāḥ| katamāḥ pañca| matsyavasā śuśukāvasā śuśumāravasā rikṣavasā sūkaravasā ca| … kāle pakvāḥ kāle parisrutāḥ kāle pratigrāhitāḥ kāle’dhiṣṭhtāstailaparibhogena saptāhaṃ paribhoktavyā iti|” Śuśumāra seems to be a corruption of śiśumāra. Rikṣavasā should be ṛkṣavasā.
 
-[9]:
 
-Taishō Tripiṭaka 1448. 1c21-28: “有五種脂：一者魚脂，二者江豚脂，三者鮫魚脂，四者熊脂，五者猪脂。... 時煮、時漉、時受、時守持，應服。如服油法，七日服，過七日不應服。” The
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Taishō Tripiṭaka 1435. 156c26 or 333c12-13: “四種淨脂：熊脂、驢脂、猪脂、鱣脂”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gilgit Manuscripts III. 1.v: “pañca vasāḥ prasevitavyāḥ| katamāḥ pañca| matsyavasā śuśukāvasā śuśumāravasā rikṣavasā sūkaravasā ca| … kāle pakvāḥ kāle parisrutāḥ kāle pratigrāhitāḥ kāle’dhiṣṭhtāstailaparibhogena saptāhaṃ paribhoktavyā iti|” Śuśumāra seems to be a corruption of śiśumāra. Rikṣavasā should be ṛkṣavasā.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Taishō Tripiṭaka 1448. 1c21-28: “有五種脂：一者魚脂，二者江豚脂，三者鮫魚脂，四者熊脂，五者猪脂。... 時煮、時漉、時受、時守持，應服。如服油法，七日服，過七日不應服。” The
+</blockquote>
+
+
 
 Chinese list of animal fats differs from the Sanskrit list at the third item.
 
-[10]:
 
-The Chapter on Medicine parallel of the Mahāsāṃghika Vinaya does not comprise a list of animal fats. This list comes from another part in this Vinaya.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> The Chapter on Medicine parallel of the Mahāsāṃghika Vinaya does not comprise a list of animal fats. This list comes from another part in this Vinaya.
+</blockquote>
 
-[11]:
 
-Taishō Tripiṭaka 1425. 318a19-20: “脂者... 魚脂、熊脂、羆脂、猪脂、失修摩羅脂”. 失修摩羅 should be śiśumāra.
 
-[12]:
 
-Moreover, the mention of using ox fat is unthinkable in a culture where ox/cow is regarded as sacred.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Taishō Tripiṭaka 1425. 318a19-20: “脂者... 魚脂、熊脂、羆脂、猪脂、失修摩羅脂”. 失修摩羅 should be śiśumāra.
+</blockquote>
 
-[13]:
 
-This text is believed by scholars to correspond in part to the Samantapāsādikā.
 
-[14]:
 
-Taishō Tripiṭaka 1462. 795b1-2: “失守摩羅者，鰐魚也”.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Moreover, the mention of using ox fat is unthinkable in a culture where ox/cow is regarded as sacred.
+</blockquote>
 
-[15]:
 
-Samantapāsādikā V. 1089: “kāle paṭggahitan ti ādīsu majjhantike avītivatte paṭiggahetvā pacitvā parissāvetvā’ti attho.”
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> This text is believed by scholars to correspond in part to the Samantapāsādikā.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Taishō Tripiṭaka 1462. 795b1-2: “失守摩羅者，鰐魚也”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Samantapāsādikā V. 1089: “kāle paṭggahitan ti ādīsu majjhantike avītivatte paṭiggahetvā pacitvā parissāvetvā’ti attho.”
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -350,10 +429,6 @@ Samantapāsādikā V. 1089: “kāle paṭggahitan ti ādīsu majjhantike avīti
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Medicines (b): Stems (Gaṇḍa): Bhesajjakkhandhaka Chapter On Medicine Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Composite man (rāśi-puruṣa) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. Composite man (rāśi-puruṣa)
+## Composite man (rāśi-puruṣa)
 
 Philosophy of Charaka-samhita
 
@@ -27,101 +27,160 @@ The inner self (antarātmā), as has been stated earlier, is conscious. The empi
 
 The inner self is not different in distinct individual organisms. But it is one and the same unchanging higher “Self” (paramātmā). The difference is due the peculiarities of the stationed adjunct (upādhi), that is, the psychosomatic complex. The actions and experiences like pleasure and pain also differ according to this difference.[20] The experiences are owned by the inner self. Since the body- mind- sense complex is illumined by the consciousness of the inner self (antarātmā), they serve as sites of all experiences, desire, and the like.[21] Pleasure, pain and all their ramifications arise only when there occurs the self-mind - sense - object contact.[22] The entire body-mind complex becomes aglow with consciousness of the inner self. Thus, the phenomenal self becomes aware of the world outside and feelings within, because of the involvements of sense organs and mind.[23]
 
-[1]:
 
-KFL, p.133.
+<div className="footnote-card"><strong>[1]</strong> KFL, p.133.</div>
 
-[2]:
 
-CS. Su. I, 46; Kāśyapasaṃhitā of Vṛddhajīvaka, Śārīra - sthāna, p. 67.
 
-[3]:
 
-rāśirasmāya viśeṣeṇopadiṣṭaḥ sa, "rāśiḥ',"raśmiḥ', "raśane', ityevaṃ viṣayāḥ; Vyākaraṇamahābhāṣya of Patañjali.,Vol. VI, VII.i. 96, p. 90.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> CS. Su. I, 46; Kāśyapasaṃhitā of Vṛddhajīvaka, Śārīra - sthāna, p. 67.
+</blockquote>
 
-[4]:
 
-DO, p. 23. "".........the body of any living being is regarded as belonging to a jīva, which may be roughly and inadequately regarded as corresponding to the Western concept of "person' ''. PIP, p. 53.
 
-[5]:
 
-“punaśca dhātubhedena caturviṃśatikaḥ smṛtaḥ”, CS, Śārīra - sthāna, I.17 caturviṃśatiko hyeṣa rāśiḥ puruṣasamjñakaḥ. Ibid., 35.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> rāśirasmāya viśeṣeṇopadiṣṭaḥ sa, "rāśiḥ',"raśmiḥ', "raśane', ityevaṃ viṣayāḥ; Vyākaraṇamahābhāṣya of Patañjali.,Vol. VI, VII.i. 96, p. 90.
+</blockquote>
 
-[6]:
 
-“khādīni buddhiravyaktamahaṃkārastathā'ṣṭamḥ bhūtaprakṛti-
 
-[7]:
 
-buddhīndriyāṇi pañcaiva pañcakarmendriyāṇi ca samanaskāśca pañcārthāḥ vikārā iti saṃjñitāḥ, Ibid., 64.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> DO, p. 23. "".........the body of any living being is regarded as belonging to a jīva, which may be roughly and inadequately regarded as corresponding to the Western concept of "person' ''. PIP, p. 53.
+</blockquote>
 
-[8]:
 
-“buddhīndriyamano'rthānāṃ vidyādyogadharaṃ paraṃ”, Ibid., 35.
 
-[9]:
 
-“Under these circumstances the rāśi can be better treated as a dead body which is also devoid of consciousness”. ODST, p.101.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “punaśca dhātubhedena caturviṃśatikaḥ smṛtaḥ”, CS, Śārīra - sthāna, I.17 caturviṃśatiko hyeṣa rāśiḥ puruṣasamjñakaḥ. Ibid., 35.
+</blockquote>
 
-[10]:
 
-“sa pumāṃścetanaṃ tacca taccādhikaraṇaṃ smṛtaṃ”, CS, Su, I. 47.
 
-[11]:
 
-atra karmaphalaṃ cātra jñānaṃ cātra pratiṣṭitaṃ atra mohaḥ sukhaṃ duḥkhaṃ jīvitaṃ maraṇaṃ svatā. CS, Śārīra - sthāna, I. 37.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> “khādīni buddhiravyaktamahaṃkārastathā'ṣṭamḥ bhūtaprakṛti-
+</blockquote>
 
-[12]:
 
-evaṃ yo veda tattvena sa veda pralayodayau pāraṃparyaṃ cikitsāṃ ca jñātavyaṃ yacca kiñcana. Ibid., 38.
 
-[13]:
 
-“..........samudayo nirīśaḥ sattvasaṃjñakaḥ”, Ibid., 47.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> buddhīndriyāṇi pañcaiva pañcakarmendriyāṇi ca samanaskāśca pañcārthāḥ vikārā iti saṃjñitāḥ, Ibid., 64.
+</blockquote>
 
-[14]:
 
-“ātmā jñaḥ karaṇairyogāt jñānaṃtvasya pravartate” Ibid., 54.
 
-[15]:
 
-buddhindriyamano'rthānāṃ vidyādyogadharaṃ paraṃ. Ibid., 35.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> “buddhīndriyamano'rthānāṃ vidyādyogadharaṃ paraṃ”, Ibid., 35.
+</blockquote>
 
-[16]:
 
-Ibid., 50-51; “nitytvaṃ cātmānaḥ pūrvāparāvasthānubhūtārthapratisandhānāt;nahyanitye jñātari pūrvānubhūta-marthamuttaro jñātā pratisandhatte”. Cakrapāṇi on CS, Su, I. 56.
 
-[17]:
 
-“dehī sarvagato'pyātmā sve sve saṃsparśanendriye sarvāḥ sarvāśrayasthāstu nātmā'to vetti vedanāḥ”. CS, Śārīra - sthāna, I. 79.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> “Under these circumstances the rāśi can be better treated as a dead body which is also devoid of consciousness”. ODST, p.101.
+</blockquote>
 
-[18]:
 
-Ibid., I. 65; “kṣīyata iti kṣetraṃ”, "kṣi nivāsagatyoḥ', "kṣi kṣaye' vā dhātuḥ. kṣetraṃ śarīraṃ jānātīti kṣetrajnaḥ jñā avabodhane, Vivṛti on Amarakośa., Vol. 1. iv. 29, p.89 . kṣetrajña is used in the sense of individual self. JJL, p. 150. Sivādityya uses the term kṣetrajña for indvedual selves: “kṣetrajñā asmadādayo'nantā eva”, Saptapadārthi of Śivāditya., p. 23.
 
-[19]:
 
-DO, p. 24.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “sa pumāṃścetanaṃ tacca taccādhikaraṇaṃ smṛtaṃ”, CS, Su, I. 47.
+</blockquote>
 
-[20]:
 
-nirvikāraḥ parastvātmā sarvabhūtānāṃ nirviśeṣaḥ;sattvaśarīrayostu viśeṣādviśeṣopalabdhiḥ. CS, Śārīra - sthāna, IV.33.
 
-[21]:
 
-“vedanānāṃ adhiṣṭānaṃ mano dehaśca sendriyaḥ”. Ibid., I. 136.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> atra karmaphalaṃ cātra jñānaṃ cātra pratiṣṭitaṃ atra mohaḥ sukhaṃ duḥkhaṃ jīvitaṃ maraṇaṃ svatā. CS, Śārīra - sthāna, I. 37.
+</blockquote>
 
-[22]:
 
-Ibid., 130-31.
 
-[23]:
 
-DO, p. 24.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> evaṃ yo veda tattvena sa veda pralayodayau pāraṃparyaṃ cikitsāṃ ca jñātavyaṃ yacca kiñcana. Ibid., 38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> “..........samudayo nirīśaḥ sattvasaṃjñakaḥ”, Ibid., 47.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> “ātmā jñaḥ karaṇairyogāt jñānaṃtvasya pravartate” Ibid., 54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> buddhindriyamano'rthānāṃ vidyādyogadharaṃ paraṃ. Ibid., 35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Ibid., 50-51; “nitytvaṃ cātmānaḥ pūrvāparāvasthānubhūtārthapratisandhānāt;nahyanitye jñātari pūrvānubhūta-marthamuttaro jñātā pratisandhatte”. Cakrapāṇi on CS, Su, I. 56.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> “dehī sarvagato'pyātmā sve sve saṃsparśanendriye sarvāḥ sarvāśrayasthāstu nātmā'to vetti vedanāḥ”. CS, Śārīra - sthāna, I. 79.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Ibid., I. 65; “kṣīyata iti kṣetraṃ”, "kṣi nivāsagatyoḥ', "kṣi kṣaye' vā dhātuḥ. kṣetraṃ śarīraṃ jānātīti kṣetrajnaḥ jñā avabodhane, Vivṛti on Amarakośa., Vol. 1. iv. 29, p.89 . kṣetrajña is used in the sense of individual self. JJL, p. 150. Sivādityya uses the term kṣetrajña for indvedual selves: “kṣetrajñā asmadādayo'nantā eva”, Saptapadārthi of Śivāditya., p. 23.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> DO, p. 24.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> nirvikāraḥ parastvātmā sarvabhūtānāṃ nirviśeṣaḥ;sattvaśarīrayostu viśeṣādviśeṣopalabdhiḥ. CS, Śārīra - sthāna, IV.33.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> “vedanānāṃ adhiṣṭānaṃ mano dehaśca sendriyaḥ”. Ibid., I. 136.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., 130-31.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> DO, p. 24.</div>
 
 ---
 
-## 36. The Foundational “Self” (cetanādhātu)
+## The Foundational “Self” (cetanādhātu)
 
 Philosophy of Charaka-samhita
 
@@ -179,219 +238,331 @@ Puruṣa or Brahman, as construed by Caraka, is the all pervading essence, that 
 
 Thus Caraka, though agrees with the Vedāntins who call it Brahman, says that the foundational principle of unity differs in his vision regarding its real nature. According to him, cetanādhātu-puruṣa or Brahman is not pure consciousness nor without consciousness, but conscious. The peculiar way of the description of the conscious puruṣa as the foundation of the world of diversity and the origin of the world as a real manifestation of the “unmanifest” differentiates Caraka's concept of “Self” from the conceptions of “Self” in other philosophical systems.
 
-[1]:
 
-Elsewhere it is stated as “cetanavan”, CS, Śārīra - sthāna, I. 76.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Elsewhere it is stated as “cetanavan”, CS, Śārīra - sthāna, I. 76.
+</blockquote>
 
-[2]:
 
-“idameva cātmanaścetanatvaṃ, yadindryasaṃyoge sati jñānasālitvaṃ, na kevalasyātmanaśetantvaṃ”. Cakrapāṇi on CS, Su, I. 48.
 
-[3]:
 
-“tattvajñānamapi hi mokṣaṃ janayitva nivartata eva kāraṇābhāvāt”. Cakrapāṇi on CS, Śārīra - sthāna, I. 154.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “idameva cātmanaścetanatvaṃ, yadindryasaṃyoge sati jñānasālitvaṃ, na kevalasyātmanaśetantvaṃ”. Cakrapāṇi on CS, Su, I. 48.
+</blockquote>
 
-[4]:
 
-“The self in itself is with out consciousness. Consciousness can only come to it through its connection with the sense organs and manas”. HIPS, Vol. I. p. 214.
 
-[5]:
 
-See Ibid.,Vol. II. p. 368.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “tattvajñānamapi hi mokṣaṃ janayitva nivartata eva kāraṇābhāvāt”. Cakrapāṇi on CS, Śārīra - sthāna, I. 154.
+</blockquote>
 
-[6]:
 
-Debiprasad Chattopadhyaya, what is Living and What is Dead in Indian Philosophy, People,s Publication House, (First edn.1976) New Delhi, Third edn. 1993, p. 417.
 
-[7]:
 
-""In its transcendental aspect there is no consciousness. Consciousness is a quality that emerges incidental to the involvement of "Self' in the phenomenal mass''. DO, p. 23-24.
+<div className="footnote-card"><strong>[4]</strong> “The self in itself is with out consciousness. Consciousness can only come to it through its connection with the sense organs and manas”. HIPS, Vol. I. p. 214.</div>
 
-[8]:
 
-PVS, p. 165.
 
-[9]:
 
-“mano mano'rtho buddhirātmā cetyāddhyātmādravyasaṅgrahaḥ”. CS, Su, VIII. 13.
+<div className="footnote-card"><strong>[5]</strong> See Ibid.,Vol. II. p. 368.</div>
 
-[10]:
 
-See supra, p. 54.
 
-[11]:
 
-Knowledge of objects is not possible without sense kind of relation between the self consciousness and objects. For further details see infra, pp. 261 - 62.
+<div className="footnote-card"><strong>[6]</strong> Debiprasad Chattopadhyaya, what is Living and What is Dead in Indian Philosophy, People,s Publication House, (First edn.1976) New Delhi, Third edn. 1993, p. 417.</div>
 
-[12]:
 
-“karaṇāni mano buddhirbuddhikarmendriyāni ca”. Ibid., 56;
 
-[13]:
 
-“jāyate tatra yā buddhirniścayātmika”. Ibid., 23; see also Ibid., 23.
+<div className="footnote-card"><strong>[7]</strong> ""In its transcendental aspect there is no consciousness. Consciousness is a quality that emerges incidental to the involvement of "Self' in the phenomenal mass''. DO, p. 23-24.</div>
 
-[14]:
 
-Ibid., 43 - 44.
 
-[15]:
 
-“na cātmā satsvindriyeṣu jñaḥ, asatsu vā bhavatyjñaḥ, na hyasatvaḥ kadaācidātmā, sattvaviśeṣāccopalabhyate jñānaviśeṣa iti”. CS, Śārīra - sthāna, III. 18.
+<div className="footnote-card"><strong>[8]</strong> PVS, p. 165.</div>
 
-[16]:
 
-Ibid., II. 31, 35.
 
-[17]:
 
-tasmin caramasanyāse samūlāḥ sarvavedanāḥ sasaṃjñājñānavijñānā nivṛttiṃ yāntyaśeṣataḥ. Ibid., I., 154. There are different versions for the word “sasañjnājnāna”. Another reading is "samajñajnānavijnāna', CSJ, Vol. III, p.1560. Dasgupta accepts the reading “asaṃjñājñāna”. HIPS Vol. I, p. 215, F. Notes. It may be noted that the word sañjnāna is used in the Aitareya Upaniṣad in the sense of determinate knowledge, See CHI, Vol. III, p. 508. How ever the expression “saṃjñājñānavijñāna” is reliable, for he has previously used it in the Nidānasthāna while defining insanity. “unmādaṃ punarmanobuddhisaṃjñājñānasmṛti......”, CS, Nidāna - sthāna, VII. 5.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> “mano mano'rtho buddhirātmā cetyāddhyātmādravyasaṅgrahaḥ”. CS, Su, VIII. 13.
+</blockquote>
 
-[18]:
 
-CS, Śārīra - sthāna, I. 54-55.
 
-[19]:
 
-CS, Su, XXX. 4.
+<div className="footnote-card"><strong>[10]</strong> See supra, p. 54.</div>
 
-[20]:
 
-tasmājñaḥ prakṛtiścātmā draṣṭā kāraṇameva ca, CS, Śārīra - sthāna, III. 25.
 
-[21]:
 
-CS, Śārīra - sthāna, I. 59.
+<div className="footnote-card"><strong>[11]</strong> Knowledge of objects is not possible without sense kind of relation between the self consciousness and objects. For further details see infra, pp. 261 - 62.</div>
 
-[22]:
 
-tadeva bhāvādagrāhyaṃ nityatvaṃ na kutaścana,bhāvājñeyaṃ tadavyaktamacintyaṃ vyaktamanyathā. Ibid., 60. According to Caraka eternity means the one with out a cause,See Ibid., 59.
 
-[23]:
 
-avyaktamātmā kṣetrajnaḥ śāśvato vibhuravyayaḥ, CS, Śārīra - sthāna, I. 61., Cf. Manusmṛti., I. 11.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> “karaṇāni mano buddhirbuddhikarmendriyāni ca”. Ibid., 56;
+</blockquote>
 
-[24]:
 
-See Ibid., 68. It invokes Śārṇgadharasaṃhitā of Śārṇgadharācārya., I; V. 55.
 
-[25]:
 
-See supra, p. 121.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> “jāyate tatra yā buddhirniścayātmika”. Ibid., 23; see also Ibid., 23.
+</blockquote>
 
-[26]:
 
-For details See supra, p. 122.
 
-[27]:
 
-Loc. cit., F. Note, 22.
+<div className="footnote-card"><strong>[14]</strong> Ibid., 43 - 44.</div>
 
-[28]:
 
-“na parīkṣā na parīkṣyaṃ na kartā karaṇaṃ na ca na devā naṛṣayaḥ siddhāḥ karma karmaphalaṃ na ca nāstikasyāsti naivātmā yadṛcchopahatātmanaḥ pātakebhyaḥ paraṃ caitat pātakaṃ nāstikagrahaḥ”, CS, Su, XI. 1415.
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> “na cātmā satsvindriyeṣu jñaḥ, asatsu vā bhavatyjñaḥ, na hyasatvaḥ kadaācidātmā, sattvaviśeṣāccopalabhyate jñānaviśeṣa iti”. CS, Śārīra - sthāna, III. 18.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid., II. 31, 35.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> tasmin caramasanyāse samūlāḥ sarvavedanāḥ sasaṃjñājñānavijñānā nivṛttiṃ yāntyaśeṣataḥ. Ibid., I., 154. There are different versions for the word “sasañjnājnāna”. Another reading is "samajñajnānavijnāna', CSJ, Vol. III, p.1560. Dasgupta accepts the reading “asaṃjñājñāna”. HIPS Vol. I, p. 215, F. Notes. It may be noted that the word sañjnāna is used in the Aitareya Upaniṣad in the sense of determinate knowledge, See CHI, Vol. III, p. 508. How ever the expression “saṃjñājñānavijñāna” is reliable, for he has previously used it in the Nidānasthāna while defining insanity. “unmādaṃ punarmanobuddhisaṃjñājñānasmṛti......”, CS, Nidāna - sthāna, VII. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> CS, Śārīra - sthāna, I. 54-55.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> CS, Su, XXX. 4.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> tasmājñaḥ prakṛtiścātmā draṣṭā kāraṇameva ca, CS, Śārīra - sthāna, III. 25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> CS, Śārīra - sthāna, I. 59.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> tadeva bhāvādagrāhyaṃ nityatvaṃ na kutaścana,bhāvājñeyaṃ tadavyaktamacintyaṃ vyaktamanyathā. Ibid., 60. According to Caraka eternity means the one with out a cause,See Ibid., 59.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> avyaktamātmā kṣetrajnaḥ śāśvato vibhuravyayaḥ, CS, Śārīra - sthāna, I. 61., Cf. Manusmṛti., I. 11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> See Ibid., 68. It invokes Śārṇgadharasaṃhitā of Śārṇgadharācārya., I; V. 55.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> See supra, p. 121.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> For details See supra, p. 122.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Loc. cit., F. Note, 22.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> “na parīkṣā na parīkṣyaṃ na kartā karaṇaṃ na ca na devā naṛṣayaḥ siddhāḥ karma karmaphalaṃ na ca nāstikasyāsti naivātmā yadṛcchopahatātmanaḥ pātakebhyaḥ paraṃ caitat pātakaṃ nāstikagrahaḥ”, CS, Su, XI. 1415.
+</blockquote>
+
+
 
 According to Cārvākas, life and consciousness are the products of the combination of the four material elements just as the power of intoxication (madaśakti) generated in molasses: “tatra pṛthivyādīni bhūtāni catvāri tattvāni. tebhyaḥ eva dehakaraṇapariṇatebhyo madasaktivaccaitanya-mupajayate”, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 2. Ṣaḍdarśanasamucaya of Haribhadra., p. 108; A theory of Cārvākas is being nurrated by Jaavaala in Rāmāyaṇa, Ayodhya, sarga.108, 15.
 
-[29]:
 
-BT, p. 66. The usual Sanskrit word used for depended origination is: pratītyāsamutpāda. (paṭiccasamutpāda in Pāli). Caraka refers to its promulgators by the term “pāraṃparyasamuddhitā”.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> BT, p. 66. The usual Sanskrit word used for depended origination is: pratītyāsamutpāda. (paṭiccasamutpāda in Pāli). Caraka refers to its promulgators by the term “pāraṃparyasamuddhitā”.
+</blockquote>
 
-[30]:
 
-Ibid., p. 64.
 
-[31]:
 
-SIT, p. 1.
+<div className="footnote-card"><strong>[30]</strong> Ibid., p. 64.</div>
 
-[32]:
 
-BT, p. 62.
 
-[33]:
 
-SIT. p. 70.
+<div className="footnote-card"><strong>[31]</strong> SIT, p. 1.</div>
 
-[34]:
 
-na te tadsadṛśāstvanye pāraṃparyasamuddhitāḥ sārūpyādye ta eveti nirdiśyante navā navāḥ bhāvāsteṣāṃ samudayo nirīśaḥ saṃjakaḥ kartā bhoktā na sa pumāniti kecidvyavasthitāḥ, CS, Śārīra - sthāna, I. 46 - 47.
 
-[35]:
 
-Ibid., 48.
+<div className="footnote-card"><strong>[32]</strong> BT, p. 62.</div>
 
-[36]:
 
-“The tradition unanimously names Akṣapāda, Gotama (also called Gautama) as the founder of Nyāya-sūtras”. WM, Vol. III, p. 559. In the present work it is the name Akṣapāda is used since all scholars have unanimously accepted him as the author of the now available Nyāya-sūtras. For details see infra, pp. 32 - 328.
 
-[37]:
 
-There is a casual reference of God in the Nyāya-sūtras.
+<div className="footnote-card"><strong>[33]</strong> SIT. p. 70.</div>
 
-[38]:
 
-“guṇaviśiṣṭamātmāntaramīśvaraḥ.... adharmamithyajñānapramādahānyā dharmajñānasaṃpadā..... saṅkalpānuvidhāyī cāsya dharmaḥ”, Vātsyāyana on Nyāyasūtra., IV, I. 2, Nyāya-Bhāṣya of Vātsyāyana., p. 154.
 
-[39]:
 
-Praśastapādabhāṣya., p.127; see Nyāyakandalī on ibid.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> na te tadsadṛśāstvanye pāraṃparyasamuddhitāḥ sārūpyādye ta eveti nirdiśyante navā navāḥ bhāvāsteṣāṃ samudayo nirīśaḥ saṃjakaḥ kartā bhoktā na sa pumāniti kecidvyavasthitāḥ, CS, Śārīra - sthāna, I. 46 - 47.
+</blockquote>
 
-[40]:
 
-TSA, p.12; Tarkabhāṣa of Keśavamiśra., p.160; TSA p. 12. Saptapadārthi of Śivāditya., p. 23.
 
-[41]:
 
-NSMK pp. 22- 32, 169, “tatreśvaraḥ sarvajñaḥ paramātmāika eva”, TSA, p. 12; Also see Dīpikā on it; Saptapadārthi of Śivāditya., p. 23.
+<div className="footnote-card"><strong>[35]</strong> Ibid., 48.</div>
 
-[42]:
 
-“ātmātvabhisaṃbandhādātmā”, Praśastapādabhāṣya., p. 167; ātmātvasamanyavān buddhiguṇāśraya ātmā, Saptapadārthi of Śivāditya., p. 51;NSMK, pp.156-57; Tarkabhāṣa of Keśavamiśra., p. 190.
 
-[43]:
 
-vyavasthāto nānā, Vaiśeṣikadarśana., III, ii. 20;“nānatmano vyavasthātaḥ” iti vacanena pṛthaktvaṃ siddhaṃ, Nyāyakandalī, Praśastapādabhāṣya., p213; NSMK; prati śarīraṃ bhinnaḥ, Tarkabhāṣa of Keśavamiśra., p. 190.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> “The tradition unanimously names Akṣapāda, Gotama (also called Gautama) as the founder of Nyāya-sūtras”. WM, Vol. III, p. 559. In the present work it is the name Akṣapāda is used since all scholars have unanimously accepted him as the author of the now available Nyāya-sūtras. For details see infra, pp. 32 - 328.
+</blockquote>
 
-[44]:
 
-vibhavavān mahānākāśastathā cātmā, Vs,VII. i. 22; “jivātmā pratisariraṃ bhinno vibhurnityaśca” TSA, p.12.
 
-[45]:
 
-EIP, p. 91.
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> There is a casual reference of God in the Nyāya-sūtras.
+</blockquote>
 
-[46]:
 
-Ibid.
 
-[47]:
 
-Sāṃkhyakārikā, 18; Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 163.
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> “guṇaviśiṣṭamātmāntaramīśvaraḥ.... adharmamithyajñānapramādahānyā dharmajñānasaṃpadā..... saṅkalpānuvidhāyī cāsya dharmaḥ”, Vātsyāyana on Nyāyasūtra., IV, I. 2, Nyāya-Bhāṣya of Vātsyāyana., p. 154.
+</blockquote>
 
-[48]:
 
-CSG, Vol. I, p. 480.
 
-[49]:
 
-The aspect of unity is declared in the great utterence “tatvamasi”, Ch. U, VI. viii. 7; VI. ii. 1; Aitareya Upaniṣad., I. i. 1. The following text declares the difference - Śvetāśvatara Upaniṣad., IV. 6.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Praśastapādabhāṣya., p.127; see Nyāyakandalī on ibid.
+</blockquote>
 
-[50]:
 
-“satyaṃ jñānamanantaṃ Brahma”; Taittirīya Upaniṣad., Brahmānandavalli, I; “prajñānaṃ Brahma”, Aitareya Upaniṣad.., III. i. 3.
 
-[51]:
 
-Brahman is the absolute, devoid of all determination, and the empirical world is enveloped in cosmic illusion, which claims to be true, but is not really true. The manifold world is only the making of māya. Māya is a falsity, but yet it may appear to be a fact satisfying certain practical needs. Thus the unreal world appears to be real and have pragmatic value. But the claim that the world of appearance is a truth becomes absolutely false like the flower in the sky when it refers to the self evidencing absolute. The Philosophy of Bhedabheda, P.N. Srinivasachari, pp. 52 - 53.
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> TSA, p.12; Tarkabhāṣa of Keśavamiśra., p.160; TSA p. 12. Saptapadārthi of Śivāditya., p. 23.
+</blockquote>
 
-[52]:
 
-Bhaskarācārya, the commentator of Brahmasūtra., has promulgated the philosophy of identity in diference (bhedābheda). He says that “sa cābhinnābhinnarūpo abhinnarūpaṃ svābhāvikaṃ aupādhikaṃ tu bhinnarūpaṃ”, Brahma-sūtra with the commentary of Bhāskarācarya, ed., Pt. Vindhyeśvarī Prasād Dvivedin, Chowkhamba Sanskrit Series Office, Varanasi, Second edn. 1991, p. 141.
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> NSMK pp. 22- 32, 169, “tatreśvaraḥ sarvajñaḥ paramātmāika eva”, TSA, p. 12; Also see Dīpikā on it; Saptapadārthi of Śivāditya., p. 23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> “ātmātvabhisaṃbandhādātmā”, Praśastapādabhāṣya., p. 167; ātmātvasamanyavān buddhiguṇāśraya ātmā, Saptapadārthi of Śivāditya., p. 51;NSMK, pp.156-57; Tarkabhāṣa of Keśavamiśra., p. 190.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> vyavasthāto nānā, Vaiśeṣikadarśana., III, ii. 20;“nānatmano vyavasthātaḥ” iti vacanena pṛthaktvaṃ siddhaṃ, Nyāyakandalī, Praśastapādabhāṣya., p213; NSMK; prati śarīraṃ bhinnaḥ, Tarkabhāṣa of Keśavamiśra., p. 190.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> vibhavavān mahānākāśastathā cātmā, Vs,VII. i. 22; “jivātmā pratisariraṃ bhinno vibhurnityaśca” TSA, p.12.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[45]</strong> EIP, p. 91.</div>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Sāṃkhyakārikā, 18; Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 163.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[48]</strong> CSG, Vol. I, p. 480.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> The aspect of unity is declared in the great utterence “tatvamasi”, Ch. U, VI. viii. 7; VI. ii. 1; Aitareya Upaniṣad., I. i. 1. The following text declares the difference - Śvetāśvatara Upaniṣad., IV. 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> “satyaṃ jñānamanantaṃ Brahma”; Taittirīya Upaniṣad., Brahmānandavalli, I; “prajñānaṃ Brahma”, Aitareya Upaniṣad.., III. i. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Brahman is the absolute, devoid of all determination, and the empirical world is enveloped in cosmic illusion, which claims to be true, but is not really true. The manifold world is only the making of māya. Māya is a falsity, but yet it may appear to be a fact satisfying certain practical needs. Thus the unreal world appears to be real and have pragmatic value. But the claim that the world of appearance is a truth becomes absolutely false like the flower in the sky when it refers to the self evidencing absolute. The Philosophy of Bhedabheda, P.N. Srinivasachari, pp. 52 - 53.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Bhaskarācārya, the commentator of Brahmasūtra., has promulgated the philosophy of identity in diference (bhedābheda). He says that “sa cābhinnābhinnarūpo abhinnarūpaṃ svābhāvikaṃ aupādhikaṃ tu bhinnarūpaṃ”, Brahma-sūtra with the commentary of Bhāskarācarya, ed., Pt. Vindhyeśvarī Prasād Dvivedin, Chowkhamba Sanskrit Series Office, Varanasi, Second edn. 1991, p. 141.
+</blockquote>
 
 ---
 
-## 37. Proof for the existence of the inner self
+## Proof for the existence of the inner self
 
 Philosophy of Charaka-samhita
 
@@ -405,21 +576,28 @@ Caraka, further, gives a long list of signs as proofs for the existence of self:
 
 The most striking point in this respect is that the indicators mentioned above are employed by both Kaṇāda in his Vaiśeṣika-sūtra[2] and Akṣapāda in his Nyāya-sūtra[3] to establish the existence of the inner self with certain minor differences. Both of them mainly avoid the indicators of the journey to the other world and anticipation of death. However, things like the journey to the otherworld and anticipation of death cannot be taken into consideration as proofs for the existence of the self, for such things are to be established by further reasoning. Signs like desire, aversion, volition, pleasure, and pain are the commonly accepted proofs.
 
-[1]:
 
-CS.Śārīra - sthāna. I.70-74.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS.Śārīra - sthāna. I.70-74.
+</blockquote>
 
-[2]:
 
-pranāpānanimeṣonmeṣajīvanaṃanogatīndriyāntaravikārāḥ sukhaduḥkhecchādveṣaprayatnāścātmāno liṅgāni. Vaiśeṣikadarśana., III. ii. 4. indriyāntaravikāra is used in place of indiyāntarasañcāra in CS.
 
-[3]:
 
-icchādveṣapraytnasukhaduḥkhajñānanyātmno liṅgamiti, Nyāyasūtra.,I. i.10; Also see Ibid., III. I. 7; III. I. 12. For details see Vātsyāyana on ibid.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> pranāpānanimeṣonmeṣajīvanaṃanogatīndriyāntaravikārāḥ sukhaduḥkhecchādveṣaprayatnāścātmāno liṅgāni. Vaiśeṣikadarśana., III. ii. 4. indriyāntaravikāra is used in place of indiyāntarasañcāra in CS.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> icchādveṣapraytnasukhaduḥkhajñānanyātmno liṅgamiti, Nyāyasūtra.,I. i.10; Also see Ibid., III. I. 7; III. I. 12. For details see Vātsyāyana on ibid.
+</blockquote>
 
 ---
 
-## 38. Mind [in Charaka philosophy]
+## Mind [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -485,333 +663,536 @@ But, as a matter of fact, there is no difficulty in explaining the interaction b
 
 The account of mind given by Caraka is mainly based on the analysis in the light of his metaphysical as well as anatomical and physiological conceptions. If we look at the above description, it can be seen that his theoretical conception of mind contains some of the ideas found in other systems. For instance, he agrees with the Nyāya- Vaiśeṣikawith regard to the atomic and unifunctional nature of mind. But he does not accept their psychophysical dualism according to which mind and matter are ontologically different. Similarly, in consonance with the Sāṃkhyas, he conceives mind as a thinker providing ground for one's personal identity. But he does not accept the medium dimension proposed by the Sāṃkhyas. In addition to that Caraka do not accept the simultaneity of cognition. It is also significant to note that the assumption in no way agrees with that of the Mīmāṃsakas. The main contradiction is that Caraka considers mind as atomic and mobile or fickle, while it is static and all-pervading for the Mīmāṃsakas. However, the assumption of the Mīmāṃsakas are not reliable, for if we accept an all-pervading static mind, then we will be forced to admit the contact of the mind with all the sense organs at a time and there would be a variety of simultaneous perceptions. Also, such a contact will continue uninterrupted and there would be no sleep.
 
-[1]:
 
-manasastu cintyamarthaḥ, CS, Su, VIII. 16.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> manasastu cintyamarthaḥ, CS, Su, VIII. 16.
+</blockquote>
 
-[2]:
 
-mano manortho buddhirātmā cetyadhyātmadravyaguṇasaṅgrahaḥ....,ibid., VIII. 13. see, supra, p. 188.
 
-[3]:
 
-The word manas is derived from "uṇādi' aphoristic rule by adding the suffix "asun'. manyate'nena mana-karaṇe asun, Vācaspatyaṃ', Vol. VI, p. 4734. It has two roots. (1) mana bodhe that belongs to divādi class mana bodhe ḍi.ā.saka. cānaṭ. manyate, ibid. It is applied to denote; to think, to suppose, to imagine, to concentrate, and to meditate. (2) "mana bodhe' also blongs to the tanādi class—mana bodhe. ā saka. seṭ, manute, ibid. It denotes knowledge, perception, teaching, informing indicating or showing. See ARV, p. 104.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> mano manortho buddhirātmā cetyadhyātmadravyaguṇasaṅgrahaḥ....,ibid., VIII. 13. see, supra, p. 188.
+</blockquote>
 
-[4]:
 
-The expression sattva is derived from the aphoristic rule tasya bhāvastvatalau (Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., V. i. 119) with the addition of “tva”. sataḥ bhāvaḥ sattvaṃ (bhāve). It refers to existence, being, reality, truth, virtuous, excellent, proper, noble, and venerable Ibid., p. 105.
 
-[5]:
 
-atīndriyaṃ punarmanaḥ sattvasaṃjñakaṃ, "cetaḥ' ityāhureke, CS, Su, VIII, 4.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> The word manas is derived from "uṇādi' aphoristic rule by adding the suffix "asun'. manyate'nena mana-karaṇe asun, Vācaspatyaṃ', Vol. VI, p. 4734. It has two roots. (1) mana bodhe that belongs to divādi class mana bodhe ḍi.ā.saka. cānaṭ. manyate, ibid. It is applied to denote; to think, to suppose, to imagine, to concentrate, and to meditate. (2) "mana bodhe' also blongs to the tanādi class—mana bodhe. ā saka. seṭ, manute, ibid. It denotes knowledge, perception, teaching, informing indicating or showing. See ARV, p. 104.
+</blockquote>
 
-[6]:
 
-The Vedāntins regard memory (citta) as one among the four modifications of inner instrument (antaḥkaraṇa). The other modifications are cognition, mind and “I- consciousness”. evaṃvidhavṛttibhedena evamapyantaḥkaraṇaṃ mana iti, buddhiriti, ahaṃkāra iti, cittamiti cākhyāyate, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 32; Vivekacūdāmaṇi of Śrī Śankarācārya., 93, p. 33. Citta is responsible for remembrance: anusandhānātmikāntaḥkaraṇavṛttiḥ cittaṃ, Vedānta- Sāra of Sadānanda Yogīndra., II, 68; Vivekacūdāmaṇi of Śrī Śankarācārya., 94, p. 34.
 
-[7]:
 
-karaṇāni mano buddhirbuddhikarmendriyaṇi ca kartuḥ śaṃyogajaṃ karma vedanā buddireva ca, CS, Śārīra - sthāna, I. 56.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The expression sattva is derived from the aphoristic rule tasya bhāvastvatalau (Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., V. i. 119) with the addition of “tva”. sataḥ bhāvaḥ sattvaṃ (bhāve). It refers to existence, being, reality, truth, virtuous, excellent, proper, noble, and venerable Ibid., p. 105.
+</blockquote>
 
-[8]:
 
-acetanaṃ kriyāvacca manaścetayita paraḥ, Ibid., 75.
 
-[9]:
 
-anindriyaṃ manaḥ, Parīkṣāmukhalaghuvṛtti, II, 5, quoted in IP, p.3; See also EAIP, p. 88.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> atīndriyaṃ punarmanaḥ sattvasaṃjñakaṃ, "cetaḥ' ityāhureke, CS, Su, VIII, 4.
+</blockquote>
 
-[10]:
 
-".......ubhayātmakaṃ manaḥ', Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 4.
 
-[11]:
 
-“ubhayātmakaṃ manaḥ”, Śārīra - sthāna. Su. II. 26, see also Sāṃkhyakārikā, 27.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The Vedāntins regard memory (citta) as one among the four modifications of inner instrument (antaḥkaraṇa). The other modifications are cognition, mind and “I- consciousness”. evaṃvidhavṛttibhedena evamapyantaḥkaraṇaṃ mana iti, buddhiriti, ahaṃkāra iti, cittamiti cākhyāyate, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 32; Vivekacūdāmaṇi of Śrī Śankarācārya., 93, p. 33. Citta is responsible for remembrance: anusandhānātmikāntaḥkaraṇavṛttiḥ cittaṃ, Vedānta- Sāra of Sadānanda Yogīndra., II, 68; Vivekacūdāmaṇi of Śrī Śankarācārya., 94, p. 34.
+</blockquote>
 
-[12]:
 
-“......, buddhīndriyaṃ karmendriyaṃ ca cakṣurādīnāṃ vāgādīnaṃ ca manodhiṣṭitānāmeva svasvaviṣayeṣu pravṛtteḥ”. Vacaspatimiśra on Sāṃkhyakārikā.27, Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 190.
 
-[13]:
 
-Akṣapāda does not include mind in the group of sense organs. But he mentions it separately among the objects of valid knowledge, Nyāyasūtra., I. i. 9. Jayantabhaṭṭa points out that mind is not included in the group of sense capacities because mind is not physical like the sense capacities; Nyāyamañjarī of Jayantabhaṭṭa., part- II., “Prameyaprakaraṇaṃ”, p. 67;Kaṇāda also keeps silence in this matter. All other Nyāya - Vaiśeṣikawriters recognize it as a sense organ. indriyasya vai sato manasa indriyebhyaḥ pṛthagupadeśo dharmabhedāt, Nyāya-Bhāṣya of Vātsyāyana. on Nyāyasūtra., I, i, 4;Sreedharācārya on Praśastapādabhāṣya., p. 218.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> karaṇāni mano buddhirbuddhikarmendriyaṇi ca kartuḥ śaṃyogajaṃ karma vedanā buddireva ca, CS, Śārīra - sthāna, I. 56.
+</blockquote>
 
-[14]:
 
-sukhādyupalabdhisādhanamindriyaṃ manaḥ, TSA, p.13; Tarkabhāṣa of Keśavamiśra., p. 168.
 
-[15]:
 
-manastu sukhādyaparokṣajñānasādhanendriyatvena kalpyate, Mānameyodaya of Nārāyaṇa., p. 12.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> acetanaṃ kriyāvacca manaścetayita paraḥ, Ibid., 75.
+</blockquote>
 
-[16]:
 
-mano daśendriyadhyākṣaṃ hṛtpadmagolake sthitaṃ taccāntaḥkaraṇaṃ bāhyeṣvasvātantriyādhvinendriyaiḥ, Pañcadaśi, II. 12.
 
-[17]:
 
-indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ manasastu parā buddhiryo buddheḥ partastu saḥ, BG, III. 42.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> anindriyaṃ manaḥ, Parīkṣāmukhalaghuvṛtti, II, 5, quoted in IP, p.3; See also EAIP, p. 88.
+</blockquote>
 
-[18]:
 
-ARV, pp.89-90.
 
-[19]:
 
-For details vide supra, p. 121.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> ".......ubhayātmakaṃ manaḥ', Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 4.
+</blockquote>
 
-[20]:
 
-CS, Su, VIII. 5.
 
-[21]:
 
-“rajastamaśca manasau doṣau” CS, Vimāna - sthāna, VI. 5; Su, I. 57, XXV. 11; Śārīra-sthāna, II. 38.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> “ubhayātmakaṃ manaḥ”, Śārīra - sthāna. Su. II. 26, see also Sāṃkhyakārikā, 27.
+</blockquote>
 
-[22]:
 
-aṇutvamatha caikatvaṃ dvau guṇau manasaḥ smṛtau, CS, Śārīra - sthāna, I.19.
 
-[23]:
 
-svārthendriyārthasaṃkalpavyabhicariṇāccānekamekasmin puruṣe sattvaṃ, rajastamasattvaguṇayogācca; na cānekatvaṃ, nahyekamanekakāleṣu pravartate; tasmānnaikakālā sarvendriyapravṛttihi, CS, Su, VIII. 5.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> “......, buddhīndriyaṃ karmendriyaṃ ca cakṣurādīnāṃ vāgādīnaṃ ca manodhiṣṭitānāmeva svasvaviṣayeṣu pravṛtteḥ”. Vacaspatimiśra on Sāṃkhyakārikā.27, Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 190.
+</blockquote>
 
-[24]:
 
-prayatnajñānayaugapadyādekaṃ, Kāśyapasaṃhitā of Vṛddhajīvaka, Śārīra - sthāna, p. 67.
 
-[25]:
 
-CS, Śārīra - sthāna, III. 20-21.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Akṣapāda does not include mind in the group of sense organs. But he mentions it separately among the objects of valid knowledge, Nyāyasūtra., I. i. 9. Jayantabhaṭṭa points out that mind is not included in the group of sense capacities because mind is not physical like the sense capacities; Nyāyamañjarī of Jayantabhaṭṭa., part- II., “Prameyaprakaraṇaṃ”, p. 67;Kaṇāda also keeps silence in this matter. All other Nyāya - Vaiśeṣikawriters recognize it as a sense organ. indriyasya vai sato manasa indriyebhyaḥ pṛthagupadeśo dharmabhedāt, Nyāya-Bhāṣya of Vātsyāyana. on Nyāyasūtra., I, i, 4;Sreedharācārya on Praśastapādabhāṣya., p. 218.
+</blockquote>
 
-[26]:
 
-cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavadadṛḍaṃ tasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaraṃ, BG, VI. 34.
 
-[27]:
 
-ahaṃkārikatvaśruterna bhautikāni, S. Su, II. 20.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> sukhādyupalabdhisādhanamindriyaṃ manaḥ, TSA, p.13; Tarkabhāṣa of Keśavamiśra., p. 168.
+</blockquote>
 
-[28]:
 
-S. Su, V. 69, 70, 71; manaso na niravayavatvaṃ. anekadravyeṣvekadā yogāt. kintu ghaṭavanmadhyamaparimāṇaṃ sāvayavamityarthaḥ, Vijñānabhikṣu on Sāṃkhya-sūtra,, V, 71, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 163.
 
-[29]:
 
-tadutpattiśrutervināśadarśanācca, Śārīra - sthāna. Su, II, 22. See also Vijñānabhikṣu on ibid., Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p.101.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> manastu sukhādyaparokṣajñānasādhanendriyatvena kalpyate, Mānameyodaya of Nārāyaṇa., p. 12.
+</blockquote>
 
-[30]:
 
-CIPM, p. 3
 
-[31]:
 
-mano'pi cāsamavetaṃ bhūtam. The Padārthatattvanirūpaṇa of Raghunātha Śiromaṇi., p. 29.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> mano daśendriyadhyākṣaṃ hṛtpadmagolake sthitaṃ taccāntaḥkaraṇaṃ bāhyeṣvasvātantriyādhvinendriyaiḥ, Pañcadaśi, II. 12.
+</blockquote>
 
-[32]:
 
-CIPM, p.3.
 
-[33]:
 
-TSA, p.13;
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> indriyāṇi parāṇyāhurindriyebhyaḥ paraṃ manaḥ manasastu parā buddhiryo buddheḥ partastu saḥ, BG, III. 42.
+</blockquote>
 
-[34]:
 
-tadabhāvādaṇuḥ manaḥ, Nyāyasūtra., III. ii. 61; Vaiśeṣikadarśana., VII. i, 23; Praśastapādabhāṣya., p. 222; ayaugapadyajñānānāṃ tasyāṇutvamiheṣyate, NSMK, p. 361.
 
-[35]:
 
-jñānāyaugapadyādekaṃ manaḥ, Nyāyasūtra., III. ii. 58. prayatnāyaugapadyājñānāyaugapadyāccaikaiṃ, Vaiśeṣikadarśana., III. ii. 3. Praśastapādabhāṣya., p. 121; pratiśarīramekaṃ ca tat, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 68.
+<div className="footnote-card"><strong>[18]</strong> ARV, pp.89-90.</div>
 
-[36]:
 
-T. Bh, p.168.
 
-[37]:
 
-“.....vibhuparimāṇamaspandaṃ ca manaḥ”, Mānameyodaya of Nārāyaṇa., p. 217.
+<div className="footnote-card"><strong>[19]</strong> For details vide supra, p. 121.</div>
 
-[38]:
 
-Ibid., pp.217-18; mano vibhuḥ viśeṣaguṇaśūnyadravyatvāt kālavat, mano vibhuḥ jñānasamavāyikāraṇa saṃyogādhāratvāt, TDB, p. 56.
 
-[39]:
 
-Dīpikā, TSA, p. 13. see also NSMK, p, 361.
+<div className="footnote-card"><strong>[20]</strong> CS, Su, VIII. 5.</div>
 
-[40]:
 
-EAIP, p. 71.
 
-[41]:
 
-bhavati ca bhautikatve liṅgam karaṇānāṃ "annamayaṃ hi saumyo manaḥ.....', (Ch. U, VI. V. 4.) Brahmasūtra, with Śāṅkarabhāṣya., p. 276. Cf. Panchadaśi, II. 17.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> “rajastamaśca manasau doṣau” CS, Vimāna - sthāna, VI. 5; Su, I. 57, XXV. 11; Śārīra-sthāna, II. 38.
+</blockquote>
 
-[42]:
 
-Caraka regards heart as the seat of sattva, buddhi, indriya, ātmā ojas and the channels of circulation. CS, Cikitsa - sthāna, XXIV. 35; See infra, p. 239.
 
-[43]:
 
-CS, Su, XXX. 6 - 7.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> aṇutvamatha caikatvaṃ dvau guṇau manasaḥ smṛtau, CS, Śārīra - sthāna, I.19.
+</blockquote>
 
-[44]:
 
-Ibid., 5.
 
-[45]:
 
-“...... prakupitā rajastomobhyāmupahatacetasāmantarātmanaḥ......., tadā janturapasmarati.”, CS, Nidāna - sthāna, VIII. 4.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> svārthendriyārthasaṃkalpavyabhicariṇāccānekamekasmin puruṣe sattvaṃ, rajastamasattvaguṇayogācca; na cānekatvaṃ, nahyekamanekakāleṣu pravartate; tasmānnaikakālā sarvendriyapravṛttihi, CS, Su, VIII. 5.
+</blockquote>
 
-[46]:
 
-śirastālvantargataṃ sarvendriyaparaṃ manaḥ. Bhelasaṃhitā., Cikitsa - sthāna, VIII. 2.
 
-[47]:
 
-Bh. S, Cikitsa - sthāna, VIII. 4 - 6.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> prayatnajñānayaugapadyādekaṃ, Kāśyapasaṃhitā of Vṛddhajīvaka, Śārīra - sthāna, p. 67.
+</blockquote>
 
-[48]:
 
-ūrdhvaṃ prakupitā doṣāḥ śiraḥstālvantare sthitāḥ manaḥ sā (saṃ) dūṣayanyāśu tataścittaṃ vipadyate, Ibid., 10.
 
-[49]:
 
-hṛdayamiti kṛtavīryo buddhermanasaśca sthānatvāt, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, III. 30;
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> CS, Śārīra - sthāna, III. 20-21.
+</blockquote>
 
-[50]:
 
-cetanāsahacaritaṃ mano'pi viśeṣeṇa hṛdayādhiṣṭhānaṃ, Dalhaṇa on Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, IV. 32.
 
-[51]:
 
-tathā mano'pi prāyeṇa hṛdyeva tiṣṭhati, Cakrapāṇi on CS, Su, XXX. 5.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> cañcalaṃ hi manaḥ kṛṣṇa pramāthi balavadadṛḍaṃ tasyāhaṃ nigrahaṃ manye vāyoriva suduṣkaraṃ, BG, VI. 34.
+</blockquote>
 
-[52]:
 
-Vāgbhaṭa indirectly refers to the location of mind as heart while discussing pathogenisis of apasmāra: “hate sattve hṛdi vyāpte saṃjñāvāhiṣu kheṣu ca tamo viśan mūḍhamatirbībhatsāḥ kurute kriyāḥ”. Aṣṭāṅgahṛdaya of Vāgbhaṭa., Uttarasthāna, VII. 2-3.
 
-[53]:
 
-ARV, p. 69.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> ahaṃkārikatvaśruterna bhautikāni, S. Su, II. 20.
+</blockquote>
 
-[54]:
 
-hṛdaye cittasaṃvid, Yogasūtra, Su Sūtra - sthāna, III. 34.
 
-[55]:
 
-taccāṇuparimāṇaṃ, hṛdayāntarvarti, Tarkabhāṣa of Keśavamiśra., p. 168.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> S. Su, V. 69, 70, 71; manaso na niravayavatvaṃ. anekadravyeṣvekadā yogāt. kintu ghaṭavanmadhyamaparimāṇaṃ sāvayavamityarthaḥ, Vijñānabhikṣu on Sāṃkhya-sūtra,, V, 71, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 163.
+</blockquote>
 
-[56]:
 
-tathā hi suṣuptyanukūlamanaḥkriyayā manasā ātmano vibhāgastataḥ ātmamanaḥsaṃyoganāśastataḥ purītatirūpottaradeśena manaḥsaṃyogarūpā suṣuptirutpadyate. Dinakari, NSMD, 248; TSA, p. 13 - 14.
 
-[57]:
 
-CS, Su, XXI. 35.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> tadutpattiśrutervināśadarśanācca, Śārīra - sthāna. Su, II, 22. See also Vijñānabhikṣu on ibid., Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p.101.
+</blockquote>
 
-[58]:
 
-CS, Śārīra - sthāna, I. 20.
 
-[59]:
 
-Ibid., 21.
+<div className="footnote-card"><strong>[30]</strong> CIPM, p. 3</div>
 
-[60]:
 
-indriyanirapekṣaṃ mano yatgṛhṇāti taccintyaṃ (yadi vā indriyagṛhītamevārthaṃ yatpunarindriyanirapekṣaṃ mano gṛhṇāti taccintyaṃ, Cakrapāṇi on CS, Su, VIII. 16.
 
-[61]:
 
-cintyaṃ kartavyatayā akartavyatayā vā yanmanasā cintyate, Cakrapāṇi on CS, Śārīra - sthāna, I. 21.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> mano'pi cāsamavetaṃ bhūtam. The Padārthatattvanirūpaṇa of Raghunātha Śiromaṇi., p. 29.
+</blockquote>
 
-[62]:
 
-vicāryaṃ upapattyanupapattibhyāṃ yadvimṛśyate, ibid. 140 atroho ālocanājñānaṃ nirvikalpakaṃ, ibid.
 
-[63]:
 
-ūhyaṃ ca yat saṃbhāvanayā ūhyate "etadbhaviṣyati' iti, ibid.
+<div className="footnote-card"><strong>[32]</strong> CIPM, p.3.</div>
 
-[64]:
 
-dhyeyaṃ bhāvanājñānaviṣayaṃ, ibid.
 
-[65]:
 
-saṃkalpaṃ guṇavattayā doṣavattayā vā'vadhāraṇaṃ, ibid.
+<div className="footnote-card"><strong>[33]</strong> TSA, p.13;</div>
 
-[66]:
 
-indriyeṇendriyārtho hi samanaskena gṛhyate kalpyate manasā tadūrdhvaṃ guṇato doṣato'thavā, CS, Śārīra - sthāna, I. 22.
 
-[67]:
 
-Cakrapāṇī says that the role of “I-conscoiusness” is not referred to in this sequel because it is alluded by the function of consciousness: “ahaṃkāravyāpāraścābhimanamihānukto'pi buddhivyāpāreṇaiva sūcito jñeyaḥ”.  See Cakrapāṇi on Ibid., I. 21.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> tadabhāvādaṇuḥ manaḥ, Nyāyasūtra., III. ii. 61; Vaiśeṣikadarśana., VII. i, 23; Praśastapādabhāṣya., p. 222; ayaugapadyajñānānāṃ tasyāṇutvamiheṣyate, NSMK, p. 361.
+</blockquote>
 
-[68]:
 
-jāyate viṣaye tatra yā buddhirniścayātmikā vyavasyati tayā vaktuṃ kartuṃ vā buddhipūrvakaṃ, Ibid., I. 23.
 
-[69]:
 
-"""ālocitamevendriyeṇa vastuvidaṃ' iti sammugdhaṃ. "idameva, naivaṃ' iti samyakkalpayati viśeṣeṇa viśeṣyabhāvena vivecayatīti yāvat'', Vācaspatimiśra on Sāṃkhyakārikā, 27. SKT, p. 190.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> jñānāyaugapadyādekaṃ manaḥ, Nyāyasūtra., III. ii. 58. prayatnāyaugapadyājñānāyaugapadyāccaikaiṃ, Vaiśeṣikadarśana., III. ii. 3. Praśastapādabhāṣya., p. 121; pratiśarīramekaṃ ca tat, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 68.
+</blockquote>
 
-[70]:
 
-EAIP, p. 48.
 
-[71]:
 
-Sāṃkhyakārikā.30;See also Vācaspatimiśra on ibid., p. 198.
+<div className="footnote-card"><strong>[36]</strong> T. Bh, p.168.</div>
 
-[72]:
 
-CIPM, p. 3.
 
-[73]:
 
-manogrāhyaṃ sukhaṃ duḥkhecchādveṣo matiḥ kṛtiḥ,,NSMK, p.194. Tarkabhāṣa of Keśavamiśra., pp.190 - 191.
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> “.....vibhuparimāṇamaspandaṃ ca manaḥ”, Mānameyodaya of Nārāyaṇa., p. 217.
+</blockquote>
 
-[74]:
 
-ARV, p.91.
 
-[75]:
 
-lakṣaṇaṃ manaso jñānasyā bhāvo bhāva eva ca sati hyātmendriyārthānāṃ sannikarṣe na vartate. vaivṛtyānmanaso jñānaṃ sānnidhyāttacca vartate, CS, Śārīra - sthāna, I. 18-19; Kāśyapasaṃhitā of Vṛddhajīvaka, Śārīra - sthāna, p. 67.
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Ibid., pp.217-18; mano vibhuḥ viśeṣaguṇaśūnyadravyatvāt kālavat, mano vibhuḥ jñānasamavāyikāraṇa saṃyogādhāratvāt, TDB, p. 56.
+</blockquote>
 
-[76]:
 
-ātmendriyārthsannikarṣe jñānasya bhāvo abhāvaśca manaso liṅgaṃ, Vaiśeṣikadarśana., III. ii. 1.
 
-[77]:
 
-satyapyātmendriyārthasānnidhye jñānasukhādīnāmabhūtvotpattidarśanāt karaṇāntaramanumīyate. Praśastapādabhāṣya., p. 213.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Dīpikā, TSA, p. 13. see also NSMK, p, 361.
+</blockquote>
 
-[78]:
 
-CIPM,p.74.
 
-[79]:
 
-yugapajjñānānutpattirmanaso liṅgaṃ, Nyāyasūtra., I. i. 16.
+<div className="footnote-card"><strong>[40]</strong> EAIP, p. 71.</div>
 
-[80]:
 
-NSMK, p.362.
 
-[81]:
 
-Raghunātha Śiromaṇi justify the non-simultanity of cognitions on the basis of merit and demerit: “adṛṣṭaviśeṣopagrahasya niyāmakatvāca”, The Padārthatattvanirūpaṇa of Raghunātha Śiromaṇi., p. 30.
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> bhavati ca bhautikatve liṅgam karaṇānāṃ "annamayaṃ hi saumyo manaḥ.....', (Ch. U, VI. V. 4.) Brahmasūtra, with Śāṅkarabhāṣya., p. 276. Cf. Panchadaśi, II. 17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka regards heart as the seat of sattva, buddhi, indriya, ātmā ojas and the channels of circulation. CS, Cikitsa - sthāna, XXIV. 35; See infra, p. 239.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> CS, Su, XXX. 6 - 7.</div>
+
+
+
+
+<div className="footnote-card"><strong>[44]</strong> Ibid., 5.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> “...... prakupitā rajastomobhyāmupahatacetasāmantarātmanaḥ......., tadā janturapasmarati.”, CS, Nidāna - sthāna, VIII. 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> śirastālvantargataṃ sarvendriyaparaṃ manaḥ. Bhelasaṃhitā., Cikitsa - sthāna, VIII. 2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Bh. S, Cikitsa - sthāna, VIII. 4 - 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> ūrdhvaṃ prakupitā doṣāḥ śiraḥstālvantare sthitāḥ manaḥ sā (saṃ) dūṣayanyāśu tataścittaṃ vipadyate, Ibid., 10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> hṛdayamiti kṛtavīryo buddhermanasaśca sthānatvāt, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, III. 30;
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> cetanāsahacaritaṃ mano'pi viśeṣeṇa hṛdayādhiṣṭhānaṃ, Dalhaṇa on Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, IV. 32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> tathā mano'pi prāyeṇa hṛdyeva tiṣṭhati, Cakrapāṇi on CS, Su, XXX. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Vāgbhaṭa indirectly refers to the location of mind as heart while discussing pathogenisis of apasmāra: “hate sattve hṛdi vyāpte saṃjñāvāhiṣu kheṣu ca tamo viśan mūḍhamatirbībhatsāḥ kurute kriyāḥ”. Aṣṭāṅgahṛdaya of Vāgbhaṭa., Uttarasthāna, VII. 2-3.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[53]</strong> ARV, p. 69.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> hṛdaye cittasaṃvid, Yogasūtra, Su Sūtra - sthāna, III. 34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> taccāṇuparimāṇaṃ, hṛdayāntarvarti, Tarkabhāṣa of Keśavamiśra., p. 168.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> tathā hi suṣuptyanukūlamanaḥkriyayā manasā ātmano vibhāgastataḥ ātmamanaḥsaṃyoganāśastataḥ purītatirūpottaradeśena manaḥsaṃyogarūpā suṣuptirutpadyate. Dinakari, NSMD, 248; TSA, p. 13 - 14.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[57]</strong> CS, Su, XXI. 35.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> CS, Śārīra - sthāna, I. 20.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[59]</strong> Ibid., 21.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> indriyanirapekṣaṃ mano yatgṛhṇāti taccintyaṃ (yadi vā indriyagṛhītamevārthaṃ yatpunarindriyanirapekṣaṃ mano gṛhṇāti taccintyaṃ, Cakrapāṇi on CS, Su, VIII. 16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> cintyaṃ kartavyatayā akartavyatayā vā yanmanasā cintyate, Cakrapāṇi on CS, Śārīra - sthāna, I. 21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> vicāryaṃ upapattyanupapattibhyāṃ yadvimṛśyate, ibid. 140 atroho ālocanājñānaṃ nirvikalpakaṃ, ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> ūhyaṃ ca yat saṃbhāvanayā ūhyate "etadbhaviṣyati' iti, ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> dhyeyaṃ bhāvanājñānaviṣayaṃ, ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> saṃkalpaṃ guṇavattayā doṣavattayā vā'vadhāraṇaṃ, ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> indriyeṇendriyārtho hi samanaskena gṛhyate kalpyate manasā tadūrdhvaṃ guṇato doṣato'thavā, CS, Śārīra - sthāna, I. 22.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Cakrapāṇī says that the role of “I-conscoiusness” is not referred to in this sequel because it is alluded by the function of consciousness: “ahaṃkāravyāpāraścābhimanamihānukto'pi buddhivyāpāreṇaiva sūcito jñeyaḥ”.  See Cakrapāṇi on Ibid., I. 21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> jāyate viṣaye tatra yā buddhirniścayātmikā vyavasyati tayā vaktuṃ kartuṃ vā buddhipūrvakaṃ, Ibid., I. 23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> """ālocitamevendriyeṇa vastuvidaṃ' iti sammugdhaṃ. "idameva, naivaṃ' iti samyakkalpayati viśeṣeṇa viśeṣyabhāvena vivecayatīti yāvat'', Vācaspatimiśra on Sāṃkhyakārikā, 27. SKT, p. 190.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[70]</strong> EAIP, p. 48.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Sāṃkhyakārikā.30;See also Vācaspatimiśra on ibid., p. 198.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[72]</strong> CIPM, p. 3.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[73]</strong> manogrāhyaṃ sukhaṃ duḥkhecchādveṣo matiḥ kṛtiḥ,,NSMK, p.194. Tarkabhāṣa of Keśavamiśra., pp.190 - 191.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[74]</strong> ARV, p.91.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[75]</strong> lakṣaṇaṃ manaso jñānasyā bhāvo bhāva eva ca sati hyātmendriyārthānāṃ sannikarṣe na vartate. vaivṛtyānmanaso jñānaṃ sānnidhyāttacca vartate, CS, Śārīra - sthāna, I. 18-19; Kāśyapasaṃhitā of Vṛddhajīvaka, Śārīra - sthāna, p. 67.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> ātmendriyārthsannikarṣe jñānasya bhāvo abhāvaśca manaso liṅgaṃ, Vaiśeṣikadarśana., III. ii. 1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> satyapyātmendriyārthasānnidhye jñānasukhādīnāmabhūtvotpattidarśanāt karaṇāntaramanumīyate. Praśastapādabhāṣya., p. 213.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[78]</strong> CIPM,p.74.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> yugapajjñānānutpattirmanaso liṅgaṃ, Nyāyasūtra., I. i. 16.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[80]</strong> NSMK, p.362.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[81]</strong> Raghunātha Śiromaṇi justify the non-simultanity of cognitions on the basis of merit and demerit: “adṛṣṭaviśeṣopagrahasya niyāmakatvāca”, The Padārthatattvanirūpaṇa of Raghunātha Śiromaṇi., p. 30.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -820,10 +1201,6 @@ Raghunātha Śiromaṇi justify the non-simultanity of cognitions on the basis o
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Source of Knowledge (pramāṇa): Philosophy Of Charaka Samhita Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

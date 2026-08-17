@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Importance of Asceticism for the Emergence of Ayurveda within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. The Importance of Asceticism for the Emergence of Ayurveda
+## The Importance of Asceticism for the Emergence of Ayurveda
 
 Journal of the European Ayurvedic Society
 
@@ -27,7 +27,7 @@ Tieren. Ahnliches gilt, wenn zahlreiche Mittel zur Stimulierung der Sexualkraft 
 
 ---
 
-## 13. Reviews and Notices (Volume 1)
+## Reviews and Notices (Volume 1)
 
 Journal of the European Ayurvedic Society
 
@@ -47,7 +47,7 @@ Topane Reviews and Notices - 181 even to the subject. Shrikant Bahulkar's 'Athar
 
 ---
 
-## 14. Alchemy Scenes in Jain Literature
+## Alchemy Scenes in Jain Literature
 
 Journal of the European Ayurvedic Society
 
@@ -91,8 +91,6 @@ spiritual qualifications: where ordinary technique is seen to fail, right faith,
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -100,10 +98,6 @@ spiritual qualifications: where ordinary technique is seen to fail, right faith,
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">State Policy Towards Indigenous Drugs in British Bengal: Journal Of The European Ayurvedic Society Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

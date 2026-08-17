@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Puncturing and Bandaging the ear within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. Chapter XVI - Puncturing and Bandaging the ear
+## Chapter XVI - Puncturing and Bandaging the ear
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -93,13 +93,10 @@ In a case of ulceration, the ulcerated ear-lobe should be rubbed with the oil pr
 
 Thus ends the sixteenth chapter of the Sutra-Sthana n in the Sushruta Samhita which treats of the Piercing and Bandaging of lobes.
 
-[1]:
 
-See Additional Text and Remedies at the near end of this chapter.
+<div className="footnote-card"><strong>[1]</strong> See Additional Text and Remedies at the near end of this chapter.</div>
 
 ---
-
-
 
 ---
 
@@ -108,10 +105,6 @@ See Additional Text and Remedies at the near end of this chapter.
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Features of unripe and ripe swelling: Sushruta Samhita Sutrasthana Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

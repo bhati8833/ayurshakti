@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Drugs of specific actions within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 43. Chapter XXXVI - Drugs of specific actions
+## Chapter XXXVI - Drugs of specific actions
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -109,29 +109,30 @@ A wise physician should use all the drugs and substances as have been enumerated
 
 Thus ends the thirty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of miscellaneous remedies for inflammatory swellings.
 
-[1]:
 
-The nomenclature of the chapter is based, according to certain authorities, on the fact of its jointly treating of eight principal processes of absorption, suppuration, spontaneous bursting, etc. of a swelling; while some there are who hold that the name of the chapter is derived from the fact of its containing remedial measures commonly (Mishraka) beneficial to swellings and ulcers.
+<div className="footnote-card"><strong>[1]</strong> The nomenclature of the chapter is based, according to certain authorities, on the fact of its jointly treating of eight principal processes of absorption, suppuration, spontaneous bursting, etc. of a swelling; while some there are who hold that the name of the chapter is derived from the fact of its containing remedial measures commonly (Mishraka) beneficial to swellings and ulcers.</div>
 
-[2]:
 
-Belonging to the groups (Gana) of medicinal herbs, which go by the names of their first components, such as the Kakalyadi group (Gana), the Utpaladi group etc.
 
-[3]:
 
-The plaster should be applied all round the swelling, leaving its head free and exposed.
+<div className="footnote-card"><strong>[2]</strong> Belonging to the groups (Gana) of medicinal herbs, which go by the names of their first components, such as the Kakalyadi group (Gana), the Utpaladi group etc.</div>
 
-[4]:
 
-A decoction with one part of a drug mixed with four, eight or sixteen parts of water, the whole being boiled down to a quarter part of the entire quantity.
 
-[5]:
 
-The process consists in mixing the drugs with water weighing eight or sixteen times their combined weight, and then boiling them down to an eighth or sixteenth part of the entire quantity.
+<div className="footnote-card"><strong>[3]</strong> The plaster should be applied all round the swelling, leaving its head free and exposed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> A decoction with one part of a drug mixed with four, eight or sixteen parts of water, the whole being boiled down to a quarter part of the entire quantity.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> The process consists in mixing the drugs with water weighing eight or sixteen times their combined weight, and then boiling them down to an eighth or sixteenth part of the entire quantity.</div>
 
 ---
-
-
 
 ---
 
@@ -140,10 +141,6 @@ The process consists in mixing the drugs with water weighing eight or sixteen ti
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch38" className="text-emerald-400 hover:underline flex items-center font-medium">Examination of the patient: Sushruta Samhita Sutrasthana Chapter 38 →</a>
 </div>
-
-
-
-
 
 ---
 

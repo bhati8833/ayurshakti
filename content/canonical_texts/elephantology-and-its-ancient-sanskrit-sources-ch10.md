@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix 1 - Glossary Of Technical Terms within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Appendix 1 - Glossary Of Technical Terms
+## Appendix 1 - Glossary Of Technical Terms
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -21,8 +21,6 @@ Appendix 1 - Glossary Of Technical Terms
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -30,10 +28,6 @@ Appendix 1 - Glossary Of Technical Terms
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurvedic treatments of Elephants in Kerala style: Elephantology And Its Ancient Sanskrit Sources Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

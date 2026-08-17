@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Religious Importance of Tulasi and Dhatri within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 44. 6. Religious Importance of Tulasi and Dhatri
+## 6. Religious Importance of Tulasi and Dhatri
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -31,7 +31,7 @@ We have discussed earlier about asvattha in this chapter, now let us put some li
 
 ---
 
-## 45. 5. Tree Worship in Vedas and Puranas
+## 5. Tree Worship in Vedas and Puranas
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -51,8 +51,6 @@ IV.4. Tree Worship in Vedas and Puranas:—In the Vedic literature the Atharva-v
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -60,10 +58,6 @@ IV.4. Tree Worship in Vedas and Puranas:—In the Vedic literature the Atharva-v
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">8. Religious Importance of Plants in Different Ceremonies: Vrikshayurveda and Environmental Philosophy Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

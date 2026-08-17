@@ -11,11 +11,9 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on madabhedādhikāro navamaḥ paṭalaḥ within Matangalila. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter 9 - madabhedādhikāro navamaḥ paṭalaḥ
+## Chapter 9 - madabhedādhikāro navamaḥ paṭalaḥ
 
 ---
-
-
 
 ---
 
@@ -24,10 +22,6 @@ isCanonicalText: true
   <a href="/articles/matangalila" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

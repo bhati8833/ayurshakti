@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Significance of Asti Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Significance of Asti Marma
+## Significance of Asti Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -23,7 +23,7 @@ Significance of Asti Marma
 
 ---
 
-## 19. Tridosha and Triguna aspect of Marma
+## Tridosha and Triguna aspect of Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -37,7 +37,7 @@ the above description is not correct because even when the bony marma is injured
 
 ---
 
-## 20. Prognosis of Partial Injury of Marma
+## Prognosis of Partial Injury of Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -49,8 +49,6 @@ Any injury at the periphery of a sadya pranahara marma would kill the patient af
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -58,10 +56,6 @@ Any injury at the periphery of a sadya pranahara marma would kill the patient af
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Classification according to Tamil Varma Shastra: Marma Sastra and Ayurvedic Science Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

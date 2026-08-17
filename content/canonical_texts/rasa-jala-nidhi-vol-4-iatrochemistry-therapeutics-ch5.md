@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (24): Sarvanga-sundara-chintamani rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 61. Treatment for fever (24): Sarvanga-sundara-chintamani rasa
+## Treatment for fever (24): Sarvanga-sundara-chintamani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -33,7 +33,7 @@ This concludes ‘Treatment for fever (24): Sarvanga-sundara-chintamani rasa’ 
 
 ---
 
-## 62. Treatment for fever (25): Chandraditya-rasa rasa
+## Treatment for fever (25): Chandraditya-rasa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -51,7 +51,7 @@ This concludes ‘Treatment for fever (25): Chandraditya-rasa rasa’ included i
 
 ---
 
-## 63. Treatment for fever (22): Nava-jvarebha-simha rasa
+## Treatment for fever (22): Nava-jvarebha-simha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -69,7 +69,7 @@ This concludes ‘Treatment for fever (22): Nava-jvarebha-simha rasa’ included
 
 ---
 
-## 64. Treatment for fever (26): Trailokya-mohana rasa
+## Treatment for fever (26): Trailokya-mohana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -87,7 +87,7 @@ This concludes ‘Treatment for fever (26): Trailokya-mohana rasa’ included in
 
 ---
 
-## 65. Treatment for fever (27): Saubhagyadi rasa
+## Treatment for fever (27): Saubhagyadi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -105,7 +105,7 @@ This concludes ‘Treatment for fever (27): Saubhagyadi rasa’ included in Bhud
 
 ---
 
-## 66. Treatment for fever (28): Bhuvaneshvara rasa
+## Treatment for fever (28): Bhuvaneshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -125,7 +125,7 @@ This concludes ‘Treatment for fever (28): Bhuvaneshvara rasa’ included in Bh
 
 ---
 
-## 67. Treatment for fever (29): Sutendra rasa
+## Treatment for fever (29): Sutendra rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -143,7 +143,7 @@ This concludes ‘Treatment for fever (29): Sutendra rasa’ included in Bhudeb 
 
 ---
 
-## 68. Treatment for fever (30): Achinta-shakti rasa
+## Treatment for fever (30): Achinta-shakti rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -161,7 +161,7 @@ This concludes ‘Treatment for fever (30): Achinta-shakti rasa’ included in B
 
 ---
 
-## 69. Treatment for fever (32): Sri-rama rasa
+## Treatment for fever (32): Sri-rama rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -179,7 +179,7 @@ This concludes ‘Treatment for fever (32): Sri-rama rasa’ included in Bhudeb 
 
 ---
 
-## 70. Treatment for fever (33): Prachandesvara rasa
+## Treatment for fever (33): Prachandesvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -197,7 +197,7 @@ This concludes ‘Treatment for fever (33): Prachandesvara rasa’ included in B
 
 ---
 
-## 71. Treatment for fever (34): Chandesvara rasa
+## Treatment for fever (34): Chandesvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -215,7 +215,7 @@ This concludes ‘Treatment for fever (34): Chandesvara rasa’ included in Bhud
 
 ---
 
-## 72. Treatment for fever (35): Tripura-bhairava rasa
+## Treatment for fever (35): Tripura-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -233,7 +233,7 @@ This concludes ‘Treatment for fever (35): Tripura-bhairava rasa’ included in
 
 ---
 
-## 73. Treatment for fever (31): Jvara-dhuma-ketu rasa
+## Treatment for fever (31): Jvara-dhuma-ketu rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -251,7 +251,7 @@ This concludes ‘Treatment for fever (31): Jvara-dhuma-ketu rasa’ included in
 
 ---
 
-## 74. Treatment for fever (36): Udaka-manjari rasa
+## Treatment for fever (36): Udaka-manjari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -269,7 +269,7 @@ This concludes ‘Treatment for fever (36): Udaka-manjari rasa’ included in Bh
 
 ---
 
-## 75. Treatment for fever (37): Trailokya-dumbura rasa
+## Treatment for fever (37): Trailokya-dumbura rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -287,8 +287,6 @@ This concludes ‘Treatment for fever (37): Trailokya-dumbura rasa’ included i
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -296,10 +294,6 @@ This concludes ‘Treatment for fever (37): Trailokya-dumbura rasa’ included i
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (38): Gada-murari rasa: Rasa Jala Nidhi Volume 4 Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

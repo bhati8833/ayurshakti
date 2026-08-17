@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on On the Dravyaguna-sangraha of Chakrapani-datta within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. On the Dravyaguna-sangraha of Chakrapani-datta
+## On the Dravyaguna-sangraha of Chakrapani-datta
 
 Journal of the European Ayurvedic Society
 
@@ -37,7 +37,7 @@ eliminated by churning etc.; it is neither too thick nor too dilute, is sweet-so
 
 ---
 
-## 25. Diagnosis and Therapy of Psychosomatic Diseases
+## Diagnosis and Therapy of Psychosomatic Diseases
 
 Journal of the European Ayurvedic Society
 
@@ -73,7 +73,7 @@ Schmadel-Hochkirchen, Diagnosis and therapy ... 99 Here it becomes clear that a 
 
 ---
 
-## 26. Regarding Phenaka (trtiyakah phenakah)
+## Regarding Phenaka (trtiyakah phenakah)
 
 Journal of the European Ayurvedic Society
 
@@ -101,8 +101,6 @@ S.R. Sarma, Trtiyakah phenakah 121 vessel with a narrow mouth in which is kept t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -110,10 +108,6 @@ S.R. Sarma, Trtiyakah phenakah 121 vessel with a narrow mouth in which is kept t
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Indian contributions to traditional Khmer medicine: Journal Of The European Ayurvedic Society Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

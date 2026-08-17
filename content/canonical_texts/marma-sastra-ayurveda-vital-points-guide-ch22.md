@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix 1 - Marma and Shad Chakras within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 73. Appendix 1 - Marma and Shad Chakras
+## Appendix 1 - Marma and Shad Chakras
 
 Marma-sastra and Ayurveda (study)
 
@@ -33,7 +33,7 @@ Bija (Seed) Color Bija Petal Sound Loka (Plane) Tatva (Element) Color of Tatva R
 
 ---
 
-## 74. Appendix 2 - Names of Paduvarma in various Texts
+## Appendix 2 - Names of Paduvarma in various Texts
 
 Marma-sastra and Ayurveda (study)
 
@@ -49,7 +49,7 @@ Thodu Varma Varma Suthiram Varma Varma Varma Kannadi Peerangi Suthram V.P 1. Ang
 
 ---
 
-## 75. Appendix 4: Various other Varmam
+## Appendix 4: Various other Varmam
 
 Marma-sastra and Ayurveda (study)
 
@@ -63,8 +63,6 @@ Kaal Sundotiri varma is two angula above the big toe and otherwise termed as Vid
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -72,10 +70,6 @@ Kaal Sundotiri varma is two angula above the big toe and otherwise termed as Vid
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix 4 - Table of weights and measures described in Ayurvedic Classics: Marma Sastra and Ayurvedic Science Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of medicated fumes, snuffs, errhines and gargles within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Chapter XL - Description of medicated fumes, snuffs, errhines and gargles
+## Chapter XL - Description of medicated fumes, snuffs, errhines and gargles
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -229,91 +229,115 @@ Thus ends the Fortieth Chapter of the Chikitsita Sthana in the Susruta Samhita w
 
 Here ends the Chikitsita Sthana
 
-[1]:
 
-Charaka, however, divides Dhuma into three classes only—viz,,  Prayogika, Snaihika and Vairecanaka, and includes the Kasa-hara into the Prayogika, and Vamaniya into the Vairecana Dhuma.
+<div className="footnote-card"><strong>[1]</strong> Charaka, however, divides Dhuma into three classes only—viz,,  Prayogika, Snaihika and Vairecanaka, and includes the Kasa-hara into the Prayogika, and Vamaniya into the Vairecana Dhuma.</div>
 
-[2]:
 
-The term Vairecana here means Shiro-Virecana by means of fumes.
 
-[3]:
 
-Some commentators mean to explain “iṅgudītvak” as lngudi and cardamom instead of as Ingudi-bark. This seems to be better.
+<div className="footnote-card"><strong>[2]</strong> The term Vairecana here means Shiro-Virecana by means of fumes.</div>
 
-[4]:
 
-See Chapter XXXV, Para. 7, Chikitsita Sthana.
 
-[5]:
 
-Charaka’s description of the pipes, (Chapter V, Shlokasthana) corresponds closely to that of Sushruta, except in the case of Prayogika pipe, where Charaka’s reading is somewhat ambiguous. There it may be construed to mean thirty-six as well as forty-eight fingers. Jatu-karna, however, explicitly asserts forty-eight fingers to be the length of the pipe in question. Vrinda is in a fix, and solves the difficulties by explaining that in cases of an aggravation of Kapha and an abundance of Doshas, the length of the pipe should be thirty-six fingers.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Some commentators mean to explain “iṅgudītvak” as lngudi and cardamom instead of as Ingudi-bark. This seems to be better.
+</blockquote>
 
-[6]:
 
-According to Vrinda’s commentator we have here “Sneezing and a sudden obstruction of breath” as an additional text.
 
-[7]:
 
-Dallana quotes a different reading which would mean that the Kasaghna-Dhuma should he inhaled after taking meals.
+<div className="footnote-card"><strong>[4]</strong> See Chapter XXXV, Para. 7, Chikitsita Sthana.</div>
 
-[8]:
 
-The Shiro-Virecana drugs are Pippali, Vidanga, Shigru, Siddharthaka, Apamarga, etc. See Sutrashana, Chapter XXXIX.
 
-[9]:
 
-Shrikantha Datta, commentator of Vrinda, says that Gayi reads “shirovirecanadravyasiddhena snehenaiva” (?) etc., from which it is evident that he prescribed only the Sneha cooked with the Shiro-Virecana drugs as Shiro- Virecana Nasya.
+<div className="footnote-card"><strong>[5]</strong> Charaka’s description of the pipes, (Chapter V, Shlokasthana) corresponds closely to that of Sushruta, except in the case of Prayogika pipe, where Charaka’s reading is somewhat ambiguous. There it may be construed to mean thirty-six as well as forty-eight fingers. Jatu-karna, however, explicitly asserts forty-eight fingers to be the length of the pipe in question. Vrinda is in a fix, and solves the difficulties by explaining that in cases of an aggravation of Kapha and an abundance of Doshas, the length of the pipe should be thirty-six fingers.</div>
 
-[10]:
 
-In respect of healthy patients, the Nasya should be administered at noon in winter, in the morning in spring and autumn, and in the afternoon in summer, while in the rainy season, they should be administered at a time when the sun would be visible in the sky.—Vriddha-Vagbhata.
 
-[11]:
 
-The commentator of Vrinda adds two more conditions—viz., the patient should be made to pass stools and urine before the application of the Nasya and that the Nasya should be applied at a time when the sky would be free from clouds.
+<div className="footnote-card"><strong>[6]</strong> According to Vrinda’s commentator we have here “Sneezing and a sudden obstruction of breath” as an additional text.</div>
 
-[12]:
 
-Gayi’s reading, according to Dallana, as well Shrikantha’s reading is which means the functional derangement of the local Vayu.
 
-[13]:
 
-One drop or two, or the quantity necessary to bring about a disruption of the Doshas, is the dose of a Pratimarsha Nasya according to Vriddha-Vagabhata.
+<div className="footnote-card"><strong>[7]</strong> Dallana quotes a different reading which would mean that the Kasaghna-Dhuma should he inhaled after taking meals.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> The Shiro-Virecana drugs are Pippali, Vidanga, Shigru, Siddharthaka, Apamarga, etc. See Sutrashana, Chapter XXXIX.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Shrikantha Datta, commentator of Vrinda, says that Gayi reads “shirovirecanadravyasiddhena snehenaiva” (?) etc., from which it is evident that he prescribed only the Sneha cooked with the Shiro-Virecana drugs as Shiro- Virecana Nasya.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> In respect of healthy patients, the Nasya should be administered at noon in winter, in the morning in spring and autumn, and in the afternoon in summer, while in the rainy season, they should be administered at a time when the sun would be visible in the sky.—Vriddha-Vagbhata.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> The commentator of Vrinda adds two more conditions—viz., the patient should be made to pass stools and urine before the application of the Nasya and that the Nasya should be applied at a time when the sky would be free from clouds.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Gayi’s reading, according to Dallana, as well Shrikantha’s reading is which means the functional derangement of the local Vayu.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> One drop or two, or the quantity necessary to bring about a disruption of the Doshas, is the dose of a Pratimarsha Nasya according to Vriddha-Vagabhata.</div>
+
+
 
 The four forms of Nasya-Karma (medicinal) snuffs, should be prescribed for patients above seven years of age. Pratimarsha is recommended in Gulma.—Krishnatreya.
 
-[14]:
 
-Vrinda does not include ‘parching’ while Chakradatta does not include ‘heat-making’ as the conditions of this kind of Kavala in their respective collections.
+<div className="footnote-card"><strong>[14]</strong> Vrinda does not include ‘parching’ while Chakradatta does not include ‘heat-making’ as the conditions of this kind of Kavala in their respective collections.</div>
 
-[15]:
 
-Chakradatta does not include ‘pungency’ and ‘heat-making potency’ as conditions of this kind of Kavala.
 
-[16]:
 
-Vrinda here reads “sañcarayitavyashca”, i.e., ‘and should be rolled out (in the mouth)’.
+<div className="footnote-card"><strong>[15]</strong> Chakradatta does not include ‘pungency’ and ‘heat-making potency’ as conditions of this kind of Kavala.</div>
 
-[17]:
 
-“Dosha” here means ‘Kapha’.
 
-[18]:
 
-Vrinda here reads “sañcarayitavyaśca”, i.e., ‘and should be rolled out (in the mouth)’.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Vrinda here reads “sañcarayitavyashca”, i.e., ‘and should be rolled out (in the mouth)’.
+</blockquote>
 
-[19]:
 
-Vrinda reads “yavaddoṣaparipūrṇagalakopalatvam” which means till the Dosha accumulates in the regions of the throat and the cheeks.
 
-[20]:
 
-Commentators, on the authority of Videha, hold that gargles should be used with these articles either collectively or separately in cases of burning in the mouth by an excessive use of an alkali or such other articles.
+<div className="footnote-card"><strong>[17]</strong> “Dosha” here means ‘Kapha’.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Vrinda here reads “sañcarayitavyaśca”, i.e., ‘and should be rolled out (in the mouth)’.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Vrinda reads “yavaddoṣaparipūrṇagalakopalatvam” which means till the Dosha accumulates in the regions of the throat and the cheeks.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Commentators, on the authority of Videha, hold that gargles should be used with these articles either collectively or separately in cases of burning in the mouth by an excessive use of an alkali or such other articles.</div>
 
 ---
-
-
 
 ---
 
@@ -322,10 +346,6 @@ Commentators, on the authority of Videha, hold that gargles should be used with 
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch41" className="text-emerald-400 hover:underline flex items-center font-medium">The treatment with a Nirudha-vasti: Sushruta Samhita Cikitsasthana Chapter 41 →</a>
 </div>
-
-
-
-
 
 ---
 

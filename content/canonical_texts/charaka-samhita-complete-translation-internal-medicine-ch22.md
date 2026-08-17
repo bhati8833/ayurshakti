@@ -11,11 +11,11 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Pathology of Gulma (gulma-nidana) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 127. Chapter 3 - The Pathology of Gulma (gulma-nidana)
+## Chapter 3 - The Pathology of Gulma (gulma-nidana)
 
 ---
 
-## 128. Chapter 8 - The Pharmaceutics of the Purging Cassia (caturangula-kalpa)
+## Chapter 8 - The Pharmaceutics of the Purging Cassia (caturangula-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -69,7 +69,7 @@ medicated wine and two in the form of ghee—thus, in all, twelve preparations s
 
 ---
 
-## 129. Chapter 7 - The Pharmaceutics of Turpeth (trivrit-kalpa)
+## Chapter 7 - The Pharmaceutics of Turpeth (trivrit-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -201,7 +201,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 130. Chapter 10 - The Pharmaceutics of the Thorny Milk-hedge Plant (sudha-kalpa)
+## Chapter 10 - The Pharmaceutics of the Thorny Milk-hedge Plant (sudha-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -255,11 +255,11 @@ Here are the recapitulatory verses—
 
 ---
 
-## 131. Chapter 2 - The Seeds of Rough chaff (apamarga-tanduliya)
+## Chapter 2 - The Seeds of Rough chaff (apamarga-tanduliya)
 
 ---
 
-## 132. Chapter 11 - The Pharmaceutics of the Soap-pod and Clenolepis
+## Chapter 11 - The Pharmaceutics of the Soap-pod and Clenolepis
 
 Charaka Samhita (English translation)
 
@@ -307,8 +307,6 @@ Here are the two recapitulatory verses—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -316,10 +314,6 @@ Here are the two recapitulatory verses—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">The Pharmaceutics of Tilwaka (tilvaka-kalpa): Charaka Samhita Complete Translation Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

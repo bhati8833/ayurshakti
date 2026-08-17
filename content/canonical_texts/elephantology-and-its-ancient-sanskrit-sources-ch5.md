@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Content Analysis of Matangalila within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter 4 - Content Analysis of Matangalila
+## Chapter 4 - Content Analysis of Matangalila
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -155,11 +155,7 @@ The ninth chapter is taken as the most important one in this text. It deals with
 
 The tenth chapter explains the method of catching the elephants. It describes the five methods of catching wild elephants and it contains 14 stanzas (verses). The five methods are:—
 
-varibandha
-
-vashabandha
-
-anugati
+varibandha, vashabandha, anugati
 
 apata and avapata.
 
@@ -521,161 +517,195 @@ Hastyayurveda and Matangalila are revealing almost the same matters, even if the
 
 Various phases of development of elephant is an interesting topic.
 
-[1]:
 
-Matangalila. Preface.
+<div className="footnote-card"><strong>[1]</strong> Matangalila. Preface.</div>
 
-[2]:
 
-Keraliya Samskrita Sahitya Caritram (Keraliya Samskrtia Sahitya Caritra). 8. 2.3. 503.
 
-[3]:
 
-Ibid. 4.
+<div className="footnote-card"><strong>[2]</strong> Keraliya Samskrita Sahitya Caritram (Keraliya Samskrtia Sahitya Caritra). 8. 2.3. 503.</div>
 
-[4]:
 
-Ibid. 5.
 
-[5]:
 
-Keraliya Samskrtia Sahitya Caritra.8.506.
+<div className="footnote-card"><strong>[3]</strong> Ibid. 4.</div>
 
-[6]:
 
-Ullur. S. Parameswara Iyer Keraliya Samskrtia Sahitya Caritra (II part) Kerala University, 1953-27, 304-305.
 
-[7]:
 
-Ibid.
+<div className="footnote-card"><strong>[4]</strong> Ibid. 5.</div>
 
-[8]:
 
-Ibid. 306.
 
-[9]:
 
-Matangalila. Prelude. 1-3.
+<div className="footnote-card"><strong>[5]</strong> Keraliya Samskrtia Sahitya Caritra.8.506.</div>
 
-[10]:
 
-Manushyalaya Candrika. Introduction. XI.
 
-[11]:
 
-Matangalila. 2. 11.22.
+<div className="footnote-card"><strong>[6]</strong> Ullur. S. Parameswara Iyer Keraliya Samskrtia Sahitya Caritra (II part) Kerala University, 1953-27, 304-305.</div>
 
-[12]:
 
-Matangalila. 7.2.40.
 
-[13]:
 
-Matangalila. 1.3.25
+<div className="footnote-card"><strong>[7]</strong> Ibid.</div>
 
-[14]:
 
-Matangalila.1.26.12.
 
-[15]:
 
-B.S. 66.1.629.
+<div className="footnote-card"><strong>[8]</strong> Ibid. 306.</div>
 
-[16]:
 
-Brihatsamhita 66.4.730.
 
-[17]:
 
-Ibid.
+<div className="footnote-card"><strong>[9]</strong> Matangalila. Prelude. 1-3.</div>
 
-[18]:
 
-MO. 41. 225.49.
 
-[19]:
 
-Gajashiksha.2. 31.6.
+<div className="footnote-card"><strong>[10]</strong> Manushyalaya Candrika. Introduction. XI.</div>
 
-[20]:
 
-Matangalila. 3.3.25.
 
-[21]:
 
-Arthashastra 31.459.
+<div className="footnote-card"><strong>[11]</strong> Matangalila. 2. 11.22.</div>
 
-[22]:
 
-Matangalila. 3.7.26
 
-[23]:
 
-Matangalila. 4.4.27.
+<div className="footnote-card"><strong>[12]</strong> Matangalila. 7.2.40.</div>
 
-[24]:
 
-Matangalila.6. 3.3.7.
 
-[25]:
 
-Matangalila. 5.5.29.
+<div className="footnote-card"><strong>[13]</strong> Matangalila. 1.3.25</div>
 
-[26]:
 
-Ana. p.95.
 
-[27]:
 
-Matangalila. 5.23.35.
+<div className="footnote-card"><strong>[14]</strong> Matangalila.1.26.12.</div>
 
-[28]:
 
-Matangalila. 6.4.37.
 
-[29]:
 
-Matangalila. 6.1.4. 39.
+<div className="footnote-card"><strong>[15]</strong> B.S. 66.1.629.</div>
 
-[30]:
 
-Domestic Animals, 7.168.
 
-[31]:
 
-Gajagrahanaprakara. 5. 715-716. 72.
+<div className="footnote-card"><strong>[16]</strong> Brihatsamhita 66.4.730.</div>
 
-[32]:
 
-Ibid. 726.73.
 
-[33]:
 
-Matangalila 8.12.44.
+<div className="footnote-card"><strong>[17]</strong> Ibid.</div>
 
-[34]:
 
-Matangalila 8.1.25. 41-48.
 
-[35]:
 
-Matangalila 8.2.41.
+<div className="footnote-card"><strong>[18]</strong> MO. 41. 225.49.</div>
 
-[36]:
 
-Brihatsamhita. 66.5.73.
 
-[37]:
 
-Matangalila. 5. 50.
+<div className="footnote-card"><strong>[19]</strong> Gajashiksha.2. 31.6.</div>
 
-[38]:
 
-Matangalila. IX. 20-23. 55.
+
+
+<div className="footnote-card"><strong>[20]</strong> Matangalila. 3.3.25.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Arthashastra 31.459.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Matangalila. 3.7.26</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Matangalila. 4.4.27.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Matangalila.6. 3.3.7.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Matangalila. 5.5.29.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Ana. p.95.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Matangalila. 5.23.35.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Matangalila. 6.4.37.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Matangalila. 6.1.4. 39.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Domestic Animals, 7.168.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Gajagrahanaprakara. 5. 715-716. 72.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> Ibid. 726.73.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> Matangalila 8.12.44.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> Matangalila 8.1.25. 41-48.</div>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> Matangalila 8.2.41.</div>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> Brihatsamhita. 66.5.73.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> Matangalila. 5. 50.</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> Matangalila. IX. 20-23. 55.</div>
 
 ---
-
-
 
 ---
 
@@ -684,10 +714,6 @@ Matangalila. IX. 20-23. 55.
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Capturing of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

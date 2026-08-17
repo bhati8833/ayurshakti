@@ -88,7 +88,11 @@ Thus ends the forty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita w
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 Both Cakrapāni and Vrinda read “hṛtapāṇ?ugrahaṇī etc.” i.e., they say that it may bring on an attack of heart-disease also.
+</blockquote>
+
 
 [2]:
 

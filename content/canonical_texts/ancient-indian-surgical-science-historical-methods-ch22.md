@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Classification of Surgical Instruments within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 70. 4. Classification of Surgical Instruments
+## 4. Classification of Surgical Instruments
 
 Surgery in ancient India (Study)
 
@@ -27,7 +27,7 @@ otherwise, according to the advice of old and experienced physicians surgeons; o
 
 ---
 
-## 72. 5. Application of Svastika
+## 5. Application of Svastika
 
 Surgery in ancient India (Study)
 
@@ -41,7 +41,7 @@ used in extracting any thorn or foreign matter which may have entered into the b
 
 ---
 
-## 73. 3. Handling of Instruments according to Sushruta
+## 3. Handling of Instruments according to Sushruta
 
 Surgery in ancient India (Study)
 
@@ -61,8 +61,6 @@ instrument cannot be procured. The nails of fingers should be used in operations
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -70,10 +68,6 @@ instrument cannot be procured. The nails of fingers should be used in operations
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">6. Application of the Samdamsha instrument: Ancient Indian Surgical Science Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

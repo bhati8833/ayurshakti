@@ -604,7 +604,11 @@ Treatment in Chronic Fever
 
 310-310½. By worshipping with due piety, the god Ishvara [Īśvara] together with his consort Uma [Umā], waited on by the god’s entourage and the company of the ‘Mothers’—(minor goddesses), one soon gets rid of the irregular fever.
 
+
+<blockquote className="ayur-shloka">
 311-311½. By worshipping Vishnu [Viṣṇu], the myriad-headed, the lord of all that is animate and inanimate, and the all-pervading, with the recital of his thousand names, one throws off fever of any kind.
+</blockquote>
+
 
 312-312½. By worship through sacrifices, the gods—Brahma [Brahmā], the two Ashvins [Aśvins]; Indra, Agni, Himalaya, Ganga [Gaṅgā] and the company of the Maruts, one conquers fever.
 

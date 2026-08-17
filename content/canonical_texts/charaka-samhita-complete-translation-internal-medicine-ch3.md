@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Sudation Therapy (sveda) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter 14 - The Sudation Therapy (sveda)
+## Chapter 14 - The Sudation Therapy (sveda)
 
 Charaka Samhita (English translation)
 
@@ -205,7 +205,7 @@ Summary
 
 ---
 
-## 13. Chapter 15 - The Armamentarium (upakalpa) of the Physician
+## Chapter 15 - The Armamentarium (upakalpa) of the Physician
 
 Charaka Samhita (English translation)
 
@@ -359,7 +359,7 @@ Summary
 
 ---
 
-## 14. Chapter 16 - The Fully Equipped Physician (Cikitsa-prabhrita)
+## Chapter 16 - The Fully Equipped Physician (Cikitsa-prabhrita)
 
 Charaka Samhita (English translation)
 
@@ -483,7 +483,7 @@ Summary
 
 ---
 
-## 15. Chapter 17 - The diseases of the head (shiroroga) and of the heart (hridroga)
+## Chapter 17 - The diseases of the head (shiroroga) and of the heart (hridroga)
 
 Charaka Samhita (English translation)
 
@@ -785,7 +785,7 @@ Summary
 
 ---
 
-## 16. Chapter 18 - The Three Kinds of Edema (shotha)
+## Chapter 18 - The Three Kinds of Edema (shotha)
 
 Charaka Samhita (English translation)
 
@@ -993,7 +993,7 @@ Summary
 
 ---
 
-## 17. Chapter 19 - The Eight Abdominal affections (udara-roga)
+## Chapter 19 - The Eight Abdominal affections (udara-roga)
 
 Charaka Samhita (English translation)
 
@@ -1129,8 +1129,6 @@ Here are the two recapitulatory verses—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1138,10 +1136,6 @@ Here are the two recapitulatory verses—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">The Major List of Diseases (maharoga): Charaka Samhita Complete Translation Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

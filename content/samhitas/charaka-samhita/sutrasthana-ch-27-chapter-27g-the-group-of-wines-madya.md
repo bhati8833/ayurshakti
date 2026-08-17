@@ -46,7 +46,11 @@ The Qualities of Jagala wine
 
 The Qualities of Medicated wine
 
+
+<blockquote className="ayur-shloka">
 182. The Arishta [ariṣṭa] or medicded [medicated?] wine is curative of consumption, piles, assimilation-disorders, anemia, anorexia, fever and other diseases when, these arise from Kapha. It is an appetizer and digestive-stimulant.
+</blockquote>
+
 
 The Qualities of Sugar wine
 
@@ -58,7 +62,11 @@ The Qualities of Pakvarasa wine
 
 The Qualities of Shitarasika (Seetarasika) wine
 
+
+<blockquote className="ayur-shloka">
 185 The Shitarasika [śītarasika] wine is pro-motive of digestion, curative of obstipation and clarifies the voice and complexion. It is a revulswe [revulsive?] and is beneficial in edema, abdominal affections and piles.
+</blockquote>
+
 
 The Qualities of Gur wine
 

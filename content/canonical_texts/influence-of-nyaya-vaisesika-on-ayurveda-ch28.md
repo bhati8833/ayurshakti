@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Peelupaka [pilupaka] or chemical change within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 32. 8. Peelupaka [pilupaka] or chemical change
+## 8. Peelupaka [pilupaka] or chemical change
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -31,8 +31,6 @@ The Vaisesika school further declare that there is no other root cause of the un
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ The Vaisesika school further declare that there is no other root cause of the un
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch29" className="text-emerald-400 hover:underline flex items-center font-medium">7. Nyaya-Vaisesika theory of Atomism: Influence Of Nyaya Vaisesika On Ayurveda Chapter 29 →</a>
 </div>
-
-
-
-
 
 ---
 

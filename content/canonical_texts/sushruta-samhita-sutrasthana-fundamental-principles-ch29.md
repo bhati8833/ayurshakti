@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Prognosis of wounds within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. Chapter XXVIII - Prognosis of wounds
+## Chapter XXVIII - Prognosis of wounds
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -41,13 +41,10 @@ A wise physician, with any regard to his own reputation, should abandon a patien
 
 Thus ends the twenty-eighth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with the favourable and unfavourable prognosis of ulcers.
 
-[1]:
 
-The symptoms which are developed by the deranged bodily humours in the organism of a man at a time when they have passed beyond all medical cure, and when the body serves as a mere passive back-ground for those phenomena, awaiting its impending dissolution, are called Arishtas.
+<div className="footnote-card"><strong>[1]</strong> The symptoms which are developed by the deranged bodily humours in the organism of a man at a time when they have passed beyond all medical cure, and when the body serves as a mere passive back-ground for those phenomena, awaiting its impending dissolution, are called Arishtas.</div>
 
 ---
-
-
 
 ---
 
@@ -56,10 +53,6 @@ The symptoms which are developed by the deranged bodily humours in the organism 
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch30" className="text-emerald-400 hover:underline flex items-center font-medium">Eight kinds of surgical operations: Sushruta Samhita Sutrasthana Chapter 30 →</a>
 </div>
-
-
-
-
 
 ---
 

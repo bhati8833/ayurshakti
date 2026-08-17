@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms and Treatment of repression of natural urging (Udavarta) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 60. Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)
+## Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -105,57 +105,83 @@ A compound consisting of the pulverised seeds of Madana and of Alavu, Pippali an
 
 Thus ends the fifty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Udavarta.
 
-[1]:
 
-The symptoms mentioned in this sentence (which comprises a line in the verse) is taken by Mādhava with the following line which enumerates the symptoms of Udāvarta due to the voluntary repression of eructation.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The symptoms mentioned in this sentence (which comprises a line in the verse) is taken by Mādhava with the following line which enumerates the symptoms of Udāvarta due to the voluntary repression of eructation.
+</blockquote>
 
-[2]:
 
-Both Dallana and Śivadāsa recommend the use of minor Panca-mula, but Śrikantha recommeds the Trina-Panca-mula.
 
-[3]:
 
-For Aśmari—See Chiklisita-sthāna, Chapter VII.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Both Dallana and Śivadāsa recommend the use of minor Panca-mula, but Śrikantha recommeds the Trina-Panca-mula.
+</blockquote>
 
-[4]:
 
-For Mutra-Kricchra—Sec ch. LIX., Uttara-Tantra.
 
-[5]:
 
-For Mutrāghalā—See ch. LVIII., Uttara-Tantra.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> For Aśmari—See Chiklisita-sthāna, Chapter VII.
+</blockquote>
 
-[6]:
 
-These are the applications of strong Anjanas and Avapida-Nasyas.
 
-[7]:
 
-The order is (1) Dhuma-inhalation, (2) Nasya (errhine) and (3) Kavala (gargle).
+<div className="footnote-card"><strong>[4]</strong> For Mutra-Kricchra—Sec ch. LIX., Uttara-Tantra.</div>
 
-[8]:
 
-These are the drugs of the Trina-pancamula as well as of the Yiratarvādi groups (Chapter XXXVIII, Sutra Sthāna).
 
-[9]:
 
-Śivadāsa advises the use of buffalo’s milk in this case as being more efficacious in bringing on sleep. But Dallana refutes this and recommends the use of cow’s milk.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> For Mutrāghalā—See ch. LVIII., Uttara-Tantra.
+</blockquote>
 
-[10]:
 
-Chakradatta roads ‘viḍañca’ (and Vit salt) in place of ‘viḍaṅga’.
 
-[11]:
 
-Dallana takes dried (Śushka) with both ‘Mulaka and Ārdraka.
+<div className="footnote-card"><strong>[6]</strong> These are the applications of strong Anjanas and Avapida-Nasyas.</div>
 
-[12]:
 
-Dallana recommends the major Panca-mula; but according to Cakrapāni’s commentary, “Bhānumati,” it should be the minor Panca-mula.
+
+
+<div className="footnote-card"><strong>[7]</strong> The order is (1) Dhuma-inhalation, (2) Nasya (errhine) and (3) Kavala (gargle).</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> These are the drugs of the Trina-pancamula as well as of the Yiratarvādi groups (Chapter XXXVIII, Sutra Sthāna).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Śivadāsa advises the use of buffalo’s milk in this case as being more efficacious in bringing on sleep. But Dallana refutes this and recommends the use of cow’s milk.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Chakradatta roads ‘viḍañca’ (and Vit salt) in place of ‘viḍaṅga’.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Dallana takes dried (Śushka) with both ‘Mulaka and Ārdraka.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Dallana recommends the major Panca-mula; but according to Cakrapāni’s commentary, “Bhānumati,” it should be the minor Panca-mula.
+</blockquote>
 
 ---
 
-## 61. Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)
+## Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -233,35 +259,51 @@ In a case of Anaha due to the presense of Ama, the patient should be treated wit
 
 Thus ends the fifty-sixth chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Visuchika.
 
-[1]:
 
-According to Śrikantha the commentator on Mādhava’s Nidāna—the patient himself makes an indistinct sound.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Śrikantha the commentator on Mādhava’s Nidāna—the patient himself makes an indistinct sound.
+</blockquote>
 
-[2]:
 
-Mādhava reads “thirst” in place of “hic-cough.”
 
-[3]:
 
-Cakrapāni reads Haridrā in the singular number.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Mādhava reads “thirst” in place of “hic-cough.”
+</blockquote>
 
-[4]:
 
-Some here read the following two compounds as an additional text:—Kushtha, Aguru, Patra, Rāsnā, Śigru, Vacā and Tvak should be mixed together and pasted with Kānjika. This would be the best remedy, for rubbing over the body of the patient, in a case of Visucikā.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Cakrapāni reads Haridrā in the singular number.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Some here read the following two compounds as an additional text:—Kushtha, Aguru, Patra, Rāsnā, Śigru, Vacā and Tvak should be mixed together and pasted with Kānjika. This would be the best remedy, for rubbing over the body of the patient, in a case of Visucikā.
+</blockquote>
+
+
 
 Oil should be duly cooked with Citraka, Yuthi-flower, oil-cakes (of sesamum), Bhallātaka, the two Kshāras, Saindhava and two parts of Kushtha. This should be prescribed by an expert to be rubbed, or used as a plaster over the body of the patient.
 
-[5]:
 
-The application of this Nirudha Vasti should be prescribed only in the “pakva” stage of Ānāha and never in its stage.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> The application of this Nirudha Vasti should be prescribed only in the “pakva” stage of Ānāha and never in its stage.
+</blockquote>
 
-[6]:
 
-Kārtika Kundu does not include “urine” in this list. He reads “mātrārddhayuktena” (added in half dose) in place of “mutrārddhayuktena”.
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Kārtika Kundu does not include “urine” in this list. He reads “mātrārddhayuktena” (added in half dose) in place of “mutrārddhayuktena”.
+</blockquote>
 
 ---
 
-## 62. Chapter LIX - Symptoms and Treatment of the defects of Urine (Mutra-dosha)
+## Chapter LIX - Symptoms and Treatment of the defects of Urine (Mutra-dosha)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -321,17 +363,19 @@ Thus ends the fifty-ninth chapter of the Uttara-Tantra in the Sushruta Samhita w
 
 Here ends the Kaya-Chikitsa.
 
-[1]:
 
-Dallana’s reading evidently is Mutra-kricchra (Strangury), for he says that the variant here in some Mss. is Mutra-dosha. He says further that some do not read this chapter at all on the ground that the matter in this chapter is included in the chapters on Aśmari, Mutrāghāta and Udāvarta, etc. But, according to him, it must be read here for treatment’s sake as well as on the ground of its being separately treated in other authoritative works. Mādhava, Chakra-pāni, Vrinda and other compilers have read this as Mutra-kricchra in a separate chapter as here.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Dallana’s reading evidently is Mutra-kricchra (Strangury), for he says that the variant here in some Mss. is Mutra-dosha. He says further that some do not read this chapter at all on the ground that the matter in this chapter is included in the chapters on Aśmari, Mutrāghāta and Udāvarta, etc. But, according to him, it must be read here for treatment’s sake as well as on the ground of its being separately treated in other authoritative works. Mādhava, Chakra-pāni, Vrinda and other compilers have read this as Mutra-kricchra in a separate chapter as here.
+</blockquote>
 
-[2]:
 
-Dallana says that the presence of the particle “ca” (meaning also) indicates that the mode of medical treatment prescribed in Cases of Mutrāghāta should also be applied in this case.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Dallana says that the presence of the particle “ca” (meaning also) indicates that the mode of medical treatment prescribed in Cases of Mutrāghāta should also be applied in this case.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -340,10 +384,6 @@ Dallana says that the presence of the particle “ca” (meaning also) indicates
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms and Treatment of aversion to food (Arochaka): Sushruta Samhita Uttara Tantra Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

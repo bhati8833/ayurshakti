@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Auspicious and inauspicious dreams within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Chapter XXIX - Auspicious and inauspicious dreams
+## Chapter XXIX - Auspicious and inauspicious dreams
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -89,17 +89,15 @@ Dreams of ascending the terrace of a royal palace, of climbing a tree or a hill,
 
 Thus ends the twenty-ninth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with favourable or unfavourable prognosis from messengers, birds, omens etc.
 
-[1]:
 
-A Pashanda messenger should be despatched to call in a physician where a member of the same community would fall ill; a householder, in the case of a patient of the same social order; a Brahmana, in the case of a Brahmana patient, and so on; while an infringement of the rule would be looked upon as an evil omen.
+<div className="footnote-card"><strong>[1]</strong> A Pashanda messenger should be despatched to call in a physician where a member of the same community would fall ill; a householder, in the case of a patient of the same social order; a Brahmana, in the case of a Brahmana patient, and so on; while an infringement of the rule would be looked upon as an evil omen.</div>
 
-[2]:
 
-A messenger, visiting a physician in the afternoon or during a heavy rain or storm, or at a time when the vital wind is naturally disturbed and agitated, indicates an unfavourable prognosis.
+
+
+<div className="footnote-card"><strong>[2]</strong> A messenger, visiting a physician in the afternoon or during a heavy rain or storm, or at a time when the vital wind is naturally disturbed and agitated, indicates an unfavourable prognosis.</div>
 
 ---
-
-
 
 ---
 
@@ -108,10 +106,6 @@ A messenger, visiting a physician in the afternoon or during a heavy rain or sto
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch37" className="text-emerald-400 hover:underline flex items-center font-medium">Drugs of specific actions: Sushruta Samhita Sutrasthana Chapter 37 →</a>
 </div>
-
-
-
-
 
 ---
 

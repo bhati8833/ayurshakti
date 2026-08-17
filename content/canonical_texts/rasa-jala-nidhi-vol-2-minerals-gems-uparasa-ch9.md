@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Purification of Chapala within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 41. Part 2 - Purification of Chapala
+## Part 2 - Purification of Chapala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -29,7 +29,7 @@ This concludes ‘Purification of Chapala’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-## 42. Part 3 - Extraction of essence from Chapala
+## Part 3 - Extraction of essence from Chapala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -47,7 +47,7 @@ This concludes ‘Extraction of essence from Chapala’ included in Bhudeb Mooke
 
 ---
 
-## 43. Part 4 - Chapala produced from lead and tin
+## Part 4 - Chapala produced from lead and tin
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -65,7 +65,7 @@ This concludes ‘Chapala produced from lead and tin’ included in Bhudeb Mooke
 
 ---
 
-## 44. Chapter VII - Uparasa (8): Rasaka or Kharpara (calamine)
+## Chapter VII - Uparasa (8): Rasaka or Kharpara (calamine)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -75,15 +75,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VII - Uparasa (8): Rasaka or Kharpara (calamine)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (8): Rasaka or Kharpara (calamine)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 45. Part 1 - Characteristics of Rasaka/Kharpara (calamine)
+## Part 1 - Characteristics of Rasaka/Kharpara (calamine)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -99,17 +97,16 @@ Inability of Rasaka to stand fire.
 
 Rasaka cannot stand fire. It is so combustible that it burns on a slight heat being applied to it. There are a few things in this world which can make rasaka stand fire.
 
-[1]:
 
-“Dardura,” according to another version.
+<div className="footnote-card"><strong>[1]</strong> “Dardura,” according to another version.</div>
+
+
 
 Conclusion:
 
 This concludes ‘Characteristics of Rasaka/Kharpara (calamine)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
-
-
 
 ---
 
@@ -118,10 +115,6 @@ This concludes ‘Characteristics of Rasaka/Kharpara (calamine)’ included in B
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">How rasaka may be made to stand fire: Rasa Jala Nidhi Volume 2 Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

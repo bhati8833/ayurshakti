@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Medicines (c): Leaves (Paṇṇa/Patra) within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 37. Medicines (c): Leaves (Paṇṇa/Patra)
+## Medicines (c): Leaves (Paṇṇa/Patra)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -37,29 +37,40 @@ All these plants are known in Āyurveda, but are not specified as leafmedicines.
 
 The leaf-medicines mentioned in the Chapters on Medicine of the Theravāda and Mūlasarvāstivāda Vinayas are summarised as follows:
 
-[1]:
 
-Sulasī should refer to surasa, surasā, or tulasī in Sanskrit. It is holy basil. See also Khare 2012, 630, 646.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Sulasī should refer to surasa, surasā, or tulasī in Sanskrit. It is holy basil. See also Khare 2012, 630, 646.
+</blockquote>
 
-[2]:
 
-Theravāda Vinaya Piṭaka I. 201: “... paṇṇāni bhesajjāni nimbapaṇṇaṃ kuṭajapaṇṇaṃ paṭolapaṇṇaṃ sulasipaṇṇaṃ kappāsikapaṇṇaṃ yāni vā pan’ aññāni pi atthi paṇṇāni bhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituṃ.”
 
-[3]:
 
-Gilgit Manuscripts III. 1.iii: “patrabhaiṣajyam| paṭolapatraṃ vāśikapatraṃ nimbapatraṃ kośātakīpatraṃ saptaparṇapatramiti| yadvā punaranyadapi patrabhaiṣajyārthāya spharati nāmiṣārthāya|” Vāśikā is synonymous with vāsaka.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Theravāda Vinaya Piṭaka I. 201: “... paṇṇāni bhesajjāni nimbapaṇṇaṃ kuṭajapaṇṇaṃ paṭolapaṇṇaṃ sulasipaṇṇaṃ kappāsikapaṇṇaṃ yāni vā pan’ aññāni pi atthi paṇṇāni bhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituṃ.”
+</blockquote>
 
-[4]:
 
-In the Chinese version, there is a term “三葉” which literally means “three leaves” before listing the items of leaf-medicine. It seems that the translator might have mistaken 酸菜 and 婆奢迦葉 as one term rather than two. 酸菜 means “pickled vegetable”. By comparing the Chinese version with the Sanskrit one, this term probably refers to the leaf of pointed gourd that can be cooked as vegetable (Khare 2004, 458).
 
-[5]:
 
-Taishō Tripiṭaka 1448. 1b15-16: “葉藥者，三葉：謂酸菜婆奢迦葉...，絍婆...，高奢得枳...，及以餘類，准前應用。” 婆奢迦 is vāśikā or vāsaka. 絍婆 is nimba. 高奢得枳 is kośātakī.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Gilgit Manuscripts III. 1.iii: “patrabhaiṣajyam| paṭolapatraṃ vāśikapatraṃ nimbapatraṃ kośātakīpatraṃ saptaparṇapatramiti| yadvā punaranyadapi patrabhaiṣajyārthāya spharati nāmiṣārthāya|” Vāśikā is synonymous with vāsaka.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> In the Chinese version, there is a term “三葉” which literally means “three leaves” before listing the items of leaf-medicine. It seems that the translator might have mistaken 酸菜 and 婆奢迦葉 as one term rather than two. 酸菜 means “pickled vegetable”. By comparing the Chinese version with the Sanskrit one, this term probably refers to the leaf of pointed gourd that can be cooked as vegetable (Khare 2004, 458).</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1448. 1b15-16: “葉藥者，三葉：謂酸菜婆奢迦葉...，絍婆...，高奢得枳...，及以餘類，准前應用。” 婆奢迦 is vāśikā or vāsaka. 絍婆 is nimba. 高奢得枳 is kośātakī.
+</blockquote>
 
 ---
 
-## 38. Medicines (f): Gum-Resins (Jatu)
+## Medicines (f): Gum-Resins (Jatu)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -99,67 +110,105 @@ Gums and resins are well explained in modern medicinal botany. The following is 
 
 Names of gum-resins recorded in various versions of the Chapter on Medicine are organised in the following table:
 
-[1]:
 
-This term can refer to both the gum-resin and the plant from which it is obtained. See Oxford English Dictionary, 3rd ed, s.v. “asafœtida” [accessed February 9, 2015, http://www.oed.com/view/Entry/11311?redirectedFrom=asaf%C5%93tida#eid].
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> This term can refer to both the gum-resin and the plant from which it is obtained. See Oxford English Dictionary, 3rd ed, s.v. “asafœtida” [accessed February 9, 2015, http://www.oed.com/view/Entry/11311?redirectedFrom=asaf%C5%93tida#eid].
+</blockquote>
 
-[2]:
 
-The Pāḷi term hiṅgusipāṭikā may correspond to hiṅguśivāṭikā in Sanskrit, which is a variety of hiṅgupatrī (gummy cape jasmine, Gardenia gummifera) according to Dash (2008, 151).
 
-[3]:
 
-Apart from hiṅgu (asafoetida) and sajjulasa (resin of Indian copal tree), the exact substances of the other gum-resins in the Pāli list are not certain.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The Pāḷi term hiṅgusipāṭikā may correspond to hiṅguśivāṭikā in Sanskrit, which is a variety of hiṅgupatrī (gummy cape jasmine, Gardenia gummifera) according to Dash (2008, 151).
+</blockquote>
 
-[4]:
 
-Theravāda Vinaya Piṭaka I. 201-202: “... jatūni bhesajjāni hiṅgu hiṅgujatu hiṅgusipāṭikaṃ takaṃ takapattiṃ takapaṇṇiṃ sajjulasaṃ yāni vā pan’ aññāni pi atthi jatūni bhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti, na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituṃ.”
 
-[5]:
 
-Taishō Tripiṭaka 1428. 867b19-22: “爾時病比丘須闍婆藥，佛言：「聽用。是中闍婆者，馨牛、馨莪婆提、尸婆梨陀步、梯夜婆提、薩闍羅婆，比丘有病因緣盡形壽應服。」” 闍婆 seems to be dhūpa (incense). 馨牛 should be hiṅgu and 馨莪婆提 should be hiṅgupatrī. 尸婆梨陀步 may be śīvala-dravya: śīvala is benzoin or storax; dravya means substance, medicinal substance, or lac/gum/resin according to A Sanskrit-English Dictionary (s.v. “śīvala” and “dravya”). It is intriguing to note that the Pāli word for dravya is dabba, which is close in pronunciation to tuobu 陀步, implying the possibility that the Chinese term may have come from a Prakrit source. We are not certain what 梯夜婆提 is. It possibly corresponds to takapatti in the Theravāda Bhesajjakkhandhara and to 帝夜槃那 in the Sarvāstivāda Bhaiṣajyadharmaka. 梯夜 may be divya, which is bdellium, a gum-resin extracted from several trees and shrubs chiefly of Balsamodendron species (A Sanskrit-English Dictionary, s.v. “divya”; Oxford English Dictionary, 3rd ed, s.v. “bdellium” [accessed February 9, 2015, http://www.oed.com/view/Entry/16439?redirectedFrom=bdellium#eid]). So 梯夜婆提 may refer to a type of gum-resin relating to bdellium or to a plant from which it is obtained. 薩闍羅婆 should be 薩闍羅娑, and it is then sarjarasa (Pāli: sajjulasa).
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Apart from hiṅgu (asafoetida) and sajjulasa (resin of Indian copal tree), the exact substances of the other gum-resins in the Pāli list are not certain.
+</blockquote>
 
-[6]:
 
-Taishō Tripiṭaka 1435. 194a12-14: “有五種樹膠藥：興渠、薩闍羅茶、帝夜、帝夜波羅、帝夜槃那，盡形壽 共房宿。” 興渠 is hiṅgu. 薩闍羅茶 is sarjarasa. 帝夜 may be divya, 帝夜波羅 divya-phala, and 帝夜槃那 divya-paṇṇa.
 
-[7]:
 
-Sarja is Indian copal tree (Vateria indica) whereas sāla is sal tree (Shorea robusta). Khare (2007, 696) says that related species of the latter are equated with the former tree. It then explains why the Mūlasarvāstivāda Bhaiṣajyavastu regards that the resin of Indian copal tree is the exudation of sal tree.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Theravāda Vinaya Piṭaka I. 201-202: “... jatūni bhesajjāni hiṅgu hiṅgujatu hiṅgusipāṭikaṃ takaṃ takapattiṃ takapaṇṇiṃ sajjulasaṃ yāni vā pan’ aññāni pi atthi jatūni bhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti, na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituṃ.”
+</blockquote>
 
-[8]:
 
-Gilgit Manuscripts III. 1.iii-iv: “pañca jatūni| hiṅguḥ sarjarasaḥ takastakakarṇī tadāgataśca| tatra hiṅguvṛkṣasya niryāsaḥ| sarjarasaḥ sālavṛkṣasya niryāsaḥ| tako lākṣāstakakarṇī sikthaṃ tadāgatastadanyeṣāṃ vṛkṣāṇāṃ niryāsaḥ|”
 
-[9]:
 
-According to Yiqiejing yinyi 一切經音義 (Pronunciations and Meanings in All Discourses), 紫礦 is the sap of palāsa (波羅奢) (syn. kiṃśūka). See Taishō Tripiṭaka 2128. 566c23; 577c20-22.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1428. 867b19-22: “爾時病比丘須闍婆藥，佛言：「聽用。是中闍婆者，馨牛、馨莪婆提、尸婆梨陀步、梯夜婆提、薩闍羅婆，比丘有病因緣盡形壽應服。」” 闍婆 seems to be dhūpa (incense). 馨牛 should be hiṅgu and 馨莪婆提 should be hiṅgupatrī. 尸婆梨陀步 may be śīvala-dravya: śīvala is benzoin or storax; dravya means substance, medicinal substance, or lac/gum/resin according to A Sanskrit-English Dictionary (s.v. “śīvala” and “dravya”). It is intriguing to note that the Pāli word for dravya is dabba, which is close in pronunciation to tuobu 陀步, implying the possibility that the Chinese term may have come from a Prakrit source. We are not certain what 梯夜婆提 is. It possibly corresponds to takapatti in the Theravāda Bhesajjakkhandhara and to 帝夜槃那 in the Sarvāstivāda Bhaiṣajyadharmaka. 梯夜 may be divya, which is bdellium, a gum-resin extracted from several trees and shrubs chiefly of Balsamodendron species (A Sanskrit-English Dictionary, s.v. “divya”; Oxford English Dictionary, 3rd ed, s.v. “bdellium” [accessed February 9, 2015, http://www.oed.com/view/Entry/16439?redirectedFrom=bdellium#eid]). So 梯夜婆提 may refer to a type of gum-resin relating to bdellium or to a plant from which it is obtained. 薩闍羅婆 should be 薩闍羅娑, and it is then sarjarasa (Pāli: sajjulasa).
+</blockquote>
 
-[10]:
 
-安悉香 (or 安息香) literally means Persian incense, which is benzoin. See Digital Dictionary of Buddhism, s.v. “安悉香” and “安 息 香” [accessed January 25, 2015, http://www.buddhism-dict.net/cgi-bin/xprddb.pl?q=%E5%AE%89%E6%82%89%E9%A6%99 and http://www.buddhism-dict.net/cgibin/xpr-ddb.pl?q=%E5%AE%89%E6%81%AF%E9%A6%99, respectively].
 
-[11]:
 
-Wukang 烏糠 thus should correspond to sarjarasa.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Taishō Tripiṭaka 1435. 194a12-14: “有五種樹膠藥：興渠、薩闍羅茶、帝夜、帝夜波羅、帝夜槃那，盡形壽 共房宿。” 興渠 is hiṅgu. 薩闍羅茶 is sarjarasa. 帝夜 may be divya, 帝夜波羅 divya-phala, and 帝夜槃那 divya-paṇṇa.
+</blockquote>
 
-[12]:
 
-Taishō Tripiṭaka 1448. 1b21-24: “五種黏藥者，所謂阿魏、烏糠、紫礦、黃蠟、安悉香。阿魏藥者，謂阿魏樹上出膠。烏糠者，謂娑羅樹出膠。紫礦者，樹枝上出汁。黃蠟者，謂蜜中殘出也。安悉
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Sarja is Indian copal tree (Vateria indica) whereas sāla is sal tree (Shorea robusta). Khare (2007, 696) says that related species of the latter are equated with the former tree. It then explains why the Mūlasarvāstivāda Bhaiṣajyavastu regards that the resin of Indian copal tree is the exudation of sal tree.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gilgit Manuscripts III. 1.iii-iv: “pañca jatūni| hiṅguḥ sarjarasaḥ takastakakarṇī tadāgataśca| tatra hiṅguvṛkṣasya niryāsaḥ| sarjarasaḥ sālavṛkṣasya niryāsaḥ| tako lākṣāstakakarṇī sikthaṃ tadāgatastadanyeṣāṃ vṛkṣāṇāṃ niryāsaḥ|”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> According to Yiqiejing yinyi 一切經音義 (Pronunciations and Meanings in All Discourses), 紫礦 is the sap of palāsa (波羅奢) (syn. kiṃśūka). See Taishō Tripiṭaka 2128. 566c23; 577c20-22.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> 安悉香 (or 安息香) literally means Persian incense, which is benzoin. See Digital Dictionary of Buddhism, s.v. “安悉香” and “安 息 香” [accessed January 25, 2015, http://www.buddhism-dict.net/cgi-bin/xprddb.pl?q=%E5%AE%89%E6%82%89%E9%A6%99 and http://www.buddhism-dict.net/cgibin/xpr-ddb.pl?q=%E5%AE%89%E6%81%AF%E9%A6%99, respectively].
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Wukang 烏糠 thus should correspond to sarjarasa.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Taishō Tripiṭaka 1448. 1b21-24: “五種黏藥者，所謂阿魏、烏糠、紫礦、黃蠟、安悉香。阿魏藥者，謂阿魏樹上出膠。烏糠者，謂娑羅樹出膠。紫礦者，樹枝上出汁。黃蠟者，謂蜜中殘出也。安悉
+</blockquote>
+
+
 
 香者，樹膠也。” If the Sanskrit list is identical with the Chinese one, then taka would correspond to 紫礦 (the gum of flame of forest), and tadāgata to 安悉香, the Persian incense which is a benzoin resin. Taka then would be a synonym of palāśa or kiṃśūka. But we cannot be sure whether the Sanskrit and Chinese lists are exactly the same.
 
-[13]:
 
-Samantapāsādikā V. 1090: “hiṅguhiṅgujatu jiṅgusipāṭikā hiṅgujātiyo yeva, takatakapattitakapaṇṇiyo lākhājātiyo yeva.”
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Samantapāsādikā V. 1090: “hiṅguhiṅgujatu jiṅgusipāṭikā hiṅgujātiyo yeva, takatakapattitakapaṇṇiyo lākhājātiyo yeva.”
+</blockquote>
 
-[14]:
 
-See Oxford English Dictionary, 3rd ed, s.v. “benzoin” and “storax” [accessed January 26, 2015, http://www.oed.com/view/Entry/17809?redirectedFrom=benzoin#eid, and http://www.oed.com/view/Entry/190926?redirectedFrom=storax#eid].
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> See Oxford English Dictionary, 3rd ed, s.v. “benzoin” and “storax” [accessed January 26, 2015, http://www.oed.com/view/Entry/17809?redirectedFrom=benzoin#eid, and http://www.oed.com/view/Entry/190926?redirectedFrom=storax#eid].
+</blockquote>
 
 ---
 
-## 39. Medicines (g): Decoctions/Astringent Medicines (Kasāva/Kaṣāya)
+## Medicines (g): Decoctions/Astringent Medicines (Kasāva/Kaṣāya)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -202,55 +251,84 @@ Modern herbal medicine has some forms of medicines resembling the decoctions tha
 
 The following table enumerates the decoction-medicines or astringent medicines that have been mentioned in the Chapters on Medicine.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 201: “... kasāvāni bhesajjāni nimbakasāvaṃ kuṭajakasāvaṃ pakkavakasāvaṃ nattamālakasāvaṃ yāni vā pan’ aññāni pi atthi kasāvabhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti, na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituṃ.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 201: “... kasāvāni bhesajjāni nimbakasāvaṃ kuṭajakasāvaṃ pakkavakasāvaṃ nattamālakasāvaṃ yāni vā pan’ aññāni pi atthi kasāvabhesajjāni, n’ eva khādaniye khādaniyattaṃ pharanti, na bhojaniye bhojaniyattaṃ pharanti, tāni paṭiggahetvā yāvajīvaṃ pariharituṃ, sati paccaye paribhuñjituṃ.”
+</blockquote>
 
-[2]:
 
-Taishō Tripiṭaka 1428. 867a24-26: “爾時有病比丘，醫教服罽沙藥，佛言：「病比丘有因緣盡形壽聽服。是中罽沙者，根莖葉花菓罽沙。」” 罽沙 should be kaṣāya.
 
-[3]:
 
-Taishō Tripiṭaka 1428. 877a22: “...根湯、莖葉華菓湯...” 湯, which means soup, can also refer to decoction.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Taishō Tripiṭaka 1428. 867a24-26: “爾時有病比丘，醫教服罽沙藥，佛言：「病比丘有因緣盡形壽聽服。是中罽沙者，根莖葉花菓罽沙。」” 罽沙 should be kaṣāya.
+</blockquote>
 
-[4]:
 
-苦藥 literally means bitter medicine. Since kaṣāya can mean astringent, which in turn means “(of taste or smell) sharp or bitter” (Oxford Dictionary: Language Matters, s.v. “astringent” [accessed January 26, 2015, http://www.oxforddictionaries.com/definition/english/astringent?searchDictCode=all]). So the bitter medicines are likely relating to the decoctions/astringent medicines.
 
-[5]:
 
-Taishō Tripiṭaka 1435. 184c28-185a2: “長老優波離問佛：「何等苦藥？」佛言：「拘賴闍樹、拘波羅樹、拘真利他樹、師羅樹、波伽羅樹、波尼無祇倫陀樹。」” 拘波羅樹 may be one of the
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1428. 877a22: “...根湯、莖葉華菓湯...” 湯, which means soup, can also refer to decoction.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> 苦藥 literally means bitter medicine. Since kaṣāya can mean astringent, which in turn means “(of taste or smell) sharp or bitter” (Oxford Dictionary: Language Matters, s.v. “astringent” [accessed January 26, 2015, http://www.oxforddictionaries.com/definition/english/astringent?searchDictCode=all]). So the bitter medicines are likely relating to the decoctions/astringent medicines.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1435. 184c28-185a2: “長老優波離問佛：「何等苦藥？」佛言：「拘賴闍樹、拘波羅樹、拘真利他樹、師羅樹、波伽羅樹、波尼無祇倫陀樹。」” 拘波羅樹 may be one of the
+</blockquote>
+
+
 
 followings: karpūra (camphor tree), kaṭphala (box myrtle), or kapilā (South Indian redwood). 拘真利他樹 may be kañchanaka (mountain ebony) or kuṭannaṭa (Indian trumpet flower). 師羅樹 may be śirīṣa (siris tree). 波伽羅樹 may be bakula (bullet wood) or pāṭalā (trumpet flower). 波尼無祇倫陀樹 is unidentifiable.
 
-[6]:
 
-Taishō Tripiṭaka 1435. 194a14-15: “五種湯：根湯、莖湯、葉湯、華湯、果湯，盡形壽共房宿。” See footnote 100 above. This piece of information on decoction is consistent with those in the Dharmaguptaka Bhaiṣajyaskandhaka.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Taishō Tripiṭaka 1435. 194a14-15: “五種湯：根湯、莖湯、葉湯、華湯、果湯，盡形壽共房宿。” See footnote 100 above. This piece of information on decoction is consistent with those in the Dharmaguptaka Bhaiṣajyaskandhaka.
+</blockquote>
 
-[7]:
 
-Pāli and Sanskrit dictionaries such as Pali-English Dictionary and A Sanskrit-English Dictionary rendered jambŭ as rose apple or rose apple tree. But Āyurvedic texts identify it as black plum. Wujastyk (2004) has written an essay justifying that it should be black plum.
 
-[8]:
 
-The term kośamba-kaṣāya should be kośambaka-kaṣāya by comparing with the Chinese parallel. The name of this plant kośambaka is not found in Āyurvedic texts or books on Indian medicinal plants. But in the Dictionary of Pāli Proper Names, it is stated that numerous margosa trees (i.e. neem trees) were grown in and around the city Kosambī (Malalasekera 1998, 694). Kośambaka, which means “belonging or relating to Kośambī”, may thus refer to the neem trees in this city.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Pāli and Sanskrit dictionaries such as Pali-English Dictionary and A Sanskrit-English Dictionary rendered jambŭ as rose apple or rose apple tree. But Āyurvedic texts identify it as black plum. Wujastyk (2004) has written an essay justifying that it should be black plum.
+</blockquote>
 
-[9]:
 
-Gilgit Manuscripts III. 1.iv: “pañca kaṣāyāḥ katame| āmrakaṣāyo nimbakaṣāyo jambukaṣāyaḥ [śirīṣakaṣāyaḥ] kośambakaṣāyaśca|”
 
-[10]:
 
-Taishō Tripiṭaka 1448. 1b28-29: “云何五種澁藥？謂阿摩羅木、楝木、贍部木、尸利沙木、高苫薄迦木。”
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> The term kośamba-kaṣāya should be kośambaka-kaṣāya by comparing with the Chinese parallel. The name of this plant kośambaka is not found in Āyurvedic texts or books on Indian medicinal plants. But in the Dictionary of Pāli Proper Names, it is stated that numerous margosa trees (i.e. neem trees) were grown in and around the city Kosambī (Malalasekera 1998, 694). Kośambaka, which means “belonging or relating to Kośambī”, may thus refer to the neem trees in this city.
+</blockquote>
 
-[11]:
 
-The information on kapilā (South Indian redwood) is based on A Sanskrit-English Dictionary (s.v. “kapilā”) and Dash (2008, 263).
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Gilgit Manuscripts III. 1.iv: “pañca kaṣāyāḥ katame| āmrakaṣāyo nimbakaṣāyo jambukaṣāyaḥ [śirīṣakaṣāyaḥ] kośambakaṣāyaśca|”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Taishō Tripiṭaka 1448. 1b28-29: “云何五種澁藥？謂阿摩羅木、楝木、贍部木、尸利沙木、高苫薄迦木。”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> The information on kapilā (South Indian redwood) is based on A Sanskrit-English Dictionary (s.v. “kapilā”) and Dash (2008, 263).
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -259,10 +337,6 @@ The information on kapilā (South Indian redwood) is based on A Sanskrit-English
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Medicines (d): Flowers (Puṣpa): Bhesajjakkhandhaka Chapter On Medicine Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

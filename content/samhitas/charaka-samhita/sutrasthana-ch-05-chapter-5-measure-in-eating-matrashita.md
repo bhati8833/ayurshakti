@@ -26,13 +26,21 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Chapter 5 - Measure in eating (matrashita)
 
+
+<blockquote className="ayur-shloka">
 1. We shall now expound the chapter entitled “Measure in eating (Matrashitiya or Matrashita—mātrāśitīya or mātrāśita).”
+</blockquote>
+
 
 2. Thus declared the worshipful Atreya.
 
 Measure Relative to the Gastric Fire
 
+
+<blockquote className="ayur-shloka">
 3. One must eat in measure (Matrashin—mātrāśin) and the measure of food is determined by the strength of one’s gastric fire.
+</blockquote>
+
 
 The Measure of food
 
@@ -306,6 +314,10 @@ Here are the recapitulatory verses:—
 
 111. Ablutions, clipping and trimming the hair, wearing foot-wear, and carrying the umbrella and the staff:—all this, has been described in this chapter on “Measure in Bating.”
 
+
+<blockquote className="ayur-shloka">
 5. Thus, in the section on General Principles, in the treatise compiled by Agnivesha and revised by Caraka, the fifth chapter entitled “Measure in eating (Matrashitiya or Matrashita—mātrāśitīya or mātrāśita)” is completed.
+</blockquote>
+
 
 ---

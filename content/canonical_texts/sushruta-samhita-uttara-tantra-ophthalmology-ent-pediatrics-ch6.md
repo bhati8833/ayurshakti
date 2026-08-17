@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of eye-diseases which require Excision within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Chapter XV - Treatment of eye-diseases which require Excision
+## Chapter XV - Treatment of eye-diseases which require Excision
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -59,33 +59,45 @@ The mode of treatment in a case of any affection in the inner lining of the Vart
 
 Thus ends the fifteenth chapter in the Uttara-Tantra of the Sushruta Samhita which treats of the remedies of eye-diseases requiring excisions or surgical operation.
 
-[1]:
 
-In place of ‘deśa’—the particular part and nature of the country, some read ‘deṣa’—the particular Dosha involved in each case.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> In place of ‘deśa’—the particular part and nature of the country, some read ‘deṣa’—the particular Dosha involved in each case.
+</blockquote>
 
-[2]:
 
-For Lekhya Anjana see Chapter XII, para 16 of this Uttara Tantra.
 
-[3]:
 
-Some here read ‘sirā’ (veins) in place of ‘ghana’ |
+<div className="footnote-card"><strong>[2]</strong> For Lekhya Anjana see Chapter XII, para 16 of this Uttara Tantra.</div>
 
-[4]:
 
-The ‘junction’ is the junction of the Krishna-mandala and the Śukla-mandala of the eye.—Dallana.
 
-[5]:
 
-Dallana explains ‘Mesha-śringa’ as a kind of Ingudi tree.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Some here read ‘sirā’ (veins) in place of ‘ghana’ |
+</blockquote>
 
-[6]:
 
-Some commentators say that emetics and purgatives should be internally administered, but Dallana and the Panjikā-kāra oppose this view.
+
+
+<div className="footnote-card"><strong>[4]</strong> The ‘junction’ is the junction of the Krishna-mandala and the Śukla-mandala of the eye.—Dallana.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Dallana explains ‘Mesha-śringa’ as a kind of Ingudi tree.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Some commentators say that emetics and purgatives should be internally administered, but Dallana and the Panjikā-kāra oppose this view.
+</blockquote>
 
 ---
 
-## 19. Chapter XI - Treatment of Shleshma Ophthalmia
+## Chapter XI - Treatment of Shleshma Ophthalmia
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -117,45 +129,62 @@ A single application as an Anjana of the compound composed of excellent Nadeya (
 
 Thus ends the eleventh chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the curative treatment of Shleshmabhishyanda.
 
-[1]:
 
-The word ‘Atha’ (atha) in the text means says Dallana, that the local vein should be opened as the best resource, when fomentation, etc. would fail to effect a cure.
+<div className="footnote-card"><strong>[1]</strong> The word ‘Atha’ (atha) in the text means says Dallana, that the local vein should be opened as the best resource, when fomentation, etc. would fail to effect a cure.</div>
 
-[2]:
 
-See Chikitsita-sthāna, chapter IX.
 
-[3]:
 
-In place of “Kutannata” and “Arka” both Vrinda and Cakrapāni read “Surasa” and “Arja”. Śrikantha the commentator of Vrinda however is of opinion that Arka should be better reading in place of that of “Arja”.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> See Chikitsita-sthāna, chapter IX.
+</blockquote>
 
-[4]:
 
-Dallana quotes the reading of “Panjikākāra” (another commentator of Suśruta) according to whom Murva and the flowers of Jāti only should be taken instead of the flowers of Jati, Karanja and Śobhānjana. This reading seems to be the correct one inasmuch as this makes the number of the drugs in the list twelve in all, as given by Dallana himself.
 
-[5]:
 
-According to some commentators both the seeds and flowers of Prakirjā and of Śigru should be taken.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> In place of “Kutannata” and “Arka” both Vrinda and Cakrapāni read “Surasa” and “Arja”. Śrikantha the commentator of Vrinda however is of opinion that Arka should be better reading in place of that of “Arja”.
+</blockquote>
 
-[6]:
 
-Dallana explains white Marica, as Śigru seeds.
 
-[7]:
 
-Samudra may either mean Samudra-phena or Samudra salt, i.e. Karakacha salt. The commentators are silent on this point.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Dallana quotes the reading of “Panjikākāra” (another commentator of Suśruta) according to whom Murva and the flowers of Jāti only should be taken instead of the flowers of Jati, Karanja and Śobhānjana. This reading seems to be the correct one inasmuch as this makes the number of the drugs in the list twelve in all, as given by Dallana himself.
+</blockquote>
 
-[8]:
 
-Dallana explains Nādeya as meaning Saindhava, but it generally eans Srotanjana (black antimony).
 
-[9]:
 
-Dallana explains “Śveta-Marica” as “Śigru-seeds”, but there is a particular kind of Marica which is white in colour and this is also supported by some commentator.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> According to some commentators both the seeds and flowers of Prakirjā and of Śigru should be taken.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Dallana explains white Marica, as Śigru seeds.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Samudra may either mean Samudra-phena or Samudra salt, i.e. Karakacha salt. The commentators are silent on this point.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Dallana explains Nādeya as meaning Saindhava, but it generally eans Srotanjana (black antimony).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Dallana explains “Śveta-Marica” as “Śigru-seeds”, but there is a particular kind of Marica which is white in colour and this is also supported by some commentator.</div>
 
 ---
 
-## 20. Chapter XVII - Treatment of diseases of pupil and crystalline lens
+## Chapter XVII - Treatment of diseases of pupil and crystalline lens
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -307,117 +336,172 @@ Now hear me describe two beneficial recipes of Anjana which would invigorate the
 
 Thus ends the seventeenth chapter in the Uttara-Tantra of the Sushruta-Samhita which treats of the curative measures of the diseases of the Drishti (pupil).
 
-[1]:
 
-See Chapter X, 9, Uttara-Tantra.
+<div className="footnote-card"><strong>[1]</strong> See Chapter X, 9, Uttara-Tantra.</div>
 
-[2]:
 
-Traiphala-Ghrita, Traivrita-Ghrita and Tailvaka-Ghritā should be prepared with both the decoction and Kalka of Triphalā, Trivrita and of Tilvaka respectively.
 
-[3]:
 
-Chakradatta does not read ‘Gairika’ in the list.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Traiphala-Ghrita, Traivrita-Ghrita and Tailvaka-Ghritā should be prepared with both the decoction and Kalka of Triphalā, Trivrita and of Tilvaka respectively.
+</blockquote>
 
-[4]:
 
-In place of “gośakṛt” some read “goyakṛt” i.e., the liver of a “go” which may mean a cow or any animal, such as goat, sheep, etc.
 
-[5]:
 
-According to Dallana, Rasa (lit:—Juice) means the juice of Āmalaka. According to others, however, it means the juice of the leaves of Jāti flower. Chakradatta, however, reads “ghṛt” (clarified butter) in place of “rasa”.
+<div className="footnote-card"><strong>[3]</strong> Chakradatta does not read ‘Gairika’ in the list.</div>
 
-[6]:
 
-Rasa may also, from the context, mean the watery secretions of cow-dung.
 
-[7]:
 
-Dallana’s reading is evidently ‘goyakṛtrasa’ which he explains as meaning the juice or serum of the liver of a goat, &c.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> In place of “gośakṛt” some read “goyakṛt” i.e., the liver of a “go” which may mean a cow or any animal, such as goat, sheep, etc.
+</blockquote>
 
-[8]:
 
-The text has “gosūtrapitta” | The term “go” which literally means a cow, here stands for any female quadruped, such as a she-goat, etc.
 
-[9]:
 
-According to Dallana the Pippali so roasted should be used with honey as an Anjana.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> According to Dallana, Rasa (lit:—Juice) means the juice of Āmalaka. According to others, however, it means the juice of the leaves of Jāti flower. Chakradatta, however, reads “ghṛt” (clarified butter) in place of “rasa”.
+</blockquote>
 
-[10]:
 
-Both Vrinda and Chakradatta read ‘yakṛt’ in place of ‘sakṛt’ and the commentators of both of them say that the sentence means—the liver should be taken internally and the Pippali should be used as an Anjana. The commentator of Vrinda further says that the practice is to Use both of them together as an Anjana.
 
-[11]:
 
-Both Vāgbhata and Dallana plainly say that the roasted Pippali only should be used with honey as an Anjana in cases of night-blindness.
+<div className="footnote-card"><strong>[6]</strong> Rasa may also, from the context, mean the watery secretions of cow-dung.</div>
 
-[12]:
 
-There is a confusion in the reading of this couplet. In place of “yakṛdrase” i.e., pasted with the juice of the liver (of a cow or any other animal), Chakradatta reads “gavāṃ yakṛt” i.e., to say—the liver of a cow (and of no other animal) should be taken. Vrinda, however, reads and his commentator accepts the reading “agavāṃ yakṛt” (the liver of an animal other than a cow); but this reading is objectionable on the ground of a faulty construction. “śakṛdrase” i.e., pasted in the watery secretions of cow-dung, is yet another variant noticed by both the commentators of Vrinda and of Chakradatta.
 
-[13]:
 
-Some say that this clarified butter is to be prepared from the milk of a ewe or she-goat.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Dallana’s reading is evidently ‘goyakṛtrasa’ which he explains as meaning the juice or serum of the liver of a goat, &c.
+</blockquote>
 
-[14]:
 
-The part of the text within the two ?s from ‘Similarly’ in the last page to ‘group’ in this page is not to be found in either Vrincla or Chakradatta. The commentator of Chakradatta, moreover, does clearly say that this part is an interpolation and cannot be found in some of the Mss. of Suśruta Samhitā.
 
-[15]:
 
-According to Dallana the lards of vultures, snakes and cocks may be jointly or separately used—taken either one, two or all the three at a time. But in all cases they should be mixed with honey and Yashti-madhu. It should be noted that the lard of a Krishna-Sarpa (venomous serpent) should be used.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> The text has “gosūtrapitta” | The term “go” which literally means a cow, here stands for any female quadruped, such as a she-goat, etc.
+</blockquote>
 
-[16]:
 
-Flesh of those animals which give strength to the sight should be used in the preparation of meat-juice.
 
-[17]:
 
-Pratyanjana (secondary eye-salve) is an antidote for the over-use of an Anjana.
+<div className="footnote-card"><strong>[9]</strong> According to Dallana the Pippali so roasted should be used with honey as an Anjana.</div>
 
-[18]:
 
-According to some commentators the milk should be first cooked with the drugs of the Madhura group, and butter should then be churned out of that milk.
 
-[19]:
 
-A benumbed condition of the eye through the abuse of eye-salves calls for the use of this Anjana as an antidote.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Both Vrinda and Chakradatta read ‘yakṛt’ in place of ‘sakṛt’ and the commentators of both of them say that the sentence means—the liver should be taken internally and the Pippali should be used as an Anjana. The commentator of Vrinda further says that the practice is to Use both of them together as an Anjana.
+</blockquote>
 
-[20]:
 
-According to some, the measures and remedies to be applied in such cases are the measures of Rasa-kriyā applicable in cases of Vātaja, Pittaja and Kaphaja Timira.
 
-[21]:
 
-The Pāyasa of Śatāvari and Āmalaki should be prepared by duly cooking Śatāvari or Āmalaki, as the case may be, with milk and sugar. According to others, however, it means the gruel (Yavāgu) prepared with the expressed juice of Śatāvari or Āmalaki.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Both Vāgbhata and Dallana plainly say that the roasted Pippali only should be used with honey as an Anjana in cases of night-blindness.
+</blockquote>
 
-[22]:
 
-Both Śrikantha Datta and Śivadāsa, the commentators respectively of Vrinda and Chakradatta, read ‘śalākayā tāmramayyā’ meaning that the Śalākā (rod) should be made of copper.
 
-[23]:
 
-Blood would come out if the perforation be notsatisfactorily done.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> There is a confusion in the reading of this couplet. In place of “yakṛdrase” i.e., pasted with the juice of the liver (of a cow or any other animal), Chakradatta reads “gavāṃ yakṛt” i.e., to say—the liver of a cow (and of no other animal) should be taken. Vrinda, however, reads and his commentator accepts the reading “agavāṃ yakṛt” (the liver of an animal other than a cow); but this reading is objectionable on the ground of a faulty construction. “śakṛdrase” i.e., pasted in the watery secretions of cow-dung, is yet another variant noticed by both the commentators of Vrinda and of Chakradatta.
+</blockquote>
 
-[24]:
 
-The period during which these rules should be followed is ‘seven days’ according to Vāgbhata. But according to Dallana it is only the period during which the operation lasts.
 
-[25]:
 
-Śārira-Sthāna, Chapter VII.
+<div className="footnote-card"><strong>[13]</strong> Some say that this clarified butter is to be prepared from the milk of a ewe or she-goat.</div>
 
-[26]:
 
-Both Virinda and Chakradatta reads “Kekarākshitā” i.e., a squinting look.
 
-[27]:
 
-Vrinda and Chakradatta following Vāgbhata do not read “Payas” (milk) and they read the first line of this couplet in a different form.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> The part of the text within the two ?s from ‘Similarly’ in the last page to ‘group’ in this page is not to be found in either Vrincla or Chakradatta. The commentator of Chakradatta, moreover, does clearly say that this part is an interpolation and cannot be found in some of the Mss. of Suśruta Samhitā.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> According to Dallana the lards of vultures, snakes and cocks may be jointly or separately used—taken either one, two or all the three at a time. But in all cases they should be mixed with honey and Yashti-madhu. It should be noted that the lard of a Krishna-Sarpa (venomous serpent) should be used.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Flesh of those animals which give strength to the sight should be used in the preparation of meat-juice.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Pratyanjana (secondary eye-salve) is an antidote for the over-use of an Anjana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> According to some commentators the milk should be first cooked with the drugs of the Madhura group, and butter should then be churned out of that milk.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> A benumbed condition of the eye through the abuse of eye-salves calls for the use of this Anjana as an antidote.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> According to some, the measures and remedies to be applied in such cases are the measures of Rasa-kriyā applicable in cases of Vātaja, Pittaja and Kaphaja Timira.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> The Pāyasa of Śatāvari and Āmalaki should be prepared by duly cooking Śatāvari or Āmalaki, as the case may be, with milk and sugar. According to others, however, it means the gruel (Yavāgu) prepared with the expressed juice of Śatāvari or Āmalaki.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Both Śrikantha Datta and Śivadāsa, the commentators respectively of Vrinda and Chakradatta, read ‘śalākayā tāmramayyā’ meaning that the Śalākā (rod) should be made of copper.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Blood would come out if the perforation be notsatisfactorily done.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> The period during which these rules should be followed is ‘seven days’ according to Vāgbhata. But according to Dallana it is only the period during which the operation lasts.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Śārira-Sthāna, Chapter VII.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Both Virinda and Chakradatta reads “Kekarākshitā” i.e., a squinting look.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Vrinda and Chakradatta following Vāgbhata do not read “Payas” (milk) and they read the first line of this couplet in a different form.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -426,10 +510,6 @@ Vrinda and Chakradatta following Vāgbhata do not read “Payas” (milk) and th
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Preparations and medicinal measures for ocular affections in general: Sushruta Samhita Uttara Tantra Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

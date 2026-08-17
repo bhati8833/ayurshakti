@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Personal Hygiene within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 60. Personal Hygiene
+## Personal Hygiene
 
 Charaka Samhita and Sushruta Samhita
 
@@ -31,61 +31,96 @@ Oral hygiene: For the maintenance of oral hygiene, four procedures are prescribe
 
 (d) Gargles: gargling with sesame oil is beneficial for the jaws, improves the voice, reduces flabbiness of the face and imparts a good taste to the food. It prevents throat dryness, chapped lips, caries, toothache, tooth sensitivity, and makes the teeth strong.[13]
 
-[1]:
 
-Sweet taste is mentioned by Suśruta. Suśruta Saṃhitā Cikitsāsthāna 24.6.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Sweet taste is mentioned by Suśruta. Suśruta Saṃhitā Cikitsāsthāna 24.6.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 5.71-72.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 5.9-10/1.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 5.71-72.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 5.73-74/1.
 
-[5]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.6/1.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 5.9-10/1.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.9.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 5.75.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 5.73-74/1.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Sūtrasthāna 5.74.
 
-[9]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.13.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.6/1.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Sūtrasthāna 5.76-77.
 
-[11]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.23.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.9.
+</blockquote>
 
-[12]:
 
-P.V. Sharma, Indian Medicine in the Classical Age, p.46.
 
-[13]:
 
-Caraka Saṃhitā Sūtrasthāna 5.78-80.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 5.75.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Sūtrasthāna 5.74.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Sūtrasthāna 5.76-77.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.23.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> P.V. Sharma, Indian Medicine in the Classical Age, p.46.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Sūtrasthāna 5.78-80.
+</blockquote>
 
 ---
 
-## 61. Gender in the Saṃhitās
+## Gender in the Saṃhitās
 
 Charaka Samhita and Sushruta Samhita
 
@@ -97,23 +132,7 @@ We will now examine the intersection of gender and medicine in the Saṃhitās. 
 
 Sex difference in the foetus is caused by the dominance of one or the other of these factors:
 
-weakness
-
-timidity
-
-lack of wisdom
-
-ignorance
-
-unsteadiness
-
-heaviness of limbs
-
-intolerance
-
-slackness
-
-softness
+weakness, timidity, lack of wisdom, ignorance, unsteadiness, heaviness of limbs, intolerance, slackness, softness
 
 presence of the uterus and ovary.
 
@@ -123,23 +142,7 @@ The discourse on the human anatomy, a very important part of the ancient medical
 
 This text, while referring to the ten resorts of life (daśa prāṇāyātanāni), includes the following:
 
-the head
-
-the throat
-
-the heart
-
-umbilicus
-
-anus
-
-bladder
-
-ojas
-
-semen
-
-blood and
+the head, the throat, the heart, umbilicus, anus, bladder, ojas, semen, blood and
 
 flesh.[5]
 
@@ -276,649 +279,1087 @@ The question, therefore, arises whether such statements reflect the physician’
 
 In fact, medical practitioners had to necessarily interact with members of all sections of society not only in the context of therapeutics but for gathering requisite materials for processing drugs. As we have noted in Chapter 2, cowherds, goatherds, forest dwellers and hunters are regarded as repositories of knowledge in plant drugs. The physicians and surgeons had to work in close tandem with attendants and midwives who in all probability may have been drawn from lower sections as they had to deal with polluting body fluids. Surgeons had to approach skilled blacksmiths for manufacture of surgical instruments. It has been remarked that this active cooperation between surgeons and blacksmiths is a reflection of the former’s positive attitude towards manual labour.[159] We may add practice also necessitated cooperation with barbers (for removal of body hair) and potters (for shaping dummies required in experimental surgery). Surgery, in particular, developed “a crucial bond with manual work.”[160]
 
-[1]:
 
-Caraka Saṃhitā Śārīrasthāna 4.14.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Śārīrasthāna 4.14.
+</blockquote>
 
-[2]:
 
-Commentary of Cakrapāṇidatta to Caraka Saṃhitā Śārīrasthāna 4.14.
 
-[3]:
 
-Caraka Saṃhitā Śārīrasthāna 4.30.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Commentary of Cakrapāṇidatta to Caraka Saṃhitā Śārīrasthāna 4.14.
+</blockquote>
 
-[4]:
 
-Commentary of Cakrapāṇidatta to Caraka Saṃhitā Śārīrasthāna 4.30.
 
-[5]:
 
-Caraka Saṃhitā Śārīrasthāna 7.9.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Śārīrasthāna 4.30.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 15.16.
 
-[7]:
 
-Commentary of Cakrapāṇidatta to Caraka Saṃhitā Cikitsāsthāna 15.16.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Commentary of Cakrapāṇidatta to Caraka Saṃhitā Śārīrasthāna 4.30.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Śārīrasthāna 4.5; śonita also occurs in Caraka Saṃhitā Śārīrasthāna 4.7.
 
-[9]:
 
-Caraka Saṃhitā Śārīrasthāna 2.12: (raktena kanyāmadhikena putraṃ śukrena)
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Śārīrasthāna 7.9.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.233; Suśruta Saṃhitā Sūtrasthāna 14.6. (rajas)
 
-[11]:
 
-Caraka Saṃhitā Śārīrasthāna 2.6.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 15.16.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Kalpasthāna 3.4.
 
-[13]:
 
-Caraka Saṃhitā Śārīrasthāna 2.14.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Commentary of Cakrapāṇidatta to Caraka Saṃhitā Cikitsāsthāna 15.16.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Śārīrasthāna 7.11.
 
-[15]:
 
-Suśruta Saṃhitā Sūtrasthāna 15.4.1.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Śārīrasthāna 4.5; śonita also occurs in Caraka Saṃhitā Śārīrasthāna 4.7.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 15.5.
 
-[17]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.9.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Śārīrasthāna 2.12: (raktena kanyāmadhikena putraṃ śukrena)
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Śārīrasthāna 5.10. Ears, eyes, mouth, nostrils, anus and urethra are the nine external openings in the males while the three additional ones in the female are two located in the breasts and one for the flow of the menses.
 
-[19]:
 
-Suśruta Saṃhitā Sūtrasthāna 35.12.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Cikitsāsthāna 23.233; Suśruta Saṃhitā Sūtrasthāna 14.6. (rajas)
+</blockquote>
 
-[20]:
 
-R.P. Das,. The Origin of the Life of a Human Being: Conception and the Female According to Ancient Indian Medical and Sexological Literature, Delhi, 2003, pp.55-56.
 
-[21]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.11.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Śārīrasthāna 2.6.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.33.
 
-[23]:
 
-Suśruta Saṃhitā Śārīrasthāna 4.72-98.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Kalpasthāna 3.4.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Śārīrasthāna 4.37.
 
-[25]:
 
-Caraka Saṃhitā Śārīrasthāna 4.38 (3).
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Śārīrasthāna 2.14.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Śārīrasthāna 4.39.
 
-[27]:
 
-Suśruta Saṃhitā Śārīrasthāna 4.98.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Śārīrasthāna 7.11.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Sūtrasthāna 18.17.
 
-[29]:
 
-Suśruta Saṃhitā Uttaratantra 42.8.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Sūtrasthāna 15.4.1.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.8(5).
 
-[31]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.37.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 15.5.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Sūtrasthāna p.19, fn.3(a).
 
-[33]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.9.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Śārīrasthāna 5.9.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.
 
-[35]:
 
-Suśruta Saṃhitā Cikitsāsthāna 17.42-47.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Śārīrasthāna 5.10. Ears, eyes, mouth, nostrils, anus and urethra are the nine external openings in the males while the three additional ones in the female are two located in the breasts and one for the flow of the menses.
+</blockquote>
 
-[36]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.3-24.
 
-[37]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.25-51.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Sūtrasthāna 35.12.
+</blockquote>
 
-[38]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.52-69.
 
-[39]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.25.
+<div className="footnote-card"><strong>[20]</strong> R.P. Das,. The Origin of the Life of a Human Being: Conception and the Female According to Ancient Indian Medical and Sexological Literature, Delhi, 2003, pp.55-56.</div>
 
-[40]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.115.
 
-[41]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.8(8).
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.11.
+</blockquote>
 
-[42]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.5, 12/2-23.
 
-[43]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.20/2, 21/1.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.33.
+</blockquote>
 
-[44]:
 
-Suśruta Saṃhitā Uttaratantra 39.22.
 
-[45]:
 
-Suśruta Saṃhitā Uttaratantra 38; Caraka Saṃhitā Cikitsāsthāna 30.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Śārīrasthāna 4.72-98.
+</blockquote>
 
-[46]:
 
-Atrideva (Ed.), Suśruta Saṃhitā, translated into Hindi, Delhi, 2007 (Reprint), p.667.
 
-[47]:
 
-Amarakoṣa II.VI.II.27.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Śārīrasthāna 4.37.
+</blockquote>
 
-[48]:
 
-Suśruta Saṃhitā Uttaratantra 38.6-7.
 
-[49]:
 
-Caraka Saṃhitā Cikitsāsthāna 5-6.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Śārīrasthāna 4.38 (3).
+</blockquote>
 
-[50]:
 
-Suśruta Saṃhitā Uttaratantra 58.57, 72.
 
-[51]:
 
-V. Chandra, Gender Relations in Early India, Jaipur, 2010, p.81.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Śārīrasthāna 4.39.
+</blockquote>
 
-[52]:
 
-Manusmṛti IX.96.
 
-[53]:
 
-V.Chandra, Gender Relations in Early India, p.61.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Śārīrasthāna 4.98.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.25.
 
-[55]:
 
-Caraka Saṃhitā Śārīrasthāna 8.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Sūtrasthāna 18.17.
+</blockquote>
 
-[56]:
 
-Commentary to Caraka Saṃhitā Śārīrasthāna 8.3.
 
-[57]:
 
-Caraka Saṃhitā Śārīrasthāna 8.9.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Uttaratantra 42.8.
+</blockquote>
 
-[58]:
 
-Caraka Saṃhitā Śārīrasthāna 8.12.
 
-[59]:
 
-Caraka Saṃhitā Cikitsāsthāna 2(1).4.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Sūtrasthāna 1.8(5).
+</blockquote>
 
-[60]:
 
-Caraka Saṃhitā Śārīrasthāna 8.12.
 
-[61]:
 
-Caraka Saṃhitā Śārīrasthāna 8.13.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Sūtrasthāna 3.37.
+</blockquote>
 
-[62]:
 
-Caraka Saṃhitā Śārīrasthāna 8.19.
 
-[63]:
 
-Caraka Saṃhitā Śārīrasthāna 8.39.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Sūtrasthāna p.19, fn.3(a).
+</blockquote>
 
-[64]:
 
-Caraka Saṃhitā Śārīrasthāna 8.40.
 
-[65]:
 
-Caraka Saṃhitā Śārīrasthāna 8.50.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Sūtrasthāna 24.9.
+</blockquote>
 
-[66]:
 
-Caraka Saṃhitā Śārīrasthāna 8.52.
 
-[67]:
 
-Caraka Saṃhitā Śārīrasthāna 8.4.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.
+</blockquote>
 
-[68]:
 
-Caraka Saṃhitā Śārīrasthāna 2.6.
 
-[69]:
 
-Caraka Saṃhitā Śārīrasthāna 2.7.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Cikitsāsthāna 17.42-47.
+</blockquote>
 
-[70]:
 
-Caraka Saṃhitā Śārīrasthāna 2.12.
 
-[71]:
 
-Caraka Saṃhitā Śārīrasthāna 2.12.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.3-24.
+</blockquote>
 
-[72]:
 
-Caraka Saṃhitā Śārīrasthāna 2.14.
 
-[73]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.25.
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.25-51.
+</blockquote>
 
-[74]:
 
-Caraka Saṃhitā Śārīrasthāna 8.5. According to the text, she should sleep on the floor.
 
-[75]:
 
-Vasiṣṭha Dharmasūtra 5.6-7. Olivelle, P., Dharmasūtras: The Law Codes of Āpastamba, Gautam, Baudhāyana and Vasiṣṭha, Delhi, 2003 (Reprint).
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.52-69.
+</blockquote>
 
-[76]:
 
-Manusmṛti IV.211.
 
-[77]:
 
-Manusmṛti IV.57.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.25.
+</blockquote>
 
-[78]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.25.
 
-[79]:
 
-Manusmṛti V.66.
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.115.
+</blockquote>
 
-[80]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.27.
 
-[81]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.27-28.
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Suśruta Saṃhitā Sūtrasthāna 1.8(8).
+</blockquote>
 
-[82]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.30; Caraka Saṃhitā Śārīrasthāna 8.5.
 
-[83]:
 
-Manusmṛti III.48.
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Suśruta Saṃhitā Śārīrasthāna 2.5, 12/2-23.
+</blockquote>
 
-[84]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.32.
 
-[85]:
 
-Suśruta Saṃhitā Śārīrasthāna 2.34.
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Suśruta Saṃhitā Śārīrasthāna 2.20/2, 21/1.
+</blockquote>
 
-[86]:
 
-Suśruta Saṃhitā Śārīrasthāna 3.18.
 
-[87]:
 
-Suśruta Saṃhitā Śārīrasthāna 3.19.
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Suśruta Saṃhitā Uttaratantra 39.22.
+</blockquote>
 
-[88]:
 
-Caraka Saṃhitā Śārīrasthāna 4.15.
 
-[89]:
 
-Suśruta Saṃhitā Śārīrasthāna 3.22-27.
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Suśruta Saṃhitā Uttaratantra 38; Caraka Saṃhitā Cikitsāsthāna 30.
+</blockquote>
 
-[90]:
 
-Suśruta Saṃhitā Śārīrasthāna 10. 3.
 
-[91]:
 
-Caraka Saṃhitā Śārīrasthāna 4.18,
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Atrideva (Ed.), Suśruta Saṃhitā, translated into Hindi, Delhi, 2007 (Reprint), p.667.
+</blockquote>
 
-[92]:
 
-Suśruta Saṃhitā Śārīrasthāna 10.5.
 
-[93]:
 
-Caraka Saṃhitā Śārīrasthāna 8.33.
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Amarakoṣa II.VI.II.27.
+</blockquote>
 
-[94]:
 
-D.C. Sircar, Studies in the Religious Life of Ancient and Medieval India, Delhi, 1971, p. 158.
 
-[95]:
 
-Caraka Saṃhitā Śārīrasthāna 8.34.
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Suśruta Saṃhitā Uttaratantra 38.6-7.
+</blockquote>
 
-[96]:
 
-Caraka Saṃhitā Śārīrasthāna 8.52.
 
-[97]:
 
-Caraka Saṃhitā Śārīrasthāna 8.52.
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Caraka Saṃhitā Cikitsāsthāna 5-6.
+</blockquote>
 
-[98]:
 
-Caraka Saṃhitā Śārīrasthāna 8.34.
 
-[99]:
 
-Harṣacarita, p.109.
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Suśruta Saṃhitā Uttaratantra 58.57, 72.
+</blockquote>
 
-[100]:
 
-P.V. Sharma, Indian Medicine in the Classical Age, Varanasi, 2000 (second edition), p. 92.
 
-[101]:
 
-Caraka Saṃhitā Śārīrasthāna 8.37.
+<div className="footnote-card"><strong>[51]</strong> V. Chandra, Gender Relations in Early India, Jaipur, 2010, p.81.</div>
 
-[102]:
 
-Caraka Saṃhitā Śārīrasthāna 8.38.
 
-[103]:
 
-Caraka Saṃhitā Śārīrasthāna 8.40.
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Manusmṛti IX.96.
+</blockquote>
 
-[104]:
 
-Caraka Saṃhitā Śārīrasthāna 8.40.
 
-[105]:
 
-Caraka Saṃhitā Śārīrasthāna 8.47.
+<div className="footnote-card"><strong>[53]</strong> V.Chandra, Gender Relations in Early India, p.61.</div>
 
-[106]:
 
-Sukumari Bhattacharji quoted in J. Chawla, Birth and Birth-Givers: The Power Behind the Shame, New Delhi, 2006, p.20.
 
-[107]:
 
-Caraka Saṃhitā Śārīrasthāna 8.34.
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Śārīrasthāna 2.25.
+</blockquote>
 
-[108]:
 
-Caraka Saṃhitā Śārīrasthāna 8.52.
 
-[109]:
 
-J. Chawla, Birth and Birth-Givers: The Power Behind the Shame, p.20.
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Caraka Saṃhitā Śārīrasthāna 8.
+</blockquote>
 
-[110]:
 
-H.H.Risley, The Tribes and Castes of Bengal, Vol.1, Calcutta, 1981 (Reprint), p.210.
 
-[111]:
 
-H.H.Risley, The Tribes and Castes of Bengal, p.210.
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Commentary to Caraka Saṃhitā Śārīrasthāna 8.3.
+</blockquote>
 
-[112]:
 
-H.H.Risley, The Tribes and Castes of Bengal, p.181.
 
-[113]:
 
-Caraka Saṃhitā Śārīrasthāna 8.52.
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Caraka Saṃhitā Śārīrasthāna 8.9.
+</blockquote>
 
-[114]:
 
-Suśruta Saṃhitā Uttaratantra 42.8/1.
 
-[115]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.15.
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Caraka Saṃhitā Śārīrasthāna 8.12.
+</blockquote>
 
-[116]:
 
-Suśruta Saṃhitā Uttaratantra 64.67.
 
-[117]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.14-15.
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Caraka Saṃhitā Cikitsāsthāna 2(1).4.
+</blockquote>
 
-[118]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.4-110.
 
-[119]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.89.
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Caraka Saṃhitā Śārīrasthāna 8.12.
+</blockquote>
 
-[120]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.103-132.
 
-[121]:
 
-Caraka Saṃhitā Sūtrasthāna 5-6.
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Caraka Saṃhitā Śārīrasthāna 8.13.
+</blockquote>
 
-[122]:
 
-I. Hasan, et al., “History of Ancient Egyptian Obstetrics and Gynecology: A Review”, Journal of Microbiology and Biotechnology Research, 2011, 1 (1): 35-39. http://scholarsresearchlibrary.com/archive.html (Accessed on 22.9.2013).
 
-[123]:
 
-Suśruta Saṃhitā Cikitsāsthāna 26.9/3-15.
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> Caraka Saṃhitā Śārīrasthāna 8.19.
+</blockquote>
 
-[124]:
 
-Suśruta Saṃhitā Cikitsāsthāna 26.16-39.
 
-[125]:
 
-U. Chakravarti, Conceptualizing Brahmanical Patriarchy in Early India: Gender, Caste, Class and State, p.146.
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> Caraka Saṃhitā Śārīrasthāna 8.39.
+</blockquote>
 
-[126]:
 
-Suśruta Saṃhitā Uttaratantra 39.276.
 
-[127]:
 
-Suśruta Saṃhitā Uttaratantra 39.291.
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Caraka Saṃhitā Śārīrasthāna 8.40.
+</blockquote>
 
-[128]:
 
-Suśruta Saṃhitā Uttaratantra 39.278.
 
-[129]:
 
-Suśruta Saṃhitā Uttaratantra 39.276.
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> Caraka Saṃhitā Śārīrasthāna 8.50.
+</blockquote>
 
-[130]:
 
-Suśruta Saṃhitā Uttaratantra 39.277-279.
 
-[131]:
 
-Suśruta Saṃhitā Uttaratantra 47.59-60.
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> Caraka Saṃhitā Śārīrasthāna 8.52.
+</blockquote>
 
-[132]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.124.
 
-[133]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.130/2.
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Caraka Saṃhitā Śārīrasthāna 8.4.
+</blockquote>
 
-[134]:
 
-Caraka Saṃhitā Cikitsāsthāna 2(1).8.
 
-[135]:
 
-Suśruta Saṃhitā Cikitsāsthāna 25.38-40.
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> Caraka Saṃhitā Śārīrasthāna 2.6.
+</blockquote>
 
-[136]:
 
-Suśruta Saṃhitā Cikitsāsthāna 25.41.
 
-[137]:
 
-S. Kumar, et.al., Skin Care in Ayurveda: A Literary Review in International Research Journal of Pharmacy, 2013, 4(3). DOI: 10.7897/2230-8407.04301. Accessed at http://www.irjponline.com/admin/php/uploads/1657_pdf.pdf on 19.08.2013.
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> Caraka Saṃhitā Śārīrasthāna 2.7.
+</blockquote>
 
-[138]:
 
-Caraka Saṃhitā Śārīrasthāna 2.21.
 
-[139]:
 
-Caraka Saṃhitā Śārīrasthāna 2.17.
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> Caraka Saṃhitā Śārīrasthāna 2.12.
+</blockquote>
 
-[140]:
 
-Caraka Saṃhitā Śārīrasthāna 2.18/1.
 
-[141]:
 
-Caraka Saṃhitā Śārīrasthāna 2.21.
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Caraka Saṃhitā Śārīrasthāna 2.12.
+</blockquote>
 
-[142]:
 
-Suśruta Saṃhitā Sūtrasthāna 28.6.
 
-[143]:
 
-Suśruta Saṃhitā Sūtrasthāna 32.6.
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> Caraka Saṃhitā Śārīrasthāna 2.14.
+</blockquote>
 
-[144]:
 
-Suśruta Saṃhitā Sūtrasthāna 6.19.
 
-[145]:
 
-Suśruta Saṃhitā Sūtrasthāna 28.40.
+<blockquote className="ayur-shloka">
+<strong>[73]</strong> Suśruta Saṃhitā Śārīrasthāna 2.25.
+</blockquote>
 
-[146]:
 
-Suśruta Saṃhitā Sūtrasthāna 28.
 
-[147]:
 
-Caraka Saṃhitā Indriyasthāna12.16.
+<blockquote className="ayur-shloka">
+<strong>[74]</strong> Caraka Saṃhitā Śārīrasthāna 8.5. According to the text, she should sleep on the floor.
+</blockquote>
 
-[148]:
 
-H.H. Risley, The Tribes and Castes of Bengal, Vol.1, p.291.
 
-[149]:
 
-H.H. Risley, The Tribes and Castes of Bengal, p.83.
+<blockquote className="ayur-shloka">
+<strong>[75]</strong> Vasiṣṭha Dharmasūtra 5.6-7. Olivelle, P., Dharmasūtras: The Law Codes of Āpastamba, Gautam, Baudhāyana and Vasiṣṭha, Delhi, 2003 (Reprint).
+</blockquote>
 
-[150]:
 
-H.H. Risley, The Tribes and Castes of Bengal, p.292.
 
-[151]:
 
-H.H. Risley, The Tribes and Castes of Bengal, p.48.
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> Manusmṛti IV.211.
+</blockquote>
 
-[152]:
 
-H.H. Risley, The Tribes and Castes of Bengal, p.301.
 
-[153]:
 
-P.V. Sharma, Indian Medicine in the Classical Age, p.9.
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> Manusmṛti IV.57.
+</blockquote>
 
-[154]:
 
-C.S.Sūtrasthāna 30.29.
 
-[155]:
 
-P.V.Sharma, Indian Medicine in the Classical Age, p.15.
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> Suśruta Saṃhitā Śārīrasthāna 2.25.
+</blockquote>
 
-[156]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.8.
 
-[157]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.40.
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> Manusmṛti V.66.
+</blockquote>
 
-[158]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.90.
 
-[159]:
 
-V.K. Thakur, “Surgery in Early India: A Note on the Development of Medical Science” in D. Kumar (Ed.), Disease and Medicine in India: A Historical Overview, New Delhi, 2001, p.19.
+<blockquote className="ayur-shloka">
+<strong>[80]</strong> Suśruta Saṃhitā Śārīrasthāna 2.27.
+</blockquote>
 
-[160]:
 
-V.K. Thakur, “Surgery in Early India”, p.19-20.
+
+
+<blockquote className="ayur-shloka">
+<strong>[81]</strong> Suśruta Saṃhitā Śārīrasthāna 2.27-28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[82]</strong> Suśruta Saṃhitā Śārīrasthāna 2.30; Caraka Saṃhitā Śārīrasthāna 8.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[83]</strong> Manusmṛti III.48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[84]</strong> Suśruta Saṃhitā Śārīrasthāna 2.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[85]</strong> Suśruta Saṃhitā Śārīrasthāna 2.34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[86]</strong> Suśruta Saṃhitā Śārīrasthāna 3.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[87]</strong> Suśruta Saṃhitā Śārīrasthāna 3.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[88]</strong> Caraka Saṃhitā Śārīrasthāna 4.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[89]</strong> Suśruta Saṃhitā Śārīrasthāna 3.22-27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[90]</strong> Suśruta Saṃhitā Śārīrasthāna 10. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[91]</strong> Caraka Saṃhitā Śārīrasthāna 4.18,
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[92]</strong> Suśruta Saṃhitā Śārīrasthāna 10.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[93]</strong> Caraka Saṃhitā Śārīrasthāna 8.33.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[94]</strong> D.C. Sircar, Studies in the Religious Life of Ancient and Medieval India, Delhi, 1971, p. 158.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[95]</strong> Caraka Saṃhitā Śārīrasthāna 8.34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[96]</strong> Caraka Saṃhitā Śārīrasthāna 8.52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[97]</strong> Caraka Saṃhitā Śārīrasthāna 8.52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[98]</strong> Caraka Saṃhitā Śārīrasthāna 8.34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[99]</strong> Harṣacarita, p.109.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[100]</strong> P.V. Sharma, Indian Medicine in the Classical Age, Varanasi, 2000 (second edition), p. 92.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[101]</strong> Caraka Saṃhitā Śārīrasthāna 8.37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[102]</strong> Caraka Saṃhitā Śārīrasthāna 8.38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[103]</strong> Caraka Saṃhitā Śārīrasthāna 8.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[104]</strong> Caraka Saṃhitā Śārīrasthāna 8.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[105]</strong> Caraka Saṃhitā Śārīrasthāna 8.47.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[106]</strong> Sukumari Bhattacharji quoted in J. Chawla, Birth and Birth-Givers: The Power Behind the Shame, New Delhi, 2006, p.20.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[107]</strong> Caraka Saṃhitā Śārīrasthāna 8.34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[108]</strong> Caraka Saṃhitā Śārīrasthāna 8.52.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[109]</strong> J. Chawla, Birth and Birth-Givers: The Power Behind the Shame, p.20.</div>
+
+
+
+
+<div className="footnote-card"><strong>[110]</strong> H.H.Risley, The Tribes and Castes of Bengal, Vol.1, Calcutta, 1981 (Reprint), p.210.</div>
+
+
+
+
+<div className="footnote-card"><strong>[111]</strong> H.H.Risley, The Tribes and Castes of Bengal, p.210.</div>
+
+
+
+
+<div className="footnote-card"><strong>[112]</strong> H.H.Risley, The Tribes and Castes of Bengal, p.181.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[113]</strong> Caraka Saṃhitā Śārīrasthāna 8.52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[114]</strong> Suśruta Saṃhitā Uttaratantra 42.8/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[115]</strong> Suśruta Saṃhitā Sūtrasthāna 16.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[116]</strong> Suśruta Saṃhitā Uttaratantra 64.67.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[117]</strong> Suśruta Saṃhitā Sūtrasthāna 19.14-15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[118]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.4-110.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[119]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.89.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[120]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.103-132.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[121]</strong> Caraka Saṃhitā Sūtrasthāna 5-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[122]</strong> I. Hasan, et al., “History of Ancient Egyptian Obstetrics and Gynecology: A Review”, Journal of Microbiology and Biotechnology Research, 2011, 1 (1): 35-39. http://scholarsresearchlibrary.com/archive.html (Accessed on 22.9.2013).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[123]</strong> Suśruta Saṃhitā Cikitsāsthāna 26.9/3-15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[124]</strong> Suśruta Saṃhitā Cikitsāsthāna 26.16-39.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[125]</strong> U. Chakravarti, Conceptualizing Brahmanical Patriarchy in Early India: Gender, Caste, Class and State, p.146.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[126]</strong> Suśruta Saṃhitā Uttaratantra 39.276.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[127]</strong> Suśruta Saṃhitā Uttaratantra 39.291.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[128]</strong> Suśruta Saṃhitā Uttaratantra 39.278.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[129]</strong> Suśruta Saṃhitā Uttaratantra 39.276.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[130]</strong> Suśruta Saṃhitā Uttaratantra 39.277-279.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[131]</strong> Suśruta Saṃhitā Uttaratantra 47.59-60.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[132]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.124.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[133]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.130/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[134]</strong> Caraka Saṃhitā Cikitsāsthāna 2(1).8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[135]</strong> Suśruta Saṃhitā Cikitsāsthāna 25.38-40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[136]</strong> Suśruta Saṃhitā Cikitsāsthāna 25.41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[137]</strong> S. Kumar, et.al., Skin Care in Ayurveda: A Literary Review in International Research Journal of Pharmacy, 2013, 4(3). DOI: 10.7897/2230-8407.04301. Accessed at http://www.irjponline.com/admin/php/uploads/1657_pdf.pdf on 19.08.2013.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[138]</strong> Caraka Saṃhitā Śārīrasthāna 2.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[139]</strong> Caraka Saṃhitā Śārīrasthāna 2.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[140]</strong> Caraka Saṃhitā Śārīrasthāna 2.18/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[141]</strong> Caraka Saṃhitā Śārīrasthāna 2.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[142]</strong> Suśruta Saṃhitā Sūtrasthāna 28.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[143]</strong> Suśruta Saṃhitā Sūtrasthāna 32.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[144]</strong> Suśruta Saṃhitā Sūtrasthāna 6.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[145]</strong> Suśruta Saṃhitā Sūtrasthāna 28.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[146]</strong> Suśruta Saṃhitā Sūtrasthāna 28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[147]</strong> Caraka Saṃhitā Indriyasthāna12.16.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[148]</strong> H.H. Risley, The Tribes and Castes of Bengal, Vol.1, p.291.</div>
+
+
+
+
+<div className="footnote-card"><strong>[149]</strong> H.H. Risley, The Tribes and Castes of Bengal, p.83.</div>
+
+
+
+
+<div className="footnote-card"><strong>[150]</strong> H.H. Risley, The Tribes and Castes of Bengal, p.292.</div>
+
+
+
+
+<div className="footnote-card"><strong>[151]</strong> H.H. Risley, The Tribes and Castes of Bengal, p.48.</div>
+
+
+
+
+<div className="footnote-card"><strong>[152]</strong> H.H. Risley, The Tribes and Castes of Bengal, p.301.</div>
+
+
+
+
+<div className="footnote-card"><strong>[153]</strong> P.V. Sharma, Indian Medicine in the Classical Age, p.9.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[154]</strong> C.S.Sūtrasthāna 30.29.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[155]</strong> P.V.Sharma, Indian Medicine in the Classical Age, p.15.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[156]</strong> Suśruta Saṃhitā Sūtrasthāna 29.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[157]</strong> Suśruta Saṃhitā Sūtrasthāna 29.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[158]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.90.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[159]</strong> V.K. Thakur, “Surgery in Early India: A Note on the Development of Medical Science” in D. Kumar (Ed.), Disease and Medicine in India: A Historical Overview, New Delhi, 2001, p.19.</div>
+
+
+
+
+<div className="footnote-card"><strong>[160]</strong> V.K. Thakur, “Surgery in Early India”, p.19-20.</div>
 
 ---
 
-## 62. Facial Hygiene
+## Facial Hygiene
 
 Charaka Samhita and Sushruta Samhita
 
@@ -930,49 +1371,69 @@ Washing the face and the eyes with a decoction of kṣīri trees (trees with mil
 
 Regular application of collyrium (añjana) in the eyes is advised in the texts as it has several benefits. It alleviates kapha in the eyes and keeps the vision clear;[2] relieves burning and itching sensation; removes dirt, discharge and pain from the eyes; improves eyesight and appearance of the eyes; protects the eyes from the wind and glare of the sun; and prevents ocular diseases.[3] Two kinds of collyrium are mentioned by Caraka- (i)sauvīramañjana which is applicable daily, and (ii) rasāñjana (an extract of Berberis aristata) applicable once in every five or eight days only at night for lacrymation.[4] Sauvīramañjana is identified as Plumbi Sulphuratum (sulphide of lead) and procured from Sauvira, a country along the Indus.[5] Rasāñjana is variously explained. In one view it is the vitriol of copper, a sort of collyrium prepared by the addition of curcuma; or according to some from the calx of brass or from lead ore.[6] Suśruta recommends śrotāñjana (antimony sulphide[7]) produced in Sindhu as the best and purest form of collyrium.[8] In the Amarakośa, śrotāñjana and sauvīraṃ are included as antimony.[9] References to rasāñjana and śrotoñjana occur in the Vinaya Piṭaka (I.203) as medicine in eye diseases, while monks were allowed to possess the collyrium box (añjanī) as well.[10]
 
-[1]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.15-17.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.15-17.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 5.16.
 
-[3]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.18/2-19.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 5.16.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 5.15-17.
 
-[5]:
 
-A.K. Nadkarni, (Revised and Enlarged), Dr. K.M. Nadkarni’s The Indian Materia Medica with Ayurvedic, Unani-Tibbi, Siddha, Allopathic, Homeopathic, Naturopathic and Home Remedies, Appendices and Indexes, Vol. 2. Bombay, 2007 (reprint), p. 87.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.18/2-19.
+</blockquote>
 
-[6]:
 
-Monier-Williams, p.870.
 
-[7]:
 
-A.K. Nadkarni, Dr. K.M. Nadkarni’s The Indian Materia Medica, p.13.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 5.15-17.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.18/1.
 
-[9]:
 
-Amarakośa II.9.101.
+<div className="footnote-card"><strong>[5]</strong> A.K. Nadkarni, (Revised and Enlarged), Dr. K.M. Nadkarni’s The Indian Materia Medica with Ayurvedic, Unani-Tibbi, Siddha, Allopathic, Homeopathic, Naturopathic and Home Remedies, Appendices and Indexes, Vol. 2. Bombay, 2007 (reprint), p. 87.</div>
 
-[10]:
 
-J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with Special Reference to Tripiṭaka, p.130.
+
+
+<div className="footnote-card"><strong>[6]</strong> Monier-Williams, p.870.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> A.K. Nadkarni, Dr. K.M. Nadkarni’s The Indian Materia Medica, p.13.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.18/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Amarakośa II.9.101.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with Special Reference to Tripiṭaka, p.130.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -981,10 +1442,6 @@ J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature wit
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Hygiene of the Head and Neck region: Charaka Samhita And Sushruta Samhita Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. References to Alchemy in Ganda Vyuha Sutra within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. 6. References to Alchemy in Ganda Vyuha Sutra
+## 6. References to Alchemy in Ganda Vyuha Sutra
 
 Alchemy in India and China
 
@@ -29,8 +29,6 @@ Buddhist Sutra. For example, the following excerpts indicate the extent of knowl
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ Buddhist Sutra. For example, the following excerpts indicate the extent of knowl
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch29" className="text-emerald-400 hover:underline flex items-center font-medium">5. References to Indian Sciences in Chinese Texts: Alchemy In India And China Chapter 29 →</a>
 </div>
-
-
-
-
 
 ---
 

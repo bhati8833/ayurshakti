@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on How to make and take Sulphur oil within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 56. Part 4 - How to make and take Sulphur oil
+## Part 4 - How to make and take Sulphur oil
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -39,7 +39,7 @@ This concludes ‘How to make and take Sulphur oil’ included in Bhudeb Mookerj
 
 ---
 
-## 57. Part 5 - Dietary prescriptions when taking Gandhaka
+## Part 5 - Dietary prescriptions when taking Gandhaka
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -63,7 +63,7 @@ This concludes ‘Dietary prescriptions when taking Gandhaka’ included in Bhud
 
 ---
 
-## 58. Part 6 - Removal of odour from sulphur
+## Part 6 - Removal of odour from sulphur
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -89,7 +89,7 @@ This concludes ‘Removal of odour from sulphur’ included in Bhudeb Mookerjee 
 
 ---
 
-## 59. Part 7 - Transformation of base metals by gandhaka
+## Part 7 - Transformation of base metals by gandhaka
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -113,7 +113,7 @@ This concludes ‘Transformation of base metals by gandhaka’ included in Bhude
 
 ---
 
-## 60. Part 8 - Removal of the evil consequences of taking impure sulphur
+## Part 8 - Removal of the evil consequences of taking impure sulphur
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -131,8 +131,6 @@ This concludes ‘Removal of the evil consequences of taking impure sulphur’ i
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -140,10 +138,6 @@ This concludes ‘Removal of the evil consequences of taking impure sulphur’ i
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Uparasa (10): Gairika (red ochre): Rasa Jala Nidhi Volume 2 Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

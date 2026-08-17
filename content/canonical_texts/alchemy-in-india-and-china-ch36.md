@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Case of Arsenic Sulphide or Orpiment within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 44. 4. Case of Arsenic Sulphide or Orpiment
+## 4. Case of Arsenic Sulphide or Orpiment
 
 Alchemy in India and China
 
@@ -27,8 +27,6 @@ Further in the Footnote, Waley writes: had Ogika = Sanskrit Hirika "The yellow o
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ Further in the Footnote, Waley writes: had Ogika = Sanskrit Hirika "The yellow o
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch37" className="text-emerald-400 hover:underline flex items-center font-medium">7. Case of “Ban Cha Zhuo Shui” or Visodaka: Alchemy In India And China Chapter 37 →</a>
 </div>
-
-
-
-
 
 ---
 

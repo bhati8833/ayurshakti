@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Taxonomy of venomous serpents (Hooded, Spotted, Striped), physiological bite stages, and clinical prognosis. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter IV - Description of the poison of a snakebite
+## Chapter IV - Description of the poison of a snakebite
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -175,17 +175,15 @@ A bird, bitten by a snake,looks stead-fast and becomes unconscious in the first 
 
 Thus ends the fourth Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the specific features of the poison of a snakebite.
 
-[1]:
 
-In the Hindu mythology the earth is supposed to rest on the heads of snakes, the inmates of the infernal region.
+<div className="footnote-card"><strong>[1]</strong> In the Hindu mythology the earth is supposed to rest on the heads of snakes, the inmates of the infernal region.</div>
 
-[2]:
 
-It should be noted here that coming in contact with thorns and nails, etc., if unnoticed, may also produce in the minds of persons the fear of having been bitten by a snake and may thus produce the effects of such poisoning.
+
+
+<div className="footnote-card"><strong>[2]</strong> It should be noted here that coming in contact with thorns and nails, etc., if unnoticed, may also produce in the minds of persons the fear of having been bitten by a snake and may thus produce the effects of such poisoning.</div>
 
 ---
-
-
 
 ---
 
@@ -194,10 +192,6 @@ It should be noted here that coming in contact with thorns and nails, etc., if u
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/emergency-snakebite-antidotes-and-protocols-sushruta-samhita-kalpasthana-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Emergency Snakebite Antidotes and Protocols: Sushruta Samhita Kalpasthana Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 1. Technical Terms in the Rasaratna-samuccaya within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 95. 1. Technical Terms in the Rasaratna-samuccaya
+## 1. Technical Terms in the Rasaratna-samuccaya
 
 Minerals and Metals in Sanskrit literature
 
@@ -31,7 +31,7 @@ IX-4 and Rasaratna-samuccaya contains a wide-ranging list of implements A equipm
 
 ---
 
-## 96. 4. Decsription of the Uparasa Materials
+## 4. Decsription of the Uparasa Materials
 
 Minerals and Metals in Sanskrit literature
 
@@ -51,7 +51,7 @@ IX-12 Somadeva etc., cannot escape, just like a man bound with an ardent love of
 
 ---
 
-## 97. 5. A Note on some Salts and Natural Products
+## 5. A Note on some Salts and Natural Products
 
 Minerals and Metals in Sanskrit literature
 
@@ -67,7 +67,7 @@ IX-14 from rocks and mines. Several nineteenth century literatures described the
 
 ---
 
-## 98. 6. Metals and Alloys discussed in Rasaratna-samuccaya
+## 6. Metals and Alloys discussed in Rasaratna-samuccaya
 
 Minerals and Metals in Sanskrit literature
 
@@ -85,8 +85,6 @@ IX-17 Vartaloha has been described as kamsya arka riti loha ahinanam tat vartalo
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -94,10 +92,6 @@ IX-17 Vartaloha has been described as kamsya arka riti loha ahinanam tat vartalo
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">9. Some Tentative Interpretations (of the Rasaratna-samuccaya): Minerals And Metals In Sanskrit Literature Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

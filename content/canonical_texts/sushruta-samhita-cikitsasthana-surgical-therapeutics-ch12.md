@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of abscesses sequeling Prameha within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 14. Chapter XII - The medical treatment of abscesses sequeling Prameha
+## Chapter XII - The medical treatment of abscesses sequeling Prameha
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -63,49 +63,59 @@ The cure of Prameha-patients should be understood from the non-slimy and unturbi
 
 Thus ends the twelfth Chapter of the Chikitsita Sthana in the Sushruta Sambita which deals with the medical treatment of Prameha-Pidaka.
 
-[1]:
 
-Astringent drugs of fig-tree (Vata-tree), etc.—D. R.
+<div className="footnote-card"><strong>[1]</strong> Astringent drugs of fig-tree (Vata-tree), etc.—D. R.</div>
 
-[2]:
 
-On the failure of the above treatment it would spontaneously burst out and secrete pus and force its way inside, which would lead gradually to widen its mouth or fissure, and help its running into an incurable stage.—Dallana.
 
-[3]:
 
-“Udakirya and Prakirya” are the two kinds of Karanja.
+<div className="footnote-card"><strong>[2]</strong> On the failure of the above treatment it would spontaneously burst out and secrete pus and force its way inside, which would lead gradually to widen its mouth or fissure, and help its running into an incurable stage.—Dallana.</div>
 
-[4]:
 
-“Varshabhu and Punarnava” are the two kinds of Punarnava (i.e., red and white).
 
-[5]:
 
-According to Dallana, the introduction of this medicated Ghrita into the text is an interpolation. Since Jejjata has not explained it in his commentary, Dallana does not explain it. Chakradatta, however, mentions this Ghrita in his compilation, though with some additions and alterations under the treatment of Prameha.—Ed.
+<div className="footnote-card"><strong>[3]</strong> “Udakirya and Prakirya” are the two kinds of Karanja.</div>
 
-[6]:
 
-Chakradatta reads “Shiva” in place of “Amalaka” and does not include “Priyamgu” in the list. According to some commentators the total weight of the after-throw (Prakshepa) would be a quarter part of the total weight of the drugs boiled; whereas, according to others, the different drugs for Prakshepa would weigh one Pala each.
 
-[7]:
 
-Charaka and Chakrapani Datta insert this medicine among the curatives of “Pandu-roga”, Shivadasa (the commentator) advises to take “Manduia-iron” instead of “black-iron In the practical field also we derive great and good effects in cases of spleen and liver diseases and specially in cases of infantile liver and heart diseases.—Ed.
+<div className="footnote-card"><strong>[4]</strong> “Varshabhu and Punarnava” are the two kinds of Punarnava (i.e., red and white).</div>
 
-[8]:
 
-Dallana says that fifty Pala weight of each of the two substances—Madhvasava and Phanita, and twenty-five Pala weight of each of the following substances., viz., the powders of the drugs of the Pippalyadi group and steel-foils, should be taken in preparing it. But Gayadasa explains that such a quantity of old and matured honey should be mixed with the decoction as will sweeten it; the same quantity of old and matured Phanita treacle should be taken; the powders of Pippalyadi group should be added to it till it gets a slight astringent (Katuka) taste.
+
+
+<div className="footnote-card"><strong>[5]</strong> According to Dallana, the introduction of this medicated Ghrita into the text is an interpolation. Since Jejjata has not explained it in his commentary, Dallana does not explain it. Chakradatta, however, mentions this Ghrita in his compilation, though with some additions and alterations under the treatment of Prameha.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Chakradatta reads “Shiva” in place of “Amalaka” and does not include “Priyamgu” in the list. According to some commentators the total weight of the after-throw (Prakshepa) would be a quarter part of the total weight of the drugs boiled; whereas, according to others, the different drugs for Prakshepa would weigh one Pala each.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Charaka and Chakrapani Datta insert this medicine among the curatives of “Pandu-roga”, Shivadasa (the commentator) advises to take “Manduia-iron” instead of “black-iron In the practical field also we derive great and good effects in cases of spleen and liver diseases and specially in cases of infantile liver and heart diseases.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Dallana says that fifty Pala weight of each of the two substances—Madhvasava and Phanita, and twenty-five Pala weight of each of the following substances., viz., the powders of the drugs of the Pippalyadi group and steel-foils, should be taken in preparing it. But Gayadasa explains that such a quantity of old and matured honey should be mixed with the decoction as will sweeten it; the same quantity of old and matured Phanita treacle should be taken; the powders of Pippalyadi group should be added to it till it gets a slight astringent (Katuka) taste.</div>
+
+
 
 Some commentators, however, hold that the honey, the powders of the drugs of the Pippalyadi group and of the steel-foils should be each a quarter part of the decoction in weight.
 
 Dallana explains the term “Madhu” as the Asava prepared of honey. Gayadasa, however, explains it simply as honey.
 
-[9]:
 
-The Phanita should be refined by dissolving it in the decoction of the drugs of the Shala-saradi group and then filtere.—Dallana,
+<div className="footnote-card"><strong>[9]</strong> The Phanita should be refined by dissolving it in the decoction of the drugs of the Shala-saradi group and then filtere.—Dallana,</div>
 
-[10]:
 
-The recipe of Loharishta, according to Vagbhata, is as follows:—
+
+
+<div className="footnote-card"><strong>[10]</strong> The recipe of Loharishta, according to Vagbhata, is as follows:—</div>
+
+
 
 The drugs of the Asanadi group (which corresponds with Sushruta’s Shala-saradi group), each weighing twenty Palas, should be boiled in eight Dronas of water down to a quarter part of its weight. Two hundred Pala weight of treacle and half an Adhaka (four seers) of honey and the powders of the drugs of the Vatsakadi group (which corresponds with the Pippalyadi group of Sushruta), each weighing one Pala, should be mixed with the above decoction when cooled. A (new earthen) pitcher should be plastered inside with (an adequate quantity of) Pippali-powder and honey, the outer side being plastered with shellac. The above preparation should now be poured into this pitcher which should be kept in a heap of barley. A fire should be kindled with Khadira charcoal. Thin iron-foils should be alternately heated in this fire and immersed in the above preparation until the iron-foils are powdered.
 
@@ -115,8 +125,6 @@ We, however, follow Vagbhata in the preparation of this Arishta with good result
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -124,10 +132,6 @@ We, however, follow Vagbhata in the preparation of this Arishta with good result
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of Diabetes: Sushruta Samhita Cikitsasthana Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

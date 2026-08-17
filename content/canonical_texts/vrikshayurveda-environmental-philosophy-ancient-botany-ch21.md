@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Aesthetical Values as reflected in Vrikshayurveda within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. 2. Aesthetical Values as reflected in Vrikshayurveda
+## 2. Aesthetical Values as reflected in Vrikshayurveda
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -33,7 +33,7 @@ V.1. Aesthetical Values on preparation of Pleasure Gardens as reflected in Vrksa
 
 ---
 
-## 52. Chapter 7 - Environmental Philosophy
+## Chapter 7 - Environmental Philosophy
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -41,11 +41,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 Chapter 7 - Environmental Philosophy
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -54,10 +50,6 @@ Chapter 7 - Environmental Philosophy
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">4. Navagraha-vatika as an example of arrangement of Gardens: Vrikshayurveda and Environmental Philosophy Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

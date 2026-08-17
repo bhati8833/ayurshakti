@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (70): Mahamrityunjaya rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 107. Treatment for fever (70): Mahamrityunjaya rasa
+## Treatment for fever (70): Mahamrityunjaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (70): Mahamrityunjaya rasa’ included in 
 
 ---
 
-## 108. Treatment for fever (71): Panchavaktra rasa
+## Treatment for fever (71): Panchavaktra rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (71): Panchavaktra rasa’ included in Bhu
 
 ---
 
-## 109. Treatment for fever (66): Kaphashani rasa
+## Treatment for fever (66): Kaphashani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (66): Kaphashani rasa’ included in Bhude
 
 ---
 
-## 110. Treatment for fever (72): Sannipata-kuthara rasa
+## Treatment for fever (72): Sannipata-kuthara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for fever (72): Sannipata-kuthara rasa’ included i
 
 ---
 
-## 111. Treatment for fever (73): Pratapa-lankeshvara rasa
+## Treatment for fever (73): Pratapa-lankeshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for fever (73): Pratapa-lankeshvara rasa’ included
 
 ---
 
-## 112. Treatment for fever (74): Praneshvara rasa
+## Treatment for fever (74): Praneshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for fever (74): Praneshvara rasa’ included in Bhud
 
 ---
 
-## 113. Treatment for fever (75): Mrita-sanjibana rasa
+## Treatment for fever (75): Mrita-sanjibana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for fever (75): Mrita-sanjibana rasa’ included in 
 
 ---
 
-## 114. Treatment for fever (76): Mrityu-nisudana rasa
+## Treatment for fever (76): Mrityu-nisudana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for fever (76): Mrityu-nisudana rasa’ included in 
 
 ---
 
-## 115. Treatment for fever (78): Parpatika rasa
+## Treatment for fever (78): Parpatika rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for fever (78): Parpatika rasa’ included in Bhudeb
 
 ---
 
-## 116. Treatment for fever (79): Kanta rasa
+## Treatment for fever (79): Kanta rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for fever (79): Kanta rasa’ included in Bhudeb Moo
 
 ---
 
-## 117. Treatment for fever (77): Jalamanjari rasa
+## Treatment for fever (77): Jalamanjari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for fever (77): Jalamanjari rasa’ included in Bhud
 
 ---
 
-## 118. Treatment for fever (80): Sudhamshu-shekhara rasa
+## Treatment for fever (80): Sudhamshu-shekhara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -227,7 +227,7 @@ This concludes ‘Treatment for fever (80): Sudhamshu-shekhara rasa’ included 
 
 ---
 
-## 119. Treatment for fever (81): Nava-jvvara-murari rasa
+## Treatment for fever (81): Nava-jvvara-murari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Treatment for fever (81): Nava-jvvara-murari rasa’ included 
 
 ---
 
-## 120. Treatment for fever (83): Jvara-murari rasa
+## Treatment for fever (83): Jvara-murari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -263,7 +263,7 @@ This concludes ‘Treatment for fever (83): Jvara-murari rasa’ included in Bhu
 
 ---
 
-## 121. Treatment for fever (82): Pratapa-ravana rasa
+## Treatment for fever (82): Pratapa-ravana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -287,8 +287,6 @@ This concludes ‘Treatment for fever (82): Pratapa-ravana rasa’ included in B
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -296,10 +294,6 @@ This concludes ‘Treatment for fever (82): Pratapa-ravana rasa’ included in B
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (84): Jvara-matanga-keshari rasa: Rasa Jala Nidhi Volume 4 Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

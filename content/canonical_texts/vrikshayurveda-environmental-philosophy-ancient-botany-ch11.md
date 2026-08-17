@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Summary of the Vrikshayurveda of Surapala within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 28. 2. Summary of the Vrikshayurveda of Surapala
+## 2. Summary of the Vrikshayurveda of Surapala
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -79,7 +79,7 @@ Chapter - VIII The Knowledge on Disease Disease 165 - 183 of Plants (rogajnana D
 
 ---
 
-## 29. 7. Vrikshayurveda found in Vishvavallabha by Chakrapani Mishra
+## 7. Vrikshayurveda found in Vishvavallabha by Chakrapani Mishra
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -121,8 +121,6 @@ Like Vrksayurveda of Surapala, there is another treatise written by Chakrapani M
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -130,10 +128,6 @@ Like Vrksayurveda of Surapala, there is another treatise written by Chakrapani M
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">3. The Significance of Plantation: Vrikshayurveda and Environmental Philosophy Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 19. Resemblance of Traditional and Modern Surgical Instruments within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 86. 19. Resemblance of Traditional and Modern Surgical Instruments
+## 19. Resemblance of Traditional and Modern Surgical Instruments
 
 Surgery in ancient India (Study)
 
@@ -27,7 +27,7 @@ ulpalapatramSyme's amputation knife sringayantrameshanivyuhanasanghugarbha sanku
 
 ---
 
-## 87. 20. Notes and References
+## 20. Notes and References
 
 Surgery in ancient India (Study)
 
@@ -45,7 +45,7 @@ REFERENCES. 1 Kirkup John, The evolution of surgical instruments: an illustrated
 
 ---
 
-## 88. 18. The functions of Surgical Instruments
+## 18. The functions of Surgical Instruments
 
 Surgery in ancient India (Study)
 
@@ -59,8 +59,6 @@ the entire salya, or is curved, loosely fitted, or soft-bolted, or loosely tied 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -68,10 +66,6 @@ the entire salya, or is curved, loosely fitted, or soft-bolted, or loosely tied 
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">Conclusion: Ancient Indian Surgical Science Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

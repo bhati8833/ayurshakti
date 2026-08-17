@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 9. Bogar Karpam and Ge Hong's Alchemy within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 38. 9. Bogar Karpam and Ge Hong's Alchemy
+## 9. Bogar Karpam and Ge Hong's Alchemy
 
 Alchemy in India and China
 
@@ -27,8 +27,6 @@ We find a number of parallels between Ge Hong's elixir methods and those given i
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ We find a number of parallels between Ge Hong's elixir methods and those given i
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch32" className="text-emerald-400 hover:underline flex items-center font-medium">Transmission of Alchemical and Chemical ideas (Part 2): Alchemy In India And China Chapter 32 →</a>
 </div>
-
-
-
-
 
 ---
 

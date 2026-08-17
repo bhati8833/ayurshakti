@@ -86,7 +86,11 @@ The Sanskrit term “Sveda” is not properly rendered by the terms fomentations
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 Jejjata reads “tairardrairalaktakapariveṣṭitaṃ” instead of “tairardralaktakapariveṣṭitaṃ” and explains that the cotton plug soaked in Alaktaka should be made wet and placed over the affected part before applying the fomentation.
+</blockquote>
+
 
 [3]:
 

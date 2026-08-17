@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Navagraha-vatika as an example of arrangement of Gardens within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 53. 4. Navagraha-vatika as an example of arrangement of Gardens
+## 4. Navagraha-vatika as an example of arrangement of Gardens
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -31,7 +31,7 @@ increased and productive growth. However, the planetic classification for rearin
 
 ---
 
-## 54. 2. Environmental Philosophy behind the Importance of Trees
+## 2. Environmental Philosophy behind the Importance of Trees
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -49,8 +49,6 @@ The importance of trees has forever been given priority right from the Vedic per
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -58,10 +56,6 @@ The importance of trees has forever been given priority right from the Vedic per
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">3. Philosophy behind the planting of Trees near the Abode: Vrikshayurveda and Environmental Philosophy Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Successful Enema therapy (basti-siddhi) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 145. Chapter 10 - Successful Enema therapy (basti-siddhi)
+## Chapter 10 - Successful Enema therapy (basti-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -95,7 +95,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 146. Chapter 8 - The Enema consisting of the Prasrita measure (prasritayoga-siddhi)
+## Chapter 8 - The Enema consisting of the Prasrita measure (prasritayoga-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -195,7 +195,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 147. Chapter 12 - The remaining best kinds of Enema (uttara-basti-siddhi)
+## Chapter 12 - The remaining best kinds of Enema (uttara-basti-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -421,7 +421,7 @@ Merits accruing from the knowledge of this Science
 
 ---
 
-## 148. Chapter 11 - The Dose of the Enema (phala-matra-siddhi)
+## Chapter 11 - The Dose of the Enema (phala-matra-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -511,7 +511,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 149. Chapter 1 - Successful line of Treatment (kalpana-siddhi)
+## Chapter 1 - Successful line of Treatment (kalpana-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -651,7 +651,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 150. Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics
+## Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics
 
 Charaka Samhita (English translation)
 
@@ -659,11 +659,7 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -672,10 +668,6 @@ Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

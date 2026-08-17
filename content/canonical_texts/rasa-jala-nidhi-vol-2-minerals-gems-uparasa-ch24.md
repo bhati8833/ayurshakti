@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Purification of red vermilion within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 116. Part 2 - Purification of red vermilion
+## Part 2 - Purification of red vermilion
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -35,7 +35,7 @@ This concludes ‘Purification of red vermilion’ included in Bhudeb Mookerjee 
 
 ---
 
-## 117. Chapter XXIII - Uparasa (23): Hingula (cinnabar)
+## Chapter XXIII - Uparasa (23): Hingula (cinnabar)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -45,15 +45,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XXIII - Uparasa (23): Hingula (cinnabar)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (23): Hingula (cinnabar)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 118. Part 1 - Characteristics of Hingula (cinnabar)
+## Part 1 - Characteristics of Hingula (cinnabar)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -77,7 +75,7 @@ This concludes ‘Characteristics of Hingula (cinnabar)’ included in Bhudeb Mo
 
 ---
 
-## 119. Part 2 - Purification of Hingula (cinnabar)
+## Part 2 - Purification of Hingula (cinnabar)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -113,7 +111,7 @@ This concludes ‘Purification of Hingula (cinnabar)’ included in Bhudeb Mooke
 
 ---
 
-## 120. Part 3 - Preparations of Hingula
+## Part 3 - Preparations of Hingula
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -145,8 +143,6 @@ This concludes ‘Preparations of Hingula’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -154,10 +150,6 @@ This concludes ‘Preparations of Hingula’ included in Bhudeb Mookerjee Rasa J
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Preparation of cinnabar at laboratory: Rasa Jala Nidhi Volume 2 Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

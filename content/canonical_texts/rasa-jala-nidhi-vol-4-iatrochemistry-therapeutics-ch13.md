@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (144): Sarva-jvara-hara lauham within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 182. Treatment for fever (144): Sarva-jvara-hara lauham
+## Treatment for fever (144): Sarva-jvara-hara lauham
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (144): Sarva-jvara-hara lauham’ included
 
 ---
 
-## 183. Treatment for fever (147): Vidya-vallabha rasa
+## Treatment for fever (147): Vidya-vallabha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (147): Vidya-vallabha rasa’ included in 
 
 ---
 
-## 184. Treatment for fever (145): Kalpadruma rasa
+## Treatment for fever (145): Kalpadruma rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (145): Kalpadruma rasa’ included in Bhud
 
 ---
 
-## 185. Treatment for fever (149): Visama-jvarantaka rasa
+## Treatment for fever (149): Visama-jvarantaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for fever (149): Visama-jvarantaka rasa’ included 
 
 ---
 
-## 186. Treatment for fever (143): Maharaja rasa
+## Treatment for fever (143): Maharaja rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for fever (143): Maharaja rasa’ included in Bhudeb
 
 ---
 
-## 187. Treatment for fever (148): Jaya-mangala rasa
+## Treatment for fever (148): Jaya-mangala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for fever (148): Jaya-mangala rasa’ included in Bh
 
 ---
 
-## 188. Treatment for fever (150): Saranana rasa
+## Treatment for fever (150): Saranana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for fever (150): Saranana rasa’ included in Bhudeb
 
 ---
 
-## 189. Treatment for fever (151): Vasanta-malati rasa
+## Treatment for fever (151): Vasanta-malati rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for fever (151): Vasanta-malati rasa’ included in 
 
 ---
 
-## 190. Treatment for fever (65): Arogya-chintamani rasa
+## Treatment for fever (65): Arogya-chintamani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for fever (65): Arogya-chintamani rasa’ included i
 
 ---
 
-## 191. Treatment for fever (152): Visama-jvara-hrid rasa
+## Treatment for fever (152): Visama-jvara-hrid rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for fever (152): Visama-jvara-hrid rasa’ included 
 
 ---
 
-## 192. Treatment for fever (155): Himangshu-shekkara rasa
+## Treatment for fever (155): Himangshu-shekkara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for fever (155): Himangshu-shekkara rasa’ included
 
 ---
 
-## 193. Treatment for fever (154): Chira-sundara rasa
+## Treatment for fever (154): Chira-sundara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -227,7 +227,7 @@ This concludes ‘Treatment for fever (154): Chira-sundara rasa’ included in B
 
 ---
 
-## 194. Treatment for fever (153): Purnanada rasa
+## Treatment for fever (153): Purnanada rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Treatment for fever (153): Purnanada rasa’ included in Bhude
 
 ---
 
-## 195. Treatment for fever (156): Mritajivana rasa
+## Treatment for fever (156): Mritajivana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -263,7 +263,7 @@ This concludes ‘Treatment for fever (156): Mritajivana rasa’ included in Bhu
 
 ---
 
-## 196. Treatment for fever (157): Panchanana rasa
+## Treatment for fever (157): Panchanana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -281,8 +281,6 @@ This concludes ‘Treatment for fever (157): Panchanana rasa’ included in Bhud
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -290,10 +288,6 @@ This concludes ‘Treatment for fever (157): Panchanana rasa’ included in Bhud
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (159): Chaturthaka-nivarana rasa: Rasa Jala Nidhi Volume 4 Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

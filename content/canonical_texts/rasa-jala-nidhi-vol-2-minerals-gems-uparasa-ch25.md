@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Preparation of cinnabar at laboratory within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 121. Part 4 - Preparation of cinnabar at laboratory
+## Part 4 - Preparation of cinnabar at laboratory
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -29,7 +29,7 @@ This concludes ‘Preparation of cinnabar at laboratory’ included in Bhudeb Mo
 
 ---
 
-## 122. Part 5 - Evil effects of impure hingula
+## Part 5 - Evil effects of impure hingula
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -51,7 +51,7 @@ This concludes ‘Evil effects of impure hingula’ included in Bhudeb Mookerjee
 
 ---
 
-## 123. Part 6 - Essence of hingula
+## Part 6 - Essence of hingula
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -69,7 +69,7 @@ This concludes ‘Essence of hingula’ included in Bhudeb Mookerjee Rasa Jala N
 
 ---
 
-## 124. Chapter XXIV - Uparasa (24): Mriddara-shringaka (an ore of lead)
+## Chapter XXIV - Uparasa (24): Mriddara-shringaka (an ore of lead)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -79,15 +79,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XXIV - Uparasa (24): Mriddara-shringaka (an ore of lead)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (24): Mriddara-shringaka (an ore of lead)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 125. Part 1 - Characteristics of Mriddara-shringaka (an ore of lead)
+## Part 1 - Characteristics of Mriddara-shringaka (an ore of lead)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -105,8 +103,6 @@ This concludes ‘Characteristics of Mriddara-shringaka (an ore of lead)’ incl
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -114,10 +110,6 @@ This concludes ‘Characteristics of Mriddara-shringaka (an ore of lead)’ incl
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Purification of Mriddara-shringaka: Rasa Jala Nidhi Volume 2 Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -24,7 +24,7 @@ description: "presents the introductory pages of the Charaka Samhita composed of
 
 ---
 
-## 1. Part 1 - The History of Medicine in India
+## Part 1 - The History of Medicine in India
 
 History of Indian Medicine (and Ayurveda)
 
@@ -34,11 +34,9 @@ As an important final a...
 
 Part 1 - The History of Medicine in India
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 2. Chapter 3 - The Story of Bharadvaja
+## Chapter 3 - The Story of Bharadvaja
 
 History of Indian Medicine (and Ayurveda)
 
@@ -96,13 +94,7 @@ Indra (Indraḥ)
 (According to the version in Kashyapa Samhita)—Kashyapa (Kaśyapa), Vasishtha (Vasiṣṭha), Atri and Bhrigu (Bhṛgu)—Their sons and disciples.
 (According to the version in Caraka Samhita)—Bharadvaja (Bharadvāja)—Atreya Punarvasu (Ātreya-Punarvasu)—Agnivesha (Agniveśa), Bhela, Jatu (Jatū), Karna (Karṇa), Parashara (Parāśara), Harita (Hārīta), Ksharapani (Kṣārapāṇi) and others.
 
-Brahma (Brahmā)
-
-Daksha (Dakṣa)
-
-Ashvins (Aśvinau)
-
-Indra (Indraḥ)
+Brahma (Brahmā), Daksha (Dakṣa), Ashvins (Aśvinau), Indra (Indraḥ)
 
 (According to the version in Sushruta Samhita)—Dhanvantari or Divodasa (Divodāsa)—Sushruta (Suśruta), Aupadhenava, Vaitarana (Vaitaraṇa), Aurabhra, Paushkalavata (Pauṣkalāvata), Karavirya (Karavīrya), Gopurarakshita (Gopurarakṣita), Bhoja and others.
 
@@ -275,8 +267,6 @@ In summary, it is necessary to repeat that the great mass and variety of evidenc
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -284,10 +274,6 @@ In summary, it is necessary to repeat that the great mass and variety of evidenc
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">The Story of Ayurveda: History Of Indian Medicine And Ayurveda Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

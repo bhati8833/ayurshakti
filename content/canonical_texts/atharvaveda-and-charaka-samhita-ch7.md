@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Rasendrasāra Saṅgraha (Āyurveda book) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. Rasendrasāra Saṅgraha (Āyurveda book)
+## Rasendrasāra Saṅgraha (Āyurveda book)
 
 Rasendrasāra Saṅgraha (Āyurveda book)
 
@@ -21,17 +21,19 @@ In the first chapter describes Pārada, Varga, Uparasa, Gandhaka, Vajra, Vaikrā
 
 The main decisions of Āyurveda depend on the following factors namely–Pañca- Mahābhūta, Tridoṣa, six Rasa, Guṇa, Vīrya, Vipāka, Prabhāva, seven Dhatu, and Prakṛti. There are two types of semen, warm and cold. There are two types of Vikāra, Avasthāpāka and Niṣṭhāpāka. The seven Dhātus are–juice, blood, flesh, fat. bone, marrow and sperm. Nature is immutable. According to threefold nature, there are three types–Sāttvika nature, Rājasa nature and Tāmasa nature. According to Cakrapāṇi, there are three types of quality–Vaiśeṣika, Sāmānya and Ātma[2].
 
-[1]:
 
-Rasendrasāra Sangraha of Sri Gopal Krishna, trans. Ashok D. Satpute, Varanasi, Chowkhamba Krishnadas Academy, 2009, pp. 3-657.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Rasendrasāra Sangraha of Sri Gopal Krishna, trans. Ashok D. Satpute, Varanasi, Chowkhamba Krishnadas Academy, 2009, pp. 3-657.
+</blockquote>
 
-[2]:
 
-Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 284-288.
+
+
+<div className="footnote-card"><strong>[2]</strong> Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 284-288.</div>
 
 ---
 
-## 36. Śārṅgadhara-Saṃhitā (Āyurveda book)
+## Śārṅgadhara-Saṃhitā (Āyurveda book)
 
 Śārṅgadhara-Saṃhitā (Āyurveda book)
 
@@ -41,21 +43,20 @@ Madhyama khaṇḍa or second section describes the composition, method of prepa
 
 Uttara khaṇḍa the third and last section explains the different kinds of treatment in separate chapters viz, Sneha Adhyāya (Oleation Therapy), Sveda (Sudation Therapy), Vamana Vidhi (Emesis Therapy), Virecana Vidhi (Purgation Therapy), Basti Vidhi (Enemata-oil enema Therapy), Niruha Basti Vidhi (Decoction Enemata), Uttara Basti Vidhi (Urethral and Vaginal douches), Nasya Vidhi (Nasal Medication), Dhūmapāna Vidhi (Inhalations, Fumigations Therapy), Gaṇḍūṣa-Kavala Pratisāraṇa Vidhi (Mouth gargles), Lepa-mūrdhā Taila Karṇapūraṇa Vidhi (Topical application, Oleation of the head, ears etc.), Śoṇitasrāva Vidhi (bloodletting) and Netra Prasādana Karma (Therapies for the eyes)[1].
 
-[1]:
 
-Śāraṅgadhara-Saṃhitā: A Treatise on Ayurveda by Śāraṅgadhara, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2017, pp. 3-273.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Śāraṅgadhara-Saṃhitā: A Treatise on Ayurveda by Śāraṅgadhara, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2017, pp. 3-273.
+</blockquote>
 
 ---
 
-## 37. Chapter 2 - The nature of treatment for diseases in the Ancient era
+## Chapter 2 - The nature of treatment for diseases in the Ancient era
 
 Chapter 2 - The nature of treatment for diseases in the Ancient era
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 38. Aims of the present work
+## Aims of the present work
 
 Aims of the present work
 
@@ -87,7 +88,7 @@ Since the volume of the work of Atharvaveda and Caraka-Saṃhitā are enormous, 
 
 ---
 
-## 39. Review of the Literature
+## Review of the Literature
 
 Review of the Literature
 
@@ -203,8 +204,6 @@ All these scholars have so far discussed either Caraka-Saṃhitā or about Athar
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -212,10 +211,6 @@ All these scholars have so far discussed either Caraka-Saṃhitā or about Athar
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Natural Treatment in the Vedas: Atharvaveda And Charaka Samhita Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

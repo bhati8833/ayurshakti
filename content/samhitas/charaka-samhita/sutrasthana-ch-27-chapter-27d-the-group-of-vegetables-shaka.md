@@ -26,7 +26,11 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Chapter 27d - The group of vegetables (Shaka)
 
+
+<blockquote className="ayur-shloka">
 88-88½. Now begins the class of vegetables (Shaka—śāka-varga):—
+</blockquote>
+
 
 The qualities of Patha, etc.:
 
@@ -64,7 +68,11 @@ The qualities of indian penny wort etc.
 
 The qualities of pot-herbs etc.
 
+
+<blockquote className="ayur-shloka">
 98-103½. All pot-herbs, bind weed, white goose foot, white dead nettle shrub, all tubers of Aluka [āluka] variety with their leaves, Kutinjara [kuṭiñjara], Bengal hemp plant, flowers of silk cotton, white mountain ebony, heliotrope, lablab, variegated mountain ebony, coxcomb, malta jute, Putranjiva, japan medlar spinach, amaranth wild potherb, Nalika [nālika], mustard, safflower, young siris, mandragora, fetid cassia, lotus stalk, shrubby basil, common Indian parselaue, barley leaves, white gourd, babchi seeds, Yatuka [yātuka], shal Kalyani [śālakalyāṇī], maiden hair, trilobed virgin’s bower:—these are heavy, dry, delayed in digestion, sweet, cooling in potency aud loosen the feces. After being boiled and drained of the juice, and mixed with plenty of unctuous substances, they are good for eating.
+</blockquote>
+
 
 The qualities of the flowers of the Bengal hemp etc.
 
@@ -76,7 +84,11 @@ The qualities of the leaf-buds of the Banyan, fig, etc
 
 The qualities of Guduch etc
 
+
+<blockquote className="ayur-shloka">
 106-106½. The guduch cures Vata while Gandira and white flowered leadwort cure Kapha; elephant pepper, Bilvaparni [bilvaparṇī] and bael leaves cure Vata.
+</blockquote>
+
 
 The qualities of Turpeth etc
 
@@ -100,7 +112,11 @@ The qualities of Sweet Melon and white gourd
 
 The qualities of the kelula etc
 
+
+<blockquote className="ayur-shloka">
 114.The Keluta [kelūṭa], Cadamba [kadamba], Nadimashaka [nadīmāṣaka] and common mountain ebony are limpid, heavy, cooling and are said to be powerful humidifies.
+</blockquote>
+
 
 The qualities of Blue water lily -and sprouts of Palmyra
 
@@ -136,6 +152,10 @@ The qualities of Rape-leaves and Common yam
 
 The qualities of Mushroom
 
+
+<blockquote className="ayur-shloka">
 123-124. The Sarpa mushroom is forbidden. The other varieties of edible mushrooms are cooling and cause rhinitis, are sweet and heavy, Thus ends the fourth section on vegetables (Shaka—śāka-varga) including leaves, bulbs and fruits.
+</blockquote>
+
 
 ---

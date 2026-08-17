@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of erysipelas, sinus and mammae within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Chapter X - Diagnosis of erysipelas, sinus and mammae
+## Chapter X - Diagnosis of erysipelas, sinus and mammae
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -111,25 +111,25 @@ The bodily Doshas having recourse to the breasts of a woman whether filled with 
 
 Thus ends the tenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the etiology and symptoms of Erysipelas, Sinus and mammary abscesses.
 
-[1]:
 
-Or through the extreme augmentation of all the three doshas in the ulcer (Sadyah-kshata-Vrana) according to others.
+<div className="footnote-card"><strong>[1]</strong> Or through the extreme augmentation of all the three doshas in the ulcer (Sadyah-kshata-Vrana) according to others.</div>
 
-[2]:
 
-Golden coloured (yellow) Erysipelas due to the action of the (deranged) Pitta is incurable (Pittatma Kancana-vapustha tatha na sydhyet.).—D. R.
 
-[3]:
 
-Gayadasa does not read the symptoms of Dvi-doshaja (i.e., due to two morbific principles) types of sinus a given in the text which he has rejected as spurious
+<div className="footnote-card"><strong>[2]</strong> Golden coloured (yellow) Erysipelas due to the action of the (deranged) Pitta is incurable (Pittatma Kancana-vapustha tatha na sydhyet.).—D. R.</div>
 
-[4]:
 
-The particle “Ca” in the text indicates that the colour may turn blue or pink in some cases.
+
+
+<div className="footnote-card"><strong>[3]</strong> Gayadasa does not read the symptoms of Dvi-doshaja (i.e., due to two morbific principles) types of sinus a given in the text which he has rejected as spurious</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> The particle “Ca” in the text indicates that the colour may turn blue or pink in some cases.</div>
 
 ---
-
-
 
 ---
 
@@ -138,10 +138,6 @@ The particle “Ca” in the text indicates that the colour may turn blue or pin
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of glands, scrofula, tumors and goitre: Sushruta Samhita Nidanasthana Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

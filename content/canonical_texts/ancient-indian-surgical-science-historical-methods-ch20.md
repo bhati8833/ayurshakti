@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 15. Conclusion and References within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 64. 15. Conclusion and References
+## 15. Conclusion and References
 
 Surgery in ancient India (Study)
 
@@ -39,7 +39,7 @@ REFERENCES 1 Zimmerman, Leo M, Ilza Veith, Great ideas in the history of surgery
 
 ---
 
-## 65. 13. The scope of Sushruta’s Surgery
+## 13. The scope of Sushruta’s Surgery
 
 Surgery in ancient India (Study)
 
@@ -59,7 +59,7 @@ of rehabilitation and fitting of prosthetics. Classification of eye diseases wit
 
 ---
 
-## 66. 11. Ophthalmology according to Sushruta
+## 11. Ophthalmology according to Sushruta
 
 Surgery in ancient India (Study)
 
@@ -81,8 +81,6 @@ the eye is irritated with saindhava salt and soaked with a warm compress. The pa
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -90,10 +88,6 @@ the eye is irritated with saindhava salt and soaked with a warm compress. The pa
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">14. Sushruta—The seed of Medical Science: Ancient Indian Surgical Science Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

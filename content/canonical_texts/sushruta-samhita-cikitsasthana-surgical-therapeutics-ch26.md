@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elixirs (rasayana) for invulnerability to disease within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 28. Chapter XXVII - Elixirs (rasayana) for invulnerability to disease
+## Chapter XXVII - Elixirs (rasayana) for invulnerability to disease
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -69,37 +69,40 @@ The use of Shana (seeds) boiled with milk and taken also with milk guards agains
 
 Thus ends the Twenty-seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with elixirs and rejuvenators.
 
-[1]:
 
-The mental Doshas are Rajas and Tamas, whereas the physical Doshas are Vayu, Pitta and Kapha.
+<div className="footnote-card"><strong>[1]</strong> The mental Doshas are Rajas and Tamas, whereas the physical Doshas are Vayu, Pitta and Kapha.</div>
 
-[2]:
 
-There would be four combinations of one each, six of two each, four of three each and one of four jointly; thus there would be fifteen combinations in all.
 
-[3]:
 
-Dallana explains the term Madhukodakottara to mean a large quantity of Madhuka and water, (and by water he means the decoction of Vidanga).
+<div className="footnote-card"><strong>[2]</strong> There would be four combinations of one each, six of two each, four of three each and one of four jointly; thus there would be fifteen combinations in all.</div>
 
-[4]:
 
-Suffering from consumption and hemoptysis.—D. R.
 
-[5]:
 
-Dallana recommends one Pala weight of Vijaka Sara and Agni-mantha to be boiled in an Adhaka measure of water which should be reduced to one half for the preparation of the decoction.
+<div className="footnote-card"><strong>[3]</strong> Dallana explains the term Madhukodakottara to mean a large quantity of Madhuka and water, (and by water he means the decoction of Vidanga).</div>
 
-[6]:
 
-Suparna is the king of birds and is said to be the most keen- sighted.
 
-[7]:
 
-Dallana says that some commentators do not read this, since they do not consider it to be a part of the original text. Jejjata also has not read this.
+<div className="footnote-card"><strong>[4]</strong> Suffering from consumption and hemoptysis.—D. R.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Dallana recommends one Pala weight of Vijaka Sara and Agni-mantha to be boiled in an Adhaka measure of water which should be reduced to one half for the preparation of the decoction.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Suparna is the king of birds and is said to be the most keen- sighted.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Dallana says that some commentators do not read this, since they do not consider it to be a part of the original text. Jejjata also has not read this.</div>
 
 ---
-
-
 
 ---
 
@@ -108,10 +111,6 @@ Dallana says that some commentators do not read this, since they do not consider
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">Elixirs (rasayana) to improve memory and life span: Sushruta Samhita Cikitsasthana Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

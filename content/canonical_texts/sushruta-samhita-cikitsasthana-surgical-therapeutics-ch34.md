@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of Sveda (fomentation, calorification, etc.) within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)
+## Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -85,61 +85,72 @@ After a full and complete application of Sveda, the (body of the) patient should
 
 Thus ends the Thirty-second Chapter in the Chikitsita Sthana of the Sushruta Samhita which treats of the applications of Sveda.
 
-[1]:
 
-The Sanskrit term “Sveda” is not properly rendered by the terms fomentations, diaphoretic measures or any other such word or phrase. Sveda is used to mean the application of heat in any possible way—it may be to cause or not to cause perspiration. Vapour baths, hot water baths, applications of warm poultices, etc., are also included in the meaning of the term Sveda. We have, however, for convenience sake, used the term fomentation as a synonym of Sveda in general.
+<div className="footnote-card"><strong>[1]</strong> The Sanskrit term “Sveda” is not properly rendered by the terms fomentations, diaphoretic measures or any other such word or phrase. Sveda is used to mean the application of heat in any possible way—it may be to cause or not to cause perspiration. Vapour baths, hot water baths, applications of warm poultices, etc., are also included in the meaning of the term Sveda. We have, however, for convenience sake, used the term fomentation as a synonym of Sveda in general.</div>
 
-[2]:
 
-Jejjata reads “tairardrairalaktakapariveṣṭitaṃ” instead of “tairardralaktakapariveṣṭitaṃ” and explains that the cotton plug soaked in Alaktaka should be made wet and placed over the affected part before applying the fomentation.
 
-[3]:
 
-The mouth of the pitcher should be covered only to mitigate and regulate the heat.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Jejjata reads “tairardrairalaktakapariveṣṭitaṃ” instead of “tairardralaktakapariveṣṭitaṃ” and explains that the cotton plug soaked in Alaktaka should be made wet and placed over the affected part before applying the fomentation.
+</blockquote>
 
-[4]:
 
-A Vyama is the length measured by the outstretched hands of a man.
 
-[5]:
 
-The reasons for bending the tube are to make the fomentation delightful, in consequence of the vapour not passing in a straight course.
+<div className="footnote-card"><strong>[3]</strong> The mouth of the pitcher should be covered only to mitigate and regulate the heat.</div>
 
-[6]:
 
-This is called the “Nadi-sveda”.
 
-[7]:
 
-This is called the “Karshu-sveda”.
+<div className="footnote-card"><strong>[4]</strong> A Vyama is the length measured by the outstretched hands of a man.</div>
 
-[8]:
 
-This is called the “Ashma-ghana-sveda”.
 
-[9]:
 
-This is called the “Kuti-Sveda”.
+<div className="footnote-card"><strong>[5]</strong> The reasons for bending the tube are to make the fomentation delightful, in consequence of the vapour not passing in a straight course.</div>
 
-[10]:
 
-Drugs of the Kakolyadi group should be used in cases of the dominant deranged Pitta acting in cencert with the deranged Vayu; those of Eladi group in cases of the dominant deranged Kapha acting in concert with the deranegd Vayu and the Shalvana, or sesamum, linseed, etc., in cases of a simple or complicated deranged Vayu.
 
-[11]:
 
-This is called the Avagaha-Sveda.
+<div className="footnote-card"><strong>[6]</strong> This is called the “Nadi-sveda”.</div>
 
-[12]:
 
-This is called the “Parisheka-Sveda”
 
-[13]:
 
-Vrinda evidently quotes this verse from Sushruta Samhita but by a little change in the versification he excludes cases of vomiting and poisoning from the list and mentions only the cases of Dakodara (instead of Udara in general) as unfit for Sveda and this is consistent with the treatment prescribed by Sushruta himself in Chapter XIV, Chikitsita Sthana.
+<div className="footnote-card"><strong>[7]</strong> This is called the “Karshu-sveda”.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> This is called the “Ashma-ghana-sveda”.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> This is called the “Kuti-Sveda”.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Drugs of the Kakolyadi group should be used in cases of the dominant deranged Pitta acting in cencert with the deranged Vayu; those of Eladi group in cases of the dominant deranged Kapha acting in concert with the deranegd Vayu and the Shalvana, or sesamum, linseed, etc., in cases of a simple or complicated deranged Vayu.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> This is called the Avagaha-Sveda.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> This is called the “Parisheka-Sveda”</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Vrinda evidently quotes this verse from Sushruta Samhita but by a little change in the versification he excludes cases of vomiting and poisoning from the list and mentions only the cases of Dakodara (instead of Udara in general) as unfit for Sveda and this is consistent with the treatment prescribed by Sushruta himself in Chapter XIV, Chikitsita Sthana.</div>
 
 ---
-
-
 
 ---
 
@@ -148,10 +159,6 @@ Vrinda evidently quotes this verse from Sushruta Samhita but by a little change 
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch35" className="text-emerald-400 hover:underline flex items-center font-medium">Description of a Netra and a Vasti (pipes, nozzles and apparatus): Sushruta Samhita Cikitsasthana Chapter 35 →</a>
 </div>
-
-
-
-
 
 ---
 

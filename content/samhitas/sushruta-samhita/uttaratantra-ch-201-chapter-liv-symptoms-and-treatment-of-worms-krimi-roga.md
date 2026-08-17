@@ -94,7 +94,11 @@ See Chapter xxiv.,—Sutra Sthāna.
 
 [4]:
 
+
+<blockquote className="ayur-shloka">
 Dallana explains “Pattura” as Śephālikā, but Śivadāśa lakes it to be Śālinca.
+</blockquote>
+
 
 [5]:
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Concluding Remarks and References within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 76. 7. Concluding Remarks and References
+## 7. Concluding Remarks and References
 
 Minerals and Metals in Sanskrit literature
 
@@ -35,7 +35,7 @@ VII-82 Shi lappadikaram (The Ankle Bracelet) by Prince Ilango Adigal, translated
 
 ---
 
-## 77. 6. Origin of Pearls: The Mythological Theory
+## 6. Origin of Pearls: The Mythological Theory
 
 Minerals and Metals in Sanskrit literature
 
@@ -49,7 +49,7 @@ VII-76 The best pearls which (originated and still) orginate in water drops fall
 
 ---
 
-## 79. 3. Minerals and Metals according to Yajnavalkya and Patanjali
+## 3. Minerals and Metals according to Yajnavalkya and Patanjali
 
 Minerals and Metals in Sanskrit literature
 
@@ -63,7 +63,7 @@ VIII-9 Patanjali wrote on metallurgy and his Lohasastra has been partially quote
 
 ---
 
-## 80. Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
+## Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
 
 Minerals and Metals in Sanskrit literature
 
@@ -71,13 +71,9 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
 
-- Sub-Contents: (+ / -)
-
 [Full title: Non-gem Minerals and Metals in ancient texts culminating to Rasashastra]
 
 ---
-
-
 
 ---
 
@@ -86,10 +82,6 @@ Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">4. Patanjali’s Successor: Nagarjuna (the alchemist): Minerals And Metals In Sanskrit Literature Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

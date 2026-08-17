@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Purification of Mriddara-shringaka within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 126. Part 2 - Purification of Mriddara-shringaka
+## Part 2 - Purification of Mriddara-shringaka
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -29,7 +29,7 @@ This concludes ‘Purification of Mriddara-shringaka’ included in Bhudeb Mooke
 
 ---
 
-## 127. Chapter XXV - Uparasa (25): Bhunaga (earthworm)
+## Chapter XXV - Uparasa (25): Bhunaga (earthworm)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -39,15 +39,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XXV - Uparasa (25): Bhunaga (earthworm)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (25): Bhunaga (earthworm)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 128. Part 1 - Characteristics of Bhunaga (earthworm)
+## Part 1 - Characteristics of Bhunaga (earthworm)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -65,7 +63,7 @@ This concludes ‘Characteristics of Bhunaga (earthworm)’ included in Bhudeb M
 
 ---
 
-## 129. Part 2 - Purification of earthworms
+## Part 2 - Purification of earthworms
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -83,7 +81,7 @@ This concludes ‘Purification of earthworms’ included in Bhudeb Mookerjee Ras
 
 ---
 
-## 130. Notes
+## Notes
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -93,15 +91,11 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Notes
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Notes’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
-
-
 
 ---
 
@@ -110,10 +104,6 @@ This concludes ‘Notes’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: 
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">Extraction of essence from earthworm: Rasa Jala Nidhi Volume 2 Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

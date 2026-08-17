@@ -13,64 +13,62 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Sushruta Samhita Nidanasthana Chapter 1](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch1)
+### [General Discourse: Sushruta Samhita Nidanasthana Chapter 1](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Sushruta Samhita Nidanasthana.
 
-### 2. [Diagnosis of diseases of nervous system: Sushruta Samhita Nidanasthana Chapter 2](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch2)
+### [Diagnosis of diseases of nervous system: Sushruta Samhita Nidanasthana Chapter 2](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch2)
 **Overview**: Detailed classical discussion on Diagnosis of diseases of nervous system within Sushruta Samhita Nidanasthana.
 
-### 3. [Diagnosis of urinary calculus: Sushruta Samhita Nidanasthana Chapter 3](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch3)
+### [Diagnosis of urinary calculus: Sushruta Samhita Nidanasthana Chapter 3](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch3)
 **Overview**: Detailed classical discussion on Diagnosis of urinary calculus within Sushruta Samhita Nidanasthana.
 
-### 4. [Diagnosis of haemorrhoids: Sushruta Samhita Nidanasthana Chapter 4](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch4)
+### [Diagnosis of haemorrhoids: Sushruta Samhita Nidanasthana Chapter 4](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch4)
 **Overview**: Detailed classical discussion on Diagnosis of haemorrhoids within Sushruta Samhita Nidanasthana.
 
-### 5. [Diagnosis of anal fistula: Sushruta Samhita Nidanasthana Chapter 5](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch5)
+### [Diagnosis of anal fistula: Sushruta Samhita Nidanasthana Chapter 5](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch5)
 **Overview**: Detailed classical discussion on Diagnosis of anal fistula within Sushruta Samhita Nidanasthana.
 
-### 6. [Diagnosis of leprosy and other skin diseases: Sushruta Samhita Nidanasthana Chapter 6](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch6)
+### [Diagnosis of leprosy and other skin diseases: Sushruta Samhita Nidanasthana Chapter 6](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch6)
 **Overview**: Detailed classical discussion on Diagnosis of leprosy and other skin diseases within Sushruta Samhita Nidanasthana.
 
-### 7. [Diagnosis of enlargement of the abdomen: Sushruta Samhita Nidanasthana Chapter 7](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch7)
+### [Diagnosis of enlargement of the abdomen: Sushruta Samhita Nidanasthana Chapter 7](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch7)
 **Overview**: Detailed classical discussion on Diagnosis of enlargement of the abdomen within Sushruta Samhita Nidanasthana.
 
-### 8. [Diagnosis of diabetes: Sushruta Samhita Nidanasthana Chapter 8](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch8)
+### [Diagnosis of diabetes: Sushruta Samhita Nidanasthana Chapter 8](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch8)
 **Overview**: Detailed classical discussion on Diagnosis of diabetes within Sushruta Samhita Nidanasthana.
 
-### 9. [Diagnosis of abscess: Sushruta Samhita Nidanasthana Chapter 9](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch9)
+### [Diagnosis of abscess: Sushruta Samhita Nidanasthana Chapter 9](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch9)
 **Overview**: Detailed classical discussion on Diagnosis of abscess within Sushruta Samhita Nidanasthana.
 
-### 10. [Diagnosis of foetal obstruction: Sushruta Samhita Nidanasthana Chapter 10](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch10)
+### [Diagnosis of foetal obstruction: Sushruta Samhita Nidanasthana Chapter 10](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch10)
 **Overview**: Detailed classical discussion on Diagnosis of foetal obstruction within Sushruta Samhita Nidanasthana.
 
-### 11. [Diagnosis of erysipelas, sinus and mammae: Sushruta Samhita Nidanasthana Chapter 11](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch11)
+### [Diagnosis of erysipelas, sinus and mammae: Sushruta Samhita Nidanasthana Chapter 11](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch11)
 **Overview**: Detailed classical discussion on Diagnosis of erysipelas, sinus and mammae within Sushruta Samhita Nidanasthana.
 
-### 12. [Diagnosis of glands, scrofula, tumors and goitre: Sushruta Samhita Nidanasthana Chapter 12](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch12)
+### [Diagnosis of glands, scrofula, tumors and goitre: Sushruta Samhita Nidanasthana Chapter 12](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch12)
 **Overview**: Detailed classical discussion on Diagnosis of glands, scrofula, tumors and goitre within Sushruta Samhita Nidanasthana.
 
-### 13. [Diagnosis of hernia, tumours, elephantiasis, etc: Sushruta Samhita Nidanasthana Chapter 13](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch13)
+### [Diagnosis of hernia, tumours, elephantiasis, etc: Sushruta Samhita Nidanasthana Chapter 13](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch13)
 **Overview**: Detailed classical discussion on Diagnosis of hernia, tumours, elephantiasis, etc within Sushruta Samhita Nidanasthana.
 
-### 14. [Diagnosis of diseases of the penis: Sushruta Samhita Nidanasthana Chapter 14](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch14)
+### [Diagnosis of diseases of the penis: Sushruta Samhita Nidanasthana Chapter 14](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch14)
 **Overview**: Detailed classical discussion on Diagnosis of diseases of the penis within Sushruta Samhita Nidanasthana.
 
-### 15. [Diagnosis of fractures-dislocations: Sushruta Samhita Nidanasthana Chapter 15](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch15)
+### [Diagnosis of fractures-dislocations: Sushruta Samhita Nidanasthana Chapter 15](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch15)
 **Overview**: Detailed classical discussion on Diagnosis of fractures-dislocations within Sushruta Samhita Nidanasthana.
 
-### 16. [Diagnosis of minor diseases: Sushruta Samhita Nidanasthana Chapter 16](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch16)
+### [Diagnosis of minor diseases: Sushruta Samhita Nidanasthana Chapter 16](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch16)
 **Overview**: Detailed classical discussion on Diagnosis of minor diseases within Sushruta Samhita Nidanasthana.
 
-### 17. [Diagnosis of diseases of mouth: Sushruta Samhita Nidanasthana Chapter 17](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch17)
+### [Diagnosis of diseases of mouth: Sushruta Samhita Nidanasthana Chapter 17](/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch17)
 **Overview**: Detailed classical discussion on Diagnosis of diseases of mouth within Sushruta Samhita Nidanasthana.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Plate I
+## Plate I
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -84,7 +82,7 @@ Right: Vital points (marmas) in the arm (outer side).
 
 ---
 
-## 2. Title Page
+## Title Page
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -123,7 +121,7 @@ No. 10, KASHI GHOSE’S LANE.
 
 ---
 
-## 3. Preface
+## Preface
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -161,9 +159,10 @@ November , 1911.
 
 Kunja Lal Bhishagratna.
 
-[1]:
 
-Thus:—
+<div className="footnote-card"><strong>[1]</strong> Thus:—</div>
+
+
 
 (a) “athato dirdhañjivitiyamadhyayaṃ”—Charaka Samhita.
 
@@ -173,7 +172,7 @@ Thus:—
 
 ---
 
-## 4. Plate II
+## Plate II
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -187,7 +186,7 @@ Right: Vital points (marmas) in the back of the thigh and the leg.
 
 ---
 
-## 5. Introduction
+## Introduction
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -334,23 +333,24 @@ A dispassionate examination of these facts (and such as can be multiplied to any
 
 Lastly it is our prayer, that if Western Medical Science was ever anywise, directly or indirectly, benefited by the ancient Medical Science of the Hindus, it is but meet and fair that the former should come forward to render all possible aid to her parent Science, and that as it is almost dying now for want of aid and succour we look hopefully to our present benign Government in whose power lies the means of its complete regeneration.
 
-[1]:
 
-Berdoe says:—
+<div className="footnote-card"><strong>[1]</strong> Berdoe says:—</div>
+
+
 
 “What is known as the Humoral Pathology formed the most essential part of the system of the Dogmatics. Humoral Pathology explains all diseases as caused by the mixture of the four cardinal humours, viz., the blood, bile, mucus or phlegm and water. Hippocrates first leaned towards it, but it was Plato who devoloped it. The stomach is the common source of all these humours. When diseases develop, they attract humours. The source of the bile is the liver, of the mucus the head, of the water the spleen. Bile causes catarrhs and rheumatism, dropsy depends on the spleen.”
 
 Be it observed that among the humours of Hippocrates there is no place for Vata although in point of fact both his Physiology and Pathology are to be traced to the “Tri-dhatu” of Ayurveda. The secret of this anomaly is that the theory of Vata was found to be a complicated one and Hipprocates, not being able to comprehend its original import, left it out and cautiously introduced, in its stead, his own theory of “water”. Sowe find “Humoral Pathology is not of Indian origin; neither it is the same which the Indian Rishis of Rigveda developed under the name of Tri-dhatu.” It is simply an imitation of Susruta who introduced blood (shoṇitacaturthaiḥ) as the fourth factor in the genesis of diseases. But the borrower, in his interpretation of Susruta, had made a mess of it. He retained blood, but substituted “water” in place of Vata, the most important of the three, for reasons best known to him.
 
-[2]:
 
-Susruta recommends dissection on dead human bodies and suggests that it is only required of those who will practise surgery and that students of medicine can do without it. Herophilus practised dissection on living bodies and with the object of practising medicine successfully, but it soon fell into disrepute and did not at all influence the art of Medicine. He was condemned even by his own pupil Philinus of cos who declared that all the Anatomy his vivisecting master had taught him had not helped him in the least in the cure of his patients. Such indeed was the fate of vivisection for which Europe now takes pride.
+<div className="footnote-card"><strong>[2]</strong> Susruta recommends dissection on dead human bodies and suggests that it is only required of those who will practise surgery and that students of medicine can do without it. Herophilus practised dissection on living bodies and with the object of practising medicine successfully, but it soon fell into disrepute and did not at all influence the art of Medicine. He was condemned even by his own pupil Philinus of cos who declared that all the Anatomy his vivisecting master had taught him had not helped him in the least in the cure of his patients. Such indeed was the fate of vivisection for which Europe now takes pride.</div>
+
+
 
 But Susruta’s, Avagharshana is now considered by many as the only perfect mode of dissection ever known. It is with the help of this method of dissection that the layers of epidermis and dermis could be discovered and blood-vessels with their minute branches could be counted to be as many as thirty millions. Not only this, but also in the opinion of several European savants, Susruta still stands as a model of surgery and European surgery has borrowed many things from Susruta and has yet many things to learn.
 
-[3]:
 
-Vide—Baraha Mihir’s Brihat Samhita Book, II. Chapter lxxv Verses 1-3.
+<div className="footnote-card"><strong>[3]</strong> Vide—Baraha Mihir’s Brihat Samhita Book, II. Chapter lxxv Verses 1-3.</div>
 
 ---
 

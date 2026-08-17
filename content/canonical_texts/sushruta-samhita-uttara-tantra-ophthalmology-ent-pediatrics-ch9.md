@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms of diseases of the head within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. Chapter XXV - Symptoms of diseases of the head
+## Chapter XXV - Symptoms of diseases of the head
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -59,17 +59,21 @@ The disease of the head in which a violent and excruciating pain of a piercing o
 
 Thus ends the twenty-fifth chapter in the Uttara Tantra of the Sushruta Samhita which deals with the symptoms of the diseases of the head.
 
-[1]:
 
-In place of “śirogalaṃ” some read “śiro bhavet”. This reading is adopted by Mādhava. There seems to be no difference in the meaning?s? the word “śiras” (head) may include both the palate and the throat.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> In place of “śirogalaṃ” some read “śiro bhavet”. This reading is adopted by Mādhava. There seems to be no difference in the meaning?s? the word “śiras” (head) may include both the palate and the throat.
+</blockquote>
 
-[2]:
 
-Dallana here comments that the term “Vasā” means all the fatty substances in the body, e.g., the brain substance, Medas, semen, Majjan, etc. There is a variant which is not recognised by Gayi. That reading is “asṛgvasāśleṣmasamīraṇānāṃ” (i.e., by the waste) of blood, Vasā Kapha and Vāyu. This, however, seems to be the better reading.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Dallana here comments that the term “Vasā” means all the fatty substances in the body, e.g., the brain substance, Medas, semen, Majjan, etc. There is a variant which is not recognised by Gayi. That reading is “asṛgvasāśleṣmasamīraṇānāṃ” (i.e., by the waste) of blood, Vasā Kapha and Vāyu. This, however, seems to be the better reading.
+</blockquote>
 
 ---
 
-## 28. Chapter XXVII - Specific features of nine malignant Grahas
+## Chapter XXVII - Specific features of nine malignant Grahas
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -139,17 +143,21 @@ Libations of clarified butter with the drugs of the Sarva-gandha and Sarvaushadh
 
 Thus ends the twenty-seventh chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the specific features of an attack by the nine (malignant) Grahas.
 
-[1]:
 
-By the word “vihaṅga” (lit. a bird) in “vihaṅgagandhiḥ” is here meant meat-eating aquatic birds.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> By the word “vihaṅga” (lit. a bird) in “vihaṅgagandhiḥ” is here meant meat-eating aquatic birds.
+</blockquote>
 
-[2]:
 
-The drugs of the Elādi group are known as Sarva-gandha. Sarvaushadhi drugs here mean Yava, Dhānya, Tila, etc.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The drugs of the Elādi group are known as Sarva-gandha. Sarvaushadhi drugs here mean Yava, Dhānya, Tila, etc.
+</blockquote>
 
 ---
 
-## 29. Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)
+## Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -157,11 +165,7 @@ The Sushruta Samhita is the most representative work of the Hindu system of m...
 
 Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -170,10 +174,6 @@ Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of diseases of the head: Sushruta Samhita Uttara Tantra Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 1. Concept of pramanas in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 38. 1. Concept of pramanas in Ayurveda
+## 1. Concept of pramanas in Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -37,8 +37,6 @@ karanata from tad-bhava bhavita, It is arriving at a conclusion as a result of a
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ karanata from tad-bhava bhavita, It is arriving at a conclusion as a result of a
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch35" className="text-emerald-400 hover:underline flex items-center font-medium">2. Pramanas and Diagnosis: Influence Of Nyaya Vaisesika On Ayurveda Chapter 35 →</a>
 </div>
-
-
-
-
 
 ---
 

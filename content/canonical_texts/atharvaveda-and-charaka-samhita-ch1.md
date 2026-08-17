@@ -24,7 +24,7 @@ description: "study on diseases and remedies found in the Atharvaveda and Charak
 
 ---
 
-## 5. Bharadvāja (Āyurveda scholar)
+## Bharadvāja (Āyurveda scholar)
 
 Bharadvāja (Āyurveda scholar)
 
@@ -40,7 +40,7 @@ Bharadvāja—IV (900 BC)–Kumāraśira Bharadvāja participated in the debate 
 
 ---
 
-## 7. Āyurveda and the Vedas
+## Āyurveda and the Vedas
 
 Āyurveda and the Vedas
 
@@ -110,65 +110,97 @@ Vāyu also occupies an important place among the medical deities. In the Vedas, 
 
 In the Ṛgveda, the heavens and the earth are separated by Ṛbhus and descriptions of handicrafts are found. The Ṛbhus provided the youth of their worn-out parents. Descriptions of Ṛbhus are found only in Vedas, not in Āyurveda. Reverence and faith in the gods for healing was largely a symbolic sign in the thinking of Indian culture that the maximum benefit of human beings is possible through the proper use and cooperation of natural forces.
 
-[1]:
 
-‘iha khalu āyurvedo nāma yadupāṅgamatharvavedasya anutpādyeva prajāḥ ślokaśatasahasramadhyāyasahasraṃ kṛtavān svayambhūḥ |’ (S. Sū–1/5); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 4. ‘svayambhūrbrahmā prajāḥ sisṛkṣuḥ prajānāṃ paripālanārtham āyurvedameva agre'sṛjata sarvāvit tato viśvāni bhūtāni |’ (Kā. Vi. –1/10); Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, trans. Satyapāla Bhiṣgāchārya, Varanasi, Chaukhambha Sanskrit Sansthan, 2018, pp. 89. ‘brahmā smṛtvā''yuṣyo vedaṃ prajāpatimajigrahat |’ (Aṣṭā. H Sū. –1/3); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, p. 4.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> ‘iha khalu āyurvedo nāma yadupāṅgamatharvavedasya anutpādyeva prajāḥ ślokaśatasahasramadhyāyasahasraṃ kṛtavān svayambhūḥ |’ (S. Sū–1/5); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 4. ‘svayambhūrbrahmā prajāḥ sisṛkṣuḥ prajānāṃ paripālanārtham āyurvedameva agre'sṛjata sarvāvit tato viśvāni bhūtāni |’ (Kā. Vi. –1/10); Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, trans. Satyapāla Bhiṣgāchārya, Varanasi, Chaukhambha Sanskrit Sansthan, 2018, pp. 89. ‘brahmā smṛtvā''yuṣyo vedaṃ prajāpatimajigrahat |’ (Aṣṭā. H Sū. –1/3); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. I, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, p. 4.
+</blockquote>
 
-[2]:
 
-Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 55-56.
 
-[3]:
 
-Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 6.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 55-56.
+</blockquote>
 
-[4]:
 
-According to Suśruta–Śalya Cikitsā, Śālākya Cikitsā, Kāya Cikitsā, Bhūtavidyā, Kaumārbhṛtya, Agada tantra, Rasāyana, Bājīkaraṇa. According to Caraka–Kāya Cikitsā, Śālākya, Ślyāpahartṛka, Biṣagara- Bairodhika Praśamana, Bhūtavidyā, Kaumārbhṛtya, Rasāyana, Bājīkaraṇa. According to Aṣṭāṅga Hṛdayaṃ–Kāya Cikitsā, Bāla Cikitsā, Graha Cikitsā, Ūrdhvāṅga Cikitsā, Śalya Cikitsā, Daṃṣṭrā Cikitsā, Jarā Cikitsā, Vṛṣa Cikitsā.
 
-[5]:
 
-Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 60.
+<div className="footnote-card"><strong>[3]</strong> Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 6.</div>
 
-[6]:
 
-Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 66.
 
-[7]:
 
-ṚV.  -II/33/1-15; Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 1, Delhi, Manoj Publication, 2012, pp. 454-457.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> According to Suśruta–Śalya Cikitsā, Śālākya Cikitsā, Kāya Cikitsā, Bhūtavidyā, Kaumārbhṛtya, Agada tantra, Rasāyana, Bājīkaraṇa. According to Caraka–Kāya Cikitsā, Śālākya, Ślyāpahartṛka, Biṣagara- Bairodhika Praśamana, Bhūtavidyā, Kaumārbhṛtya, Rasāyana, Bājīkaraṇa. According to Aṣṭāṅga Hṛdayaṃ–Kāya Cikitsā, Bāla Cikitsā, Graha Cikitsā, Ūrdhvāṅga Cikitsā, Śalya Cikitsā, Daṃṣṭrā Cikitsā, Jarā Cikitsā, Vṛṣa Cikitsā.
+</blockquote>
 
-[8]:
 
-Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, pp. 65-66.
 
-[9]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurvedacharya Satyasekhar Bhattacharya (eds.), Carak- Samhita (Vol. II), trans. Kaviraj Jasodanandan Sirkar, Kolkata, Deepayan, 2013, pp. 210-211.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 60.
+</blockquote>
 
-[10]:
 
-Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 65-67.
 
-[11]:
 
-Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 23-24.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 66.
+</blockquote>
 
-[12]:
 
-C. Sū.  & Ci; Caraka Saṃhitā Vol. I & III, Kaviraj Bajendrachandra Nag (ed.), Kolkata, Navapatra Prakashan, 2013, pp. 1-19, 1-34.
 
-[13]:
 
-Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 42-43.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> ṚV.  -II/33/1-15; Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 1, Delhi, Manoj Publication, 2012, pp. 454-457.
+</blockquote>
 
-[14]:
 
-Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 67-68.
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, pp. 65-66.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Baidyacharya Kalikinkar Sensarma & Ayurvedacharya Satyasekhar Bhattacharya (eds.), Carak- Samhita (Vol. II), trans. Kaviraj Jasodanandan Sirkar, Kolkata, Deepayan, 2013, pp. 210-211.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 65-67.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 23-24.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> C. Sū.  & Ci; Caraka Saṃhitā Vol. I & III, Kaviraj Bajendrachandra Nag (ed.), Kolkata, Navapatra Prakashan, 2013, pp. 1-19, 1-34.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 42-43.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 67-68.
+</blockquote>
 
 ---
 
-## 8. Ātreya (Āyurveda scholar)
+## Ātreya (Āyurveda scholar)
 
 Ātreya (Āyurveda scholar)
 
@@ -178,7 +210,7 @@ Bhikṣu Ātreya (700 BC)—He was a different person. He was a Buddhist, a repu
 
 ---
 
-## 9. Dhanvantari (Āyurveda scholar)
+## Dhanvantari (Āyurveda scholar)
 
 Dhanvantari (Āyurveda scholar)
 
@@ -190,8 +222,6 @@ There are three Dhanvantari and there are different books like–First Dhanvanta
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -199,10 +229,6 @@ There are three Dhanvantari and there are different books like–First Dhanvanta
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Kāśyapa and Jīvaka (Āyurveda scholars): Atharvaveda And Charaka Samhita Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

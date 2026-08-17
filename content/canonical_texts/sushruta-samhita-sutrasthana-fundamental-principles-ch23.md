@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Questions concerning wounds within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 29. Chapter XXI - Questions concerning wounds
+## Chapter XXI - Questions concerning wounds
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -251,25 +251,25 @@ A concourse of deranged humours, affecting and appearing in a particular part of
 
 Thus ends the twenty-first chapter of the Sutrasthana in the Sushruta Samhita which treats of investigation into the nature ot the humours giving rise to an ulcer.
 
-[1]:
 
-From this should be inferred that motion and smell are the natural attributes of the vital Vayu, heat and burning are those of Pitta, and union and integration are those of Kapha.
+<div className="footnote-card"><strong>[1]</strong> From this should be inferred that motion and smell are the natural attributes of the vital Vayu, heat and burning are those of Pitta, and union and integration are those of Kapha.</div>
 
-[2]:
 
-The moon laves the earth and imparts to it the vitalising principle with her own ambrosial light. The sun draws off the moisture in virtue of his own attractive force, and the Vayu distributes the heat and moisture over its surface.
 
-[3]:
 
-The analogy is based on the heating (and metabolic) actions of Pitta, and does not extend to its liquid secretion (bile). But since the former attributes permeate in its entirety, it is designated the Internal fire.
+<div className="footnote-card"><strong>[2]</strong> The moon laves the earth and imparts to it the vitalising principle with her own ambrosial light. The sun draws off the moisture in virtue of his own attractive force, and the Vayu distributes the heat and moisture over its surface.</div>
 
-[4]:
 
-Additional text:—Reaching down and confined in the bone-systems of the body, they produce Vidradhi (abscesses), Anushayi, ete.
+
+
+<div className="footnote-card"><strong>[3]</strong> The analogy is based on the heating (and metabolic) actions of Pitta, and does not extend to its liquid secretion (bile). But since the former attributes permeate in its entirety, it is designated the Internal fire.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Additional text:—Reaching down and confined in the bone-systems of the body, they produce Vidradhi (abscesses), Anushayi, ete.</div>
 
 ---
-
-
 
 ---
 
@@ -278,10 +278,6 @@ Additional text:—Reaching down and confined in the bone-systems of the body, t
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Knowledge of exudates of wounds: Sushruta Samhita Sutrasthana Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

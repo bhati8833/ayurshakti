@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ayurvedic manuscripts in the British Library within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Ayurvedic manuscripts in the British Library
+## Ayurvedic manuscripts in the British Library
 
 Journal of the European Ayurvedic Society
 
@@ -29,7 +29,7 @@ Roga aristaya D. Wujastyk, Sanskrit Ayurvedic Manuscripts ...l On palm leaf. In 
 
 ---
 
-## 10. Ravigupta’s Siddhasara: New Light from the Sinhala Version
+## Ravigupta’s Siddhasara: New Light from the Sinhala Version
 
 Journal of the European Ayurvedic Society
 
@@ -73,7 +73,7 @@ This is a variant of the medical formula (Nagarjuna-varti), which is said to hav
 
 ---
 
-## 11. The Origins of Ayurvedic Medicine
+## The Origins of Ayurvedic Medicine
 
 Journal of the European Ayurvedic Society
 
@@ -97,8 +97,6 @@ K.G. Zysk, The Indian Ascetic Traditions... 123 Ayurvedic medicine, therefore, o
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -106,10 +104,6 @@ K.G. Zysk, The Indian Ascetic Traditions... 123 Ayurvedic medicine, therefore, o
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">The Importance of Asceticism for the Emergence of Ayurveda: Journal Of The European Ayurvedic Society Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

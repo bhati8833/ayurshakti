@@ -32,7 +32,11 @@ Chapter 2 - The Pharmaceutics of Bristly luffa (jimutaka-kalpa)
 
 Synonyms and qualities
 
+
+<blockquote className="ayur-shloka">
 3. Listen to the exposition of the pharmaceutics of bristly luffa [jīmūtaka], making use of its fruit and blossom. Garagari [garāgarī], Veni [veṇī] and Devatadaka [devatāḍaka] are its synonyms.
+</blockquote>
+
 
 4. Bristly luffa is curative of each of the three morbid humors when combined with appropriate adjuvants. It should be administered in fever, dyspnea, hiccup and similar other disorders
 

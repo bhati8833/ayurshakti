@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for indigestion (20): Sandipana rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 317. Part 22 - Treatment for indigestion (20): Sandipana rasa
+## Part 22 - Treatment for indigestion (20): Sandipana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for indigestion (20): Sandipana rasa’ included in 
 
 ---
 
-## 318. Part 18 - Treatment for indigestion (16): Lavangadi rasa
+## Part 18 - Treatment for indigestion (16): Lavangadi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for indigestion (16): Lavangadi rasa’ included in 
 
 ---
 
-## 319. Part 23 - Treatment for indigestion (21): Sarvamayaghna rasa
+## Part 23 - Treatment for indigestion (21): Sarvamayaghna rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for indigestion (21): Sarvamayaghna rasa’ included
 
 ---
 
-## 320. Part 24 - Treatment for indigestion (22): Shankha rasa
+## Part 24 - Treatment for indigestion (22): Shankha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for indigestion (22): Shankha rasa’ included in Bh
 
 ---
 
-## 321. Part 26 - Treatment for indigestion (24): Ajirnari rasa
+## Part 26 - Treatment for indigestion (24): Ajirnari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for indigestion (24): Ajirnari rasa’ included in B
 
 ---
 
-## 322. Part 27 - Treatment for indigestion (25): Bhaskara rasa
+## Part 27 - Treatment for indigestion (25): Bhaskara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for indigestion (25): Bhaskara rasa’ included in B
 
 ---
 
-## 323. Part 30 - Treatment for indigestion (28): Rasanagadi rasa
+## Part 30 - Treatment for indigestion (28): Rasanagadi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for indigestion (28): Rasanagadi rasa’ included in
 
 ---
 
-## 324. Part 29 - Treatment for indigestion (27): Mahodadhi rasa
+## Part 29 - Treatment for indigestion (27): Mahodadhi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for indigestion (27): Mahodadhi rasa’ included in 
 
 ---
 
-## 325. Part 31 - Treatment for indigestion (29): Badavagni rasa
+## Part 31 - Treatment for indigestion (29): Badavagni rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for indigestion (29): Badavagni rasa’ included in 
 
 ---
 
-## 326. Part 28 - Treatment for indigestion (26): Pradipana rasa
+## Part 28 - Treatment for indigestion (26): Pradipana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for indigestion (26): Pradipana rasa’ included in 
 
 ---
 
-## 327. Part 32 - Treatment for indigestion (30): Ghrita-mamsashi rasa
+## Part 32 - Treatment for indigestion (30): Ghrita-mamsashi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for indigestion (30): Ghrita-mamsashi rasa’ includ
 
 ---
 
-## 328. Part 33 - Treatment for indigestion (31): Kravyada rasa
+## Part 33 - Treatment for indigestion (31): Kravyada rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -221,9 +221,10 @@ Part 33 - Treatment for indigestion (31): Kravyada rasa
 
 Four tolas of mercury, eight tolas, each, of sulphur, copper, and iron are to be mixed together, and heated in an iron pot by means of mild heat. When melted, it is to be thrown upon eranda leaves and reduced to parpati, (see pag 262) which is to be boiled with four hundred tolas of lime juice, kept in another iron pot, heated by mild heat. When dried up, the compound is to be subjected to bhavana with two hundred tolas, each, of the decoctions of pancha-kola and amlabetasa. It is then to be mixed with sixteen tolas of borax, eight tolas of vira salt, and sixteen tolas of powdered maricha, and subjected to bhavana, for seven times, with chanakamla[1]. Pills are then to be made, twelve raktis in weight, each. One such pill is to be taken with butter milk, mixed with rock-salt. This medicine digests, in six hours, such heavy food as meat, pudding, etc- It also cures gulma, enlargement of spleen, udara-roga, colic, grahani, and diarrhoea.
 
-[1]:
 
-Chanakamla is a gruel prepared by boiled chanaka grams being immersed in water exactly in the same way as kanji (see page 381. Vol, 3)
+<div className="footnote-card"><strong>[1]</strong> Chanakamla is a gruel prepared by boiled chanaka grams being immersed in water exactly in the same way as kanji (see page 381. Vol, 3)</div>
+
+
 
 Conclusion:
 
@@ -231,7 +232,7 @@ This concludes ‘Treatment for indigestion (31): Kravyada rasa’ included in B
 
 ---
 
-## 329. Part 34 - Treatment for indigestion (32): Virahradrabhraka
+## Part 34 - Treatment for indigestion (32): Virahradrabhraka
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -249,7 +250,7 @@ This concludes ‘Treatment for indigestion (32): Virahradrabhraka’ included i
 
 ---
 
-## 330. Part 35 - Treatment for indigestion (33): Vaishvanara-pottali rasa
+## Part 35 - Treatment for indigestion (33): Vaishvanara-pottali rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -267,7 +268,7 @@ This concludes ‘Treatment for indigestion (33): Vaishvanara-pottali rasa’ in
 
 ---
 
-## 331. Part 36 - Treatment for indigestion (34): Vadavanani rasa
+## Part 36 - Treatment for indigestion (34): Vadavanani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -285,8 +286,6 @@ This concludes ‘Treatment for indigestion (34): Vadavanani rasa’ included in
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -294,10 +293,6 @@ This concludes ‘Treatment for indigestion (34): Vadavanani rasa’ included in
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for indigestion (36): Dvitiya-kravyada rasa: Rasa Jala Nidhi Volume 4 Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

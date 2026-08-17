@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Notes on the importance of Sanskrit names of medicinal plants within Indian Medicinal Plants. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Notes on the importance of Sanskrit names of medicinal plants
+## Notes on the importance of Sanskrit names of medicinal plants
 
 Indian Medicinal Plants
 
@@ -53,8 +53,6 @@ All the above extracts will show that the importance of vernacular names of plan
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ All the above extracts will show that the importance of vernacular names of plan
   <a href="/articles/indian-medicinal-plants" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/indian-medicinal-plants-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Dilleniaceae family: Indian Medicinal Plants Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

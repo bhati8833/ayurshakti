@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Life-cycles of Elephants within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. Chapter 5 - The Life-cycles of Elephants
+## Chapter 5 - The Life-cycles of Elephants
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -210,29 +210,30 @@ Having performed many duties the elephant goes to heaven in his hundred and twen
 
 Elephant is considered as wild animal and the same as a domestic animal. To bringing the elephant from forest is a strenuous work. Next chapter introduce how to catch the wild elephants.
 
-[1]:
 
-Elephant. M.S. Joy. 8. 82.
+<div className="footnote-card"><strong>[1]</strong> Elephant. M.S. Joy. 8. 82.</div>
 
-[2]:
 
-Matangalila. 5.5. 29.
 
-[3]:
 
-Matangalila. 5.15. 67.
+<div className="footnote-card"><strong>[2]</strong> Matangalila. 5.5. 29.</div>
 
-[4]:
 
-Ibid. 16. 33.
 
-[5]:
 
-Matangalila. 5. 23. 26.
+<div className="footnote-card"><strong>[3]</strong> Matangalila. 5.15. 67.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid. 16. 33.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Matangalila. 5. 23. 26.</div>
 
 ---
-
-
 
 ---
 
@@ -241,10 +242,6 @@ Matangalila. 5. 23. 26.
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">The Uses and Values of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

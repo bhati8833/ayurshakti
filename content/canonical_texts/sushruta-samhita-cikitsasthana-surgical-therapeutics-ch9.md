@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of Hemorrhoids within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Chapter VI - The medical treatment of Hemorrhoids
+## Chapter VI - The medical treatment of Hemorrhoids
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -99,53 +99,60 @@ Medicated Ghritas, appetising drugs, electuaries, medicinal wines, Ayaskriti and
 
 Thus ends the sixth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the medical treatment of Arshas.
 
-[1]:
 
-Such as the decoction of the drugs of the Bhadra-darvadi (Vayu- subduing) and Pippalyadi (Dipaniya) groups. This Ghrita should be prescribed in a Vataja Arshas.
+<div className="footnote-card"><strong>[1]</strong> Such as the decoction of the drugs of the Bhadra-darvadi (Vayu- subduing) and Pippalyadi (Dipaniya) groups. This Ghrita should be prescribed in a Vataja Arshas.</div>
 
-[2]:
 
-The epithet “Bhadra-darvadi-pippallyadi” in the phrase “Bhadra- darvadi-pippallyadi-sarpih” seems to be included into the body of the text through an accident. In our opinion, it is only an annotation of the phrase “Dipaniya-Vata-hara-siddha” occurring in the last sentence.—Ed.
 
-[3]:
 
-The Kalkas of the Pippallyadi group should also be taken in the preparation of the two kinds of medicated clarified butter to be used in Raktarshas, and Pittarshas.—Dallana.
+<div className="footnote-card"><strong>[2]</strong> The epithet “Bhadra-darvadi-pippallyadi” in the phrase “Bhadra- darvadi-pippallyadi-sarpih” seems to be included into the body of the text through an accident. In our opinion, it is only an annotation of the phrase “Dipaniya-Vata-hara-siddha” occurring in the last sentence.—Ed.</div>
 
-[4]:
 
-In a preponderance of Vayu and Kapha, Takra should be taken as diet; whereas milk should be taken in a case of the preponderance of vitiated blood.
 
-[5]:
 
-During the period when the above mentioned alkaline preparations are used, the diet of the patient should consist of clarified butter, milk and meat-soup for fear of the loss of the Ojo-Dhatu.
+<div className="footnote-card"><strong>[3]</strong> The Kalkas of the Pippallyadi group should also be taken in the preparation of the two kinds of medicated clarified butter to be used in Raktarshas, and Pittarshas.—Dallana.</div>
 
-[6]:
 
-Some are of opinion that one Tula weight of each of the drugs should be taken; but Gayadasa does not say so.
 
-[7]:
 
-Charaka also reads this under the name of Abhayarishta.
+<div className="footnote-card"><strong>[4]</strong> In a preponderance of Vayu and Kapha, Takra should be taken as diet; whereas milk should be taken in a case of the preponderance of vitiated blood.</div>
 
-[8]:
 
-Experienced physicians recommend two and a half Pala weight of Indra-Varuni in lieu of five Palas for its astringent taste. Charaka, however, recommends only “half a Pala.”
 
-[9]:
 
-Some are of opinion that the Rishis do not read this line. But as Gayadasa explains it, so Dallana, he tells us, also does the same.
+<div className="footnote-card"><strong>[5]</strong> During the period when the above mentioned alkaline preparations are used, the diet of the patient should consist of clarified butter, milk and meat-soup for fear of the loss of the Ojo-Dhatu.</div>
 
-[10]:
 
-A physician should apply this medicine after a due consideration and according to the physical condition of the patient.
 
-[11]:
 
-Boiled with sixteen times of water in the event of the Bhallataka being dry, otherwise with eight times of water only.
+<div className="footnote-card"><strong>[6]</strong> Some are of opinion that one Tula weight of each of the drugs should be taken; but Gayadasa does not say so.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Charaka also reads this under the name of Abhayarishta.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Experienced physicians recommend two and a half Pala weight of Indra-Varuni in lieu of five Palas for its astringent taste. Charaka, however, recommends only “half a Pala.”</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Some are of opinion that the Rishis do not read this line. But as Gayadasa explains it, so Dallana, he tells us, also does the same.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> A physician should apply this medicine after a due consideration and according to the physical condition of the patient.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Boiled with sixteen times of water in the event of the Bhallataka being dry, otherwise with eight times of water only.</div>
 
 ---
-
-
 
 ---
 
@@ -154,10 +161,6 @@ Boiled with sixteen times of water in the event of the Bhallataka being dry, oth
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of major cutaneous affections: Sushruta Samhita Cikitsasthana Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

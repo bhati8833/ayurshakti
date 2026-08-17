@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Proper time of taking food within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Proper time of taking food
+## Proper time of taking food
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -25,7 +25,7 @@ The Ayurveda emphasizes upon moderation in food. It is also advised from very ea
 
 ---
 
-## 17. Rules of drinking water
+## Rules of drinking water
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -41,7 +41,7 @@ Effects of water drunk at the various stages of the 4 meal are as under : Beginn
 
 ---
 
-## 18. Chapter 2b - Organization of royal kitchen
+## Chapter 2b - Organization of royal kitchen
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -49,11 +49,7 @@ This is an English study of the Kshemakutuhala by Kshemasharma—an ancient Indi
 
 Chapter 2b - Organization of royal kitchen
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -62,10 +58,6 @@ Chapter 2b - Organization of royal kitchen
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Description of the Kitchen and its Utensils: Kshemakutuhala Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

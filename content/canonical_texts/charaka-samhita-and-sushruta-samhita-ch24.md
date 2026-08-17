@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Indra receives the knowledge of Āyurveda within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 79. Indra receives the knowledge of Āyurveda
+## Indra receives the knowledge of Āyurveda
 
 Charaka Samhita and Sushruta Samhita
 
@@ -27,93 +27,124 @@ In the medical texts, Indra occupies an important position as a teacher of medic
 
 Indra gradually loses his eminence from the time of the composition of the Brāhmaṇas, and the medical Saṃhitās also reflects this deterioration when he is placed after the A vins in the chain of transmission of medical science. The post-Vedic Indra is primarily a god of fertility. He gives children and crops. He has a particular interest in the welfare of children of unmarried girls. He is associated with the Maruts who bring healing medicines from waters and mountains.[20] However, he retains his position as devarāja (king of the gods) reigning in Amarāvati and remained a cult-god for a long time.[21]
 
-[1]:
 
-Ṛgveda I.53.11; VI.24.10; Atharvaveda III.11.4.
+<div className="footnote-card"><strong>[1]</strong> Ṛgveda I.53.11; VI.24.10; Atharvaveda III.11.4.</div>
 
-[2]:
 
-Ṛgveda X.161.
 
-[3]:
 
-Ṛgveda IV.30.19.
+<div className="footnote-card"><strong>[2]</strong> Ṛgveda X.161.</div>
 
-[4]:
 
-Ṛgveda IV.19.9.
 
-[5]:
 
-Ṛgveda X.161; I.53.11; 104.6, 8; VI.39.5; VIII.40.12; Atharvaveda III.11.
+<div className="footnote-card"><strong>[3]</strong> Ṛgveda IV.30.19.</div>
 
-[6]:
 
-Atharvaveda II.3.
 
-[7]:
 
-Atharvaveda V.23.1.
+<div className="footnote-card"><strong>[4]</strong> Ṛgveda IV.19.9.</div>
 
-[8]:
 
-Atharvaveda VI.111.4.
 
-[9]:
 
-Atharvaveda X.4.
+<div className="footnote-card"><strong>[5]</strong> Ṛgveda X.161; I.53.11; 104.6, 8; VI.39.5; VIII.40.12; Atharvaveda III.11.</div>
 
-[10]:
 
-Ortel, H., “Contributions from the Jāiminīya Brāhmaṇa to the History of Brāhmaṇa Literature, Part 2, Indra Cures Apālā”, Journal of the American Oriental Society, Vol. 18 (First Half), 1897, pp. 26-31.
 
-[11]:
 
-Ṛgveda VIII. 91(80).
+<div className="footnote-card"><strong>[6]</strong> Atharvaveda II.3.</div>
 
-[12]:
 
-Atharvaveda III.11.1.
 
-[13]:
 
-Ṛgveda VIII.1.12.
+<div className="footnote-card"><strong>[7]</strong> Atharvaveda V.23.1.</div>
 
-[14]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.4.
 
-[15]:
 
-Monier-Williams, p.80.
+<div className="footnote-card"><strong>[8]</strong> Atharvaveda VI.111.4.</div>
 
-[16]:
 
-Caraka Saṃhitā Sūtrasthāna 1.3-5.
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.3-5.
+<div className="footnote-card"><strong>[9]</strong> Atharvaveda X.4.</div>
 
-[18]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.7.
 
-[19]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.312.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Ortel, H., “Contributions from the Jāiminīya Brāhmaṇa to the History of Brāhmaṇa Literature, Part 2, Indra Cures Apālā”, Journal of the American Oriental Society, Vol. 18 (First Half), 1897, pp. 26-31.
+</blockquote>
 
-[20]:
 
-Hopkins, E.W., “Indra as God of Fertility”, Journal of the American Oriental Society, Vol. 36, 1916, pp. 242-266.
 
-[21]:
 
-S. Bhattacharji, The Indian Theogony, p.275.
+<div className="footnote-card"><strong>[11]</strong> Ṛgveda VIII. 91(80).</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Atharvaveda III.11.1.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Ṛgveda VIII.1.12.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.4.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Monier-Williams, p.80.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Sūtrasthāna 1.3-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.3-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Cikitsāsthāna 3.312.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Hopkins, E.W., “Indra as God of Fertility”, Journal of the American Oriental Society, Vol. 36, 1916, pp. 242-266.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> S. Bhattacharji, The Indian Theogony, p.275.</div>
 
 ---
 
-## 81. Dhanvantari (the god of the physicians)
+## Dhanvantari (the god of the physicians)
 
 Charaka Samhita and Sushruta Samhita
 
@@ -131,81 +162,113 @@ Unlike the other deities considered so far, Dhanvantari continues to be worshipp
 
 So far we have looked at the deities associated with the transmission of Āyurveda. The Saṃhitās also refer to some other deities in association with particular clinical conditions. Among these we shall consider the role of the Sun, Viṣṇu and Rudra-Śiva and that of any female deity (if any) in healing. The role of the malevolent beings in disease will also be examined.
 
-[1]:
 
-L.H. Gray, “The Indian God Dhanvantari”, Journal of the American Oriental Society, Vol. 42, 1922, pp.323-337.
+<div className="footnote-card"><strong>[1]</strong> L.H. Gray, “The Indian God Dhanvantari”, Journal of the American Oriental Society, Vol. 42, 1922, pp.323-337.</div>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.21.
 
-[3]:
 
-Suśruta Saṃhitā Uttaratantra 29.3.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 1.21.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.3.
 
-[5]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Uttaratantra 29.3.
+</blockquote>
 
-[6]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
 
-[7]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
 
-[8]:
 
-Gautama Dharmasūtra 5.10.
 
-[9]:
 
-A. Guruge, The Society of the Rāmāyaṇa, p.315.
+<div className="footnote-card"><strong>[5]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
 
-[10]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
 
-[11]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
+<div className="footnote-card"><strong>[6]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
 
-[12]:
 
-Danielou, A., The Myths and Gods of India: The Classic Work on Hindu Polytheism, Rocester, 1991, p.184.
 
-[13]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
+<div className="footnote-card"><strong>[7]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
 
-[14]:
 
-Caraka Saṃhitā Vimānasthāna 8.11.
 
-[15]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gautama Dharmasūtra 5.10.
+</blockquote>
 
-[16]:
 
-L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.
 
-[17]:
 
-A.S.Ramanatha Ayyar, “Śrīrangam Inscription of Garuḍavāhana Bhaṭṭa: Śaka 1415”, Epigraphia Indica, 24, 1937-38, pp.90-101.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> A. Guruge, The Society of the Rāmāyaṇa, p.315.
+</blockquote>
 
-[18]:
 
-“Dhavanthari Temples in Kerala” (webpage) http://www.vaikhari.org/dhanwanthary.html (accessed on 21.5.2014)
+
+
+<div className="footnote-card"><strong>[10]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Danielou, A., The Myths and Gods of India: The Classic Work on Hindu Polytheism, Rocester, 1991, p.184.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Vimānasthāna 8.11.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> L.H. Gray, “The Indian God Dhanvantari”, pp.323-337.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> A.S.Ramanatha Ayyar, “Śrīrangam Inscription of Garuḍavāhana Bhaṭṭa: Śaka 1415”, Epigraphia Indica, 24, 1937-38, pp.90-101.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> “Dhavanthari Temples in Kerala” (webpage) http://www.vaikhari.org/dhanwanthary.html (accessed on 21.5.2014)
+</blockquote>
 
 ---
 
-## 82. The Sun (Arka)
+## The Sun (Arka)
 
 Charaka Samhita and Sushruta Samhita
 
@@ -215,29 +278,34 @@ The Sun (Arka)
 
 In the Ṛgveda, there are prayers to the Sun for progeny, protection, health and joy.[1] One hymn entreats the deity to remove heart disease and jaundice.[2] There are few instances of invocation of the Sun as a deity in the Saṃhitās. The Cyāvana mantra recited during difficult labour calls upon the Sun (Arka) along with Agni, Wind, Indra and the Sea for their help in easy release of the foetus.[3] Sunlight is regarded as particularly beneficial in the treatment of skin diseases, such as, maṇḍala and sidhma types of kuṣṭha as well as leucoderma. Caraka advises exposure of the patient to the sun after application of medicated paste to the afflicted parts.[4] The few references to the Sun is perhaps because of the greater role of the Aśvins who as solar gods symbolize the sun’s healing powers.[5]
 
-[1]:
 
-S. Bhattacharji, The Indian Theogony, p.211.
+<div className="footnote-card"><strong>[1]</strong> S. Bhattacharji, The Indian Theogony, p.211.</div>
 
-[2]:
 
-Ṛgveda 1.115.1.
 
-[3]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.7.
+<div className="footnote-card"><strong>[2]</strong> Ṛgveda 1.115.1.</div>
 
-[4]:
 
-Caraka Saṃhitā Cikitsāsthāna 785-86, 89-90, 117-118, 163.
 
-[5]:
 
-S. Bhattacharji, The Indian Theogony, p.239.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Cikitsāsthāna 785-86, 89-90, 117-118, 163.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> S. Bhattacharji, The Indian Theogony, p.239.</div>
 
 ---
-
-
 
 ---
 
@@ -246,10 +314,6 @@ S. Bhattacharji, The Indian Theogony, p.239.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Viṣṇu in the Medical Texts: Charaka Samhita And Sushruta Samhita Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on A Rasashastra Motif in Mughal Painting within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 54. A Rasashastra Motif in Mughal Painting
+## A Rasashastra Motif in Mughal Painting
 
 Journal of the European Ayurvedic Society
 
@@ -51,7 +51,7 @@ Figure 3
 
 ---
 
-## 55. Paths Straight and Crooked to Indian Medical Knowledge
+## Paths Straight and Crooked to Indian Medical Knowledge
 
 Journal of the European Ayurvedic Society
 
@@ -85,7 +85,7 @@ R.P. Das, Paths Straight and Crooked... 205 article. 21 I must however point out
 
 ---
 
-## 56. Apropos Mallika
+## Apropos Mallika
 
 Journal of the European Ayurvedic Society
 
@@ -101,8 +101,6 @@ S.R. Sarma, Y. Sahai, Gushing Mercury, Fleeing Maiden 195 The maliya is one of t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -110,10 +108,6 @@ S.R. Sarma, Y. Sahai, Gushing Mercury, Fleeing Maiden 195 The maliya is one of t
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Kokkoka’s Ratirahasya translation (Part 2): Journal Of The European Ayurvedic Society Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

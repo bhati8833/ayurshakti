@@ -66,7 +66,11 @@ Thus ends the fifty-third chapter of the Uttara-Tantra in the Sushruta Samhita w
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 Here Pitta-aggravating and Vayu-aggravating causes also are intended by the word “ādi” i.e., etc. in “śītādibhiḥ” |
+</blockquote>
+
 
 [2]:
 

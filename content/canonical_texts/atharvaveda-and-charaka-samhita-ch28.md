@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5b. Kṛmi (Worms) in the Atharvaveda within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 145. 5b. Kṛmi (Worms) in the Atharvaveda
+## 5b. Kṛmi (Worms) in the Atharvaveda
 
 5b. Kṛmi (Worms) in the Atharvaveda
 
@@ -21,43 +21,7 @@ Caraka-Samhita says that it is very difficult to determine the nature of a disea
 
 There are twenty types of worms including:
 
-Yūka and
-
-Pipīlikā,
-
-Keśāda,
-
-Lomāda,
-
-Lomadvīpa,
-
-Saurasa,
-
-Audumbara and
-
-Jantumātā,
-
-Antrādā,
-
-Udarāda,
-
-Hṛdayacara,
-
-Curu,
-
-Darbhapuṣpa,
-
-Saugandhika,
-
-Mahāguda,
-
-Kakerukā,
-
-Makerukā,
-
-Lelihā,
-
-Saśūlakā and
+Yūka and, Pipīlikā,, Keśāda,, Lomāda,, Lomadvīpa,, Saurasa,, Audumbara and, Jantumātā,, Antrādā,, Udarāda,, Hṛdayacara,, Curu,, Darbhapuṣpa,, Saugandhika,, Mahāguda,, Kakerukā,, Makerukā,, Lelihā,, Saśūlakā and
 
 Sausurāda.
 
@@ -65,21 +29,7 @@ There are twenty types of worms as described in Śāraṅgadhara Saṃhitā. Amo
 
 [From Kapha]:
 
-Yūkā,
-
-Likṣā,
-
-Hṛdayodaka,
-
-Antrādā,
-
-Udarāveṣṭā,
-
-Curava,
-
-Mahāguhā,
-
-Sugandhā,
+Yūkā,, Likṣā,, Hṛdayodaka,, Antrādā,, Udarāveṣṭā,, Curava,, Mahāguhā,, Sugandhā,
 
 Darbhakusuma;
 
@@ -99,13 +49,7 @@ Keśāda;
 
 [From Purīṣa (faces)]:
 
-Makerukā,
-
-Lelihā,
-
-Slūnā,
-
-Sausurādā and
+Makerukā,, Lelihā,, Slūnā,, Sausurādā and
 
 Kakerukā.
 
@@ -157,21 +101,27 @@ In proper time the patient should be given Anuvāsana. In the same way, the oil 
 
 The treatment of parasites aims to remove them in the beginning and the causative factors for the production of parasites are to be dealt with. There are three types of treatment namely elimination therapy, Alleviation therapy and Avoidance of causative factors[23]. Apakarṣana, Prakṛti vighāta and Nidāna parivarjana -these three principles of treatment described for curing the parasite infestation are also applicable for the cure of all diseases in general[24].
 
-[1]:
 
-bhṛṅgārājo bhṛṅgarajo mārka vo bhṛṅgaeva ca |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> bhṛṅgārājo bhṛṅgarajo mārka vo bhṛṅgaeva ca |
 aṅgārakaḥ ke śarajo bhṛṅgāraḥ ke śarañjanaḥ |
 bhṛṅgarājaḥ kaṭustiktorukṣoṣṇaḥ kaphavātanut |
 ke śyastvacyaḥ kṛ miśvāsakāsaśothamapāṇḍu nut |
 dantyo rasāyano valyaḥ kuṣṭhanetraśirorttijit || (Bhāva–Gugucyādivarga -1/243-245) Bhāvaprakāśa by Bhāvamiśra Vol. I, trans. Kalishachandra Sengupta, Vaidyacarya Kalikinkara Senasharma & Ayurvedacharya Satya Shekhara Bhattyacharya (eds.), Kolkata, Deepayan, 2000, p. 229.
+</blockquote>
 
-[2]:
 
-K. D. Dvivedi & B. Dvivedi, Vedoṇ Meṇ Āyurveda (Medical Science in the Vedas), Jyanapur, Visvabharati Anusandhan Parishad, 2018, pp. 181-183.
 
-[3]:
 
-evaṃ viṃśatibhedena kṛ mayaḥh syurdvidhā ca te |
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> K. D. Dvivedi & B. Dvivedi, Vedoṇ Meṇ Āyurveda (Medical Science in the Vedas), Jyanapur, Visvabharati Anusandhan Parishad, 2018, pp. 181-183.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> evaṃ viṃśatibhedena kṛ mayaḥh syurdvidhā ca te |
 bāhyāstathābhyantarāh syusteṣu yukābahiścarāḥ ||
 likṣāścānye'ntaracarāḥ kaphāte hṛdayodakāḥ |
 atrādā udarāveṣṭāścyuravaśca mahāguhāḥ ||
@@ -181,108 +131,172 @@ ke śādāśca tathaivānye śākṛ jjātā make rukāḥ |
 lelihāśca salūnāśca sausurādāḥ kake rukāḥ ||
 tathānyaḥ kapharaktābhyāṃ saṃjātaḥ snāyuktaḥ smṛtaḥ |
 vraṇasya kṛ mayaścānye viṣamā bāhyayonayaḥ || (Śāraṅg. S.  –I/7/14-18); Śāraṅgadhara-Saṃhitā: A Treatise on Ayurveda by Śāraṅgadhara, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2017, pp. 32-33.
+</blockquote>
 
-[4]:
 
-viṃśatividhāḥ krimayaḥ pūrvamuddiṣṭānānāvidhenapravibhāgenānyatrasahajebhyaḥ, te punaḥ prakṛ tibhirvibhajyamānāścaturvidhā bhavant; tadyathā–purīṣajāḥ, śleṣmajāḥ, śoṇitajā, malajāśceti || (CS.  Vs-VIII.9) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 198.
 
-[5]:
 
-kṛ mayastu dvidhā proktābahyābhyantarabhedataḥ ||
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> viṃśatividhāḥ krimayaḥ pūrvamuddiṣṭānānāvidhenapravibhāgenānyatrasahajebhyaḥ, te punaḥ prakṛ tibhirvibhajyamānāścaturvidhā bhavant; tadyathā–purīṣajāḥ, śleṣmajāḥ, śoṇitajā, malajāśceti || (CS.  Vs-VIII.9) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 198.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> kṛ mayastu dvidhā proktābahyābhyantarabhedataḥ ||
 bahirmalakaphāsṛgviṅ janmabhedāccaturvidhāḥ ||
 nāmato viṃśatividhāḥ bāhyāstatrāmṛjodbhavāḥ ||
 tilapramāṇasaṃsthanavarṇāḥ ke śāmbarāśrayāḥ |
 bhupādāśca sūkṣmāśca yūkālikṣāśca nāmataḥ ||
 dvidhā te koṭhapiṭikākaṇḍū gaṇḍān prakūrvate | (Aṣṭā. H.  –Nidānasthāna-14/42-45); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, pp. 143-144.
+</blockquote>
 
-[6]:
 
-Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, p. 82.
 
-[7]:
 
-śoṇitajānāṃ tu khalu kuṣṭhaiḥ samānaṃ samutthānaṃ; sthanaṃ—raktavāhinyo dhamanyaḥ; saṃsthanam—aṇvo vṛttāścāpādāśca,  sūkṣma............. taduttarakālamupadekṣyāmaḥ || (CS.  Vimānasthāna–VII.11); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 726.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, p. 82.
+</blockquote>
 
-[8]:
 
-śleṣmajāḥ kṣīraguḍatilamatsyānūpamāṃsapiṣṭānnaparamānnakusumbhasnehājirṇapūrtiklinnasaṃkīrnaviruddhāsātmyabhojana samutthānāḥ............... (CS.  Vimānasthāna -VIII.12) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 201.
 
-[9]:
 
-purīṣajā astulyasamutthānāh śleṣmajaḥ; teṣāṃ sthanaṃ pakvāśayaḥ, te pravardhamānāstvadho visarpanti, yasya punarāmāśayā bhimukhāḥ syuryadantara tadantaraṃ tasyodgāraniśvāsāḥ purīṣagandhinaḥ syuḥ............. (CS.  Vimānasthāna–VII.13); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 787.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> śoṇitajānāṃ tu khalu kuṣṭhaiḥ samānaṃ samutthānaṃ; sthanaṃ—raktavāhinyo dhamanyaḥ; saṃsthanam—aṇvo vṛttāścāpādāśca,  sūkṣma............. taduttarakālamupadekṣyāmaḥ || (CS.  Vimānasthāna–VII.11); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 726.
+</blockquote>
 
-[10]:
 
-tatrāpakarṣaṇaṃ—hastenābhagṛhya vimṛśyopakaraṇavatā'panayanamanupakaraṇena vā; sthanagatānāṃ tu krimīṇāṃ bheṣajenāpakarṣaṇaṃ  nyāyataḥ, taccaturvidhaḥ; tadyathā—śirovirecanaṃ, vamanaṃ, virecanam, āsthapanaṃ ca; ityapakarṣaṇavidhiḥ |........ (CS. Vimānasthāna -VIII.15) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 203.
 
-[11]:
 
-athainaṃ krimikoṣṭhamāturamagre ṣaḍrā traṃ saptarātraṃ vā snehasvedābhyāmupapādya........... parīkṣyaviśeṣān parīkṣya samyak || (CS.  Vimānasthāna–VII.16); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 728.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> śleṣmajāḥ kṣīraguḍatilamatsyānūpamāṃsapiṣṭānnaparamānnakusumbhasnehājirṇapūrtiklinnasaṃkīrnaviruddhāsātmyabhojana samutthānāḥ............... (CS.  Vimānasthāna -VIII.12) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 201.
+</blockquote>
 
-[12]:
 
-mūlakasarṣapalaśunakarañjaśigrukharapuṣpābhūstṛṇasumukhasurasakuṭhe ragaṇḍīrakālamālakaparṇāsakṣavakaphaṇijjhakāni sarvā ṇyathavā yathālābhaṃ?[?] tānyāhṛtānyabhisamīkṣya khaṇḍaśaśche dayitvā prakṣālya pānīyena suprakṣālitāyāṃ syālyāṃ samāvāpya  gomūtreṇārdhodake nābhiṣicya sādhayet satatamavaghaṭṭayan darvyā?[?] tamupayuktabhūyiṣṭhe'mbhasi gatarasepvauṣadheṣu sthalīmavatārya  suparipūtaṃ kaṣāyaṃ bastau vidhivadāsthapayedenaṃ?[?] tathā'rkālarka kuṭajāḍhakīkūṣṭhakai ḍaryakaṣāyeṇa vā?[?] tathā  śigrupīlukustumburukaṭukāsarṣapakaṣāyeṇa?[?] tathā''malakaśṛṅgaveradāruharidrāpicumardakaṣāyeṇa madanaphalādisaṃyoge saṃpāditena trirātraṃ saptarātraṃ vā''sthapayet || (CS.  Vimānasthāna -VIII.17) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 205.
 
-[13]:
 
-pratyagate ca paścime bastau pratyaśvastaṃ tadaharevobhayatobhāgaharaṃ........... sarvaviśeṣānavekṣamāṇo bhiṣak || (CS. Vimānasthāna–VII.18); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 729.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> purīṣajā astulyasamutthānāh śleṣmajaḥ; teṣāṃ sthanaṃ pakvāśayaḥ, te pravardhamānāstvadho visarpanti, yasya punarāmāśayā bhimukhāḥ syuryadantara tadantaraṃ tasyodgāraniśvāsāḥ purīṣagandhinaḥ syuḥ............. (CS.  Vimānasthāna–VII.13); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 787.
+</blockquote>
 
-[14]:
 
-athainaṃ samyagviriktaṃ vijñāyāparāhṇe śaikharikakaṣāyeṇa sukhoṣṇena pariṣecayet................ cainamanuvāsayedviḍaṅgatailenai- kāntaraṃ dvistrirvā || (CS.  Vimānasthāna-VIII.19); R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 206.
 
-[15]:
 
-yadi punarasyātipravṛddhāñchīrṣādān krimīn manyena śirasyaivābhisarpataḥ kadācit, tataḥ snehasvedābhyāmasya śira upapādya virecayedapāmārgataṇḍulādinā śirovirecana || (CS.  Vimānasthāna–VII.20); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 730.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> tatrāpakarṣaṇaṃ—hastenābhagṛhya vimṛśyopakaraṇavatā'panayanamanupakaraṇena vā; sthanagatānāṃ tu krimīṇāṃ bheṣajenāpakarṣaṇaṃ  nyāyataḥ, taccaturvidhaḥ; tadyathā—śirovirecanaṃ, vamanaṃ, virecanam, āsthapanaṃ ca; ityapakarṣaṇavidhiḥ |........ (CS. Vimānasthāna -VIII.15) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 203.
+</blockquote>
 
-[16]:
 
-mūlakaparṇīṃ samūlāgrapratānāmāhṛtya khaṇḍaśaśchedayitvolṛ khale kṣodayitvā pāṇibhyāṃ pīḍayitvā rasaṃ gṛhṇīyāt, tena rasena lohitaśālitaṇḍulapiṣṭaṃ........... || (CS.  Vimānasthāna-VIII.21); R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 207.
 
-[17]:
 
-athāśvaśakṛ dāhṛtya mahati kiliñjake prastīryātape śoṣayitvodū khale............ krimikoṣṭhine leḍhūṃ prayacche t || (CS. Vimānasthāna-VIII.22); R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 208.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> athainaṃ krimikoṣṭhamāturamagre ṣaḍrā traṃ saptarātraṃ vā snehasvedābhyāmupapādya........... parīkṣyaviśeṣān parīkṣya samyak || (CS.  Vimānasthāna–VII.16); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 728.
+</blockquote>
 
-[18]:
 
-tathā bhallātakāsthīnyāhṛtya kalaśapramāṇena cāpothya............ bhadradārusaralakāṣṭhasnehānupakalpya pātuṃ prayacche t | (CS. –Vimānasthāna -VII. 29-30); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 47.
 
-[19]:
 
-athāhareti brūyāt—śāradānnavāṃstilān saṃpadupetān; tānāhṛtya suniṣpūtānniṣpūya......... śucau dṛḍhe kalaśe nyasyānuguptaṃ  nidhāpayet || (CS. –Vimānasthāna–VII.25); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 732.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> mūlakasarṣapalaśunakarañjaśigrukharapuṣpābhūstṛṇasumukhasurasakuṭhe ragaṇḍīrakālamālakaparṇāsakṣavakaphaṇijjhakāni sarvā ṇyathavā yathālābhaṃ?[?] tānyāhṛtānyabhisamīkṣya khaṇḍaśaśche dayitvā prakṣālya pānīyena suprakṣālitāyāṃ syālyāṃ samāvāpya  gomūtreṇārdhodake nābhiṣicya sādhayet satatamavaghaṭṭayan darvyā?[?] tamupayuktabhūyiṣṭhe'mbhasi gatarasepvauṣadheṣu sthalīmavatārya  suparipūtaṃ kaṣāyaṃ bastau vidhivadāsthapayedenaṃ?[?] tathā'rkālarka kuṭajāḍhakīkūṣṭhakai ḍaryakaṣāyeṇa vā?[?] tathā  śigrupīlukustumburukaṭukāsarṣapakaṣāyeṇa?[?] tathā''malakaśṛṅgaveradāruharidrāpicumardakaṣāyeṇa madanaphalādisaṃyoge saṃpāditena trirātraṃ saptarātraṃ vā''sthapayet || (CS.  Vimānasthāna -VIII.17) R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 205.
+</blockquote>
 
-[20]:
 
-viḍaṅgaṃ dvipalañcaiva viṣacūrṇaṃ tadarddhakam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> pratyagate ca paścime bastau pratyaśvastaṃ tadaharevobhayatobhāgaharaṃ........... sarvaviśeṣānavekṣamāṇo bhiṣak || (CS. Vimānasthāna–VII.18); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 729.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> athainaṃ samyagviriktaṃ vijñāyāparāhṇe śaikharikakaṣāyeṇa sukhoṣṇena pariṣecayet................ cainamanuvāsayedviḍaṅgatailenai- kāntaraṃ dvistrirvā || (CS.  Vimānasthāna-VIII.19); R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 206.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> yadi punarasyātipravṛddhāñchīrṣādān krimīn manyena śirasyaivābhisarpataḥ kadācit, tataḥ snehasvedābhyāmasya śira upapādya virecayedapāmārgataṇḍulādinā śirovirecana || (CS.  Vimānasthāna–VII.20); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 730.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> mūlakaparṇīṃ samūlāgrapratānāmāhṛtya khaṇḍaśaśchedayitvolṛ khale kṣodayitvā pāṇibhyāṃ pīḍayitvā rasaṃ gṛhṇīyāt, tena rasena lohitaśālitaṇḍulapiṣṭaṃ........... || (CS.  Vimānasthāna-VIII.21); R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 207.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> athāśvaśakṛ dāhṛtya mahati kiliñjake prastīryātape śoṣayitvodū khale............ krimikoṣṭhine leḍhūṃ prayacche t || (CS. Vimānasthāna-VIII.22); R. K. Sharma & Bhagwan Das (ed.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2018, p. 208.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> tathā bhallātakāsthīnyāhṛtya kalaśapramāṇena cāpothya............ bhadradārusaralakāṣṭhasnehānupakalpya pātuṃ prayacche t | (CS. –Vimānasthāna -VII. 29-30); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 47.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> athāhareti brūyāt—śāradānnavāṃstilān saṃpadupetān; tānāhṛtya suniṣpūtānniṣpūya......... śucau dṛḍhe kalaśe nyasyānuguptaṃ  nidhāpayet || (CS. –Vimānasthāna–VII.25); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 732.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> viḍaṅgaṃ dvipalañcaiva viṣacūrṇaṃ tadarddhakam |
 lauhacūrṇaṃ tadarddhañca tadarddha śuddhapāradam |
 rasatulyaṃ śuddhagandhaṃ chāgīdugdhena peṣayat |
 chāyāśuṣkāṃvaṭīṃ kṛ tvā khādet ṣoḍaśaraktikām ||
 dhānyajīrānupānena krimikālānalo rasaḥ |
 udarasthaṃ krimiṃ hanyād grahaṇyarśaḥ samanvitam || (Ras. S. –III/Krimi Cikitsā/1-3); Ashok D. Satpute, Rasendra Sāra Saṅgraha of Sri. Gopal Krishna, Varanasi, Chowkhamba Krishnadas Academy, 2009, pp. 409- 410.
+</blockquote>
 
-[21]:
 
-śuddhasūtamindrayavamajamodāṃ manaḥśilām |
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> śuddhasūtamindrayavamajamodāṃ manaḥśilām |
 palāśabījaṃ gandhañca devadālyā dravairdinam ||
 sammardya bhakṣayennityaṃ śālaparṇīrasaiḥ saha ||
 sitāyuktaṃ pivāñcāni krimipāto bhavatyalam || (Ras. S. –III/Krimi Cikitsā/24-25); Ashok D. Satpute, Rasendra Sāra Saṅgraha of Sri. Gopal Krishna, Varanasi, Chowkhamba Krishnadas Academy, 2009, p. 414.
+</blockquote>
 
-[22]:
 
-etenaiva ca pākavidhinā sarṣapātasikarañjakoṣātakīsnehānupakalpya pāyayet sarvaviśeṣānavekṣamāṇaḥ | (CS. –Vimānasthāna–VII.26); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 211.
 
-[23]:
 
-viśeṣatastu svalpamātramāsthapanānuvāsanānulomaharaṇabhūyiṣṭhaṃ teṣvevauṣadheṣu purīṣajānāṃ krimīṇāṃ cikitsitaṃ kartavyam | (CS.  Vimānasthāna -VII.35); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 49.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> etenaiva ca pākavidhinā sarṣapātasikarañjakoṣātakīsnehānupakalpya pāyayet sarvaviśeṣānavekṣamāṇaḥ | (CS. –Vimānasthāna–VII.26); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 211.
+</blockquote>
 
-[24]:
 
-apakarṣaṇamevādau krimīṇāṃ bheṣajaṃ smṛtam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> viśeṣatastu svalpamātramāsthapanānuvāsanānulomaharaṇabhūyiṣṭhaṃ teṣvevauṣadheṣu purīṣajānāṃ krimīṇāṃ cikitsitaṃ kartavyam | (CS.  Vimānasthāna -VII.35); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 49.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> apakarṣaṇamevādau krimīṇāṃ bheṣajaṃ smṛtam |
 tato vighātaḥ prakṛ teḥ nidanasya ca varjanam || (CS.  Vimānasthāna -VII.28); Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, p. 83.
+</blockquote>
 
 ---
 
-## 146. 1b. Study of Fever (Jvara) in the Caraka-Saṃhita
+## 1b. Study of Fever (Jvara) in the Caraka-Saṃhita
 
 1b. Study of Fever (Jvara) in the Caraka-Saṃhita
 
@@ -434,186 +448,287 @@ During a remission of fever, the patient groans, vomits, moves, respires, become
 
 Taking this avoidable food and activities during improvement before recovering normal strength, the fever relapses. It also deteriorates even with slight negligence in cases where fever comes down though the doṣas are not reduced correctly. The worsened fever kills the patient suffering since long, weakened and with poor Agni in a short time. Sometimes doṣas get matured in successive dhātus, thus they do not generate fever but cause harm to the body. They generate nervous expressions, swelling, paleness, anorexia, malaise, itching, rashes, pimples and mildness of appetite. Likewise, other cured disorders too relapse on a slight unwholesome activity if doṣas are not eliminated properly. Hence even after the fever subsides, doṣas should be eliminated or pacified according to condition, strength and vitality (of the patient). In such cases, evacuation with mild measures, light vegetable soup, sustaining enemas, and meat-soups of the wild animals are wholesome[89]. Massage, anointing, bath, incense, collyrium, bitter ghee is prescribed in relapsed fever. If the fever relapses due to heavy, channel-blocking and inappropriate diet, management with lightning and hot therapy as mentioned above may be done. Kirātatikta, kuṭakī, musta, Parpaṭaka, and Guḍūcī–a decoction of these drugs together, if taken regularly, destroys the relapsing fever[90]. The wise physician, considering the managing of fever, should handle the case according to condition. Fever is the king of all diseases, destroyer of all creatures and severe, hence a physician should be especially cautious in treating it[91].
 
-[1]:
 
-Suśruta Saṃhitā of Maharṣi Suśruta Vol. III, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 239.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā of Maharṣi Suśruta Vol. III, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 239.
+</blockquote>
 
-[2]:
 
-sarvarogāgrajo | (CS.  Cikitsā–III.4); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 108.
 
-[3]:
 
-dehendriyamanastāpī | (CS.  Cikitsā–III.4); Ibid.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> sarvarogāgrajo | (CS.  Cikitsā–III.4); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 108.
+</blockquote>
 
-[4]:
 
-mithyāhāravihārābhyāṃ doṣā hyāmāśayāśrayāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> dehendriyamanastāpī | (CS.  Cikitsā–III.4); Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> mithyāhāravihārābhyāṃ doṣā hyāmāśayāśrayāḥ |
 bahirnirasya koṣṭhāgniṃ jvaravāḥ syu rasānugāḥ || (Yogaratnākara–Jvara lakṣaṇam–2); Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripathi & Daya Shankar Tripathi, Varanasi, Chowkhamba Krishnadas Academy, 2013, p. 143.
+</blockquote>
 
-[5]:
 
-CS.  Cikitsā–III.11; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 110.
 
-[6]:
 
-jvarastukhalumaheśvarakopaprabhavaḥ, sarvaprāṇabhṛtāṃprāṇaharo, dehendriyamanastāpakaraḥ, prajñābalavarṇaharṣotsāhahrāsakaraḥ, śramaklamamohahāroparodhasaṃjananaḥ, jvarayatiśarīṇāṇītijvaraḥ, nānyevyādhayastathādāruṇābahūpadravāduścikittsyāśca yathā'yam |sasarvarogādhipati:, nānātiryagyoniṣucabahuvidhaiḥśabdairabhidhīyate | sarvaiprāṇabhṛtaḥsajvarā evamriyanteca; sa mahāmohaḥ, tenābhibhūtāḥprāgdaihikaṃ dehinaḥkarmakiṃ cidapinasmaranti, sarvaprāṇabhṛtāṃcajvaraevānteprāṇānādatte ||(CS. –Nidānasthāna–I.35); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 29.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> CS.  Cikitsā–III.11; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 110.
+</blockquote>
 
-[7]:
 
-CS.  -Cikitsāsthāna–III.15-25; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 113-115.
 
-[8]:
 
-dakṣāpamānasaṅ kuddharudraniḥ śvāsasambhavaḥ |
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> jvarastukhalumaheśvarakopaprabhavaḥ, sarvaprāṇabhṛtāṃprāṇaharo, dehendriyamanastāpakaraḥ, prajñābalavarṇaharṣotsāhahrāsakaraḥ, śramaklamamohahāroparodhasaṃjananaḥ, jvarayatiśarīṇāṇītijvaraḥ, nānyevyādhayastathādāruṇābahūpadravāduścikittsyāśca yathā'yam |sasarvarogādhipati:, nānātiryagyoniṣucabahuvidhaiḥśabdairabhidhīyate | sarvaiprāṇabhṛtaḥsajvarā evamriyanteca; sa mahāmohaḥ, tenābhibhūtāḥprāgdaihikaṃ dehinaḥkarmakiṃ cidapinasmaranti, sarvaprāṇabhṛtāṃcajvaraevānteprāṇānādatte ||(CS. –Nidānasthāna–I.35); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> CS.  -Cikitsāsthāna–III.15-25; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 113-115.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> dakṣāpamānasaṅ kuddharudraniḥ śvāsasambhavaḥ |
 jvaro'ṣṭadhā pṛthagdvandvasaṅghātāgantujaḥ smṛtaḥ || (Mā. Ni.  –II /Jvara Nidānam/1); Mādhava-Nidāna of Mādhavakara with the Commentary Madhukoṣa by Vijayarakṣita & Śrīkaṇṭhadatta, Brahmanand Tripathi(ed.), trans. Kanjiv Lochan, Varanasi, Chaukhamba Surbharati Prakashan, 2018, pp. 1-1067.
+</blockquote>
 
-[9]:
 
-atha khalvaṣṭābhyaḥ kāraṇebhyo jvaraḥ saṃjāyate manuṣyaṇāṃ; tadyathā-vātāt, pittāt, kaphāt, vātapittābhyāṃ, vātakaphābhyāṃ, pittakapābhyāṃ, vātapittakaphe bhyaḥ, āgantoraṣṭamāt kāraṇāt || (CS.  Nidānasthāna–I.17); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p.17.
 
-[10]:
 
-jvaro rogapatiḥ pāpmā mṛtyurojośano'ntakaḥ |
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> atha khalvaṣṭābhyaḥ kāraṇebhyo jvaraḥ saṃjāyate manuṣyaṇāṃ; tadyathā-vātāt, pittāt, kaphāt, vātapittābhyāṃ, vātakaphābhyāṃ, pittakapābhyāṃ, vātapittakaphe bhyaḥ, āgantoraṣṭamāt kāraṇāt || (CS.  Nidānasthāna–I.17); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> jvaro rogapatiḥ pāpmā mṛtyurojośano'ntakaḥ |
 krodho dakṣādhvaradhvaṃsī rudrordhvanayanodbhavaḥ ||
 janmāntayormohamayaḥ santāpātmā'pacārajaḥ |
 vividhairnāmabhiḥ krū ro nānāyoniṣu vartate || (Aṣṭā. H.  –Nidānasthāna-2/1-2); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, p.11.
+</blockquote>
 
-[11]:
 
-In CS.  Vimana–III.24, that at the end of the Satya-yuga, some people got heaviness in the bodies due to overindulgence. They suffered from fatigue because of the heaviness of the body. Fatigue gave rise to laziness and laziness made them accumulate things. This accumulation led to the attachment for these things and attachment resulted in greed. It is because of this attachment (Parigraha) etc., all diseases took their origin at the end of Satya yuga and in subsequent yugas. This has been referred to at the end of Satya-yuga and in subsequent yugas. This has been referred to in the present verse by the term ‘Parigraha’.; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 1112.
 
-[12]:
 
-mukhavairasyaṃ, gurugāatratvam, anannābhilāṣaḥ, cakṣuṣorākulatvam........(CS.  Nidānasthāna–I.33); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 28.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> In CS.  Vimana–III.24, that at the end of the Satya-yuga, some people got heaviness in the bodies due to overindulgence. They suffered from fatigue because of the heaviness of the body. Fatigue gave rise to laziness and laziness made them accumulate things. This accumulation led to the attachment for these things and attachment resulted in greed. It is because of this attachment (Parigraha) etc., all diseases took their origin at the end of Satya yuga and in subsequent yugas. This has been referred to at the end of Satya-yuga and in subsequent yugas. This has been referred to in the present verse by the term ‘Parigraha’.; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 1112.
+</blockquote>
 
-[13]:
 
-aṣṭābhiḥ kāraṇairjvaraḥ sañjāyate manuṣyāṇāṃ pṛthagdoṣaiḥ saṃsṛṣṭaiḥ sannipatitairāgantunā ca || (Aṣṭā. S.  –Nidānasthāna- 2/2); Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2018, p.148.
 
-[14]:
 
-tasyemāni pūrvarūpāṇi mukhavairasyamannanabhilāṣo gurugātratvamālasyamalpaprāṇatā gatiskhalanaṃ nidrādhikyamaratirasūyā hitopadeśeṣu pradveṣo bāleṣumadhureṣu ca bhakṣyeṣvamlalavaṇakaṭukābhinandanamavipāke 'ṅgamardaścakṣuṣorākulatvaṃ sāśrutā jṛmbhā vināmaḥ klamo romaharṣaḥ śabdānalāmbuśītavātacchāyātapeṣvakasmādicchādveṣau ca | tadanantaraṃ vyaktībhāvo jvarasyeti | bhavati cātra || (Aṣṭā. S.  –Nidānasthāna-2/4); Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. II, trans. K. R.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> mukhavairasyaṃ, gurugāatratvam, anannābhilāṣaḥ, cakṣuṣorākulatvam........(CS.  Nidānasthāna–I.33); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 28.
+</blockquote>
 
-[15]:
 
-svedāvarodhaḥ santāpaḥ sarvāṅgagrahaṇaṃ tathā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> aṣṭābhiḥ kāraṇairjvaraḥ sañjāyate manuṣyāṇāṃ pṛthagdoṣaiḥ saṃsṛṣṭaiḥ sannipatitairāgantunā ca || (Aṣṭā. S.  –Nidānasthāna- 2/2); Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2018, p.148.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> tasyemāni pūrvarūpāṇi mukhavairasyamannanabhilāṣo gurugātratvamālasyamalpaprāṇatā gatiskhalanaṃ nidrādhikyamaratirasūyā hitopadeśeṣu pradveṣo bāleṣumadhureṣu ca bhakṣyeṣvamlalavaṇakaṭukābhinandanamavipāke 'ṅgamardaścakṣuṣorākulatvaṃ sāśrutā jṛmbhā vināmaḥ klamo romaharṣaḥ śabdānalāmbuśītavātacchāyātapeṣvakasmādicchādveṣau ca | tadanantaraṃ vyaktībhāvo jvarasyeti | bhavati cātra || (Aṣṭā. S.  –Nidānasthāna-2/4); Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. II, trans. K. R.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> svedāvarodhaḥ santāpaḥ sarvāṅgagrahaṇaṃ tathā |
 vikārā yugapadyasmin jvaraḥ sa parikīrtitaḥ || (Suśruta Uttar–39.13) Suśruta Saṃhitā of Maharṣi Suśruta Vol. III, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 241.
+</blockquote>
 
-[16]:
 
-ṛtvahorātra doṣāṇāṃ manasaśca balābalāt |
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> ṛtvahorātra doṣāṇāṃ manasaśca balābalāt |
 kālamarthavaśāccaiva jvarastaṃ taṃ prapadyate || (CS.  Cikitsāsthāna–III.75); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p.134.
+</blockquote>
 
-[17]:
 
-CS. –III.26-36; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 54-55.
 
-[18]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 213- 214.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> CS. –III.26-36; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 54-55.
+</blockquote>
 
-[19]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 216.
 
-[20]:
 
-The shelter of Santata Fever is air, bile, phlegm, blood, flesh, fat, bone, marrow, sperm, stool and urine.; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 217- 218.
+<div className="footnote-card"><strong>[18]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 213- 214.</div>
 
-[21]:
 
-CS. –III.19-32; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 215-218.
 
-[22]:
 
-anyed yuṣkaṃ jvaraṃ pratidinaṃ dinaṃ tṛtīyakaḥ |
+<div className="footnote-card"><strong>[19]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 216.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> The shelter of Santata Fever is air, bile, phlegm, blood, flesh, fat, bone, marrow, sperm, stool and urine.; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 217- 218.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> CS. –III.19-32; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 215-218.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> anyed yuṣkaṃ jvaraṃ pratidinaṃ dinaṃ tṛtīyakaḥ |
 dinadvayaṃ yo viśramya pratyeti sa caturthakaḥ || (CS.  Cikitsāsthāna–III.67); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p.130.
+</blockquote>
 
-[23]:
 
-prāyaśaḥ sannipātena dṛṣṭaḥ pañcavidhau jvaraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> prāyaśaḥ sannipātena dṛṣṭaḥ pañcavidhau jvaraḥ |
 sannipāte tu yo bhūyān sa doṣaḥ parikīrtitaḥ || (CS.  Cikitsāsthāna–III.74); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p.133.
+</blockquote>
 
-[24]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 220.
 
-[25]:
 
-CS. –III.76-83; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 59-60.
+<div className="footnote-card"><strong>[24]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 220.</div>
 
-[26]:
 
-śirorukparvvaṇāṃbhedodāhoroyāṃpraharṣaṇam ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> CS. –III.76-83; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 59-60.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> śirorukparvvaṇāṃbhedodāhoroyāṃpraharṣaṇam ||
 kaṇṭhāsyaśoṣovamathustṛṣṇāmūrcchābhramo'ruciḥ ||
 svapnanāśo'tivāgjṛmbhāvātapittajvarākṛ tiḥ | (CS.  Cikitsāsthāna–III. 85-86); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 136.
+</blockquote>
 
-[27]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 221.
 
-[28]:
 
-śītakogauravaṃ tandrā staimityaṃ parvaṇāṃ ca ruk ||
+<div className="footnote-card"><strong>[27]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 221.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> śītakogauravaṃ tandrā staimityaṃ parvaṇāṃ ca ruk ||
 śiregrahaḥ pratiśyāyaḥ kāsaḥ svedāpravartanam |
 santāpo madhyavegaśca vātaśleṣmajvarākṛ tiḥ || (CS.  Cikitsāsthāna–III. 86-87); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 136.
+</blockquote>
 
-[29]:
 
-muhurdāho muhuḥ śītaṃ svedastambho muhurmuhuḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> muhurdāho muhuḥ śītaṃ svedastambho muhurmuhuḥ |
 mohaḥ kāso'rucistṛṣṇā śleṣmapittapravartanam ||
 liptatiktāsvatā tandrā śleṣmapittajvarākṛ ti: | (CS.  Cikitsāsthāna–III. 88-89); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 136.
+</blockquote>
 
-[30]:
 
-CS. –III.84-88; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, p. 60.
 
-[31]:
 
-sūtrasthane bhagavatā nirdiṣṭo dvividho jvaraḥ |
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> CS. –III.84-88; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, p. 60.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> sūtrasthane bhagavatā nirdiṣṭo dvividho jvaraḥ |
 punaraṣṭavidhaḥ prokto nidāne tattvadarśinā || (Kāśya. S.  -Cikitsāsthāna–6/4); Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, trans. Satyapāla Bhiṣgāchārya, Varanasi, Chaukhambha Sanskrit Sansthan, 2018, p. 137.
+</blockquote>
 
-[32]:
 
-viṣamārambhavisargitvam, ūṣmaṇo vaiṣamyaṃ, tīvratanubhāvānavasthanāni............ (CS.  Nidānasthāna–I.19-21); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 18-21.
 
-[33]:
 
-yugapadeva ke vale śarīre jvarasyābhyāgamanamabhivṛddhirvā bhuktasya........ (CS.  Nidānasthāna–I.22-24); R. K. Sharma &Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 22-23.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> viṣamārambhavisargitvam, ūṣmaṇo vaiṣamyaṃ, tīvratanubhāvānavasthanāni............ (CS.  Nidānasthāna–I.19-21); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 18-21.
+</blockquote>
 
-[34]:
 
-snigdhagurumadhurapicchilśītāmlalavaṇadivāsvapnaharṣāvyāyāmebhyo.........(CS.  Nidānasthāna–I.25-27); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 23-24.
 
-[35]:
 
-CS. –III.89-106; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 61-62.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> yugapadeva ke vale śarīre jvarasyābhyāgamanamabhivṛddhirvā bhuktasya........ (CS.  Nidānasthāna–I.22-24); R. K. Sharma &Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 22-23.
+</blockquote>
 
-[36]:
 
-kṣaṇe dāhaḥ kṣaṇe śītamasthisandhiśirorujā ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> snigdhagurumadhurapicchilśītāmlalavaṇadivāsvapnaharṣāvyāyāmebhyo.........(CS.  Nidānasthāna–I.25-27); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 23-24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> CS. –III.89-106; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 61-62.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> kṣaṇe dāhaḥ kṣaṇe śītamasthisandhiśirorujā ||
 sāsrāve kaluṣe rakte..............................
 ...... cirāt pakaśca doṣāṇāṃ sannipātajvarākṛ tiḥ || (CS.  Cikitsāsthāna–III.103-109; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, p. 62.
+</blockquote>
 
-[37]:
 
-sarvajo lakṣaṇaiḥ sarvairdāho'tra ca muhurmuhuḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> sarvajo lakṣaṇaiḥ sarvairdāho'tra ca muhurmuhuḥ |
 tadvacchītaṃ mahānidrā divā jāgaraṇaṃ niśi ||
 sadā vā naiva vā nidrā....................
 .... sannipātamabhinyāsaṃ taṃ brūyācca hṛtaujasam || pittādhike 'dhikam || (Aṣṭā. H.  –Nidānasthāna-1/27-33); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, pp. 16-17.
+</blockquote>
 
-[38]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 226.
 
-[39]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 226- 227.
+<div className="footnote-card"><strong>[38]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 226.</div>
 
-[40]:
 
-krameṇa vṛddhān rasagandhahiṅ gulān naikumbhabījānyatha dantivāriṇā |
+
+
+<div className="footnote-card"><strong>[39]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 226- 227.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> krameṇa vṛddhān rasagandhahiṅ gulān naikumbhabījānyatha dantivāriṇā |
 piṣṭvā'sya guñjā'bhinavajvarāpahājalena cārdrā sitayā prayojitā ||
 viṣaṃ trikaṭukaṃ mustaṃ haridrā nimbapatrakam |
 viḍaṅgamaṣṭamaṃ cūrṇa chāgamūtraiḥ samaṃ samam |
@@ -622,274 +737,422 @@ svarṇa svarṇasindū raṃ lauhaṃ tāraṃ mṛgāṇḍajām |
 jātīphalaṃ jātīkoṣaṃ lavaṅgaca trikaṇṭakam ||
 karpūraṃ gaganañcaiva cocaṃ muṣalatālakam |
 pratyekaṃ karṣamānantu turaṅgañca dvikārṣikam || (Śāraṅg. S.  –I/7/2-6); Śāraṅgadhara-Saṃhitā: A Treatise on Ayurveda by Śāraṅgadhara, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2017, pp. 31-32.
+</blockquote>
 
-[41]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 227.
 
-[42]:
 
-CS. –III.109-113; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 141-142.
+<div className="footnote-card"><strong>[41]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 227.</div>
 
-[43]:
 
-abhighātābhiṣaṅgābhicārābhiśāpebhya āgunturhi vyathāpūrvo'ṣṭamo jvaro bhavati | sakiṃ citkālamāgantuḥ ke valo bhūtvā paścāddoṣairanubadhyate | tatrābhighāto vāyunā duṣṭaśoṇitādhiṣṭhānena, abhiṣaṅgajaḥ punarvātapittabhyām, abhicārābhiśāpajau tu sannipātenānubadhyete || matam || (CS.  Nidānasthāna–I.30); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 26.
 
-[44]:
 
-aruciścāvipākaśca gurutvamudarasya ca ||
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> CS. –III.109-113; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 141-142.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> abhighātābhiṣaṅgābhicārābhiśāpebhya āgunturhi vyathāpūrvo'ṣṭamo jvaro bhavati | sakiṃ citkālamāgantuḥ ke valo bhūtvā paścāddoṣairanubadhyate | tatrābhighāto vāyunā duṣṭaśoṇitādhiṣṭhānena, abhiṣaṅgajaḥ punarvātapittabhyām, abhicārābhiśāpajau tu sannipātenānubadhyete || matam || (CS.  Nidānasthāna–I.30); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> aruciścāvipākaśca gurutvamudarasya ca ||
 hṛdayasyāviśuddhiśca tandrā cālasyameva ca |
 jvaro'visargī balavān doṣāṇāmapravartanam ||
 lālāprasekohṛllāsaḥ..................................
 .... malapravṛttirutkleśaḥ pacyamānasya lakṣaṇam | (CS.  Cikitsāsthāna–III. 133-136); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 147.
+</blockquote>
 
-[45]:
 
-kṣut kṣāmatā laghutvaṃ ca gātrāṇāṃ jvaramārdavam ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> kṣut kṣāmatā laghutvaṃ ca gātrāṇāṃ jvaramārdavam ||
 doṣapravṛttiraṣṭāho nirāmajvaralakṣaṇam || (CS.  Cikitsāsthāna–III. 137); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 148.
+</blockquote>
 
-[46]:
 
-navajvare divāsvapnasnānābhyaṅgānnamaithunam ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> navajvare divāsvapnasnānābhyaṅgānnamaithunam ||
 krodhapravātavyāyāmān kaṣāyāṃśca vivarjayet | (CS.  Cikitsāsthāna–III. 138); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 139.
+</blockquote>
 
-[47]:
 
-CS. –III.114-141; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 63-65.
 
-[48]:
 
-CS.  Nidānasthāna -I.36; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 30.
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> CS. –III.114-141; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 63-65.
+</blockquote>
 
-[49]:
 
-CS.  Vimānasthāna -III.48-51; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 24.
 
-[50]:
 
-CS. –III.142-148; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 151-154.
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> CS.  Nidānasthāna -I.36; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 30.
+</blockquote>
 
-[51]:
 
-CS. –III.149-159; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 66-67.
 
-[52]:
 
-CS. –III.160-168; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 158-164.
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> CS.  Vimānasthāna -III.48-51; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 24.
+</blockquote>
 
-[53]:
 
-peyāṃ vā raktaśālīnāṃ pārśvabastiśiroruji ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> CS. –III.142-148; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 151-154.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> CS. –III.149-159; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 66-67.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> CS. –III.160-168; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 158-164.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> peyāṃ vā raktaśālīnāṃ pārśvabastiśiroruji ||
 śvadaṃṣṭrā kaṇṭakāribhyāṃ siddhāṃ jvaraharāṃ pibet | (CS.  Cikitsāsthāna–III. 116); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 235.
+</blockquote>
 
-[54]:
 
-śṛtāṃvidārī gandhādyaidīpaniṃ svedanīṃ naraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> śṛtāṃvidārī gandhādyaidīpaniṃ svedanīṃ naraḥ |
 kāsī śvāsī ca hikkā ca yavāgūṃ jvaritaḥ pivet |
 vivaddhavarccāḥ sayavāḥ pippalyāmalakai ḥ kṛ tām || (CS.  Cikitsāsthāna–III. 118); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 236.
+</blockquote>
 
-[55]:
 
-gharmvāmvu cānupānārthaṃ tṛṣitāya pradāpayet |
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> gharmvāmvu cānupānārthaṃ tṛṣitāya pradāpayet |
 madyaṃ vā madyasātmāya yathādoṣaṃ yathāvalam || (CS.  Cikitsāsthāna–III. 194); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 171.
+</blockquote>
 
-[56]:
 
-gurūṣṇastrigdhamadhurān kaṣāyāṃśca navajvare ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> gurūṣṇastrigdhamadhurān kaṣāyāṃśca navajvare ||
 āhārān doṣapaktyarthaṃ prāyaśaḥ parivarjayet | (CS.  Cikitsāsthāna–III. 195-196); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 148.
+</blockquote>
 
-[57]:
 
-kaṣāyāḥ śamayantyāśu pañca pañcavidhāñjvarān |
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> kaṣāyāḥ śamayantyāśu pañca pañcavidhāñjvarān |
 saṃtataṃ satatānyed yustṛtīyakacaturthakān || (CS.  Cikitsāsthāna–III. 203); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 178.
+</blockquote>
 
-[58]:
 
-bṛhatyau vatsakaṃ mustaṃ devadāru mahauṣadham |
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> bṛhatyau vatsakaṃ mustaṃ devadāru mahauṣadham |
 kolavallī ca yogo'yaṃ saṃnipātajvarāhaḥ ||
 śaṭī puṣkaramūlaṃ............. śvāsatandrāsu śasyate || (CS.  Cikitsāsthāna–III. 210-212); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 173.
+</blockquote>
 
-[59]:
 
-CS.  -Sūtrasthāna–II-IV; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 17-35.
 
-[60]:
 
-nava yogāḥ kaṣāyeṣu, mātrāsvaṣṭau, payoghṛte |
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> CS.  -Sūtrasthāna–II-IV; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya(eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 17-35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> nava yogāḥ kaṣāyeṣu, mātrāsvaṣṭau, payoghṛte |
 pañca, phāṇitacūrṇe dvau ghneye, vartikriyāsu ṣaṭ ||
 viṃśatirviṃśatirleha.......... || (CS.  Kalpasthāna–I. 28-30); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. VI, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 25-26.
+</blockquote>
 
-[61]:
 
-According to Cakrapāṇi's commentary, the seed of Madana should be used when there is the aggravation of Kapha, Kaliṅga when there is the aggravation of pitta and Kapha and madhuka when there is a burning sensation. (CS.  Cikitsāsthāna–III. 227-233); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 189.
 
-[62]:
 
-kāsācchvāsācchiraḥśūlāt pārśvaśūlāccirajvarāt |
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> According to Cakrapāṇi's commentary, the seed of Madana should be used when there is the aggravation of Kapha, Kaliṅga when there is the aggravation of pitta and Kapha and madhuka when there is a burning sensation. (CS.  Cikitsāsthāna–III. 227-233); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 189.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> kāsācchvāsācchiraḥśūlāt pārśvaśūlāccirajvarāt |
 mucyate jvaritaḥ pītvā pañcamūlaśṛtaṃ payaḥ || (CS.  Cikitsāsthāna–III. 234); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 154.
+</blockquote>
 
-[63]:
 
-CS. –III.169-239; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 68-75.
 
-[64]:
 
-krameṇa vṛddhān rasagandhahiṅ gulān naikumbhabījānyatha dantivāriṇā |
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> CS. –III.169-239; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 68-75.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> krameṇa vṛddhān rasagandhahiṅ gulān naikumbhabījānyatha dantivāriṇā |
 piṣṭvā'sya guñjā'bhinavajvarāpahājalena cārdrā sitayā prayojitā || (Ras. S. –II/Jvara Cikitsā/1); Ashok D. Satpute, Rasendra Sāra Saṅgraha of Sri. Gopal Krishna, Varanasi, Chowkhamba Krishnadas Academy, 2009, p. 272.
+</blockquote>
 
-[65]:
 
-viṣaṃ trikaṭukaṃ mustaṃ haridrā nimbapatrakam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> viṣaṃ trikaṭukaṃ mustaṃ haridrā nimbapatrakam |
 viḍaṅgamaṣṭamaṃ cūrṇa chāgamūtraiḥ samaṃ samam |
 caṇakābhā vaṭī kāryyāṃ syāt jayā yogavāhikā || (Ras. S. –II/Jvara Cikitsā/16); Ashok D. Satpute, Rasendra Sāra Saṅgraha of Sri. Gopal Krishna, Varanasi, Chowkhamba Krishnadas Academy, 2009, p. 275.
+</blockquote>
 
-[66]:
 
-svarṇa svarṇasindū raṃ lauhaṃ tāraṃ mṛgāṇḍajām |
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> svarṇa svarṇasindū raṃ lauhaṃ tāraṃ mṛgāṇḍajām |
 jātīphalaṃ jātīkoṣaṃ lavaṅgaca trikaṇṭakam ||
 karpūraṃ gaganañcaiva cocaṃ muṣalatālakam |
 pratyekaṃ karṣamānantu turaṅgañca dvikārṣikam || (Ras. S. –II/Jvara Cikitsā/366-367); Ashok D. Satpute, Rasendra Sāra Saṅgraha of Sri. Gopal Krishna, Varanasi, Chowkhamba Krishnadas Academy, 2009, p. 342.
+</blockquote>
 
-[67]:
 
-Ras. S. –II/Jvara Cikitsā/206-209; Ashok D. Satpute, Rasendra Sāra Saṅgraha of Sri. Gopal Krishna, Varanasi, Chowkhamba Krishnadas Academy, 2009, p. 314-315.
 
-[68]:
 
-apāmārgasya bījāni pippalīrmaricāni |
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Ras. S. –II/Jvara Cikitsā/206-209; Ashok D. Satpute, Rasendra Sāra Saṅgraha of Sri. Gopal Krishna, Varanasi, Chowkhamba Krishnadas Academy, 2009, p. 314-315.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> apāmārgasya bījāni pippalīrmaricāni |
 viḍaṅgānyatha śigrūṇi sarṣapāṃstumburūṇi ||
 ajājīṃ cājagandhāṃ............... || (CS.  Sūtrasthāna–I. 3-6); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 63.
 śirovirecanadravyāṇi punarāpāmārgapippalīmaricaviḍaṅgaśigruśirīṣatumbarupilvajājyajamodāvārtākīkai lāhareṇu- kāphalāni ca...................... || (CS.  Vimānasthāna–VIII.151); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 307.
+</blockquote>
 
-[69]:
 
-yathā prajvalitaṃ vesma pariṣiñcati vāriṇā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> yathā prajvalitaṃ vesma pariṣiñcati vāriṇā |
 narāḥ śāntimabhipretya tathā jīrṇajvare ghṛtam ||
 snehadvātaṃ śamayati, śaityat pittaṃ niyacchati |
 ghṛtaṃ tulyaguṇaṃ doṣaṃ saṃskārāttu jayet kapham ||
 nānyaḥ snehastathā kaścit saṃskāramanuvartate |
 yathā sarpirataḥ sarpiḥ sarvasnehottamaṃ matam || (CS.  Nidānasthāna–I.38-40); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 31.
+</blockquote>
 
-[70]:
 
-CS. –III.240-259; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 191-195.
 
-[71]:
 
-madhvāranāla-kṣīra-dadhi-ghṛta-salilasekāvagāhāśca |
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> CS. –III.240-259; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 191-195.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> madhvāranāla-kṣīra-dadhi-ghṛta-salilasekāvagāhāśca |
 sadyo dāhajvaramapanayanti śītasparśatvāt || (CS.  Cikitsāsthāna–III. 259); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 158.
+</blockquote>
 
-[72]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 246.
 
-[73]:
 
-śītāni cānnapānāni śītānyupavanāni ca |
+<div className="footnote-card"><strong>[72]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 246.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[73]</strong> śītāni cānnapānāni śītānyupavanāni ca |
 vāyavaścandrapādāśca śītā dāhajvarāpahāḥ || (CS.  Cikitsāsthāna–III. 266); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 197.
+</blockquote>
 
-[74]:
 
-CS.  Cikitsāsthāna -III.260-267; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 77-79.
 
-[75]:
 
-saṅkaraḥ prastaro nāḍī pariṣeko'vagāhanam |
+<blockquote className="ayur-shloka">
+<strong>[74]</strong> CS.  Cikitsāsthāna -III.260-267; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 77-79.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[75]</strong> saṅkaraḥ prastaro nāḍī pariṣeko'vagāhanam |
 jentākośmaghanaḥ karṣūḥ kuṭī bhūḥ kumbhikai va ca ||
 kūpo holāka ityete svedayanti trayodaśa |
 tān yathāvat pravakṣyāmi sarvānevānupūrvaśaḥ || (CS.  Sūtrasthāna–XIV. 39-40); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 276.
+</blockquote>
 
-[76]:
 
-laghūṣṇatīkṣṇaviśadaṃ rūkṣaṃ sūkṣmaṃ kharaṃ saram ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> laghūṣṇatīkṣṇaviśadaṃ rūkṣaṃ sūkṣmaṃ kharaṃ saram ||
 kaṭhinaṃ caiva yadravyaṃ prāyastallaṅghanaṃ smṛtam ||
 catuṣprakārā saṃśuddhiḥ pipāsā mārutātapau |
 pācanānyupavāsaśca vyāyāmaśceti laṅghanam || (CS.  Sūtrasthāna–XXII. 5, 11); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 179-180.
+</blockquote>
 
-[77]:
 
-CS. –III.268-295; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 200-210.
 
-[78]:
 
-somaṃ sānucaraṃ devaṃ samātṛgaṇamīśvaram ||
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> CS. –III.268-295; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 200-210.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> somaṃ sānucaraṃ devaṃ samātṛgaṇamīśvaram ||
 pūjayan prayataḥ śīghraṃ mucyate viṣamajvarāt |
 viṣṇuṃ sahasramūrdhānaṃ carācarapatiṃ vibhum ||
 stuvannāmasahasreṇa jvarān sarvānapohati |
 brahmāṇamaśvināvindraṃ hutabhakṣaṃ himācalam ||
 gaṅgāṃ marudgaṇāṃśceṣṭyā pūjayañjayati jvarān | (CS.  Cikitsāsthāna–III. 310-313); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 213-214.
+</blockquote>
 
-[79]:
 
-bhaktyā mātuḥ pituścaiva gurūṇāṃ pūjanena ca ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> bhaktyā mātuḥ pituścaiva gurūṇāṃ pūjanena ca ||
 brahmacaryeṇa tapasā satyena niyamena ca |
 japahomapradānena vedānāṃ śravaṇena ca || (CS.  Cikitsāsthāna–III. 313-314); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 171.
+</blockquote>
 
-[80]:
 
-yathāsvaṃ ca sirāṃ vidhyedaśāntau viṣamajvare | (Aṣṭā. H.  –Nidānasthāna-1/166); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, p. 203.
 
-[81]:
 
-(CS.  -Cikitsāsthāna–III. 217-224); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 254-255.
+<blockquote className="ayur-shloka">
+<strong>[80]</strong> yathāsvaṃ ca sirāṃ vidhyedaśāntau viṣamajvare | (Aṣṭā. H.  –Nidānasthāna-1/166); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, p. 203.
+</blockquote>
 
-[82]:
 
-jvarapramokṣe puruṣaḥ kūjan vamati ceṣṭate |
+
+
+<blockquote className="ayur-shloka">
+<strong>[81]</strong> (CS.  -Cikitsāsthāna–III. 217-224); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 254-255.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[82]</strong> jvarapramokṣe puruṣaḥ kūjan vamati ceṣṭate |
 śvasanvivarṇaḥ svinnāṅgo vepate līyate muhuḥ ||
 pralapatyuṣṇasarvāṅgaḥ śītāṅgaśca bhavatyapi |
 visaṃjño jvaravegārtaḥ sakrodha iva vīkṣyate ||
 sadoṣaśabdaṃ ca śakṛ dravaṃ sravati vegavat |
 liṅgānyetāni jānīyājjvaramokṣe vicakṣaṇaḥ || (CS.  Cikitsāsthāna–III. 324-326); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 216.
+</blockquote>
 
-[83]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 256.
 
-[84]:
 
-vigataklamasaṃtāpamavyathaṃ vimalendriyam |
+<div className="footnote-card"><strong>[83]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 256.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[84]</strong> vigataklamasaṃtāpamavyathaṃ vimalendriyam |
 yuktaṃ prakṛ tisattvena vidyāt puruṣamajvaram || (CS.  Cikitsāsthāna–III. 329); Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 173.
+</blockquote>
 
-[85]:
 
-sajvaro jvaramuktaśca vidāhīni gurūṇi ca |
+
+
+<blockquote className="ayur-shloka">
+<strong>[85]</strong> sajvaro jvaramuktaśca vidāhīni gurūṇi ca |
 asātmyānyannapānāni viruddhāni ca varjayet ||
 vyavāyamaticiṣṭāśca snānamatyaśanāni ca |
 tathā jvaraḥ śamaṃ yāti praśāntau jāyate na ca ||
 vyāyāmaṃ ca vyavāyaṃ ca snānaṃ caṅ kramaṇāni ca |
 jvaramukto na sevate yāvanna balavān bhavet || (CS.  Cikitsāsthāna–III. 330-332); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 217.
+</blockquote>
 
-[86]:
 
-CS. –III.296-332; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 82-85.
 
-[87]:
 
-vātike saptarātreṇa daśarātreṇa paittike |
+<blockquote className="ayur-shloka">
+<strong>[86]</strong> CS. –III.296-332; Caraka Saṃhitā Vol. II, trans. P.V. Sharma, Varanasi, Chaukhambha Orientalia, 1998, pp. 82-85.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[87]</strong> vātike saptarātreṇa daśarātreṇa paittike |
 ślaiṣmike dvādaśāheṇa jvare yuñjīta bheṣajam ||
 saptarātreṇa ityatra rātriśabdo divasasyopalakṣakaḥ || Bhāvaprakāśa by Bhāvamiśra Vol. II, trans. Kalishachandra Sengupta, Vaidyacarya Kalikinkara Senasharma & Ayurvedacharya Satya Shekhara Bhattyacharya (eds.), Kolkata, Deepayan, 2000, p. 134.
+</blockquote>
 
-[88]:
 
-guḍū cīpippalīmūlanāgaraiḥ pācanaṃ smṛtam || (Śāraṅg. S.  –II/2/9); Śāraṅgadhara-Saṃhitā: A Treatise on Ayurveda by Śāraṅgadhara, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2017, p. 57.
 
-[89]:
 
-Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, pp. 124-125.
+<blockquote className="ayur-shloka">
+<strong>[88]</strong> guḍū cīpippalīmūlanāgaraiḥ pācanaṃ smṛtam || (Śāraṅg. S.  –II/2/9); Śāraṅgadhara-Saṃhitā: A Treatise on Ayurveda by Śāraṅgadhara, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Orientalia, 2017, p. 57.
+</blockquote>
 
-[90]:
 
-kirātatiktakaṃ tiktā mustaṃ parpaṭako'mṛtā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[89]</strong> Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, pp. 124-125.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[90]</strong> kirātatiktakaṃ tiktā mustaṃ parpaṭako'mṛtā |
 ghnanti pītāni cābhyāsāt punarāvartakaṃ jvaram || (CS.  Cikitsāsthāna–III. 236); Baidyacharya Kalikinkar Sensarma& Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan, Kolkata, Deepayan Publication, 2013, p. 257.
+</blockquote>
 
-[91]:
 
-CS. –III.333-346; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 218-220.
+
+
+<blockquote className="ayur-shloka">
+<strong>[91]</strong> CS. –III.333-346; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 218-220.
+</blockquote>
 
 ---
 
-## 147. Chapter 6 - Conclusion
+## Chapter 6 - Conclusion
 
 Chapter 6 - Conclusion
 
@@ -989,8 +1252,6 @@ It is important to understand the ancient treatment process so that we can imple
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -998,10 +1259,6 @@ It is important to understand the ancient treatment process so that we can imple
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

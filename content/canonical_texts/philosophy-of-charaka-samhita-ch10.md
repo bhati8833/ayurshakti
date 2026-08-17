@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Source of Knowledge (pramāṇa) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Chapter 6 - Source of Knowledge (pramāṇa)
+## Chapter 6 - Source of Knowledge (pramāṇa)
 
 Philosophy of Charaka-samhita
 
@@ -19,11 +19,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 6 - Source of Knowledge (pramāṇa)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 40. Body (śarīra) [in Charaka philosophy]
+## Body (śarīra) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -63,105 +61,171 @@ The Nyāya-Vaiśeṣikas also do not accept such a subtle body. The Vedāntins a
 
 Though the classical Sāṃkhyas and the Vedāntins accept a subtle body as Caraka, there is a difference in their conceptions. In Carakasaṃhitā, “I consciousness”, and the ten sense capacities are not recognized as constituents of the subtle body. But in the Sāṃkhya and the Vedānta philosophy they are also recognized as the constituents of the subtle body.
 
-[1]:
 
-śṛ-pratikṣaṇaṃ kṣīyamāṇe dehe, Śabdastoma Mahanidhi., p. 24; śīryate kālakarameṇeti śarīraṃ; "śṛhiṃsāyām', Vivṛti on Amarakośa., Vol.1, 2.6.70; p. 406.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> śṛ-pratikṣaṇaṃ kṣīyamāṇe dehe, Śabdastoma Mahanidhi., p. 24; śīryate kālakarameṇeti śarīraṃ; "śṛhiṃsāyām', Vivṛti on Amarakośa., Vol.1, 2.6.70; p. 406.
+</blockquote>
 
-[2]:
 
-cīyate annādibhi, ciñ ghañ ni..., dehe, Śabdastoma Mahanidhi., p. 117. cīyate avayavairiti kāyaḥ,"ciñ cayane', Ibid., Śarīraṃ śṛṇateḥ śamnatervā, Nirukta, III. i, p. 23.
 
-[3]:
 
-IK, p.1.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> cīyate annādibhi, ciñ ghañ ni..., dehe, Śabdastoma Mahanidhi., p. 117. cīyate avayavairiti kāyaḥ,"ciñ cayane', Ibid., Śarīraṃ śṛṇateḥ śamnatervā, Nirukta, III. i, p. 23.
+</blockquote>
 
-[4]:
 
-dih-san. sthūlasūkṣmakāryakāraṇarūpe śarīre, Śabdastoma Mahanidhi., p.223; dihyate annaraseneti dehaḥ. "dih upacaye' - Vivṛti on Amarakośa., Vol.1, 2. 6. 70
 
-[5]:
 
-tatra śarīraṃ nāma cetanādhiṣṭānabhūtaṃ pañcamahābhūtavikā rasamudāyātmakaṃ samayogavāhi, CS, Śārīra - sthāna, VI. 4.
+<div className="footnote-card"><strong>[3]</strong> IK, p.1.</div>
 
-[6]:
 
-Loc. cit., F. Note, 28, p. 231; Kāśyapasaṃhitā of Vṛddhajīvaka. Śārīra - sthāna, p. 67.
 
-[7]:
 
-doṣadhātumalamūlaṃ hi śarīram, Suśrutasaṃhitā of Suśruta., Su, XV. 3; doṣadhātumalamūlo hi dehaḥ— Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, XIX. p. 261;doṣadhātumalāmūlam sadā dehasya; taṃ calaḥ, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su. XI. 1; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Śārīra - sthāna, III. 3-8.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> dih-san. sthūlasūkṣmakāryakāraṇarūpe śarīre, Śabdastoma Mahanidhi., p.223; dihyate annaraseneti dehaḥ. "dih upacaye' - Vivṛti on Amarakośa., Vol.1, 2. 6. 70
+</blockquote>
 
-[8]:
 
-śarīraṃ sattvasaṃjñakaṃ ca vyādhīnāmāśrayo mataḥ tathā sukhānāṃ, CS, Su, I. 55.
 
-[9]:
 
-Ibid., 54.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> tatra śarīraṃ nāma cetanādhiṣṭānabhūtaṃ pañcamahābhūtavikā rasamudāyātmakaṃ samayogavāhi, CS, Śārīra - sthāna, VI. 4.
+</blockquote>
 
-[10]:
 
-ceṣṭendriyārthāśrayaḥ śarīraṃ. Nyāyasūtra., I. i. 11.
 
-[11]:
 
-ātmano bhogāyatanaṃ śarīraṃ, Dīpikā, TSA, p.7. śarīratvaṃ.......ceṣṭāśrayatvaṃ, NSMK, p. 121.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Loc. cit., F. Note, 28, p. 231; Kāśyapasaṃhitā of Vṛddhajīvaka. Śārīra - sthāna, p. 67.
+</blockquote>
 
-[12]:
 
-bhoktṛbhogyāyatanaṃ śarīraṃ. Praśastapādabhāṣya., p.82.
 
-[13]:
 
-ātmanaḥ bhogāyatanaṃ śarīraṃ. Mānameyodaya of Nārāyaṇa., p.153.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> doṣadhātumalamūlaṃ hi śarīram, Suśrutasaṃhitā of Suśruta., Su, XV. 3; doṣadhātumalamūlo hi dehaḥ— Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, XIX. p. 261;doṣadhātumalāmūlam sadā dehasya; taṃ calaḥ, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su. XI. 1; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Śārīra - sthāna, III. 3-8.
+</blockquote>
 
-[14]:
 
-pratyakṣāpratykṣāṇāṃ saṃyogasya apratyakṣatvāt pāñcabhautikaṃ na vidyate- Vaiśeṣikadarśana., IV. ii. 2.; also see Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 28586.
 
-[15]:
 
-guṇāntaraprādurbhāvācca na tryātmakaṃ.Vaiśeṣikadarśana., IV. ii. 3.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> śarīraṃ sattvasaṃjñakaṃ ca vyādhīnāmāśrayo mataḥ tathā sukhānāṃ, CS, Su, I. 55.
+</blockquote>
 
-[16]:
 
-pārthivaṃ guṇāntaropalabdheḥ, Nyāyasūtra., III. i. 28.
 
-[17]:
 
-aṇusaṃyogastvapratiṣiddhaḥ, Vaiśeṣikadarśana., IV. ii. 4; mithaḥ pañcānāṃ prasparamupaṣṭaṃbhakatayā saṃyogo na niṣidhyate, Śaṅkaramiśra, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 287; sati ca prakṛtibhāve bhūtanāṃ dharmopalabdhiḥ asati ca saṃyogapratiṣedhāt sannihitānāmiti, Vātsyāyana on Nyāyasūtra.. III. i. 28, Nyāya-Bhāṣya of Vātsyāyana., pp. 244-45; “......tena pārthivaśarīre jalādīnāṃ nimittatvamātraṃ bodhyaṃ”, NSMK. p. 121.
+<div className="footnote-card"><strong>[9]</strong> Ibid., 54.</div>
 
-[18]:
 
-sūryaṃ te cakṣuspṛṇomi .....pṛtivīm te śarīraṃ spṛṇomi. Ṛgveda-Saṃhitā, X.xvi. 3.
 
-[19]:
 
-tadvadindriyāṇāṃ punaḥ sattvādīnāṃ kevalaṃ cetanāvaccharīramayanabhūtamadhiṣṭānabhūtaṃ ca, CS, Vimāna - sthāna, V. 6.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> ceṣṭendriyārthāśrayaḥ śarīraṃ. Nyāyasūtra., I. i. 11.
+</blockquote>
 
-[20]:
 
-CS, Śārīra - sthāna, I. 136.
 
-[21]:
 
-yadā hyasmin śarīre dhātavo vaiṣamyamāpadyate tadā kleśaṃ vināśaṃ ca prāpnoti, CS, Śārīra - sthāna, VI. 4; See supra, pp. 139 - 40.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> ātmano bhogāyatanaṃ śarīraṃ, Dīpikā, TSA, p.7. śarīratvaṃ.......ceṣṭāśrayatvaṃ, NSMK, p. 121.
+</blockquote>
 
-[22]:
 
-hitāhāropayoga eka eva puruṣavṛddhikaro bhavati ahitāhāropayogaḥ punarvyādhinimittamiti, CS, Su, XXV. 31.
 
-[23]:
 
-śarīrāvayavāstu paramaṇubhedena aparisaṃkhyeyā bhavanti, CS, Śārīra-sthāna, VII. 17.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> bhoktṛbhogyāyatanaṃ śarīraṃ. Praśastapādabhāṣya., p.82.
+</blockquote>
 
-[24]:
 
-yugapajjñānānutpattirmanaso liṅgaṃ, Nyāyasūtra., I. i. 16.
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> ātmanaḥ bhogāyatanaṃ śarīraṃ. Mānameyodaya of Nārāyaṇa., p.153.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> pratyakṣāpratykṣāṇāṃ saṃyogasya apratyakṣatvāt pāñcabhautikaṃ na vidyate- Vaiśeṣikadarśana., IV. ii. 2.; also see Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 28586.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> guṇāntaraprādurbhāvācca na tryātmakaṃ.Vaiśeṣikadarśana., IV. ii. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> pārthivaṃ guṇāntaropalabdheḥ, Nyāyasūtra., III. i. 28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> aṇusaṃyogastvapratiṣiddhaḥ, Vaiśeṣikadarśana., IV. ii. 4; mithaḥ pañcānāṃ prasparamupaṣṭaṃbhakatayā saṃyogo na niṣidhyate, Śaṅkaramiśra, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 287; sati ca prakṛtibhāve bhūtanāṃ dharmopalabdhiḥ asati ca saṃyogapratiṣedhāt sannihitānāmiti, Vātsyāyana on Nyāyasūtra.. III. i. 28, Nyāya-Bhāṣya of Vātsyāyana., pp. 244-45; “......tena pārthivaśarīre jalādīnāṃ nimittatvamātraṃ bodhyaṃ”, NSMK. p. 121.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> sūryaṃ te cakṣuspṛṇomi .....pṛtivīm te śarīraṃ spṛṇomi. Ṛgveda-Saṃhitā, X.xvi. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> tadvadindriyāṇāṃ punaḥ sattvādīnāṃ kevalaṃ cetanāvaccharīramayanabhūtamadhiṣṭānabhūtaṃ ca, CS, Vimāna - sthāna, V. 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> CS, Śārīra - sthāna, I. 136.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> yadā hyasmin śarīre dhātavo vaiṣamyamāpadyate tadā kleśaṃ vināśaṃ ca prāpnoti, CS, Śārīra - sthāna, VI. 4; See supra, pp. 139 - 40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> hitāhāropayoga eka eva puruṣavṛddhikaro bhavati ahitāhāropayogaḥ punarvyādhinimittamiti, CS, Su, XXV. 31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> śarīrāvayavāstu paramaṇubhedena aparisaṃkhyeyā bhavanti, CS, Śārīra-sthāna, VII. 17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> yugapajjñānānutpattirmanaso liṅgaṃ, Nyāyasūtra., I. i. 16.
+</blockquote>
 
 ---
 
-## 41. Knowledge (pramāṇa) [in Charaka philosophy]
+## Knowledge (pramāṇa) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -199,125 +263,206 @@ Even though various thinkers have given their own definitions, all of them agree
 
 As far as Āyurveda is concerned, it has got a high pragmatic value. It makes use of the pramāṇas in diagnosis of diseases and applying therapeutic measures as has been exemplified in Carakasaṃhitā. After grasping the characteristic features of the disease from scriptural testimony, the physician examines the diseased by direct observation and inference and arrives at a conclusion regarding the disease.One who is skillful in operating this procedure seldom fails to act properly as a physician.[29]
 
-[1]:
 
-“mā māne”. Mādhavīya Dhātuvṛtti of Sayaṇācārya, ed; Swāmi Dvārakādās Śāstrī,Tara Book Agency,Varanasi,Third ed., 2000, p. 65. 2 Hiriyanna, M., Journal of Oriental Research, Madras, 1940, pp. 1-2.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> “mā māne”. Mādhavīya Dhātuvṛtti of Sayaṇācārya, ed; Swāmi Dvārakādās Śāstrī,Tara Book Agency,Varanasi,Third ed., 2000, p. 65. 2 Hiriyanna, M., Journal of Oriental Research, Madras, 1940, pp. 1-2.
+</blockquote>
 
-[2]:
 
-dvividhameva khalu sarvaṃ saccāsacca; tasya caturvidhā parīkṣā-āptopadeśaḥ, pratyakṣaṃ, anumānaṃ yuktiśceti. CS. Su. XI. 17.
 
-[3]:
 
-CS, Vimāna - sthāna, IV. 3, 9.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> dvividhameva khalu sarvaṃ saccāsacca; tasya caturvidhā parīkṣā-āptopadeśaḥ, pratyakṣaṃ, anumānaṃ yuktiśceti. CS. Su. XI. 17.
+</blockquote>
 
-[4]:
 
-yukteranumānantarbhāvādeva na pṛthakkaraṇaṃ, Cakrapāṇi on CS. Vimāna-sthāna, IV. 3. But this view is not tenable. See infra, pp. 270 - 271.
 
-[5]:
 
-CS, Vimāna - sthāna, VIII. 27. See infra, p. 292.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> CS, Vimāna - sthāna, IV. 3, 9.
+</blockquote>
 
-[6]:
 
-“.........trividhe tvasmin jñānasamudāye pūrvamāptopadeśajñānaṃ, tataḥ pratyakṣānumānābhyaṃ parīkṣopapadyate”, CS, Vimāna - sthāna, IV. 5.
 
-[7]:
 
-“pratyakṣāgmāśritaṃ anumānaṃ sānvīkṣā = pratyakṣāgamābhyāmīkṣitasyānvīkṣāṇamānvīkṣā tayā pravartate ityānvīkṣikī nyāyavidyā = nyāyaśāstraṃ.”, Vātsyāyana on Nyāyasūtra., 1, i, Nyāya-Bhāṣya of Vātsyāyana., p. 6. ānvīkṣikī was the earliest name for Nyāya -śāstra.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> yukteranumānantarbhāvādeva na pṛthakkaraṇaṃ, Cakrapāṇi on CS. Vimāna-sthāna, IV. 3. But this view is not tenable. See infra, pp. 270 - 271.
+</blockquote>
 
-[8]:
 
-“pramānairarthaparīkṣānaṃ nyāyaḥ”, Ibid. The term Nyāya ultimately refers to syllogism. For details see Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. I, p. 540.
 
-[9]:
 
-aduṣṭaṃ vidyā, Vaiśeṣikadarśana., IX. ii. 12.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> CS, Vimāna - sthāna, VIII. 27. See infra, p. 292.
+</blockquote>
 
-[10]:
 
-upalabdhisādhanāni pramāṇānīti samākhyānirvacanasāmarthyād boddhavyaṃ-pramīyate'neneti karanārthābhidāno hi pramāṇa-śabdaḥ. Nyāya-Bhāṣya of Vātsyāyana., p. 18.
 
-[11]:
 
-viṣayāntaraṃ prati karaṇasādhanaṃ pramīyate'neneti pramāṇaṃ,
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> “.........trividhe tvasmin jñānasamudāye pūrvamāptopadeśajñānaṃ, tataḥ pratyakṣānumānābhyaṃ parīkṣopapadyate”, CS, Vimāna - sthāna, IV. 5.
+</blockquote>
 
-[12]:
 
-samyaganubhavasādhanaṃ pramāṇaṃ, Nyāyasara of Bhāsarvajña., p. 2.
 
-[13]:
 
-avyabhicāriṇamasandigdhamarthopalabdhiṃ vidadhatī bodhābodhasvabhāvasāmagrī pramāṇaṃ, Nyāyamañjarī of Jayantabhaṭṭa., Part—I, p.12.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> “pratyakṣāgmāśritaṃ anumānaṃ sānvīkṣā = pratyakṣāgamābhyāmīkṣitasyānvīkṣāṇamānvīkṣā tayā pravartate ityānvīkṣikī nyāyavidyā = nyāyaśāstraṃ.”, Vātsyāyana on Nyāyasūtra., 1, i, Nyāya-Bhāṣya of Vātsyāyana., p. 6. ānvīkṣikī was the earliest name for Nyāya -śāstra.
+</blockquote>
 
-[14]:
 
-tasmādajñātatattvārthajñānasādhanameva naḥ pramāṇamiti nirnītaṃ, Mānameyodaya of Nārāyaṇa., p. 8.
 
-[15]:
 
-anubhūtiḥ pramāṇaṃ smṛtivyatiriktā samvidanubhūtiḥ iti, prābhākarah. ibid., p. 7.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> “pramānairarthaparīkṣānaṃ nyāyaḥ”, Ibid. The term Nyāya ultimately refers to syllogism. For details see Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. I, p. 540.
+</blockquote>
 
-[16]:
 
-Dharmottara on Nyāya Bindu of Dharmakīrti., p. 4.
 
-[17]:
 
-anadhigatārthajñāpakaṃ pramāṇaṃ; Abhedanandabhaṭṭācārya Nyāyapramāṇasamīkṣā, Parimal Publications, Delhi, 1987, p. 19.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> aduṣṭaṃ vidyā, Vaiśeṣikadarśana., IX. ii. 12.
+</blockquote>
 
-[18]:
 
-Max Muller, Six Systems of Indian Philosophy, The Chowkhamba Sanskrit Studies, Vol. XVI, The Chawkhamha Sanskrit Series Office, Varanasi, 4th edn.1971, p. 143.
 
-[19]:
 
-pramāṇato'rthapratipattau pravṛttisāmarthyādarthavatpramāṇaṃ, Nyāya-Bhāṣya of Vātsyāyana., p.1; jñānaṃ vyavasāyeneti vyavasāyaḥ pravṛtti, yathā- peyajale pānārthā pravṛttiḥ; tenānumīyate jalajñānamasya jātaṃ, kathamanyathā, for details see CS, Vimāna - sthāna, IV. 5-12. jñānakāryārtha kriyāyāṃ pravartate iti. Cakrapāṇi on CS, Vimāna-sthāna, IV. 8; also see Dharmottara onNB, p. 4.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> upalabdhisādhanāni pramāṇānīti samākhyānirvacanasāmarthyād boddhavyaṃ-pramīyate'neneti karanārthābhidāno hi pramāṇa-śabdaḥ. Nyāya-Bhāṣya of Vātsyāyana., p. 18.
+</blockquote>
 
-[20]:
 
-pratyakṣamekameva pramāṇaṃ yathārthajñānasādhanamiti cārvākāḥ manyante, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upodghāta”, p. 29.
 
-[21]:
 
-pratyakṣamanumānañceti, Nyāya Bindu of Dharmakīrti., p. 8; Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upodghāta”, p. 30.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> viṣayāntaraṃ prati karaṇasādhanaṃ pramīyate'neneti pramāṇaṃ,
+</blockquote>
 
-[22]:
 
-Ibid.
 
-[23]:
 
-Sāṃkhyakārikā, 4.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> samyaganubhavasādhanaṃ pramāṇaṃ, Nyāyasara of Bhāsarvajña., p. 2.
+</blockquote>
 
-[24]:
 
-pratyakṣanumānopamānaśabdāḥ pramāṇāni, Nyāyasūtra., l. i. 3; There is a class of Naiyāyikas (ekadeśis) who exclude comparison and acknowledge only three: “trividhaṃ pramāṇaṃ. pratyakṣamanumānamāgamaśceti”, Nyāyasara of Bhāsarvajña., p. 9.
 
-[25]:
 
-uktaṃ pramāṇacatuṣṭayamarthāpattiśceti pramāṇapañcakaṃ mīmāṃsakaviśeṣāḥ prābhākarāḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upodghāta”, p. 30.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> avyabhicāriṇamasandigdhamarthopalabdhiṃ vidadhatī bodhābodhasvabhāvasāmagrī pramāṇaṃ, Nyāyamañjarī of Jayantabhaṭṭa., Part—I, p.12.
+</blockquote>
 
-[26]:
 
-pratyakṣamanumānaṃ ca śabdaṃ copamitistathā arthāpattirabhāvaśca ṣaḍ pramāṇāni mādṛśāṃ. Mānameyodaya of Nārāyaṇa., p. 8.
 
-[27]:
 
-tāni ca pramāṇāni ṣaḍ - pratyakṣānumānopamānāgamārthāp atyanupalabdhibhedāt, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.8.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> tasmādajñātatattvārthajñānasādhanameva naḥ pramāṇamiti nirnītaṃ, Mānameyodaya of Nārāyaṇa., p. 8.
+</blockquote>
 
-[28]:
 
-paurāṇikāstvaṣṭakamabhidadhire saṃbhavaitihyayogāt, Mānameyodaya of Nārāyaṇa., p. 9.
 
-[29]:
 
-For details see CS, Vimāna - sthāna, IV. 5-12.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> anubhūtiḥ pramāṇaṃ smṛtivyatiriktā samvidanubhūtiḥ iti, prābhākarah. ibid., p. 7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Dharmottara on Nyāya Bindu of Dharmakīrti., p. 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> anadhigatārthajñāpakaṃ pramāṇaṃ; Abhedanandabhaṭṭācārya Nyāyapramāṇasamīkṣā, Parimal Publications, Delhi, 1987, p. 19.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Max Muller, Six Systems of Indian Philosophy, The Chowkhamba Sanskrit Studies, Vol. XVI, The Chawkhamha Sanskrit Series Office, Varanasi, 4th edn.1971, p. 143.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> pramāṇato'rthapratipattau pravṛttisāmarthyādarthavatpramāṇaṃ, Nyāya-Bhāṣya of Vātsyāyana., p.1; jñānaṃ vyavasāyeneti vyavasāyaḥ pravṛtti, yathā- peyajale pānārthā pravṛttiḥ; tenānumīyate jalajñānamasya jātaṃ, kathamanyathā, for details see CS, Vimāna - sthāna, IV. 5-12. jñānakāryārtha kriyāyāṃ pravartate iti. Cakrapāṇi on CS, Vimāna-sthāna, IV. 8; also see Dharmottara onNB, p. 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> pratyakṣamekameva pramāṇaṃ yathārthajñānasādhanamiti cārvākāḥ manyante, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upodghāta”, p. 29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> pratyakṣamanumānañceti, Nyāya Bindu of Dharmakīrti., p. 8; Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upodghāta”, p. 30.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Sāṃkhyakārikā, 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> pratyakṣanumānopamānaśabdāḥ pramāṇāni, Nyāyasūtra., l. i. 3; There is a class of Naiyāyikas (ekadeśis) who exclude comparison and acknowledge only three: “trividhaṃ pramāṇaṃ. pratyakṣamanumānamāgamaśceti”, Nyāyasara of Bhāsarvajña., p. 9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> uktaṃ pramāṇacatuṣṭayamarthāpattiśceti pramāṇapañcakaṃ mīmāṃsakaviśeṣāḥ prābhākarāḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., “Upodghāta”, p. 30.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> pratyakṣamanumānaṃ ca śabdaṃ copamitistathā arthāpattirabhāvaśca ṣaḍ pramāṇāni mādṛśāṃ. Mānameyodaya of Nārāyaṇa., p. 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> tāni ca pramāṇāni ṣaḍ - pratyakṣānumānopamānāgamārthāp atyanupalabdhibhedāt, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> paurāṇikāstvaṣṭakamabhidadhire saṃbhavaitihyayogāt, Mānameyodaya of Nārāyaṇa., p. 9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> For details see CS, Vimāna - sthāna, IV. 5-12.
+</blockquote>
 
 ---
 
-## 42. Sense capacities [in Charaka philosophy]
+## Sense capacities [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -341,13 +486,7 @@ the sense of touch (tvak).[1]
 
 The five action capacities are those of:
 
-handling (pāṇi),
-
-walking-(pāda),
-
-excretion (pāyu),
-
-reproduction (upastha),
+handling (pāṇi),, walking-(pāda),, excretion (pāyu),, reproduction (upastha),
 
 speech (vāk).161
 
@@ -377,205 +516,316 @@ The peculiarity of the description of sense capacities as having both the nature
 
 Caraka holds that the organ of touch pervades all the sense capacities and also the mind.[42] No sensation is possible with out the contact of the sense organ of touch. So perception is possible only if objects fall with in the range of touch. Thus, the sense of touch is conterminous with all the senses. The most conspicuous aspect of this theory is that the sense of touch is in perpetual relation with the mind while the mind in turn pervades and governs the sense of touch. So, even though the sense of touch pervades all the senses, there is no chance of simultaneous perception because it occurs only where the atomic mind is active.[43] Skin is only the end organ of touch and consists of six layers.[44] Akṣapāda refers to a similar theory which considers that the sense of touch is the only sense organ and refutes it.[45] This is further reiterated by Jayantabhaṭṭa.[46] At the same time, the later Nyāya- Vaiśeṣikas believe that the sense of touch pervades the whole body.[47] They also consider that the contact mind with the sense of touch as a general condition for cognition.[48] The sense perceptions are all determinate and at the same time momentary in nature. [49] However, we cannot set aside the view point of Caraka that the sense capacities are physical as well as pervading because it is not a mere hypothesis but an inferential knowledge based on empirical analysis.
 
-[1]:
 
-CS, Su, VIII. 8. 161 Ibid., CS, Śārīra - sthāna, I. 25, 162 Ibid., 26.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Su, VIII. 8. 161 Ibid., CS, Śārīra - sthāna, I. 25, 162 Ibid., 26.
+</blockquote>
 
-[2]:
 
-Ibid., 56-57.
 
-[3]:
 
-vākpāṇipādapāyūpsthāni karmendriyānyāhuḥ, Sāṃkhyakārikā, 26; Vijñānabhikṣu on Sāṃkhya-sūtra,, II. 19, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 100.
+<div className="footnote-card"><strong>[2]</strong> Ibid., 56-57.</div>
 
-[4]:
 
-Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 60; Vedānta- Sāra of Sadānanda Yogīndra., p. 49.
 
-[5]:
 
-See “vāgādīnāṃindriyatvakhaṇḍanaṃ”, Nyāyamañjarī of Jayantabhaṭṭa., Part—II. pp. 54.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> vākpāṇipādapāyūpsthāni karmendriyānyāhuḥ, Sāṃkhyakārikā, 26; Vijñānabhikṣu on Sāṃkhya-sūtra,, II. 19, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 100.
+</blockquote>
 
-[6]:
 
-IP, p.1.
 
-[7]:
 
-“Phenomenology and Indian, Philosophy, Sibajiban Bhattacharyya”, PIP p. 60. The Buddhists hold that the sense capacities are nothing but the end organs. IP, p. 5.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 60; Vedānta- Sāra of Sadānanda Yogīndra., p. 49.
+</blockquote>
 
-[8]:
 
-“iha khalu pañcendriyāṇi, pañcendriyadravyāṇi, pañcendriyādhṣṭhānāṇi, pañcendriyārthāḥ, pañcendriyabuddhayo bhavanti”, CS, Su,VIII. 3.
 
-[9]:
 
-Ibid., 10.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> See “vāgādīnāṃindriyatvakhaṇḍanaṃ”, Nyāyamañjarī of Jayantabhaṭṭa., Part—II. pp. 54.
+</blockquote>
 
-[10]:
 
-Ibid.,11.
 
-[11]:
 
-ṣaḍaṅgamaṅgaṃ vijñānamindriyānyarthapañcakaṃ ātmā ca saguṇaścetaścintyaṃ ca hṛdi saṃśritaṃ. Ibid., XXX, 4.
+<div className="footnote-card"><strong>[6]</strong> IP, p.1.</div>
 
-[12]:
 
-śirasi indriyāni indriyaprāṇavahāni ca srotāṃsi sūryamiva gabhastayaḥ saṃśritāni, CS, Siddhi - sthāna, IX. 4.
 
-[13]:
 
-IP, p. 1.
+<div className="footnote-card"><strong>[7]</strong> “Phenomenology and Indian, Philosophy, Sibajiban Bhattacharyya”, PIP p. 60. The Buddhists hold that the sense capacities are nothing but the end organs. IP, p. 5.</div>
 
-[14]:
 
-śarīrāśrayaṃ jñāturaparokṣapratītisādhanaṃ dravyamindriyaṃ, Praśastapādabhāṣya., p. 82.
 
-[15]:
 
-svaviṣayagrahaṇalakṣaṇatvamindriyāṇāṃ, Nyāya-Vārttika of Udyotakāra., p. 72.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> “iha khalu pañcendriyāṇi, pañcendriyadravyāṇi, pañcendriyādhṣṭhānāṇi, pañcendriyārthāḥ, pañcendriyabuddhayo bhavanti”, CS, Su,VIII. 3.
+</blockquote>
 
-[16]:
 
-śabdetaroḍbhūtaviśeṣaguṇānāśrayatve sati jñānakāraṇamanasaṃyogāśrayatvaṃ, See Dīpikā, TSA, p. 7; NSMK, p.197.
 
-[17]:
 
-CS, Śārīra - sthāna, I. 24.
+<div className="footnote-card"><strong>[9]</strong> Ibid., 10.</div>
 
-[18]:
 
-The articulation CS, Su, V.100 is an instance which is expressive of the transaction of the sense organs and body.
 
-[19]:
 
-Vaiśeṣikadarśana., VIII. ii. 5, 6; ghrāṇarasanacakṣustvakśrotrāṇi bhūtebhyaḥ, Nyāyasūtra., I. i. 12; III. i. 60; asti cāyamindriyāṇāṃ bhūtaguṇaviśeṣopalabdhiniyamaḥ tena bhūtaguṇaviśeṣopalabdhermanyāmahe bhūtaprakṛtīnīndriyāṇi nāvyaktaprakṛtīnīti, Vātsyāyana on Nyāyasūtra., III, i, Nyāya-Bhāṣya of Vātsyāyana.. p. 60; bhautikānīndriyāṇīti samarthitaṃ, Nyāya-Vārttika of Udyotakāra., p. 388; evaṃ bhautikānīndriyāṇi svaṃ svaṃ viṣayamadhigantumutsahanta iti tallakṣaṇatvameṣāṃ siddhyatīti ato bhūtebhaḥ ityuktaṃ, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 51.
+<div className="footnote-card"><strong>[10]</strong> Ibid.,11.</div>
 
-[20]:
 
-indriyaṃ sarvaprāṇīnāṃ rūpavyañjakamanyāvayavānabhibhū taistejo'vayavai rārabdhaṃ cakṣuḥ, Praśastapādabhāṣya., p. 99.
 
-[21]:
 
-śrotram punaḥ śravaṇavivarasaṃjñako nabhodeśaḥ, Ibid., p. 152.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> ṣaḍaṅgamaṅgaṃ vijñānamindriyānyarthapañcakaṃ ātmā ca saguṇaścetaścintyaṃ ca hṛdi saṃśritaṃ. Ibid., XXX, 4.
+</blockquote>
 
-[22]:
 
-pṛthivyādyanabhibhūtairvāyyuvavayavairārabdhaṃ sarvaśarīravyāpi tvagindriyaṃ, Ibid., pp. 113 - 14.
 
-[23]:
 
-Ibid., p. 96.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> śirasi indriyāni indriyaprāṇavahāni ca srotāṃsi sūryamiva gabhastayaḥ saṃśritāni, CS, Siddhi - sthāna, IX. 4.
+</blockquote>
 
-[24]:
 
-Ibid., p. 87.
 
-[25]:
 
-Loc. cit., p. 243.
+<div className="footnote-card"><strong>[13]</strong> IP, p. 1.</div>
 
-[26]:
 
-kiṃ kimātmakamiti yena yatguṇābhivyaktiḥ. tatra pārthivaṃ ghrāṇaṃ gandhābhivyaktihetutvād bahyapārthivadravyavaditi. evaṃ śeṣeṣvapi, Nyāya-Vārttika of Udyotakāra., p.395; pārthivaṃ ghrāṇaṃ dravyatve sati rūpādimadhye gandhasyaiva vyañjakatvāt gandhayuktadravyatvāt, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 53; NSMK, p. 124.
 
-[27]:
 
-Mānameyodaya of Nārāyaṇa., pp.10-11. Jadunath Sinha points out that the Mīmāṃsakas regard the auditory organ as a portion of the space - dik confined with in the ear-hole. IP, p.15.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> śarīrāśrayaṃ jñāturaparokṣapratītisādhanaṃ dravyamindriyaṃ, Praśastapādabhāṣya., p. 82.
+</blockquote>
 
-[28]:
 
-sāttvika ekādaśaḥ prvartate vaikṛtādahaṃkārāt, Sāṃkhyakārikā, 25; Sāṃkhya-sūtra,, II.18.
 
-[29]:
 
-āhaṃkārikatvaśruterna bhautikāni. Sāṃkhya-sūtra,, II. 20; see also Vijñānabhikṣu on ibid; bhautikaṃ hi yāvat tāvadeva vyāpnoti abhautikaṃ tu vibhutvāt sarvavyāpakaṃ, Vātsyāyana on Nyāyasūtra., III. i.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> svaviṣayagrahaṇalakṣaṇatvamindriyāṇāṃ, Nyāya-Vārttika of Udyotakāra., p. 72.
+</blockquote>
 
-[30]:
 
-IP, p. 4.
 
-[31]:
 
-PVS. p. 165.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> śabdetaroḍbhūtaviśeṣaguṇānāśrayatve sati jñānakāraṇamanasaṃyogāśrayatvaṃ, See Dīpikā, TSA, p. 7; NSMK, p.197.
+</blockquote>
 
-[32]:
 
-tatra vaikārikādahaṃkārāttaijasasahāyāttallakṣaṇānyevaikādaśendriyāṇyutpadyante, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 4.
 
-[33]:
 
-etaiśca satvaguṇopetaiḥ pañcabhūtairvyastairyathākramaṃ śrotratvakcakṣurasanaghrāṇāni pañcajñānendriyāṇi jāyante, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 159; Vedānta- Sāra of Sadānanda Yogīndra., p. 45.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> CS, Śārīra - sthāna, I. 24.
+</blockquote>
 
-[34]:
 
-etaireva rajoguṇopetaiḥ pañcabhūtairyathākramaṃ vākpāṇipādapāyūpasthākhyāni karmendriyāṇi jāyante, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.160.
 
-[35]:
 
-manaḥ puraḥsarāṇīndriyāṇyarthagrāhaṇsamarthāni bhavanti, CS, Su,VIII. 7.
+<div className="footnote-card"><strong>[18]</strong> The articulation CS, Su, V.100 is an instance which is expressive of the transaction of the sense organs and body.</div>
 
-[36]:
 
-tatra yadyadātmakamindriyaṃ viśeṣāttattadātmkamevārthamanugṛhṇāti, tatsvabhāvādvibhutvācca, Ibid., 14.
 
-[37]:
 
-cikitsadiprayogastu golake yaḥ pravartate so'yam adhārasaṃskāra ādheyasyopakāraḥ, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 51.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Vaiśeṣikadarśana., VIII. ii. 5, 6; ghrāṇarasanacakṣustvakśrotrāṇi bhūtebhyaḥ, Nyāyasūtra., I. i. 12; III. i. 60; asti cāyamindriyāṇāṃ bhūtaguṇaviśeṣopalabdhiniyamaḥ tena bhūtaguṇaviśeṣopalabdhermanyāmahe bhūtaprakṛtīnīndriyāṇi nāvyaktaprakṛtīnīti, Vātsyāyana on Nyāyasūtra., III, i, Nyāya-Bhāṣya of Vātsyāyana.. p. 60; bhautikānīndriyāṇīti samarthitaṃ, Nyāya-Vārttika of Udyotakāra., p. 388; evaṃ bhautikānīndriyāṇi svaṃ svaṃ viṣayamadhigantumutsahanta iti tallakṣaṇatvameṣāṃ siddhyatīti ato bhūtebhaḥ ityuktaṃ, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 51.
+</blockquote>
 
-[38]:
 
-IP, p. 2, 27.
 
-[39]:
 
-bhautikendriyavāde'pi prāpyakāritvasiddhirna kāpilakathitamāhaṃkārikatvamindriyāṇāmupapadyate, Nyāyamañjarī of Jayantabhaṭṭa., Part—II. p. 52.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> indriyaṃ sarvaprāṇīnāṃ rūpavyañjakamanyāvayavānabhibhū taistejo'vayavai rārabdhaṃ cakṣuḥ, Praśastapādabhāṣya., p. 99.
+</blockquote>
 
-[40]:
 
-IP, p. 2.
 
-[41]:
 
-Ibid., p. 21.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> śrotram punaḥ śravaṇavivarasaṃjñako nabhodeśaḥ, Ibid., p. 152.
+</blockquote>
 
-[42]:
 
-tatraikaṃ sparśanamindriyāṇāmindriyavyāpakaṃ, cetaḥsamavāyi, sparśanavyāptervyāpakamapi ca cetaḥ;, CS, Su, XI. 38.
 
-[43]:
 
-see Cakrapāṇi on ibid.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> pṛthivyādyanabhibhūtairvāyyuvavayavairārabdhaṃ sarvaśarīravyāpi tvagindriyaṃ, Ibid., pp. 113 - 14.
+</blockquote>
 
-[44]:
 
-CS, Śārīra - sthāna, VII. 4. Suśruta describes seven layers of skin. see Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, V. 6.
 
-[45]:
 
-See Nyāyasūtra., III. i. 52-54.
+<div className="footnote-card"><strong>[23]</strong> Ibid., p. 96.</div>
 
-[46]:
 
-see “ekendriyavādakhaṇḍanaṃ”, Nyāyamañjarī of Jayantabhaṭṭa., part—II, pp. 53-54.
 
-[47]:
 
-“indriyaṃ sparśagrāhakaṃ tvak sarvaśarīravarti.”, TSA, p. 9; śarīravyāpakaṃ sparśagrāhakamindriyaṃ tvak, NSMK, p.146. Kaṇāda is silent in this matter.
+<div className="footnote-card"><strong>[24]</strong> Ibid., p. 87.</div>
 
-[48]:
 
-tvaṅmanaḥsaṃyogo jñānasāmānye kāraṇamityarthaḥ, NSMK, p.191.
 
-[49]:
 
-CS, Su, VIII. 12.
+<div className="footnote-card"><strong>[25]</strong> Loc. cit., p. 243.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> kiṃ kimātmakamiti yena yatguṇābhivyaktiḥ. tatra pārthivaṃ ghrāṇaṃ gandhābhivyaktihetutvād bahyapārthivadravyavaditi. evaṃ śeṣeṣvapi, Nyāya-Vārttika of Udyotakāra., p.395; pārthivaṃ ghrāṇaṃ dravyatve sati rūpādimadhye gandhasyaiva vyañjakatvāt gandhayuktadravyatvāt, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 53; NSMK, p. 124.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Mānameyodaya of Nārāyaṇa., pp.10-11. Jadunath Sinha points out that the Mīmāṃsakas regard the auditory organ as a portion of the space - dik confined with in the ear-hole. IP, p.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> sāttvika ekādaśaḥ prvartate vaikṛtādahaṃkārāt, Sāṃkhyakārikā, 25; Sāṃkhya-sūtra,, II.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> āhaṃkārikatvaśruterna bhautikāni. Sāṃkhya-sūtra,, II. 20; see also Vijñānabhikṣu on ibid; bhautikaṃ hi yāvat tāvadeva vyāpnoti abhautikaṃ tu vibhutvāt sarvavyāpakaṃ, Vātsyāyana on Nyāyasūtra., III. i.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> IP, p. 4.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> PVS. p. 165.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> tatra vaikārikādahaṃkārāttaijasasahāyāttallakṣaṇānyevaikādaśendriyāṇyutpadyante, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> etaiśca satvaguṇopetaiḥ pañcabhūtairvyastairyathākramaṃ śrotratvakcakṣurasanaghrāṇāni pañcajñānendriyāṇi jāyante, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 159; Vedānta- Sāra of Sadānanda Yogīndra., p. 45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> etaireva rajoguṇopetaiḥ pañcabhūtairyathākramaṃ vākpāṇipādapāyūpasthākhyāni karmendriyāṇi jāyante, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p.160.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> manaḥ puraḥsarāṇīndriyāṇyarthagrāhaṇsamarthāni bhavanti, CS, Su,VIII. 7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> tatra yadyadātmakamindriyaṃ viśeṣāttattadātmkamevārthamanugṛhṇāti, tatsvabhāvādvibhutvācca, Ibid., 14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> cikitsadiprayogastu golake yaḥ pravartate so'yam adhārasaṃskāra ādheyasyopakāraḥ, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, p. 51.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> IP, p. 2, 27.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> bhautikendriyavāde'pi prāpyakāritvasiddhirna kāpilakathitamāhaṃkārikatvamindriyāṇāmupapadyate, Nyāyamañjarī of Jayantabhaṭṭa., Part—II. p. 52.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> IP, p. 2.</div>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> Ibid., p. 21.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> tatraikaṃ sparśanamindriyāṇāmindriyavyāpakaṃ, cetaḥsamavāyi, sparśanavyāptervyāpakamapi ca cetaḥ;, CS, Su, XI. 38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> see Cakrapāṇi on ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> CS, Śārīra - sthāna, VII. 4. Suśruta describes seven layers of skin. see Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, V. 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> See Nyāyasūtra., III. i. 52-54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> see “ekendriyavādakhaṇḍanaṃ”, Nyāyamañjarī of Jayantabhaṭṭa., part—II, pp. 53-54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> “indriyaṃ sparśagrāhakaṃ tvak sarvaśarīravarti.”, TSA, p. 9; śarīravyāpakaṃ sparśagrāhakamindriyaṃ tvak, NSMK, p.146. Kaṇāda is silent in this matter.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> tvaṅmanaḥsaṃyogo jñānasāmānye kāraṇamityarthaḥ, NSMK, p.191.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> CS, Su, VIII. 12.</div>
 
 ---
-
-
 
 ---
 
@@ -584,10 +834,6 @@ CS, Su, VIII. 12.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Verbal Testimony (śabda) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

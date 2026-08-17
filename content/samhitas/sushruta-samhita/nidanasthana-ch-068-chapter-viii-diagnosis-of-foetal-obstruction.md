@@ -71,18 +71,34 @@ In performing obstetric operations with success examples like this are not rare.
 We extract here the two different readings and leave our readers to judge whether we are correct to draw the above inferences.—Ed.
 
 vastihare vipannayaḥ kukṣiḥ praspandate yadi | 
-janmakale tataḥ shighraṃ paṭayitvoddharecchishum || 
+
+<blockquote className="ayur-shloka">
+janmakale tataḥ shighraṃ paṭayitvoddharecchishum ||
+</blockquote>
+
       Bagabhata Sharira Sthana. ch. II. slo. 53.
 
 vastamara vipannayaḥ kukṣiḥ praspandate yadi | 
+
+<blockquote className="ayur-shloka">
 tatkṣaṇajvanmakale taṃ paṭayitvoharedbhiṣak ||
+</blockquote>
+
 
 vastihare vipannayaḥ kukṣiḥ praspandate yadi | 
-janmakale tataḥ shighraṃ paṭayitvoddharecchishum || 
+
+<blockquote className="ayur-shloka">
+janmakale tataḥ shighraṃ paṭayitvoddharecchishum ||
+</blockquote>
+
       Bagabhata Sharira Sthana. ch. II. slo. 53.
 
 vastamara vipannayaḥ kukṣiḥ praspandate yadi | 
+
+<blockquote className="ayur-shloka">
 tatkṣaṇajvanmakale taṃ paṭayitvoharedbhiṣak ||
+</blockquote>
+
 
 Thus ends the eighth Chapter of the Nidana Sthana in the Sushruta Samhita, which treats of Nidana of difficult labour and false presentations.
 

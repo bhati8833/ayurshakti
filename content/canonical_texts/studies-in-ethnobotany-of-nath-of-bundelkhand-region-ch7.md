@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Summary within Studies In Ethnobotany Of Nath Of Bundelkhand Region. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Chapter 7 - Summary
+## Chapter 7 - Summary
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -37,8 +37,6 @@ Lice/Insects Maggots Rheumatism Skin diseases/Worts Sores/Foot sores Stomachache
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ Lice/Insects Maggots Rheumatism Skin diseases/Worts Sores/Foot sores Stomachache
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

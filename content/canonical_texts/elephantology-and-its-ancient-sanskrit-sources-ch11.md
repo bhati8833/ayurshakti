@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ayurvedic treatments of Elephants in Kerala style within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter 7 - Ayurvedic treatments of Elephants in Kerala style
+## Chapter 7 - Ayurvedic treatments of Elephants in Kerala style
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -828,145 +828,175 @@ By applying recuperative treatment, elephant’s diseases are decreasing or may 
 
 In many ways elephant is considered as valuable one. Elephant is a serviceable animal and it provides economical benefits to the country.
 
-[1]:
 
-Valarthumrigangal. vii.117-178.
+<div className="footnote-card"><strong>[1]</strong> Valarthumrigangal. vii.117-178.</div>
 
-[2]:
 
-Matangalila. 11. 18-21.
 
-[3]:
 
-Matangalila. 11.25-27.
+<div className="footnote-card"><strong>[2]</strong> Matangalila. 11. 18-21.</div>
 
-[4]:
 
-Asian elephant.VIII.105.
 
-[5]:
 
-Ana. XI. 125.
+<div className="footnote-card"><strong>[3]</strong> Matangalila. 11.25-27.</div>
 
-[6]:
 
-Matangalila. XI. 39. 77.
 
-[7]:
 
-Matangalila. XI. 40. 77.
+<div className="footnote-card"><strong>[4]</strong> Asian elephant.VIII.105.</div>
 
-[8]:
 
-Ibid. 22. 70.
 
-[9]:
 
-Hastyayurveda. I 22-23. 55.
+<div className="footnote-card"><strong>[5]</strong> Ana. XI. 125.</div>
 
-[10]:
 
-Valarttumrigangal. VIII. 182-186.
 
-[11]:
 
-Ana. XII. 125.
+<div className="footnote-card"><strong>[6]</strong> Matangalila. XI. 39. 77.</div>
 
-[12]:
 
-Hastyayurveda. 1.2.271-218.
 
-[13]:
 
-Hastyayurveda II. Uttarasthana.105.41
+<div className="footnote-card"><strong>[7]</strong> Matangalila. XI. 40. 77.</div>
 
-[14]:
 
-Hastyayurveda II. 617. 163-168.
 
-[15]:
 
-Ibid. Shalyasthana. 100.357.
+<div className="footnote-card"><strong>[8]</strong> Ibid. 22. 70.</div>
 
-[16]:
 
-Ana. XIV. 186.
 
-[17]:
 
-Hastyayurveda. US.4. 310. 541.
+<div className="footnote-card"><strong>[9]</strong> Hastyayurveda. I 22-23. 55.</div>
 
-[18]:
 
-Matangalila. XI. 32. 73.
 
-[19]:
 
-Matangalila. II. 45.51. 79-81.
+<div className="footnote-card"><strong>[10]</strong> Valarttumrigangal. VIII. 182-186.</div>
 
-[20]:
 
-Gajaparipalanam. 18,60.
 
-[21]:
 
-Matangalila. 11.8.111.
+<div className="footnote-card"><strong>[11]</strong> Ana. XII. 125.</div>
 
-[22]:
 
-Matangalila.11. 51.143.
 
-[23]:
 
-Ana Kadhyum Karyavum. 5.63.65.
+<div className="footnote-card"><strong>[12]</strong> Hastyayurveda. 1.2.271-218.</div>
 
-[24]:
 
-G.P.P. 12.46.
 
-[25]:
 
-Matangalila.11.6.109.
+<div className="footnote-card"><strong>[13]</strong> Hastyayurveda II. Uttarasthana.105.41</div>
 
-[26]:
 
-Hastyayurveda 4-5. 2. 4-19
 
-[27]:
 
-Raja nighandu. Satvadivargam. Sr.74-75
+<div className="footnote-card"><strong>[14]</strong> Hastyayurveda II. 617. 163-168.</div>
 
-[28]:
 
-Matangalila.11. 28.125.
 
-[29]:
 
-Matangalila.11.13.19.
+<div className="footnote-card"><strong>[15]</strong> Ibid. Shalyasthana. 100.357.</div>
 
-[30]:
 
-Matangalila.11.47.141
 
-[31]:
 
-Ashtangahridaya (Ashtanga hridaya) Sushrutasamhita dv.5.22
+<div className="footnote-card"><strong>[16]</strong> Ana. XIV. 186.</div>
 
-[32]:
 
-Matangalila.11.49.142
 
-[33]:
 
-Manorama daily page No.13.7.8.2010.
+<div className="footnote-card"><strong>[17]</strong> Hastyayurveda. US.4. 310. 541.</div>
 
-[34]:
 
-The Agnipurana, N. Gangadharan. 287. 781-795.
+
+
+<div className="footnote-card"><strong>[18]</strong> Matangalila. XI. 32. 73.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Matangalila. II. 45.51. 79-81.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Gajaparipalanam. 18,60.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Matangalila. 11.8.111.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Matangalila.11. 51.143.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ana Kadhyum Karyavum. 5.63.65.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> G.P.P. 12.46.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Matangalila.11.6.109.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Hastyayurveda 4-5. 2. 4-19</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Raja nighandu. Satvadivargam. Sr.74-75</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Matangalila.11. 28.125.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Matangalila.11.13.19.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Matangalila.11.47.141</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Ashtangahridaya (Ashtanga hridaya) Sushrutasamhita dv.5.22</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> Matangalila.11.49.142</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> Manorama daily page No.13.7.8.2010.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> The Agnipurana, N. Gangadharan. 287. 781-795.</div>
 
 ---
-
-
 
 ---
 
@@ -975,10 +1005,6 @@ The Agnipurana, N. Gangadharan. 287. 781-795.
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Bibliography: Elephantology And Its Ancient Sanskrit Sources Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

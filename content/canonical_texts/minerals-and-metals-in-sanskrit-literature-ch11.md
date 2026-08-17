@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 10. The Lohadhyaksha (the Director of Metals) within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 47. 10. The Lohadhyaksha (the Director of Metals)
+## 10. The Lohadhyaksha (the Director of Metals)
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ V-22 had always been known in India as trapu. The other name Kastira came into v
 
 ---
 
-## 48. Chapter 6 - Minerals and Metals in the Indian Epics
+## Chapter 6 - Minerals and Metals in the Indian Epics
 
 Minerals and Metals in Sanskrit literature
 
@@ -33,13 +33,11 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 6 - Minerals and Metals in the Indian Epics
 
-- Sub-Contents: (+ / -)
-
 [Full title: Minerals and Metals in the Indian Epics from an Archaeological view-point]
 
 ---
 
-## 49. 1. The Background of the Mahabharata Epic Story
+## 1. The Background of the Mahabharata Epic Story
 
 Minerals and Metals in Sanskrit literature
 
@@ -55,7 +53,7 @@ VI-3 by Lord Krishna. Underwater expedition has shown fortification wall of lime
 
 ---
 
-## 50. 2. The Mahabharata in the Light of the Archaeological Evidences
+## 2. The Mahabharata in the Light of the Archaeological Evidences
 
 Minerals and Metals in Sanskrit literature
 
@@ -71,8 +69,6 @@ VI-5 during the in Bhagwanpura and Hastinpura OCP and early PGW era. As a matter
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +76,6 @@ VI-5 during the in Bhagwanpura and Hastinpura OCP and early PGW era. As a matter
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">5. The Mahabharata—Post-Christian Era Additions: Minerals And Metals In Sanskrit Literature Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

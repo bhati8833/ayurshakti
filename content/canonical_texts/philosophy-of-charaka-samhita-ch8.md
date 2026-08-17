@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The theory of three faults (tridoṣa-siddhānta) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. The theory of three faults (tridoṣa-siddhānta)
+## The theory of three faults (tridoṣa-siddhānta)
 
 Philosophy of Charaka-samhita
 
@@ -47,113 +47,175 @@ We know that the doṣa are mutually contradictory in character. Normally, when 
 
 Another thing to be noted in this connection is that when there is a disease due to the predominance of a doṣa (caused by extraneous factors) corresponding to the predominant doṣa in one's constitution from his birth, the newly collected doṣa produces morbidity in accordance with the working of the predominating doṣa of his constitution. But his original constitutional doṣa (prākṛti) is never increased or decreased due to the predominance of a doṣa by any kind of disease. They always remain the same operating in their physiological functions. The constitutional doṣa (prākṛti) and the accumulated doṣa due to extraneous factors (vaikṛti) are different. The increase and decrease of doṣas have a separate course of action in diseases and there is no interchange between the latter collections or deficiency of doṣas and constitutional doṣas.[25] The actual fact regarding the relation of the constitutional doṣa and the accrued or deficient doṣa has been further pointed out by Cakrapāṇi. That is a doṣa will be aggravated in a system in which the corresponding constitutional doṣa is predominant and a doṣa will lose its strength to a great extend in a system in which the corresponding constitutional doṣa is not predominant.[26]
 
-[1]:
 
-“Introduction”, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., p. xii. vāta, pitta and kapha are usually referred to as wind, bile and phlegm in English. But they are not able to convey their intended meaning.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> “Introduction”, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., p. xii. vāta, pitta and kapha are usually referred to as wind, bile and phlegm in English. But they are not able to convey their intended meaning.
+</blockquote>
 
-[2]:
 
-vāyuḥ pittaṃ kaphaścoktāḥ śārīro doṣasaṃgrahaḥ, CS, Su, I. 57; Suśrutasaṃhitā of Suśruta., Su, XXI. 3; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 6; Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p.7; Śārṇgadharasaṃhitā of Śārṇgadharācārya., I. V. 23.
 
-[3]:
 
-K. Raghavan Thirumulpad, “Basic Principles of Ayurveda”, SHI, p.13
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> vāyuḥ pittaṃ kaphaścoktāḥ śārīro doṣasaṃgrahaḥ, CS, Su, I. 57; Suśrutasaṃhitā of Suśruta., Su, XXI. 3; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 6; Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p.7; Śārṇgadharasaṃhitā of Śārṇgadharācārya., I. V. 23.
+</blockquote>
 
-[4]:
 
-vātapittasleṣmāṇa eva dehasaṃbhavahetavaḥ, tairevāvyāpannairadhomadhyordhvasanniviṣṭaiḥ sarīramidaṃ dhāryate'gāramiva sthūṇābhistisṛbhirataśca tristhūṇamāhureke, Suśrutasaṃhitā of Suśruta., Su, XXI. 3
 
-[5]:
 
-gatiśca dvividhā dṛṣṭā prākṛtī vaikṛtī ca yā............tenaiva rogā jāyante tena caivoparudhyate. CS, Su, XVII. 115 - 118.
+<div className="footnote-card"><strong>[3]</strong> K. Raghavan Thirumulpad, “Basic Principles of Ayurveda”, SHI, p.13</div>
 
-[6]:
 
-Atharvaveda, I, 12, 3.
 
-[7]:
 
-HIPS, Vol.II, p.333.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> vātapittasleṣmāṇa eva dehasaṃbhavahetavaḥ, tairevāvyāpannairadhomadhyordhvasanniviṣṭaiḥ sarīramidaṃ dhāryate'gāramiva sthūṇābhistisṛbhirataśca tristhūṇamāhureke, Suśrutasaṃhitā of Suśruta., Su, XXI. 3
+</blockquote>
 
-[8]:
 
-śleṣmā retasaḥ saṃbhavati, śleṣmaṇo raso rasācchoṇitaṃ...tadidaṃ yonau retaḥ sriktaṃ puruṣaḥ saṃbhavati., “Pariśiṣṭa”, Nirukta, p. 148;Cf. CS, Cikitsa - sthāna, XV. 16.
 
-[9]:
 
-prakṛtimiha narāṇāṃ bhautikīṃ kecidāhuḥ pavanadahanatoyaiḥ kīrtitāstāstu tisraḥ, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, IV. 70.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> gatiśca dvividhā dṛṣṭā prākṛtī vaikṛtī ca yā............tenaiva rogā jāyante tena caivoparudhyate. CS, Su, XVII. 115 - 118.
+</blockquote>
 
-[10]:
 
-śarīradhārakavastūni. tadyathā. kaphaḥ. vātaḥ. pittaḥ. śrīradūṣaṇāddoṣāḥ malinīkaraṇānmalāḥ dhārṇāddhātavaste syurvātapittakaphāstrayaḥ, Śabdakalpadrumaṃ, Vol. II, p. 790; vikṛtāvikṛtā dehaṃ ghnanti te vartayanti ca, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 7; Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 7.
 
-[11]:
 
-CS, Śārīra-sthāna, VI. 17; rasāsṛṅmāṃsamedāstimajjāśukṛāṇi dhātavaḥ. Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 13; Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 10; Śārṇgadharasaṃhitā of Śārṇgadharācārya., I. V. II
+<div className="footnote-card"><strong>[6]</strong> Atharvaveda, I, 12, 3.</div>
 
-[12]:
 
-HIPS, Vol. II, p. 325.
 
-[13]:
 
-tatrāhāraprasādākhyo rasaḥ kiṭṭaṃ ca malākhyamabhinivartate CS, Su, XXIII. 4.
+<div className="footnote-card"><strong>[7]</strong> HIPS, Vol.II, p.333.</div>
 
-[14]:
 
-LC, p. IVI.
 
-[15]:
 
-kittāt... samadhātordhātusāmyamanuvartayataḥ. Ibid.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> śleṣmā retasaḥ saṃbhavati, śleṣmaṇo raso rasācchoṇitaṃ...tadidaṃ yonau retaḥ sriktaṃ puruṣaḥ saṃbhavati., “Pariśiṣṭa”, Nirukta, p. 148;Cf. CS, Cikitsa - sthāna, XV. 16.
+</blockquote>
 
-[16]:
 
-ta eva ca vyāpnnāḥ pralayahetavaḥ. tadebhireva śoṇitacaturthaiḥ saṃbhava-sthiti-pralayeṣvapyavirahitaṃ sarīraṃ bhavati. Suśrutasaṃhitā of Suśruta., Su, XXI, 3; See also Dalhaṇa on ibid.
 
-[17]:
 
-doṣāprakṛtivaiṣamyaṃ niyataṃ vṛddhilakṣaṇaṃ, doṣāṇāṃ prakṛtirhānirvṛddhiścaivaṃ parīkṣyate. CS, Su, XVIII. 53. doṣāṇāṃ vṛddhisāmyakṣayalakṣaṇāni, Cakrapāṇi on CS, Su, XVII. 62.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> prakṛtimiha narāṇāṃ bhautikīṃ kecidāhuḥ pavanadahanatoyaiḥ kīrtitāstāstu tisraḥ, Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, IV. 70.
+</blockquote>
 
-[18]:
 
-vikāro dhātuvaiṣamyaṃ sāmyaṃ prakṛtirucyate sukhasaṃñjaka-mārogyaṃ, vikāro dukhameva ca. CS, Su, IX - 4; rogastu doṣvaiṣamyaṃ doṣasāmyamarogatā, Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 14; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 20.
 
-[19]:
 
-see foot-notes, HIPS, Vol. II, p. 329.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> śarīradhārakavastūni. tadyathā. kaphaḥ. vātaḥ. pittaḥ. śrīradūṣaṇāddoṣāḥ malinīkaraṇānmalāḥ dhārṇāddhātavaste syurvātapittakaphāstrayaḥ, Śabdakalpadrumaṃ, Vol. II, p. 790; vikṛtāvikṛtā dehaṃ ghnanti te vartayanti ca, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 7; Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 7.
+</blockquote>
 
-[20]:
 
-CS, Su, VII. 39-40. see also Cakrapāṇi on ibid.
 
-[21]:
 
-vātapitta śleṣmaṇastu khalu sārīrā doṣāḥ. teṣāmapi ca vikārāḥ jvarātisāraśopha śoṣaśvāsa mehakuṣṭādayaḥ. CS, Vimāna - sthāna, VI. 5.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> CS, Śārīra-sthāna, VI. 17; rasāsṛṅmāṃsamedāstimajjāśukṛāṇi dhātavaḥ. Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 13; Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 10; Śārṇgadharasaṃhitā of Śārṇgadharācārya., I. V. II
+</blockquote>
 
-[22]:
 
-CS, Su, XVII. 6.
 
-[23]:
 
-adṛṣṭa refers to merit (dharma) and demerit (adharma) see Nyāyakandaī, Praśastapādabhāṣya., p. 28.
+<div className="footnote-card"><strong>[12]</strong> HIPS, Vol. II, p. 325.</div>
 
-[24]:
 
-See Cakrapāṇi on CS, Su, XVII. 62.
 
-[25]:
 
-prkṛtisamānarogotpatau na prakṛtibhūtasya vṛddhiḥ, kiṃ tarhi hetvantarajanitasya vātadestatra vikarakaritvaṃ prakṛitibḥūtastu doṣastatatropadarśako bhavati......, Cakrapāṇi on Ibid., VII. 39-40.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> tatrāhāraprasādākhyo rasaḥ kiṭṭaṃ ca malākhyamabhinivartate CS, Su, XXIII. 4.
+</blockquote>
 
-[26]:
 
-samānaṃ hi prakṛtiṃ prāpya doṣaḥ pravṛddhabalo bhavati, asamānaṃ tu prāpya tathā tathā balavān na syāt, Cakrapāṇi on Ibid., XVII. 62.
+
+
+<div className="footnote-card"><strong>[14]</strong> LC, p. IVI.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> kittāt... samadhātordhātusāmyamanuvartayataḥ. Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> ta eva ca vyāpnnāḥ pralayahetavaḥ. tadebhireva śoṇitacaturthaiḥ saṃbhava-sthiti-pralayeṣvapyavirahitaṃ sarīraṃ bhavati. Suśrutasaṃhitā of Suśruta., Su, XXI, 3; See also Dalhaṇa on ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> doṣāprakṛtivaiṣamyaṃ niyataṃ vṛddhilakṣaṇaṃ, doṣāṇāṃ prakṛtirhānirvṛddhiścaivaṃ parīkṣyate. CS, Su, XVIII. 53. doṣāṇāṃ vṛddhisāmyakṣayalakṣaṇāni, Cakrapāṇi on CS, Su, XVII. 62.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> vikāro dhātuvaiṣamyaṃ sāmyaṃ prakṛtirucyate sukhasaṃñjaka-mārogyaṃ, vikāro dukhameva ca. CS, Su, IX - 4; rogastu doṣvaiṣamyaṃ doṣasāmyamarogatā, Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 14; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 20.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> see foot-notes, HIPS, Vol. II, p. 329.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> CS, Su, VII. 39-40. see also Cakrapāṇi on ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> vātapitta śleṣmaṇastu khalu sārīrā doṣāḥ. teṣāmapi ca vikārāḥ jvarātisāraśopha śoṣaśvāsa mehakuṣṭādayaḥ. CS, Vimāna - sthāna, VI. 5.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> CS, Su, XVII. 6.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> adṛṣṭa refers to merit (dharma) and demerit (adharma) see Nyāyakandaī, Praśastapādabhāṣya., p. 28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> See Cakrapāṇi on CS, Su, XVII. 62.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> prkṛtisamānarogotpatau na prakṛtibhūtasya vṛddhiḥ, kiṃ tarhi hetvantarajanitasya vātadestatra vikarakaritvaṃ prakṛitibḥūtastu doṣastatatropadarśako bhavati......, Cakrapāṇi on Ibid., VII. 39-40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> samānaṃ hi prakṛtiṃ prāpya doṣaḥ pravṛddhabalo bhavati, asamānaṃ tu prāpya tathā tathā balavān na syāt, Cakrapāṇi on Ibid., XVII. 62.
+</blockquote>
 
 ---
 
-## 32. Chapter 5 - The Complete Man
+## Chapter 5 - The Complete Man
 
 Philosophy of Charaka-samhita
 
@@ -161,11 +223,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 5 - The Complete Man
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 33. The locations, qualities, and the functions of the doṣas
+## The locations, qualities, and the functions of the doṣas
 
 Philosophy of Charaka-samhita
 
@@ -211,127 +271,198 @@ S.K. Ramachandra suggests that vāta, pitta, and kapha are charectarised by the 
 
 All these have been stated only to inform that the theory of the three doṣas has been formulated on the concrete basis of the concept of pañcabhūtas. In fact, it is a biological interpretation of the pañcabhūtasiddhānta. However, the description of the physiological and pathological aspects of tridoṣa in detail is beyond the scope of this work.
 
-[1]:
 
-prakṛtibhutasya khalvasya loke carataḥ karmaṇīmāni bhavanti; tadyadhā - dharṇī dhāraṇaṃ.... avaikārikavikāracśeti, CS, Su, XII. 8.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> prakṛtibhutasya khalvasya loke carataḥ karmaṇīmāni bhavanti; tadyadhā - dharṇī dhāraṇaṃ.... avaikārikavikāracśeti, CS, Su, XII. 8.
+</blockquote>
 
-[2]:
 
-vāyurāyurbalaṃ vāyurvayurdhātā sarīriṇāṃ vayuḥ viśvamidaṃ sarvaṃ prabhurvāyuśca kīrtitaḥ, CS, Cikitsa - sthāna, XXVIII. 3.
 
-[3]:
 
-sarvaśarīracarāstu vātapittaśleṣmaṇaḥ......; CS, Su, XX, 9. See also Aruṇadatta on Aṣṭāṅgahṛdaya of Vāgbhaṭa.. Su, I. 7.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> vāyurāyurbalaṃ vāyurvayurdhātā sarīriṇāṃ vayuḥ viśvamidaṃ sarvaṃ prabhurvāyuśca kīrtitaḥ, CS, Cikitsa - sthāna, XXVIII. 3.
+</blockquote>
 
-[4]:
 
-bastiḥ puriṣadhāṇaṃ kaṭiḥ sakthīni pādāvasthīni pakvāśayaśca vātasthānāni, tatrāpi pakvāśayo viśeṣeṇa vātasthānaṃ, CS, Su, XX. 8.
 
-[5]:
 
-See infra, pp. 144 - 145.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> sarvaśarīracarāstu vātapittaśleṣmaṇaḥ......; CS, Su, XX, 9. See also Aruṇadatta on Aṣṭāṅgahṛdaya of Vāgbhaṭa.. Su, I. 7.
+</blockquote>
 
-[6]:
 
-rūkṣaḥ śīto laghuḥ sūkṣmaścalo'tha visadaḥ kharaḥ viparītagunaiḥ dravyairmārutaḥ saṃpraśāmyati, CS, Su, I. 59; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 11.
 
-[7]:
 
-vāyustantrayantradharaḥ...... ayuṣo anuvṛttipratyayabhūto bhavatyakupitaḥ. kupitastu khlu sarīre..... prāṇāṃścoparuṇaddhi, CS, Su, XII. 8.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> bastiḥ puriṣadhāṇaṃ kaṭiḥ sakthīni pādāvasthīni pakvāśayaśca vātasthānāni, tatrāpi pakvāśayo viśeṣeṇa vātasthānaṃ, CS, Su, XX. 8.
+</blockquote>
 
-[8]:
 
-Praśastapādabhāṣya., pp. 111-12; TSA, p. 16,
 
-[9]:
 
-Praśastapādabhāṣya., p. 92; TSA, p. 7. Tarkabhāṣa of Keśavamiśra., p.192
+<div className="footnote-card"><strong>[5]</strong> See infra, pp. 144 - 145.</div>
 
-[10]:
 
-“yadyapi vaiśeṣike anuṣṇāśīto vāyḥ tathāpīha śītena vṛddhidarśanāduṣṇena ca praśamanadarśanāttathā kevalavātārabdhe roge śītadarśanāca śīta eva vayuḥ”, Cakrapāṇi on CS, Su, I. 61. nanu anuṣnāśīto vāyuḥ kāṇādaiḥ paṭḥitaḥ..... “pavane yogavāhitvācchītaṃ śleṣmayute bhavet”, Aruṇadatta on Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 11, Cf. p. 97.
 
-[11]:
 
-prāṇodāna samānākhya vyanāpanaiḥ sā pañcadhā
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> rūkṣaḥ śīto laghuḥ sūkṣmaścalo'tha visadaḥ kharaḥ viparītagunaiḥ dravyairmārutaḥ saṃpraśāmyati, CS, Su, I. 59; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> vāyustantrayantradharaḥ...... ayuṣo anuvṛttipratyayabhūto bhavatyakupitaḥ. kupitastu khlu sarīre..... prāṇāṃścoparuṇaddhi, CS, Su, XII. 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Praśastapādabhāṣya., pp. 111-12; TSA, p. 16,
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Praśastapādabhāṣya., p. 92; TSA, p. 7. Tarkabhāṣa of Keśavamiśra., p.192
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “yadyapi vaiśeṣike anuṣṇāśīto vāyḥ tathāpīha śītena vṛddhidarśanāduṣṇena ca praśamanadarśanāttathā kevalavātārabdhe roge śītadarśanāca śīta eva vayuḥ”, Cakrapāṇi on CS, Su, I. 61. nanu anuṣnāśīto vāyuḥ kāṇādaiḥ paṭḥitaḥ..... “pavane yogavāhitvācchītaṃ śleṣmayute bhavet”, Aruṇadatta on Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 11, Cf. p. 97.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> prāṇodāna samānākhya vyanāpanaiḥ sā pañcadhā
 .........................................................................
 svakarma kurvate deho dhāryate tairanāmayaḥ, CS, Cikitsa - sthāna, XXVIII. 5-11.
+</blockquote>
 
-[12]:
 
-Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, IV. 3.
 
-[13]:
 
-svedo raso lasikā rudhiramāmāśayaśca pittasthanāni, tatrāpyāmāśayo viśeṣeṇa pittasthānaṃ. CS, Su, XX. 8.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, IV. 3.
+</blockquote>
 
-[14]:
 
-sasnehamuṣṇaṃ tīkṣṇaṃ ca dravamamlaṃ saraṃ kaṭu viparītaguṇaiḥ pittaṃ dravyairāśu praśāmyati, Ibid., I. 60.
 
-[15]:
 
-“agnireva sarīre pittāntargataḥ”, Ibid., XII. 11.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> svedo raso lasikā rudhiramāmāśayaśca pittasthanāni, tatrāpyāmāśayo viśeṣeṇa pittasthānaṃ. CS, Su, XX. 8.
+</blockquote>
 
-[16]:
 
-paktimapaktiṃ darśanamadarśanaṃ mātrāmātratvamūkṣmaṇaḥ prakṛtivikṛtivarnau śauryaṃ bhayaṃ krodhaṃ harṣaṃ mohaṃ prasādamityevamādīni caparāṇi dvantvānīti, Ibid.
 
-[17]:
 
-IK, p. 25.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> sasnehamuṣṇaṃ tīkṣṇaṃ ca dravamamlaṃ saraṃ kaṭu viparītaguṇaiḥ pittaṃ dravyairāśu praśāmyati, Ibid., I. 60.
+</blockquote>
 
-[18]:
 
-uraḥ śiro grīvā, parvāṇyāmāśayo medaśca śleṣmasthānāni; tatrapyuro viśeṣeṇa pittasthānaṃ;CS,Su, XX. 8.
 
-[19]:
 
-guru sīta mṛdu snigdha madhura sthirapicchalāḥ śleṣmaguṇāḥ praśamaṃ yanti viparītaguṇairguṇāḥ. Ibid., I. 61.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> “agnireva sarīre pittāntargataḥ”, Ibid., XII. 11.
+</blockquote>
 
-[20]:
 
-dārḍḥyaṃ śaidhilyamupacayaṃ kārśyamutsāhamalāsyaṃ vṛṣatāṃ klībatāṃ jñānamajñānaṃ buddhiṃ mohamevamādīni cāparāṇi dvatvāntānīti, Ibid., XII. 12.
 
-[21]:
 
-samavetānāṃ punardoṣāṇāṃ amśāṃśavikalpo vikalpo'sminnarthe. CS. Nidāna - sthāna, I, 11 (5); tatra doṣāṇāṃ aṃśāṃśavikalpo yathā- vāte prakupite'pi kadācidvātasya sītāṃṣo balavān bhavati, kadācillaghvaṃśaḥ, kadācit rūkṣāṃśaḥ kaācid lakhu-rūkṣāṃśaḥ. Cakrapāṇi on ibid.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> paktimapaktiṃ darśanamadarśanaṃ mātrāmātratvamūkṣmaṇaḥ prakṛtivikṛtivarnau śauryaṃ bhayaṃ krodhaṃ harṣaṃ mohaṃ prasādamityevamādīni caparāṇi dvantvānīti, Ibid.
+</blockquote>
 
-[22]:
 
-svādvamlalavaṇā vayuṃ, kaṣāyasvādutiktakāḥ jayanti pittaṃ, śleṣmāṇaṃ kaṣāyakaṭutiktakāḥ (kaḍvamlalavaṇāḥ pittaṃ, svādvamlalavaṇāḥ kaphaṃ kaṭutiktakaṣāyāśca kopayanti samīraṇaṃ) CS, Su, I. 66; Vimāna - sthāna, I. 6; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 14-15.
 
-[23]:
 
-DO, p.178.
+<div className="footnote-card"><strong>[17]</strong> IK, p. 25.</div>
 
-[24]:
 
-IK, pp. 24-25.
 
-[25]:
 
-tatra sattvabahulamākāśaṃ, rajobahulaṃ vāyuḥ, sattvarajobahulamagniḥ sattvatamobahulā āpaḥ tamobahulā pṛthivī. Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 20.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> uraḥ śiro grīvā, parvāṇyāmāśayo medaśca śleṣmasthānāni; tatrapyuro viśeṣeṇa pittasthānaṃ;CS,Su, XX. 8.
+</blockquote>
 
-[26]:
 
-IHBT, p.196.
 
-[27]:
 
-Ibid. p.169.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> guru sīta mṛdu snigdha madhura sthirapicchalāḥ śleṣmaguṇāḥ praśamaṃ yanti viparītaguṇairguṇāḥ. Ibid., I. 61.
+</blockquote>
 
-[28]:
 
-ūrdhvaṃ sattvavīśālaśca mulataḥ sargaḥ madhye rajoviśālo brahmādistambaparyantaḥ, Sāṃkhyakārikā, 54.
 
-[29]:
 
-IHBT, p.170.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> dārḍḥyaṃ śaidhilyamupacayaṃ kārśyamutsāhamalāsyaṃ vṛṣatāṃ klībatāṃ jñānamajñānaṃ buddhiṃ mohamevamādīni cāparāṇi dvatvāntānīti, Ibid., XII. 12.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> samavetānāṃ punardoṣāṇāṃ amśāṃśavikalpo vikalpo'sminnarthe. CS. Nidāna - sthāna, I, 11 (5); tatra doṣāṇāṃ aṃśāṃśavikalpo yathā- vāte prakupite'pi kadācidvātasya sītāṃṣo balavān bhavati, kadācillaghvaṃśaḥ, kadācit rūkṣāṃśaḥ kaācid lakhu-rūkṣāṃśaḥ. Cakrapāṇi on ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> svādvamlalavaṇā vayuṃ, kaṣāyasvādutiktakāḥ jayanti pittaṃ, śleṣmāṇaṃ kaṣāyakaṭutiktakāḥ (kaḍvamlalavaṇāḥ pittaṃ, svādvamlalavaṇāḥ kaphaṃ kaṭutiktakaṣāyāśca kopayanti samīraṇaṃ) CS, Su, I. 66; Vimāna - sthāna, I. 6; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 14-15.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> DO, p.178.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> IK, pp. 24-25.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> tatra sattvabahulamākāśaṃ, rajobahulaṃ vāyuḥ, sattvarajobahulamagniḥ sattvatamobahulā āpaḥ tamobahulā pṛthivī. Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 20.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> IHBT, p.196.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Ibid. p.169.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> ūrdhvaṃ sattvavīśālaśca mulataḥ sargaḥ madhye rajoviśālo brahmādistambaparyantaḥ, Sāṃkhyakārikā, 54.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> IHBT, p.170.</div>
 
 ---
 
-## 34. Man as a constitution of six elements (ṣaḍdhātja-puruṣa)
+## Man as a constitution of six elements (ṣaḍdhātja-puruṣa)
 
 Philosophy of Charaka-samhita
 
@@ -371,59 +502,87 @@ Thus, the knowledge promulgated by Caraka is capable of releasing man from his o
 
 Above all, the concept of micro-macro relationship of man and the universe lies in the fact that it forms the basis of all tenets regarding treatment and management of health.It is on the basis of the discovered identical nature of the world and man and the laws governing them that the material things are applied to the biological field. When the extrinsic world comes into contact with man externally or internally, the equipoise of the dhātus are caused by their increase or decrease. Hence the therapeutic approach essentially becomes holistic and it contributes to the medical science.
 
-[1]:
 
-ṣaḍdhātavaḥ samuditāḥ "puruṣa' iti śabdaṃ labhante; pṛthivyāpastejovāyurākāśaṃ brahma cāvyaktamiti, eta eva ca ṣaḍdhātavaḥ samuditāḥ "puruṣa' iti śabdaṃ labhante. CS, Śārīra - sthāna, V. 4; ibid., I. 16.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> ṣaḍdhātavaḥ samuditāḥ "puruṣa' iti śabdaṃ labhante; pṛthivyāpastejovāyurākāśaṃ brahma cāvyaktamiti, eta eva ca ṣaḍdhātavaḥ samuditāḥ "puruṣa' iti śabdaṃ labhante. CS, Śārīra - sthāna, V. 4; ibid., I. 16.
+</blockquote>
 
-[2]:
 
-"pañcamahābhūtaśarīrasamavāyaḥ puruṣa' iti. sa yeva karmapuruṣaści-kitsādhikṛtaḥ, Suśrutasaṃhitā of Suśruta.. Śārīra - sthāna, I. 16. The self construed by Suśruta corresponds to the puruṣa in the Classical Sāṃkhya. Ibid., 9; “ayameva pañcamahābhūtaśarīra-samavāyaḥ puruṣah ityanena Suśrutenapyuktaḥ”. Cakrapāṇi on CS, Śārīra - sthāna, I.16.
 
-[3]:
 
-DO, p.172.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> "pañcamahābhūtaśarīrasamavāyaḥ puruṣa' iti. sa yeva karmapuruṣaści-kitsādhikṛtaḥ, Suśrutasaṃhitā of Suśruta.. Śārīra - sthāna, I. 16. The self construed by Suśruta corresponds to the puruṣa in the Classical Sāṃkhya. Ibid., 9; “ayameva pañcamahābhūtaśarīra-samavāyaḥ puruṣah ityanena Suśrutenapyuktaḥ”. Cakrapāṇi on CS, Śārīra - sthāna, I.16.
+</blockquote>
 
-[4]:
 
-ayañca (ṣaḍdhātujapuruṣa) vaiśeṣika darśanaparigṛhītāścikitasāśastraviṣyaḥ puruṣaḥ. Cakrapāṇi on CS, Śārīra - sthāna, I. 16.
 
-[5]:
 
-ṣaḍdhāturūpameva puruṣaṃ punaḥ sāṃkhyadarśanabhedāc-caturviṃśatikabhedenāḥ, Cakrapāṇi on Ibid.,17.
+<div className="footnote-card"><strong>[3]</strong> DO, p.172.</div>
 
-[6]:
 
-rāśih ṣaḍdhātujo hyeṣaḥ sāṃkhyairādyaiḥ prakīrtitaḥ CS, Su.XXV.15.
 
-[7]:
 
-ṣaddhātusamudāyo hi sāmānyataḥ sarvalokāḥ. CS,Sa,V.7.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> ayañca (ṣaḍdhātujapuruṣa) vaiśeṣika darśanaparigṛhītāścikitasāśastraviṣyaḥ puruṣaḥ. Cakrapāṇi on CS, Śārīra - sthāna, I. 16.
+</blockquote>
 
-[8]:
 
-see LC, p. 215; cf. AMS, p.182.
 
-[9]:
 
-puruṣo'ayaṃ lokasaṃmitaḥ, CS, Sa,V. 3.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> ṣaḍdhāturūpameva puruṣaṃ punaḥ sāṃkhyadarśanabhedāc-caturviṃśatikabhedenāḥ, Cakrapāṇi on Ibid.,17.
+</blockquote>
 
-[10]:
 
-yāvanto hi loke (mūrtimanto) bhāvaviśeṣāstāvantaḥ puruṣe, yāvantaḥ puruṣe tāvanto loke, Ibid.
 
-[11]:
 
-loke vāyvākāśasomānāṃ durvijñeyā yathā gatiḥ
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> rāśih ṣaḍdhātujo hyeṣaḥ sāṃkhyairādyaiḥ prakīrtitaḥ CS, Su.XXV.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> ṣaddhātusamudāyo hi sāmānyataḥ sarvalokāḥ. CS,Sa,V.7.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> see LC, p. 215; cf. AMS, p.182.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> puruṣo'ayaṃ lokasaṃmitaḥ, CS, Sa,V. 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> yāvanto hi loke (mūrtimanto) bhāvaviśeṣāstāvantaḥ puruṣe, yāvantaḥ puruṣe tāvanto loke, Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> loke vāyvākāśasomānāṃ durvijñeyā yathā gatiḥ
 ....................................................................
 vijñeyā pavanādīnāṃ na pramuhyati karmasu. CS, Cikitsa - sthāna, XXVIII.246-47.
+</blockquote>
 
-[12]:
 
-CS, Śārīra - sthāna, V. 5.
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> CS, Śārīra - sthāna, V. 5.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -432,10 +591,6 @@ CS, Śārīra - sthāna, V. 5.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Composite man (rāśi-puruṣa): Philosophy Of Charaka Samhita Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

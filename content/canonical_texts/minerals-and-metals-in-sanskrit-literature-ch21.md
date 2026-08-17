@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 91. Chapter 9 - The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry
+## Chapter 9 - The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry
 
 Minerals and Metals in Sanskrit literature
 
@@ -19,11 +19,9 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 9 - The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 92. 12. Iatro-Chemical Texts
+## 12. Iatro-Chemical Texts
 
 Minerals and Metals in Sanskrit literature
 
@@ -39,7 +37,7 @@ VIII-38 Rasakalpa mentioned maharasas, uparasas and rasas. . It referred to chul
 
 ---
 
-## 93. 3. Decsription of the Eight Maharasas
+## 3. Decsription of the Eight Maharasas
 
 Minerals and Metals in Sanskrit literature
 
@@ -57,7 +55,7 @@ IX-8 Capala was defined as a material which melts quickly like vanga or tin when
 
 ---
 
-## 94. 2. Gem Minerals discussed in the Rasaratna-samuccaya
+## 2. Gem Minerals discussed in the Rasaratna-samuccaya
 
 Minerals and Metals in Sanskrit literature
 
@@ -71,8 +69,6 @@ IX-5 Vaikranta has been described (Rasaratna-samuccaya 2.53-2.60) as 'possessing
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +76,6 @@ IX-5 Vaikranta has been described (Rasaratna-samuccaya 2.53-2.60) as 'possessing
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">1. Technical Terms in the Rasaratna-samuccaya: Minerals And Metals In Sanskrit Literature Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

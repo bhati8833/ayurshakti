@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 11. Ram fighting described in the Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. 11. Ram fighting described in the Manasollasa
+## 11. Ram fighting described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -27,7 +27,7 @@ It is clear that the society of those days was quite eager about these fightings
 
 ---
 
-## 26. 14. Dog sports described in the Manasollasa
+## 14. Dog sports described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -45,8 +45,6 @@ Somesvara discusses the Sarameya vinoda or the amusement with dogs. He enumerate
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -54,10 +52,6 @@ Somesvara discusses the Sarameya vinoda or the amusement with dogs. He enumerate
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">13. Pigeon games described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

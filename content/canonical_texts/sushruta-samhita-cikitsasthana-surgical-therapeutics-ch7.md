@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of Fistula-in-ano within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Chapter VIII - The medical treatment of Fistula-in-ano
+## Chapter VIII - The medical treatment of Fistula-in-ano
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -81,21 +81,20 @@ The bulb-like protrusion above the hole of the instrument (speculum), mentioned 
 
 Thus ends the eighth Chapter of the Chikitsita Sthana of the Sushruta-Samhita which deals with the treatment of Bhagandara.
 
-[1]:
 
-Apatarpana, Alepa, Parisheka, Abhyanga, Sveda, Vimlapana, Upanaha, Pacana, Visravana, Sneha, and Vamana.
+<div className="footnote-card"><strong>[1]</strong> Apatarpana, Alepa, Parisheka, Abhyanga, Sveda, Vimlapana, Upanaha, Pacana, Visravana, Sneha, and Vamana.</div>
 
-[2]:
 
-By the use of this potion the digestive power is increased.
 
-[3]:
 
-Four seers of oil, one seer of the drugs and sixteen seers of water should be taken at the time of preparation.
+<div className="footnote-card"><strong>[2]</strong> By the use of this potion the digestive power is increased.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Four seers of oil, one seer of the drugs and sixteen seers of water should be taken at the time of preparation.</div>
 
 ---
-
-
 
 ---
 
@@ -104,10 +103,6 @@ Four seers of oil, one seer of the drugs and sixteen seers of water should be ta
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of urinary conditions: Sushruta Samhita Cikitsasthana Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

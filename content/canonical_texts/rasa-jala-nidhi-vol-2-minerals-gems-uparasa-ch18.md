@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Taking of manas-shila within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 86. Part 4 - Taking of manas-shila
+## Part 4 - Taking of manas-shila
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -35,7 +35,7 @@ This concludes ‘Taking of manas-shila’ included in Bhudeb Mookerjee Rasa Jal
 
 ---
 
-## 87. Part 1 - Characteristics of Anjana (stibnite, lead sulphide)
+## Part 1 - Characteristics of Anjana (stibnite, lead sulphide)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -83,7 +83,7 @@ This concludes ‘Characteristics of Anjana (stibnite, lead sulphide)’ include
 
 ---
 
-## 88. Chapter XIV - Uparasa (15): Anjana (stibnite, sulphide of lead)
+## Chapter XIV - Uparasa (15): Anjana (stibnite, sulphide of lead)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -95,15 +95,13 @@ Chapter XIV - Uparasa (15): Anjana (stibnite, sulphide of lead)
 
 (... and other things, mainly used as collyrium)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (15): Anjana (stibnite, sulphide of lead)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 89. Part 2 - Purification of anjana
+## Part 2 - Purification of anjana
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -129,9 +127,10 @@ Extraction of essence from anjanas.
 
 Essence of anjanas is to be extracted in the same way as that of manas-shila. The essence of srotonjana may also be obtained in the same way as of rajavarta.
 
-[1]:
 
-See purification of kankustha on page 209.
+<div className="footnote-card"><strong>[1]</strong> See purification of kankustha on page 209.</div>
+
+
 
 Conclusion:
 
@@ -139,7 +138,7 @@ This concludes ‘Purification of anjana’ included in Bhudeb Mookerjee Rasa Ja
 
 ---
 
-## 90. Part 3 - Solidification of mercury by means of srotonjana
+## Part 3 - Solidification of mercury by means of srotonjana
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -157,8 +156,6 @@ This concludes ‘Solidification of mercury by means of srotonjana’ included i
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -166,10 +163,6 @@ This concludes ‘Solidification of mercury by means of srotonjana’ included i
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Uparasa (16): Kankustha (an ore containing tin): Rasa Jala Nidhi Volume 2 Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

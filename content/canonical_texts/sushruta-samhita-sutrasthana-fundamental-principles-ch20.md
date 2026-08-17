@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Care of the wounded within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. Chapter XIX - Care of the wounded
+## Chapter XIX - Care of the wounded
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -119,17 +119,15 @@ An ulcer-patient, not given to sleep in the day, and liying in a room protected 
 
 Thus ends the nineteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the nursing or management of an ulcer-patient.
 
-[1]:
 
-Different reading:—Riding in a carriage or on horseback, and garrulousness.
+<div className="footnote-card"><strong>[1]</strong> Different reading:—Riding in a carriage or on horseback, and garrulousness.</div>
 
-[2]:
 
-The species of wine which are made of the expressed juice of grapes and are antacids in their virtues, as well as those mentioned under the head of Hemoptysis, may be given to an ulcer-patient.
+
+
+<div className="footnote-card"><strong>[2]</strong> The species of wine which are made of the expressed juice of grapes and are antacids in their virtues, as well as those mentioned under the head of Hemoptysis, may be given to an ulcer-patient.</div>
 
 ---
-
-
 
 ---
 
@@ -138,10 +136,6 @@ The species of wine which are made of the expressed juice of grapes and are anta
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Suitable and unsuitables for health: Sushruta Samhita Sutrasthana Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

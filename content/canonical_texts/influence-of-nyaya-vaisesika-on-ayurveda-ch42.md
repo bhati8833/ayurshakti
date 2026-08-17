@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 9. Samavaya (Inherence) in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. 9. Samavaya (Inherence) in Ayurveda
+## 9. Samavaya (Inherence) in Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -25,8 +25,6 @@ The Susruta Samhita like each and every other system of Indian knowledge is no e
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ The Susruta Samhita like each and every other system of Indian knowledge is no e
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch43" className="text-emerald-400 hover:underline flex items-center font-medium">12. Concept of mind, Indriyas and Indriyarthas: Influence Of Nyaya Vaisesika On Ayurveda Chapter 43 →</a>
 </div>
-
-
-
-
 
 ---
 

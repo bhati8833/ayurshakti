@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Description of Jvara or Fever within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. 3. Description of Jvara or Fever
+## 3. Description of Jvara or Fever
 
 Physician as depicted in Manasollasa
 
@@ -45,8 +45,6 @@ Jvara or fever occupies the first place among physical ailments. So Somesvara's 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -54,10 +52,6 @@ Jvara or fever occupies the first place among physical ailments. So Somesvara's 
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">2. Creation of the Universe (according to Ayurveda): Physician As Depicted In Manasollasa Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

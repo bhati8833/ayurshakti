@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of a variety of diseases within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. Chapter XXV - The medical treatment of a variety of diseases
+## Chapter XXV - The medical treatment of a variety of diseases
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -73,45 +73,54 @@ Laksha, Rodhra, the two kinds of Haridra, Manah shila, Haritala, Kushtha, Naga (
 
 Thus ends the Twenty-fifth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of a variety of diseases.
 
-[1]:
 
-Madhava in his compilation reads “stabdhamavedana” (that the swelling is attended with a numbness and no pain) in place of “taharṇavedana” Vagbhata also supports this.—Ed.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Madhava in his compilation reads “stabdhamavedana” (that the swelling is attended with a numbness and no pain) in place of “taharṇavedana” Vagbhata also supports this.—Ed.
+</blockquote>
 
-[2]:
 
-Madhava adds “an unsuccessful perforation (in the ear-lobe)” to be an additional cause of this disease. He also reads “tridoṣa”, i.e., “due to the concerted action of the three Doshas” in place of “tvakstho'sau” Madhava has Vagbhata’s support in this.—Ed.
 
-[3]:
 
-In cases of the predominance of the Vayu, anointment, Anuvasana and poultices should be resorted to. In cases of Pitta-predominance, purgatives should be applied. Emetics should be applied in cases of Kapha-predominance and lastly blood-letting, purgatives and washes, etc., should be resorted to in cases of the affection being due to the concerted action of the vitiated blood and the Pitta.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Madhava adds “an unsuccessful perforation (in the ear-lobe)” to be an additional cause of this disease. He also reads “tridoṣa”, i.e., “due to the concerted action of the three Doshas” in place of “tvakstho'sau” Madhava has Vagbhata’s support in this.—Ed.
+</blockquote>
 
-[4]:
 
-Sarala here means Dhupa-kashtha, according to Dallana.
 
-[5]:
 
-Dallana says that this oil should be cooked with cow’s urine weighing four times as much as the oil.
+<div className="footnote-card"><strong>[3]</strong> In cases of the predominance of the Vayu, anointment, Anuvasana and poultices should be resorted to. In cases of Pitta-predominance, purgatives should be applied. Emetics should be applied in cases of Kapha-predominance and lastly blood-letting, purgatives and washes, etc., should be resorted to in cases of the affection being due to the concerted action of the vitiated blood and the Pitta.</div>
 
-[6]:
 
-In the cases of cooking an oil, the liquid substance to be used, should be, as a general rule, four times as much as the oil; but in this case, the expressed juice of Bhringa-raja and (the decoction of) Triphala  should be continued to be added, so long as the feather does not become deep blue.
 
-[7]:
 
-According to Dallana, the reading would have been “punarnave” i.e., the two kinds of Punarnava.
+<div className="footnote-card"><strong>[4]</strong> Sarala here means Dhupa-kashtha, according to Dallana.</div>
 
-[8]:
 
-One Karsha measure of each of the aforesaid drugs should be taken.
 
-[9]:
 
-This is the first time that we come across the mention and use of “Parada” (Mercury) in the Sushruta Samhita.—Ed.
+<div className="footnote-card"><strong>[5]</strong> Dallana says that this oil should be cooked with cow’s urine weighing four times as much as the oil.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> In the cases of cooking an oil, the liquid substance to be used, should be, as a general rule, four times as much as the oil; but in this case, the expressed juice of Bhringa-raja and (the decoction of) Triphala  should be continued to be added, so long as the feather does not become deep blue.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> According to Dallana, the reading would have been “punarnave” i.e., the two kinds of Punarnava.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> One Karsha measure of each of the aforesaid drugs should be taken.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> This is the first time that we come across the mention and use of “Parada” (Mercury) in the Sushruta Samhita.—Ed.</div>
 
 ---
-
-
 
 ---
 
@@ -120,10 +129,6 @@ This is the first time that we come across the mention and use of “Parada” (
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Elixirs (rasayana) for invulnerability to disease: Sushruta Samhita Cikitsasthana Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of purgative and emetic medicines within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. Chapter XXXIII - Description of purgative and emetic medicines
+## Chapter XXXIII - Description of purgative and emetic medicines
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -133,69 +133,88 @@ The body (health) of a patient to whom a purgative or emetic medicine is adminis
 
 Thus ends the Thirty-third Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of diseases amenable to the use of emetics and purgatives.
 
-[1]:
 
-Vrinda reads “shloṣmalaiḥ”(?) in place of “peshalaiḥ”(?) but they would ultimately mean almost the same thing.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vrinda reads “shloṣmalaiḥ”(?) in place of “peshalaiḥ”(?) but they would ultimately mean almost the same thing.
+</blockquote>
 
-[2]:
 
-Dallana says that some explains “sadharaṇe kale” to mean “in the proper seasons, viz., the rainy season, the Autumn and the Spring.”
 
-[3]:
 
-The milk, the curd, the milk-curd and the gruel prescribed to be taken in this case should, according to Dallana, be either medicated with emetic drugs or should be taken alone as an after-potion.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Dallana says that some explains “sadharaṇe kale” to mean “in the proper seasons, viz., the rainy season, the Autumn and the Spring.”
+</blockquote>
 
-[4]:
 
-The diet of the patient who has taken an emetic should be very carefully prescribed inasmuch as his digestive capacity is liable to become very weak in such cases.
 
-[5]:
 
-Persons afflicted with cataract or blindness, Gulma, facial paralysis, convulsion (Akshepaka), jaundice, ascites, hemorrhoids and corpulency as well as extremely old men and Kshata-kshina patients should not be treated with emetics (lit. should not be caused to vomit).—D. R.
+<div className="footnote-card"><strong>[3]</strong> The milk, the curd, the milk-curd and the gruel prescribed to be taken in this case should, according to Dallana, be either medicated with emetic drugs or should be taken alone as an after-potion.</div>
 
-[6]:
 
-Jejjata explains Madhuka to mean honey. He means to say that vomiting should be induced with honey and water.
 
-[7]:
 
-Some read here “Kushtha, Galaganda, Prameha and Shopha (swelling)” but as Meha is mentioned above separately it seems to us that that reading is not a good one.—Ed.
+<div className="footnote-card"><strong>[4]</strong> The diet of the patient who has taken an emetic should be very carefully prescribed inasmuch as his digestive capacity is liable to become very weak in such cases.</div>
 
-[8]:
 
-Dallana says that some commentators do not read this part, but they say that the necessity of applying emetics is mentioned in each particular case where required.
 
-[9]:
 
-In place of “nabhya ladhutve” some read “glanyaṃ ladhutve” which means “a sense of lightness and lassitude”.
+<div className="footnote-card"><strong>[5]</strong> Persons afflicted with cataract or blindness, Gulma, facial paralysis, convulsion (Akshepaka), jaundice, ascites, hemorrhoids and corpulency as well as extremely old men and Kshata-kshina patients should not be treated with emetics (lit. should not be caused to vomit).—D. R.</div>
 
-[10]:
 
-Vrinda does not include “Bala” (energy) in the list.
 
-[11]:
 
-Dallana quotes a different reading which means that emetic and purgative remedies produce the wished-for result, if properly administered, otherwise not.
+<div className="footnote-card"><strong>[6]</strong> Jejjata explains Madhuka to mean honey. He means to say that vomiting should be induced with honey and water.</div>
 
-[12]:
 
-The extraordinary qualities of an emetic are those of the Vayu and of the Agni.
 
-[13]:
 
-Vrinda reads “atisnigdhakayasya” in place of “atisnehapītasya”. This means that the Sneha might have been used both internally and externally.
+<div className="footnote-card"><strong>[7]</strong> Some read here “Kushtha, Galaganda, Prameha and Shopha (swelling)” but as Meha is mentioned above separately it seems to us that that reading is not a good one.—Ed.</div>
 
-[14]:
 
-Vrinda reads “snehabandhana”(?) in place of “balavarddhana” This means that the Doshas, so long obstructed by Sneha, are thereby expelled.
 
-[15]:
 
-Some explain “rasaiḥ snegdhaiḥ”(?) to mean “with emollient meat-soup”.
+<div className="footnote-card"><strong>[8]</strong> Dallana says that some commentators do not read this part, but they say that the necessity of applying emetics is mentioned in each particular case where required.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> In place of “nabhya ladhutve” some read “glanyaṃ ladhutve” which means “a sense of lightness and lassitude”.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Vrinda does not include “Bala” (energy) in the list.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Dallana quotes a different reading which means that emetic and purgative remedies produce the wished-for result, if properly administered, otherwise not.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> The extraordinary qualities of an emetic are those of the Vayu and of the Agni.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Vrinda reads “atisnigdhakayasya” in place of “atisnehapītasya”. This means that the Sneha might have been used both internally and externally.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Vrinda reads “snehabandhana”(?) in place of “balavarddhana” This means that the Doshas, so long obstructed by Sneha, are thereby expelled.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Some explain “rasaiḥ snegdhaiḥ”(?) to mean “with emollient meat-soup”.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -204,10 +223,6 @@ Some explain “rasaiḥ snegdhaiḥ”(?) to mean “with emollient meat-soup�
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch34" className="text-emerald-400 hover:underline flex items-center font-medium">Description of Sveda (fomentation, calorification, etc.): Sushruta Samhita Cikitsasthana Chapter 34 →</a>
 </div>
-
-
-
-
 
 ---
 

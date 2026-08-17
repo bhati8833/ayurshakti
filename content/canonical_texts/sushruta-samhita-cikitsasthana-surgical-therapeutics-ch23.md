@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of swellings within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. Chapter XXIII - The medical treatment of swellings
+## Chapter XXIII - The medical treatment of swellings
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -77,37 +77,42 @@ A patient wishing to get rid of an attack of Shopha (edematous swelling) should 
 
 Thus ends the Twenty-third Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the medical treatment of Shopha.
 
-[1]:
 
-See Sutra-sthana, Chapter XVII.
+<div className="footnote-card"><strong>[1]</strong> See Sutra-sthana, Chapter XVII.</div>
 
-[2]:
 
-A Patra measure is equal to eight seers
 
-[3]:
 
-See Chapter XXII, para, 10, Chikitsitasthana.
+<div className="footnote-card"><strong>[2]</strong> A Patra measure is equal to eight seers</div>
 
-[4]:
 
-Some commentators explain that the compound of Deva-daru and Shunthi also should be taken through the medium of cow’s urine or the decoction of Varshabhu.
 
-[5]:
 
-According to Chakradatta’s reading, Deva-daru, Shunthi and Guggulu should be taken together with cow’s urine.
+<div className="footnote-card"><strong>[3]</strong> See Chapter XXII, para, 10, Chikitsitasthana.</div>
 
-[6]:
 
-The Shringavera in this compound may be either fresh or dried.—Ed.
 
-[7]:
 
-Some read “gudam” i.e., treacle in place of “ghṛta ,” clarified butter. This reading seems to be the correct one, inasmuch as it is supported by all other authoritative works on Ayurveda.—Ed.
+<div className="footnote-card"><strong>[4]</strong> Some commentators explain that the compound of Deva-daru and Shunthi also should be taken through the medium of cow’s urine or the decoction of Varshabhu.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> According to Chakradatta’s reading, Deva-daru, Shunthi and Guggulu should be taken together with cow’s urine.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> The Shringavera in this compound may be either fresh or dried.—Ed.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Some read “gudam” i.e., treacle in place of “ghṛta ,” clarified butter. This reading seems to be the correct one, inasmuch as it is supported by all other authoritative works on Ayurveda.—Ed.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -116,10 +121,6 @@ Some read “gudam” i.e., treacle in place of “ghṛta ,” clarified butter
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of hernia: Sushruta Samhita Cikitsasthana Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

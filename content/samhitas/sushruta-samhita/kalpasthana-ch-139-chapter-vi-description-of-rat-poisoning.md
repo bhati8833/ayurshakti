@@ -118,6 +118,10 @@ Some commentators prescribe the roots of Dhustura to be taken, while others hold
 
 [7]:
 
+
+<blockquote className="ayur-shloka">
 Dallana says that in place of “kṣireṇoṣṇena” Gayadāsa reads “gavyenājyena”, that is to say, the diet should be taken with clarified butter. This reading of Gayadāsa seems to be the better one, as the use of clarified butter in such cases is supported by the custom of our country.
+</blockquote>
+
 
 ---

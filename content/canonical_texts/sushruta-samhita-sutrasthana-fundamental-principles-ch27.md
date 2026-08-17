@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Knowledge of foreign bodies within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. Chapter XXVI - Knowledge of foreign bodies
+## Chapter XXVI - Knowledge of foreign bodies
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -83,29 +83,30 @@ The physician, who is fully conversant with the five different courses or flight
 
 Thus ends the twenty-sixth Chapter of the Sutrasthana in the Sushruta Samhita which treats of exploration of splinters.
 
-[1]:
 
-Embolism and Thrombosis have been included within Shalya by the Ayurvedic Pathologists.
+<div className="footnote-card"><strong>[1]</strong> Embolism and Thrombosis have been included within Shalya by the Ayurvedic Pathologists.</div>
 
-[2]:
 
-An arrow or an iron barb, from “Shala” to kill.
 
-[3]:
 
-According to certain authorities the patient is tormented with a sort of unquenchable thirst.
+<div className="footnote-card"><strong>[2]</strong> An arrow or an iron barb, from “Shala” to kill.</div>
 
-[4]:
 
-So as not to obstruct the coursing of the blood or serum in the locality.
 
-[5]:
 
-Accordingly measures enjoined to be adopted in connection with a shaft (Shalya) lodged in any one of them should be applied mutatis mutandis to cases in which these Marmas would be found to be similarly affected.
+<div className="footnote-card"><strong>[3]</strong> According to certain authorities the patient is tormented with a sort of unquenchable thirst.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> So as not to obstruct the coursing of the blood or serum in the locality.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Accordingly measures enjoined to be adopted in connection with a shaft (Shalya) lodged in any one of them should be applied mutatis mutandis to cases in which these Marmas would be found to be similarly affected.</div>
 
 ---
-
-
 
 ---
 
@@ -114,10 +115,6 @@ Accordingly measures enjoined to be adopted in connection with a shaft (Shalya) 
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">Removal of foreign bodies: Sushruta Samhita Sutrasthana Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -21,8 +21,6 @@ isCanonicalText: true
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -30,10 +28,6 @@ isCanonicalText: true
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit-ch12" className="text-emerald-400 hover:underline flex items-center font-medium"># Book 6 - Uttara-sthāna (Specialized Clinical Branches): Ashtanga Hridaya Samhita Sanskrit Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

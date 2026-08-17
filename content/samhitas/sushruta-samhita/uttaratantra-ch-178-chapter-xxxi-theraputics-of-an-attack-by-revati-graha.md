@@ -42,6 +42,10 @@ Thus ends the thirty-first chapter of the Uttara-Tantra in the Sushruta Samhita 
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 There is an additional text in the Bhāvaprakāśa which says that Guggulu (Palamkashā), Nalada (Khus-khus) and Giri-kadamba should also be used in the preparation of the medicated oil.
+</blockquote>
+
 
 ---

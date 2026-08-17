@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Description of Diseases within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. 2. Description of Diseases
+## 2. Description of Diseases
 
 Physician as depicted in Manasollasa
 
@@ -27,8 +27,6 @@ Reason of Diseases—Man does not live in an absolutely germ-free atmosphere. Th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ Reason of Diseases—Man does not live in an absolutely germ-free atmosphere. Th
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">3. Description of Jvara or Fever: Physician As Depicted In Manasollasa Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

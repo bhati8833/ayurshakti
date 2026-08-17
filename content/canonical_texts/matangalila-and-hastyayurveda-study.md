@@ -13,82 +13,80 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Matangalila And Hastyayurveda Study Chapter 1](/articles/matangalila-and-hastyayurveda-study-ch1)
+### [General Discourse: Matangalila And Hastyayurveda Study Chapter 1](/articles/matangalila-and-hastyayurveda-study-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Matangalila And Hastyayurveda Study.
 
-### 2. [Summary of the Hastyāyurveda: Matangalila And Hastyayurveda Study Chapter 2](/articles/matangalila-and-hastyayurveda-study-ch2)
+### [Summary of the Hastyāyurveda: Matangalila And Hastyayurveda Study Chapter 2](/articles/matangalila-and-hastyayurveda-study-ch2)
 **Overview**: Detailed classical discussion on Summary of the Hastyāyurveda within Matangalila And Hastyayurveda Study.
 
-### 3. [Historical significance of Elephant lore: Matangalila And Hastyayurveda Study Chapter 3](/articles/matangalila-and-hastyayurveda-study-ch3)
+### [Historical significance of Elephant lore: Matangalila And Hastyayurveda Study Chapter 3](/articles/matangalila-and-hastyayurveda-study-ch3)
 **Overview**: Detailed classical discussion on Historical significance of Elephant lore within Matangalila And Hastyayurveda Study.
 
-### 4. [The gaja-śārdula concept: Matangalila And Hastyayurveda Study Chapter 4](/articles/matangalila-and-hastyayurveda-study-ch4)
+### [The gaja-śārdula concept: Matangalila And Hastyayurveda Study Chapter 4](/articles/matangalila-and-hastyayurveda-study-ch4)
 **Overview**: Detailed classical discussion on The gaja-śārdula concept within Matangalila And Hastyayurveda Study.
 
-### 5. [Elephants as gift: Matangalila And Hastyayurveda Study Chapter 5](/articles/matangalila-and-hastyayurveda-study-ch5)
+### [Elephants as gift: Matangalila And Hastyayurveda Study Chapter 5](/articles/matangalila-and-hastyayurveda-study-ch5)
 **Overview**: Detailed classical discussion on Elephants as gift within Matangalila And Hastyayurveda Study.
 
-### 6. [Epithets containing Elephants: Matangalila And Hastyayurveda Study Chapter 6](/articles/matangalila-and-hastyayurveda-study-ch6)
+### [Epithets containing Elephants: Matangalila And Hastyayurveda Study Chapter 6](/articles/matangalila-and-hastyayurveda-study-ch6)
 **Overview**: Detailed classical discussion on Epithets containing Elephants within Matangalila And Hastyayurveda Study.
 
-### 7. [Metaphors regarding Elephants: Matangalila And Hastyayurveda Study Chapter 7](/articles/matangalila-and-hastyayurveda-study-ch7)
+### [Metaphors regarding Elephants: Matangalila And Hastyayurveda Study Chapter 7](/articles/matangalila-and-hastyayurveda-study-ch7)
 **Overview**: Detailed classical discussion on Metaphors regarding Elephants within Matangalila And Hastyayurveda Study.
 
-### 8. [Use of elephants for religious purposes and rituals: Matangalila And Hastyayurveda Study Chapter 8](/articles/matangalila-and-hastyayurveda-study-ch8)
+### [Use of elephants for religious purposes and rituals: Matangalila And Hastyayurveda Study Chapter 8](/articles/matangalila-and-hastyayurveda-study-ch8)
 **Overview**: Detailed classical discussion on Use of elephants for religious purposes and rituals within Matangalila And Hastyayurveda Study.
 
-### 9. [Vaśālobha: The second technique: Matangalila And Hastyayurveda Study Chapter 9](/articles/matangalila-and-hastyayurveda-study-ch9)
+### [Vaśālobha: The second technique: Matangalila And Hastyayurveda Study Chapter 9](/articles/matangalila-and-hastyayurveda-study-ch9)
 **Overview**: Detailed classical discussion on Vaśālobha: The second technique within Matangalila And Hastyayurveda Study.
 
-### 10. [Avapāta: The fifth technique: Matangalila And Hastyayurveda Study Chapter 10](/articles/matangalila-and-hastyayurveda-study-ch10)
+### [Avapāta: The fifth technique: Matangalila And Hastyayurveda Study Chapter 10](/articles/matangalila-and-hastyayurveda-study-ch10)
 **Overview**: Detailed classical discussion on Avapāta: The fifth technique within Matangalila And Hastyayurveda Study.
 
-### 11. [Pregnant elephants: Matangalila And Hastyayurveda Study Chapter 11](/articles/matangalila-and-hastyayurveda-study-ch11)
+### [Pregnant elephants: Matangalila And Hastyayurveda Study Chapter 11](/articles/matangalila-and-hastyayurveda-study-ch11)
 **Overview**: Detailed classical discussion on Pregnant elephants within Matangalila And Hastyayurveda Study.
 
-### 12. [The merits and measures of food suitable for the Elephant: Matangalila And Hastyayurveda Study Chapter 12](/articles/matangalila-and-hastyayurveda-study-ch12)
+### [The merits and measures of food suitable for the Elephant: Matangalila And Hastyayurveda Study Chapter 12](/articles/matangalila-and-hastyayurveda-study-ch12)
 **Overview**: Detailed classical discussion on The merits and measures of food suitable for the Elephant within Matangalila And Hastyayurveda Study.
 
-### 13. [Medical treatment of Elephants: Matangalila And Hastyayurveda Study Chapter 13](/articles/matangalila-and-hastyayurveda-study-ch13)
+### [Medical treatment of Elephants: Matangalila And Hastyayurveda Study Chapter 13](/articles/matangalila-and-hastyayurveda-study-ch13)
 **Overview**: Detailed classical discussion on Medical treatment of Elephants within Matangalila And Hastyayurveda Study.
 
-### 14. [Training of Elephants: Matangalila And Hastyayurveda Study Chapter 14](/articles/matangalila-and-hastyayurveda-study-ch14)
+### [Training of Elephants: Matangalila And Hastyayurveda Study Chapter 14](/articles/matangalila-and-hastyayurveda-study-ch14)
 **Overview**: Detailed classical discussion on Training of Elephants within Matangalila And Hastyayurveda Study.
 
-### 15. [Eight noble Elephants (aṣṭadiggajas): Matangalila And Hastyayurveda Study Chapter 15](/articles/matangalila-and-hastyayurveda-study-ch15)
+### [Eight noble Elephants (aṣṭadiggajas): Matangalila And Hastyayurveda Study Chapter 15](/articles/matangalila-and-hastyayurveda-study-ch15)
 **Overview**: Detailed classical discussion on Eight noble Elephants (aṣṭadiggajas) within Matangalila And Hastyayurveda Study.
 
-### 16. [Curses borne: Matangalila And Hastyayurveda Study Chapter 16](/articles/matangalila-and-hastyayurveda-study-ch16)
+### [Curses borne: Matangalila And Hastyayurveda Study Chapter 16](/articles/matangalila-and-hastyayurveda-study-ch16)
 **Overview**: Detailed classical discussion on Curses borne within Matangalila And Hastyayurveda Study.
 
-### 17. [Elephants in Jain Mythology: Matangalila And Hastyayurveda Study Chapter 17](/articles/matangalila-and-hastyayurveda-study-ch17)
+### [Elephants in Jain Mythology: Matangalila And Hastyayurveda Study Chapter 17](/articles/matangalila-and-hastyayurveda-study-ch17)
 **Overview**: Detailed classical discussion on Elephants in Jain Mythology within Matangalila And Hastyayurveda Study.
 
-### 18. [Gajendra-Mokṣa (Gajendra’s salvation): Matangalila And Hastyayurveda Study Chapter 18](/articles/matangalila-and-hastyayurveda-study-ch18)
+### [Gajendra-Mokṣa (Gajendra’s salvation): Matangalila And Hastyayurveda Study Chapter 18](/articles/matangalila-and-hastyayurveda-study-ch18)
 **Overview**: Detailed classical discussion on Gajendra-Mokṣa (Gajendra’s salvation) within Matangalila And Hastyayurveda Study.
 
-### 19. [Elephants in Śaktism: Matangalila And Hastyayurveda Study Chapter 19](/articles/matangalila-and-hastyayurveda-study-ch19)
+### [Elephants in Śaktism: Matangalila And Hastyayurveda Study Chapter 19](/articles/matangalila-and-hastyayurveda-study-ch19)
 **Overview**: Detailed classical discussion on Elephants in Śaktism within Matangalila And Hastyayurveda Study.
 
-### 20. [General Discourse: Matangalila And Hastyayurveda Study Chapter 20](/articles/matangalila-and-hastyayurveda-study-ch20)
+### [General Discourse: Matangalila And Hastyayurveda Study Chapter 20](/articles/matangalila-and-hastyayurveda-study-ch20)
 **Overview**: Detailed classical discussion on General Discourse within Matangalila And Hastyayurveda Study.
 
-### 21. [Elephants in the Kingdom and as a Royal Asset: Matangalila And Hastyayurveda Study Chapter 21](/articles/matangalila-and-hastyayurveda-study-ch21)
+### [Elephants in the Kingdom and as a Royal Asset: Matangalila And Hastyayurveda Study Chapter 21](/articles/matangalila-and-hastyayurveda-study-ch21)
 **Overview**: Detailed classical discussion on Elephants in the Kingdom and as a Royal Asset within Matangalila And Hastyayurveda Study.
 
-### 22. [Elephants as commodities of Trade: Matangalila And Hastyayurveda Study Chapter 22](/articles/matangalila-and-hastyayurveda-study-ch22)
+### [Elephants as commodities of Trade: Matangalila And Hastyayurveda Study Chapter 22](/articles/matangalila-and-hastyayurveda-study-ch22)
 **Overview**: Detailed classical discussion on Elephants as commodities of Trade within Matangalila And Hastyayurveda Study.
 
-### 23. [Appendix III: Elephant on other Coins: Matangalila And Hastyayurveda Study Chapter 23](/articles/matangalila-and-hastyayurveda-study-ch23)
+### [Appendix III: Elephant on other Coins: Matangalila And Hastyayurveda Study Chapter 23](/articles/matangalila-and-hastyayurveda-study-ch23)
 **Overview**: Detailed classical discussion on Appendix III: Elephant on other Coins within Matangalila And Hastyayurveda Study.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Introducing the two Major Texts: Mātaṅgalīlā and Hastyāyurveda
+## Introducing the two Major Texts: Mātaṅgalīlā and Hastyāyurveda
 
 Matangalila and Hastyayurveda (study)
 
@@ -112,17 +110,17 @@ Technical treatises on “elephant-science” i.e. gaja-śāstra have been a ver
 
 On the basis of Mātaṅgalīlā and Hastyāyurveda, the two imperative texts on elephants we shall discuss the life cycle, behaviour, types, availability, food habits, reproduction, diseases and cure etc. of elephants. Edgerton mentions this as elephantology[2]. In keeping with the ancient textual tradition these texts also have an origin myth or one can trace the mythical origin of the texts. The origin of this science has been attributed to a mythical sage named Pālakāpya. Like other texts the flow of the knowledge is hierarchical in fashion. It is mentioned that he revealed the elephant lore first to an apparently mythical king Romapāda who is mentioned as the ruler of Aṅga. Like other texts this is in the form of dialogues between two personages.
 
-[1]:
 
-H.C. Raychaudhuri. Political History of Ancient India, Calcutta: University of Calcutta, 1972, p.231.
+<div className="footnote-card"><strong>[1]</strong> H.C. Raychaudhuri. Political History of Ancient India, Calcutta: University of Calcutta, 1972, p.231.</div>
 
-[2]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, Delhi: Motilal Banarsidass, 1985 (Reprint), p.1.
+
+
+<div className="footnote-card"><strong>[2]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, Delhi: Motilal Banarsidass, 1985 (Reprint), p.1.</div>
 
 ---
 
-## 2. Acknowledgement
+## Acknowledgement
 
 Matangalila and Hastyayurveda (study)
 
@@ -162,7 +160,7 @@ Place: Kolkata
 
 ---
 
-## 4. Abstract
+## Abstract
 
 Matangalila and Hastyayurveda (study)
 
@@ -176,7 +174,7 @@ There is special position of elephant lore in early Indian literature and gajaś
 
 ---
 
-## 12. Elephants in Epigraphic Records (Introduction)
+## Elephants in Epigraphic Records (Introduction)
 
 Matangalila and Hastyayurveda (study)
 
@@ -279,85 +277,116 @@ His weighty sword is considered to the tethering-post of the elephant of victory
 
 The king Cāmuṇḍarāja is said to destoyed his foes like falling out of pearls from the string of the frontal globe of elephants–“vīra vareṇa”. He was also skilled in destroying the elephants of his enemies–“yasya=ārātibha-kuṃbha-sthala-dalana-paṭuḥ”.
 
-[1]:
 
-Heinrich Zimmer. Myths and Symbols in Indian Art and Civilization, Princeton: Princeton University Press, 1974, p. 95.
+<div className="footnote-card"><strong>[1]</strong> Heinrich Zimmer. Myths and Symbols in Indian Art and Civilization, Princeton: Princeton University Press, 1974, p. 95.</div>
 
-[2]:
 
-R.Ghirshmann. Iran: From the Earliest Times to the Islamic Conquest, Penguin Books, 1954, p.165.
 
-[3]:
 
-V.P. Dwivedi. Indian Ivories (a survey of Indian Ivory and bone carvings from the earliest to the modern times), Delhi: Agam Prakashan, 1976, p. 16.
+<div className="footnote-card"><strong>[2]</strong> R.Ghirshmann. Iran: From the Earliest Times to the Islamic Conquest, Penguin Books, 1954, p.165.</div>
 
-[4]:
 
-Ibid.
 
-[5]:
 
-“vimāna-dasa[nā ca] hathini ogi-kaṃ[dhā]ni aṃnāni ca diviyani [lū]pāni…..(v.3, l.5)
+<div className="footnote-card"><strong>[3]</strong> V.P. Dwivedi. Indian Ivories (a survey of Indian Ivory and bone carvings from the earliest to the modern times), Delhi: Agam Prakashan, 1976, p. 16.</div>
 
-[6]:
 
-R.P. Kangle tr. Kauṭilīya Arthaśāstra, Vol. II, 2. 31-32, Bombay: University of Bombay, 1963.
 
-[7]:
 
-Ibid. p.101.
+<div className="footnote-card"><strong>[4]</strong> Ibid.</div>
 
-[8]:
 
-Trenckner, ed. Majjhima Nikāya, p.178. “Seyyathā pi brāhmaṇa nāgavaniko nāgavanau paviseyya, so asseya nāgavane mahantaṃ hatthipadaṃ Dīghato ca āyataṃ tiriyañ ca vitthaṃ,” etc., i.e. “Just as when, O Brāhmaṇa, the keeper of an elephant preserve, enters the elephant-preserve, he may see in the elephant-preserve large foot marks of elephants both long in length and broad in breadth, etc.”
 
-[9]:
 
-EI, Vol. II, p. 266.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “vimāna-dasa[nā ca] hathini ogi-kaṃ[dhā]ni aṃnāni ca diviyani [lū]pāni…..(v.3, l.5)
+</blockquote>
 
-[10]:
 
-EI, Vol. XXXII, p.8.
 
-[11]:
 
-D.C. Sircar. Inscriptions of Aśoka, Delhi: Publication Division, First Published 1957, Revised Edition 1967, p.19.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> R.P. Kangle tr. Kauṭilīya Arthaśāstra, Vol. II, 2. 31-32, Bombay: University of Bombay, 1963.
+</blockquote>
 
-[12]:
 
-EI, Vol. XXXII, p.1.
 
-[13]:
 
-EI, Vol. XIV, Haraha Inscription of the reign of Iśānavarman [Vikrama Samvat] 611, pp. 110-120.
+<div className="footnote-card"><strong>[7]</strong> Ibid. p.101.</div>
 
-[14]:
 
-Ibid., Vol.VII, Sirūr Inscription of the Time of Amoghavarsh I, A.D. 866, pp. 202-208.
 
-[15]:
 
-EI, Vol. XXVIII, pp. 6-11.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Trenckner, ed. Majjhima Nikāya, p.178. “Seyyathā pi brāhmaṇa nāgavaniko nāgavanau paviseyya, so asseya nāgavane mahantaṃ hatthipadaṃ Dīghato ca āyataṃ tiriyañ ca vitthaṃ,” etc., i.e. “Just as when, O Brāhmaṇa, the keeper of an elephant preserve, enters the elephant-preserve, he may see in the elephant-preserve large foot marks of elephants both long in length and broad in breadth, etc.”
+</blockquote>
 
-[16]:
 
-EI., Vol. XXVIII, Daikoni Plates of Prithvideva II: Year 890, “Aṣṭādaś=āri-kari-kuṃbha-vibhaṅga-siṃhāḥ putrā…..” l. 7, p. 153.
 
-[17]:
 
-CII, Vol. IV, pt. II, p. 469.
+<div className="footnote-card"><strong>[9]</strong> EI, Vol. II, p. 266.</div>
 
-[18]:
 
-EI, Vol. XIII, Record of thetime of Vikramaditya VI and the Kadamba Jayakesin II: AD 1125, pp. 298-316.
 
-[19]:
 
-Ibid., Vol. XIV, pp. 295-310.
+<div className="footnote-card"><strong>[10]</strong> EI, Vol. XXXII, p.8.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> D.C. Sircar. Inscriptions of Aśoka, Delhi: Publication Division, First Published 1957, Revised Edition 1967, p.19.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> EI, Vol. XXXII, p.1.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> EI, Vol. XIV, Haraha Inscription of the reign of Iśānavarman [Vikrama Samvat] 611, pp. 110-120.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Ibid., Vol.VII, Sirūr Inscription of the Time of Amoghavarsh I, A.D. 866, pp. 202-208.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> EI, Vol. XXVIII, pp. 6-11.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> EI., Vol. XXVIII, Daikoni Plates of Prithvideva II: Year 890, “Aṣṭādaś=āri-kari-kuṃbha-vibhaṅga-siṃhāḥ putrā…..” l. 7, p. 153.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> CII, Vol. IV, pt. II, p. 469.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> EI, Vol. XIII, Record of thetime of Vikramaditya VI and the Kadamba Jayakesin II: AD 1125, pp. 298-316.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid., Vol. XIV, pp. 295-310.</div>
 
 ---
 
-## 18. Depiction of elephants on the royal seals and inscription-slabs/plates
+## Depiction of elephants on the royal seals and inscription-slabs/plates
 
 Matangalila and Hastyayurveda (study)
 
@@ -401,145 +430,179 @@ Here mention may be made of the fact that the insignia of the Eastern Gaṅgas w
 
 [6. Elephant on seal. Courtesy: EI]
 
-[1]:
 
-EI, Vol. III, p.345.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol. III, p.345.</div>
 
-[2]:
 
-Ibid., Vol. IV, p.154.
 
-[3]:
 
-Ibid., Vol. XXIX, p.97.
+<div className="footnote-card"><strong>[2]</strong> Ibid., Vol. IV, p.154.</div>
 
-[4]:
 
-Ibid., p.194.
 
-[5]:
 
-Ibid., Vol.XXXIII, p.156.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Vol. XXIX, p.97.</div>
 
-[6]:
 
-Ibid., Vol. XII, p.205&217.It contains “Gaja-Lakṣmī” device and states, “A conch, a couch, an umbrella, good horses and good elephants are the indication of land gift. This is the fruit, O Purandara” (v.38).
 
-[7]:
 
-EI, Vol. VII, pp.198-231.
+<div className="footnote-card"><strong>[4]</strong> Ibid., p.194.</div>
 
-[8]:
 
-Ibid., Vol. VI, p. 98.
 
-[9]:
 
-Ibid., Vol. XXXIV, p. 45.
+<div className="footnote-card"><strong>[5]</strong> Ibid., Vol.XXXIII, p.156.</div>
 
-[10]:
 
-Ibid., Vol. XXXII, pp. 119, 123,126.
 
-[11]:
 
-Ibid., Vol. XXXI, p.70.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Ibid., Vol. XII, p.205&217.It contains “Gaja-Lakṣmī” device and states, “A conch, a couch, an umbrella, good horses and good elephants are the indication of land gift. This is the fruit, O Purandara” (v.38).
+</blockquote>
 
-[12]:
 
-EI, Vol. XXXVIII , Pt.6, p.269.
 
-[13]:
 
-Ibid., p.270.
+<div className="footnote-card"><strong>[7]</strong> EI, Vol. VII, pp.198-231.</div>
 
-[14]:
 
-Ibid., Vol. X, pp.44-49.
 
-[15]:
 
-Ibid., Vol. XLI, p.105.
+<div className="footnote-card"><strong>[8]</strong> Ibid., Vol. VI, p. 98.</div>
 
-[16]:
 
-Ibid., Vol. XXIX, p.145.
 
-[17]:
 
-Sircar, D.C. Indian Epigraphy, pl.XXXV.
+<div className="footnote-card"><strong>[9]</strong> Ibid., Vol. XXXIV, p. 45.</div>
 
-[18]:
 
-EI, Vol. II, pl. I.
 
-[19]:
 
-Ibid., Vol. IV, p.177.
+<div className="footnote-card"><strong>[10]</strong> Ibid., Vol. XXXII, pp. 119, 123,126.</div>
 
-[20]:
 
-Ibid., Vol. VIII, p.50.
 
-[21]:
 
-Ibid., Vol.IV, p.183.
+<div className="footnote-card"><strong>[11]</strong> Ibid., Vol. XXXI, p.70.</div>
 
-[22]:
 
-Ibid., Vol. V,p.127.
 
-[23]:
 
-Ibid., p.135.
+<div className="footnote-card"><strong>[12]</strong> EI, Vol. XXXVIII , Pt.6, p.269.</div>
 
-[24]:
 
-Ind.Ant., Vol.6, p.101 & Coorg.Inscrs.Opposite, p.5.
 
-[25]:
 
-EC, Vol.III, Sr.147, lithograph.
+<div className="footnote-card"><strong>[13]</strong> Ibid., p.270.</div>
 
-[26]:
 
-Ibid., Md.14
 
-[27]:
 
-Walter, E. Coins of Southern India, pl.III, no.120.
+<div className="footnote-card"><strong>[14]</strong> Ibid., Vol. X, pp.44-49.</div>
 
-[28]:
 
-Burnell, South Indian Palaeography, the plate opposite p.106.
 
-[29]:
 
-EI, Vol. VI, pp.254-55.
+<div className="footnote-card"><strong>[15]</strong> Ibid., Vol. XLI, p.105.</div>
 
-[30]:
 
-Ibid., p.334.
 
-[31]:
 
-Ibid., Vol. VII, pp.177-192.
+<div className="footnote-card"><strong>[16]</strong> Ibid., Vol. XXIX, p.145.</div>
 
-[32]:
 
-EI, Vol. XXXI, p.37.
 
-[33]:
 
-Ibid., Vol. III, p.158, Vol. XIV, p.331, Vol. XXXIV, p.137.
+<div className="footnote-card"><strong>[17]</strong> Sircar, D.C. Indian Epigraphy, pl.XXXV.</div>
 
-[34]:
 
-Ibid., Vol. XXII, p.111.
+
+
+<div className="footnote-card"><strong>[18]</strong> EI, Vol. II, pl. I.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid., Vol. IV, p.177.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., Vol. VIII, p.50.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., Vol.IV, p.183.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., Vol. V,p.127.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid., p.135.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Ind.Ant., Vol.6, p.101 & Coorg.Inscrs.Opposite, p.5.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> EC, Vol.III, Sr.147, lithograph.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Ibid., Md.14</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Walter, E. Coins of Southern India, pl.III, no.120.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Burnell, South Indian Palaeography, the plate opposite p.106.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> EI, Vol. VI, pp.254-55.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Ibid., p.334.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Ibid., Vol. VII, pp.177-192.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> EI, Vol. XXXI, p.37.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> Ibid., Vol. III, p.158, Vol. XIV, p.331, Vol. XXXIV, p.137.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> Ibid., Vol. XXII, p.111.</div>
 
 ---
 
-## 31. Techniques of Capturing Elephants (Introduction)
+## Techniques of Capturing Elephants (Introduction)
 
 Matangalila and Hastyayurveda (study)
 
@@ -691,41 +754,59 @@ It is interesting to note that the text clearly mentions that even if it is endo
 
 We have briefly mentioned the five techniques of capturing of elephants. Now we would be elaborating upon each technique.
 
-[1]:
 
-T. Gaṇapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, Trivandrum: Trivandrum Sanskrit Series, No. X, 1910, pp. 25-28, and Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Delhi: MotilalBanarsidass, 1985, pp.8791.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> T. Gaṇapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, Trivandrum: Trivandrum Sanskrit Series, No. X, 1910, pp. 25-28, and Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Delhi: MotilalBanarsidass, 1985, pp.8791.
+</blockquote>
 
-[2]:
 
-Ibid., p.25, p.87 respectively.
 
-[3]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri, ed. &tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Saraswati Mahal Series No. 76, Tanjore: T.M.S.S.M. Library, 1958, pp. 59-60.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p.25, p.87 respectively.</div>
 
-[4]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri, ed. &tr. (in Tamil), Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 130-131.
 
-[5]:
 
-Ibid., p. 130.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri, ed. &tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Saraswati Mahal Series No. 76, Tanjore: T.M.S.S.M. Library, 1958, pp. 59-60.
+</blockquote>
 
-[6]:
 
-T. Gaṇapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 7-10, and Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp.54-57.
 
-[7]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 131-132.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri, ed. &tr. (in Tamil), Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 130-131.
+</blockquote>
 
-[8]:
 
-H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, Bangalore: Poorna Prajna Samshodhana Mandiram, 2009, p. 21.
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 130.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> T. Gaṇapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 7-10, and Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp.54-57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstra [Gajaśāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 131-132.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, Bangalore: Poorna Prajna Samshodhana Mandiram, 2009, p. 21.
+</blockquote>
 
 ---
 
-## 48. Elephants in Myths and Metaphors (Introduction)
+## Elephants in Myths and Metaphors (Introduction)
 
 Matangalila and Hastyayurveda (study)
 
@@ -739,17 +820,17 @@ We have taken into consideration Buddhist literature and Jātakas have been chos
 
 Texts like Mātaṅgalīlā which deal with the science of elephants have several such embedded myths. These have several myths related to origin and life circle of elephants. In fact all the known texts agree in attributing the science of elephantology to a mythical sage Pālakāpya whose supernatural origin is narrated in a bizarre story recorded in the Mātaṅgalīlā (i, 1718)[2]. In this narrative a hierarchy or order of relaying the myth is also found which is repeated in several texts. He reveals this elephant-lore firstly to an apparently mythical Romapāda, king of Aṅga, whose name is not otherwise known. It is interesting to note that all the three texts Gajaśāstra, Mātaṅgalīlā and Hastyāyurveda, were composed in the form of dialogue between these two personages.
 
-[1]:
 
-A. Coomaraswamy & Nivedita, Myths of the Hindus and Buddhists, New York: Dover Publications, 1967, p.4.
+<div className="footnote-card"><strong>[1]</strong> A. Coomaraswamy & Nivedita, Myths of the Hindus and Buddhists, New York: Dover Publications, 1967, p.4.</div>
 
-[2]:
 
-Franklin Edgerton. The Elephant-lore of the Hindus, Delhi: Motilal Banarsidass, 1985, p.3.
+
+
+<div className="footnote-card"><strong>[2]</strong> Franklin Edgerton. The Elephant-lore of the Hindus, Delhi: Motilal Banarsidass, 1985, p.3.</div>
 
 ---
 
-## 64. Elephants and Trade (Introduction)
+## Elephants and Trade (Introduction)
 
 Matangalila and Hastyayurveda (study)
 
@@ -767,17 +848,20 @@ For catching elephants or for capturing them, several professionals were involve
 
 In the ideal case a kingdom will have an elephant forest and will resort to it for war elephants and riding elephants. But Arthaśāstra mentions eight regional elephant forests divided into three classes on the basis of their quality. It is in this connection that the Arthaśāstra speaks of the comparative advantages of the Himalayan trade route and the southern route. The first supplies horses and elephants among other things; the second is the better, supplying elephants and a greater abundance of precious goods. This also brings us to the issue that such elephant reserves or forests were state property and hence the elephants too generated revenue for the state. State or monarchical powers would have been the main purchasers of horses and elephants; private ownership of either was hence restricted, and in the case of Mauryas there was a royal monopoly, which was simply the limiting condition of a constant tendency of Indian kingship to treat horses and elephants as crucial military assets.
 
-[1]:
 
-Sarva Daman Singh. Ancient Indian Warfare–With Special Reference to the Vedic Period, (Foreword by Sir Mortimer Wheeler), Delhi: Motilal Banarsidass Publishers Pvt. Ltd., 1997 (Reprint), pp. 72-84.
+<div className="footnote-card"><strong>[1]</strong> Sarva Daman Singh. Ancient Indian Warfare–With Special Reference to the Vedic Period, (Foreword by Sir Mortimer Wheeler), Delhi: Motilal Banarsidass Publishers Pvt. Ltd., 1997 (Reprint), pp. 72-84.</div>
 
-[2]:
 
-K.G. Sheshadri. “Grasses and their varieties in Indian Literature”, Asian Agricultural History, Vol.17, No. 4, 2013, pp.325-334.
 
-[3]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, (Book 2, Chapter 2), Part II, Bombay: University of Bombay, 1963, pp.10-12.
+<div className="footnote-card"><strong>[2]</strong> K.G. Sheshadri. “Grasses and their varieties in Indian Literature”, Asian Agricultural History, Vol.17, No. 4, 2013, pp.325-334.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, (Book 2, Chapter 2), Part II, Bombay: University of Bombay, 1963, pp.10-12.
+</blockquote>
 
 ---
 

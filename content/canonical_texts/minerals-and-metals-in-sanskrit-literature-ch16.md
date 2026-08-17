@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of Zircon, Garnet and Tourmaline within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 68. 4.6. Description of Zircon, Garnet and Tourmaline
+## 4.6. Description of Zircon, Garnet and Tourmaline
 
 Minerals and Metals in Sanskrit literature
 
@@ -39,7 +39,7 @@ VII-37 been quoted before. On the other hand, the text of Rasa-RatnaSamuccaya ha
 
 ---
 
-## 69. 4.9. Description of Jade
+## 4.9. Description of Jade
 
 Minerals and Metals in Sanskrit literature
 
@@ -55,7 +55,7 @@ VII-48 due to iron and manganese. Apple-green or emerald green jadeite is so col
 
 ---
 
-## 70. 4.12. Description of Coral (Pravala or Vidruma)
+## 4.12. Description of Coral (Pravala or Vidruma)
 
 Minerals and Metals in Sanskrit literature
 
@@ -77,7 +77,7 @@ VII-61 Coral beads have been used by the religious people of India as rosaries t
 
 ---
 
-## 71. 4.11. Two Softer Blue Gems of the Ancient World
+## 4.11. Two Softer Blue Gems of the Ancient World
 
 Minerals and Metals in Sanskrit literature
 
@@ -101,8 +101,6 @@ VII-57 A very striking fact is that Arthasastra, otherwise more or less complete
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -110,10 +108,6 @@ VII-57 A very striking fact is that Arthasastra, otherwise more or less complete
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Feldspar Group of Gems: Minerals And Metals In Sanskrit Literature Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

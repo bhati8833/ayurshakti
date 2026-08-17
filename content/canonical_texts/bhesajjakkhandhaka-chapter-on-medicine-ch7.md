@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Biomedicine (Western medicine)—Brief History and Basic Principles within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 22. Biomedicine (Western medicine)—Brief History and Basic Principles
+## Biomedicine (Western medicine)—Brief History and Basic Principles
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -51,7 +51,7 @@ In the next chapter, a succinct discussion of Buddhist ideology on health, disea
 
 ---
 
-## 23. Chapter 3 - Concepts of Health and Disease
+## Chapter 3 - Concepts of Health and Disease
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -59,11 +59,9 @@ This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist L
 
 Chapter 3 - Concepts of Health and Disease
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 24. (a) Brief History of Biomedicine (Western medicine)
+## (a) Brief History of Biomedicine (Western medicine)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -107,37 +105,42 @@ Another field worth specifying is genetics. It has long been known that some hum
 
 At the end of the twentieth century, there emerged a new area of biomedical research, namely the stem cell research, which has gained significant attention. It investigates the specialisation of stem cells to various specific tissue cells, and hence the potential application of these cells to repair or replace the damaged tissue or organ, as in the case of degenerative disease (such as Parkinson’s disease), injury, cancer, organ failure, and other diseases. Thus, this new research led to the new field of regenerative medicine (Frazier and Drzymkowski 2013, 25-26).
 
-[1]:
 
-Encyclopædia Britannica Online, s.v. “history of medicine” [accessed November 15, 2014, http://academic.eb.com/EBchecked/topic/372460/history-of-medicine].
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Encyclopædia Britannica Online, s.v. “history of medicine” [accessed November 15, 2014, http://academic.eb.com/EBchecked/topic/372460/history-of-medicine].
+</blockquote>
 
-[2]:
 
-Examples of prominent contributors were Aristotle (384-322 Before Common Era), Praxagoras (floruit 340 Before Common Era), Herophilus (circa 330-260 Before Common Era), Erasistratus (circa 330-255 Before Common Era), Asclepiades of Bithynia (circa 120-30 Before Common Era), Aulus Cornelius Celsus (floruit 60 Common Era), Soranus of Ephesus (circa 100 Common Era), and Dioscorides (circa 40-90 Common Era) (Porter 1999, 64-80).
 
-[3]:
 
-This brief description of medical history in the Renaissance and the Enlightenment is gathered from Encyclopӕdia Britannica Online, s.v. “history of medicine”; Levinson and Gaccione 1997, 47-48; Porter 1999, 8, 10; and Saethre 2008, 64.
+<div className="footnote-card"><strong>[2]</strong> Examples of prominent contributors were Aristotle (384-322 Before Common Era), Praxagoras (floruit 340 Before Common Era), Herophilus (circa 330-260 Before Common Era), Erasistratus (circa 330-255 Before Common Era), Asclepiades of Bithynia (circa 120-30 Before Common Era), Aulus Cornelius Celsus (floruit 60 Common Era), Soranus of Ephesus (circa 100 Common Era), and Dioscorides (circa 40-90 Common Era) (Porter 1999, 64-80).</div>
 
-[4]:
 
-The practice of smallpox inoculation was already known in China in the 1500s, during the Ming dynasty (Lo and Stanley-Baker 2011, 161).
 
-[5]:
 
-Milieu intérieur, literally means “internal environment”, refers to the physiological capacity of the body to maintain a stable internal environment so as to have a free and independent life.
+<div className="footnote-card"><strong>[3]</strong> This brief description of medical history in the Renaissance and the Enlightenment is gathered from Encyclopӕdia Britannica Online, s.v. “history of medicine”; Levinson and Gaccione 1997, 47-48; Porter 1999, 8, 10; and Saethre 2008, 64.</div>
 
-[6]:
 
-For further development in diagnostic imaging since the discovery of X-rays, see Porter 1999, 607610.
 
-[7]:
 
-There are numerous discoveries and inventions in medicine and medical technology. It is impossible to enumerate (even briefly) all of them here. The above-mentioned ones are only some major and commonly known ones.
+<div className="footnote-card"><strong>[4]</strong> The practice of smallpox inoculation was already known in China in the 1500s, during the Ming dynasty (Lo and Stanley-Baker 2011, 161).</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Milieu intérieur, literally means “internal environment”, refers to the physiological capacity of the body to maintain a stable internal environment so as to have a free and independent life.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> For further development in diagnostic imaging since the discovery of X-rays, see Porter 1999, 607610.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> There are numerous discoveries and inventions in medicine and medical technology. It is impossible to enumerate (even briefly) all of them here. The above-mentioned ones are only some major and commonly known ones.</div>
 
 ---
-
-
 
 ---
 
@@ -146,10 +149,6 @@ There are numerous discoveries and inventions in medicine and medical technology
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">(b) Basic Principles of Biomedicine (Western medicine): Bhesajjakkhandhaka Chapter On Medicine Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

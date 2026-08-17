@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of an attack -mandika within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Chapter XXXV - Treatment of an attack by Mukha-mandika
+## Chapter XXXV - Treatment of an attack by Mukha-mandika
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -37,7 +37,7 @@ Thus ends the thirty-fifth Chapter of the Uttara-Tantra in the Sushruta Samhita 
 
 ---
 
-## 40. Chapter XXXII - Treatment of an attack by Putana-graha
+## Chapter XXXII - Treatment of an attack by Putana-graha
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -65,7 +65,7 @@ Thus ends the thirty-second chapter of the Uttara-Tantra in the Sushruta Samhita
 
 ---
 
-## 41. Chapter XXXVIII - Treatment of the diseases of the female organ of generation
+## Chapter XXXVIII - Treatment of the diseases of the female organ of generation
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -131,17 +131,17 @@ We have already described the nature of the medical treatment and the remedial a
 
 Thus ends the thirty-eighth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the therapeutics of the female organ of generation.
 
-[1]:
 
-The term “yoni” is here used in a very comprehensive sense and means the whole female organ of generation, i.e., Uterus, Vagina, etc.
+<div className="footnote-card"><strong>[1]</strong> The term “yoni” is here used in a very comprehensive sense and means the whole female organ of generation, i.e., Uterus, Vagina, etc.</div>
 
-[2]:
 
-These three lines correspond verbatim with three lines in the Charaka Samhitā (vide Charaka Samhitā, Chapter XXX, Chikitsita-sthāna).
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> These three lines correspond verbatim with three lines in the Charaka Samhitā (vide Charaka Samhitā, Chapter XXX, Chikitsita-sthāna).
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -150,10 +150,6 @@ These three lines correspond verbatim with three lines in the Charaka Samhitā (
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of an attack: Sushruta Samhita Uttara Tantra Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

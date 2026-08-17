@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Festivals and Rites Related to Agriculture within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 49. Part 25 - Festivals and Rites Related to Agriculture:
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Festivals and Rites Related to Agriculture:’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 25 - Festivals and Rites Related to Agriculture:
 
 Part 25 - Festivals and Rites Related to Agriculture:
 
@@ -39,46 +35,60 @@ Saṃkrānti:
 
 According to the Skanda Purāṇa,[8] this festival was observed in the month of Māgha. At Jagannātha Puri in accordance with custom, the newly reaped rice (śāli) was to be deposited, on the east side of the Viṣṇu temple, after pounding it. It was to be covered with new clothes and was to be worshipped. Viṣṇu was to be worshipped and the nirmālya wreath of Viṣṇu was to be placed on the śāli rice.Then the image of Viṣṇu was to be carried three times around the temple.This indicates that he was going three times around the world.In the next morning varieties of cooked rice were to be placed in gold plates. Mixing curd, sugar, ghee, jujube fruits etc. with the rice, these plates were then taken around the temple.This is the festival where new rice was to be offered to the God.
 
-[1]:
 
-māsi pauṣe ca devasya kuryādāgneyamutsavam/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> māsi pauṣe ca devasya kuryādāgneyamutsavam/
 navānnairupadaṃ śādyairvyāhṛtīruccāranbudhaḥ// Skanda Purāṇa ,1.3(2).7.39
+</blockquote>
 
-[2]:
 
-Skanda Purāṇa ,6.207
 
-[3]:
 
-Ibid.,6.207.68
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Skanda Purāṇa ,6.207
+</blockquote>
 
-[4]:
 
-Bhāgavata Purāṇa , 10.24.1
 
-[5]:
 
-Ibid., 10.24.8
+<div className="footnote-card"><strong>[3]</strong> Ibid.,6.207.68</div>
 
-[6]:
 
-Bhaviṣya Purāṇa , 4.135
 
-[7]:
 
-vājivakraṃ jhaṣadhvajam/ Ibid., 135.20d
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Bhāgavata Purāṇa , 10.24.1
+</blockquote>
 
-[8]:
 
-Skanda Purāṇa ,2.2.42.6-29
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 10.24.8</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Bhaviṣya Purāṇa , 4.135
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> vājivakraṃ jhaṣadhvajam/ Ibid., 135.20d
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Skanda Purāṇa ,2.2.42.6-29
+</blockquote>
 
 ---
 
-## 50. Part 6 - The Myth of Viśvāmitra
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Myth of Vishvamitra’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 6 - The Myth of Viśvāmitra
 
 Part 6 - The Myth of Viśvāmitra
 
@@ -95,37 +105,44 @@ vavarṣa cāmṛtaṃ vāri hyamṛtenārpitāḥ prajāḥ//[5]
 
 As rain is necessary for agriculture so this myth may be connected with the same. If there is rain then only agriculture thrives.
 
-[1]:
 
-avartyā śuna āntrāṇi pece na deveṣu vivide marḍitāram/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> avartyā śuna āntrāṇi pece na deveṣu vivide marḍitāram/
 apaśyaṃ jāyāmamahīyamānāmadhā me śyeno madhvā jabhāra// Ṛgveda Saṃhitā , 4.18.13
+</blockquote>
 
-[2]:
 
-Sāyaṇācārya, Ibid.
 
-[3]:
 
-Brahma Purāṇa , 2.23.6ff
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Sāyaṇācārya, Ibid.
+</blockquote>
 
-[4]:
 
-viśasadhvaṃ śvamāṃsaṃ ca kṣālayadhvaṃ ca vāriṇā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Brahma Purāṇa , 2.23.6ff
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> viśasadhvaṃ śvamāṃsaṃ ca kṣālayadhvaṃ ca vāriṇā/
 pacadhvaṃ mantravaccāpi hutvā’gnau tu yathāvidhi//
 devānṛṣīnpitṛnanyān tarpayitvā’tithīn gurūn/
 sarve bhokṣyāmahe śeṣamityuvāca ca kauśikaḥ// Ibid., 2.23.11-12
+</blockquote>
 
-[5]:
 
-Ibid., 2.23.23b-24a
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 2.23.23b-24a</div>
 
 ---
 
-## 51. Part 5 - The Myth of Indra and Vṛtra
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Myth of Indra and Vritra’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 5 - The Myth of Indra and Vṛtra
 
 Part 5 - The Myth of Indra and Vṛtra
 
@@ -176,60 +193,87 @@ According to Sāyaṇācārya—
 
 After this blessing has been received, the sun shines, and Earth again is bright.[31] The land of Earth became suitable for agriculture.
 
-[1]:
 
-taddevahelanaṃ tasya dharmālīkaṃ sureśvaraḥ/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> taddevahelanaṃ tasya dharmālīkaṃ sureśvaraḥ/
 ālakṣya tarasā bhītastacchīrṣāṇyacchinadruṣā// Bhāgavata Purāṇa ,6.9.4
+</blockquote>
 
-[2]:
 
-hataputrastatastvaṣṭā juhāvendrāya śatrave/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> hataputrastatastvaṣṭā juhāvendrāya śatrave/
 indraśatro vivardhasva mā ciraṃ jahi vidviṣam// Ibid., 6.9.12
+</blockquote>
 
-[3]:
 
-yuṣmabhyaṃ yācito’śvibhyāṃ dharmajño’ṅgāni dāsyati/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> yuṣmabhyaṃ yācito’śvibhyāṃ dharmajño’ṅgāni dāsyati/
 tatastairāyudhaśreṣṭho viśvamakarmavinirmitaḥ/
 yena vṛtraśiro hartā matteja upabṛṃhitaḥ// Ibid., 6.9.54
+</blockquote>
 
-[4]:
 
-vṛtramabhyadravacchettumasurānīkayūthapaiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> vṛtramabhyadravacchettumasurānīkayūthapaiḥ/
 paryastamojasā rājankruddho rudra ivāntakam// Ibid., 6.10.15
+</blockquote>
 
-[5]:
 
-tataḥ surāṇāmasurai raṇaḥ paramadāruṇaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> tataḥ surāṇāmasurai raṇaḥ paramadāruṇaḥ/
 tretāmukhe narmadāyāmabhavatprathame yuge// Ibid.,6.10.16
+</blockquote>
 
-[6]:
 
-jātasya mṛtyurdhruva eṣa sarvataḥ/pratikriyā yasya na ceha klṛptā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> jātasya mṛtyurdhruva eṣa sarvataḥ/pratikriyā yasya na ceha klṛptā/
 loko yaśaścātha tato yadi hyamuṃ mṛtyuṃ/varaṃ ko na vṛṇīta yuktam//
 dvau saṃmatāviha mṛtyū durāpau yadbrahmasaṃdhāraṇayā jitāsuḥ/
 kalevaraṃ yogarato vijahyādyadagraṇīrvīraśaye’nivṛttaḥ// Ibid., 6.10.31-32
+</blockquote>
 
-[7]:
 
-airāvato vṛtragadābhimṛṣṭo/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> airāvato vṛtragadābhimṛṣṭo/
 vighūrṇito’driḥ kuliśāhato yathā//
 apāsaradbhinnamukhaḥ sahendro/
 muñcannasṛksaptadhanurbhṛśārtaḥ//Ibid.,6.11.11
+</blockquote>
 
-[8]:
 
-evaṃ jihāsurnṛpadehamājau /
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> evaṃ jihāsurnṛpadehamājau /
 mṛtyuṃ varaṃ vijayānmanyamānaḥ//
 śūlaṃ pragṛhyābhyapatat surendraṃ yathā/
 mahāpuruṣaṃ kaiṭabho’psu// Ibid., 6.12.1
+</blockquote>
 
-[9]:
 
-vajreṇa vajrī śataparvaṇā’cchinadbhujaṃ/ Ibid., 6.12.3
 
-[10]:
 
-chinnaikabāhuḥ parigheṇa vṛtraḥ/
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> vajreṇa vajrī śataparvaṇā’cchinadbhujaṃ/ Ibid., 6.12.3
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> chinnaikabāhuḥ parigheṇa vṛtraḥ/
 saṃrabdha āsādya gṛhītavajram//
 hanau tatāḍendramathāmarebhaṃ vajraṃ/
 ca hastānnyapatanmaghonaḥ//
@@ -237,112 +281,158 @@ vṛtrasya karmātimahādbhutaṃ/
 tat surāsurāścāraṇasiddhasaṅghāḥ//
 apūjayaṃstat puruhūtasaṃkaṭaṃ/
 nirīkṣya hā heti vicukruśurbhṛśam// Ibid.,6.12.4-5
+</blockquote>
 
-[11]:
 
-indro na vajraṃ jagṛhe vilajjitaścyutaṃ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> indro na vajraṃ jagṛhe vilajjitaścyutaṃ/
 svahastādarisannidhau punaḥ//
 tamāha vṛtro hara āttavajro jahi/
 svaśatruṃ na viṣādakālaḥ// Ibid., 6.12.6
+</blockquote>
 
-[12]:
 
-Ibid., 6.12.7-17
 
-[13]:
 
-sindro vṛtravacaḥ śrutvā gatālīkamapūjayat/
+<div className="footnote-card"><strong>[12]</strong> Ibid., 6.12.7-17</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> sindro vṛtravacaḥ śrutvā gatālīkamapūjayat/
 gṛhītavajraḥ prahasaṃstamāha gatavismayaḥ// Ibid., 6.12.18
+</blockquote>
 
-[14]:
 
-sa tu vṛtrasya parighaṃ karaṃ ca karabhopamam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> sa tu vṛtrasya parighaṃ karaṃ ca karabhopamam/
 cicheda yugapaddevo vajreṇa śataparvaṇā// Ibid., 6.12.25
+</blockquote>
 
-[15]:
 
-atimātramahākāya ākṣipaṃstarasā girīn/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> atimātramahākāya ākṣipaṃstarasā girīn/
 girirāṭ pādacārīva padbhyāṃ nirjarayan mahīm// Ibid., 6.12.29
+</blockquote>
 
-[16]:
 
-bhittvā vajreṇa tatkukṣiṃ niṣkramya balabhidvibhuḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> bhittvā vajreṇa tatkukṣiṃ niṣkramya balabhidvibhuḥ/
 uccakarta śiraḥ śatrorgiriśṛṅgamivaujasā//
 vajrastu tatkandharamāśuvegaḥ/
 kṛntan samantāt parivartamānaḥ//
 nyapātayattāvadahargaṇena yo/
 jyotiṣāmayane vārtrahatye// Ibid.,6.12.33-34
+</blockquote>
 
-[17]:
 
-yenāvṛtā ime lokāstamasā tvāṣṭramūrtinā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> yenāvṛtā ime lokāstamasā tvāṣṭramūrtinā/
 sa vai vṛtra iti proktaḥ pāpaḥ paramadāruṇaḥ// Ibid.,6.9.18
+</blockquote>
 
-[18]:
 
-Nirukta ,2.17
 
-[19]:
 
-Ibid.,2.16
+<div className="footnote-card"><strong>[18]</strong> Nirukta ,2.17</div>
 
-[20]:
 
-Sāyaṇācārya, Ṛgveda Saṃhitā , 3.33.6
 
-[21]:
 
-Sāyaṇācārya, Ibid., 2.13.7
+<div className="footnote-card"><strong>[19]</strong> Ibid.,2.16</div>
 
-[22]:
 
-Ibid., 2.17.5
 
-[23]:
 
-sa vṛtrahendraḥ kṛṣṇayonīḥ purandaro dāsīrairayadvi/
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Sāyaṇācārya, Ṛgveda Saṃhitā , 3.33.6
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Sāyaṇācārya, Ibid., 2.13.7
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., 2.17.5</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> sa vṛtrahendraḥ kṛṣṇayonīḥ purandaro dāsīrairayadvi/
 ajanayanmanave kṣāmapaśca satrā śaṃsaṃ yajamānasya tūtot// Ibid.,2.20.7
+</blockquote>
 
-[24]:
 
-Sāyaṇācārya, Ibid.
 
-[25]:
 
-pūrvīruṣasaḥ śaradaśca gūrtā vṛtraṃ jaghanvā asṛjadvi sindhūn/
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Sāyaṇācārya, Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> pūrvīruṣasaḥ śaradaśca gūrtā vṛtraṃ jaghanvā asṛjadvi sindhūn/
 pariṣṭhitā atṛṇadbadbadhānāḥ sīrā indraḥ sravitave pṛthivyā// Ṛgveda Saṃhitā , 4.19.8
+</blockquote>
 
-[26]:
 
-Sāyaṇācārya, Ibid.
 
-[27]:
 
-Wilkins, W.J., Hindu Mythology(Vedic and Purāṇic), p. 48-49
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Sāyaṇācārya, Ibid.
+</blockquote>
 
-[28]:
 
-Dandekar, R.N., Vedic Mythological Tracts, p.143
 
-[29]:
 
-Das, Abinas Chandra, Ṛgvedic Culture, p. 260
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Wilkins, W.J., Hindu Mythology(Vedic and Purāṇic), p. 48-49
+</blockquote>
 
-[30]:
 
-Sāyaṇācārya, Ṛgveda Saṃhitā , 8.6.13
 
-[31]:
 
-Wilkins, W.J., op. cit., p. 49
+<div className="footnote-card"><strong>[28]</strong> Dandekar, R.N., Vedic Mythological Tracts, p.143</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Das, Abinas Chandra, Ṛgvedic Culture, p. 260</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Sāyaṇācārya, Ṛgveda Saṃhitā , 8.6.13
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Wilkins, W.J., op. cit., p. 49</div>
 
 ---
 
-## 52. Part 4 - The Myth of Indra and Ahalyā
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Myth of Indra and Ahalya’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 4 - The Myth of Indra and Ahalyā
 
 Part 4 - The Myth of Indra and Ahalyā
 
@@ -388,69 +478,96 @@ halena kṛṣyaṃ / tato nañsamāsaḥ / halānākṛṣṭakṣetrādiḥ /
 
 V.S. Apte in his The Practical Sanskrit-English Dictionary defines the word Ahalyā as unploughed and not arable.[15] Ahalyā represents Gautama’s infertile land. Gautama’s hermitage and field becoming barren required Indra’s rains. Indra is the god of rains. Before Indra came to Ahalyā, she remained sterile. But after Indra had carnally united with her, she became fertile and gained the power of productivity. This signifies the land which became suitable for growing crops i.e. became suitable for agriculture.
 
-[1]:
 
-Rāmāyaṇa ,1.48.14ff
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Rāmāyaṇa ,1.48.14ff
+</blockquote>
 
-[2]:
 
-Skanda Purāṇa ,5.3.136; Brahmavaivarta Purāṇa ,4.47.19-44
 
-[3]:
 
-Skanda Purāṇa ,5.3.136.3
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Skanda Purāṇa ,5.3.136; Brahmavaivarta Purāṇa ,4.47.19-44
+</blockquote>
 
-[4]:
 
-Ibid., 5.3.136.12
 
-[5]:
 
-Ibid., 5.3.136.15
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Skanda Purāṇa ,5.3.136.3
+</blockquote>
 
-[6]:
 
-Ibid.,5.3.136.16
 
-[7]:
 
-Brahmavaivarta Purāṇa ,4.47.13
+<div className="footnote-card"><strong>[4]</strong> Ibid., 5.3.136.12</div>
 
-[8]:
 
-Brahma Purāṇa ,2.16.34ff
 
-[9]:
 
-Ibid.,16.59
+<div className="footnote-card"><strong>[5]</strong> Ibid., 5.3.136.15</div>
 
-[10]:
 
-Ibid.,16.64
 
-[11]:
 
-Viṣṇu Purāṇa , 4.4.42
+<div className="footnote-card"><strong>[6]</strong> Ibid.,5.3.136.16</div>
 
-[12]:
 
-Śatapatha Brāhmaṇa , 3.3.4.18; Jaiminīya Brāhmaṇa , 2.79; Ṣaḍviṃśa Brāhmaṇa ,1.1.20ff
 
-[13]:
 
-Śatapatha Brāhmaṇa , 3.3.4.18
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Brahmavaivarta Purāṇa ,4.47.13
+</blockquote>
 
-[14]:
 
-Śabdakalpadruma, volume 1, p. 159
 
-[15]:
 
-Vide, Apte, V.S., op.cit., p. 195
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Brahma Purāṇa ,2.16.34ff
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid.,16.59</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid.,16.64</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Viṣṇu Purāṇa , 4.4.42
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Śatapatha Brāhmaṇa , 3.3.4.18; Jaiminīya Brāhmaṇa , 2.79; Ṣaḍviṃśa Brāhmaṇa ,1.1.20ff
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Śatapatha Brāhmaṇa , 3.3.4.18
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Śabdakalpadruma, volume 1, p. 159</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Vide, Apte, V.S., op.cit., p. 195</div>
 
 ---
-
-
 
 ---
 
@@ -459,10 +576,6 @@ Vide, Apte, V.S., op.cit., p. 195
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">The Myth behind the Creation of Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

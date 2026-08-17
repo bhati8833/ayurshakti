@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Indo-Iranian Concepts of Disease and Cure within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Indo-Iranian Concepts of Disease and Cure
+## Indo-Iranian Concepts of Disease and Cure
 
 Journal of the European Ayurvedic Society
 
@@ -67,7 +67,7 @@ R.E. Emmerick, Indo-Iranian Concepts of Disease and Cure 93 Justi, Handbuch Kell
 
 ---
 
-## 37. Caraka’s Proof of Rebirth
+## Caraka’s Proof of Rebirth
 
 Journal of the European Ayurvedic Society
 
@@ -115,7 +115,7 @@ P.-S. Filliozat, Caraka's Proof of Rebirth 111 it is a part of the system; it is
 
 ---
 
-## 38. Sleep according to Caraka
+## Sleep according to Caraka
 
 Journal of the European Ayurvedic Society
 
@@ -143,8 +143,6 @@ Buser, K.; Kaul-Hecker, U. (1991): Medizinische Psychologie, Medizinische Soziol
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -152,10 +150,6 @@ Buser, K.; Kaul-Hecker, U. (1991): Medizinische Psychologie, Medizinische Soziol
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">The Abhinava-Madhavanidana of Rajaguru Kavicandra: Journal Of The European Ayurvedic Society Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

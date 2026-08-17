@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. The period of Rational Medicine within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 55. 3. The period of Rational Medicine
+## 3. The period of Rational Medicine
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ Mesopotamia and India. In each of these widely separated centers of civilization
 
 ---
 
-## 56. 4. The age of Susruta
+## 4. The age of Susruta
 
 Surgery in ancient India (Study)
 
@@ -43,7 +43,7 @@ Arabic before the end of the eighth century A.D. and was named Kitab-I-Susrud by
 
 ---
 
-## 57. 8. Materials and Methods (described by Sushruta)
+## 8. Materials and Methods (described by Sushruta)
 
 Surgery in ancient India (Study)
 
@@ -59,8 +59,6 @@ lesions. The double armed axile instruments, which have two moving limbs to hold
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -68,10 +66,6 @@ lesions. The double armed axile instruments, which have two moving limbs to hold
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">5. Description of the Sushruta Samhita: Ancient Indian Surgical Science Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 11. Ecological conditions in Ayurveda within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. 11. Ecological conditions in Ayurveda
+## 11. Ecological conditions in Ayurveda
 
 Physician as depicted in Manasollasa
 
@@ -27,8 +27,6 @@ Ecological imbalance is a debatable topic at present all over the world. Exploit
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -36,10 +34,6 @@ Ecological imbalance is a debatable topic at present all over the world. Exploit
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">The Environment in Manasollasa: Physician As Depicted In Manasollasa Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

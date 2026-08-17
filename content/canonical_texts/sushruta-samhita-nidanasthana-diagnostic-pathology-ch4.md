@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of haemorrhoids within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. Chapter II - Diagnosis of haemorrhoids
+## Chapter II - Diagnosis of haemorrhoids
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -129,17 +129,15 @@ A case of piles due to the concerted action of the three deranged Doshas of the 
 
 Thus ends the second Chapter of the Nidanasthana in the Sushruta Samhita which deals with the Nidana of piles.
 
-[1]:
 
-According to others, Carmakilas may crop up on the skin of any part of the body.
+<div className="footnote-card"><strong>[1]</strong> According to others, Carmakilas may crop up on the skin of any part of the body.</div>
 
-[2]:
 
-Such as (1) the one due to the concerted action of the deranged Pitta and Kapha, (2) the one incidental to the simultaneous derangement of the Vayu and the Kapha, (3) the one brought about through the disordered condition of the Vayu and blood, (4) the one due to the combination of the deranged Pitta and Kapha, (5) the one produced by the concerted action of the deranged Pitta and blood, (6) the one which results from the combined action of the deranged Kapha and blood.
+
+
+<div className="footnote-card"><strong>[2]</strong> Such as (1) the one due to the concerted action of the deranged Pitta and Kapha, (2) the one incidental to the simultaneous derangement of the Vayu and the Kapha, (3) the one brought about through the disordered condition of the Vayu and blood, (4) the one due to the combination of the deranged Pitta and Kapha, (5) the one produced by the concerted action of the deranged Pitta and blood, (6) the one which results from the combined action of the deranged Kapha and blood.</div>
 
 ---
-
-
 
 ---
 
@@ -148,10 +146,6 @@ Such as (1) the one due to the concerted action of the deranged Pitta and Kapha,
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of anal fistula: Sushruta Samhita Nidanasthana Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

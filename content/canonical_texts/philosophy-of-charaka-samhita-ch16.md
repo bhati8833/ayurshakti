@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dialectical terms (12): Purpose (prayojana) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 63. Dialectical terms (12): Purpose (prayojana)
+## Dialectical terms (12): Purpose (prayojana)
 
 Philosophy of Charaka-samhita
 
@@ -21,25 +21,33 @@ Dialectical terms (12): Purpose (prayojana)
 
 Every voluntary action is motivated. Every one acts to obtain the desired object or to avoid an undesirable object.[1] Purpose is that for which an action is begun.[2] It is the motivating object of an action[3] or it is that which goads one in to action.[4]
 
-[1]:
 
-PHISPC, Vol. III, Part—III. p. 28.
+<div className="footnote-card"><strong>[1]</strong> PHISPC, Vol. III, Part—III. p. 28.</div>
 
-[2]:
 
-prayojanaṃ nāma yadarthamārabhyanta āraṃbhāḥ, CS, Vi,VIII. 44.
 
-[3]:
 
-yamarthamadhiktṛya pravartate tat prayojanaṃ, Nyāyasūtra.,I. i. 24.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> prayojanaṃ nāma yadarthamārabhyanta āraṃbhāḥ, CS, Vi,VIII. 44.
+</blockquote>
 
-[4]:
 
-yena prayuktaḥ pravartate tat prayojanaṃ,Vātsyāyana on ibid., N. Bh, p. 6.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> yamarthamadhiktṛya pravartate tat prayojanaṃ, Nyāyasūtra.,I. i. 24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> yena prayuktaḥ pravartate tat prayojanaṃ,Vātsyāyana on ibid., N. Bh, p. 6.
+</blockquote>
 
 ---
 
-## 64. Dialectical terms (15): Determination (vyavasāya)
+## Dialectical terms (15): Determination (vyavasāya)
 
 Philosophy of Charaka-samhita
 
@@ -49,17 +57,21 @@ Dialectical terms (15): Determination (vyavasāya)
 
 Vyavasāya means determinate cognition in the form of “this is a disease due to predominance of vāyu” or “this is the particular medicine for a particular disease”.[1] Akṣapāda uses this term in the definition of perception in order to characterize it as determinate.[2]
 
-[1]:
 
-CS, Vimāna - sthāna, VIII. 47.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Vimāna - sthāna, VIII. 47.
+</blockquote>
 
-[2]:
 
-Nyāyasūtra., I. i. 4
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Nyāyasūtra., I. i. 4
+</blockquote>
 
 ---
 
-## 65. Dialectical terms (14): Investigation (jijñāsā)
+## Dialectical terms (14): Investigation (jijñāsā)
 
 Philosophy of Charaka-samhita
 
@@ -69,17 +81,21 @@ Dialectical terms (14): Investigation (jijñāsā)
 
 Investigation (jijñāsā) means a deliberate examination (parīkṣā). For instance, a medicine is prescribed for a disease only after a proper examination.[1] Akṣapāda does not refer to jijñāsā in his categorical discussion. But Vātsyāyana uses it in a different sense. He considers it as one of the five factors which initiate discussion.[2]
 
-[1]:
 
-CS, Vimāna - sthāna, VIII. 46.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Vimāna - sthāna, VIII. 46.
+</blockquote>
 
-[2]:
 
-For details see Vātsyāyana on Nyāyasūtra., I. i. 32, Nyāya-Bhāṣya of Vātsyāyana., p. 53.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> For details see Vātsyāyana on Nyāyasūtra., I. i. 32, Nyāya-Bhāṣya of Vātsyāyana., p. 53.
+</blockquote>
 
 ---
 
-## 66. Dialectical terms (17): Infallible statement (ananuyojya)
+## Dialectical terms (17): Infallible statement (ananuyojya)
 
 Philosophy of Charaka-samhita
 
@@ -91,13 +107,10 @@ An infallible statement (ananuyojya) is just the opposite of an imperfect statem
 
 Example: The given disease is incurable.[1] It is a perfect and reliable statement.
 
-[1]:
 
-Ibid., 51.
+<div className="footnote-card"><strong>[1]</strong> Ibid., 51.</div>
 
 ---
-
-
 
 ---
 
@@ -106,10 +119,6 @@ Ibid., 51.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Dialectical terms (16): Imperfect statement (anuyojya): Philosophy Of Charaka Samhita Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

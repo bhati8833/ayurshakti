@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Interface between Physicians and Society within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. Interface between Physicians and Society
+## Interface between Physicians and Society
 
 Charaka Samhita and Sushruta Samhita
 
@@ -99,121 +99,183 @@ The moral duty of the physician here is given precedence.
 
 Though the paternalistic ideal is upheld as the highest ideal the question of remuneration is also important. The patient is expected to reciprocate the services of the physician in some form or the other.[27] One of the objectives of medical practice is the attainment of artha (wealth) though those who practice simply for acquisition of wealth are condemned.[28]
 
-[1]:
 
-D.Wujastyk, Well-Mannered Medicine, p.1.
+<div className="footnote-card"><strong>[1]</strong> D.Wujastyk, Well-Mannered Medicine, p.1.</div>
 
-[2]:
 
-Caraka Saṃhitā Vimānasthāna 8.13.
 
-[3]:
 
-The first part relating to the student’s life will be discussed in chapter 3 of this thesis.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Vimānasthāna 8.13.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Vimānasthāna 8.13.
 
-[5]:
 
-Suśruta prescribes white unassuming apparel with shoes, an umbrella and a stick in hand for the physician; Suśruta Saṃhitā Sūtrasthāna 10.3.
+<div className="footnote-card"><strong>[3]</strong> The first part relating to the student’s life will be discussed in chapter 3 of this thesis.</div>
 
-[6]:
 
-The word in brackets are taken from I.A. Menon and H.F. Haberman, “The Medical Students” Oath of Ancient India”, in Medical History, 1970, Vol. 14(3): pp.295-299.
 
-[7]:
 
-Caraka Saṃhitā Vimānasthāna 8.13.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Vimānasthāna 8.13.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Vimānasthāna 8.14.
 
-[9]:
 
-I.A. Menon and H.F. Haberman, “The Medical Students” Oath of Ancient India” pp.295- 299.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta prescribes white unassuming apparel with shoes, an umbrella and a stick in hand for the physician; Suśruta Saṃhitā Sūtrasthāna 10.3.
+</blockquote>
 
-[10]:
 
-S. Basu Majumdar, “Oath of the Hindu Physician and the Sūtra-Sthāna of Caraka and Suśruta Saṃhitās” in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, pp.89-102.
 
-[11]:
 
-Dagmar Wujastyk, Well-Mannered Medicine, p.102.
+<div className="footnote-card"><strong>[6]</strong> The word in brackets are taken from I.A. Menon and H.F. Haberman, “The Medical Students” Oath of Ancient India”, in Medical History, 1970, Vol. 14(3): pp.295-299.</div>
 
-[12]:
 
-I.A. Menon and H.F. Haberman, “The Medical Students” Oath of Ancient India”, pp.295- 299.
 
-[13]:
 
-Dagmar Wujastyk, Well-Mannered Medicine, p.91.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Vimānasthāna 8.13.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.6.
 
-[15]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.14.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Vimānasthāna 8.14.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā .Indriyasthāna12.62-63.
 
-[17]:
 
-Caraka Saṃhitā Sūtrasthāna 29.9.
+<div className="footnote-card"><strong>[9]</strong> I.A. Menon and H.F. Haberman, “The Medical Students” Oath of Ancient India” pp.295- 299.</div>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 10.9.
 
-[19]:
 
-Dagmar Wujastyk, Well-Mannered Medicine, p.96.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> S. Basu Majumdar, “Oath of the Hindu Physician and the Sūtra-Sthāna of Caraka and Suśruta Saṃhitās” in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, pp.89-102.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.21/2-22/1.
 
-[21]:
 
-Caraka Saṃhitā Sūtrasthāna 9.9.
+<div className="footnote-card"><strong>[11]</strong> Dagmar Wujastyk, Well-Mannered Medicine, p.102.</div>
 
-[22]:
 
-Suśruta Saṃhitā Sūtrasthāna 25.43-44.
 
-[23]:
 
-Suśruta Saṃhitā Sūtrasthāna 25.44.
+<div className="footnote-card"><strong>[12]</strong> I.A. Menon and H.F. Haberman, “The Medical Students” Oath of Ancient India”, pp.295- 299.</div>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 25.46.
 
-[25]:
 
-L.Edelstein, Ethics of the Greek Physician in O. Temkin and C.L.Temkin (Ed.), Ancient Medicine: Selected Papers of Ludwig Edelstein, Baltimore, 1967, p.324.
+<div className="footnote-card"><strong>[13]</strong> Dagmar Wujastyk, Well-Mannered Medicine, p.91.</div>
 
-[26]:
 
-P. Carrick, Medical Ethics in the Ancient World, Washington, D.C., 2001, p.173.
 
-[27]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.57.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 5.6.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.58.
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Sūtrasthāna 34.14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā .Indriyasthāna12.62-63.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Sūtrasthāna 29.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 10.9.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Dagmar Wujastyk, Well-Mannered Medicine, p.96.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 34.21/2-22/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Sūtrasthāna 9.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Sūtrasthāna 25.43-44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Sūtrasthāna 25.44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 25.46.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> L.Edelstein, Ethics of the Greek Physician in O. Temkin and C.L.Temkin (Ed.), Ancient Medicine: Selected Papers of Ludwig Edelstein, Baltimore, 1967, p.324.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> P. Carrick, Medical Ethics in the Ancient World, Washington, D.C., 2001, p.173.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.58.
+</blockquote>
 
 ---
 
-## 24. The Medical Attendant
+## The Medical Attendant
 
 Charaka Samhita and Sushruta Samhita
 
@@ -247,137 +309,223 @@ We no information about their remuneration but we get some idea about those on t
 
 The hospital with a capacity for fifteen patients was under the supervision of a Vaidya and was staffed by a surgeon, two nurses, a barber, etc. The duty of a nurse was to attend to the patients and administering medicines while the barber had to serve the hospitalised patients, teachers and students. The two nurses were paid 15 kalams of paddy and ½ kāśu each annually. 30 kalam and 1 kāśu each was given as salary to two persons who collected medicinal herbs, supplied fuel and attended to the preparation of medicines. Lowest in the strata was the barber who received 15 kalam of paddy. This head physician, Savarṇan Kodaṇḍarāman Asvatthāmā Bhaṭṭan of Ālappākkam, received annually 90 kalam of paddy[32] and 8 kāśu in addition to a grant of land. The land donated here was probably for residential purpose as it is mentioned in the inscription that he obtained the land which was to be enjoyed by him and his descendants. Besides the physician, there was also a surgeon (challiyakkṛiyai = śalya-kṛiyai) who received only 30 kalam of paddy, i.e., 1/3rd of the remuneration of the principal physician and neither was he allotted any land.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 9.8.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 9.8.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.24.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.15/2.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 34.24.
+</blockquote>
 
-[4]:
 
-H.T.Colebrooke (Ed.), Kosha or Dictionary of the Sanskrit Language by Amara Singh with an English Interpretation and Annotations, Delhi, 1989 (Third revised edition reprint), II.X.17. Hereafter Amarakośa.
 
-[5]:
 
-Amarakośa, II.VIII.30.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 34.15/2.
+</blockquote>
 
-[6]:
 
-J. Leslie, and D. Wujastyk, “The Doctor’s Assistant: Nursing in Ancient Indian Medical Texts”, in P. Holden and J. Littlewood (eds.), Anthropology and Nursing, London, 1991, pp. 25-30.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 9.8.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> H.T.Colebrooke (Ed.), Kosha or Dictionary of the Sanskrit Language by Amara Singh with an English Interpretation and Annotations, Delhi, 1989 (Third revised edition reprint), II.X.17. Hereafter Amarakośa.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Sūtrasthāna 15.7.
 
-[9]:
 
-J. Leslie and D. Wujastyk, “The Doctor’s Assistant”, pp. 25-30.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Amarakośa, II.VIII.30.
+</blockquote>
 
-[10]:
 
-J. Leslie and D. Wujastyk, “The Doctor’s Assistant”, pp.25-30.
 
-[11]:
 
-Caraka Saṃhitā Sūtrasthāna 15.7.
+<div className="footnote-card"><strong>[6]</strong> J. Leslie, and D. Wujastyk, “The Doctor’s Assistant: Nursing in Ancient Indian Medical Texts”, in P. Holden and J. Littlewood (eds.), Anthropology and Nursing, London, 1991, pp. 25-30.</div>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.6.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 10.3.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 9.8.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.15/2.
 
-[15]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.6.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Sūtrasthāna 15.7.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.30
 
-[17]:
 
-Suśruta Saṃhitā Śārīrasthāna 8.8.
+<div className="footnote-card"><strong>[9]</strong> J. Leslie and D. Wujastyk, “The Doctor’s Assistant”, pp. 25-30.</div>
 
-[18]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.30.
 
-[19]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.58/2-60/1.
+<div className="footnote-card"><strong>[10]</strong> J. Leslie and D. Wujastyk, “The Doctor’s Assistant”, pp.25-30.</div>
 
-[20]:
 
-Mahāvagga 8.26.7.
 
-[21]:
 
-Mahāvagga 8.26.1.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Sūtrasthāna 15.7.
+</blockquote>
 
-[22]:
 
-Mahāvagga 8.26.3.
 
-[23]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.8.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 5.6.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā 29.9.
 
-[25]:
 
-Caraka Saṃhitā Sūtrasthāna 15.7.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 10.3.
+</blockquote>
 
-[26]:
 
-Dagmar Wujastyk, Well-Mannered Medicine: Medical Ethics and Etiquette in Classical Ayurveda, New York, 2012, p.62.
 
-[27]:
 
-Caraka Saṃhitā Sūtrasthāna 15.7.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 34.15/2.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Śārīrasthāna 10.8.
 
-[29]:
 
-Arthaśāstra 5.3.12.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Sūtrasthāna 5.6.
+</blockquote>
 
-[30]:
 
-Arthaśāstra 5.3.17.
 
-[31]:
 
-K.V.S.Ayyar, “The Tirumukkuḍal inscription of Vīrarājendra”, Epigraphia Indica, Vol. XXI, pp. 220-250.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.30
+</blockquote>
 
-[32]:
 
-@ 3 kuruṇi of paddy and 8 kāśu per day.
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Śārīrasthāna 8.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.30.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.58/2-60/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Mahāvagga 8.26.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Mahāvagga 8.26.1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Mahāvagga 8.26.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Sūtrasthāna 19.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā 29.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Sūtrasthāna 15.7.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Dagmar Wujastyk, Well-Mannered Medicine: Medical Ethics and Etiquette in Classical Ayurveda, New York, 2012, p.62.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Sūtrasthāna 15.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Śārīrasthāna 10.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Arthaśāstra 5.3.12.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Arthaśāstra 5.3.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> K.V.S.Ayyar, “The Tirumukkuḍal inscription of Vīrarājendra”, Epigraphia Indica, Vol. XXI, pp. 220-250.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> @ 3 kuruṇi of paddy and 8 kāśu per day.
+</blockquote>
 
 ---
 
-## 25. The Position of the Physician in Society
+## The Position of the Physician in Society
 
 Charaka Samhita and Sushruta Samhita
 
@@ -477,365 +625,520 @@ Other than their association with the Atharvaveda, the notion of impurity of phy
 
 In the brahmanical law books healers are given a very low social position. According to the Uśanas, the bhiṣak is the offspring of a clandestine union between a brāhmaṇa and a kṣatriya girl and he maintains himself by studying Āyurveda in its eight parts, or astronomy, astrology and mathematics.[86] Manu designates the art of healing as an occupation for the base-born and it is specifically assigned to the ambaṣṭhas.[87] According to the lawgivers, the ambaṣṭha as an anuloma sprung from the marriage of a brāhmaṇa man with a vaiśya woman[88] or an offspring of a kṣatriya with a vaiśya woman (according to Gautama as interpreted by Haradatta). Uśanas lays down that he may live by surgery, while Haradatta commenting on Āpastamba Dharmasūtra, says that ambaṣṭha and śalyakṛnta are synonymous.[89]
 
-[1]:
 
-Ṛgveda I.3.2.
+<div className="footnote-card"><strong>[1]</strong> Ṛgveda I.3.2.</div>
 
-[2]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, Calcutta, p.239.
 
-[3]:
 
-S. Das, “The Changing Position of Medical Professionals: An Early Indian Perspective” in V.K. Thakur and K.K.Mandal (Eds.), Science, Technology and Medicine in Indian History (Essays in Honour of Dr. Devendra Kumar Singh), Patna/New Delhi, 2000, p. 60.
+<div className="footnote-card"><strong>[2]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, Calcutta, p.239.</div>
 
-[4]:
 
-Ṛgveda 1.3.2; 5.73.
 
-[5]:
 
-R.Chakraverti and K. Ray, Healers and Healing Inscribed: Epigraphic bearing on Healing-houses in Early India, Kolkata, 2011, p.9.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> S. Das, “The Changing Position of Medical Professionals: An Early Indian Perspective” in V.K. Thakur and K.K.Mandal (Eds.), Science, Technology and Medicine in Indian History (Essays in Honour of Dr. Devendra Kumar Singh), Patna/New Delhi, 2000, p. 60.
+</blockquote>
 
-[6]:
 
-Chattopadhyaya reads this as “…wandering among men as physicians” which appears more relevant to the context.
 
-[7]:
 
-A.B.Keith (trans.), The Veda of the Black Yajus School entitled Taittiriya Sanhitā, Delhi, 1967.
+<div className="footnote-card"><strong>[4]</strong> Ṛgveda 1.3.2; 5.73.</div>
 
-[8]:
 
-L. Gopal, “Stigma for a Physician in Ancient India” in Prachya Pratibha, Vol.13, No.1-2, 1985-1987, pp.125-136.
 
-[9]:
 
-A.B.Keith (trans.), The Yajurveda (Taittiriya Saṃhitā), VI.4.9.
+<div className="footnote-card"><strong>[5]</strong> R.Chakraverti and K. Ray, Healers and Healing Inscribed: Epigraphic bearing on Healing-houses in Early India, Kolkata, 2011, p.9.</div>
 
-[10]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, pp.247-249.
 
-[11]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.249.
+<div className="footnote-card"><strong>[6]</strong> Chattopadhyaya reads this as “…wandering among men as physicians” which appears more relevant to the context.</div>
 
-[12]:
 
-Ṛgveda I.180.7; K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, Delhi, 2005, p.217.
 
-[13]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, p.19.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> A.B.Keith (trans.), The Veda of the Black Yajus School entitled Taittiriya Sanhitā, Delhi, 1967.
+</blockquote>
 
-[14]:
 
-L. Gopal, “Stigma for a Physician in Ancient India”, p. 27.
 
-[15]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, p.19.
+<div className="footnote-card"><strong>[8]</strong> L. Gopal, “Stigma for a Physician in Ancient India” in Prachya Pratibha, Vol.13, No.1-2, 1985-1987, pp.125-136.</div>
 
-[16]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, p.20.
 
-[17]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, p.20.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> A.B.Keith (trans.), The Yajurveda (Taittiriya Saṃhitā), VI.4.9.
+</blockquote>
 
-[18]:
 
-L. Gopal, “Stigma for a Physician in Ancient India”, p. 127.
 
-[19]:
 
-L. Gopal, “Stigma for a Physician in Ancient India”, p.127.
+<div className="footnote-card"><strong>[10]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, pp.247-249.</div>
 
-[20]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.252.
 
-[21]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.252-253.
+<div className="footnote-card"><strong>[11]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.249.</div>
 
-[22]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.254-255.
 
-[23]:
 
-Ṛgveda I.22.1.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Ṛgveda I.180.7; K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, Delhi, 2005, p.217.
+</blockquote>
 
-[24]:
 
-K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.165.
 
-[25]:
 
-K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.304.
+<div className="footnote-card"><strong>[13]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, p.19.</div>
 
-[26]:
 
-K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.24.
 
-[27]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.255.
+<div className="footnote-card"><strong>[14]</strong> L. Gopal, “Stigma for a Physician in Ancient India”, p. 27.</div>
 
-[28]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.256.
 
-[29]:
 
-Quoted in D.P. Chattopadhyaya, Science and Society in Ancient India, p.241.
+<div className="footnote-card"><strong>[15]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, p.19.</div>
 
-[30]:
 
-K.G. Zysk, Asceticism and Healing in Ancient India: Medicine in the Buddhist Monastery, Delhi, 2000, p.21.
 
-[31]:
 
-K.G.Zysk, Asceticism and Healing in Ancient India, p. 21.
+<div className="footnote-card"><strong>[16]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, p.20.</div>
 
-[32]:
 
-K.G.Zysk, Asceticism and Healing in Ancient India, p.22.
 
-[33]:
 
-Ṛgveda IX.112.1.
+<div className="footnote-card"><strong>[17]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, p.20.</div>
 
-[34]:
 
-Ṛgveda VIII. 10.4; K.P. Jog, Aśvins, p.295.
 
-[35]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.236.
+<div className="footnote-card"><strong>[18]</strong> L. Gopal, “Stigma for a Physician in Ancient India”, p. 127.</div>
 
-[36]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, pp.236-237.
 
-[37]:
 
-K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.26.
+<div className="footnote-card"><strong>[19]</strong> L. Gopal, “Stigma for a Physician in Ancient India”, p.127.</div>
 
-[38]:
 
-S. Bhattacharji, The Indian Theogony: A Comparative Study of Indian Mythology from the Vedas to the Purāṇas, Calcutta, 1978, p.239.
 
-[39]:
 
-Chattopadhyaya, D.P., Science and Society in Ancient India, p.6.
+<div className="footnote-card"><strong>[20]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.252.</div>
 
-[40]:
 
-K.G. Zysk, Asceticism and healing in Ancient India, p.24.
 
-[41]:
 
-K.G. Zysk, Asceticism and healing in Ancient India, p.24.
+<div className="footnote-card"><strong>[21]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.252-253.</div>
 
-[42]:
 
-Chakraverti, R., and K. Ray, Healing and Healers Inscribed, p.11.
 
-[43]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.270.
+<div className="footnote-card"><strong>[22]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.254-255.</div>
 
-[44]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.238.
 
-[45]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p. 270.
+<div className="footnote-card"><strong>[23]</strong> Ṛgveda I.22.1.</div>
 
-[46]:
 
-K.G. Zysk, Asceticism and Healing in Ancient India, p.24.
 
-[47]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p. 29.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.165.
+</blockquote>
 
-[48]:
 
-J. Eggeling (trans.), The Śatapatha-Brāhmaṇa, Part II, 4:1:5:14, Sacred Books of the East Series, Vols. XXVI, Delhi, 1965 (Reprint).
 
-[49]:
 
-Caraka Saṃhitā Vimānasthāna 8.13, 20.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.304.
+</blockquote>
 
-[50]:
 
-K.G. Zysk, Asceticism and healing in Ancient India, p.24.
 
-[51]:
 
-Caraka Saṃhitā Cikitsāsthāna 1(4).4.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.24.
+</blockquote>
 
-[52]:
 
-Caraka Saṃhitā Cikitsāsthāna 1(4).38.
 
-[53]:
 
-K.G. Zysk, Medicine in the Veda: Religious Healing in the Veda, Delhi, second Indian edition, 1998, pp.xiii.
+<div className="footnote-card"><strong>[27]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.255.</div>
 
-[54]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.276.
 
-[55]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p. 276-277.
+<div className="footnote-card"><strong>[28]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.256.</div>
 
-[56]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.6, fn.10.
 
-[57]:
 
-P. Olivelle, (Annotated text and translation), Dharmasūtras: The Law Codes of Āpastamba, Gautama, Baudhāyana and Vasiṣṭha, Delhi, 2003. Āpastamba1:19.14.
+<div className="footnote-card"><strong>[29]</strong> Quoted in D.P. Chattopadhyaya, Science and Society in Ancient India, p.241.</div>
 
-[58]:
 
-Gautama Dharmasūtra 17.17.
 
-[59]:
 
-Vasiṣṭha Dharmasūtra 14.2.
+<div className="footnote-card"><strong>[30]</strong> K.G. Zysk, Asceticism and Healing in Ancient India: Medicine in the Buddhist Monastery, Delhi, 2000, p.21.</div>
 
-[60]:
 
-Vasiṣṭha Dharmasūtra 14.2-11.
 
-[61]:
 
-Vasiṣṭha Dharmasūtra 14.2-11.
+<div className="footnote-card"><strong>[31]</strong> K.G.Zysk, Asceticism and Healing in Ancient India, p. 21.</div>
 
-[62]:
 
-Baudhāyana Dharmasūtra 2:2.13.
 
-[63]:
 
-G. Buhler (trans.), The Laws Of Manu, Sacred Books of the East Series, Vol. XXV, Delhi, 1988, III.180. Hereafter Manusmṛti
+<div className="footnote-card"><strong>[32]</strong> K.G.Zysk, Asceticism and Healing in Ancient India, p.22.</div>
 
-[64]:
 
-Manusmṛti IV.220.
 
-[65]:
 
-L. Gopal, “Stigma for a Physician in Ancient India”, p.126.
+<div className="footnote-card"><strong>[33]</strong> Ṛgveda IX.112.1.</div>
 
-[66]:
 
-Manusmṛti III.152.
 
-[67]:
 
-Viṣṇu Dharmasūtra: lxxxii 3-14.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Ṛgveda VIII. 10.4; K.P. Jog, Aśvins, p.295.
+</blockquote>
 
-[68]:
 
-K.G. Zysk, Medicine in the Veda, pp.xiv-xv.
 
-[69]:
 
-S. Das, “The Changing Position of Medical Professionals: An Early Indian Perspective”, p. 65.
+<div className="footnote-card"><strong>[35]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.236.</div>
 
-[70]:
 
-S. Das, “The Changing Position of Medical Professionals: An Early Indian Perspective”, p. 65.
 
-[71]:
 
-P. Harvey, An Introduction to Buddhism: Teachings, History and Practices, Cambridge, 1990, p. 47.
+<div className="footnote-card"><strong>[36]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, pp.236-237.</div>
 
-[72]:
 
-J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with special reference to Tripiṭaka, p. 27.
 
-[73]:
 
-T.W. Rhys Davids, (trans.), The Questions of King Milinda, IV.5.8.
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.26.
+</blockquote>
 
-[74]:
 
-P.V. Sharma, “Medicine in Buddhist and Jaina Tradition” in P.V. Sharma (Ed.), History of Medicine in India from Antiquity to 1000 AD, New Delhi, 1992, p.123.
 
-[75]:
 
-P.V. Sharma, “Medicine in Buddhist and Jaina Tradition”, p.131.
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> S. Bhattacharji, The Indian Theogony: A Comparative Study of Indian Mythology from the Vedas to the Purāṇas, Calcutta, 1978, p.239.
+</blockquote>
 
-[76]:
 
-P.V. Sharma, “Medicine in Buddhist and Jaina Tradition”, p.117.
 
-[77]:
 
-P.V.R. Sastry, “Epigraphical Allusion to Surgery in Ayurveda” in Bulletin of Indian Institute of History of Medicine, Vol.VII, Nos. 3 and 4, 1977, pp.127-130.
+<div className="footnote-card"><strong>[39]</strong> Chattopadhyaya, D.P., Science and Society in Ancient India, p.6.</div>
 
-[78]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.6.
 
-[79]:
 
-Caraka Saṃhitā Sūtrasthāna 30.21.
+<div className="footnote-card"><strong>[40]</strong> K.G. Zysk, Asceticism and healing in Ancient India, p.24.</div>
 
-[80]:
 
-Zysk, Asceticism and Healing in Ancient India, p.25.
 
-[81]:
 
-Zysk, Asceticism and Healing in Ancient India, p.24.
+<div className="footnote-card"><strong>[41]</strong> K.G. Zysk, Asceticism and healing in Ancient India, p.24.</div>
 
-[82]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.6.
 
-[83]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.20.
+<div className="footnote-card"><strong>[42]</strong> Chakraverti, R., and K. Ray, Healing and Healers Inscribed, p.11.</div>
 
-[84]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.19.
 
-[85]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.19/2-19/3.
+<div className="footnote-card"><strong>[43]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.270.</div>
 
-[86]:
 
-P.V. Kane, History of the Dharmaśāstra, Poona, 1941, Vol.2, Part 1, pp. 89- 90.
 
-[87]:
 
-Manusmṛti X.47-48.
+<div className="footnote-card"><strong>[44]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.238.</div>
 
-[88]:
 
-Manusmṛti X.8.
 
-[89]:
 
-P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
+<div className="footnote-card"><strong>[45]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p. 270.</div>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> K.G. Zysk, Asceticism and Healing in Ancient India, p.24.</div>
+
+
+
+
+<div className="footnote-card"><strong>[47]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p. 29.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> J. Eggeling (trans.), The Śatapatha-Brāhmaṇa, Part II, 4:1:5:14, Sacred Books of the East Series, Vols. XXVI, Delhi, 1965 (Reprint).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Caraka Saṃhitā Vimānasthāna 8.13, 20.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[50]</strong> K.G. Zysk, Asceticism and healing in Ancient India, p.24.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Caraka Saṃhitā Cikitsāsthāna 1(4).4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Caraka Saṃhitā Cikitsāsthāna 1(4).38.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[53]</strong> K.G. Zysk, Medicine in the Veda: Religious Healing in the Veda, Delhi, second Indian edition, 1998, pp.xiii.</div>
+
+
+
+
+<div className="footnote-card"><strong>[54]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.276.</div>
+
+
+
+
+<div className="footnote-card"><strong>[55]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p. 276-277.</div>
+
+
+
+
+<div className="footnote-card"><strong>[56]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.6, fn.10.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> P. Olivelle, (Annotated text and translation), Dharmasūtras: The Law Codes of Āpastamba, Gautama, Baudhāyana and Vasiṣṭha, Delhi, 2003. Āpastamba1:19.14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Gautama Dharmasūtra 17.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Vasiṣṭha Dharmasūtra 14.2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Vasiṣṭha Dharmasūtra 14.2-11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Vasiṣṭha Dharmasūtra 14.2-11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> Baudhāyana Dharmasūtra 2:2.13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> G. Buhler (trans.), The Laws Of Manu, Sacred Books of the East Series, Vol. XXV, Delhi, 1988, III.180. Hereafter Manusmṛti
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Manusmṛti IV.220.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[65]</strong> L. Gopal, “Stigma for a Physician in Ancient India”, p.126.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> Manusmṛti III.152.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Viṣṇu Dharmasūtra: lxxxii 3-14.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[68]</strong> K.G. Zysk, Medicine in the Veda, pp.xiv-xv.</div>
+
+
+
+
+<div className="footnote-card"><strong>[69]</strong> S. Das, “The Changing Position of Medical Professionals: An Early Indian Perspective”, p. 65.</div>
+
+
+
+
+<div className="footnote-card"><strong>[70]</strong> S. Das, “The Changing Position of Medical Professionals: An Early Indian Perspective”, p. 65.</div>
+
+
+
+
+<div className="footnote-card"><strong>[71]</strong> P. Harvey, An Introduction to Buddhism: Teachings, History and Practices, Cambridge, 1990, p. 47.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with special reference to Tripiṭaka, p. 27.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[73]</strong> T.W. Rhys Davids, (trans.), The Questions of King Milinda, IV.5.8.</div>
+
+
+
+
+<div className="footnote-card"><strong>[74]</strong> P.V. Sharma, “Medicine in Buddhist and Jaina Tradition” in P.V. Sharma (Ed.), History of Medicine in India from Antiquity to 1000 AD, New Delhi, 1992, p.123.</div>
+
+
+
+
+<div className="footnote-card"><strong>[75]</strong> P.V. Sharma, “Medicine in Buddhist and Jaina Tradition”, p.131.</div>
+
+
+
+
+<div className="footnote-card"><strong>[76]</strong> P.V. Sharma, “Medicine in Buddhist and Jaina Tradition”, p.117.</div>
+
+
+
+
+<div className="footnote-card"><strong>[77]</strong> P.V.R. Sastry, “Epigraphical Allusion to Surgery in Ayurveda” in Bulletin of Indian Institute of History of Medicine, Vol.VII, Nos. 3 and 4, 1977, pp.127-130.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> Suśruta Saṃhitā Sūtrasthāna 1.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> Caraka Saṃhitā Sūtrasthāna 30.21.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[80]</strong> Zysk, Asceticism and Healing in Ancient India, p.25.</div>
+
+
+
+
+<div className="footnote-card"><strong>[81]</strong> Zysk, Asceticism and Healing in Ancient India, p.24.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[82]</strong> Suśruta Saṃhitā Sūtrasthāna 1.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[83]</strong> Suśruta Saṃhitā Sūtrasthāna 1.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[84]</strong> Suśruta Saṃhitā Sūtrasthāna 1.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[85]</strong> Suśruta Saṃhitā Sūtrasthāna 8.19/2-19/3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[86]</strong> P.V. Kane, History of the Dharmaśāstra, Poona, 1941, Vol.2, Part 1, pp. 89- 90.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[87]</strong> Manusmṛti X.47-48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[88]</strong> Manusmṛti X.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[89]</strong> P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -844,10 +1147,6 @@ P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">The Physician in the Medical Texts: Charaka Samhita And Sushruta Samhita Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

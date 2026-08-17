@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment for increasing virility within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. Chapter XXVI - The medical treatment for increasing virility
+## Chapter XXVI - The medical treatment for increasing virility
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -63,29 +63,34 @@ The use of the milk of a Griskti (a cow delivered only once) with a grown up cal
 
 Thus ends the Twenty-sixth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of the virile impotency.
 
-[1]:
 
-The Vaji-Karana remedies are of three kinds, viz., (1) those producing the semen, (2) those secreting the semen, and (3) those producing as well as secreting the semen.
+<div className="footnote-card"><strong>[1]</strong> The Vaji-Karana remedies are of three kinds, viz., (1) those producing the semen, (2) those secreting the semen, and (3) those producing as well as secreting the semen.</div>
 
-[2]:
 
-According to Shivadasa it may also be taken with honey and clarified butter only.
 
-[3]:
 
-Some explain“kulīra” house-sparrows.
+<div className="footnote-card"><strong>[2]</strong> According to Shivadasa it may also be taken with honey and clarified butter only.</div>
 
-[4]:
 
-Here semen would mean the testes, the receptacle of the semen.
 
-[5]:
 
-Some read “śṛtena” (boiled) in place of “dhṛtena” In that case the boiled milk only should be taken and no clarified butter should be added thereto.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Some explain“kulīra” house-sparrows.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Here semen would mean the testes, the receptacle of the semen.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Some read “śṛtena” (boiled) in place of “dhṛtena” In that case the boiled milk only should be taken and no clarified butter should be added thereto.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -94,10 +99,6 @@ Some read “śṛtena” (boiled) in place of “dhṛtena” In that case the 
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch30" className="text-emerald-400 hover:underline flex items-center font-medium">Elixirs (rasayana) for the prevention of death and decay: Sushruta Samhita Cikitsasthana Chapter 30 →</a>
 </div>
-
-
-
-
 
 ---
 

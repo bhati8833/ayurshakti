@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Materials discussed in the Angavijja and Amarakosha within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 86. 7. Materials discussed in the Angavijja and Amarakosha
+## 7. Materials discussed in the Angavijja and Amarakosha
 
 Minerals and Metals in Sanskrit literature
 
@@ -29,7 +29,7 @@ VIII-20 was made in the Gupta era. Tin had a new name vanga (Bengal); it is sign
 
 ---
 
-## 87. 10. Texts of the Tantric Alchemy Period (7th-13th Century A.D.)
+## 10. Texts of the Tantric Alchemy Period (7th-13th Century A.D.)
 
 Minerals and Metals in Sanskrit literature
 
@@ -49,7 +49,7 @@ VIII-33 dealt, in its eighth chapter, with the examination of the earth and the 
 
 ---
 
-## 88. 11. Rasarnava—A Brahminical Tantra
+## 11. Rasarnava—A Brahminical Tantra
 
 Minerals and Metals in Sanskrit literature
 
@@ -65,7 +65,7 @@ VIII-35 Zinc ore (rasaka) was stated to impart gold-like colour to copper as wel
 
 ---
 
-## 90. 13. References
+## 13. References
 
 Minerals and Metals in Sanskrit literature
 
@@ -87,8 +87,6 @@ VIII-44 Sikdar, J.C., 1970, Jaina Atomic Theory, in Indian Journal of History of
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -96,10 +94,6 @@ VIII-44 Sikdar, J.C., 1970, Jaina Atomic Theory, in Indian Journal of History of
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">The Rasaratna-samuccaya—a pinnacle in the Indian iatro-chemistry: Minerals And Metals In Sanskrit Literature Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

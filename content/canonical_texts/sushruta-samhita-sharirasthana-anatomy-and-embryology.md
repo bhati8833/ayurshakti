@@ -13,46 +13,44 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Sushruta Samhita Sharirasthana Chapter 1](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch1)
+### [General Discourse: Sushruta Samhita Sharirasthana Chapter 1](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Sushruta Samhita Sharirasthana.
 
-### 2. [The purification of semen and cataminal fluid: Sushruta Samhita Sharirasthana Chapter 2](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch2)
+### [The purification of semen and cataminal fluid: Sushruta Samhita Sharirasthana Chapter 2](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch2)
 **Overview**: Detailed classical discussion on The purification of semen and cataminal fluid within Sushruta Samhita Sharirasthana.
 
-### 3. [The science of being in general: Sushruta Samhita Sharirasthana Chapter 3](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch3)
+### [The science of being in general: Sushruta Samhita Sharirasthana Chapter 3](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch3)
 **Overview**: Detailed classical discussion on The science of being in general within Sushruta Samhita Sharirasthana.
 
-### 4. [Pregnancy: Sushruta Samhita Sharirasthana Chapter 4](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch4)
+### [Pregnancy: Sushruta Samhita Sharirasthana Chapter 4](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch4)
 **Overview**: Detailed classical discussion on Pregnancy within Sushruta Samhita Sharirasthana.
 
-### 5. [The development of a fetus in the womb: Sushruta Samhita Sharirasthana Chapter 5](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch5)
+### [The development of a fetus in the womb: Sushruta Samhita Sharirasthana Chapter 5](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch5)
 **Overview**: Detailed classical discussion on The development of a fetus in the womb within Sushruta Samhita Sharirasthana.
 
-### 6. [Description of Sira (vascular system): Sushruta Samhita Sharirasthana Chapter 6](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch6)
+### [Description of Sira (vascular system): Sushruta Samhita Sharirasthana Chapter 6](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch6)
 **Overview**: Detailed classical discussion on Description of Sira (vascular system) within Sushruta Samhita Sharirasthana.
 
-### 7. [The Marmas (vital parts of the body): Sushruta Samhita Sharirasthana Chapter 7](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch7)
+### [The Marmas (vital parts of the body): Sushruta Samhita Sharirasthana Chapter 7](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch7)
 **Overview**: Detailed classical discussion on The Marmas (vital parts of the body) within Sushruta Samhita Sharirasthana.
 
-### 8. [The method of Venesection: Sushruta Samhita Sharirasthana Chapter 8](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch8)
+### [The method of Venesection: Sushruta Samhita Sharirasthana Chapter 8](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch8)
 **Overview**: Detailed classical discussion on The method of Venesection within Sushruta Samhita Sharirasthana.
 
-### 9. [The anatomy of the human body: Sushruta Samhita Sharirasthana Chapter 9](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch9)
+### [The anatomy of the human body: Sushruta Samhita Sharirasthana Chapter 9](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch9)
 **Overview**: Detailed classical discussion on The anatomy of the human body within Sushruta Samhita Sharirasthana.
 
-### 10. [The description of the arteries, nerves and ducts: Sushruta Samhita Sharirasthana Chapter 10](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch10)
+### [The description of the arteries, nerves and ducts: Sushruta Samhita Sharirasthana Chapter 10](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch10)
 **Overview**: Detailed classical discussion on The description of the arteries, nerves and ducts within Sushruta Samhita Sharirasthana.
 
-### 11. [The nursing and management of pregnant women: Sushruta Samhita Sharirasthana Chapter 11](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch11)
+### [The nursing and management of pregnant women: Sushruta Samhita Sharirasthana Chapter 11](/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch11)
 **Overview**: Detailed classical discussion on The nursing and management of pregnant women within Sushruta Samhita Sharirasthana.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Preface
+## Preface
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -64,7 +62,7 @@ For the preface of this edition, see the Nidanasthana.
 
 ---
 
-## 2. Introduction
+## Introduction
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -76,7 +74,7 @@ Please refer to the introduction attached to the first part of the second volume
 
 ---
 
-## 4. Title Page
+## Title Page
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 

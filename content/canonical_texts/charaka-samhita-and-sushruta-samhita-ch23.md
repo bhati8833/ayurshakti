@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Certain aspects of dietary regimen within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 76. Certain aspects of dietary regimen
+## Certain aspects of dietary regimen
 
 Charaka Samhita and Sushruta Samhita
 
@@ -73,417 +73,713 @@ It is admitted that the meat of these animals is not considered edible in tradit
 
 Though we do read in the text that by refraining from meat and alcohol, and by being disciplined and pure, one is not afflicted by insanity;[98] yet the diet recommended in the texts is overwhelmingly meat based as it is nourishing (maṃsam bṛhaṇīyānāṃ).[99] Not all patients are meat eaters though as there is reference to people who preferred vegetarian diet[100] or habituated to vegetables.[101] It is therapeutic concern that also causes the physician to recommend a wide variety of fermented drinks or wines (madya) for their pharmaceutical goodness: they work as appetizers, purgatives, eliminate kapha and vāta; they are cardiotonic and help to purify the bladder.[102] The absence of any religious encumbrances is most evident in the physician’s understanding of drugs and diet. There is no gainsaying that ancient Indian medicine had its own code of dietary ethics distinct from that of the Dharmaśāstras.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 27.11; Suśruta Saṃhitā Sūtrasthāna 46.6.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 27.11; Suśruta Saṃhitā Sūtrasthāna 46.6.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.10.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 5.5.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 46.10.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.6.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.178.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 5.5.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 4.36.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.110.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 46.6.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.132.
 
-[9]:
 
-Caraka Saṃhitā Cikitsāsthāna 11.26.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 3.178.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.63.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.97.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 4.36.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.95.
 
-[13]:
 
-Caraka Saṃhitā Cikitsāsthāna 18.36.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 5.110.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Cikitsāsthāna 3.5.
 
-[15]:
 
-Caraka Saṃhitā Cikitsāsthāna 6.46-48.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Cikitsāsthāna 8.132.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Cikitsāsthāna 39.6-11.
 
-[17]:
 
-Caraka Saṃhitā Sūtrasthāna 27.8-15.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Cikitsāsthāna 11.26.
+</blockquote>
 
-[18]:
 
-Caraka Saṃhitā Sūtrasthāna 27.21-22.
 
-[19]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.4-14.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Cikitsāsthāna 12.63.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.15-17.
 
-[21]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.18.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 13.97.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 5.12.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 12.25.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 14.95.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.338.
 
-[25]:
 
-Caraka Saṃhitā Sūtrasthāna 23.226.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Cikitsāsthāna 18.36.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.38.
 
-[27]:
 
-Suśruta Saṃhitā Cikitsāsthāna 3.5.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Cikitsāsthāna 3.5.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.35.
 
-[29]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.27.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Cikitsāsthāna 6.46-48.
+</blockquote>
 
-[30]:
 
-F.Zimmermann, The Jungle and the Aroma of Meats: An Ecological Theme in Hindu Medicine, p.98.
 
-[31]:
 
-The tortoise, the crocodile, etc. are mentioned. Suśruta Saṃhitā Sūtrasthāna 46.109.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Cikitsāsthāna 39.6-11.
+</blockquote>
 
-[32]:
 
-The conch shell, the crab, etc. are mentioned. Suśruta Saṃhitā Sūtrasthāna 46.108- 109.
 
-[33]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.72.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Sūtrasthāna 27.8-15.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.94.
 
-[35]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.74.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Sūtrasthāna 27.21-22.
+</blockquote>
 
-[36]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.90-91.
 
-[37]:
 
-Vaidya B. Dash, Fundamentals of Ayurvedic Medicine (Revised and Enlarged Edition), Delhi: Srisatguru Publications, 1999, p.201.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Sūtrasthāna 46.4-14.
+</blockquote>
 
-[38]:
 
-F.Zimmermann, The Jungle and the Aroma of Meats, p.47.
 
-[39]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.90.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 46.15-17.
+</blockquote>
 
-[40]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.99.
 
-[41]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.54.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Sūtrasthāna 46.18.
+</blockquote>
 
-[42]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.53.
 
-[43]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.18.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 5.12.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Cikitsāsthāna 18.36.
 
-[45]:
 
-Caraka Saṃhitā Cikitsāsthāna 6.4.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 12.25.
+</blockquote>
 
-[46]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.157.
 
-[47]:
 
-Caraka Saṃhitā Cikitsāsthāna 4.41; Suśruta Saṃhitā Uttaratantra 45.16.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 46.338.
+</blockquote>
 
-[48]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.133, 164.
 
-[49]:
 
-Caraka Saṃhitā Cikitsāsthāna 6.19; Suśruta Saṃhitā Cikitsāsthāna 11.6.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Sūtrasthāna 23.226.
+</blockquote>
 
-[50]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.83; Suśruta Saṃhitā Cikitsāsthāna 9.5.
 
-[51]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.116, 120.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.38.
+</blockquote>
 
-[52]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.62; Suśruta Saṃhitā Cikitsāsthāna 23.13.
 
-[53]:
 
-Caraka Saṃhitā Cikitsāsthāna 15.116.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Cikitsāsthāna 3.5.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.12.
 
-[55]:
 
-Suśruta Saṃhitā Cikitsāsthāna 14.5.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.35.
+</blockquote>
 
-[56]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.38.
 
-[57]:
 
-Suśruta Saṃhitā Uttaratantra 42.106, 123.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.27.
+</blockquote>
 
-[58]:
 
-Suśruta Saṃhitā Uttaratantra 43.14.
 
-[59]:
 
-Suśruta Saṃhitā Uttaratantra 44.37.
+<div className="footnote-card"><strong>[30]</strong> F.Zimmermann, The Jungle and the Aroma of Meats: An Ecological Theme in Hindu Medicine, p.98.</div>
 
-[60]:
 
-Suśruta Saṃhitā Uttaratantra 46.16.
 
-[61]:
 
-Suśruta Saṃhitā Uttaratantra 47.29, 36.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> The tortoise, the crocodile, etc. are mentioned. Suśruta Saṃhitā Sūtrasthāna 46.109.
+</blockquote>
 
-[62]:
 
-Suśruta Saṃhitā Uttaratantra 47.69.
 
-[63]:
 
-Suśruta Saṃhitā Uttaratantra 49.35.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> The conch shell, the crab, etc. are mentioned. Suśruta Saṃhitā Sūtrasthāna 46.108- 109.
+</blockquote>
 
-[64]:
 
-Suśruta Saṃhitā Uttaratantra 23.11.
 
-[65]:
 
-Suśruta Saṃhitā Uttaratantra 24.38.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Sūtrasthāna 46.72.
+</blockquote>
 
-[66]:
 
-Suśruta Saṃhitā Uttaratantra 26.17, 31, 39.
 
-[67]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.5.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Sūtrasthāna 46.94.
+</blockquote>
 
-[68]:
 
-Suśruta Saṃhitā Cikitsāsthāna 13.11.
 
-[69]:
 
-Suśruta Saṃhitā Uttaratantra 17.50.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Sūtrasthāna 46.74.
+</blockquote>
 
-[70]:
 
-Caraka Saṃhitā Cikitsāsthāna 6.4.
 
-[71]:
 
-Caraka Saṃhitā Cikitsāsthāna 17.15.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Sūtrasthāna 46.90-91.
+</blockquote>
 
-[72]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.206.
 
-[73]:
 
-Suśruta Saṃhitā Cikitsāsthāna 23.4.
+<div className="footnote-card"><strong>[37]</strong> Vaidya B. Dash, Fundamentals of Ayurvedic Medicine (Revised and Enlarged Edition), Delhi: Srisatguru Publications, 1999, p.201.</div>
 
-[74]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.164.
 
-[75]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.99.
+<div className="footnote-card"><strong>[38]</strong> F.Zimmermann, The Jungle and the Aroma of Meats, p.47.</div>
 
-[76]:
 
-Caraka Saṃhitā Cikitsāsthāna 18.36.
 
-[77]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.18.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Suśruta Saṃhitā Sūtrasthāna 46.90.
+</blockquote>
 
-[78]:
 
-Caraka Saṃhitā Sūtrasthāna 5.5.
 
-[79]:
 
-Caraka Saṃhitā Sūtrasthāna 27.59 (lāva and kapiñjala); 45-46 (the other animals).
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Suśruta Saṃhitā Sūtrasthāna 46.99.
+</blockquote>
 
-[80]:
 
-Caraka Saṃhitā Sūtrasthāna 15.7.
 
-[81]:
 
-Manusmṛti V.18.
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Suśruta Saṃhitā Sūtrasthāna 46.54.
+</blockquote>
 
-[82]:
 
-Manusmṛti V.31.
 
-[83]:
 
-Manusmṛti V.43.
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Suśruta Saṃhitā Sūtrasthāna 46.53.
+</blockquote>
 
-[84]:
 
-D.N.Jha, The Myth of the Holy Cow, London/ New York, 2004, p. 92.
 
-[85]:
 
-Manusmṛti V.27.
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.18.
+</blockquote>
 
-[86]:
 
-Vidyarnava, Srisa Chandra (trans.) and W.L.S. Panshikar, (Ed.), Yājñavalkya Smṛti, Varanasi, 2003 (Reprint), I.180.
 
-[87]:
 
-D.N.Jha, The Myth of the Holy Cow, pp.113-115.
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Cikitsāsthāna 18.36.
+</blockquote>
 
-[88]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.90.
 
-[89]:
 
-Caraka Saṃhitā Sūtrasthāna 27.79-80.
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Cikitsāsthāna 6.4.
+</blockquote>
 
-[90]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.126-128.
 
-[91]:
 
-Caraka Saṃhitā Sūtrasthāna 27.311.
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Caraka Saṃhitā Cikitsāsthāna 3.157.
+</blockquote>
 
-[92]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.116, 120.
 
-[93]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.82.
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Caraka Saṃhitā Cikitsāsthāna 4.41; Suśruta Saṃhitā Uttaratantra 45.16.
+</blockquote>
 
-[94]:
 
-Suśruta Saṃhitā Uttaratantra 44.36.
 
-[95]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.150-154.
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Caraka Saṃhitā Cikitsāsthāna 5.133, 164.
+</blockquote>
 
-[96]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.156-157.
 
-[97]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.149.
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Caraka Saṃhitā Cikitsāsthāna 6.19; Suśruta Saṃhitā Cikitsāsthāna 11.6.
+</blockquote>
 
-[98]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.96.
 
-[99]:
 
-Caraka Saṃhitā Sūtrasthāna 25.40.
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Caraka Saṃhitā Cikitsāsthāna 7.83; Suśruta Saṃhitā Cikitsāsthāna 9.5.
+</blockquote>
 
-[100]:
 
-Caraka Saṃhitā Cikitsāsthāna 29.53.
 
-[101]:
 
-Caraka Saṃhitā Cikitsāsthāna 4.40.
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Caraka Saṃhitā Cikitsāsthāna 8.116, 120.
+</blockquote>
 
-[102]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.170.
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Caraka Saṃhitā Cikitsāsthāna 12.62; Suśruta Saṃhitā Cikitsāsthāna 23.13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Caraka Saṃhitā Cikitsāsthāna 15.116.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.12.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Suśruta Saṃhitā Cikitsāsthāna 14.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Suśruta Saṃhitā Uttaratantra 42.106, 123.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Suśruta Saṃhitā Uttaratantra 43.14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Suśruta Saṃhitā Uttaratantra 44.37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Suśruta Saṃhitā Uttaratantra 46.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Suśruta Saṃhitā Uttaratantra 47.29, 36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> Suśruta Saṃhitā Uttaratantra 47.69.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> Suśruta Saṃhitā Uttaratantra 49.35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Suśruta Saṃhitā Uttaratantra 23.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> Suśruta Saṃhitā Uttaratantra 24.38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> Suśruta Saṃhitā Uttaratantra 26.17, 31, 39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> Suśruta Saṃhitā Cikitsāsthāna 13.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> Suśruta Saṃhitā Uttaratantra 17.50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> Caraka Saṃhitā Cikitsāsthāna 6.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Caraka Saṃhitā Cikitsāsthāna 17.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> Caraka Saṃhitā Cikitsāsthāna 30.206.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[73]</strong> Suśruta Saṃhitā Cikitsāsthāna 23.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[74]</strong> Caraka Saṃhitā Cikitsāsthāna 30.164.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[75]</strong> Caraka Saṃhitā Cikitsāsthāna 13.99.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> Caraka Saṃhitā Cikitsāsthāna 18.36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> Caraka Saṃhitā Sūtrasthāna 5.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> Caraka Saṃhitā Sūtrasthāna 27.59 (lāva and kapiñjala); 45-46 (the other animals).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[80]</strong> Caraka Saṃhitā Sūtrasthāna 15.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[81]</strong> Manusmṛti V.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[82]</strong> Manusmṛti V.31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[83]</strong> Manusmṛti V.43.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[84]</strong> D.N.Jha, The Myth of the Holy Cow, London/ New York, 2004, p. 92.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[85]</strong> Manusmṛti V.27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[86]</strong> Vidyarnava, Srisa Chandra (trans.) and W.L.S. Panshikar, (Ed.), Yājñavalkya Smṛti, Varanasi, 2003 (Reprint), I.180.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[87]</strong> D.N.Jha, The Myth of the Holy Cow, pp.113-115.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[88]</strong> Suśruta Saṃhitā Sūtrasthāna 46.90.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[89]</strong> Caraka Saṃhitā Sūtrasthāna 27.79-80.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[90]</strong> Suśruta Saṃhitā Sūtrasthāna 46.126-128.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[91]</strong> Caraka Saṃhitā Sūtrasthāna 27.311.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[92]</strong> Caraka Saṃhitā Cikitsāsthāna 8.116, 120.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[93]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.82.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[94]</strong> Suśruta Saṃhitā Uttaratantra 44.36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[95]</strong> Caraka Saṃhitā Cikitsāsthāna 8.150-154.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[96]</strong> Caraka Saṃhitā Cikitsāsthāna 8.156-157.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[97]</strong> Caraka Saṃhitā Cikitsāsthāna 8.149.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[98]</strong> Caraka Saṃhitā Cikitsāsthāna 9.96.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[99]</strong> Caraka Saṃhitā Sūtrasthāna 25.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[100]</strong> Caraka Saṃhitā Cikitsāsthāna 29.53.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[101]</strong> Caraka Saṃhitā Cikitsāsthāna 4.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[102]</strong> Suśruta Saṃhitā Sūtrasthāna 46.170.
+</blockquote>
 
 ---
 
-## 77. Brahmā, Prajāpati and Dakṣa
+## Brahmā, Prajāpati and Dakṣa
 
 Charaka Samhita and Sushruta Samhita
 
@@ -511,185 +807,277 @@ The divine physicians are said to have cured Candra of consumption[35] and are i
 
 We notice that Kauṭilya directs the king to set up a temple dedicated to the Aśvins in the centre of the city which is an indication of the important position occupied in the pantheon by them during the Mauryan period.[39] Among the later literary works, the characterization of the Aśvins as divine physicians continues in the Mahābhārata and the Harivaṃśa. They are given the epithets of “deva bhiṣajau” and “devabhiṣagvarau” (excellent physicians of the gods).[40] This is evident in Paurāṇic literature as well; the Mārkaṇḍeya Purāṇa describes them as bhiṣajām varau (the best among the physicians).[41] However, signs of their decline in the epics are also evident with the trend of identifying or subordinating the twin deities to Viṣṇu and Śiva. Vālmīki identifies them with Śrīkṛṣṇa.[42] Passages in the Mahābhārata state that the Aśvins are contained in the body of Viṣṇu and that they also appear as various manifestations of Śiva. We further learn that they are his subordinates.[43] The process of absorbing the divine physicians into the two rising deities of Brahmanism was already underway. It is also striking that the Aśvins do not figure in the iconography of the Indian pantheon, and though they are remembered in the Purāṇas, they gradually fade away.[44]
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.4.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 2.4.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.21.
 
-[3]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.312.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 5.21.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Cikitsāsthāna 29.3.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:3.6.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Cikitsāsthāna 3.312.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.60.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.6.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Cikitsāsthāna 29.3.
+</blockquote>
 
-[8]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.13.
 
-[9]:
 
-T. Bhattacharya, The Cult of Brahmā, Varanasi, 1969, p.102.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 1:3.6.
+</blockquote>
 
-[10]:
 
-T. Bhattacharya, The Cult of Brahmā, p.102.
 
-[11]:
 
-S. Bhattacharji, The Indian Theogony, p.317.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 23.60.
+</blockquote>
 
-[12]:
 
-S. Bhattacharji, The Indian Theogony, p.319.
 
-[13]:
 
-S. Bhattacharji, The Indian Theogony, p.324.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 23.6.
+</blockquote>
 
-[14]:
 
-S. Bhattacharji, The Indian Theogony, p.328.
 
-[15]:
 
-Caraka Saṃhitā Śārīrasthāna 8.39.
+<div className="footnote-card"><strong>[8]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.13.</div>
 
-[16]:
 
-Atharvaveda IV.35.1.
 
-[17]:
 
-Atharvaveda V.25.13.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> T. Bhattacharya, The Cult of Brahmā, Varanasi, 1969, p.102.
+</blockquote>
 
-[18]:
 
-Atharvaveda VII.19.1.
 
-[19]:
 
-Atharvaveda VI.68.2.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> T. Bhattacharya, The Cult of Brahmā, p.102.
+</blockquote>
 
-[20]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.14.
 
-[21]:
 
-S. Bhattacharji, The Indian Theogony, p.338.
+<div className="footnote-card"><strong>[11]</strong> S. Bhattacharji, The Indian Theogony, p.317.</div>
 
-[22]:
 
-S. Bhattacharji, The Indian Theogony, p.143.
 
-[23]:
 
-S. Bhattacharji, The Indian Theogony, p.216-217.
+<div className="footnote-card"><strong>[12]</strong> S. Bhattacharji, The Indian Theogony, p.319.</div>
 
-[24]:
 
-S. Bhattacharji, The Indian Theogony, p.216.
 
-[25]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.41.
+<div className="footnote-card"><strong>[13]</strong> S. Bhattacharji, The Indian Theogony, p.324.</div>
 
-[26]:
 
-S. Bhattacharji, The Indian Theogony, p.238.
 
-[27]:
 
-S. Bhattacharji, The Indian Theogony, p.238.
+<div className="footnote-card"><strong>[14]</strong> S. Bhattacharji, The Indian Theogony, p.328.</div>
 
-[28]:
 
-S. Bhattacharji, The Indian Theogony, p.238.
 
-[29]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.40-44.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Śārīrasthāna 8.39.
+</blockquote>
 
-[30]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.47.
 
-[31]:
 
-A.B. Keith, The Religion and Philosophy of the Vedas and Upanishads, Cambridge (Mass.), 1925, p.354.
+<div className="footnote-card"><strong>[16]</strong> Atharvaveda IV.35.1.</div>
 
-[32]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.48.
 
-[33]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.46.
+<div className="footnote-card"><strong>[17]</strong> Atharvaveda V.25.13.</div>
 
-[34]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.48.
 
-[35]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.9.
+<div className="footnote-card"><strong>[18]</strong> Atharvaveda VII.19.1.</div>
 
-[36]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.312.
 
-[37]:
 
-Caraka Saṃhitā Vimānasthāna 8.11.
+<div className="footnote-card"><strong>[19]</strong> Atharvaveda VI.68.2.</div>
 
-[38]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.17.
 
-[39]:
 
-Arthaśāstra 2.4.17.
+<div className="footnote-card"><strong>[20]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.14.</div>
 
-[40]:
 
-K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.113.
 
-[41]:
 
-K.P. Jog, Aśvins, p.127.
+<div className="footnote-card"><strong>[21]</strong> S. Bhattacharji, The Indian Theogony, p.338.</div>
 
-[42]:
 
-K.P. Jog, Aśvins, p.116.
 
-[43]:
 
-K.P. Jog, Aśvins, p.116.
+<div className="footnote-card"><strong>[22]</strong> S. Bhattacharji, The Indian Theogony, p.143.</div>
 
-[44]:
 
-S. Bhattacharji, The Indian Theogony, p.246.
+
+
+<div className="footnote-card"><strong>[23]</strong> S. Bhattacharji, The Indian Theogony, p.216-217.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> S. Bhattacharji, The Indian Theogony, p.216.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.41.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> S. Bhattacharji, The Indian Theogony, p.238.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> S. Bhattacharji, The Indian Theogony, p.238.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> S. Bhattacharji, The Indian Theogony, p.238.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.40-44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.47.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> A.B. Keith, The Religion and Philosophy of the Vedas and Upanishads, Cambridge (Mass.), 1925, p.354.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.46.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Cikitsāsthāna 8.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Cikitsāsthāna 3.312.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Vimānasthāna 8.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Sūtrasthāna 1.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Arthaśāstra 2.4.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> K.P. Jog, Aśvins: The Twin Gods in Indian Mythology, Literature and Art, p.113.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> K.P. Jog, Aśvins, p.127.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> K.P. Jog, Aśvins, p.116.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> K.P. Jog, Aśvins, p.116.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[44]</strong> S. Bhattacharji, The Indian Theogony, p.246.</div>
 
 ---
 
-## 78. Soma (the Lord of the drugs)
+## Soma (the Lord of the drugs)
 
 Charaka Samhita and Sushruta Samhita
 
@@ -699,13 +1087,12 @@ Soma (the Lord of the drugs)
 
 It is believed that the gods headed by Brahmā placed a remnant of the nectar they had consumed in Soma, the Moon, who is the Lord of the drugs (oṣadhipati).[1]
 
-[1]:
 
-Suśruta Saṃhitā Cikitsāsthāna 30.30/1.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Cikitsāsthāna 30.30/1.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -714,10 +1101,6 @@ Suśruta Saṃhitā Cikitsāsthāna 30.30/1.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Indra receives the knowledge of Āyurveda: Charaka Samhita And Sushruta Samhita Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

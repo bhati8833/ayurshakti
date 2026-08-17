@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Aesthetic Value behind the arrangement of Trees and Gardens within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. Chapter 6 - Aesthetic Value behind the arrangement of Trees and Gardens
+## Chapter 6 - Aesthetic Value behind the arrangement of Trees and Gardens
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -19,11 +19,9 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 Chapter 6 - Aesthetic Value behind the arrangement of Trees and Gardens
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 50. 3. Aesthetical Values as reflected in other Sanskrit Texts
+## 3. Aesthetical Values as reflected in other Sanskrit Texts
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -39,8 +37,6 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -48,10 +44,6 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">2. Aesthetical Values as reflected in Vrikshayurveda: Vrikshayurveda and Environmental Philosophy Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

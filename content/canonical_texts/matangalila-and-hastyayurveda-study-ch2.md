@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Summary of the Hastyāyurveda within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Summary of the Hastyāyurveda
+## Summary of the Hastyāyurveda
 
 Matangalila and Hastyayurveda (study)
 
@@ -348,49 +348,73 @@ Trayāṇāmapi sainyānāṃ vidyante naiva te guṇāḥ // (v.35)[9]
 
 The treatise also mentions that without elephants army is just like night without moon, and earth without crops.[10]
 
-[1]:
 
-Mahesh Chandra Sharma. “Hastyāyurveda–A Complete Treatise on Elephants”, Bulletin of the Indian Institute of History of Medicine, Vol. 36, 2006, p. 147.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Mahesh Chandra Sharma. “Hastyāyurveda–A Complete Treatise on Elephants”, Bulletin of the Indian Institute of History of Medicine, Vol. 36, 2006, p. 147.
+</blockquote>
 
-[2]:
 
-Śivadatta Śarmaṇa, ed. Pālakāpyamuniviracita Hastyāyurvedaḥ, Poona: ānandāśrama Sanskrit series, No.26, 1984.
 
-[3]:
 
-Mahesh Chandra Sharma. “Hastyāyurveda–A Complete Treatise on Elephants”, Bulletin of the Indian Institute of History of Medicine, Vol. 36, 2006, p. 147.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Śivadatta Śarmaṇa, ed. Pālakāpyamuniviracita Hastyāyurvedaḥ, Poona: ānandāśrama Sanskrit series, No.26, 1984.
+</blockquote>
 
-[4]:
 
-For the English translation of the Lists of content of Hastyāyurveda I am grateful to Prof. Bijoya Goswami, Former Professor, Department of Sanskrit, Jadavpur University.
 
-[5]:
 
-Mahesh Chandra Sharma. “Hastyāyurveda–A Complete Treatise on Elephants”, Bulletin of the Indian Institute of History of Medicine, Vol. 36, 2006, pp145-158.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Mahesh Chandra Sharma. “Hastyāyurveda–A Complete Treatise on Elephants”, Bulletin of the Indian Institute of History of Medicine, Vol. 36, 2006, p. 147.
+</blockquote>
 
-[6]:
 
-Śivadatta Śarmaṇ. ed. Pālakāpyamuṇiviracito Hastyāyurvedaḥ, Chapter I, Mahārogasthāne: Gajarakṣaṇavinyāsādhyāyaḥ, v. 15, p.41.
 
-[7]:
 
-Ibid., v. 21, p.41.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> For the English translation of the Lists of content of Hastyāyurveda I am grateful to Prof. Bijoya Goswami, Former Professor, Department of Sanskrit, Jadavpur University.
+</blockquote>
 
-[8]:
 
-Śivadatta Śarmaṇ. ed. Pālakāpyamuṇiviracito Hastyāyurvedaḥ, Chapter I, Mahārogasthāne: Gajarakṣaṇavinyāsādhyāyaḥ, v. 23, p.41.
 
-[9]:
 
-Ibid. v. 35, p.41.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Mahesh Chandra Sharma. “Hastyāyurveda–A Complete Treatise on Elephants”, Bulletin of the Indian Institute of History of Medicine, Vol. 36, 2006, pp145-158.
+</blockquote>
 
-[10]:
 
-“Candrahīnā yathā rātriḥ sasya hīnā vasundharā II (v.36) Gajahīnā tathā senā vistīrṇāapi na śobhate I Etecānyeapi bahavo vāraṇānāṃ guṇāḥ smṛtāh II” (v. 37)–Ibid. p.42.
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Śivadatta Śarmaṇ. ed. Pālakāpyamuṇiviracito Hastyāyurvedaḥ, Chapter I, Mahārogasthāne: Gajarakṣaṇavinyāsādhyāyaḥ, v. 15, p.41.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., v. 21, p.41.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Śivadatta Śarmaṇ. ed. Pālakāpyamuṇiviracito Hastyāyurvedaḥ, Chapter I, Mahārogasthāne: Gajarakṣaṇavinyāsādhyāyaḥ, v. 23, p.41.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid. v. 35, p.41.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “Candrahīnā yathā rātriḥ sasya hīnā vasundharā II (v.36) Gajahīnā tathā senā vistīrṇāapi na śobhate I Etecānyeapi bahavo vāraṇānāṃ guṇāḥ smṛtāh II” (v. 37)–Ibid. p.42.
+</blockquote>
 
 ---
 
-## 7. Classification and Treatment of Elephant diseases
+## Classification and Treatment of Elephant diseases
 
 Matangalila and Hastyayurveda (study)
 
@@ -478,33 +502,42 @@ Use of metal and minerals:
 
 Use of metal and minerals for treating elephants is not mentioned in Hastyāyurveda. In this medical work for elephants the parts of the body are listed precisely in greater detail than in Mātaṅgalīlā and it tells about the daily and seasonal care, feeding etc. Hastyāyurveda is obviously a secondary adaptation. Even the subject of must is treated only perfunctorily (chiefly as depending on the various bodily “humours” in Hastyāyurveda (ii, 61).
 
-[1]:
 
-“Taṇḍulāṃllavaṇaṃ caiva upanāhya pradāpayet Etena varddhate varhnibalaṃ tejaśca jāyate.” (annasamācārādhyāya/31) “Kulmaṣamedakaṃ caiva guḍayuktaṃ pradāpayet. Etena dīpateāsyāgnirbalaṃ tejaśca jāyate.” (annasamācārādhyāya)
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> “Taṇḍulāṃllavaṇaṃ caiva upanāhya pradāpayet Etena varddhate varhnibalaṃ tejaśca jāyate.” (annasamācārādhyāya/31) “Kulmaṣamedakaṃ caiva guḍayuktaṃ pradāpayet. Etena dīpateāsyāgnirbalaṃ tejaśca jāyate.” (annasamācārādhyāya)
+</blockquote>
 
-[2]:
 
-“niṣpāvamātro nāgānāṃ kalkāstīkṣṇāñjanasya ca
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “niṣpāvamātro nāgānāṃ kalkāstīkṣṇāñjanasya ca
 adhyadhamadhyamasyāpi mṛduno dviguṇo bhavet
 kalkāñjanātpādahīnaṃ jñeyaṃ cūrṇaṃjanaṃ nṛpaḥ
 bheṣajānāṃ daśapalaṃ droṇaṃ cūraṇasya dāpayeti
 palāni viṃśati caivaṃ catvāri ca narādhipaḥ
 rasaprasthastu vijñeyo bhiṣajābhāvacāraṇe
 māṣāṇāṃ dvādaśa droṇī tulāmāropya dhārayet” (sātmyaniścayādhyāya)
+</blockquote>
 
-[3]:
 
-“riṣṭaprāptaṃ tu mātaṅgaṃ dṛṣṭvaiva parivarjayet
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “riṣṭaprāptaṃ tu mātaṅgaṃ dṛṣṭvaiva parivarjayet
 sādhyaṃ tu sādhayedvaidyaḥ śāstroddiṣṭena karmaṇā
 viśrāvya bhāṇaśvayathorjalaṃ yasmātpravarttate
 kadaliskandhaśophaṃ tu tamasādhyaṃ vinirdeśat
 vidhā kavalayāsānāya dveṣṭā hṛṣṭamānasaḥ
 sagade ca yadā prāptaḥ sa śopho yasya hāttinaḥ
 tadā tena śophena māsādūrdhvaṃ na jīvati” (annasamācārādhyāya)
+</blockquote>
 
-[4]:
 
-“candanaṃ tagaraṃ caiva tvagelā patrameva ca
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> “candanaṃ tagaraṃ caiva tvagelā patrameva ca
 priyaṅgu nāgapuṣpaṃ ca māṃsī kuṣṭhaṃ sadmakam
 kuṅkumaṃ ca mṛṇālaṃ ca mustāṃ spṛkkāṃ śatāhvayāṃ
 ……..sarvaṃ viṣanāśanam
@@ -515,34 +548,43 @@ bastamūtreṇa tatsarvaṃ kṣodayitvā vicakṣaṇḥ
 ajānāmathavāvīnāṃ raktaṃ kṣipramupārjayet
 raktadvayene taṃ piṇḍaṃ bhojayedvāraṇaṃ bhiṣak
 piṇḍena tena nāgasya viṣḥ kṣipraṃ praṇaśyati” (kṣudrarogādhyāya)
+</blockquote>
 
-[5]:
 
-Franklin Edgerton. The Elephant-Lore of the Hindus, Chapter XI, v.22, p.97.
 
-[6]:
 
-Ibid. Chapter XI, v.23, p.98.
+<div className="footnote-card"><strong>[5]</strong> Franklin Edgerton. The Elephant-Lore of the Hindus, Chapter XI, v.22, p.97.</div>
 
-[7]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstra [Gajaśāstram] of Pālakāpya muni, (Atha Gajaśāstrānubandhaviṣayānukramaṇikā: atha bhakṣyapeyādipadārthaguṇadoṣavidhiḥ), p. 196.
 
-[8]:
 
-Ibid.
+<div className="footnote-card"><strong>[6]</strong> Ibid. Chapter XI, v.23, p.98.</div>
 
-[9]:
 
-Ibid.
 
-[10]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstra [Gajaśāstram] of Pālakāpya muni, (Atha Gajaśāstrānubandhaviṣayānukramaṇikā: atha bhakṣyapeyādipadārthaguṇadoṣavidhiḥ), p. 196.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid.</div>
 
 ---
 
-## 8. Concluding Remarks:
+## Concluding Remarks:
 
 Matangalila and Hastyayurveda (study)
 
@@ -554,13 +596,10 @@ In this introductory chapter we have discussed the two selected texts Mātaṅga
 
 Pālakāpya is mentioned as the author of Gajaśāstra and Hastyāyurveda. There are other texts which also claim Pālakāpya as the author. Among them are Gaja cikitsā, Gaja parikṣā and Gaja darpaṇa. This not only reflects that abundance of elephant literature composed in early India but also show the tendency to claim legitimacy for such texts by naming the authority as the composer. Pālakāpya became a mark of legitimacy and authenticity for the texts and hence all the authors preferred to attribute their work to this single author. Mātaṅgalīlā on the other hand seems to be composed later than Gajaśāstra and Hastyāyurveda as the author Nīlakaṇṭha attributes the substance of his work to Pālakāpya which again is an indication of seeking legitimacy for his work. On the basis of the style and content of the texts their time of composition or antiquity of such compositions can be dated back to the early historic time period[1]. Though they were constantly updated and changes were made in the form and content.
 
-[1]:
 
-As one sees in case of Bhoja, authorship more than forty different texts are attributed to him.
+<div className="footnote-card"><strong>[1]</strong> As one sees in case of Bhoja, authorship more than forty different texts are attributed to him.</div>
 
 ---
-
-
 
 ---
 
@@ -569,10 +608,6 @@ As one sees in case of Bhoja, authorship more than forty different texts are att
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Historical significance of Elephant lore: Matangalila And Hastyayurveda Study Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -20,23 +20,14 @@ category: "Canonical Texts & Sanskrit Samhitas"
 status: "Published"
 date: "2026-08-17"
 description: "study researches the influence of Nyaya and Vaisheshika on Ayurveda."
----
 
----
-
-
-
----
+---, ---, ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-emerald-400 hover:underline font-medium">← Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Origin and Development of Nyaya-Vaisesika and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

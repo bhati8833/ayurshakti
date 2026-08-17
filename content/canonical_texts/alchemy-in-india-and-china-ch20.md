@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Surface-layer Enrichment within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. 3. Surface-layer Enrichment by Withdrawal
+## 3. Surface-layer Enrichment by Withdrawal
 
 Alchemy in India and China
 
@@ -25,8 +25,6 @@ A little different kind of gilding is carried out in Slokas 602-603. (See Footno
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ A little different kind of gilding is carried out in Slokas 602-603. (See Footno
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">2. Surface-layer Enrichment: Alchemy In India And China Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

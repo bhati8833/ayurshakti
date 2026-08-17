@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Characteristics of Atharvan medical literature within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. Characteristics of Atharvan medical literature
+## Characteristics of Atharvan medical literature
 
 Characteristics of Atharvan medical literature
 
@@ -23,7 +23,7 @@ Symbolism is the soul of these semi-religious medical performances. Here the sho
 
 ---
 
-## 47. Treatment of Urinary Disorders (Mūtrakṛccha)
+## Treatment of Urinary Disorders (Mūtrakṛccha)
 
 Treatment of Urinary Disorders (Mūtrakṛccha)
 
@@ -35,33 +35,46 @@ In modern times it is an iron whip or catheter. The third rule is surgery or ope
 
 If the patient is suffering from “retention of urine” and “constipation”, the practising priest ties substances like Harītakī (gall-nut) or Karpūra (camphor) which promote micturition, while reciting I.3. Then he gives the patient a decoction of earth from a mole-hill, Pūtikā, pulverized Pramanda, each mixed with wood shavings. Then while reciting the last two stanzas of I.3 he gives the patient enema and makes him take a ride in a vehicle. He then shoots an arrow and finally opens the urethra by probing the bladder with a copper instrument. After the operation is over, the priest pours twenty-one barley grains upon the affected parts of the body. A decoction of Āla (a creeper), lotus root and Ula (musk) are given to the patient to drink”[5].
 
-[1]:
 
-vidmā śarasya pitaraṃ parjanyaṃ śatavṛṣṇyam |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> vidmā śarasya pitaraṃ parjanyaṃ śatavṛṣṇyam |
 tenā te tanve śaṃ karaṃ pṛthivyāṃ te niṣecanaṃ bahiṣṭe astu bāliti || (AV. –I/3/1-9); Atharva-Veda-Saṃhitā along With Sāyaṇabhāṣya–Vol.–1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 139-151.
+</blockquote>
 
-[2]:
 
-asadan gāvaḥ sadane'paptad vasatiṃ vayaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> asadan gāvaḥ sadane'paptad vasatiṃ vayaḥ |
 āsthane parvatā asthuḥ sthamni vṛkkavatiṣṭhipam || (AV. –VII/96/1); K. L. Joshi(ed.), Atharvaveda Saṃhitā–Vol. II, Delhi, Parimal Publication, 2015, p. 111.
+</blockquote>
 
-[3]:
 
-yatheṣukāparāpatadavasṛṣṭādhi dhanvanaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> yatheṣukāparāpatadavasṛṣṭādhi dhanvanaḥ |
 evā te mūtraṃ mucyatāṃ bahirbāliti sarvakam || (AV. –I/3/9); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 34.
+</blockquote>
 
-[4]:
 
-pra te bhinadmi mehanaṃ vartyaṃ veśantyā iva |
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> pra te bhinadmi mehanaṃ vartyaṃ veśantyā iva |
 evā te mūtraṃ mucyatāṃ bahirbāliti sarvakam || (AV. –I/3/7); K. L. Joshi(ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 7.
+</blockquote>
 
-[5]:
 
-sarpiṣā limpati || apidhamati || vidmā śarasyeti pramehaṇaṃ badhnāti || (Kauśika Sūtra 25.8-10); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 55-56.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> sarpiṣā limpati || apidhamati || vidmā śarasyeti pramehaṇaṃ badhnāti || (Kauśika Sūtra 25.8-10); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 55-56.
+</blockquote>
 
 ---
 
-## 48. Medicinal herbs and plants in the Atharva-veda
+## Medicinal herbs and plants in the Atharva-veda
 
 Medicinal herbs and plants in the Atharva-veda
 
@@ -395,803 +408,1279 @@ Hiraṇyapuṣpī, Suvarṇapuṣpī—It is mentioned in Paippalāda Saṃhitā
 
 Hlādikā—It is mentioned in Atharvaveda[160]. This herb is in aquatic places. It is for comfort, so it is called Hlādikā. Sāyaṇācārya means Hlādaka medicine.
 
-[1]:
 
-aghadviṣṭā devajātā vīrucchapathayopanī |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> aghadviṣṭā devajātā vīrucchapathayopanī |
 āpo malamiva prāṇaikṣīt sarvān macchapathāṃ …….. (AV. –II.7.1-5); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 477-481.
+</blockquote>
 
-[2]:
 
-ajaśṛṅgyarāṭakītīkṣṇaśṛṅgīvyṛṣatu || (AV. –IV.37.6); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 350.
 
-[3]:
 
-pippalī kṣiptabheṣajyūtātividdhabheṣajī |
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> ajaśṛṅgyarāṭakītīkṣṇaśṛṅgīvyṛṣatu || (AV. –IV.37.6); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 350.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> pippalī kṣiptabheṣajyūtātividdhabheṣajī |
 tā devāḥ samakalpayanniyaṃ jīvitavā alam ||
 pippalyaḥ samavadantāyatīrjananādadhi |
 yaṃ jīvamaśnavāmahai na sa riṣyāmi pūruṣaḥ ||
 asurāstvā nyakhanan devāstvodavapan punaḥ |
 vātīkṛtasya bheṣajīmatho kṣiptasya bheṣajīm || (AV. –VI.109.1-3); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, pp. 344-345.
+</blockquote>
 
-[4]:
 
-imāṃ khanāmyoṣadhim adṛṣṭadahanīm aham | (Pai–9/6/1-12).
 
-[5]:
 
-śatadaṃṣṭrāṃ sahasrāṃ jayantīm aparājitām || (Pai–20/20/6).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> imāṃ khanāmyoṣadhim adṛṣṭadahanīm aham | (Pai–9/6/1-12).
+</blockquote>
 
-[6]:
 
-apaskambhasya śalyānniravocamahaṃ viṣam || (AV. –IV.6.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 316.
 
-[7]:
 
-idaṃ khanāmi bheṣajaṃ māṃ paśyamabhirorudam |
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> śatadaṃṣṭrāṃ sahasrāṃ jayantīm aparājitām || (Pai–20/20/6).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> apaskambhasya śalyānniravocamahaṃ viṣam || (AV. –IV.6.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 316.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> idaṃ khanāmi bheṣajaṃ māṃ paśyamabhirorudam |
 parāyato nivartanamāyataḥ pratinandanam || (AV. –VII.38.1); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. II, Delhi, Parimal Publication, 2015, p. 39.
+</blockquote>
 
-[8]:
 
-yenā nicakra āsurīndraṃ devebhyaspari |
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> yenā nicakra āsurīndraṃ devebhyaspari |
 tenā ni kurve tvāmahaṃ yathā te'sāni supriyā || (AV. –VII.38.2); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 385.
+</blockquote>
 
-[9]:
 
-tiṣṭhā vṛkṣa iva sthamnyabhrikhāte na rūrupaḥ | (AV. –IV.7.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 317.
 
-[10]:
 
-yāṃ te cakruramūlāyāṃ valagaṃ vā narācyām | (AV. –V.31.4); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 465.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> tiṣṭhā vṛkṣa iva sthamnyabhrikhāte na rūrupaḥ | (AV. –IV.7.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 317.
+</blockquote>
 
-[11]:
 
-rohaṇyasi rohaṇyasthnaśchinnasya rohaṇī | rohayedamarundhati || (AV. –IV.12.1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -2, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 376.
 
-[12]:
 
-aruḥsrāṇamidaṃ mahat pṛthivyā adhyud bhṛtam |
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> yāṃ te cakruramūlāyāṃ valagaṃ vā narācyām | (AV. –V.31.4); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 465.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> rohaṇyasi rohaṇyasthnaśchinnasya rohaṇī | rohayedamarundhati || (AV. –IV.12.1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -2, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 376.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> aruḥsrāṇamidaṃ mahat pṛthivyā adhyud bhṛtam |
 tadāsrāvasya bheṣajaṃ tadu rogamanīnaśat || (AV. –II.3.5); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 67.
+</blockquote>
 
-[13]:
 
-alasālāsi pūrvā silāñjālāsyuttarā | nīlāgalasālā || (AV. –VI.16.4); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 486.
 
-[14]:
 
-kiṃ śukāśokapadmābhaḥ vahniḥ | (AV. Pari.  –XXI.7.3).
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> alasālāsi pūrvā silāñjālāsyuttarā | nīlāgalasālā || (AV. –VI.16.4); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 486.
+</blockquote>
 
-[15]:
 
-asitaṃ te pralayanamāsthanamasitaṃ tava |
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> kiṃ śukāśokapadmābhaḥ vahniḥ | (AV. Pari.  –XXI.7.3).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> asitaṃ te pralayanamāsthanamasitaṃ tava |
 asiknyasyoṣadho nirito nāśayā pṛṣat || (AV. –I.23.3); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 315.
+</blockquote>
 
-[16]:
 
-prajāpatiṣṭvā bandhāt prathamamastṛtaṃ vīryāya kam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> prajāpatiṣṭvā bandhāt prathamamastṛtaṃ vīryāya kam |
 tat te bandhāmyāyuṣe varcasa ojase ca balāya cāstṛtastvābhi ………(AV. –XIX.46.1-7); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, pp. 364-365.
+</blockquote>
 
-[17]:
 
-yatra vaḥ preṅ khā haritā arjunā uta yatrāghāṭāḥ karkaryaḥ saṃvadanti | (AV. –IV.37.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 362.
 
-[18]:
 
-eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> yatra vaḥ preṅ khā haritā arjunā uta yatrāghāṭāḥ karkaryaḥ saṃvadanti | (AV. –IV.37.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 362.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
 āṇḍīkaṃ kumudaṃ saṃ tanoti bisaṃ śālūkaṃ śaphakomulālī |
 etāstvā dhārā upa yantu sarvāḥ svarge lokemadhumat pinvamānā upa tvā tiṣṭhantu puṣkariṇīḥ samantāḥ || (AV. –IV.34.5); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 341.
+</blockquote>
 
-[19]:
 
-ābayo anābayo rasasta ugra ābāyo | ā te karambhamadmasi || (AV. –VI.16.1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 285.
 
-[20]:
 
-āsurī cakreprathamedaṃ kilāsabheṣajamidaṃ kilāsanāśanam |
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> ābayo anābayo rasasta ugra ābāyo | ā te karambhamadmasi || (AV. –VI.16.1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 285.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> āsurī cakreprathamedaṃ kilāsabheṣajamidaṃ kilāsanāśanam |
 anīnaśat kilāsaṃ sarūpāmakarat tvacam || (AV. –I.24.2); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 318.
+</blockquote>
 
-[21]:
 
-śataṃ yā bheṣajāni te sahasraṃ saṃgatāni ca |
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> śataṃ yā bheṣajāni te sahasraṃ saṃgatāni ca |
 śreṣṭhamāsrāvabheṣajaṃ vasiṣṭhaṃ roganāśanam || (AV. –VI.44.2); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 519.
+</blockquote>
 
-[22]:
 
-nirbalāsetaḥ pra patāśuṅgaśiśukoyathā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> nirbalāsetaḥ pra patāśuṅgaśiśukoyathā |
 atho iṭa iva hāyano'pa drāhyavīrahā || (AV. –VI.14.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 423.
+</blockquote>
 
-[23]:
 
-ayaṃ yo vakroviparurvyaṅgomukhāni vakrāvṛjinā kṛṇoṣi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> ayaṃ yo vakroviparurvyaṅgomukhāni vakrāvṛjinā kṛṇoṣi |
 tāni tvaṃ brahmaṇaspata iṣīkāmiva saṃ namaḥ || (AV. –VII.56.4); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 199.
+</blockquote>
 
-[24]:
 
-śatakāṇḍo duścyavanaḥ sahasraparṇa uttiraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> śatakāṇḍo duścyavanaḥ sahasraparṇa uttiraḥ |
 darbho ya ugra auṣadhistaṃ te badhnāmyāyuṣe || (AV. –XIX.32.1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, p. 346.
+</blockquote>
 
-[25]:
 
-ucchu ṣmā auṣadhīnām | (Pai–11/6/8).
 
-[26]:
 
-ekāca me daśa ca me'pavaktāra oṣadhe |
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> ucchu ṣmā auṣadhīnām | (Pai–11/6/8).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> ekāca me daśa ca me'pavaktāra oṣadhe |
 ṛtajāta ṛtāvari madhu me madhulā……………… (AV. –V.15.1-11); K. L. Joshi (ed.), Atharvaveda Saṃhitā—Vol. I, Delhi, Parimal Publication, 2015, pp. 406-408.
+</blockquote>
 
-[27]:
 
-ṛtajāta ṛtāvari | (AV. –V.15.1); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 387.
 
-[28]:
 
-nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> ṛtajāta ṛtāvari | (AV. –V.15.1); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 387.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
 gulgulūḥ pīlā naladyaukṣagandhiḥ pramandanī |
 tat paretāpsarasaḥ pratibuddhā abhūtana || (AV. –IV.37.3); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—2, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 568.
+</blockquote>
 
-[29]:
 
-yadagnau sūrye viṣaṃ pṛthivyāmoṣadhīṣu yat |
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> yadagnau sūrye viṣaṃ pṛthivyāmoṣadhīṣu yat |
 kāndāviṣaṃ kanaknakaṃ niraitvaitu te viṣam || (AV. –X.4.22); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 552.
+</blockquote>
 
-[30]:
 
-śraddhā puṃścalī mitro māgadho vijñānaṃ vāso'haruṣṇīṣaṃ rātrī keśā haritau pravartau kalmalirmaṇiḥ || (AV. –XV.2.5); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. III, Delhi, Parimal Publication, 2015, p. 57.
 
-[31]:
 
-yadagnau sūrye viṣaṃ pṛthivyāmoṣadhīṣu yat |
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> śraddhā puṃścalī mitro māgadho vijñānaṃ vāso'haruṣṇīṣaṃ rātrī keśā haritau pravartau kalmalirmaṇiḥ || (AV. –XV.2.5); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. III, Delhi, Parimal Publication, 2015, p. 57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> yadagnau sūrye viṣaṃ pṛthivyāmoṣadhīṣu yat |
 kāndāviṣaṃ kanaknakaṃ nirai tvaitu te viṣam || (AV. –X.4.22); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 682.
+</blockquote>
 
-[32]:
 
-āsurī cakreprathamedaṃ kilāsabheṣajamidaṃ kilāsanāśanam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> āsurī cakreprathamedaṃ kilāsabheṣajamidaṃ kilāsanāśanam |
 anīnaśat kilāsaṃ sarūpāmakarat tvacam || (AV. –I.24.2); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 318.
+</blockquote>
 
-[33]:
 
-eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
 āṇḍīkaṃ kumudaṃ saṃ tanoti bisaṃ śālūkaṃ śaphakomulālī |
 etāstvā dhārā upa yantu sarvāḥ svarge lokemadhumat pinvamānā |
 upa tvā tiṣṭhantu puṣkariṇīḥ samantāḥ || (AV. –IV.34.5); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 199.
+</blockquote>
 
-[34]:
 
-kuṣṭhehi takmanāśana | (AV. –V.4.1-10); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, pp. 374-376.
 
-[35]:
 
-yāṃ mṛtāyānubadhnanti kūdyaṃ padayopanīm | (AV. –V.19.12); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—3, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 113.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> kuṣṭhehi takmanāśana | (AV. –V.4.1-10); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, pp. 374-376.
+</blockquote>
 
-[36]:
 
-uta stha keśadṛṃhaṇīratho ha keśavardhanīḥ | (AV. –VI.21.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 428.
 
-[37]:
 
-tvaṃ vīrudhāṃ śreṣṭhatamābhiśrutāsyoṣadhe |
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> yāṃ mṛtāyānubadhnanti kūdyaṃ padayopanīm | (AV. –V.19.12); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—3, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 113.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> uta stha keśadṛṃhaṇīratho ha keśavardhanīḥ | (AV. –VI.21.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 428.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> tvaṃ vīrudhāṃ śreṣṭhatamābhiśrutāsyoṣadhe |
 imaṃ me adya pūruṣaṃ klībamopaśinaṃ kṛdhi || (AV. –VI.138.1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 363.
+</blockquote>
 
-[38]:
 
-pippalī kṣiptabheṣajyūtātividdhabheṣajī |
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> pippalī kṣiptabheṣajyūtātividdhabheṣajī |
 tā devāḥ samakalpayanniyaṃ jīvitavā alam || (AV. –VI.109.1); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 593.
+</blockquote>
 
-[39]:
 
-udagātāṃ bhagavatī vicṛtau nāma tārake |
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> udagātāṃ bhagavatī vicṛtau nāma tārake |
 vi kṣetriyasya muñcatāmadhamaṃ pāśamuttamam ……………(AV. –II.8.1-5); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 484-489.
+</blockquote>
 
-[40]:
 
-vidradhasya balāsasya lohitasya vanaspate |
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> vidradhasya balāsasya lohitasya vanaspate |
 visalpakasyoṣadhe mocchiṣaḥ piśitaṃ cana ||
 yau te balāsa tiṣṭhataḥ kakṣe muṣkāvapaśritau |
 vedāhaṃ tasya bheṣajaṃ cīpudrurabhicakṣaṇam ||
 yo aṅgyo yaḥ karṇyo yo akṣyorvisalpakaḥ |
 vi vṛhāmo visalpakaṃ vidradhaṃ hṛdayāmayam |
 parā tamajñātaṃ yakṣmamadharāñcaṃ suvāmasi || (AV. –VI.127.1-3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 508.
+</blockquote>
 
-[41]:
 
-dīrghāyutvāya bṛhate raṇāyāriṣyanto dakṣamāṇāḥ sadaiva |
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> dīrghāyutvāya bṛhate raṇāyāriṣyanto dakṣamāṇāḥ sadaiva |
 maṇiṃ viṣkandhadū ṣaṇaṃ jaṅgiḍaṃ bibhṛmo vayam || (AV. –II.4.1-6; XIX.34; XIX.35); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1& 2, Delhi, Manoj Publication, 2012, pp. 67-68; 349-352.
+</blockquote>
 
-[42]:
 
-jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
 trāyamāṇāṃ sahamānāṃ sahasvatīmiha huve'smā ariṣṭatātaye || (AV. –VI.109.1); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 593.
+</blockquote>
 
-[43]:
 
-viśvarūpāṃ subhagāmacchāvadāmi jīvalām |
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> viśvarūpāṃ subhagāmacchāvadāmi jīvalām |
 sā no rudrasyāstāṃ hetiṃ dū raṃ nayatu gobhyaḥ || (AV. –VI.59.3); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -3, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 401.
+</blockquote>
 
-[44]:
 
-yathā soma oṣadhīnāmuttamo haviṣāṃ kṛtaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> yathā soma oṣadhīnāmuttamo haviṣāṃ kṛtaḥ |
 talāśā vṛkṣāṇāmivāhaṃ bhūyāsamuttamaḥ || (AV. –VI.15.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 424.
+</blockquote>
 
-[45]:
 
-tastuvaṃ na tastuvaṃ na dhettvamasitastuvam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> tastuvaṃ na tastuvaṃ na dhettvamasitastuvam |
 tastuvenārasaṃ viṣam || (AV. –V.13.11); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 402.
+</blockquote>
 
-[46]:
 
-amūnaśvattha niḥ śṛṇīhi khādāmūn khadirājiram |
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> amūnaśvattha niḥ śṛṇīhi khādāmūn khadirājiram |
 tājadbhaṅgaiva bhajyantāṃ hantvenān vadhakovadhaiḥ || (AV. –VIII.8.3); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 464.
+</blockquote>
 
-[47]:
 
-tābuvaṃ na tābuvaṃ na ghet tvamasi tābuvam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> tābuvaṃ na tābuvaṃ na ghet tvamasi tābuvam |
 tābuvenārasaṃ viṣam || (AV. –V.13.10); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 385.
+</blockquote>
 
-[48]:
 
-eyamagannoṣadhīnāṃ vīrudhā vīryāvatī |
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> eyamagannoṣadhīnāṃ vīrudhā vīryāvatī |
 ajaśṛṅgyarāṭakītīkṣṇaśṛṅgīvyṛṣatu || (AV. –IV.37.6); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—2, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 601.
+</blockquote>
 
-[49]:
 
-tṛṣṭiketṛṣṭavandana udamūṃ chindhi tṛṣṭike |
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> tṛṣṭiketṛṣṭavandana udamūṃ chindhi tṛṣṭike |
 yathākṛta dviṣṭāso'muṣmai śepyāvate ||
 tṛṣṭāmi tṛṣṭikākāviṣā viṣātakyasi |
 parivṛktāyathasasyṛṣabhasya vaśeva || (AV. –VII.113.1-2); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 427.
+</blockquote>
 
-[50]:
 
-tārṣṭāghīragne samidhaḥ prati gṛhṇāhyarciṣā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> tārṣṭāghīragne samidhaḥ prati gṛhṇāhyarciṣā |
 jahātu kravyādrū paṃ yo asya māsaṃ jihīrṣati || (AV. –V.29.15); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 459.
+</blockquote>
 
-[51]:
 
-taudī nāmāsi kanyā ghṛtācī nāma vā asi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> taudī nāmāsi kanyā ghṛtācī nāma vā asi |
 adhaspadena te padamā dade viṣadū ṣaṇam || (AV. –X.4.24); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 682.
+</blockquote>
 
-[52]:
 
-tauvilike'velayāvāyamailaba ailayīt |
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> tauvilike'velayāvāyamailaba ailayīt |
 babhruśca babhrukarṇaścāpehi nirāla ||
 jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
 trāyamāṇāṃ sahamānāṃ sahasvatīmiha huve'smā ariṣṭatātaye || (AV. –VI.16.3; VIII.2.6); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–3& 4 Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 246, 457.
+</blockquote>
 
-[53]:
 
-daśavṛkṣa muñcemaṃ rakṣaso grāhyā adhi yainaṃ jagrāha parvasu |
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> daśavṛkṣa muñcemaṃ rakṣaso grāhyā adhi yainaṃ jagrāha parvasu |
 atho enaṃ vanaspate jīvānāṃ lokamunnaya || (AV. –II.9.1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 72.
+</blockquote>
 
-[54]:
 
-suparṇastvānvavindat sūkarastvākhanannasā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> suparṇastvānvavindat sūkarastvākhanannasā |
 dipsauṣadhe tvaṃ dipsantamava kṛtyakṛtaṃ jahi || (AV. –V.14.1); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 403.
+</blockquote>
 
-[55]:
 
-apacitāṃ lohinīnāṃ kṛṣṇā māteti śuśruma |
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> apacitāṃ lohinīnāṃ kṛṣṇā māteti śuśruma |
 munerdevasya mūlena sarvā vidhyāmi tā aham || (AV. –VII.74.1); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 569.
+</blockquote>
 
-[56]:
 
-aśvattha khadiro dhavaḥ | (AV. –XX.131.14); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -8, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 552.
 
-[57]:
 
-jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> aśvattha khadiro dhavaḥ | (AV. –XX.131.14); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -8, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 552.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
 trāyamāṇāṃ sahamānāṃ sahasvatīmiha huve'smā ariṣṭatātaye || (AV. –VIII.2.6); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 435.
+</blockquote>
 
-[58]:
 
-trīṇi te kuṣṭha nāmāni nadyamāro nadyāriṣaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> trīṇi te kuṣṭha nāmāni nadyamāro nadyāriṣaḥ |
 nadyāyaṃ puruṣo riṣat |
 yasmai paribravīmi tvā sāyaṃprātaratho divā || (AV. –XIX.39.2); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. III, Delhi, Parimal Publication, 2015, p. 360.
+</blockquote>
 
-[59]:
 
-āñjanasya madughasya kuṣṭhasya naladasya ca |
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> āñjanasya madughasya kuṣṭhasya naladasya ca |
 turo bhagasya hastābhyāmanurodhanamudbhare || (AV. –VI.102.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 488.
+</blockquote>
 
-[60]:
 
-nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
 gulgulūḥ pīlā naladyaukṣagandhiḥ pramandanī |
 tat paretāpsarasaḥ pratibuddhā abhūtana || (AV. –IV.37.3); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 203.
+</blockquote>
 
-[61]:
 
-parisṛṣṭaṃ dhārayatu yaddhitaṃ māva pādi tat |
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> parisṛṣṭaṃ dhārayatu yaddhitaṃ māva pādi tat |
 garbhaṃ ta ugrau rakṣatāṃ bheṣajau nīvibhāryau || (AV. –VIII.6.20); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 578.
+</blockquote>
 
-[62]:
 
-darbhaḥ śocistarūṇakamaśvasya vāraḥ paruṣasya vāraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> darbhaḥ śocistarūṇakamaśvasya vāraḥ paruṣasya vāraḥ |
 rathasya bandhuram || (AV. –X.4.2); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. II, Delhi, Parimal Publication, 2015, p. 315.
+</blockquote>
 
-[63]:
 
-paruṣānamūn paruṣāhvaḥ kṛṇotu hantvenān vadhakovadhaiḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> paruṣānamūn paruṣāhvaḥ kṛṇotu hantvenān vadhakovadhaiḥ |
 kṣipraṃ śara iva bhajyantāṃ bṛhajjālena saṃditāḥ || (AV. –VIII.8.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 631.
+</blockquote>
 
-[64]:
 
-alābūni pṛṣātakānyaśvatthapalāśam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> alābūni pṛṣātakānyaśvatthapalāśam |
 pipīlikāvaṭaśvaso vid yutsvāparṇaśapho gośapho jaritaro'thāmo daiva || (AV. –XX.135.3); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 541.
+</blockquote>
 
-[65]:
 
-ye sūryāt parisarpanti snuṣeva śvaśurādadhi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> ye sūryāt parisarpanti snuṣeva śvaśurādadhi |
 bajaśca teṣāṃ piṅgaśca hṛdaye'dhi ni vidhyatām || (AV. –VIII.6.24); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol. -4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 581.
+</blockquote>
 
-[66]:
 
-pippalī kṣiptabheṣajyūtātividdhabheṣajī |
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> pippalī kṣiptabheṣajyūtātividdhabheṣajī |
 tā devāḥ samakalpayanniyaṃ jīvitavā alam || (AV. –VI.109.1-3); K. L. Joshi (ed.), Atharvaveda Saṃhitā - Vol. I, Delhi, Parimal Publication, 2015, pp. 593-594.
+</blockquote>
 
-[67]:
 
-nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
 gulgulūḥ pīlā naladyaukṣagandhiḥ pramandanī |
 tat paretāpsarasaḥ pratibuddhā abhūtana || (AV. –IV.37.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 362.
+</blockquote>
 
-[68]:
 
-agnerghāso apāṃ garbho yā rohanti punarṇavāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> agnerghāso apāṃ garbho yā rohanti punarṇavāḥ |
 dhruvāḥ sahasranāmnīrbheṣajīḥ santvābhṛtāḥ || (AV. –VIII.7.8); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 460.
+</blockquote>
 
-[69]:
 
-Pai–1/5/3.
 
-[70]:
 
-jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> Pai–1/5/3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
 arundhatīmunnayantīṃ puṣpāṃ madhumatīmiha huve'smā ariṣṭatātaye || (AV. –VIII.7.6); Atharva-Veda-Saṃhitā along With Sāyaṇabhāṣya–Vol. -4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 587.
+</blockquote>
 
-[71]:
 
-agneḥ śarīramasi pārayiṣṇu rakṣohāmi sapatnahā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> agneḥ śarīramasi pārayiṣṇu rakṣohāmi sapatnahā |
 atho amīvacātanaḥ pūtudrurnāma bheṣajam || (AV. –VIII.2.28); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 439.
+</blockquote>
 
-[72]:
 
-aghāśvasyedaṃ bheṣajamubhayoḥ svajasya ca |
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> aghāśvasyedaṃ bheṣajamubhayoḥ svajasya ca |
 indro me'himaghāyantamahi paidvo arandhayat || (AV. –X.4.10); K. L. Joshi (ed.), Atharvaveda Saṃhitā - Vol. II, Delhi, Parimal Publication, 2015, p. 317.
+</blockquote>
 
-[73]:
 
-ayaṃ pratisaro maṇirvīro vīrāya badhyate |
+
+
+<blockquote className="ayur-shloka">
+<strong>[73]</strong> ayaṃ pratisaro maṇirvīro vīrāya badhyate |
 vīryavāntsapatnahā śūravīraḥ paripāṇaḥ sumaṅgalaḥ || (AV. –VIII.5.1-22); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 618-622.
+</blockquote>
 
-[74]:
 
-pratyaṅ hi sambabhūvitha pratīcīnaphalastvam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[74]</strong> pratyaṅ hi sambabhūvitha pratīcīnaphalastvam |
 sarvān macchapathāṃ adhi varīyo yāvayā vadham || (AV. –IV.19.7); Atharva-Veda-Saṃhitā along With Sāyaṇabhāṣya–Vol. -2, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 452.
+</blockquote>
 
-[75]:
 
-nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[75]</strong> nadīṃ yantvapsaraso'pāṃ tāramavaścasam |
 gulgulūḥ pīlā naladyaukṣagandhiḥ pramandanī |
 tat paretāpsarasaḥ pratibuddhā abhūtana || (AV. –IV.37.3); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 203.
+</blockquote>
 
-[76]:
 
-idaṃ yat preṇyaḥ śiro dattaṃ somena vṛṣṇyam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> idaṃ yat preṇyaḥ śiro dattaṃ somena vṛṣṇyam |
 tataḥ pari prajātena hārdiṃ te śocayāmasi || (AV. –VI.89.1); K. L. Joshi (ed.), Atharvaveda Saṃhitā - Vol. I, Delhi, Parimal Publication, 2015, p. 572.
+</blockquote>
 
-[77]:
 
-mā saṃ vṛto mopa sṛpa ūrū māva sṛpo'ntarā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> mā saṃ vṛto mopa sṛpa ūrū māva sṛpo'ntarā |
 kṛṇomyasyai bheṣajaṃ bajaṃ durṇāmacātanam || (AV. –VIII.6.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 622.
+</blockquote>
 
-[78]:
 
-saṃvananī samuṣpalā babhru kalyāṇi saṃ nuda |
+
+
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> saṃvananī samuṣpalā babhru kalyāṇi saṃ nuda |
 amūṃ ca māṃ ca saṃ nūda samānaṃ hṛdayaṃ kṛdhi || (AV. –VI.139.3); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol.1, Delhi, Manoj Publication, 2012, p. 365.
+</blockquote>
 
-[79]:
 
-Pai–19/39/1-13.
 
-[80]:
 
-balāsaṃ sarvaṃ nāśaya | (AV. –VI.14.1-3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 423-424.
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> Pai–19/39/1-13.
+</blockquote>
 
-[81]:
 
-eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
+
+
+<blockquote className="ayur-shloka">
+<strong>[80]</strong> balāsaṃ sarvaṃ nāśaya | (AV. –VI.14.1-3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 423-424.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[81]</strong> eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
 āṇḍīkaṃ kumudaṃ saṃ tanoti bisaṃ śālūkaṃ śaphakomulālī |
 etāstvā dhārā upa yantu sarvāḥ svarge lokemadhumat pinvamānā upa tvā tiṣṭhantu puṣkariṇīḥ samantāḥ || (AV. –IV.34.5); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 341.
+</blockquote>
 
-[82]:
 
-pañca rājyāni vīrudhāṃ somaśreṣṭhāni brūmaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[82]</strong> pañca rājyāni vīrudhāṃ somaśreṣṭhāni brūmaḥ |
 darbho bhaṅgoyavaḥ sahaste no muñcantvaṃhasaḥ || (AV. –XI.6.15); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—5, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 505.
+</blockquote>
 
-[83]:
 
-bhadrāt plakṣānnistiṣṭhasyaśvatthāt khadirād dhavāt |
+
+
+<blockquote className="ayur-shloka">
+<strong>[83]</strong> bhadrāt plakṣānnistiṣṭhasyaśvatthāt khadirād dhavāt |
 bhadrānnyagrodhāt parṇāt sā na ehyarundhati || (AV. –V.5.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 375.
+</blockquote>
 
-[84]:
 
-śaṃ te nīhāro bhavatu śaṃ te pruṣvāva śīyatām |
+
+
+<blockquote className="ayur-shloka">
+<strong>[84]</strong> śaṃ te nīhāro bhavatu śaṃ te pruṣvāva śīyatām |
 śītikeśītikāvati hlādikehlādikāvati |
 maṇḍū kyapsu śaṃ bhuva imaṃ svagniṃ śamaya || (AV. –XVIII.3.60); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, p. 286.
+</blockquote>
 
-[85]:
 
-vi te madaṃ madāvati śaramiva pātayāmasi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[85]</strong> vi te madaṃ madāvati śaramiva pātayāmasi |
 pra tvā carumiva yeṣantaṃ vacasā sthapayāmasi || (AV. –IV.7.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 317.
+</blockquote>
 
-[86]:
 
-jihvāyā agre madhu me jihvāmūle madhūlakam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[86]</strong> jihvāyā agre madhu me jihvāmūle madhūlakam |
 mamedaha kratāvaso mama cittamupāyasi ||
 madhorasmi madhutaro madughānmadhumattaraḥ |
 māmit kila tvaṃ vanāḥ śākhāṃ madhumatīmiva || (AV. –I.34.2,4); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, pp. 58-59.
+</blockquote>
 
-[87]:
 
-iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[87]</strong> iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
 sā vihrutasya bheṣajyatho maśakajambhanī || (AV. –VII.56.2); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 197.
+</blockquote>
 
-[88]:
 
-iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[88]</strong> iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
 sā vihrutasya bheṣajyatho maśakajambhanī || Ibid.
+</blockquote>
 
-[89]:
 
-jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
+
+
+<blockquote className="ayur-shloka">
+<strong>[89]</strong> jīvalāṃ naghāriṣāṃ jīvantīmoṣadhīmaham |
 arundhatīmunnayantīṃ puṣpāṃ madhumatīmiha huve'smā ariṣṭatātaye || (AV. –VIII.7.6); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 460.
+</blockquote>
 
-[90]:
 
-iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[90]</strong> iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
 sā vihrutasya bheṣajyatho maśakajambhanī || (AV. –VII.56.2); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 197.
+</blockquote>
 
-[91]:
 
-jihvāyā agre madhu me jihvāmūle madhūlakam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[91]</strong> jihvāyā agre madhu me jihvāmūle madhūlakam |
 mamedaha kratāvaso mama cittamupāyasi || (AV. –I.34.2); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 58.
+</blockquote>
 
-[92]:
 
-iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[92]</strong> iyaṃ vīrunmadhujātā madhuścunmadhulā madhūḥ |
 sā vihrutasya bheṣajyatho maśakajambhanī || (AV. –VII.56.2); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 197.
+</blockquote>
 
-[93]:
 
-yatrāśvatthā nyagrodhā mahāvṛkṣāḥ śikhaṇḍinaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[93]</strong> yatrāśvatthā nyagrodhā mahāvṛkṣāḥ śikhaṇḍinaḥ |
 tat paretāpsarasaḥ pratibuddhā abhūtana || (AV. –IV.37.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 362.
+</blockquote>
 
-[94]:
 
-garbhādaṃ kaṇvaṃ nāśaya pṛśniparṇi sahasva ca || (AV. –II.25.1-5); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 90.
 
-[95]:
 
-eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
+<blockquote className="ayur-shloka">
+<strong>[94]</strong> garbhādaṃ kaṇvaṃ nāśaya pṛśniparṇi sahasva ca || (AV. –II.25.1-5); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 90.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[95]</strong> eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
 āṇḍīkaṃ kumudaṃ saṃ tanoti bisaṃ śālūkaṃ śaphakomulālī |
 etāstvā dhārā upa yantu sarvāḥ svarge lokemadhumat pinvamānā upa tvā tiṣṭhantu puṣkariṇīḥ samantāḥ || (AV. –IV.34.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 357.
+</blockquote>
 
-[96]:
 
-imā āpaḥ pra bharāmyayakṣmā yakṣmanāśanīḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[96]</strong> imā āpaḥ pra bharāmyayakṣmā yakṣmanāśanīḥ |
 gṛhānupa pra sīdāmyamṛtena sahāgninā || (AV. –III.12.9); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 180.
+</blockquote>
 
-[97]:
 
-idaṃ rajani rajaya kilāsaṃ palitaṃ ca yat || (AV. –I.23.1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 312.
 
-[98]:
 
-naktaṃ jātāsyoṣadhe rāme kṛṣṇo asikni ca | (AV. –I.23.1); Ibid.
+<blockquote className="ayur-shloka">
+<strong>[97]</strong> idaṃ rajani rajaya kilāsaṃ palitaṃ ca yat || (AV. –I.23.1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.—1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 312.
+</blockquote>
 
-[99]:
 
-śukeṣu te harimāṇaṃ ropaṇākāsu dadhmasi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[98]</strong> naktaṃ jātāsyoṣadhe rāme kṛṣṇo asikni ca | (AV. –I.23.1); Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[99]</strong> śukeṣu te harimāṇaṃ ropaṇākāsu dadhmasi |
 atho hāridraveṣu te harimāṇaṃ ni dadhmasi || (AV. –I.22.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 157.
+</blockquote>
 
-[100]:
 
-rohaṇyasi rohaṇyasthnaśchinnasya rohaṇī |
+
+
+<blockquote className="ayur-shloka">
+<strong>[100]</strong> rohaṇyasi rohaṇyasthnaśchinnasya rohaṇī |
 rohayedamarundhati || (AV. –IV.12.1-7); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, pp. 165-166.
+</blockquote>
 
-[101]:
 
-rātrī mātā nabhaḥ pitāryamā te pitāmahaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[101]</strong> rātrī mātā nabhaḥ pitāryamā te pitāmahaḥ |
 silācī nāma vā asi sā devānāmasi svasā || (AV. –V.5.1-9); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, pp. 377-379.
+</blockquote>
 
-[102]:
 
-AV. Pari.  –I.44.10; V.1.5.
 
-[103]:
 
-alābūni pṛṣātakānyaśvatthapalāśam |
+<div className="footnote-card"><strong>[102]</strong> AV. Pari.  –I.44.10; V.1.5.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[103]</strong> alābūni pṛṣātakānyaśvatthapalāśam |
 pipīlikāvaṭaśvaso vid yutsvāparṇaśapho gośapho jaritaro'thāmo daiva || (AV. –XX.135.3); Atharva-Veda- Saṃhitā along with Sāyaṇabhāṣya–Vol.-8, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 557.
+</blockquote>
 
-[104]:
 
-varaṇo vārayātā ayaṃ devo vanaspatiḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[104]</strong> varaṇo vārayātā ayaṃ devo vanaspatiḥ |
 yakṣmo yo asminnāviṣṭastamu devā avīvaran ||
 indrasya vacasā vayaṃ mitrasya varuṇasya ca |
 devānāṃ sarveṣāṃ vācā yakṣmaṃ te vārayāmahe ||
 yathā vṛtra imā āpastastambha viśvadhā yatīḥ |
 evā te agninā yakṣmaṃ vaiśvānareṇa vāraye || (AV. –VI.85.1-3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 476-477.
+</blockquote>
 
-[105]:
 
-rudrasya mūtramasyamṛtasya nābhiḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[105]</strong> rudrasya mūtramasyamṛtasya nābhiḥ |
 viṣāṇakānāma vā asi pitṛṇāṃ mūlādutthitā vātīkṛtanāśanī || (AV. –VI.44.3); Acarya Vedanta Tirtha (ed.), Atharvaveda—Vol. 1, Delhi, Manoj Publication, 2012, p. 304.
+</blockquote>
 
-[106]:
 
-pippalī kṣiptabheṣajyūtātividdhabheṣajī |
+
+
+<blockquote className="ayur-shloka">
+<strong>[106]</strong> pippalī kṣiptabheṣajyūtātividdhabheṣajī |
 tā devāḥ samakalpayanniyaṃ jīvitavā alam ||
 asurāstvā nyakhanan devāstvodavapan punaḥ |
 vātīkṛtasya bheṣajīmatho kṣiptasya bheṣajīm || (AV. –VI.102.1,3); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 586-587.
+</blockquote>
 
-[107]:
 
-vāladucchasya gandhena | Pai–20/20/2.
 
-[108]:
 
-imāṃ khanāmyoṣadhiṃ vitantrīm | Pai–3/29/1-6.
+<blockquote className="ayur-shloka">
+<strong>[107]</strong> vāladucchasya gandhena | Pai–20/20/2.
+</blockquote>
 
-[109]:
 
-na tvā pūrvā oṣadhayo na tvā taranti yā navāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[108]</strong> imāṃ khanāmyoṣadhiṃ vitantrīm | Pai–3/29/1-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[109]</strong> na tvā pūrvā oṣadhayo na tvā taranti yā navāḥ |
 vibādha ugro jaṅgiḍaḥ paripāṇaḥ sumaṅgalaḥ || (AV. –XIX.34.7); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-7, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 266.
+</blockquote>
 
-[110]:
 
-karśaphasya viśaphasya dyauṣpitā pṛthivī mātā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[110]</strong> karśaphasya viśaphasya dyauṣpitā pṛthivī mātā |
 yathābhicakradevāstathāpa kṛṇutā punaḥ || vāraye || (AV. –III.9.1); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 275.
+</blockquote>
 
-[111]:
 
-taudī nāmāsi kanyā ghṛtācī nāma vā asi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[111]</strong> taudī nāmāsi kanyā ghṛtācī nāma vā asi |
 adhaspadena te padamā dade viṣadū ṣaṇam || (AV. –X.4.24); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 552.
+</blockquote>
 
-[112]:
 
-tṛṣṭāsi tṛṣṭikāviṣā viṣātakyasi |
+
+
+<blockquote className="ayur-shloka">
+<strong>[112]</strong> tṛṣṭāsi tṛṣṭikāviṣā viṣātakyasi |
 parivṛktāyathāsasyṛṣabhasya vaśeva || (AV. –VII.118.2); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. II, Delhi, Parimal Publication, 2015, p. 127.
+</blockquote>
 
-[113]:
 
-indrasya nāma gṛhṇanta ṛṣayo jaṅgiḍaṃ daduḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[113]</strong> indrasya nāma gṛhṇanta ṛṣayo jaṅgiḍaṃ daduḥ |
 devā yaṃ cakrurbheṣajamagre viṣkandhadū ṣaṇam || (AV. –XIX.35.1-5); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-7, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 270-274.
+</blockquote>
 
-[114]:
 
-vihahlo nāma te pitā madāvatī nāma te mātā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[114]</strong> vihahlo nāma te pitā madāvatī nāma te mātā |
 sa hina tvamasi yastvamātmānamāvayaḥ || (AV. –VI.16.2); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 424.
+</blockquote>
 
-[115]:
 
-vīrodīkasya mūlena mukhena mardanaṃ kṛtam | Pai–2/77/2.
 
-[116]:
 
-Pai–19/47/1-2.
+<blockquote className="ayur-shloka">
+<strong>[115]</strong> vīrodīkasya mūlena mukhena mardanaṃ kṛtam | Pai–2/77/2.
+</blockquote>
 
-[117]:
 
-vedaḥ svastirdrughaṇaḥ svastiḥ paraśurvediḥ paraśurnaḥ svasti |
+
+
+<blockquote className="ayur-shloka">
+<strong>[116]</strong> Pai–19/47/1-2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[117]</strong> vedaḥ svastirdrughaṇaḥ svastiḥ paraśurvediḥ paraśurnaḥ svasti |
 haviṣkṛto yajñiyā yajñiyā yajñakāmāste devāso yajñamimaṃ juṣantām | (AV. –VII.28.1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 382.
+</blockquote>
 
-[118]:
 
-vaiyāghro maṇirvīrudhāṃ trāyamāṇo'bhiśastipāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[118]</strong> vaiyāghro maṇirvīrudhāṃ trāyamāṇo'bhiśastipāḥ |
 amīvāḥ sarvā rakṣāṃsyapa hantvadhi dū ramasmat || (AV. –VIII.7.14); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. II, Delhi, Parimal Publication, 2015, p. 183.
+</blockquote>
 
-[119]:
 
-nyastikārurohitha subhagaṃkaraṇī mama |
+
+
+<blockquote className="ayur-shloka">
+<strong>[119]</strong> nyastikārurohitha subhagaṃkaraṇī mama |
 śataṃ tava pratānāstrayastriṃśannitānāḥ |
 tayā sahasraparṇyā hṛdayaṃ śoṣayāmi te || (AV. –VI.139.1-5); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-3, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 689-693.
+</blockquote>
 
-[120]:
 
-ahaṃ vadāmi net tvaṃ sabhāyāmaha tvaṃ vada |
+
+
+<blockquote className="ayur-shloka">
+<strong>[120]</strong> ahaṃ vadāmi net tvaṃ sabhāyāmaha tvaṃ vada |
 mamedasastvaṃ kevalo nānyāsāṃ kīrtayāścana || (AV. –VII.38.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 544.
+</blockquote>
 
-[121]:
 
-śaṇaśca mā jaṅgiḍaśca viṣkandhādabhi rakṣatām |
+
+
+<blockquote className="ayur-shloka">
+<strong>[121]</strong> śaṇaśca mā jaṅgiḍaśca viṣkandhādabhi rakṣatām |
 araṇyādanya ābhṛtaḥ kṛṣyā anyo rasebhyaḥ || (AV. –II.4.5); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 68.
+</blockquote>
 
-[122]:
 
-śatakāṇḍo duścyavanaḥ sahasraparṇa uttiraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[122]</strong> śatakāṇḍo duścyavanaḥ sahasraparṇa uttiraḥ |
 darbho ya ugra auṣadhistaṃ te badhnāmyāyuṣe || (AV. –XIX.32.1-10); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. III, Delhi, Parimal Publication, 2015, pp. 342-345.
+</blockquote>
 
-[123]:
 
-Pai–5/9/2.
 
-[124]:
 
-śatavāro anīnaśad yakṣmān rakṣāṃsi tejasā |
+<blockquote className="ayur-shloka">
+<strong>[123]</strong> Pai–5/9/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[124]</strong> śatavāro anīnaśad yakṣmān rakṣāṃsi tejasā |
 ārohan varcasā saha maṇirdurṇāmacātanaḥ || (AV. –XIX.36.1-6); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-7, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 275-278.
+</blockquote>
 
-[125]:
 
-eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
+
+
+<blockquote className="ayur-shloka">
+<strong>[125]</strong> eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
 āṇḍīkaṃ kumudaṃ saṃ tanoti bisaṃ śālūkaṃ śaphakomulālī | (AV. –IV.34.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 357.
+</blockquote>
 
-[126]:
 
-Pai–19/38/1.
 
-[127]:
 
-yaṃ tvamagne samadahastamu nirvāpayā punaḥ |
+<blockquote className="ayur-shloka">
+<strong>[126]</strong> Pai–19/38/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[127]</strong> yaṃ tvamagne samadahastamu nirvāpayā punaḥ |
 kyāmbūratra rohatu śāṇḍadū rvā vyalkaśā || (AV. –XVIII.3.6); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. III, Delhi, Parimal Publication, 2015, p. 188.
+</blockquote>
 
-[128]:
 
-AV. Pari.  –70/1/6-9
 
-[129]:
 
-eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
+<blockquote className="ayur-shloka">
+<strong>[128]</strong> AV. Pari.  –70/1/6-9
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[129]</strong> eṣa yajñānāṃ vitato vahiṣṭho viṣṭāriṇaṃ paktvā divamā viveśa |
 āṇḍīkaṃ kumudaṃ saṃ tanoti bisaṃ śālūkaṃ śaphakomulālī | (AV. –IV.34.5); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 357.
+</blockquote>
 
-[130]:
 
-yatrāścatthā nyagrodhā mahāvṛkṣāḥ śikhaṇḍinaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[130]</strong> yatrāścatthā nyagrodhā mahāvṛkṣāḥ śikhaṇḍinaḥ |
 tat paretāpsarasaḥ pratibuddhā abhūtana || (AV. –IV.37.4); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 204.
+</blockquote>
 
-[131]:
 
-rātrī mātā nabhaḥ pitāryamā te pitāmahaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[131]</strong> rātrī mātā nabhaḥ pitāryamā te pitāmahaḥ |
 silācī nāma vā asi sā devānāmasi svasā || (AV. –V.5.1-9); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 375.
+</blockquote>
 
-[132]:
 
-yāṃ tvā gandharvo akhanad varuṇāya mṛtabhraje |
+
+
+<blockquote className="ayur-shloka">
+<strong>[132]</strong> yāṃ tvā gandharvo akhanad varuṇāya mṛtabhraje |
 tāṃ tvā vayaṃ khanāmasyoṣadhiṃ śepaharṣaṇīm || (AV. –IV.4.1-8); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, pp. 248-251.
+</blockquote>
 
-[133]:
 
-neva māṃse na pīvasi neva majjasvāhatam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[133]</strong> neva māṃse na pīvasi neva majjasvāhatam |
 avaitu pṛśni śevalaṃ śune jarāyvattave'va jarāyu padyatām || (AV. –I.11.4); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-1, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 226.
+</blockquote>
 
-[134]:
 
-darbhaḥ śocistarūṇakamaśvasya vāraḥ paruṣasya vāraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[134]</strong> darbhaḥ śocistarūṇakamaśvasya vāraḥ paruṣasya vāraḥ |
 rathasya bandhuram || (AV. –X.4.2); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 549.
+</blockquote>
 
-[135]:
 
-śyāmā sarūpaṅkaraṇī pṛthivyā adhyud bhṛtā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[135]</strong> śyāmā sarūpaṅkaraṇī pṛthivyā adhyud bhṛtā |
 idamū ṣu pra sādhaya punā rūpāṇi kalpaya || (AV. –I.24.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 165.
+</blockquote>
 
-[136]:
 
-saṃvananī samuṣpalā babhru kalyāṇi saṃ nuda |
+
+
+<blockquote className="ayur-shloka">
+<strong>[136]</strong> saṃvananī samuṣpalā babhru kalyāṇi saṃ nuda |
 amūṃ ca māṃ ca saṃ nuda samānaṃ hṛdayaṃ kṛdhi || (AV. –VI.139.3); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 634.
+</blockquote>
 
-[137]:
 
-sa jaṅgiḍasya mahimā pari ṇaḥ pātu viśvataḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[137]</strong> sa jaṅgiḍasya mahimā pari ṇaḥ pātu viśvataḥ |
 viṣkandhaṃ yena sāsaha saṃskandhamoja ojasā || (AV. –XIX.34.5); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-7, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 265.
+</blockquote>
 
-[138]:
 
-namāmi śacyāgataṃ sacīnaṃ viṣadū ṣaṇam | Pai–1/44/2.
 
-[139]:
 
-sadaṃpuṣpe sadaṃphale sadam indrāmirakṣatām | Pai–13/10/11.
+<blockquote className="ayur-shloka">
+<strong>[138]</strong> namāmi śacyāgataṃ sacīnaṃ viṣadū ṣaṇam | Pai–1/44/2.
+</blockquote>
 
-[140]:
 
-sadaṃpuṣpe sadaṃphale sadam indrāmirakṣatām | Pai–13/10/11.
 
-[141]:
 
-dīrghāyutvāya sahase mahyā ariṣṭatātaye |
+<blockquote className="ayur-shloka">
+<strong>[139]</strong> sadaṃpuṣpe sadaṃphale sadam indrāmirakṣatām | Pai–13/10/11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[140]</strong> sadaṃpuṣpe sadaṃphale sadam indrāmirakṣatām | Pai–13/10/11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[141]</strong> dīrghāyutvāya sahase mahyā ariṣṭatātaye |
 suparṇo mahyam abravīd etat samaktabheṣaktam |
 etat puruṣabheṣajam | Pai–19/40/3; 20/54/9.
+</blockquote>
 
-[142]:
 
-saṃvananī samuṣpalā babhru kalyāṇi saṃ nuda |
+
+
+<blockquote className="ayur-shloka">
+<strong>[142]</strong> saṃvananī samuṣpalā babhru kalyāṇi saṃ nuda |
 amūṃ ca māṃ ca saṃ nuda samānaṃ hṛdayaṃ kṛdhi || (AV. –VI.139.3); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 365.
+</blockquote>
 
-[143]:
 
-śyāmā sarūpaṅkaraṇī pṛthivyā adhyud bhṛtā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[143]</strong> śyāmā sarūpaṅkaraṇī pṛthivyā adhyud bhṛtā |
 idamū ṣu pra sādhaya punā rūpāṇi kalpaya || (AV. –I.24.4); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 165.
+</blockquote>
 
-[144]:
 
-bajaśca teṣāṃ piṅgaśca hṛdaye'dhi ni vidhyatām || (AV. –VIII.6.1-26); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. II, Delhi, Parimal Publication, 2015, pp. 172-180.
 
-[145]:
 
-pañca rājyāni vīrudhāṃ somaśreṣṭhāni brūmaḥ |
+<blockquote className="ayur-shloka">
+<strong>[144]</strong> bajaśca teṣāṃ piṅgaśca hṛdaye'dhi ni vidhyatām || (AV. –VIII.6.1-26); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. II, Delhi, Parimal Publication, 2015, pp. 172-180.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[145]</strong> pañca rājyāni vīrudhāṃ somaśreṣṭhāni brūmaḥ |
 darbho bhaṅgoyavaḥ sahaste no muñcantvaṃhasaḥ || (AV. –XI.6.15); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, p. 67.
+</blockquote>
 
-[146]:
 
-śarma yacchatvoṣadhiḥ saha devīrarundhatī | (AV. –VI.59.1-3); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-3, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 400-402.
 
-[147]:
 
-sahasyena bheṣajena divyena śataparvaṇā | Pai–19/23/1-8.
+<blockquote className="ayur-shloka">
+<strong>[146]</strong> śarma yacchatvoṣadhiḥ saha devīrarundhatī | (AV. –VI.59.1-3); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-3, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 400-402.
+</blockquote>
 
-[148]:
 
-divo mūlamavatataṃ pṛthivyā adhyuttatam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[147]</strong> sahasyena bheṣajena divyena śataparvaṇā | Pai–19/23/1-8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[148]</strong> divo mūlamavatataṃ pṛthivyā adhyuttatam |
 tena sahasrakāṇḍena pari ṇaḥ pāhi viśvataḥ || (AV. –II.7.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 230.
+</blockquote>
 
-[149]:
 
-tāṃ me sahasrākṣo devo dakṣiṇe hasta ā dadhat |
+
+
+<blockquote className="ayur-shloka">
+<strong>[149]</strong> tāṃ me sahasrākṣo devo dakṣiṇe hasta ā dadhat |
 tayāhaṃ sarvaṃ paśyāmi yaśca śūdra utāryaḥ || (AV. –IV.20.4); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 305.
+</blockquote>
 
-[150]:
 
-śatakāṇḍo duścyavanaḥ sahasraparṇa uttiraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[150]</strong> śatakāṇḍo duścyavanaḥ sahasraparṇa uttiraḥ |
 darbho ya ugra auṣadhistaṃ te badhnāmyāyuṣe || (AV. –XIX.32.1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-7, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 247.
+</blockquote>
 
-[151]:
 
-yāvatīḥ kiyatīścemāḥ pṛthivyāmadhyoṣadhīḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[151]</strong> yāvatīḥ kiyatīścemāḥ pṛthivyāmadhyoṣadhīḥ |
 tā mā sahasraparṇyo mṛtyormuñcantvaṃhasaḥ || (AV. –VIII.7.13); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 461.
+</blockquote>
 
-[152]:
 
-apakrītāḥ sahīyasīrvīrudho yā abhiṣṭutāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[152]</strong> apakrītāḥ sahīyasīrvīrudho yā abhiṣṭutāḥ |
 trāyantāmasmin grāme gāmaśvaṃ puruṣaṃ paśum || (AV. –VIII.7.11); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya—Vol.-4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 589.
+</blockquote>
 
-[153]:
 
-niḥ sālāṃ dhṛṣṇuṃ dhiṣaṇamekavādyāṃ jighatsvam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[153]</strong> niḥ sālāṃ dhṛṣṇuṃ dhiṣaṇamekavādyāṃ jighatsvam |
 sarvāścaṇḍasya naptyo nāśayāmaḥ sadānvāḥ || (AV. –II.14.1); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 239.
+</blockquote>
 
-[154]:
 
-alasālāsi pūrvā silāñjālāsyuttarā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[154]</strong> alasālāsi pūrvā silāñjālāsyuttarā |
 nīlāgalasālā || (AV. –VI.16.4); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 486.
+</blockquote>
 
-[155]:
 
-nyastikārurohitha subhagaṃkaraṇī mama |
+
+
+<blockquote className="ayur-shloka">
+<strong>[155]</strong> nyastikārurohitha subhagaṃkaraṇī mama |
 śataṃ tava pratānāstrayastriṃśannitānāḥ || (AV. –VI.139.1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 364.
+</blockquote>
 
-[156]:
 
-ayaṃ srāktyo maṇiḥ pratīvartaḥ pratisaraḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[156]</strong> ayaṃ srāktyo maṇiḥ pratīvartaḥ pratisaraḥ |
 ojasvān vimṛdho vaśī so asmān pātu sarvataḥ || (AV. –VIII.5.4); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.-4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, 542.
+</blockquote>
 
-[157]:
 
-yaccakṣuṣā manasā yacca vācopārima jāgrato yat svapantaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[157]</strong> yaccakṣuṣā manasā yacca vācopārima jāgrato yat svapantaḥ |
 somastāni svadhayā naḥ punātu || (AV. –VI.96.3); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 580
+</blockquote>
 
-[158]:
 
-utāsi paripāṇaṃ yātujambhanamāñjana |
+
+
+<blockquote className="ayur-shloka">
+<strong>[158]</strong> utāsi paripāṇaṃ yātujambhanamāñjana |
 utāmṛtasya tvaṃ vetthātho asi jīvabhojanamatho haritabheṣajam || (AV. –IV.9.3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 320.
+</blockquote>
 
-[159]:
 
-AV. Pari.  –18/1/16.
 
-[160]:
 
-śaṃ te nīhāro bhavatu śaṃ te pruṣvāva śīyatām | śītike śītikāvati hlādike hlādikāvati | maṇḍū kyapsu śaṃ bhuva imaṃ svagniṃ śamaya || (AV. –XVIII.3.60); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, p. 286.
+<blockquote className="ayur-shloka">
+<strong>[159]</strong> AV. Pari.  –18/1/16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[160]</strong> śaṃ te nīhāro bhavatu śaṃ te pruṣvāva śīyatām | śītike śītikāvati hlādike hlādikāvati | maṇḍū kyapsu śaṃ bhuva imaṃ svagniṃ śamaya || (AV. –XVIII.3.60); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, p. 286.
+</blockquote>
 
 ---
 
-## 50. Treatment of Kṣetriya disease
+## Treatment of Kṣetriya disease
 
 Treatment of Kṣetriya disease
 
@@ -1199,29 +1688,42 @@ In Atharvaveda the disease Kṣetriya is treated in the hymn II.8, 10 and III.7.
 
 The patient is then placed in the ditch and the priest gives him the water to drink and lets him wash with water. Again, in Kauśika Sūtra, a different method of treatment is recorded: While reciting III.7 the priest fastens an amulet made from the horn of an antelope on the patient, gives him water to drink and lets him wash himself water which has been warmed by quenching in it a kindled piece of an antelope’s skin pierced by pegs. The patient is then offered as much barley as can be taken up by a single grasp of his hand. Then food is given to him[4].The splinters of the holy Kāmpīla wood are also used against Kṣetriya[5].
 
-[1]:
 
-AV. –II.10.5-6; Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 233.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> AV. –II.10.5-6; Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 233.
+</blockquote>
 
-[2]:
 
-Dāḍila calls it -kaulovyādhiḥ | Keśava states–pitṛparyāyāgataḥ kṣetriyarogaḥ kuṣṭhakṣayarogaḥ grahaṇīdoṣaḥ sarvaśarīrasphoṭakāra |
 
-[3]:
 
-udagātāmityaplāvayati bahiḥ || apeyamiti vyucchantyām || babhroriti mantroktamākṛtiloṣṭavalmīkauparilikhya jīvakoṣaṇyāmutsīvya badhnāti || namaste lāṅgalebhya iti sīrayogamadhiśiro'vasiñcati || namaḥ sanisrasākṣebhya iti śūnyaśālāyāmapsu sampātānānayati || uttaraṃ jaratkhāte saśālātṛṇe || tasminnācamatyaplāvayati || (Kauśika Sūtra 26.41-43; 27.1-4); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 62-63.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Dāḍila calls it -kaulovyādhiḥ | Keśava states–pitṛparyāyāgataḥ kṣetriyarogaḥ kuṣṭhakṣayarogaḥ grahaṇīdoṣaḥ sarvaśarīrasphoṭakāra |
+</blockquote>
 
-[4]:
 
-hariṇasyeti bandhanapāyanācamanaśaṅ kudhānajvālenāvanakṣatre'vasiñcati || amitamātrāyāḥ sakṛd gṛhītānyavānāvapati || bhaktaṃ prayacchati || (Kauśika Sūtra 27.29-31); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 64.
 
-[5]:
 
-kṣetriyāttveti catuṣpathe kāmpīlaśkalaiḥ parvasu bad dhvā piñjulībhirāplāvayati || (Kauśika Sūtra 27.7); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans.Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 63.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> udagātāmityaplāvayati bahiḥ || apeyamiti vyucchantyām || babhroriti mantroktamākṛtiloṣṭavalmīkauparilikhya jīvakoṣaṇyāmutsīvya badhnāti || namaste lāṅgalebhya iti sīrayogamadhiśiro'vasiñcati || namaḥ sanisrasākṣebhya iti śūnyaśālāyāmapsu sampātānānayati || uttaraṃ jaratkhāte saśālātṛṇe || tasminnācamatyaplāvayati || (Kauśika Sūtra 26.41-43; 27.1-4); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 62-63.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> hariṇasyeti bandhanapāyanācamanaśaṅ kudhānajvālenāvanakṣatre'vasiñcati || amitamātrāyāḥ sakṛd gṛhītānyavānāvapati || bhaktaṃ prayacchati || (Kauśika Sūtra 27.29-31); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 64.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> kṣetriyāttveti catuṣpathe kāmpīlaśkalaiḥ parvasu bad dhvā piñjulībhirāplāvayati || (Kauśika Sūtra 27.7); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans.Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 63.
+</blockquote>
 
 ---
 
-## 51. Treatment of Apacit and Goitre
+## Treatment of Apacit and Goitre
 
 Treatment of Apacit and Goitre
 
@@ -1235,49 +1737,55 @@ Enī,
 
 Śyeṇī,
 
-Kṛṣṇā,
-
-Rohiṇī,
-
-Asūtikā,
-
-Rāmāyaṇī,
-
-Glau and
+Kṛṣṇā,, Rohiṇī,, Asūtikā,, Rāmāyaṇī,, Glau and
 
 Galunta.
 
 In the Atharvaveda, the fresh juice of the medicine Babhrū is beneficial for diseases like goitre and insanity disease. Maṇḍūkī medicine is mentioned in the Atharvaveda. Its root is used for skin diseases, goitre, etc., for its warmth and chemistry. Mahuyā mentioned in the Śāṅkhāyana Gṛhya Sūtra is beneficial for cases of goitre and rheumatism.
 
-[1]:
 
-AV. –VI/83; VII/34; VII/36; Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–3&4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 487-589; 125; 130.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> AV. –VI/83; VII/34; VII/36; Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–3&4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, pp. 487-589; 125; 130.
+</blockquote>
 
-[2]:
 
-yaḥ kīkasāḥ praśṛṇāti tālīdyamavatiṣṭhati |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> yaḥ kīkasāḥ praśṛṇāti tālīdyamavatiṣṭhati |
 nirāstaṃ sarvaṃ jāyānyaṃ yaḥ kaśca kakudi śritaḥ || (AV. –VII/76/3); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 571.
+</blockquote>
 
-[3]:
 
-idaṃ yat kṛṣṇaḥ śakunirabhiniṣpatannapīpatat |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> idaṃ yat kṛṣṇaḥ śakunirabhiniṣpatannapīpatat |
 āpo mā tasmāt sarvasmād duritāt pāntvaṃhasaḥ || (AV. –VII/64/1); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 400.
+</blockquote>
 
-[4]:
 
-pañca ca yā iti pañcapañcāśataṃ paraśuparṇānkāṣṭhairādīpayati || (Kauśika Sūtra 30.14); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 71.
 
-[5]:
 
-apacita ā susrasa iti kiṃ styādīni || lohitalavaṇaṃ saṃkṣudyābhiniṣṭhīvati || (Kauśika Sūtra 31.16-17); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 74.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> pañca ca yā iti pañcapañcāśataṃ paraśuparṇānkāṣṭhairādīpayati || (Kauśika Sūtra 30.14); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 71.
+</blockquote>
 
-[6]:
 
-apacitāmiti vaiṇavena dārbhyūṣeṇa kṛṣṇorṇājyena kālavundaiḥ stukāgrairiti mantroktam || caturthyābhinidhāyābhividhyati || jyāstukājvālena || (Kauśika Sūtra 32.8-10); Atharvavedīya–Kauśika Gṛhyasūtraṃ(Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 76.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> apacita ā susrasa iti kiṃ styādīni || lohitalavaṇaṃ saṃkṣudyābhiniṣṭhīvati || (Kauśika Sūtra 31.16-17); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 74.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> apacitāmiti vaiṇavena dārbhyūṣeṇa kṛṣṇorṇājyena kālavundaiḥ stukāgrairiti mantroktam || caturthyābhinidhāyābhividhyati || jyāstukājvālena || (Kauśika Sūtra 32.8-10); Atharvavedīya–Kauśika Gṛhyasūtraṃ(Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, p. 76.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -1286,10 +1794,6 @@ apacitāmiti vaiṇavena dārbhyūṣeṇa kṛṣṇorṇājyena kālavundaiḥ
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Apvā disease (Jalodara or Dropsy): Atharvaveda And Charaka Samhita Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

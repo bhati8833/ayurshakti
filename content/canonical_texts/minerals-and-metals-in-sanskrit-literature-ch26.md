@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix B (1) - Words related to Minerals and Metal in the Rigveda within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 111. Appendix B (1) - Words related to Minerals and Metal in the Rigveda
+## Appendix B (1) - Words related to Minerals and Metal in the Rigveda
 
 Minerals and Metals in Sanskrit literature
 
@@ -39,7 +39,7 @@ B-9 HI RANYA 1.22.5, 1.33.8, 1.43.5, 1.122.2, 1.162.16, 2.33.9, 3.34.9, 4.17.11,
 
 ---
 
-## 112. Appendix C - Technical terms mentioned in Panini’s Ashtadhyayi
+## Appendix C - Technical terms mentioned in Panini’s Ashtadhyayi
 
 Minerals and Metals in Sanskrit literature
 
@@ -91,7 +91,7 @@ C-20 SAMBANDHA SARA SALVA binding or joining together core, pith, solid interior
 
 ---
 
-## 113. Appendix E - Technical words in the post-Christian era Indian literature
+## Appendix E - Technical words in the post-Christian era Indian literature
 
 Minerals and Metals in Sanskrit literature
 
@@ -121,8 +121,6 @@ SRAVANMADHYA asteriated or star sapphire SROTANJANA carrollite SVARNA gold SVARN
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -130,10 +128,6 @@ SRAVANMADHYA asteriated or star sapphire SROTANJANA carrollite SVARNA gold SVARN
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 10. Tubular instruments for Inhalations and Fumigations within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 80. 10. Tubular instruments for Inhalations and Fumigations
+## 10. Tubular instruments for Inhalations and Fumigations
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ to use Nimba leaves for wound fumigation.
 
 ---
 
-## 81. 15. Application of Probes according to Sushruta
+## 15. Application of Probes according to Sushruta
 
 Surgery in ancient India (Study)
 
@@ -45,7 +45,7 @@ and neck. URETHRAL PROBE This type of salaka is described by Susruta. The end ro
 
 ---
 
-## 82. 14. Application of the Salaka Yantras
+## 14. Application of the Salaka Yantras
 
 Surgery in ancient India (Study)
 
@@ -61,8 +61,6 @@ to another. Two salaka have their ends shaped like fish hook but are blunt. They
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -70,10 +68,6 @@ to another. Two salaka have their ends shaped like fish hook but are blunt. They
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">13. Application of the Alabu Yantra: Ancient Indian Surgical Science Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

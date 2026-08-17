@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Āyurveda–Brief History and Basic Principles within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Āyurveda–Brief History and Basic Principles
+## Āyurveda–Brief History and Basic Principles
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -45,21 +45,24 @@ For clinical practice, diagnosis in Āyurveda is made by means of the six-fold e
 
 The next section will be about modern biomedicine. Similar to this section, the history of modern medicine will be briefly described. Then the basic principles of biomedicine will follow. The provision of such information aims at facilitating readers to understand the modern interpretations of the drugs and treatments for diseases mentioned in the Chapter on Medicine in the coming chapters.
 
-[1]:
 
-Siddha medicine is prevalent in southern India, and the Ūnāni medicine actually is the imported Graeco-Islamic medicine.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Siddha medicine is prevalent in southern India, and the Ūnāni medicine actually is the imported Graeco-Islamic medicine.
+</blockquote>
 
-[2]:
 
-The definition of the term “Āyurveda” will be provided later in Section 2. 3. 2, when the basic principles of this tradition are described.
 
-[3]:
 
-Medical concepts will be discussed later in this section. For more descriptions of the philosophical concepts mentioned in Āyurveda, see Roy 1986, 161-164 and Thakar 1992, 377-380.
+<div className="footnote-card"><strong>[2]</strong> The definition of the term “Āyurveda” will be provided later in Section 2. 3. 2, when the basic principles of this tradition are described.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Medical concepts will be discussed later in this section. For more descriptions of the philosophical concepts mentioned in Āyurveda, see Roy 1986, 161-164 and Thakar 1992, 377-380.</div>
 
 ---
 
-## 20. (a) Brief History of Āyurveda
+## (a) Brief History of Āyurveda
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -87,29 +90,40 @@ Many other Āyurvedic texts have been produced in the history of Indian medicine
 
 Throughout the centuries, Āyurveda has shown change and development in various aspects of this tradition, rather than a static tradition as thought by some historians. There have been new diseases, diagnostic skills, prognostic methods, medicinal substances, therapeutic formulae, and healing interventions introduced and practised (Wujastyk 1993, 766-768). Especially with the Muslim invasions of India since the eleventh century Common Era onwards, Āyurveda has been influenced by other medical traditions such as Siddha medicine and Ūnāni medicine (Micozzi 2011, 38). Moreover, with the arrival of Europeans in India since the sixteenth century, exchanges of medical ideas and practices between Āyurveda and Western medicine have occurred (Wujastyk 1993, 770-772). Western medical elements have been added to the Āyurvedic lore, such as the new disease syphilis, as mentioned. Nowadays, Āyurveda is still a major medical system serving the Indian (and the world) population, besides modern biomedicine. Professional training and qualifications of Āyurveda are controlled and provided by accredited colleges and universities in India (Wujastyk 1993, 772-774). This medical tradition has also interacted with modern science and technology, as well as biomedical science (Micozzi 2011, 38-39).
 
-[1]:
 
-Some scholars, like Filliozat (1964, 18-21), have raised the doubt that the court physician Caraka and the redactor Caraka might not be the same person. Chattopadhyaya (1977, 29-30, 260-61) and Zysk (1991, 33) have argued that the term “caraka”, derived from the root car which means ‘to move’ or ‘to wander’, could represent the group of wanderers or roving physicians and not necessarily point to a certain person.
+<div className="footnote-card"><strong>[1]</strong> Some scholars, like Filliozat (1964, 18-21), have raised the doubt that the court physician Caraka and the redactor Caraka might not be the same person. Chattopadhyaya (1977, 29-30, 260-61) and Zysk (1991, 33) have argued that the term “caraka”, derived from the root car which means ‘to move’ or ‘to wander’, could represent the group of wanderers or roving physicians and not necessarily point to a certain person.</div>
 
-[2]:
 
-The primary source (Caraka Saṃhitā Siddhisthāna) mentions that Dṛḍhabala was born in Pañcanadapura (present-day Panjab, in the Kashmir area). Modern scholars have different views on when Dṛḍhabala lived. Some claim that he was in the fifth to sixth century Common Era, and some say the ninth century Common Era. See Chattopadhyaya 1977, 32; Mazars 2006, 8; Meulenbeld 1999, 141; Roy 1986, 157; Weiss 2005, 714.
 
-[3]:
 
-Srikanta Murthy (1992b, 291-297) has an essay discussing several possible Nāgārjunas in Indian history.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The primary source (Caraka Saṃhitā Siddhisthāna) mentions that Dṛḍhabala was born in Pañcanadapura (present-day Panjab, in the Kashmir area). Modern scholars have different views on when Dṛḍhabala lived. Some claim that he was in the fifth to sixth century Common Era, and some say the ninth century Common Era. See Chattopadhyaya 1977, 32; Mazars 2006, 8; Meulenbeld 1999, 141; Roy 1986, 157; Weiss 2005, 714.
+</blockquote>
 
-[4]:
 
-Meulenbeld (1999) has said that the name Vāgbhaṭa is a common one in India. Rama Rao (1992) has identified several Vāgbhaṭas in Indian history who have composed texts for various subjects. For more discussions on Vāgbhaṭa(s) and his/their works, see Meulenbeld 1999, 597 ff. and Rama Rao 1992, 205-221.
 
-[5]:
 
-There are many types of Āyurvedic literature, as mentioned in the works of: Basham 1976, 21; Benner 2005, 3853; Mazars 2006, 9-10; Wujastyk 2005, 1410-1411. Some given examples of the later Āyurvedic literature are the Siddhayoga (ca. the tenth to eleventh century), the Mānasollāsa (the twelfth century), the Lakṣmaṇotsava (the fifteenth century), the Āyurveda saukhya of the Ṭoḍarānanda (the sixteenth century), the Vaidyajīvana (late sixteenth century) the Vīramitrodaya (the seventeenth century), the Śivatattvaratnākara (early eighteenth century), the Vaidyaka-śabdasindhu (late nineteenth century), and the Bṛhannighaṇṭuratnākara (late nineteenth to early twentieth century). The Jīvānanda (the seventeenth century) is an allegorical medical drama. Roy (1986, 157-159) provides extensive lists of Āyurvedic texts (according to the branch of Āyurvedic medicine), of which many books have been lost, in the history of Indian medicine.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Srikanta Murthy (1992b, 291-297) has an essay discussing several possible Nāgārjunas in Indian history.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Meulenbeld (1999) has said that the name Vāgbhaṭa is a common one in India. Rama Rao (1992) has identified several Vāgbhaṭas in Indian history who have composed texts for various subjects. For more discussions on Vāgbhaṭa(s) and his/their works, see Meulenbeld 1999, 597 ff. and Rama Rao 1992, 205-221.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> There are many types of Āyurvedic literature, as mentioned in the works of: Basham 1976, 21; Benner 2005, 3853; Mazars 2006, 9-10; Wujastyk 2005, 1410-1411. Some given examples of the later Āyurvedic literature are the Siddhayoga (ca. the tenth to eleventh century), the Mānasollāsa (the twelfth century), the Lakṣmaṇotsava (the fifteenth century), the Āyurveda saukhya of the Ṭoḍarānanda (the sixteenth century), the Vaidyajīvana (late sixteenth century) the Vīramitrodaya (the seventeenth century), the Śivatattvaratnākara (early eighteenth century), the Vaidyaka-śabdasindhu (late nineteenth century), and the Bṛhannighaṇṭuratnākara (late nineteenth to early twentieth century). The Jīvānanda (the seventeenth century) is an allegorical medical drama. Roy (1986, 157-159) provides extensive lists of Āyurvedic texts (according to the branch of Āyurvedic medicine), of which many books have been lost, in the history of Indian medicine.
+</blockquote>
 
 ---
 
-## 21. (b) Basic Principles of Āyurveda
+## (b) Basic Principles of Āyurveda
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -169,97 +183,151 @@ Apart from the above commonly employed remedies of Āyurveda, there are other th
 
 Maintenance of health–for the purpose of long life–is another important aspect of Āyurveda. There are many practical advices–what to do and what not to do–for this purpose according to Āyurveda (e.g. Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 2-4), such as personal hygiene (tooth-brushing, bathing, cutting hairs and nails, etc.); non-suppression of natural urges (e.g. passing urine, faeces, flatus); suitability of and moderation in foods and drinks; physical exercises to control weight; time and place for sleep; ethical conduct (good deeds of body, speech and mind, e.g. no harming of other sentient beings, no stealing or robbing, no sexual misconduct, compassion, thinking of the benefits of others, etc.); appropriate occupations; suitable etiquettes and activities;good clothing and footwear; wearing talismans or amulets; usage of eye collyria, nasal drops, mouth gargles, etc.; body massage; regimens during different seasons; suitable living environment; and so on.
 
-[1]:
 
-These eight branches are listed in the classical Āyurvedic texts, though different terms have been used for the branches (Caraka Saṃhitā Sūtrasthāna 30. 28; Suśruta Saṃhitā Sūtrasthāna 1. 6; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 1. 5).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> These eight branches are listed in the classical Āyurvedic texts, though different terms have been used for the branches (Caraka Saṃhitā Sūtrasthāna 30. 28; Suśruta Saṃhitā Sūtrasthāna 1. 6; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 1. 5).
+</blockquote>
 
-[2]:
 
-In the Suśruta Saṃhitā (Śārīrasthāna (Śārīrasthāna) 5. 49), there is a passage describing the way to handle a corpse and to observe the body parts while it is decomposing.
 
-[3]:
 
-Karunadasa (2002, 392) points out that Buddhism (as well as Jainism) only recognises four great elements–earth, water, fire, wind–but not space (as the fifth mahābhūta), even though space is sometimes listed with the four elements in the Pāli Nikāya. Likewise, consciousness (viññāṇa) is sometimes enumerated with the five items in Pāli discourses but it is not regarded as the sixth mahābhūta. However, the Caraka Saṃhitā (Śārīrasthāna 1. 16) groups the five great elements with consciousness (cetanā) and term them as six dhātus.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> In the Suśruta Saṃhitā (Śārīrasthāna (Śārīrasthāna) 5. 49), there is a passage describing the way to handle a corpse and to observe the body parts while it is decomposing.
+</blockquote>
 
-[4]:
 
-There are many similar descriptions of the qualities and functions of these great elements found in the Āyurvedic treatises, and it is impossible to quote them all here. Mitra has composed a good chapter on the mahābhūṭas, providing many references from Āyurvedic texts as well as Buddhist scriptures. See his book (1985, 40-56).
 
-[5]:
 
-Vāta, pitta and kapha are sometimes glossed as wind, fire, and water respectively, because of the properties of these elements in the doṣas (Benner 2005, 3854).
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Karunadasa (2002, 392) points out that Buddhism (as well as Jainism) only recognises four great elements–earth, water, fire, wind–but not space (as the fifth mahābhūta), even though space is sometimes listed with the four elements in the Pāli Nikāya. Likewise, consciousness (viññāṇa) is sometimes enumerated with the five items in Pāli discourses but it is not regarded as the sixth mahābhūta. However, the Caraka Saṃhitā (Śārīrasthāna 1. 16) groups the five great elements with consciousness (cetanā) and term them as six dhātus.
+</blockquote>
 
-[6]:
 
-Blood is sometimes listed as the fourth doṣa in some Āyurvedic texts. See, for example, Suśruta Saṃhitā Sūtrasthāna 21. 28.
 
-[7]:
 
-This general depiction of the three doṣas is based on information gathered from Basham 2004, 501; Benner 2005, 3854; Chopra 2003, 77; Thakar 1992, 382; and Wujastyk 2005, 1411.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> There are many similar descriptions of the qualities and functions of these great elements found in the Āyurvedic treatises, and it is impossible to quote them all here. Mitra has composed a good chapter on the mahābhūṭas, providing many references from Āyurvedic texts as well as Buddhist scriptures. See his book (1985, 40-56).
+</blockquote>
 
-[8]:
 
-In the description of the Caraka Saṃhitā, it also states that medicines having opposite qualities can relieve the qualities of these humours.
 
-[9]:
 
-Each doṣa is further divided into five kinds. Details of these kinds can be found in Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 12. 4-18. See also Jolly 2012, 49-50.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Vāta, pitta and kapha are sometimes glossed as wind, fire, and water respectively, because of the properties of these elements in the doṣas (Benner 2005, 3854).
+</blockquote>
 
-[10]:
 
-These three doṣas are commonly referred to in the Āyurvedic texts as pathogenic factors of physical body. Rajas (emotion) and tamas (darkness) are mentioned in the Caraka Saṃhitā (Sūtrasthāna 1. 57) as the pathogenic factors of the mind causing vitiation of the mind. But these two are much less emphasised while discussing aetiology in Āyurveda.
 
-[11]:
 
-The metabolic process, if functioning well, results in the production of ojas (rendered as energy or vitality, which is the essence of the seven dhātus) which serves as the support of life and gives strength, courage and immunity to the body; without it, life vanishes (Chopra 2003, 76; Jolly 2012,
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Blood is sometimes listed as the fourth doṣa in some Āyurvedic texts. See, for example, Suśruta Saṃhitā Sūtrasthāna 21. 28.
+</blockquote>
 
-[12]:
 
-; Thakar 1992, 384). For more information on ojas (also known as bala in the Suśruta Saṃhitā), see Caraka Saṃhitā Sūtrasthāna 30. 8-14; Suśruta Saṃhitā Sūtrasthāna 15. 19-28; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 11. 39-41.
 
-[13]:
 
-In the metabolic process, upadhātu (secondary dhātu) and mala (excretion) are also formed. Upadhātus refer to bodily tissues or fluids such as skin, hair, tendons, breast milk, menses etc., which are regarded as side-products of the dhātus (Caraka Saṃhitā Cikitsāsthāna 15. 17). Malas will be described in the following paragraph.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> This general depiction of the three doṣas is based on information gathered from Basham 2004, 501; Benner 2005, 3854; Chopra 2003, 77; Thakar 1992, 382; and Wujastyk 2005, 1411.
+</blockquote>
 
-[14]:
 
-According to Zysk (1991, 30-31), the classical Āyurvedic texts have little regard for karma as a cause of illness, though it is listed as a theoretical cause. And it seems to have more importance in the area of embryology.
 
-[15]:
 
-Caraka Saṃhitā (Sūtrasthāna 17. 114) and Aṣṭāṅga Hṛdaya Saṃhitā (Sūtrasthāna 12. 22-24) state two pathological stages for the doṣas: accumulation (caya) and aggravation (prakopa or kopa); Suśruta Saṃhitā (Sūtrasthāna 21. 18-37) describes six abnormal stages: accumulation (saṃcaya), aggravation (prakopa), spread (prasara), localisation (sthānasaṃśraya), manifestation (vyakti), and specification (bheda).
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> In the description of the Caraka Saṃhitā, it also states that medicines having opposite qualities can relieve the qualities of these humours.
+</blockquote>
 
-[16]:
 
-According to Āyurveda (e.g. Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna (Uttarasthāna) 6. 4-6), mind is transported via channels; blockage of the channels can also lead to mental illness such as insanity. Moreover, mental stress can aggravate the doṣas (the physical body), while dysfunction of doṣas (and channels) can lead to insanity and epilepsy (mental and neurological disorders), as Thakar (1992, 385) has commented.
 
-[17]:
 
-Supernatural causes (e.g. deities or demons) are usually accounted for psychiatric and paediatric problems.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Each doṣa is further divided into five kinds. Details of these kinds can be found in Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 12. 4-18. See also Jolly 2012, 49-50.
+</blockquote>
 
-[18]:
 
-There are different diagnostic principles in Āyurveda, such as the ten-fold examination mentioned in the Caraka Saṃhitā (Vimānasthāna (Vimānasthāna) 8. 94), which includes: physical constitution (prakṛti), morbid manifestations (vikṛti), excellence of the dhātus (sāra), compactness of the body (saṃhanana), measurement of bodily parts (pramāṇa), suitability of food (sātmya), mental strength (sattva), capacity for intake of food (āhāraśakti), physical capacity for exercise (vyāyāmaśakti) and age (vayas).
 
-[19]:
 
-According to Chopra (2003, 79), the appearance of the examination of the pulse in Āyurveda was probably influenced by Chinese medicine or Arabic medicine. He also mentions that scholars have suggested the possible influence by Tantric yoga.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> These three doṣas are commonly referred to in the Āyurvedic texts as pathogenic factors of physical body. Rajas (emotion) and tamas (darkness) are mentioned in the Caraka Saṃhitā (Sūtrasthāna 1. 57) as the pathogenic factors of the mind causing vitiation of the mind. But these two are much less emphasised while discussing aetiology in Āyurveda.
+</blockquote>
 
-[20]:
 
-However, it is known that in Āyurvedic practice this principle is not necessarily followed. Often treatment is given based on empirical data rather than on theory (Benner 2005, 3855; Chopra 2003, 80).
 
-[21]:
 
-This description on the pañcakarma has the information collected from Chopra 2003, 80; Wujastyk 2003b, xx; 2005, 1411.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> The metabolic process, if functioning well, results in the production of ojas (rendered as energy or vitality, which is the essence of the seven dhātus) which serves as the support of life and gives strength, courage and immunity to the body; without it, life vanishes (Chopra 2003, 76; Jolly 2012,
+</blockquote>
 
-[22]:
 
-There is much material on dietetics in the classical Āyurvedic texts, such as Caraka Saṃhitā Sūtrasthāna 23, 25-28; Suśruta Saṃhitā Sūtrasthāna 45-46; and Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5-10.
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> ; Thakar 1992, 384). For more information on ojas (also known as bala in the Suśruta Saṃhitā), see Caraka Saṃhitā Sūtrasthāna 30. 8-14; Suśruta Saṃhitā Sūtrasthāna 15. 19-28; Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 11. 39-41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> In the metabolic process, upadhātu (secondary dhātu) and mala (excretion) are also formed. Upadhātus refer to bodily tissues or fluids such as skin, hair, tendons, breast milk, menses etc., which are regarded as side-products of the dhātus (Caraka Saṃhitā Cikitsāsthāna 15. 17). Malas will be described in the following paragraph.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> According to Zysk (1991, 30-31), the classical Āyurvedic texts have little regard for karma as a cause of illness, though it is listed as a theoretical cause. And it seems to have more importance in the area of embryology.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā (Sūtrasthāna 17. 114) and Aṣṭāṅga Hṛdaya Saṃhitā (Sūtrasthāna 12. 22-24) state two pathological stages for the doṣas: accumulation (caya) and aggravation (prakopa or kopa); Suśruta Saṃhitā (Sūtrasthāna 21. 18-37) describes six abnormal stages: accumulation (saṃcaya), aggravation (prakopa), spread (prasara), localisation (sthānasaṃśraya), manifestation (vyakti), and specification (bheda).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> According to Āyurveda (e.g. Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna (Uttarasthāna) 6. 4-6), mind is transported via channels; blockage of the channels can also lead to mental illness such as insanity. Moreover, mental stress can aggravate the doṣas (the physical body), while dysfunction of doṣas (and channels) can lead to insanity and epilepsy (mental and neurological disorders), as Thakar (1992, 385) has commented.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Supernatural causes (e.g. deities or demons) are usually accounted for psychiatric and paediatric problems.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> There are different diagnostic principles in Āyurveda, such as the ten-fold examination mentioned in the Caraka Saṃhitā (Vimānasthāna (Vimānasthāna) 8. 94), which includes: physical constitution (prakṛti), morbid manifestations (vikṛti), excellence of the dhātus (sāra), compactness of the body (saṃhanana), measurement of bodily parts (pramāṇa), suitability of food (sātmya), mental strength (sattva), capacity for intake of food (āhāraśakti), physical capacity for exercise (vyāyāmaśakti) and age (vayas).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> According to Chopra (2003, 79), the appearance of the examination of the pulse in Āyurveda was probably influenced by Chinese medicine or Arabic medicine. He also mentions that scholars have suggested the possible influence by Tantric yoga.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> However, it is known that in Āyurvedic practice this principle is not necessarily followed. Often treatment is given based on empirical data rather than on theory (Benner 2005, 3855; Chopra 2003, 80).</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> This description on the pañcakarma has the information collected from Chopra 2003, 80; Wujastyk 2003b, xx; 2005, 1411.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> There is much material on dietetics in the classical Āyurvedic texts, such as Caraka Saṃhitā Sūtrasthāna 23, 25-28; Suśruta Saṃhitā Sūtrasthāna 45-46; and Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 5-10.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -268,10 +336,6 @@ There is much material on dietetics in the classical Āyurvedic texts, such as C
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Biomedicine (Western medicine)—Brief History and Basic Principles: Bhesajjakkhandhaka Chapter On Medicine Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

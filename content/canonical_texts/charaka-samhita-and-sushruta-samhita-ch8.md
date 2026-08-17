@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Physician in the Medical Texts within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. The Physician in the Medical Texts
+## The Physician in the Medical Texts
 
 Charaka Samhita and Sushruta Samhita
 
@@ -89,289 +89,445 @@ As compared to the physician, the position of the surgeon underwent gradual dete
 
 Our study, therefore, shows that the normative brahmanical texts do not accurately reflect the stature of medical practitioners in society. There is sufficient non-canonical data and epigraphic evidence to show that physicians were honoured by kings. Idealization of the image of the physician as “a paragon of gentlemanly qualities”[70] is evident in description of the prescribed code of medical ethics and social etiquette in our compendia. He was expected to be genial, modest and sincere. The physician’s code of behaviour was kind of self-regulation. More importantly, physicians looked upon themselves as members of a professional group and not as members of a caste. It is this professionalism which is reflected in the perception of what an ideal physician should be. There is deference towards brahmanical norms; nonetheless their perception of the medical practitioner is guided more by the needs of the profession.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.41.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 1.41.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.8.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna I.3.46.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 2.8.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 9.18.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 1(4). 60.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna I.3.46.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 1(4).61/2.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 1(4).61/1.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 9.18.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.52.
 
-[9]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.53/1.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 1(4). 60.
+</blockquote>
 
-[10]:
 
-Wujastyk, Dagmar, Well Mannered Medicine: Medical Ethics and Etiquette in Classical Ayurveda, p.101.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.51.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 1(4).61/2.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.40.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.17.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 1(4).61/1.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.41-44.
 
-[15]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.45.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.52.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.46-47.
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.48.—indrāgnī cāśvinau caiva stūyante prāyaśo dvijaiḥ. stūyante vedavākyeṣu na tathānyā hi devatāḥ.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.53/1.
+</blockquote>
 
-[18]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.49-50.
 
-[19]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.54.
+<div className="footnote-card"><strong>[10]</strong> Wujastyk, Dagmar, Well Mannered Medicine: Medical Ethics and Etiquette in Classical Ayurveda, p.101.</div>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 32.
 
-[21]:
 
-Suśruta Saṃhitā Sūtrasthāna 32.4.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.51.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.7/2-8/1.
 
-[23]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.4.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.40.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.5.
 
-[25]:
 
-Suśruta Saṃhitā Sūtrasthāna 34./2-9/1.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 1.17.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.9/2-10/1.—saṃkaraḥ sarvavarnāṃ ṇām. prajānāmapi cocchittirnṛpavyasanahetutaḥ.
 
-[27]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.10/2-12/1.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.41-44.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Sūtrasthāna 8.18.
 
-[29]:
 
-Suśruta Saṃhitā Cikitsāsthāna 33.45.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.45.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Cikitsāsthāna 28. 23-24.
 
-[31]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.12-14.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.46-47.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.14/2-15/1.
 
-[33]:
 
-Caraka Saṃhitā Cikitsāsthāna 1.17.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.48.—indrāgnī cāśvinau caiva stūyante prāyaśo dvijaiḥ. stūyante vedavākyeṣu na tathānyā hi devatāḥ.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Cikitsāsthāna 29.32.
 
-[35]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.52/2-53/1.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.49-50.
+</blockquote>
 
-[36]:
 
-K. Lochan, Medicines of Early India with appendix on a rare ancient text, Varanasi, 2003, p.110.
 
-[37]:
 
-D.P. Chattopadhyaya, Science and Society in Ancient India, p.217.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.54.
+</blockquote>
 
-[38]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.5.
 
-[39]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.3.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 32.
+</blockquote>
 
-[40]:
 
-Caraka Saṃhitā Sūtrasthāna 1.23.
 
-[41]:
 
-Jātaka, Vol. II, No.228.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Sūtrasthāna 32.4.
+</blockquote>
 
-[42]:
 
-Jātaka, Vol.VI, No.543.
 
-[43]:
 
-K.G.Zysk, Asceticism and Healing in Ancient India,p.22.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Sūtrasthāna 34.7/2-8/1.
+</blockquote>
 
-[44]:
 
-K.G.Zysk, Asceticism and Healing in Ancient India,p.23.
 
-[45]:
 
-Arthaśāstra 2.1.7.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Sūtrasthāna 34.4.
+</blockquote>
 
-[46]:
 
-Arthaśāstra 1.14.18.
 
-[47]:
 
-S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, Mumbai/Nasik, p. 12.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 34.5.
+</blockquote>
 
-[48]:
 
-S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 15.
 
-[49]:
 
-S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 16.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Sūtrasthāna 34./2-9/1.
+</blockquote>
 
-[50]:
 
-S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 16.
 
-[51]:
 
-S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 16.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Sūtrasthāna 34.9/2-10/1.—saṃkaraḥ sarvavarnāṃ ṇām. prajānāmapi cocchittirnṛpavyasanahetutaḥ.
+</blockquote>
 
-[52]:
 
-N.R. Ray, History of the Bengali People (Ancient Period), translated with an Introduction by J.W. Hood, Calcutta, 1994, p.178.
 
-[53]:
 
-A.L. Basham, “Practice of Medicine in Ancient India”, p. 38.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Sūtrasthāna 34.10/2-12/1.
+</blockquote>
 
-[54]:
 
-A.L. Basham, “Practice of Medicine in Ancient India”, p.178.
 
-[55]:
 
-N.R.Ray, History of the Bengali People, p.176.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
 
-[56]:
 
-N.R.Ray, History of the Bengali People, p.18.
 
-[57]:
 
-N.R.Ray, History of the Bengali People, p.178.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Cikitsāsthāna 33.45.
+</blockquote>
 
-[58]:
 
-N.R.Ray, History of the Bengali People, p.196.
 
-[59]:
 
-N.R.Ray, History of the Bengali People, p.210, fn.1.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Cikitsāsthāna 28. 23-24.
+</blockquote>
 
-[60]:
 
-B.C. Majumdar, The History of the Bengali Language, New Delhi, 2000 (Reprint), p. 51.
 
-[61]:
 
-S. Das, Socio-Economic Life of Northern India, c. A.D.550-A.D.650, Delhi, 1980, p.66.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Sūtrasthāna 34.12-14.
+</blockquote>
 
-[62]:
 
-Sircar, D.C., Studies in the Religious Life of Ancient and Medieval India, Delhi, 1971, p.215.
 
-[63]:
 
-Majumdar, N.G. (Ed. and trans.), Inscriptions of Bengal, Vol.III, Rajshahi, 1929, Ānulia Copper-Plate of Lakṣmaṇasena, verse 3.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Sūtrasthāna 34.14/2-15/1.
+</blockquote>
 
-[64]:
 
-Sircar, D.C., Studies in the Religious Life of Ancient and Medieval India, p. 215.
 
-[65]:
 
-B.C. Majumdar, The History of the Bengali Language, p.52.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Cikitsāsthāna 1.17.
+</blockquote>
 
-[66]:
 
-P.V.Kane, History of the Dharmaśāstra, Vol.2, Part 1, p. 72.
 
-[67]:
 
-S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p.15.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Cikitsāsthāna 29.32.
+</blockquote>
 
-[68]:
 
-Dominik Wujastyk, Roots of Ayurveda, p.107.
 
-[69]:
 
-P.V.R. Sastry, “Epigraphical Allusion to Surgery in Ayurveda”, Bulletin of Indian Institute of History of Medicine, Vol. VIII,1977, pp.127-130.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Sūtrasthāna 29.52/2-53/1.
+</blockquote>
 
-[70]:
 
-G.S.Lavekar, Doctor-Patient Relationship in Ancient India (Ayurveda), Varanasi, 1996, p. 12.
+
+
+<div className="footnote-card"><strong>[36]</strong> K. Lochan, Medicines of Early India with appendix on a rare ancient text, Varanasi, 2003, p.110.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> D.P. Chattopadhyaya, Science and Society in Ancient India, p.217.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Sūtrasthāna 2.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka Saṃhitā Sūtrasthāna 1.23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Jātaka, Vol. II, No.228.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Jātaka, Vol.VI, No.543.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> K.G.Zysk, Asceticism and Healing in Ancient India,p.22.</div>
+
+
+
+
+<div className="footnote-card"><strong>[44]</strong> K.G.Zysk, Asceticism and Healing in Ancient India,p.23.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Arthaśāstra 2.1.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Arthaśāstra 1.14.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, Mumbai/Nasik, p. 12.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[48]</strong> S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 15.</div>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 16.</div>
+
+
+
+
+<div className="footnote-card"><strong>[50]</strong> S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 16.</div>
+
+
+
+
+<div className="footnote-card"><strong>[51]</strong> S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 16.</div>
+
+
+
+
+<div className="footnote-card"><strong>[52]</strong> N.R. Ray, History of the Bengali People (Ancient Period), translated with an Introduction by J.W. Hood, Calcutta, 1994, p.178.</div>
+
+
+
+
+<div className="footnote-card"><strong>[53]</strong> A.L. Basham, “Practice of Medicine in Ancient India”, p. 38.</div>
+
+
+
+
+<div className="footnote-card"><strong>[54]</strong> A.L. Basham, “Practice of Medicine in Ancient India”, p.178.</div>
+
+
+
+
+<div className="footnote-card"><strong>[55]</strong> N.R.Ray, History of the Bengali People, p.176.</div>
+
+
+
+
+<div className="footnote-card"><strong>[56]</strong> N.R.Ray, History of the Bengali People, p.18.</div>
+
+
+
+
+<div className="footnote-card"><strong>[57]</strong> N.R.Ray, History of the Bengali People, p.178.</div>
+
+
+
+
+<div className="footnote-card"><strong>[58]</strong> N.R.Ray, History of the Bengali People, p.196.</div>
+
+
+
+
+<div className="footnote-card"><strong>[59]</strong> N.R.Ray, History of the Bengali People, p.210, fn.1.</div>
+
+
+
+
+<div className="footnote-card"><strong>[60]</strong> B.C. Majumdar, The History of the Bengali Language, New Delhi, 2000 (Reprint), p. 51.</div>
+
+
+
+
+<div className="footnote-card"><strong>[61]</strong> S. Das, Socio-Economic Life of Northern India, c. A.D.550-A.D.650, Delhi, 1980, p.66.</div>
+
+
+
+
+<div className="footnote-card"><strong>[62]</strong> Sircar, D.C., Studies in the Religious Life of Ancient and Medieval India, Delhi, 1971, p.215.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> Majumdar, N.G. (Ed. and trans.), Inscriptions of Bengal, Vol.III, Rajshahi, 1929, Ānulia Copper-Plate of Lakṣmaṇasena, verse 3.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[64]</strong> Sircar, D.C., Studies in the Religious Life of Ancient and Medieval India, p. 215.</div>
+
+
+
+
+<div className="footnote-card"><strong>[65]</strong> B.C. Majumdar, The History of the Bengali Language, p.52.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> P.V.Kane, History of the Dharmaśāstra, Vol.2, Part 1, p. 72.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[67]</strong> S.Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p.15.</div>
+
+
+
+
+<div className="footnote-card"><strong>[68]</strong> Dominik Wujastyk, Roots of Ayurveda, p.107.</div>
+
+
+
+
+<div className="footnote-card"><strong>[69]</strong> P.V.R. Sastry, “Epigraphical Allusion to Surgery in Ayurveda”, Bulletin of Indian Institute of History of Medicine, Vol. VIII,1977, pp.127-130.</div>
+
+
+
+
+<div className="footnote-card"><strong>[70]</strong> G.S.Lavekar, Doctor-Patient Relationship in Ancient India (Ayurveda), Varanasi, 1996, p. 12.</div>
 
 ---
 
-## 27. Chapter 3
+## Chapter 3
 
 Charaka Samhita and Sushruta Samhita
 
@@ -379,11 +535,9 @@ This page relates ‘Chapter 3’ of the study on the Charaka Samhita and the Su
 
 Chapter 3
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 28. The Student of Āyurveda (1): The pre-admission stage
+## The Student of Āyurveda (1): The pre-admission stage
 
 Charaka Samhita and Sushruta Samhita
 
@@ -463,113 +617,175 @@ It has been commented, “The use of “according to some,” on the other hand,
 
 Altekar opines that it is quite probable that kṣatriya and śūdra surgeons may have been by tradition and environment, better adepts in the use of the knife than their brāhmaṇa and vaiśya compeers.[26]
 
-[1]:
 
-Caraka Saṃhitā Vimānasthāna 8.3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Vimānasthāna 8.3.
+</blockquote>
 
-[2]:
 
-Cakrapaṇidatta on Caraka Saṃhitā Vimānasthāna 8.3.
 
-[3]:
 
-Cakrapaṇidatta on Caraka Saṃhitā Vimānasthāna 8.3.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Cakrapaṇidatta on Caraka Saṃhitā Vimānasthāna 8.3.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 30.29.
 
-[5]:
 
-Caraka Saṃhitā Vimānasthāna 8.3
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Cakrapaṇidatta on Caraka Saṃhitā Vimānasthāna 8.3.
+</blockquote>
 
-[6]:
 
-M.S.Valiathan, The Legacy of Caraka, Hyderabad, 2009 (Reprint), p. lxxxii.
 
-[7]:
 
-D. Wujastyk, Well-Mannered Medicine, p.70.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 30.29.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.4.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.10.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Vimānasthāna 8.3
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Vimānasthāna 8.14.
 
-[11]:
 
-Caraka Saṃhitā Vimānasthāna 8.8.
+<div className="footnote-card"><strong>[6]</strong> M.S.Valiathan, The Legacy of Caraka, Hyderabad, 2009 (Reprint), p. lxxxii.</div>
 
-[12]:
 
-Caraka Saṃhitā Vimānasthāna 8.8.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.3.
+<div className="footnote-card"><strong>[7]</strong> D. Wujastyk, Well-Mannered Medicine, p.70.</div>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.5.
 
-[15]:
 
-The methods of examining a patient are by inspection, palpitation and interrogation; Suśruta Saṃhitā Sūtrasthāna 10.5.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 1.4.
+</blockquote>
 
-[16]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 8.8.
 
-[17]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.6.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 1.10.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.6.
 
-[19]:
 
-Dagmar Wujastyk, Well-Mannered Medicine, p.78.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Vimānasthāna 8.14.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.4-5.
 
-[21]:
 
-Dagmar Wujastyk, Well-Mannered Medicine, p.76.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Vimānasthāna 8.8.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.10.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 30.29; Suśruta Saṃhitā Sūtrasthāna 2.3.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Vimānasthāna 8.8.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.5.
 
-[25]:
 
-Dagmar Wujastyk, Well-Mannered Medicine, p.76.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 2.3.
+</blockquote>
 
-[26]:
 
-A.S. Altekar, Education in Ancient India, Delhi, 2009 (Reprint), p.43.
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 2.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> The methods of examining a patient are by inspection, palpitation and interrogation; Suśruta Saṃhitā Sūtrasthāna 10.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 8.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Sūtrasthāna 2.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 2.6.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Dagmar Wujastyk, Well-Mannered Medicine, p.78.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 1.4-5.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Dagmar Wujastyk, Well-Mannered Medicine, p.76.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Sūtrasthāna 5.10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 30.29; Suśruta Saṃhitā Sūtrasthāna 2.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 2.5.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Dagmar Wujastyk, Well-Mannered Medicine, p.76.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> A.S. Altekar, Education in Ancient India, Delhi, 2009 (Reprint), p.43.</div>
 
 ---
-
-
 
 ---
 
@@ -578,10 +794,6 @@ A.S. Altekar, Education in Ancient India, Delhi, 2009 (Reprint), p.43.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">The Teacher of Āyurveda: Charaka Samhita And Sushruta Samhita Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

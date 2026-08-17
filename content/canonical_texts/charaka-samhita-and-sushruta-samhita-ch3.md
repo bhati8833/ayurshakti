@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Date of Caraka Saṃhitā within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. The Date of Caraka Saṃhitā
+## The Date of Caraka Saṃhitā
 
 Charaka Samhita and Sushruta Samhita
 
@@ -25,57 +25,87 @@ R.K. Sharma and Vaidya Bhagwan Dash assign the text of Agniveśa to 2000 years B
 
 Meulenbeld suggests that the author called Caraka [Charaka] cannot have lived later than A.D. 150-200 and not much earlier than 100 B.C.[6] Dṛḍhabala has been placed earlier than Vāgbhaṭa who has been dated to the 6th century CE as the latter was familiar with the treatise. Dṛḍhabala is believed to belong to the 4th century CE. Therefore the final redaction must have taken place in the first 2-3 centuries CE. In fact, certain terms occurring in the text point to a later date for Caraka. The term pākhaṇḍa[7] occurring in the text is taken to indicate Kāpālikas. The presence of Kāpālikas is also known in Suśruta from the terms kāpālabhūmi[8] and asitāmbara,[9] that is, person wearing black clothes. Ḍalhaṇa interprets the term pākhaṇḍa[10] as members of this sect. This Purāṇic Śaivite sect is known to have emerged during the Gupta period. Besides, there Caraka prescribes the chanting of Viṣṇusahasranāma as a remedial measure for the patients of fever.[11] According to V.S. Agrawal (Kādambari Ek Sāṃskritika Adhyayana), Viṣṇusahasranāma is the creation of the Gupta period.[12] Even Suśruta does not prescribe it; generally veneration of Śiva is advised in fever.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 10, 12, 25, 26; Śārīrasthāna 3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 10, 12, 25, 26; Śārīrasthāna 3.
+</blockquote>
 
-[2]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp. 58-64.
 
-[3]:
 
-R.K. Sharma and Vaidya Bhagwan Dash, Agniveśa’s Caraka Saṃhitā, Varanasi, 2001, Preface to Vol.VI, p. II.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp. 58-64.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Śārīrasthāna 1.95-97.
 
-[5]:
 
-Caraka Saṃhitā Śārīrasthāna 1.129.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> R.K. Sharma and Vaidya Bhagwan Dash, Agniveśa’s Caraka Saṃhitā, Varanasi, 2001, Preface to Vol.VI, p. II.
+</blockquote>
 
-[6]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 114.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.160.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Śārīrasthāna 1.95-97.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.89.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.48.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Śārīrasthāna 1.129.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.5.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.311.
+<div className="footnote-card"><strong>[6]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 114.</div>
 
-[12]:
 
-P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India from Antiquity to 1000 AD, p. 188.
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 23.160.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.89.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 29.48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 29.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 3.311.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India from Antiquity to 1000 AD, p. 188.</div>
 
 ---
 
-## 11. The Social Orientation of the medical compendia
+## The Social Orientation of the medical compendia
 
 Charaka Samhita and Sushruta Samhita
 
@@ -91,65 +121,105 @@ The presence of brāhmaṇas well versed in the Atharvaveda (brāhmaṇāścāth
 
 However, we notice that perspective of the Suśruta Saṃhitā is probably in some ways less brahmanical. The admission of śūdras to the medical profession is clearly acceptable to the surgical school. Criticism of the gods and brāhmaṇas are proscribed but prior to that, the text says, one should refrain from the use of harsh words against the king.[11] It is also significant that in the Caraka Saṃhitā, it is an assembly of sages who decide to seek the knowledge of Āyurveda when the advent of disease began to curtail longevity of those engaged in sacred studies. Consequently they are prevented from pursuing their religious vows, brahmacarya, fasting and penance.[12] It is in this background that the enlightened sages delegate Bharadvāja to approach Indra to acquire the knowledge of longevity.[13] The inclusion of the names of at least fifty sages whose names occur in Vedic literature is also an attempt to emphasise the association of Āyurveda with the Vedas as well as attempt to seek legitimacy for this science. In the Suśruta Saṃhitā too, it is the distress brought on by disease that impell Suśruta and his fellow pupils to learn the science of Āyurveda from Dhanvantari. The suffering of the helpless people troubled the minds of Suśruta who wished to bring relief to them.[14] The issue of disease as an impediment to sacred studies or pursuit of religious vows is not significant here; rather it is the physical and mental distress of people that provides the backdrop to the beginning of the study of medicine.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 30.27.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 30.27.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 1.4.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.6.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 1.4.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.6.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 30.21.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 1.6.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 30.21.
 
-[7]:
 
-Caraka Saṃhitā Śārīrasthāna 8.34.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 1.6.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Śārīrasthāna 8.47.
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 8.18.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 30.21.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Vimānasthāna 3.8; Suśruta Saṃhitā Sūtrasthāna 2.4.
 
-[11]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.90.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 30.21.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Sūtrasthāna 1.5-14.
 
-[13]:
 
-Caraka Saṃhitā Sūtrasthāna 1.18-19.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Śārīrasthāna 8.34.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.4.
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Śārīrasthāna 8.47.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Vimānasthāna 3.8; Suśruta Saṃhitā Sūtrasthāna 2.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.90.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Sūtrasthāna 1.5-14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Sūtrasthāna 1.18-19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 1.4.
+</blockquote>
 
 ---
 
-## 12. The authors and redactors of the Suśruta Saṃhitā and its date
+## The authors and redactors of the Suśruta Saṃhitā and its date
 
 Charaka Samhita and Sushruta Samhita
 
@@ -207,201 +277,301 @@ The treatises of Upadhenava, Urabhra, Suśruta and Puṣkalāvata are known to b
 
 It is hardly likely that Suśruta, the author, is referring to his own treatise but to the older work of Suśruta. It is also noteworthy along with the other three names Suśruta is also a proper name here.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
 
-[2]:
 
-Dalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.3.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.3.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Dalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
 
-[4]:
 
-Dalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.3.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.2.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
 
-[6]:
 
-Dalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.2.
 
-[7]:
 
-Filliozat, The Classical Doctrine of Indian Medicine, p. 6.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Dalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
 
-[8]:
 
-G.J.Meulenbeld, History of Indian Medical Literature, Vol. IA, p. 342.
 
-[9]:
 
-P.V. Sharma, Introduction to Vaidya Jādavji Trikamjī Ācharya and Acharya Nārāyaṇ Rām Ācharya “Kāvyatīrtha” (Eds.), Suśrutasaṃhitā of Suśruta, p.vi.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 1.2.
+</blockquote>
 
-[10]:
 
-T.W.R. Davids translated, The Questions of Milinda, F. Max Muller (ed.), The Sacred Books of the East Series, Vol. XXXVI, Part II, Delhi, 1965 (reprint), IV,7,20.
 
-[11]:
 
-Filliozat, The Classical Doctrine of Indian Medicine, p. 5.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Dalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.2.
+</blockquote>
 
-[12]:
 
-Filliozat, The Classical Doctrine of Indian Medicine, p. 6.
 
-[13]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (ed.), Suśruta-Saṃhitā, pp.v-vi.
+<div className="footnote-card"><strong>[7]</strong> Filliozat, The Classical Doctrine of Indian Medicine, p. 6.</div>
 
-[14]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. IA, p. 333.
 
-[15]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 333.
+<div className="footnote-card"><strong>[8]</strong> G.J.Meulenbeld, History of Indian Medical Literature, Vol. IA, p. 342.</div>
 
-[16]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. IA, p. 335.
 
-[17]:
 
-P.Ray, et al., Suśruta Saṃhitā (A Scientific Synposis), Delhi, 1980, pp.2-3.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> P.V. Sharma, Introduction to Vaidya Jādavji Trikamjī Ācharya and Acharya Nārāyaṇ Rām Ācharya “Kāvyatīrtha” (Eds.), Suśrutasaṃhitā of Suśruta, p.vi.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.3.
 
-[19]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 334.
+<div className="footnote-card"><strong>[10]</strong> T.W.R. Davids translated, The Questions of Milinda, F. Max Muller (ed.), The Sacred Books of the East Series, Vol. XXXVI, Part II, Delhi, 1965 (reprint), IV,7,20.</div>
 
-[20]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 334.
 
-[21]:
 
-Suśruta Saṃhitā Kalpasthāna 8.90-93.
+<div className="footnote-card"><strong>[11]</strong> Filliozat, The Classical Doctrine of Indian Medicine, p. 5.</div>
 
-[22]:
 
-K.L. Bhisagratna, An English Translation of the Sushruta Samhita, pp. v-vi.
 
-[23]:
 
-Suśruta Saṃhitā Śārīrasthāna 3.18.
+<div className="footnote-card"><strong>[12]</strong> Filliozat, The Classical Doctrine of Indian Medicine, p. 6.</div>
 
-[24]:
 
-P.Ray, et al, Suśruta Saṃhitā (A Scientific Synopsis), p.3.
 
-[25]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (ed.), Suśruta-Saṃhitā, pp.v-vi.
+</blockquote>
 
-[26]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p vii.
 
-[27]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, pp.vii-xi.
+<div className="footnote-card"><strong>[14]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. IA, p. 333.</div>
 
-[28]:
 
-Suśruta Saṃhitā Cikitsāsthāna 4.29.
 
-[29]:
 
-J. Filliozat, The Classical Doctrine of Indian Medicine, pp. 6-7.
+<div className="footnote-card"><strong>[15]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 333.</div>
 
-[30]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 342.
 
-[31]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A.
+<div className="footnote-card"><strong>[16]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. IA, p. 335.</div>
 
-[32]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.3.
 
-[33]:
 
-Suśruta Saṃhitā Nidāna-sthāna 7.3.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> P.Ray, et al., Suśruta Saṃhitā (A Scientific Synposis), Delhi, 1980, pp.2-3.
+</blockquote>
 
-[34]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 342.
 
-[35]:
 
-K.L. Bhaisagratna takes this Nagārjuna to have undertaken the redaction; An English Translation of the Sushruta Samhita, Introduction, p.iii.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.3.
+</blockquote>
 
-[36]:
 
-P.Ray, et al., Suśruta Saṃhitā (A Scientific Synopsis), p.4.
 
-[37]:
 
-P.Ray, et al., Suśruta Saṃhitā(A Scientific Synopsis), p.4.
+<div className="footnote-card"><strong>[19]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 334.</div>
 
-[38]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p ix.
 
-[39]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p ix.
+<div className="footnote-card"><strong>[20]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 334.</div>
 
-[40]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p.xi.
 
-[41]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, p. 340.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Kalpasthāna 8.90-93.
+</blockquote>
 
-[42]:
 
-P.V. Sharma (edited and translated), Suśruta-Saṃhitā, Vol. I, p. iv.
 
-[43]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. 1A, p. 343.
+<div className="footnote-card"><strong>[22]</strong> K.L. Bhisagratna, An English Translation of the Sushruta Samhita, pp. v-vi.</div>
 
-[44]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. 1A, p.351.
 
-[45]:
 
-P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (ed.), Suśruta-Saṃhitā, p viii.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Śārīrasthāna 3.18.
+</blockquote>
 
-[46]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p.347.
 
-[47]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. 1A, p.348.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> P.Ray, et al, Suśruta Saṃhitā (A Scientific Synopsis), p.3.
+</blockquote>
 
-[48]:
 
-Suśruta Saṃhitā Sūtrasthāna 4.9.
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Sūtrasthāna 2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p vii.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, pp.vii-xi.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Cikitsāsthāna 4.29.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> J. Filliozat, The Classical Doctrine of Indian Medicine, pp. 6-7.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 342.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Nidāna-sthāna 7.3.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.I A, p. 342.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> K.L. Bhaisagratna takes this Nagārjuna to have undertaken the redaction; An English Translation of the Sushruta Samhita, Introduction, p.iii.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> P.Ray, et al., Suśruta Saṃhitā (A Scientific Synopsis), p.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> P.Ray, et al., Suśruta Saṃhitā(A Scientific Synopsis), p.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p ix.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p ix.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (Eds.), Suśruta-Saṃhitā, p.xi.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> G.J. Meulenbeld, History of Indian Medical Literature, p. 340.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> P.V. Sharma (edited and translated), Suśruta-Saṃhitā, Vol. I, p. iv.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. 1A, p. 343.</div>
+
+
+
+
+<div className="footnote-card"><strong>[44]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. 1A, p.351.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> P.V. Sharma, Introduction to Acharya Jadavji Trikamji and Acharya Narayanram “Kavyatirtha” (ed.), Suśruta-Saṃhitā, p viii.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[46]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p.347.</div>
+
+
+
+
+<div className="footnote-card"><strong>[47]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. 1A, p.348.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Suśruta Saṃhitā Sūtrasthāna 4.9.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -410,10 +580,6 @@ Suśruta Saṃhitā Sūtrasthāna 4.9.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">General Discourse: Charaka Samhita And Sushruta Samhita Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

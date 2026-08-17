@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. The concept of Rasa (direct action of a drug) within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. 2. The concept of Rasa (direct action of a drug)
+## 2. The concept of Rasa (direct action of a drug)
 
 Physician as depicted in Manasollasa
 
@@ -37,8 +37,6 @@ According to Caraka such of the diets and regimens, as stand in contradistinctio
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ According to Caraka such of the diets and regimens, as stand in contradistinctio
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch29" className="text-emerald-400 hover:underline flex items-center font-medium">6. Examination of Patients: Physician As Depicted In Manasollasa Chapter 29 →</a>
 </div>
-
-
-
-
 
 ---
 

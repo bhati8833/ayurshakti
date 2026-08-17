@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Salient features of Pancamahabhutas within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. 7. Salient features of Pancamahabhutas
+## 7. Salient features of Pancamahabhutas
 
 Physician as depicted in Manasollasa
 
@@ -37,8 +37,6 @@ This thesis critically evaluates the role of physicians in Ayurvedic literature,
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -46,10 +44,6 @@ This thesis critically evaluates the role of physicians in Ayurvedic literature,
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">8. Ratricarya (conduct during night): Physician As Depicted In Manasollasa Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

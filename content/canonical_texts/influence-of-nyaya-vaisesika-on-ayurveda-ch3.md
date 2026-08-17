@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Classification of Darsana within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 4. 2. Classification of Darsana
+## 2. Classification of Darsana
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -25,8 +25,6 @@ word Asthika in the sense of 'one who believes in God.' If this should be accept
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ word Asthika in the sense of 'one who believes in God.' If this should be accept
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">3. Origin and development of Nyaya-Sastra: Influence Of Nyaya Vaisesika On Ayurveda Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

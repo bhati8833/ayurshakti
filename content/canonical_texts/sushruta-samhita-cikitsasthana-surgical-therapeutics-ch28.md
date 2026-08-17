@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The rules of hygiene and general conduct within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. Chapter XXIV - The rules of hygiene and general conduct
+## Chapter XXIV - The rules of hygiene and general conduct
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -207,83 +207,103 @@ Hence these (injurious and harmful) practices should be shunned by a man for his
 
 Thus ends the Twenty-fourth Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the rules of Hygiene and the prophylactic measures in general.
 
-[1]:
 
-A man of a Kaphaja temperament should use a twig of a plant possessed of a pungent taste (Tikta) in brushing his teeth. A man of a Pittaja temperament should brush his teeth with a twig possessed of a s wēet taste (Madhura), while a man of a Vatika temperament (nervous) should use that with an astringent (Kasaya) taste. This rule should be observed even in respect of the preponderant Doshas of the body, in a disease.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> A man of a Kaphaja temperament should use a twig of a plant possessed of a pungent taste (Tikta) in brushing his teeth. A man of a Pittaja temperament should brush his teeth with a twig possessed of a s wēet taste (Madhura), while a man of a Vatika temperament (nervous) should use that with an astringent (Kasaya) taste. This rule should be observed even in respect of the preponderant Doshas of the body, in a disease.
+</blockquote>
 
-[2]:
 
-The term “Tri-varga” generally means Tri-katu, Tri-phala and Tri-mada. Dallana explains it as meaning Tri-sugandhi, i.e., Tvak, Ela and Patra.—Ed.
 
-[3]:
 
-Gayadasa interprets that the mouth should be washed with the decoction of Bhillodaka and the eyes with that of Amalaka. He also interprets that the eyes and the mouth may both, however, be washed with cold water.
+<div className="footnote-card"><strong>[2]</strong> The term “Tri-varga” generally means Tri-katu, Tri-phala and Tri-mada. Dallana explains it as meaning Tri-sugandhi, i.e., Tvak, Ela and Patra.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Gayadasa interprets that the mouth should be washed with the decoction of Bhillodaka and the eyes with that of Amalaka. He also interprets that the eyes and the mouth may both, however, be washed with cold water.</div>
+
+
 
 Perhaps Gayadasa was of opinion that the decoction of Amalaka, being astringent, might arrest the dilatation of the pupils due to age, and so help to keep the eye-sight unimpaired. Others explain that the mouth should be washed with the decoctions of Bhillodaka and of Amalaka, and the eyes with cold water. The decoctions, however, if used as an eye-wash, should be used in a cold state.—Ed.
 
-[4]:
 
-Rubbed on the body and allowed to stand or kept unwiped, the Sneha (oil) reaches down the skin, through the hair-follicles in the course of time necessary to utter four hundred Matras. It reaches the principle of blood in the course of that necessary to utter five hundred Matras, and to the principle of flesh in the course of that necessary to utter six hundred Matras. It penetrates further to the principle of fat in the course of that necessary to utter seven hundred Matras, and to the principle of bone in the course of that necessary to utter eight hundred Matras, and lastly to the principle of marrow in the course of that necessary to utter nine hundred Matras. It successively cures the diseases respectively located in those principles.—Dallana.
+<div className="footnote-card"><strong>[4]</strong> Rubbed on the body and allowed to stand or kept unwiped, the Sneha (oil) reaches down the skin, through the hair-follicles in the course of time necessary to utter four hundred Matras. It reaches the principle of blood in the course of that necessary to utter five hundred Matras, and to the principle of flesh in the course of that necessary to utter six hundred Matras. It penetrates further to the principle of fat in the course of that necessary to utter seven hundred Matras, and to the principle of bone in the course of that necessary to utter eight hundred Matras, and lastly to the principle of marrow in the course of that necessary to utter nine hundred Matras. It successively cures the diseases respectively located in those principles.—Dallana.</div>
 
-[5]:
 
-Dallana’s reading here evidently is “vyayamasvinnagatrasya” in place of “vyayamakṣuṇagatrasya |”. This would mean “of one taking so much exercise as produces sweat.”
 
-[6]:
 
-According to several authorities, the appearance of perspiration on the nose, the axilla, the forehead and in the joints of the hands and the legs and dryness of the mouth are the symptoms which indicate that one has taken Valardha physical exercise (i.e., to the half extent of his capacity).—Dallana.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Dallana’s reading here evidently is “vyayamasvinnagatrasya” in place of “vyayamakṣuṇagatrasya |”. This would mean “of one taking so much exercise as produces sweat.”
+</blockquote>
 
-[7]:
 
-Utsadana and Udgharshana are the two kinds of rubbing the body with medicinal powders with and without a Sneha respectively.
 
-[8]:
 
-Phenaka is a kind of friction of the body with small wooden rollers,
+<div className="footnote-card"><strong>[6]</strong> According to several authorities, the appearance of perspiration on the nose, the axilla, the forehead and in the joints of the hands and the legs and dryness of the mouth are the symptoms which indicate that one has taken Valardha physical exercise (i.e., to the half extent of his capacity).—Dallana.</div>
 
-[9]:
 
-Dallana explains that washing the feet keeps the nerve (Nadi) joining the soles with the eyes cool and thus helps to clear up the vision. There is a custom of frequently washing the feet amongst the Hindus most probably on this account.—Ed.
 
-[10]:
 
-The text has Indra-kila which means a hilly country inhabited by barbarous people.
+<div className="footnote-card"><strong>[7]</strong> Utsadana and Udgharshana are the two kinds of rubbing the body with medicinal powders with and without a Sneha respectively.</div>
 
-[11]:
 
-Some explain “Jyotish” as a blaze of fire and others explain it as stars.
 
-[12]:
 
-The framers of the Ayurveda were aware of the fact that the human system is incapable of directly assimilating starchy substances without converting them into sugar. This has been emphasised in the Sutra- Shana, where Sushruta insists that a food stuff, in order to be worthy of the epithet, must be Madhura (i.e., of sweet flavour) and contain a large qnantity of proteid matter such as is found in milk, butter, meat, etc,—Ed.
+<div className="footnote-card"><strong>[8]</strong> Phenaka is a kind of friction of the body with small wooden rollers,</div>
 
-[13]:
 
-Dallana adds that curd should not be taken without an addition of water and salt as well. This is also the practice in general.
 
-[14]:
 
-All the existing editions of the Sushruta Samhita read “noṣnaiḥ” (i.e., curd should not be taken with any “hot” substance). Here it should be noted that the term “hot” may also include the substances which are heatmaking in their potency. Here, however, the reading seems to be incorrect. The lines are found verbatim in the work of Charaka, where he reads “noṣṇaṃ,” i.e., hot curd should not be taken, since it produces, as he himself tells us later on, an aggravation of the blood and the Pitta.—Ed.
+<div className="footnote-card"><strong>[9]</strong> Dallana explains that washing the feet keeps the nerve (Nadi) joining the soles with the eyes cool and thus helps to clear up the vision. There is a custom of frequently washing the feet amongst the Hindus most probably on this account.—Ed.</div>
 
-[15]:
 
-The text has “Varna-Vriddha” which literally means superior to the man in respect of Varna or the magnetic vibrations of the body, which are determined by one’s birth in a certain family. It means several castes of the Hindus.—Ed.
 
-[16]:
 
-The Parva days are the 8th, the 14th and 15th days of either fortnights and the last days of the solar months.—Ed.
+<div className="footnote-card"><strong>[10]</strong> The text has Indra-kila which means a hilly country inhabited by barbarous people.</div>
 
-[17]:
 
-It should be always borne in mind that God has implanted this desire in the mind of man and provided him with the necessary organic appendages only for the propagation of his species and not for the gratification of any diseased or morbid sexual propensity which is found nowhere else in Nature save and except in debauched human subjects and which lowers them even below the level of brutes. Hence love should be the essence of the bond which binds a couple and converts them into a kind of human centaur, the man and the wife, and union sexually considered, should be effected only under the promptings of that sacred instinct in Nature which makes the lilies blow and causes the pollens to unite their fecundating principles with one another and which a healthy unsophisticated human heart can instinctively read as the seed time of youthful exuberance.
 
-[18]:
 
-A bath is recommended for a man of strong virile power, in case of sexual intercourse in the day time or it may be possible to take a bath early in summer nights.—Dallana.
+<div className="footnote-card"><strong>[11]</strong> Some explain “Jyotish” as a blaze of fire and others explain it as stars.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> The framers of the Ayurveda were aware of the fact that the human system is incapable of directly assimilating starchy substances without converting them into sugar. This has been emphasised in the Sutra- Shana, where Sushruta insists that a food stuff, in order to be worthy of the epithet, must be Madhura (i.e., of sweet flavour) and contain a large qnantity of proteid matter such as is found in milk, butter, meat, etc,—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Dallana adds that curd should not be taken without an addition of water and salt as well. This is also the practice in general.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> All the existing editions of the Sushruta Samhita read “noṣnaiḥ” (i.e., curd should not be taken with any “hot” substance). Here it should be noted that the term “hot” may also include the substances which are heatmaking in their potency. Here, however, the reading seems to be incorrect. The lines are found verbatim in the work of Charaka, where he reads “noṣṇaṃ,” i.e., hot curd should not be taken, since it produces, as he himself tells us later on, an aggravation of the blood and the Pitta.—Ed.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> The text has “Varna-Vriddha” which literally means superior to the man in respect of Varna or the magnetic vibrations of the body, which are determined by one’s birth in a certain family. It means several castes of the Hindus.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> The Parva days are the 8th, the 14th and 15th days of either fortnights and the last days of the solar months.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> It should be always borne in mind that God has implanted this desire in the mind of man and provided him with the necessary organic appendages only for the propagation of his species and not for the gratification of any diseased or morbid sexual propensity which is found nowhere else in Nature save and except in debauched human subjects and which lowers them even below the level of brutes. Hence love should be the essence of the bond which binds a couple and converts them into a kind of human centaur, the man and the wife, and union sexually considered, should be effected only under the promptings of that sacred instinct in Nature which makes the lilies blow and causes the pollens to unite their fecundating principles with one another and which a healthy unsophisticated human heart can instinctively read as the seed time of youthful exuberance.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> A bath is recommended for a man of strong virile power, in case of sexual intercourse in the day time or it may be possible to take a bath early in summer nights.—Dallana.</div>
 
 ---
-
-
 
 ---
 
@@ -292,10 +312,6 @@ A bath is recommended for a man of strong virile power, in case of sexual interc
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch29" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment for increasing virility: Sushruta Samhita Cikitsasthana Chapter 29 →</a>
 </div>
-
-
-
-
 
 ---
 

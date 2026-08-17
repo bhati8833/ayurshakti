@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Atisāra (diarrhea) according to Caraka within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 115. Atisāra (diarrhea) according to Caraka
+## Atisāra (diarrhea) according to Caraka
 
 Atisāra (diarrhea) according to Caraka
 
@@ -19,15 +19,7 @@ Atisāra Symptoms of Atisāra or Diarrhea are-passing excess of loose stools. It
 
 There are six types of diarrhoea—
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja,
-
-Bhayaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja,, Bhayaja and
 
 Śokaja[1].
 
@@ -65,17 +57,21 @@ For example, if you drink Cāṅgerīghṛta, it cures ailments caused by prolap
 
 For example, Rasāñjanādi-cūrṇa can be taken with lemon juice to get rid of diarrhoea; Rasāñjanādicūrṇa, Kapitthādi-cūrṇa can be taken to get rid of diarrhea. On the other hand, if you take Pippalyādi cūrṇa the mucus and diarrhoea are destroyed. After vāta, pitta and the kapha should be managed or whichever doṣa is the strongest, should be managed first[2].
 
-[1]:
 
-pittalasya punaramlalavaṇakaṭukakṣāroṣṇatīkṣṇātimātraniṣeviṇaḥ pratatāgnisūryasaṃtāpoṣṇamārutopahatagātrasya krodherṣyābahulasya pittaṃ prakopamāpadyate | tat prakupitaṃ dravatvādū ṣmāṇmupahatya purīṣāśayavisṛtamauṣṇyād dravatvāt saratvācca bhittvā purīṣamatisārāya prakalpate | tasya rūpāṇi-hāridraṃ haritaṃ nīlaṃ kṛṣṇaṃ raktapittopahitamatidurgandhamatisāryate purīṣaṃ, tṛṣṇādāhasvedamūrcchāśūlabradhnasaṃtāpapākaparīta iti pittātisāraḥ || (C. Cikitsāsthāna–XIX.6); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 223.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> pittalasya punaramlalavaṇakaṭukakṣāroṣṇatīkṣṇātimātraniṣeviṇaḥ pratatāgnisūryasaṃtāpoṣṇamārutopahatagātrasya krodherṣyābahulasya pittaṃ prakopamāpadyate | tat prakupitaṃ dravatvādū ṣmāṇmupahatya purīṣāśayavisṛtamauṣṇyād dravatvāt saratvācca bhittvā purīṣamatisārāya prakalpate | tasya rūpāṇi-hāridraṃ haritaṃ nīlaṃ kṛṣṇaṃ raktapittopahitamatidurgandhamatisāryate purīṣaṃ, tṛṣṇādāhasvedamūrcchāśūlabradhnasaṃtāpapākaparīta iti pittātisāraḥ || (C. Cikitsāsthāna–XIX.6); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 223.
+</blockquote>
 
-[2]:
 
-C. Cikitsāsthāna–XIX.4-122; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. IV, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 203-241.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> C. Cikitsāsthāna–XIX.4-122; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. IV, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 203-241.
+</blockquote>
 
 ---
 
-## 116. Pāṇḍuroga (anemia) according to Caraka
+## Pāṇḍuroga (anemia) according to Caraka
 
 Pāṇḍuroga (anemia) according to Caraka
 
@@ -83,13 +79,7 @@ The dhātus in the human body are affected by the pitta doṣas. Then the dhātu
 
 Pāṇḍuroga is of five types—
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja and
 
 desire to consume soil[1].
 
@@ -111,18 +101,22 @@ Regarding the liquid diet of Pāṇḍuroga patients it has been said: Pañcamū
 
 Soil consuming Pāṇḍuroga patient are treated by physician depending on how well they can accept the treatment. Through sharp medication the physician cleanses the patient’s body of soil. After this process patient is administered various types of medicated ghee like—vyoṣādya-ghṛta for boosting his strength. If the patient doses not cease consuming soil then drugs like Viḍaṅga, Elā, Ativiṣa, and Nimba should be mixed with the mud. In śākhāśrita kāmalā the stool is like sesame paste, white in colour because of stoppage of Pitta by impaired Kapha. To remove this obstruction the physician prescribes hot spicy medicine to bring pitta from Śākhā to the intestine. In Halīmaka Vāta and Pitta colour of persons skin changes to yellow, blue or green. The treatment is done with the following: Oleation with buffalo milk, ghee mixed with guḍūcī juice and milk; Agastya Harītakī; cleansing with Āmlā juice mixed with niśotha powder. After this the patient is given diet rich in sweet taste which causes Vāta and Pitta[2].
 
-[1]:
 
-pāṇḍurogāḥ smṛtāḥ pañca vātapittakaphai straya: |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> pāṇḍurogāḥ smṛtāḥ pañca vātapittakaphai straya: |
 caturthaḥ sannipātena pañcamo bhakṣaṇānmṛdaḥ || (C. Cikitsāsthāna–XVI.3); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. IV, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 81.
+</blockquote>
 
-[2]:
 
-C. Cikitsāsthāna–XX.2-68; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 553-567.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> C. Cikitsāsthāna–XX.2-68; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 553-567.
+</blockquote>
 
 ---
 
-## 117. Kṣatakṣīṇa (galloping phthisis) according to Caraka
+## Kṣatakṣīṇa (galloping phthisis) according to Caraka
 
 Kṣatakṣīṇa (galloping phthisis) according to Caraka
 
@@ -134,13 +128,14 @@ The general treatment of Kṣatakṣīṇa diseases is: if a person with the str
 
 The treatment of Kṣatakṣīṇa includes: intake of laksa with honey, followed with milk; and food with milk and sugar. Use of formulations to cures of this disease, namely, Elādi guṭikā, Yaṣṭyāhvādi ghṛta, Kolādi ghṛta, Amṛta prāśa ghṛta, Sarpirguḍāḥ, Sarpirmodakāḥ, Saindhavādi cūrṇa etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XI.4-95; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 340-352.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XI.4-95; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 340-352.
+</blockquote>
 
 ---
 
-## 118. Śvayathu (oedema) according to Caraka
+## Śvayathu (oedema) according to Caraka
 
 Śvayathu (oedema) according to Caraka
 
@@ -148,11 +143,7 @@ Maharṣi Caraka discusses disease of Śvayathu and treatment of Oedema or Śvay
 
 There are four types of Śvayathu i.e.,
 
-exogenous,
-
-endogenous,
-
-ekāṅgaja and
+exogenous,, endogenous,, ekāṅgaja and
 
 sarvaja.
 
@@ -162,13 +153,14 @@ The general treatment of this disease is contradictory measures in respect to et
 
 In all the three types of oedema, the patient should be given the paste of Harītakī, Nagara, Devadāru and Punarṇavā along with cow’s urine. After taking these recipes, the patient should take bath, and after the recipe is digested, he should take food along with milk. The treatment of oedema includes: Aṣṭaśatāriṣṭa, Punarṇavādyariṣṭa, Triphalādyariṣṭa, Kṛṣṇādya Cūrṇa and, ginger juice, Śilājatu and Paṭolamūlādi Kaṣāya etc. In swelling due to the poison, he should be administered anti poison measures. To be cured of swelling the following treatment are applied–fasting, bloodletting, ununctuous ointment, excision, puncturing, cauterisation etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XII.5-102; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 483-517.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XII.5-102; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 483-517.
+</blockquote>
 
 ---
 
-## 119. Madātyaya (alcoholism) according to Caraka
+## Madātyaya (alcoholism) according to Caraka
 
 Madātyaya (alcoholism) according to Caraka
 
@@ -176,13 +168,12 @@ Alcohol is prepared from different types of ingredients like cereals, fruits, ro
 
 When taken the proper quantity of wine produces exhilaration, energy, happiness, nourishment, good health, excellent virility and pleasant. For the cure for Vātaja Madātyaya the patient should be given old, salty wine processes in Bijāpūra etc., unctuous and sour meat soup, different types of pickles, pomegranate juice, embracing of young women. For the cure for Pittaja Madātyaya he should be given emesis, grape juice, and saturating drinks, wine diluted with a lot of water, and cold measures. Kaphaja Madātyaya should be treated with vomiting therapy, fasting, hot food and drinks, and embracing of young women. If all the above measures fail then milk should be given, and then small doses of wine should be given.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XXIV.11-206; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. IV, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 387-430.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXIV.11-206; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. IV, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 387-430.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -191,10 +182,6 @@ C. Cikitsāsthāna–XXIV.11-206; R. K. Sharma & Bhagwan Dash (eds.), Caraka Sa�
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Grahaṇī (sprue-syndrome) according to Caraka: Atharvaveda And Charaka Samhita Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

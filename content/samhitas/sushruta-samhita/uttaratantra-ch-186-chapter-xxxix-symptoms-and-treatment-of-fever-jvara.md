@@ -338,7 +338,11 @@ Kapha is aggravated in the morning, Pitta, at noon and Vāyu, in the evening. Fe
 
 [3]:
 
+
+<blockquote className="ayur-shloka">
 “sāśrunirbhugnanayanaḥ” is different reading in place of “sāsro nirbhugnahṛdayaḥ” | The term “nirbhugna” is more appropriately applicable to “nathana” than to “hṛdaya” both grammatically and in sense.
+</blockquote>
+
 
 [4]:
 
@@ -350,7 +354,11 @@ Dallana in his commentary has quoted in eight lines with different wordings the 
 
 [6]:
 
+
+<blockquote className="ayur-shloka">
 The five locations of Kapha are the Āmāśaya, chest, throat, head and the joints.
+</blockquote>
+
 
 [7]:
 
@@ -372,7 +380,11 @@ Vijaya Rakshita, the commentator on Mādhava Nidāna, says, on the authority of 
 
 “Abhicār,” means incantations or Atharvan rites by which disease, death and any other injuries are brought about.
 
+
+<blockquote className="ayur-shloka">
 “Abhiśāpa” means the curse pronounced by Brāhmins, preceptors, seniors and alters possesed of puissance.
+</blockquote>
+
 
 [12]:
 
@@ -388,7 +400,11 @@ Some read these two lines in a different way. They would mean that the non-assim
 
 [15]:
 
+
+<blockquote className="ayur-shloka">
 This passage is quoted by Śrīkantha Datta in his commentary on Chakra-datta wherein he does not read “kṣīṇe” (mild type), and his read ing appears to be the better one, it being supported by Charaka as well.
+</blockquote>
+
 
 [16]:
 
@@ -476,7 +492,11 @@ Arishta according to Dallana and Śrikantha (the commentator of Vrinda) may mean
 
 [37]:
 
+
+<blockquote className="ayur-shloka">
 Madhu-śukta is prepared by preserving the expressed juice of Jambira -lemon, Pippali and honey in an earthen pot formerly used in keeping honey. It should be laid for a month under the heap of paddy before use. (Dallana) For an alternative mode of preparation see ‘śāṅgadhara”, Chapter X—“mathya khaṇḍa”.
+</blockquote>
+
 
 [38]:
 

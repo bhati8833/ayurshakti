@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dyeing of mercury, etc within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. Part 7 - Dyeing of mercury, etc. by rasaka
+## Part 7 - Dyeing of mercury, etc. by rasaka
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -29,7 +29,7 @@ This concludes ‘Dyeing of mercury, etc. by rasaka’ included in Bhudeb Mooker
 
 ---
 
-## 52. Chapter VIII - Uparasa (9): Gandhaka (sulphur)
+## Chapter VIII - Uparasa (9): Gandhaka (sulphur)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -39,15 +39,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VIII - Uparasa (9): Gandhaka (sulphur)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (9): Gandhaka (sulphur)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 53. Part 1 - Characteristics of Gandhaka (sulphur)
+## Part 1 - Characteristics of Gandhaka (sulphur)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -75,7 +73,7 @@ This concludes ‘Characteristics of Gandhaka (sulphur)’ included in Bhudeb Mo
 
 ---
 
-## 54. Part 2 - Purification of Gandhaka
+## Part 2 - Purification of Gandhaka
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -109,7 +107,7 @@ This concludes ‘Purification of Gandhaka’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 55. Part 3 - How to take gandhaka
+## Part 3 - How to take gandhaka
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -161,8 +159,6 @@ This concludes ‘How to take gandhaka’ included in Bhudeb Mookerjee Rasa Jala
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -170,10 +166,6 @@ This concludes ‘How to take gandhaka’ included in Bhudeb Mookerjee Rasa Jala
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">How to make and take Sulphur oil: Rasa Jala Nidhi Volume 2 Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -32,11 +32,23 @@ Chapter 19 - The Eight Abdominal affections (udara-roga)
 
 The Enumeration of Diseases
 
+
+<blockquote className="ayur-shloka">
 3-(1.) There are eight varieties of abdominal affections (Udararoga—udara-roga), eight of the disorders of the urinary system (Mutraghata—mūtrāghāta), eight of galactic disorders (Kshira-dosha—kṣīradoṣa), eight of seminal disorders (Retas-dosha—retodoṣa), seven of dermatosis (Kushtha—kuṣṭha), seven of inflammatory swellings (Pidaka—piḍaka), seven of acute spreading affections (visarpa), six of diarrhea (atisāra), six of misperistalsis (Udavarta—udāvarta);
+</blockquote>
 
+
+
+<blockquote className="ayur-shloka">
 3-(2). Five of gulma, five of splenic disorder (Pliha-dosha—plīhadoṣa), five of cough (Kasa—kāsa), five of dyspnea (Shvasa—śvāsa), five of hiccup (Hikka—hikkā), five of thirst (Trishna—tṛṣṇā), five of vomiting (chardaya), five of loss of appetite (Bhakta-anashana—bhaktānaśana), five of the disease of the head (Shiras-roga—śiroroga), five of cardiac disorder (Hrid-roga—hṛdroga), five of anemia (Pandu-roga—pāṇḍuroga), five of insanity (Unmada—unmāda);
+</blockquote>
 
+
+
+<blockquote className="ayur-shloka">
 3-(3). Four of epilepsy (Apasmara—apasmāra), four of eye-disease (Akshi-roga—akṣiroga), ear-disease (Karna-roga—karṇaroga), four of coryza (Pratishyaya—pratiśyāya), four of assimilation disorder [? Mukha-roga—mukharoga |OR| Grahani-dosha—grahaṇīdoṣa ?], four of intoxication (Mada-roga—madaroga), four of fainting (Murccha/Murcchaya—mūrcchā/mūrcchāyā), four of consumption (Shosha—śoṣa), four of impotency (klaibya);
+</blockquote>
+
 
 3-(4). Three of edema (Shopha—śopha), three of leprosy (Kilasa—kilāsa), three varieties of hemothermia (Lohita-pitta—lohitapitta), two of fever (jvara), two of wounds (Vrana—vraṇa), two of convulsions (Ayama—āyāma), two of sciatica (Gridhrasi—gṛdhrasi), two of jaundice (Kamala—kāmala), two of chyme disorder (Ama—āma), two of rheumatic condition (Vatarakta—vātarakta), two of piles (Arsha—arśa);
 
@@ -52,7 +64,11 @@ Galactic and Seminal Disorders
 
 Dermatosis, inflammatory swellings and Acute Spreading Affections
 
+
+<blockquote className="ayur-shloka">
 4-(2). The seven varieties of dermatosis are—(1) Kapala (kapāla), (2) Udumbara (3) Mandala (maṇḍala), (4) Rishyajihva (ṛṣyajihva), (5) Pundarika (puṇḍarīka), (6) Sidhma and (7) Kakana (kākaṇa). The seven various inflammatory swellings are:—(1) crateriform ulcer, (2) carbuncle, (3) cribriform swelling, (4) boils, (5) dry gangrene, (6) moist gangrene and (7) abscess. The seven varieties of acute spreading affections are—(1) Vata type, (2) Pitta type, (3) Kapha type (4) erysipelas (5) spreading moist gangrene, (6) a,cute lymphadenitis and (7) tridiscordance type.
+</blockquote>
+
 
 Diarrhea and Misperistalsis
 
@@ -108,17 +124,37 @@ Paraplegia, Syncope and Magnum Morbus
 
 Worms
 
+
+<blockquote className="ayur-shloka">
 4-(9a). The twenty varieties of worms are (1) lice (2) mites residing in the body-excretion, six varieties residing in the blood viz,. (1) Kesada (keśāda), (2) Lomada (lomāda), (3) Lomadvipa (lomadvīpa), (4) Saurasa, (5) Audumbara and (6) Jantumatara (jantumātara).
+</blockquote>
 
+
+
+<blockquote className="ayur-shloka">
 4-(9b). Seven varieties residing in the mucus viz., (1) Antrada (antrāda), (2) Udaraveshta (udarāveṣṭa), (3) Hridayada (hṛdayāda), (4) Curu, (5) Darbhapushpa (darbhapuṣpa), (6) Saugandhika aud (7) Mahaguda (mahāguda).
+</blockquote>
 
+
+
+<blockquote className="ayur-shloka">
 4-(9c). Five varieties residing in the feces viz., (1) Kakeruka, (2) Makeruka, (3) Leliha, (4) Sashulaka (saśūlaka) and (5) Sausurada (sausurāda).
+</blockquote>
+
 
 Urinary Disorders
 
-4-(9d). The twenty varieties of the anomalies of urinary secretion are (1) Udakameha or hydruria (2) Ikshuvalikarasameha (ikṣuvālikārasameha) or glycosuria (3) Sandrameha (sāndrameha) or lymphuria (4) Sandraprasadameha (sāndraprasādameha) or chyluria, (5) Shuklameha (śuklameha) or bacteriuria (8) Shukrameha (śukrameha) or spermaturia. 7) Shitameha (śītameha) or phosphaturia (8) Shanairmeha (śanairmeha) or slow micturition, (9) Sikatameha (sikatāmeha) or Ethuria and (10) Lalameha (lālāmeha) or pyuria are the ten that are caused by kapha.
 
+<blockquote className="ayur-shloka">
+4-(9d). The twenty varieties of the anomalies of urinary secretion are (1) Udakameha or hydruria (2) Ikshuvalikarasameha (ikṣuvālikārasameha) or glycosuria (3) Sandrameha (sāndrameha) or lymphuria (4) Sandraprasadameha (sāndraprasādameha) or chyluria, (5) Shuklameha (śuklameha) or bacteriuria (8) Shukrameha (śukrameha) or spermaturia. 7) Shitameha (śītameha) or phosphaturia (8) Shanairmeha (śanairmeha) or slow micturition, (9) Sikatameha (sikatāmeha) or Ethuria and (10) Lalameha (lālāmeha) or pyuria are the ten that are caused by kapha.
+</blockquote>
+
+
+
+<blockquote className="ayur-shloka">
 4-(9e) (1) Ksharameha (kṣārameha) or alkalinuria. (2) Kalameha (kālameha) or melanuria (3) Nilameha (nīlameha) or indicanuria, (4) Lohitameha or hematuria, (5) Manjishthameha (mañjiṣṭhāmeha) or hemoglobinuria aud (6) Haridrameha (haridrāmeha) or coliuria are the six caused by Pitta.
+</blockquote>
+
 
 4-(9f). (1) Vasameha (vasāmeha) or lipuria, (2) Majjameha (majjāmeha) or Myelopathic albuminuria, (3) Hastimeha or incontinence of urine and (4) Madhumeha or diabetes are the four caused by Vata. These are the twenty varieties of the anomalies of urinary secretion.
 
@@ -126,7 +162,11 @@ Gynecic Diseases
 
 4-(9g). There are twenty varieties of gynecic diseases; of them four are born of the morbid humors i.e. (1) Vata (2) Pitta (3) Kapha and (4) tridiscordance.
 
+
+<blockquote className="ayur-shloka">
 4-(9). The remaining sixteen are designated in the light of associated morbid humors and causative factors. They are (1) Raktayoni or menorrhagia, (2) Arajaska or amenorrhea, (3) Acarana (acaraṇā/ācaraṇā[?]) or colpitis mycotica. (4) Aticarana (aticaraṇā) or chronic vaginitis, (5) Prakcarana (prākcaraṇā) or deflorative vaginitis, (6) Upapluta (upaplutā) or leucorrhea, (7) Paripluta (pariplutā) or acute vaginitis, (8) Udavartini (udāvartin) or dysmenorrhea, (9) Karnini (karṇin/karṇinī[?]) or endocervicitis, (10) Putraghni (putraghnī) or abortive tendency, (11) Antarmukhi (antarmukhī) or inversion of uterus, (12) Sucimukhi (sūcīmukhī) or colpo stenosis (13) Shushka (śuṣkā) or colpoxerosis, (14) Vamini (vāminī) or profluvium seminis, (15) Shandhayoni (ṣaṇḍhayoni) or pseudo uterus and (16) Mahayoni (mahāyoni) or prolapse of the uterus—these are the twenty varieties of gynecic diseases.
+</blockquote>
+
 
 4. Thus has been the whole subject described according to the order of numeration.
 

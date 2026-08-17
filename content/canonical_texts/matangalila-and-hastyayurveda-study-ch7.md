@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Metaphors regarding Elephants within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. Metaphors regarding Elephants
+## Metaphors regarding Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -95,85 +95,102 @@ In the Khajuraho inscription No.II[18] the illustrious Lakṣavarman’s enemies
 
 Elephants are fond of lotus-ponds. This characteristic of the elephants make them a part of the metaphorical consequence, such as a victorious king being described as an elephant to his enemies who were destroyed by the king like lotus pond. For example Nimbadevarasa, one feudatory of Śilāhāra king Goṇḍarāditya (Śaka era 1032 i.e. c. CE 1110-1135) at Kolhapur has been described by inscriptions as “an awful rutting elephant to the beds of lotuses, the barons of Toṇḍāi.[19]
 
-[1]:
 
-EI, Vol.I, p.64.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol.I, p.64.</div>
 
-[2]:
 
-Ibid., pp. 77 & 81.
 
-[3]:
 
-Ibid., p.89.
+<div className="footnote-card"><strong>[2]</strong> Ibid., pp. 77 & 81.</div>
 
-[4]:
 
-EI, Vol. XXXII, p.39.
 
-[5]:
 
-Ibid.,Vol. I, p.272.
+<div className="footnote-card"><strong>[3]</strong> Ibid., p.89.</div>
 
-[6]:
 
-Ibid.,Vol.II, p.165.
 
-[7]:
 
-Ibid., Vol. XX, p.45.
+<div className="footnote-card"><strong>[4]</strong> EI, Vol. XXXII, p.39.</div>
 
-[8]:
 
-EI, Vol.IV, p.302.
 
-[9]:
 
-Ibid.,Vol.VI, p.37.
+<div className="footnote-card"><strong>[5]</strong> Ibid.,Vol. I, p.272.</div>
 
-[10]:
 
-Ibid., p.11.
 
-[11]:
 
-Ibid., p.56.
+<div className="footnote-card"><strong>[6]</strong> Ibid.,Vol.II, p.165.</div>
 
-[12]:
 
-EI, Vol.VI, p.248.
 
-[13]:
 
-Ibid., Vol. XXIX,p.20.
+<div className="footnote-card"><strong>[7]</strong> Ibid., Vol. XX, p.45.</div>
 
-[14]:
 
-Ibid., Vol. XIII, p.282.
 
-[15]:
 
-Ibid., Vol. XIV, pp.304-305.
+<div className="footnote-card"><strong>[8]</strong> EI, Vol.IV, p.302.</div>
 
-[16]:
 
-Ibid, p.307.
 
-[17]:
 
-EC, Vol. V, Pt.I, p.XXV
+<div className="footnote-card"><strong>[9]</strong> Ibid.,Vol.VI, p.37.</div>
 
-[18]:
 
-EI., Vol.I, p. 133.
 
-[19]:
 
-CII, Vol.VI, p. xxxiii.
+<div className="footnote-card"><strong>[10]</strong> Ibid., p.11.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid., p.56.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> EI, Vol.VI, p.248.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Ibid., Vol. XXIX,p.20.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., Vol. XIII, p.282.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., Vol. XIV, pp.304-305.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid, p.307.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> EC, Vol. V, Pt.I, p.XXV</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> EI., Vol.I, p. 133.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> CII, Vol.VI, p. xxxiii.</div>
 
 ---
 
-## 24. Concluding Remarks
+## Concluding Remarks
 
 Matangalila and Hastyayurveda (study)
 
@@ -185,7 +202,7 @@ Using a homogenous random sampling process here in this chapter we have analysed
 
 ---
 
-## 25. Miscellaneous information regarding Elephants from epigraphic data
+## Miscellaneous information regarding Elephants from epigraphic data
 
 Matangalila and Hastyayurveda (study)
 
@@ -224,77 +241,96 @@ Bṛatsaṃhitā of Varāhamihira gives some geographical identification like Ga
 
 Following table shows a summary of above mentioned topics in a selective mode:
 
-[1]:
 
-EC, Vol. IX, Nelamangala 60
+<div className="footnote-card"><strong>[1]</strong> EC, Vol. IX, Nelamangala 60</div>
 
-[2]:
 
-H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, p.viii
 
-[3]:
 
-EC, Vol. VIII, Nagara 35
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, p.viii
+</blockquote>
 
-[4]:
 
-H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, p.ix.
 
-[5]:
 
-Mysore Archaeological Report, 1919, pp.21-24.
+<div className="footnote-card"><strong>[3]</strong> EC, Vol. VIII, Nagara 35</div>
 
-[6]:
 
-EI, Vol.XXVIII, pp. 1-11.
 
-[7]:
 
-S. Basu Majumar & Nayana Sharma Mukherjee. Essays on History of Medicine, Nasik: IIRNS Publications Pvt. Ltd., 2013, p.19.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> H.V. Nagaraja Rao. ed. & tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, p.ix.
+</blockquote>
 
-[8]:
 
-EI, Vol.V, pp. 145 & 149.
 
-[9]:
 
-Susmita Basu Majumdar and Nayana Sharma Mukherjee. Essays on History of Medicine, p.16.
+<div className="footnote-card"><strong>[5]</strong> Mysore Archaeological Report, 1919, pp.21-24.</div>
 
-[10]:
 
-Cave Temple Inscriptions, No.10. p.102.
 
-[11]:
 
-EI, Vol. XIV, p.363.
+<div className="footnote-card"><strong>[6]</strong> EI, Vol.XXVIII, pp. 1-11.</div>
 
-[12]:
 
-CII, Vol. IV, pp. 270 & 274.
 
-[13]:
 
-Malati Mahajan. Orissa: From Place Names in Inscriptions C.260B.C.-1200A.D. (Cultural and Historical Geography), Delhi: Sharada Publishing House, 2003, pp. 65-66.
+<div className="footnote-card"><strong>[7]</strong> S. Basu Majumar & Nayana Sharma Mukherjee. Essays on History of Medicine, Nasik: IIRNS Publications Pvt. Ltd., 2013, p.19.</div>
 
-[14]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, New Delhi: Abhinav Publications, 1977, p.53.
 
-[15]:
 
-Ibid., p.77.
+<div className="footnote-card"><strong>[8]</strong> EI, Vol.V, pp. 145 & 149.</div>
 
-[16]:
 
-Ibid., p.82.
 
-[17]:
 
-Ajay Mitra Shastri. India as seen in The Bṛhatsaṃhitā of Varāhamihira, Delhi: Motilal Benarsidass, 1969, p.111.
+<div className="footnote-card"><strong>[9]</strong> Susmita Basu Majumdar and Nayana Sharma Mukherjee. Essays on History of Medicine, p.16.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Cave Temple Inscriptions, No.10. p.102.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> EI, Vol. XIV, p.363.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> CII, Vol. IV, pp. 270 & 274.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Malati Mahajan. Orissa: From Place Names in Inscriptions C.260B.C.-1200A.D. (Cultural and Historical Geography), Delhi: Sharada Publishing House, 2003, pp. 65-66.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, New Delhi: Abhinav Publications, 1977, p.53.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., p.77.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid., p.82.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Ajay Mitra Shastri. India as seen in The Bṛhatsaṃhitā of Varāhamihira, Delhi: Motilal Benarsidass, 1969, p.111.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -303,10 +339,6 @@ Ajay Mitra Shastri. India as seen in The Bṛhatsaṃhitā of Varāhamihira, Del
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Use of elephants for religious purposes and rituals: Matangalila And Hastyayurveda Study Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -127,7 +127,11 @@ The Niyamas, according to the same authority, are:—
 
 “svadhyaya” (religious study)
 
+
+<blockquote className="ayur-shloka">
 and “īśvara-praṇidhana” (meditation of the Divine Being).
+</blockquote>
+
 
 [6]:
 
@@ -138,27 +142,43 @@ A Mushti measure is equal to eight Tolas.
 The eight godly powers, according to some authorities, are:—
 
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
+
+<blockquote className="ayur-shloka">
 īshitvañca vashitvañca tatha kamavasayita ||
+</blockquote>
+
 
 [8]:
 
 The allied branches of the study of the Vedas are six in num They are:—
 
 shikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
+
+<blockquote className="ayur-shloka">
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
+</blockquote>
+
 
 [9]:
 
 The eight godly powers, according to some authorities, are:—
 
 aṇima ladhima vyaptiḥ prakamyaṃ mahima tatha | 
+
+<blockquote className="ayur-shloka">
 īśitvañca vaśitvañca tatha kamavasayita ||
+</blockquote>
+
 
 [10]:
 
 The allied branches of the study of the Vedas are six in num They are:—
 
 śikṣa kalpo vyakaraṇaṃ niruktaṃ candasaṃ cayaḥ | 
+
+<blockquote className="ayur-shloka">
 jyotiṣamayanañcaiva bedaṅgani ṣadeva tu ||
+</blockquote>
+
 
 ---

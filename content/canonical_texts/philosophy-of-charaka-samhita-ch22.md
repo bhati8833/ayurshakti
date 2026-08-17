@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Moral prescriptions for healthy and happy life within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 88. Moral prescriptions for healthy and happy life
+## Moral prescriptions for healthy and happy life
 
 Philosophy of Charaka-samhita
 
@@ -27,29 +27,34 @@ It is essential to maintain the balance of both mind and sense organs. For this 
 
 It may not be improper to refer to Caraka's opinion of social hierarchy. In connection with the description of practices that is to be followed for the procreation of the desired child he describes the due rites that should be performed by women belonging to each varṇa, namely brāhmin, kṣatriya and vaiśya. He also reminds us that a śūdra woman should offer only obeiscence to the gods, fire, brāhmins, preceptors, and those who have attained perfection.[5] This shows that Caraka did not dishonour the social hierarchy. But it does not in any way harm his humanitarian conceptions. It is not because of sectarian thoughts that he refers to such customs, but because he believed in the potency of one's karma to ordain for him pleasure and pain according to the good or bad actions one does. So the assumption of inequality of men is sought to be justified on the basis of the law of karma which traces these inequalities of the present life to the actions of different selves in their past lives.
 
-[1]:
 
-CS, Su, VII. 26-29.
+<div className="footnote-card"><strong>[1]</strong> CS, Su, VII. 26-29.</div>
 
-[2]:
 
-Ibid., 56-59.
 
-[3]:
 
-Ibid., 38.
+<div className="footnote-card"><strong>[2]</strong> Ibid., 56-59.</div>
 
-[4]:
 
-Ibid., VIII. 18.
 
-[5]:
 
-See, CS, Śārīra - sthāna, VIII. 10-14.
+<div className="footnote-card"><strong>[3]</strong> Ibid., 38.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., VIII. 18.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> See, CS, Śārīra - sthāna, VIII. 10-14.
+</blockquote>
 
 ---
 
-## 89. General outlook of morality
+## General outlook of morality
 
 Philosophy of Charaka-samhita
 
@@ -93,101 +98,140 @@ Similarly, in the philosophy, merit (dharma) and demerit (adharma) are the quali
 
 Thus, we see a transition in the concept of ethics in the philosophical systems. Karma was given a new interpretation. In spite of the differences in their world outlook, they were more or less unanimous in reinterpreting karma. If karma formerly stood for ritual action and social duties, the new meaning it acquired was action prompted by intention. Thus, intention became absolutely essential for constituting rightness and wrongness, and naturally the purification of mind attained prime position in ethical conceptions. In spite of the differences, all are unanimous in the basic postulation of ultimate values. All of them accept the ethical values of exclusion of envy, hatred, covetousness, wickedness, and the practice of humility, charity, love, greatfulness, sympathy, and self sacrifice.
 
-[1]:
 
-CIET, p. 2.
+<div className="footnote-card"><strong>[1]</strong> CIET, p. 2.</div>
 
-[2]:
 
-Ibid., p. 6.
 
-[3]:
 
-Ibid., p. 2.
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 6.</div>
 
-[4]:
 
-Ibid., p. 6.
 
-[5]:
 
-Ibid., p. 2.
+<div className="footnote-card"><strong>[3]</strong> Ibid., p. 2.</div>
 
-[6]:
 
-W.K. Frankena, “The Concept of Morality”, Readings in Contemporary Ethical Theory, ed., Pahel & Schiller, Prentice Hall, Inc., Englewood Cliffs, New Jersey, 1970, p. 6.
 
-[7]:
 
-The Sanskrit terms for the notions are dharma, artha, kāma, and mokṣa. Among them artha usually refer to material prosperity;kāma, refers to sexual relations and incidentally to aesthetic values; Dharma is said to have to do with one's duty to family, caste, or class, and mokṣa to complete freedom. KHP, p. 6.
+<div className="footnote-card"><strong>[4]</strong> Ibid., p. 6.</div>
 
-[8]:
 
-“vedo dharmamūlaṃ”, Gautamadharmasūtra I. 1. “vedo'khilo dharmamūlaṃ”, Manusmṛti., II. 6.
 
-[9]:
 
-AHM, p. 2.
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 2.</div>
 
-[10]:
 
-BT, p. 18.
 
-[11]:
 
-tadvidāṃ ca smṛtiśīle, Gautamadharmasūtra, I. 1.; smṛtiśīle ca tadvidāṃ, Manusmṛti., II. 6; dharmaśastraṃ to vai smṛtiḥ, Ibid., II. 10.
+<div className="footnote-card"><strong>[6]</strong> W.K. Frankena, “The Concept of Morality”, Readings in Contemporary Ethical Theory, ed., Pahel & Schiller, Prentice Hall, Inc., Englewood Cliffs, New Jersey, 1970, p. 6.</div>
 
-[12]:
 
-CIET,p. 51.
 
-[13]:
 
-“śrutismṛtyuditaṃ dharma”, Laghu Yama Smṛti, 1; Aṣṭādaśasmṛti., p. 172 śrutismṛtiśca viprāṇāṃ nayane dve prakīrtite, Atrisaṃhitā, 349, Aṣṭādaśasmṛti., p. 54.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The Sanskrit terms for the notions are dharma, artha, kāma, and mokṣa. Among them artha usually refer to material prosperity;kāma, refers to sexual relations and incidentally to aesthetic values; Dharma is said to have to do with one's duty to family, caste, or class, and mokṣa to complete freedom. KHP, p. 6.
+</blockquote>
 
-[14]:
 
-AHM, pp.73-74.
 
-[15]:
 
-BT, p.15
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> “vedo dharmamūlaṃ”, Gautamadharmasūtra I. 1. “vedo'khilo dharmamūlaṃ”, Manusmṛti., II. 6.
+</blockquote>
 
-[16]:
 
-Manusmṛti., II. 10, 11.
 
-[17]:
 
-Kumārilabhaṭṭa, Ślokavārtika, Eng., Trans., Ganganath Jha, p.242-243. Cited in CIET, p. 20.
+<div className="footnote-card"><strong>[9]</strong> AHM, p. 2.</div>
 
-[18]:
 
-dharmatattvaṃ hi gahanamataḥ satsevitaṃ naraḥ śrutismṛtipurāṇānāṃ karma kuryād vicakṣaṇaḥ. Śukranītisāra of Śukrācārya, with elucidative notes by Jīvānandavidyāsāgara Bhaṭṭācārya, Nārāyaṇa Press, Kalikālatārajaghanī, 1890, III. 39.
 
-[19]:
 
-Mahābhārata., Apaddharma, 132, 2.
+<div className="footnote-card"><strong>[10]</strong> BT, p. 18.</div>
 
-[20]:
 
-CIET, pp. 63-64 21 BT, p.72.
 
-[21]:
 
-CIET, p. 60.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> tadvidāṃ ca smṛtiśīle, Gautamadharmasūtra, I. 1.; smṛtiśīle ca tadvidāṃ, Manusmṛti., II. 6; dharmaśastraṃ to vai smṛtiḥ, Ibid., II. 10.
+</blockquote>
 
-[22]:
 
-Ibid., p. 27.
 
-[23]:
 
-CS, Śārīra - sthāna, V. 9 iccādveṣajanite pravṛttinivṛttī prayatnaviśeṣau tābhyāṃ ca hitāhitaprāptiparihāraphale śarīra karmani ceṣṭālakṣāṇe janyate. Śaṅkaramiśra on Vaiśeṣikadarśana., III. I. 19, Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 231 -232.
+<div className="footnote-card"><strong>[12]</strong> CIET,p. 51.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> “śrutismṛtyuditaṃ dharma”, Laghu Yama Smṛti, 1; Aṣṭādaśasmṛti., p. 172 śrutismṛtiśca viprāṇāṃ nayane dve prakīrtite, Atrisaṃhitā, 349, Aṣṭādaśasmṛti., p. 54.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> AHM, pp.73-74.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> BT, p.15</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Manusmṛti., II. 10, 11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Kumārilabhaṭṭa, Ślokavārtika, Eng., Trans., Ganganath Jha, p.242-243. Cited in CIET, p. 20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> dharmatattvaṃ hi gahanamataḥ satsevitaṃ naraḥ śrutismṛtipurāṇānāṃ karma kuryād vicakṣaṇaḥ. Śukranītisāra of Śukrācārya, with elucidative notes by Jīvānandavidyāsāgara Bhaṭṭācārya, Nārāyaṇa Press, Kalikālatārajaghanī, 1890, III. 39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Mahābhārata., Apaddharma, 132, 2.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> CIET, pp. 63-64 21 BT, p.72.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> CIET, p. 60.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., p. 27.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> CS, Śārīra - sthāna, V. 9 iccādveṣajanite pravṛttinivṛttī prayatnaviśeṣau tābhyāṃ ca hitāhitaprāptiparihāraphale śarīra karmani ceṣṭālakṣāṇe janyate. Śaṅkaramiśra on Vaiśeṣikadarśana., III. I. 19, Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 231 -232.
+</blockquote>
 
 ---
 
-## 90. Medical ethics [in Charaka philosophy]
+## Medical ethics [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -199,41 +243,57 @@ The most striking aspect of Caraka’s ethics is that he was highly conscious of
 
 He repeatedly insists on the quality of the head and the heart and the need to be careful about giving quarter to quacks, imposters and charlatans. It is better to die rather than to be treated by a quack physician.[5] Such physicians who take away the life instead of diseases are called rogābhisāras.[6] The physician should show compassion towards the ailing, should have devotion to patients who can be cured, but be detached from the dying patients.[7] Genuine physicians are saviours of life (prāṇābhisāras).[8]
 
-[1]:
 
-vidyā vitarko vijñānaṃ smṛtistatparatā kriyā yasyaite ca ṣaḍguṇāstasya na sādhyamativartate, CS. Su, IX. 21. See also ibid., 5.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> vidyā vitarko vijñānaṃ smṛtistatparatā kriyā yasyaite ca ṣaḍguṇāstasya na sādhyamativartate, CS. Su, IX. 21. See also ibid., 5.
+</blockquote>
 
-[2]:
 
-Ibid., II. 36.
 
-[3]:
 
-Ibid., I. 126-127.
+<div className="footnote-card"><strong>[2]</strong> Ibid., II. 36.</div>
 
-[4]:
 
-Ibid., I. 130.
 
-[5]:
 
-varamātmā huto'jñena na cikitsā pravartitā, Ibid, IX. 15.
+<div className="footnote-card"><strong>[3]</strong> Ibid., I. 126-127.</div>
 
-[6]:
 
-ato viparītā rogāṇāmabhisarā hantāraḥ prāṇānāṃ, bhiṣakcchadmapraticchannāḥ..., Ibid., XXIX, 8.
 
-[7]:
 
-maitrī, kāruṇyamārteṣu śakye prītirupekṣaṇaṃ prakṛtistheṣu bhūteṣu vaidyavṛtiścaturvidheti, Ibid., IX, 26.
+<div className="footnote-card"><strong>[4]</strong> Ibid., I. 130.</div>
 
-[8]:
 
-tasmācchastre'rthavijñāne pravṛttau karmadarśane bhiṣak catuṣṭaye yuktaḥ prāṇābhisaraḥ uchyate, Ibid., IX. 18.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> varamātmā huto'jñena na cikitsā pravartitā, Ibid, IX. 15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> ato viparītā rogāṇāmabhisarā hantāraḥ prāṇānāṃ, bhiṣakcchadmapraticchannāḥ..., Ibid., XXIX, 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> maitrī, kāruṇyamārteṣu śakye prītirupekṣaṇaṃ prakṛtistheṣu bhūteṣu vaidyavṛtiścaturvidheti, Ibid., IX, 26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> tasmācchastre'rthavijñāne pravṛttau karmadarśane bhiṣak catuṣṭaye yuktaḥ prāṇābhisaraḥ uchyate, Ibid., IX. 18.
+</blockquote>
 
 ---
 
-## 91. Theory of karma
+## Theory of karma
 
 Philosophy of Charaka-samhita
 
@@ -265,89 +325,131 @@ It is one’s knowledge that determines the way of life. One is able to retain o
 
 The conceptions of these three fundamental motives as the basic instincts of all actions and the classification of karma into daiva and pauruṣa are something peculiar to Caraka and it differentiates Carakasaṃhitā from all other systems of Indian philosophy. Probably it is the daiva that determines one's basic instincts and so it can be equated with the unseen (adṛṣṭa / dharma and adharma) in the Vaiśeṣika - sūtra.
 
-[1]:
 
-vide supra, p. 55.
+<div className="footnote-card"><strong>[1]</strong> vide supra, p. 55.</div>
 
-[2]:
 
-The conception of action as being prompted by volition is akin to the concepts of karma in Buddhism and Nyāya.
 
-[3]:
 
-mohecchādveṣakarmamūlā pravṛthiḥ, CS, Śārīra - sthāna, V. 10.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The conception of action as being prompted by volition is akin to the concepts of karma in Buddhism and Nyāya.
+</blockquote>
 
-[4]:
 
-icchādveṣātmikā tṛṣṇā, CS, Śārīra - sthāna, I. 134.
 
-[5]:
 
-upadhā hi paro heturduḥkhāduḥkhāśrayapradaḥ, Ibid., 95.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> mohecchādveṣakarmamūlā pravṛthiḥ, CS, Śārīra - sthāna, V. 10.
+</blockquote>
 
-[6]:
 
-The word upadhā is being interpreted by Cakrapāṇi as tṛṣṇa. In Buddhist tradtion tṛṣṇa is conceived as the origin of suffering, BT, p. 43.
 
-[7]:
 
-see BT, p. 43.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> icchādveṣātmikā tṛṣṇā, CS, Śārīra - sthāna, I. 134.
+</blockquote>
 
-[8]:
 
-pravartanālakṣaṇā doṣāḥ, Nyāyasūtra., I. i. 18.
 
-[9]:
 
-tatrairāśyaṃ - rāgadveṣamohārthāntharabhāvāt, Nyāyasūtra., IV. I. 3.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> upadhā hi paro heturduḥkhāduḥkhāśrayapradaḥ, Ibid., 95.
+</blockquote>
 
-[10]:
 
-bhāvadoṣo upadhā'doṣo'nupadhā, Vaiśeṣikadarśana., VI. II. 4. see also Śaṅkaramiśra on it. Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 350.
 
-[11]:
 
-prayatnaḥ saṃraṃbhaḥ, utsāhaḥ, iti paryāyāḥ. sa dvividhaḥjīvanapūrvaka, icchādveṣapūrvakaśca, Praśastapādabhāṣya., p. 638.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The word upadhā is being interpreted by Cakrapāṇi as tṛṣṇa. In Buddhist tradtion tṛṣṇa is conceived as the origin of suffering, BT, p. 43.
+</blockquote>
 
-[12]:
 
-daivam purā yat kṛtamucyate tat tat pauruṣaṃ yattuviha karma dṛṣṭaṃ, CS, Śārīra - sthāna, II. 44, Vimāna - sthāna. III. 29-30; Cikitsa - sthāna. III, 33. pauruṣaṃ karma daivaṃ ca phalavṛttisvabhāvataḥ, Mahābhārata., Mokṣa, 224.51
 
-[13]:
 
-CS, Sa,VI. 28.
+<div className="footnote-card"><strong>[7]</strong> see BT, p. 43.</div>
 
-[14]:
 
-Ibid., I. 77.
 
-[15]:
 
-For details see CS, Su, XI. 3- 6.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> pravartanālakṣaṇā doṣāḥ, Nyāyasūtra., I. i. 18.
+</blockquote>
 
-[16]:
 
-Loc. cit., F. Note 32.
 
-[17]:
 
-For details see CS, Su, XI. 39-40.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> tatrairāśyaṃ - rāgadveṣamohārthāntharabhāvāt, Nyāyasūtra., IV. I. 3.
+</blockquote>
 
-[18]:
 
-dhīdhṛtismṛtivibhraṣṭaḥ karma yat kurute'śubhaṃ prajñāparādhaṃ taṃ vidyāt sarvadoṣaprakopaṇaṃ, CS, Śārīra - sthāna, I. 102.
 
-[19]:
 
-īrṣyāśokabhayakrodhamānadveṣādayaśca ye manovikārāste'pyu-ktāḥ sarve prajñāparādhajāḥ, CS, Su,VII. 52.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> bhāvadoṣo upadhā'doṣo'nupadhā, Vaiśeṣikadarśana., VI. II. 4. see also Śaṅkaramiśra on it. Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 350.
+</blockquote>
 
-[20]:
 
-tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñānaṃ sadvṛttasyānuvartanaṃ, Ibid., 53.
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> prayatnaḥ saṃraṃbhaḥ, utsāhaḥ, iti paryāyāḥ. sa dvividhaḥjīvanapūrvaka, icchādveṣapūrvakaśca, Praśastapādabhāṣya., p. 638.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> daivam purā yat kṛtamucyate tat tat pauruṣaṃ yattuviha karma dṛṣṭaṃ, CS, Śārīra - sthāna, II. 44, Vimāna - sthāna. III. 29-30; Cikitsa - sthāna. III, 33. pauruṣaṃ karma daivaṃ ca phalavṛttisvabhāvataḥ, Mahābhārata., Mokṣa, 224.51
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> CS, Sa,VI. 28.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., I. 77.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> For details see CS, Su, XI. 3- 6.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Loc. cit., F. Note 32.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> For details see CS, Su, XI. 39-40.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> dhīdhṛtismṛtivibhraṣṭaḥ karma yat kurute'śubhaṃ prajñāparādhaṃ taṃ vidyāt sarvadoṣaprakopaṇaṃ, CS, Śārīra - sthāna, I. 102.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> īrṣyāśokabhayakrodhamānadveṣādayaśca ye manovikārāste'pyu-ktāḥ sarve prajñāparādhajāḥ, CS, Su,VII. 52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñānaṃ sadvṛttasyānuvartanaṃ, Ibid., 53.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -356,10 +458,6 @@ tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñ
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Liberation (mokṣa) as the ultimate moral end: Philosophy Of Charaka Samhita Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

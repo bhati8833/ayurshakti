@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Incineration of Makshika within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Part 3 - Incineration of Makshika
+## Part 3 - Incineration of Makshika
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -41,9 +41,10 @@ Fifth process.
 
 Purified makshika is to be rubbed with the juice of kumari, made into cakes, dried, and then subjected to kukkuta-puta for twenty seven times, which make it like nectar.
 
-[1]:
 
-Kroda-puta is another name for labaka-puta (see page 298, vol I).
+<div className="footnote-card"><strong>[1]</strong> Kroda-puta is another name for labaka-puta (see page 298, vol I).</div>
+
+
 
 Conclusion:
 
@@ -51,7 +52,7 @@ This concludes ‘Incineration of Makshika’ included in Bhudeb Mookerjee Rasa 
 
 ---
 
-## 17. Part 4 - Extraction of essence of Makshika
+## Part 4 - Extraction of essence of Makshika
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -83,7 +84,7 @@ This concludes ‘Extraction of essence of Makshika’ included in Bhudeb Mooker
 
 ---
 
-## 18. Chapter III - Uparasa (3): Bimala or Vimala (pyrites with red tints)
+## Chapter III - Uparasa (3): Bimala or Vimala (pyrites with red tints)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -93,15 +94,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter III - Uparasa (3): Bimala or Vimala (pyrites with red tints)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (3): Bimala or Vimala (pyrites with red tints)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 19. Part 1 - Characteristics of Bimala or Vimala (pyrites with red tints)
+## Part 1 - Characteristics of Bimala or Vimala (pyrites with red tints)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -119,7 +118,7 @@ This concludes ‘Characteristics of Bimala or Vimala (pyrites with red tints)�
 
 ---
 
-## 20. Part 2 - Purification of Bimala
+## Part 2 - Purification of Bimala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -161,8 +160,6 @@ This concludes ‘Purification of Bimala’ included in Bhudeb Mookerjee Rasa Ja
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -170,10 +167,6 @@ This concludes ‘Purification of Bimala’ included in Bhudeb Mookerjee Rasa Ja
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Incineration of bimala: Rasa Jala Nidhi Volume 2 Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

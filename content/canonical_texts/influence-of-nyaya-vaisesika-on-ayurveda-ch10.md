@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 9. The periods and development of inter-related Nyaya-Vaisesika within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. 9. The periods and development of inter-related Nyaya-Vaisesika
+## 9. The periods and development of inter-related Nyaya-Vaisesika
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -43,8 +43,6 @@ in the simplest language. The Bhasa-paricheda, the Tarka Samgraha and Tarkamrta,
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -52,10 +50,6 @@ in the simplest language. The Bhasa-paricheda, the Tarka Samgraha and Tarkamrta,
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">11. Origin and Antiquity of Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

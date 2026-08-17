@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The nursing and management of pregnant women within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. Chapter X - The nursing and management of pregnant women
+## Chapter X - The nursing and management of pregnant women
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -245,77 +245,89 @@ Thus ends the tenth Chapter of the Sharira Sthana in the Sushruta Samhita, which
 
 Here ends the Sharira Sthana.
 
-[1]:
 
-Caitya—is a haunted or diefied tree, or according to others a Budhistic monastery.
+<div className="footnote-card"><strong>[1]</strong> Caitya—is a haunted or diefied tree, or according to others a Budhistic monastery.</div>
 
-[2]:
 
-“Hridya” here means the diet in which there is an abundance of Ojo-producing (albuminous) properties.
 
-[3]:
 
-The various forms of (Pratiloma) abnormal presentations have been described under Mudha-Garbha Nidana (Nidan-Sthana—Chap. IX.) and their treatment is to be found in Chikitsa-Sthana—Chap. XV.
+<div className="footnote-card"><strong>[2]</strong> “Hridya” here means the diet in which there is an abundance of Ojo-producing (albuminous) properties.</div>
 
-[4]:
 
-Brahmadeva recommends Vala-Taila instead of clarified butter.
 
-[5]:
 
-Fifteen kinds of emotions as described in the thirty-ninth chapter of the Chikitsa-sthana.
+<div className="footnote-card"><strong>[3]</strong> The various forms of (Pratiloma) abnormal presentations have been described under Mudha-Garbha Nidana (Nidan-Sthana—Chap. IX.) and their treatment is to be found in Chikitsa-Sthana—Chap. XV.</div>
 
-[6]:
 
-Milk and clarified butter being congenial to the constitution of infants should be used as vehicles for drugs in their cases but, these are not necessary in the case of the nurse.
 
-[7]:
 
-According to several other authorities, the dosage in the case of children is to be regulated as follows:—
+<div className="footnote-card"><strong>[4]</strong> Brahmadeva recommends Vala-Taila instead of clarified butter.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Fifteen kinds of emotions as described in the thirty-ninth chapter of the Chikitsa-sthana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Milk and clarified butter being congenial to the constitution of infants should be used as vehicles for drugs in their cases but, these are not necessary in the case of the nurse.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> According to several other authorities, the dosage in the case of children is to be regulated as follows:—</div>
+
+
 
 In the case of a child, one month old, drugs should be given in the form of an electuary through the vehicle of milk, honey, syrup, clarified butter, etc,—the dose being one Rati (about two grains) at first, and gradually increased by a Rati a month, till it completes one year. After this time the dose is to be one Masha (about twenty grains) for each year of age till he is fifteen.
 
 This dosage, however, does not apply in the present age.—Ed.
 
-[8]:
 
-Jivaniya drugs two Tolas, milk sixteen Tolas and water sixty-four Tolas, to be boiled and reduced to sixteen Tolas, i.e., to weight of the milk.
+<div className="footnote-card"><strong>[8]</strong> Jivaniya drugs two Tolas, milk sixteen Tolas and water sixty-four Tolas, to be boiled and reduced to sixteen Tolas, i.e., to weight of the milk.</div>
 
-[9]:
 
-There is a kind of insect which makes its chamber with earth generally under the ceiling or on the walls. This earth should be used.
 
-[10]:
 
-“Kulmasha” may mean either Kulattha pulse or half boiled wheat, barley, etc.
+<div className="footnote-card"><strong>[9]</strong> There is a kind of insect which makes its chamber with earth generally under the ceiling or on the walls. This earth should be used.</div>
 
-[11]:
 
-The panicle “ca” in the text signifies the use of any other constructive tonic.
 
-[12]:
 
-Chakradatta reads “Visam” (stalks of lotus) instead of “Ghrita” (clarified butter).
+<div className="footnote-card"><strong>[10]</strong> “Kulmasha” may mean either Kulattha pulse or half boiled wheat, barley, etc.</div>
 
-[13]:
 
-If a conception does not occur in a woman for a period of more than five years after a child-birth, she is called Nivritta prasava.
 
-[14]:
 
-Sivadasa also says that powders of these drugs should be given with boiled milk, but he adds that some authorities recommend the? ae drugs to be boiled in milk according to Kshira-paka-vidhi.
+<div className="footnote-card"><strong>[11]</strong> The panicle “ca” in the text signifies the use of any other constructive tonic.</div>
 
-[15]:
 
-Some, however, explain Matsyakshaka to be Dhustura; others again say it is a kind of red-flowered shrub grown in the Anupa country.
 
-[16]:
 
-The word “Shveta,” in the Text, may either be adjective to “Durva” and mean “white” or it may mean white Vaca or white Aparajita or white Durva.
+<div className="footnote-card"><strong>[12]</strong> Chakradatta reads “Visam” (stalks of lotus) instead of “Ghrita” (clarified butter).</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> If a conception does not occur in a woman for a period of more than five years after a child-birth, she is called Nivritta prasava.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Sivadasa also says that powders of these drugs should be given with boiled milk, but he adds that some authorities recommend the? ae drugs to be boiled in milk according to Kshira-paka-vidhi.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Some, however, explain Matsyakshaka to be Dhustura; others again say it is a kind of red-flowered shrub grown in the Anupa country.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> The word “Shveta,” in the Text, may either be adjective to “Durva” and mean “white” or it may mean white Vaca or white Aparajita or white Durva.</div>
 
 ---
-
-
 
 ---
 
@@ -324,10 +336,6 @@ The word “Shveta,” in the Text, may either be adjective to “Durva” and m
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Training of Elephants within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 45. Training of Elephants
+## Training of Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -90,141 +90,192 @@ The capturing and taming of wild elephants, the training of these animals for wa
 
 It is difficult to assume where did the idea originate? According to Shastri it may be Bengal which first subdued and tamed these huge beasts. The country which is bounded on the one side by the Himalaya and on two other sides by the Lauhitya and the Sea gave birth to what is called the “Hastividyā”, or the science about elephants. It was here that a great man (Pālakāpya) flourished, who from his childhood associated with elephants, moving, walking, living and eating with these beasts, nursing and treating them during their illness, serving them in every possible way, and, in a word, transforming himself into an elephant. He was, in turn loved, served and fed by these animals and nursed by them when he was ill.[33]
 
-[1]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha gajaśikṣaṇam), p.148.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha gajaśikṣaṇam), p.148.
+</blockquote>
 
-[2]:
 
-“prākṛtābhiśca bhāṣābhiḥ deśabhāṣābhireva ca I Karmāvabodhakābhistu vāraṇaṃ pratibodhayet II” Ibid., v. 4.
 
-[3]:
 
-Ibid., v. 5.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “prākṛtābhiśca bhāṣābhiḥ deśabhāṣābhireva ca I Karmāvabodhakābhistu vāraṇaṃ pratibodhayet II” Ibid., v. 4.
+</blockquote>
 
-[4]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 105 -112.
 
-[5]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 36. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 105.
+<div className="footnote-card"><strong>[3]</strong> Ibid., v. 5.</div>
 
-[6]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 105 and T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 36-37.
 
-[7]:
 
-Ibid., pp. 105-106 and p. 37, respectively.
+<div className="footnote-card"><strong>[4]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 105 -112.</div>
 
-[8]:
 
-Ibid., p. 107and pp. 37-38, respectively.
 
-[9]:
 
-Ibid., pp. 107-108 and p. 38, respectively.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 36. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 105.
+</blockquote>
 
-[10]:
 
-Ibid., p. 108 and p. 38, respectively.
 
-[11]:
 
-Ibid., pp. 108-109 and pp. 38-39, respectively.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 105 and T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, pp. 36-37.
+</blockquote>
 
-[12]:
 
-Ibid., p. 109 and p. 39, respectively.
 
-[13]:
 
-Ibid., p. 110 and p. 39, respectively.
+<div className="footnote-card"><strong>[7]</strong> Ibid., pp. 105-106 and p. 37, respectively.</div>
 
-[14]:
 
-Ibid.
 
-[15]:
 
-Ibid.
+<div className="footnote-card"><strong>[8]</strong> Ibid., p. 107and pp. 37-38, respectively.</div>
 
-[16]:
 
-Ibid., pp. 110-111 and p. 40, respectively.
 
-[17]:
 
-., p. 111 and p. 40, respectively.
+<div className="footnote-card"><strong>[9]</strong> Ibid., pp. 107-108 and p. 38, respectively.</div>
 
-[18]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p. 105.
 
-[19]:
 
-Ibid.
+<div className="footnote-card"><strong>[10]</strong> Ibid., p. 108 and p. 38, respectively.</div>
 
-[20]:
 
-Ibid., v. 5-8, p.106.
 
-[21]:
 
-Ibid., v. 8-12, pp. 106-107.
+<div className="footnote-card"><strong>[11]</strong> Ibid., pp. 108-109 and pp. 38-39, respectively.</div>
 
-[22]:
 
-Ibid., v. 13-19, pp. 107-108.
 
-[23]:
 
-Ibid., v. 144, p. 127.
+<div className="footnote-card"><strong>[12]</strong> Ibid., p. 109 and p. 39, respectively.</div>
 
-[24]:
 
-, v. 145-147, p. 128.
 
-[25]:
 
-Ibid., v. 148-150.
+<div className="footnote-card"><strong>[13]</strong> Ibid., p. 110 and p. 39, respectively.</div>
 
-[26]:
 
-Ibid., v. 150-151.
 
-[27]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 10, p. 178.
+<div className="footnote-card"><strong>[14]</strong> Ibid.</div>
 
-[28]:
 
-Ibid., (daśamaṃ prakaraṇaṃ: atha pādapraṇidhayaḥ), v.20-25, pp. 108-109.
 
-[29]:
 
-Ibid., (daśamaṃ prakaraṇaṃ:atha vākpraṇidhayaḥ), v. 26-29, pp. 109-110.
+<div className="footnote-card"><strong>[15]</strong> Ibid.</div>
 
-[30]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 12.
 
-[31]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajārohaṇalakṣaṇam), v. 1-5, p. 149.
+<div className="footnote-card"><strong>[16]</strong> Ibid., pp. 110-111 and p. 40, respectively.</div>
 
-[32]:
 
-J. Schliesinger. Elephants in Thailand, Through the Ages, Vol.2, Bangkok: White Lotus Co. Ltd., 2012, p.10.
 
-[33]:
 
-Haraprasad Shastri. ‘Contributions of Bengal to Hindu Civilization’, Journal of the Bihar and Orissa Research Society, Vol. 5, Part III, 1919, p. 310.
+<div className="footnote-card"><strong>[17]</strong> ., p. 111 and p. 40, respectively.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p. 105.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., v. 5-8, p.106.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., v. 8-12, pp. 106-107.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., v. 13-19, pp. 107-108.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid., v. 144, p. 127.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> , v. 145-147, p. 128.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Ibid., v. 148-150.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Ibid., v. 150-151.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajahāropayuktapadārthaguṇapramāṇabidhiḥ), v. 10, p. 178.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Ibid., (daśamaṃ prakaraṇaṃ: atha pādapraṇidhayaḥ), v.20-25, pp. 108-109.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Ibid., (daśamaṃ prakaraṇaṃ:atha vākpraṇidhayaḥ), v. 26-29, pp. 109-110.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 12.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajārohaṇalakṣaṇam), v. 1-5, p. 149.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> J. Schliesinger. Elephants in Thailand, Through the Ages, Vol.2, Bangkok: White Lotus Co. Ltd., 2012, p.10.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> Haraprasad Shastri. ‘Contributions of Bengal to Hindu Civilization’, Journal of the Bihar and Orissa Research Society, Vol. 5, Part III, 1919, p. 310.</div>
 
 ---
 
-## 46. Chapter 4
+## Chapter 4
 
 Matangalila and Hastyayurveda (study)
 
@@ -232,11 +283,9 @@ This page relates ‘Chapter 4’ of the study on the Matangalina and Hastyayurv
 
 Chapter 4
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 47. Concluding Remarks
+## Concluding Remarks
 
 Matangalila and Hastyayurveda (study)
 
@@ -250,8 +299,6 @@ Thus we have also discussed the several parameters which decided the elephant’
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -259,10 +306,6 @@ Thus we have also discussed the several parameters which decided the elephant’
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Eight noble Elephants (aṣṭadiggajas): Matangalila And Hastyayurveda Study Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

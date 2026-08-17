@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Description of Medicinal plants within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. 7. Description of Medicinal plants
+## 7. Description of Medicinal plants
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ disorders. Prsniparni Sayana interpreted it as Citraparni Ousadhi (a plant havin
 
 ---
 
-## 13. 11. Rxamples of Hygienic rules in Manusmrti
+## 11. Rxamples of Hygienic rules in Manusmrti
 
 Surgery in ancient India (Study)
 
@@ -37,7 +37,7 @@ EXAMPLES OF HYGIENIC RULES IN MANUSMRTI—Don't take bath after eating, One shou
 
 ---
 
-## 14. 14. Ayurveda in Kautilya's Arthasastra
+## 14. Ayurveda in Kautilya's Arthasastra
 
 Surgery in ancient India (Study)
 
@@ -57,8 +57,6 @@ Mourya the Government has taken utmost care regarding public health and was also
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ Mourya the Government has taken utmost care regarding public health and was also
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">15. Ayurveda and Panini: Ancient Indian Surgical Science Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

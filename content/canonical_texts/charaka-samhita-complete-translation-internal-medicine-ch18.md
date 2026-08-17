@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The therapeutics of Abdominal Disease (udara-cikitsa) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 102. Chapter 13 - The therapeutics of Abdominal Disease (udara-cikitsa)
+## Chapter 13 - The therapeutics of Abdominal Disease (udara-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -335,7 +335,7 @@ Summary
 
 ---
 
-## 103. Chapter 15 - The therapeutics of Assimilation disorders (grahani-dosha-cikitsa)
+## Chapter 15 - The therapeutics of Assimilation disorders (grahani-dosha-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -723,7 +723,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 104. Chapter 16 - The therapeutics of Anemia (panduroga-cikitsa)
+## Chapter 16 - The therapeutics of Anemia (panduroga-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -923,7 +923,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 105. Chapter 17 - The therapeutics of Hiccup and Dyspnea (hikka-shvasa-cikitsa)
+## Chapter 17 - The therapeutics of Hiccup and Dyspnea (hikka-shvasa-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1167,7 +1167,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 106. Chapter 18 - The therapeutics of Cough Disorder (kasa-cikitsa)
+## Chapter 18 - The therapeutics of Cough Disorder (kasa-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1477,7 +1477,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 107. Chapter 19 - The therapeutics of Diarrhea (atisara-cikitsa)
+## Chapter 19 - The therapeutics of Diarrhea (atisara-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1727,8 +1727,6 @@ Here is the recapitulatory verse.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1736,10 +1734,6 @@ Here is the recapitulatory verse.
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">The therapeutics of Acute Spreading Affections (visarpa-cikitsa): Charaka Samhita Complete Translation Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

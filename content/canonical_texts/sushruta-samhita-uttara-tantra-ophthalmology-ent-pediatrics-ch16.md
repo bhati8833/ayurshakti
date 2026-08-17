@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms and Treatment of Hemorrhage (Rakta-pitta) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)
+## Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -95,33 +95,45 @@ Urethral-injections composed of the aforesaid drugs should be applied (after the
 
 Thus ends the forty-fifth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with (the symptoms and) the medical treatment of Rakta-pitta.
 
-[1]:
 
-Both Cakrapāni and Vrinda read “hṛtapāṇ?ugrahaṇī etc.” i.e., they say that it may bring on an attack of heart-disease also.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Both Cakrapāni and Vrinda read “hṛtapāṇ?ugrahaṇī etc.” i.e., they say that it may bring on an attack of heart-disease also.
+</blockquote>
 
-[2]:
 
-Both Cakrapāni and Vrinda read “ūrddhaṃ pravṛddhadoṣasya” i.e., in cases of upward emission. There is also another variant “ūrddhaṃ pravṛddhadoṣasya” i.e., in cases of excessive upward emission or in cases where a good deal of the vitiated Doshas takes an upward course.
 
-[3]:
 
-Additional Text:—Meat-essence (Rasa) and soup (Yusha) seasoned with clarified butter prepared from cow’s milk.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Both Cakrapāni and Vrinda read “ūrddhaṃ pravṛddhadoṣasya” i.e., in cases of upward emission. There is also another variant “ūrddhaṃ pravṛddhadoṣasya” i.e., in cases of excessive upward emission or in cases where a good deal of the vitiated Doshas takes an upward course.
+</blockquote>
 
-[4]:
 
-Dallana takes only Durbā and Vata under one rccipt. Some commentators would prescribe all these together under one recipt.
 
-[5]:
 
-Kālānjana is a variant, in place of Lāja and Anjana. For Kālānjana Dallana reads Sauvirānjana. This should be the proper reading because there is a word in the receipe which shows that there will be only one thing and not two.
+<div className="footnote-card"><strong>[3]</strong> Additional Text:—Meat-essence (Rasa) and soup (Yusha) seasoned with clarified butter prepared from cow’s milk.</div>
 
-[6]:
 
-Śrikantha Datta, the commentator of Vrinda, would mix sugar with the juice of sugar-cane only and not with the other two. All these should be applied into the nostrils.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Dallana takes only Durbā and Vata under one rccipt. Some commentators would prescribe all these together under one recipt.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Kālānjana is a variant, in place of Lāja and Anjana. For Kālānjana Dallana reads Sauvirānjana. This should be the proper reading because there is a word in the receipe which shows that there will be only one thing and not two.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Śrikantha Datta, the commentator of Vrinda, would mix sugar with the juice of sugar-cane only and not with the other two. All these should be applied into the nostrils.</div>
 
 ---
 
-## 49. Chapter XLVI - Symptoms and Treatment of Fainting fits (Murccha)
+## Chapter XLVI - Symptoms and Treatment of Fainting fits (Murccha)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -179,17 +191,21 @@ The patient should be tried to be roused up with the application of strong eye-s
 
 Thus ends the forty-sixth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Murccha.
 
-[1]:
 
-Chakrapāni and Vrinda both-read Mudga also in the list of the diet.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Chakrapāni and Vrinda both-read Mudga also in the list of the diet.
+</blockquote>
 
-[2]:
 
-According to Dallana Śilājatu should be prepared with the said drugs after the manner of Bhāvanā saturation and then be applied with sugar.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> According to Dallana Śilājatu should be prepared with the said drugs after the manner of Bhāvanā saturation and then be applied with sugar.
+</blockquote>
 
 ---
 
-## 50. Chapter XLVII - Symptoms and Treatment of Alcoholism (Panatyaya)
+## Chapter XLVII - Symptoms and Treatment of Alcoholism (Panatyaya)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -339,17 +355,17 @@ Wine mixed with half its quantity of water and scented with Jiraka, Sauvarchala,
 
 Thus ends the forty-seventh chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of alcoholism.
 
-[1]:
 
-Dallana in his commentatory says that some read “madyauḥ” in place of “hṛdyauḥ” others read “phalauḥ” in place of “khaḍauḥ”.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Dallana in his commentatory says that some read “madyauḥ” in place of “hṛdyauḥ” others read “phalauḥ” in place of “khaḍauḥ”.
+</blockquote>
 
-[2]:
 
-Decoction of the drugs of Madhura-gana and of the drugs of cold virtues.
+
+
+<div className="footnote-card"><strong>[2]</strong> Decoction of the drugs of Madhura-gana and of the drugs of cold virtues.</div>
 
 ---
-
-
 
 ---
 
@@ -358,10 +374,6 @@ Decoction of the drugs of Madhura-gana and of the drugs of cold virtues.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms and Treatment of thirst (Trishna): Sushruta Samhita Uttara Tantra Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

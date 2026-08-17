@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Grahaṇī (sprue-syndrome) according to Caraka within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 120. Grahaṇī (sprue-syndrome) according to Caraka
+## Grahaṇī (sprue-syndrome) according to Caraka
 
 Grahaṇī (sprue-syndrome) according to Caraka
 
@@ -21,13 +21,14 @@ The distinctive feature of Grahaṇī-gada is that the patient voids stool, whic
 
 The general treatment of Grahaṇī roga is: when āma is excessive the patient should be given emesis therapy; when ama is in the intestine he should be given appetisers and purgatives therapies; when ama is in the whole body he should be given lightening and digestive measures. Use of formulations to cures of this disease, namely, Pañcakola peyā, Śuṇṭhi cūrṇa, Harītakī cūrṇa, Citrakādi cūrṇa, Daśamūla ghṛta, Tryūṣaṇādi ghṛta, Takrāriṣṭra, Bhallātaka kṣāra, Kṣāra guṭikā etc. Use Pañcakarma to cure Sānnipātika Grahaṇī[1].
 
-[1]:
 
-C. Cikitsāsthāna–XIX.2-141; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 527-551.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XIX.2-141; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 527-551.
+</blockquote>
 
 ---
 
-## 121. Visarpa (erysipelas) according to Caraka
+## Visarpa (erysipelas) according to Caraka
 
 Visarpa (erysipelas) according to Caraka
 
@@ -35,13 +36,14 @@ In Western language, Visarpa is called Erysipelas. It spreads rapidly throughout
 
 The general treatment of visarpa is Virecana followed by bloodletting is adopted. The general treatment of visarpa includes: Virecana followed by bloodletting is adopted; if the dosas causing Visarpa are of āma nature and if these dosas are located in the abode of kapha, then fasting and emetic therapies and bitter drugs, application of dry and cool drugs are useful; If doṣa in the sites of pitta, then lightening measure, purgation, emesis, bloodletting, and bitter drugs are useful; if doṣa in the sites of vāta, then medicines and ununctuous nature are useful, and if doṣa in the periphery, then the patient should be treated with bloodletting with horns, leeches, etc. To cure of Visarpa the patient should be advised the following diet, namely, rice-paste, old śāli, green gram, bengal gram, Āmalaki, barley and wheat. Use of formulations to cures of this disease, namely, Muktā paste, Dantyādi lepa, Kampillakādi oil, and Ghṛta etc. Blood-letting is most effective therapy for visarpa[1].
 
-[1]:
 
-C. Cikitsāsthāna–XXI. 3-143; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 589-612.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXI. 3-143; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 589-612.
+</blockquote>
 
 ---
 
-## 122. Hikkā (hiccup) and Śvāsa (asthma) according to Caraka
+## Hikkā (hiccup) and Śvāsa (asthma) according to Caraka
 
 Hikkā (hiccup) and Śvāsa (asthma) according to Caraka
 
@@ -75,13 +77,14 @@ Kṣudra-śvāsa.
 
 The first three of these are inherently incurable. The line of treatment in both hiccup and asthma is the same due to the identical etiology, location and the dosas involved. The general treatment of Hikkā and Śvāsa includes fomentation therapy, elimination therapy, diet, drinks, pañcakarma therapy, massage with salted oil, etc. Use of formulations to cures of this disease, namely, Śatyādi-Cūrṇa, Muktādya- Cūrṇa, Daśamūlādi-Ghṛta, and Manaḥśilādi-Ghṛta, etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XXI.3-85; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. III, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 13-30.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXI.3-85; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. III, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 13-30.
+</blockquote>
 
 ---
 
-## 123. Kāsa (bronchitis) according to Caraka
+## Kāsa (bronchitis) according to Caraka
 
 Kāsa (bronchitis) according to Caraka
 
@@ -103,13 +106,14 @@ The first three types of kāsa should be curable and others are only controllabl
 
 Vātaja kāsa should be treated by oleation, sudation, purgation, unctuous enema. Pittaja kāsa should be treated by purgation and emesis. Kaphaja kāsa should be treated by emesis, food which is hot, dry, and spicy, light food etc. Kṣataja kāsa should be treated by drugs which are sweet and promotive, etc. Kṣayaja kāsa should be treated by mild evacuation and promotive measures, improve digestive power, nourishing drugs and drugs which cleanse body channels, etc. Use of formulations to cures of this disease, namely, Agastya Harītakī, Kaṇṭakāri-Ghṛta, Pippalyādi-Ghṛta, Viḍaṅgādi-Cūrṇa, Goat’s milk cooked with tṛṇa pañcamūlā, Manaḥśilādi-Dhūma, Drākṣādi-Leha, etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XVIII. 3-190; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 532-555.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XVIII. 3-190; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 532-555.
+</blockquote>
 
 ---
 
-## 124. Ulcers (vraṇa) according to Caraka
+## Ulcers (vraṇa) according to Caraka
 
 Ulcers (vraṇa) according to Caraka
 
@@ -117,43 +121,11 @@ Innate or Nija type of ulcer can be caused by the vitiation of dosas of the body
 
 Ulcers are of twenty varieties which are as follows: Ulcer are of twenty varieties—
 
-Kṛtya,
-
-Akṛtya,
-
-Duṣṭa,
-
-Aduṣṭa,
-
-Marmasthita,
-
-Amarmasthita,
+Kṛtya,, Akṛtya,, Duṣṭa,, Aduṣṭa,, Marmasthita,, Amarmasthita,
 
 Saṃvṛta,
 
-Vivṛta,
-
-Dāruṇa,
-
-Adāruṇa,
-
-Srāvin,
-
-Asrāvin,
-
-Saviṣa,
-
-Aviṣa,
-
-Viṣamasthita,
-
-Samasthita,
-
-Utsaṅgin,
-
-Anutsaṅgin,
-
-Utsanna,
+Vivṛta,, Dāruṇa,, Adāruṇa,, Srāvin,, Asrāvin,, Saviṣa,, Aviṣa,, Viṣamasthita,, Samasthita,, Utsaṅgin,, Anutsaṅgin,, Utsanna,
 
 Anutsanna.
 
@@ -163,23 +135,11 @@ Twelve characteristic features of non-healing ulcers are as follows:
 
 Śvetatva,
 
-Avasanna-vartmatva,
-
-Atisthūla-vartmatva,
-
-Atipiñjaratva,
-
-Nīlatva,
+Avasanna-vartmatva,, Atisthūla-vartmatva,, Atipiñjaratva,, Nīlatva,
 
 Śyāvatva,
 
-Atipiḍakatva,
-
-Raktakṛṣṇatva,
-
-Atipūtitva,
-
-Ropyatva,
+Atipiḍakatva,, Raktakṛṣṇatva,, Atipūtitva,, Ropyatva,
 
 Kumbhīmukhatva.
 
@@ -191,95 +151,23 @@ Sirāśraya,
 
 Māṃsāśraya,
 
-Medas-āśraya,
-
-Asthyāśraya,
-
-Snāyu-āśraya,
-
-Marman-āśraya,
+Medas-āśraya,, Asthyāśraya,, Snāyu-āśraya,, Marman-āśraya,
 
 Antarāśraya or Koṣṭhāśraya.
 
 Twenty-four types of defects are as follows:
 
-Snāyu-kleda,
-
-Sirā-kleda,
-
-Gāmbhīrya,
-
-Kṛmi-bhakṣaṇa,
-
-Asthibheda,
-
-Saśalyatva,
-
-Saviṣatva,
-
-Sarpaṇatva,
-
-Nakha-kāṣṭha-prabheda,
-
-Carmaatighaṭṭana,
-
-Loma-atighaṭṭana,
-
-Mithyā-bandha,
-
-Atisneha,
-
-Ati-bhaiṣajya-karṣaṇa,
-
-Ajīrṇa,
-
-Atibhukta,
-
-Viruddha-bhojana,
-
-Asātmya-bhojana,
+Snāyu-kleda,, Sirā-kleda,, Gāmbhīrya,, Kṛmi-bhakṣaṇa,, Asthibheda,, Saśalyatva,, Saviṣatva,, Sarpaṇatva,, Nakha-kāṣṭha-prabheda,, Carmaatighaṭṭana,, Loma-atighaṭṭana,, Mithyā-bandha,, Atisneha,, Ati-bhaiṣajya-karṣaṇa,, Ajīrṇa,, Atibhukta,, Viruddha-bhojana,, Asātmya-bhojana,
 
 Śoka,
 
-krodha,
-
-Divā-svapna,
-
-Vyāyāma,
-
-Maithuna,
+krodha,, Divā-svapna,, Vyāyāma,, Maithuna,
 
 Niṣkriyatva.
 
 Sixteen complications of ulcer are as follows:
 
-Visarpa,
-
-Pakṣāghāta,
-
-Sirāstambha,
-
-Apartānaka,
-
-Moha,
-
-Unmāda,
-
-Vraṇaruk,
-
-Jvara,
-
-Tṛṣṇā,
-
-Hanugraha,
-
-Kāsa,
-
-Chardi,
-
-Atisāra,
-
-Hikkā,
+Visarpa,, Pakṣāghāta,, Sirāstambha,, Apartānaka,, Moha,, Unmāda,, Vraṇaruk,, Jvara,, Tṛṣṇā,, Hanugraha,, Kāsa,, Chardi,, Atisāra,, Hikkā,
 
 Śvāsa,
 
@@ -291,13 +179,7 @@ Thirty-six types of therapy can be used. These are as follows:
 
 Śastrakarman,
 
-Avapīḍana,
-
-Nirvāpaṇa,
-
-Sandhāna,
-
-Svedana,
+Avapīḍana,, Nirvāpaṇa,, Sandhāna,, Svedana,
 
 Śamana,
 
@@ -313,55 +195,17 @@ Ropaṇa-pralepa,
 
 Śodhana-tailaghṛta,
 
-Ropaṇa-tailaghṛta,
-
-Patra,
-
-Chādana,
-
-Bandhana,
-
-Bhojya,
-
-Utsādana,
-
-Avasādana,
-
-Dāha,
-
-Kāṭhinyakara-dhūpana,
-
-Mārdavakara-dhūpana,
-
-Kāṭhinyakara-ālepana,
-
-Mārdavakara-ālepana,
-
-Avacūrṇana,
-
-Ropaṇa,
-
-Varṇya,
+Ropaṇa-tailaghṛta,, Patra,, Chādana,, Bandhana,, Bhojya,, Utsādana,, Avasādana,, Dāha,, Kāṭhinyakara-dhūpana,, Mārdavakara-dhūpana,, Kāṭhinyakara-ālepana,, Mārdavakara-ālepana,, Avacūrṇana,, Ropaṇa,, Varṇya,
 
 Loma-rohaṇa.
 
 Six types of surgical procedures were followed. These are as follows:
 
-incision,
-
-puncturing,
-
-excision,
-
-scooping,
-
-scarification or
+incision,, puncturing,, excision,, scooping,, scarification or
 
 rubbing, suturing.
 
 ---
-
-
 
 ---
 
@@ -370,10 +214,6 @@ rubbing, suturing.
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Chardi (vomiting) according to Caraka: Atharvaveda And Charaka Samhita Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

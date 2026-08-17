@@ -13,52 +13,50 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Elephantology And Its Ancient Sanskrit Sources Chapter 1](/articles/elephantology-and-its-ancient-sanskrit-sources-ch1)
+### [General Discourse: Elephantology And Its Ancient Sanskrit Sources Chapter 1](/articles/elephantology-and-its-ancient-sanskrit-sources-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Elephantology And Its Ancient Sanskrit Sources.
 
-### 2. [Books on Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 2](/articles/elephantology-and-its-ancient-sanskrit-sources-ch2)
+### [Books on Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 2](/articles/elephantology-and-its-ancient-sanskrit-sources-ch2)
 **Overview**: Detailed classical discussion on Books on Elephants within Elephantology And Its Ancient Sanskrit Sources.
 
-### 3. [Declaration: Elephantology And Its Ancient Sanskrit Sources Chapter 3](/articles/elephantology-and-its-ancient-sanskrit-sources-ch3)
+### [Declaration: Elephantology And Its Ancient Sanskrit Sources Chapter 3](/articles/elephantology-and-its-ancient-sanskrit-sources-ch3)
 **Overview**: Detailed classical discussion on Declaration within Elephantology And Its Ancient Sanskrit Sources.
 
-### 4. [Hastyayurveda (Hasti Ayurveda): Elephantology And Its Ancient Sanskrit Sources Chapter 4](/articles/elephantology-and-its-ancient-sanskrit-sources-ch4)
+### [Hastyayurveda (Hasti Ayurveda): Elephantology And Its Ancient Sanskrit Sources Chapter 4](/articles/elephantology-and-its-ancient-sanskrit-sources-ch4)
 **Overview**: Detailed classical discussion on Hastyayurveda (Hasti Ayurveda) within Elephantology And Its Ancient Sanskrit Sources.
 
-### 5. [Content Analysis of Matangalila: Elephantology And Its Ancient Sanskrit Sources Chapter 5](/articles/elephantology-and-its-ancient-sanskrit-sources-ch5)
+### [Content Analysis of Matangalila: Elephantology And Its Ancient Sanskrit Sources Chapter 5](/articles/elephantology-and-its-ancient-sanskrit-sources-ch5)
 **Overview**: Detailed classical discussion on Content Analysis of Matangalila within Elephantology And Its Ancient Sanskrit Sources.
 
-### 6. [Capturing of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 6](/articles/elephantology-and-its-ancient-sanskrit-sources-ch6)
+### [Capturing of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 6](/articles/elephantology-and-its-ancient-sanskrit-sources-ch6)
 **Overview**: Detailed classical discussion on Capturing of Elephants within Elephantology And Its Ancient Sanskrit Sources.
 
-### 7. [The Life-cycles of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 7](/articles/elephantology-and-its-ancient-sanskrit-sources-ch7)
+### [The Life-cycles of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 7](/articles/elephantology-and-its-ancient-sanskrit-sources-ch7)
 **Overview**: Detailed classical discussion on The Life-cycles of Elephants within Elephantology And Its Ancient Sanskrit Sources.
 
-### 8. [The Uses and Values of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 8](/articles/elephantology-and-its-ancient-sanskrit-sources-ch8)
+### [The Uses and Values of Elephants: Elephantology And Its Ancient Sanskrit Sources Chapter 8](/articles/elephantology-and-its-ancient-sanskrit-sources-ch8)
 **Overview**: Detailed classical discussion on The Uses and Values of Elephants within Elephantology And Its Ancient Sanskrit Sources.
 
-### 9. [Conclusion: Elephantology And Its Ancient Sanskrit Sources Chapter 9](/articles/elephantology-and-its-ancient-sanskrit-sources-ch9)
+### [Conclusion: Elephantology And Its Ancient Sanskrit Sources Chapter 9](/articles/elephantology-and-its-ancient-sanskrit-sources-ch9)
 **Overview**: Detailed classical discussion on Conclusion within Elephantology And Its Ancient Sanskrit Sources.
 
-### 10. [Appendix 1 - Glossary Of Technical Terms: Elephantology And Its Ancient Sanskrit Sources Chapter 10](/articles/elephantology-and-its-ancient-sanskrit-sources-ch10)
+### [Appendix 1 - Glossary Of Technical Terms: Elephantology And Its Ancient Sanskrit Sources Chapter 10](/articles/elephantology-and-its-ancient-sanskrit-sources-ch10)
 **Overview**: Detailed classical discussion on Appendix 1 - Glossary Of Technical Terms within Elephantology And Its Ancient Sanskrit Sources.
 
-### 11. [Ayurvedic treatments of Elephants in Kerala style: Elephantology And Its Ancient Sanskrit Sources Chapter 11](/articles/elephantology-and-its-ancient-sanskrit-sources-ch11)
+### [Ayurvedic treatments of Elephants in Kerala style: Elephantology And Its Ancient Sanskrit Sources Chapter 11](/articles/elephantology-and-its-ancient-sanskrit-sources-ch11)
 **Overview**: Detailed classical discussion on Ayurvedic treatments of Elephants in Kerala style within Elephantology And Its Ancient Sanskrit Sources.
 
-### 12. [Bibliography: Elephantology And Its Ancient Sanskrit Sources Chapter 12](/articles/elephantology-and-its-ancient-sanskrit-sources-ch12)
+### [Bibliography: Elephantology And Its Ancient Sanskrit Sources Chapter 12](/articles/elephantology-and-its-ancient-sanskrit-sources-ch12)
 **Overview**: Detailed classical discussion on Bibliography within Elephantology And Its Ancient Sanskrit Sources.
 
-### 13. [Elephants In Kavyas: Elephantology And Its Ancient Sanskrit Sources Chapter 13](/articles/elephantology-and-its-ancient-sanskrit-sources-ch13)
+### [Elephants In Kavyas: Elephantology And Its Ancient Sanskrit Sources Chapter 13](/articles/elephantology-and-its-ancient-sanskrit-sources-ch13)
 **Overview**: Detailed classical discussion on Elephants In Kavyas within Elephantology And Its Ancient Sanskrit Sources.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 2. Preface
+## Preface
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -137,7 +135,7 @@ Geetha.N.
 
 ---
 
-## 5. Chapter 1 - Introduction
+## Chapter 1 - Introduction
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -225,85 +223,7 @@ About 40 Elephants are the most famous in Kerala.
 
 They are:
 
-Guruvayur Padmanabhan
-
-Thechikkottukavu Ganapati
-
-Mangalamkunnu Ganapati
-
-Pambadi Rajan
-
-Thiruvambadi Shivashankaran
-
-Mangalamkunnu Karnan
-
-Bastyan Vinaya Shankar
-
-Erattupetta Ayyappan
-
-Ezhuthacchan Shrinivasan
-
-Malayaliappuzha Rajan
-
-Kodungallur Gireeshan
-
-Mangalamkunnu Ayyappan
-
-Guruvayur Valiyakeshavan
-
-Kuttamkulangara Ramadasan
-
-Thirunakkara Shivan
-
-Thrikkatavoor Shivaraju
-
-Puthankulam Ananthapadmanabhan
-
-Shenayi Chandrashekaharan
-
-Kuttamkulangara Arjunan
-
-Chirakkal Kalidasan
-
-Pallathamkulangara Gireeshan
-
-Poothrikkovil Ganapathi
-
-Adiyatt Ayyappan
-
-Chirakkal Mahadevan
-
-Puthankulam Mahadevan
-
-Paramekkavu Padmanabhan
-
-Thadathavilia Suresh
-
-Kongad Kuttishankaran
-
-Cheruppulashshery Parthan
-
-Thrippayar Ramachandran
-
-Thiruvullakkavu Manikandan
-
-Manishshery Raghu Ram
-
-Deepu Koduman
-
-Iringappuram Prakash Shankar
-
-Thiruvanikkavu Jayaram Kannan
-
-Iringolkkavu Lakshmi
-
-Poomulli Prithvi Raj
-
-Oottoli Rajashekharan
-
-Chullipparambil Vishnusharman
-
-Kiran Narayanankutty and
+Guruvayur Padmanabhan, Thechikkottukavu Ganapati, Mangalamkunnu Ganapati, Pambadi Rajan, Thiruvambadi Shivashankaran, Mangalamkunnu Karnan, Bastyan Vinaya Shankar, Erattupetta Ayyappan, Ezhuthacchan Shrinivasan, Malayaliappuzha Rajan, Kodungallur Gireeshan, Mangalamkunnu Ayyappan, Guruvayur Valiyakeshavan, Kuttamkulangara Ramadasan, Thirunakkara Shivan, Thrikkatavoor Shivaraju, Puthankulam Ananthapadmanabhan, Shenayi Chandrashekaharan, Kuttamkulangara Arjunan, Chirakkal Kalidasan, Pallathamkulangara Gireeshan, Poothrikkovil Ganapathi, Adiyatt Ayyappan, Chirakkal Mahadevan, Puthankulam Mahadevan, Paramekkavu Padmanabhan, Thadathavilia Suresh, Kongad Kuttishankaran, Cheruppulashshery Parthan, Thrippayar Ramachandran, Thiruvullakkavu Manikandan, Manishshery Raghu Ram, Deepu Koduman, Iringappuram Prakash Shankar, Thiruvanikkavu Jayaram Kannan, Iringolkkavu Lakshmi, Poomulli Prithvi Raj, Oottoli Rajashekharan, Chullipparambil Vishnusharman, Kiran Narayanankutty and
 
 Koduman Kannan.
 
@@ -367,37 +287,13 @@ Ashtadiggaja:
 
 It is believed that the Ashtadiggajas are protecting eight directions. The eight diggajas are
 
-Airavata,
-
-Pundarika,
-
-Vamana,
-
-Kumuda,
-
-Anjana,
-
-Pushpadanta,
-
-Sarvabhoumo and
+Airavata,, Pundarika,, Vamana,, Kumuda,, Anjana,, Pushpadanta,, Sarvabhoumo and
 
 Supratika.
 
 According to Hindu purana, diggajas are the pillars of the universe sky and cloud. They are also protecting their wives. Their wives name are-
 
-Abhramu,
-
-Kapila,
-
-Pingala,
-
-Anupama,
-
-Tamrakarni,
-
-Shubhradanti,
-
-Angana and
+Abhramu,, Kapila,, Pingala,, Anupama,, Tamrakarni,, Shubhradanti,, Angana and
 
 Anjanavati.
 
@@ -455,45 +351,53 @@ Conclusion
 
 In short, even though studies of Elephantology gave much importance of the mind of ancient Indian peoples. Now-a-days also this science got much more important place with as a whole or separately, comprehensive study covering all the subjects based on Sanskrit literature alone is perhaps being done for the first time.
 
-[1]:
 
-Gajashastra Siddharth Yeswanth Wakankar, Introduction-1-2.
+<div className="footnote-card"><strong>[1]</strong> Gajashastra Siddharth Yeswanth Wakankar, Introduction-1-2.</div>
 
-[2]:
 
-Hastyayurveda: Maharogasthana, 1.211.12.
 
-[3]:
 
-Gajashastra. 18.2.6.
+<div className="footnote-card"><strong>[2]</strong> Hastyayurveda: Maharogasthana, 1.211.12.</div>
 
-[4]:
 
-The Ramayana of Valmiki, Plal, Uttarakanda, Glossary-164.
 
-[5]:
 
-IUCN 2004 Report (IUCN=International Union for Conservation of Nature and Natural Resources)
+<div className="footnote-card"><strong>[3]</strong> Gajashastra. 18.2.6.</div>
 
-[6]:
 
-Joy. M.S. Ana. 4.32
 
-[7]:
 
-Sarvadaman Sigh, Ancient Indian Warfare (Ancient Indian Warfare), 4-78.
+<div className="footnote-card"><strong>[4]</strong> The Ramayana of Valmiki, Plal, Uttarakanda, Glossary-164.</div>
 
-[8]:
 
-Amarakosha: Pradhamakanda, dvivarga, 113.
 
-[9]:
 
-Ana Kazhachayude Kanappurangal. 6.161-162.
+<div className="footnote-card"><strong>[5]</strong> IUCN 2004 Report (IUCN=International Union for Conservation of Nature and Natural Resources)</div>
 
-[10]:
 
-Malayala Manorama daily, 1.9.2010.
+
+
+<div className="footnote-card"><strong>[6]</strong> Joy. M.S. Ana. 4.32</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Sarvadaman Sigh, Ancient Indian Warfare (Ancient Indian Warfare), 4-78.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Amarakosha: Pradhamakanda, dvivarga, 113.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ana Kazhachayude Kanappurangal. 6.161-162.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Malayala Manorama daily, 1.9.2010.</div>
 
 ---
 

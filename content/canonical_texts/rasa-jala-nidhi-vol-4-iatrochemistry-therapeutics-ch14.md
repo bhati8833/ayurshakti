@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (159): Chaturthaka-nivarana rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 197. Treatment for fever (159): Chaturthaka-nivarana rasa
+## Treatment for fever (159): Chaturthaka-nivarana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (159): Chaturthaka-nivarana rasa’ includ
 
 ---
 
-## 198. Treatment for fever (160): Chaturthaka-gajankusha rasa
+## Treatment for fever (160): Chaturthaka-gajankusha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (160): Chaturthaka-gajankusha rasa’ incl
 
 ---
 
-## 199. Treatment for fever (161): Bhuta-bhabana rasa
+## Treatment for fever (161): Bhuta-bhabana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (161): Bhuta-bhabana rasa’ included in B
 
 ---
 
-## 200. Treatment for fever (162): Shitaghna rasa
+## Treatment for fever (162): Shitaghna rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for fever (162): Shitaghna rasa’ included in Bhude
 
 ---
 
-## 201. Treatment for fever (164): Vikrama-keshari rasa
+## Treatment for fever (164): Vikrama-keshari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for fever (164): Vikrama-keshari rasa’ included in
 
 ---
 
-## 202. Treatment for fever (165): Meghanada rasa (2)
+## Treatment for fever (165): Meghanada rasa (2)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for fever (165): Meghanada rasa (2)’ included in B
 
 ---
 
-## 203. Treatment for fever (166): Chaturthaka-nisudana rasa
+## Treatment for fever (166): Chaturthaka-nisudana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for fever (166): Chaturthaka-nisudana rasa’ includ
 
 ---
 
-## 204. Treatment for fever (163): Brihat-jvarantaka lauha
+## Treatment for fever (163): Brihat-jvarantaka lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for fever (163): Brihat-jvarantaka lauha’ included
 
 ---
 
-## 205. Treatment for fever (167): Digambara rasa
+## Treatment for fever (167): Digambara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for fever (167): Digambara rasa’ included in Bhude
 
 ---
 
-## 206. Treatment for fever (168): Umaprasadana rasa
+## Treatment for fever (168): Umaprasadana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for fever (168): Umaprasadana rasa’ included in Bh
 
 ---
 
-## 207. Treatment for fever (169): Jvarankusha rasa
+## Treatment for fever (169): Jvarankusha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for fever (169): Jvarankusha rasa’ included in Bhu
 
 ---
 
-## 208. Application of parpati
+## Application of parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -227,7 +227,7 @@ This concludes ‘Application of parpati’ included in Bhudeb Mookerjee Rasa Ja
 
 ---
 
-## 209. Treatment for fever (170): Chandrodaya rasa
+## Treatment for fever (170): Chandrodaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Treatment for fever (170): Chandrodaya rasa’ included in Bhu
 
 ---
 
-## 210. Part 1 - Symptoms of the Jvaratisara disease
+## Part 1 - Symptoms of the Jvaratisara disease
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -265,7 +265,7 @@ This concludes ‘Symptoms of the Jvaratisara disease’ included in Bhudeb Mook
 
 ---
 
-## 211. Part 2 - Treatment for fever with diarrhea (1): Sukha-sanjivani rasa
+## Part 2 - Treatment for fever with diarrhea (1): Sukha-sanjivani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -283,8 +283,6 @@ This concludes ‘Treatment for fever with diarrhea (1): Sukha-sanjivani rasa’
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -292,10 +290,6 @@ This concludes ‘Treatment for fever with diarrhea (1): Sukha-sanjivani rasa’
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever with diarrhea (2): Siddha-praneshvara rasa: Rasa Jala Nidhi Volume 4 Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

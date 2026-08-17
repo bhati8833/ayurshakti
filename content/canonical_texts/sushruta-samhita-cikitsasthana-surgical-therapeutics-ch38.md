@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The injudicious use of emetics and purgatives within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 40. Chapter XXXIV - The injudicious use of emetics and purgatives
+## Chapter XXXIV - The injudicious use of emetics and purgatives
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -133,45 +133,50 @@ The fifteen kinds of distempers (Vyapat) described in the present chapter origin
 
 Thus ends the Thirty-fourth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of the disorders resulting from an injudicious use of purgatives and emetics.
 
-[1]:
 
-For the meaning of “Bala” here see Chapter XV., Sutra-Sthana.
+<div className="footnote-card"><strong>[1]</strong> For the meaning of “Bala” here see Chapter XV., Sutra-Sthana.</div>
 
-[2]:
 
-Dallana says that the system of the patient, in this case, should be cleansed with an emetic or a purgative as the case may be.
 
-[3]:
 
-A different reading says that the patient should be fomented with washings of rice mixed with honey.
+<div className="footnote-card"><strong>[2]</strong> Dallana says that the system of the patient, in this case, should be cleansed with an emetic or a purgative as the case may be.</div>
 
-[4]:
 
-The remedial measures for the treatment of Guda-bhramsha, etc., under the Kshudra-Roga, should be employed in such cases.
 
-[5]:
 
-In cases of a Pitta predominance, the Vasti should be employed with the cream of clarified butter and in cases of a Vayu predominancy with oil.
+<div className="footnote-card"><strong>[3]</strong> A different reading says that the patient should be fomented with washings of rice mixed with honey.</div>
 
-[6]:
 
-Dallana recommends that a strong purgative or emetic should be employed(?).
 
-[7]:
 
-Dallana recommends both Niruha and Snaihika Vastis in such cases.
+<div className="footnote-card"><strong>[4]</strong> The remedial measures for the treatment of Guda-bhramsha, etc., under the Kshudra-Roga, should be employed in such cases.</div>
 
-[8]:
 
-This evidently refers to the case of an abuse of an emetic.
 
-[9]:
 
-See Chapter XXXIX., Sutra-Sthana.
+<div className="footnote-card"><strong>[5]</strong> In cases of a Pitta predominance, the Vasti should be employed with the cream of clarified butter and in cases of a Vayu predominancy with oil.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Dallana recommends that a strong purgative or emetic should be employed(?).</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Dallana recommends both Niruha and Snaihika Vastis in such cases.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> This evidently refers to the case of an abuse of an emetic.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> See Chapter XXXIX., Sutra-Sthana.</div>
 
 ---
-
-
 
 ---
 
@@ -180,10 +185,6 @@ See Chapter XXXIX., Sutra-Sthana.
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch39" className="text-emerald-400 hover:underline flex items-center font-medium">The treatment of distressing symptoms: Sushruta Samhita Cikitsasthana Chapter 39 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Precautionary measures for good health and Prophylactic Measures within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 66. Precautionary measures for good health and Prophylactic Measures
+## Precautionary measures for good health and Prophylactic Measures
 
 Charaka Samhita and Sushruta Samhita
 
@@ -40,85 +40,132 @@ Thus, Suśruta says:
 yasmin yasminṛtau ye ye doṣāḥ kupyanti dehinām.
 teṣu teṣu pradātavyā rasāste te vijānatā.[19]
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 8.18.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
 
-[2]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.120.
 
-[3]:
 
-Atharvaveda II.4.2.
+<div className="footnote-card"><strong>[2]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, p.120.</div>
 
-[4]:
 
-Atharvaveda II.9.3.
 
-[5]:
 
-Suśruta Saṃhitā Uttaratantra 64.
+<div className="footnote-card"><strong>[3]</strong> Atharvaveda II.4.2.</div>
 
-[6]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.30-45.
 
-[7]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.48.
+<div className="footnote-card"><strong>[4]</strong> Atharvaveda II.9.3.</div>
 
-[8]:
 
-Ḍalhaṇa’s commentary to Suśruta Saṃhitā Cikitsāsthāna 5.5.
 
-[9]:
 
-P.V.Sharma, Medicine in the Classical Age, p.47.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Uttaratantra 64.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 15.32.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 15.33.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.30-45.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 15.32.
 
-[13]:
 
-Caraka Saṃhitā Sūtrasthāna 7.32.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.48.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Sūtrasthāna 7.33
 
-[15]:
 
-Caraka Saṃhitā Sūtrasthāna 7.35 (1-2).
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Ḍalhaṇa’s commentary to Suśruta Saṃhitā Cikitsāsthāna 5.5.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Sūtrasthāna 11.63.
 
-[17]:
 
-Caraka Saṃhitā Sūtrasthāna 7.46-47.
+<div className="footnote-card"><strong>[9]</strong> P.V.Sharma, Medicine in the Classical Age, p.47.</div>
 
-[18]:
 
-Caraka Saṃhitā Sūtrasthāna 7.49.
 
-[19]:
 
-Suśruta Saṃhitā Uttaratantra 64.5.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 15.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 15.33.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 15.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Sūtrasthāna 7.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Sūtrasthāna 7.33
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Sūtrasthāna 7.35 (1-2).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Sūtrasthāna 11.63.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Sūtrasthāna 7.46-47.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Sūtrasthāna 7.49.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Uttaratantra 64.5.
+</blockquote>
 
 ---
 
-## 67. Dietary and Lifestyle measures based on the six Seasons
+## Dietary and Lifestyle measures based on the six Seasons
 
 Charaka Samhita and Sushruta Samhita
 
@@ -172,41 +219,63 @@ Lifestyle recommendations—Avoidance of sleep during the day, protection from f
 
 Each season induces disturbance of a particular doṣa. Diseases of vāta are prominent in the rains and winter, of pitta in autumn, and of kapha in spring. Adherence to the specifics this regimen in each season ensures protection from any serious disease arising from seasonal variations.[8]
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 6.19-21.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 6.19-21.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 6.22-26.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 6.27-32.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 6.22-26.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Uttaratantra 64.41.
 
-[5]:
 
-Suśruta Saṃhitā Uttaratantra 64.46.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 6.27-32.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 6.33-40.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 6.41-48
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Uttaratantra 64.41.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Uttaratantra 64.55/2-56/1.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Uttaratantra 64.46.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 6.33-40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 6.41-48
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Uttaratantra 64.55/2-56/1.
+</blockquote>
 
 ---
 
-## 68. Words of Caution
+## Words of Caution
 
 Charaka Samhita and Sushruta Samhita
 
@@ -253,189 +322,316 @@ Certain practices are always salutary to the individual’s well being: they are
 
 Thus, the somatic and mental condition of an individual is directly related to the physical and social environments as well as to behaviour and lifestyle in Āyurvedic thought. For the achievement of well-being and the maintenance of health, which is essentially the equilibrium of the doṣas, it is necessary to develop a lifestyle taking the environment into consideration. Hence, our medical compendia, Caraka and Suśruta Saṃhitās, delineate a way of living that prevents the errors of intellect through the practice of moderation and self-control in all aspects of behaviour. By assiduously following the prescriptions of sadvṛtta, one lives, free of disease, for a hundred years and does not meet with untimely death. The rewards of a healthy life are praise of the good, fame, virtue, wealth, goodwill of all creatures, and finally, after death, a place in the excellent abode of all good souls.[45]
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 6.19.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 6.19.
+</blockquote>
 
-[2]:
 
-Atharvaveda VI.91.—āpa id vā u bheṣajīrāpo amīvacātanī. āpo viśvasya bheṣajīstāste kṛṇvantu bheṣajam.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.26.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Atharvaveda VI.91.—āpa id vā u bheṣajīrāpo amīvacātanī. āpo viśvasya bheṣajīstāste kṛṇvantu bheṣajam.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.7.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.8.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 45.26.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 6.47.
 
-[7]:
 
-P.V.Sharma, Medicine in the Classical Age, p.46.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 45.7.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.14.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.20.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 45.8.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.25.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.15-16.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 6.47.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Uttaratantra 40.4.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.24.
+<div className="footnote-card"><strong>[7]</strong> P.V.Sharma, Medicine in the Classical Age, p.46.</div>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.25.
 
-[15]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 45.14.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.31-39/1, 44.
 
-[17]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.9-10.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 45.20.
+</blockquote>
 
-[18]:
 
-Pistia Stratiotes -a floating aquatic plant
 
-[19]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.11.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 45.25.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.12.
 
-[21]:
 
-There is reference to the use of kataka for clarifying water in the Manusmṛti (VI.64).
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 45.15-16.
+</blockquote>
 
-[22]:
 
-Bisagranthi is the same as padmamūla, that is, properly the knots of the underground stalk. Meulenbeld, G., The Madhavanidāna and its Chief Commentary: Chapters 1-10, Leiden, 1974, p.482.
 
-[23]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.27.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Uttaratantra 40.4.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.3.
 
-[25]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.466/2-468/1.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 45.24.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Sūtrasthāna 5.3-4.
 
-[27]:
 
-Suśruta Saṃhitā Uttaratantra 56.5.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 45.25.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.471/2.
 
-[29]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.467.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Sūtrasthāna 45.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.472-473.
 
-[31]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.447.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 45.31-39/1, 44.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.458.
 
-[33]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.458-459/1.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Sūtrasthāna 45.9-10.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.476/2-477/1.
 
-[35]:
 
-Caraka Saṃhitā Sūtrasthāna 8.20.
+<div className="footnote-card"><strong>[18]</strong> Pistia Stratiotes -a floating aquatic plant</div>
 
-[36]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.475-476/1.
 
-[37]:
 
-Caraka Saṃhitā Sūtrasthāna 5.13.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Sūtrasthāna 45.11.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Vimānasthāna 3.36.
 
-[39]:
 
-Caraka Saṃhitā Vimānasthāna 3.38.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 45.12.
+</blockquote>
 
-[40]:
 
-Suśruta Saṃhitā Sūtrasthāna 20.5-6.
 
-[41]:
 
-Caraka Saṃhitā Sūtrasthāna 7.3-5.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> There is reference to the use of kataka for clarifying water in the Manusmṛti (VI.64).
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Sūtrasthāna 7.6-25.
 
-[43]:
 
-Caraka Saṃhitā Sūtrasthāna 7.34.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Bisagranthi is the same as padmamūla, that is, properly the knots of the underground stalk. Meulenbeld, G., The Madhavanidāna and its Chief Commentary: Chapters 1-10, Leiden, 1974, p.482.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Sūtrasthāna 7.35.
 
-[45]:
 
-Caraka Saṃhitā Sūtrasthāna 7.31-33.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Sūtrasthāna 45.27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 46.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Sūtrasthāna 46.466/2-468/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Sūtrasthāna 5.3-4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Uttaratantra 56.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Sūtrasthāna 46.471/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Sūtrasthāna 46.467.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Sūtrasthāna 46.472-473.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Sūtrasthāna 46.447.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Sūtrasthāna 46.458.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Sūtrasthāna 46.458-459/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Sūtrasthāna 46.476/2-477/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Sūtrasthāna 8.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Sūtrasthāna 46.475-476/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Sūtrasthāna 5.13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Vimānasthāna 3.36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Caraka Saṃhitā Vimānasthāna 3.38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Suśruta Saṃhitā Sūtrasthāna 20.5-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Sūtrasthāna 7.3-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Sūtrasthāna 7.6-25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Caraka Saṃhitā Sūtrasthāna 7.34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Sūtrasthāna 7.35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Sūtrasthāna 7.31-33.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -444,10 +640,6 @@ Caraka Saṃhitā Sūtrasthāna 7.31-33.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">General Discourse: Charaka Samhita And Sushruta Samhita Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Classification of immobile (Sthavara) vegetable and mineral poisons, botanical toxins, and systemic antidote formulations. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 3. Chapter II - Description of Sthavara (vegetable and mineral) poisons
+## Chapter II - Description of Sthavara (vegetable and mineral) poisons
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -127,45 +127,64 @@ A case of Dushi-Visha poisoning in a prudent and judicious person, and of recent
 
 Thus ends the sceond Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the Sthavara and jangama poisons.
 
-[1]:
 
-Lambā, according to Gayi—D. R.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Lambā, according to Gayi—D. R.
+</blockquote>
 
-[2]:
 
-See Chapter VII. para 10, Nidāna-sthāna.
 
-[3]:
 
-These are the seven fundamental principles of the body.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> See Chapter VII. para 10, Nidāna-sthāna.
+</blockquote>
 
-[4]:
 
-The text has “Ugra-viryāni’' (strong in potency). Gayi reads “Agra-Viryāni” (of great poteney).
 
-[5]:
 
-See Chapter xxvii, Sutra Sthāna.
+<div className="footnote-card"><strong>[3]</strong> These are the seven fundamental principles of the body.</div>
 
-[6]:
 
-The seven stages of the poisoning are due to the poisoning of the seven fundamental root-principles (Dhātus) of the body in succession.
 
-[7]:
 
-By “the particular time” is meant a cloudy and windy day as well as the rainy season. By “the particular place” is meant a marshy country, and by “the particular diet” is meant wine, sesamum, Kulaltha-pulse, etc. as well as physical exercise, sexual intercourse, fits of anger, etc.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The text has “Ugra-viryāni’' (strong in potency). Gayi reads “Agra-Viryāni” (of great poteney).
+</blockquote>
 
-[8]:
 
-The particular form of shaving the hair, in which the part of the scalp from and above the forehead only is shaved is technically called a Kāka-pada.
 
-[9]:
 
-“Paripelava” means either “Dhanyāka” or “Kaivartta-Mustaka”.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> See Chapter xxvii, Sutra Sthāna.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The seven stages of the poisoning are due to the poisoning of the seven fundamental root-principles (Dhātus) of the body in succession.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> By “the particular time” is meant a cloudy and windy day as well as the rainy season. By “the particular place” is meant a marshy country, and by “the particular diet” is meant wine, sesamum, Kulaltha-pulse, etc. as well as physical exercise, sexual intercourse, fits of anger, etc.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> The particular form of shaving the hair, in which the part of the scalp from and above the forehead only is shaved is technically called a Kāka-pada.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> “Paripelava” means either “Dhanyāka” or “Kaivartta-Mustaka”.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -174,10 +193,6 @@ The particular form of shaving the hair, in which the part of the scalp from and
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/animal-venom-classification-and-air-purification-sushruta-samhita-kalpasthana-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Animal Venom Classification and Air Purification: Sushruta Samhita Kalpasthana Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

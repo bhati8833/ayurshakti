@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Thermal cautery within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Chapter XII - Thermal cautery
+## Chapter XII - Thermal cautery
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -71,25 +71,25 @@ Cooling measures or applications should be prescribed or made in the event of an
 
 Thus ends the twelfth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Cauteries and the rules to be observed in their use.
 
-[1]:
 
-By arresting the radiation of the incarcerated heat and thereby favouring the elevation of the local temperature and the increase of the burning sensation.
+<div className="footnote-card"><strong>[1]</strong> By arresting the radiation of the incarcerated heat and thereby favouring the elevation of the local temperature and the increase of the burning sensation.</div>
 
-[2]:
 
-Cold applications and cooling measures should be resorted to in the case of a deep and excessive burn, while the contrary should be held as the correct remedy in the case of a slight and superficial one.
 
-[3]:
 
-Several authorities prescribe Tinduki bark and human cranium powdered together and mixed with clarified butter, while others prescribe a decoction of Tinduki bark.
+<div className="footnote-card"><strong>[2]</strong> Cold applications and cooling measures should be resorted to in the case of a deep and excessive burn, while the contrary should be held as the correct remedy in the case of a slight and superficial one.</div>
 
-[4]:
 
-Additional texts:—Where the scorching would be found to be considerably extensive; otherwise such measures as lubrication with medicated unguents etc. should be adopted in a case where the patient is picked up alive.
+
+
+<div className="footnote-card"><strong>[3]</strong> Several authorities prescribe Tinduki bark and human cranium powdered together and mixed with clarified butter, while others prescribe a decoction of Tinduki bark.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Additional texts:—Where the scorching would be found to be considerably extensive; otherwise such measures as lubrication with medicated unguents etc. should be adopted in a case where the patient is picked up alive.</div>
 
 ---
-
-
 
 ---
 
@@ -98,10 +98,6 @@ Additional texts:—Where the scorching would be found to be considerably extens
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Usage of leeches: Sushruta Samhita Sutrasthana Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

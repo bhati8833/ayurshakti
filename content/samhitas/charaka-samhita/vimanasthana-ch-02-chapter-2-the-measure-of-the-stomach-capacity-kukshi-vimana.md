@@ -72,7 +72,11 @@ The Signs of intestinal torpor
 
 12-(1). We shall now describe the disorder of intestinal torpor. Let us take a man who is frail, of weak digestion, of Kapha habitus, habitually given to suppressing the urges of flatus, urine and feces and who is given to eating food which is compact, heavy, large in quantity, dry, cold and dehydrated. Such food and drink consumed by such a one, though painfully urged on by peristalsis cannot find an outlet, as it gets inert owing to the passages being obstructed by the accumulated Kapha and the food masses being jammed inside. In consequence of this condition, the symptoms of general indigestion, excepting the two—vomiting and purging, manifest themselves in a very aggravated form.
 
+
+<blockquote className="ayur-shloka">
 12-(2). This brings about extreme vitiation of the humors which finding the alimentary canal blocked at both ends by the vitiated mass of undigested food, tend to spread sideways and in that process, not infrequently cause the body to become rigid like a staff. This condition which is spoken of as “Dandalasaka” [daṇḍālasaka], “Staff like rigidity”, is considered to be incurable.
+</blockquote>
+
 
 The Signs of Food-poisoning
 

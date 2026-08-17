@@ -62,10 +62,10 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop Navigation Links with Mega Menu */}
-        <nav className="hidden xl:flex items-center gap-5">
+        <nav className="hidden lg:flex items-center gap-1.5 xl:gap-3 2xl:gap-4">
           <Link
             href="/"
-            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2"
+            className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2"
           >
             Home
           </Link>
@@ -78,11 +78,11 @@ export default function Navbar() {
           >
             <Link
               href="/samhitas"
-              className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+              className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1 xl:gap-1.5"
             >
-              <Scroll className="w-4 h-4 text-ayur-gold" />
+              <Scroll className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
               <span>Samhitas</span>
-              <ChevronDown className="w-3.5 h-3.5 text-ayur-sage" />
+              <ChevronDown className="w-3 h-3 xl:w-3.5 xl:h-3.5 text-ayur-sage" />
             </Link>
 
             {activeDropdown === 'samhitas' && (
@@ -116,10 +116,11 @@ export default function Navbar() {
           {/* 2. Canonical Library Link */}
           <Link
             href="/canonical-texts"
-            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+            className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1 xl:gap-1.5 whitespace-nowrap"
           >
-            <Library className="w-4 h-4 text-ayur-gold" />
-            <span>Canonical Library</span>
+            <Library className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
+            <span className="hidden xl:inline">Canonical Library</span>
+            <span className="xl:hidden">Canonical</span>
           </Link>
 
           {/* 3. Herbs Silo Dropdown */}
@@ -130,11 +131,12 @@ export default function Navbar() {
           >
             <Link
               href="/herbs"
-              className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+              className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1 xl:gap-1.5 whitespace-nowrap"
             >
-              <Leaf className="w-4 h-4 text-ayur-gold" />
-              <span>Herbal Library</span>
-              <ChevronDown className="w-3.5 h-3.5 text-ayur-sage" />
+              <Leaf className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
+              <span className="hidden xl:inline">Herbal Library</span>
+              <span className="xl:hidden">Herbs</span>
+              <ChevronDown className="w-3 h-3 xl:w-3.5 xl:h-3.5 text-ayur-sage" />
             </Link>
 
             {activeDropdown === 'herbs' && (
@@ -168,9 +170,9 @@ export default function Navbar() {
           {/* 4. Pet Care Silo Link */}
           <Link
             href="/pet-health"
-            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+            className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1 xl:gap-1.5 whitespace-nowrap"
           >
-            <PawPrint className="w-4 h-4 text-ayur-gold" />
+            <PawPrint className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
             <span>Pet Care</span>
           </Link>
 
@@ -182,11 +184,11 @@ export default function Navbar() {
           >
             <Link
               href="/research"
-              className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+              className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1 xl:gap-1.5"
             >
-              <Microscope className="w-4 h-4 text-ayur-gold" />
+              <Microscope className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
               <span>Research</span>
-              <ChevronDown className="w-3.5 h-3.5 text-ayur-sage" />
+              <ChevronDown className="w-3 h-3 xl:w-3.5 xl:h-3.5 text-ayur-sage" />
             </Link>
 
             {activeDropdown === 'research' && (
@@ -220,29 +222,29 @@ export default function Navbar() {
           {/* 6. Articles Link */}
           <Link
             href="/articles"
-            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+            className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1 xl:gap-1.5"
           >
-            <FileText className="w-4 h-4 text-ayur-gold" />
+            <FileText className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
             <span>Articles</span>
           </Link>
 
           {/* 7. Glossary Link */}
           <Link
             href="/glossary"
-            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+            className="text-xs xl:text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1 xl:gap-1.5"
           >
-            <BookOpen className="w-4 h-4 text-ayur-gold" />
+            <BookOpen className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
             <span>Glossary</span>
           </Link>
         </nav>
 
         {/* Action Button */}
-        <div className="hidden lg:flex items-center gap-4">
+        <div className="hidden lg:flex items-center gap-3">
           <Link
             href="/dosha-quiz"
-            className="px-5 py-2.5 rounded-full bg-ayur-forest text-ayur-bg text-xs font-semibold uppercase tracking-wider hover:bg-ayur-emerald transition-all duration-300 shadow-md hover:shadow-lg hover:-translate-y-0.5 flex items-center gap-2"
+            className="px-3.5 xl:px-5 py-2 xl:py-2.5 rounded-full bg-ayur-forest text-ayur-bg text-[11px] xl:text-xs font-semibold uppercase tracking-wider hover:bg-ayur-emerald transition-all duration-300 shadow-md hover:shadow-lg hover:-translate-y-0.5 flex items-center gap-1.5 whitespace-nowrap"
           >
-            <HeartPulse className="w-4 h-4 text-ayur-gold" />
+            <HeartPulse className="w-3.5 h-3.5 xl:w-4 xl:h-4 text-ayur-gold flex-shrink-0" />
             <span>Dosha Quiz</span>
           </Link>
         </div>
@@ -250,7 +252,7 @@ export default function Navbar() {
         {/* Mobile Menu Button */}
         <button
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          className="xl:hidden p-2 rounded-lg text-ayur-forest hover:bg-ayur-sand transition-colors"
+          className="lg:hidden p-2 rounded-lg text-ayur-forest hover:bg-ayur-sand transition-colors"
           aria-label="Toggle Navigation Menu"
         >
           {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}

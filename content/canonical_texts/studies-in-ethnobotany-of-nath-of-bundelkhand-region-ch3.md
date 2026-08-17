@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Material and Method within Studies In Ethnobotany Of Nath Of Bundelkhand Region. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Chapter 4 - Material and Method
+## Chapter 4 - Material and Method
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -29,8 +29,6 @@ Frequent ethnobotanical surveys of the Nath inhabited localities of Bundelkhand 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ Frequent ethnobotanical surveys of the Nath inhabited localities of Bundelkhand 
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Historical Review (of ‘Nath’—Bundelkhand): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

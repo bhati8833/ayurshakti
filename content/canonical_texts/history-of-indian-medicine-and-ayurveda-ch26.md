@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Nosology and the Triumvirate within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 77. Chapter 12 - Nosology and the Triumvirate
+## Chapter 12 - Nosology and the Triumvirate
 
 History of Indian Medicine (and Ayurveda)
 
@@ -168,7 +168,7 @@ The physician who after ascertaing [ascertaining?] all these three things, begin
 
 ---
 
-## 78. Chapter 13 - Conclusion
+## Chapter 13 - Conclusion
 
 History of Indian Medicine (and Ayurveda)
 
@@ -201,7 +201,7 @@ An intimate and deep knowledge of Ayurveda will enable the practical clinician o
 
 ---
 
-## 79. Chapter 11 - The Etiological Factors of Disease
+## Chapter 11 - The Etiological Factors of Disease
 
 History of Indian Medicine (and Ayurveda)
 
@@ -257,8 +257,6 @@ These types of conditions may act either as exciting factors or as predisposing 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -266,10 +264,6 @@ These types of conditions may act either as exciting factors or as predisposing 
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">b - Pathological Conditions or Processes in Ayurveda: History Of Indian Medicine And Ayurveda Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

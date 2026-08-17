@@ -134,7 +134,11 @@ The qualities of common Orange
 
 The Qualities of Almond, Abhishuka Walnut, Edible pine, Lakucha and Uramana
 
+
+<blockquote className="ayur-shloka">
 157-158. The almond [vātāma], Abhishuka [abhiṣūka/abhiṣuka?], walnut [akṣoṭa], edible pine, lakucha and Urumana, are heavy, hot, unctuous, sweet, strengthening, curative of Vata, roborant, aphrodisiac and increase Kapha and Pitta. Buchanan’s mango should be considered similar in action to the above except in the qualities of being hot.
+</blockquote>
+
 
 The Qualities of the Assysian plum and Alangy
 

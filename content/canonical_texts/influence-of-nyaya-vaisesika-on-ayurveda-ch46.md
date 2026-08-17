@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 11. Principles of medicinal preparation within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 50. 11. Principles of medicinal preparation
+## 11. Principles of medicinal preparation
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -29,8 +29,6 @@ Drugs listed in the classical pharmacological works include animal products (pra
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ Drugs listed in the classical pharmacological works include animal products (pra
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch47" className="text-emerald-400 hover:underline flex items-center font-medium">14. Concept of Moksa (emancipation): Influence Of Nyaya Vaisesika On Ayurveda Chapter 47 →</a>
 </div>
-
-
-
-
 
 ---
 

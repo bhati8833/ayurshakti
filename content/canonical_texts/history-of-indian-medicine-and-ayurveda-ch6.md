@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Admission to Studies within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 16. Chapter 5 - Admission to Studies
+## Chapter 5 - Admission to Studies
 
 History of Indian Medicine (and Ayurveda)
 
@@ -99,7 +99,7 @@ It is then and then only that the great king of the the Dead considered him wort
 
 ---
 
-## 17. Chapter 4 - Text Books of Medicine
+## Chapter 4 - Text Books of Medicine
 
 History of Indian Medicine (and Ayurveda)
 
@@ -625,7 +625,7 @@ The qualities specified for a good text book are described in Caraka (Vide this 
 
 ---
 
-## 18. Chapter 6 - The Oath of Initiation
+## Chapter 6 - The Oath of Initiation
 
 History of Indian Medicine (and Ayurveda)
 
@@ -740,8 +740,6 @@ During the student life, special emphasis is laid on celibacy, abstinence from m
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -749,10 +747,6 @@ During the student life, special emphasis is laid on celibacy, abstinence from m
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Qualities of the Teacher: History Of Indian Medicine And Ayurveda Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

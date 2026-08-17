@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Nyaya-Vaisesika theory of Atomism within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. 7. Nyaya-Vaisesika theory of Atomism
+## 7. Nyaya-Vaisesika theory of Atomism
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -31,8 +31,6 @@ important of atom, enumerates their qualities, specifies their dimension as glob
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ important of atom, enumerates their qualities, specifies their dimension as glob
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch30" className="text-emerald-400 hover:underline flex items-center font-medium">9. Panchamahabhuta Theory: Influence Of Nyaya Vaisesika On Ayurveda Chapter 30 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Viṣṇu in the Medical Texts within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 83. Viṣṇu in the Medical Texts
+## Viṣṇu in the Medical Texts
 
 Charaka Samhita and Sushruta Samhita
 
@@ -23,41 +23,59 @@ The thousand-headed Viṣnu, according to the Caraka Saṃhitā, is the chief of
 
 Caraka points to the similarities between the characteristics of vāta doṣa in the body and those of god Vāyu in the universe. Vāyu is the cause of existence as well as of destruction of all living beings. He is the god of death (Yama), the controller (niyantāḥ), the lord of all creatures (Prajāpati), Aditi and the creator of the universe (Viśvakarman). Possessing innumerable forms, he can move anywhere and is all-pervading (vibhuḥ). Caraka identifies him with lord Viṣṇu.[5] One of the several actions of vāyu in nature is sustenance of the earth (dharaṇī-dhāraṇa) just as vāta, in its normal state of functioning sustains all the organs of the body.[6] This reminds us of the cosmic role of Viṣṇu as the preserver of the universe. In fact the Purāṇas often ascribe the role of the creator-god to Viṣṇu.[7] Bhattacharji draws our attention to the ambiguous relationship of Brahman and Viṣṇu in the epics and the Purāṇas wherein one is shown as just another manifestation of the other. The Mahābhārata identifies Nārāyaṇa in the form of Kṛṣṇa as the supreme being, and again Brahman as Viṣṇu. Thus, as Viṣṇu’s image in the pantheon grew, it gradually overlapped with Brahman’s.[8]
 
-[1]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.311.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Cikitsāsthāna 3.311.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.312.
 
-[3]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.128-129.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Cikitsāsthāna 3.312.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Śārīrasthāna 8.39.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 12.8.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Cikitsāsthāna 13.128-129.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 12.8.
 
-[7]:
 
-S.Bhattacharji, Indian Theogony, p.344.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Śārīrasthāna 8.39.
+</blockquote>
 
-[8]:
 
-S.Bhattacharji, Indian Theogony, pp. 343-344.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 12.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 12.8.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> S.Bhattacharji, Indian Theogony, p.344.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> S.Bhattacharji, Indian Theogony, pp. 343-344.</div>
 
 ---
 
-## 84. Bhūtas and Grahas
+## Bhūtas and Grahas
 
 Charaka Samhita and Sushruta Samhita
 
@@ -77,21 +95,13 @@ Suśruta refers to another set of grahas that afflict diseases in infants and ch
 
 Nine in number, there are three male grahas—
 
-Skanda,
-
-Skandāpasmāra and
-
-Naigameṣa,
+Skanda,, Skandāpasmāra and, Naigameṣa,
 
 And six female grahas—
 
 Śakuni,
 
-Revatī,
-
-Pūtanā,
-
-Andhapūtanā,
+Revatī,, Pūtanā,, Andhapūtanā,
 
 Śītapūtanā and
 
@@ -111,241 +121,385 @@ The designated place for offerings to rākṣasas and aśuras as also for Skanda
 
 Two important inferences emerge from the survey on the healing deities. First, the healing role of female divinities in our two medical treatises is completely absent; in fact they are conspicuous by their negative role as causative of diseases. Second, the Aśvins who are so highly euologised by Caraka, find little mention in Suśruta. The latter holds Dhanvantari in high esteem. This in itself posits a later date for the compendium of Suśruta.
 
-[1]:
 
-Suśruta Saṃhitā Uttaratantra 60.19.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Uttaratantra 60.19.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.17.
 
-[3]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.21.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Cikitsāsthāna 9.17.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.17.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.17.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Cikitsāsthāna 9.21.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.20; Suśruta Saṃhitā Uttaratantra 60.7.
 
-[7]:
 
-Suśruta Saṃhitā Uttaratantra 60.76.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Cikitsāsthāna 9.17.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Uttaratantra 60.4.
 
-[9]:
 
-N.N. Bhattacharyya, Indian Demonology: the Inverted Pantheon, Delhi 2000, p.37.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 9.17.
+</blockquote>
 
-[10]:
 
-N.N. Bhattacharyya, Indian Demonology, p.37.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.20.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 9.20; Suśruta Saṃhitā Uttaratantra 60.7.
+</blockquote>
 
-[12]:
 
-N.N. Bhattacharyya, Indian Demonology, p.38.
 
-[13]:
 
-N.N. Bhattacharyya, Indian Demonology, p.110-111.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Uttaratantra 60.76.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.20.
 
-[15]:
 
-N.N. Bhattacharyya, Indian Demonology, p.111.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Uttaratantra 60.4.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Kalpasthāna 7.59-62. Alarka is the fever occurring in dogs; G.J. Meulenbeld, Mādhavanidāna and its Chief Commentary: Chapters 1-10. Introduction, translation and notes, Leiden: Brill, 1974, p.154.
 
-[17]:
 
-N.N. Bhattacharyya, Indian Demonology, p.120.
+<div className="footnote-card"><strong>[9]</strong> N.N. Bhattacharyya, Indian Demonology: the Inverted Pantheon, Delhi 2000, p.37.</div>
 
-[18]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.20.
 
-[19]:
 
-Monier-Williams, p.372.
+<div className="footnote-card"><strong>[10]</strong> N.N. Bhattacharyya, Indian Demonology, p.37.</div>
 
-[20]:
 
-Monier-Williams, p.371.
 
-[21]:
 
-Suśruta Saṃhitā Uttaratantra 60.25-26.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 9.20.
+</blockquote>
 
-[22]:
 
-S. Bhattacharji, The Indian Theogony, p.82.
 
-[23]:
 
-S. Bhattacharji, The Indian Theogony, pp.81-83.
+<div className="footnote-card"><strong>[12]</strong> N.N. Bhattacharyya, Indian Demonology, p.38.</div>
 
-[24]:
 
-S. Bhattacharji, The Indian Theogony, p.101.
 
-[25]:
 
-Suśruta Saṃhitā Śārīrasthāna 3.30.
+<div className="footnote-card"><strong>[13]</strong> N.N. Bhattacharyya, Indian Demonology, p.110-111.</div>
 
-[26]:
 
-E.J. Hopkins, Epic Mythology, New York, 1969 (reprint), p.41.
 
-[27]:
 
-Suśruta Saṃhitā Uttaratantra 27.4-5.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Cikitsāsthāna 9.20.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Uttaratantra 27.7.
 
-[29]:
 
-Suśruta Saṃhitā Uttaratantra 27.6.
+<div className="footnote-card"><strong>[15]</strong> N.N. Bhattacharyya, Indian Demonology, p.111.</div>
 
-[30]:
 
-Suśruta Saṃhitā Uttaratantra 28.12-13.
 
-[31]:
 
-Suśruta Saṃhitā Uttaratantra 29.9.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Kalpasthāna 7.59-62. Alarka is the fever occurring in dogs; G.J. Meulenbeld, Mādhavanidāna and its Chief Commentary: Chapters 1-10. Introduction, translation and notes, Leiden: Brill, 1974, p.154.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Uttaratantra 31.10-11.
 
-[33]:
 
-Suśruta Saṃhitā Uttaratantra 32.10-11.
+<div className="footnote-card"><strong>[17]</strong> N.N. Bhattacharyya, Indian Demonology, p.120.</div>
 
-[34]:
 
-Suśruta Saṃhitā Uttaratantra 33.9.
 
-[35]:
 
-Suśruta Saṃhitā Uttaratantra 34.9.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Cikitsāsthāna 9.20.
+</blockquote>
 
-[36]:
 
-Suśruta Saṃhitā Uttaratantra 35.8-9.
 
-[37]:
 
-Suśruta Saṃhitā Uttaratantra 36.11.
+<div className="footnote-card"><strong>[19]</strong> Monier-Williams, p.372.</div>
 
-[38]:
 
-Suśruta Saṃhitā Uttaratantra 37.4.
 
-[39]:
 
-M.Winternitz, “Nejamesha, Naigamesha, Nemeso”, The Journal of The Royal Society of Great Britain and Ireland, 1895, pp.149-155.
+<div className="footnote-card"><strong>[20]</strong> Monier-Williams, p.371.</div>
 
-[40]:
 
-Suśruta Saṃhitā Uttaratantra 60.22.
 
-[41]:
 
-Suśruta Saṃhitā Uttaratantra 60.5.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Uttaratantra 60.25-26.
+</blockquote>
 
-[42]:
 
-Suśruta Saṃhitā Uttaratantra 27.6; Suśruta Saṃhitā Uttaratantra 60.5;
 
-[43]:
 
-Suśruta Saṃhitā Uttaratantra 60.28/2-29/1.
+<div className="footnote-card"><strong>[22]</strong> S. Bhattacharji, The Indian Theogony, p.82.</div>
 
-[44]:
 
-Suśruta Saṃhitā Uttaratantra 60.29/2-31.
 
-[45]:
 
-Suśruta Saṃhitā Uttaratantra 60.31-33/1.
+<div className="footnote-card"><strong>[23]</strong> S. Bhattacharji, The Indian Theogony, pp.81-83.</div>
 
-[46]:
 
-Suśruta Saṃhitā Uttaratantra 60.33/2-37/1.
 
-[47]:
 
-Suśruta Saṃhitā Uttaratantra 60.54/2.
+<div className="footnote-card"><strong>[24]</strong> S. Bhattacharji, The Indian Theogony, p.101.</div>
 
-[48]:
 
-Suśruta Saṃhitā Uttaratantra 60.55.
 
-[49]:
 
-Suśruta Saṃhitā Uttaratantra 29.7.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Śārīrasthāna 3.30.
+</blockquote>
 
-[50]:
 
-Suśruta Saṃhitā Uttaratantra 32.8.
 
-[51]:
 
-Suśruta Saṃhitā Uttaratantra 33.7.
+<div className="footnote-card"><strong>[26]</strong> E.J. Hopkins, Epic Mythology, New York, 1969 (reprint), p.41.</div>
 
-[52]:
 
-Suśruta Saṃhitā Uttaratantra 60.37/2-38/1.
 
-[53]:
 
-Suśruta Saṃhitā Uttaratantra 60.53/2-54/1.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Uttaratantra 27.4-5.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Uttaratantra 62.26.
 
-[55]:
 
-Suśruta Saṃhitā Uttaratantra 61.25.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Uttaratantra 27.7.
+</blockquote>
 
-[56]:
 
-Suśruta Saṃhitā Uttaratantra 61.41/2.
 
-[57]:
 
-Manusmṛti XI.119.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Uttaratantra 27.6.
+</blockquote>
 
-[58]:
 
-S. Bhattacharji, The Indian Theogony, p.85.
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Uttaratantra 28.12-13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Uttaratantra 29.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Uttaratantra 31.10-11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Uttaratantra 32.10-11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Uttaratantra 33.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Uttaratantra 34.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Uttaratantra 35.8-9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Uttaratantra 36.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Uttaratantra 37.4.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[39]</strong> M.Winternitz, “Nejamesha, Naigamesha, Nemeso”, The Journal of The Royal Society of Great Britain and Ireland, 1895, pp.149-155.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Suśruta Saṃhitā Uttaratantra 60.22.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Suśruta Saṃhitā Uttaratantra 60.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Suśruta Saṃhitā Uttaratantra 27.6; Suśruta Saṃhitā Uttaratantra 60.5;
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Suśruta Saṃhitā Uttaratantra 60.28/2-29/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Suśruta Saṃhitā Uttaratantra 60.29/2-31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Suśruta Saṃhitā Uttaratantra 60.31-33/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Suśruta Saṃhitā Uttaratantra 60.33/2-37/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Suśruta Saṃhitā Uttaratantra 60.54/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Suśruta Saṃhitā Uttaratantra 60.55.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Suśruta Saṃhitā Uttaratantra 29.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Suśruta Saṃhitā Uttaratantra 32.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Suśruta Saṃhitā Uttaratantra 33.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Suśruta Saṃhitā Uttaratantra 60.37/2-38/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Suśruta Saṃhitā Uttaratantra 60.53/2-54/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Uttaratantra 62.26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Suśruta Saṃhitā Uttaratantra 61.25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Suśruta Saṃhitā Uttaratantra 61.41/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Manusmṛti XI.119.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[58]</strong> S. Bhattacharji, The Indian Theogony, p.85.</div>
 
 ---
 
-## 85. Female Divinities
+## Female Divinities
 
 Charaka Samhita and Sushruta Samhita
 
@@ -359,69 +513,86 @@ It is striking that Sarasvatī, who appears as a physician in the Vedic corpus, 
 
 We have referred earlier to the Sautrāmaṇī ritual occuring in both the Black and White Yajur Veda for warding off various forms of evil in the sacrificer’s personal life, to assure success, victory and so on.[13] The Sautrāmaṇī ritual is based on the myth of Indra’s illness resulting from his overindulgence in Soma which was cured by the Aśvins and Sarasvatī.[14] She bestows on Indra his characteristic qualities (īndriyāṇi) by means of vāc (speech) and restores his manly energy (vīryam).[15] It is interesting to note that Caraka refers to this ritual to establish the stature of the Aśvins vis-à-vis Indra and the other gods but ignores the contribution of Sarasvatī to the healing of Indra. Her role as a healer, therefore, had already disappeared.
 
-[1]:
 
-Suśruta Saṃhitā Uttaratantra 39.270.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Uttaratantra 39.270.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.310.
 
-[3]:
 
-D. Kinsley, Hindu Goddesses: Visions of the Divine Feminine in Hindu Religious Tradition, Delhi, 1998 (Reprint), p.151.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Cikitsāsthāna 3.310.
+</blockquote>
 
-[4]:
 
-G.M. Williams, Handbook of Hindu Mythology, New York, 2008 (First published 2003), p.256.
 
-[5]:
 
-D. Kinsley, Hindu Goddesses, p.155.
+<div className="footnote-card"><strong>[3]</strong> D. Kinsley, Hindu Goddesses: Visions of the Divine Feminine in Hindu Religious Tradition, Delhi, 1998 (Reprint), p.151.</div>
 
-[6]:
 
-Ṛgveda 10.184.
 
-[7]:
 
-Ṛgveda 10.184.2.
+<div className="footnote-card"><strong>[4]</strong> G.M. Williams, Handbook of Hindu Mythology, New York, 2008 (First published 2003), p.256.</div>
 
-[8]:
 
-C. Ludvick, Riverine Goddess of Knowledge: From the Manuscript-carrying Vīnā-player to the Weapon-wielding Defender of the Dharma, Leiden, 2007, p.47.
 
-[9]:
 
-Ṛgveda 7.57.
+<div className="footnote-card"><strong>[5]</strong> D. Kinsley, Hindu Goddesses, p.155.</div>
 
-[10]:
 
-Ṛgveda 6.100.
 
-[11]:
 
-Ṛgveda 5.23.
+<div className="footnote-card"><strong>[6]</strong> Ṛgveda 10.184.</div>
 
-[12]:
 
-C. Ludvick, Riverine Goddess of Knowledge, pp.41-42.
 
-[13]:
 
-C. Ludvick, Riverine Goddess of Knowledge, p.44.
+<div className="footnote-card"><strong>[7]</strong> Ṛgveda 10.184.2.</div>
 
-[14]:
 
-Ibid. p.44.
 
-[15]:
 
-Ibid. p.46.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> C. Ludvick, Riverine Goddess of Knowledge: From the Manuscript-carrying Vīnā-player to the Weapon-wielding Defender of the Dharma, Leiden, 2007, p.47.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ṛgveda 7.57.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ṛgveda 6.100.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ṛgveda 5.23.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> C. Ludvick, Riverine Goddess of Knowledge, pp.41-42.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> C. Ludvick, Riverine Goddess of Knowledge, p.44.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid. p.44.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid. p.46.</div>
 
 ---
-
-
 
 ---
 
@@ -430,10 +601,6 @@ Ibid. p.46.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Rudra-Śiva in the Medical Texts: Charaka Samhita And Sushruta Samhita Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Qualities of Physicians (in Ayurveda and Manasollasa) within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. 4. Qualities of Physicians (in Ayurveda and Manasollasa)
+## 4. Qualities of Physicians (in Ayurveda and Manasollasa)
 
 Physician as depicted in Manasollasa
 
@@ -41,8 +41,6 @@ srute paryavadatatvam bahuso drstakarmata | daksyam saucamiti jneyam vaidye guna
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -50,10 +48,6 @@ srute paryavadatatvam bahuso drstakarmata | daksyam saucamiti jneyam vaidye guna
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch34" className="text-emerald-400 hover:underline flex items-center font-medium">8. Food and Diet (in Ayurveda and Manasollasa): Physician As Depicted In Manasollasa Chapter 34 →</a>
 </div>
-
-
-
-
 
 ---
 

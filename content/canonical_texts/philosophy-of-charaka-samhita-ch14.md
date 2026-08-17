@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana) within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 55. Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana)
+## Dialectical terms (3): Counter syllogistic reasoning (pratiṣṭāpana)
 
 Philosophy of Charaka-samhita
 
@@ -33,13 +33,14 @@ Application — the self is perceivable like the pitcher
 
 Conclusion — therefore, is ephemeral.
 
-[1]:
 
-CS, Vimāna - sthāna, VIII. 32.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Vimāna - sthāna, VIII. 32.
+</blockquote>
 
 ---
 
-## 56. Dialectical terms (8): Conclusion (nigamana)
+## Dialectical terms (8): Conclusion (nigamana)
 
 Philosophy of Charaka-samhita
 
@@ -49,25 +50,35 @@ Dialectical terms (8): Conclusion (nigamana)
 
 In the case of conclusion also Caraka does not give any definition. From the nomenclature of the example it can be inferred that his conception does not materially differ from its concept in the Nyāya-sūtra which holds that conclusion serves the purpose of excluding contradicting suggestions against the establishment of that which is to be proved.[1] Akṣapāda defines it as the restatement of the proposition after stating the reason.[2] Praśastapāda calls it by the term pratyāmnāya. He also holds that it is the reiteration of the proposition.[3] According to the most perfected definition given by Gangeśopādhyāya, conclusion is a sentence that generates the verbal cognition referring to the presence of the major term (sādhya) in the minor term (pakṣa) of inference, which fact is arrived at by the cognition of the presence of reason in the minor term of inference.[4] In summary, Caraka gives an outline of the five member syllogistic expression that gives rise to the verbal cognition conductive to the rise of inferential cognition which was further clearly and judiciously accounted by the Naiyāyikas.
 
-[1]:
 
-See CS, Vimāna - sthāna, VIII. 31.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> See CS, Vimāna - sthāna, VIII. 31.
+</blockquote>
 
-[2]:
 
-hetvapadeśāt pratijñāyāḥ punarvacanṃ nigamanaṃ. Nyāyasūtra., I. i. 39.
 
-[3]:
 
-Praśastapādabhāṣya., p. 611.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> hetvapadeśāt pratijñāyāḥ punarvacanṃ nigamanaṃ. Nyāyasūtra., I. i. 39.
+</blockquote>
 
-[4]:
 
-taccanumitihetuliṅgaparāmarśaprayojakaśābdajñānakāraṇa vyāptipakṣatādhīprayuktasādhyadhījanakaṃ vākyaṃ. Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. II, Part—I, p. 595.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Praśastapādabhāṣya., p. 611.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> taccanumitihetuliṅgaparāmarśaprayojakaśābdajñānakāraṇa vyāptipakṣatādhīprayuktasādhyadhījanakaṃ vākyaṃ. Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. II, Part—I, p. 595.
+</blockquote>
 
 ---
 
-## 57. Dialectical terms (7): Application (upanaya)
+## Dialectical terms (7): Application (upanaya)
 
 Philosophy of Charaka-samhita
 
@@ -77,17 +88,21 @@ Dialectical terms (7): Application (upanaya)
 
 Application (upanaya) is the fourth member of the syllogism. Caraka does not give a definition of application beyond exemplifying it. We can conclude from the given illustration that application is a statement showing that the minor term (pakṣa) of inference has the reason of inference which is invariably related to the thing that is sought to be established. It is in conformity with this that Akṣapāda defines application as wrapping up with reference to the example of what is to be proved in the form of “as being so” or “as being not so”.[1] This is further attested by Praśastapāda who calls it anusandheya.[2]
 
-[1]:
 
-udāharaṇāpekṣastathetyupasamharo na tatheti vā sādhysyopanayaḥ. Nyāyasūtra., 1.i. 38.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> udāharaṇāpekṣastathetyupasamharo na tatheti vā sādhysyopanayaḥ. Nyāyasūtra., 1.i. 38.
+</blockquote>
 
-[2]:
 
-nidarsane'numeyasāmānyena saha dṛṣṭasya liṅgasāmanyamanumeye'nvayamanusandhānaṃ. Praśastapādabhāṣya., p. 606.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> nidarsane'numeyasāmānyena saha dṛṣṭasya liṅgasāmanyamanumeye'nvayamanusandhānaṃ. Praśastapādabhāṣya., p. 606.
+</blockquote>
 
 ---
 
-## 58. Dialectical terms (9): False rejoinder (uttara)
+## Dialectical terms (9): False rejoinder (uttara)
 
 Philosophy of Charaka-samhita
 
@@ -99,33 +114,41 @@ False Rejoinder is the opposition that occurs in a counterdemonstration. It is b
 
 The category named jāti of the Nyāya-sūtras serves the very same purpose of uttara in debate.[3] There, it is defined as a sophistical refutation of an argument based on similarity or dissimilarity.[4] Akṣapāda enumerates twenty-four kinds of futile rejoinders[5] which Caraka was unaware of. If this elaborate list had been known to Caraka, he would not have passed them with out referring to them.[6]
 
-[1]:
 
-uttaraṃ nāma sādharmyopadiṣṭe hetau vaidharmya vacanaṃ, vaidharmyopadiṣṭe vā hetau sādharmyavacanaṃ., CS, Vimāna - sthāna, VIII. 35.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> uttaraṃ nāma sādharmyopadiṣṭe hetau vaidharmya vacanaṃ, vaidharmyopadiṣṭe vā hetau sādharmyavacanaṃ., CS, Vimāna - sthāna, VIII. 35.
+</blockquote>
 
-[2]:
 
-Ibid.
 
-[3]:
 
-IFD, p. 3; HIPS, Vol. 1, p. 380.
+<div className="footnote-card"><strong>[2]</strong> Ibid.</div>
 
-[4]:
 
-sādharmyavaidharmyābhāṃ pratyavasthānaṃ jātiḥ, Nyāyasūtra., I. ii. 18.
 
-[5]:
 
-Nyāyasūtra., V. i, 1.
+<div className="footnote-card"><strong>[3]</strong> IFD, p. 3; HIPS, Vol. 1, p. 380.</div>
 
-[6]:
 
-HIPS, Vol. II. p. 382-83.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> sādharmyavaidharmyābhāṃ pratyavasthānaṃ jātiḥ, Nyāyasūtra., I. ii. 18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Nyāyasūtra., V. i, 1.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> HIPS, Vol. II. p. 382-83.</div>
 
 ---
-
-
 
 ---
 
@@ -134,10 +157,6 @@ HIPS, Vol. II. p. 382-83.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Dialectical terms (6): Example: (dṛṣṭānta): Philosophy Of Charaka Samhita Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

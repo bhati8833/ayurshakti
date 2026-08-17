@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 13. Application of the Alabu Yantra within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 83. 13. Application of the Alabu Yantra
+## 13. Application of the Alabu Yantra
 
 Surgery in ancient India (Study)
 
@@ -23,7 +23,7 @@ Alabu or gourd is described to be made of the bark of the succulent fruit called
 
 ---
 
-## 84. 17. The use of natural materials
+## 17. The use of natural materials
 
 Surgery in ancient India (Study)
 
@@ -41,7 +41,7 @@ after incision by knife, evidently to check haemorrhage. Susruta enumerates four
 
 ---
 
-## 85. 16. The Upa-yantras or Minor Surgical Accessories
+## 16. The Upa-yantras or Minor Surgical Accessories
 
 Surgery in ancient India (Study)
 
@@ -61,8 +61,6 @@ variety. Cakradatta also mentions it. In phlebotomy, a leather band is advised t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -70,10 +68,6 @@ variety. Cakradatta also mentions it. In phlebotomy, a leather band is advised t
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">19. Resemblance of Traditional and Modern Surgical Instruments: Ancient Indian Surgical Science Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

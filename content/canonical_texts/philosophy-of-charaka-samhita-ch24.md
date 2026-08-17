@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Way of life to liberation [in Charaka philosophy] within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 96. Way of life to liberation [in Charaka philosophy]
+## Way of life to liberation [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -23,13 +23,14 @@ Living in accordance with, but not quite tied up by the laws of nature, man, thr
 
 The seeker of liberation who has seen the futility of mundane life should approach a preceptor whose teaching he should put into practice. Thus, he should study the Dharmaśāstras, and mould his conduct and perform duties in compliance with the scriptures. He should be devotional to the noble and refrain from the wicked; should speak that which is conducive to the wellbeing of all living-beings and the speech should be gentle, reasonable, and pertinent. He should regard all living creatures as himself. He should avoid remembering, thinking about, desiring and talking with women. He should relinquish all belongings. He should wear a loin cloth and an ochrecoloured, garment and a case of needles for mending it. He should also carry a pot of water for cleaning, a mendicant's staff as a sign of his order of life, and a bowl for collecting alms. He should take food only once a day in order to keep his life and may substitute natural food accessible in the forest for cooked food. He may take rest on a bed improvised with dry leaves and weeds with out making it a usual habit. He may keep a wooden arm rest as an aid in meditation. He should live in the forest, but not in a roofed house. He should control desire and aversion and avoid drowsiness, sleep, and laziness. He should treat occasions of honouring, praise, criticism and insult as equal and should endure hunger thirst, fatigue, strain, cold, heat, wind, rain, pleasure, and pain. He should not be stimulated by grief, depression, self conceit, affliction, and arrogance. He should look on ego as the cause of suffering and view the micro-macro relationship of him to the universe. He should never hesitate to practice yoga. He must restrain all sense organs, the mind, and self. He should constantly resolve that the entities that constitute different parts of the body are the dhātus, should realize that anything that has a cause is miserable and ephemeral and all activities tainted with evil. He should regard complete renunciation as real happiness.[1] Eventually, such a disciplined life enables one to weaken and destroy ignorance, desire, and aversion underlying physiological urge to do positive acts and promotes one's cognitive capacities, fortitude, and memory and thereby free oneself from the ties of the phenomenal world. The way of life as has been suggested is nothing but the life of a monk (sanyāsin), which asks for complete renunciation.
 
-[1]:
 
-CS, Śārīra - sthāna, V.12. Loc. cit., F. Note 89.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> CS, Śārīra - sthāna, V.12. Loc. cit., F. Note 89.
+</blockquote>
 
 ---
 
-## 97. Concept of liberation in other philosophical systems
+## Concept of liberation in other philosophical systems
 
 Philosophy of Charaka-samhita
 
@@ -51,101 +52,154 @@ If we look at the various view points described above, it can be understood that
 
 Liberation has two aspects: (1) the liberating process and (2) the state of being liberated. The liberating process is a negative one which involves the eradication of suffering, and being liberated, by contrast, is a positive state. Emphasizing the negative phase of eradication, Caraka calls it by the epithets nirvāṇa and nivṛtti which echo the Buddhists, the Sāṃkhya-Yoga and the Nyāya- Vaiśeṣika. At the same time, with regard to the final state of freedom he agrees with the Vedāntins who hold that freedom is the attainment of oneness with the Brahman.
 
-[1]:
 
-savāsanāsamucchedo jñānoparama ityeke, Nyāyakandalī, Praśastapādabhāṣya., p. 6; Nyāyamañjarī of Jayantabhaṭṭa., Part—II, 81.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> savāsanāsamucchedo jñānoparama ityeke, Nyāyakandalī, Praśastapādabhāṣya., p. 6; Nyāyamañjarī of Jayantabhaṭṭa., Part—II, 81.
+</blockquote>
 
-[2]:
 
-The word nirvāṇa litterally means “extinguishing”, as in the extinguishing of a flame and it signifies soteriologically the complete extinguishing of greed, hatred and fundamentally delusion, the forces which power saṃsāra. For details see BT, p. 47 - 48.
 
-[3]:
 
-KFL, p. 265.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The word nirvāṇa litterally means “extinguishing”, as in the extinguishing of a flame and it signifies soteriologically the complete extinguishing of greed, hatred and fundamentally delusion, the forces which power saṃsāra. For details see BT, p. 47 - 48.
+</blockquote>
 
-[4]:
 
-ACJ, p. 4.
 
-[5]:
 
-tasya heturavidyā, Yogasūtra, Su Sūtra - sthāna, II. 24 viparyayajñāna-saṃskārasahitā vidyeti sūtrārthaḥ, Pātañjalarahasya on ibid., YD, p. 233.
+<div className="footnote-card"><strong>[3]</strong> KFL, p. 265.</div>
 
-[6]:
 
-vivekakhyātiraviplava hānopāyaḥ, Yogasūtra, Su Sūtra - sthāna, II. 26. sattvapuruṣānyatāpratyayo vivekakhyātiḥ, Vyāsabhāṣya on ibid, YD, p. 236.
 
-[7]:
 
-The eight stages are yama, niyama, āsana, prāṇāyāma, pratyāhra dhāraṇā, dhyāna and samādhi. Yogasūtra, Su Sūtra - sthāna, II. 29.
+<div className="footnote-card"><strong>[4]</strong> ACJ, p. 4.</div>
 
-[8]:
 
-Vaiśeṣikadarśana., I. i. 2,
 
-[9]:
 
-Vaiśeṣikadarśana., I. i. 4.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> tasya heturavidyā, Yogasūtra, Su Sūtra - sthāna, II. 24 viparyayajñāna-saṃskārasahitā vidyeti sūtrārthaḥ, Pātañjalarahasya on ibid., YD, p. 233.
+</blockquote>
 
-[10]:
 
-“samastātmaviśeṣaguṇocchedopalakṣitā svarūpasthitireva”, Nyāyakandalī, Praśastapādabhāṣya., p. 692.
 
-[11]:
 
-tadatyantavimokṣo'pavargaḥ, Nyāyasūtra., I. i. 22.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> vivekakhyātiraviplava hānopāyaḥ, Yogasūtra, Su Sūtra - sthāna, II. 26. sattvapuruṣānyatāpratyayo vivekakhyātiḥ, Vyāsabhāṣya on ibid, YD, p. 236.
+</blockquote>
 
-[12]:
 
-duḥkhajanmapravṛttidoṣamithyājñānānāṃ uttarottarapāye tadanantarapāyadapavrgagaḥ, Nyāyasūtra., I. i. 2.
 
-[13]:
 
-tadabhayamajaramamṛtyupadaṃ braḥmakṣemaprāptiriti, Vātsyāyana on Nyāyasūtra., I. i. 22, Nyāya-Bhāṣya of Vātsyāyana., p.39.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The eight stages are yama, niyama, āsana, prāṇāyāma, pratyāhra dhāraṇā, dhyāna and samādhi. Yogasūtra, Su Sūtra - sthāna, II. 29.
+</blockquote>
 
-[14]:
 
-navānāṃ ātmaguṇānāṃ buddhisukhaduḥkheccadveṣa-prayatnadharmādharmasaṃskārāṇāṃ nirmūlocchedo'pavarga ituktaṃ bhavati, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, 77.
 
-[15]:
 
-KFL, p.264.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Vaiśeṣikadarśana., I. i. 2,
+</blockquote>
 
-[16]:
 
-JNS, Vol. I, p. 879.
 
-[17]:
 
-yasmin prītiḥ puruṣasya tasya lipsārthalakṣaṇā vibhaktatvāt. M. Su, IV. i. 2.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Vaiśeṣikadarśana., I. i. 4.
+</blockquote>
 
-[18]:
 
-na hyabhāvātmakaṃ muktvā mokṣanityatvakāraṇaṃ, Slokavartika., cited in JNS, Vol. I, p. 879 (F. Notes).
 
-[19]:
 
-sakalabudhyādiviśeṣaguṇavilaye satyātmanaḥ svarūpāvasthānaṃ mokṣa iti prābhākaramataṃ, Mānameyodaya of Nārāyaṇa., p.214.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “samastātmaviśeṣaguṇocchedopalakṣitā svarūpasthitireva”, Nyāyakandalī, Praśastapādabhāṣya., p. 692.
+</blockquote>
 
-[20]:
 
-EIP, p. 149.
 
-[21]:
 
-ACJ, p. 4.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> tadatyantavimokṣo'pavargaḥ, Nyāyasūtra., I. i. 22.
+</blockquote>
 
-[22]:
 
-“Brahmaveda brahmaiva bhavati”, Muṇḍaka Upaniṣad.., III. ii. 9. ānandātmakabrahmāvāptiśca mokṣaḥ, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 204; nityaniratiśayasukhābhivyaktirityapare, Praśastapādabhāṣya., p. 8.
 
-[23]:
 
-ACJ, p. 4.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> duḥkhajanmapravṛttidoṣamithyājñānānāṃ uttarottarapāye tadanantarapāyadapavrgagaḥ, Nyāyasūtra., I. i. 2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> tadabhayamajaramamṛtyupadaṃ braḥmakṣemaprāptiriti, Vātsyāyana on Nyāyasūtra., I. i. 22, Nyāya-Bhāṣya of Vātsyāyana., p.39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> navānāṃ ātmaguṇānāṃ buddhisukhaduḥkheccadveṣa-prayatnadharmādharmasaṃskārāṇāṃ nirmūlocchedo'pavarga ituktaṃ bhavati, Nyāyamañjarī of Jayantabhaṭṭa., Part—II, 77.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> KFL, p.264.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> JNS, Vol. I, p. 879.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> yasmin prītiḥ puruṣasya tasya lipsārthalakṣaṇā vibhaktatvāt. M. Su, IV. i. 2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> na hyabhāvātmakaṃ muktvā mokṣanityatvakāraṇaṃ, Slokavartika., cited in JNS, Vol. I, p. 879 (F. Notes).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> sakalabudhyādiviśeṣaguṇavilaye satyātmanaḥ svarūpāvasthānaṃ mokṣa iti prābhākaramataṃ, Mānameyodaya of Nārāyaṇa., p.214.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> EIP, p. 149.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> ACJ, p. 4.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> “Brahmaveda brahmaiva bhavati”, Muṇḍaka Upaniṣad.., III. ii. 9. ānandātmakabrahmāvāptiśca mokṣaḥ, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 204; nityaniratiśayasukhābhivyaktirityapare, Praśastapādabhāṣya., p. 8.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> ACJ, p. 4.</div>
 
 ---
 
-## 98. Chapter 9 - Conclusion
+## Chapter 9 - Conclusion
 
 Philosophy of Charaka-samhita
 
@@ -205,8 +259,6 @@ In concluding the thesis, it would not be improper to point out that at least so
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -214,10 +266,6 @@ In concluding the thesis, it would not be improper to point out that at least so
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

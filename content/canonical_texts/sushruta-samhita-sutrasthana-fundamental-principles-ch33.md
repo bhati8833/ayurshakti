@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Fatal Signs of Diseases within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Chapter XXXIII - Fatal Signs of Diseases
+## Chapter XXXIII - Fatal Signs of Diseases
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -49,8 +49,6 @@ Thus ends the the thirty-third Chapter of the Sutrasthana in the Sushruta Samhit
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -58,10 +56,6 @@ Thus ends the the thirty-third Chapter of the Sutrasthana in the Sushruta Samhit
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch34" className="text-emerald-400 hover:underline flex items-center font-medium">Good and bad nature of body parts fatal signs: Sushruta Samhita Sutrasthana Chapter 34 →</a>
 </div>
-
-
-
-
 
 ---
 

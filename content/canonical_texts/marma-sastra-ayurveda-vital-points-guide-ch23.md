@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix 4 - Table of weights and measures described in Ayurvedic Classics within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 76. Appendix 4 - Table of weights and measures described in Ayurvedic Classics
+## Appendix 4 - Table of weights and measures described in Ayurvedic Classics
 
 Marma-sastra and Ayurveda (study)
 
@@ -25,7 +25,7 @@ In the case of liquids, the metric equivalents would be the corresponding litre 
 
 ---
 
-## 77. Appendix 3 - Research work done on Marma in various Universities and Institutes
+## Appendix 3 - Research work done on Marma in various Universities and Institutes
 
 Marma-sastra and Ayurveda (study)
 
@@ -39,8 +39,6 @@ Appendix No.3 Research work done on Marma in various Universities and Institutes
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -48,10 +46,6 @@ Appendix No.3 Research work done on Marma in various Universities and Institutes
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

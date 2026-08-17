@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dilleniaceae family within Indian Medicinal Plants. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Dilleniaceae family
+## Dilleniaceae family
 
 Indian Medicinal Plants
 
@@ -19,25 +19,13 @@ by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
 
-Dilleniaceae family
-
-- Sub-Contents: (+ / -)
-
----
-
-
-
----
+Dilleniaceae family, ---, ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
   <a href="/articles/indian-medicinal-plants-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">← Notes on the importance of Sanskrit names of medicinal plants: Indian Medicinal Plants Chapter 5</a>
   <a href="/articles/indian-medicinal-plants" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/indian-medicinal-plants-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Ranunculaceae (buttercup family): Indian Medicinal Plants Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

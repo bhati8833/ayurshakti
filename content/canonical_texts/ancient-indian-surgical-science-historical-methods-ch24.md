@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 11. Disinfection rooms clothes within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 77. 11. Disinfection rooms clothes
+## 11. Disinfection rooms clothes
 
 Surgery in ancient India (Study)
 
@@ -23,7 +23,7 @@ Caraka says that if peacock's feather, bones of vaka bird, white mustard and red
 
 ---
 
-## 78. 9. Application of Uttara-Vasti instruments
+## 9. Application of Uttara-Vasti instruments
 
 Surgery in ancient India (Study)
 
@@ -35,7 +35,7 @@ UTTARA-VASTI TUBULAR INSTRUMENTS FOR THE URETRA The tubes intended for applying 
 
 ---
 
-## 79. 12. Tubular instrument for cupping
+## 12. Tubular instrument for cupping
 
 Surgery in ancient India (Study)
 
@@ -49,8 +49,6 @@ winding thread round it. This facilitates the operation of suction by the mouth 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -58,10 +56,6 @@ winding thread round it. This facilitates the operation of suction by the mouth 
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">10. Tubular instruments for Inhalations and Fumigations: Ancient Indian Surgical Science Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

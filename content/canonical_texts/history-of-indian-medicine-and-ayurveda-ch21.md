@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Beginning of Metaphysics and Medicine within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 62. Chapter 1 - The Beginning of Metaphysics and Medicine
+## Chapter 1 - The Beginning of Metaphysics and Medicine
 
 History of Indian Medicine (and Ayurveda)
 
@@ -203,7 +203,7 @@ These together with the sense-organs form the entire mechanism of knowledge in a
 
 ---
 
-## 63. Chapter 2 - Reality—The Soul and the World of Things
+## Chapter 2 - Reality—The Soul and the World of Things
 
 History of Indian Medicine (and Ayurveda)
 
@@ -265,13 +265,12 @@ Thus the six categories of substance etc, are explained and this hexad is known 
 
 The Sankhya which includes these among its categories, refers them to an original cause of which they are evolutes. The categories that are twenty-five are thus ultimately reduced to two—the self and original nature or Prakrti known variously as Avyakta and Pradhana. In Caraka there is a sudden transition from the pluralism of the Nyaya-Vaisheshika to the Sankhya categories, again making a fundamental deviation from it betraying Vedantic inclination towards one common origin of all things. We shall note this tendency and transition presently.
 
-[1]:
 
-Vaisheshika and Nyaya Sutras—“Substances are nine only earth, water, light, air, ether, time, directions, self and mind”.
+<div className="footnote-card"><strong>[1]</strong> Vaisheshika and Nyaya Sutras—“Substances are nine only earth, water, light, air, ether, time, directions, self and mind”.</div>
 
 ---
 
-## 64. Chapter 5 - The Ethical Note in Ayurveda
+## Chapter 5 - The Ethical Note in Ayurveda
 
 History of Indian Medicine (and Ayurveda)
 
@@ -338,8 +337,6 @@ Thus the good life is not only that which gives spiritual fulfilment and final l
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -347,10 +344,6 @@ Thus the good life is not only that which gives spiritual fulfilment and final l
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">What is Man?: History Of Indian Medicine And Ayurveda Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

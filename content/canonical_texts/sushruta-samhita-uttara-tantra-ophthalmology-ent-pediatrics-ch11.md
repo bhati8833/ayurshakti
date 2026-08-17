@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of an attack -graha within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. Chapter XXX - Treatment of an attack by Shakuni-graha
+## Chapter XXX - Treatment of an attack by Shakuni-graha
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -33,13 +33,14 @@ Various sorts of worship should be made with the offerings of various species of
 
 Thus ends the thirtieth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the treatment of (an attack) by Shakuni.
 
-[1]:
 
-See Chapter I, Chikitshita Sthāna.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> See Chapter I, Chikitshita Sthāna.
+</blockquote>
 
 ---
 
-## 34. Chapter I - Diseases of the eye and its appendages
+## Chapter I - Diseases of the eye and its appendages
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -137,29 +138,36 @@ Thus we have finished enumerating the seventy-six types of eye-diseases, of whic
 
 Thus ends the first chapter of the Uttra-tantra in the Sushruta Samhita which deals with the diseases, viz. of the eye, etc.
 
-[1]:
 
-The text has Āgantuka (traumatic diseases). Gayadasa explains it to mean Apasmāra, Unmāda, etc. (Hysteria, insanity, etc.).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The text has Āgantuka (traumatic diseases). Gayadasa explains it to mean Apasmāra, Unmāda, etc. (Hysteria, insanity, etc.).
+</blockquote>
 
-[2]:
 
-Evidently some line or lines are missing here as the line cannot give a complete sense by itself. Ed.
 
-[3]:
 
-By “Jala” is meant here the serum (Rasa) in the skin, and by “Tejas” the blood in the veins (Sirā) carrying the (Tejas) known as the Ālocaka.
+<div className="footnote-card"><strong>[2]</strong> Evidently some line or lines are missing here as the line cannot give a complete sense by itself. Ed.</div>
 
-[4]:
 
-D. R. vessels, muscles and aqueous humour (Medas) are most important for the maintenance of Krishna-mandala.
 
-[5]:
 
-The one due to any external blow or hurt (Sanimitta) and the other originating from the sudden sight of any celestial being of extreme brilliancy (Animitta).
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> By “Jala” is meant here the serum (Rasa) in the skin, and by “Tejas” the blood in the veins (Sirā) carrying the (Tejas) known as the Ālocaka.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> D. R. vessels, muscles and aqueous humour (Medas) are most important for the maintenance of Krishna-mandala.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> The one due to any external blow or hurt (Sanimitta) and the other originating from the sudden sight of any celestial being of extreme brilliancy (Animitta).</div>
 
 ---
 
-## 35. Chapter XXIX - Therapeutics of an attack by Skandapasmara
+## Chapter XXIX - Therapeutics of an attack by Skandapasmara
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -179,13 +187,12 @@ The physician (or the votary officiating for him) should worship the presiding d
 
 Thus ends the twenty-ninth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of an attack by Skandapasmara.
 
-[1]:
 
-Although Dallana prescribes the drugs oi the Kākolyādi group to be used as Kalka, we are inclined to take the sentence to mean that the decoction of those drugs should be used.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Although Dallana prescribes the drugs oi the Kākolyādi group to be used as Kalka, we are inclined to take the sentence to mean that the decoction of those drugs should be used.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -194,10 +201,6 @@ Although Dallana prescribes the drugs oi the Kākolyādi group to be used as Kal
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Theraputics Of An Attack -Graha: Sushruta Samhita Uttara Tantra Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

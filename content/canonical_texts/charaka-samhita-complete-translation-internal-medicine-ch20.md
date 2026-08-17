@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The therapeutics of Spastic Paraplegia (urustambha-cikitsa) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 114. Chapter 27 - The therapeutics of Spastic Paraplegia (urustambha-cikitsa)
+## Chapter 27 - The therapeutics of Spastic Paraplegia (urustambha-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -127,7 +127,7 @@ Here is a recapitulatory verse—
 
 ---
 
-## 115. Chapter 26 - The therapeutics of Wounds (tri-marma-cikitsa)
+## Chapter 26 - The therapeutics of Wounds (tri-marma-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -607,7 +607,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 116. Chapter 28 - The therapeutics of Vata Diseases (vatavyadhi-cikitsa)
+## Chapter 28 - The therapeutics of Vata Diseases (vatavyadhi-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1061,7 +1061,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 117. Chapter 29 - The therapeutics of Rheumatic Conditions (vata-shonita-cikitsa)
+## Chapter 29 - The therapeutics of Rheumatic Conditions (vata-shonita-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1307,7 +1307,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 118. Kalpasthana (Kalpa Sthana) — Section on Pharmaceutics
+## Kalpasthana (Kalpa Sthana) — Section on Pharmaceutics
 
 Charaka Samhita (English translation)
 
@@ -1315,11 +1315,9 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Kalpasthana (Kalpa Sthana) — Section on Pharmaceutics
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 119. Chapter 30 - The therapeutics of Gynecic Disorders (yoni-vyapad-cikitsa)
+## Chapter 30 - The therapeutics of Gynecic Disorders (yoni-vyapad-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1861,8 +1859,6 @@ Here are the recapitulatory verses—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1870,10 +1866,6 @@ Here are the recapitulatory verses—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">b - The Pharmaceutics of the Emetic nut (madana-kalpa): Charaka Samhita Complete Translation Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

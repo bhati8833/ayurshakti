@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Aetiology (c): Ādhidaivika within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 45. Aetiology (c): Ādhidaivika
+## Aetiology (c): Ādhidaivika
 
 Charaka Samhita and Sushruta Samhita
 
@@ -59,41 +59,59 @@ inability of the individual to perform normal functions.
 
 In fact, the term “roga” and its synonyms (ātaṇka, yakṣma, vikāra, etc.) denote both the doṣas and the disease (vyādhi).[8]
 
-[1]:
 
-Monier-Williams, p.138.
+<div className="footnote-card"><strong>[1]</strong> Monier-Williams, p.138.</div>
 
-[2]:
 
-The term “saṃsarga” means contamination due to touching. http://vedabase.net/s/samsarga
 
-[3]:
 
-Monier-Williams, p.126.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The term “saṃsarga” means contamination due to touching. http://vedabase.net/s/samsarga
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.30.
 
-[5]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Nidāna-sthāna 1.7.
+<div className="footnote-card"><strong>[3]</strong> Monier-Williams, p.126.</div>
 
-[6]:
 
-Suśruta Saṃhitā Uttaratantra 62.3.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.8.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Nidāna-sthāna 1.30.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Vimānasthāna 6.4.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Cakrapāṇidatta on Caraka Saṃhitā Nidāna-sthāna 1.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Uttaratantra 62.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 24.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Vimānasthāna 6.4.
+</blockquote>
 
 ---
 
-## 46. Disease as an entity or as a process
+## Disease as an entity or as a process
 
 Charaka Samhita and Sushruta Samhita
 
@@ -119,81 +137,121 @@ the reflection of an image in a mirror, or cold and heat penetrating the body, o
 
 The humoral pathology of these diseases as also of pediatric diseases attributed to grahas is less understood in the early Saṃhitās. The pathogenesis of disorders caused by divine fury, spells and imprecations is also not addressed by the authors. It is simply stated that they too cause imbalance of all the three doṣas.[18] The nature of disease etiology in the Saṃhitās, therefore, may be described as primarily physiological supplemented by ontological conception.
 
-[1]:
 
-P. Carrick, Medical Ethics in the Ancient World, Washington, D.C., 2001, p. 35.
+<div className="footnote-card"><strong>[1]</strong> P. Carrick, Medical Ethics in the Ancient World, Washington, D.C., 2001, p. 35.</div>
 
-[2]:
 
-T. Schramme, “Classic Concepts of Disease” in K. Heggenhougen and S.Quah (ed.), International Encyclopaedia of Public Health, Vol.I, San Diego, Academic Press, 2008, pp. 726- 733.
 
-[3]:
 
-P. Carrick, Medical Ethics in the Ancient World, p.35.
+<div className="footnote-card"><strong>[2]</strong> T. Schramme, “Classic Concepts of Disease” in K. Heggenhougen and S.Quah (ed.), International Encyclopaedia of Public Health, Vol.I, San Diego, Academic Press, 2008, pp. 726- 733.</div>
 
-[4]:
 
-S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.301.
 
-[5]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.6.
+<div className="footnote-card"><strong>[3]</strong> P. Carrick, Medical Ethics in the Ancient World, p.35.</div>
 
-[6]:
 
-Caraka Saṃhitā Nidāna-sthāna 8.40.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 19.8; Suśruta Saṃhitā Uttaratantra 40.5.
+<div className="footnote-card"><strong>[4]</strong> S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.301.</div>
 
-[8]:
 
-Suśruta Saṃhitā Uttaratantra 54.3-6/1.
 
-[9]:
 
-Manohar, P. Ram, “Accounts of Pathogenic Organisms in the Early Texts of Ayurveda” in Indian Journal of History of Science, Vol. 47, no.4, December, 2012, pp. 45-559.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Nidāna-sthāna 1.6.
+</blockquote>
 
-[10]:
 
-Manohar, P. Ram, “Accounts of Pathogenic Organisms in the Early Texts of Ayurveda”.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.16.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Nidāna-sthāna 8.40.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.20.
 
-[13]:
 
-Suśruta Saṃhitā Uttaratantra 60.4.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 19.8; Suśruta Saṃhitā Uttaratantra 40.5.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Uttaratantra 27.3-5.
 
-[15]:
 
-Suśruta Saṃhitā Uttaratantra 60.21.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Uttaratantra 54.3-6/1.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.18; Suśruta Saṃhitā Uttaratantra 60.19.
 
-[17]:
 
-Suśruta Saṃhitā Uttaratantra 60.22.
+<div className="footnote-card"><strong>[9]</strong> Manohar, P. Ram, “Accounts of Pathogenic Organisms in the Early Texts of Ayurveda” in Indian Journal of History of Science, Vol. 47, no.4, December, 2012, pp. 45-559.</div>
 
-[18]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.118-119.
+
+
+<div className="footnote-card"><strong>[10]</strong> Manohar, P. Ram, “Accounts of Pathogenic Organisms in the Early Texts of Ayurveda”.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 9.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 9.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Uttaratantra 60.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Uttaratantra 27.3-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Uttaratantra 60.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Cikitsāsthāna 9.18; Suśruta Saṃhitā Uttaratantra 60.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Uttaratantra 60.22.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Cikitsāsthāna 3.118-119.
+</blockquote>
 
 ---
 
-## 47. The Principles of Therapeutics (Cikitsā)
+## The Principles of Therapeutics (Cikitsā)
 
 Charaka Samhita and Sushruta Samhita
 
@@ -245,81 +303,129 @@ Suśruta gives a four-fold classification of therapeutic procedures, which is as
 
 The term daivavyāpāśraya or a similar term does not occur in the text. Nor are rituals and prayers specifically mentioned as ācāra. Nonetheless, they are recommended as a therapeutic measure in several diseases as we shall discuss. Chanting of hymns as a protective measure is evident in surgeries;[16] in the protection of the wounded[17] and in cases of mūḍhagarbha (abnormal foetal presentations), and attempts to deliver the foetus alive.[18]
 
-[1]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 1(1).3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 1(1).3.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Cikitsāsthāna 1(1).3.
 
-[3]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 1(1).3.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Cikitsāsthāna 1(1).3.
+</blockquote>
 
-[4]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 1(1).3.
 
-[5]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Nidāna-sthāna 1.7.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 1(1).3.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.31.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.33.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 1(1).3.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Sūtrasthāna 11.54.
 
-[9]:
 
-S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p. 49.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Cakrapāṇidatta on Caraka Saṃhitā Nidāna-sthāna 1.7.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Sūtrasthāna 11.54.
 
-[11]:
 
-Caraka Saṃhitā Sūtrasthāna 11.54.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 7.31.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Sūtrasthāna 1.58.
 
-[13]:
 
-Caraka Saṃhitā Sūtrasthāna 11.55.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 7.33.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.27.
 
-[15]:
 
-P.V. Sharma (trans.), Suśruta Saṃhitā, Vol. I, pp.20-21.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Sūtrasthāna 11.54.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.20-33;
 
-[17]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.25-27.
+<div className="footnote-card"><strong>[9]</strong> S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p. 49.</div>
 
-[18]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Sūtrasthāna 11.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Sūtrasthāna 11.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Sūtrasthāna 1.58.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Sūtrasthāna 11.55.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 1.27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> P.V. Sharma (trans.), Suśruta Saṃhitā, Vol. I, pp.20-21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 5.20-33;
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Sūtrasthāna 19.25-27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -328,10 +434,6 @@ Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Infirmaries and Hospitals in ancient India: Charaka Samhita And Sushruta Samhita Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

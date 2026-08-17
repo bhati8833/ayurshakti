@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Pathology of Consumption (shosha-nidana) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. Chapter 6 - The Pathology of Consumption (shosha-nidana)
+## Chapter 6 - The Pathology of Consumption (shosha-nidana)
 
 Charaka Samhita (English translation)
 
@@ -101,7 +101,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 49. Chapter 7 - The Pathology of Insanity (unmada-nidana)
+## Chapter 7 - The Pathology of Insanity (unmada-nidana)
 
 Charaka Samhita (English translation)
 
@@ -211,7 +211,7 @@ Here is the recapitulatory verse -
 
 ---
 
-## 50. Chapter 8 - The Pathology of Epilepsy (apasmara-nidana)
+## Chapter 8 - The Pathology of Epilepsy (apasmara-nidana)
 
 Charaka Samhita (English translation)
 
@@ -347,7 +347,7 @@ Thus ends the Section on Pathology.
 
 ---
 
-## 51. Vimanasthana (Vimana Sthana) — Section on Measure
+## Vimanasthana (Vimana Sthana) — Section on Measure
 
 Charaka Samhita (English translation)
 
@@ -355,11 +355,9 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Vimanasthana (Vimana Sthana) — Section on Measure
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 52. Chapter 1 - The Measure of Tastes (rasa-vimana)
+## Chapter 1 - The Measure of Tastes (rasa-vimana)
 
 Charaka Samhita (English translation)
 
@@ -509,7 +507,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 53. Chapter 2 - The Measure of the Stomach Capacity (kukshi-vimana)
+## Chapter 2 - The Measure of the Stomach Capacity (kukshi-vimana)
 
 Charaka Samhita (English translation)
 
@@ -613,8 +611,6 @@ Here is the recapitulatory verse—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -622,10 +618,6 @@ Here is the recapitulatory verse—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">The Measure of Depopulation through Epidemics (uddhvamsa-vimana): Charaka Samhita Complete Translation Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

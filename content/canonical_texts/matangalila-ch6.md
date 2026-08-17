@@ -11,11 +11,9 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on śubhalakṣaṇādhikāro dvitīyaḥ paṭalaḥ within Matangalila. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Chapter 2 - śubhalakṣaṇādhikāro dvitīyaḥ paṭalaḥ
+## Chapter 2 - śubhalakṣaṇādhikāro dvitīyaḥ paṭalaḥ
 
 ---
-
-
 
 ---
 
@@ -24,10 +22,6 @@ isCanonicalText: true
   <a href="/articles/matangalila" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">mānanirṇayādhikāraḥ ṣaṣṭhaḥ paṭalaḥ: Matangalila Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

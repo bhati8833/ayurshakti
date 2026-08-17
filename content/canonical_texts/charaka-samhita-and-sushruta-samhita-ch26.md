@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Rudra-Śiva in the Medical Texts within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 86. Rudra-Śiva in the Medical Texts
+## Rudra-Śiva in the Medical Texts
 
 Charaka Samhita and Sushruta Samhita
 
@@ -45,205 +45,280 @@ We may refer to some iconographic representations of Śiva which have bearing on
 
 From the above discussion it is clear that Rudra-Śiva is associated with various disease causing agents: poisons, snakes and malevolent elements. On the other hand, he controls the remedial agents: plants, animals, water. In the Vedic corpus itself, Rudra is praised as the god of the universe, the god who enjoys supreme position and paramount importance; he is everything, good and evil, more evil perhaps than good-but he symbolizes all creation, animate, and inanimate, human and subhuman, moral and immoral.[47] There is a deliberate tendency to see in him a god with comprehensive control over all nature.[48] Association with disease causing agents implies Śiva gives deliverance from them as well. In the Mahābhārata (XIII.17) itself, Brahmā describes Mahādeva as Dhanvantari, the prince of physicians.[49] These attributes undoubtedly contributed to his growing popularity as the god of healing and he came to be worshipped as Vaidyanātha.
 
-[1]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.91.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Cikitsāsthāna 9.91.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.4.
 
-[3]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.14.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Cikitsāsthāna 3.4.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Uttaratantra 39.9.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.310; Suśruta Saṃhitā Uttaratantra 39.270.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Cikitsāsthāna 3.14.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.91.
 
-[7]:
 
-Suśruta Saṃhitā Uttaratantra 61.25.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Uttaratantra 39.9.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.95.
 
-[9]:
 
-Caraka Saṃhitā Siddhisthāna 12.19(1)-19(3).
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 3.310; Suśruta Saṃhitā Uttaratantra 39.270.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Siddhisthāna 12.38.
 
-[11]:
 
-A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, Cambridge (Mass.), 1925, p.143.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 9.91.
+</blockquote>
 
-[12]:
 
-Ṛgveda 7.46.3; 2.33.14; Atharvaveda 6.90.1.
 
-[13]:
 
-Ṛgveda 1.114.1.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Uttaratantra 61.25.
+</blockquote>
 
-[14]:
 
-Ṛgveda 1.43.6.
 
-[15]:
 
-Atharvaveda XI.2.22 says “Homage to him, whose weapon Cough or Fever, assails one like the neighing of a stallion.”
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Cikitsāsthāna 9.95.
+</blockquote>
 
-[16]:
 
-Atharvaveda XI.2.26; VI.90.
 
-[17]:
 
-S. Bhattacharji, The Indian Theogony, p.109.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Siddhisthāna 12.19(1)-19(3).
+</blockquote>
 
-[18]:
 
-Ṛgveda 7.46.3.
 
-[19]:
 
-Ṛgveda 2.33.4.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Siddhisthāna 12.38.
+</blockquote>
 
-[20]:
 
-Ṛgveda II.35.7; Atharvaveda I.27.6, VI.44.6; S. Bhattacharji, The Indian Theogony, p.127.
 
-[21]:
 
-A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 143.
+<div className="footnote-card"><strong>[11]</strong> A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, Cambridge (Mass.), 1925, p.143.</div>
 
-[22]:
 
-S. Bhattacharji, The Indian Theogony, p.117.
 
-[23]:
 
-Atharvaveda VI.90.1; VI.57.1;VI.59.3; S. Bhattacharji, The Indian Theogony, p.127.
+<div className="footnote-card"><strong>[12]</strong> Ṛgveda 7.46.3; 2.33.14; Atharvaveda 6.90.1.</div>
 
-[24]:
 
-Ṛgveda VI.93.1; VI.141.1; I.43.2; V.42.11; VII.46.2
 
-[25]:
 
-A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 143.
+<div className="footnote-card"><strong>[13]</strong> Ṛgveda 1.114.1.</div>
 
-[26]:
 
-Atharvaveda II.34; XI.2.2
 
-[27]:
 
-S. Bhattacharji, The Indian Theogony, p.128.
+<div className="footnote-card"><strong>[14]</strong> Ṛgveda 1.43.6.</div>
 
-[28]:
 
-Atharvaveda VII.87.
 
-[29]:
 
-S. Bhattacharji, The Indian Theogony, pp. 154- 157.
+<div className="footnote-card"><strong>[15]</strong> Atharvaveda XI.2.22 says “Homage to him, whose weapon Cough or Fever, assails one like the neighing of a stallion.”</div>
 
-[30]:
 
-S. Bhattacharji, The Indian Theogony, p.128-129.
 
-[31]:
 
-S. Bhattacharji, The Indian Theogony, p.135.
+<div className="footnote-card"><strong>[16]</strong> Atharvaveda XI.2.26; VI.90.</div>
 
-[32]:
 
-S. Bhattacharji, The Indian Theogony, p.141.
 
-[33]:
 
-S. Bhattacharji, The Indian Theogony, p.133.
+<div className="footnote-card"><strong>[17]</strong> S. Bhattacharji, The Indian Theogony, p.109.</div>
 
-[34]:
 
-S. Bhattacharji, The Indian Theogony, p.138.
 
-[35]:
 
-S. Bhattacharji, The Indian Theogony, pp.135-140.
+<div className="footnote-card"><strong>[18]</strong> Ṛgveda 7.46.3.</div>
 
-[36]:
 
-A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 145.
 
-[37]:
 
-S. Bhattacharji, The Indian Theogony, p.139-140.
+<div className="footnote-card"><strong>[19]</strong> Ṛgveda 2.33.4.</div>
 
-[38]:
 
-S. Bhattacharji, The Indian Theogony, p.151-151.
 
-[39]:
 
-S. Kramrisch, The Presence of Śiva, Varanasi/Delhi, 1988, p. 259.
+<div className="footnote-card"><strong>[20]</strong> Ṛgveda II.35.7; Atharvaveda I.27.6, VI.44.6; S. Bhattacharji, The Indian Theogony, p.127.</div>
 
-[40]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.81.
 
-[41]:
 
-S. Bhattacharji, The Indian Theogony, p.141.
+<div className="footnote-card"><strong>[21]</strong> A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 143.</div>
 
-[42]:
 
-S. Bhattacharji, The Indian Theogony, p.149.
 
-[43]:
 
-A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p.145.
+<div className="footnote-card"><strong>[22]</strong> S. Bhattacharji, The Indian Theogony, p.117.</div>
 
-[44]:
 
-S. Bhattacharji, The Indian Theogony, p. 152.
 
-[45]:
 
-S. Bhattacharji, The Indian Theogony, pp.127-128.
+<div className="footnote-card"><strong>[23]</strong> Atharvaveda VI.90.1; VI.57.1;VI.59.3; S. Bhattacharji, The Indian Theogony, p.127.</div>
 
-[46]:
 
-A. Jha, Bharatiya Sikke: Ek Aitihāsika Paricaya (in Hindi), Nasik, 2003, p. 36
 
-[47]:
 
-S. Bhattacharji, The Indian Theogony, p.136.
+<div className="footnote-card"><strong>[24]</strong> Ṛgveda VI.93.1; VI.141.1; I.43.2; V.42.11; VII.46.2</div>
 
-[48]:
 
-A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 145.
 
-[49]:
 
-K.M. Ganguli, The Mahābhārata of Krishna-Dwaipayana Vyasa: Translated into English Prose, Calcutta, 1883-1896. http://www.sacred-texts.com/hin/maha/index.htm (accessed on 15.1.2013)
+<div className="footnote-card"><strong>[25]</strong> A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 143.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Atharvaveda II.34; XI.2.2</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> S. Bhattacharji, The Indian Theogony, p.128.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Atharvaveda VII.87.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> S. Bhattacharji, The Indian Theogony, pp. 154- 157.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> S. Bhattacharji, The Indian Theogony, p.128-129.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> S. Bhattacharji, The Indian Theogony, p.135.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> S. Bhattacharji, The Indian Theogony, p.141.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> S. Bhattacharji, The Indian Theogony, p.133.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> S. Bhattacharji, The Indian Theogony, p.138.</div>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> S. Bhattacharji, The Indian Theogony, pp.135-140.</div>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 145.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> S. Bhattacharji, The Indian Theogony, p.139-140.</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> S. Bhattacharji, The Indian Theogony, p.151-151.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> S. Kramrisch, The Presence of Śiva, Varanasi/Delhi, 1988, p. 259.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka Saṃhitā Cikitsāsthāna 23.81.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> S. Bhattacharji, The Indian Theogony, p.141.</div>
+
+
+
+
+<div className="footnote-card"><strong>[42]</strong> S. Bhattacharji, The Indian Theogony, p.149.</div>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p.145.</div>
+
+
+
+
+<div className="footnote-card"><strong>[44]</strong> S. Bhattacharji, The Indian Theogony, p. 152.</div>
+
+
+
+
+<div className="footnote-card"><strong>[45]</strong> S. Bhattacharji, The Indian Theogony, pp.127-128.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> A. Jha, Bharatiya Sikke: Ek Aitihāsika Paricaya (in Hindi), Nasik, 2003, p. 36
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[47]</strong> S. Bhattacharji, The Indian Theogony, p.136.</div>
+
+
+
+
+<div className="footnote-card"><strong>[48]</strong> A.B. Keith, The Religion and the Philosophy of the Veda and the Upanishads, Vol. 1, p. 145.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> K.M. Ganguli, The Mahābhārata of Krishna-Dwaipayana Vyasa: Translated into English Prose, Calcutta, 1883-1896. http://www.sacred-texts.com/hin/maha/index.htm (accessed on 15.1.2013)
+</blockquote>
 
 ---
 
-## 87. Chapter 9
+## Chapter 9
 
 Charaka Samhita and Sushruta Samhita
 
@@ -251,11 +326,9 @@ This page relates ‘Chapter 9’ of the study on the Charaka Samhita and the Su
 
 Chapter 9
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 88. Ritualism in the Medical Texts
+## Ritualism in the Medical Texts
 
 Charaka Samhita and Sushruta Samhita
 
@@ -277,277 +350,474 @@ There is no doubt that perspective of the medical authors is brahmanical conside
 
 The dependence on ritualism is not even throughout the treatises. It is also noteworthy that ritualistic aspect is conspicuously lacking in the entire section of Śālākyā Tantra of the Uttara-tantra of Suśruta’s compendium. Though this section deals with difficult eye surgeries involving damage to the eyeball, nowhere do we find reference to invocations to deities or prayers to brāhmaṇas and physicians which we do in other surgeries. Prayers, supplications, sacrificial offerings and magical practices do find a place in therapeutics but in a supplementary role.
 
-[1]:
 
-Caraka Saṃhitā Cikitsāsthāna 3; Suśruta Saṃhitā Uttaratantra 39.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Cikitsāsthāna 3; Suśruta Saṃhitā Uttaratantra 39.
+</blockquote>
 
-[2]:
 
-Prayers and magical practices are recommended particularly in intermittent fever/viṣama jvara (Caraka Saṃhitā Cikitsāsthāna 3.292-315) and exogenous fever/āgantu jvara (Caraka Saṃhitā Cikitsāsthāna 3.317-318).
 
-[3]:
 
-Caraka Saṃhitā Cikitsāsthāna 4; Suśruta Saṃhitā Uttaratantra 45.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Prayers and magical practices are recommended particularly in intermittent fever/viṣama jvara (Caraka Saṃhitā Cikitsāsthāna 3.292-315) and exogenous fever/āgantu jvara (Caraka Saṃhitā Cikitsāsthāna 3.317-318).
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Cikitsāsthāna 5; Suśruta Saṃhitā Uttaratantra 42.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 6; Suśruta Saṃhitā Cikitsāsthāna 11-12.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Cikitsāsthāna 4; Suśruta Saṃhitā Uttaratantra 45.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 7; Suśruta Saṃhitā Cikitsāsthāna 9-10.
 
-[7]:
 
-Not mentioned in Suśruta Saṃhitā Cikitsāsthāna 9-10.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Cikitsāsthāna 5; Suśruta Saṃhitā Uttaratantra 42.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Cikitsāsthāna 13.
 
-[9]:
 
-Invocation of Kṛṣṇa while administering tuvaraka oil; Suśruta Saṃhitā Cikitsāsthāna 13.26.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 6; Suśruta Saṃhitā Cikitsāsthāna 11-12.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Cikitsāsthāna 8; Suśruta Saṃhitā Uttaratantra 41.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 9; Suśruta Saṃhitā Uttaratantra 41.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 7; Suśruta Saṃhitā Cikitsāsthāna 9-10.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 10; Suśruta Saṃhitā Uttaratantra 61.
 
-[13]:
 
-Caraka Saṃhitā Cikitsāsthāna 11;
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Not mentioned in Suśruta Saṃhitā Cikitsāsthāna 9-10.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Cikitsāsthāna 12;Suśruta Saṃhitā Cikitsāsthāna 23.
 
-[15]:
 
-Caraka Saṃhitā Cikitsāsthāna 13; Suśruta Saṃhitā Cikitsāsthāna 14.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Cikitsāsthāna 13.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Cikitsāsthāna 14; Suśruta Saṃhitā Cikitsāsthāna 6.
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 15.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Invocation of Kṛṣṇa while administering tuvaraka oil; Suśruta Saṃhitā Cikitsāsthāna 13.26.
+</blockquote>
 
-[18]:
 
-Caraka Saṃhitā Cikitsāsthāna 16; Suśruta Saṃhitā Uttaratantra 44.
 
-[19]:
 
-Caraka Saṃhitā Cikitsāsthāna 17; Suśruta Saṃhitā Uttaratantra 51.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Cikitsāsthāna 8; Suśruta Saṃhitā Uttaratantra 41.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Cikitsāsthāna 18; Suśruta Saṃhitā Uttaratantra 52.
 
-[21]:
 
-Caraka Saṃhitā Cikitsāsthāna 19; Suśruta Saṃhitā Uttaratantra 40.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 9; Suśruta Saṃhitā Uttaratantra 41.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Cikitsāsthāna 20; Suśruta Saṃhitā Uttaratantra 49.
 
-[23]:
 
-Caraka Saṃhitā Cikitsāsthāna 21; Suśruta Saṃhitā Cikitsāsthāna 17.4-17.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 10; Suśruta Saṃhitā Uttaratantra 61.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Cikitsāsthāna 22; Suśruta Saṃhitā Uttaratantra 48.
 
-[25]:
 
-Caraka Saṃhitā Cikitsāsthāna 23; Suśruta Saṃhitā Kalpasthāna 1.34-85; 2.40-55; 3.6-17; 5.3-86; 7.32-65; 8.42-138.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Cikitsāsthāna 11;
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Cikitsāsthāna 24; Suśruta Saṃhitā Uttaratantra 47.
 
-[27]:
 
-Caraka Saṃhitā Cikitsāsthāna 25; Suśruta Saṃhitā Cikitsāsthāna 1-2.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Cikitsāsthāna 12;Suśruta Saṃhitā Cikitsāsthāna 23.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.5-31; Suśruta Saṃhitā Uttaratantra 55.
 
-[29]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.42-76; Suśruta Saṃhitā Uttaratantra 59.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Cikitsāsthāna 13; Suśruta Saṃhitā Cikitsāsthāna 14.
+</blockquote>
 
-[30]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.77-103; Suśruta Saṃhitā Uttaratantra 43.
 
-[31]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.134-157; Suśruta Saṃhitā Uttaratantra 24.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Cikitsāsthāna 14; Suśruta Saṃhitā Cikitsāsthāna 6.
+</blockquote>
 
-[32]:
 
-Caraka Saṃhitā Cikitsāsthāna 24.158-186; Suśruta Saṃhitā Uttaratantra 25.
 
-[33]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.187-214.; Suśruta Saṃhitā Cikitsāsthāna 22.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 15.
+</blockquote>
 
-[34]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.215-220; Suśruta Saṃhitā Uttaratantra 57.
 
-[35]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.221-229; Suśruta Saṃhitā Uttaratantra 20.59.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Cikitsāsthāna 16; Suśruta Saṃhitā Uttaratantra 44.
+</blockquote>
 
-[36]:
 
-Suśruta Saṃhitā Uttaratantra 22-23.
 
-[37]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.231-262; Suśruta Saṃhitā Uttaratantra 9-18.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Cikitsāsthāna 17; Suśruta Saṃhitā Uttaratantra 51.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.283-290; Suśruta Saṃhitā Uttaratantra 53.
 
-[39]:
 
-Caraka Saṃhitā Cikitsāsthāna 27. Vātika diseases includes a wide range of disorders, such as facial paralysis, lock jaw, convulsions, sciatica, etc.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Cikitsāsthāna 18; Suśruta Saṃhitā Uttaratantra 52.
+</blockquote>
 
-[40]:
 
-Caraka Saṃhitā Cikitsāsthāna 28; Suśruta Saṃhitā Cikitsāsthāna 4.
 
-[41]:
 
-Caraka Saṃhitā Cikitsāsthāna 29; Suśruta Saṃhitā Cikitsāsthāna 5.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Cikitsāsthāna 19; Suśruta Saṃhitā Uttaratantra 40.
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.63-127.
 
-[43]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.191-204.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Cikitsāsthāna 20; Suśruta Saṃhitā Uttaratantra 49.
+</blockquote>
 
-[44]:
 
-For impotence caused by abhicāra or black magic; Caraka Saṃhitā Cikitsāsthāna 30.195.
 
-[45]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.227-228.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Cikitsāsthāna 21; Suśruta Saṃhitā Cikitsāsthāna 17.4-17.
+</blockquote>
 
-[46]:
 
-Suśruta Saṃhitā Śārīrasthāna 10.57-62.
 
-[47]:
 
-Suśruta Saṃhitā Cikitsāsthāna 3.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Cikitsāsthāna 22; Suśruta Saṃhitā Uttaratantra 48.
+</blockquote>
 
-[48]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.
 
-[49]:
 
-Suśruta Saṃhitā Cikitsāsthāna 8.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Cikitsāsthāna 23; Suśruta Saṃhitā Kalpasthāna 1.34-85; 2.40-55; 3.6-17; 5.3-86; 7.32-65; 8.42-138.
+</blockquote>
 
-[50]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.
 
-[51]:
 
-Suśruta Saṃhitā Cikitsāsthāna 16.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Cikitsāsthāna 24; Suśruta Saṃhitā Uttaratantra 47.
+</blockquote>
 
-[52]:
 
-Suśruta Saṃhitā Cikitsāsthāna 17.17-42.
 
-[53]:
 
-Suśruta Saṃhitā Cikitsāsthāna 18.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Cikitsāsthāna 25; Suśruta Saṃhitā Cikitsāsthāna 1-2.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.52
 
-[55]:
 
-Suśruta Saṃhitā Uttaratantra 27-36.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Cikitsāsthāna 26.5-31; Suśruta Saṃhitā Uttaratantra 55.
+</blockquote>
 
-[56]:
 
-Suśruta Saṃhitā Uttaratantra 54.
 
-[57]:
 
-Suśruta Saṃhitā Uttaratantra 56.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Cikitsāsthāna 26.42-76; Suśruta Saṃhitā Uttaratantra 59.
+</blockquote>
 
-[58]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.262-282.
 
-[59]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.35.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Caraka Saṃhitā Cikitsāsthāna 26.77-103; Suśruta Saṃhitā Uttaratantra 43.
+</blockquote>
 
-[60]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 23.35-37.
 
-[61]:
 
-Suśruta Saṃhitā Kalpasthāna 5-13.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Caraka Saṃhitā Cikitsāsthāna 26.134-157; Suśruta Saṃhitā Uttaratantra 24.
+</blockquote>
 
-[62]:
 
-saṃjīvano nāma gatāsukalpānepo(a)gado jīvayatīha martyān. Suśruta Saṃhitā Kalpasthāna 5.75.
 
-[63]:
 
-viṣāṇi hanti sarvāṇi śīghramevājitaṃ kvacit. Suśruta Saṃhitā Kalpasthāna 2.49.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Caraka Saṃhitā Cikitsāsthāna 24.158-186; Suśruta Saṃhitā Uttaratantra 25.
+</blockquote>
 
-[64]:
 
-Suśruta Saṃhitā Kalpasthāna 5.15.
 
-[65]:
 
-saṃjīvano nāma gatāsukalpānepo(a)gado jīvayatīha martyān. Suśruta Saṃhitā Kalpasthāna 5.75.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Cikitsāsthāna 26.187-214.; Suśruta Saṃhitā Cikitsāsthāna 22.
+</blockquote>
 
-[66]:
 
-viṣāṇi hanti sarvāṇi śīghramevājitaṃ kvacit. Suśruta Saṃhitā Kalpasthāna 2.49.
 
-[67]:
 
-Suśruta Saṃhitā Uttaratantra 60.32.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Caraka Saṃhitā Cikitsāsthāna 26.215-220; Suśruta Saṃhitā Uttaratantra 57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Cikitsāsthāna 26.221-229; Suśruta Saṃhitā Uttaratantra 20.59.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Uttaratantra 22-23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Cikitsāsthāna 26.231-262; Suśruta Saṃhitā Uttaratantra 9-18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Cikitsāsthāna 26.283-290; Suśruta Saṃhitā Uttaratantra 53.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Caraka Saṃhitā Cikitsāsthāna 27. Vātika diseases includes a wide range of disorders, such as facial paralysis, lock jaw, convulsions, sciatica, etc.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka Saṃhitā Cikitsāsthāna 28; Suśruta Saṃhitā Cikitsāsthāna 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Cikitsāsthāna 29; Suśruta Saṃhitā Cikitsāsthāna 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Cikitsāsthāna 30.63-127.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Caraka Saṃhitā Cikitsāsthāna 30.191-204.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> For impotence caused by abhicāra or black magic; Caraka Saṃhitā Cikitsāsthāna 30.195.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Cikitsāsthāna 30.227-228.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Suśruta Saṃhitā Śārīrasthāna 10.57-62.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Suśruta Saṃhitā Cikitsāsthāna 3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Suśruta Saṃhitā Cikitsāsthāna 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Suśruta Saṃhitā Cikitsāsthāna 16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Suśruta Saṃhitā Cikitsāsthāna 17.17-42.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Suśruta Saṃhitā Cikitsāsthāna 18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.52
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Suśruta Saṃhitā Uttaratantra 27-36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Suśruta Saṃhitā Uttaratantra 54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Suśruta Saṃhitā Uttaratantra 56.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Caraka Saṃhitā Cikitsāsthāna 26.262-282.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Caraka Saṃhitā Cikitsāsthāna 23.35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 23.35-37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Suśruta Saṃhitā Kalpasthāna 5-13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> saṃjīvano nāma gatāsukalpānepo(a)gado jīvayatīha martyān. Suśruta Saṃhitā Kalpasthāna 5.75.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> viṣāṇi hanti sarvāṇi śīghramevājitaṃ kvacit. Suśruta Saṃhitā Kalpasthāna 2.49.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Suśruta Saṃhitā Kalpasthāna 5.15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> saṃjīvano nāma gatāsukalpānepo(a)gado jīvayatīha martyān. Suśruta Saṃhitā Kalpasthāna 5.75.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> viṣāṇi hanti sarvāṇi śīghramevājitaṃ kvacit. Suśruta Saṃhitā Kalpasthāna 2.49.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Suśruta Saṃhitā Uttaratantra 60.32.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -556,10 +826,6 @@ Suśruta Saṃhitā Uttaratantra 60.32.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">List of Surgical Conditions in the Suśruta Saṃhitā: Charaka Samhita And Sushruta Samhita Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

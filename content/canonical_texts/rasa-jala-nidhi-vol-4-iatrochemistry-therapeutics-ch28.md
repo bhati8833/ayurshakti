@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for enlargement of spleen and liver (8): Vajrapani rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 407. Part 9 - Treatment for enlargement of spleen and liver (8): Vajrapani rasa
+## Part 9 - Treatment for enlargement of spleen and liver (8): Vajrapani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (8): Vajrapani r
 
 ---
 
-## 408. Part 8 - Treatment for enlargement of spleen and liver (7): Sadyo-mrityunjaya rasa
+## Part 8 - Treatment for enlargement of spleen and liver (7): Sadyo-mrityunjaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (7): Sadyo-mrity
 
 ---
 
-## 409. Part 10 - Treatment for enlargement of spleen and liver (9): Lokanatha rasa
+## Part 10 - Treatment for enlargement of spleen and liver (9): Lokanatha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (9): Lokanatha r
 
 ---
 
-## 410. Part 13 - Treatment for enlargement of spleen and liver (12): Tamresvara bati
+## Part 13 - Treatment for enlargement of spleen and liver (12): Tamresvara bati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (12): Tamresvara
 
 ---
 
-## 411. Part 14 - Treatment for enlargement of spleen and liver (13): Chitrakadi Lauha
+## Part 14 - Treatment for enlargement of spleen and liver (13): Chitrakadi Lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (13): Chitrakadi
 
 ---
 
-## 412. Part 12 - Treatment for enlargement of spleen and liver (11): Lokesha rasa
+## Part 12 - Treatment for enlargement of spleen and liver (11): Lokesha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (11): Lokesha ra
 
 ---
 
-## 413. Part 17 - Treatment for enlargement of spleen and liver (16): Rasapati rasa
+## Part 17 - Treatment for enlargement of spleen and liver (16): Rasapati rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (16): Rasapati r
 
 ---
 
-## 414. Part 15 - Treatment for enlargement of spleen and liver (14): Ganadhipa rasa
+## Part 15 - Treatment for enlargement of spleen and liver (14): Ganadhipa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (14): Ganadhipa 
 
 ---
 
-## 415. Part 16 - Treatment for enlargement of spleen and liver (15): Vidya-maya rasa
+## Part 16 - Treatment for enlargement of spleen and liver (15): Vidya-maya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (15): Vidya-maya
 
 ---
 
-## 416. Part 19 - Treatment for enlargement of spleen and liver (18): Jakrithari Lauha
+## Part 19 - Treatment for enlargement of spleen and liver (18): Jakrithari Lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (18): Jakrithari
 
 ---
 
-## 417. Part 18 - Treatment for enlargement of spleen and liver (17): Rohitaka Lauha
+## Part 18 - Treatment for enlargement of spleen and liver (17): Rohitaka Lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (17): Rohitaka L
 
 ---
 
-## 418. Part 21 - Treatment for enlargement of spleen and liver (20): Jakrit-plihodarahara Lauha
+## Part 21 - Treatment for enlargement of spleen and liver (20): Jakrit-plihodarahara Lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -229,7 +229,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (20): Jakrit-pli
 
 ---
 
-## 419. Part 20 - Treatment for enlargement of spleen and liver (19): Jakrit-plihari Lauha
+## Part 20 - Treatment for enlargement of spleen and liver (19): Jakrit-plihari Lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -247,7 +247,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (19): Jakrit-pli
 
 ---
 
-## 420. Part 22 - Treatment for enlargement of spleen and liver (21): Lokadhisha rasa
+## Part 22 - Treatment for enlargement of spleen and liver (21): Lokadhisha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -267,7 +267,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (21): Lokadhisha
 
 ---
 
-## 421. Part 24 - Treatment for enlargement of spleen and liver (23): Prana-vallabha rasa
+## Part 24 - Treatment for enlargement of spleen and liver (23): Prana-vallabha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -285,8 +285,6 @@ This concludes ‘Treatment for enlargement of spleen and liver (23): Prana-vall
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -294,10 +292,6 @@ This concludes ‘Treatment for enlargement of spleen and liver (23): Prana-vall
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch29" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for enlargement of spleen and liver (26): Bari-shosana rasa: Rasa Jala Nidhi Volume 4 Chapter 29 →</a>
 </div>
-
-
-
-
 
 ---
 

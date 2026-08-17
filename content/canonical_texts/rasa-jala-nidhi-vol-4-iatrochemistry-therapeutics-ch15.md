@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever with diarrhea (2): Siddha-praneshvara rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 212. Part 3 - Treatment for fever with diarrhea (2): Siddha-praneshvara rasa
+## Part 3 - Treatment for fever with diarrhea (2): Siddha-praneshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever with diarrhea (2): Siddha-praneshvara rasa
 
 ---
 
-## 213. Chapter III - Jvaratisara fever with diarrhoea
+## Chapter III - Jvaratisara fever with diarrhoea
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -39,15 +39,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter III - Jvaratisara fever with diarrhoea
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Jvaratisara fever with diarrhoea’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 214. Part 4 - Treatment for fever with diarrhea (3): Kanaka-sundara rasa
+## Part 4 - Treatment for fever with diarrhea (3): Kanaka-sundara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +63,7 @@ This concludes ‘Treatment for fever with diarrhea (3): Kanaka-sundara rasa’ 
 
 ---
 
-## 215. Part 5 - Treatment for fever with diarrhea (4): Kanaka-prabha rasa
+## Part 5 - Treatment for fever with diarrhea (4): Kanaka-prabha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +81,7 @@ This concludes ‘Treatment for fever with diarrhea (4): Kanaka-prabha rasa’ i
 
 ---
 
-## 216. Part 7 - Treatment for fever with diarrhea (6): Preta-sanjivana rasa
+## Part 7 - Treatment for fever with diarrhea (6): Preta-sanjivana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +99,7 @@ This concludes ‘Treatment for fever with diarrhea (6): Preta-sanjivana rasa’
 
 ---
 
-## 217. Part 8 - Diet in fever with diarrhoea
+## Part 8 - Diet in fever with diarrhoea
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +117,7 @@ This concludes ‘Diet in fever with diarrhoea’ included in Bhudeb Mookerjee R
 
 ---
 
-## 218. Part 6 - Treatment for fever with diarrhea (5): Gagana-sundara rasa
+## Part 6 - Treatment for fever with diarrhea (5): Gagana-sundara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +135,7 @@ This concludes ‘Treatment for fever with diarrhea (5): Gagana-sundara rasa’ 
 
 ---
 
-## 219. Part 10 - Treatment for diarrhea (1): Abhaya-nrisingha rasa
+## Part 10 - Treatment for diarrhea (1): Abhaya-nrisingha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +153,7 @@ This concludes ‘Treatment for diarrhea (1): Abhaya-nrisingha rasa’ included 
 
 ---
 
-## 220. Part 9 - Diarrhoea (atisara): its causes
+## Part 9 - Diarrhoea (atisara): its causes
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -175,7 +173,7 @@ This concludes ‘Diarrhoea (atisara): its causes’ included in Bhudeb Mookerje
 
 ---
 
-## 221. Part 11 - Treatment for diarrhea (2): Praneshvara rasa
+## Part 11 - Treatment for diarrhea (2): Praneshvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -193,7 +191,7 @@ This concludes ‘Treatment for diarrhea (2): Praneshvara rasa’ included in Bh
 
 ---
 
-## 222. Part 12 - Treatment for diarrhea (3): Amritarnava rasa
+## Part 12 - Treatment for diarrhea (3): Amritarnava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -211,7 +209,7 @@ This concludes ‘Treatment for diarrhea (3): Amritarnava rasa’ included in Bh
 
 ---
 
-## 223. Part 14 - Treatment for diarrhea (5): Ananda-bhairava rasa
+## Part 14 - Treatment for diarrhea (5): Ananda-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -229,7 +227,7 @@ This concludes ‘Treatment for diarrhea (5): Ananda-bhairava rasa’ included i
 
 ---
 
-## 224. Part 13 - Treatment for diarrhea (4): Dardura rasa
+## Part 13 - Treatment for diarrhea (4): Dardura rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -247,7 +245,7 @@ This concludes ‘Treatment for diarrhea (4): Dardura rasa’ included in Bhudeb
 
 ---
 
-## 225. Part 15 - Treatment for diarrhea (6): Sudha-sara rasa
+## Part 15 - Treatment for diarrhea (6): Sudha-sara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -265,7 +263,7 @@ This concludes ‘Treatment for diarrhea (6): Sudha-sara rasa’ included in Bhu
 
 ---
 
-## 226. Part 17 - Treatment for diarrhea (8): Sudha-sindhu rasa
+## Part 17 - Treatment for diarrhea (8): Sudha-sindhu rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -283,8 +281,6 @@ This concludes ‘Treatment for diarrhea (8): Sudha-sindhu rasa’ included in B
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -292,10 +288,6 @@ This concludes ‘Treatment for diarrhea (8): Sudha-sindhu rasa’ included in B
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for diarrhea (9): Vishvanatha rasa: Rasa Jala Nidhi Volume 4 Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

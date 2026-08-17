@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Examination, Registration and Convocation within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 22. Chapter 12 - Examination, Registration and Convocation
+## Chapter 12 - Examination, Registration and Convocation
 
 History of Indian Medicine (and Ayurveda)
 
@@ -185,7 +185,7 @@ From the above oaths we learn that the following points were stressed upon. The 
 
 ---
 
-## 23. Chapter 11 - Institutions and Universities
+## Chapter 11 - Institutions and Universities
 
 History of Indian Medicine (and Ayurveda)
 
@@ -324,7 +324,7 @@ This university flourished from 450 A.D. to 12th century A.D.
 
 ---
 
-## 24. Chapter 13 - Completion of Study
+## Chapter 13 - Completion of Study
 
 History of Indian Medicine (and Ayurveda)
 
@@ -462,8 +462,6 @@ Historical records show that a number of students from middle Asia, Persia, Assy
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -471,10 +469,6 @@ Historical records show that a number of students from middle Asia, Persia, Assy
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">The Method of Theoretical and Practical Study: History Of Indian Medicine And Ayurveda Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

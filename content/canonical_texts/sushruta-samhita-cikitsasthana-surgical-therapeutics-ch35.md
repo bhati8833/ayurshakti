@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of a Netra and a Vasti (pipes, nozzles and apparatus) within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 37. Chapter XXXV - Description of a Netra and a Vasti (pipes, nozzles and apparatus)
+## Chapter XXXV - Description of a Netra and a Vasti (pipes, nozzles and apparatus)
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -99,25 +99,25 @@ The seventy-six kinds of the distressing symptoms (Vyapad) have been briefly des
 
 Thus ends the Thirty-fifth Chapter in the Chikitsita Sthana in the Sushruta Samhita which deals with the dimensions, classifications and therapeutical applications of a Netra and a Vasti.
 
-[1]:
 
-The Karnikas are attached to the pipes for guarding against their being thrust into the rectum.
+<div className="footnote-card"><strong>[1]</strong> The Karnikas are attached to the pipes for guarding against their being thrust into the rectum.</div>
 
-[2]:
 
-A Prasrita measure is generally equal to two Palas, i.e., sixteen Tolas. But here it has the particular meaning as given in the text.
 
-[3]:
 
-The Vasti is so called from its being prepared with the bladder (Vasti) of an animal. Dallana notes in this connection that the bladder of an ox, buffalo, or a hog, should be used in the Asthapana and Anuvasana measures, and the bladder of a goat or a sheep should be used in the Uttara-vasti.
+<div className="footnote-card"><strong>[2]</strong> A Prasrita measure is generally equal to two Palas, i.e., sixteen Tolas. But here it has the particular meaning as given in the text.</div>
 
-[4]:
 
-Srikantha Dutta in his commentary quotes this sloka, but he reads there “sakapha” (with Kapha) in. the place of “samala” (with the fecal matter, etc.). The reading in the text, however, is preferable inasmuch as Kapha is included in Mala.
+
+
+<div className="footnote-card"><strong>[3]</strong> The Vasti is so called from its being prepared with the bladder (Vasti) of an animal. Dallana notes in this connection that the bladder of an ox, buffalo, or a hog, should be used in the Asthapana and Anuvasana measures, and the bladder of a goat or a sheep should be used in the Uttara-vasti.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Srikantha Dutta in his commentary quotes this sloka, but he reads there “sakapha” (with Kapha) in. the place of “samala” (with the fecal matter, etc.). The reading in the text, however, is preferable inasmuch as Kapha is included in Mala.</div>
 
 ---
-
-
 
 ---
 
@@ -126,10 +126,6 @@ Srikantha Dutta in his commentary quotes this sloka, but he reads there “sakap
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch36" className="text-emerald-400 hover:underline flex items-center font-medium">The injudicious application of the Netra and Vasti: Sushruta Samhita Cikitsasthana Chapter 36 →</a>
 </div>
-
-
-
-
 
 ---
 

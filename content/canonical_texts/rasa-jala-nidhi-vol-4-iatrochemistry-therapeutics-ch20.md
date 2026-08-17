@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Rasa parpati within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 287. Part 76 - Rasa parpati
+## Part 76 - Rasa parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -31,7 +31,7 @@ This concludes ‘Rasa parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ---
 
-## 288. Part 78 - Sutendra parpati
+## Part 78 - Sutendra parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -49,7 +49,7 @@ This concludes ‘Sutendra parpati’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ---
 
-## 289. Part 80 - Svarna parpati
+## Part 80 - Svarna parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -67,7 +67,7 @@ This concludes ‘Svarna parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ---
 
-## 290. Part 81 - Panchamrita parpati
+## Part 81 - Panchamrita parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -85,7 +85,7 @@ This concludes ‘Panchamrita parpati’ included in Bhudeb Mookerjee Rasa Jala 
 
 ---
 
-## 291. Part 79 - Lauha parpati
+## Part 79 - Lauha parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -103,7 +103,7 @@ This concludes ‘Lauha parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ---
 
-## 292. Part 82 - Mahesha parpati
+## Part 82 - Mahesha parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -121,7 +121,7 @@ This concludes ‘Mahesha parpati’ included in Bhudeb Mookerjee Rasa Jala Nidh
 
 ---
 
-## 293. Part 83 - Vijaya-parpati
+## Part 83 - Vijaya-parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -139,7 +139,7 @@ This concludes ‘Vijaya-parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi
 
 ---
 
-## 294. Part 84 - Vajra-parpati
+## Part 84 - Vajra-parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -157,7 +157,7 @@ This concludes ‘Vajra-parpati’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ---
 
-## 295. Chapter IV - Irregularity of the digesting heat
+## Chapter IV - Irregularity of the digesting heat
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -167,15 +167,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter IV - Irregularity of the digesting heat
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Irregularity of the digesting heat’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 296. Part 1 - Causes, symptoms, and indications of indigestion
+## Part 1 - Causes, symptoms, and indications of indigestion
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -241,7 +239,7 @@ This concludes ‘Causes, symptoms, and indications of indigestion’ included i
 
 ---
 
-## 297. Part 3 - Treatment for indigestion (1): Aditya rasa
+## Part 3 - Treatment for indigestion (1): Aditya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -259,7 +257,7 @@ This concludes ‘Treatment for indigestion (1): Aditya rasa’ included in Bhud
 
 ---
 
-## 298. Part 4 - Treatment for indigestion (2): Vadavanala rasa
+## Part 4 - Treatment for indigestion (2): Vadavanala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -279,7 +277,7 @@ This concludes ‘Treatment for indigestion (2): Vadavanala rasa’ included in 
 
 ---
 
-## 299. Part 2 - Treatment of irregularity of the digesting heat
+## Part 2 - Treatment of irregularity of the digesting heat
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -305,7 +303,7 @@ This concludes ‘Treatment of irregularity of the digesting heat’ included in
 
 ---
 
-## 300. Part 5 - Treatment for indigestion (3): Hutashana rasa
+## Part 5 - Treatment for indigestion (3): Hutashana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -323,7 +321,7 @@ This concludes ‘Treatment for indigestion (3): Hutashana rasa’ included in B
 
 ---
 
-## 301. Part 6 - Treatment for indigestion (4): Ajirna-kantaka rasa
+## Part 6 - Treatment for indigestion (4): Ajirna-kantaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -341,8 +339,6 @@ This concludes ‘Treatment for indigestion (4): Ajirna-kantaka rasa’ included
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -350,10 +346,6 @@ This concludes ‘Treatment for indigestion (4): Ajirna-kantaka rasa’ included
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for indigestion (5): Ramabana rasa: Rasa Jala Nidhi Volume 4 Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

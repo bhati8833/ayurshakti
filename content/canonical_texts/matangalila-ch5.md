@@ -11,11 +11,9 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on āyurlakṣaṇādhikāraścaturthaḥ paṭalaḥ within Matangalila. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 4. Chapter 4 - āyurlakṣaṇādhikāraścaturthaḥ paṭalaḥ
+## Chapter 4 - āyurlakṣaṇādhikāraścaturthaḥ paṭalaḥ
 
 ---
-
-
 
 ---
 
@@ -24,10 +22,6 @@ isCanonicalText: true
   <a href="/articles/matangalila" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">śubhalakṣaṇādhikāro dvitīyaḥ paṭalaḥ: Matangalila Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

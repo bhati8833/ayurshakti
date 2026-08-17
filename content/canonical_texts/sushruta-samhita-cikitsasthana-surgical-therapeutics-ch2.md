@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of inflamed ulcers within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 4. Chapter I - The medical treatment of inflamed ulcers
+## Chapter I - The medical treatment of inflamed ulcers
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -69,11 +69,7 @@ Visravana (evacuating or draining),
 
 Sneha (internal use of medicated oils, ghrita, etc.),
 
-Vamana (emetics),
-
-Virecana (purgatives),
-
-Chedana (excision),
+Vamana (emetics),, Virecana (purgatives),, Chedana (excision),
 
 Bhedana (opening—e.g., of an abscess),
 
@@ -349,97 +345,115 @@ The distressing supervening symptoms which are found to attend a case of ulcer, 
 
 Thus ends the first Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with the treatment of the two kinds of ulcer.
 
-[1]:
 
-Fragments of broken pottery.—Dallana.
+<div className="footnote-card"><strong>[1]</strong> Fragments of broken pottery.—Dallana.</div>
 
-[2]:
 
-N.B. Authorities, however, differ in enumerating these factors, although every one of them sticks to the total number of sixty.
 
-[3]:
 
-This scraping off of the ulcer should be done by an instrument of Surgery and not by any rough leaf or the like, mentioned hereafter.
+<div className="footnote-card"><strong>[2]</strong> N.B. Authorities, however, differ in enumerating these factors, although every one of them sticks to the total number of sixty.</div>
 
-[4]:
 
-Styptic measures are of four kinds—Sandhana,Skandana, Pacana, and Dahana, See Sutra-Sthana, Chap. XIV.
 
-[5]:
 
-The total weight of the purifying drugs should be equal to that of the Karpasa-phala alone and they should be boiled together with four times their quantity of clarified butter and with sixteen times of water.
+<div className="footnote-card"><strong>[3]</strong> This scraping off of the ulcer should be done by an instrument of Surgery and not by any rough leaf or the like, mentioned hereafter.</div>
 
-[6]:
 
-There is a different reading of “Agambhira” in place of “Gabhira,” but Gayi thinks the emendation undesirable.
 
-[7]:
 
-Jejjada and Gayadasa interpret the term to mean “barley-paste mixed with sesamum.”
+<div className="footnote-card"><strong>[4]</strong> Styptic measures are of four kinds—Sandhana,Skandana, Pacana, and Dahana, See Sutra-Sthana, Chap. XIV.</div>
 
-[8]:
 
-The decoction of Triphala and the drugs of the Nyagrodhadi group should be duly prepared, filtered and then condensed to the consistency of treacle. Powders of Haridra and Daru-haridra should be then thrown into it. In the end, the whole preparation should be well-stirred, mixed with honey and applied. This is what is called Rasa-kriya.
 
-[9]:
 
-Several editions read “though cleansed yet ungranulating ulcers.”
+<div className="footnote-card"><strong>[5]</strong> The total weight of the purifying drugs should be equal to that of the Karpasa-phala alone and they should be boiled together with four times their quantity of clarified butter and with sixteen times of water.</div>
 
-[10]:
 
-Blood-letting should be resorted to in the event of any vitiated blood being found to have been involved in the case; but in the event of a similar participation of any deranged Kapha, oils and lotions composed of the Vayu-destroying drugs should be made use of.
 
-[11]:
 
-Rohini, according to some commentators, means a kind of Haritaki; according to others, it means Katu-tumbi.
+<div className="footnote-card"><strong>[6]</strong> There is a different reading of “Agambhira” in place of “Gabhira,” but Gayi thinks the emendation undesirable.</div>
 
-[12]:
 
-Burnt ashes of sea-oysters, and pearls etc., should be used.
 
-[13]:
 
-This also is a remedy for giving a natural colour to the skin.
+<div className="footnote-card"><strong>[7]</strong> Jejjada and Gayadasa interpret the term to mean “barley-paste mixed with sesamum.”</div>
 
-[14]:
 
-According to some this may be used internally for the purpose.
 
-[15]:
 
-D. R. Some read “Tathanile” in place of “Ashmari-vrane.” . “Taihanile” means and in cases of (aggravated) Vayu.
+<div className="footnote-card"><strong>[8]</strong> The decoction of Triphala and the drugs of the Nyagrodhadi group should be duly prepared, filtered and then condensed to the consistency of treacle. Powders of Haridra and Daru-haridra should be then thrown into it. In the end, the whole preparation should be well-stirred, mixed with honey and applied. This is what is called Rasa-kriya.</div>
 
-[16]:
 
-The leaf which does not poison the Sneha and the essence of the medicinal drugs placed in a folded piece of linen (and applied over an ulcer is the proper leaf and) should be used for tying over the paste.
 
-[17]:
 
-Hot gargles are recommended in cases of ulcers of the deranged Vayu and Kapha while cold ones in cases of ulcers of the aggravated Pitta and blood.
+<div className="footnote-card"><strong>[9]</strong> Several editions read “though cleansed yet ungranulating ulcers.”</div>
 
-[18]:
 
-See Chap. XIX.—Sutra-Sthana.
 
-[19]:
 
-The six causes of an ulcer are Vayu, Pitta, Kapha, Sannipata, Shonita aud Agantu.
+<div className="footnote-card"><strong>[10]</strong> Blood-letting should be resorted to in the event of any vitiated blood being found to have been involved in the case; but in the event of a similar participation of any deranged Kapha, oils and lotions composed of the Vayu-destroying drugs should be made use of.</div>
 
-[20]:
 
-The eight seats of an ulcer are Tvak, Mansa, Shira, Snayu, Sandhi, Asthi, Koshtha and Marma.
 
-[21]:
 
-The five symptoms of an ulcer are due to Vata, Pitta, Kapha, Sannipata and agantu. The symptoms due to Shonita being identical with those due to Pitta, are not separately counted.
+<div className="footnote-card"><strong>[11]</strong> Rohini, according to some commentators, means a kind of Haritaki; according to others, it means Katu-tumbi.</div>
 
-[22]:
 
-The sixty medicinal measures and remedies are those described before in the present chapter.
+
+
+<div className="footnote-card"><strong>[12]</strong> Burnt ashes of sea-oysters, and pearls etc., should be used.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> This also is a remedy for giving a natural colour to the skin.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> According to some this may be used internally for the purpose.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> D. R. Some read “Tathanile” in place of “Ashmari-vrane.” . “Taihanile” means and in cases of (aggravated) Vayu.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> The leaf which does not poison the Sneha and the essence of the medicinal drugs placed in a folded piece of linen (and applied over an ulcer is the proper leaf and) should be used for tying over the paste.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Hot gargles are recommended in cases of ulcers of the deranged Vayu and Kapha while cold ones in cases of ulcers of the aggravated Pitta and blood.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> See Chap. XIX.—Sutra-Sthana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> The six causes of an ulcer are Vayu, Pitta, Kapha, Sannipata, Shonita aud Agantu.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> The eight seats of an ulcer are Tvak, Mansa, Shira, Snayu, Sandhi, Asthi, Koshtha and Marma.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> The five symptoms of an ulcer are due to Vata, Pitta, Kapha, Sannipata and agantu. The symptoms due to Shonita being identical with those due to Pitta, are not separately counted.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> The sixty medicinal measures and remedies are those described before in the present chapter.</div>
 
 ---
-
-
 
 ---
 
@@ -448,10 +462,6 @@ The sixty medicinal measures and remedies are those described before in the pres
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatments of fractures and dislocations: Sushruta Samhita Cikitsasthana Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

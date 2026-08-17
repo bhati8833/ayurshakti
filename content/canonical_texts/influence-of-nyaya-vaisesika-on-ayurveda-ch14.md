@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 13. Indian Medicine in Vedic period within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. 13. Indian Medicine in Vedic period
+## 13. Indian Medicine in Vedic period
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -25,8 +25,6 @@ The Vedic Indian's attitude towards the diseases was dominated by the belief of 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ The Vedic Indian's attitude towards the diseases was dominated by the belief of 
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">16. Ayurveda and Sangraha period (period of Epitoms): Influence Of Nyaya Vaisesika On Ayurveda Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

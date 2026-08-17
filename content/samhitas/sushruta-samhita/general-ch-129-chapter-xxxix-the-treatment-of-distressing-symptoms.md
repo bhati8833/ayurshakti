@@ -114,6 +114,10 @@ In place of “shītasambhogatoyanaṃ (?)” Gayadasa reads “shītabhojanatoy
 
 [9]:
 
+
+<blockquote className="ayur-shloka">
 In place of “śītasambhogatoyanaṃ (?)” Gayadasa reads “śītabhojanatoyanaṃ” which means the use of cold food and drink. This reading seems to be better.—Ed.
+</blockquote>
+
 
 ---

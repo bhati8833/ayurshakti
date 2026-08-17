@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Origin of Ayurveda within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Chapter I - Origin of Ayurveda
+## Chapter I - Origin of Ayurveda
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -161,61 +161,72 @@ The man who reads this Eternal Science of Medicine (Ayurveda-Shastram) discourse
 
 Thus ends the first chapter of the Sutra-Sthana in the Sushruta Samhita which deals with the origin of the Ayurveda.
 
-[1]:
 
-The present work which originally formed the subject of a discourse by the holy sage Dhanvantari to his disciple Sushruta, has been compiled in its present form by the venerable Nagarjuna, and is accordingly designated as the Sushruta Samhita.
+<div className="footnote-card"><strong>[1]</strong> The present work which originally formed the subject of a discourse by the holy sage Dhanvantari to his disciple Sushruta, has been compiled in its present form by the venerable Nagarjuna, and is accordingly designated as the Sushruta Samhita.</div>
 
-[2]:
 
-Any foreign matter, lodged in a human organism and proving painful to it, is called a Shalya.
 
-[3]:
 
-The name is derived from the Sanskrit term Shalaka, a probe or a rod, the use and application of the instrument being primarily included within the scope of this branch of the Ayurveda.
+<div className="footnote-card"><strong>[2]</strong> Any foreign matter, lodged in a human organism and proving painful to it, is called a Shalya.</div>
 
-[4]:
 
-The term Kaya literally signifies the vital heat or fire which runs through the entire system, and hence the Kaya-chikitsa deals with diseases which may gradually invade the root-principles of a living human organism.
 
-[5]:
 
-????????????nd sword-cuts had to be dressed and??????? the gods and the demons, long before????????? idipathic maladies such as, fever, etc.;?????????? was demanded of her towards the healing???????? branch of the Ayurveda is the oldest of all????? ng art.
+<div className="footnote-card"><strong>[3]</strong> The name is derived from the Sanskrit term Shalaka, a probe or a rod, the use and application of the instrument being primarily included within the scope of this branch of the Ayurveda.</div>
 
-[6]:
 
-It may be questioned why they should be confined to the Purusha? Such a query may be successfully met by the statement that the Purusha alone is the receptacle of health and disease in contradistinction to the Self or Ego.
 
-[7]:
 
-The vegetable world belongs to the latter category, while animals, possessed of locomotion, belong to the former.
+<div className="footnote-card"><strong>[4]</strong> The term Kaya literally signifies the vital heat or fire which runs through the entire system, and hence the Kaya-chikitsa deals with diseases which may gradually invade the root-principles of a living human organism.</div>
 
-[8]:
 
-It may be argued here, since everything in the universe is composed of the five fundamental material principles [of earth, water, fire (heat), air and sky (ether)], it is not competent to assert that the universe is possessed of the twofold attributes Agneya (heated or fiery) and Saumya (cool or watery), alone. But since fire (heat) or water (cold) predominates in all things in the universe in juxtaposition with the primary virtues of the
 
-[9]:
 
-A disease may be defined as something which afflicts the Purusha (self-conscious personality), or those things or incidents which combine to afflict the Purusha are usually interpreted to connote that meaning.
+<div className="footnote-card"><strong>[5]</strong> ????????????nd sword-cuts had to be dressed and??????? the gods and the demons, long before????????? idipathic maladies such as, fever, etc.;?????????? was demanded of her towards the healing???????? branch of the Ayurveda is the oldest of all????? ng art.</div>
 
-[10]:
 
-The Self or the Jīvatma of a person is above all human concerns and, as such, can never be affected by any disease.
 
-[11]:
 
-Cleansing (Samshodhana) is of two kinds, viz. External and Internal. External purification consists in employing such measures as surgical operations, cauterisation of the affected part or organ, external use of alkaline preparations and medicated plasters, the internal one including such measures as exhibition of purgatives and emetics, application of intestinal enemas (Asthapana) and blood-letting. Diet comprises four different factors such as, food, drink, lambative, etc., which, for the purposes of the Ayurveda, are again grouped under three different heads, such as the pacifier of the deranged bodily humours (Dosha-prashamana), therapeutical (Vyadhi-prashamana) and health-giving (Svastha-Vrittikara). Acara (conduct) appertains to three different factors, such as the body, the speech, and the mental acts. The abovesaid measures, duly employed, are potent enough to combat all sorts of bodily distempers, if the special exigencies of each case are carefully taken into consideration.
+<div className="footnote-card"><strong>[6]</strong> It may be questioned why they should be confined to the Purusha? Such a query may be successfully met by the statement that the Purusha alone is the receptacle of health and disease in contradistinction to the Self or Ego.</div>
 
-[12]:
 
-The use of oil expressed out of drugs and seeds, as well as of their ashes or alkaline preparations are likewise indicated.
 
-[13]:
 
-Oxide of Iron, sand, yellow sulphurate of arsenic (Orpiment), salt, Gairika (ferruginous earth), Rasanjana (antimony) should be regarded as appertaining to the class of earthy substances.
+<div className="footnote-card"><strong>[7]</strong> The vegetable world belongs to the latter category, while animals, possessed of locomotion, belong to the former.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> It may be argued here, since everything in the universe is composed of the five fundamental material principles [of earth, water, fire (heat), air and sky (ether)], it is not competent to assert that the universe is possessed of the twofold attributes Agneya (heated or fiery) and Saumya (cool or watery), alone. But since fire (heat) or water (cold) predominates in all things in the universe in juxtaposition with the primary virtues of the</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> A disease may be defined as something which afflicts the Purusha (self-conscious personality), or those things or incidents which combine to afflict the Purusha are usually interpreted to connote that meaning.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> The Self or the Jīvatma of a person is above all human concerns and, as such, can never be affected by any disease.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Cleansing (Samshodhana) is of two kinds, viz. External and Internal. External purification consists in employing such measures as surgical operations, cauterisation of the affected part or organ, external use of alkaline preparations and medicated plasters, the internal one including such measures as exhibition of purgatives and emetics, application of intestinal enemas (Asthapana) and blood-letting. Diet comprises four different factors such as, food, drink, lambative, etc., which, for the purposes of the Ayurveda, are again grouped under three different heads, such as the pacifier of the deranged bodily humours (Dosha-prashamana), therapeutical (Vyadhi-prashamana) and health-giving (Svastha-Vrittikara). Acara (conduct) appertains to three different factors, such as the body, the speech, and the mental acts. The abovesaid measures, duly employed, are potent enough to combat all sorts of bodily distempers, if the special exigencies of each case are carefully taken into consideration.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> The use of oil expressed out of drugs and seeds, as well as of their ashes or alkaline preparations are likewise indicated.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Oxide of Iron, sand, yellow sulphurate of arsenic (Orpiment), salt, Gairika (ferruginous earth), Rasanjana (antimony) should be regarded as appertaining to the class of earthy substances.</div>
 
 ---
-
-
 
 ---
 
@@ -224,10 +235,6 @@ Oxide of Iron, sand, yellow sulphurate of arsenic (Orpiment), salt, Gairika (fer
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Classification of Ayurveda: Sushruta Samhita Sutrasthana Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

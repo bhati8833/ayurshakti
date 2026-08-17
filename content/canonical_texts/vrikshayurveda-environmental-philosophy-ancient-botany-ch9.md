@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. 4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara
+## 4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -47,7 +47,7 @@ Sarangadhara, who was associated with the court of king Hammira, the ruler of Sa
 
 ---
 
-## 25. 6. The presence of Vrikshayurveda in Puranas
+## 6. The presence of Vrikshayurveda in Puranas
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -83,8 +83,6 @@ Saint and sages live in the lap of nature surrounded by deep forests. They feel 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -92,10 +90,6 @@ Saint and sages live in the lap of nature surrounded by deep forests. They feel 
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">5. Vrikshayurveda texts found in Vastu-shastra: Vrikshayurveda and Environmental Philosophy Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

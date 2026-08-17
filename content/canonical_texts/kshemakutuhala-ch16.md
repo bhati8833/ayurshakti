@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Cooking rules and usage of Vegetables in Ayurveda within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 52. Cooking rules and usage of Vegetables in Ayurveda
+## Cooking rules and usage of Vegetables in Ayurveda
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -33,7 +33,7 @@ gently over medium flame to prevent rapid evaporation of liquid and scorching. 5
 
 ---
 
-## 53. Cooking rules and usage of Fish in Ayurveda
+## Cooking rules and usage of Fish in Ayurveda
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -61,7 +61,7 @@ asafoetida. It alleviates vata. It aggravates pitta slightly. It promotes streng
 
 ---
 
-## 54. Ayurveda cooking rules of Patra-saka (Leafy vegetables)
+## Ayurveda cooking rules of Patra-saka (Leafy vegetables)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -91,8 +91,6 @@ It alleviates vata and pitta. It cures flatulence, retention of urine. It is str
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -100,10 +98,6 @@ It alleviates vata and pitta. It cures flatulence, retention of urine. It is str
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurveda cooking rules of Puspa-saka (Flower-vegetable): Kshemakutuhala Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

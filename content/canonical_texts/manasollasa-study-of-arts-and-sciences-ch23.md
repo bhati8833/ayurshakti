@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Upabhogas or Enjoyments in Someshvara’s Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 52. 2. Upabhogas or Enjoyments in Someshvara’s Manasollasa
+## 2. Upabhogas or Enjoyments in Someshvara’s Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -49,7 +49,7 @@ have various colours. 1 384 32 ( 6 ) Bhusayyasana : It is also the same as the P
 
 ---
 
-## 54. 3.2. Rivers described in the Manasollasa
+## 3.2. Rivers described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -69,8 +69,6 @@ Bharata is a land of rivers which have their rise in its lofty mountains. These 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ Bharata is a land of rivers which have their rise in its lofty mountains. These 
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Mountains and Forests described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

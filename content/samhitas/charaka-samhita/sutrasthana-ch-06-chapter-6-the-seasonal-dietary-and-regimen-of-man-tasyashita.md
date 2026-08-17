@@ -28,7 +28,11 @@ Chapter 6 - The Seasonal Dietary and Regimen of Man (tasyashita)
 
 The Regimen of Man
 
+
+<blockquote className="ayur-shloka">
 1. We shall now expound the chapter entitled “the Seasonal dietary and Regimen of Man (Tasyashita or Tasyashitiya—tasyāśita or tasyāśitīya).”
+</blockquote>
+
 
 2. Thus declared the worshipful Atreya.
 
@@ -156,6 +160,10 @@ Here is the recapitulatory verse:—
 
 51. In this chapter entitled “The seasonal Dietary of Man,” has been explained with reasons, what should be and what should not be used by a man in each season, as also the principle of homologation.
 
+
+<blockquote className="ayur-shloka">
 6. Thus, in the section on General Principles in the treatise compiled by Agnivesha and revised by Caraka, the sixth chapter entitled “The Seasonal Dietary and Regimen of Man (Tasyashitiya or Tasyashitiya—tasyāśita or tasyāśitīya)” is completed.
+</blockquote>
+
 
 ---

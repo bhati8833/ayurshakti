@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Successful Production Depends on the Fertility of the Soil within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 91. Part 5 - Successful Production Depends on the Fertility of the Soil
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Successful Production Depends on the Fertility of the Soil’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 5 - Successful Production Depends on the Fertility of the Soil
 
 Part 5 - Successful Production Depends on the Fertility of the Soil
 
@@ -37,15 +33,7 @@ Cakrapāṇi Miśra in his Viśvavallabha mentions three types of soil-arid, wet
 
 According to him soil is of six colours—
 
-dark gray,
-
-pallid,
-
-black,
-
-white,
-
-red and
+dark gray,, pallid,, black,, white,, red and
 
 yellow.
 
@@ -63,109 +51,124 @@ They are divided into six on the basis of colour and taste.[13] Soils having bla
 
 The Agni Purāṇa also mention various types of grounds. They are—
 
-white coloured,
-
-blood coloured,
-
-blood smelling ground and
+white coloured,, blood coloured,, blood smelling ground and
 
 yellow coloured ground.[16]
 
 Again [in the Agni Purāṇa, the following] are also mentioned.—
 
-golden soil,
-
-sandy soil,
-
-blue soil,
-
-yellow soil,
-
-white soil and
+golden soil,, sandy soil,, blue soil,, yellow soil,, white soil and
 
 yellowish red soil.[17]
 
-[1]:
 
-śubhalakṣaṇasaṃyuktā sarveṣāṃ śubhadā dharā/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> śubhalakṣaṇasaṃyuktā sarveṣāṃ śubhadā dharā/
 kuṭumbārogyadā śaśvat dhanagodhānyavṛddhidā// Kāśyapīyakṛṣisūkti , 1.55
+</blockquote>
 
-[2]:
 
-Ibid., 1.32-33
 
-[3]:
 
-Ibid., 1.34
+<div className="footnote-card"><strong>[2]</strong> Ibid., 1.32-33</div>
 
-[4]:
 
-Ibid., 1.35
 
-[5]:
 
-bījavṛddhikarīṃ vegāt sītāsaukhyapradāyinīm/
+<div className="footnote-card"><strong>[3]</strong> Ibid., 1.34</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 1.35</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> bījavṛddhikarīṃ vegāt sītāsaukhyapradāyinīm/
 vṛṣaphenāktakāṃ vāpi satvajantusamanvitām// Ibid., 1.37
+</blockquote>
 
-[6]:
 
-Ibid.
 
-[7]:
 
-Ibid.
+<div className="footnote-card"><strong>[6]</strong> Ibid.</div>
 
-[8]:
 
-akaṇṭakāṃ karīṣādihīnāṃ ca niviḍāṃ ghanām /
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> akaṇṭakāṃ karīṣādihīnāṃ ca niviḍāṃ ghanām /
 tolane’dhika bhārāḍhyāmoṣadhīvṛddhidāmapi// Ibid., 1.38
+</blockquote>
 
-[9]:
 
-Bhāgavata Purāṇa , 7. 11.33
 
-[10]:
 
-jāṅgalānūpasāmānyasvabhāvāt trividhā dharā/
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Bhāgavata Purāṇa , 7. 11.33
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> jāṅgalānūpasāmānyasvabhāvāt trividhā dharā/
 rasaiśca ṣaḍbhiḥ sā bhinnā jñeyāstadvarṇato rasāḥ// Viśvavallabha , 3.1
+</blockquote>
 
-[11]:
 
-Ibid., 3.2-3
 
-[12]:
 
-mṛduḥ samāsannajalā hitā bhūstaruropaṇe/
+<div className="footnote-card"><strong>[11]</strong> Ibid., 3.2-3</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> mṛduḥ samāsannajalā hitā bhūstaruropaṇe/
 tatrārāmaśca kartavyo lokadvayahitāya ca// Ibid., 3.6
+</blockquote>
 
-[13]:
 
-Upavana-Vinoda , 3.34
 
-[14]:
 
-Ibid., 3.35
+<div className="footnote-card"><strong>[13]</strong> Upavana-Vinoda , 3.34</div>
 
-[15]:
 
-samā samāsannajalā harittarūtṛṇāṅkurā/
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., 3.35</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> samā samāsannajalā harittarūtṛṇāṅkurā/
 tasyāṃ sarve yathāsthānaṃ prarohanti mahīrūhāḥ// Ibid., 3.38
+</blockquote>
 
-[16]:
 
-Agni Purāṇa , 92.7
 
-[17]:
 
-Ibid.,219.52-53
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Agni Purāṇa , 92.7
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid.,219.52-53</div>
 
 ---
 
-## 92. Part 4 - Treatment of Seeds
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Treatment of Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 4 - Treatment of Seeds
 
 Part 4 - Treatment of Seeds
 
@@ -173,100 +176,126 @@ The Vṛkṣāyurveda suggests the methods for making the seeds more viable. In 
 
 Cakrapāṇi Miśra also mentions in Viśvavallabha that seeds should be treated with dried cow dung and then with clarified butter and honey. After rubbing them in dung or after smearing them with a paste of ashes of tila plants and seeds and clarified butter, one should sow the seeds at proper places.[6] Śārṅgadhara in the Upavana-Vinoda states that, one should smear the seeds sprinkled with milk, with powders of vṛhatī and sesamum mixed with ghee. Then the seeds should be dried. After that one should besmear the seeds with cow dung and then fumigate with fat of some animal. If the seeds are sown after treated thus, they would sprout within a night.[7]
 
-[1]:
 
-payasi niṣiktaṃ bījaṃ gomayaparimardditaṃ viśoṣya tataḥ/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> payasi niṣiktaṃ bījaṃ gomayaparimardditaṃ viśoṣya tataḥ/
 mākṣikāṃ viḍaṅgacūrṇairbahuśo mṛditaṃ prajāyate nūnam// Vṛkṣāyurveda , 7.54
+</blockquote>
 
-[2]:
 
-Ibid., 7.55
 
-[3]:
 
-mākanda-jambu-panasodbhavamārdrameva 
+<div className="footnote-card"><strong>[2]</strong> Ibid., 7.55</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> mākanda-jambu-panasodbhavamārdrameva 
 sarvottamaṃ sakala pūrva vidhānayuktam/
 śuṣkaṃ ca pūrva parikarmmayutaṃ vareṇyaṃ syā(t)
 kṣīrikābakulayoddurakūrccitāgram// Ibid., 7.56
+</blockquote>
 
-[4]:
 
-evaṃ vidhena vidhināpari saṃsthitāni bījāni/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> evaṃ vidhena vidhināpari saṃsthitāni bījāni/
 santi sakalānyapi śobhanā/
 nitajjñāśca nūnamacirāttaravo vahanti
 puṣpaṃ phalaṃ pracuramuttamayamakṣavādyā// Ibid., 7.58
+</blockquote>
 
-[5]:
 
-vāsarāṇi daśa dugdhabhāvitaṃ bījamājyayutahastayojitam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> vāsarāṇi daśa dugdhabhāvitaṃ bījamājyayutahastayojitam/
 gomayena bahuśo virūkṣitaṃ krauḍamārgapiśitaiśca dhūpitam//
 māṃsasūkaravasāsamanvitaṃ ropitaṃ ca parikarmitāvanau/
 kṣīrasaṃyutajalāvasecitaṃ jāyate kusumayuktameva tat// Bṛhatsaṃhitā , 55.19-20
+</blockquote>
 
-[6]:
 
-Viśvavallabha , 4.9-10
 
-[7]:
 
-Upavana-Vinoda , 5.52
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Viśvavallabha , 4.9-10
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Upavana-Vinoda , 5.52</div>
 
 ---
 
-## 93. Part 6 - The modern relevance of ancient Indian Manuring
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘modern relevance of ancient Indian Manuring’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 6 - The modern relevance of ancient Indian Manuring
 
 Part 6 - The modern relevance of ancient Indian Manuring
 
 Parāśara gives importance in the cattle manure for the stable and suitable growth of paddy. He says that without the application of manure the paddy plants do not give fruits, they only simply grow up.[1] Parāśara recommends the methods how dung is to be carefully maintained, stored up, crushed and at last applied to the field.[2]  Kauṭilya also refers to the use of manure in the process of agriculture. He states that sprout of seeds when grown are to be manured with a fresh hall of tiny fishes and should irrigated with the milk of snuhi (Euphorbia antiquorum).[3] Kāśyapa emphasizes in application of manures at proper time[4] which included cow-dung, goat-dung, and compost.[5] Cakrapāṇi Miśra in his Viśvavallabha mentions that all trees produce sweet fruits when sprinkled with milk.[6] It is suggested to smear the branches, roots and trunks of trees with cow dung and plant them in pits filled with soil and to sprinkle dried dung abundantly with water.[7] The Purāṇas mention the using of manure in the fields to increase the fertility of the soil as well as for the growth of crops. The Agni Purāṇa mentions that to increase the production of flowers and fruits, one should sprinkle ghee with cold milk.[8] It further mentions that maturing the soil with powdered barley, sesamum and the powder of dried dung of a goat, mixed together and soaked in meat and water for seven continuous nights is good for the increase of flowers and fruits.[9]
 
-[1]:
 
-vinā sāreṇa yaddhānyaṃ varddhate phalavarjitam// Kṛṣi Parāśara ,3.33
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> vinā sāreṇa yaddhānyaṃ varddhate phalavarjitam// Kṛṣi Parāśara ,3.33
+</blockquote>
 
-[2]:
 
-Ibid.,3.31-33
 
-[3]:
 
-Arthaśāstra , 2.24.21
+<div className="footnote-card"><strong>[2]</strong> Ibid.,3.31-33</div>
 
-[4]:
 
-Kāśyapīyakṛṣisūkti , 1.422
 
-[5]:
 
-Ibid., 1.266
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Arthaśāstra , 2.24.21
+</blockquote>
 
-[6]:
 
-Viśvavallabha , 7.9
 
-[7]:
 
-gomayāliptaśākhāṃghriskandhānnaropayetsudhīḥ/
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Kāśyapīyakṛṣisūkti , 1.422
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 1.266</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Viśvavallabha , 7.9
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> gomayāliptaśākhāṃghriskandhānnaropayetsudhīḥ/
 pūrite mṛtkarīṣeṇa garte siktembhasā bahu// Ibid., 4.16
+</blockquote>
 
-[8]:
 
-Agni Purāṇa , 282.11
 
-[9]:
 
-Ibid., 282.11-12
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Agni Purāṇa , 282.11
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., 282.11-12</div>
 
 ---
 
-## 94. Part 7 - Irrigation and Water Management
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Irrigation and Water Management’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 7 - Irrigation and Water Management
 
 Part 7 - Irrigation and Water Management
 
@@ -283,128 +312,153 @@ In the Viśvavallabha, constructions of water reservoirs are found.
 
 Cakrapāṇi Miśra recommends four types of ponds, viz.
 
-Nandā,
-
-Bhadrā,
-
-Jayā and
+Nandā,, Bhadrā,, Jayā and
 
 Vijayā.[12]
 
 Seven kinds of wells have been mentioned. They are—
 
-Vijaya,
-
-Dundubhi,
-
-Cūḍāmaṇi,
-
-Bhadra,
-
-Jaya,
-
-Nanda and
+Vijaya,, Dundubhi,, Cūḍāmaṇi,, Bhadra,, Jaya,, Nanda and
 
 Śaṃkara.[13]
 
 Potholes, where rain water accumulated naturally were of four kinds, viz.—
 
-Bhadra,
-
-Subhadra,
-
-Parighra, and
+Bhadra,, Subhadra,, Parighra, and
 
 Nanda.[14]
 
 Techniques were used to keep water of wells safe using herbs or other materials. Even brackish, foul and turbid water was treated.[15] The Upavana-Vinoda too mentions the procedure of watering plants. It states that one should water the newly planted trees every alternate day in autumn and in winter seasons; every day in spring season and two times a day during summer season.[16] The Purāṇas too gave importance on rainfall for the growth of crops. The Matsya Purāṇa states that agricultural prospects flourish by rain which again depends on fixed time.[17] The Agni Purāṇa mentions that the god Parjanya, Arka and Indu,should be worshipped to guard against any disturbance that affects the annual rainfall of a country.[18] It is also recommended in the Purāṇas that the fort of a king should be situated in a country watered by large rivers not depending upon the atmospheric causes for its water -supply.[19]
 
-[1]:
 
-Viśvavallabha , 5.1
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Viśvavallabha , 5.1
+</blockquote>
 
-[2]:
 
-prātaśca varṣāsu dinasya madhye kāle saśīte pariṣecanīyāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> prātaśca varṣāsu dinasya madhye kāle saśīte pariṣecanīyāḥ/
 prageparāhepyathavā vasante grīṣmetha sāyaṃ hi sadāṃghripādyāḥ// Ibid., 5.5
+</blockquote>
 
-[3]:
 
-Vṛkṣāyurveda , 9.101
 
-[4]:
 
-Upavana-Vinoda , 12.171-174
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Vṛkṣāyurveda , 9.101
+</blockquote>
 
-[5]:
 
-Ibid.
 
-[6]:
 
-Kṛṣi Parāśara , 3.116
+<div className="footnote-card"><strong>[4]</strong> Upavana-Vinoda , 12.171-174</div>
 
-[7]:
 
-yathā kulārthī kurute kulastrīparirakṣaṇam/
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Kṛṣi Parāśara , 3.116
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> yathā kulārthī kurute kulastrīparirakṣaṇam/
 tathā saṃrakṣayed vāri śaratkāle samāgate// Ibid., 3.117
+</blockquote>
 
-[8]:
 
-varṣatribhāgaḥ pūrvapaścimamāsayoḥ, dvau tribhāgau madhyamayuḥ suṣamārūpam// Arthaśāstra , 2.24.6
 
-[9]:
 
-tasyopalabdhirbṛhaspateḥ sthānagamanagarbhādhānebhyaḥ śukrodayāstamayacārebhyaḥ sūryasya prakṛtivaikṛtācca// Ibid., 2.24.7
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> varṣatribhāgaḥ pūrvapaścimamāsayoḥ, dvau tribhāgau madhyamayuḥ suṣamārūpam// Arthaśāstra , 2.24.6
+</blockquote>
 
-[10]:
 
-tataḥ prabhūtodakamalpodakaṃ vā sasyaṃ vāpayet// Ibid., 2.24.11
 
-[11]:
 
-śālivrīhikodravatilapriyaṅgudārakavarakāḥ pūrvavāpāḥ/
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> tasyopalabdhirbṛhaspateḥ sthānagamanagarbhādhānebhyaḥ śukrodayāstamayacārebhyaḥ sūryasya prakṛtivaikṛtācca// Ibid., 2.24.7
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> tataḥ prabhūtodakamalpodakaṃ vā sasyaṃ vāpayet// Ibid., 2.24.11
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> śālivrīhikodravatilapriyaṅgudārakavarakāḥ pūrvavāpāḥ/
 mudgamāṣaśaimbyā madhyavāpāḥ/
 kusumbhamasūrakulatthayavagodhūmakalāyātasīsarṣapāḥ paścādvāpāḥ// Ibid., 2.24.12
+</blockquote>
 
-[12]:
 
-nandātrikūṭaikamukhī ca vāpī bhadrā ca ṣaṭkūṭayutā dvivaktrā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> nandātrikūṭaikamukhī ca vāpī bhadrā ca ṣaṭkūṭayutā dvivaktrā/
 jayā trivaktrā bhavakūṭikāsyaiścaturbhiruktā vijayārkakūṭā// Viśvavallabha , 2.12
+</blockquote>
 
-[13]:
 
-dvimukho vijayaḥ prānto dundubhiśca manoharaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> dvimukho vijayaḥ prānto dundubhiśca manoharaḥ/
 kūpāścūḍāmaṇibhadro jayo nandotha śaṃkaraḥ// Ibid., 2.14
+</blockquote>
 
-[14]:
 
-Ibid., 2.19
 
-[15]:
 
-Ibid., 2.36-38
+<div className="footnote-card"><strong>[14]</strong> Ibid., 2.19</div>
 
-[16]:
 
-hemante śiśire deyaṃ jalaṃ caikāntare dine/
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., 2.36-38</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> hemante śiśire deyaṃ jalaṃ caikāntare dine/
 basante pratyahaṃ grīṣme sāyaṃprātarniṣecanam// Upavana-Vinoda ,7.72
+</blockquote>
 
-[17]:
 
-Matsya Purāṇa , 221.9
 
-[18]:
 
-Agni Purāṇa , 263.20
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Matsya Purāṇa , 221.9
+</blockquote>
 
-[19]:
 
-Ibid., 222.2b
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Agni Purāṇa , 263.20
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid., 222.2b</div>
 
 ---
-
-
 
 ---
 
@@ -413,10 +467,6 @@ Ibid., 222.2b
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Protection and Care (of crops): Agriculture And Animal Husbandry In The Puranas Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

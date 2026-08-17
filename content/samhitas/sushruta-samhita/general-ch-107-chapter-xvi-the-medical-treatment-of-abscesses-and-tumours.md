@@ -88,7 +88,11 @@ Chakrapani Datta in his compilation does not include Priyangu, Kusha-roots add N
 
 [5]:
 
+
+<blockquote className="ayur-shloka">
 In Chakradatta, the reading is “mūlapiṣṭaiḥ (?)” i.e., pasted in cow’s urine, instead of “mūnnairuṣṇai (?) |” Shivadasa, the commentator, however, holds that this reading is not authoritative, though he says that some commentators have accepted it.
+</blockquote>
+
 
 [6]:
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Identity of Karavirya within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. 7. Identity of Karavirya
+## 7. Identity of Karavirya
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ Though the term Aurabhra can be described as either as the son of Urabhra or som
 
 ---
 
-## 49. 10. The other Surgeons and Tantras of Dhanvantari school
+## 10. The other Surgeons and Tantras of Dhanvantari school
 
 Surgery in ancient India (Study)
 
@@ -45,7 +45,7 @@ KAPILA TANTRA In Susruta Samhita netucarya one chapter depicts Cakrapani's salya
 
 ---
 
-## 50. 11. Surgeons and Tantras of Salakya departments
+## 11. Surgeons and Tantras of Salakya departments
 
 Surgery in ancient India (Study)
 
@@ -67,8 +67,6 @@ CAKSUSYA TANTRA Caksusya tantra was an important book about Salakya tantra. Srik
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -76,10 +74,6 @@ CAKSUSYA TANTRA Caksusya tantra was an important book about Salakya tantra. Srik
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">12. Notes and References: Ancient Indian Surgical Science Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

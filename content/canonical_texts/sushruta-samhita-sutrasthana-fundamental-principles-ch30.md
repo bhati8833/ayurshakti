@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Eight kinds of surgical operations within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Chapter XXV - Eight kinds of surgical operations
+## Chapter XXV - Eight kinds of surgical operations
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -103,21 +103,20 @@ The patient, who may mistrust his own parents, sons and relations, should repose
 
 Thus ends the twenty-fifth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the eight forms of Surgical operations.
 
-[1]:
 
-Granthi (gland), Galaganda (goitre), Vriddhi (scrotal tumour) Apachi (scrofula) and Arvuda (tumour) are the fat-origined diseases contemplated as instances.
+<div className="footnote-card"><strong>[1]</strong> Granthi (gland), Galaganda (goitre), Vriddhi (scrotal tumour) Apachi (scrofula) and Arvuda (tumour) are the fat-origined diseases contemplated as instances.</div>
 
-[2]:
 
-Such as urinary calculi, calcareous deposits on the teeth, and Pada-Sharkara.
 
-[3]:
 
-Other than the one situated in any of the abovesaid vital parts of the body.
+<div className="footnote-card"><strong>[2]</strong> Such as urinary calculi, calcareous deposits on the teeth, and Pada-Sharkara.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Other than the one situated in any of the abovesaid vital parts of the body.</div>
 
 ---
-
-
 
 ---
 
@@ -126,10 +125,6 @@ Other than the one situated in any of the abovesaid vital parts of the body.
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch31" className="text-emerald-400 hover:underline flex items-center font-medium">Good and bad sensory perceptions: Sushruta Samhita Sutrasthana Chapter 31 →</a>
 </div>
-
-
-
-
 
 ---
 

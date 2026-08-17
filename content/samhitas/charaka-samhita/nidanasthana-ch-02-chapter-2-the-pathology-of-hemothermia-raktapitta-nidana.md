@@ -34,7 +34,11 @@ The Etiology and Onset of Hemothermia
 
 3. We shall explain the condition where Pitta (thermia) acquires the appellation of Hemothermia (raktapitta).
 
+
+<blockquote className="ayur-shloka">
 4-(1). If a person takes the diet mainly of barley, Uddalaka [uddālaka] or Koradusa [koradūṣa] corn and execessively hot and acute food mixed with Nishpava [niṣpāva], black gram, horse-gram, pigeon pea or alkali, or with curds whey, diluted whey, sour butter-milk, sour conjee or the flesh of hog. buffalo, sheep, fish and cow, or til paste or Pindalu [piṇḍālu] dried vegeta bles, or radish, white mustard, garlic indian beech, drumstick, sweet drumstick, Bhustrina [bhūstṛṇa], the varieties of basil called Sumukha Surasa, Kutheraka [kuṭheraka], Gandira [gaṇḍīra], Kalamalaka [kālamālaka] and Parnasa [parṇāsa], Kshavaka [kṣavaka] and Phanijjhaka [phaṇijjhaka] as chutneys, or wines called Sara [sarā], Sauviraka [sauvīraka], Tushodaka [tuṣodaka], Maireya, Medaka Madhulaka [madhūlaka], and vinegars or other sour postprandial potions made of jujube small and big or pasted articles of diet at the end of the meal, or if a person being afflicted with heat drinks raw milk in excess or too frequently or eats Rohini vegetable along with milk, or the flesh of Kana [kāṇa] pigeon [kāṇakapota] cooked in white-mustard oil and alkali or if a man being afflicted with heat, drinks milk along with horsegram, til paste, ripe jambool, Lakucha or jujube; the Pitta of such a person gets provoked and the blood exceeds its normal proportion causing plethora.
+</blockquote>
+
 
 4. When under this condition of hyperemia, the provoked Pitta, while circulating in the body reaches the orifices of the splenic aud hepatic blood-carrying vessels which have become dilated, and gets obstructed, then indeed it causes vitiation of the blood.
 

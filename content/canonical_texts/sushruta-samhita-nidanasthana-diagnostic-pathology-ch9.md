@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of abscess within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. Chapter IX - Diagnosis of abscess
+## Chapter IX - Diagnosis of abscess
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -107,13 +107,10 @@ A case of an internal abscess suppurating about the heart, bladder or umbilicus 
 
 Thus ends the ninth Chapter of the Nidanasthana in the Sushruta Spinbita which treats of the etiology of abscess.
 
-[1]:
 
-A Gulma according to Sushruta does not suppurate, but the sanskrit term “Api” (also) contemplates instances in which a Gulma may suppurate as in the case where it has got its basis in the deranged flesh ?te? of the locality. Charaka asserts that retarded digestion of the ingested food followed by digestionary acid reaction, colic pain, insomnia with fever and a non-relish for food and a sense of oppression, etc. are the symptoms which indicate that suppuration has set in a Gulma, and he advises that it (Gulma) should be treated with poultices, etc.
+<div className="footnote-card"><strong>[1]</strong> A Gulma according to Sushruta does not suppurate, but the sanskrit term “Api” (also) contemplates instances in which a Gulma may suppurate as in the case where it has got its basis in the deranged flesh ?te? of the locality. Charaka asserts that retarded digestion of the ingested food followed by digestionary acid reaction, colic pain, insomnia with fever and a non-relish for food and a sense of oppression, etc. are the symptoms which indicate that suppuration has set in a Gulma, and he advises that it (Gulma) should be treated with poultices, etc.</div>
 
 ---
-
-
 
 ---
 
@@ -122,10 +119,6 @@ A Gulma according to Sushruta does not suppurate, but the sanskrit term “Api�
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of foetal obstruction: Sushruta Samhita Nidanasthana Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

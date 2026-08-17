@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Other Publications Received (Volume 2) within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. Other Publications Received (Volume 2)
+## Other Publications Received (Volume 2)
 
 Journal of the European Ayurvedic Society
 
@@ -29,7 +29,7 @@ Other Publications Received 207 Keudell, Theodor von: Die sanfte Heilkunst. Ayur
 
 ---
 
-## 34. Volume 3 (1993)
+## Volume 3 (1993)
 
 Journal of the European Ayurvedic Society
 
@@ -37,11 +37,9 @@ The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indi
 
 Volume 3 (1993)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 35. In search of underground treasures
+## In search of underground treasures
 
 Journal of the European Ayurvedic Society
 
@@ -135,8 +133,6 @@ N. Balbir, A la recherche des tresors souterrains 55 jaina, ainsi Km 104.19* (dh
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -144,10 +140,6 @@ N. Balbir, A la recherche des tresors souterrains 55 jaina, ainsi Km 104.19* (dh
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Indo-Iranian Concepts of Disease and Cure: Journal Of The European Ayurvedic Society Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

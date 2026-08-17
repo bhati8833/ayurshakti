@@ -24,7 +24,7 @@ description: "text includes treatments, recipes and remedies and is categorised 
 
 ---
 
-## 2. Part 2 - Dietary prescriptions
+## Part 2 - Dietary prescriptions
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -50,7 +50,7 @@ This concludes ‘Dietary prescriptions’ included in Bhudeb Mookerjee Rasa Jal
 
 ---
 
-## 3. Part 4 - Diet incongenial by combination
+## Part 4 - Diet incongenial by combination
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -68,7 +68,7 @@ This concludes ‘Diet incongenial by combination’ included in Bhudeb Mookerje
 
 ---
 
-## 4. Part 3 - Unwholesome diet and deeds
+## Part 3 - Unwholesome diet and deeds
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -80,13 +80,15 @@ Part 3 - Unwholesome diet and deeds
 
 The following are to be avoided:—taking meal before and much after, the usual time;- taking much in excess of or much less than the proper quantity of meal; taking meal before one feels hungry; food classed as bidahi[1], heavy food, that class of food which gives rise to flatulence, food fermented and not cooked by one’s own people (i.e., food cooked by keepers of hotels, etc.), food which gives rise to vayu and pitta; pangents, sours, bitters, and astringents (except when especially allowed); sexual intercourse, anger, physical labour in excess, things which have the property of killing mercury and the metals, such as kaka-machi; much talking, gruel, such fermented drugs as asavas and aristas, exposure to the heat of the sun and fire, except in cold regions of the world, exposure to drafts of air, sleeping and dozing in day time, keeping late hours at night, smoking and eating of tobacco, especially the latter[2], opium, tea, biscuits, loaves prepared from fermented wheat, food prepared by frying it with oil or adulterated butter or clarified butter, red pepper, fried rice, kusmanda, karkati, kalinga, kara-bella, kusumbha, kalambi, kadali, betel-nuts, jack fruits, kanji, (see page 381 Vol. III), tortoise, red punarnava, kukkuta (fowl), kapota (pigeon), karkoti, kapittha, kalaya, karkaru, kulattha, kangu rice, kola (sour plum), kaseru, (scirpus kysoor), kebuka (cosius speciosus), and meat of animals living near water; leaves and sprouts of betasa, (calamus rotong), bilba bartaku (egg fruit), mushroom, sweet plums curd, all pulses except mudga, linseed, mustard-seeds, sesamum seeds, camphor, mustard oil, taken internally with food, and anointing the body with it, anointing the body with saffron, and alcohol in any form.
 
-[1]:
 
-Those articles of food stuff which give rise to inflammation, thirst, and acidity as well as those which increase vayu and pitta, simutaneously, are called bidahi. They are:—roasted articles (except fish), red pepper; and rice, chipitaka, chanaka (gram), and kalaya (pinum sativum)—if fried (with or without oil), food seasoned with much of mustard; sour, and fermented food stuff.
+<div className="footnote-card"><strong>[1]</strong> Those articles of food stuff which give rise to inflammation, thirst, and acidity as well as those which increase vayu and pitta, simutaneously, are called bidahi. They are:—roasted articles (except fish), red pepper; and rice, chipitaka, chanaka (gram), and kalaya (pinum sativum)—if fried (with or without oil), food seasoned with much of mustard; sour, and fermented food stuff.</div>
 
-[2]:
 
-Smoking of tobacco is injurious to health, but eating and sniffing of the same is a gradual destroyer of longevity.
+
+
+<div className="footnote-card"><strong>[2]</strong> Smoking of tobacco is injurious to health, but eating and sniffing of the same is a gradual destroyer of longevity.</div>
+
+
 
 Conclusion:
 
@@ -94,7 +96,7 @@ This concludes ‘Unwholesome diet and deeds’ included in Bhudeb Mookerjee Ras
 
 ---
 
-## 5. Part 1 - Prayer to God
+## Part 1 - Prayer to God
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -112,7 +114,7 @@ This concludes ‘Prayer to God’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ---
 
-## 6. Part 5 - Drinking of water at dawn
+## Part 5 - Drinking of water at dawn
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -138,7 +140,7 @@ This concludes ‘Drinking of water at dawn’ included in Bhudeb Mookerjee Rasa
 
 ---
 
-## 7. Part 6 - Restrictions regarding exposure to the sun
+## Part 6 - Restrictions regarding exposure to the sun
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -158,7 +160,7 @@ This concludes ‘Restrictions regarding exposure to the sun’ included in Bhud
 
 ---
 
-## 8. Part 7 - Restrictions regarding dress
+## Part 7 - Restrictions regarding dress
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -176,7 +178,7 @@ This concludes ‘Restrictions regarding dress’ included in Bhudeb Mookerjee R
 
 ---
 
-## 9. Part 8 - Restrictions regarding exposure to wind
+## Part 8 - Restrictions regarding exposure to wind
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -194,7 +196,7 @@ This concludes ‘Restrictions regarding exposure to wind’ included in Bhudeb 
 
 ---
 
-## 10. Part 9 - Restrictions regarding sleeping in day time
+## Part 9 - Restrictions regarding sleeping in day time
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -216,7 +218,7 @@ This concludes ‘Restrictions regarding sleeping in day time’ included in Bhu
 
 ---
 
-## 11. Part 11 - Restrictions regarding bath
+## Part 11 - Restrictions regarding bath
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -238,7 +240,7 @@ This concludes ‘Restrictions regarding bath’ included in Bhudeb Mookerjee Ra
 
 ---
 
-## 12. Part 14 - Restriction regarding physical exercise
+## Part 14 - Restriction regarding physical exercise
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -262,7 +264,7 @@ This concludes ‘Restriction regarding physical exercise’ included in Bhudeb 
 
 ---
 
-## 13. Part 12 - Restrictions regarding taking of food
+## Part 12 - Restrictions regarding taking of food
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -290,9 +292,10 @@ An excess of these are always to be avoided:—lying down, sitting, drinking, ex
 
 One should avoid the following for 48 minutes after taking one’s meal:—exercise (physical and mental), sexual indulgence, running, travels, lighting, singing, and studying.
 
-[1]:
 
-Some people are under a wrong impression that drinking an excessive quantity of water helps to flush the abdomen.
+<div className="footnote-card"><strong>[1]</strong> Some people are under a wrong impression that drinking an excessive quantity of water helps to flush the abdomen.</div>
+
+
 
 Conclusion:
 
@@ -300,7 +303,7 @@ This concludes ‘Restrictions regarding taking of food’ included in Bhudeb Mo
 
 ---
 
-## 14. Part 13 - Chewing of betel leaves
+## Part 13 - Chewing of betel leaves
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -320,7 +323,7 @@ This concludes ‘Chewing of betel leaves’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-## 15. Part 10 - Rubbing the whole body with oil
+## Part 10 - Rubbing the whole body with oil
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -340,8 +343,6 @@ This concludes ‘Rubbing the whole body with oil’ included in Bhudeb Mookerje
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -349,10 +350,6 @@ This concludes ‘Rubbing the whole body with oil’ included in Bhudeb Mookerje
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Actions prohibited just at sunrise and sunset: Rasa Jala Nidhi Volume 4 Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

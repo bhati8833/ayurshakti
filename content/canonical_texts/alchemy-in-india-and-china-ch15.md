@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Sun Si-miao and His Alchemy within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. 7. Sun Si-miao and His Alchemy
+## 7. Sun Si-miao and His Alchemy
 
 Alchemy in India and China
 
@@ -31,8 +31,6 @@ of metallurgical processes such as purifying brass, 30 paktong (Bai-tong), and m
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ of metallurgical processes such as purifying brass, 30 paktong (Bai-tong), and m
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Transmutation of Base Metals into Gold: Alchemy In India And China Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

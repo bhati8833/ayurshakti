@@ -11,11 +11,9 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on vayolakṣaṇādhikāraḥ pañcamaḥ paṭalaḥ within Matangalila. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 3. Chapter 5 - vayolakṣaṇādhikāraḥ pañcamaḥ paṭalaḥ
+## Chapter 5 - vayolakṣaṇādhikāraḥ pañcamaḥ paṭalaḥ
 
 ---
-
-
 
 ---
 
@@ -24,10 +22,6 @@ isCanonicalText: true
   <a href="/articles/matangalila" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">āyurlakṣaṇādhikāraścaturthaḥ paṭalaḥ: Matangalila Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

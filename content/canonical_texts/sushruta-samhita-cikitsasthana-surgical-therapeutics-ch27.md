@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elixirs (rasayana) to improve memory and life span within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 29. Chapter XXVIII - Elixirs (rasayana) to improve memory and life span
+## Chapter XXVIII - Elixirs (rasayana) to improve memory and life span
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -79,25 +79,25 @@ The Tri-padi (lit. three-footed) Gayatri should be recited in connection with th
 
 Thus ends the Twenty-eighth Chapter of the Chikitsita-Sthana in the Sushruta Samhita which deals with elixirs and remedial agents for improving the memory and intellect and increasing longevity.
 
-[1]:
 
-Jejjata explains “Krishna” to mean Pippali. But both Gayi and Dallana explain it to mean the black Avalguja. It should be mentioned, here, that Dallana recommends the roots of black Avalguja, but we think that its seeds should be taken.—Ed.
+<div className="footnote-card"><strong>[1]</strong> Jejjata explains “Krishna” to mean Pippali. But both Gayi and Dallana explain it to mean the black Avalguja. It should be mentioned, here, that Dallana recommends the roots of black Avalguja, but we think that its seeds should be taken.—Ed.</div>
 
-[2]:
 
-Before sunrise.—D. R.
 
-[3]:
 
-The roots of the Citraka with black flowers should be taken.—Dallana.
+<div className="footnote-card"><strong>[2]</strong> Before sunrise.—D. R.</div>
 
-[4]:
 
-According to Dallana, this preparation of Vaca should be prepared by boiling it in the manner of Kshira-paka Vidhi.
+
+
+<div className="footnote-card"><strong>[3]</strong> The roots of the Citraka with black flowers should be taken.—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> According to Dallana, this preparation of Vaca should be prepared by boiling it in the manner of Kshira-paka Vidhi.</div>
 
 ---
-
-
 
 ---
 
@@ -106,10 +106,6 @@ According to Dallana, this preparation of Vaca should be prepared by boiling it 
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">The rules of hygiene and general conduct: Sushruta Samhita Cikitsasthana Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

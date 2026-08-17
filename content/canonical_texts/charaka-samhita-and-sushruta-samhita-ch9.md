@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Teacher of Āyurveda within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. The Teacher of Āyurveda
+## The Teacher of Āyurveda
 
 Charaka Samhita and Sushruta Samhita
 
@@ -33,97 +33,157 @@ As dissemination of medical knowledge is considered an obligation of the recipie
 
 It is interesting to note that the medical authorities who participated in a colloquium are described as learned and old (śruta-vayo-vṛddāḥ)[19] which may indicate the possibility that only aged physicians with considerable experience took to teaching. Participants at this colloquium included Vāryovida[20] who is addressed as rājārṣī (the royal sage) and Nimi, the king of Videha.[21] The engagement of kings in medicine was perhaps not unusual for apart from Divodāsa and Nimi, we get the name of Vāmaka, the king of Kāśī[22] as another medical authority.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 1.2.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 1.2.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.2.
 
-[3]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Sūtrasthāna 1.2.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 1.2.
+</blockquote>
 
-[4]:
 
-Ḍalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.2.
 
-[5]:
 
-Ḍalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.3.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Cakrapāṇidatta on Caraka Saṃhitā Sūtrasthāna 1.2.
+</blockquote>
 
-[6]:
 
-R.K.Mookerji, Ancient Indian Education, p.xxvi.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 8.4.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Ḍalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.2.
+</blockquote>
 
-[8]:
 
-Cakrapaṇidatta on Caraka Saṃhitā Vimānasthāna 8.4.
 
-[9]:
 
-Dagmar Wujastyk, Well-Mannered Medicine: Medical Ethics and Etiquette in Classical Āyurveda, New York, 2012, p.72.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Ḍalhaṇa on Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Sūtrasthāna 25.3-32; 26.3-9.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.3.
+<div className="footnote-card"><strong>[6]</strong> R.K.Mookerji, Ancient Indian Education, p.xxvi.</div>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.3.
 
-[13]:
 
-Suśruta Saṃhitā Uttaratantra 39.5
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 8.4.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Sūtrasthāna 9.18.
 
-[15]:
 
-Caraka Saṃhitā Vimānasthāna 3.3.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Cakrapaṇidatta on Caraka Saṃhitā Vimānasthāna 8.4.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.3.
 
-[17]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.3.
+<div className="footnote-card"><strong>[9]</strong> Dagmar Wujastyk, Well-Mannered Medicine: Medical Ethics and Etiquette in Classical Āyurveda, New York, 2012, p.72.</div>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.3.
 
-[19]:
 
-Caraka Saṃhitā Sūtrasthāna 26.3-6.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Sūtrasthāna 25.3-32; 26.3-9.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Sūtrasthāna 26.8.
 
-[21]:
 
-Caraka Saṃhitā Sūtrasthāna 26.5.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 12.3.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 25.5.
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 9.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Uttaratantra 39.5
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Sūtrasthāna 9.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Vimānasthāna 3.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Cikitsāsthāna 13.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 1.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Sūtrasthāna 26.3-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Sūtrasthāna 26.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Sūtrasthāna 26.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 25.5.
+</blockquote>
 
 ---
 
-## 31. The Student of Āyurveda (2): The Initiation Ceremony
+## The Student of Āyurveda (2): The Initiation Ceremony
 
 Charaka Samhita and Sushruta Samhita
 
@@ -147,93 +207,136 @@ We may note that the initiation ceremonies of the Vedic and the medical student 
 
 The mention of precious metals, gems and silk garments raises the question if the study of medical science could at all be pursued by those who were not well off. Cakrapāṇidatta adds that it is only the offerings out of the personal efforts or earnings of a disciple which can have auspicious and fruitful effects.[21]
 
-[1]:
 
-A.S. Altekar, Education in Ancient India, pp.3-4.
+<div className="footnote-card"><strong>[1]</strong> A.S. Altekar, Education in Ancient India, pp.3-4.</div>
 
-[2]:
 
-A.S. Altekar, Education in Ancient India pp.7-8.
 
-[3]:
 
-R.K. Mookerji, Ancient Indian Education, p. 67.
+<div className="footnote-card"><strong>[2]</strong> A.S. Altekar, Education in Ancient India pp.7-8.</div>
 
-[4]:
 
-R.K. Mookerji, Ancient Indian Education, p.10.
 
-[5]:
 
-M.S.Valiathan, The Legacy of Caraka, p.lxxxiii.
+<div className="footnote-card"><strong>[3]</strong> R.K. Mookerji, Ancient Indian Education, p. 67.</div>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 8.24.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.4.
+<div className="footnote-card"><strong>[4]</strong> R.K. Mookerji, Ancient Indian Education, p.10.</div>
 
-[8]:
 
-Manusmṛti IV.99.
 
-[9]:
 
-Caraka Saṃhitā Vimānasthāna 8.9.
+<div className="footnote-card"><strong>[5]</strong> M.S.Valiathan, The Legacy of Caraka, p.lxxxiii.</div>
 
-[10]:
 
-Caraka Saṃhitā Vimānasthāna 8.9.
 
-[11]:
 
-D. Wujastyk, Well-Mannered Medicine, p.80.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 8.24.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.4.
 
-[13]:
 
-D. Wujastyk, Well-Mannered Medicine, p.80.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 2.4.
+</blockquote>
 
-[14]:
 
-R.K. Mookerji, Ancient Indian Education, p. xxix.
 
-[15]:
 
-R.K. Mookerji, Ancient Indian Education, p.84.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Manusmṛti IV.99.
+</blockquote>
 
-[16]:
 
-H.Oldenberg (trans.), The Grihya-Sūtras: Rules of Vedic Domestic Ceremonies, Part I, Delhi, 1964 (Reprint); Sāṅkhāyana Gṛhyasūtra II.1.26-27.
 
-[17]:
 
-Sāṅkhāyana Gṛhyasūtra II.1.1-5.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Vimānasthāna 8.9.
+</blockquote>
 
-[18]:
 
-P. Olivelle (annotated text and trans.), Dharmasūtras: The Law Codes of Āpastamba, Gautama, Baudhyana and Vasiṣṭha, Delhi, 2003 (reprint). Āpastamba Dharmasūtra I.1.19.
 
-[19]:
 
-Āpastamba Dharmasūtra I.3.41.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Vimānasthāna 8.9.
+</blockquote>
 
-[20]:
 
-Sāṅkhāyana Gṛhyasūtra II.1.15-23.
 
-[21]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 8.9-10.
+<div className="footnote-card"><strong>[11]</strong> D. Wujastyk, Well-Mannered Medicine, p.80.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 2.4.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> D. Wujastyk, Well-Mannered Medicine, p.80.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> R.K. Mookerji, Ancient Indian Education, p. xxix.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> R.K. Mookerji, Ancient Indian Education, p.84.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> H.Oldenberg (trans.), The Grihya-Sūtras: Rules of Vedic Domestic Ceremonies, Part I, Delhi, 1964 (Reprint); Sāṅkhāyana Gṛhyasūtra II.1.26-27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Sāṅkhāyana Gṛhyasūtra II.1.1-5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> P. Olivelle (annotated text and trans.), Dharmasūtras: The Law Codes of Āpastamba, Gautama, Baudhyana and Vasiṣṭha, Delhi, 2003 (reprint). Āpastamba Dharmasūtra I.1.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Āpastamba Dharmasūtra I.3.41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Sāṅkhāyana Gṛhyasūtra II.1.15-23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 8.9-10.
+</blockquote>
 
 ---
 
-## 32. The Student of Āyurveda (3a): The Period of Student-hood
+## The Student of Āyurveda (3a): The Period of Student-hood
 
 Charaka Samhita and Sushruta Samhita
 
@@ -283,45 +386,68 @@ What is striking about this initiation ceremony as described in the Suśruta’s
 
 The picture that we get of the medical student is that he wore reddish-brown clothes, observed celibacy and vegetarian in his food habits. He was expected to maintain physical hygiene and keep his hair and nails short in length. A student of the Caraka school, however, is advised to maintain beard and moustache. The Vedic pupil is also advised to abstain from honey, meat, substances used for flavouring food (spices), substances that have turned sour, and to refrain from causing harm to living beings.[7] Suśruta, however, does not mention any food restrictions for the student. As regards personal appearance Caraka insists that the student should keep beard and moustache which is not mentioned by Suśruta. Keeping the beard was a practice followed by the student of Vedas as is known from the Atharvaveda (XI.5-6). “The Vedic student goes…clothing himself in the black antelopeskin, consecrated and long-bearded.[8] The code of conduct for students in the Dharmasūtras did not allow them to bathe during their studentship (Āpastamba Dharmasūtra I.2.28). As the period of Vedic studentship was viewed as a period of penance, the student is required to keep his body dirty and his teeth stained.[9] Nothing is said by Caraka about such austerities, while Suśruta’s insistence on cleanliness and personal hygiene, in all probability, precludes these observances.
 
-[1]:
 
-Caraka Saṃhitā Vimānasthāna 8.13.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Vimānasthāna 8.13.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Vimānasthāna 8.7.
 
-[3]:
 
-Caraka Saṃhitā Vimānasthāna 8.14.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Vimānasthāna 8.7.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.6.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.7.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Vimānasthāna 8.14.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Vimānasthāna 8.14.
 
-[7]:
 
-Manusmṛti II.177.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Sūtrasthāna 2.6.
+</blockquote>
 
-[8]:
 
-R. Pandey, Hindu Saṃskāras: Socio-Religious study of the Hindu Sacraments, Delhi, 1976 (Reprint 2nd revised edition), p. 113.
 
-[9]:
 
-P. Olivelle, (annotated text and translation), Dharmasūtras, pp.473-474.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 2.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Vimānasthāna 8.14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Manusmṛti II.177.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> R. Pandey, Hindu Saṃskāras: Socio-Religious study of the Hindu Sacraments, Delhi, 1976 (Reprint 2nd revised edition), p. 113.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> P. Olivelle, (annotated text and translation), Dharmasūtras, pp.473-474.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -330,10 +456,6 @@ P. Olivelle, (annotated text and translation), Dharmasūtras, pp.473-474.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">The Student of Āyurveda (3b): Methodology of Teaching and Study: Charaka Samhita And Sushruta Samhita Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

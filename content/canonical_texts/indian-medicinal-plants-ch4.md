@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Notes on the elementary (cardinal) properties of medicines within Indian Medicinal Plants. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Notes on the elementary (cardinal) properties of medicines
+## Notes on the elementary (cardinal) properties of medicines
 
 Indian Medicinal Plants
 
@@ -31,8 +31,6 @@ From the above list it will be seen that many of the cold remedies, are what are
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ From the above list it will be seen that many of the cold remedies, are what are
   <a href="/articles/indian-medicinal-plants" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/indian-medicinal-plants-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Notes on the importance of Sanskrit names of medicinal plants: Indian Medicinal Plants Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

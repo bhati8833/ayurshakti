@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Kokkoka’s Ratirahasya translated and explained (Part 1) within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Kokkoka’s Ratirahasya translated and explained (Part 1)
+## Kokkoka’s Ratirahasya translated and explained (Part 1)
 
 Journal of the European Ayurvedic Society
 
@@ -83,7 +83,7 @@ K. Mylius, Kokkokas Ratirahasya (I) 173 wird erklart: die Wiedervereinigung nach
 
 ---
 
-## 43. On the Nature and Development of ‘Traditional Indian Medicine’
+## On the Nature and Development of ‘Traditional Indian Medicine’
 
 Journal of the European Ayurvedic Society
 
@@ -127,7 +127,7 @@ R.P. Das, 'Traditional Indian Medicine' 71 the lack of tools on which to base in
 
 ---
 
-## 44. The Yuktidipika and the History of Indian Medicine
+## The Yuktidipika and the History of Indian Medicine
 
 Journal of the European Ayurvedic Society
 
@@ -185,8 +185,6 @@ CC 2.3.31: masaparna-bhrtiye 'smin CC 3.255: matrasitiye nirdistah CC 21.138: dv
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -194,10 +192,6 @@ CC 2.3.31: masaparna-bhrtiye 'smin CC 3.255: matrasitiye nirdistah CC 21.138: dv
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Biology in Bhaskarakantha’s Cittanubodhasastra: Journal Of The European Ayurvedic Society Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Use, aim and Function of Art within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. 4. Use, aim and Function of Art
+## 4. Use, aim and Function of Art
 
 Manasollasa (study of Arts and Sciences)
 
@@ -61,7 +61,7 @@ The Manasollasa covers several subjects like dance, music, prosody, architecture
 
 ---
 
-## 40. Chapter 5 - Sciences in Someshvara’s Manasollasa
+## Chapter 5 - Sciences in Someshvara’s Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -71,11 +71,7 @@ The Manasollasa is ...
 
 Chapter 5 - Sciences in Someshvara’s Manasollasa
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -84,10 +80,6 @@ Chapter 5 - Sciences in Someshvara’s Manasollasa
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">7. Dance in Somesvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

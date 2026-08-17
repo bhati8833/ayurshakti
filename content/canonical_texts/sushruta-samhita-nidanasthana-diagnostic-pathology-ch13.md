@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of hernia, tumours, elephantiasis, etc within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. Chapter XII - Diagnosis of hernia, tumours, elephantiasis, etc.
+## Chapter XII - Diagnosis of hernia, tumours, elephantiasis, etc.
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -101,13 +101,10 @@ The disease is usually found to be confined to the legs and hands of men but cas
 
 Thus ends the twelfth Chapter of the Nidanastbana in the Sushruta Samhita which treats of the Nidana of scrotal tumours, hernia, Upa- dansha and elephantiasis.
 
-[1]:
 
-Upadansha is not syphilis whole to whole. Certain types of Upadansha such as the Raktaja and Sannipatika types which entail the destruction of the organs concerned exhibit certain symptoms which are common to syphilis as well. The secondary eruptions and tertiary symptoms of syphilis are not mentioned by the Ayurvedic Rishis who used to treat it only with vegetable medicines and this fact intimates the probability that the secondary and tertiary symptoms of syphilis might not arise by their efficient and able treatment from the very beginning, preventing the absorption of the poison into the system. The practice of ablution, so common among the Hindus, might be taken into consideration as one of the important preventive factors. Maharshi Charaka has comprised it within the chapter on ‘Senile Impotency’.—Ed.
+<div className="footnote-card"><strong>[1]</strong> Upadansha is not syphilis whole to whole. Certain types of Upadansha such as the Raktaja and Sannipatika types which entail the destruction of the organs concerned exhibit certain symptoms which are common to syphilis as well. The secondary eruptions and tertiary symptoms of syphilis are not mentioned by the Ayurvedic Rishis who used to treat it only with vegetable medicines and this fact intimates the probability that the secondary and tertiary symptoms of syphilis might not arise by their efficient and able treatment from the very beginning, preventing the absorption of the poison into the system. The practice of ablution, so common among the Hindus, might be taken into consideration as one of the important preventive factors. Maharshi Charaka has comprised it within the chapter on ‘Senile Impotency’.—Ed.</div>
 
 ---
-
-
 
 ---
 
@@ -116,10 +113,6 @@ Upadansha is not syphilis whole to whole. Certain types of Upadansha such as the
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of diseases of the penis: Sushruta Samhita Nidanasthana Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

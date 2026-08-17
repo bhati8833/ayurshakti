@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elephants in Śaktism within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 61. Elephants in Śaktism
+## Elephants in Śaktism
 
 Matangalila and Hastyayurveda (study)
 
@@ -27,17 +27,17 @@ To quote the inscriptional record–
 
 Here the demon who assumed the shape of an elephant is no doubt Mahiṣāsura. According to the Devīmāhātya of Mārkaṇḍeya Purāṇa (LXXIII, 30), the asura turned himself also into a Mahāgaja. The description of the inscription is somewhat similar to that of the Mythical story of Mahiṣāsuramardinī, which symbolises the final victory of good over evil power.[2]
 
-[1]:
 
-V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.39.
+<div className="footnote-card"><strong>[1]</strong> V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p.39.</div>
 
-[2]:
 
-EI, Vol.I, p.81 & n.
+
+
+<div className="footnote-card"><strong>[2]</strong> EI, Vol.I, p.81 & n.</div>
 
 ---
 
-## 62. Mythological motifs related to Elephants
+## Mythological motifs related to Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -51,7 +51,7 @@ Both Brahmanical and Buddhist iconography give immense importance to elephants. 
 
 ---
 
-## 63. Concluding Remarks
+## Concluding Remarks
 
 Matangalila and Hastyayurveda (study)
 
@@ -63,8 +63,6 @@ The above data and its analysis reflect the importance of elephants in early Ind
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -72,10 +70,6 @@ The above data and its analysis reflect the importance of elephants in early Ind
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">General Discourse: Matangalila And Hastyayurveda Study Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

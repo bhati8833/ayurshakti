@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Dance in Somesvara’s Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 41. 7. Dance in Somesvara’s Manasollasa
+## 7. Dance in Somesvara’s Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -57,7 +57,7 @@ a '' 269 In the context of anger, doubt, graceful or pleasurable sensation at th
 
 ---
 
-## 43. 2. Astrology in Manasollasa
+## 2. Astrology in Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -109,8 +109,6 @@ V. Friday VI. Saturday 283 Pusya, ASlesa, Magha, and Rohini purvasadha, Uttarasa
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -118,10 +116,6 @@ V. Friday VI. Saturday 283 Pusya, ASlesa, Magha, and Rohini purvasadha, Uttarasa
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">3. Mathematics in Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -32,7 +32,11 @@ Chapter 4 - The Pharmaceutics of the Sponge Gourd (dhamargava-kalpa)
 
 Synonyms and Qualities
 
+
+<blockquote className="ayur-shloka">
 3. Karkotaki [karkoṭakī], Kothaphala [koṭhaphalā], Mahajalini [mahājālinī] and Rajakoshataki [rājakośātakī] are the synonyms of (Dhāmārgava) the sponge gourd [dhamargava].
+</blockquote>
+
 
 4-4½. This should be administered in toxicosis, Gulma, abdominal disease, and cough, in conditions of Vata lodged in the habitat of Kapha, in condition of provoked Kapha in the throat and the mouth, and in diseases resulting from accumulation of Kapha, and in conditions which cause rigidity and heaviness in the body.
 

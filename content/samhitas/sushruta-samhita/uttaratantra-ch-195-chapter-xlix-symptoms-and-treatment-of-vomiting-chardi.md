@@ -92,7 +92,11 @@ The supervening symptoms are:—Cough, asthma, fever, hiccough, thirst, mental d
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 “kṣīraghṛtaṃ” been explained by some commentators as milk mixed with clarified butter. Chakradatta reads “kṣīrodakaṃ” milk and water in place of “kṣīradhṛtaṃ”.
+</blockquote>
+
 
 [3]:
 

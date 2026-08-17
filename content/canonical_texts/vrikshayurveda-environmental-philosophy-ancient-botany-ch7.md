@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Environment and Humanity: In the context of Philosophical View within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. 3.5. Environment and Humanity: In the context of Philosophical View
+## 3.5. Environment and Humanity: In the context of Philosophical View
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -29,7 +29,7 @@ samane vrkse puruso nimagno'nisaya socati muhyamanah/ justam yada pasyatyanyamis
 
 ---
 
-## 20. Chapter 3 - Texts on Vrikshayurveda
+## Chapter 3 - Texts on Vrikshayurveda
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -37,11 +37,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 Chapter 3 - Texts on Vrikshayurveda
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -50,10 +46,6 @@ Chapter 3 - Texts on Vrikshayurveda
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Environment and Humanity: In the context of Vedic View: Vrikshayurveda and Environmental Philosophy Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Pharmaceutics of Tilwaka (tilvaka-kalpa) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 133. Chapter 9 - The Pharmaceutics of Tilwaka (tilvaka-kalpa)
+## Chapter 9 - The Pharmaceutics of Tilwaka (tilvaka-kalpa)
 
 Charaka Samhita (English translation)
 
@@ -65,7 +65,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 134. Chapter 12a - The Pharmaceutics of the Physic nut [danti-dravanti-kalpa]
+## Chapter 12a - The Pharmaceutics of the Physic nut [danti-dravanti-kalpa]
 
 Charaka Samhita (English translation)
 
@@ -145,7 +145,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 135. Chapter 12b - Miscellany of instruction
+## Chapter 12b - Miscellany of instruction
 
 Charaka Samhita (English translation)
 
@@ -245,7 +245,7 @@ Here are verses again—
 
 ---
 
-## 136. Chapter 12c - Table of Measures (mana)
+## Chapter 12c - Table of Measures (mana)
 
 Charaka Samhita (English translation)
 
@@ -275,7 +275,7 @@ Two types of Measure [mana]
 
 ---
 
-## 137. Chapter 2 - The Fivefold Purificatory Therapy (panchakarma-siddhi)
+## Chapter 2 - The Fivefold Purificatory Therapy (panchakarma-siddhi)
 
 Charaka Samhita (English translation)
 
@@ -343,7 +343,7 @@ Here are the recapitulatory verses—24. Thus has the fivefold mode of purificat
 
 ---
 
-## 138. Siddhisthana (Siddhi Sthana) — Section on Successful Treatment
+## Siddhisthana (Siddhi Sthana) — Section on Successful Treatment
 
 Charaka Samhita (English translation)
 
@@ -351,11 +351,7 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Siddhisthana (Siddhi Sthana) — Section on Successful Treatment
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -364,10 +360,6 @@ Siddhisthana (Siddhi Sthana) — Section on Successful Treatment
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Complications of Unctuous Enema (sneha-vyapad-siddhi): Charaka Samhita Complete Translation Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

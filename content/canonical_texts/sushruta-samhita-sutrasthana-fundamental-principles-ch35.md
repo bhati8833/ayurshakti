@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Duties of army surgeon within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 41. Chapter XXXIV - Duties of army surgeon
+## Chapter XXXIV - Duties of army surgeon
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -63,21 +63,20 @@ That person alone is fit to nurse or to attend the bedside of a patient, who is 
 
 Thus ends the thirty-fourth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of preserving the life of a king whose soldiers are on march.
 
-[1]:
 
-Udgatri: —One of the four principal priests at a sacrifice, who chants the hymns of the Sama Veda.
+<div className="footnote-card"><strong>[1]</strong> Udgatri: —One of the four principal priests at a sacrifice, who chants the hymns of the Sama Veda.</div>
 
-[2]:
 
-Hotri —A priest, who recites the (Riks) prayers of the Rik Veda at a religious sacrifice.
 
-[3]:
 
-Adhvaryyu— A priest of the Yayur Veda, whose duty is to cast the sacrificial beast into the fire.
+<div className="footnote-card"><strong>[2]</strong> Hotri —A priest, who recites the (Riks) prayers of the Rik Veda at a religious sacrifice.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Adhvaryyu— A priest of the Yayur Veda, whose duty is to cast the sacrificial beast into the fire.</div>
 
 ---
-
-
 
 ---
 
@@ -86,10 +85,6 @@ Adhvaryyu— A priest of the Yayur Veda, whose duty is to cast the sacrificial b
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch36" className="text-emerald-400 hover:underline flex items-center font-medium">Auspicious and inauspicious dreams: Sushruta Samhita Sutrasthana Chapter 36 →</a>
 </div>
-
-
-
-
 
 ---
 

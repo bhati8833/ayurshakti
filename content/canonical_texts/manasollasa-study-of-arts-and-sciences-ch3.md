@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Element of the Minister or Amatya within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. 2.2. Element of the Minister or Amatya
+## 2.2. Element of the Minister or Amatya
 
 Manasollasa (study of Arts and Sciences)
 
@@ -43,7 +43,7 @@ qualifications of others like Suhrt (friend), Purohita, Ganaka, Dandadhikari, Pr
 
 ---
 
-## 9. 2.3. Element of Allies (Mitra or Suhrit)
+## 2.3. Element of Allies (Mitra or Suhrit)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -61,8 +61,6 @@ the future. "42 43 The This same view we see in Yajnavalkya Smrti also. But acco
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -70,10 +68,6 @@ the future. "42 43 The This same view we see in Yajnavalkya Smrti also. But acco
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Element of Kingdom (Rashtra or Janapada): Manasollasa Study Of Arts And Sciences Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

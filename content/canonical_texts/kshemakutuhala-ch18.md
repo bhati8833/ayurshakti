@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ayurveda cooking rules of Kanda-saka (Vegetables of rhizomes) within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 58. Ayurveda cooking rules of Kanda-saka (Vegetables of rhizomes)
+## Ayurveda cooking rules of Kanda-saka (Vegetables of rhizomes)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -27,7 +27,7 @@ There are lot of potherbs to be used as vegetables. But all are not worth to be 
 
 ---
 
-## 59. Cereal preparations in Ayurvedic cookery
+## Cereal preparations in Ayurvedic cookery
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -55,7 +55,7 @@ rice flour. Roll out thread like streaks. Dry in sun. Fry in ghee. Add sugar and
 
 ---
 
-## 60. Common preparations in Ayurvedic cookery
+## Common preparations in Ayurvedic cookery
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -99,8 +99,6 @@ tissue elements. It is harmful to intellect. It induces sleeps and stimulates di
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -108,10 +106,6 @@ tissue elements. It is harmful to intellect. It induces sleeps and stimulates di
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Milk products and preparations in Ayurvedic cookery: Kshemakutuhala Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

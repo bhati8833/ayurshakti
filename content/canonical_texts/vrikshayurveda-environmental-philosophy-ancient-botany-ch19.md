@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 8. Religious Importance of Plants in Different Ceremonies within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. 8. Religious Importance of Plants in Different Ceremonies
+## 8. Religious Importance of Plants in Different Ceremonies
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -25,7 +25,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-## 47. 7. Trees in association with Constellations
+## 7. Trees in association with Constellations
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -51,8 +51,6 @@ IV.6. Trees in association with Constellations:—It is a scientifically proved 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -60,10 +58,6 @@ IV.6. Trees in association with Constellations:—It is a scientifically proved 
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Aesthetic Value behind the arrangement of Trees and Gardens: Vrikshayurveda and Environmental Philosophy Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

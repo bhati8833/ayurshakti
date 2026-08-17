@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The treatment with a Nirudha-vasti within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 43. Chapter XXXVIII - The treatment with a Nirudha-vasti
+## Chapter XXXVIII - The treatment with a Nirudha-vasti
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -195,95 +195,116 @@ The compound Madhu-Tailika Vasti is so called from the facts of its being princi
 
 Thus ends the Thirty-eighth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with Niruha-Vastis.
 
-[1]:
 
-According to Agnivesha the time necessary for the tips of the fingers to fall down upon the right thighs, i.e., the time required for a twinkling of the eye (Nimesha) is called a Matra. Parashara says that the time necessary to close and open the eye-lids (Nimesha and Unmesha) once, while throwing the arm around the right thigh is called a Matra. He has prescribed one hundred such Matras in respect of a patient of constipated bowels, and thirty-seven in respect of a patient of lax bowels.—Dallana. The period of a Matra has elsewhere been defined as that required to utter a short vowel. —Ed.
+<div className="footnote-card"><strong>[1]</strong> According to Agnivesha the time necessary for the tips of the fingers to fall down upon the right thighs, i.e., the time required for a twinkling of the eye (Nimesha) is called a Matra. Parashara says that the time necessary to close and open the eye-lids (Nimesha and Unmesha) once, while throwing the arm around the right thigh is called a Matra. He has prescribed one hundred such Matras in respect of a patient of constipated bowels, and thirty-seven in respect of a patient of lax bowels.—Dallana. The period of a Matra has elsewhere been defined as that required to utter a short vowel. —Ed.</div>
 
-[2]:
 
-See Chapter XXXIII, Para. 18, Chikitsita Sthana.
 
-[3]:
 
-Satisfactory urination should also be understood as one of the symptoms of the satisfactory application of a Niruha-vasti.—Ed.
+<div className="footnote-card"><strong>[2]</strong> See Chapter XXXIII, Para. 18, Chikitsita Sthana.</div>
 
-[4]:
 
-A second application of the Sneha-vasti should be made, if necessary, on the 2nd, 3rd, or 5th day with a due regard to the symptoms mentioned in the text.
 
-[5]:
 
-Both Vrinda and Chakradatta read “Atopa” (rumbling sounds in the intestines) in place of “Anaha.”
+<div className="footnote-card"><strong>[3]</strong> Satisfactory urination should also be understood as one of the symptoms of the satisfactory application of a Niruha-vasti.—Ed.</div>
 
-[6]:
 
-Dallana means to say that of the whole compound weighing twelve Prasrita measures (twenty-four Palas), there should be four Prasrita weights (8 Palas) of the docoction, and so on.
 
-[7]:
 
-The hand would serve the purpose of a ladle best in this case.
+<div className="footnote-card"><strong>[4]</strong> A second application of the Sneha-vasti should be made, if necessary, on the 2nd, 3rd, or 5th day with a due regard to the symptoms mentioned in the text.</div>
 
-[8]:
 
-Honey, Sneha, milk, Kanjika, cow’s urine, meat-juice, etc., should be taken.
 
-[9]:
 
-Dallana takes Pala in the sense of meat mamsam (Mamsam).
+<div className="footnote-card"><strong>[5]</strong> Both Vrinda and Chakradatta read “Atopa” (rumbling sounds in the intestines) in place of “Anaha.”</div>
 
-[10]:
 
-The quantity of honey, oil, and clarified butter, should be as before, that of Shukta, Kanjika, Mastu and urine half a Pala each, and that of milk two Palas.—Dallana.
 
-[11]:
 
-Dallana recommends the use of meat-juice (one Pala) and sugar-cane juice (two Palas) as the liquefacient agents in this preparation. It should also be noted that coldness and non-addition of any acid substances are recommended as the injection is to be applied in cases of diseases due to the derangement of Pitta.
+<div className="footnote-card"><strong>[6]</strong> Dallana means to say that of the whole compound weighing twelve Prasrita measures (twenty-four Palas), there should be four Prasrita weights (8 Palas) of the docoction, and so on.</div>
 
-[12]:
 
-According to Dallana, “Trivrit” should be understood to mean the same as “Traivrita” mentioned in the treatment of Maha-vata-vyadhi (see Chapter V., Para. 25, Chikitsita Sthana).
 
-[13]:
 
-According to Dallana, four Pala weights of honey, one Pala of milk, one Pala and a half of cow’s urine, and four Pala and a half of Kanjika, should be added to this solution.
+<div className="footnote-card"><strong>[7]</strong> The hand would serve the purpose of a ladle best in this case.</div>
 
-[14]:
 
-Both Vrinda and Chakrapani read “Vadari” in place of “Vidari”, and their annotators mean to say that the tender sprouts of all trees, viz., Vadari, etc., should be used.
 
-[15]:
 
-Vrinda does not recommend the addition of honey; he reads “sushītaḥ” (i.e., the Vasti should be in a cold state), in place of “kṣaudrayutaḥ”. But it is evident from the reding of Dallana’s commentary, as quoted by Shrikantha Datta, that honey should be added.
+<div className="footnote-card"><strong>[8]</strong> Honey, Sneha, milk, Kanjika, cow’s urine, meat-juice, etc., should be taken.</div>
 
-[16]:
 
-Both Vrinda and Chakrapáni read “ajaṃ” in place of “aṇdaṃ” which means that the newly spilt blood of a goat should be added to the list and hen’s egg should be eliminated therefrom.
 
-[17]:
 
-Vala-Taila has been mentioned in the treatment of Mudha-garbha (Chapter XV, Chikitsita Sthána) and the Traivrita-Ghrita has been described in the treatment of Mahá-Vátavyádhi (Chapter V, Chikitsita Sthána).
+<div className="footnote-card"><strong>[9]</strong> Dallana takes Pala in the sense of meat mamsam (Mamsam).</div>
 
-[18]:
 
-Shivadasa, the commentator of Chakradatta, quotes two additional(?) lines as being incorporated in Sushruta’s text which, when trans(?) would be as follows:—Better use a Vasti of milder potency but neve (?) on of strong potency than what is necessary and this is recomm (?) especially in cases of delicate persons.—Ed.
 
-[19]:
 
-The quantity of the fluid should be nine Prasritas in all cases of the (?) M adhu -Tailika Vasti and such-like Vastis (enemas).—Dallana.
+<div className="footnote-card"><strong>[10]</strong> The quantity of honey, oil, and clarified butter, should be as before, that of Shukta, Kanjika, Mastu and urine half a Pala each, and that of milk two Palas.—Dallana.</div>
 
-[20]:
 
-Vaca, salt, Madana-phala, Pippali, each should be one Karsha; (?)ho ney and oil four Prasritas and two Karshas each, and the decoction of (?) anda roots four Prasritas and two Karshas.—Dallana.
+
+
+<div className="footnote-card"><strong>[11]</strong> Dallana recommends the use of meat-juice (one Pala) and sugar-cane juice (two Palas) as the liquefacient agents in this preparation. It should also be noted that coldness and non-addition of any acid substances are recommended as the injection is to be applied in cases of diseases due to the derangement of Pitta.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> According to Dallana, “Trivrit” should be understood to mean the same as “Traivrita” mentioned in the treatment of Maha-vata-vyadhi (see Chapter V., Para. 25, Chikitsita Sthana).</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> According to Dallana, four Pala weights of honey, one Pala of milk, one Pala and a half of cow’s urine, and four Pala and a half of Kanjika, should be added to this solution.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Both Vrinda and Chakrapani read “Vadari” in place of “Vidari”, and their annotators mean to say that the tender sprouts of all trees, viz., Vadari, etc., should be used.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Vrinda does not recommend the addition of honey; he reads “sushītaḥ” (i.e., the Vasti should be in a cold state), in place of “kṣaudrayutaḥ”. But it is evident from the reding of Dallana’s commentary, as quoted by Shrikantha Datta, that honey should be added.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Both Vrinda and Chakrapáni read “ajaṃ” in place of “aṇdaṃ” which means that the newly spilt blood of a goat should be added to the list and hen’s egg should be eliminated therefrom.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Vala-Taila has been mentioned in the treatment of Mudha-garbha (Chapter XV, Chikitsita Sthána) and the Traivrita-Ghrita has been described in the treatment of Mahá-Vátavyádhi (Chapter V, Chikitsita Sthána).</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Shivadasa, the commentator of Chakradatta, quotes two additional(?) lines as being incorporated in Sushruta’s text which, when trans(?) would be as follows:—Better use a Vasti of milder potency but neve (?) on of strong potency than what is necessary and this is recomm (?) especially in cases of delicate persons.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> The quantity of the fluid should be nine Prasritas in all cases of the (?) M adhu -Tailika Vasti and such-like Vastis (enemas).—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Vaca, salt, Madana-phala, Pippali, each should be one Karsha; (?)ho ney and oil four Prasritas and two Karshas each, and the decoction of (?) anda roots four Prasritas and two Karshas.—Dallana.</div>
+
+
 
 In the text we find “Madhuka” which generally means Yashti-madhu. (?) ere, however, it should mean “honey”. This is evident from Dallana’s (?)co mmentary.
 
-[21]:
 
-According to Dallana, however, a Pala measure of each of honey and clarified butter should be added.
+<div className="footnote-card"><strong>[21]</strong> According to Dallana, however, a Pala measure of each of honey and clarified butter should be added.</div>
 
 ---
-
-
 
 ---
 
@@ -292,10 +313,6 @@ According to Dallana, however, a Pala measure of each of honey and clarified but
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -38,7 +38,11 @@ Qualities, Varieties and Methods of usage
 
 7. It is known to be of two kinds. One with "small and numerous thorns, the other with very sharp and a small number of thorns. The one with numerous thorns is the superior, variety.
 
+
+<blockquote className="ayur-shloka">
 8. It is known by the synonyms of Snuk, Guda [guḍā], Nanda [nandā], Sudha [sudhā], Nistrimshapatraka [nistriṃśapatraka].
+</blockquote>
+
 
 9. The intelligent physician should [? incise?] the plants of two or three years of age with a sharp instrument and obtain the milk, specially at the end of winter.
 

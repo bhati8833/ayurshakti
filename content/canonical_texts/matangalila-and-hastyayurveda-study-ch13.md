@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Medical treatment of Elephants within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Medical treatment of Elephants
+## Medical treatment of Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -27,29 +27,36 @@ It ends with verse 30 which mentions that (the physician) who can make the king 
 
 The Gajaśāstra provides details of treating elephants diseases and in this text one finds details of methods of purgation and snuff. The latter is prescribed in diseases of the head, ears limbs, face and eyes, and in earache, paralysis of the vein on the back of the neck and goitre. Snuff is best taken in the morning when (the elephant) has hot eaten. Oil (half droṇa) boiled over a slow fire with medicines to cure the disease, is best for snuff. The elephant should remain with its face raised and its trunk stretched. A servant, seated should care the elephant on his lap. Then the good physician should carefully squeeze the genitals (of the elephant). The treatment of young elephants is mentioned separately as in case of paediatrics.
 
-[1]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha dantacchedabheṣajam), v. 1-2, p. 163.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha dantacchedabheṣajam), v. 1-2, p. 163.
+</blockquote>
 
-[2]:
 
-Ibid., v. 3-4.
 
-[3]:
 
-Ibid., v. 5-6.
+<div className="footnote-card"><strong>[2]</strong> Ibid., v. 3-4.</div>
 
-[4]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha vastibidhiḥ), v. 1-30, pp. 207-211.
 
-[5]:
 
-Ibid., v.30, p. 211.
+<div className="footnote-card"><strong>[3]</strong> Ibid., v. 5-6.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha vastibidhiḥ), v. 1-30, pp. 207-211.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., v.30, p. 211.</div>
 
 ---
 
-## 43. Natural Abodes of Elephants: Forests and woods
+## Natural Abodes of Elephants: Forests and woods
 
 Matangalila and Hastyayurveda (study)
 
@@ -73,11 +80,7 @@ Dāśārṇaka,
 
 Āṅgāreyaka (or āṅgireyaka of Mānasollāsa),
 
-Kāliṅgaka,
-
-Aparantaka,
-
-Saurāṣṭraka and
+Kāliṅgaka,, Aparantaka,, Saurāṣṭraka and
 
 Pāñcanada.[3]
 
@@ -183,107 +186,134 @@ Upavana in Kirāta country (east of the Himalaya),
 
 Āgneya (south-east) upavanas,
 
-southern upavanas,
-
-Nairṛta (south-west) upavanas,
-
-western upavanas,
-
-Vāyu (northwest) upavanas,
-
-northern upavanas and
+southern upavanas,, Nairṛta (south-west) upavanas,, western upavanas,, Vāyu (northwest) upavanas,, northern upavanas and
 
 Iśāna (north-eastern) upavanas.[17]
 
 Elephants are particularly judged according to the signs of the woods they are born in.[18] Arthaśāstra and Aśokan inscriptions both mention elephant forests or Hastivana where elephants were kept in captivity post capture for training. Kauṭilya places the elephant forests much as much superior to the material forests. Elephants are principally responsible for destruction of the enemy’s force (Book 7, Chapter 11, verses 13-16).[19] Under the measures taken by ministers for state’s foreign policy especially at the time of pact for an undertaking Kauṭilya mentions the usefulness of the elephant forests. According to the ancient teachers there were two types of elephants in forests prior to their usefulness i.e. ‘one with many but dull elephants and one with few but brave elephants is preferable; for, on the brave depends the fight; the few brave rout the many dull, and those routed become the destroyers of their own troops.’ But according to Kauṭilya many dull elephants are preferable for their use in the army as they carry out many tasks, become the refuge of their own troops in battle and unassailable and frightful to the enemies. Where as to the many dull elephants, bravery can be imparted by means of training, but numerousness cannot be generated at all in the few brave (Book 7, Chapter 12, verses 8-12).[20] Elephant forests are the source of elephants for war (Book 7, Chapter 14, verse 25).[21]
 
-[1]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp. 68-69.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, pp. 68-69.
+</blockquote>
 
-[2]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 32-36.
 
-[3]:
 
-Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, pp. 44-45. The Mānasollāsa arranges this forests likewise–Prācya, Āṅgireya, Kāliṅgaka, Dāśārṇaka, Aparanta, Saurāṣṭra, Pāñcanada, Vedikarūṣaṃ.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 32-36.
+</blockquote>
 
-[4]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 32-34.
 
-[5]:
 
-Ibid., p. 34.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, pp. 44-45. The Mānasollāsa arranges this forests likewise–Prācya, Āṅgireya, Kāliṅgaka, Dāśārṇaka, Aparanta, Saurāṣṭra, Pāñcanada, Vedikarūṣaṃ.
+</blockquote>
 
-[6]:
 
-Ibid.
 
-[7]:
 
-Ibid., p. 35.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 32-34.
+</blockquote>
 
-[8]:
 
-Ibid.
 
-[9]:
 
-Ibid.
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 34.</div>
 
-[10]:
 
-Ibid., p. 35.
 
-[11]:
 
-Ibid., p. 36.
+<div className="footnote-card"><strong>[6]</strong> Ibid.</div>
 
-[12]:
 
-Ibid.
 
-[13]:
 
-Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, p. 45.
+<div className="footnote-card"><strong>[7]</strong> Ibid., p. 35.</div>
 
-[14]:
 
-Ibid., p. 136.
 
-[15]:
 
-I am deeply indebted to Professor Bijoya Goswami, Former Professor of Sanskrit Department, Jadavpur University, who gave her unpublished work on Gajaśāstra with English translation and permit me to refer the matters and use the map from it. The work will be soon published.
+<div className="footnote-card"><strong>[8]</strong> Ibid.</div>
 
-[16]:
 
-Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, p. 23. According to the Ain-i-Akbari, the supplies of elephants from regions of Agra and Allahabad in Uttar Pradesh, central India and Bihar to the Mughals, especially in the reign of Akbar, in the late 16th century CE; however by the end of 19th century CE, Watts shows, the scarcity of elephants habitation in these regions. And Daniel displays the present days‘elephant habitats in India are in (i) Northwest: Dehradun, Bijnor, and the Nainital Tarai; (ii) South: Western Ghats in the states of Karnataka, Kerala, and Tamil Nadu; (iii) Central: southern Bihar, southern Bengal, and Orissa; and (iv) Eastern: northern Bengal, Assam, and other states of North-East.
 
-[17]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 36-38.
+<div className="footnote-card"><strong>[9]</strong> Ibid.</div>
 
-[18]:
 
-Ibid, p. 39.
 
-[19]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 412.
+<div className="footnote-card"><strong>[10]</strong> Ibid., p. 35.</div>
 
-[20]:
 
-Ibid., pp. 415-416.
 
-[21]:
 
-Ibid., p. 426.
+<div className="footnote-card"><strong>[11]</strong> Ibid., p. 36.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, p. 45.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., p. 136.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> I am deeply indebted to Professor Bijoya Goswami, Former Professor of Sanskrit Department, Jadavpur University, who gave her unpublished work on Gajaśāstra with English translation and permit me to refer the matters and use the map from it. The work will be soon published.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> Nalini Sadhale & Y.L. Nene. ‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, p. 23. According to the Ain-i-Akbari, the supplies of elephants from regions of Agra and Allahabad in Uttar Pradesh, central India and Bihar to the Mughals, especially in the reign of Akbar, in the late 16th century CE; however by the end of 19th century CE, Watts shows, the scarcity of elephants habitation in these regions. And Daniel displays the present days‘elephant habitats in India are in (i) Northwest: Dehradun, Bijnor, and the Nainital Tarai; (ii) South: Western Ghats in the states of Karnataka, Kerala, and Tamil Nadu; (iii) Central: southern Bihar, southern Bengal, and Orissa; and (iv) Eastern: northern Bengal, Assam, and other states of North-East.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 36-38.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid, p. 39.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 412.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., pp. 415-416.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., p. 426.</div>
 
 ---
 
-## 44. Tracking of Elephants in their natural abode
+## Tracking of Elephants in their natural abode
 
 Matangalila and Hastyayurveda (study)
 
@@ -301,29 +331,36 @@ The method described in this treatise is similar to the Gajaśāstra. It says th
 
 presence of an elephant herd in a forest can be ascertained from animals of the forest smeared with urine and dung of the elephants and the leaves of aruṣka (Semecarpus anacardium) sticking on to them. It can also be inferred from the footmarks and droppings of the elephants, from the felled trees tore against by them, from their relaxing spaces, and also from their trumpets. Experts should catch the elephants according to the order of the king in grīṣma, i.e., summer time[5]. People were also aware of forests where the elephants of best breed lived.
 
-[1]:
 
-Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, v.171, p. 45.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, v.171, p. 45.
+</blockquote>
 
-[2]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Chapter 6, v. 17, p. 59.
 
-[3]:
 
-Ibid., Chapter 6, v. 15-16, p. 59.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Chapter 6, v. 17, p. 59.
+</blockquote>
 
-[4]:
 
-Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, v. 181-182, p. 45.
 
-[5]:
 
-Ibid., v. 184, p. 46.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Chapter 6, v. 15-16, p. 59.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol.1, v. 181-182, p. 45.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., v. 184, p. 46.</div>
 
 ---
-
-
 
 ---
 
@@ -332,10 +369,6 @@ Ibid., v. 184, p. 46.
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Training of Elephants: Matangalila And Hastyayurveda Study Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

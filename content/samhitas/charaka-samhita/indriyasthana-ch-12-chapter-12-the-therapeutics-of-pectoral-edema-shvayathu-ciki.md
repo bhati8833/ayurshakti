@@ -98,7 +98,11 @@ Some Recipes
 
 29-31. On a fire of cowdung cakes boil in 1024 tolas of Kurcika-whey 128 tolas of thorny milk-hedge, marking nut, white flowered leadwort, the three spices, embelia, yellow berried night-shade and Indian night-shade; and when it is reduced to one third its quantity, it should be filtered; when it is cold add 1024 tolas of Prakrita whey and 400 tolas of sugar-candy and put this solution in a pot which is lined with the paste of white-flowered leadwort and long pepper and leave this pot in a high open place for ten days; this medicated wine, when administered, cures edema [shvayathu], fistula-in-ano, piles, helminthiasis, dermatosis, urinary disorders, discoloration, emaciation and hiccup due to Vata. Thus has been described ‘The compound Thorny Milk-hedge medicated Wine’.
 
+
+<blockquote className="ayur-shloka">
 32-33. Take 400 tolas of each of pounded white teak, emblic myrobalan, black pepper, chebulic myrobalan, beleric myrobalan, grapes and long pepper; and 400 tolas of old gur and mix with 1024 tolas of water and place them in a vessel lined with honey, for seven days in summer and for double that time in winter. The patient may drink this medicated 800 tolas (Aṣṭaśata [aṣṭaśata]) wine which cures edema and obstipation due to Vata and Kapha, and stimulates the gastric fire. Thus has been described ‘The Ashtashata Wine’.
+</blockquote>
+
 
 34-36. Decoct in water 12 tolas of each of the two kinds of hogweed, heart-leaved sida, country mallow, Patha, root of red physic nut, guduch, white flowered leadwort and yellow berried night-shade and reduce it to 1024 tolas; filter it and allow it to cool; then add 800 tolas of old gur and 64 tolas of honey and keep it in a vessel lined with ghee; place this vesshel for a month in a heap of barley; take it out after that period and make it fragrant by adding 4 tolas of the powder of each of cinnamon leaf and bark, small cardamom, black pepper, cuscus and iron powder, and keep it in a vessel lined with ghee and honey; when the ingested meal has been digested, it should be taken in a dose in keeping with the strength of the disease.
 
@@ -164,9 +168,17 @@ Partial Edemas
 
 74. The swellings affecting one limb or one region of the body of multiple variety owing to the different classifications of them according to site, susceptibility of the bodyelement, shape and name. Listen to the description of a few of them that I give for the purpose of illustration.
 
-75. All the three humors, being provoked by their respective etiological factors, produce [? frightful?] inflammation of the head (cellulitis of head or skull) When it affects the inside of the throat it causes ‘Shaluka [śālūka]’ or quinsy which is accompanied with stertorous breathing (quinsy or acute inflammation of the tonsils) or with fever.
 
+<blockquote className="ayur-shloka">
+75. All the three humors, being provoked by their respective etiological factors, produce [? frightful?] inflammation of the head (cellulitis of head or skull) When it affects the inside of the throat it causes ‘Shaluka [śālūka]’ or quinsy which is accompanied with stertorous breathing (quinsy or acute inflammation of the tonsils) or with fever.
+</blockquote>
+
+
+
+<blockquote className="ayur-shloka">
 76. The acute inflammation, occurring in the regions of the chin, neck and in between then along with redness and burning and impairment of the respiration and attended with intense pain, is called Bidalika [biḍālikā] (ludwig’s angina) inflammation. It kills the patient if folds are formed on the throat.
+</blockquote>
+
 
 77. That is Talu-vidradhi (palatal abscess) wherein occurs the abscess and suppuration due to tridiscordance. That which affects the superficial part of the tongue is called Upajihvika (acute superficial glossites) and when owing to Kapha the sublingual part is affected, it is called Adhijihvika (sub-lingual abscess).
 

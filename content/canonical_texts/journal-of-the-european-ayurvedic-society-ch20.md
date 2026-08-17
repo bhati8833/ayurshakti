@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Kokkoka’s Ratirahasya translation (Part 2) within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 57. Kokkoka’s Ratirahasya translation (Part 2)
+## Kokkoka’s Ratirahasya translation (Part 2)
 
 Journal of the European Ayurvedic Society
 
@@ -87,7 +87,7 @@ K. Mylius, Kokkokas Ratirahasya (II) 193 sie Unterordnung und Zugelung der Rede,
 
 ---
 
-## 58. Where is the Romaraji?
+## Where is the Romaraji?
 
 Journal of the European Ayurvedic Society
 
@@ -123,7 +123,7 @@ class of poetic conventions as lotuses in flowing waters and the like. Lotus flo
 
 ---
 
-## 59. Reviews and Notices (Volume 4)
+## Reviews and Notices (Volume 4)
 
 Journal of the European Ayurvedic Society
 
@@ -161,8 +161,6 @@ must trust that the author has not projected the Abhidhamma concepts upon Upasen
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -170,10 +168,6 @@ must trust that the author has not projected the Abhidhamma concepts upon Upasen
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Contribution of Ascetics and Buddhist Monks: Journal Of The European Ayurvedic Society Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Gem Minerals Containing Beryllium within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 64. 4.3. Gem Minerals Containing Beryllium
+## 4.3. Gem Minerals Containing Beryllium
 
 Minerals and Metals in Sanskrit literature
 
@@ -33,7 +33,7 @@ VII-22 represent golden beryl, a gem softer than chrysoberyl but occurring with 
 
 ---
 
-## 65. 4.7. Description of Quartz
+## 4.7. Description of Quartz
 
 Minerals and Metals in Sanskrit literature
 
@@ -55,7 +55,7 @@ VII-41 bhisma with rock-crystal, whereas Samma (1984:70) thinks that 'it is prob
 
 ---
 
-## 66. 4.4. Description of Vaidurya and Marakata
+## 4.4. Description of Vaidurya and Marakata
 
 Minerals and Metals in Sanskrit literature
 
@@ -81,7 +81,7 @@ VII-28.E Skanda Purana categorised the emeralds as those with quality and those 
 
 ---
 
-## 67. 4.8. Chalcedony Group of Gems
+## 4.8. Chalcedony Group of Gems
 
 Minerals and Metals in Sanskrit literature
 
@@ -107,8 +107,6 @@ VII-47 Tagore (1879: 512-513) has quoted a Sanskrit text in which jyotirasa has 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -116,10 +114,6 @@ VII-47 Tagore (1879: 512-513) has quoted a Sanskrit text in which jyotirasa has 
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Description of Zircon, Garnet and Tourmaline: Minerals And Metals In Sanskrit Literature Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

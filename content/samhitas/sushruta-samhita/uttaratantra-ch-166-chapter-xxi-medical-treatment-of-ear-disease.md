@@ -106,7 +106,11 @@ Thus ends the twenty-first chapter of the Uttara-Tantra in the Sushruta Samhita 
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 In place of “Rasāyana” (use of tonic) some read “Rasāśanam” (use of meat-soup with meal).
+</blockquote>
+
 
 [2]:
 
@@ -146,7 +150,11 @@ Chapter V and VI, Chikitsita-Sthāna.
 
 [11]:
 
+
+<blockquote className="ayur-shloka">
 According to some, “Panca-Kashāya” means the barks of Āragbadha, Śirisha, Jambu, Sarja and of Asvamāra (Palāśa), but Dallana, on the authority of the authors of the Tikā and the Panjikā, (the two commentaries) refutes this and holds that “Panca-kashāya” means the barks of T induka, Abhayā, Lodhra, Samangā and of Āmalaka enumerated below in this chapter.
+</blockquote>
+
 
 [12]:
 

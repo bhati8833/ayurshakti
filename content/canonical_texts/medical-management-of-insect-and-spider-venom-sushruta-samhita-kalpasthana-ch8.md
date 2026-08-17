@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Insects, scorpions, and venomous spider (Luta) bites, staging of necrotic tissue lesions, and specific antidote pastes. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Chapter VIII - The medical treatment of insect bites
+## Chapter VIII - The medical treatment of insect bites
 
  It embraces all that can possibly appertain to the science of medicine. 
 
@@ -243,37 +243,48 @@ Thus ends the eighth Chapter of the Kalpasthana in the Sushruta Samhita which tr
 
 Here ends the Kalpa Sthana.
 
-[1]:
 
-Dallana says that the four groups are to be determined according to the origin of the insects from the semen, etc. of a Darvi-kara, Mandali, Rājila, or a Vaikaranja serpent. To us it seems, however, that the groups should be Vātaja, Pittaja, Kaphaja and Sannipātaja.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Dallana says that the four groups are to be determined according to the origin of the insects from the semen, etc. of a Darvi-kara, Mandali, Rājila, or a Vaikaranja serpent. To us it seems, however, that the groups should be Vātaja, Pittaja, Kaphaja and Sannipātaja.
+</blockquote>
 
-[2]:
 
-Dallana says that by cow-dung (Gomaya) is meant the dung, the urine etc. of not only a cow, but of a buffalo, etc. as well
 
-[3]:
 
-According to Gayadāsa the total number of the three classes of scorpions would be twenty-seven, of which the first (mild-poisoned) class consists of eleven, the second consists of three and the third of thirteen.
+<div className="footnote-card"><strong>[2]</strong> Dallana says that by cow-dung (Gomaya) is meant the dung, the urine etc. of not only a cow, but of a buffalo, etc. as well</div>
 
-[4]:
 
-In place of “white, red and whitish red” some read “white, red and little red” (Arakta), while others make it “white in the abdomen (Śvetodara), red and white.”
 
-[5]:
 
-In place of “Prachala” Gayadāsa reads “Prabala,” i.e., strong and says that the poison becomes stronger and stronger with the lapse of time.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> According to Gayadāsa the total number of the three classes of scorpions would be twenty-seven, of which the first (mild-poisoned) class consists of eleven, the second consists of three and the third of thirteen.
+</blockquote>
 
-[6]:
 
-Mention of Madhuka twice in the list shows that one part each of both the kinds Yashti-madhu (liquorice)—grown on lands and in water—should be taken.
 
-[7]:
 
-Gayadāsa reads “Śikhi” (Lāngalaki) and “Vamśa” (scrapings of bamboo) in place of “Nimba-patra”. He also reads “Danta” (tooth of a cow) in place of “Kinva.”
+<div className="footnote-card"><strong>[4]</strong> In place of “white, red and whitish red” some read “white, red and little red” (Arakta), while others make it “white in the abdomen (Śvetodara), red and white.”</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> In place of “Prachala” Gayadāsa reads “Prabala,” i.e., strong and says that the poison becomes stronger and stronger with the lapse of time.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Mention of Madhuka twice in the list shows that one part each of both the kinds Yashti-madhu (liquorice)—grown on lands and in water—should be taken.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Gayadāsa reads “Śikhi” (Lāngalaki) and “Vamśa” (scrapings of bamboo) in place of “Nimba-patra”. He also reads “Danta” (tooth of a cow) in place of “Kinva.”
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -282,10 +293,6 @@ Gayadāsa reads “Śikhi” (Lāngalaki) and “Vamśa” (scrapings of bamboo)
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

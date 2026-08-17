@@ -24,7 +24,7 @@ description: "text includes treatments, recipes and remedies and is categorised 
 
 ---
 
-## 1. Part 2 - Mica should be deprived of its glaze
+## Part 2 - Mica should be deprived of its glaze
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -42,7 +42,7 @@ This concludes ‘Mica should be deprived of its glaze’ included in Bhudeb Moo
 
 ---
 
-## 2. Chapter I - Uparasa (1): Abhra or Abhraka (mica)
+## Chapter I - Uparasa (1): Abhra or Abhraka (mica)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -52,15 +52,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter I - Uparasa (1): Abhra or Abhraka (mica)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (1): Abhra or Abhraka (mica)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 3. Part 1 - Characteristics of Mica (abhra or abhraka)
+## Part 1 - Characteristics of Mica (abhra or abhraka)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -86,7 +84,7 @@ This concludes ‘Characteristics of Mica (abhra or abhraka)’ included in Bhud
 
 ---
 
-## 4. Part 3 - Purification of Mica
+## Part 3 - Purification of Mica
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -116,8 +114,6 @@ This concludes ‘Purification of Mica’ included in Bhudeb Mookerjee Rasa Jala
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -125,10 +121,6 @@ This concludes ‘Purification of Mica’ included in Bhudeb Mookerjee Rasa Jala
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Process for creation of Dhanya-abhra (paddy mica): Rasa Jala Nidhi Volume 2 Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

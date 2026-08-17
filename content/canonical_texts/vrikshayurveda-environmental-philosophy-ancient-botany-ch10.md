@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Vrikshayurveda texts found in Vastu-shastra within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 26. 5. Vrikshayurveda texts found in Vastu-shastra
+## 5. Vrikshayurveda texts found in Vastu-shastra
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -37,7 +37,7 @@ Vastu means the art and science of living-place i.e, the site for building and a
 
 ---
 
-## 27. Chapter 4 - Environmental Values as Reflected in Vrikshayurveda Texts
+## Chapter 4 - Environmental Values as Reflected in Vrikshayurveda Texts
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -45,11 +45,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 Chapter 4 - Environmental Values as Reflected in Vrikshayurveda Texts
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -58,10 +54,6 @@ Chapter 4 - Environmental Values as Reflected in Vrikshayurveda Texts
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">2. Summary of the Vrikshayurveda of Surapala: Vrikshayurveda and Environmental Philosophy Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

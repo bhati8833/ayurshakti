@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of urinary conditions within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Chapter VII - The medical treatment of urinary conditions
+## Chapter VII - The medical treatment of urinary conditions
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -109,45 +109,52 @@ The surgeon who is not well cognisant of the nature and positions of the Marmas 
 
 Thus ends the seventh Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of Urinary calculus.
 
-[1]:
 
-Chakradatta reads “Kopotavaktra” in place of “Kapotavamka” “Kancana” in place of “Kakubha”; and “Gulmaka” in place of “Kubjaka From an examination of Dallana it appears that “Kacchaka” is also a reading of “Kakubha.”
+<div className="footnote-card"><strong>[1]</strong> Chakradatta reads “Kopotavaktra” in place of “Kapotavamka” “Kancana” in place of “Kakubha”; and “Gulmaka” in place of “Kubjaka From an examination of Dallana it appears that “Kacchaka” is also a reading of “Kakubha.”</div>
 
-[2]:
 
-Chakradatta reads “Punarnave” i.e., both the kinds of Punarnava.
 
-[3]:
 
-Jejjata explains “Indivara” as ‘Nilotpala.’ But Gayadasa does not support this.
+<div className="footnote-card"><strong>[2]</strong> Chakradatta reads “Punarnave” i.e., both the kinds of Punarnava.</div>
 
-[4]:
 
-Same say that “Aja-sarpih” is superfluous. Chakradatta reads “gaṇe varuṇakadau guggulvelahareṇubhiḥ” in place of “gaṇo varuṇakadistu guggulvelahareṇavaḥ” meaning thereby that the decoction of the Varunadi-gana is to be used. Chakradatta’s reading seems to be the correct one and is observed in practice with good results.—Ed.
 
-[5]:
 
-The quantity of treacle, to be taken, should be equal to the entire quantity of the powders; and hot water should be used—Pallana.
+<div className="footnote-card"><strong>[3]</strong> Jejjata explains “Indivara” as ‘Nilotpala.’ But Gayadasa does not support this.</div>
 
-[6]:
 
-Some explain it as “Gokshura-seeds” and others as “Markataka- seeds.”
 
-[7]:
 
-Four or six Tola weight of an alkali should be dissolved and filtered for a number of times before use.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Same say that “Aja-sarpih” is superfluous. Chakradatta reads “gaṇe varuṇakadau guggulvelahareṇubhiḥ” in place of “gaṇo varuṇakadistu guggulvelahareṇavaḥ” meaning thereby that the decoction of the Varunadi-gana is to be used. Chakradatta’s reading seems to be the correct one and is observed in practice with good results.—Ed.
+</blockquote>
 
-[8]:
 
-Dallana recommends the use of Triphala boiled with milk in cases of pain accompanying Pittaja Ashmari, while that boiled with Varshabhu is advised to be given for the alleviation of pain in a case of Vataja or Kaphaja Ashmari. The drugs of Vira-taradi group should be used with milk, clarified butter, a decoction, Yavagu (gruel), food, etc., and also for bath, immersion, etc.
 
-[9]:
 
-The urine-purifying drugs are the Trina-Pancamulas, Gokshura, Kasamarda, Pashanabheda, etc.
+<div className="footnote-card"><strong>[5]</strong> The quantity of treacle, to be taken, should be equal to the entire quantity of the powders; and hot water should be used—Pallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Some explain it as “Gokshura-seeds” and others as “Markataka- seeds.”</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Four or six Tola weight of an alkali should be dissolved and filtered for a number of times before use.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Dallana recommends the use of Triphala boiled with milk in cases of pain accompanying Pittaja Ashmari, while that boiled with Varshabhu is advised to be given for the alleviation of pain in a case of Vataja or Kaphaja Ashmari. The drugs of Vira-taradi group should be used with milk, clarified butter, a decoction, Yavagu (gruel), food, etc., and also for bath, immersion, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> The urine-purifying drugs are the Trina-Pancamulas, Gokshura, Kasamarda, Pashanabheda, etc.</div>
 
 ---
-
-
 
 ---
 
@@ -156,10 +163,6 @@ The urine-purifying drugs are the Trina-Pancamulas, Gokshura, Kasamarda, Pashana
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of Hemorrhoids: Sushruta Samhita Cikitsasthana Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

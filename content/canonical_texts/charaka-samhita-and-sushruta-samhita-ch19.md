@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Hygiene of the Head and Neck region within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 63. Hygiene of the Head and Neck region
+## Hygiene of the Head and Neck region
 
 Charaka Samhita and Sushruta Samhita
 
@@ -31,49 +31,77 @@ One is also cautioned against smoking after consuming milk, fatty substances, ho
 
 (v) Oleation of the ears: Oil drops in the ears wards off ear diseases, such as those caused by vitiated vāta, torticollis, lock jaw, hardness of hearing, deafness[9] and cures pain of the neck, the head and the ears.[10]
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.33-35.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 45.33-35.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.37.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 5.41-45.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 45.37.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 5.56.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 5.57-59/1.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 5.41-45.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 5.60-62.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 5.81-83.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 5.56.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.29/1.
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 5.84.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 5.57-59/1.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.29/2.
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 5.60-62.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 5.81-83.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.29/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 5.84.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.29/2.
+</blockquote>
 
 ---
 
-## 64. Mental Hygiene and Social Health
+## Mental Hygiene and Social Health
 
 Charaka Samhita and Sushruta Samhita
 
@@ -161,113 +189,185 @@ We also read in the Caraka Saṃhitā that whatever else is not spoken here but 
 
 Taking all things into consideration, the guidance on good conduct is intended for developing a peaceful, compassionate, happy and positive attitude to life, which, it is believed, can prevent or rather minimize sufferings of the mind and the body.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 7.26.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 7.26.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 7.27.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 7.28.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 7.27.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 7.29.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 7.30.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 7.28.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 7.15-16.
 
-[7]:
 
-Caraka Saṃhitā Sūtrasthāna 8.19.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 7.29.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Sūtrasthāna 8.20.
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 8.18.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 7.30.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 45.104.
 
-[11]:
 
-Caraka Saṃhitā Sūtrasthāna 8.27.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 7.15-16.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Sūtrasthāna 8.25; Suśruta Saṃhitā Cikitsāsthāna 24.101. Suśruta, however, advises refraining from excess consumption of liquor (madya-ati-sevā).
 
-[13]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.98.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Sūtrasthāna 8.19.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Sūtrasthāna 8.18.
 
-[15]:
 
-Caraka Saṃhitā Sūtrasthāna 8.18.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Sūtrasthāna 8.20.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Sūtrasthāna 8.19.
 
-[17]:
 
-Caraka Saṃhitā Sūtrasthāna 8.26.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
 
-[18]:
 
-R. Wilkinson and M. Marmot, (Eds.), Social determinants of Health: The Solid Facts, WHO, Copenhagen, 2003 (second edition), p.7.
 
-[19]:
 
-R. Wilkinson and M. Marmot, (Eds.), Social determinants of Health, p.22.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 45.104.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Sūtrasthāna 8.25.
 
-[21]:
 
-Caraka Saṃhitā Sūtrasthāna 8.27.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Sūtrasthāna 8.27.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 8.21.
 
-[23]:
 
-Vasiṣṭha Dharmasūtra, 5.11.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Sūtrasthāna 8.25; Suśruta Saṃhitā Cikitsāsthāna 24.101. Suśruta, however, advises refraining from excess consumption of liquor (madya-ati-sevā).
+</blockquote>
 
-[24]:
 
-Vasiṣṭha Dharmasūtra, 5.12.
 
-[25]:
 
-Caraka Saṃhitā Sūtrasthāna 8.35.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.98.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.89.
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Sūtrasthāna 8.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Sūtrasthāna 8.26.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> R. Wilkinson and M. Marmot, (Eds.), Social determinants of Health: The Solid Facts, WHO, Copenhagen, 2003 (second edition), p.7.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> R. Wilkinson and M. Marmot, (Eds.), Social determinants of Health, p.22.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Sūtrasthāna 8.25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Sūtrasthāna 8.27.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 8.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Vasiṣṭha Dharmasūtra, 5.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Vasiṣṭha Dharmasūtra, 5.12.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Sūtrasthāna 8.35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.89.
+</blockquote>
 
 ---
 
-## 65. Hygiene of the body and personal grooming
+## Hygiene of the body and personal grooming
 
 Charaka Samhita and Sushruta Samhita
 
@@ -307,117 +407,192 @@ enhancer of longevity.
 
 Other than personal hygiene, there is concern with public sanitation as well for urinating or defecating in public places as near settled communities, cremation grounds, crossings, ponds, paths or roads and open grounds is prohibited in the texts,[25] and at the time of taking food.[26] Hygiene is of utmost importance for infants as the grahas are said to afflict them when the mother and the wet-nurse do not follow the code of conduct, auspicious rituals but where cleanliness is not observed.[27]
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 5. 85-86.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 5. 85-86.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 5.89.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 5.93.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 5.89.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 5.86.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 5.90-92.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 5.93.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.51/2-52/1.
 
-[7]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.53.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 5.86.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.53.
 
-[9]:
 
-P.V. Sharma, Indian Medicine in the Classical Age, p.44.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 5.90-92.
+</blockquote>
 
-[10]:
 
-Manusmṛti V.109.
 
-[11]:
 
-Caraka Saṃhitā Sūtrasthāna 5.94.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.51/2-52/1.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Sūtrasthāna 5.99.
 
-[13]:
 
-Caraka Saṃhitā Sūtrasthāna 5.95.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.53.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Sūtrasthāna 5. 96.
 
-[15]:
 
-Caraka Saṃhitā Sūtrasthāna 5.97.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.53.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Sūtrasthāna 8.19.
 
-[17]:
 
-Caraka Saṃhitā Sūtrasthāna 5.95.
+<div className="footnote-card"><strong>[9]</strong> P.V. Sharma, Indian Medicine in the Classical Age, p.44.</div>
 
-[18]:
 
-Caraka Saṃhitā Sūtrasthāna 5. 96.
 
-[19]:
 
-Caraka Saṃhitā Sūtrasthāna 5.97.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Manusmṛti V.109.
+</blockquote>
 
-[20]:
 
-Caraka Saṃhitā Sūtrasthāna 5.100.
 
-[21]:
 
-Caraka Saṃhitā Sūtrasthāna 5.101.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Sūtrasthāna 5.94.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 5.102.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 5.98.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Sūtrasthāna 5.99.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Sūtrasthāna 8.18.
 
-[25]:
 
-Suśruta Saṃhitā Cikitsāsthāna 24.93.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Sūtrasthāna 5.95.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Sūtrasthāna 8.21.
 
-[27]:
 
-Suśruta Saṃhitā Uttaratantra 27.6.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Sūtrasthāna 5. 96.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Sūtrasthāna 5.97.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Sūtrasthāna 8.19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Sūtrasthāna 5.95.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Sūtrasthāna 5. 96.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Caraka Saṃhitā Sūtrasthāna 5.97.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Caraka Saṃhitā Sūtrasthāna 5.100.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Sūtrasthāna 5.101.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 5.102.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 5.98.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Cikitsāsthāna 24.93.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Sūtrasthāna 8.21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Uttaratantra 27.6.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -426,10 +601,6 @@ Suśruta Saṃhitā Uttaratantra 27.6.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Precautionary measures for good health and Prophylactic Measures: Charaka Samhita And Sushruta Samhita Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Examination of Patients within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 32. 6. Examination of Patients
+## 6. Examination of Patients
 
 Physician as depicted in Manasollasa
 
@@ -31,8 +31,6 @@ To ascertain the exact nature of the disease, the Ayurvedic physician, for the m
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ To ascertain the exact nature of the disease, the Ayurvedic physician, for the m
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch30" className="text-emerald-400 hover:underline flex items-center font-medium">3. Quantity of food and digestion: Physician As Depicted In Manasollasa Chapter 30 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -32,7 +32,11 @@ Chapter 6 - The Pharmaceutics of Bitter Luffa (kritavedhana-kalpa)
 
 Synonyms and Qualities
 
+
+<blockquote className="ayur-shloka">
 3-4. Learn the names and the pharmaceutics of bitter luffa [kritavedhana]. It is also called Kshveda [kṣveḍa], Koshataki [kośātakī] and Mridangaphala [mṛdaṅgaphala]. It is extremely pungent, acute and hot, and is recommended in deep-rooted conditions of dermatosis, anemia, splenic disorders, edema, Gulma and toxicosis
+</blockquote>
+
 
 4½. Preparations of milk etc., as also of wine may be made of the flowers etc., of bitter luffa, as in the case of the drugs previously described.
 

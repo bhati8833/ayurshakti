@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Mine and Mineral Engineering within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. 2. Mine and Mineral Engineering
+## 2. Mine and Mineral Engineering
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ IV-3 Utilisation of big-size rocks containing specific minerals involved size-re
 
 ---
 
-## 27. 4. Minerals and Metals (in the Ashtadhyayi)
+## 4. Minerals and Metals (in the Ashtadhyayi)
 
 Minerals and Metals in Sanskrit literature
 
@@ -43,7 +43,7 @@ IV-7 time. Whether Kamsa meant brass (copper-zinc alloy) also, is not known. Pos
 
 ---
 
-## 28. 7. Concept of Unit Operations
+## 7. Concept of Unit Operations
 
 Minerals and Metals in Sanskrit literature
 
@@ -63,7 +63,7 @@ IV-15 Wire-mesh, fibre-mesh or cloth was used as a filtering medium. Such a step
 
 ---
 
-## 29. 6. Shatamana to Karshapana
+## 6. Shatamana to Karshapana
 
 Minerals and Metals in Sanskrit literature
 
@@ -81,8 +81,6 @@ IV-11 We have mentioned Panini's explanation as to how the word raupva for silve
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -90,10 +88,6 @@ IV-11 We have mentioned Panini's explanation as to how the word raupva for silve
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">5. Gold and Coins (in the Ashtadhyayi): Minerals And Metals In Sanskrit Literature Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

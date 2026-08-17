@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diet articles and regimen of diet within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 54. Chapter XLVI - Diet articles and regimen of diet
+## Chapter XLVI - Diet articles and regimen of diet
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -631,75 +631,87 @@ Thus ends the forty-sixth Chapter of the Sutrasthana in the Sushruta Samhita whi
 
 Here ends the Sutrastharna
 
-[1]:
 
-Rice of more than two years standing becomes divested of all its nutritive elements.
+<div className="footnote-card"><strong>[1]</strong> Rice of more than two years standing becomes divested of all its nutritive elements.</div>
 
-[2]:
 
-Charaka and Bhattaraka Harishcandra exclude Dadima (pomegranate) from the list of Pittakara agents, while Jejjadacarya is of opinion that it neither generates nor subdues the Pitta.
 
-[3]:
 
-Bulbs of lotus plants—though certain authorities aver that the inner lining or membranous fibres of a lotus-stem are called Visha, the outer covering being known as the Mrinalam.
+<div className="footnote-card"><strong>[2]</strong> Charaka and Bhattaraka Harishcandra exclude Dadima (pomegranate) from the list of Pittakara agents, while Jejjadacarya is of opinion that it neither generates nor subdues the Pitta.</div>
 
-[4]:
 
-Additional text:—In the dish known as the Pratapta, the meat is first fried with clarified butter, then pasted and flavoured with the addition of curd, pomegranate-juice etc. and is again cooked with clarified butter, Ajaji, and Samudra salt over a charcoal fire, each of the preceding substances being added to it in succession during cooking over a gridiron. Meat luted with sesamum paste and cooked with the addition of flavouring condiments to a honey colour is called Kandupakka, while the one soaked in asafetida and water and cooked over a gridiron over a smokeless fire by sprinkling water over it with the addition of pomegranate juice, etc, is called Shulyam.
 
-[5]:
 
-Mudga soup prepared with whey, horse-apple, Amrul (oxalis corniculata), cumin seeds, black pepper and the roots of Cita (Plumbago Zeylanica).
+<div className="footnote-card"><strong>[3]</strong> Bulbs of lotus plants—though certain authorities aver that the inner lining or membranous fibres of a lotus-stem are called Visha, the outer covering being known as the Mrinalam.</div>
 
-[6]:
 
-Gruel prepared in the manner of Khara-Yusha.
 
-[7]:
 
-Is made of sugar, Saindhava salt, tamarind, Sarjikshara, Parushaka and the expressed juice of Jambuline fruits; while the Shadava soup is prepared with salt and acid and sweet fruits.
+<div className="footnote-card"><strong>[4]</strong> Additional text:—In the dish known as the Pratapta, the meat is first fried with clarified butter, then pasted and flavoured with the addition of curd, pomegranate-juice etc. and is again cooked with clarified butter, Ajaji, and Samudra salt over a charcoal fire, each of the preceding substances being added to it in succession during cooking over a gridiron. Meat luted with sesamum paste and cooked with the addition of flavouring condiments to a honey colour is called Kandupakka, while the one soaked in asafetida and water and cooked over a gridiron over a smokeless fire by sprinkling water over it with the addition of pomegranate juice, etc, is called Shulyam.</div>
 
-[8]:
 
-[9]:
+
+
+<div className="footnote-card"><strong>[5]</strong> Mudga soup prepared with whey, horse-apple, Amrul (oxalis corniculata), cumin seeds, black pepper and the roots of Cita (Plumbago Zeylanica).</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Gruel prepared in the manner of Khara-Yusha.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Is made of sugar, Saindhava salt, tamarind, Sarjikshara, Parushaka and the expressed juice of Jambuline fruits; while the Shadava soup is prepared with salt and acid and sweet fruits.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> [9]:</div>
+
+
 
 A sweet aromatic preparation consisting of acid buffalo-curd, refined sugar, milk, powdered cardamom, camphor and black pepper.
 
-[10]:
 
-Powdered wheat treated with milk, clarified butter and treacle, and made into a paste neither too thick nor too thin in its consistency is called Vishyandana.
+<div className="footnote-card"><strong>[10]</strong> Powdered wheat treated with milk, clarified butter and treacle, and made into a paste neither too thick nor too thin in its consistency is called Vishyandana.</div>
 
-[11]:
 
-If it be asked why the flesh of an animal of the Jamghal family is light? The answer would be because it is naturally so.
 
-[12]:
 
-As for example, Vrihi corn is naturally heavy of digestion, but fried Vrihi seeds are light.
+<div className="footnote-card"><strong>[11]</strong> If it be asked why the flesh of an animal of the Jamghal family is light? The answer would be because it is naturally so.</div>
 
-[13]:
 
-As for instance, a heavy food should be taken till the appetite is but half satisfied, while an article which is light with regard to digestion may be eaten to satiety.
 
-[14]:
 
-As for instance, of the varieties of food such as the Manda, Peya, Vilepi, Bhakta and Pishtaka, each succeeding one is heavier than the one immediately preceding it.
+<div className="footnote-card"><strong>[12]</strong> As for example, Vrihi corn is naturally heavy of digestion, but fried Vrihi seeds are light.</div>
 
-[15]:
 
-As for example, newly harvested rice is heavier than the one of a year’s standing.
 
-[16]:
 
-The taste of sweet viands eaten at the outset would naturally go to subdue the Vayu located in the stomach; acid or saline taste partaken of at the middle of a meal would rouse up the fire of digestion located in the pancreas (Agnyashaya), while the pungent taste enjoyed at its close would tend to subdue the Kapha.
+<div className="footnote-card"><strong>[13]</strong> As for instance, a heavy food should be taken till the appetite is but half satisfied, while an article which is light with regard to digestion may be eaten to satiety.</div>
 
-[17]:
 
-This rule holds good in the case of persons, who eat a single meal in the course of a day and night. Those, who are in the habit of eating two meals a day, should eat a light half meal at one and quarter Prahara in the morning and another between the third and the fourth Praharas in the afternoon (Panjikakara). According to Jejjada, the meals should be between the third and the fourth Prahara both in the day and night.
+
+
+<div className="footnote-card"><strong>[14]</strong> As for instance, of the varieties of food such as the Manda, Peya, Vilepi, Bhakta and Pishtaka, each succeeding one is heavier than the one immediately preceding it.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> As for example, newly harvested rice is heavier than the one of a year’s standing.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> The taste of sweet viands eaten at the outset would naturally go to subdue the Vayu located in the stomach; acid or saline taste partaken of at the middle of a meal would rouse up the fire of digestion located in the pancreas (Agnyashaya), while the pungent taste enjoyed at its close would tend to subdue the Kapha.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> This rule holds good in the case of persons, who eat a single meal in the course of a day and night. Those, who are in the habit of eating two meals a day, should eat a light half meal at one and quarter Prahara in the morning and another between the third and the fourth Praharas in the afternoon (Panjikakara). According to Jejjada, the meals should be between the third and the fourth Prahara both in the day and night.</div>
 
 ---
-
-
 
 ---
 
@@ -708,10 +720,6 @@ This rule holds good in the case of persons, who eat a single meal in the course
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

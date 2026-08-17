@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Initiation of the pupil within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. Chapter II - Initiation of the pupil
+## Chapter II - Initiation of the pupil
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -55,13 +55,10 @@ The day of the new moon, the eighth day of the moon’s wane, the fourteenth day
 
 Thus ends the second chapter of the Sutrasthana in the Sushruta Samhita which treats of the formal initiation of a student into the avurveda.
 
-[1]:
 
-The libations should be offered as follows—Svaha (obeisance) to Brahma, Svaha to Prajapati (the lord of the created beings), Svaha to Ashvins, Svaha to Indra, Svaha to Dhanvantari, Svaha to Bharadvaja, and Svaha to Atreya.
+<div className="footnote-card"><strong>[1]</strong> The libations should be offered as follows—Svaha (obeisance) to Brahma, Svaha to Prajapati (the lord of the created beings), Svaha to Ashvins, Svaha to Indra, Svaha to Dhanvantari, Svaha to Bharadvaja, and Svaha to Atreya.</div>
 
 ---
-
-
 
 ---
 
@@ -70,10 +67,6 @@ The libations should be offered as follows—Svaha (obeisance) to Brahma, Svaha 
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Different seasons of the year: Sushruta Samhita Sutrasthana Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

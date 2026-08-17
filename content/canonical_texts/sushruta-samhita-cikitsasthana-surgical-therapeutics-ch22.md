@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of the minor ailments within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. Chapter XX - The medical treatment of the minor ailments
+## Chapter XX - The medical treatment of the minor ailments
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -119,57 +119,69 @@ In a case of Guda-Bhramsha, the protruded part should be fomented and lubricated
 
 Thus ends the twentieth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of minor ailments.
 
-[1]:
 
-Gayadasa explains that a non-suppurated Aja-gallika should be first plastered with Yava-kshara, oyster-shells and Saurashtri. Leeches should be next applied to it.
+<div className="footnote-card"><strong>[1]</strong> Gayadasa explains that a non-suppurated Aja-gallika should be first plastered with Yava-kshara, oyster-shells and Saurashtri. Leeches should be next applied to it.</div>
 
-[2]:
 
-Chakradatta reads “shuktisauraṣṭrakashara (?)” in place of “shuktishrughnīyavashara”, evidently, after the commentary of Gayadasa.
 
-[3]:
 
-Vrinda and Chakradatta prescribe fomentation (Sveda), and not washing, with hot water and they do not prescribe secretion (Visrava).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Chakradatta reads “shuktisauraṣṭrakashara (?)” in place of “shuktishrughnīyavashara”, evidently, after the commentary of Gayadasa.
+</blockquote>
 
-[4]:
 
-By “Sara-taila” is meant the oil pressed from the Sara (essential parts) of Shimshapa, Aguru, Sarala, Deva-daru and such other trees. Some, however, read “Sarala-taila” in place of “Sara-taila.”—Dallana.
 
-[5]:
 
-According to Dallana and Shivadasa, fomentations and unguents should be first applied, and the vein should be next opened.
+<div className="footnote-card"><strong>[3]</strong> Vrinda and Chakradatta prescribe fomentation (Sveda), and not washing, with hot water and they do not prescribe secretion (Visrava).</div>
 
-[6]:
 
-Chakradatta also prescribes a similar remedy, but there he does pot read “Sarja” and “Gairika.”—Ed.
 
-[7]:
 
-Chakrapani reads “lakṣabhayarasalepaḥ” in place of “lakṣaraso'bhaya” Sivadasa explains as “lakṣaraso'bhaya vapi”—Ed.
+<div className="footnote-card"><strong>[4]</strong> By “Sara-taila” is meant the oil pressed from the Sara (essential parts) of Shimshapa, Aguru, Sarala, Deva-daru and such other trees. Some, however, read “Sarala-taila” in place of “Sara-taila.”—Dallana.</div>
 
-[8]:
 
-Chakradatta prescribes cauterisation with fire as well, in such 3 ease.—Ed.
 
-[9]:
 
-According to Chakradatta blood-letting should be resorted to in such cases only by means of venesection, or with leeches.
+<div className="footnote-card"><strong>[5]</strong> According to Dallana and Shivadasa, fomentations and unguents should be first applied, and the vein should be next opened.</div>
 
-[10]:
 
-The cauterisation should be effected with an alkali, when the disease is superficial and with fire when it is deep-seated.
 
-[11]:
 
-Chakrapani prescribes the powders (kalka) in place of the decoction (kvatha?) of Nimba and Aragvadha. He also reads “udvarttana” in place of “utsadana”, but here they mean the same thing. —Ed.
+<div className="footnote-card"><strong>[6]</strong> Chakradatta also prescribes a similar remedy, but there he does pot read “Sarja” and “Gairika.”—Ed.</div>
 
-[12]:
 
-According to Shiva-dasa, cow’s fat only should be used.
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Chakrapani reads “lakṣabhayarasalepaḥ” in place of “lakṣaraso'bhaya” Sivadasa explains as “lakṣaraso'bhaya vapi”—Ed.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Chakradatta prescribes cauterisation with fire as well, in such 3 ease.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> According to Chakradatta blood-letting should be resorted to in such cases only by means of venesection, or with leeches.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> The cauterisation should be effected with an alkali, when the disease is superficial and with fire when it is deep-seated.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Chakrapani prescribes the powders (kalka) in place of the decoction (kvatha?) of Nimba and Aragvadha. He also reads “udvarttana” in place of “utsadana”, but here they mean the same thing. —Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> According to Shiva-dasa, cow’s fat only should be used.</div>
 
 ---
-
-
 
 ---
 
@@ -178,10 +190,6 @@ According to Shiva-dasa, cow’s fat only should be used.
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of swellings: Sushruta Samhita Cikitsasthana Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

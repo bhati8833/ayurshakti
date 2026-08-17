@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Entertainments reflected in Somesvara’s writings within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. 6. Entertainments reflected in Somesvara’s writings
+## 6. Entertainments reflected in Somesvara’s writings
 
 Manasollasa (study of Arts and Sciences)
 
@@ -39,7 +39,7 @@ The social life, particularly the urban culture, reflected in Somesvara's writin
 
 ---
 
-## 22. 7. Elephant fighting described in the Manasollasa
+## 7. Elephant fighting described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -69,8 +69,6 @@ In the period of Somesvara the society was quite eager about elephant fighting. 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ In the period of Somesvara the society was quite eager about elephant fighting. 
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">8. Horse fighting described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

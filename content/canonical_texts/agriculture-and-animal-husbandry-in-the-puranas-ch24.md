@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Nourishment and Feeding of Animals within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 101. Part 12 - Nourishment and Feeding of Animals
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Nourishment and Feeding of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 12 - Nourishment and Feeding of Animals
 
 Part 12 - Nourishment and Feeding of Animals
 
@@ -57,57 +53,70 @@ One prastha of oil is required for smearing over the body. Moreover, one-eight p
 
 The Purāṇas too mention some diets for animals. It is recommended there that a calf should be given a food which consist of māṣa, tila, godhūma, payaḥ, kṣīra and ghṛta(clarified butter), mixed with lavaṇa, to develop well.[8] The Agni Purāṇa states that to give a morsel of grass to the cows(go-grāsa) was considered the daily duties of a householder. After go-grāsa and performing the ritual svastyayana and after worshipping the guests, the householder should take his food.[9] In case of diet of elephant it is said that the food which consists of ṣaṣṭi, vrīhi and śālī rice, is considered the best food for an elephant.[10] The food consists of wheat and barley should be ranked as second best, while the other sorts of food should be considered inferior sort.[11]
 
-[1]:
 
-Arthaśāstra , 2.30.9
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Arthaśāstra , 2.30.9
+</blockquote>
 
-[2]:
 
-Ibid., 2.29.27
 
-[3]:
 
-pādonamaśvataragokharāṇāṃ, dviguṇaṃ mahiṣoṣṭrāṇāṃ karmakaravalīvardānām/pāyanārthaṃ ca dhenūnām/karmakālataḥ phalataśca vidhānam/ sarveṣāṃ tṛṇodakaprākāmyam/ Ibid., 2.29.28
+<div className="footnote-card"><strong>[2]</strong> Ibid., 2.29.27</div>
 
-[4]:
 
-Ibid., 2.31.9
 
-[5]:
 
-Śukranītisāra , 4.7.282
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> pādonamaśvataragokharāṇāṃ, dviguṇaṃ mahiṣoṣṭrāṇāṃ karmakaravalīvardānām/pāyanārthaṃ ca dhenūnām/karmakālataḥ phalataśca vidhānam/ sarveṣāṃ tṛṇodakaprākāmyam/ Ibid., 2.29.28
+</blockquote>
 
-[6]:
 
-Ibid.,4.7.272-273
 
-[7]:
 
-Ibid.,4.7.285-286
+<div className="footnote-card"><strong>[4]</strong> Ibid., 2.31.9</div>
 
-[8]:
 
-Agni Purāṇa ,292.32
 
-[9]:
 
-Ibid., 264.27-28
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Śukranītisāra , 4.7.282
+</blockquote>
 
-[10]:
 
-Ibid., 287.24a
 
-[11]:
 
-Ibid., 287.24b
+<div className="footnote-card"><strong>[6]</strong> Ibid.,4.7.272-273</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid.,4.7.285-286</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Agni Purāṇa ,292.32
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., 264.27-28</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., 287.24a</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid., 287.24b</div>
 
 ---
 
-## 102. Part 16 - Tools Used for Agriculture
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Tools Used for Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 16 - Tools Used for Agriculture
 
 Part 16 - Tools Used for Agriculture
 
@@ -131,33 +140,34 @@ The scope for tillage with tractors and tractor-drawn implements lie mostly in t
 
 Indian farmers also are beginning to make great progress in the use of better implements. In many villages to-day we can see improved ploughs, hoes, water-lifts and other implements.[4] Likewise the use of plough is noticed in the Purāṇic days too. It is recommended in the Purāṇas that the ground for constructing a temple should be ploughed with white bullocks, that for a tank with bullocks of any colour, for preparing a garden and for digging well, black coloured bullocks are mentioned.[5] Hence, it can be known that the indigenous implements are still used today for the process of agriculture.
 
-[1]:
 
-Aiyer, A.K. Yegna Narayan, Principles of Crop Husbandry in India, p. 351
+<div className="footnote-card"><strong>[1]</strong> Aiyer, A.K. Yegna Narayan, Principles of Crop Husbandry in India, p. 351</div>
 
-[2]:
 
-Ibid., p. 146
 
-[3]:
 
-Ibid., p. 371
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 146</div>
 
-[4]:
 
-Clouston, D., Lessons on Indian Agriculture, p.27
 
-[5]:
 
-Bhaviṣya Purāṇa , 2.1-3
+<div className="footnote-card"><strong>[3]</strong> Ibid., p. 371</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Clouston, D., Lessons on Indian Agriculture, p.27</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Bhaviṣya Purāṇa , 2.1-3
+</blockquote>
 
 ---
 
-## 103. Part 13 - Preservation of Animal Life
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Preservation of Animal Life’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 13 - Preservation of Animal Life
 
 Part 13 - Preservation of Animal Life
 
@@ -167,46 +177,60 @@ Avoidance of cruelty towards draught animals (carriage horses) and milch-animals
 
 The superintendent should make a stable which is twice as broad as the length of a horse. It should be constructed as spacious as required by the number of horses to be kept therein, with four doors facing the four quarters. Moreover, it should be contained monkeys, peacocks, red-spotted deer, mongoose, partridge, parrots and mainā birds.[5] The stables of elephants should be constructed twice as broad, twice as high as the length (āyāma) of an elephant. The apartments for female elephants should be separate. There should be posts in the stable called kumārī to tie the elephants. The door of the stable should be facing either the east or the north.[6] The Purāṇas too suggest some ways for preservation of animal life. The method of fumigation of a cow house with the vapours of viṣā plants for making the cattle strong is noticed in the Agni Purāṇa.[7] Again it is advised that a fumigation of the cow-house with the vapours of devadāru, vacā, māṃsī, guggula, hiṅgu and sarṣapa mixed together would keep safe from the evil effects of malignant planets.[8]
 
-[1]:
 
-Arthaśāstra , 2.30.21
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Arthaśāstra , 2.30.21
+</blockquote>
 
-[2]:
 
-varṣāśaradhemantānubhayataḥ kālaṃ duhyuḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> varṣāśaradhemantānubhayataḥ kālaṃ duhyuḥ/
 śiśiravasantagrīṣmānekakālam/ Ibid., 2.29.21
+</blockquote>
 
-[3]:
 
-ajādīnāṃ ṣāṇmāsikīmūrṇāṃ grāhayet/ Ibid., 2.29.26
 
-[4]:
 
-Ibid., 3.19.23,24
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> ajādīnāṃ ṣāṇmāsikīmūrṇāṃ grāhayet/ Ibid., 2.29.26
+</blockquote>
 
-[5]:
 
-aśvavibhavenāyatāmaśvāyāmadviguṇavistārāṃ caturdvāropāvartanamadhyāṃ sapragrīvāṃ pradvārāsanaphalakayuktāṃ vānaramayūrapṛṣatanakulacakoraśukaśārikābhirākīrṇāṃ śālāṃ niveśayet/ Ibid.,2.30.4
 
-[6]:
 
-hastyāyāmadviguṇotsedhaviṣkambhāyāmāṃ hastinīsthānādhikāṃ sapragrīvāṃ kumārīsaṅgrahāṃ prāṅmukhīmudaṅmukhīṃ vā śālāṃ niveśayet/ Ibid.,2.31.2
+<div className="footnote-card"><strong>[4]</strong> Ibid., 3.19.23,24</div>
 
-[7]:
 
-Agni Purāṇa , 292.33a
 
-[8]:
 
-Ibid., 292.33b-34a
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> aśvavibhavenāyatāmaśvāyāmadviguṇavistārāṃ caturdvāropāvartanamadhyāṃ sapragrīvāṃ pradvārāsanaphalakayuktāṃ vānaramayūrapṛṣatanakulacakoraśukaśārikābhirākīrṇāṃ śālāṃ niveśayet/ Ibid.,2.30.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> hastyāyāmadviguṇotsedhaviṣkambhāyāmāṃ hastinīsthānādhikāṃ sapragrīvāṃ kumārīsaṅgrahāṃ prāṅmukhīmudaṅmukhīṃ vā śālāṃ niveśayet/ Ibid.,2.31.2
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Agni Purāṇa , 292.33a
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 292.33b-34a</div>
 
 ---
 
-## 104. Part 19 - Manuring (in modern Indian Agriculture)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Manuring (in modern Indian Agriculture)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 19 - Manuring (in modern Indian Agriculture)
 
 Part 19 - Manuring (in modern Indian Agriculture)
 
@@ -242,37 +266,42 @@ This class of manures is also helpful to certain vegetative functions, i.e., to 
 
 In the Purāṇas too we find the use of manuring the soil. The Agni Purāṇa mentions that to increase the production of flowers and fruits, one should sprinkle ghee with cold milk.[6] Different kinds of plants required various kinds of manures for a specific period, which have been described in the Agni Purāṇa.[7]
 
-[1]:
 
-Mukerji,Nitya Gopal, Handbook of Indian Agriculture, p.395
+<div className="footnote-card"><strong>[1]</strong> Mukerji,Nitya Gopal, Handbook of Indian Agriculture, p.395</div>
 
-[2]:
 
-Clouston, D., op.cit., p. 38
 
-[3]:
 
-Mukerji,Nitya Gopal, op.cit., p.396
+<div className="footnote-card"><strong>[2]</strong> Clouston, D., op.cit., p. 38</div>
 
-[4]:
 
-Ibid., p.397
 
-[5]:
 
-Ibid., p.398
+<div className="footnote-card"><strong>[3]</strong> Mukerji,Nitya Gopal, op.cit., p.396</div>
 
-[6]:
 
-Agni Purāṇa , 281.11-12
 
-[7]:
 
-Ibid., Ch. 281
+<div className="footnote-card"><strong>[4]</strong> Ibid., p.397</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., p.398</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Agni Purāṇa , 281.11-12
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., Ch. 281</div>
 
 ---
-
-
 
 ---
 
@@ -281,10 +310,6 @@ Ibid., Ch. 281
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Classification of Soils: Agriculture And Animal Husbandry In The Puranas Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

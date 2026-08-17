@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of an attack within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. Chapter XXXVI - Treatment of an attack by Naigamesha
+## Chapter XXXVI - Treatment of an attack by Naigamesha
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -37,7 +37,7 @@ Thus ends the thirty-sixth chapter of the Uttara-Tantra in the Sushruta Samhita 
 
 ---
 
-## 43. Canto III - Kaya-chikitsa-tantra (internal medicine)
+## Canto III - Kaya-chikitsa-tantra (internal medicine)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -45,11 +45,9 @@ The Sushruta Samhita is the most representative work of the Hindu system of m...
 
 Canto III - Kaya-chikitsa-tantra (internal medicine)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 44. Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)
+## Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -463,167 +461,254 @@ Fever originating from the wrath-fire of the god Shambhu, is a dangerous disease
 
 Thus ends the thirty-ninth chapter of the Uttara Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of fever.
 
-[1]:
 
-There can be three cases of fever due to the derangement of the three Doshas separately, three cases from the derangement of two of them at a time and one case only from the concerted action of the three Doshas These are the seven cases while that due to an extraneous cause is the eighth.
+<div className="footnote-card"><strong>[1]</strong> There can be three cases of fever due to the derangement of the three Doshas separately, three cases from the derangement of two of them at a time and one case only from the concerted action of the three Doshas These are the seven cases while that due to an extraneous cause is the eighth.</div>
 
-[2]:
 
-Kapha is aggravated in the morning, Pitta, at noon and Vāyu, in the evening. Fever follows a distinct periodicity determined by the time of aggravation of the deranged bodily Doshas ushering in the attack An attack of fever due to the deranged Kapha comes on in the morning or after dusk; one due to the deranged Pitta comes on at noon or midnight, one due to the deranged Vayu comes on in the afternoon or during the small hours of the night. In a case of Dvi-doshaja fever (due to the combined action of the two deranged bodily Doshas) the heat is aggravated during the specific hours of domination of the stronger Dosha and continues through those peculiar to each of them. All night attacks should be regarded as connected with the action of the deranged Pitta. In a Tri-doshaja case, the heat comes on with the specific hour of the strongest one and is abated on the approach of the time peculiar to the weakest. Vāyu is aggravated in the Varshā (rainy) season, Pitta, in the Śarat (autumn) and Kapha, in the Vasanta (spring).
 
-[3]:
 
-“sāśrunirbhugnanayanaḥ” is different reading in place of “sāsro nirbhugnahṛdayaḥ” | The term “nirbhugna” is more appropriately applicable to “nathana” than to “hṛdaya” both grammatically and in sense.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Kapha is aggravated in the morning, Pitta, at noon and Vāyu, in the evening. Fever follows a distinct periodicity determined by the time of aggravation of the deranged bodily Doshas ushering in the attack An attack of fever due to the deranged Kapha comes on in the morning or after dusk; one due to the deranged Pitta comes on at noon or midnight, one due to the deranged Vayu comes on in the afternoon or during the small hours of the night. In a case of Dvi-doshaja fever (due to the combined action of the two deranged bodily Doshas) the heat is aggravated during the specific hours of domination of the stronger Dosha and continues through those peculiar to each of them. All night attacks should be regarded as connected with the action of the deranged Pitta. In a Tri-doshaja case, the heat comes on with the specific hour of the strongest one and is abated on the approach of the time peculiar to the weakest. Vāyu is aggravated in the Varshā (rainy) season, Pitta, in the Śarat (autumn) and Kapha, in the Vasanta (spring).
+</blockquote>
 
-[4]:
 
-The fever in which Vāyu predominates gets aggravated on the 7th, that in which Pitta predominates becomes aggravated on the 10th and that in which Kapha predominates comes to be aggravated on the 12th day. According to some authority, however, Abhinyāsa, Hataujasa, and Sannyāsa types of fever are pacified on the 7th, 10th and 12th. day respectively. —Dallana.
 
-[5]:
 
-Dallana in his commentary has quoted in eight lines with different wordings the symptoms of these kinds of Dvandvaja fever and these lines have been adopted by Mādhava in his Nidāna The lines when translated would be thus:—Thirst, unconsciousness, vertigo, burning sensation, somnolence, pain in the head, dryness of the mouth and of the throat, vomiting, horripilation, disrelish for food, giddiness, pain in the joints, and yawning are the symptoms of Vāta-pitta-fever. Sensation of moisture (stimita) all over the body, pain in the joints, excessive sleep, heaviness of the limbs, pain in the head, catarrh, cough, scanty perspiration, slight sensation of heat, and pulsation not too quick nor too slow, are the symptoms of Vāta-śleshma-fever. A bitter taste, a coaling on the mouth, somnolence, unconsciousness, cough, disrelish for food, thirst, alternate and varying sensation of heat and cold are the symptoms of Śleshma-pitta-fever.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “sāśrunirbhugnanayanaḥ” is different reading in place of “sāsro nirbhugnahṛdayaḥ” | The term “nirbhugna” is more appropriately applicable to “nathana” than to “hṛdaya” both grammatically and in sense.
+</blockquote>
 
-[6]:
 
-The five locations of Kapha are the Āmāśaya, chest, throat, head and the joints.
 
-[7]:
 
-There is another kind of Vishama Jvara named Santata (cf. Śloka 31 of this Chapter) and Dallana remarks that it is begotten when the residue of the deranged Dosha is lodged in all the five seats of Kapha.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The fever in which Vāyu predominates gets aggravated on the 7th, that in which Pitta predominates becomes aggravated on the 10th and that in which Kapha predominates comes to be aggravated on the 12th day. According to some authority, however, Abhinyāsa, Hataujasa, and Sannyāsa types of fever are pacified on the 7th, 10th and 12th. day respectively. —Dallana.
+</blockquote>
 
-[8]:
 
-See chapter XXI.—Sutra-sthāna.
 
-[9]:
 
-A case of fever may lapse into a Vishama type even from the very commencement of the attack.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Dallana in his commentary has quoted in eight lines with different wordings the symptoms of these kinds of Dvandvaja fever and these lines have been adopted by Mādhava in his Nidāna The lines when translated would be thus:—Thirst, unconsciousness, vertigo, burning sensation, somnolence, pain in the head, dryness of the mouth and of the throat, vomiting, horripilation, disrelish for food, giddiness, pain in the joints, and yawning are the symptoms of Vāta-pitta-fever. Sensation of moisture (stimita) all over the body, pain in the joints, excessive sleep, heaviness of the limbs, pain in the head, catarrh, cough, scanty perspiration, slight sensation of heat, and pulsation not too quick nor too slow, are the symptoms of Vāta-śleshma-fever. A bitter taste, a coaling on the mouth, somnolence, unconsciousness, cough, disrelish for food, thirst, alternate and varying sensation of heat and cold are the symptoms of Śleshma-pitta-fever.
+</blockquote>
 
-[10]:
 
-Vijaya Rakshita, the commentator on Mādhava Nidāna, says, on the authority of Charak, that by the term Santata are meant here both Santata and Satataka and that they have their origin in the vitiated Rasa and blood respectively.
 
-[11]:
 
-“Abhicār,” means incantations or Atharvan rites by which disease, death and any other injuries are brought about.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The five locations of Kapha are the Āmāśaya, chest, throat, head and the joints.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> There is another kind of Vishama Jvara named Santata (cf. Śloka 31 of this Chapter) and Dallana remarks that it is begotten when the residue of the deranged Dosha is lodged in all the five seats of Kapha.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> See chapter XXI.—Sutra-sthāna.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> A case of fever may lapse into a Vishama type even from the very commencement of the attack.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Vijaya Rakshita, the commentator on Mādhava Nidāna, says, on the authority of Charak, that by the term Santata are meant here both Santata and Satataka and that they have their origin in the vitiated Rasa and blood respectively.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> “Abhicār,” means incantations or Atharvan rites by which disease, death and any other injuries are brought about.
+</blockquote>
+
+
 
 “Abhiśāpa” means the curse pronounced by Brāhmins, preceptors, seniors and alters possesed of puissance.
 
-[12]:
 
-Dallana says in his commentary that some read a few additional lines after this. He, however, does not comment on those lines and further adds that Jejjata does not read them. So we, too, refrain from translating those lines.
+<div className="footnote-card"><strong>[12]</strong> Dallana says in his commentary that some read a few additional lines after this. He, however, does not comment on those lines and further adds that Jejjata does not read them. So we, too, refrain from translating those lines.</div>
 
-[13]:
 
-According to different authorises purely boiled water, when cooled, may also be given in such cases.
 
-[14]:
 
-Some read these two lines in a different way. They would mean that the non-assimilation (Āma) of the deranged Doshas would be presumed by the presence of high fever, heaviness of the body and stoppage of the excreta (Mala), and the reverse is the sign of their assimilation (Pāka).
+<div className="footnote-card"><strong>[13]</strong> According to different authorises purely boiled water, when cooled, may also be given in such cases.</div>
 
-[15]:
 
-This passage is quoted by Śrīkantha Datta in his commentary on Chakra-datta wherein he does not read “kṣīṇe” (mild type), and his read ing appears to be the better one, it being supported by Charaka as well.
 
-[16]:
 
-According to Charaka, the meat-soup, in cases of fever, may be given with or without the addition of an acid juice (e.g. Dādima, Āmlaki, etc)
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Some read these two lines in a different way. They would mean that the non-assimilation (Āma) of the deranged Doshas would be presumed by the presence of high fever, heaviness of the body and stoppage of the excreta (Mala), and the reverse is the sign of their assimilation (Pāka).
+</blockquote>
 
-[17]:
 
-Charaka also holds the same opinion as Suśruta.
 
-[18]:
 
-Additionnal text:—A patient suffering from acute fever should forego also the use of astringent, heavy and dry food as well as fatty and secreting food. In short he should also discourage mental emotions of anger, grief, etc. as well as the use of newly collected corns. This is evidently Dallana’s reading.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> This passage is quoted by Śrīkantha Datta in his commentary on Chakra-datta wherein he does not read “kṣīṇe” (mild type), and his read ing appears to be the better one, it being supported by Charaka as well.
+</blockquote>
 
-[19]:
 
-According to Dallana the cold infusion of Guduci should be given in a case of Vātaja fever involving the action of vitiated Pitta also; whereas the decoction duly prepared of Guduci should be prescribed if, in a case of Vātaja-fever, the vitiated Kapha is also involved. Cold infusion is prepared by keeping over-night a quantity of the drugs immersed in hot water. The infusion thus prepared is used in the morning.
 
-[20]:
 
-Yashti-madhu is comprised in the drugs of the Utpalādi group. Hence in preparation of this decoction, two parts of Yashti-madhu should be taken.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> According to Charaka, the meat-soup, in cases of fever, may be given with or without the addition of an acid juice (e.g. Dādima, Āmlaki, etc)
+</blockquote>
 
-[21]:
 
-The decoction should be prepared with water only or with milk and water according to the rules of Kshira-pāka, if the exigencies of the case so require—Dallana.
 
-[22]:
 
-Additional text:—A potion of the decoction of Haridrā, Bhadra-musta, Tri-phalā, Katuka, Nimba, Palola, Devadāru and Kanta-kāri would cure a case of Tri-doshaja fever with indigestion, water-brash, dropsy, cough and disrelish for food.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Charaka also holds the same opinion as Suśruta.
+</blockquote>
 
-[23]:
 
-Dallana includes this line also in the additional text.
 
-[24]:
 
-According to Dallana the decoction of Tri-phalā should be used.
+<div className="footnote-card"><strong>[18]</strong> Additionnal text:—A patient suffering from acute fever should forego also the use of astringent, heavy and dry food as well as fatty and secreting food. In short he should also discourage mental emotions of anger, grief, etc. as well as the use of newly collected corns. This is evidently Dallana’s reading.</div>
 
-[25]:
 
-Chakradatta reads “Musta” in place of “Nimba”.
 
-[26]:
 
-Dallana says that some commentators are inclined to use the decoction of the 16 different combinations of the five drugs taken three, four or five at a time.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> According to Dallana the cold infusion of Guduci should be given in a case of Vātaja fever involving the action of vitiated Pitta also; whereas the decoction duly prepared of Guduci should be prescribed if, in a case of Vātaja-fever, the vitiated Kapha is also involved. Cold infusion is prepared by keeping over-night a quantity of the drugs immersed in hot water. The infusion thus prepared is used in the morning.
+</blockquote>
 
-[27]:
 
-Kola is here used for Panca-kola, viz:—Pippali, Pippali-roots, Cavya, Citraka and Nāgara.
 
-[28]:
 
-Dallana says that the expressed juice of Vāsaka, Balā or Guduci, should be separately used along with the ordinary Kalkas (Tri-phalā, etc.) of the Panca-gavya Ghrita. But we are inclined to take the lines to mean that Vāsaka, Valā and Guduci should be separately used as Kalkas in place of the ordinary Kalkas.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Yashti-madhu is comprised in the drugs of the Utpalādi group. Hence in preparation of this decoction, two parts of Yashti-madhu should be taken.
+</blockquote>
 
-[29]:
 
-Some here add Ghana (Musta) with the other Kalkas.
 
-[30]:
 
-Additional text:—Some recommend the use of Kutaja, Bhunimba, Ghana (Musta), Yashti-madhu, Chandana and Pippali as Kalka in the preparation of this Ghrita and that it proves efficacious in the diseases of the eye, nose, ear, mouth and of the white part of the eye and of the eye-lid and in ulcer.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> The decoction should be prepared with water only or with milk and water according to the rules of Kshira-pāka, if the exigencies of the case so require—Dallana.
+</blockquote>
 
-[31]:
 
-Rasaudana is a kind of food prepared by boiling rice in meat soup (instead of in water). The term may, however, mean rice simply mixed with meat-soup.
 
-[32]:
 
-In place of “viṣapittaprasādanaiḥ” some read “viṣapītaprasādanaiḥ” and that would mean that the measures and remedies prescribed in cases of poisoning (sec Kalpa-sthāna) should be applied. This variant seems to be the better one.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Additional text:—A potion of the decoction of Haridrā, Bhadra-musta, Tri-phalā, Katuka, Nimba, Palola, Devadāru and Kanta-kāri would cure a case of Tri-doshaja fever with indigestion, water-brash, dropsy, cough and disrelish for food.
+</blockquote>
 
-[33]:
 
-Dallana explains the Ushna-varga (heat-making group) to mean the Bhadra-dārvādi, Surasādi and the Elādi groups.
 
-[34]:
 
-Clarified butter washed hundred times in water is known as Śata-dhauta Ghrita.
+<div className="footnote-card"><strong>[23]</strong> Dallana includes this line also in the additional text.</div>
 
-[35]:
 
-Arishta according to Dallana and Śrikantha (the commentator of Vrinda) may mean either Nimba or Phenilā (soap-b?rry). But Śivadāsa, the commentator of Chakradatta, explains Arishta to mean (leaves of) Nimba. The practice, however, is, to use the leaves of Nimba.
 
-[36]:
 
-“Śita-kasāya” may here mean either the Cold infusion of the drugs or only the cold decoction.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> According to Dallana the decoction of Tri-phalā should be used.
+</blockquote>
 
-[37]:
 
-Madhu-śukta is prepared by preserving the expressed juice of Jambira -lemon, Pippali and honey in an earthen pot formerly used in keeping honey. It should be laid for a month under the heap of paddy before use. (Dallana) For an alternative mode of preparation see ‘śāṅgadhara”, Chapter X—“mathya khaṇḍa”.
 
-[38]:
 
-Dallana takes “Mākshika” in the sense of honey and comments largely on the seperate use of honey in the compound. But we are inclined to take “Mākshika” as the mineral of the same name.
+<div className="footnote-card"><strong>[25]</strong> Chakradatta reads “Musta” in place of “Nimba”.</div>
 
-[39]:
 
-Dallana seems to read “Mākshika.” and explains it as honey. “Madhvika” which generally means the wine made of honey, may however, also mean honey.
+
+
+<div className="footnote-card"><strong>[26]</strong> Dallana says that some commentators are inclined to use the decoction of the 16 different combinations of the five drugs taken three, four or five at a time.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Kola is here used for Panca-kola, viz:—Pippali, Pippali-roots, Cavya, Citraka and Nāgara.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Dallana says that the expressed juice of Vāsaka, Balā or Guduci, should be separately used along with the ordinary Kalkas (Tri-phalā, etc.) of the Panca-gavya Ghrita. But we are inclined to take the lines to mean that Vāsaka, Valā and Guduci should be separately used as Kalkas in place of the ordinary Kalkas.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Some here add Ghana (Musta) with the other Kalkas.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Additional text:—Some recommend the use of Kutaja, Bhunimba, Ghana (Musta), Yashti-madhu, Chandana and Pippali as Kalka in the preparation of this Ghrita and that it proves efficacious in the diseases of the eye, nose, ear, mouth and of the white part of the eye and of the eye-lid and in ulcer.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Rasaudana is a kind of food prepared by boiling rice in meat soup (instead of in water). The term may, however, mean rice simply mixed with meat-soup.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> In place of “viṣapittaprasādanaiḥ” some read “viṣapītaprasādanaiḥ” and that would mean that the measures and remedies prescribed in cases of poisoning (sec Kalpa-sthāna) should be applied. This variant seems to be the better one.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Dallana explains the Ushna-varga (heat-making group) to mean the Bhadra-dārvādi, Surasādi and the Elādi groups.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> Clarified butter washed hundred times in water is known as Śata-dhauta Ghrita.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Arishta according to Dallana and Śrikantha (the commentator of Vrinda) may mean either Nimba or Phenilā (soap-b?rry). But Śivadāsa, the commentator of Chakradatta, explains Arishta to mean (leaves of) Nimba. The practice, however, is, to use the leaves of Nimba.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> “Śita-kasāya” may here mean either the Cold infusion of the drugs or only the cold decoction.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Madhu-śukta is prepared by preserving the expressed juice of Jambira -lemon, Pippali and honey in an earthen pot formerly used in keeping honey. It should be laid for a month under the heap of paddy before use. (Dallana) For an alternative mode of preparation see ‘śāṅgadhara”, Chapter X—“mathya khaṇḍa”.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Dallana takes “Mākshika” in the sense of honey and comments largely on the seperate use of honey in the compound. But we are inclined to take “Mākshika” as the mineral of the same name.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Dallana seems to read “Mākshika.” and explains it as honey. “Madhvika” which generally means the wine made of honey, may however, also mean honey.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -632,10 +717,6 @@ Dallana seems to read “Mākshika.” and explains it as honey. “Madhvika” 
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms and Treatment of Phthisis (Shosha): Sushruta Samhita Uttara Tantra Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms and Treatment of Phthisis (Shosha) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 45. Chapter XLI - Symptoms and Treatment of Phthisis (Shosha)
+## Chapter XLI - Symptoms and Treatment of Phthisis (Shosha)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -37,41 +37,61 @@ If a patient afflicted with Pandu have an edematious swelling of the extremities
 
 Thus ends the forty-fourth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of Pandu-roga.
 
-[1]:
 
-Mādhava in his Nidāna reads “Vyāyāma” (physical exercise) in the place of “Vyavāya” “sexual enjoyment.” Charaka, however, includes both “Vyavāyā” and Vyāyāma” in the long list of the causes of Pāndu-roga.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Mādhava in his Nidāna reads “Vyāyāma” (physical exercise) in the place of “Vyavāya” “sexual enjoyment.” Charaka, however, includes both “Vyavāyā” and Vyāyāma” in the long list of the causes of Pāndu-roga.
+</blockquote>
 
-[2]:
 
-A variant reads that Pāndu-roga is of eight kinds. In that case the four different varieties of Pāndu, separately mentioned below should be added to the four kinds mentioned here. Charaka says that Pāndu-roga is of five different types:—by separating and adding the one due to the eating of clay to the four kinds enumerated here.
 
-[3]:
 
-Some say that the Sneha used should be the Kalyānaka-Ghrita (Ch. LXII.). Others says that simply matured clarified butter should be used.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> A variant reads that Pāndu-roga is of eight kinds. In that case the four different varieties of Pāndu, separately mentioned below should be added to the four kinds mentioned here. Charaka says that Pāndu-roga is of five different types:—by separating and adding the one due to the eating of clay to the four kinds enumerated here.
+</blockquote>
 
-[4]:
 
-Traiphala-Ghrita may mean either the Ghrita duly cooked with Tri-phalā or the one known as Traiphala-Ghrita mentioned in.
 
-[5]:
 
-Similarly Tailvaka-Ghrita may mean the Ghrita of that name mentioned in Chap. V. Chikitsita-sthāna or the one duly cooked with Tilvaka.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Some say that the Sneha used should be the Kalyānaka-Ghrita (Ch. LXII.). Others says that simply matured clarified butter should be used.
+</blockquote>
 
-[6]:
 
-Here we have followed Dallana in the text. Some take H aridrā to mean Dāru-Haridrā.
 
-[7]:
 
-According to Charaka’s recipe, however, we find that the two compounds here have been combined into one and there we find the definite mention of Dārvi (Dāru-haridrā). In our practice also we follow Charaka in this case.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Traiphala-Ghrita may mean either the Ghrita duly cooked with Tri-phalā or the one known as Traiphala-Ghrita mentioned in.
+</blockquote>
 
-[8]:
 
-Mantha is prepared by mixing powdered grains of barley with clarified butter and a copious quantity bf water. Some commentators, however, on the authority of other medical works, are of opinion that in cases of Pāndu (jaundice) the word “Mantha” is technically used for the preparation of the powdered grains of barley mixed with the expressed juice of Āmalaki and of sugar-cane and with honey.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Similarly Tailvaka-Ghrita may mean the Ghrita of that name mentioned in Chap. V. Chikitsita-sthāna or the one duly cooked with Tilvaka.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Here we have followed Dallana in the text. Some take H aridrā to mean Dāru-Haridrā.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> According to Charaka’s recipe, however, we find that the two compounds here have been combined into one and there we find the definite mention of Dārvi (Dāru-haridrā). In our practice also we follow Charaka in this case.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Mantha is prepared by mixing powdered grains of barley with clarified butter and a copious quantity bf water. Some commentators, however, on the authority of other medical works, are of opinion that in cases of Pāndu (jaundice) the word “Mantha” is technically used for the preparation of the powdered grains of barley mixed with the expressed juice of Āmalaki and of sugar-cane and with honey.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -80,10 +100,6 @@ Mantha is prepared by mixing powdered grains of barley with clarified butter and
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms and Treatment of Hemorrhage (Rakta-pitta): Sushruta Samhita Uttara Tantra Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

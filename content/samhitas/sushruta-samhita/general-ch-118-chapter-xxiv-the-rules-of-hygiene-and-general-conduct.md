@@ -236,7 +236,11 @@ Dallana adds that curd should not be taken without an addition of water and salt
 
 [14]:
 
+
+<blockquote className="ayur-shloka">
 All the existing editions of the Sushruta Samhita read “noṣnaiḥ” (i.e., curd should not be taken with any “hot” substance). Here it should be noted that the term “hot” may also include the substances which are heatmaking in their potency. Here, however, the reading seems to be incorrect. The lines are found verbatim in the work of Charaka, where he reads “noṣṇaṃ,” i.e., hot curd should not be taken, since it produces, as he himself tells us later on, an aggravation of the blood and the Pitta.—Ed.
+</blockquote>
+
 
 [15]:
 

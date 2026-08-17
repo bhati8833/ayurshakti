@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Feldspar Group of Gems within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 72. 4.10. Feldspar Group of Gems
+## 4.10. Feldspar Group of Gems
 
 Minerals and Metals in Sanskrit literature
 
@@ -29,7 +29,7 @@ VII-51 We may briefly comment on fine yellowd sh-green or golden yellow Chrysoli
 
 ---
 
-## 73. 4.14. The Oyster Pearl (Shukti-mukta)
+## 4.14. The Oyster Pearl (Shukti-mukta)
 
 Minerals and Metals in Sanskrit literature
 
@@ -51,7 +51,7 @@ VII-71 Like diamond, ruby etc., pearls were also classified into four 'castes': 
 
 ---
 
-## 74. 4.13. Description of Pearl (Mukta)
+## 4.13. Description of Pearl (Mukta)
 
 Minerals and Metals in Sanskrit literature
 
@@ -77,7 +77,7 @@ VII-67 flash of a polished sword' (Ratna-pariksha 62, Agastimata 92-93). Varaham
 
 ---
 
-## 75. 5. The ancient Pearl Market in India
+## 5. The ancient Pearl Market in India
 
 Minerals and Metals in Sanskrit literature
 
@@ -97,8 +97,6 @@ VII-75 504 strings and 2 cubits made it vijayachhanda, the same name having been
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -106,10 +104,6 @@ VII-75 504 strings and 2 cubits made it vijayachhanda, the same name having been
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">7. Concluding Remarks and References: Minerals And Metals In Sanskrit Literature Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

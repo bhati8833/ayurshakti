@@ -64,7 +64,11 @@ The Kapha type of Disorders
 
 Their names.
 
+
+<blockquote className="ayur-shloka">
 10. Thus we have ten varieties of urinary disorders in accordance with their special designations. They are—Udakameha or Hydruria, Ikshuvalikarasameha [ikṣuvālikārasameha] or Glycosuria, Sandrameha [sāndrameha] or Chyluria, Sandraprasadameha [sāndraprasādameha] or Belluria, Shuklameha [śuklameha] or Bacteriuria, Shukrameha [śukrameha] or Spermatuda, Shitameha [śītameha] or Phosphaturia, Sikatameha [sikatāmeha] or Graveluria, Shanairmeha [śanairmeha] or slow micturition, aud Alalameha [ālālameha] or Pyuria.
+</blockquote>
+
 
 Their curability
 
@@ -102,7 +106,11 @@ The Pitta type of Disorders
 
 Their Names
 
+
+<blockquote className="ayur-shloka">
 25. These again acquire special designation according to the particular qualities of Pitta. They are—Ksharameha [kṣārameha], Kalameha [kālameha], Nilameha [nīlameha], Lohitameha, Manjishthameha [māñjiṣṭhameha] and Haridrameha [ hāridrameha].
+</blockquote>
+
 
 26. They combine with the six qualities of Pitta as described above viz., alkaline quality, acidity, saltishness, pungency, smell of raw meat and heat.
 
@@ -118,11 +126,19 @@ The signs and symptoms of Pitta type of disorders
 
 30. That person is said to be suffering from (Kālameha) Melanuria, born of the excessive provocation of Pitta who passes soot-black and warm urine constantly.
 
+
+<blockquote className="ayur-shloka">
 31. That person is said to be suffering from (Nīlameha) Indigouria, born of the excessive provocation of Pitta, who passes urine of the color of the wings of blue Jay (Cāṣa [cāṣa—cāṣapakṣa]) bird aud which is acid.
+</blockquote>
+
 
 32. That person is said to be suffering from (Lohitameha) Hematuria, born of the excessive provocation of Pitta whose urine smells like raw meat and which is saltish, warm and red.
 
+
+<blockquote className="ayur-shloka">
 33. That man is said to be suffering from (Māñjiṣthameha [māñjiṣthameha]) Hemoglobinuria born of the provocation of Pitta, who passes urine of the color of indian madder water, which is increased in quantity, and which smells like raw meat.
+</blockquote>
+
 
 34. That person is said to be suffering from (Hāridrameha [hāridrameha]) Urobiliuuria born of the provocation of Pitta, whose prine is of the color of turmeric-water, and is pungent.
 

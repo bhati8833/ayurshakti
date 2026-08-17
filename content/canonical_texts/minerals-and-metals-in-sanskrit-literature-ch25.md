@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix B (2) - Technical terms in the other Vedic literatures within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 107. Appendix B (2) - Technical terms in the other Vedic literatures
+## Appendix B (2) - Technical terms in the other Vedic literatures
 
 Minerals and Metals in Sanskrit literature
 
@@ -27,7 +27,7 @@ BHASTRA leather bag or bellow BHUTAVIDYA physics MEHAJA silver RAKTIKA 1/100 of 
 
 ---
 
-## 108. 7. Rasa and Rasaka according to Rasaratna-samuccaya
+## 7. Rasa and Rasaka according to Rasaratna-samuccaya
 
 Minerals and Metals in Sanskrit literature
 
@@ -45,7 +45,7 @@ IX-20 A good variety of ritika or riti was stated to be heavy, soft, yellow, res
 
 ---
 
-## 109. Appendix A - Scientific information on the Minerals used
+## Appendix A - Scientific information on the Minerals used
 
 Minerals and Metals in Sanskrit literature
 
@@ -97,7 +97,7 @@ A-20 Jargon Jargon is a name given to the colourless or smoky zircons of Sri Lan
 
 ---
 
-## 110. Appendix D - Technical words in Kautiliya Arthashastra
+## Appendix D - Technical words in Kautiliya Arthashastra
 
 Minerals and Metals in Sanskrit literature
 
@@ -129,8 +129,6 @@ D.11 SAUVARCALA borax 2.15.15 SAUVARNIKA the state goldsmith 2.13.2; 2.14.1 and 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -138,10 +136,6 @@ D.11 SAUVARCALA borax 2.15.15 SAUVARNIKA the state goldsmith 2.13.2; 2.14.1 and 
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix B (1) - Words related to Minerals and Metal in the Rigveda: Minerals And Metals In Sanskrit Literature Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

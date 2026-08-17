@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 13. Pigeon games described in the Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. 13. Pigeon games described in the Manasollasa
+## 13. Pigeon games described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -29,7 +29,7 @@ Somesvara tells Paravata-Vinoda or amusement through pigeons. He describes four 
 
 ---
 
-## 28. 12. Buffalow-fighting described in the Manasollasa
+## 12. Buffalow-fighting described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -45,8 +45,6 @@ Somesvara further explains Buffalo fight on similar lines (4.10.1260-1276). He s
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -54,10 +52,6 @@ Somesvara further explains Buffalo fight on similar lines (4.10.1260-1276). He s
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">16. Matsya-vinoda (the sport of catching fish): Manasollasa Study Of Arts And Sciences Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

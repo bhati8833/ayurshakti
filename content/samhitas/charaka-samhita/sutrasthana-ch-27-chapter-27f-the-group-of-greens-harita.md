@@ -50,7 +50,11 @@ The Qualities of Bishop’s weed, etc.
 
 The Qualities of Gandira, Hog fruit Indian tooth ache, and Ginger sprouts
 
+
+<blockquote className="ayur-shloka">
 171. The Gandira [gaṇḍīra], the hog fruit Indian toothache and sprouts of ginger are acute, hot, pungent, dry and curative of Kapha and Vata.
+</blockquote>
+
 
 The Qualities of Ginger grass and Celery seeds.
 

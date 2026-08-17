@@ -98,7 +98,11 @@ Vriddha-Vāgbhata reads Alaji-Śonite in place of “Visardhita.”
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 Some read “varaṭīmatsya” (Varati-fish) as one word—the name of a species of fish.
+</blockquote>
+
 
 [3]:
 

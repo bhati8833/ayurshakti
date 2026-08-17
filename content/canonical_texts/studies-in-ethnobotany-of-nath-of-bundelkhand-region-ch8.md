@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe) within Studies In Ethnobotany Of Nath Of Bundelkhand Region. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Chapter 5 - Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe)
+## Chapter 5 - Enumeration of Plant Species (Ethnobotanical Records of 'Nath' tribe)
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -233,8 +233,6 @@ CYPERACEAE 258. Eleocharis dulcis, (Burm. f.) Trinius. (Shuri ghas), Herb #Washe
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -242,10 +240,6 @@ CYPERACEAE 258. Eleocharis dulcis, (Burm. f.) Trinius. (Shuri ghas), Herb #Washe
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

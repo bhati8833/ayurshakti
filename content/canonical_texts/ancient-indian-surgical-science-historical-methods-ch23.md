@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Application of the Samdamsha instrument within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 74. 6. Application of the Samdamsha instrument
+## 6. Application of the Samdamsha instrument
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ used to complete the operation for pterygium by removing the remnant, after it h
 
 ---
 
-## 75. 7. Application of the Tala Yantras
+## 7. Application of the Tala Yantras
 
 Surgery in ancient India (Study)
 
@@ -39,7 +39,7 @@ foreign bodies from the ear, nose and other outer canals of the body. The ear sc
 
 ---
 
-## 76. 8. Application of the Nadi Yantras
+## 8. Application of the Nadi Yantras
 
 Surgery in ancient India (Study)
 
@@ -57,8 +57,6 @@ patient.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ patient.
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">11. Disinfection rooms clothes: Ancient Indian Surgical Science Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

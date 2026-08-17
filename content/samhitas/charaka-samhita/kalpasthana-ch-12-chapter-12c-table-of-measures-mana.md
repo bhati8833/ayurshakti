@@ -28,7 +28,11 @@ Chapter 12c - Table of Measures (mana)
 
 [Cf. Previous chapters]
 
+
+<blockquote className="ayur-shloka">
 87-97½. Six particles (Dhvaṃśīs [dhvaṃśīs]) make a Marici [marīci] and six Maricis [marīcis] make a Rape-seed (Sarṣapa [sarṣapa]). Eight such red Rape-seeds make a Rice-grain (Taṇḍula [taṇḍula]), two rice grains make a Black gram grain (Dhānya Māṣa [dhānya māṣa]), two Black grams make a Barley (Yava). Four of them make an Andika [aṇḍikā], four of these again make a Mashaka [māṣaka]. It is also known as Hema and Dhanyaka [dhānyaka]. Three of such Mashakas [māṣakas] make a Shana [śāṇa]. Two Shanas [śāṇas] make a Drankshana [draṅkṣaṇa] which is known also as a Kola or Badara (jujube) or half a tola. Two Drankshanas [draṅkṣaṇas] make one Karsha [karṣa] or Suvarna [suvarṇa] or Aksha [akṣa] or Bidalapadaka [biḍālapadaka], Picu or Panitala [pāṇitala] or Tinduka or Kavalagraha. Two Suvarnas [suvarṇas] make half a Pala or Shukti [śukti] or Ashtamika [aṣṭamikā]. Two half Palas make one Pala or Mushti [muṣṭi] (fistful) or Prakunca [prakuñca] or Caturthika [caturthikā] or Bilwa [bilva] or Shodashika [ṣoḍaśikā] or Amra [āmra]; two Palas make a Prasrita [prasṛta] which is also known as Ashtamana [aṣṭamāna]. Four Palas are known as an Anjali [añjali] or Kudava [kuḍava]. Four Kudavas [kuḍavas] make a Prastha and fonr Prasthas make an Adhaka [āḍhaka] which is also known as Patra [pātra]. Eight Prasthas make a Kansa [kaṃsa]. Four Kansas [kaṃsas] make Drona [droṇa] or Armana [armaṇa] or Nalvana [nalvaṇa]. It is also known as Kalasha [kalaśa], Ghata [ghaṭa] or Unmana [unmāna]. Two Dronas [droṇas] make a Shurpa [śūrpa] or Kumbha. Two Shurpas [śūrpas] make a Goni [goṇī] known as Khari [khārī] or Bhara [bhāra]. Thirty-two Shurpas [śūrpas] should be known as making a Vaha [vāha] and a hundred Palas make one Tula [tulā]. This is the table of measures that an expert pharmacist should be versed in. These and such other measures described are with reference to dried articles of medicine.
+</blockquote>
+
 
 Relative measures [mana] of Liquids and Solids
 

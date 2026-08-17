@@ -11,23 +11,13 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Purāṇic myths related to Agriculture within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 45. Chapter 3 - Purāṇic myths related to Agriculture
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Puranic myths related to Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Chapter 3 - Purāṇic myths related to Agriculture
 
 Chapter 3 - Purāṇic myths related to Agriculture
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 46. Part 26 - Agricultural Products Used as Gifts
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Agricultural Products Used as Gifts’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 26 - Agricultural Products Used as Gifts
 
 Part 26 - Agricultural Products Used as Gifts
 
@@ -46,43 +36,15 @@ One aspect of the gift of grain (dhānya) is the merudāna (mountain-gift), whic
 
 While describing about the Grahayajñas, there it is stated by Matsya that, barley, rice, sesamum, mustard, māṣa and palāśa fuel are best for the sacrificial fuel.[13] Lord Śiva in the Matsya Purāṇa explained to Nārada the ten ways of the gift or dāna known as the Sumeruparvata gift, by virtue of which, the devotee attains the highest of the climes and is respected by the Devas.[14] In this context, it is here met with that the Sumeru hill in the centre should be made of rice (vrīhi).[15] Again, regarding the giving of the hill of grain, it is pointed out that the hill of 1,000 droṇas of grain is considered the first best, 500 droṇas of grain is the second best and 300 droṇas of grain is considered the last best.[16]
 
-Use of flour or grain is also seen in sorcery. If a king is to be controlled, it is said that a Brāhmaṇa should prepare the image of the king with whole rice-grains;then it should be offered in thousand bits in the fire.[17] On the Mahānavamī day, the day prior to the great festival of Vijayā Daśamī, the king is ordained to offer a consecrated bali-offering to the goddess Nirṛti, with the chants of the Mahākauśika mantras.[18] The king should take bath before the image of Śakra(Indra), made out of dough. He should smash the bali with his sword and should offer it to Skanda and Viśākhā.GL_NOTE:413781:} In this context it may be mentioned that various gifts of beasts and other objects prepared from dough are enjoined to be given round the year, starting from the month of Mārgaśīrṣa. The Agni Purāṇa mentions that a horse and a lotus made from the dough should be given in the month of Mārgaśīrṣa, and then the donor will reach the domain of the sun after death.[20] An elephant made from the dough should be donated in the month of Pauṣa. In Māgha a chariot drawn by a horse should be given, and in Phālguna a bull made from dough should be given. For gaining victory in battle it is enjoined that the king should get prepared glossy fat dough images of important persons and elephants and horses belonging to the enemy, cut them with a dagger, dip them in mustard oil and offer their parts in the fire.[21]
+Use of flour or grain is also seen in sorcery. If a king is to be controlled, it is said that a Brāhmaṇa should prepare the image of the king with whole rice-grains;then it should be offered in thousand bits in the fire.[17] On the Mahānavamī day, the day prior to the great festival of Vijayā Daśamī, the king is ordained to offer a consecrated bali-offering to the goddess Nirṛti, with the chants of the Mahākauśika mantras.[18] The king should take bath before the image of Śakra(Indra), made out of dough. He should smash the bali with his sword and should offer it to Skanda and Viśākhā. In this context it may be mentioned that various gifts of beasts and other objects prepared from dough are enjoined to be given round the year, starting from the month of Mārgaśīrṣa. The Agni Purāṇa mentions that a horse and a lotus made from the dough should be given in the month of Mārgaśīrṣa, and then the donor will reach the domain of the sun after death.[20] An elephant made from the dough should be donated in the month of Pauṣa. In Māgha a chariot drawn by a horse should be given, and in Phālguna a bull made from dough should be given. For gaining victory in battle it is enjoined that the king should get prepared glossy fat dough images of important persons and elephants and horses belonging to the enemy, cut them with a dagger, dip them in mustard oil and offer their parts in the fire.[21]
 
 [The following] are termed as aṣṭavrīhi in the Agni Purāṇa.
 
-wheat,
-
-sesame,
-
-black gram,
-
-green gram,
-
-barley,
-
-nīvāra,
-
-śyāmāka and
-
-the vrīhis (rice)
+wheat,, sesame,, black gram,, green gram,, barley,, nīvāra,, śyāmāka and, the vrīhis (rice)
 
 It stipulates the following corns and food prepared from them in any vow:
 
-śyāmāka,
-
-nīvāra,
-
-vrīhi,
-
-ṣaṣṭika,
-
-mudga,
-
-kalāya,
-
-tilā,
-
-yava and
+śyāmāka,, nīvāra,, vrīhi,, ṣaṣṭika,, mudga,, kalāya,, tilā,, yava and
 
 godhūma.[22]
 
@@ -96,19 +58,11 @@ The Matsya Purāṇa suggests that at the time of performing the Madana-Dvādaś
 
 The term Saubhāgya Aṣṭaka in the Purāṇa indicates the eight blessings consisting of the following eight things:
 
-clarified butter (ghṛta),
-
-coriander seed (niṣpāva),
-
-saffron (kusumbha),
+clarified butter (ghṛta),, coriander seed (niṣpāva),, saffron (kusumbha),
 
 cow’s milk (gokṣīram),
 
-cumin seed (kālājīrā),
-
-sugarcane (rasarājam),
-
-safflower (kumkuma) and
+cumin seed (kālājīrā),, sugarcane (rasarājam),, safflower (kumkuma) and
 
 salt (lavaṇa).[36]
 
@@ -120,250 +74,371 @@ He gets long life, children and grandchildren and goes to heaven, where he is ho
 
 Moreover, it is stated there in the Agni Purāṇa that a man by casting oblations of vessel full (droṇas) of barley, soaked in clarified butter, into the fire and by repeating the mantras vāta āvātu, etc., is enabled to cast off all charms.[48] Again, a man by performing a homa ceremony with oblations of sesamum and by repeating the mantras known as pradeva dāsa followed by Vaṣaṭs, become an expert in all trades.[49]
 
-[1]:
 
-Agni Purāṇa , 226.12
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Agni Purāṇa , 226.12
+</blockquote>
 
-[2]:
 
-vastradānāllabhedāyurārogyaṃ svargamakṣayam/ dhānyagodhūmakalamayavādīnsvargabhāgdadat// Ibid., 211.41
 
-[3]:
 
-maṇḍape utsavāṅge vā prakuryādaṅkurārpaṇam// Skanda Purāṇa , 2.2.33.25
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> vastradānāllabhedāyurārogyaṃ svargamakṣayam/ dhānyagodhūmakalamayavādīnsvargabhāgdadat// Ibid., 211.41
+</blockquote>
 
-[4]:
 
-Ibid., 2.2.41.2
 
-[5]:
 
-virūḍhaiḥ saptadhānyaiśca vaṃśapatraprakalpitaiḥ// Ibid., 7.1.166.87
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> maṇḍape utsavāṅge vā prakuryādaṅkurārpaṇam// Skanda Purāṇa , 2.2.33.25
+</blockquote>
 
-[6]:
 
-Ibid., 2.2.42.6
 
-[7]:
 
-Ibid., 5.1.12.3
+<div className="footnote-card"><strong>[4]</strong> Ibid., 2.2.41.2</div>
 
-[8]:
 
-Ibid., 6.252.19
 
-[9]:
 
-Ibid., 6.252.20
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> virūḍhaiḥ saptadhānyaiśca vaṃśapatraprakalpitaiḥ// Ibid., 7.1.166.87
+</blockquote>
 
-[10]:
 
-Ibid., 5.3.182.44-45
 
-[11]:
 
-dhānyameruḥ pañcakhāro’para ekaikakhārakāḥ/
+<div className="footnote-card"><strong>[6]</strong> Ibid., 2.2.42.6</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., 5.1.12.3</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 6.252.19</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., 6.252.20</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., 5.3.182.44-45</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> dhānyameruḥ pañcakhāro’para ekaikakhārakāḥ/
 svarṇatriśṛṅgakāḥ sarve brahmaviṣṇumaheśvarān//
 dhānyadroṇasahasreṇa uttamo’rdhārdhataḥ parau// Agni Purāṇa , 212.30; 210.6
+</blockquote>
 
-[12]:
 
-Skanda Purāṇa ,7.2.18.242
 
-[13]:
 
-yavādivrīhayo māṣāstilāśca saha sarṣapaiḥ/
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Skanda Purāṇa ,7.2.18.242
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> yavādivrīhayo māṣāstilāśca saha sarṣapaiḥ/
 pālāśāḥ samidhaḥ śastā vasordhārā tathopari// Matsya Purāṇa , 239. 22
+</blockquote>
 
-[14]:
 
-meroḥ pradānaṃ vakṣyāmi daśadhā munipuṅgava/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> meroḥ pradānaṃ vakṣyāmi daśadhā munipuṅgava/
 yatpradānānnaro lokānāpnoti surapūjitān// Ibid., 83.2
+</blockquote>
 
-[15]:
 
-Ibid., 83.13
 
-[16]:
 
-dhānyadroṇasahasreṇa bhavedgiririhottamaḥ/
+<div className="footnote-card"><strong>[15]</strong> Ibid., 83.13</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> dhānyadroṇasahasreṇa bhavedgiririhottamaḥ/
 madhyamaḥ pañcaśatikaḥ kaniṣṭhaḥ syāt tribhiḥ śataiḥ// Ibid., 83.12
+</blockquote>
 
-[17]:
 
-sarvavrīhimayīṃ kṛtvā rajñaḥ pratikṛtiṃ dvijaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> sarvavrīhimayīṃ kṛtvā rajñaḥ pratikṛtiṃ dvijaḥ/
 sahasraśastu juhuyādrājā vaśagato bhavet// Agni Purāṇa ,260.8-9
+</blockquote>
 
-[18]:
 
-nairṛtāya namaḥ niṛtaye dātavyam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> nairṛtāya namaḥ niṛtaye dātavyam/
 mahākauśikamantreṇa mantritaṃ balimarpayet// Garuḍa Purāṇa ,1.134.2
+</blockquote>
 
-[19]:
 
-tasyāgrato nṛpaḥ snāyātcchatraṃ kṛtvā ca paiṣṭikam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> tasyāgrato nṛpaḥ snāyātcchatraṃ kṛtvā ca paiṣṭikam/
 khaḍgane ghātayitvā tu dadyātskandhaviśākhayoḥ// Ibid.,1.134.3
+</blockquote>
 
-[20]:
 
-vratārhaṇaṃ guruḥ pūjā vatsarānte mahārcanam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> vratārhaṇaṃ guruḥ pūjā vatsarānte mahārcanam/
 aśvaṃ vai mārgaśīrṣe tu kamalaṃ piṣṭasambhavaṃ//
 śivāya pujya dadyāt sūryaloke ciraṃ vaset/
 gajaṃ pauṣe piṣṭamayaṃ trisaptakulamuddharet//
 māghe cāśvarathaṃ paiṣṭaṃ datvā na narakaṃ vrajet/
 phālgune tu vṛṣaṃ paiṣṭaṃ svargabhuksyanmahīpatiḥ// Agni Purāṇa ,212.2-4
+</blockquote>
 
-[21]:
 
-hastyaśvapuruṣānkuryādbudhaḥ piṣṭamayāñśubhān/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> hastyaśvapuruṣānkuryādbudhaḥ piṣṭamayāñśubhān/
 parakīyānathoddiśya pradhānapuruṣāṃstathā/
 susvinnānpiṣṭakabarānkṣureṇotkṛtya bhāgaśaḥ//
 abhi tvā śūra nonumo mantreṇānena mantravit/
 kṛtvā sarṣapatailāktānkrodhena juhuyāttataḥ/
 etatkṛtvā budhaḥ karma saṅgrāme jayamāpnuyāt// Ibid., 261.21-24
+</blockquote>
 
-[22]:
 
-vrīhiṣaṣṭikamudgāśca kalāyāḥ satilā yavāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> vrīhiṣaṣṭikamudgāśca kalāyāḥ satilā yavāḥ/
 śyāmākāścaiva nīvārā godhūmādyā vrate hitāḥ// Agni Purāṇa , 175.14
+</blockquote>
 
-[23]:
 
-Viṣṇu Purāṇa , 3.13.3,4
 
-[24]:
 
-Vide, The Viṣṇu-Purāṇam, p.274
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Viṣṇu Purāṇa , 3.13.3,4
+</blockquote>
 
-[25]:
 
-prācīnāvītamudakaṃ tilāḥ savyāṅgameva ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Vide, The Viṣṇu-Purāṇam, p.274
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> prācīnāvītamudakaṃ tilāḥ savyāṅgameva ca/
 darbhā māṃsaṃ ca pāṭhīnaṃ gokṣīraṃ madhurā rasāḥ//
 khaḍgalohāmiṣamadhukuśaśyāmākaśālayaḥ/ yavanīvāramudgekṣuśuklapuṣpaghṛtāni ca// Matsya Purāṇa , 15.34,35
+</blockquote>
 
-[26]:
 
-pañcagavyaṃ tato bilvaṃ karpūraṃ cāguruṃ yavāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> pañcagavyaṃ tato bilvaṃ karpūraṃ cāguruṃ yavāḥ/
 tilāḥ kṛṣṇāśca vidhivatprāśanaṃ kramaśaḥ smṛtaṃ/
 pratimāsaṃ caturddaśyorekaikaṃ prāśanaṃ smṛtaṃ// Ibid., 95.23
+</blockquote>
 
-[27]:
 
-praśāntikāḥ sanīvārāḥ śyāmākā dvividhāstathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> praśāntikāḥ sanīvārāḥ śyāmākā dvividhāstathā/
 vanauṣadhīpradhānāstu śrāddhārhāḥ puruṣarṣabha//
 yavāḥ priyaṅgavo mudgā godhūmā vrīhayastilāḥ/
 niṣpāvāḥ kovidārāśca sarṣapāścātra śobhanāḥ// Viṣṇu Purāṇa , 3.16.5-6
+</blockquote>
 
-[28]:
 
-Viṣṇu Purāṇa , 3.16.7; Matsya Purāṇa , 15.37-38
 
-[29]:
 
-Matsya Purāṇa , 230.11
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Viṣṇu Purāṇa , 3.16.7; Matsya Purāṇa , 15.37-38
+</blockquote>
 
-[30]:
 
-Ibid., 15.35; 55.18; 70.43
 
-[31]:
 
-Ibid., 68.16
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Matsya Purāṇa , 230.11
+</blockquote>
 
-[32]:
 
-Bhāgavata Purāṇa , 10.80.14; 81.5-9, 35
 
-[33]:
 
-kāmanāmno harerarccāṃ snāpayedgandhavāriṇā/ śuklapuṣpākṣatatilairarcayenmadhusūdanam// Matsya Purāṇa , 7.15
+<div className="footnote-card"><strong>[30]</strong> Ibid., 15.35; 55.18; 70.43</div>
 
-[34]:
 
-amṛtaṃ pibato vaktrātsūryasyāmṛtabindavaḥ/
+
+
+<div className="footnote-card"><strong>[31]</strong> Ibid., 68.16</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Bhāgavata Purāṇa , 10.80.14; 81.5-9, 35
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> kāmanāmno harerarccāṃ snāpayedgandhavāriṇā/ śuklapuṣpākṣatatilairarcayenmadhusūdanam// Matsya Purāṇa , 7.15
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> amṛtaṃ pibato vaktrātsūryasyāmṛtabindavaḥ/
 nipeturye tadutthāmī śālimudgekṣavaḥ smṛtāḥ// Ibid., 77.13
+</blockquote>
 
-[35]:
 
-Matsya Purāṇa , 86.4
 
-[36]:
 
-Ibid., 60.7-8,28
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Matsya Purāṇa , 86.4
+</blockquote>
 
-[37]:
 
-ataḥ paraṃ pravakṣyāmi tilaśailaṃ vidhānataḥ/
+
+
+<div className="footnote-card"><strong>[36]</strong> Ibid., 60.7-8,28</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> ataḥ paraṃ pravakṣyāmi tilaśailaṃ vidhānataḥ/
 yatpradānānnaro yāti viṣṇulokaṃ sanātanaṃ// Ibid., 87.1
+</blockquote>
 
-[38]:
 
-yasmānmadhu vadhe viṣṇordehasvedasamudbhavāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> yasmānmadhu vadhe viṣṇordehasvedasamudbhavāḥ/
 tilāḥ kuśāśca māṣāśca tasmācchāntyai bhavantviha// Ibid., 87.4
+</blockquote>
 
-[39]:
 
-havye kavye ca yasmācca tilā evābhirakṣaṇam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> havye kavye ca yasmācca tilā evābhirakṣaṇam/
 bhavāduddhara śailendra tilācala namo’stu te// Ibid., 87.5
+</blockquote>
 
-[40]:
 
-ityāmantrya ca yo dadyāt tilācalamanuttamam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> ityāmantrya ca yo dadyāt tilācalamanuttamam/
 sa vaiṣṇavaṃ padaṃ yāti punarāvṛttidurlabham// Ibid., 87.6
+</blockquote>
 
-[41]:
 
-dīrghāyuṣyaṃ samāpnoti putrapautraiśca modate/
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> dīrghāyuṣyaṃ samāpnoti putrapautraiśca modate/
 pitṛbhirdevagandharvaiḥ pūjyamāno divaṃ vrajet// Ibid., 87.7
+</blockquote>
 
-[42]:
 
-tiladhenuṃ ca yo dadyādbrāhmaṇe vedapārage/
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> tiladhenuṃ ca yo dadyādbrāhmaṇe vedapārage/
 sasāgaravanadvīpā dattā bhavati medinī// Ibid., 187.27
+</blockquote>
 
-[43]:
 
-kṣīraṃ surāṃ ca māṃsaṃ ca lākṣāṃ gandhaṃ rasaṃ tilān/
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> kṣīraṃ surāṃ ca māṃsaṃ ca lākṣāṃ gandhaṃ rasaṃ tilān/
 evamādīni vikrīṇanghore pūyavahe patet// Vāyu Purāṇa , 101.162
+</blockquote>
 
-[44]:
 
-athātaḥ sampravakṣyāmi mahādānamanuttamam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> athātaḥ sampravakṣyāmi mahādānamanuttamam/
 pañcalāṅgalakaṃ nāma mahāpātakanāśanam// Matsya Purāṇa , 283.1
+</blockquote>
 
-[45]:
 
-puṇyāṃ tithimathāsādya yugādigrahaṇādikām/
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> puṇyāṃ tithimathāsādya yugādigrahaṇādikām/
 bhūmidānaṃ naro dadyātpañcalāṅgalakānvitam// Ibid., 283.2
+</blockquote>
 
-[46]:
 
-kharvaṭaṃ kheṭakaṃ vāpi grāmaṃ vā sasyaśālinam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> kharvaṭaṃ kheṭakaṃ vāpi grāmaṃ vā sasyaśālinam/
 nivartanaśataṃ vāpi tadardhaṃ vāpi śaktitaḥ// Ibid., 283.3
+</blockquote>
 
-[47]:
 
-indratvamapyadhigataṃ kṣayamabhyupaiti gobhūmilāṅgaladhurandharasampradānāt/
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> indratvamapyadhigataṃ kṣayamabhyupaiti gobhūmilāṅgaladhurandharasampradānāt/
 tasmādaghaughapaṭala kṣayakāribhūmer
 dānaṃ vidheyamiti bhūtibhavodbhavāya// Ibid.,283.19
+</blockquote>
 
-[48]:
 
-ghṛtāktaṃ tu yavadroṇaṃ vāta avātu bheṣajam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> ghṛtāktaṃ tu yavadroṇaṃ vāta avātu bheṣajam/
 anena hutvā vidhivatsarvāṃ māyāṃ vyapohati// Agni Purāṇa , 261.19
+</blockquote>
 
-[49]:
 
-pra devo dāsena tilānhutvā kārmaṇakṛntanam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> pra devo dāsena tilānhutvā kārmaṇakṛntanam/
 abhi tvāṃ śūra nonumo vaṣaṭkārasamanvitam// Ibid., 261.20
+</blockquote>
 
 ---
 
-## 47. Part 2 - The Myth of Pṛthu, the Son of Vena
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Myth of Prithu, the Son of Vena’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 2 - The Myth of Pṛthu, the Son of Vena
 
 Part 2 - The Myth of Pṛthu, the Son of Vena
 
@@ -399,51 +474,78 @@ sarvakāmadudhā dogdhrī sarvasasyaprarohiṇī/
 
 The descriptions that occur in the Bhāgavata Purāṇa and Brahma Purāṇa are almost same as in the Matsya Purāṇa.
 
-[1]:
 
-Bhāgavata Purāṇa , 4.17,18; Viṣṇu Purāṇa , 1.13.68-87; Brahmāṇḍa Purāṇa , 1.2.36.175-202; Brahma Purāṇa , 2.70 ff.;
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Bhāgavata Purāṇa , 4.17,18; Viṣṇu Purāṇa , 1.13.68-87; Brahmāṇḍa Purāṇa , 1.2.36.175-202; Brahma Purāṇa , 2.70 ff.;
+</blockquote>
 
-[2]:
 
-Atharvaveda Saṃhitā  , 8.13.11-12
 
-[3]:
 
-Ṛgveda Saṃhitā , 8.9.10
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Atharvaveda Saṃhitā  , 8.13.11-12
+</blockquote>
 
-[4]:
 
-Jaiminīya Brāhmaṇa , 1.186
 
-[5]:
 
-pṛthī ha vai vainyo manuṣyāṇāṃ prathamo’abhiṣiṣice so’kāmayata sarvvamannādyamavarundhīyeti tasmā’etānyajuhavuḥ sa idaṃ sarvamannādyamavarurudhe…// Śatapatha Brāhmaṇa , 5.3.5.4
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Ṛgveda Saṃhitā , 8.9.10
+</blockquote>
 
-[6]:
 
-pṛthurvainyastathā caimāṃ rarakṣa kṣatrapūrvajaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Jaiminīya Brāhmaṇa , 1.186
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> pṛthī ha vai vainyo manuṣyāṇāṃ prathamo’abhiṣiṣice so’kāmayata sarvvamannādyamavarundhīyeti tasmā’etānyajuhavuḥ sa idaṃ sarvamannādyamavarurudhe…// Śatapatha Brāhmaṇa , 5.3.5.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> pṛthurvainyastathā caimāṃ rarakṣa kṣatrapūrvajaḥ/
 rājasūyābhiṣiktānāmādyaḥ sa vasudhādhipaḥ// Brahma Purāṇa , 1.81
+</blockquote>
 
-[7]:
 
-Sāyaṇācārya,Śatapatha Brāhmaṇa , 5.3.5.4
 
-[8]:
 
-svapāṇau puruṣavyāghro dudoha pṛthivīṃ tataḥ/
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Sāyaṇācārya,Śatapatha Brāhmaṇa , 5.3.5.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> svapāṇau puruṣavyāghro dudoha pṛthivīṃ tataḥ/
 sasyajātāni sarvāṇi pṛthurvainyaḥ pratāpavān//
 tenānnena prajāḥ sarvāḥ varttante’dyāpi sarvaśaḥ// Brahma Purāṇa , 2.96-97
+</blockquote>
 
-[9]:
 
-arājake nṛpaśreṣṭha dharitryā sakalauṣadhīḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> arājake nṛpaśreṣṭha dharitryā sakalauṣadhīḥ/
 grastāstataḥ kṣayaṃ yānti prajāḥ sarvāḥ prajesvaraḥ//
 tvaṃ no vṛttiprado dhātrā prajāpālo nirūpitaḥ/
 dehinaḥ kṣutparītānāṃ prajānāṃ jīvanauṣadhīḥ// Viṣṇu Purāṇa , 1.13.66-67
+</blockquote>
 
-[10]:
 
-tato’tha nṛpatirdivyamādāyājagavaṃ dhanuḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> tato’tha nṛpatirdivyamādāyājagavaṃ dhanuḥ/
 śarāṃśca divyān kopitaḥ so’nvadhāvad vasundharāṃ//
 tato nanāśa tvaritā gaurbhūtvā tu vasundharā/
 sā lokān brahmalokādīn tatvāsādagamanmahī//
@@ -455,20 +557,29 @@ strīvadhe tvaṃ mahāpāpaṃ kiṃ narendra na paśyasi/
 yena māṃ hantumatyarthaṃ prakaroṣi nṛpodyamam//
 ekasmin yatra nidhanaṃ prāpite duṣṭakāriṇi/
 bahūnāṃ bhavati kṣemaṃ tasya puṇyaprado vadhaḥ// Ibid.,1.13.68-73
+</blockquote>
 
-[11]:
 
-prajānāmupakārāya yadi māṃ tvaṃ haniṣyasi/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> prajānāmupakārāya yadi māṃ tvaṃ haniṣyasi/
 ādhāraḥ kaḥ prajānāṃ te nṛpaśreṣṭha bhaviṣyati// Ibid.,1.13.74
+</blockquote>
 
-[12]:
 
-tvaṃ hatvā vasudhe vāṇairmacchāsanaparāṅmukhīm/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> tvaṃ hatvā vasudhe vāṇairmacchāsanaparāṅmukhīm/
 ātmayogabalenemā dhārayiṣyāmahaṃ prajāḥ// Ibid.,1.13.75
+</blockquote>
 
-[13]:
 
-upāyataḥ samārabdhāḥ sarve siddhyantyupakramāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> upāyataḥ samārabdhāḥ sarve siddhyantyupakramāḥ/
 tasmād vadāmyupāyaṃ te tat kuruṣva yadicchasi//
 samastāstā mayā jīrṇā naranātha mahauṣadhīḥ/
 yadīcchasi pradāsyāmi tāḥ kṣīrapariṇāminīḥ//
@@ -476,10 +587,13 @@ tasmāt prajāhitārthāya mama dharmabhṛtaṃ vara/
 taṃ tu vatsaṃ prayaccha tvaṃ kṣareyaṃ yena vatsalā//
 samāñca kuru sarvatra yena kṣīraṃ samantataḥ/
 varauṣadhī bījabhūtaṃ vīra sarvatra bhāvaye// Ibid.,1.13.77-80
+</blockquote>
 
-[14]:
 
-tata utsārayāmāsa śailānśatasahasraśaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> tata utsārayāmāsa śailānśatasahasraśaḥ/
 dhanuḥ koṭyā tadā vaiṇyastataḥ śailā vivarjitāḥ//
 na hi pūrvavisarge vai viṣame pṛthivītale/
 pravibhāgaḥ purāṇaṃ vā grāmāṇāṃ vā tadābhavat//
@@ -491,60 +605,79 @@ tatra tatra prājānāṃ hi nivāsaṃ samarocayat//
 kṛcchreṇa mahatā so’pi pranaṣṭāsvauṣadhīṣu vai//
 sa kalpayitvā vatsaṃ tu manuṃ svāyambhuva prabhuḥ/
 sve pāṇau pṛthivīnātho duduha pṛthivīṃ pṛthuḥ// Ibid.,1.13.81-86
+</blockquote>
 
-[15]:
 
-śasyajātāni sarvāṇi prajānāṃ hitakāmyayā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> śasyajātāni sarvāṇi prajānāṃ hitakāmyayā/
 tenānnena prajāstāt varttante’dyāpi nityaśaḥ//
 prāṇapradānāt sa pṛthuryasmād bhūmerabhūt pitā/
 tatastu pṛthivīsaṃgyāmavāpākhiladhāriṇī// Ibid.,1.13.87-88
+</blockquote>
 
-[16]:
 
-Matsya Purāṇa , Ch. 10
 
-[17]:
 
-Ibid., 10.16-18
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Matsya Purāṇa , Ch. 10
+</blockquote>
 
-[18]:
 
-Ibid., 10.19-20
 
-[19]:
 
-pātre māyāmabhūdvatsaḥ prāhlādistu virocanaḥ/
+<div className="footnote-card"><strong>[17]</strong> Ibid., 10.16-18</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., 10.19-20</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> pātre māyāmabhūdvatsaḥ prāhlādistu virocanaḥ/
 dogdhā dvimūrddhā tatrāsīnmāyā yena pravartitā// Ibid., 10.21
+</blockquote>
 
-[20]:
 
-yakṣaiśca vasudhā dugdhā purāntarddhānamīpsubhiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> yakṣaiśca vasudhā dugdhā purāntarddhānamīpsubhiḥ/
 kṛtvā vaiśravaṇaṃ vatsamāmapātre mahīpate// Ibid., 10.22
+</blockquote>
 
-[21]:
 
-pretarakṣogaṇairdugdhā dhārārudhiramulbaṇam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> pretarakṣogaṇairdugdhā dhārārudhiramulbaṇam/
 raupyanābho’bhavaddogdhā sumālī vatsa eva tu// Ibid., 10.23
+</blockquote>
 
-[22]:
 
-Ibid., 10.24-26
 
-[23]:
 
-Ibid., 10.27-28
+<div className="footnote-card"><strong>[22]</strong> Ibid., 10.24-26</div>
 
-[24]:
 
-Brahma Purāṇa , 2.111
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid., 10.27-28</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Brahma Purāṇa , 2.111
+</blockquote>
 
 ---
 
-## 48. Part 3 - The Myth of Kuru (son of king Saṃvaraṇa)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Myth of Kuru (son of king Samvarana)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 3 - The Myth of Kuru (son of king Saṃvaraṇa)
 
 Part 3 - The Myth of Kuru (son of king Saṃvaraṇa)
 
@@ -561,25 +694,28 @@ In the Matsya Purāṇa, we find a little variation regarding this account. Acco
 
 The references of ploughing and tilling the field that found in this myth indicate the practice of agriculture in the days of the Purāṇas.
 
-[1]:
 
-Vāmana Purāṇa , 22.21-33
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vāmana Purāṇa , 22.21-33
+</blockquote>
 
-[2]:
 
-Ibid., 22.22-23
 
-[3]:
 
-ṛkṣātsaṃvaraṇo jajñe kuru saṃvaraṇāttataḥ/
+<div className="footnote-card"><strong>[2]</strong> Ibid., 22.22-23</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> ṛkṣātsaṃvaraṇo jajñe kuru saṃvaraṇāttataḥ/
 yaḥ prayāgamatikramya kurukṣetramakalpayat//
 kṛṣyatastu mahārājo varṣāṇi subahūnyatha/
 kṛṣyamāṇastataḥ śakro bhayāttasmai varaṃ dadau//
 puṇyaṃ ca ramaṇīyaṃ ca kurukṣetraṃ tu tatsmṛtam// Matsya Purāṇa , 50.20-22a
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -588,10 +724,6 @@ puṇyaṃ ca ramaṇīyaṃ ca kurukṣetraṃ tu tatsmṛtam// Matsya Purāṇ
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Festivals and Rites Related to Agriculture: Agriculture And Animal Husbandry In The Puranas Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

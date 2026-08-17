@@ -24,7 +24,7 @@ description: "text addresses diverse topics like polity, political sciences, arc
 
 ---
 
-## 2. Chapter 2 - Treatment of Political Theory and State Administration
+## Chapter 2 - Treatment of Political Theory and State Administration
 
 Manasollasa (study of Arts and Sciences)
 
@@ -34,11 +34,7 @@ The Manasollasa is ...
 
 Chapter 2 - Treatment of Political Theory and State Administration
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -47,10 +43,6 @@ Chapter 2 - Treatment of Political Theory and State Administration
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">The life, date, and works of Someshvara III: Manasollasa Study Of Arts And Sciences Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

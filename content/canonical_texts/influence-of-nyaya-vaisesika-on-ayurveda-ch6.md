@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Atmavidya (the science of Soul) within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. 4. Atmavidya (the science of Soul)
+## 4. Atmavidya (the science of Soul)
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -31,8 +31,6 @@ uses the expression of 'Parama-Nyaya' for the conclusion which combines all the 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ uses the expression of 'Parama-Nyaya' for the conclusion which combines all the 
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">6. Aksapada: The author of Nyaya-sutra (150 A.D.): Influence Of Nyaya Vaisesika On Ayurveda Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

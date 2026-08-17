@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Company within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 47. Chapter 6 - Company
+## Chapter 6 - Company
 
 History of Indian Medicine (and Ayurveda)
 
@@ -67,7 +67,7 @@ The last citation but indirectly indicates the qualities of scholar’s company.
 
 ---
 
-## 48. Chapter 7 - Marriage and Procreation
+## Chapter 7 - Marriage and Procreation
 
 History of Indian Medicine (and Ayurveda)
 
@@ -181,7 +181,7 @@ Let him wed a female free from bodily defects, who has an agreeable name, the (g
 
 ---
 
-## 49. Chapter 10 - Woman in Caraka’s Times
+## Chapter 10 - Woman in Caraka’s Times
 
 History of Indian Medicine (and Ayurveda)
 
@@ -388,8 +388,6 @@ Thus although the biological picture of a woman as given in medical texts of old
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -397,10 +395,6 @@ Thus although the biological picture of a woman as given in medical texts of old
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment and the Status of the Patient: History Of Indian Medicine And Ayurveda Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

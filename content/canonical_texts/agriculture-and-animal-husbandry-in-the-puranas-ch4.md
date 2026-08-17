@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 1 - Contents of the Agni Purāṇa within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Part 8.1 - Contents of the Agni Purāṇa
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Contents of the Agni Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 8.1 - Contents of the Agni Purāṇa
 
 Part 8.1 - Contents of the Agni Purāṇa
 
@@ -27,77 +23,116 @@ The Agni Purāṇa discusses about all branches of knowledge.[10] Knowledge acco
 
 The Agni Purāṇa is sacred and admirable. It gives pleasure, satisfaction and liberation to men.[13] The superiority of Agni Purāṇa is declared in the last chapter of this Purāṇa itself. There is nothing richer in substance than the Agni Purāṇa. Nothing is a better friend than this Purāṇa. There is no greater treatise than this Purāṇa. It is the best of the scriptures, the best of the Smṛtis and the best of the philosophies. There is no superior knowledge than this Purāṇa. This Purāṇa is extremely auspicious. It is the foremost among the Purāṇas.[14] The Agni Purāṇa encloses chapter on Harivaṃśa,[15] incarnations of lord Viṣṇu as Matsya etc. (matsyāvatārādyā), Gītā, Rāmāyaṇa (gītā rāmāyaṇaṃ tviha), Mahābhārata(harivaṃśo bhārataṃ ca) etc.[16] Moreover, it deals with Āgamas of the Śaiva, Śākta and Saura, Maṇḍalas, Vāstuśāstra, various types of Mantras, Pratisarga, Brahmāṇḍa, Dvīpa, Bhuvanakoṣa etc.[17] Discussions on topics like Astrology, victory in war, Manvantaras, Prāyaścitta, Rājadharma, Dānadharma, Vratas, Sūryavaṃśa, Somavaṃśa, Dhanurveda, Āyurveda, Gāndharvaveda, Arthaśāstra, Mīmāṃsā, Nyāya etc. are also met with in this Purāṇa.[18]
 
-[1]:
 
-yattadīśānakaṃ kalpaṃ vṛttāntamadhikṛtya ca/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> yattadīśānakaṃ kalpaṃ vṛttāntamadhikṛtya ca/
 vasiṣṭhāyāgninā proktamāgneyaṃ tatpracakṣate// Matsya Purāṇa , 53.28
+</blockquote>
 
-[2]:
 
-agninā yadvasiṣṭhāya proktaṃ cāgneyameva tat// Agni Purāṇa ,272.10
 
-[3]:
 
-yattadadṛśyamagrāhyamagotracaraṇaṃ dhruvam/
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> agninā yadvasiṣṭhāya proktaṃ cāgneyameva tat// Agni Purāṇa ,272.10
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> yattadadṛśyamagrāhyamagotracaraṇaṃ dhruvam/
 viṣṇunoktaṃ yathā mahyaṃ devebhyo brahmaṇā purā//
 tathā te kathayiṣyāmi hetuṃ matsyādirūpiṇam// Ibid., 1.19-20
+</blockquote>
 
-[4]:
 
-āgneyaṃ ca ṣaḍetāni tāmasāni nibodha me/ Padma Purāṇa , 6.236.18
 
-[5]:
 
-āgneyākhyaṃ purāṇaṃ tu rūpaṃ viṣṇormahattaram/
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> āgneyaṃ ca ṣaḍetāni tāmasāni nibodha me/ Padma Purāṇa , 6.236.18
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> āgneyākhyaṃ purāṇaṃ tu rūpaṃ viṣṇormahattaram/
 āgneyākhyapurāṇasya karttā śrotā janārdanaḥ/
 tasmātpurāṇamāgneyaṃ sarvavedamayaṃ mahat// Agni Purāṇa ,271.16-17
+</blockquote>
 
-[6]:
 
-idaṃ pañcadaśasāhasraṃ śatakoṭipravistaram/ Ibid., 383.64
 
-[7]:
 
-likhitvā pustakaṃ dadyānmārgaśīrṣyāṃ sa sarvadaḥ/
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> idaṃ pañcadaśasāhasraṃ śatakoṭipravistaram/ Ibid., 383.64
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> likhitvā pustakaṃ dadyānmārgaśīrṣyāṃ sa sarvadaḥ/
 dvādaśaiva sahasrāṇi sarvavidyāvabodhanam// Ibid., 272.11
+</blockquote>
 
-[8]:
 
-tacca ṣoḍaśasāhasraṃ sarvakratuphalapradam// Matsya Purāṇa ,53.29
 
-[9]:
 
-viṣṇuḥ kālāgnirudro’haṃ vidyāsāraṃ vadāmi te/
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> tacca ṣoḍaśasāhasraṃ sarvakratuphalapradam// Matsya Purāṇa ,53.29
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> viṣṇuḥ kālāgnirudro’haṃ vidyāsāraṃ vadāmi te/
 brahmāgneyaṃ purāṇaṃ yatsarvaṃ sarvasya kāraṇam//
 sargasya pratisargasya vaṃśamanvantarasya ca/
 vaṃśānucaritādeśca matsyakūrmādirūpadhṛk // Agni Purāṇa , 1.13-14
+</blockquote>
 
-[10]:
 
-āgneye hi purāṇe’smin sarvavidyāḥ pradarśitāḥ// Ibid., 383.51
 
-[11]:
 
-dve vidye bhagavān viṣṇuḥ parā caivāparā dvija/
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> āgneye hi purāṇe’smin sarvavidyāḥ pradarśitāḥ// Ibid., 383.51
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> dve vidye bhagavān viṣṇuḥ parā caivāparā dvija/
 ṛgyajuḥ sāmātharvākhyā vedā aṅgāni ṣaḍ dvija//
 śikṣā kalpo vyākaraṇaṃ niruktaṃ jyotiṣāṃ gatiḥ/
 chando’bhidhānaṃ mīmāṃsā dharmaśāstraṃ purāṇakam//
 nyāyo vaidyakagāndharvaṃ dhanurvedo’rthaśāstrakam/
 apareyaṃ parāvidyā yayā brahmāvagamyate// Ibid., 1.15-17
+</blockquote>
 
-[12]:
 
-yattadadṛśyamagrāhyamagotracaraṇaṃ dhruvam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> yattadadṛśyamagrāhyamagotracaraṇaṃ dhruvam/
 viṣṇunoktaṃ yathā mahyaṃ devebhyo brahmaṇā purā // Ibid.,1.18
+</blockquote>
 
-[13]:
 
-etatpavitramārogyaṃ dhanyaṃ duḥsvapnanāśanam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> etatpavitramārogyaṃ dhanyaṃ duḥsvapnanāśanam/
 sukhaprītikaraṃ nṛṇāṃ mokṣakṛdyattaveritam// Ibid., 383.13
+</blockquote>
 
-[14]:
 
-nāsmātparataraḥ sāro nāsmātparataraḥ suhṛt//
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> nāsmātparataraḥ sāro nāsmātparataraḥ suhṛt//
 nāsmātparataro grantho nāsmātparatarā gatiḥ/
 nāsmātparataraṃ śāstraṃ nāsmātparatarā śrutiḥ//
 nāsmātparataraṃ jñānaṃ nāsmātparatarā smṛtiḥ/
@@ -105,33 +140,38 @@ nāsmātparo hyāgamo’sti nāsmādvidyā parā’sti hi//
 nāsmātparaḥ syātsiddhānto nāsmātparamamaṅgalam/
 nāsmātparo’sti vedāntaḥ purāṇam paramaṃ tvidam//
 nāsmātparataraṃ bhūmau vidyate vastu durlabham// Ibid., 383.47-51
+</blockquote>
 
-[15]:
 
-harivaṃśaṃ pravakṣyāmi viṣṇūnābhyambujādayaḥ/ Ibid., 12.1
 
-[16]:
 
-Ibid., 383.52-53
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> harivaṃśaṃ pravakṣyāmi viṣṇūnābhyambujādayaḥ/ Ibid., 12.1
+</blockquote>
 
-[17]:
 
-śaivāgamastadarthaśca śākteyaḥ saura eva ca//
+
+
+<div className="footnote-card"><strong>[16]</strong> Ibid., 383.52-53</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> śaivāgamastadarthaśca śākteyaḥ saura eva ca//
 maṇḍalāni ca vāstuśca mantrāṇi vividhāni ca/
 pratisargaścānugīto brahmāṇḍaparimaṇḍalam//
 dvīpo bhuvanakoṣaśca dvīpavarṣādinimnagāḥ// Ibid., 383.54-56
+</blockquote>
 
-[18]:
 
-Ibid., 383.57-60
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., 383.57-60</div>
 
 ---
 
-## 16. Part 10 - Literature Review
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Literature Review’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 10 - Literature Review
 
 Part 10 - Literature Review
 
@@ -149,11 +189,7 @@ Hence, it is seen that till now there are various works on agriculture and anima
 
 ---
 
-## 17. Part 8.5 - Contents of the Viṣṇu Purāṇa
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Contents of the Vishnu Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 8.5 - Contents of the Viṣṇu Purāṇa
 
 Part 8.5 - Contents of the Viṣṇu Purāṇa
 
@@ -177,187 +213,252 @@ This book deals with details of creation, recreation[15], measure of time[16], o
 
 The last book contains an account of the dissolution of the world, in both its major and minor cataclysms; and, in the particulars of the end of all things by fire and water, as well as in the principle of their perpetual renovation, presents a faithful exhibition of opinions that were general in the ancient world.[38] The sixth book is the shortest among all the books. It describes the nature of the Kali age,[39] nature of elemental dissolution (prakṛta pralaya),[40] description of Brahma yoga, and the greatness of the Viṣṇu Purāṇa.[41]
 
-[1]:
 
-De, S.K., et al (ed.), op.cit., volume 2, p. 257
+<div className="footnote-card"><strong>[1]</strong> De, S.K., et al (ed.), op.cit., volume 2, p. 257</div>
 
-[2]:
 
-Winternitz, M., op.cit., volume 1, p. 520
 
-[3]:
 
-De, S.K., et al (ed.), op.cit., volume 2, p.257
+<div className="footnote-card"><strong>[2]</strong> Winternitz, M., op.cit., volume 1, p. 520</div>
 
-[4]:
 
-Pargiter, F.E., op.cit., p.80
 
-[5]:
 
-vārāhakalpavṛttāntamadhikṛtya parāśaraḥ/
+<div className="footnote-card"><strong>[3]</strong> De, S.K., et al (ed.), op.cit., volume 2, p.257</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Pargiter, F.E., op.cit., p.80</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> vārāhakalpavṛttāntamadhikṛtya parāśaraḥ/
 trayoviṃśatisāhasraṃ vaiṣṇavaṃ prāha cārpayet// Agni Purāṇa ,272.3
+</blockquote>
 
-[6]:
 
-etat saṃsārabhīrūṇāṃ paritrāṇamanuttamam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> etat saṃsārabhīrūṇāṃ paritrāṇamanuttamam/
 duḥsvapnanāśanaṃ nṛṇāṃ sarvaduṣṭanivarhaṇam// Viṣṇu Purāṇa , 6.8.41
+</blockquote>
 
-[7]:
 
-idamārṣaṃ purā prāha ṛbhave kamalodbhavaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> idamārṣaṃ purā prāha ṛbhave kamalodbhavaḥ/
 ṛbhuḥ priyavratāyāha sa ca bhāguraye’bravīt// Ibid., 6.8.42
+</blockquote>
 
-[8]:
 
-bhāguristambamitrāya dadhīcāya ca coktavān/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> bhāguristambamitrāya dadhīcāya ca coktavān/
 sa vai sārasvate prādād bhṛguḥ sārasvatādapi// Ibid., 6.8.43
+</blockquote>
 
-[9]:
 
-bhṛguṇā purukutsāya narmadāyai sa coktavān/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> bhṛguṇā purukutsāya narmadāyai sa coktavān/
 narmadā dhṛtarāṣṭrāya nāgāyāpūraṇāya ca// Ibid., 6.8.44
+</blockquote>
 
-[10]:
 
-tābhyāñca nāgarājāya proktaṃ vāsukaye dvija/
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> tābhyāñca nāgarājāya proktaṃ vāsukaye dvija/
 vāsukiḥ prāha batsāya vatsaścāśvatarāya vai// Ibid.,6.8.45
+</blockquote>
 
-[11]:
 
-kambalāya ca tenoktamelāpatrāya tena ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> kambalāya ca tenoktamelāpatrāya tena ca/
 pātālaṃ samanuprāptastato vedaśirā muniḥ// Ibid., 6.8.46
+</blockquote>
 
-[12]:
 
-prāptavānetadakhilaṃ sa vai pramataye dadau/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> prāptavānetadakhilaṃ sa vai pramataye dadau/
 dattaṃ pramatinā caiva jātūkarṇāya dhīmate// Ibid., 6.8.47
+</blockquote>
 
-[13]:
 
-jātūkarṇena caivoktamanyeṣāṃ punyaśālinām/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> jātūkarṇena caivoktamanyeṣāṃ punyaśālinām/
 vaśiṣṭhavaradānena mamāpyetat smṛti gatam//
 mayāpi tubhyaṃ maitreya yathāvat kathitaṃ tvidam// Ibid., 6.8.48-49
+</blockquote>
 
-[14]:
 
-Wilson, H., The Viṣṇu Purāṇa, volume 1,Preface, p. XCIII
 
-[15]:
 
-Viṣṇu Purāṇa , Book 1,Ch.1-7
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Wilson, H., The Viṣṇu Purāṇa, volume 1,Preface, p. XCIII
+</blockquote>
 
-[16]:
 
-Ibid., Book 1,Ch.3
 
-[17]:
 
-Ibid., Book 1, Ch.6
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Viṣṇu Purāṇa , Book 1,Ch.1-7
+</blockquote>
 
-[18]:
 
-Ibid., Book 1, Ch.8
 
-[19]:
 
-Ibid., Book 1, Ch.9
+<div className="footnote-card"><strong>[16]</strong> Ibid., Book 1,Ch.3</div>
 
-[20]:
 
-Ibid., Book 1, Ch.11
 
-[21]:
 
-Ibid., Book 1, Ch.13
+<div className="footnote-card"><strong>[17]</strong> Ibid., Book 1, Ch.6</div>
 
-[22]:
 
-Ibid., Book 1, Ch.17
 
-[23]:
 
-Wilson, H., op.cit., volume 1,Preface, p. XCVII
+<div className="footnote-card"><strong>[18]</strong> Ibid., Book 1, Ch.8</div>
 
-[24]:
 
-Viṣṇu Purāṇa , Book 2,Ch. 1-12
 
-[25]:
 
-Ibid., Book 2, Ch. 13-16
+<div className="footnote-card"><strong>[19]</strong> Ibid., Book 1, Ch.9</div>
 
-[26]:
 
-Ibid., Book 3,Ch. 1-6
 
-[27]:
 
-Ibid., Book 3, Ch. 9
+<div className="footnote-card"><strong>[20]</strong> Ibid., Book 1, Ch.11</div>
 
-[28]:
 
-Ibid., Book 3, Ch.13-15
 
-[29]:
 
-Wilson, H., op.cit.,volume 1,Preface, p. C
+<div className="footnote-card"><strong>[21]</strong> Ibid., Book 1, Ch.13</div>
 
-[30]:
 
-Viṣṇu Purāṇa , Book 4, Ch. 1-2
 
-[31]:
 
-Ibid., Book 4, Ch. 6
+<div className="footnote-card"><strong>[22]</strong> Ibid., Book 1, Ch.17</div>
 
-[32]:
 
-Ibid., Book 4, Ch. 24
 
-[33]:
 
-Wilson, H., op.cit., volume 1,Preface, p.CIX
+<div className="footnote-card"><strong>[23]</strong> Wilson, H., op.cit., volume 1,Preface, p. XCVII</div>
 
-[34]:
 
-Viṣṇu Purāṇa , Book 5, Ch. 1-2
 
-[35]:
 
-Ibid., Book 5, Ch. 11
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Viṣṇu Purāṇa , Book 2,Ch. 1-12
+</blockquote>
 
-[36]:
 
-Ibid., Book 5, Ch. 26
 
-[37]:
 
-Ibid., Book 5, Ch. 37
+<div className="footnote-card"><strong>[25]</strong> Ibid., Book 2, Ch. 13-16</div>
 
-[38]:
 
-Wilson, H., op.cit.,volume 1, Preface, p.CX
 
-[39]:
 
-Viṣṇu Purāṇa , Book 6, Ch.1
+<div className="footnote-card"><strong>[26]</strong> Ibid., Book 3,Ch. 1-6</div>
 
-[40]:
 
-Ibid., Book 6, Ch.4
 
-[41]:
 
-Ibid., Book 6, Ch.7-8
+<div className="footnote-card"><strong>[27]</strong> Ibid., Book 3, Ch. 9</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Ibid., Book 3, Ch.13-15</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Wilson, H., op.cit.,volume 1,Preface, p. C</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Viṣṇu Purāṇa , Book 4, Ch. 1-2
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Ibid., Book 4, Ch. 6</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> Ibid., Book 4, Ch. 24</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> Wilson, H., op.cit., volume 1,Preface, p.CIX</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Viṣṇu Purāṇa , Book 5, Ch. 1-2
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> Ibid., Book 5, Ch. 11</div>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> Ibid., Book 5, Ch. 26</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> Ibid., Book 5, Ch. 37</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> Wilson, H., op.cit.,volume 1, Preface, p.CX</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Viṣṇu Purāṇa , Book 6, Ch.1
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> Ibid., Book 6, Ch.4</div>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> Ibid., Book 6, Ch.7-8</div>
 
 ---
 
-## 19. Part 3 - Importance of Agriculture
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Importance of Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 3 - Importance of Agriculture
 
 Part 3 - Importance of Agriculture
 
@@ -393,91 +494,132 @@ karṣakāṇāṃ kṛṣirvṛttiḥ.[10]
 
 According to the Vāyu Purāṇa, agriculture along with the profession of trading and animal husbandry was not for Brāhmaṇas.[11] The Vāyu Purāṇa mentions that of the four castes, the Vaiśyas were specially connected with agriculture and commerce.[12] The Bhāgavata Purāṇa mentions that the main profession of the Vaiśyas was to carry on business (vārtā-vṛtti). Vārtā comprises of tending cattle, tilling agricultural fields, carrying on trade and lending for profit.[13] The Vāyu Purāṇa states that Svayambhū Brahmā devised plans for the purpose of agricultural cultivation.[14] He ordained animal husbandry or cattle rearing, trade and agriculture for the Vaiśyas.[15] The Viṣṇu Purāṇa states that Brahmā, the great parent of creation, gave to the Vaiśyas, the occupation of commerce and agriculture and the feeding of flocks and herds, for means of livelihood.[16] The Mārkaṇḍeya Purāṇa too points out that agriculture and tending of cattle were the means of livelihood for the Vaiśyas.[17] The custom of field-gifting is also met with in the Purāṇas.The Agni Purāṇa states that by making the gift of a field in full harvest, to a Brāhmaṇa, a man attains everything.[18] It is also mentioned in the Viṣṇu Purāṇa that in the Kali age, oppressed by famine and taxation, men will desert their native lands, and go to those countries which are fit for coarse grains.[19]
 
-[1]:
 
-Kṛṣi Parāśara ,1.8
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Kṛṣi Parāśara ,1.8
+</blockquote>
 
-[2]:
 
-Ibid., 1.3
 
-[3]:
 
-Ibid.
+<div className="footnote-card"><strong>[2]</strong> Ibid., 1.3</div>
 
-[4]:
 
-Ibid., 1.7
 
-[5]:
 
-Ibid., 1.6
+<div className="footnote-card"><strong>[3]</strong> Ibid.</div>
 
-[6]:
 
-Ibid., 1.5
 
-[7]:
 
-Taittirīya Upaniṣad , 2.2.1
+<div className="footnote-card"><strong>[4]</strong> Ibid., 1.7</div>
 
-[8]:
 
-Ibid., 3.7.1-2
 
-[9]:
 
-tasmāt sarvaṃ parityajya kṛṣiṃ yatnena kārayet// Kṛṣi Parāśara ,1.7
+<div className="footnote-card"><strong>[5]</strong> Ibid., 1.6</div>
 
-[10]:
 
-Viṣṇu Purāṇa , 5.10.29
 
-[11]:
 
-vyāpadānaṃ śaktirnirvahaṇaṃ kṛṣirvāṇijyakāryaṃ paśupālanaṃ ca/ śuśrūṣaṇāṃ vā’pyaguroraho vā kāryaṃ naitadvidyate brāhmaṇasya// Vāyu Purāṇa , 79.70
+<div className="footnote-card"><strong>[6]</strong> Ibid., 1.5</div>
 
-[12]:
 
-brāhmanāḥ kṣatriyā vaiśyā madhye śūdrāśca bhāgaśaḥ/ ijyāyuddhavaṇijyābhirvartayanto vyavasthitaḥ// Ibid., 45.83
 
-[13]:
 
-vaiśyastu vārtayā jīvecchūdrastu dvijasevayā/
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Taittirīya Upaniṣad , 2.2.1
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 3.7.1-2</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> tasmāt sarvaṃ parityajya kṛṣiṃ yatnena kārayet// Kṛṣi Parāśara ,1.7
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Viṣṇu Purāṇa , 5.10.29
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> vyāpadānaṃ śaktirnirvahaṇaṃ kṛṣirvāṇijyakāryaṃ paśupālanaṃ ca/ śuśrūṣaṇāṃ vā’pyaguroraho vā kāryaṃ naitadvidyate brāhmaṇasya// Vāyu Purāṇa , 79.70
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> brāhmanāḥ kṣatriyā vaiśyā madhye śūdrāśca bhāgaśaḥ/ ijyāyuddhavaṇijyābhirvartayanto vyavasthitaḥ// Ibid., 45.83
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> vaiśyastu vārtayā jīvecchūdrastu dvijasevayā/
 kṛṣivāṇijyagorakṣāḥ kusīdaṃ turyamucyate/
 vārtā caturvidhā tatra vayaṃ govṛttayo’niśam// Bhāgavata Purāṇa , 10. 24. 20-21; 3.12.43; 7.6.26; 7.11.15
+</blockquote>
 
-[14]:
 
-yadā prasṛṣṭā auṣadhayo na prarohanti tāḥ punaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> yadā prasṛṣṭā auṣadhayo na prarohanti tāḥ punaḥ/
 tataḥ sa tāsāṃ vṛttyarthaṃ vārtopāyaṃ cakāra ha// Vāyu Purāṇa , 8.159
+</blockquote>
 
-[15]:
 
-pāśupālyaṃ vāṇijyaṃ kṛṣiṃ caiva viśāṃ dadau// Ibid., 8.170
 
-[16]:
 
-pāśupālyañca vāṇijyaṃ kṛṣiñca manujeśvara/
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> pāśupālyaṃ vāṇijyaṃ kṛṣiṃ caiva viśāṃ dadau// Ibid., 8.170
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> pāśupālyañca vāṇijyaṃ kṛṣiñca manujeśvara/
 vaiśyāya jīvikāṃ brahmā dadau lokapitāmahaḥ// Viṣṇu Purāṇa , 3.8.30
+</blockquote>
 
-[17]:
 
-dānamadhyayanaṃ yajño vaiśyasyāpi tridhaiva saḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> dānamadhyayanaṃ yajño vaiśyasyāpi tridhaiva saḥ/
 vāṇijyaṃ pāśupālyañca kṛṣiścaivāsya jīvikā// Mārkaṇḍeya Purāṇa , 28.6
+</blockquote>
 
-[18]:
 
-Agni Purāṇa ,211.28
 
-[19]:
 
-durbhikṣakarapīḍābhiratīvopahatā janāḥ /
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Agni Purāṇa ,211.28
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> durbhikṣakarapīḍābhiratīvopahatā janāḥ /
 gavedhukakadannādyān deśān yāsyanti duhkhitāḥ// Viṣṇu Purāṇa , 6.1.38
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -486,10 +628,6 @@ gavedhukakadannādyān deśān yāsyanti duhkhitāḥ// Viṣṇu Purāṇa , 6.
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">The Meaning of the Word Kṛṣi (Agriculture): Agriculture And Animal Husbandry In The Puranas Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

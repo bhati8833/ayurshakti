@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Philosophy behind the planting of Trees near the Abode within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 55. 3. Philosophy behind the planting of Trees near the Abode
+## 3. Philosophy behind the planting of Trees near the Abode
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -27,7 +27,7 @@ VI.2. Environmental Philosophy behind the determination of Auspicious & Inauspic
 
 ---
 
-## 56. 6. Environmental Philosophy behind the Nourishment of Trees
+## 6. Environmental Philosophy behind the Nourishment of Trees
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -43,8 +43,6 @@ Surapala recommends the philosophy beyond the growth of the young trees to be ad
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -52,10 +50,6 @@ Surapala recommends the philosophy beyond the growth of the young trees to be ad
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">4. Environmental Philosophy behind the Method of Plantation: Vrikshayurveda and Environmental Philosophy Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

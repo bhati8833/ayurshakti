@@ -11,10 +11,8 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on # 3. What does "Ashtanga" mean in Ayurveda? within Ashtanga Hridaya Samhita Sanskrit. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-### 3. What does "Ashtanga" mean in Ayurveda?
+### What does "Ashtanga" mean in Ayurveda?
 "Ashtanga" literally means "eight limbs" or "eight branches." In Ayurveda, this refers to the eight clinical specialties: Internal Medicine, Pediatrics, Psychiatry, ENT/Ophthalmology, Surgery, Toxicology, Rejuvenation (Rasayana), and Reproductive Science (Vajikarana).
-
-
 
 ---
 
@@ -23,10 +21,6 @@ isCanonicalText: true
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ashtanga-hridaya-samhita-sanskrit-ch17" className="text-emerald-400 hover:underline flex items-center font-medium"># 4. Why is Sutrasthana of Ashtanga Hridaya so popular?: Ashtanga Hridaya Samhita Sanskrit Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

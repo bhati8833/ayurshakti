@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of anal fistula within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Chapter IV - Diagnosis of anal fistula
+## Chapter IV - Diagnosis of anal fistula
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -69,8 +69,6 @@ Thus ends the fourth Chapter of the Nidana Sthana in the Sushruta Samhita, which
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ Thus ends the fourth Chapter of the Nidana Sthana in the Sushruta Samhita, which
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of leprosy and other skin diseases: Sushruta Samhita Nidanasthana Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

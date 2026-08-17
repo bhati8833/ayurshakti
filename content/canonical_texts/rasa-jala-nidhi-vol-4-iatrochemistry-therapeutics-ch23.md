@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for indigestion (36): Dvitiya-kravyada rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 332. Part 38 - Treatment for indigestion (36): Dvitiya-kravyada rasa
+## Part 38 - Treatment for indigestion (36): Dvitiya-kravyada rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for indigestion (36): Dvitiya-kravyada rasa’ inclu
 
 ---
 
-## 333. Part 37 - Treatment for indigestion (35): Vidhvamsa rasa
+## Part 37 - Treatment for indigestion (35): Vidhvamsa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for indigestion (35): Vidhvamsa rasa’ included in 
 
 ---
 
-## 334. Part 39 - Treatment for indigestion (37): Raja-shekhara rasa
+## Part 39 - Treatment for indigestion (37): Raja-shekhara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for indigestion (37): Raja-shekhara rasa’ included
 
 ---
 
-## 335. Part 40 - Treatment for indigestion (38): Agni-suhrid rasa
+## Part 40 - Treatment for indigestion (38): Agni-suhrid rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for indigestion (38): Agni-suhrid rasa’ included i
 
 ---
 
-## 336. Part 41 - Treatment for indigestion (39): Amrita rasa
+## Part 41 - Treatment for indigestion (39): Amrita rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for indigestion (39): Amrita rasa’ included in Bhu
 
 ---
 
-## 337. Part 42 - Treatment for indigestion (40): Raksasa rasa
+## Part 42 - Treatment for indigestion (40): Raksasa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for indigestion (40): Raksasa rasa’ included in Bh
 
 ---
 
-## 338. Part 43 - Treatment for indigestion (41): Jivana rasa
+## Part 43 - Treatment for indigestion (41): Jivana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for indigestion (41): Jivana rasa’ included in Bhu
 
 ---
 
-## 339. Part 44 - Treatment for indigestion (42): Vadavanibha rasa
+## Part 44 - Treatment for indigestion (42): Vadavanibha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for indigestion (42): Vadavanibha rasa’ included i
 
 ---
 
-## 340. Part 46 - Treatment for indigestion (44): Sarva-rogantaka rasa
+## Part 46 - Treatment for indigestion (44): Sarva-rogantaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for indigestion (44): Sarva-rogantaka rasa’ includ
 
 ---
 
-## 341. Part 47 - Treatment for indigestion (45): Triphala Lauha
+## Part 47 - Treatment for indigestion (45): Triphala Lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for indigestion (45): Triphala Lauha’ included in 
 
 ---
 
-## 342. Treatment for fever (146): Kalpataru rasa
+## Treatment for fever (146): Kalpataru rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for fever (146): Kalpataru rasa’ included in Bhude
 
 ---
 
-## 343. Part 48 - Treatment for indigestion (46): Visvoddipakabhra
+## Part 48 - Treatment for indigestion (46): Visvoddipakabhra
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -231,7 +231,7 @@ This concludes ‘Treatment for indigestion (46): Visvoddipakabhra’ included i
 
 ---
 
-## 344. Part 49 - Treatment for indigestion (47): Application of Parpati
+## Part 49 - Treatment for indigestion (47): Application of Parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -249,7 +249,7 @@ This concludes ‘Treatment for indigestion (47): Application of Parpati’ incl
 
 ---
 
-## 345. Part 45 - Treatment for indigestion (43): Anala-janaka rasa
+## Part 45 - Treatment for indigestion (43): Anala-janaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -267,7 +267,7 @@ This concludes ‘Treatment for indigestion (43): Anala-janaka rasa’ included 
 
 ---
 
-## 346. Part 49 - Diet in indigestion
+## Part 49 - Diet in indigestion
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -293,8 +293,6 @@ This concludes ‘Diet in indigestion’ included in Bhudeb Mookerjee Rasa Jala 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -302,10 +300,6 @@ This concludes ‘Diet in indigestion’ included in Bhudeb Mookerjee Rasa Jala 
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Piles: Rasa Jala Nidhi Volume 4 Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

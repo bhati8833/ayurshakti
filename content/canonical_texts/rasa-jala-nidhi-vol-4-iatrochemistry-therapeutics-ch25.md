@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Piles (15): Chakradhara rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 362. Part 16 - Treatment of Piles (15): Chakradhara rasa
+## Part 16 - Treatment of Piles (15): Chakradhara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment of Piles (15): Chakradhara rasa’ included in Bhude
 
 ---
 
-## 363. Part 17 - Treatment of Piles (16): Chanchat-kuthara rasa
+## Part 17 - Treatment of Piles (16): Chanchat-kuthara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment of Piles (16): Chanchat-kuthara rasa’ included in 
 
 ---
 
-## 364. Part 14 - Treatment of Piles (13): Karunamaya rasa
+## Part 14 - Treatment of Piles (13): Karunamaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment of Piles (13): Karunamaya rasa’ included in Bhudeb
 
 ---
 
-## 365. Part 18 - Treatment of Piles (17): Shila-gandhaka vataka
+## Part 18 - Treatment of Piles (17): Shila-gandhaka vataka
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment of Piles (17): Shila-gandhaka vataka’ included in 
 
 ---
 
-## 366. Part 19 - Treatment of Piles (18): Panchamukha rasa
+## Part 19 - Treatment of Piles (18): Panchamukha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment of Piles (18): Panchamukha rasa’ included in Bhude
 
 ---
 
-## 367. Part 20 - Treatment of Piles (19): Nityodita rasa
+## Part 20 - Treatment of Piles (19): Nityodita rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment of Piles (19): Nityodita rasa’ included in Bhudeb 
 
 ---
 
-## 368. Part 21 - Treatment of Piles (20): Astanga rasa
+## Part 21 - Treatment of Piles (20): Astanga rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment of Piles (20): Astanga rasa’ included in Bhudeb Mo
 
 ---
 
-## 369. Part 2 - Treatment of Piles (1): Arsha-kuthara rasa
+## Part 2 - Treatment of Piles (1): Arsha-kuthara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment of Piles (1): Arsha-kuthara rasa’ included in Bhud
 
 ---
 
-## 370. Part 23 - Diet in piles
+## Part 23 - Diet in piles
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -179,7 +179,7 @@ This concludes ‘Diet in piles’ included in Bhudeb Mookerjee Rasa Jala Nidhi,
 
 ---
 
-## 371. Chapter VI - Diseases affecting the belly (udara-roga)
+## Chapter VI - Diseases affecting the belly (udara-roga)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -189,15 +189,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VI - Diseases affecting the belly (udara-roga)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Diseases affecting the belly (udara-roga)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 372. Part 22 - Treatment of Piles (21): Application of Parpati
+## Part 22 - Treatment of Piles (21): Application of Parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -215,7 +213,7 @@ This concludes ‘Treatment of Piles (21): Application of Parpati’ included in
 
 ---
 
-## 373. Part 2 - Purgation in udara-roga
+## Part 2 - Purgation in udara-roga
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -233,7 +231,7 @@ This concludes ‘Purgation in udara-roga’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-## 374. Part 3 - Tapping of water in dropsy
+## Part 3 - Tapping of water in dropsy
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -251,7 +249,7 @@ This concludes ‘Tapping of water in dropsy’ included in Bhudeb Mookerjee Ras
 
 ---
 
-## 375. Part 4 - Treatment of Udara-roga (1): Trailokya-sundara rasa
+## Part 4 - Treatment of Udara-roga (1): Trailokya-sundara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -271,7 +269,7 @@ This concludes ‘Treatment of Udara-roga (1): Trailokya-sundara rasa’ include
 
 ---
 
-## 376. Part 6 - Treatment of Udara-roga (3): Shita-sevananta rasa
+## Part 6 - Treatment of Udara-roga (3): Shita-sevananta rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -289,8 +287,6 @@ This concludes ‘Treatment of Udara-roga (3): Shita-sevananta rasa’ included 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -298,10 +294,6 @@ This concludes ‘Treatment of Udara-roga (3): Shita-sevananta rasa’ included 
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Udara-roga (4): Svechchha-bhedi rasa: Rasa Jala Nidhi Volume 4 Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

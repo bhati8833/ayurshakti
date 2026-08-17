@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Ornamental and Barter Metals within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. 6. Ornamental and Barter Metals
+## 6. Ornamental and Barter Metals
 
 Minerals and Metals in Sanskrit literature
 
@@ -29,7 +29,7 @@ III-12 According to the Vedic Index, mana in Vedic literature. was a measure of 
 
 ---
 
-## 18. 7. Iron Implements
+## 7. Iron Implements
 
 Minerals and Metals in Sanskrit literature
 
@@ -41,7 +41,7 @@ India entered the iron age after the Rgvedic era. Many metallic implements, prob
 
 ---
 
-## 19. 5. On Lead
+## 5. On Lead
 
 Minerals and Metals in Sanskrit literature
 
@@ -53,7 +53,7 @@ On account of its low melting point (327°C and low latent heat of fusion (6 cal
 
 ---
 
-## 20. 9. Mani in the Vedic Literature
+## 9. Mani in the Vedic Literature
 
 Minerals and Metals in Sanskrit literature
 
@@ -67,8 +67,6 @@ III-18 the origin of sankha and Krsana, as well as their uses as mani and supern
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -76,10 +74,6 @@ III-18 the origin of sankha and Krsana, as well as their uses as mani and supern
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">8. Potteries and other Inorganic Materials: Minerals And Metals In Sanskrit Literature Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

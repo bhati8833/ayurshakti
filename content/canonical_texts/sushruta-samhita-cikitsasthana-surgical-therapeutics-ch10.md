@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of major cutaneous affections within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter X - The medical treatment of major cutaneous affections
+## Chapter X - The medical treatment of major cutaneous affections
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -109,59 +109,67 @@ An intelligent physician may prepare a thousand varieties of medicated remedies,
 
 Thus ends the tenth Chapter of Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Maha-Kushtha.
 
-[1]:
 
-Kushtha which affects the deeper tissues and fundamental principles of the body is called Maha-Kushtha.
+<div className="footnote-card"><strong>[1]</strong> Kushtha which affects the deeper tissues and fundamental principles of the body is called Maha-Kushtha.</div>
+
+
 
 Gayi interprets the term “Maha-Kushtha” as signifying those seven types of Kushtha which cannot be attributed to any detectable cause,
 
-[2]:
 
-Vadara, Khadira, Arimeda, Snuhi, etc.
+<div className="footnote-card"><strong>[2]</strong> Vadara, Khadira, Arimeda, Snuhi, etc.</div>
 
-[3]:
 
-Gayadasa reads Citra (a kind of soup) before “Utkarika”
 
-[4]:
 
-Dallana does not read “Konali” but says that some read “Konalika’ in place of “Kunari” both of which are synonyms. We have, however, both the terms in our text.
+<div className="footnote-card"><strong>[3]</strong> Gayadasa reads Citra (a kind of soup) before “Utkarika”</div>
 
-[5]:
 
-The jar should be purified or disinfected by fumigation with the medicinal drugs such as Nimba-leaves, Guggulu, etc.
 
-[6]:
 
-Jejjata recommends twenty-eight Pala weight of water, but Gayadasa does not support this.
+<div className="footnote-card"><strong>[4]</strong> Dallana does not read “Konali” but says that some read “Konalika’ in place of “Kunari” both of which are synonyms. We have, however, both the terms in our text.</div>
 
-[7]:
 
-Powders of Putika, Citraka, etc., mentioned in connection with the preparation of Arishtas
 
-[8]:
 
-One part of Shimshapa, one of Khadira and a third of Uttamarani, Brahmi and Koshataki should be taken. Tula weight of the drugs and four Drona measures of water should be boiled and reduced to one Drona.—Dallana.
+<div className="footnote-card"><strong>[5]</strong> The jar should be purified or disinfected by fumigation with the medicinal drugs such as Nimba-leaves, Guggulu, etc.</div>
 
-[9]:
 
-Gayalasa does not read “Shala” in the list.
 
-[10]:
 
-Though the word “Panitala” means a “Karsha” i.e., two Tolas, yet as there is the word “Purna” inserted after it, so a handful should be understood here by this term.—Dallana. It should be observed, however, that the difference in the two interpretations is ultimately immaterial.—Ed.
+<div className="footnote-card"><strong>[6]</strong> Jejjata recommends twenty-eight Pala weight of water, but Gayadasa does not support this.</div>
 
-[11]:
 
-Old and experienced physicians explain “Svarasa” to be the decoction as well. Gayadasa says that a decoction of one Drona weight of the drugs, boiled in four Drona weight of water and reduced to its quarter part should be taken. Dallana says that if the expressed juice of the drugs be not available, then a cold infusion of one Adhaka weight of the powdered drugs should be taken.
 
-[12]:
 
-The decoction of Khadira-wood for drink should be prepared after the manner of Shadanga-paniya preparation.—Ed.
+<div className="footnote-card"><strong>[7]</strong> Powders of Putika, Citraka, etc., mentioned in connection with the preparation of Arishtas</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> One part of Shimshapa, one of Khadira and a third of Uttamarani, Brahmi and Koshataki should be taken. Tula weight of the drugs and four Drona measures of water should be boiled and reduced to one Drona.—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Gayalasa does not read “Shala” in the list.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Though the word “Panitala” means a “Karsha” i.e., two Tolas, yet as there is the word “Purna” inserted after it, so a handful should be understood here by this term.—Dallana. It should be observed, however, that the difference in the two interpretations is ultimately immaterial.—Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Old and experienced physicians explain “Svarasa” to be the decoction as well. Gayadasa says that a decoction of one Drona weight of the drugs, boiled in four Drona weight of water and reduced to its quarter part should be taken. Dallana says that if the expressed juice of the drugs be not available, then a cold infusion of one Adhaka weight of the powdered drugs should be taken.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> The decoction of Khadira-wood for drink should be prepared after the manner of Shadanga-paniya preparation.—Ed.</div>
 
 ---
-
-
 
 ---
 
@@ -170,10 +178,6 @@ The decoction of Khadira-wood for drink should be prepared after the manner of S
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">The diseases of the urinary tracts: Sushruta Samhita Cikitsasthana Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

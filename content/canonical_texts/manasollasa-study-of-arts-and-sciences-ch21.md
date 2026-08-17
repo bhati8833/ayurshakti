@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Ancient Indian sciences and medieval Europe within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 46. 4. Ancient Indian sciences and medieval Europe
+## 4. Ancient Indian sciences and medieval Europe
 
 Manasollasa (study of Arts and Sciences)
 
@@ -31,7 +31,7 @@ It is definitely known that sciences in India had developed and achieved a great
 
 ---
 
-## 48. Chapter 6 - Manasollasa: the first Encyclopaedia
+## Chapter 6 - Manasollasa: the first Encyclopaedia
 
 Manasollasa (study of Arts and Sciences)
 
@@ -41,11 +41,7 @@ The Manasollasa is ...
 
 Chapter 6 - Manasollasa: the first Encyclopaedia
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -54,10 +50,6 @@ Chapter 6 - Manasollasa: the first Encyclopaedia
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">7. Description and treatment of Fever (Jvara): Manasollasa Study Of Arts And Sciences Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

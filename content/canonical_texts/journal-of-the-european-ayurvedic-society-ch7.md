@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on (1992) within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Volume 2 (1992)
+## Volume 2 (1992)
 
 Journal of the European Ayurvedic Society
 
@@ -19,11 +19,9 @@ The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indi
 
 Volume 2 (1992)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 19. The Characteristics of a Dosa
+## The Characteristics of a Dosa
 
 Journal of the European Ayurvedic Society
 
@@ -45,7 +43,7 @@ who ardently support this thesis. Vijayaraksita states explicitly 25 that the co
 
 ---
 
-## 20. Miscellaneous Ayurvedic Works (Part 2)
+## Miscellaneous Ayurvedic Works (Part 2)
 
 Journal of the European Ayurvedic Society
 
@@ -117,8 +115,6 @@ R.P. Das, Miscellanea de Operibus Ayurvedicis (II) 35 Goto Hilgenberg-Kirfel In 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -126,10 +122,6 @@ R.P. Das, Miscellanea de Operibus Ayurvedicis (II) 35 Goto Hilgenberg-Kirfel In 
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Sri Lankan Medical Manuscripts in the Bodleian Library, Oxford: Journal Of The European Ayurvedic Society Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -44,10 +44,18 @@ Thus ends the thirty-third chapter in the Uttara-Tantra of the Sushruta Samhita 
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 Some explain “śeśān” (hair) and “carma” (skin) as those of man and not of a cock.
+</blockquote>
+
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 Bhāvaprakāśa reads “jīrṇañjābhīkṣṇaśo vāsaḥ” very old cloth. This reading does not suggest that the cloth to be used should have been worn by a Buddhist monk.
+</blockquote>
+
 
 ---

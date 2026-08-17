@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 13. Concept of Sukha (happiness) and Dukha (misery) within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 49. 13. Concept of Sukha (happiness) and Dukha (misery)
+## 13. Concept of Sukha (happiness) and Dukha (misery)
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -25,8 +25,6 @@ objects but when the mind is steadily concentrated to the self, both case to exi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ objects but when the mind is steadily concentrated to the self, both case to exi
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch46" className="text-emerald-400 hover:underline flex items-center font-medium">11. Principles of medicinal preparation: Influence Of Nyaya Vaisesika On Ayurveda Chapter 46 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Discipline of the Senses (indriya-upakrama) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter 8 - The Discipline of the Senses (indriya-upakrama)
+## Chapter 8 - The Discipline of the Senses (indriya-upakrama)
 
 Charaka Samhita (English translation)
 
@@ -187,7 +187,7 @@ Atreya’s Opinion on the Subject
 
 ---
 
-## 7. Chapter 9 - The (minor) Four Basic Factors of Therapeusis (Cikitsa)
+## Chapter 9 - The (minor) Four Basic Factors of Therapeusis (Cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -275,7 +275,7 @@ Here are a couple of recapitulatory verses—
 
 ---
 
-## 8. Chapter 10 - The (major) Fourfold Basic Factors in Therapeusis (Cikitsa)
+## Chapter 10 - The (major) Fourfold Basic Factors in Therapeusis (Cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -361,7 +361,7 @@ Here are a couple of recapitulatory verses—
 
 ---
 
-## 9. Chapter 11 - The Three Pursuits (eshana) of Man
+## Chapter 11 - The Three Pursuits (eshana) of Man
 
 Charaka Samhita (English translation)
 
@@ -619,7 +619,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 10. Chapter 13 - Oleation Therapy (Sneha)
+## Chapter 13 - Oleation Therapy (Sneha)
 
 Charaka Samhita (English translation)
 
@@ -895,7 +895,7 @@ Unctuous articles, the full procedure of oleation (sneha), the likely complicati
 
 ---
 
-## 11. Chapter 12 - The Salutary and the Unsalutary influences of Vata
+## Chapter 12 - The Salutary and the Unsalutary influences of Vata
 
 Charaka Samhita (English translation)
 
@@ -1013,8 +1013,6 @@ Summary
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1022,10 +1020,6 @@ Summary
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">The Sudation Therapy (sveda): Charaka Samhita Complete Translation Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

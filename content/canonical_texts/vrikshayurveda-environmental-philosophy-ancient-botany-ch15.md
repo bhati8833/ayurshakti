@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Environmental Values reflected in Dharma Sutras within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 37. 7. Environmental Values reflected in Dharma Sutras
+## 7. Environmental Values reflected in Dharma Sutras
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -33,7 +33,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-## 38. 9. Environmental Values reflected in other Sanskrit Texts
+## 9. Environmental Values reflected in other Sanskrit Texts
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -53,8 +53,6 @@ Plants have medicinal value. In Ayurveda "The science of life" is a product of p
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ Plants have medicinal value. In Ayurveda "The science of life" is a product of p
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Religious Significance of Plantation and Rearing of Trees: Vrikshayurveda and Environmental Philosophy Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

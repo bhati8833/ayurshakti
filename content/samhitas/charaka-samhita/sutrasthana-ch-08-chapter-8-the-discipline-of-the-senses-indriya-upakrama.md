@@ -32,7 +32,11 @@ Chapter 8 - The Discipline of the Senses (indriya-upakrama)
 
 The Description of the Senses
 
+
+<blockquote className="ayur-shloka">
 3. According to this science, there are five sense-faculties (Pancendriya—pañcendriya), five sense-materials (Pancendriya-dravya—pañcendriya-dravya), five sense-organs (Pancendriya-adhishthana—pañcendriya-adhiṣṭhāna), five sense-objects (Pancendriya-artha—pañcendriya-artha) and five sense-perceptions (Pancendriya-buddha—pañcendriya-buddha). Thus it has been laid down on the subject of the senses (indriya).
+</blockquote>
+
 
 The indication of the Mind
 

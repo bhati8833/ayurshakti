@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Universal Education in Ancient India within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. Chapter 1 - Universal Education in Ancient India
+## Chapter 1 - Universal Education in Ancient India
 
 History of Indian Medicine (and Ayurveda)
 
@@ -98,7 +98,7 @@ This glorious state continued at least up to the seventh century A. D. and not o
 
 ---
 
-## 14. Chapter 3 - Selection of the System and Branch of Study by the Medical Student
+## Chapter 3 - Selection of the System and Branch of Study by the Medical Student
 
 History of Indian Medicine (and Ayurveda)
 
@@ -138,7 +138,7 @@ Above all, the student was to be inspired by a realistic and practical spirit. H
 
 ---
 
-## 15. Chapter 2 - The Purpose of the Study of Medicine
+## Chapter 2 - The Purpose of the Study of Medicine
 
 History of Indian Medicine (and Ayurveda)
 
@@ -210,8 +210,6 @@ All these three classes of medical practitioners, though motivated by different 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -219,10 +217,6 @@ All these three classes of medical practitioners, though motivated by different 
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Admission to Studies: History Of Indian Medicine And Ayurveda Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

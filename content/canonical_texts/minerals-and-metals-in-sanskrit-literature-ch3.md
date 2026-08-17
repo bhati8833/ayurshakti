@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Ornaments and Gems in the Rigveda within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. 6. Ornaments and Gems in the Rigveda
+## 6. Ornaments and Gems in the Rigveda
 
 Minerals and Metals in Sanskrit literature
 
@@ -27,7 +27,7 @@ II-11 The latter reference alludes to golden ear-ring and a necklace made of gem
 
 ---
 
-## 13. 2. Minerals and Metals
+## 2. Minerals and Metals
 
 Minerals and Metals in Sanskrit literature
 
@@ -43,7 +43,7 @@ III-5 by roasting or smelting was well recognised, and agni or fire was qualifie
 
 ---
 
-## 15. 3. Different Kinds of Ayas
+## 3. Different Kinds of Ayas
 
 Minerals and Metals in Sanskrit literature
 
@@ -59,7 +59,7 @@ III-7 'One would join gold with the help of borax (lavana), silver with the help
 
 ---
 
-## 16. 4. On Trapu or Tin
+## 4. On Trapu or Tin
 
 Minerals and Metals in Sanskrit literature
 
@@ -73,8 +73,6 @@ III-8 Firstly, the word Kastira was used in the Indian literature during the per
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -82,10 +80,6 @@ III-8 Firstly, the word Kastira was used in the Indian literature during the per
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">6. Ornamental and Barter Metals: Minerals And Metals In Sanskrit Literature Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

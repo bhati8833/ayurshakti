@@ -188,7 +188,11 @@ Remedies for cardiac troubles
 
 98. The bark of gular fig, holy fig, banyan, arjun, palas, white cedar and catechu, decocted and made into linctus mixed with powder of turpeth and the three spices and taken with warm water, is curative of Kapha.
 
+
+<blockquote className="ayur-shloka">
 99. Mineral pitch should be administered by the wise physician, in accordance with the pharmacological procedure described; or the linctus called the Cyavanaprasha [cyavanaprāśa] or the one described by Agastya called the Chebulic myrobalan linctus, or Brahma elixir, or the elixir of emblic myrobalans should be given.
+</blockquote>
+
 
 100. In cardiac disorder due to tridiscordance, lightening therapy should be first prescribed and then the dietetic regimen that is conducive to the condition. It is after investigating the relative strength of the morbid humors, that their treatment successively should be undertaken.
 
@@ -452,7 +456,11 @@ Treatmeat in Alopecia and Grey hair
 
 268-275½. Take 40 tolas of roots of heliotrope and purple nail-dye, the leaves of holy basil, blue flowered flax-hemp, trailing eclipta, black nightshade, liquorice, deodar, 20 tolas each of long pepper, the three myrobalans, dry extract of. Indian berberry, lotus rhizomes, madder, lodh, black eagle wood, blue waterlily, mango stone, slush of black earth, lotus-stalk, red saudal, indigo, marking nut, iron-sulphide, henna, babchi, spinous kino, steel, black emetic nut, blue flowered leadwort, flowers of Pushkara, Arjun, white teak, fruits of mango and jambool. With the paste of these articles and 4 times the quantity of the juice of emblic myrobalans, prepare 256 tolas of beleric myrobalan-oil with either fire-heat or with solar heat till all the watery portion is evaporated from the iron vessel; then filter and purify it; this may be used as potion, and nasal medication or as inunction of the head. This is beneficial to the eyes, life-giving and curative of all head-affections; this oil, known as the Great Black Oil is unsurpassed as a cure for grey hair. Thus has been described ‘The Great Black Oil.’
 
+
+<blockquote className="ayur-shloka">
 276-277½. Prepare 16 tolas of oil with one tola each of the paste of tubers of the white lotus, liquorice, long pepper, sandal and blue waterlily in double its quantity of the juice of emblic myrobalan. This when used [????????] medication, cures [?????? if???? ] (Kṛṣṇa Ātreya is of opinion that it is specially curative of greyness).
+</blockquote>
+
 
 278-278½. The application, made of milk, Buchanan’s mango, liquorice, the Jivaka group of drugs, til and long pepper, applied over the scalp is curative of tawny hair.
 

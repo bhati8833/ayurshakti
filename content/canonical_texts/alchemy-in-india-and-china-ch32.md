@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Transmission of Alchemical and Chemical ideas (Part 2) within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
+## Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
 
 Alchemy in India and China
 
@@ -19,13 +19,9 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
 
-- Sub-Contents: (+ / -)
-
 [Full title: Transmission of Alchemical and Chemical ideas between India and China during medieval period - Part 2]
 
 ---
-
-
 
 ---
 
@@ -34,10 +30,6 @@ Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch33" className="text-emerald-400 hover:underline flex items-center font-medium">10. Case of China Silver: Alchemy In India And China Chapter 33 →</a>
 </div>
-
-
-
-
 
 ---
 

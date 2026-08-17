@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Historical Review (of ‘Nath’—Bundelkhand) within Studies In Ethnobotany Of Nath Of Bundelkhand Region. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter 3 - Historical Review (of ‘Nath’—Bundelkhand)
+## Chapter 3 - Historical Review (of ‘Nath’—Bundelkhand)
 
 Studies in Ethnobotany of ‘Nath’ of Bundelkhand region
 
@@ -47,8 +47,6 @@ From prehistoric ages human culture has, either directly and indirectly, been in
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -56,10 +54,6 @@ From prehistoric ages human culture has, either directly and indirectly, been in
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/studies-in-ethnobotany-of-nath-of-bundelkhand-region-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Discussion (use of plants among tribal society): Studies In Ethnobotany Of Nath Of Bundelkhand Region Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

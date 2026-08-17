@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Verbal Testimony (śabda) [in Charaka philosophy] within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 43. Verbal Testimony (śabda) [in Charaka philosophy]
+## Verbal Testimony (śabda) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -29,74 +29,114 @@ Akṣapāda describes verbal testimony as the assertion of a worthy person (āpt
 
 The Bhāṭṭa Mīmāṃsakas describe verbal testimony in the following way: When the words of a sentence are heard there arises the recollection of the meaning of the words. The recollection gives rise to sense of the sentence, which is not in contact.[12] They give a different division of verbal testimony namely human (pauruṣeya) and superhuman (apauruṣeya). The first is the words of reliable persons and the second is the Vedic scriptures.[13] The Prābhākara Mīmāṃsakas, at the same time, recognize only the Vedic scriptures as verbal cognition.[14] The reason is that though the words of a man lead to the inference of the intention of the speaker they do not convey themselves the meaning of the sentence because their capacity is made blunt by doubt.[15] Kaṇāda asserts that the cognition derived from verbal testimony is a variety of inference and it is attested by his followers. In classical Sāṃkhya, reliable authority (āptāgama) is verbal testimony (śabda).[16] The Vedāntins, similar to that of the Prābhākara Mīmāṃsakas, consider only the Vedic scriptures as authority. At the same time, Caraka, in coherence with the Sāṃkhya, Nyāya, and some other systems, consider the  articulations of trustworthy persons as authority.
 
-[1]:
 
-CSG, Vol. 1, p. 459.
+<div className="footnote-card"><strong>[1]</strong> CSG, Vol. 1, p. 459.</div>
 
-[2]:
 
-tatrāptopadeśo nāmāptavacanaṃ, CS, Vimāna - sthāna, IV. 4.
 
-[3]:
 
-rajastamobhyāṃ nirmuktastapojñānabalena ye yeṣāṃ trikālamamalaṃ jñānamavyāhataṃ sadā. āptāḥ śiṣṭā vibuddhāste teṣāṃ vākyamasaṃ-śāyaṃ satyaṃ, vakṣyati te kasmādasatyaṃ nīrajastamāḥ., CS, Su, XI. 18-19.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> tatrāptopadeśo nāmāptavacanaṃ, CS, Vimāna - sthāna, IV. 4.
+</blockquote>
 
-[4]:
 
-aptā hyavitarkasmṛtivibhāgāvido niṣprītyupatāpadarśinaśca.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> rajastamobhyāṃ nirmuktastapojñānabalena ye yeṣāṃ trikālamamalaṃ jñānamavyāhataṃ sadā. āptāḥ śiṣṭā vibuddhāste teṣāṃ vākyamasaṃ-śāyaṃ satyaṃ, vakṣyati te kasmādasatyaṃ nīrajastamāḥ., CS, Su, XI. 18-19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> aptā hyavitarkasmṛtivibhāgāvido niṣprītyupatāpadarśinaśca.
 teṣāmevaṃguṇayogādyadvacanaṃ tat pramāṇaṃ, CS, Vimāna-sthāna, IV. 4.
+</blockquote>
 
-[5]:
 
-Ibid., VIII. 38.
 
-[6]:
 
-apramāṇaṃ punarmattonmattāmurkharaktaduṣṭādusṭavacanamiti, Ibid., IV. 4.
+<div className="footnote-card"><strong>[5]</strong> Ibid., VIII. 38.</div>
 
-[7]:
 
-tatrāptāgamastāvadvedaḥ, yaścānyo'pi kaścidvedārthādaviparītaḥ parīkṣakaiḥ praṇītaḥ śiṣṭānumato lokānugrahapravṛttaḥ śāstravādaḥ, sa cāptāgamaḥ; CS, Su, XI. 27.
 
-[8]:
 
-PVS, p.164; asti nasti distaṃ matiḥ, Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., IV. iv. 60; pramāṇanupatinī yasya matiḥ sa daiṣṭikaḥ, KV, Part—I, p. 399. Vaiśeṣikadarśana.. Agarwala says that daiṣṭika mentioned by Pāṇini refers to the followers of the determinist philosophy preached by Makkali Gośāla who repudiated the efficacy of karma as means for the lot of human beings. Vaiśeṣikadarśana.. Agarwala, India as Known to Pāṇini, Varanasi, 1963, pp. 384-85.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> apramāṇaṃ punarmattonmattāmurkharaktaduṣṭādusṭavacanamiti, Ibid., IV. 4.
+</blockquote>
 
-[9]:
 
-āptopadeśaḥ śabdaḥ, Nyāyasūtra., I. i. 7; Nyāya-Vārttika of Udyotakāra., p.61; Tarkabhāṣa of Keśavamiśra., p.108, TSA, p. 50.
 
-[10]:
 
-“ṛṣyāryamlecchānāṃ samānaṃ lekṣaṇaṃ”, Nyāya-Bhāṣya of Vātsyāyana., p.28.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> tatrāptāgamastāvadvedaḥ, yaścānyo'pi kaścidvedārthādaviparītaḥ parīkṣakaiḥ praṇītaḥ śiṣṭānumato lokānugrahapravṛttaḥ śāstravādaḥ, sa cāptāgamaḥ; CS, Su, XI. 27.
+</blockquote>
 
-[11]:
 
-sa dvividhaḥ - dṛṣṭādṛṣṭārthatvāt, Nyāyasūtra., 1. i. 8.
 
-[12]:
 
-Mānameyodaya of Nārāyaṇa., p. 93.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> PVS, p.164; asti nasti distaṃ matiḥ, Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., IV. iv. 60; pramāṇanupatinī yasya matiḥ sa daiṣṭikaḥ, KV, Part—I, p. 399. Vaiśeṣikadarśana.. Agarwala says that daiṣṭika mentioned by Pāṇini refers to the followers of the determinist philosophy preached by Makkali Gośāla who repudiated the efficacy of karma as means for the lot of human beings. Vaiśeṣikadarśana.. Agarwala, India as Known to Pāṇini, Varanasi, 1963, pp. 384-85.
+</blockquote>
 
-[13]:
 
-tacca śabdaṃ dvividhaṃ pauruṣeyamapaoruśeyañca. tatrāptavacaḥ pauruṣeyaṃ vedavaco apuruṣeyaṃ, Ibid., p. 105.
 
-[14]:
 
-gurustvāḥ. vaidikameva śabdamasti, Ibid.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> āptopadeśaḥ śabdaḥ, Nyāyasūtra., I. i. 7; Nyāya-Vārttika of Udyotakāra., p.61; Tarkabhāṣa of Keśavamiśra., p.108, TSA, p. 50.
+</blockquote>
 
-[15]:
 
-Ibid.
 
-[16]:
 
-Sāṃkhyakārikā, 6.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “ṛṣyāryamlecchānāṃ samānaṃ lekṣaṇaṃ”, Nyāya-Bhāṣya of Vātsyāyana., p.28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> sa dvividhaḥ - dṛṣṭādṛṣṭārthatvāt, Nyāyasūtra., 1. i. 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Mānameyodaya of Nārāyaṇa., p. 93.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> tacca śabdaṃ dvividhaṃ pauruṣeyamapaoruśeyañca. tatrāptavacaḥ pauruṣeyaṃ vedavaco apuruṣeyaṃ, Ibid., p. 105.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> gurustvāḥ. vaidikameva śabdamasti, Ibid.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Sāṃkhyakārikā, 6.
+</blockquote>
 
 ---
 
-## 44. Perception (pratyakṣa) [in Charaka philosophy]
+## Perception (pratyakṣa) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -158,167 +198,272 @@ Caraka conceives the perceptual process as psychophysical from a realistic point
 
 Apprehension of truth or the fact arises when all the necessary conditions are fulfilled. Otherwise, invalid cognition in the form of an error, doubt or disbelief results.[38] For correct sense perception the sense organs must be free from obstructions. It may be significant to note that the Carakasaṃhitā, quite similar to that of the Sāṃkhyas, refers to certain obstacles to perception. They are over proximity, over distance, barrier, inadequate functioning of sense organs, lack of attention, confusion with other similar objects, overcome by stronger luminaries, and subtleness.[39]
 
-[1]:
 
-MK, p. 36.
+<div className="footnote-card"><strong>[1]</strong> MK, p. 36.</div>
 
-[2]:
 
-Pramāṇasamuccaya, Dinnaga, ed., Rangaswami lyengar, University Publication, Govt. Oriental Library, Mysore, 1930, p. 8.
 
-[3]:
 
-tatra kalpanāpoḍhambhrāntaṃ pratyakṣaṃ. Nyāya Bindu of Dharmakīrti., 1. 4. p. 8.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Pramāṇasamuccaya, Dinnaga, ed., Rangaswami lyengar, University Publication, Govt. Oriental Library, Mysore, 1930, p. 8.
+</blockquote>
 
-[4]:
 
-The term kalpanā is described as the association of name with the apprehension: “abhilāpasaṃsargayogyātāpratītiḥ kalpanā” Ibid., 1. 5. p. 10.
 
-[5]:
 
-abhilāpasaṃsṛṣṭārthaṃ vijñānaṃ savikalpakaṃ, Dharmottara on Ibid., I. 5, Nyāya Bindu of Dharmakīrti., p. 11.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> tatra kalpanāpoḍhambhrāntaṃ pratyakṣaṃ. Nyāya Bindu of Dharmakīrti., 1. 4. p. 8.
+</blockquote>
 
-[6]:
 
-na cendriyavijñānamarthena niyamitapratibhāsatvādabhilāpasaṃsargayogyatāpratibhāsaṃ bhavatīti nirvikalpakṃ, Ibid. “According to the Buddhists, perception is always indeterminate (nirvikalpaka);there is no determinate (savikalpaka) perception; the so-called determinate perception is not perceptual in character. Indeterminate perception apprehends the specific individuality of an object (svalakṣaṇas) devoid of its generic character and other qualifications”. IP, pp. 31-32.
 
-[7]:
 
-indriyārthasannikarṣotpannaṃ jñānamavyapadeśyaṃ avyabhicārī vyavasāyātmakaṃ pratyakṣaṃ. Nyāyasūtra., I. i. 4.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The term kalpanā is described as the association of name with the apprehension: “abhilāpasaṃsargayogyātāpratītiḥ kalpanā” Ibid., 1. 5. p. 10.
+</blockquote>
 
-[8]:
 
-see Nyāya-Bhāṣya of Vātsyāyana., on Ibid pp. 20-22.
 
-[9]:
 
-jñānakaraṇakaṃ jñānaṃ (pratyakṣaṃ) iti tu vayaṃ, Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. I, p. 552.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> abhilāpasaṃsṛṣṭārthaṃ vijñānaṃ savikalpakaṃ, Dharmottara on Ibid., I. 5, Nyāya Bindu of Dharmakīrti., p. 11.
+</blockquote>
 
-[10]:
 
-Vaiśeṣikadarśana., III. i. 18; III. ii. 1.
 
-[11]:
 
-vidyāpi caturvidhā pratyakṣalaingikasmṛtyārṣalakṣaṇā, Praśastapādabhāṣya., p. 441.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> na cendriyavijñānamarthena niyamitapratibhāsatvādabhilāpasaṃsargayogyatāpratibhāsaṃ bhavatīti nirvikalpakṃ, Ibid. “According to the Buddhists, perception is always indeterminate (nirvikalpaka);there is no determinate (savikalpaka) perception; the so-called determinate perception is not perceptual in character. Indeterminate perception apprehends the specific individuality of an object (svalakṣaṇas) devoid of its generic character and other qualifications”. IP, pp. 31-32.
+</blockquote>
 
-[12]:
 
-tatrākṣamkṣaṃ pratītyotpadyata iti pratyakṣaṃ. Ibid., p. 442.
 
-[13]:
 
-CSP, p. 140; “sākṣātkāre sukhādīnāṃ karaṇaṃ mana ucyate”. NSMK, pp. 360.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> indriyārthasannikarṣotpannaṃ jñānamavyapadeśyaṃ avyabhicārī vyavasāyātmakaṃ pratyakṣaṃ. Nyāyasūtra., I. i. 4.
+</blockquote>
 
-[14]:
 
-Mīmāṃsā-sūtra, I. i. 5.
 
-[15]:
 
-indriyārthasannikarṣajaṃ jñānaṃ pratyakṣaṃ, Mānameyodaya of Nārāyaṇa., p. 9.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> see Nyāya-Bhāṣya of Vātsyāyana., on Ibid pp. 20-22.
+</blockquote>
 
-[16]:
 
-sakṣatpratītiḥ pratyakṣaṃ, Ibid., p. 24.
 
-[17]:
 
-MK. p. 37.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> jñānakaraṇakaṃ jñānaṃ (pratyakṣaṃ) iti tu vayaṃ, Tattvacintāmaṇi of Gaṅgeśopādhyāya., Vol. I, p. 552.
+</blockquote>
 
-[18]:
 
-Ibid., 36.
 
-[19]:
 
-tatra pratyakṣapramāyāḥ karaṇaṃ pratyakṣapramāṇaṃ.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Vaiśeṣikadarśana., III. i. 18; III. ii. 1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> vidyāpi caturvidhā pratyakṣalaingikasmṛtyārṣalakṣaṇā, Praśastapādabhāṣya., p. 441.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> tatrākṣamkṣaṃ pratītyotpadyata iti pratyakṣaṃ. Ibid., p. 442.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> CSP, p. 140; “sākṣātkāre sukhādīnāṃ karaṇaṃ mana ucyate”. NSMK, pp. 360.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Mīmāṃsā-sūtra, I. i. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> indriyārthasannikarṣajaṃ jñānaṃ pratyakṣaṃ, Mānameyodaya of Nārāyaṇa., p. 9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> sakṣatpratītiḥ pratyakṣaṃ, Ibid., p. 24.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> MK. p. 37.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., 36.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> tatra pratyakṣapramāyāḥ karaṇaṃ pratyakṣapramāṇaṃ.
 pratyakṣapramā cātra caitanyameva, “yat sakṣādaparokṣād braḥma” iti śruteḥ. Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 8. see also. MK, p. 36.
+</blockquote>
 
-[20]:
 
-“pratviṣyādhyavasāyo dṛṣṭaṃ”, Sāṃkhyakārikā. 5.
 
-[21]:
 
-ātmendriyamanorthānāṃ sannikarṣāt pravartate.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> “pratviṣyādhyavasāyo dṛṣṭaṃ”, Sāṃkhyakārikā. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> ātmendriyamanorthānāṃ sannikarṣāt pravartate.
 vyakta tadātve yā buddhiḥ pratyakṣaṃ sa nirucyate, CS, Su, XI, 20.
+</blockquote>
 
-[22]:
 
-pratyakṣaṃ tu khalu tadyat svayamindriyairmanasā copalabhyate. CS, Vimāna - sthāna, IV. 4.
 
-[23]:
 
-etena sukhādiviṣayamapi pratyakṣaṃ gṛhītaṃ bhavati, Cakrapāṇi on CS,Su, XI, 20, p. 71.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> pratyakṣaṃ tu khalu tadyat svayamindriyairmanasā copalabhyate. CS, Vimāna - sthāna, IV. 4.
+</blockquote>
 
-[24]:
 
-pratyakṣaṃ nāma tadyadātmanā cendriyaiśca svayamupalabhyate; tatrātmapratyakṣaḥ sukhaduḥkhecchādveṣādayaḥ, śabdādayastvindriyapratyakṣāḥ. Ibid., Vimāna - sthāna, VIII. 39.
 
-[25]:
 
-See Cakrapāṇi on CS, Su, XI, 20.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> etena sukhādiviṣayamapi pratyakṣaṃ gṛhītaṃ bhavati, Cakrapāṇi on CS,Su, XI, 20, p. 71.
+</blockquote>
 
-[26]:
 
-Śankara Miśra presents the Sāṃkhya view thus: “sā ca buddhirdarpaṇavannirmalā, tasyāśca bahirindriyapraṇāḍikayā viṣyākāro yaḥ pariṇatibhedo ghaṭa iti paṭa ityādyākārastajñānaṃ vṛttiriti ca ākhyāyate.....”, Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 448- 449.
 
-[27]:
 
-upāttaviṣayāṇāmindriyāṇāṃ vṛttau satyāṃ, buddhestamo'bhibhāve sati yaḥ sattvasamudrekaḥ so'dhyavsāya iti vṛttiriti jñānamiti cākhyāyate, Vācaspatimiśra on Sāṃkhyakārikā, 5, Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 46.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> pratyakṣaṃ nāma tadyadātmanā cendriyaiśca svayamupalabhyate; tatrātmapratyakṣaḥ sukhaduḥkhecchādveṣādayaḥ, śabdādayastvindriyapratyakṣāḥ. Ibid., Vimāna - sthāna, VIII. 39.
+</blockquote>
 
-[28]:
 
-The buddhīndriyas are not the same as their physiological sites or end organs (adhiṣṭānās). For the Sāṃkhyās they mean the psychophysical impulses which go out to the external objects and receive impressions from them. IP, pp, 4-5.
 
-[29]:
 
-Vācaspatimiśra on Sāṃkhyakārikā, 36. Sāṃkhyatattvakaumudī of Vācaspati Miśra., pp. 214-15.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> See Cakrapāṇi on CS, Su, XI, 20.
+</blockquote>
 
-[30]:
 
-“svacchāyāṃ buddhau vartamānena jñānena caitanyasya puruṣasya bhedāgrahādahaṃ jānāmīti yo'bhimānaviśeṣaḥ saivopalbdhiḥ”. Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 449.
 
-[31]:
 
-See Nyāya-Bhāṣya of Vātsyāyana., p. 34
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Śankara Miśra presents the Sāṃkhya view thus: “sā ca buddhirdarpaṇavannirmalā, tasyāśca bahirindriyapraṇāḍikayā viṣyākāro yaḥ pariṇatibhedo ghaṭa iti paṭa ityādyākārastajñānaṃ vṛttiriti ca ākhyāyate.....”, Vaiśeṣikopaskāra of Śaṅkaramiśra., pp. 448- 449.
+</blockquote>
 
-[32]:
 
-Nyāya-Vārttika of Udyotakāra., p. 82.
 
-[33]:
 
-Śaṅkaramiśra on Vaiśeṣikadarśana., VIII, i. 1, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 449.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> upāttaviṣayāṇāmindriyāṇāṃ vṛttau satyāṃ, buddhestamo'bhibhāve sati yaḥ sattvasamudrekaḥ so'dhyavsāya iti vṛttiriti jñānamiti cākhyāyate, Vācaspatimiśra on Sāṃkhyakārikā, 5, Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 46.
+</blockquote>
 
-[34]:
 
-IP, p. 114.
 
-[35]:
 
-yā yadindriyamāśritya jantorbuddhiḥ pravartate yāti sā tena nirdeśaṃ manasā ca manobhavā. bhedāt kāryendriyārthānāṃ bahvayo vai buddhayaḥ smṛtāḥ. ātmendriyamanorthānāmekaikā sannikarṣajā, CS, Śārīra - sthāna, I. 32-33; See also Cakrapāṇi on ibid., pp. 290-91.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> The buddhīndriyas are not the same as their physiological sites or end organs (adhiṣṭānās). For the Sāṃkhyās they mean the psychophysical impulses which go out to the external objects and receive impressions from them. IP, pp, 4-5.
+</blockquote>
 
-[36]:
 
-saṃbaddhaṃ bhavat saṃbadhavastvākāradhāri bhavati yadvijñānaṃ buddhivṛttistat pratyakṣaṃ pramāṇamityarthaḥ, Vijñānabhikṣu on Sāṃkhya-sūtra,, 1. 89, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu).. p. 57.
 
-[37]:
 
-tatrānumānagamayānāṃ pañcamahābhūtavikārasamudāyātmakānāmapi satāmindryāṇāṃ tejaścakṣuṣi, khaṃ srotre, ghraṇe kṣitiḥ, āpo rasane sparśane'nilo viśeṣeṇopapadyate. tatra yadyadātmakamindriyaṃ viśeṣāttatadātmakamevarthaṃ anugṛhṇāti, tatsvabhāvāt vibhutvācca, CS, Su, VIII. 14.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Vācaspatimiśra on Sāṃkhyakārikā, 36. Sāṃkhyatattvakaumudī of Vācaspati Miśra., pp. 214-15.
+</blockquote>
 
-[38]:
 
-MK, p. 115.
 
-[39]:
 
-satāṃ ca rūpāṇāmatisannikarṣādativiprakarṣādāvaraṇāt, karaṇadaurbalyānmanovasthānāt samānābhihārādatisaukṣmyācca pratyakṣānupalabdhiḥ. CS, Su, XI. 8; According to the Sāṃkhyas, perception is not possible if the object is too far away or too close. Inability of sense organs, lack of presence of mind, intervention of other objects between the sense organ and the object to be perceived, concealment and intermixing with similar object also obstructs perception. Sāṃkhyakārikā, 7.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> “svacchāyāṃ buddhau vartamānena jñānena caitanyasya puruṣasya bhedāgrahādahaṃ jānāmīti yo'bhimānaviśeṣaḥ saivopalbdhiḥ”. Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 449.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> See Nyāya-Bhāṣya of Vātsyāyana., p. 34
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Nyāya-Vārttika of Udyotakāra., p. 82.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Śaṅkaramiśra on Vaiśeṣikadarśana., VIII, i. 1, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 449.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> IP, p. 114.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> yā yadindriyamāśritya jantorbuddhiḥ pravartate yāti sā tena nirdeśaṃ manasā ca manobhavā. bhedāt kāryendriyārthānāṃ bahvayo vai buddhayaḥ smṛtāḥ. ātmendriyamanorthānāmekaikā sannikarṣajā, CS, Śārīra - sthāna, I. 32-33; See also Cakrapāṇi on ibid., pp. 290-91.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> saṃbaddhaṃ bhavat saṃbadhavastvākāradhāri bhavati yadvijñānaṃ buddhivṛttistat pratyakṣaṃ pramāṇamityarthaḥ, Vijñānabhikṣu on Sāṃkhya-sūtra,, 1. 89, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu).. p. 57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> tatrānumānagamayānāṃ pañcamahābhūtavikārasamudāyātmakānāmapi satāmindryāṇāṃ tejaścakṣuṣi, khaṃ srotre, ghraṇe kṣitiḥ, āpo rasane sparśane'nilo viśeṣeṇopapadyate. tatra yadyadātmakamindriyaṃ viśeṣāttatadātmakamevarthaṃ anugṛhṇāti, tatsvabhāvāt vibhutvācca, CS, Su, VIII. 14.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> MK, p. 115.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> satāṃ ca rūpāṇāmatisannikarṣādativiprakarṣādāvaraṇāt, karaṇadaurbalyānmanovasthānāt samānābhihārādatisaukṣmyācca pratyakṣānupalabdhiḥ. CS, Su, XI. 8; According to the Sāṃkhyas, perception is not possible if the object is too far away or too close. Inability of sense organs, lack of presence of mind, intervention of other objects between the sense organ and the object to be perceived, concealment and intermixing with similar object also obstructs perception. Sāṃkhyakārikā, 7.
+</blockquote>
 
 ---
 
-## 45. Heuristic reasoning (yukti) [in Charaka philosophy]
+## Heuristic reasoning (yukti) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -334,45 +479,62 @@ Cakrapāṇi, further, cites the Buddhist logicians Śāntarakṣita (annotated 
 
 Cakrapāṇi, though opines that yukti is anumāna, does not agree with śāntarakṣita and Kamalaśila. He points out that their criticisms are all beside the point, for yukti according to Caraka, is not the deriving of cause and effect from “this is there that happens”. It is drawing up of a conclusion as a result of series of reasoning.[8] However, we can concede that Caraka's idea of yukti is the logic of probability. That is, when from a number of events, circumstances or observations one comes to regard a particular judgment as probable, it is called yukti and it is different from inference or any other accepted pramāṇa.[9]
 
-[1]:
 
-yukteḥ pramāṇasyānyaśāstrāprasiddhatvenodāharaṇānyeva tāvaddarśayati. Cakrapāṇi on CS, Su, XI. 24.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> yukteḥ pramāṇasyānyaśāstrāprasiddhatvenodāharaṇānyeva tāvaddarśayati. Cakrapāṇi on CS, Su, XI. 24.
+</blockquote>
 
-[2]:
 
-buddhiḥ paśyati yā bhavān bahukāraṇayogajān yuktistrikālā sā jñeyā trivargā sadhyate yayā, CS, Su, XI. 25.
 
-[3]:
 
-lbid., 23.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> buddhiḥ paśyati yā bhavān bahukāraṇayogajān yuktistrikālā sā jñeyā trivargā sadhyate yayā, CS, Su, XI. 25.
+</blockquote>
 
-[4]:
 
-"sā ca paramārthato'pramāṇabhūto'pi vastuparicchede pramāṇasahāyatvena vyāpriyamāṇatvāt......... tataśca trikāleti parāhataṃ syāt., Cakrapāṇi on ibid.
 
-[5]:
 
-PVS, p.164.
+<div className="footnote-card"><strong>[3]</strong> lbid., 23.</div>
 
-[6]:
 
-See Cakrapāṇi on CS, Su, XI. 25.The exact words of Śāntarakṣita are as follows: tasmin sati bhavati eva na bhavati asatīti ca tasmād ato bhavati eva yuktireṣābhidīyate pramāṇantaraṃ eveyaṃ ityāha carako muniḥ nānumānaṃ iyaṃ yasmād dṛṣṭānto'tra na labhyate' Quoted in HIPS, Vol. II, p.376, F. Notes.
 
-[7]:
 
-Cakrapāṇi on CS, Su, XI. 25.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> "sā ca paramārthato'pramāṇabhūto'pi vastuparicchede pramāṇasahāyatvena vyāpriyamāṇatvāt......... tataśca trikāleti parāhataṃ syāt., Cakrapāṇi on ibid.
+</blockquote>
 
-[8]:
 
-Ibid.
 
-[9]:
 
-HIPS, Vol. II, p.376, F. Notes.
+<div className="footnote-card"><strong>[5]</strong> PVS, p.164.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> See Cakrapāṇi on CS, Su, XI. 25.The exact words of Śāntarakṣita are as follows: tasmin sati bhavati eva na bhavati asatīti ca tasmād ato bhavati eva yuktireṣābhidīyate pramāṇantaraṃ eveyaṃ ityāha carako muniḥ nānumānaṃ iyaṃ yasmād dṛṣṭānto'tra na labhyate' Quoted in HIPS, Vol. II, p.376, F. Notes.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Cakrapāṇi on CS, Su, XI. 25.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> HIPS, Vol. II, p.376, F. Notes.</div>
 
 ---
 
-## 46. Other sources of knowledge referred to in Carakasaṃhitā
+## Other sources of knowledge referred to in Carakasaṃhitā
 
 Philosophy of Charaka-samhita
 
@@ -402,73 +564,115 @@ In the philosophical systems saṃbhava is seen to have been given a more refine
 
 It is an accepted fact that epistemology is the main concern of philosophy and not science. Most particularly, it is not customary to a practical science like the science of medicine to deal with the methods of knowing, thinking, and expressing. But, it is quite contrary to this conception that we see in Carakasaṃhitā a detailed account of almost all the sources of knowledge that are being discussed in the classical darśanic realm. This is not the only thing. The uniqueness of Carakasaṃhitā, in this matter, lies in the fact that it is the earliest book which codifies almost all different sources of knowledge dealt with in various philosophical systems. ceṣṭa and anupalabdhi are the only two pramāṇas which are not found discussed in the Carakasaṃhitā. Another important thing is the recognition of yukti as a separate source of knowledge. Probably, it is the only book that deals with such a source of knowledge revealing the idea of logic of probability. From this, we can conclude that the Carakasaṃhitā is not only a compendium limited to the discussion of maintenance of positive health and cure but extends its attention to theoretical thinking. Caraka had great concern for deriving a proper methodology for theoretical formulations. Carakasaṃhitā has played a significant role in the formative stage of the history of epistemological and logical reflection in India.
 
-[1]:
 
-atha aupamyaṃ nāma yadanyonyasya sādṛśyamadhikṛtya prakāśanaṃ; yathā daṇdena daṇdakasya, CS, Vimāna - sthāna, VIII. 42.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> atha aupamyaṃ nāma yadanyonyasya sādṛśyamadhikṛtya prakāśanaṃ; yathā daṇdena daṇdakasya, CS, Vimāna - sthāna, VIII. 42.
+</blockquote>
 
-[2]:
 
-prasiddhasādharmyāt sādhyasādhanamupamānaṃ. Nyāyasūtra., I. i. 6; also see Nyāya-Bhāṣya of Vātsyāyana. on Ibid., p. 27;
 
-[3]:
 
-dṛśyamānārthasadṛśyāt smaryamāṇārthagocaraṃ asanṇikṛṣṭasādṛśyajñānaṃ hyupamitirmatā. Mānameyodaya of Nārāyaṇa., p. 110.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> prasiddhasādharmyāt sādhyasādhanamupamānaṃ. Nyāyasūtra., I. i. 6; also see Nyāya-Bhāṣya of Vātsyāyana. on Ibid., p. 27;
+</blockquote>
 
-[4]:
 
-sādṛśyapramākaraṇaṃupamānaṃ, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 83.
 
-[5]:
 
-For details see Vācaspatimiśra, on Sāṃkhyakārikā. 5, Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 66
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> dṛśyamānārthasadṛśyāt smaryamāṇārthagocaraṃ asanṇikṛṣṭasādṛśyajñānaṃ hyupamitirmatā. Mānameyodaya of Nārāyaṇa., p. 110.
+</blockquote>
 
-[6]:
 
-āptenāprasiddhasya gavayasya gavā gavayapratipādanādupamānamāptavacanameva, Praśastapādabhāṣya., p. 530.
 
-[7]:
 
-Instead of arthaprāpti the term arthāpatti is used in all philosophical systems.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> sādṛśyapramākaraṇaṃupamānaṃ, Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 83.
+</blockquote>
 
-[8]:
 
-arthaprāptirnāma yatraikenārthenoktenāparasyārthasyānuktasyāpi siddhiḥ; CS,Vimāna - sthāna, VIII. 48.
 
-[9]:
 
-Nyāyasūtra., II. ii. 2; vakyārthasaṃpratyayenānabhihitārthasya pratyanīkabhavād grahaṇaṃ arthāpattiranumānameva, Nyāya-Bhāṣya of Vātsyāyana., p. 166.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> For details see Vācaspatimiśra, on Sāṃkhyakārikā. 5, Sāṃkhyatattvakaumudī of Vācaspati Miśra., p. 66
+</blockquote>
 
-[10]:
 
-darśanārthādarthāpattirvirodhyeva, śravaṇādanumitānumānaṃ. Praśastapādabhāṣya., p. 534.
 
-[11]:
 
-anyathānupapatyā yadupapādakakalpanaṃ tadarthāpattirityevaṃ lakṣaṇaṃ bhāṣyabhāṣitaṃ. Mānameyodaya of Nārāyaṇa., p. 120.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> āptenāprasiddhasya gavayasya gavā gavayapratipādanādupamānamāptavacanameva, Praśastapādabhāṣya., p. 530.
+</blockquote>
 
-[12]:
 
-HIPS, Vol. II, p.377.
 
-[13]:
 
-“aitihyaṃ nāmāptopadeśo vedādiḥ”. CS,Vimāna - sthāna, VIII.41.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Instead of arthaprāpti the term arthāpatti is used in all philosophical systems.
+</blockquote>
 
-[14]:
 
-yo yataḥ saṃbhavati sa tasya saṃbhavaḥ, Ibid., 48.
 
-[15]:
 
-See Cakrapāṇi on ibid.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> arthaprāptirnāma yatraikenārthenoktenāparasyārthasyānuktasyāpi siddhiḥ; CS,Vimāna - sthāna, VIII. 48.
+</blockquote>
 
-[16]:
 
-Nyāya-Bhāṣya of Vātsyāyana., p.166.
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Nyāyasūtra., II. ii. 2; vakyārthasaṃpratyayenānabhihitārthasya pratyanīkabhavād grahaṇaṃ arthāpattiranumānameva, Nyāya-Bhāṣya of Vātsyāyana., p. 166.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> darśanārthādarthāpattirvirodhyeva, śravaṇādanumitānumānaṃ. Praśastapādabhāṣya., p. 534.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> anyathānupapatyā yadupapādakakalpanaṃ tadarthāpattirityevaṃ lakṣaṇaṃ bhāṣyabhāṣitaṃ. Mānameyodaya of Nārāyaṇa., p. 120.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> HIPS, Vol. II, p.377.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> “aitihyaṃ nāmāptopadeśo vedādiḥ”. CS,Vimāna - sthāna, VIII.41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> yo yataḥ saṃbhavati sa tasya saṃbhavaḥ, Ibid., 48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> See Cakrapāṇi on ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Nyāya-Bhāṣya of Vātsyāyana., p.166.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -477,10 +681,6 @@ Nyāya-Bhāṣya of Vātsyāyana., p.166.
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Inference (anumāna) [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

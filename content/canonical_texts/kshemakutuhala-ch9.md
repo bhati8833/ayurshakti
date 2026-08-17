@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on References and Notes for chapter 2 within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 29. References and Notes for chapter 2
+## References and Notes for chapter 2
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -31,7 +31,7 @@ yn 57. Om Prakash, Op. Cit., p.189. 58. Av. 6-5-1. 59. 86 Niekerson and Ronsival
 
 ---
 
-## 30. Ritusandhi (transitional phase of the season)
+## Ritusandhi (transitional phase of the season)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -43,7 +43,7 @@ The last week of the current season and the first week of the consecutive season
 
 ---
 
-## 31. Ritu and three Doshas
+## Ritu and three Doshas
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -57,8 +57,6 @@ Valpope Morning Noon Afternoon Evening Mid night. Early morning Vasanta Grisma P
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ Valpope Morning Noon Afternoon Evening Mid night. Early morning Vasanta Grisma P
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Ayurvedic regimens in Sisira (Late Winter): Kshemakutuhala Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

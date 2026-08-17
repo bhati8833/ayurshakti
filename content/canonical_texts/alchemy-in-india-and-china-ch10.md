@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Chinese alchemy within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Chapter 3 - Chinese alchemy
+## Chapter 3 - Chinese alchemy
 
 Alchemy in India and China
 
@@ -19,11 +19,7 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 Chapter 3 - Chinese alchemy
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -32,10 +28,6 @@ Chapter 3 - Chinese alchemy
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">3. Yin, Yang, Qi and Five-element Theories: Alchemy In India And China Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

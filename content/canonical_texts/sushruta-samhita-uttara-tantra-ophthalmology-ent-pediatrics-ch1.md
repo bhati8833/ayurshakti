@@ -23,7 +23,7 @@ description: "samhita and deals various subjects such as diseases of the eye, tr
 
 ---
 
-## 3. Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)
+## Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -31,11 +31,9 @@ The Sushruta Samhita is the most representative work of the Hindu system of m...
 
 Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 4. Chapter III - Pathology of the diseases of the eye-lids
+## Chapter III - Pathology of the diseases of the eye-lids
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -79,25 +77,29 @@ An accumulation of the deranged Doshas about the eye-lashes makes them rough and
 
 Thus ends the third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the pathology of the diseases of the eye-lids.
 
-[1]:
 
-This disease (Kumbhikā) is due to the concerted action of the three Doshas.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> This disease (Kumbhikā) is due to the concerted action of the three Doshas.
+</blockquote>
 
-[2]:
 
-According to Mādhava, the papilæ in such cases occur in the inner side of the eye-lid.
 
-[3]:
 
-A different reading reads ‘whether washed or not.’ This, however, not a good reading.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> According to Mādhava, the papilæ in such cases occur in the inner side of the eye-lid.
+</blockquote>
 
-[4]:
 
-Certain editions read Nagana.
+
+
+<div className="footnote-card"><strong>[3]</strong> A different reading reads ‘whether washed or not.’ This, however, not a good reading.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Certain editions read Nagana.</div>
 
 ---
-
-
 
 ---
 
@@ -106,10 +108,6 @@ Certain editions read Nagana.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Pathology of the diseases of the sclerotic coat: Sushruta Samhita Uttara Tantra Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

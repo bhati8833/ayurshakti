@@ -13,97 +13,95 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Atharvaveda And Charaka Samhita Chapter 1](/articles/atharvaveda-and-charaka-samhita-ch1)
+### [General Discourse: Atharvaveda And Charaka Samhita Chapter 1](/articles/atharvaveda-and-charaka-samhita-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Atharvaveda And Charaka Samhita.
 
-### 2. [Kāśyapa and Jīvaka (Āyurveda scholars): Atharvaveda And Charaka Samhita Chapter 2](/articles/atharvaveda-and-charaka-samhita-ch2)
+### [Kāśyapa and Jīvaka (Āyurveda scholars): Atharvaveda And Charaka Samhita Chapter 2](/articles/atharvaveda-and-charaka-samhita-ch2)
 **Overview**: Detailed classical discussion on Kāśyapa and Jīvaka (Āyurveda scholars) within Atharvaveda And Charaka Samhita.
 
-### 3. [Parāśara (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 3](/articles/atharvaveda-and-charaka-samhita-ch3)
+### [Parāśara (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 3](/articles/atharvaveda-and-charaka-samhita-ch3)
 **Overview**: Detailed classical discussion on Parāśara (Āyurveda scholar) within Atharvaveda And Charaka Samhita.
 
-### 4. [Vāgbhaṭṭa (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 4](/articles/atharvaveda-and-charaka-samhita-ch4)
+### [Vāgbhaṭṭa (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 4](/articles/atharvaveda-and-charaka-samhita-ch4)
 **Overview**: Detailed classical discussion on Vāgbhaṭṭa (Āyurveda scholar) within Atharvaveda And Charaka Samhita.
 
-### 5. [Suśruta-Saṃhitā (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 5](/articles/atharvaveda-and-charaka-samhita-ch5)
+### [Suśruta-Saṃhitā (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 5](/articles/atharvaveda-and-charaka-samhita-ch5)
 **Overview**: Detailed classical discussion on Suśruta-Saṃhitā (Āyurveda book) within Atharvaveda And Charaka Samhita.
 
-### 6. [Aṣṭāṅga-Saṃgraha (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 6](/articles/atharvaveda-and-charaka-samhita-ch6)
+### [Aṣṭāṅga-Saṃgraha (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 6](/articles/atharvaveda-and-charaka-samhita-ch6)
 **Overview**: Detailed classical discussion on Aṣṭāṅga-Saṃgraha (Āyurveda book) within Atharvaveda And Charaka Samhita.
 
-### 7. [Rasendrasāra Saṅgraha (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 7](/articles/atharvaveda-and-charaka-samhita-ch7)
+### [Rasendrasāra Saṅgraha (Āyurveda book): Atharvaveda And Charaka Samhita Chapter 7](/articles/atharvaveda-and-charaka-samhita-ch7)
 **Overview**: Detailed classical discussion on Rasendrasāra Saṅgraha (Āyurveda book) within Atharvaveda And Charaka Samhita.
 
-### 8. [Natural Treatment in the Vedas: Atharvaveda And Charaka Samhita Chapter 8](/articles/atharvaveda-and-charaka-samhita-ch8)
+### [Natural Treatment in the Vedas: Atharvaveda And Charaka Samhita Chapter 8](/articles/atharvaveda-and-charaka-samhita-ch8)
 **Overview**: Detailed classical discussion on Natural Treatment in the Vedas within Atharvaveda And Charaka Samhita.
 
-### 9. [Characteristics of Atharvan medical literature: Atharvaveda And Charaka Samhita Chapter 9](/articles/atharvaveda-and-charaka-samhita-ch9)
+### [Characteristics of Atharvan medical literature: Atharvaveda And Charaka Samhita Chapter 9](/articles/atharvaveda-and-charaka-samhita-ch9)
 **Overview**: Detailed classical discussion on Characteristics of Atharvan medical literature within Atharvaveda And Charaka Samhita.
 
-### 10. [Treatment of Apvā disease (Jalodara or Dropsy): Atharvaveda And Charaka Samhita Chapter 10](/articles/atharvaveda-and-charaka-samhita-ch10)
+### [Treatment of Apvā disease (Jalodara or Dropsy): Atharvaveda And Charaka Samhita Chapter 10](/articles/atharvaveda-and-charaka-samhita-ch10)
 **Overview**: Detailed classical discussion on Treatment of Apvā disease (Jalodara or Dropsy) within Atharvaveda And Charaka Samhita.
 
-### 11. [Treatment of Upadaṃśa (syphilis): Atharvaveda And Charaka Samhita Chapter 11](/articles/atharvaveda-and-charaka-samhita-ch11)
+### [Treatment of Upadaṃśa (syphilis): Atharvaveda And Charaka Samhita Chapter 11](/articles/atharvaveda-and-charaka-samhita-ch11)
 **Overview**: Detailed classical discussion on Treatment of Upadaṃśa (syphilis) within Atharvaveda And Charaka Samhita.
 
-### 12. [Treatment of Kaphaja (heart disease): Atharvaveda And Charaka Samhita Chapter 12](/articles/atharvaveda-and-charaka-samhita-ch12)
+### [Treatment of Kaphaja (heart disease): Atharvaveda And Charaka Samhita Chapter 12](/articles/atharvaveda-and-charaka-samhita-ch12)
 **Overview**: Detailed classical discussion on Treatment of Kaphaja (heart disease) within Atharvaveda And Charaka Samhita.
 
-### 13. [Treatment of Eye diseases: Atharvaveda And Charaka Samhita Chapter 13](/articles/atharvaveda-and-charaka-samhita-ch13)
+### [Treatment of Eye diseases: Atharvaveda And Charaka Samhita Chapter 13](/articles/atharvaveda-and-charaka-samhita-ch13)
 **Overview**: Detailed classical discussion on Treatment of Eye diseases within Atharvaveda And Charaka Samhita.
 
-### 14. [Treatment of Vilohita (Polypus): Atharvaveda And Charaka Samhita Chapter 14](/articles/atharvaveda-and-charaka-samhita-ch14)
+### [Treatment of Vilohita (Polypus): Atharvaveda And Charaka Samhita Chapter 14](/articles/atharvaveda-and-charaka-samhita-ch14)
 **Overview**: Detailed classical discussion on Treatment of Vilohita (Polypus) within Atharvaveda And Charaka Samhita.
 
-### 15. [Treatment of Keśavṛddhi (hair loss and growth): Atharvaveda And Charaka Samhita Chapter 15](/articles/atharvaveda-and-charaka-samhita-ch15)
+### [Treatment of Keśavṛddhi (hair loss and growth): Atharvaveda And Charaka Samhita Chapter 15](/articles/atharvaveda-and-charaka-samhita-ch15)
 **Overview**: Detailed classical discussion on Treatment of Keśavṛddhi (hair loss and growth) within Atharvaveda And Charaka Samhita.
 
-### 16. [Treatment of Ulcers: Atharvaveda And Charaka Samhita Chapter 16](/articles/atharvaveda-and-charaka-samhita-ch16)
+### [Treatment of Ulcers: Atharvaveda And Charaka Samhita Chapter 16](/articles/atharvaveda-and-charaka-samhita-ch16)
 **Overview**: Detailed classical discussion on Treatment of Ulcers within Atharvaveda And Charaka Samhita.
 
-### 17. [The Sarvaroga-bhaiṣajya hymns: Atharvaveda And Charaka Samhita Chapter 17](/articles/atharvaveda-and-charaka-samhita-ch17)
+### [The Sarvaroga-bhaiṣajya hymns: Atharvaveda And Charaka Samhita Chapter 17](/articles/atharvaveda-and-charaka-samhita-ch17)
 **Overview**: Detailed classical discussion on The Sarvaroga-bhaiṣajya hymns within Atharvaveda And Charaka Samhita.
 
-### 18. [Treatment of Epilepsy (Mṛgī): Atharvaveda And Charaka Samhita Chapter 18](/articles/atharvaveda-and-charaka-samhita-ch18)
+### [Treatment of Epilepsy (Mṛgī): Atharvaveda And Charaka Samhita Chapter 18](/articles/atharvaveda-and-charaka-samhita-ch18)
 **Overview**: Detailed classical discussion on Treatment of Epilepsy (Mṛgī) within Atharvaveda And Charaka Samhita.
 
-### 19. [Treatments of Pittaja diseases: Atharvaveda And Charaka Samhita Chapter 19](/articles/atharvaveda-and-charaka-samhita-ch19)
+### [Treatments of Pittaja diseases: Atharvaveda And Charaka Samhita Chapter 19](/articles/atharvaveda-and-charaka-samhita-ch19)
 **Overview**: Detailed classical discussion on Treatments of Pittaja diseases within Atharvaveda And Charaka Samhita.
 
-### 20. [Treatments of Viṣūcikā disease (cholera): Atharvaveda And Charaka Samhita Chapter 20](/articles/atharvaveda-and-charaka-samhita-ch20)
+### [Treatments of Viṣūcikā disease (cholera): Atharvaveda And Charaka Samhita Chapter 20](/articles/atharvaveda-and-charaka-samhita-ch20)
 **Overview**: Detailed classical discussion on Treatments of Viṣūcikā disease (cholera) within Atharvaveda And Charaka Samhita.
 
-### 21. [Arśa (piles) according to Caraka: Atharvaveda And Charaka Samhita Chapter 21](/articles/atharvaveda-and-charaka-samhita-ch21)
+### [Arśa (piles) according to Caraka: Atharvaveda And Charaka Samhita Chapter 21](/articles/atharvaveda-and-charaka-samhita-ch21)
 **Overview**: Detailed classical discussion on Arśa (piles) according to Caraka within Atharvaveda And Charaka Samhita.
 
-### 22. [Atisāra (diarrhea) according to Caraka: Atharvaveda And Charaka Samhita Chapter 22](/articles/atharvaveda-and-charaka-samhita-ch22)
+### [Atisāra (diarrhea) according to Caraka: Atharvaveda And Charaka Samhita Chapter 22](/articles/atharvaveda-and-charaka-samhita-ch22)
 **Overview**: Detailed classical discussion on Atisāra (diarrhea) according to Caraka within Atharvaveda And Charaka Samhita.
 
-### 23. [Grahaṇī (sprue-syndrome) according to Caraka: Atharvaveda And Charaka Samhita Chapter 23](/articles/atharvaveda-and-charaka-samhita-ch23)
+### [Grahaṇī (sprue-syndrome) according to Caraka: Atharvaveda And Charaka Samhita Chapter 23](/articles/atharvaveda-and-charaka-samhita-ch23)
 **Overview**: Detailed classical discussion on Grahaṇī (sprue-syndrome) according to Caraka within Atharvaveda And Charaka Samhita.
 
-### 24. [Chardi (vomiting) according to Caraka: Atharvaveda And Charaka Samhita Chapter 24](/articles/atharvaveda-and-charaka-samhita-ch24)
+### [Chardi (vomiting) according to Caraka: Atharvaveda And Charaka Samhita Chapter 24](/articles/atharvaveda-and-charaka-samhita-ch24)
 **Overview**: Detailed classical discussion on Chardi (vomiting) according to Caraka within Atharvaveda And Charaka Samhita.
 
-### 25. [Gynecic disorders and Impotency: Atharvaveda And Charaka Samhita Chapter 25](/articles/atharvaveda-and-charaka-samhita-ch25)
+### [Gynecic disorders and Impotency: Atharvaveda And Charaka Samhita Chapter 25](/articles/atharvaveda-and-charaka-samhita-ch25)
 **Overview**: Detailed classical discussion on Gynecic disorders and Impotency within Atharvaveda And Charaka Samhita.
 
-### 26. [Signs and Omens in the Caraka-Saṃhitā: Atharvaveda And Charaka Samhita Chapter 26](/articles/atharvaveda-and-charaka-samhita-ch26)
+### [Signs and Omens in the Caraka-Saṃhitā: Atharvaveda And Charaka Samhita Chapter 26](/articles/atharvaveda-and-charaka-samhita-ch26)
 **Overview**: Detailed classical discussion on Signs and Omens in the Caraka-Saṃhitā within Atharvaveda And Charaka Samhita.
 
-### 27. [2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita: Atharvaveda And Charaka Samhita Chapter 27](/articles/atharvaveda-and-charaka-samhita-ch27)
+### [2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita: Atharvaveda And Charaka Samhita Chapter 27](/articles/atharvaveda-and-charaka-samhita-ch27)
 **Overview**: Detailed classical discussion on 2b. Tuberculosis (Yakṣmā or Rājayakṣmā) in the Caraka-Saṃhita within Atharvaveda And Charaka Samhita.
 
-### 28. [5b. Kṛmi (Worms) in the Atharvaveda: Atharvaveda And Charaka Samhita Chapter 28](/articles/atharvaveda-and-charaka-samhita-ch28)
+### [5b. Kṛmi (Worms) in the Atharvaveda: Atharvaveda And Charaka Samhita Chapter 28](/articles/atharvaveda-and-charaka-samhita-ch28)
 **Overview**: Detailed classical discussion on 5b. Kṛmi (Worms) in the Atharvaveda within Atharvaveda And Charaka Samhita.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Introduction to the Vedas
+## Introduction to the Vedas
 
 Introduction to the Vedas
 
@@ -151,78 +149,109 @@ In Atharvaveda Āyurveda is called Bhaiṣaja or Bhiṣak Veda[12]. In Gopatha B
 
 According to Gopatha Brāhmaṇa -Brahma is therapeutic and signifying of Bhiṣakveda. That means that Atharva is that therapeutic which is nectar. Nectar is Brahma that means therapeutic and Brahma is the same[16]. According to Gopatha Brāhmaṇa Aṅgirasa has a relation between Āyurveda and Physiology where we find the theory is called organ juice. The juice that comes out of the limb is called Aṅgirasa. There is a detailed description of the Aṅgirasa in Gopatha Brāhmaṇa[17]. The union of body, lifelong treatment should be done to increase longevity. Lifespan should be treated. This treatment saves lives and gives a proper life, happy life is healing and healing is the Puruṣārtha-catuṣṭaya. i.e. Dharma, Artha, Kāma, Mokṣa are the main causes. This longevity is described in detail in Āyurveda. As long as there is consciousness, the body remains attached to the organs, body, soul, sense entity.
 
-[1]:
 
-Upinder Singh, A History of Ancient and Early Medieval India: from the Stone Age to the 12th century, U.P, Pearson India Education Services Pvt. Ltd, 2018, pp. 184 -185.
+<div className="footnote-card"><strong>[1]</strong> Upinder Singh, A History of Ancient and Early Medieval India: from the Stone Age to the 12th century, U.P, Pearson India Education Services Pvt. Ltd, 2018, pp. 184 -185.</div>
 
-[2]:
 
-A. B. Keith, History of Sanskrit Literature, Delhi, Motilal Banarsidass Publishers Private Limited, 1993, p. 408.
 
-[3]:
 
-imāṃ dhiyaṃ saptaśīṣṇīṃ pitā na ṛtaprajātāṃ bṛhatīmavindat..... (ṚV.  -X/67/1-12) Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 4, Delhi, Manoj Publication, 2012, pp. 354-356.
+<div className="footnote-card"><strong>[2]</strong> A. B. Keith, History of Sanskrit Literature, Delhi, Motilal Banarsidass Publishers Private Limited, 1993, p. 408.</div>
 
-[4]:
 
-saḥ sarvo'bhihito vede sarvajñānamayo hi saḥ | (MS.  -2/7), Manusaṃhitā -II, trans. Gurucharana Das, Kolkata, Sanskrit Pustaka Bhandara, 2006, p.10.
 
-[5]:
 
-Srimati Shanti Bandyopadhyay, Vaidika Sahityera Ruparekha: outline of the Vedic Literature and Society, Kolkata, Sanskrit Pustaka Bhandara, 1993, pp. 10-124.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> imāṃ dhiyaṃ saptaśīṣṇīṃ pitā na ṛtaprajātāṃ bṛhatīmavindat..... (ṚV.  -X/67/1-12) Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 4, Delhi, Manoj Publication, 2012, pp. 354-356.
+</blockquote>
 
-[6]:
 
-The thirteen principal Upanishads, trans. F. Max-Muller, London, Wordsworth Editions Limited, 2000, pp. III-X.
 
-[7]:
 
-Dhirendra Nath Bandyopadhyay, History of Sanskrit Literature, Kolkata, Kolkata, West Bengal state Book Board, 1988, pp. 42-49.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> saḥ sarvo'bhihito vede sarvajñānamayo hi saḥ | (MS.  -2/7), Manusaṃhitā -II, trans. Gurucharana Das, Kolkata, Sanskrit Pustaka Bhandara, 2006, p.10.
+</blockquote>
 
-[8]:
 
-K. D. Dvivedi, Vedamritam Vol-XII–Rigveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 2018, pp. 330-358.
 
-[9]:
 
-K. D. Dvivedi, Vedamritam Vol-9–Yajurveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 2018, pp. 179-193.
+<div className="footnote-card"><strong>[5]</strong> Srimati Shanti Bandyopadhyay, Vaidika Sahityera Ruparekha: outline of the Vedic Literature and Society, Kolkata, Sanskrit Pustaka Bhandara, 1993, pp. 10-124.</div>
 
-[10]:
 
-K. D. Dvivedi, Vedamritam Vol-10–Samaveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 2018, pp. 137-141.
 
-[11]:
 
-K. D. Dvivedi, Vedamritam Vol-XI–Atharvaveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 1996, pp. 229-303.
+<div className="footnote-card"><strong>[6]</strong> The thirteen principal Upanishads, trans. F. Max-Muller, London, Wordsworth Editions Limited, 2000, pp. III-X.</div>
 
-[12]:
 
-yajñaṃ brūmo yajamānamṛcaḥ sāmāni bheṣajā |
+
+
+<div className="footnote-card"><strong>[7]</strong> Dhirendra Nath Bandyopadhyay, History of Sanskrit Literature, Kolkata, Kolkata, West Bengal state Book Board, 1988, pp. 42-49.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> K. D. Dvivedi, Vedamritam Vol-XII–Rigveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 2018, pp. 330-358.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> K. D. Dvivedi, Vedamritam Vol-9–Yajurveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 2018, pp. 179-193.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> K. D. Dvivedi, Vedamritam Vol-10–Samaveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 2018, pp. 137-141.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> K. D. Dvivedi, Vedamritam Vol-XI–Atharvaveda-Subhasitavali, Uttar Pradesh, Vishva Bharati Research Institute, 1996, pp. 229-303.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> yajñaṃ brūmo yajamānamṛcaḥ sāmāni bheṣajā |
 yajūṃṣi hotra brūmaste no muñcantvaṃhasaḥ || (AV.  -XI/6/14) Acharya Vedanta Tirtha (ed.), Atharvaveda-Vol. 2, Delhi, Manoj Publication, 2012, p. 67.
+</blockquote>
 
-[13]:
 
-ye'tharvāṇaḥ, tad bheṣajam | Atharvaveda Gopatha Brahmana -1/3/4.
 
-[14]:
 
-tamu tvā dadhyaṃṅ ṅṛ putra'īdhe'atharvaṇaḥ | vṛtrahaṇaṃ purandaram || (YV.  -XI/33); Acharya Vedanta Tirtha (ed.), Yajurveda, Delhi, Manoj Publication, 2012, p. 146. prāṇo vā atharvā | Śatapatha Brāhmaṇa -6/4/2/2.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> ye'tharvāṇaḥ, tad bheṣajam | Atharvaveda Gopatha Brahmana -1/3/4.
+</blockquote>
 
-[15]:
 
-tamṛcaśca sāmāni ca yajuṣi ca brahma cānuvyacalan || (AV. -XV/6/8) Acharya Vedanta Tirtha (ed.), Atharvaveda-Vol. 2, Delhi, Manoj Publication, 2012, p. 208.
 
-[16]:
 
-yad bheṣajaṃ tadamṛtam, yadamṛtaṃ tad brahma | Atharvaveda Gopatha Brahmana -1/3/4.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> tamu tvā dadhyaṃṅ ṅṛ putra'īdhe'atharvaṇaḥ | vṛtrahaṇaṃ purandaram || (YV.  -XI/33); Acharya Vedanta Tirtha (ed.), Yajurveda, Delhi, Manoj Publication, 2012, p. 146. prāṇo vā atharvā | Śatapatha Brāhmaṇa -6/4/2/2.
+</blockquote>
 
-[17]:
 
-etam aṅgarasaṃ santam aṅgirā ityacakṣate | Atharvaveda Gopatha Brahmana -1/1/7.
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> tamṛcaśca sāmāni ca yajuṣi ca brahma cānuvyacalan || (AV. -XV/6/8) Acharya Vedanta Tirtha (ed.), Atharvaveda-Vol. 2, Delhi, Manoj Publication, 2012, p. 208.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> yad bheṣajaṃ tadamṛtam, yadamṛtaṃ tad brahma | Atharvaveda Gopatha Brahmana -1/3/4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> etam aṅgarasaṃ santam aṅgirā ityacakṣate | Atharvaveda Gopatha Brahmana -1/1/7.
+</blockquote>
 
 ---
 
-## 2. Preface
+## Preface
 
 Preface
 
@@ -242,7 +271,7 @@ I express my heart-felt gratitude to Dr. Ram Pramol Kumar, Assistant Professor i
 
 ---
 
-## 3. Acknowledgement
+## Acknowledgement
 
 Acknowledgement
 
@@ -263,15 +292,13 @@ Finally, I am really grateful to my loving parents, Swapan Kumar Maji and Mamata
 
 ---
 
-## 4. Chapter 1 - Introduction
+## Chapter 1 - Introduction
 
 Chapter 1 - Introduction
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 6. Introduction to Āyurveda
+## Introduction to Āyurveda
 
 Introduction to Āyurveda
 
@@ -399,95 +426,148 @@ Origin of Kāśyapa tradition–from Kāśyapa school of Āyurveda a popular Sa�
 [Fig. 2: Creation History of the Āyurveda]
 [Ancient Era—āyurvedāvataraṇa][21]
 
-[1]:
 
-C. Sū. –30/23; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 599.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Sū. –30/23; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 599.
+</blockquote>
 
-[2]:
 
-S. Sū. –1/14; Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 9.
 
-[3]:
 
-Dr. Vidyadhar Sukla & Dr. Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 231.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> S. Sū. –1/14; Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 9.
+</blockquote>
 
-[4]:
 
-C. Sū. –1/41; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 25.
 
-[5]:
 
-samadoṣaḥsamāgniścasamadhātumalakriyaḥ |
+<div className="footnote-card"><strong>[3]</strong> Dr. Vidyadhar Sukla & Dr. Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 231.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> C. Sū. –1/41; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> samadoṣaḥsamāgniścasamadhātumalakriyaḥ |
 prasannātmendriyamanaḥsvasthaityabhidhīyate || (S. Sū. –15/47); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 130.
+</blockquote>
 
-[6]:
 
-C. Sū. –1/42; Caraka Saṃhitā (Vol. I), trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 25.
 
-[7]:
 
-Dr. Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 51.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> C. Sū. –1/42; Caraka Saṃhitā (Vol. I), trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 25.
+</blockquote>
 
-[8]:
 
-C. Sū. –1/15; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 600.
 
-[9]:
 
-C. Sū. –1/15; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 19.
+<div className="footnote-card"><strong>[7]</strong> Dr. Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 51.</div>
 
-[10]:
 
-S. Sū. –1/13; Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 8.
 
-[11]:
 
-tad duḥkhasaṃyogā vyādhaya ucyante | (S. Sū. –1/22); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 12.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> C. Sū. –1/15; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 600.
+</blockquote>
 
-[12]:
 
-vikāro dhātuvaiṣamyaṃ, sāmyaṃ prakrutirucyate |
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> C. Sū. –1/15; Caraka Saṃhitā -Vol. I, trans. R. K. Sharma & Bhagwan Dash, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> S. Sū. –1/13; Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> tad duḥkhasaṃyogā vyādhaya ucyante | (S. Sū. –1/22); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 12.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> vikāro dhātuvaiṣamyaṃ, sāmyaṃ prakrutirucyate |
 sukhasaṃjñakamārogyaṃ, vikāro duḥkhameva ca || (C. Sū. –9/4); Caraka Saṃhitā -Vol. I: elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakkha Natha Chatturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 192.
+</blockquote>
 
-[13]:
 
-dhātusāmyakriyā coktātantrasyāsya prayojanam | (C. Sū. –1/53); Caraka Saṃhitā -Vol. I: elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakkha Natha Chatturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 28.
 
-[14]:
 
-mṛtyoḥ padaṃ yopayantaḥ | (ṚV. -X/18/2); Acharya Vedanta Tirtha (ed.), Ṛgveda-Vol. 4, Delhi, Manoj Publication, 2012, p. 243. & (AV. -XII/2/30); Acharya Vedanta Tirtha (ed.), Atharvaveda-Vol. 2, Delhi, Manoj Publication, 2012, p. 106.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> dhātusāmyakriyā coktātantrasyāsya prayojanam | (C. Sū. –1/53); Caraka Saṃhitā -Vol. I: elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakkha Natha Chatturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 28.
+</blockquote>
 
-[15]:
 
-drāghīya āyuḥ prataraṃ dadhānāḥ | (ṚV. -X/18/2) & (AV. -XII/2/30); Ibid., p. 243, 106.
 
-[16]:
 
-śuddhāḥ pūtā bhavata yajñiyāsaḥ | (ṚV. -X/18/2); Acharya Vedanta Tirtha (ed.), Ṛgveda-Vol. 4, Delhi, Manoj Publication, 2012, p. 243.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> mṛtyoḥ padaṃ yopayantaḥ | (ṚV. -X/18/2); Acharya Vedanta Tirtha (ed.), Ṛgveda-Vol. 4, Delhi, Manoj Publication, 2012, p. 243. & (AV. -XII/2/30); Acharya Vedanta Tirtha (ed.), Atharvaveda-Vol. 2, Delhi, Manoj Publication, 2012, p. 106.
+</blockquote>
 
-[17]:
 
-yadāmayati niṣkṛta | Taittirīya Saṃhitā -4/2/6/2.
 
-[18]:
 
-śataṃ jīvantu śaradaḥ purūcīḥ | (ṚV. -X/18/4); Acharya Vedanta Tirtha (ed.), Ṛgveda-Vol. 4, Delhi, Manoj Publication, 2012, p. 243.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> drāghīya āyuḥ prataraṃ dadhānāḥ | (ṚV. -X/18/2) & (AV. -XII/2/30); Ibid., p. 243, 106.
+</blockquote>
 
-[19]:
 
-so'yamāyurvedaḥ śāśvato nirdiśyate | (C. Sū. –30/27); Caraka Saṃhitā -Vol. I: elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakkha Natha Chatturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 587.
 
-[20]:
 
-Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 305-308.2017, p. 13.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> śuddhāḥ pūtā bhavata yajñiyāsaḥ | (ṚV. -X/18/2); Acharya Vedanta Tirtha (ed.), Ṛgveda-Vol. 4, Delhi, Manoj Publication, 2012, p. 243.
+</blockquote>
 
-[21]:
 
-Dr. Vidyadhar Sukla & Dr. Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan,
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> yadāmayati niṣkṛta | Taittirīya Saṃhitā -4/2/6/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> śataṃ jīvantu śaradaḥ purūcīḥ | (ṚV. -X/18/4); Acharya Vedanta Tirtha (ed.), Ṛgveda-Vol. 4, Delhi, Manoj Publication, 2012, p. 243.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> so'yamāyurvedaḥ śāśvato nirdiśyate | (C. Sū. –30/27); Caraka Saṃhitā -Vol. I: elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakkha Natha Chatturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 587.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 305-308.2017, p. 13.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Dr. Vidyadhar Sukla & Dr. Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, Chaukhamba Sanskrit Pratishthan,</div>
 
 ---
 
-## 42. Medicine in the Atharva-veda (Introduction)
+## Medicine in the Atharva-veda (Introduction)
 
 Medicine in the Atharva-veda (Introduction)
 
@@ -509,125 +589,152 @@ Thus–the use of Devamuni against Apachit[29]; Varaṇa against Yakṣma; Pippa
 
 In the Atharvaveda, the word Bheṣajī has been used for medicine. In the Vedas, medicine has been categorized based on its quality, religion and form. The Atharvaveda has given not only several plants in general but has given us some families of the plants such as Asiknī, Kṛṣṇā, Pṛśni, Prastṛṇatī, Stamvinī, Ekaśuṅga, Pratanvatī, Aṃśumatī, Kāṇḍinī, Viśākhā, Vaiśvadevī, Ugrā, Avakā, Ulva, Tīkṣṇaśṛṅgī, as also Puṣpavatī, Prasūmatī, Phalinī, Aphalā etc. The VIII.7 gives a detailed classification of the plants as-Plants Classified according to colour; those classified according to growth; their varieties according to properties, their varieties according to their origin, and their varieties according to him. First, categorization based on colour like Brabhrū, Śukra, Rohīṇi, Pṛśni, Asiknī, Kṛṣṇā. Second, classification based on form like Prastṛṇatī, Stamvinī, Ekaśuṅga etc. Thirdly, there is classification based on quality like Jīvalā, Arundhatī, Madhumatī etc. Fourth, classification is based on fruits etc. like Puṣpavatī, Prasūmatī, Phalinī etc.
 
-[1]:
 
-AV. –XIX.45.4; Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, p. 362.
+<div className="footnote-card"><strong>[1]</strong> AV. –XIX.45.4; Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 2, Delhi, Manoj Publication, 2012, p. 362.</div>
 
-[2]:
 
-AV. –VI.25, 57, 83; VII.74.76
 
-[3]:
 
-AV. –VI.105, 107
+<div className="footnote-card"><strong>[2]</strong> AV. –VI.25, 57, 83; VII.74.76</div>
 
-[4]:
 
-AV. –I.23,24
 
-[5]:
 
-AV. –I.7; IV.12
+<div className="footnote-card"><strong>[3]</strong> AV. –VI.105, 107</div>
 
-[6]:
 
-AV. –I.10; VI.22,24, 96; VII.83
 
-[7]:
 
-AV. –VII.76.3,4,5
+<div className="footnote-card"><strong>[4]</strong> AV. –I.23,24</div>
 
-[8]:
 
-AV. –I.3
 
-[9]:
 
-AV. –I.12,13; VI.105,107
+<div className="footnote-card"><strong>[5]</strong> AV. –I.7; IV.12</div>
 
-[10]:
 
-AV. –I.22
 
-[11]:
 
-AV. –VI.109
+<div className="footnote-card"><strong>[6]</strong> AV. –I.10; VI.22,24, 96; VII.83</div>
 
-[12]:
 
-AV. –VI.111
 
-[13]:
 
-AV. –VI.80
+<div className="footnote-card"><strong>[7]</strong> AV. –VII.76.3,4,5</div>
 
-[14]:
 
-AV. –II.8,10; III.7
 
-[15]:
 
-AV. –I.17; VI.127; IX.8.1; XII.4.4
+<div className="footnote-card"><strong>[8]</strong> AV. –I.3</div>
 
-[16]:
 
-AV. –I.2; II.3; VI.44
 
-[17]:
 
-AV. –II.29
+<div className="footnote-card"><strong>[9]</strong> AV. –I.12,13; VI.105,107</div>
 
-[18]:
 
-AV. –IV.12
 
-[19]:
 
-AV. –VI.14, 127
+<div className="footnote-card"><strong>[10]</strong> AV. –I.22</div>
 
-[20]:
 
-AV. –VI.21, 30, 136, 137
 
-[21]:
 
-AV. –IV.4; VI.72, 101; VII.95
+<div className="footnote-card"><strong>[11]</strong> AV. –VI.109</div>
 
-[22]:
 
-AV. –VI.112,113
 
-[23]:
 
-AV. –II.4; III.9
+<div className="footnote-card"><strong>[12]</strong> AV. –VI.111</div>
 
-[24]:
 
-AV. –I.25; V.4, 22; VI.20; VII.116; XIX.39
 
-[25]:
 
-AV. –V.13; VI.12, 52, 56, 88, 90, 93, 100; X.4
+<div className="footnote-card"><strong>[13]</strong> AV. –VI.80</div>
 
-[26]:
 
-AV. –V.23; II. 31, 32; VI.50
 
-[27]:
 
-AV. –VII.56
+<div className="footnote-card"><strong>[14]</strong> AV. –II.8,10; III.7</div>
 
-[28]:
 
-AV. –II.33; III.11; IV.13; V.30; IX.8;
 
-[29]:
 
-AV. –VII. 74.1
+<div className="footnote-card"><strong>[15]</strong> AV. –I.17; VI.127; IX.8.1; XII.4.4</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> AV. –I.2; II.3; VI.44</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> AV. –II.29</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> AV. –IV.12</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> AV. –VI.14, 127</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> AV. –VI.21, 30, 136, 137</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> AV. –IV.4; VI.72, 101; VII.95</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> AV. –VI.112,113</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> AV. –II.4; III.9</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> AV. –I.25; V.4, 22; VI.20; VII.116; XIX.39</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> AV. –V.13; VI.12, 52, 56, 88, 90, 93, 100; X.4</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> AV. –V.23; II. 31, 32; VI.50</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> AV. –VII.56</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> AV. –II.33; III.11; IV.13; V.30; IX.8;</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> AV. –VII. 74.1</div>
 
 ---
 
-## 49. Treatment of Fever (Takman)—Synopsis
+## Treatment of Fever (Takman)—Synopsis
 
 Treatment of Fever (Takman)—Synopsis
 
@@ -643,26 +750,36 @@ According to Keśava and Sāyaṇa, this performance is undertaken—
 
 A different treatment is prescribed by the Kauśika Sūtra at 29.18: The Priest while reciting V.22 gives the patient a gruel made of roasted grain to drink. The dregs of the gruel, he pours from a copper vessel into fire derived from the forest fire. Again, at Kauśika Sūtra 32.17 appears an unusual account for curing fever: while reciting VII.116, he does as in the case of birds, he ties a frog that has stripes like reed upon his body using a blue and red thread, by the armpits to a low couch upon which the patient is made to sleep and sprinkles him.
 
-[1]:
 
-yadi śokoyadi vābhiśokoyadi vā rājño varuṇāsyāsi putraḥ |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> yadi śokoyadi vābhiśokoyadi vā rājño varuṇāsyāsi putraḥ |
 hrūḍurnāmāsi haritasya deva sa naḥ saṃvidvān pari vṛṅ gdhi takman || (AV. –I/25/3); K. L. Joshi (ed.), Atharvaveda Saṃhitā -Vol. I, Delhi, Parimal Publication, 2015, p. 45.
+</blockquote>
 
-[2]:
 
-AV. –V/14/1-2; XIX/39.
 
-[3]:
 
-AV. –XIX/34; 35.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> AV. –V/14/1-2; XIX/39.
+</blockquote>
 
-[4]:
 
-AV. –IV/9/1-10, II/4/1-6, XIX/34/1-10, XIX/36/1-6; Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 320-321; 226-227; 981-982; 988-989.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> AV. –XIX/34; 35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> AV. –IV/9/1-10, II/4/1-6, XIX/34/1-10, XIX/36/1-6; Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, pp. 320-321; 226-227; 981-982; 988-989.
+</blockquote>
 
 ---
 
-## 52. Treatment of Yakṣma disease—Synopsis
+## Treatment of Yakṣma disease—Synopsis
 
 Treatment of Yakṣma disease—Synopsis
 
@@ -678,14 +795,17 @@ The practice is undertaken with the recitation of III.11[2].
 
 The Atharvaveda mentions two ways to cure Rājayakṣmā. For example, drinking Somapāna and Puruṣārtha[3]. Soma-rasa or other nutritious juice cures tuberculosis and increases virility. This disease arises and increases when there is a decrease in mood and will power. If the mind has the willpower then the incidence of this disease gradually decreases and gradually subsides.
 
-[1]:
 
-muñcāmi tveti grāmye pūtiśapharībhirodanam ||
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> muñcāmi tveti grāmye pūtiśapharībhirodanam ||
 araṇye tilaśaṇagomayaśāntājvālenāvanakṣatre'vasiñcati || (Kauśika Sūtra 27.32-33); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office, 2009, pp. 65-66.
+</blockquote>
 
-[2]:
 
-muñcāmi tvā haviṣā jīvanāya kamajñātayakṣmāduta rājayakṣmāt |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> muñcāmi tvā haviṣā jīvanāya kamajñātayakṣmāduta rājayakṣmāt |
 grāhirjagrāha yadi vaitadenaṃ tasyā indrāgnī pra mumuktamenam ||
 yadi kṣitāyuryadi vā pareto yadi mṛtyorantikaṃ nīta eva |
 tamā harāmi nirṛterupasthadaspārṣamenaṃ śataśāradāya ||
@@ -695,14 +815,18 @@ sahasrākṣeṇa śataśāradena śatāyuṣā haviṣāhārṣamenam |
 śatamindrāgnī savitā bṛhaspatiḥ śatāyuṣa haviṣemaṃ punarduḥ ||
 āhārṣaṃ tvāvidaṃ tvā punarāgāḥ punarnava |
 sarvāṃga sarvaṃ te cakṣuḥ sarvāmāyuśca te'vidam || (ṚV.  -X/161/1-5); Acharya Vedanta Tirtha (ed.), Rigveda–Vol. 4, Delhi, Manoj Publication, 2012, pp. 547-548.
+</blockquote>
 
-[3]:
 
-piba kalaśe somam..... ā vṛṣasva | (AV. –VII.76.6); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 409.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> piba kalaśe somam..... ā vṛṣasva | (AV. –VII.76.6); Acarya Vedanta Tirtha (ed.), Atharvaveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 409.
+</blockquote>
 
 ---
 
-## 103. Introduction and Cause of diseases
+## Introduction and Cause of diseases
 
 Introduction and Cause of diseases
 
@@ -724,37 +848,53 @@ There are three factors supporting life, three-fold strength, three types of cau
 
 Diseases according to the Śākhā are: visarpa or skin diseases characterised by an acute spread, oedema, gulma or abdominal tumour, piles, vidradhi or abscess etc.[6] Diseases of the middle path way are: Pakṣaghāta or hemiplegia, Pakṣāgraha or tonic convulsion, Apatānaka or clonic convulsion, Ardita or facial paralysis, Śoṣa or consumption, tuberculosis, Asthisandhiśūla or pain in the bone joints, Gudabhraṃśa or prolapse rectum and anal fractures, and the disease of the head, heart and bladder. Diseases belong to the central system are: fever, diarrhoea, vomiting, Alasaka or intestinal torper, Visūcīkā or choleric diarrhoea, cough, dyspnoea, hiccough, Ānāha or constipation, Udara or disease of the abdomen and Plīhā or splenic disorders and the internal variety of Visarpa, Śvayathu or oedema, Gulma or abdominal tumour, Arśas or piles and Vidradhi or internal abscess.
 
-[1]:
 
-bhiṣagdravyāṇyupasthatārogīpādacatuṣṭayam |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> bhiṣagdravyāṇyupasthatārogīpādacatuṣṭayam |
 guṇavatkāraṇaṃjñeyaṃvikāravyupaśāntaye || (C. Sū. –IX.3); Rajneesh V. Giri and Smith Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Chaukhambha Orientalia, 2019, p. 20.
+</blockquote>
 
-[2]:
 
-hetau liṅgepraśamane rogānāmapunarbhave |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> hetau liṅgepraśamane rogānāmapunarbhave |
 jñānaṃ caturvidhaṃ yasya sa rājārho bhiṣaktamaḥ || (CS.  -Sūtrasthāna–IX.19); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 189.
+</blockquote>
 
-[3]:
 
-śastraṃ śāstrāṇi salilaṃ guṇadoṣapravṛttaye |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> śastraṃ śāstrāṇi salilaṃ guṇadoṣapravṛttaye |
 pātrāpekṣīṇyataḥ prajñāṃ cikitsārthaṃ viśodhayet | (CS.  -Sūtrasthāna–IX.20); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 198.
+</blockquote>
 
-[4]:
 
-atha tṛtīyāṃ paralokaiṣaṇāmāpadyate | (CS.  -Sūtrasthāna–XI.4); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 81.
 
-[5]:
 
-tasya caturvidhā parīkṣā -āptopadeśaḥ, pratya m, anumānaṃ, yuktiśceti || (CS.  -Sūtrasthāna–XI.17); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 210.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> atha tṛtīyāṃ paralokaiṣaṇāmāpadyate | (CS.  -Sūtrasthāna–XI.4); Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 81.
+</blockquote>
 
-[6]:
 
-trayo rogamārgā iti-śākhā, marmāsthisandhayaḥ, koṣṭhaśca |
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> tasya caturvidhā parīkṣā -āptopadeśaḥ, pratya m, anumānaṃ, yuktiśceti || (CS.  -Sūtrasthāna–XI.17); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 210.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> trayo rogamārgā iti-śākhā, marmāsthisandhayaḥ, koṣṭhaśca |
 visarpaśvayathugulmārśovidradhyādayaḥ śākhānusāriṇo bhavanti rogaḥ | (CS.  -Sūtrasthāna–XI.45-47); Baidyacharya Kalikinkar Sensarma &Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 90-91.
+</blockquote>
 
 ---
 
-## 108. Fever according to Caraka—Synopsis
+## Fever according to Caraka—Synopsis
 
 Fever according to Caraka—Synopsis
 
@@ -764,19 +904,7 @@ Maharṣi Caraka says fever is the chief of all diseases. The one that afflicts 
 
 There are eight causes of human fever, namely—
 
-vāyu,
-
-pitta,
-
-kapha,
-
-vāta-pitta,
-
-pitta-śleṣmā,
-
-vāta-śleṣmā,
-
-vāta-pitta-śleṣmā and
+vāyu,, pitta,, kapha,, vāta-pitta,, pitta-śleṣmā,, vāta-śleṣmā,, vāta-pitta-śleṣmā and
 
 exogenous.
 
@@ -786,9 +914,10 @@ If there are the premonitory symptoms or in the primary stage of fever, it is ne
 
 For all types of chronic fever, intake of ghee is beneficial. Besides, it has been said that daytime sleep, bathing, massage, food, intercourse, anger, proverbs, hard work, tanning etc., should be avoided for various fever[1].
 
-[1]:
 
-C. Cikitsāsthāna–III.3-127; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 209-258.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–III.3-127; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 209-258.
+</blockquote>
 
 ---
 

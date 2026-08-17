@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of minor diseases within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. Chapter XIII - Diagnosis of minor diseases
+## Chapter XIII - Diagnosis of minor diseases
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -23,91 +23,7 @@ Now we shall discourse on the Nidana of Kshudraroga (diseases which are known by
 
 These diseases are generally divided into forty-four distinct varieties or types such as:
 
-Ajagallika,
-
-Yavaprakshya,
-
-Andhalaji,
-
-Vivrita,
-
-Kachapika,
-
-Valmika,
-
-Indravriddha,
-
-Panasika,
-
-Pashana-garddabha,
-
-Jala-garddabha,
-
-Kaksha,
-
-Vishphota,
-
-Agni-rohini,
-
-Chippa,
-
-Kunakha,
-
-Anushaye,
-
-Vidarika,
-
-Sarkara-Arbuda,
-
-Pama,
-
-Vicharchika,
-
-Rakasa,
-
-Padadarika,
-
-Kadara,
-
-Alasa,
-
-Indralupta,
-
-Darunaka,
-
-Arunshika,
-
-Palita,
-
-Mashurika,
-
-Yauvana-pidaka,
-
-Padmini-kantaka,
-
-Yatumani,
-
-Mashaka,
-
-Carmakila,
-
-Tilakalaka,
-
-Nyaccha,
-
-Vyanga,
-
-Parivartika,
-
-Avapatika,
-
-Niruddha-prakasha,
-
-Niruddha-guda,
-
-Ahiputana,
-
-Vrishana-kaccu,
+Ajagallika,, Yavaprakshya,, Andhalaji,, Vivrita,, Kachapika,, Valmika,, Indravriddha,, Panasika,, Pashana-garddabha,, Jala-garddabha,, Kaksha,, Vishphota,, Agni-rohini,, Chippa,, Kunakha,, Anushaye,, Vidarika,, Sarkara-Arbuda,, Pama,, Vicharchika,, Rakasa,, Padadarika,, Kadara,, Alasa,, Indralupta,, Darunaka,, Arunshika,, Palita,, Mashurika,, Yauvana-pidaka,, Padmini-kantaka,, Yatumani,, Mashaka,, Carmakila,, Tilakalaka,, Nyaccha,, Vyanga,, Parivartika,, Avapatika,, Niruddha-prakasha,, Niruddha-guda,, Ahiputana,, Vrishana-kaccu,
 
 and Guda-bhransha.[1] 2.
 
@@ -241,41 +157,45 @@ Guda-Bhransha:—A prolapse or falling out of the anus (due to the Vayu) in a we
 
 Thus ends the thirteenth Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of minor ailments.
 
-[1]:
 
-Brahmadeva comprising Garddavika, Irvellika, Gandkapidika and Tilakalaka in the list reads it as consisting of thirty-four different species. Jejjata does not hold the four forms of disease commencing with Garddavika, etc. as included within the list. Gayadasa, finding them included in all the recensions reads Garddabhika, etc. as included within the list of Kshudra Roga, and Pama etc. as included within the list of Kshudra Kushtha.
+<div className="footnote-card"><strong>[1]</strong> Brahmadeva comprising Garddavika, Irvellika, Gandkapidika and Tilakalaka in the list reads it as consisting of thirty-four different species. Jejjata does not hold the four forms of disease commencing with Garddavika, etc. as included within the list. Gayadasa, finding them included in all the recensions reads Garddabhika, etc. as included within the list of Kshudra Roga, and Pama etc. as included within the list of Kshudra Kushtha.</div>
 
-[2]:
 
-They afflict certain infants—Dallana.
 
-[3]:
 
-The circular raised spots studded with vesicles are called Gardda- bha. They are reddish and painful and produced by the. action of Vayu and Pitta. Gayadasa reads it so.
+<div className="footnote-card"><strong>[2]</strong> They afflict certain infants—Dallana.</div>
 
-[4]:
 
-Dallana quotes from another Tantra that the morbific principles in men, aggravated through the action of the enraged and augmented Pitta and blood, give rise to vesicles (blisters) like red-hot charcoal by breaking open the flesh at the waist, attended with extreme pain, high fever and an insufferable burning sensation which,if not properly remedied, bring on death within a fortnight, or ten days of their first appearance. These (vesicles) are called Vahni-Rohini. And again from another work he cites that a case of Vahni-Rohini due to the action of the deranged Kapha proves fatal within a fortnight, that due to the deranged Pitta, within ten days, and that due to the deranged Vayu, within a week.
 
-[5]:
 
-The patient dies on the seventh day in a case of disease marked by the dominant Vayu, on the tenth day in a case marked by the dominant Pitta and on the fifteenth day in a case of dominant deranged Kapha.
+<div className="footnote-card"><strong>[3]</strong> The circular raised spots studded with vesicles are called Gardda- bha. They are reddish and painful and produced by the. action of Vayu and Pitta. Gayadasa reads it so.</div>
 
-[6]:
 
-Women are generally proof against this disease owing to their delicate constitution and to their being subjected to the monthly discharge of vitiated blood and at the same time to their undergoing no physical exercise, and hence there is little chance of the bodily Pitta being deranged and bringing on this disease.
 
-[7]:
 
-According to certain authorities it is due to the absorption of blood by Vayu and Pitta.
+<div className="footnote-card"><strong>[4]</strong> Dallana quotes from another Tantra that the morbific principles in men, aggravated through the action of the enraged and augmented Pitta and blood, give rise to vesicles (blisters) like red-hot charcoal by breaking open the flesh at the waist, attended with extreme pain, high fever and an insufferable burning sensation which,if not properly remedied, bring on death within a fortnight, or ten days of their first appearance. These (vesicles) are called Vahni-Rohini. And again from another work he cites that a case of Vahni-Rohini due to the action of the deranged Kapha proves fatal within a fortnight, that due to the deranged Pitta, within ten days, and that due to the deranged Vayu, within a week.</div>
 
-[8]:
 
-According to others the spot goes by the name of Nilika, if it is black-coloured and appears anywhere other than on the face.
+
+
+<div className="footnote-card"><strong>[5]</strong> The patient dies on the seventh day in a case of disease marked by the dominant Vayu, on the tenth day in a case marked by the dominant Pitta and on the fifteenth day in a case of dominant deranged Kapha.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Women are generally proof against this disease owing to their delicate constitution and to their being subjected to the monthly discharge of vitiated blood and at the same time to their undergoing no physical exercise, and hence there is little chance of the bodily Pitta being deranged and bringing on this disease.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> According to certain authorities it is due to the absorption of blood by Vayu and Pitta.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> According to others the spot goes by the name of Nilika, if it is black-coloured and appears anywhere other than on the face.</div>
 
 ---
-
-
 
 ---
 
@@ -284,10 +204,6 @@ According to others the spot goes by the name of Nilika, if it is black-coloured
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of diseases of mouth: Sushruta Samhita Nidanasthana Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

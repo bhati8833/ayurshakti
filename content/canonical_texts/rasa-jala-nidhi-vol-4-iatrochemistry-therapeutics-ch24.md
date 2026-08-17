@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Piles within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 347. Chapter V - Piles
+## Chapter V - Piles
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -21,15 +21,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter V - Piles
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Piles’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 348. Part 1 - Symptoms of piles
+## Part 1 - Symptoms of piles
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +45,7 @@ This concludes ‘Symptoms of piles’ included in Bhudeb Mookerjee Rasa Jala Ni
 
 ---
 
-## 349. Part 3 - Treatment of Piles (2): Vidhubhusana rasa
+## Part 3 - Treatment of Piles (2): Vidhubhusana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +63,7 @@ This concludes ‘Treatment of Piles (2): Vidhubhusana rasa’ included in Bhude
 
 ---
 
-## 350. Part 4 - Treatment of Piles (3): Mulari rasa
+## Part 4 - Treatment of Piles (3): Mulari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +81,7 @@ This concludes ‘Treatment of Piles (3): Mulari rasa’ included in Bhudeb Mook
 
 ---
 
-## 351. Part 6 - Treatment of Piles (5): Mula-kuthura rasa
+## Part 6 - Treatment of Piles (5): Mula-kuthura rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +99,7 @@ This concludes ‘Treatment of Piles (5): Mula-kuthura rasa’ included in Bhude
 
 ---
 
-## 352. Part 7 - Treatment of Piles (6): Vara-nagadi rasa
+## Part 7 - Treatment of Piles (6): Vara-nagadi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -121,7 +119,7 @@ This concludes ‘Treatment of Piles (6): Vara-nagadi rasa’ included in Bhudeb
 
 ---
 
-## 353. Part 8 - Treatment of Piles (7): Mahodaya-pratyayasa rasa
+## Part 8 - Treatment of Piles (7): Mahodaya-pratyayasa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -139,7 +137,7 @@ This concludes ‘Treatment of Piles (7): Mahodaya-pratyayasa rasa’ included i
 
 ---
 
-## 354. Part 5 - Treatment of Piles (4): Sarva-lokashraya rasa
+## Part 5 - Treatment of Piles (4): Sarva-lokashraya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -157,7 +155,7 @@ This concludes ‘Treatment of Piles (4): Sarva-lokashraya rasa’ included in B
 
 ---
 
-## 355. Part 9 - Treatment of Piles (8): Hiranya-sundara rasa
+## Part 9 - Treatment of Piles (8): Hiranya-sundara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -175,7 +173,7 @@ This concludes ‘Treatment of Piles (8): Hiranya-sundara rasa’ included in Bh
 
 ---
 
-## 356. Part 10 - Treatment of Piles (9): Arkesha rasa
+## Part 10 - Treatment of Piles (9): Arkesha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -193,7 +191,7 @@ This concludes ‘Treatment of Piles (9): Arkesha rasa’ included in Bhudeb Moo
 
 ---
 
-## 357. Part 11 - Treatment of Piles (10): Tiksna-mukha rasa
+## Part 11 - Treatment of Piles (10): Tiksna-mukha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -211,7 +209,7 @@ This concludes ‘Treatment of Piles (10): Tiksna-mukha rasa’ included in Bhud
 
 ---
 
-## 358. Part 12 - Treatment of Piles (11): Arsha-binasha rasa
+## Part 12 - Treatment of Piles (11): Arsha-binasha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -229,7 +227,7 @@ This concludes ‘Treatment of Piles (11): Arsha-binasha rasa’ included in Bhu
 
 ---
 
-## 359. Part 13 - Treatment of Piles (12): Trailokya-tilaka rasa
+## Part 13 - Treatment of Piles (12): Trailokya-tilaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -249,7 +247,7 @@ This concludes ‘Treatment of Piles (12): Trailokya-tilaka rasa’ included in 
 
 ---
 
-## 360. Part 14 - Treatment of Piles (13): Karunamaya rasa
+## Part 14 - Treatment of Piles (13): Karunamaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -267,7 +265,7 @@ This concludes ‘Treatment of Piles (13): Karunamaya rasa’ included in Bhudeb
 
 ---
 
-## 361. Part 15 - Treatment of Piles (14): Arsha-kripana rasa
+## Part 15 - Treatment of Piles (14): Arsha-kripana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -285,8 +283,6 @@ This concludes ‘Treatment of Piles (14): Arsha-kripana rasa’ included in Bhu
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -294,10 +290,6 @@ This concludes ‘Treatment of Piles (14): Arsha-kripana rasa’ included in Bhu
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Piles (15): Chakradhara rasa: Rasa Jala Nidhi Volume 4 Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

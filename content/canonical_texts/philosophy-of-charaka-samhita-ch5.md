@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Action (karma) [in Charaka philosophy] within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Action (karma) [in Charaka philosophy]
+## Action (karma) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -41,13 +41,7 @@ In the Nyāya-Vaiśeṣika school, the category karma refers to motion rather th
 
 He classifies karma into five:
 
-upward motion (utkṣepaṇa),
-
-downward motion (apakṣepaṇa),
-
-contraction (ākuñcana),
-
-expansion (prasāraṇa),
+upward motion (utkṣepaṇa),, downward motion (apakṣepaṇa),, contraction (ākuñcana),, expansion (prasāraṇa),
 
 motion in general (gamana).
 
@@ -57,53 +51,76 @@ Praśastapāda comprehending all the five divisions gives a generic definition: 
 
 Now it is very clear that the motif of Nyāya-Vaiśeṣika is motion and that of Caraka is action. Probably Caraka has sought to give therapeutic connotation for the category karma, presumably with a view to assimilating them in the medical tradition.
 
-[1]:
 
-The words pravṛtti, ceṣṭā, kriya, yatnaḥ, and kāryasamāraṃbha are also used in the sense of bodily actions along with the word karma. see CS, Vimāna - sthāna, VIII. 77.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The words pravṛtti, ceṣṭā, kriya, yatnaḥ, and kāryasamāraṃbha are also used in the sense of bodily actions along with the word karma. see CS, Vimāna - sthāna, VIII. 77.
+</blockquote>
 
-[2]:
 
-prayatnādi karma ceṣṭitamucyate CS, Su, I. 49. Volition (prayatna) is the quality of the self. So the expression "prayatnādi' in the dictum is to be understood as “prompted by volition” and not as “volition and the like”.
 
-[3]:
 
-saṃyoge, vibhāge ca karaṇaṃ dravyamāśritaṃ kartavyasya kriyā karma karma nanyadapekṣate, CS, Su, I. 52.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> prayatnādi karma ceṣṭitamucyate CS, Su, I. 49. Volition (prayatna) is the quality of the self. So the expression "prayatnādi' in the dictum is to be understood as “prompted by volition” and not as “volition and the like”.
+</blockquote>
 
-[4]:
 
-CS, Su, II. 5-16; Ibid., XXVI. 10
 
-[5]:
 
-see infra, pp. 359 - 60.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> saṃyoge, vibhāge ca karaṇaṃ dravyamāśritaṃ kartavyasya kriyā karma karma nanyadapekṣate, CS, Su, I. 52.
+</blockquote>
 
-[6]:
 
-calanātmakaṃ karma. TSA, p. 60; Tarkabhāṣa of Keśavamiśra., p. 213.
 
-[7]:
 
-ekadravyamaguṇm saṃyogavbhāgeṣvanapekṣakāraṇamiti karmalakṣaṇaṃ, Vaiśeṣikadarśana., I. i. 17.
+<div className="footnote-card"><strong>[4]</strong> CS, Su, II. 5-16; Ibid., XXVI. 10</div>
 
-[8]:
 
-Ibid., 7.
 
-[9]:
 
-TSA, p. 5, 60; Tarkabhāṣa of Keśavamiśra., p. 213; Saptapadārthi of Śivāditya., p. 8; NSMK, p. 41.
+<div className="footnote-card"><strong>[5]</strong> see infra, pp. 359 - 60.</div>
 
-[10]:
 
-utkṣepaṇadīṇāṃ pañcānāmapi karmatvasambandhaḥ ekadravyavatvaṃ kṣaṇikatvaṃ mūrtadravyavrttitvamaguṇavatvaṃ gurutvadravatvaprayatnasaṃyogavatvaṃ svakaryasamyogavirodhitvaṃ saṃyogavibhāganirapekṣakāraṇatvamasamavāyikaraṇatvaṃ. svaparāśrayasamavetakāryāraṃbhakatvaṃ samānajatīyānārambhakatvaṃ dravyānāraṃbhakatvaṃ ca pratiniyatajātiyogitvaṃ, Praśastapādabhāṣya., pp. 697 - 698.
 
-[11]:
 
-For details see Ibid., pp. 713 - 725.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> calanātmakaṃ karma. TSA, p. 60; Tarkabhāṣa of Keśavamiśra., p. 213.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> ekadravyamaguṇm saṃyogavbhāgeṣvanapekṣakāraṇamiti karmalakṣaṇaṃ, Vaiśeṣikadarśana., I. i. 17.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 7.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> TSA, p. 5, 60; Tarkabhāṣa of Keśavamiśra., p. 213; Saptapadārthi of Śivāditya., p. 8; NSMK, p. 41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> utkṣepaṇadīṇāṃ pañcānāmapi karmatvasambandhaḥ ekadravyavatvaṃ kṣaṇikatvaṃ mūrtadravyavrttitvamaguṇavatvaṃ gurutvadravatvaprayatnasaṃyogavatvaṃ svakaryasamyogavirodhitvaṃ saṃyogavibhāganirapekṣakāraṇatvamasamavāyikaraṇatvaṃ. svaparāśrayasamavetakāryāraṃbhakatvaṃ samānajatīyānārambhakatvaṃ dravyānāraṃbhakatvaṃ ca pratiniyatajātiyogitvaṃ, Praśastapādabhāṣya., pp. 697 - 698.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> For details see Ibid., pp. 713 - 725.</div>
 
 ---
 
-## 20. Inherence (samavāya) [in Charaka philosophy]
+## Inherence (samavāya) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -141,121 +158,193 @@ The Sāṃkhyas, the Bhaṭṭamīmāṃsakas, and the Vedāntins do not accept 
 
 It was Caraka who was the first to construe inherence as an ontological category just as universal. As far as Kaṇāda is concerned, only substance, quality, and action have ontological existence. That is why he called them by the name artha. In addition to that it was Caraka who first gave a definition distinguishing it from saṃyoga. It is saṃyoga that represent individual instances of conjunction. He has clearly stated that it is eternal and will not be destroyed by the behaviour of the related tentities. So it was Caraka who was the first construe inherence as eternal.
 
-[1]:
 
-samavāyān samavaiti. Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., IV.iv. 43; saṃsvāye ca, ibid.,VI. i.138.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> samavāyān samavaiti. Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., IV.iv. 43; saṃsvāye ca, ibid.,VI. i.138.
+</blockquote>
 
-[2]:
 
-M. Su, XII. ii. 24.
 
-[3]:
 
-evam tarhi pradhānena samavāye sthālī paratantrā, vyavaye svatantrā. tadyathā amātyānāṃ rajñā saha samavāye paratantryaṃ vyavāye svātantryaṃ. Vyākaraṇamahābhāṣya of Patañjali., Vol. II, I. iv. 3, p. 245.
+<div className="footnote-card"><strong>[2]</strong> M. Su, XII. ii. 24.</div>
 
-[4]:
 
-ENVC, Vol. I, p. 218.
 
-[5]:
 
-aprāptayoḥ prāptiḥ saṃyogaḥ. Praśastapādabhāṣya., p. 347; “aprāptayostu yo prāptiḥ saiva saṃyoga īritaḥ”. NSMK, p. 413.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> evam tarhi pradhānena samavāye sthālī paratantrā, vyavaye svatantrā. tadyathā amātyānāṃ rajñā saha samavāye paratantryaṃ vyavāye svātantryaṃ. Vyākaraṇamahābhāṣya of Patañjali., Vol. II, I. iv. 3, p. 245.
+</blockquote>
 
-[6]:
 
-EFW, Vol. II, p.106.
 
-[7]:
 
-ihedaṃ iti yataḥ kāryakāraṇayoḥ sa samavāyaḥ, Vaiśeṣikadarśana.. VII. ii. 26.
+<div className="footnote-card"><strong>[4]</strong> ENVC, Vol. I, p. 218.</div>
 
-[8]:
 
-yutasiddyabhavāt karyakaraṇayoḥ saṃyogavibhago na vidyate. Ibid., 13; see also Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 426.
 
-[9]:
 
-sadakaraṇavannityaṃ,Vaiśeṣikadarśana., IV. i. 1.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> aprāptayoḥ prāptiḥ saṃyogaḥ. Praśastapādabhāṣya., p. 347; “aprāptayostu yo prāptiḥ saiva saṃyoga īritaḥ”. NSMK, p. 413.
+</blockquote>
 
-[10]:
 
-CSP, p. 205.
 
-[11]:
 
-kriāyguṇavat samavāyikāraṇamiti dravyalakṣaṇaṃ. Vaiśeṣikadarśana., I. i.15; kārṇamiti dravye kāryasamavāyāt. Ibid., X. i. 1; kāraṇe samavāyāt karmāṇi, ibid., 3.
+<div className="footnote-card"><strong>[6]</strong> EFW, Vol. II, p.106.</div>
 
-[12]:
 
-karaṇaṃ tvasamavāyino guṇāḥ. Ibid., V, ii, 24. karaṇasamavāyāt saṃyogah paṭasya. Ibid., X. ii. 5. kāraṇākāraṇasamavāyācca. Ibid., 6.
 
-[13]:
 
-niṣkriyāṇāṃ samavāyaḥ karmabhyo nṣidhaḥ, Vaiśeṣikadarśana.,V. ii. 23.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> ihedaṃ iti yataḥ kāryakāraṇayoḥ sa samavāyaḥ, Vaiśeṣikadarśana.. VII. ii. 26.
+</blockquote>
 
-[14]:
 
-ekārthsamavāyikāraṇāntareṣu dṛṣṭatvāt. Ibid., X. i. 6. samanvyaikārthsamavāyi virodhi ca. Ibid., III. i. 9.
 
-[15]:
 
-saṃyuktasamavāyat agnervaiśeṣikaṃ. Ibid., X. ii. 7.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> yutasiddyabhavāt karyakaraṇayoḥ saṃyogavibhago na vidyate. Ibid., 13; see also Śaṅkaramiśra on ibid., Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 426.
+</blockquote>
 
-[16]:
 
-samavāyo'pṛthakbhāvo bhūmyādīnāṃ guṇairmataḥ sa nityo yatra hi dravyaṃ na tatrāniyato guṇaḥ. CS, Su, I. 50.
 
-[17]:
 
-“.......tenādhārāṇāmādheyairyo'apṛṭhakbhāvaḥ sa samavāyaḥ”, Cakrapāṇi on Ibid.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> sadakaraṇavannityaṃ,Vaiśeṣikadarśana., IV. i. 1.
+</blockquote>
 
-[18]:
 
-Cakrapāṇi quotes the explication given by Praśastapāda, Ibid; See also Dīpikā, TSA, p. 61.
 
-[19]:
 
-ayutasiddhānāmādhāryādhārabhūtānāṃ yaḥ sambandhaḥ ihapratyayahetuḥ sa samavāyaḥ, Praśastapādabhāṣya., p. 37.
+<div className="footnote-card"><strong>[10]</strong> CSP, p. 205.</div>
 
-[20]:
 
-See supra, p. 81.
 
-[21]:
 
-dravyaguṇakarmasāmānyaviśeṣāṇāṃ kāryākāraṇabhūtānāmakaryakāraṇabhūtānāṃ vā yutasiddhānāmādharyādhārabhāvenāvasthitānāmihedamiti buddhiryato bhavati, yataścāsarvagatānāmadhigatānytvānāmaviṣvakbhāvaḥ sa samavāyākhyaḥ saṃbandhaḥ, Praśastapādabhāṣya., pp. 773-74.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> kriāyguṇavat samavāyikāraṇamiti dravyalakṣaṇaṃ. Vaiśeṣikadarśana., I. i.15; kārṇamiti dravye kāryasamavāyāt. Ibid., X. i. 1; kāraṇe samavāyāt karmāṇi, ibid., 3.
+</blockquote>
 
-[22]:
 
-ayutasiddhayoḥ saṃbandhaḥ samavāyaḥ, Tarkabhāṣa of Keśavamiśra., p. 220.
 
-[23]:
 
-Praśastapāda says that even though the related entities are ephemeral inherence is not so, since it exists and is with out a cause. See Praśastapādabhāṣya., p. 782. nityasambandhaḥ samavāyah, TSA, p. 61.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> karaṇaṃ tvasamavāyino guṇāḥ. Ibid., V, ii, 24. karaṇasamavāyāt saṃyogah paṭasya. Ibid., X. ii. 5. kāraṇākāraṇasamavāyācca. Ibid., 6.
+</blockquote>
 
-[24]:
 
-samavāyastu samyagāvāptirekībhāvaḥ, Vaiśeṣikabhāṣya of Candrakānta Tarkālaṅkāra., p. 17.
 
-[25]:
 
-athāpyetaduktaṃ samavāyo'apṛdhakbhāva iti. Ibid.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> niṣkriyāṇāṃ samavāyaḥ karmabhyo nṣidhaḥ, Vaiśeṣikadarśana.,V. ii. 23.
+</blockquote>
 
-[26]:
 
-yathā khalu saṃyogapratidvantī vibhāgaḥ, pṛthaktvaṃ cāyogo nāma guṇāntaraṃ, tathaiva vailakṣaṇyalakṣaṇasyānekatvalakṣaṇasya vā pṛthaktvasya pratidvantī guṇaḥ samavāyo nāma. Ibid.
 
-[27]:
 
-yaśca apūrvaśarīrendriyavedanābhiḥ saṃyogaviśeṣo janma, tataḥ śarīradibhirapṛthakbhāvo ātmano bhimanyate........ so'yam samavāya evamarthaṃ prthagucyate gunantarbhūto'pi. Ibid.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> ekārthsamavāyikāraṇāntareṣu dṛṣṭatvāt. Ibid., X. i. 6. samanvyaikārthsamavāyi virodhi ca. Ibid., III. i. 9.
+</blockquote>
 
-[28]:
 
-Nyāyakośa., pp. 961-62; CSP, p. 263.
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> saṃyuktasamavāyat agnervaiśeṣikaṃ. Ibid., X. ii. 7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> samavāyo'pṛthakbhāvo bhūmyādīnāṃ guṇairmataḥ sa nityo yatra hi dravyaṃ na tatrāniyato guṇaḥ. CS, Su, I. 50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> “.......tenādhārāṇāmādheyairyo'apṛṭhakbhāvaḥ sa samavāyaḥ”, Cakrapāṇi on Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Cakrapāṇi quotes the explication given by Praśastapāda, Ibid; See also Dīpikā, TSA, p. 61.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> ayutasiddhānāmādhāryādhārabhūtānāṃ yaḥ sambandhaḥ ihapratyayahetuḥ sa samavāyaḥ, Praśastapādabhāṣya., p. 37.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> See supra, p. 81.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> dravyaguṇakarmasāmānyaviśeṣāṇāṃ kāryākāraṇabhūtānāmakaryakāraṇabhūtānāṃ vā yutasiddhānāmādharyādhārabhāvenāvasthitānāmihedamiti buddhiryato bhavati, yataścāsarvagatānāmadhigatānytvānāmaviṣvakbhāvaḥ sa samavāyākhyaḥ saṃbandhaḥ, Praśastapādabhāṣya., pp. 773-74.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> ayutasiddhayoḥ saṃbandhaḥ samavāyaḥ, Tarkabhāṣa of Keśavamiśra., p. 220.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Praśastapāda says that even though the related entities are ephemeral inherence is not so, since it exists and is with out a cause. See Praśastapādabhāṣya., p. 782. nityasambandhaḥ samavāyah, TSA, p. 61.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> samavāyastu samyagāvāptirekībhāvaḥ, Vaiśeṣikabhāṣya of Candrakānta Tarkālaṅkāra., p. 17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> athāpyetaduktaṃ samavāyo'apṛdhakbhāva iti. Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> yathā khalu saṃyogapratidvantī vibhāgaḥ, pṛthaktvaṃ cāyogo nāma guṇāntaraṃ, tathaiva vailakṣaṇyalakṣaṇasyānekatvalakṣaṇasya vā pṛthaktvasya pratidvantī guṇaḥ samavāyo nāma. Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> yaśca apūrvaśarīrendriyavedanābhiḥ saṃyogaviśeṣo janma, tataḥ śarīradibhirapṛthakbhāvo ātmano bhimanyate........ so'yam samavāya evamarthaṃ prthagucyate gunantarbhūto'pi. Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Nyāyakośa., pp. 961-62; CSP, p. 263.
+</blockquote>
 
 ---
 
-## 21. Universal (sāmānya) and Particularity (viśeṣa) [in Charaka philosophy]
+## Universal (sāmānya) and Particularity (viśeṣa) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -369,321 +458,503 @@ Kaṇāda provided the initial doctrine of the ultimate universal, “universal 
 
 This was actually a shift in perspective. It was a shift which made possible the actualization of a philosophical abstraction to a pragmatic orientation which gave Āyurveda a scientific temper and made it move. But it was not without exceptions. Certain lapses are found to affect the negative and positive invariable relation between increase and universal. Cakrapāṇi, by attributing specific power (prabhāva) and absence of obstruction, has tried to remove such imperfections taking into consideration some of the later developments in the Nyāya - Vaiśeṣika system of philosophy.
 
-[1]:
 
-BWT, p.115; See trans., CST, Vol. I, p. 21; HIPS, Vol. II, p. 371; Antonella Comba, Universal (sāmānya) and Particular (viśeṣa) in Vaiśeṣika and Āyurveda, Journal of the European Āyurvedic society1, 1990, p. 19.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> BWT, p.115; See trans., CST, Vol. I, p. 21; HIPS, Vol. II, p. 371; Antonella Comba, Universal (sāmānya) and Particular (viśeṣa) in Vaiśeṣika and Āyurveda, Journal of the European Āyurvedic society1, 1990, p. 19.
+</blockquote>
 
-[2]:
 
-“Existence, manifestation, agreeableness form, and name are the five aspects of phenomena. Of these the first three are the characteristics of the Brahman and the last two are the characteristics of the universe”, See Eng. Trans. Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 157.
 
-[3]:
 
-“.......words and language are not wrappings in which things are packed for the commerce of those who write and speak. It is in words and language that things first come into being and are”. IM, p. 13.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “Existence, manifestation, agreeableness form, and name are the five aspects of phenomena. Of these the first three are the characteristics of the Brahman and the last two are the characteristics of the universe”, See Eng. Trans. Vedāntaparibhāṣa of Dharmarāja Adhvarīndra., p. 157.
+</blockquote>
 
-[4]:
 
-ENVC, Vol. I, p. 173.
 
-[5]:
 
-Ibid.
+<div className="footnote-card"><strong>[3]</strong> “.......words and language are not wrappings in which things are packed for the commerce of those who write and speak. It is in words and language that things first come into being and are”. IM, p. 13.</div>
 
-[6]:
 
-Ibid.
 
-[7]:
 
-Indian Realism, Jadunath Sinha, Motilal Banarsidass Pvt. Ltd., Delhi, Reprint 1999, p.134; See “apoha-vāda tathā uskā nirākaraṇ”, Vaiśeṣika Darśan: Ek Adhyayan, Sri Nārāyaṇa Miśra, Varanasi,1968, p. 223.
+<div className="footnote-card"><strong>[4]</strong> ENVC, Vol. I, p. 173.</div>
 
-[8]:
 
-PUIP, p. 61
 
-[9]:
 
-Tattvasaṅgraha, Śāntarakṣita with Tattvasaṅgrahapañjikā by Kamalaśīla, Baroda: G.O.S, 1926, p. 2-3; also see Pañjikā on ibid., p. 11.
+<div className="footnote-card"><strong>[5]</strong> Ibid.</div>
 
-[10]:
 
-“sāmānyaviśeṣātmā tadartho vicayah”, Parīkṣāmukhasūtra, Māṇikyanandi, ed., and Trans., Mahendra Kumar Shastri, Bombay, 1941, IV. 1.
 
-[11]:
 
-VTA, p.151; ENVC, Vol. I, p. 175.
+<div className="footnote-card"><strong>[6]</strong> Ibid.</div>
 
-[12]:
 
-Ibid., pp. 149-150.
 
-[13]:
 
-PUIP, pp. 153-154.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Indian Realism, Jadunath Sinha, Motilal Banarsidass Pvt. Ltd., Delhi, Reprint 1999, p.134; See “apoha-vāda tathā uskā nirākaraṇ”, Vaiśeṣika Darśan: Ek Adhyayan, Sri Nārāyaṇa Miśra, Varanasi,1968, p. 223.
+</blockquote>
 
-[14]:
 
-EIPS, IV, pp. 365-66.
 
-[15]:
 
-S. Su, V. 91-92; see also Vijñāna Bhikṣu on it, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., pp, 167-68.
+<div className="footnote-card"><strong>[8]</strong> PUIP, p. 61</div>
 
-[16]:
 
-Sāṃkhya-sūtra,, 94-95, see also Vijñāna Bhikṣu on it, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 68; EIPS, p. 366.
 
-[17]:
 
-See Vaiśeṣikadarśana., I. i. 18, 23.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Tattvasaṅgraha, Śāntarakṣita with Tattvasaṅgrahapañjikā by Kamalaśīla, Baroda: G.O.S, 1926, p. 2-3; also see Pañjikā on ibid., p. 11.
+</blockquote>
 
-[18]:
 
-Ibid., I. ii. 3.
 
-[19]:
 
-BWT, p. 116.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “sāmānyaviśeṣātmā tadartho vicayah”, Parīkṣāmukhasūtra, Māṇikyanandi, ed., and Trans., Mahendra Kumar Shastri, Bombay, 1941, IV. 1.
+</blockquote>
 
-[20]:
 
-Vaiśeṣikadarśana., I. ii. 7.
 
-[21]:
 
-Vaiśeṣikadarśana., I. ii. 8.
+<div className="footnote-card"><strong>[11]</strong> VTA, p.151; ENVC, Vol. I, p. 175.</div>
 
-[22]:
 
-dravyatvaṃ guṇatvaṃ karmatvaṃ ca sāmānyāni viśeṣācca, Ibid., I. ii. 5.
 
-[23]:
 
-sāmānyaviśeṣāpekṣaṃ dravyaguṇakarmasu, Ibid.,VIII. i. 6.
+<div className="footnote-card"><strong>[12]</strong> Ibid., pp. 149-150.</div>
 
-[24]:
 
-Ibid., VIII. i. 5.
 
-[25]:
 
-Ibid., I. ii. 4.
+<div className="footnote-card"><strong>[13]</strong> PUIP, pp. 153-154.</div>
 
-[26]:
 
-tathā ca dravyādiṣu triṣu satsaditi- prakārko yataḥ pratyayaḥ sadidaṃ sadidamityākārakaḥ śabdaprayogo vā yadadhīnaḥ sā sattā, Śaṅkaramiśra on ibid., I. ii. 7. Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 90.
 
-[27]:
 
-dravyaguṇakarmabhyo'rthāntaram, Vaiśeṣikadarśana., I. ii. 8; Loc. cit., I. ii. 4.
+<div className="footnote-card"><strong>[14]</strong> EIPS, IV, pp. 365-66.</div>
 
-[28]:
 
-Bhāvaḥ sattā anuvṛttereva hetuḥ na tu vyāvṛtterapi hetuḥ, Śaṅkarāmiśra on Vaiśeṣikadarśana., I. ii. 4, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 85.
 
-[29]:
 
-dravyādīnāṃ trayāṇāmapi sattāsaṃbandhaḥ, sāmānyaviśeṣavatvaṃ, svasamayārthasabdābhidheyatvaṃ dharmādharmakartṛtvañca, Praśastapādabhāṣya., pp. 43 - 44. vaiśeṣikaiḥ svayaṃ vyavahārāya yaḥ saṅketaḥ kṛto'smin śāstre'arthaśabdād dravyaguṇakarmāṇi pratipattavyāni, iti; see Nyāyakandalī on ibid., p. 45.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> S. Su, V. 91-92; see also Vijñāna Bhikṣu on it, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., pp, 167-68.
+</blockquote>
 
-[30]:
 
-Vaiśeṣikadarśana., I. ii. 5; sāmānyāni viśeṣāścetyatrā'samāsaḥ sāmānyatve satyeva viśeṣatvaṃ yathā jñeyata tadarthaṃ, Śaṅkarāmiśra on Ibid; Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 86; dravyatvādyaparaṃ, alpaviṣayatvāt. tacca vyāvṛtterapi hetutvāt sāmānyaṃ sadviśeṣākhyamapi. Praśastapādabhāṣya., p. 30. Latter thinkers like Viswanātha classifies universal into two: Higher (para) and Lower (apara) and calls the “universal particularities” by the term parāpara: “dravyādikajātistu parāparatayocyate”, NSMK, p. 43.
 
-[31]:
 
-Actually this is the intended sense of the Vaiśeṣikadarśana., I. ii. 3, See supra, p. 61.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Sāṃkhya-sūtra,, 94-95, see also Vijñāna Bhikṣu on it, Sāṃkhyadarśana (with Sāṃkhyapravacanabhāṣya of Sri Vijñana Bhikṣu)., p. 68; EIPS, p. 366.
+</blockquote>
 
-[32]:
 
-sāmānyādīnāṃ trayāṇāṃ svātmasattvaṃ buddhilakṣaṇatvaṃ, Praśastapādabhāṣya., p. 49.
 
-[33]:
 
-buddhireva lakṣaṇaṃ pramāṇaṃ eṣāṃ te buddhilakṣaṇāḥ, vipratipannasāmanyādisadbhāve buddhireva lakṣaṇaṃ nānyat, Nyāyakandalī on ibid., Praśastapādabhāṣya., p. 50.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> See Vaiśeṣikadarśana., I. i. 18, 23.
+</blockquote>
 
-[34]:
 
-ENVC, Vol. I, p. 211.
 
-[35]:
 
-The word viśeṣa is derived from the root “śiṣ” by prefixing “vi” and adding the suffix “ghañ”. CSP, p. 195.
+<div className="footnote-card"><strong>[18]</strong> Ibid., I. ii. 3.</div>
 
-[36]:
 
-vināśaraṃbharahiteṣu nityadravyeṣvākāśakāladigātmamanassu pratidravyamekaikaśo vartamānā atyantavyāvṛttibuddhihetuḥ. Praśastapādabhāṣya., p.766; see also ibid., p. 36; NSMK, p. 50; nityadravyavṛttayo vyāvartakāḥ viśeṣāḥ., TSA, p.61.
 
-[37]:
 
-sarvadā sarvabhāvānāṃ sāmānyaṃ vṛddhikāraṇaṃ, hrāsahetur-viśeṣaśca ca pravṛttirubhayasya tu, C Sāṃkhya-sūtra,, I. 44 sāmānyamekatva-karaṃ, viśeṣastu pṛthaktvakṛt, tulyārthatā hi sāmānyaṃ, viśeṣastu viparyayaḥ, Ibid., 45.
+<div className="footnote-card"><strong>[19]</strong> BWT, p. 116.</div>
 
-[38]:
 
-“Here also Āyurveda differs from Vaiśeṣika in the sense that the latter uses sāmānya and viśeṣa for class (jāti) and individual (vyakti) respectively but in the former they denote similarity (tulyārthatā) and dis-similarity (viparyaya).......”, PVS, p.166; LC, p. 6. Probably this opinion might be due to the influence of the articulation regarding increase and decrease in Aṣṭāṅgasaṅgraha of Vāgbhaṭa. and Aṣṭāṅgahṛdaya of Vāgbhaṭa.. vṛddhiḥ samanaiḥ sarveṣāṃ viparītairviparyayaḥ, Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 11; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 13.
 
-[39]:
 
-“..........universal is present only in objects belonging to one and the same category........, a similarity exists also in objects belonging to different categories......”, Antonella Comba, Universal (sāmānya) and Particular (viśeṣa) in Vaiśeṣika and Āyurveda, Journal of the European Āyurvedic society1, 1990, p. 19. Viśvanātha, refuting similarity as a category, states that similarity is not a category, but it means the possession, by a thing which is different from some other thing, of many of the attributes of the latter. For instance, the similarity of a face to the moon co-exists in its being different from the moon and at the same time possessing the gladdening and other attributes of the latter. See NSMK, pp. 31 - 32.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Vaiśeṣikadarśana., I. ii. 7.
+</blockquote>
 
-[40]:
 
-Cakrapāṇi on CS, Su, I. 45.
 
-[41]:
 
-“yataḥ sarvabhāvānāṃ sāmānyamekatvakaraṃ melanamekībhāvaṃ karoti, tasmāt teṣāṃ vṛddhikāraṇamiti”. Jalpakalpataru on C Sāṃkhya-sūtra,, I. 45, C SJ, Vol. I, p. 40.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Vaiśeṣikadarśana., I. ii. 8.
+</blockquote>
 
-[42]:
 
-samānaprasavātmikā jātiḥ. Nyāyasūtra., II. ii. 70. “.........yacca keṣāṃcidabhedaṃ keṣāṃcit bhedaṃ tat sāmānyaviśeṣo jātiriti” Vatsyayana on Ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 215.
 
-[43]:
 
-HIPS, Vol.II, p. 371; see ENVC, p.110.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> dravyatvaṃ guṇatvaṃ karmatvaṃ ca sāmānyāni viśeṣācca, Ibid., I. ii. 5.
+</blockquote>
 
-[44]:
 
-ekatvakaramityasya na ekatvabuddhikaramityevārthaḥ kintu prayogānantaraṃ sātmyībhāvena dhātunā saha ekarūpatāpādakamityarthaḥ cikitsādṛṣṭyā kartumucitaḥ iti, AMS p. 255.
 
-[45]:
 
-Loc. cit., F. Note, 260.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> sāmānyaviśeṣāpekṣaṃ dravyaguṇakarmasu, Ibid.,VIII. i. 6.
+</blockquote>
 
-[46]:
 
-Antonella Comba, Univresal (sāmānya) and Pariticular (viśeṣa) in Vaiśeṣika and Āyurveda, Journal of European Āyurvedic Society 1, p. 24.
 
-[47]:
 
-etacca sāmānyaṃ sāmānyavato māṃsadravyādeḥ vṛddhikāraṇasya lakṣaṇtvena vṛddhikāraṇamityuktaṃ. yato na sāmānyāṃ māṃsatvajātirūpaṃ vṛddhau kāraṇaṃ bhavati,.....ata eva vaiśeṣike'pyuktaṃ: “trayāṇāmakāryatvamakāraṇatvañca”, Cakrapāṇi on CS, Su, I. 44, p. 9. See supra, p. 32-33.
+<div className="footnote-card"><strong>[24]</strong> Ibid., VIII. i. 5.</div>
 
-[48]:
 
-sarveṣāṃ bhāvānāṃ dravyaguṇakarmāṇāṃ sāmānyaṃ vṛddhikāraṇaṃ hetuḥ prayojakamityeko arthaḥ, Jalpakapataru on CS,Su, I. 44; CSJ, Vol.I, p. 35.
 
-[49]:
 
-HIPS, Vol. II, p.320
+<div className="footnote-card"><strong>[25]</strong> Ibid., I. ii. 4.</div>
 
-[50]:
 
-yaugapadyena tu virodhināṃ dhātūnāṃ vṛddhihrāsau bhavātaḥ. yaddhi yasya dhātorvṛddhikaraṃ tattato viparītaguṇasya dhātoḥ pratyavāyakaraṃ saṃpadyate. CS, Śārīra - sthāna, VI. 5.
 
-[51]:
 
-śabdo yugapadanekāneva śabdenekakālamārabhate, tathagniḥ prakaśadāhau yugapatkaroti. Cakrapāṇi on CS, Su, I. 45.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> tathā ca dravyādiṣu triṣu satsaditi- prakārko yataḥ pratyayaḥ sadidaṃ sadidamityākārakaḥ śabdaprayogo vā yadadhīnaḥ sā sattā, Śaṅkaramiśra on ibid., I. ii. 7. Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 90.
+</blockquote>
 
-[52]:
 
-CS, Śārīra - sthāna, VI. 6.
 
-[53]:
 
-kāmaśokabhayakrodhaharṣerṣyālobhasaṃbhavān parasparapratidvandvairebhireva śamaṃ nayet......, CS, Cikitsa - sthāna, IX. 86.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> dravyaguṇakarmabhyo'rthāntaram, Vaiśeṣikadarśana., I. ii. 8; Loc. cit., I. ii. 4.
+</blockquote>
 
-[54]:
 
-Cakrapāṇi on CS, Su, I. 45.
 
-[55]:
 
-Loc. cit., F. Note, 260.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Bhāvaḥ sattā anuvṛttereva hetuḥ na tu vyāvṛtterapi hetuḥ, Śaṅkarāmiśra on Vaiśeṣikadarśana., I. ii. 4, Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 85.
+</blockquote>
 
-[56]:
 
-Ibid.
 
-[57]:
 
-anye tu vyākhyānayanti yat trividhaṃ sāmānyaṃ, viśeṣaśca trividhaḥyathā drvagocaraḥ guṇacoraḥ karmagocaraśca tatra sarvadetyādinā... tadetadbhaṭṭāraharicandreṇaiva dūṣitaṃ, yataḥ sarvadetyādinaiva lakṣaṇena trividhamapi sāmānyaṃ labhyate, tenāsmin pakṣe sāmānyamekatvakaramityādyavācyaṃ syāditi kṛtvā. Cakrapāṇi on C.Sāṃkhya-sūtra,.1.45.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> dravyādīnāṃ trayāṇāmapi sattāsaṃbandhaḥ, sāmānyaviśeṣavatvaṃ, svasamayārthasabdābhidheyatvaṃ dharmādharmakartṛtvañca, Praśastapādabhāṣya., pp. 43 - 44. vaiśeṣikaiḥ svayaṃ vyavahārāya yaḥ saṅketaḥ kṛto'smin śāstre'arthaśabdād dravyaguṇakarmāṇi pratipattavyāni, iti; see Nyāyakandalī on ibid., p. 45.
+</blockquote>
 
-[58]:
 
-anye tu paśyanti- yastrividhaṃ sāmānyaṃ- atyantasāmānyaṃ, madhyasāmānyaṃ ekadeśasāmānyaṃ ca..... ceti nātiśraddhākaraṃ. Cakrapāṇi on CS, Su, I. 45.
 
-[59]:
 
-asmanmate tu sāmānyaṃ vṛddhau kāraṇameva bhavatīti sāmānyaṃ vṛddhikāraṇatvena niyamyate; na tu vṛddhiḥ sāmānykāraṇikaiveti niyamyate tenāsamānādapi vṛddhirbhavati nirdoṣā., Cakrapāṇi on CS, Su, I. 45.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Vaiśeṣikadarśana., I. ii. 5; sāmānyāni viśeṣāścetyatrā'samāsaḥ sāmānyatve satyeva viśeṣatvaṃ yathā jñeyata tadarthaṃ, Śaṅkarāmiśra on Ibid; Vaiśeṣikopaskāra of Śaṅkaramiśra., p. 86; dravyatvādyaparaṃ, alpaviṣayatvāt. tacca vyāvṛtterapi hetutvāt sāmānyaṃ sadviśeṣākhyamapi. Praśastapādabhāṣya., p. 30. Latter thinkers like Viswanātha classifies universal into two: Higher (para) and Lower (apara) and calls the “universal particularities” by the term parāpara: “dravyādikajātistu parāparatayocyate”, NSMK, p. 43.
+</blockquote>
 
-[60]:
 
-Ibid.
 
-[61]:
 
-yattūcyate-karmasāmānyaṃ neha tantre vṛddhikāraṇamasti, yato na dhāvanena vāyuḥ samāna iti;......atra brūmaḥ- karmaṇāṃ prāyaḥ prabhāvenaiva vṛddhihetutvāt sāmānyānupagrahaḥ kṛtaḥ——niṣkriyatā cāsya vātasya hrāsaḥ. Ibid.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Actually this is the intended sense of the Vaiśeṣikadarśana., I. ii. 3, See supra, p. 61.
+</blockquote>
 
-[62]:
 
-yatra tu evaṃ kāraṇaṃ cintayituṃ na pāryate tatra prabhāva eva varṇanīyaḥ. Ibid.
 
-[63]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> sāmānyādīnāṃ trayāṇāṃ svātmasattvaṃ buddhilakṣaṇatvaṃ, Praśastapādabhāṣya., p. 49.
+</blockquote>
 
-[64]:
 
-A kind of yoghurt (dadhi) not completely mature, obtained by a slow process of curdling. See CS, Su, XXVII. 228; Cikitsa - sthāna, XXI. 18.
 
-[65]:
 
-Artocarpus Lacoocha Robux. T.B. Singh and K.C. Chunekar, Glossary of Vegitable Drugs in Bṛhattrayī, Varanasi, 1972, pp. 224, 346, 351.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> buddhireva lakṣaṇaṃ pramāṇaṃ eṣāṃ te buddhilakṣaṇāḥ, vipratipannasāmanyādisadbhāve buddhireva lakṣaṇaṃ nānyat, Nyāyakandalī on ibid., Praśastapādabhāṣya., p. 50.
+</blockquote>
 
-[66]:
 
-“asati ca virodhake sāmānyaṃ vṛddhikāraṇamiti siddhāntaḥ”; Cakrapāṇi on CS, Su, I. 45.
 
-[67]:
 
-EIPK, Vol. II, p. 523.
+<div className="footnote-card"><strong>[34]</strong> ENVC, Vol. I, p. 211.</div>
 
-[68]:
 
-“bhāvo yathā tathā'bhāvaḥ kāraṇaṃ kāryavanmataḥ, pratibandho visāmagrī taddhetuḥ pratibandhakaḥ”, Nyāyakusumāñjali of Udayanācārya., I. 10, p. 35.
 
-[69]:
 
-tatra svayonivarthanānyeva pratīkāraḥ, Suśrutasaṃhitā of Suśruta., Su, XV. 8, 10. svayonivardhanamapi samānena dravyeṇa samānaguṇena samānaguṇabhūyiṣṭena vā. Dalhaṇa on Ibid., 10.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> The word viśeṣa is derived from the root “śiṣ” by prefixing “vi” and adding the suffix “ghañ”. CSP, p. 195.
+</blockquote>
 
-[70]:
 
-vṛddhiḥ samānaiḥ sarveṣāṃ viparītairviparyayaḥ, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 14. Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, p.11
 
-[71]:
 
-Anetonella Comba,, Universal (sāmānya) and Particular (viśeṣa), in Vaiśeṣika and Āyurveda, Journal of the European Āyurvedic Society 1, 1990, p. 30.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> vināśaraṃbharahiteṣu nityadravyeṣvākāśakāladigātmamanassu pratidravyamekaikaśo vartamānā atyantavyāvṛttibuddhihetuḥ. Praśastapādabhāṣya., p.766; see also ibid., p. 36; NSMK, p. 50; nityadravyavṛttayo vyāvartakāḥ viśeṣāḥ., TSA, p.61.
+</blockquote>
 
-[72]:
 
-PUIP, p. 19.
 
-[73]:
 
-BWT, p. 118.
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> sarvadā sarvabhāvānāṃ sāmānyaṃ vṛddhikāraṇaṃ, hrāsahetur-viśeṣaśca ca pravṛttirubhayasya tu, C Sāṃkhya-sūtra,, I. 44 sāmānyamekatva-karaṃ, viśeṣastu pṛthaktvakṛt, tulyārthatā hi sāmānyaṃ, viśeṣastu viparyayaḥ, Ibid., 45.
+</blockquote>
 
-[74]:
 
-“tathāpi vyaktyapekṣayā niyamo'stu, na jātyapekṣayeti cenna. niyatajātīyasvabhāvavyāghātāt”, Nyāyakusumāñjali of Udayanācārya., p. 21
 
-[75]:
 
-PUIP, pp. 19-20.
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> “Here also Āyurveda differs from Vaiśeṣika in the sense that the latter uses sāmānya and viśeṣa for class (jāti) and individual (vyakti) respectively but in the former they denote similarity (tulyārthatā) and dis-similarity (viparyaya).......”, PVS, p.166; LC, p. 6. Probably this opinion might be due to the influence of the articulation regarding increase and decrease in Aṣṭāṅgasaṅgraha of Vāgbhaṭa. and Aṣṭāṅgahṛdaya of Vāgbhaṭa.. vṛddhiḥ samanaiḥ sarveṣāṃ viparītairviparyayaḥ, Aṣṭāṅgasaṅgraha of Vāgbhaṭa., p. 11; Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 13.
+</blockquote>
 
-[76]:
 
-“kāryasamavāyikāraṇatāvacchedakatayā, samyogasya, vibhāgasya, vā samavāyikāraṇatāvacchedakatayā dravyajātisiddhiriti”, NSMK, pp. 34 - 35.
 
-[77]:
 
-sāmānyaṃ jātirūpaṃ upādhirṃpaṃ ca. Saptapadārthi of Śivāditya., p. 39.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> “..........universal is present only in objects belonging to one and the same category........, a similarity exists also in objects belonging to different categories......”, Antonella Comba, Universal (sāmānya) and Particular (viśeṣa) in Vaiśeṣika and Āyurveda, Journal of the European Āyurvedic society1, 1990, p. 19. Viśvanātha, refuting similarity as a category, states that similarity is not a category, but it means the possession, by a thing which is different from some other thing, of many of the attributes of the latter. For instance, the similarity of a face to the moon co-exists in its being different from the moon and at the same time possessing the gladdening and other attributes of the latter. See NSMK, pp. 31 - 32.
+</blockquote>
 
-[78]:
 
-Kiraṇāvalī of Udayanācārya., p. 321; See NSMK. pp. 46 - 48.
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Cakrapāṇi on CS, Su, I. 45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> “yataḥ sarvabhāvānāṃ sāmānyamekatvakaraṃ melanamekībhāvaṃ karoti, tasmāt teṣāṃ vṛddhikāraṇamiti”. Jalpakalpataru on C Sāṃkhya-sūtra,, I. 45, C SJ, Vol. I, p. 40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> samānaprasavātmikā jātiḥ. Nyāyasūtra., II. ii. 70. “.........yacca keṣāṃcidabhedaṃ keṣāṃcit bhedaṃ tat sāmānyaviśeṣo jātiriti” Vatsyayana on Ibid., Nyāya-Bhāṣya of Vātsyāyana., p. 215.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> HIPS, Vol.II, p. 371; see ENVC, p.110.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> ekatvakaramityasya na ekatvabuddhikaramityevārthaḥ kintu prayogānantaraṃ sātmyībhāvena dhātunā saha ekarūpatāpādakamityarthaḥ cikitsādṛṣṭyā kartumucitaḥ iti, AMS p. 255.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[45]</strong> Loc. cit., F. Note, 260.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Antonella Comba, Univresal (sāmānya) and Pariticular (viśeṣa) in Vaiśeṣika and Āyurveda, Journal of European Āyurvedic Society 1, p. 24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> etacca sāmānyaṃ sāmānyavato māṃsadravyādeḥ vṛddhikāraṇasya lakṣaṇtvena vṛddhikāraṇamityuktaṃ. yato na sāmānyāṃ māṃsatvajātirūpaṃ vṛddhau kāraṇaṃ bhavati,.....ata eva vaiśeṣike'pyuktaṃ: “trayāṇāmakāryatvamakāraṇatvañca”, Cakrapāṇi on CS, Su, I. 44, p. 9. See supra, p. 32-33.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> sarveṣāṃ bhāvānāṃ dravyaguṇakarmāṇāṃ sāmānyaṃ vṛddhikāraṇaṃ hetuḥ prayojakamityeko arthaḥ, Jalpakapataru on CS,Su, I. 44; CSJ, Vol.I, p. 35.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> HIPS, Vol. II, p.320</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> yaugapadyena tu virodhināṃ dhātūnāṃ vṛddhihrāsau bhavātaḥ. yaddhi yasya dhātorvṛddhikaraṃ tattato viparītaguṇasya dhātoḥ pratyavāyakaraṃ saṃpadyate. CS, Śārīra - sthāna, VI. 5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> śabdo yugapadanekāneva śabdenekakālamārabhate, tathagniḥ prakaśadāhau yugapatkaroti. Cakrapāṇi on CS, Su, I. 45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> CS, Śārīra - sthāna, VI. 6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> kāmaśokabhayakrodhaharṣerṣyālobhasaṃbhavān parasparapratidvandvairebhireva śamaṃ nayet......, CS, Cikitsa - sthāna, IX. 86.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Cakrapāṇi on CS, Su, I. 45.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[55]</strong> Loc. cit., F. Note, 260.</div>
+
+
+
+
+<div className="footnote-card"><strong>[56]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> anye tu vyākhyānayanti yat trividhaṃ sāmānyaṃ, viśeṣaśca trividhaḥyathā drvagocaraḥ guṇacoraḥ karmagocaraśca tatra sarvadetyādinā... tadetadbhaṭṭāraharicandreṇaiva dūṣitaṃ, yataḥ sarvadetyādinaiva lakṣaṇena trividhamapi sāmānyaṃ labhyate, tenāsmin pakṣe sāmānyamekatvakaramityādyavācyaṃ syāditi kṛtvā. Cakrapāṇi on C.Sāṃkhya-sūtra,.1.45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> anye tu paśyanti- yastrividhaṃ sāmānyaṃ- atyantasāmānyaṃ, madhyasāmānyaṃ ekadeśasāmānyaṃ ca..... ceti nātiśraddhākaraṃ. Cakrapāṇi on CS, Su, I. 45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> asmanmate tu sāmānyaṃ vṛddhau kāraṇameva bhavatīti sāmānyaṃ vṛddhikāraṇatvena niyamyate; na tu vṛddhiḥ sāmānykāraṇikaiveti niyamyate tenāsamānādapi vṛddhirbhavati nirdoṣā., Cakrapāṇi on CS, Su, I. 45.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[60]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> yattūcyate-karmasāmānyaṃ neha tantre vṛddhikāraṇamasti, yato na dhāvanena vāyuḥ samāna iti;......atra brūmaḥ- karmaṇāṃ prāyaḥ prabhāvenaiva vṛddhihetutvāt sāmānyānupagrahaḥ kṛtaḥ——niṣkriyatā cāsya vātasya hrāsaḥ. Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> yatra tu evaṃ kāraṇaṃ cintayituṃ na pāryate tatra prabhāva eva varṇanīyaḥ. Ibid.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[63]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> A kind of yoghurt (dadhi) not completely mature, obtained by a slow process of curdling. See CS, Su, XXVII. 228; Cikitsa - sthāna, XXI. 18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> Artocarpus Lacoocha Robux. T.B. Singh and K.C. Chunekar, Glossary of Vegitable Drugs in Bṛhattrayī, Varanasi, 1972, pp. 224, 346, 351.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> “asati ca virodhake sāmānyaṃ vṛddhikāraṇamiti siddhāntaḥ”; Cakrapāṇi on CS, Su, I. 45.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[67]</strong> EIPK, Vol. II, p. 523.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> “bhāvo yathā tathā'bhāvaḥ kāraṇaṃ kāryavanmataḥ, pratibandho visāmagrī taddhetuḥ pratibandhakaḥ”, Nyāyakusumāñjali of Udayanācārya., I. 10, p. 35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> tatra svayonivarthanānyeva pratīkāraḥ, Suśrutasaṃhitā of Suśruta., Su, XV. 8, 10. svayonivardhanamapi samānena dravyeṇa samānaguṇena samānaguṇabhūyiṣṭena vā. Dalhaṇa on Ibid., 10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> vṛddhiḥ samānaiḥ sarveṣāṃ viparītairviparyayaḥ, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 14. Aṣṭāṅgasaṅgraha of Vāgbhaṭa., Su, p.11
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Anetonella Comba,, Universal (sāmānya) and Particular (viśeṣa), in Vaiśeṣika and Āyurveda, Journal of the European Āyurvedic Society 1, 1990, p. 30.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[72]</strong> PUIP, p. 19.</div>
+
+
+
+
+<div className="footnote-card"><strong>[73]</strong> BWT, p. 118.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[74]</strong> “tathāpi vyaktyapekṣayā niyamo'stu, na jātyapekṣayeti cenna. niyatajātīyasvabhāvavyāghātāt”, Nyāyakusumāñjali of Udayanācārya., p. 21
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[75]</strong> PUIP, pp. 19-20.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> “kāryasamavāyikāraṇatāvacchedakatayā, samyogasya, vibhāgasya, vā samavāyikāraṇatāvacchedakatayā dravyajātisiddhiriti”, NSMK, pp. 34 - 35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> sāmānyaṃ jātirūpaṃ upādhirṃpaṃ ca. Saptapadārthi of Śivāditya., p. 39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> Kiraṇāvalī of Udayanācārya., p. 321; See NSMK. pp. 46 - 48.
+</blockquote>
 
 ---
 
-## 22. Fundamental Categories (padārtha or tattva) [in Charaka philosophy]
+## Fundamental Categories (padārtha or tattva) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -725,15 +996,7 @@ Fundamentally, Caraka classifies reality into two namely being (sat) and non-bei
 
 These categories are:
 
-Universal (sāmānya),
-
-Particularity (viśeṣa),
-
-Attribute (guṇa),
-
-Substance (dravya),
-
-Action (karma),
+Universal (sāmānya),, Particularity (viśeṣa),, Attribute (guṇa),, Substance (dravya),, Action (karma),
 
 Inherence (samavāya).[24]
 
@@ -761,177 +1024,265 @@ It is true that the Carakasaṃhitā indiscriminately deals with the world en ma
 
 Thus, it can be concluded that the categories, though presuppose the Vaiśeṣika-sūtra, are in no way a reiteration, but they are the categories fundamental to Āyurveda.
 
-[1]:
 
-In the Western terminology insatiable curiosity is called disinterested curiosity or general curiosity, which has the features that are disconcerting to our human, moral, and religious interests and to our tendencies to think in accordance with them. It is this general curiosity that animates and sustains what we call the theoretical exercise of intellect in a disinterested pursuit of what we call truth. Without general curiosity there would be no dispassionate scientific and philosophic enquiry, no pure science, no pursuit of learning for its own sake, no voyage of intellectual or for that matter of geographical discovery, undertaken in the spirit and for the sake of sheer adventure. FM, Contents - I, p. 6 - 7. In Indian intellectual tradition the Sanskrit word jijñāsā used in the sense of insatiable curiosity is found used in the articulations. See “athāto Brahmajijñāsā”, Brahmasūtra, I. i. 1; athāto dharmaṃ vyākhāsyāmaḥ, Vaiśeṣikadarśana., I. i. 1; athāto dīrghaṃ jīvitīyamadhyāyaṃ vyākhyāsyāmaḥ, CS, Su, I. 1; athāto dharmajijñāsā. Mīmāṃsāsūtra of Jaimini., I.i.1. However, curiosity mentioned in these articulations not to be conceived as disinterested one. On the other hand, in the pursuit of truth, it is also interested in the moral and religious bearing upon human life.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> In the Western terminology insatiable curiosity is called disinterested curiosity or general curiosity, which has the features that are disconcerting to our human, moral, and religious interests and to our tendencies to think in accordance with them. It is this general curiosity that animates and sustains what we call the theoretical exercise of intellect in a disinterested pursuit of what we call truth. Without general curiosity there would be no dispassionate scientific and philosophic enquiry, no pure science, no pursuit of learning for its own sake, no voyage of intellectual or for that matter of geographical discovery, undertaken in the spirit and for the sake of sheer adventure. FM, Contents - I, p. 6 - 7. In Indian intellectual tradition the Sanskrit word jijñāsā used in the sense of insatiable curiosity is found used in the articulations. See “athāto Brahmajijñāsā”, Brahmasūtra, I. i. 1; athāto dharmaṃ vyākhāsyāmaḥ, Vaiśeṣikadarśana., I. i. 1; athāto dīrghaṃ jīvitīyamadhyāyaṃ vyākhyāsyāmaḥ, CS, Su, I. 1; athāto dharmajijñāsā. Mīmāṃsāsūtra of Jaimini., I.i.1. However, curiosity mentioned in these articulations not to be conceived as disinterested one. On the other hand, in the pursuit of truth, it is also interested in the moral and religious bearing upon human life.
+</blockquote>
 
-[2]:
 
-Categoriology means the theory or critic of categories. See ENVC, Vol. I, p. 22.
 
-[3]:
 
-Donald Walhout, “On Categories”, The Philosophical Quarterly, XXXIV, 3, October, Amalner, 1961, p. 142.
+<div className="footnote-card"><strong>[2]</strong> Categoriology means the theory or critic of categories. See ENVC, Vol. I, p. 22.</div>
 
-[4]:
 
-K.C. Bhattacharyya, The concept of philosophy: Studies in philosophy, ed., Gopinath Bhattacharyya, Calcutta, 1958, Vol. II, p. 102.
 
-[5]:
 
-W.T. Stace claims to have used the word categorial for the first time vide his Theory of Knowledge and Existence, Oxford, 1932, p. 289; Harsh Narain who uses this word suggests that the alternative word categorical is rarely used now. See ENVC, Vol. I, p. 2.
+<div className="footnote-card"><strong>[3]</strong> Donald Walhout, “On Categories”, The Philosophical Quarterly, XXXIV, 3, October, Amalner, 1961, p. 142.</div>
 
-[6]:
 
-ENVC, Vol. I, p. 64.
 
-[7]:
 
-FM, Contents - I, p. 199.
+<div className="footnote-card"><strong>[4]</strong> K.C. Bhattacharyya, The concept of philosophy: Studies in philosophy, ed., Gopinath Bhattacharyya, Calcutta, 1958, Vol. II, p. 102.</div>
 
-[8]:
 
-Ibid., “Expressions are in no way composite signify substance, quantity, quality, relation, place, time, position, state, action or affection”. C.D.C. Reeve, “Introduction”, The Basic Works of Aristotle, ed. Richard Mckeon,University of North Carolina at Chapel Hill, the Modern Library, New York, 2001, p. 8. Harsh Narain points out that Aristotle sometimes seems to content himself with even smaller lists. See foot-notes, ENVC, Vol. I, p. 65.
 
-[9]:
 
-FM, Contents - II, p. 222.
+<div className="footnote-card"><strong>[5]</strong> W.T. Stace claims to have used the word categorial for the first time vide his Theory of Knowledge and Existence, Oxford, 1932, p. 289; Harsh Narain who uses this word suggests that the alternative word categorical is rarely used now. See ENVC, Vol. I, p. 2.</div>
 
-[10]:
 
-ENVC, Vol. I, p. 78.
 
-[11]:
 
-sup tiṅantaṃ padaṃ, Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., I. iv.14.
+<div className="footnote-card"><strong>[6]</strong> ENVC, Vol. I, p. 64.</div>
 
-[12]:
 
-When the meaning of the component parts of the word is understood, that word is called yaugika: “yatrāvayavārtha eva budhyate tadyaugikaṃ”. NSMK, p. 315.
 
-[13]:
 
-tatra prḥthivyādīni bhūtāni catvāri tattvāni, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 2.
+<div className="footnote-card"><strong>[7]</strong> FM, Contents - I, p. 199.</div>
 
-[14]:
 
-atra saṃkṣepatastvajīvājīvākhye dve tatve staḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 67. The English word “not- souls” is used as equivalent for the Sanskrit word ajīva by Satchidananda Murty. Ṣaḍdarśanasamucaya of Haribhadra., p. 63;K.B. Jindal calls ajīva padārthas as physical objects. EJ, p. 44.
 
-[15]:
 
-Ṣaḍdarśanasamucaya of Haribhadra., p.5; see also VNK, p. 27.
+<div className="footnote-card"><strong>[8]</strong> Ibid., “Expressions are in no way composite signify substance, quantity, quality, relation, place, time, position, state, action or affection”. C.D.C. Reeve, “Introduction”, The Basic Works of Aristotle, ed. Richard Mckeon,University of North Carolina at Chapel Hill, the Modern Library, New York, 2001, p. 8. Harsh Narain points out that Aristotle sometimes seems to content himself with even smaller lists. See foot-notes, ENVC, Vol. I, p. 65.</div>
 
-[16]:
 
-dukhaṃ saṃsāriṇaḥ skandhāḥ, te ca pañca prakīrtitāḥ vijñānaṃ vedanā saṃjñā saṃskāro rūpameva ca. Ṣaḍdarśanasamucaya of Haribhadra., p. 6.
 
-[17]:
 
-mūlaprakṛtiravikṛtirmahadādyāḥ sapta ṣodaśakastu vikāro, na prakṛtirna vikṛtiḥ puruṣaḥ, Sāṃkhyakārikā, 3.
+<div className="footnote-card"><strong>[9]</strong> FM, Contents - II, p. 222.</div>
 
-[18]:
 
-dharmaviśeṣaprasūtāt dravyaguṇakarmasāmānyaviśeṣa samavāyānāṃ sādharmyavaidharmyābhyaṃ tattvajñānānniśreyasaṃ. Vaiśeṣikadarśana., I. i. 4.
 
-[19]:
 
-pramāṇa-prameya-saṃśaya-prayojana-dṛstānta-siddhānta-avayavatarka-nirṇaya-vāda-jalpa-vitaṇdā-hetvābhāsa-chala-jātinigrahasthānānāṃ tattvajñānāt niśreyasādhigamaḥ. Nyāyasūtra., I. i. 1.
+<div className="footnote-card"><strong>[10]</strong> ENVC, Vol. I, p. 78.</div>
 
-[20]:
 
-dravyaguṇakarmasāmānyaviśeṣasamavāyabāvāḥ sapta padārthāḥ, TSA, p. 2; Saptapadārthi of Śivāditya., p.5; NSMK, Kārikā, 2, p. 26.
 
-[21]:
 
-cidacidātmakau dvau padārthau iti māyāvādino vedāntina āhuḥ. Nyāyakośa., p. 464.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> sup tiṅantaṃ padaṃ, Aṣṭādhyāyī-sūtrapāṭha of Pāṇini., I. iv.14.
+</blockquote>
 
-[22]:
 
-HSPCIC, Vol. II, Part—4, p. 183.
 
-[23]:
 
-dvivdhameva khalu sarvaṃ saccāsacca, CS, Su. XI. 17.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> When the meaning of the component parts of the word is understood, that word is called yaugika: “yatrāvayavārtha eva budhyate tadyaugikaṃ”. NSMK, p. 315.
+</blockquote>
 
-[24]:
 
-sāmānyaṃ ca viśeṣaṃ ca guṇān dravyāṇi karma ca samavāyaṃ ca tatjñatvā tantroktaṃ vidhimāsthitāḥ. CS, Su. I. 28.
 
-[25]:
 
-CST, Vol. I, p. 22.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> tatra prḥthivyādīni bhūtāni catvāri tattvāni, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 2.
+</blockquote>
 
-[26]:
 
-HIPS, Vol. II, p. 369.
 
-[27]:
 
-FIC, Vol. I, p. 234; “Further a critical survey of the entire text of Caraka reveals the fact that he was highly influenced by the Vaiśeṣikas and the Sāṃkhyas. The first conception of the individual proceeds from the stand point of Vaiśeṣika and the last from that of Sāṃkhya”. ODST, p. 100.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> atra saṃkṣepatastvajīvājīvākhye dve tatve staḥ, Sarva-Darśana-Saṃgraha of Sāyaṇa-Mādhava., p. 67. The English word “not- souls” is used as equivalent for the Sanskrit word ajīva by Satchidananda Murty. Ṣaḍdarśanasamucaya of Haribhadra., p. 63;K.B. Jindal calls ajīva padārthas as physical objects. EJ, p. 44.
+</blockquote>
 
-[28]:
 
-IM, p. 8.
 
-[29]:
 
-The basic question of philosophy is “Why are there essents, why is there anything at all, rather than nothing”. Ibid, p. 1. “Essents” = “existents”, “things that are” see F. notes, ibid.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Ṣaḍdarśanasamucaya of Haribhadra., p.5; see also VNK, p. 27.
+</blockquote>
 
-[30]:
 
-Ibid., p. 10.
 
-[31]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> dukhaṃ saṃsāriṇaḥ skandhāḥ, te ca pañca prakīrtitāḥ vijñānaṃ vedanā saṃjñā saṃskāro rūpameva ca. Ṣaḍdarśanasamucaya of Haribhadra., p. 6.
+</blockquote>
 
-[32]:
 
-ṣaṇṇāmapi padārthānāmastitvābhidheyatvajñeyatvāni. Praśastapādabhāṣya., p. 41.
 
-[33]:
 
-pramitiviṣayāḥ padārthāḥ. Saptapadārthi of Śivāditya., p. 4; padasya arthaḥ padārthaḥ iti vyutpatyābhidheyatvaṃ padārtha sāmānyalakṣaṇaṃ. See Dīpikā, TSA, p. 2; “saptānāmapi sādharmyaṃ jñeyatvādikamucyate”. NSMK, p. 67.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> mūlaprakṛtiravikṛtirmahadādyāḥ sapta ṣodaśakastu vikāro, na prakṛtirna vikṛtiḥ puruṣaḥ, Sāṃkhyakārikā, 3.
+</blockquote>
 
-[34]:
 
-vyaktyākṛtijātayastu padārthaḥ. Nyāyasūtra., II. ii. 65.
 
-[35]:
 
-For details see “Introduction”, Viṣayatāvāda, Hrirāma Tarkālaṅkāra., pp. xiv-xv.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> dharmaviśeṣaprasūtāt dravyaguṇakarmasāmānyaviśeṣa samavāyānāṃ sādharmyavaidharmyābhyaṃ tattvajñānānniśreyasaṃ. Vaiśeṣikadarśana., I. i. 4.
+</blockquote>
 
-[36]:
 
-artha iti dravyaguṇakarmasu. Vaiśeṣikadarśana., VIII. ii. 3; “dravyādīnāṃ trayāṇāmapi sattāsaṃbandhaḥ,............svasamavāyārtha śabdābhidheyatvñca”. Praśastapādabhāṣya., p. 45; nirupapadenārthaśabdena dravyādaya evābhidhīyante, Kiraṇāvalī of Udayanācārya., p. 246 For details see CSP, p. 37.
 
-[37]:
 
-Substance being the substratum of all other categories, it is placed first in the Vaiśeṣika - sūtra.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> pramāṇa-prameya-saṃśaya-prayojana-dṛstānta-siddhānta-avayavatarka-nirṇaya-vāda-jalpa-vitaṇdā-hetvābhāsa-chala-jātinigrahasthānānāṃ tattvajñānāt niśreyasādhigamaḥ. Nyāyasūtra., I. i. 1.
+</blockquote>
 
-[38]:
 
-“.....sāmānyajñanamūlatvāccāyurvedapravṛtyupāyasya hetvādeḥ sāmānyamagre nirdiśati”. Cakrapāni on CS, Su, I. 44.
 
-[39]:
 
-“sāmānyaṃca viśeṣaṃ ca” ityādau guṇānādau nirdiśatā guṇānāmeva rasādīnām prāyaḥ śāstre kārmukatvamupadiśyate. Cakrapāni on Ibid., 48.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> dravyaguṇakarmasāmānyaviśeṣasamavāyabāvāḥ sapta padārthāḥ, TSA, p. 2; Saptapadārthi of Śivāditya., p.5; NSMK, Kārikā, 2, p. 26.
+</blockquote>
 
-[40]:
 
-ityuktaṃ kāraṇaṃ, kāryaṃ dhātusāmyamihocyate dhātusāmyakriyā coktā tantrasyāsya prayojanaṃ. Ibid., 53.
 
-[41]:
 
-Loc. cit., F. Note, 18.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> cidacidātmakau dvau padārthau iti māyāvādino vedāntina āhuḥ. Nyāyakośa., p. 464.
+</blockquote>
 
-[42]:
 
-Caraka does not use the term padārtha or any such general term for the categories he has enumerated.
+
+
+<div className="footnote-card"><strong>[22]</strong> HSPCIC, Vol. II, Part—4, p. 183.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> dvivdhameva khalu sarvaṃ saccāsacca, CS, Su. XI. 17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> sāmānyaṃ ca viśeṣaṃ ca guṇān dravyāṇi karma ca samavāyaṃ ca tatjñatvā tantroktaṃ vidhimāsthitāḥ. CS, Su. I. 28.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> CST, Vol. I, p. 22.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> HIPS, Vol. II, p. 369.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> FIC, Vol. I, p. 234; “Further a critical survey of the entire text of Caraka reveals the fact that he was highly influenced by the Vaiśeṣikas and the Sāṃkhyas. The first conception of the individual proceeds from the stand point of Vaiśeṣika and the last from that of Sāṃkhya”. ODST, p. 100.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> IM, p. 8.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> The basic question of philosophy is “Why are there essents, why is there anything at all, rather than nothing”. Ibid, p. 1. “Essents” = “existents”, “things that are” see F. notes, ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Ibid., p. 10.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Ibid.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> ṣaṇṇāmapi padārthānāmastitvābhidheyatvajñeyatvāni. Praśastapādabhāṣya., p. 41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> pramitiviṣayāḥ padārthāḥ. Saptapadārthi of Śivāditya., p. 4; padasya arthaḥ padārthaḥ iti vyutpatyābhidheyatvaṃ padārtha sāmānyalakṣaṇaṃ. See Dīpikā, TSA, p. 2; “saptānāmapi sādharmyaṃ jñeyatvādikamucyate”. NSMK, p. 67.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> vyaktyākṛtijātayastu padārthaḥ. Nyāyasūtra., II. ii. 65.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> For details see “Introduction”, Viṣayatāvāda, Hrirāma Tarkālaṅkāra., pp. xiv-xv.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> artha iti dravyaguṇakarmasu. Vaiśeṣikadarśana., VIII. ii. 3; “dravyādīnāṃ trayāṇāmapi sattāsaṃbandhaḥ,............svasamavāyārtha śabdābhidheyatvñca”. Praśastapādabhāṣya., p. 45; nirupapadenārthaśabdena dravyādaya evābhidhīyante, Kiraṇāvalī of Udayanācārya., p. 246 For details see CSP, p. 37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Substance being the substratum of all other categories, it is placed first in the Vaiśeṣika - sūtra.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> “.....sāmānyajñanamūlatvāccāyurvedapravṛtyupāyasya hetvādeḥ sāmānyamagre nirdiśati”. Cakrapāni on CS, Su, I. 44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> “sāmānyaṃca viśeṣaṃ ca” ityādau guṇānādau nirdiśatā guṇānāmeva rasādīnām prāyaḥ śāstre kārmukatvamupadiśyate. Cakrapāni on Ibid., 48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> ityuktaṃ kāraṇaṃ, kāryaṃ dhātusāmyamihocyate dhātusāmyakriyā coktā tantrasyāsya prayojanaṃ. Ibid., 53.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> Loc. cit., F. Note, 18.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka does not use the term padārtha or any such general term for the categories he has enumerated.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -940,10 +1291,6 @@ Caraka does not use the term padārtha or any such general term for the categori
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Fundamental Theories: Philosophy Of Charaka Samhita Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

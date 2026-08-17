@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Military Surgery within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 28. Chapter 18 - Military Surgery
+## Chapter 18 - Military Surgery
 
 History of Indian Medicine (and Ayurveda)
 
@@ -265,7 +265,7 @@ Listening to this heroic utterance, all applauded and the surgeons left him to h
 
 ---
 
-## 29. Chapter 16 - Urban Medical Relief
+## Chapter 16 - Urban Medical Relief
 
 History of Indian Medicine (and Ayurveda)
 
@@ -375,7 +375,7 @@ Thus we see that even in that bygone age the medical profession was a popular on
 
 ---
 
-## 30. Chapter 17 - The Royal Physician
+## Chapter 17 - The Royal Physician
 
 History of Indian Medicine (and Ayurveda)
 
@@ -595,8 +595,6 @@ Being such a royal physician, we may admit, demanded all the wisdom, caution and
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -604,10 +602,6 @@ Being such a royal physician, we may admit, demanded all the wisdom, caution and
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Nursing: History Of Indian Medicine And Ayurveda Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Religion during the period of Someshvara III within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. 3. Religion during the period of Someshvara III
+## 3. Religion during the period of Someshvara III
 
 Manasollasa (study of Arts and Sciences)
 
@@ -31,7 +31,7 @@ i 99 an important matter in religious rituals. It is to be noted that different 
 
 ---
 
-## 18. 2. Concept of Dharma and Danda
+## 2. Concept of Dharma and Danda
 
 Manasollasa (study of Arts and Sciences)
 
@@ -65,8 +65,6 @@ The Manasollasa while referring to the administration of justice mentions many t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -74,10 +72,6 @@ The Manasollasa while referring to the administration of justice mentions many t
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">4. Social Customs described in the Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

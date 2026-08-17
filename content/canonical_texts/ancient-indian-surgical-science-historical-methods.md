@@ -13,100 +13,98 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Ancient Indian Surgical Science Chapter 1](/articles/ancient-indian-surgical-science-historical-methods-ch1)
+### [General Discourse: Ancient Indian Surgical Science Chapter 1](/articles/ancient-indian-surgical-science-historical-methods-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Ancient Indian Surgical Science.
 
-### 2. [4. Veterinary science in Ayurveda: Ancient Indian Surgical Science Chapter 2](/articles/ancient-indian-surgical-science-historical-methods-ch2)
+### [4. Veterinary science in Ayurveda: Ancient Indian Surgical Science Chapter 2](/articles/ancient-indian-surgical-science-historical-methods-ch2)
 **Overview**: Detailed classical discussion on 4. Veterinary science in Ayurveda within Ancient Indian Surgical Science.
 
-### 3. [10. Ayurveda in the Smritis: Ancient Indian Surgical Science Chapter 3](/articles/ancient-indian-surgical-science-historical-methods-ch3)
+### [10. Ayurveda in the Smritis: Ancient Indian Surgical Science Chapter 3](/articles/ancient-indian-surgical-science-historical-methods-ch3)
 **Overview**: Detailed classical discussion on 10. Ayurveda in the Smritis within Ancient Indian Surgical Science.
 
-### 4. [7. Description of Medicinal plants: Ancient Indian Surgical Science Chapter 4](/articles/ancient-indian-surgical-science-historical-methods-ch4)
+### [7. Description of Medicinal plants: Ancient Indian Surgical Science Chapter 4](/articles/ancient-indian-surgical-science-historical-methods-ch4)
 **Overview**: Detailed classical discussion on 7. Description of Medicinal plants within Ancient Indian Surgical Science.
 
-### 5. [15. Ayurveda and Panini: Ancient Indian Surgical Science Chapter 5](/articles/ancient-indian-surgical-science-historical-methods-ch5)
+### [15. Ayurveda and Panini: Ancient Indian Surgical Science Chapter 5](/articles/ancient-indian-surgical-science-historical-methods-ch5)
 **Overview**: Detailed classical discussion on 15. Ayurveda and Panini within Ancient Indian Surgical Science.
 
-### 6. [16. Conclusion and References: Ancient Indian Surgical Science Chapter 6](/articles/ancient-indian-surgical-science-historical-methods-ch6)
+### [16. Conclusion and References: Ancient Indian Surgical Science Chapter 6](/articles/ancient-indian-surgical-science-historical-methods-ch6)
 **Overview**: Detailed classical discussion on 16. Conclusion and References within Ancient Indian Surgical Science.
 
-### 7. [4. Surgery in the time of Vedas: Ancient Indian Surgical Science Chapter 7](/articles/ancient-indian-surgical-science-historical-methods-ch7)
+### [4. Surgery in the time of Vedas: Ancient Indian Surgical Science Chapter 7](/articles/ancient-indian-surgical-science-historical-methods-ch7)
 **Overview**: Detailed classical discussion on 4. Surgery in the time of Vedas within Ancient Indian Surgical Science.
 
-### 8. [7. Surgery in the Puranas: Ancient Indian Surgical Science Chapter 8](/articles/ancient-indian-surgical-science-historical-methods-ch8)
+### [7. Surgery in the Puranas: Ancient Indian Surgical Science Chapter 8](/articles/ancient-indian-surgical-science-historical-methods-ch8)
 **Overview**: Detailed classical discussion on 7. Surgery in the Puranas within Ancient Indian Surgical Science.
 
-### 9. [8. Surgery in the Venisamhara: Ancient Indian Surgical Science Chapter 9](/articles/ancient-indian-surgical-science-historical-methods-ch9)
+### [8. Surgery in the Venisamhara: Ancient Indian Surgical Science Chapter 9](/articles/ancient-indian-surgical-science-historical-methods-ch9)
 **Overview**: Detailed classical discussion on 8. Surgery in the Venisamhara within Ancient Indian Surgical Science.
 
-### 10. [12. Nagarjuna Acharya and Surgery: Ancient Indian Surgical Science Chapter 10](/articles/ancient-indian-surgical-science-historical-methods-ch10)
+### [12. Nagarjuna Acharya and Surgery: Ancient Indian Surgical Science Chapter 10](/articles/ancient-indian-surgical-science-historical-methods-ch10)
 **Overview**: Detailed classical discussion on 12. Nagarjuna Acharya and Surgery within Ancient Indian Surgical Science.
 
-### 11. [17. References of Surgery in Rajatarangini: Ancient Indian Surgical Science Chapter 11](/articles/ancient-indian-surgical-science-historical-methods-ch11)
+### [17. References of Surgery in Rajatarangini: Ancient Indian Surgical Science Chapter 11](/articles/ancient-indian-surgical-science-historical-methods-ch11)
 **Overview**: Detailed classical discussion on 17. References of Surgery in Rajatarangini within Ancient Indian Surgical Science.
 
-### 12. [18. Surgery in Charaka Samhita: Ancient Indian Surgical Science Chapter 12](/articles/ancient-indian-surgical-science-historical-methods-ch12)
+### [18. Surgery in Charaka Samhita: Ancient Indian Surgical Science Chapter 12](/articles/ancient-indian-surgical-science-historical-methods-ch12)
 **Overview**: Detailed classical discussion on 18. Surgery in Charaka Samhita within Ancient Indian Surgical Science.
 
-### 13. [20. Notes and References: Ancient Indian Surgical Science Chapter 13](/articles/ancient-indian-surgical-science-historical-methods-ch13)
+### [20. Notes and References: Ancient Indian Surgical Science Chapter 13](/articles/ancient-indian-surgical-science-historical-methods-ch13)
 **Overview**: Detailed classical discussion on 20. Notes and References within Ancient Indian Surgical Science.
 
-### 14. [8. Identity of Aurabhra: Ancient Indian Surgical Science Chapter 14](/articles/ancient-indian-surgical-science-historical-methods-ch14)
+### [8. Identity of Aurabhra: Ancient Indian Surgical Science Chapter 14](/articles/ancient-indian-surgical-science-historical-methods-ch14)
 **Overview**: Detailed classical discussion on 8. Identity of Aurabhra within Ancient Indian Surgical Science.
 
-### 15. [7. Identity of Karavirya: Ancient Indian Surgical Science Chapter 15](/articles/ancient-indian-surgical-science-historical-methods-ch15)
+### [7. Identity of Karavirya: Ancient Indian Surgical Science Chapter 15](/articles/ancient-indian-surgical-science-historical-methods-ch15)
 **Overview**: Detailed classical discussion on 7. Identity of Karavirya within Ancient Indian Surgical Science.
 
-### 16. [12. Notes and References: Ancient Indian Surgical Science Chapter 16](/articles/ancient-indian-surgical-science-historical-methods-ch16)
+### [12. Notes and References: Ancient Indian Surgical Science Chapter 16](/articles/ancient-indian-surgical-science-historical-methods-ch16)
 **Overview**: Detailed classical discussion on 12. Notes and References within Ancient Indian Surgical Science.
 
-### 17. [3. The period of Rational Medicine: Ancient Indian Surgical Science Chapter 17](/articles/ancient-indian-surgical-science-historical-methods-ch17)
+### [3. The period of Rational Medicine: Ancient Indian Surgical Science Chapter 17](/articles/ancient-indian-surgical-science-historical-methods-ch17)
 **Overview**: Detailed classical discussion on 3. The period of Rational Medicine within Ancient Indian Surgical Science.
 
-### 18. [5. Description of the Sushruta Samhita: Ancient Indian Surgical Science Chapter 18](/articles/ancient-indian-surgical-science-historical-methods-ch18)
+### [5. Description of the Sushruta Samhita: Ancient Indian Surgical Science Chapter 18](/articles/ancient-indian-surgical-science-historical-methods-ch18)
 **Overview**: Detailed classical discussion on 5. Description of the Sushruta Samhita within Ancient Indian Surgical Science.
 
-### 19. [6. Contents of the Sushruta Samhita: Ancient Indian Surgical Science Chapter 19](/articles/ancient-indian-surgical-science-historical-methods-ch19)
+### [6. Contents of the Sushruta Samhita: Ancient Indian Surgical Science Chapter 19](/articles/ancient-indian-surgical-science-historical-methods-ch19)
 **Overview**: Detailed classical discussion on 6. Contents of the Sushruta Samhita within Ancient Indian Surgical Science.
 
-### 20. [15. Conclusion and References: Ancient Indian Surgical Science Chapter 20](/articles/ancient-indian-surgical-science-historical-methods-ch20)
+### [15. Conclusion and References: Ancient Indian Surgical Science Chapter 20](/articles/ancient-indian-surgical-science-historical-methods-ch20)
 **Overview**: Detailed classical discussion on 15. Conclusion and References within Ancient Indian Surgical Science.
 
-### 21. [14. Sushruta—The seed of Medical Science: Ancient Indian Surgical Science Chapter 21](/articles/ancient-indian-surgical-science-historical-methods-ch21)
+### [14. Sushruta—The seed of Medical Science: Ancient Indian Surgical Science Chapter 21](/articles/ancient-indian-surgical-science-historical-methods-ch21)
 **Overview**: Detailed classical discussion on 14. Sushruta—The seed of Medical Science within Ancient Indian Surgical Science.
 
-### 22. [4. Classification of Surgical Instruments: Ancient Indian Surgical Science Chapter 22](/articles/ancient-indian-surgical-science-historical-methods-ch22)
+### [4. Classification of Surgical Instruments: Ancient Indian Surgical Science Chapter 22](/articles/ancient-indian-surgical-science-historical-methods-ch22)
 **Overview**: Detailed classical discussion on 4. Classification of Surgical Instruments within Ancient Indian Surgical Science.
 
-### 23. [6. Application of the Samdamsha instrument: Ancient Indian Surgical Science Chapter 23](/articles/ancient-indian-surgical-science-historical-methods-ch23)
+### [6. Application of the Samdamsha instrument: Ancient Indian Surgical Science Chapter 23](/articles/ancient-indian-surgical-science-historical-methods-ch23)
 **Overview**: Detailed classical discussion on 6. Application of the Samdamsha instrument within Ancient Indian Surgical Science.
 
-### 24. [11. Disinfection rooms clothes: Ancient Indian Surgical Science Chapter 24](/articles/ancient-indian-surgical-science-historical-methods-ch24)
+### [11. Disinfection rooms clothes: Ancient Indian Surgical Science Chapter 24](/articles/ancient-indian-surgical-science-historical-methods-ch24)
 **Overview**: Detailed classical discussion on 11. Disinfection rooms clothes within Ancient Indian Surgical Science.
 
-### 25. [10. Tubular instruments for Inhalations and Fumigations: Ancient Indian Surgical Science Chapter 25](/articles/ancient-indian-surgical-science-historical-methods-ch25)
+### [10. Tubular instruments for Inhalations and Fumigations: Ancient Indian Surgical Science Chapter 25](/articles/ancient-indian-surgical-science-historical-methods-ch25)
 **Overview**: Detailed classical discussion on 10. Tubular instruments for Inhalations and Fumigations within Ancient Indian Surgical Science.
 
-### 26. [13. Application of the Alabu Yantra: Ancient Indian Surgical Science Chapter 26](/articles/ancient-indian-surgical-science-historical-methods-ch26)
+### [13. Application of the Alabu Yantra: Ancient Indian Surgical Science Chapter 26](/articles/ancient-indian-surgical-science-historical-methods-ch26)
 **Overview**: Detailed classical discussion on 13. Application of the Alabu Yantra within Ancient Indian Surgical Science.
 
-### 27. [19. Resemblance of Traditional and Modern Surgical Instruments: Ancient Indian Surgical Science Chapter 27](/articles/ancient-indian-surgical-science-historical-methods-ch27)
+### [19. Resemblance of Traditional and Modern Surgical Instruments: Ancient Indian Surgical Science Chapter 27](/articles/ancient-indian-surgical-science-historical-methods-ch27)
 **Overview**: Detailed classical discussion on 19. Resemblance of Traditional and Modern Surgical Instruments within Ancient Indian Surgical Science.
 
-### 28. [Conclusion: Ancient Indian Surgical Science Chapter 28](/articles/ancient-indian-surgical-science-historical-methods-ch28)
+### [Conclusion: Ancient Indian Surgical Science Chapter 28](/articles/ancient-indian-surgical-science-historical-methods-ch28)
 **Overview**: Detailed classical discussion on Conclusion within Ancient Indian Surgical Science.
 
-### 29. [3. Importance of Salya-Tantra: Ancient Indian Surgical Science Chapter 29](/articles/ancient-indian-surgical-science-historical-methods-ch29)
+### [3. Importance of Salya-Tantra: Ancient Indian Surgical Science Chapter 29](/articles/ancient-indian-surgical-science-historical-methods-ch29)
 **Overview**: Detailed classical discussion on 3. Importance of Salya-Tantra within Ancient Indian Surgical Science.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. 2. Introduction to Ayurveda (science of life)
+## 2. Introduction to Ayurveda (science of life)
 
 Surgery in ancient India (Study)
 
@@ -124,7 +122,7 @@ The western world, which has so far blunted the progress of Ayurveda by a strong
 
 ---
 
-## 3. Preface
+## Preface
 
 Surgery in ancient India (Study)
 
@@ -138,7 +136,7 @@ PREFACE Surgery had a different history from the other parts of traditional medi
 
 ---
 
-## 6. 1. Introduction to the Four Vedas
+## 1. Introduction to the Four Vedas
 
 Surgery in ancient India (Study)
 
@@ -164,7 +162,7 @@ proper practice mantra will be effective. So Ayurveda is just like mantra, it wi
 
 ---
 
-## 21. 1. Introduction to the concept of Surgery
+## 1. Introduction to the concept of Surgery
 
 Surgery in ancient India (Study)
 
@@ -186,7 +184,7 @@ environments such as the battlefield or natural disaster areas with surgeons ope
 
 ---
 
-## 24. 3. Surgery in Indian tradition (introduction)
+## 3. Surgery in Indian tradition (introduction)
 
 Surgery in ancient India (Study)
 
@@ -212,7 +210,7 @@ dwelled in cavernous realms lighted by precious stones of unimaginable radiance.
 
 ---
 
-## 41. 1. History of Medicine (introduction)
+## 1. History of Medicine (introduction)
 
 Surgery in ancient India (Study)
 
@@ -228,7 +226,7 @@ agreed that all the books had been duly compiled. The origin of Ayurveda, is rel
 
 ---
 
-## 51. 1. Introduction (regarding the Ayurvedic system of medicine)
+## 1. Introduction (regarding the Ayurvedic system of medicine)
 
 Surgery in ancient India (Study)
 
@@ -246,7 +244,7 @@ which existed almost two millennium ago. In its day was almost certainly the mos
 
 ---
 
-## 71. 1. Introduction (regarding Surgical instruments)
+## 1. Introduction (regarding Surgical instruments)
 
 Surgery in ancient India (Study)
 

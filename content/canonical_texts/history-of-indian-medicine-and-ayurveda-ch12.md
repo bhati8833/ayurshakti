@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Pharmacy within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 34. Chapter 22 - Pharmacy
+## Chapter 22 - Pharmacy
 
 History of Indian Medicine (and Ayurveda)
 
@@ -142,35 +142,7 @@ These forces combined to evolve medicated food which was medicine and food in on
 
 India was well conversant with the utility of salt Caraka enumerates 15 kinds of salt, such as:
 
-Saindhava,
-
-Sauvarcala,
-
-Kala,
-
-Vida,
-
-Pakya,
-
-Anupa,
-
-Kupya,
-
-Valuka,
-
-Ela,
-
-Maulaka,
-
-Samudra,
-
-Romaka,
-
-Audbhida,
-
-Aushara,
-
-Pateyaka,
+Saindhava,, Sauvarcala,, Kala,, Vida,, Pakya,, Anupa,, Kupya,, Valuka,, Ela,, Maulaka,, Samudra,, Romaka,, Audbhida,, Aushara,, Pateyaka,
 
 Pamshuja.
 
@@ -427,7 +399,7 @@ The brief survey of ‘pharmacy’ as it was in theory and practice in ancient I
 
 ---
 
-## 35. Chapter 23 - Fees, Presents and Remuneration to Medical Men
+## Chapter 23 - Fees, Presents and Remuneration to Medical Men
 
 History of Indian Medicine (and Ayurveda)
 
@@ -544,7 +516,7 @@ In short, according to Caraka, this science of Ayurveda wag promulgated for acqu
 
 ---
 
-## 36. Chapter 25 - The Vaidya and Society
+## Chapter 25 - The Vaidya and Society
 
 History of Indian Medicine (and Ayurveda)
 
@@ -688,8 +660,6 @@ Let us repeat the noble lines from Vagbhata in praise of the supreme healer.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -697,10 +667,6 @@ Let us repeat the noble lines from Vagbhata in praise of the supreme healer.
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">The Vaidyas (physician): History Of Indian Medicine And Ayurveda Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

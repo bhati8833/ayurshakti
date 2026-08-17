@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Indian Topography of the Mineral Resources within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 34. 3. Indian Topography of the Mineral Resources
+## 3. Indian Topography of the Mineral Resources
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ V-5 the east viz, Anga and Kalinga (Assam and Orissa) (2.2.15). Gems and pearls 
 
 ---
 
-## 35. 2. Mines and Metals in the Society
+## 2. Mines and Metals in the Society
 
 Minerals and Metals in Sanskrit literature
 
@@ -39,7 +39,7 @@ V-4 have primordial importance. It has been stated more explicitly (7.14.25) tha
 
 ---
 
-## 37. 5. Gem Minerals mentioned in the Arthashastra
+## 5. Gem Minerals mentioned in the Arthashastra
 
 Minerals and Metals in Sanskrit literature
 
@@ -63,7 +63,7 @@ V-12 and hematite on the fringe?), sasyaka blue copper sulphate, ahi cchatraka f
 
 ---
 
-## 38. 6. Non-gem Minerals and Materials mentioned in the Arthashastra
+## 6. Non-gem Minerals and Materials mentioned in the Arthashastra
 
 Minerals and Metals in Sanskrit literature
 
@@ -79,8 +79,6 @@ V-14 of great commercial importance were metallic ores from which useful metals 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -88,10 +86,6 @@ V-14 of great commercial importance were metallic ores from which useful metals 
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">4. The Director of Mines and his Duties: Minerals And Metals In Sanskrit Literature Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

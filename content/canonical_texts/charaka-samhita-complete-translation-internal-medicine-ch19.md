@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The therapeutics of Acute Spreading Affections (visarpa-cikitsa) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 108. Chapter 21 - The therapeutics of Acute Spreading Affections (visarpa-cikitsa)
+## Chapter 21 - The therapeutics of Acute Spreading Affections (visarpa-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -305,7 +305,7 @@ Summary
 
 ---
 
-## 109. Chapter 20 - The therapeutics of Vomiting (chardi-cikitsa)
+## Chapter 20 - The therapeutics of Vomiting (chardi-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -431,7 +431,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 110. Chapter 22 - The therapeutics of Dipsosis (morbid thirst) (trishna-cikitsa)
+## Chapter 22 - The therapeutics of Dipsosis (morbid thirst) (trishna-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -577,7 +577,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 111. Chapter 23 - The therapeutics of Toxicosis (visha-cikitsa)
+## Chapter 23 - The therapeutics of Toxicosis (visha-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -997,7 +997,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 112. Chapter 24 - The therapeutics of Alcoholism (madatyaya-cikitsa)
+## Chapter 24 - The therapeutics of Alcoholism (madatyaya-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1317,7 +1317,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 113. Chapter 25 - The therapeutics of Wounds (vrana-cikitsa)
+## Chapter 25 - The therapeutics of Wounds (vrana-cikitsa)
 
 Charaka Samhita (English translation)
 
@@ -1561,8 +1561,6 @@ Here are the two recapitulatory verses—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1570,10 +1568,6 @@ Here are the two recapitulatory verses—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">The therapeutics of Spastic Paraplegia (urustambha-cikitsa): Charaka Samhita Complete Translation Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

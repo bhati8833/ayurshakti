@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Pathology of the diseases affecting the eyes as a whole within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. Chapter VI - Pathology of the diseases affecting the eyes as a whole
+## Chapter VI - Pathology of the diseases affecting the eyes as a whole
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -85,17 +85,21 @@ A case of Sirotpata, if not attended to and remedied in time through ignorance, 
 
 Thus ends the sixth chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the diseases affecting the eye as a whole.
 
-[1]:
 
-Mādhava in the Nidāna does not mention the eye-lashes.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Mādhava in the Nidāna does not mention the eye-lashes.
+</blockquote>
 
-[2]:
 
-Mādhava in the Nidāna reads “dandahyate” which means that a highly burning sensation is produced in the affected eye, in place of “vilokane”—a word which seems redundant.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Mādhava in the Nidāna reads “dandahyate” which means that a highly burning sensation is produced in the affected eye, in place of “vilokane”—a word which seems redundant.
+</blockquote>
 
 ---
 
-## 10. Chapter VIII - Classification and treatment of ocular affections
+## Chapter VIII - Classification and treatment of ocular affections
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -135,13 +139,12 @@ Palliative or temporary relief is all that can be offered in any of the six type
 
 Thus ends the eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the classification of eye-diseases according to the different modes of treatment.
 
-[1]:
 
-See Chapter IV, para 2, Uttara-Tantara.
+<div className="footnote-card"><strong>[1]</strong> See Chapter IV, para 2, Uttara-Tantara.</div>
 
 ---
 
-## 11. Chapter VII - Pathology of the diseases of the Pupil
+## Chapter VII - Pathology of the diseases of the Pupil
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -209,29 +212,36 @@ We have thus finished describing separately the diagnostic traits of the seventy
 
 Thus ends the seventh chapter of the Uttara-Tantra in the Sushruta Samhita which treats of the pathology of the diseases peculiar to the pupil of the eye.
 
-[1]:
 
-According to Nimi, quoted in Mādhava’s commentary by Śrīkantha, the dimension of the Drishti is equal to only a half of that of a Masura-pulse.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Nimi, quoted in Mādhava’s commentary by Śrīkantha, the dimension of the Drishti is equal to only a half of that of a Masura-pulse.
+</blockquote>
 
-[2]:
 
-The latter part of the text here seems to be incongruous. Mādhava does not read the last line in his Nidāna, nor does Dallana include it in his commentary. Dallana, on the other hand, says that some read this line, but holds, on the authority of Videha, that the reading is incongruous, in as much as “Hrasva-jātya” is said to cause one of the four types of night-blindness.
 
-[3]:
 
-Some read Hrasva-jādya in place of Hrasva-jātya.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The latter part of the text here seems to be incongruous. Mādhava does not read the last line in his Nidāna, nor does Dallana include it in his commentary. Dallana, on the other hand, says that some read this line, but holds, on the authority of Videha, that the reading is incongruous, in as much as “Hrasva-jātya” is said to cause one of the four types of night-blindness.
+</blockquote>
 
-[4]:
 
-This shows that a man affected with this form of disease cannot see anything in the night.
 
-[5]:
 
-The head is liable to be over-heated by the smelling of poison or poisonous objects or any other strong-scented flower, etc.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Some read Hrasva-jādya in place of Hrasva-jātya.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> This shows that a man affected with this form of disease cannot see anything in the night.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> The head is liable to be over-heated by the smelling of poison or poisonous objects or any other strong-scented flower, etc.</div>
 
 ---
-
-
 
 ---
 
@@ -240,10 +250,6 @@ The head is liable to be over-heated by the smelling of poison or poisonous obje
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Vataja Ophthalmia: Sushruta Samhita Uttara Tantra Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

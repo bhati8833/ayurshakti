@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Biology in Bhaskarakantha’s Cittanubodhasastra within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 45. Biology in Bhaskarakantha’s Cittanubodhasastra
+## Biology in Bhaskarakantha’s Cittanubodhasastra
 
 Journal of the European Ayurvedic Society
 
@@ -87,7 +87,7 @@ W. Slaje, Merkmale des Lebendigen 281 to Schmithausen's observation. The work is
 
 ---
 
-## 46. Fundamentals of the Phenomenology of Ayurveda
+## Fundamentals of the Phenomenology of Ayurveda
 
 Journal of the European Ayurvedic Society
 
@@ -131,31 +131,19 @@ taken in its specific framework of thought. For the phenomenology of Ayurveda th
 
 ---
 
-## 47. Volume 4 (1995)
+## Volume 4 (1995)
 
 Journal of the European Ayurvedic Society
 
 The Journal of the European Ayurvedic Society (JEAS) focuses on research on Indian medicine. Submissions can include both philological and practical studies on Ayurveda and other indigenous Indian medical systems, including ethnomedicine and research into local plants and drugs. The “European Ayurvedic Society” Journal was founded in 1983 in Gronin...
 
-Volume 4 (1995)
-
-- Sub-Contents: (+ / -)
-
----
-
-
-
----
+Volume 4 (1995), ---, ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">← Kokkoka’s Ratirahasya translated and explained (Part 1): Journal Of The European Ayurvedic Society Chapter 15</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Astanga Sangraha, Kalpasthana II: Translation and Notes: Journal Of The European Ayurvedic Society Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

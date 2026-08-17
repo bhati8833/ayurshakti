@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Uparasa (5-6): Tuttha and Sasyaka (copper sulphate) within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. Chapter V - Uparasa (5-6): Tuttha and Sasyaka (copper sulphate)
+## Chapter V - Uparasa (5-6): Tuttha and Sasyaka (copper sulphate)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -21,15 +21,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter V - Uparasa (5-6): Tuttha and Sasyaka (copper sulphate)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (5-6): Tuttha and Sasyaka (copper sulphate)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 32. Part 1 - Characteristics of Tuttha (sulphate of copper, prepared in laboratory)
+## Part 1 - Characteristics of Tuttha (sulphate of copper, prepared in laboratory)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -47,7 +45,7 @@ This concludes ‘Characteristics of Tuttha (sulphate of copper, prepared in lab
 
 ---
 
-## 33. Part 2 - Purification of tuttha
+## Part 2 - Purification of tuttha
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -83,7 +81,7 @@ This concludes ‘Purification of tuttha’ included in Bhudeb Mookerjee Rasa Ja
 
 ---
 
-## 34. Part 3 - Extraction of essence from tuttha
+## Part 3 - Extraction of essence from tuttha
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -115,9 +113,10 @@ The finger ring which cures colic and neutralises poison.
 
 Essence of tuttha, nagatamra, and gold are to be taken in equal quantities and made into a ring, the touch of which removes colic pain instantaneously. It also overcomes all sorts of poison and evil influences caused on human beings by the evil eyes of ghosts and witches. According to Bhaluki, the great chemist, water drunk seven times, each time touched with this ring and sanctified with the chanting of the mantra given in the text, cures colic pain instantaneously. The oil which is heated over fire, with this ring kept immersed in it, cures any sort of pain, by merely being rubbed on the part of the body affected. It also effects a speedy and painless child birth in a woman. It also cures eye diseases in a very short time.[1]
 
-[1]:
 
-See page 114 for a different prescription.
+<div className="footnote-card"><strong>[1]</strong> See page 114 for a different prescription.</div>
+
+
 
 Conclusion:
 
@@ -125,7 +124,7 @@ This concludes ‘Extraction of essence from tuttha’ included in Bhudeb Mooker
 
 ---
 
-## 35. Part 4 - Characteristics of Sasyaka (blue stone, found in nature)
+## Part 4 - Characteristics of Sasyaka (blue stone, found in nature)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -147,8 +146,6 @@ This concludes ‘Characteristics of Sasyaka (blue stone, found in nature)’ in
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -156,10 +153,6 @@ This concludes ‘Characteristics of Sasyaka (blue stone, found in nature)’ in
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Purification of sasyaka: Rasa Jala Nidhi Volume 2 Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -60,7 +60,11 @@ Thus ends the twenty-second chapter in the Uttara-Tantra of the Sushruta Samhita
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 The four kinds are due to vitiated Vāyu, Pitta and Kapha as well as their concerted action. The two origins are (a) the spleen and the liver, or (b) the Āmāśaya (stomach) and the Pakvāśaya (intestines). The two courses are (a) the upper and the lower orifice, or (b) the mouth and the nostrils. (2)
+</blockquote>
+
 
 [2]:
 

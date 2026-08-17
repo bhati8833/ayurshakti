@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Transmutation of Base Metals into Gold within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 22. Chapter 4 - Transmutation of Base Metals into Gold
+## Chapter 4 - Transmutation of Base Metals into Gold
 
 Alchemy in India and China
 
@@ -19,13 +19,9 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 Chapter 4 - Transmutation of Base Metals into Gold
 
-- Sub-Contents: (+ / -)
-
 [Full title: Transmutation of Base Metals into Gold as described in the Sanskrit alchemical text “Rasarnavakalpa” and its comparison with parallel Chinese methods]
 
 ---
-
-
 
 ---
 
@@ -34,10 +30,6 @@ Chapter 4 - Transmutation of Base Metals into Gold
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">1. Uniform Substrate Alloys: Alchemy In India And China Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

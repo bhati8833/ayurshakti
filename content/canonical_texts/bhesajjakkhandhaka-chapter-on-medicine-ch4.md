@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on History of Indian Medicine (b): Vedic Phase within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 13. History of Indian Medicine (b): Vedic Phase
+## History of Indian Medicine (b): Vedic Phase
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -35,21 +35,24 @@ During the Vedic phase, the duty of healers (bhiṣaj) was to remove diseasedemo
 
 Indian medicine of the Vedic phase, as shown in the Vedas, has revealed an early form of medical lore. The medical knowledge in this period is characterised by magico-religious pathology and treatment: diseases were thought to be caused by gods or demons, and therapies involved pleading to healing deities and/or removing demonic forces through religious activities and objects. Other interventions such as bone-setting and simple surgical procedures were also practised. The empiricorational mode of diagnosis and therapy had appeared. Plenty of anatomical terms, rich pharmacopoeia, and the early stage of physiology were there in the Vedas. Healers apparently were belittled. Although being skilful and knowledgeable in healing, being respected by people and getting good earnings, they were looked down upon by the brahmins. This situation, according to scholars, can have led to the subsequent śramaṇ-ic phase of Indian medicine. This will be explained in the following subsection.
 
-[1]:
 
-According to Basham (2004, 29), there are other hypotheses in relation to the origin of the Āryans. However, since the late twentieth century, there is an increasing number of scholars who criticise and reject the ideas of an Āryan race and the Āryan invasion to India (Encyclopædia Britannica Online (Encyclopӕdia Britannica Online), s.v. “Aryan” [accessed June 16, 2015, http://academic.eb.com/EBchecked/topic/37468/Aryan]).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Basham (2004, 29), there are other hypotheses in relation to the origin of the Āryans. However, since the late twentieth century, there is an increasing number of scholars who criticise and reject the ideas of an Āryan race and the Āryan invasion to India (Encyclopædia Britannica Online (Encyclopӕdia Britannica Online), s.v. “Aryan” [accessed June 16, 2015, http://academic.eb.com/EBchecked/topic/37468/Aryan]).
+</blockquote>
 
-[2]:
 
-This brief description of the Vedic religion and its earliest scriptures is extracted from Basham 2004, 31, 234-235; Dandekar 2005; Hirakawa 1993, 14.
 
-[3]:
 
-The practice of divination, which was known in some ancient medical traditions, however, seemed not to be used by the Vedic healers (Zysk 1991, 15; 1996, 9).
+<div className="footnote-card"><strong>[2]</strong> This brief description of the Vedic religion and its earliest scriptures is extracted from Basham 2004, 31, 234-235; Dandekar 2005; Hirakawa 1993, 14.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> The practice of divination, which was known in some ancient medical traditions, however, seemed not to be used by the Vedic healers (Zysk 1991, 15; 1996, 9).</div>
 
 ---
 
-## 14. History of Indian Medicine (c): Shramanic Phase
+## History of Indian Medicine (c): Shramanic Phase
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -67,37 +70,46 @@ Another piece of evidence supporting Zysk’s proposition comes from an ancient 
 
 The intervening gap in the history of ancient Indian medicine–between the religious and magical medicine of the Vedic phase and the systematised and empirical medicine of the Āyurveda–has now been investigated and explained by scholars’ research. By examining the social situation of the healers, the medical material preserved in Buddhist literature and the foreign records, it is believed that the śrāmaṇas played a significant role in the development of Indian medicine. The physicians at this time, being marginalised by the priestly order, wandered around to practise healing and to gain new medical knowledge. Due to their association with the śramaṇas, a lot of such new empirical medical lore has been developed amongst the śramaṇas and kept in their records especially the early Buddhist Vinaya literature.
 
-[1]:
 
-For more descriptions on the Āyurvedic phase and the classical medical texts, see the following Section 2. 3.
+<div className="footnote-card"><strong>[1]</strong> For more descriptions on the Āyurvedic phase and the classical medical texts, see the following Section 2. 3.</div>
 
-[2]:
 
-Scholars have indicated a “paradigm shift” from Vedic medicine to Āyurvedic medicine in this period, and the absence of medical literature for this epoch. See Basham 2004, 500-501; Filliozat 1964, 188; Mazars 2006, 6-7; Zysk 1991, 3-5; 1996, xiv.
 
-[3]:
 
-According to Warder (2000, 32-34), the wandering ascetics tended to be empirical and rational. They attempted to search for explanations for the universe and the life, by their own efforts of investigation and reasoning, rather than following the orthodox teaching of Brahmanism. They were more interested in natural sciences such as astronomy, mathematics, and medicine.
+<div className="footnote-card"><strong>[2]</strong> Scholars have indicated a “paradigm shift” from Vedic medicine to Āyurvedic medicine in this period, and the absence of medical literature for this epoch. See Basham 2004, 500-501; Filliozat 1964, 188; Mazars 2006, 6-7; Zysk 1991, 3-5; 1996, xiv.</div>
 
-[4]:
 
-There are accounts in the Vinaya revealing that some monastic members had medical knowledge and practice and they were healers. In the Mahāsāṃghika Vinaya, an account of a monk-physician treating his fellow monks is found in Taishō Tripiṭaka 1425. 316c3-13. Another record in this Vinaya tells us that a nun was skilful in healing others’ illnesses (Taishō Tripiṭaka 1425. 531a3-18).
 
-[5]:
 
-These eight causes of disease mentioned in the Pāli texts will be discussed in Chapter Three of this thesis. In brief, they are the three bodily humours (wind, bile, and phlegm), the combination of the three humours, seasonal change, wrong behaviour, assault, and effect of one’s previous deed.
+<div className="footnote-card"><strong>[3]</strong> According to Warder (2000, 32-34), the wandering ascetics tended to be empirical and rational. They attempted to search for explanations for the universe and the life, by their own efforts of investigation and reasoning, rather than following the orthodox teaching of Brahmanism. They were more interested in natural sciences such as astronomy, mathematics, and medicine.</div>
 
-[6]:
 
-Wujastyk (2005, 1410) boldly states: “Structured systematic thought about medicine in India can first clearly be detected in sayings of the Buddha.” This statement, in fact, aptly points out that the Buddhist literature should be the first document of the systematic mode of Indian medicine, and highly likely be the origin of Āyurveda.
 
-[7]:
 
-Thanks to Professor Halkias for providing these two Greek terms.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> There are accounts in the Vinaya revealing that some monastic members had medical knowledge and practice and they were healers. In the Mahāsāṃghika Vinaya, an account of a monk-physician treating his fellow monks is found in Taishō Tripiṭaka 1425. 316c3-13. Another record in this Vinaya tells us that a nun was skilful in healing others’ illnesses (Taishō Tripiṭaka 1425. 531a3-18).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> These eight causes of disease mentioned in the Pāli texts will be discussed in Chapter Three of this thesis. In brief, they are the three bodily humours (wind, bile, and phlegm), the combination of the three humours, seasonal change, wrong behaviour, assault, and effect of one’s previous deed.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Wujastyk (2005, 1410) boldly states: “Structured systematic thought about medicine in India can first clearly be detected in sayings of the Buddha.” This statement, in fact, aptly points out that the Buddhist literature should be the first document of the systematic mode of Indian medicine, and highly likely be the origin of Āyurveda.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Thanks to Professor Halkias for providing these two Greek terms.</div>
 
 ---
 
-## 15. (b) The Skandhaka
+## (b) The Skandhaka
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -319,67 +331,93 @@ Adhikaraṇa-vastu (rTsod pa’i gzhi),
 
 Saṃghabheda-vastu (dGe dun dbyen pa’i gzhi).[14]
 
-[1]:
 
-According to Yinshun (2002, 251 ff.), from this Mātṛkā, different Sthavira schools further developed this text which became their own Skandhakas. The Mahāsāmghika school did not progress further and hence the Varga section remains as the Mātṛkā form.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Yinshun (2002, 251 ff.), from this Mātṛkā, different Sthavira schools further developed this text which became their own Skandhakas. The Mahāsāmghika school did not progress further and hence the Varga section remains as the Mātṛkā form.
+</blockquote>
 
-[2]:
 
-The detailed arguments of each of these three hypotheses cannot be covered here. It is beyond this preliminary overview section to describe and discuss them in detail. For such arguments, see the respective references as cited.
 
-[3]:
 
-According to Lamotte (1988, 178), the Sarvāstivāda and Mahāsāṃghika versions of the Skandhaka section do not possess the initial biography of the Buddha.
+<div className="footnote-card"><strong>[2]</strong> The detailed arguments of each of these three hypotheses cannot be covered here. It is beyond this preliminary overview section to describe and discuss them in detail. For such arguments, see the respective references as cited.</div>
 
-[4]:
 
-A table listing all the topics in the Sthavira Skandhaka texts can be found in Hirakawa’s book (1960, 631).
 
-[5]:
 
-For the outline of each topic section in the Theravāda Khandhaka, see Hirakawa 1960, 595-604; Witanachchi 2009b, 653-656.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> According to Lamotte (1988, 178), the Sarvāstivāda and Mahāsāṃghika versions of the Skandhaka section do not possess the initial biography of the Buddha.
+</blockquote>
 
-[6]:
 
-This part relates to medicines.
 
-[7]:
 
-This part relates to food.
+<div className="footnote-card"><strong>[4]</strong> A table listing all the topics in the Sthavira Skandhaka texts can be found in Hirakawa’s book (1960, 631).</div>
 
-[8]:
 
-Apart from corresponding to the Heze jiandu/Kamma-khandhaka/Pāṇḍulohita-vastu, this section includes also the equivalent content found in the Zhanbo jiandu/Campeyya-khandhaka, the Jüshanmi jiandu/Kosamba-khandhaka/Kauśāmbī-vastu, and the Ren jiandu/Samuccayakhandhaka/Pudgala-vastu (Hirakawa 1960, 614).
 
-[9]:
 
-Literally the term means “the means to subdue.” According to Hirakawa (1960, 615), this section is unique to the Mahīśāsaka Vinaya. Equivalent contents of it can be found in the Appendices of other Vinayas, such as those of the Dharmaguptaka and the Sarvāstivāda Vinayas.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> For the outline of each topic section in the Theravāda Khandhaka, see Hirakawa 1960, 595-604; Witanachchi 2009b, 653-656.
+</blockquote>
 
-[10]:
 
-The records of the First Council and the Second Council are not set as separate sections in the Sarvāstivāda Vinaya. They are found in one of the appendices (the Kuśalādhyāya) in the Chinese recension (Yinshun 2002, 315).
 
-[11]:
 
-Hirakawa (1960, 618-619) states that this section includes two topic sections of other Vinayas: the
+<div className="footnote-card"><strong>[6]</strong> This part relates to medicines.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> This part relates to food.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Apart from corresponding to the Heze jiandu/Kamma-khandhaka/Pāṇḍulohita-vastu, this section includes also the equivalent content found in the Zhanbo jiandu/Campeyya-khandhaka, the Jüshanmi jiandu/Kosamba-khandhaka/Kauśāmbī-vastu, and the Ren jiandu/Samuccayakhandhaka/Pudgala-vastu (Hirakawa 1960, 614).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Literally the term means “the means to subdue.” According to Hirakawa (1960, 615), this section is unique to the Mahīśāsaka Vinaya. Equivalent contents of it can be found in the Appendices of other Vinayas, such as those of the Dharmaguptaka and the Sarvāstivāda Vinayas.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> The records of the First Council and the Second Council are not set as separate sections in the Sarvāstivāda Vinaya. They are found in one of the appendices (the Kuśalādhyāya) in the Chinese recension (Yinshun 2002, 315).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Hirakawa (1960, 618-619) states that this section includes two topic sections of other Vinayas: the</div>
+
+
 
 Ren jiandu/Samuccaya-khandhaka/Pudgala-vastu and the Fucang jiandu/Pārivāsika-khandhaka/ Pārivāsika-vastu.
 
-[12]:
 
-This section corresponds not only to the Khuddhakavatthu-khandhaka/Kṣudraka-vastu, but also to the Vatta-khandhaka, and part of the Bhikkhunī-khandhaka (Hirakawa 1960, 620).
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> This section corresponds not only to the Khuddhakavatthu-khandhaka/Kṣudraka-vastu, but also to the Vatta-khandhaka, and part of the Bhikkhunī-khandhaka (Hirakawa 1960, 620).
+</blockquote>
 
-[13]:
 
-The Sanskrit and Tibetan names of these sections are adapted from Banerjee (1957, 83 ff.) and Prebish (1994, 93 ff.)
 
-[14]:
 
-The Vinayakṣudrakavastu is a huge text in the Mūlasarvāstivāda Vinaya. In the Chinese translation, it (Taishō Tripiṭaka 1451) has forty fascicles. This text includes the contents of the (Pāli) Vatta-khandhaka, the Khuddhaka-khandhaka, the Bhikkhunī-khandhaka, and the two records of the First and Second Councils (Hirakawa 1960, 625-626).
+<div className="footnote-card"><strong>[13]</strong> The Sanskrit and Tibetan names of these sections are adapted from Banerjee (1957, 83 ff.) and Prebish (1994, 93 ff.)</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> The Vinayakṣudrakavastu is a huge text in the Mūlasarvāstivāda Vinaya. In the Chinese translation, it (Taishō Tripiṭaka 1451) has forty fascicles. This text includes the contents of the (Pāli) Vatta-khandhaka, the Khuddhaka-khandhaka, the Bhikkhunī-khandhaka, and the two records of the First and Second Councils (Hirakawa 1960, 625-626).
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -388,10 +426,6 @@ The Vinayakṣudrakavastu is a huge text in the Mūlasarvāstivāda Vinaya. In t
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">(c) The Bhesajjakkhandhaka (Chapters on Medicine): Bhesajjakkhandhaka Chapter On Medicine Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

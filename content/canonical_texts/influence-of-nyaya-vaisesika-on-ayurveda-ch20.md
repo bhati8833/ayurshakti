@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 1. Nyaya-Vaisesika theory of Epistemology within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. 1. Nyaya-Vaisesika theory of Epistemology
+## 1. Nyaya-Vaisesika theory of Epistemology
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -33,8 +33,6 @@ distinguish these from mere false opinions. According to the Nyaya School, there
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -42,10 +40,6 @@ distinguish these from mere false opinions. According to the Nyaya School, there
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">2. Samkhya-Vedanta view of Cosmology and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of Sira (vascular system) within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. Chapter VII - Description of Sira (vascular system)
+## Chapter VII - Description of Sira (vascular system)
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -91,23 +91,24 @@ As the stem and leaves etc., of a lotus plant, originated from its bulb, spread 
 
 Thus ends the seventh Chapter of the Sharira Sthana in the Suhruta Samhita which treats of the description and classification of Siras (vessels).
 
-[1]:
 
-The Sanskrita term Sira denotes veins, nerves, arteries and lymphatic vessels as well. Some read Sira-varna (different colours of the Siras) in lieu of Sira-varnana (description of Siras).
+<div className="footnote-card"><strong>[1]</strong> The Sanskrita term Sira denotes veins, nerves, arteries and lymphatic vessels as well. Some read Sira-varna (different colours of the Siras) in lieu of Sira-varnana (description of Siras).</div>
 
-[2]:
 
-Most probably the idea is derived from the appearance of the Siras in their fetal state.
 
-[3]:
 
-Gayi asserts that there are eight each of the Vayu-carrying, Pittacarrying, Kapha-carrying and blood-carrying Siras in the region of the neck, thus making a total of 32 in place of 36 of the text.
+<div className="footnote-card"><strong>[2]</strong> Most probably the idea is derived from the appearance of the Siras in their fetal state.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Gayi asserts that there are eight each of the Vayu-carrying, Pittacarrying, Kapha-carrying and blood-carrying Siras in the region of the neck, thus making a total of 32 in place of 36 of the text.</div>
+
+
 
 He also holds that there are 28 in place of 36 Siras in the tongue, 16 in place of 24 in the nose, 24 in place of 38 in the eyes, 16 in place of 10 in the ears and 8 in place of 10 in the temple. In the counting of the Siras situate in the other parts of the body, he, however, does not differ from the text.
 
 ---
-
-
 
 ---
 
@@ -116,10 +117,6 @@ He also holds that there are 28 in place of 36 Siras in the tongue, 16 in place 
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">The Marmas (vital parts of the body): Sushruta Samhita Sharirasthana Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

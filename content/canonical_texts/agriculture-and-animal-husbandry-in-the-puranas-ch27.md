@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Breeding Policy (in modern Indian society) within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 114. Part 26 - Breeding Policy (in modern Indian society)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Breeding Policy (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 26 - Breeding Policy (in modern Indian society)
 
 Part 26 - Breeding Policy (in modern Indian society)
 
@@ -23,33 +19,32 @@ Part 26 - Breeding Policy (in modern Indian society)
 
 No substantial improvement in cattle economy is possible unless measures are adopted to eliminate the bad quality animals and improve the strain by careful breeding. The main methods adopted for the purpose have been two viz., the provision of pedigree and improved bulls, and the castration of inferior males.[1] A Joint Committee which was consisted of members of the Animal Breeding Committee and the Livestock Committee of the Indian Council of Agricultural Research (ICAR) has laid down an ‘All-India cattle breeding policy’, which has been accepted by the Central and the State Governments and is now adopted throughout the country.[2] According to this policy each State has been divided into zones, and allocation made regarding the breeds of bulls suited for each zone.[3] It is intended to develop the well defined local breeds by selective breeding in their native tracts, and to take up upgrading of the indigenous stock in other areas with the help of suitable Indian breeds, preferably general utility or milch breeds. The only exception is the hilly and heavy rainfall areas where cross-breeding with bulls of imported dairy breeds like the Jersey is being tried. As regards the draught breeds, which predominate in the country, the policy has been to develop their milch qualities to the maximum possible extent through selective breeding without causing any deterioration in their draught capacity.[4] The government of India also started herd registration centers in 1963-64 for the purpose of registration of breeds in different states. First to be set up was at Rohtak for Hariana and Murrah breeds. Presently, there are 4 centers in the country, one each at Ahmedabad, Rohtak, Ajmer and Ongole.[5]
 
-[1]:
 
-Singh, Baljit, op.cit., p. 155
+<div className="footnote-card"><strong>[1]</strong> Singh, Baljit, op.cit., p. 155</div>
 
-[2]:
 
-Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 302
 
-[3]:
 
-Ibid.
+<div className="footnote-card"><strong>[2]</strong> Randhawa, M.S., Agriculture and Animal Husbandry in India, p. 302</div>
 
-[4]:
 
-Ibid.
 
-[5]:
 
-Lokeshwar, R.R., op.cit., p. 14
+<div className="footnote-card"><strong>[3]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Lokeshwar, R.R., op.cit., p. 14</div>
 
 ---
 
-## 115. Part 28 - Feeding of Cattle (in modern Indian society)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Feeding of Cattle (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 28 - Feeding of Cattle (in modern Indian society)
 
 Part 28 - Feeding of Cattle (in modern Indian society)
 
@@ -57,41 +52,44 @@ Part 28 - Feeding of Cattle (in modern Indian society)
 
 In India we have a large number of tree species whose leaves can be used for feeding livestock. While tree leaves are used sparingly for cattle and buffaloes, most of the sheep, goats and camels in the country are maintained on tree leaves.[1] Trees of Prosopis, Acacia and Ficus species and the well-known nimba are probably the only source of green material for summer in many parts of the country.[2] In Madras and Andhra States, the feeding material for cattle consists of straws of cereal crops, which are grown in 23·7 million acres occupying about 75 per cent of the total cultivated area, bhusa of pulse crops occupying nearly 3 million acres and miscellaneous fodder crops occupying 0·5 million acres. Besides the above, concentrated feeds are also given to superior bullocks and milch animals.[3] The important cattle feeds and fodders available in South India are -rice straw, sorghum straw, ragi straw, minor millet straws, leguminous bhusa, grasses, green fodders, pulses etc.[4] The Purāṇas too mention feeding materials which are to be fed to the animals. It is suggested there in the Purāṇas that a calf should be given a food which consists of māṣa, tila, godhūma, payaḥ, kṣīra and ghṛta(clarified butter), mixed with lavaṇa, to develope well.[5] For an elephant, the food which consists of ṣaṣṭi, vrīhi and śālī rice, is considered the best food.[6] The food consists of wheat and barley should be ranked as second best, while the other sorts of food should be considered inferior sort.[7]
 
-[1]:
 
-Lokeshwar, R.R., op.cit., p. 307
+<div className="footnote-card"><strong>[1]</strong> Lokeshwar, R.R., op.cit., p. 307</div>
 
-[2]:
 
-Ibid.
 
-[3]:
 
-Mudaliar, V.T., A Handbook of Animal Husbandry and Dairying, p. 80
+<div className="footnote-card"><strong>[2]</strong> Ibid.</div>
 
-[4]:
 
-Ibid., p. 80-87
 
-[5]:
 
-Agni Purāṇa , 292.32
+<div className="footnote-card"><strong>[3]</strong> Mudaliar, V.T., A Handbook of Animal Husbandry and Dairying, p. 80</div>
 
-[6]:
 
-Ibid., 287.24a
 
-[7]:
 
-Ibid., 287.24b
+<div className="footnote-card"><strong>[4]</strong> Ibid., p. 80-87</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Agni Purāṇa , 292.32
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., 287.24a</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., 287.24b</div>
 
 ---
 
-## 116. Part 27 - Classification of Breeds (in modern Indian society)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Classification of Breeds (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 27 - Classification of Breeds (in modern Indian society)
 
 Part 27 - Classification of Breeds (in modern Indian society)
 
@@ -128,25 +126,22 @@ The best indigenous breeds of buffaloes are-
 
 Although the population of buffaloes is much less than that of cows, more than 50 per cent of the milk produced in India, at present, is buffalo's milk. On account of the higher fat percentage in the buffalo’s milk (average 7.5 per cent), it is more commonly used for the manufacture of dairy products, e.g. butter, ghee, and cheese and it yields a much greater return than the cow's milk. Moreover, buffaloes are able to digest rougher feeds. Male buffaloes after castration are used for heavy transport as well as for ploughing. They are generally not worked during the hot part of the day.[3]
 
-[1]:
 
-Randhawa, M.S., A History of Agriculture in India, volume 4, p. 537-543
+<div className="footnote-card"><strong>[1]</strong> Randhawa, M.S., A History of Agriculture in India, volume 4, p. 537-543</div>
 
-[2]:
 
-Ibid., p. 543
 
-[3]:
 
-Ibid., p. 543-544
+<div className="footnote-card"><strong>[2]</strong> Ibid., p. 543</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., p. 543-544</div>
 
 ---
 
-## 117. Part 29 - Management of Cattle (in modern Indian society)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Management of Cattle (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 29 - Management of Cattle (in modern Indian society)
 
 Part 29 - Management of Cattle (in modern Indian society)
 
@@ -172,37 +167,46 @@ The other points to be considered in housing cattle are:
 
 In case of sick animals, the feed should consist of easily digestible tender grass and gruel made with cereal grains. Plenty of water has to be provided for drinking.[3] The Purāṇas too mention such type of process regarding accommodation of cattle. It is suggested there in the Agni Purāṇa that, horses should be stabled in a well-ventilated house and dried bay should be strewn over its floors.[4] The Matsya Purāṇa attests that the stables and cowsheds should be to the left side of the king’s mansion. The stables should face to the north or to the south. If they face to other directions than it was considered bad. There should be lamp burning in the stables through the whole night.[5] The Purāṇas too mention various remedies to treat sick animals. In case of treating elephants it is mentioned that decoction of triphalā, pañcakola, daśamūla, viḍanga, śatāvarī, guḍucī, nimba, vāsaka and kiṃśuka is useful for curing the diseases in elephant.[6] In case of treatment of horses, it is mentioned in the Garuḍa Purāṇa that to prevent from diseases, the essence of the sarala tree, margosa (nimba) leaves, guggula, mustard, ghee, sesame, vacā, and asafetida should be tied to the neck of the horse.[7]
 
-[1]:
 
-Mudaliar, V.T., op.cit., p. 97
+<div className="footnote-card"><strong>[1]</strong> Mudaliar, V.T., op.cit., p. 97</div>
 
-[2]:
 
-Mukerji,Nitya Gopal, op.cit., p.483
 
-[3]:
 
-Mudaliar, V.T., op.cit., p. 101
+<div className="footnote-card"><strong>[2]</strong> Mukerji,Nitya Gopal, op.cit., p.483</div>
 
-[4]:
 
-Agni Purāṇa , 289.55-56
 
-[5]:
 
-Matsya Purāṇa , 217.19-20
+<div className="footnote-card"><strong>[3]</strong> Mudaliar, V.T., op.cit., p. 101</div>
 
-[6]:
 
-Garuḍa Purāṇa ,1.201.38
 
-[7]:
 
-Ibid.,1.201.6-7a
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Agni Purāṇa , 289.55-56
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Matsya Purāṇa , 217.19-20
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Garuḍa Purāṇa ,1.201.38
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid.,1.201.6-7a</div>
 
 ---
-
-
 
 ---
 
@@ -211,10 +215,6 @@ Ibid.,1.201.6-7a
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">Indigenous Plants for the Treatment of Diseases of Animals: Agriculture And Animal Husbandry In The Puranas Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

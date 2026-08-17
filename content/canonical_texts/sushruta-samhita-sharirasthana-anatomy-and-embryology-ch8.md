@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The method of Venesection within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Chapter VIII - The method of Venesection
+## Chapter VIII - The method of Venesection
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -135,25 +135,25 @@ The vitiated blood incarcerated in any part of the body should be abstracted the
 
 Thus ends the eighth Chapter of the Sharira Sthana in the Sushruta Samhita which treats of venesection.
 
-[1]:
 
-A liquid food is recommended for the purpose of liquefying the blood so as to bleed easily.
+<div className="footnote-card"><strong>[1]</strong> A liquid food is recommended for the purpose of liquefying the blood so as to bleed easily.</div>
 
-[2]:
 
-In medicinal preparations, a Prastha measure is understood to be four seers in the case of liquids, but in cases of excreta due to emetic and purgative measures and of blood-letting, a Prastha is meant to be thirteen Palas and a half only.
 
-[3]:
 
-Gayi holds that in cases of asthma and cough venesection should be had recourse to only when they are in a mild form.
+<div className="footnote-card"><strong>[2]</strong> In medicinal preparations, a Prastha measure is understood to be four seers in the case of liquids, but in cases of excreta due to emetic and purgative measures and of blood-letting, a Prastha is meant to be thirteen Palas and a half only.</div>
 
-[4]:
 
-Dallana, however, differs here from the text. He says, on the authority of Vagbhata, that the opening of a vein between the temple and the edge of the sculp or those in the Apanga, the forehead and the chest should be recommended in cases of insanity only, and not in the case of of Apasmara as well (as in the text).
+
+
+<div className="footnote-card"><strong>[3]</strong> Gayi holds that in cases of asthma and cough venesection should be had recourse to only when they are in a mild form.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Dallana, however, differs here from the text. He says, on the authority of Vagbhata, that the opening of a vein between the temple and the edge of the sculp or those in the Apanga, the forehead and the chest should be recommended in cases of insanity only, and not in the case of of Apasmara as well (as in the text).</div>
 
 ---
-
-
 
 ---
 
@@ -162,10 +162,6 @@ Dallana, however, differs here from the text. He says, on the authority of Vagbh
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">The anatomy of the human body: Sushruta Samhita Sharirasthana Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Nursing within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. Chapter 19 - Nursing
+## Chapter 19 - Nursing
 
 History of Indian Medicine (and Ayurveda)
 
@@ -95,11 +95,7 @@ Specialization
 
 Scientific progress always leads to specialization and we find the following classifications of nursing work.
 
-General nursing
-
-Surgical nursing
-
-Midwife
+General nursing, Surgical nursing, Midwife
 
 Wet-nurse.
 
@@ -227,7 +223,7 @@ The institution revived on these lines will no doubt alleviate most of the suffe
 
 ---
 
-## 32. Chapter 20 - Veterinary Science
+## Chapter 20 - Veterinary Science
 
 History of Indian Medicine (and Ayurveda)
 
@@ -415,7 +411,7 @@ With the ancients the animals were not mere useful servants, but they were treat
 
 ---
 
-## 33. Chapter 21 - Hospitals and Equipment
+## Chapter 21 - Hospitals and Equipment
 
 History of Indian Medicine (and Ayurveda)
 
@@ -780,8 +776,6 @@ The high degree of specialization in hospital work, the special features like re
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -789,10 +783,6 @@ The high degree of specialization in hospital work, the special features like re
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Pharmacy: History Of Indian Medicine And Ayurveda Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Environment and Humanity: In the context of Vedic View within Vrikshayurveda and Environmental Philosophy. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. 3.6. Environment and Humanity: In the context of Vedic View
+## 3.6. Environment and Humanity: In the context of Vedic View
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -29,7 +29,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-## 22. 3. Vrksayurveda texts found in Brihatsamhita by Varahamihira
+## 3. Vrksayurveda texts found in Brihatsamhita by Varahamihira
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -53,8 +53,6 @@ Brhatsamhita has written by Varahamihira (C. 505 to 580 AD) deals with the topic
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ Brhatsamhita has written by Varahamihira (C. 505 to 580 AD) deals with the topic
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara: Vrikshayurveda and Environmental Philosophy Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

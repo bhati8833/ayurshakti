@@ -13,61 +13,59 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Indian Medicinal Plants Chapter 1](/articles/indian-medicinal-plants-ch1)
+### [General Discourse: Indian Medicinal Plants Chapter 1](/articles/indian-medicinal-plants-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Indian Medicinal Plants.
 
-### 2. [Notes on the Soma plant: Indian Medicinal Plants Chapter 2](/articles/indian-medicinal-plants-ch2)
+### [Notes on the Soma plant: Indian Medicinal Plants Chapter 2](/articles/indian-medicinal-plants-ch2)
 **Overview**: Detailed classical discussion on Notes on the Soma plant within Indian Medicinal Plants.
 
-### 3. [Notes on the knowledge of medicinal plants: Indian Medicinal Plants Chapter 3](/articles/indian-medicinal-plants-ch3)
+### [Notes on the knowledge of medicinal plants: Indian Medicinal Plants Chapter 3](/articles/indian-medicinal-plants-ch3)
 **Overview**: Detailed classical discussion on Notes on the knowledge of medicinal plants within Indian Medicinal Plants.
 
-### 4. [Notes on the elementary (cardinal) properties of medicines: Indian Medicinal Plants Chapter 4](/articles/indian-medicinal-plants-ch4)
+### [Notes on the elementary (cardinal) properties of medicines: Indian Medicinal Plants Chapter 4](/articles/indian-medicinal-plants-ch4)
 **Overview**: Detailed classical discussion on Notes on the elementary (cardinal) properties of medicines within Indian Medicinal Plants.
 
-### 5. [Notes on the importance of Sanskrit names of medicinal plants: Indian Medicinal Plants Chapter 5](/articles/indian-medicinal-plants-ch5)
+### [Notes on the importance of Sanskrit names of medicinal plants: Indian Medicinal Plants Chapter 5](/articles/indian-medicinal-plants-ch5)
 **Overview**: Detailed classical discussion on Notes on the importance of Sanskrit names of medicinal plants within Indian Medicinal Plants.
 
-### 6. [Dilleniaceae family: Indian Medicinal Plants Chapter 6](/articles/indian-medicinal-plants-ch6)
+### [Dilleniaceae family: Indian Medicinal Plants Chapter 6](/articles/indian-medicinal-plants-ch6)
 **Overview**: Detailed classical discussion on Dilleniaceae family within Indian Medicinal Plants.
 
-### 7. [Ranunculaceae (buttercup family): Indian Medicinal Plants Chapter 7](/articles/indian-medicinal-plants-ch7)
+### [Ranunculaceae (buttercup family): Indian Medicinal Plants Chapter 7](/articles/indian-medicinal-plants-ch7)
 **Overview**: Detailed classical discussion on Ranunculaceae (buttercup family) within Indian Medicinal Plants.
 
-### 8. [Magnoliaceae (magnolia family): Indian Medicinal Plants Chapter 8](/articles/indian-medicinal-plants-ch8)
+### [Magnoliaceae (magnolia family): Indian Medicinal Plants Chapter 8](/articles/indian-medicinal-plants-ch8)
 **Overview**: Detailed classical discussion on Magnoliaceae (magnolia family) within Indian Medicinal Plants.
 
-### 9. [Menispermaceae (moonseed family): Indian Medicinal Plants Chapter 9](/articles/indian-medicinal-plants-ch9)
+### [Menispermaceae (moonseed family): Indian Medicinal Plants Chapter 9](/articles/indian-medicinal-plants-ch9)
 **Overview**: Detailed classical discussion on Menispermaceae (moonseed family) within Indian Medicinal Plants.
 
-### 10. [Annonaceae (custard apple family): Indian Medicinal Plants Chapter 10](/articles/indian-medicinal-plants-ch10)
+### [Annonaceae (custard apple family): Indian Medicinal Plants Chapter 10](/articles/indian-medicinal-plants-ch10)
 **Overview**: Detailed classical discussion on Annonaceae (custard apple family) within Indian Medicinal Plants.
 
-### 11. [Papaveraceae (poppy family): Indian Medicinal Plants Chapter 11](/articles/indian-medicinal-plants-ch11)
+### [Papaveraceae (poppy family): Indian Medicinal Plants Chapter 11](/articles/indian-medicinal-plants-ch11)
 **Overview**: Detailed classical discussion on Papaveraceae (poppy family) within Indian Medicinal Plants.
 
-### 12. [Berberidaceae (barberry family): Indian Medicinal Plants Chapter 12](/articles/indian-medicinal-plants-ch12)
+### [Berberidaceae (barberry family): Indian Medicinal Plants Chapter 12](/articles/indian-medicinal-plants-ch12)
 **Overview**: Detailed classical discussion on Berberidaceae (barberry family) within Indian Medicinal Plants.
 
-### 13. [Nymphaeaceae (water lilies family): Indian Medicinal Plants Chapter 13](/articles/indian-medicinal-plants-ch13)
+### [Nymphaeaceae (water lilies family): Indian Medicinal Plants Chapter 13](/articles/indian-medicinal-plants-ch13)
 **Overview**: Detailed classical discussion on Nymphaeaceae (water lilies family) within Indian Medicinal Plants.
 
-### 14. [Fumarioideae / Fumariaceae (fumitory family): Indian Medicinal Plants Chapter 14](/articles/indian-medicinal-plants-ch14)
+### [Fumarioideae / Fumariaceae (fumitory family): Indian Medicinal Plants Chapter 14](/articles/indian-medicinal-plants-ch14)
 **Overview**: Detailed classical discussion on Fumarioideae / Fumariaceae (fumitory family) within Indian Medicinal Plants.
 
-### 15. [Brassicaceae or Cruciferae (mustards family): Indian Medicinal Plants Chapter 15](/articles/indian-medicinal-plants-ch15)
+### [Brassicaceae or Cruciferae (mustards family): Indian Medicinal Plants Chapter 15](/articles/indian-medicinal-plants-ch15)
 **Overview**: Detailed classical discussion on Brassicaceae or Cruciferae (mustards family) within Indian Medicinal Plants.
 
-### 16. [Notes: Indian Medicinal Plants Chapter 16](/articles/indian-medicinal-plants-ch16)
+### [Notes: Indian Medicinal Plants Chapter 16](/articles/indian-medicinal-plants-ch16)
 **Overview**: Detailed classical discussion on Notes within Indian Medicinal Plants.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Introduction, part 4: Modern medicinal works
+## Introduction, part 4: Modern medicinal works
 
 Indian Medicinal Plants
 
@@ -113,13 +111,12 @@ The medicinal plants and drugs of the Central Provinces and Rajputana have not b
 
 Thus it will be seen that, although there are many works on the medicinal plants and drugs of different provinces of India, yet a great deal remains to be done for the drugs and medicinal plants of Cashmere, Beluchistan, Sind, Punjab, United Provinces of Agra andOudh, Behar, Orissa, Assam, Central Provinces and Rajputana. Owing to the publication of the Pharmacographica Indica and Watt's “Dictionary of the Economic Products of India,” there is not the same difficulty now to work out the subject which the early laborers in this field of research experienced For, not only the Flora of British India projected by Hooker has been completed, but Floras of most of the provinces of India have been in recent years prepared by some of the noted Indian botanists. Thus the Bengal Plants by Sir David Prain, the Gangetic Flora describing plants of the United Provinces of Agra & Oudh by Mr. J. F. Duthie, Flora of Bombay by Dr. Theodore Cooke, Flora of the Central Provinces by Mr. Haines, Flora of Madras by Mr. Gamble, Panjab Plants by Colonel Bamber, Flora Simlensis by the late General Collett, Plants of Baluchistan by Mr. Burkill, and Flora of Assam under preparation by Rai Bahadur Upendra Nath Kanjilal, will be of great help to those who are interested in the study of the medicinal plants of this country. Of the Indian States of India, the plants of Kashmir were worked out principally by Jacquemont and Royle; of Nepal by Wallich and recently byMr. J. Hc Burkill; of Bhotan and Sikkim recently by Messrs. Burkill and Smith; of Catch by Revd. Father Blatter; of Mysore in the Gazetteer Volume of that principality; and of Baroda and Kathiawad States by Mr. Jayakrishna Indrajit in Guzerati.
 
-[1]:
 
-Of the drugs used by the ancient Hindus, the best account in English is the work on Hindu Materia Medica by the late Dr. Udoy Chand Dutt. This work requires re-editing.
+<div className="footnote-card"><strong>[1]</strong> Of the drugs used by the ancient Hindus, the best account in English is the work on Hindu Materia Medica by the late Dr. Udoy Chand Dutt. This work requires re-editing.</div>
 
 ---
 
-## 2. Preface
+## Preface
 
 Indian Medicinal Plants
 
@@ -225,17 +222,17 @@ B. D. BASU,
 Allahabad:
 1st January, 1918.
 
-[1]:
 
-“The Decadence of Modern Literature by Armando Palacio Valdes of Madrid in the International Library of Famous Literature, Vol. xx
+<div className="footnote-card"><strong>[1]</strong> “The Decadence of Modern Literature by Armando Palacio Valdes of Madrid in the International Library of Famous Literature, Vol. xx</div>
 
-[2]:
 
-“The use and value of Anthologies,” in the International Library of Famous Literature, Vol. I.
+
+
+<div className="footnote-card"><strong>[2]</strong> “The use and value of Anthologies,” in the International Library of Famous Literature, Vol. I.</div>
 
 ---
 
-## 3. Introduction, part 3: The materia medica of Sanskrit literature
+## Introduction, part 3: The materia medica of Sanskrit literature
 
 Indian Medicinal Plants
 
@@ -305,33 +302,37 @@ Mention should also be made of the establishment of the Forest Department and th
 
 The Calcutta International Exhibition of 1883-84 has done much towards the study of indigenous drugs. Credit is due to Mr. T. N. Mukerjee and Sir George Watt, who spared no pains to make the Exhibition of indigenous drugs as complete as possible. The Dictionary of the Economic Products of India, originally projected by Mr. Mukherji, but subsequently completed by Dr. G. Watt, contains informations from all possible sources, as to the uses and properties of indigenous drugs.
 
-[1]:
 
-The late Dr. U. C. Dutt has given strong reasons for the work being a production of the sixteenth century, see introduction to his Materia Medica of the Hindoos.
+<div className="footnote-card"><strong>[1]</strong> The late Dr. U. C. Dutt has given strong reasons for the work being a production of the sixteenth century, see introduction to his Materia Medica of the Hindoos.</div>
 
-[2]:
 
-A very important work was that of Garcia D’orta, named Colloquios does simples e droges da India. This has been lately translated into English.
 
-[3]:
 
-Sir Wm. Jones’ Works, London, 1799, vol. II, p. 2.
+<div className="footnote-card"><strong>[2]</strong> A very important work was that of Garcia D’orta, named Colloquios does simples e droges da India. This has been lately translated into English.</div>
 
-[4]:
 
-Clarke’s edition of Roxburgh’s Flora Indica, Calcutta, 1874, Preface, p. iii.
 
-[5]:
 
-This paper was published under the title “Articles of Materia Medic a obtained in the Bazars of India,” in the first volume of the Bengal Asiatic Society’s Journal.
+<div className="footnote-card"><strong>[3]</strong> Sir Wm. Jones’ Works, London, 1799, vol. II, p. 2.</div>
 
-[6]:
 
-Preface to the Indian Pharmacopoeia, p.vi.
+
+
+<div className="footnote-card"><strong>[4]</strong> Clarke’s edition of Roxburgh’s Flora Indica, Calcutta, 1874, Preface, p. iii.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> This paper was published under the title “Articles of Materia Medic a obtained in the Bazars of India,” in the first volume of the Bengal Asiatic Society’s Journal.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Preface to the Indian Pharmacopoeia, p.vi.</div>
 
 ---
 
-## 4. Introduction, part 1: History of the study of medicinal plants
+## Introduction, part 1: History of the study of medicinal plants
 
 Indian Medicinal Plants
 
@@ -425,29 +426,35 @@ Dr. John Lindley was a renowned botanist. His views on the subject of vegetable 
 
 “It by no means follows that plants are inert because medical men have reported unfavourably of their action. The most powerful species have had their energy destroyed by unskilful preparation, or by not knowing at what season to collect them. * * * * * * * the very nature of the climate of tropical countries generally causes the properties of plants to be more concentrated and completely elaborated than in Northern latitude.”
 
-[1]:
 
-Vol. I, p. 325.
+<div className="footnote-card"><strong>[1]</strong> Vol. I, p. 325.</div>
 
-[2]:
 
-The Ph. J. of May, 30, 1874, p. 958,
 
-[3]:
 
-Writing of America one botanist says that “when our forefathers came to this country they found the natives in possession of much medical knowledge of plants. Having no remedies prepared by scientific skill, the Indians were led, by necessity, to the use of those which nature afforded them; and, by experience and observation, they had arrived at many valuable conclusions as to the qualities of plants. Their mode of life, leading them to penetrate the shades of the forest, and to climb the mountain precipices, naturally associated them much with the vegetable world. The Indian woman, the patient sharer in these excursions, was led to look for such plants as she might use for the diseases of her family. Each new and curious plant, though not viewed by her with the eye of a botanist, was regarded with scrutinizing attention: the colour, taste, and smell were carefully remarked, as indications of its properties. But the discoveries and observations of the Indians have perished with themselves; having had no system for the classification or description of plants, nor any written language by which such a system might have been conveyed to others, no other vestige remains than uncertain tradition of their knowledge of the medicinal qualities of plants.”
+<div className="footnote-card"><strong>[2]</strong> The Ph. J. of May, 30, 1874, p. 958,</div>
 
-[4]:
 
-The British Medical Journal for August 14th, 1886, p. 326.
 
-[5]:
 
-Extra Pharmacopoeia by Martindale and Westcott. Preface to the sixth edition, p. III.
+<div className="footnote-card"><strong>[3]</strong> Writing of America one botanist says that “when our forefathers came to this country they found the natives in possession of much medical knowledge of plants. Having no remedies prepared by scientific skill, the Indians were led, by necessity, to the use of those which nature afforded them; and, by experience and observation, they had arrived at many valuable conclusions as to the qualities of plants. Their mode of life, leading them to penetrate the shades of the forest, and to climb the mountain precipices, naturally associated them much with the vegetable world. The Indian woman, the patient sharer in these excursions, was led to look for such plants as she might use for the diseases of her family. Each new and curious plant, though not viewed by her with the eye of a botanist, was regarded with scrutinizing attention: the colour, taste, and smell were carefully remarked, as indications of its properties. But the discoveries and observations of the Indians have perished with themselves; having had no system for the classification or description of plants, nor any written language by which such a system might have been conveyed to others, no other vestige remains than uncertain tradition of their knowledge of the medicinal qualities of plants.”</div>
 
-[6]:
 
-Dr. John Foote, Associate Professor of Materia Medica and Therapeutics, Georgetown University, Washington, writes of the importance of Trees in Medicine as folloms
+
+
+<div className="footnote-card"><strong>[4]</strong> The British Medical Journal for August 14th, 1886, p. 326.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Extra Pharmacopoeia by Martindale and Westcott. Preface to the sixth edition, p. III.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Dr. John Foote, Associate Professor of Materia Medica and Therapeutics, Georgetown University, Washington, writes of the importance of Trees in Medicine as folloms</div>
+
+
 
 “And yet, in spite of the pharmaceutical image breakers and the therapeutic nihilists, some of the most valuable remedies used in medicine come from trees. * * *
 “And if, as has been asserted, the decadence of Home was really due to malaria, and if her glory was obscured by a cloud of mosquitoes rather than by the dust of battles, then it may be that the possession of some cinchona and the planting of the eucalyptus in the Homan marshes might have prevented a great civilization from withering and fluttering away and changed the countenance of history.” [Scientific American Supplement, January 13, 1917 p. 26].
@@ -456,13 +463,12 @@ Dr. John Foote, Associate Professor of Materia Medica and Therapeutics, Georgeto
 
 “And if, as has been asserted, the decadence of Home was really due to malaria, and if her glory was obscured by a cloud of mosquitoes rather than by the dust of battles, then it may be that the possession of some cinchona and the planting of the eucalyptus in the Homan marshes might have prevented a great civilization from withering and fluttering away and changed the countenance of history.” [Scientific American Supplement, January 13, 1917 p. 26].
 
-[7]:
 
-Guy’s Hospital Gazette for 29th March 1890, p. 72.
+<div className="footnote-card"><strong>[7]</strong> Guy’s Hospital Gazette for 29th March 1890, p. 72.</div>
 
 ---
 
-## 5. Introduction, part 5: Medicinal supply of indigenous drugs
+## Introduction, part 5: Medicinal supply of indigenous drugs
 
 Indian Medicinal Plants
 
@@ -533,25 +539,26 @@ It is the bounden duty of educated Indians to do all that lies in their power fo
 
 B. D. BASU.
 
-[1]:
 
-[Chemical Abstracts for February 20th, 1914, p. 786.]
+<div className="footnote-card"><strong>[1]</strong> [Chemical Abstracts for February 20th, 1914, p. 786.]</div>
+
+
 
 Mr. R. P. Craford writing in Scientific American Supplement, September 8, 1917 on “ Reducing drug plant cultivation to a science,” says, “ that drug plant cultivation is far from easy and the institution that works out these problems in connection with several score different plants has a difficult task ahead, but one which may pave the way toward American independence in drug science.”
 
 Scientific cultivation of drug plants in this country will make India independent in drug science.
 
-[2]:
 
-Lieuteuant-Colonel Sir Leonard Rogers, M. D., F. R. C. P., K. C. I. E. I. M. S., the founder of the Calcutta Tropical School of Medicine is reported to have said before the Indian Industry Commission, that “most of the drugs imported into India were absolute refuse, and considering that one-half of the drugs in the British pharmacopoeia are indigenous to India and that most of the rest could be cultivated there is clearly an opportunity of developing an industry that has been almost neglected, and if India is to grow its own drugs it must take care that it gets them unadulterated.”
+<div className="footnote-card"><strong>[2]</strong> Lieuteuant-Colonel Sir Leonard Rogers, M. D., F. R. C. P., K. C. I. E. I. M. S., the founder of the Calcutta Tropical School of Medicine is reported to have said before the Indian Industry Commission, that “most of the drugs imported into India were absolute refuse, and considering that one-half of the drugs in the British pharmacopoeia are indigenous to India and that most of the rest could be cultivated there is clearly an opportunity of developing an industry that has been almost neglected, and if India is to grow its own drugs it must take care that it gets them unadulterated.”</div>
 
-[3]:
 
-A few enterprising Ayurvedic practitioners of Calcutta have established such farms in the neighbourhood of that city. But these are on small scale.
+
+
+<div className="footnote-card"><strong>[3]</strong> A few enterprising Ayurvedic practitioners of Calcutta have established such farms in the neighbourhood of that city. But these are on small scale.</div>
 
 ---
 
-## 6. Introduction, part 2: Vernacular names of medicinal plants
+## Introduction, part 2: Vernacular names of medicinal plants
 
 Indian Medicinal Plants
 
@@ -603,43 +610,52 @@ But clinical experiences and observations of eminent physicians on the actions o
 
 The modern method of therapeutical investigation is, first, to observe the action of a drug on a healthy animal, and then to make the results applicable to pathological states. The ancients recognised only one mode of studying the effects of a remedy, and that was by the simple observation of effects produced by drugs when administered in disease. This clinical observation of the action of remedies has been productive of some good, but it is questionable if much progress was effected so long as this method alone was employed. Towards the beginning of the nineteenth century, the necessity for ascertaining the actions of remedies by experiments on animals, was recognised by Bichat, Majendie, and others. This modern method of therapeutical research promises a great success. Working on this line, Lauder Brunton was able to use with success nitrite of amyl in angina pectoris. Here a correct application of a known action in a drug was made serviceable in the very first trial. The pharmacological experiments and clinical observations will thus settle the claims of Indian drugs on our attention.
 
-[1]:
 
-Official Report of the Calcutta International Exhibition, 1883-84, Vol. I, pp. 316-317.
+<div className="footnote-card"><strong>[1]</strong> Official Report of the Calcutta International Exhibition, 1883-84, Vol. I, pp. 316-317.</div>
 
-[2]:
 
-Introductory Essay to the Flora Indica, p. 3, London, 1855.
 
-[3]:
 
-An excellent account of this tribe is given by Mr. J. C. Nesfield, M. A., Inspector of Oudh Division, Lucknow, in the Calcutta Review for January, 1888. Mr. Nesfield writes “ Indian physicans (Yaidya) and Indian druggists (Pansari) are almost dependent as far as medicines are concerned, on what Musheras supply to them. * * It is much to the credit of Musheras that they have given a marked preference to the study of nature, and opened the door to the discovering of natural remedies. In fact, their knowledge of medicine is one of the chief characteristics of this tribe. * *
+<div className="footnote-card"><strong>[2]</strong> Introductory Essay to the Flora Indica, p. 3, London, 1855.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> An excellent account of this tribe is given by Mr. J. C. Nesfield, M. A., Inspector of Oudh Division, Lucknow, in the Calcutta Review for January, 1888. Mr. Nesfield writes “ Indian physicans (Yaidya) and Indian druggists (Pansari) are almost dependent as far as medicines are concerned, on what Musheras supply to them. * * It is much to the credit of Musheras that they have given a marked preference to the study of nature, and opened the door to the discovering of natural remedies. In fact, their knowledge of medicine is one of the chief characteristics of this tribe. * *</div>
+
+
 
 They collect medicinal herbs for sale and receive grain or money for what they supply. * * * I know of no parallel to such knowledge as that possessed by Musheras within India itself.” (Calcutta Review, pp. 40-41, for January, 1888.)
 
-[4]:
 
-Hunter’s Statistical Account of Bengal, Vol. I, p. 27.
+<div className="footnote-card"><strong>[4]</strong> Hunter’s Statistical Account of Bengal, Vol. I, p. 27.</div>
 
-[5]:
 
-Most of the above mentioned works, however, are out of print, and being rare, are hardly within the reach of the most of the members of medical profession.
 
-[6]:
 
-Vanauṣadi Prakāś, by Mr. Vasudev Chintaman Bapat, in Mahrathi, is as far as I know, the only work which gives the uses to which some of the medicinal plants are put by the natives of Concan.
+<div className="footnote-card"><strong>[5]</strong> Most of the above mentioned works, however, are out of print, and being rare, are hardly within the reach of the most of the members of medical profession.</div>
 
-[7]:
 
-The alkaloids have all been discovered within the last 100 years. For want of chemical investigation indigenous drugs are used in their crude forms, instead of their alkaloids or active principles. Brunton’s “Iron Age of Therapeutics,” is one of remote and uncertain future, but I believe a great deal of iron, if not steel, can be extracted, very useful for all practical purposes from the stones in the shape of our indigenous drugs.
 
-[8]:
 
-Biochemistry of plants and animals has not yet been fully investigated. We do not know even much about the function of enzymes, regarding which two views are held one that they are a property and the other that they are a substance. Chemistry cannot produce them. They are found only as the products of protoplasm of living cells. It may be that many processes taking place in living cells are the results of Enzyme activity.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Vanauṣadi Prakāś, by Mr. Vasudev Chintaman Bapat, in Mahrathi, is as far as I know, the only work which gives the uses to which some of the medicinal plants are put by the natives of Concan.
+</blockquote>
 
-[9]:
 
-Dr. D. J, Leech in Yol. I of Allbutt’s System of Medicine. London, 1896,
+
+
+<div className="footnote-card"><strong>[7]</strong> The alkaloids have all been discovered within the last 100 years. For want of chemical investigation indigenous drugs are used in their crude forms, instead of their alkaloids or active principles. Brunton’s “Iron Age of Therapeutics,” is one of remote and uncertain future, but I believe a great deal of iron, if not steel, can be extracted, very useful for all practical purposes from the stones in the shape of our indigenous drugs.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Biochemistry of plants and animals has not yet been fully investigated. We do not know even much about the function of enzymes, regarding which two views are held one that they are a property and the other that they are a substance. Chemistry cannot produce them. They are found only as the products of protoplasm of living cells. It may be that many processes taking place in living cells are the results of Enzyme activity.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Dr. D. J, Leech in Yol. I of Allbutt’s System of Medicine. London, 1896,</div>
 
 ---
 

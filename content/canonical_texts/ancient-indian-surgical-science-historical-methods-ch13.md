@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 20. Notes and References within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 42. 20. Notes and References
+## 20. Notes and References
 
 Surgery in ancient India (Study)
 
@@ -39,7 +39,7 @@ REFERENCES 1. Smith, William Sir, A dictionary of Greek and Roman Antiquities, L
 
 ---
 
-## 43. 5. Dhanvantari and the Indian medical system
+## 5. Dhanvantari and the Indian medical system
 
 Surgery in ancient India (Study)
 
@@ -65,7 +65,7 @@ that all the later salya tantra samhita works and is based on these three works 
 
 ---
 
-## 44. 4. Post Vedic Medicine
+## 4. Post Vedic Medicine
 
 Surgery in ancient India (Study)
 
@@ -93,8 +93,6 @@ was relegated to an interior place, though it had been nanded down as a separate
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -102,10 +100,6 @@ was relegated to an interior place, though it had been nanded down as a separate
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">8. Identity of Aurabhra: Ancient Indian Surgical Science Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

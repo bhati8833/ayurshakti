@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Avapāta: The fifth technique within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. Avapāta: The fifth technique
+## Avapāta: The fifth technique
 
 Matangalila and Hastyayurveda (study)
 
@@ -35,27 +35,35 @@ An elephant full of good deeds, valour and power, should be tied the post in its
 
 This on one hand reflects the use of magical spells and supernatural intervention in the capturing of this vital beast and the birth of rituals related to the capturing of elephants and involvement of the priestly class in the procedure. Aniruddha mentioned here is a hitherto unknown deity responsible for taking care of capturing and tying up of elephants.
 
-[1]:
 
-garte hastacatuṣkanikarayugmavyāsadoḥpañcakāyāmaṃ veṇudalaiḥ kaṭaiśca pihitaṃ kṛtvā mṛdācchādya tam /
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> garte hastacatuṣkanikarayugmavyāsadoḥpañcakāyāmaṃ veṇudalaiḥ kaṭaiśca pihitaṃ kṛtvā mṛdācchādya tam /
 tasmin bhakṣyaparistṛte tu kalabhānā pātayitvā bhaṭā badhnīyuḥ suiḍhaṃ gajagraha iti proktoâvapātāhvayaḥ //
      —T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 28. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 91.
+</blockquote>
 
-[2]:
 
-Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol. I, v. 219-220, p. 49.
 
-[3]:
 
-ShriMantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.62.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol. I, v. 219-220, p. 49.
+</blockquote>
 
-[4]:
 
-Ibid., p.63.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> ShriMantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, p.62.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., p.63.</div>
 
 ---
 
-## 34. Measurement and Age of the Elephants
+## Measurement and Age of the Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -81,61 +89,83 @@ Elephants with smooth tusks, nails, hair and gentle eyes, long ears and bodies l
 
 With seven red parts of the body, raised in six places, with pleasant minds, sweet-scented, the colour of dark clouds, trumpeting, with two or three hairs–these elephants live long. The elephant which has these seven parts of the body red is the best among elephants–the testicles, penis, tongue, lip, vagina and palate.
 
-[1]:
 
-― Netrādāpecakaṃ dairdhyaṃ nakhādāskandhamucchrayaḥ I Parīṇāḥ pramātavyaḥ kakṣyāsthāneṣu dantinām II‖ (v. 1)/ “Sañjātamātramṛgajātyagajasya dairdhyaṃ sārdhaikahastamiha caikakarocchrayaḥ syāt I Nāho dvihasta iti ca prativarṣameṣāṃ pañcāṅgulardhiruditā daśavatsarāntam II” (v. 2), Ibid., p. 16 and p. 60, respectively.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> ― Netrādāpecakaṃ dairdhyaṃ nakhādāskandhamucchrayaḥ I Parīṇāḥ pramātavyaḥ kakṣyāsthāneṣu dantinām II‖ (v. 1)/ “Sañjātamātramṛgajātyagajasya dairdhyaṃ sārdhaikahastamiha caikakarocchrayaḥ syāt I Nāho dvihasta iti ca prativarṣameṣāṃ pañcāṅgulardhiruditā daśavatsarāntam II” (v. 2), Ibid., p. 16 and p. 60, respectively.
+</blockquote>
 
-[2]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 62-68.
 
-[3]:
 
-ā dvādaśābdād vayasā jaghanyo madhyaścaturviṃśativatsarāt prāk /
+<div className="footnote-card"><strong>[2]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, pp. 62-68.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> ā dvādaśābdād vayasā jaghanyo madhyaścaturviṃśativatsarāt prāk /
 ā ṣaṣṭisaṃvatsarataḥ purāyṃ mātaṅgavaryo vayasottamākhyaḥ //
      —(v.1), T. Ganapati Sastri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 12. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 63.
+</blockquote>
 
-[4]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 24.
 
-[5]:
 
-netrādāpecakaṃ dairghaṃ nakhādāskandhamucchrayaḥ /
+<div className="footnote-card"><strong>[4]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 24.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> netrādāpecakaṃ dairghaṃ nakhādāskandhamucchrayaḥ /
 parīṇāhaḥ pramātavyaḥ kakṣyāsthāneṣu dantinām //
      —(v. 1), T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, p. 16. Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 69.
+</blockquote>
 
-[6]:
 
-G.E. Evans. Elephants and Their Diseases, Rangoon, 1910, p. 5.
 
-[7]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, v. 11-18, pp. 202-203.
+<div className="footnote-card"><strong>[6]</strong> G.E. Evans. Elephants and Their Diseases, Rangoon, 1910, p. 5.</div>
 
-[8]:
 
-Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol. I, p. 49.
 
-[9]:
 
-Ibid.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, v. 11-18, pp. 202-203.
+</blockquote>
 
-[10]:
 
-Ibid. and Nalini Sadhale & Y.L. Nene.‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25 (v. 222-225).
 
-[11]:
 
-John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, p. 118.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Gajanan K. Shrigondekar. ed. Mānasollāsa, Vol. I, p. 49.
+</blockquote>
 
-[12]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Appendix, atha gajavayonirṇayalakṣaṇam, v. 1-3, pp.132-133.
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid. and Nalini Sadhale & Y.L. Nene.‘On Elephants in Manasollasa-1.Characteristics, Habitat, Methods of Capturing and Training’, Reproduction from Asian Agri-History, Vol.8, No.1, 2004, pp.5-25 (v. 222-225).</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, p. 118.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, Appendix, atha gajavayonirṇayalakṣaṇam, v. 1-3, pp.132-133.
+</blockquote>
 
 ---
 
-## 35. Techniques of building Elephant abodes
+## Techniques of building Elephant abodes
 
 Matangalila and Hastyayurveda (study)
 
@@ -151,49 +181,61 @@ The sleeping area for the elephants was to be constructed with care in the centr
 
 Gajaśāstra recommends their daily worship without fail or their regular worship as compulsory. However the worship of these deities are hitherto unknown. Śaktipāṇi[9] is an epithet of Kārttikeya and reference to Śāstā is found in Tamil literature and this male deity is also associated with Kārttikeya. Kārttikeya was a warrior god and elephants were an important part of the warfare hence the association with Kārttikeya is but obvious. The involvement of the Brāhmaṇas in the whole process is evident from the references to worship, oblations libations and other rites and rituals including sacrificial rituals as well. The text also mentions that in each of the elephant-houses, goats, dogs, pigs (boars) should be sacrificed by the wise for the satisfaction of rakṣas, gandharvas and yakṣas.[10]
 
-[1]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha gajaśālānirmāṇavidhiḥ), p.222.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha gajaśālānirmāṇavidhiḥ), p.222.
+</blockquote>
 
-[2]:
 
-Ibid., v. 1-2.
 
-[3]:
 
-Ibid., v. 3-5.
+<div className="footnote-card"><strong>[2]</strong> Ibid., v. 1-2.</div>
 
-[4]:
 
-Ibid., v. 6.
 
-[5]:
 
-Ibid., v. 6-14, pp. 223-224.
+<div className="footnote-card"><strong>[3]</strong> Ibid., v. 3-5.</div>
 
-[6]:
 
-Ibid., v. 32, p.226.
 
-[7]:
 
-Ibid., (atha gajaśāstrānubandhaḥ: atha gajaśālānirmāṇavidhiḥ), v. 19-20, p.224.
+<div className="footnote-card"><strong>[4]</strong> Ibid., v. 6.</div>
 
-[8]:
 
-Ibid., v. 21-22, p.225.
 
-[9]:
 
-M. M. Williams. A Sanskrit-English Dictionary, Delhi: Motilal Banarsidass Publishers Pvt. Ltd., 2011, p. 1044.
+<div className="footnote-card"><strong>[5]</strong> Ibid., v. 6-14, pp. 223-224.</div>
 
-[10]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajaśālānirmāṇavidhiḥ), v. 23, p. 225.
+
+
+<div className="footnote-card"><strong>[6]</strong> Ibid., v. 32, p.226.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Ibid., (atha gajaśāstrānubandhaḥ: atha gajaśālānirmāṇavidhiḥ), v. 19-20, p.224.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., v. 21-22, p.225.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> M. M. Williams. A Sanskrit-English Dictionary, Delhi: Motilal Banarsidass Publishers Pvt. Ltd., 2011, p. 1044.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, (atha gajaśāstrānubandhaḥ: atha gajaśālānirmāṇavidhiḥ), v. 23, p. 225.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -202,10 +244,6 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gaja-śāstram o
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Pregnant elephants: Matangalila And Hastyayurveda Study Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

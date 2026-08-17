@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Nymphaeaceae (water lilies family) within Indian Medicinal Plants. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Nymphaeaceae (water lilies family)
+## Nymphaeaceae (water lilies family)
 
 Indian Medicinal Plants
 
@@ -19,25 +19,13 @@ by Kanhoba Ranchoddas Kirtikar | 1918
 
 A comprehensive work on Indian Botany including plant synonyms in various languages, habitat description and uses in traditional medicine, such as Ayurveda....
 
-Nymphaeaceae (water lilies family)
-
-- Sub-Contents: (+ / -)
-
----
-
-
-
----
+Nymphaeaceae (water lilies family), ---, ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
   <a href="/articles/indian-medicinal-plants-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">← Berberidaceae (barberry family): Indian Medicinal Plants Chapter 12</a>
   <a href="/articles/indian-medicinal-plants" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/indian-medicinal-plants-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Fumarioideae / Fumariaceae (fumitory family): Indian Medicinal Plants Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

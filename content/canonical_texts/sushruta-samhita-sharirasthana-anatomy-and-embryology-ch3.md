@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The science of being in general within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Chapter I - The science of being in general
+## Chapter I - The science of being in general
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -39,27 +39,7 @@ Out of that latent unmanifest (Avyakta) or original nature (impregnated by the a
 
 The eleven organs of cognition, communication or sense perception have emanated from the co-operation of the aforesaid Vaikarika Ahamkara with the Taijasa or Rajasa.
 
-They are
-
-the ears,
-
-skin,
-
-eyes,
-
-tongue,
-
-nose,
-
-speech,
-
-hands,
-
-genitals,
-
-anus,
-
-feet
+They are, the ears,, skin,, eyes,, tongue,, nose,, speech,, hands,, genitals,, anus,, feet
 
 and the mind (Manah).
 
@@ -161,29 +141,31 @@ These qualities are found to characterise and enter into the successive elements
 
 Thus ends the first Chapter of the Sharira Sthana in the Sushruta Samhita which deals with the science of Being in general.
 
-[1]:
 
-Sattva, Rajas and Tamas:—Adhesion, cohesion and disintegration in the Physical plane; affection, love and hate in the moral; emancipation, spiritual affinity and sin in the Psychic.
+<div className="footnote-card"><strong>[1]</strong> Sattva, Rajas and Tamas:—Adhesion, cohesion and disintegration in the Physical plane; affection, love and hate in the moral; emancipation, spiritual affinity and sin in the Psychic.</div>
+
+
 
 Simply phenomenal or the simple outcome of the phenomenal evolution without being by other specific attributes of matter and hence Sattvika or illuminating or quasi-spiritual.
 
-[2]:
 
-Mahan, Ahamkara and the five Tanmatras, though but modifications of the original Nature in themselves, have been included within the category of Nature (Prakriti) in asmuch as they form the immediately prior or antecedent conditions of the evolution of the phenomenal universe.
+<div className="footnote-card"><strong>[2]</strong> Mahan, Ahamkara and the five Tanmatras, though but modifications of the original Nature in themselves, have been included within the category of Nature (Prakriti) in asmuch as they form the immediately prior or antecedent conditions of the evolution of the phenomenal universe.</div>
 
-[3]:
 
-The second factor according to Sankhya, in the order of cosmic evolution, which as the seed of the universe, was hid in the burning disc of the central, primordial Sun, out of which the different solar systems have come into being.
 
-[4]:
 
-Here lies the difference between Sankhya and Ayurveda. While the former discourses on in material character of the soul, the latter commences to discuss on the questions how the material environment in which the soul is said to inhabit is evolved, and how the inclusion of the spiritual within the material organism is effected.
+<div className="footnote-card"><strong>[3]</strong> The second factor according to Sankhya, in the order of cosmic evolution, which as the seed of the universe, was hid in the burning disc of the central, primordial Sun, out of which the different solar systems have come into being.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Here lies the difference between Sankhya and Ayurveda. While the former discourses on in material character of the soul, the latter commences to discuss on the questions how the material environment in which the soul is said to inhabit is evolved, and how the inclusion of the spiritual within the material organism is effected.</div>
+
+
 
 Hence Sushruta’s Physiology, like that of Charaka, is in the strictest sense of the word molecular and his science of life is an attempt at explanation of consciousness from the materialistic standpoint, which agrees with the views of modern western science. Intellect according to Sushruta is material and belongs to the same category which the Sankhya system of philosophy in its explanation of evolution enumerates originally as seven. The soul, according to Sushruta, is an independent existence and is often associated with what is called life. Where there is life, there is a soul, and it is not everywhere the same. The soul in Sushruta is individual rashija(?) puruṣaḥ and takes cognisance of sorrow, disease and death by its union with the body (paraṃ mahabhūte shariri samavayaḥ puruṣa ityucyate). Hence the living frame together with the soul that ia said to inhabit it forms the subject-matter of Ayurvedic medical treatment, Ed.
 
 ---
-
-
 
 ---
 
@@ -192,10 +174,6 @@ Hence Sushruta’s Physiology, like that of Charaka, is in the strictest sense o
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Pregnancy: Sushruta Samhita Sharirasthana Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

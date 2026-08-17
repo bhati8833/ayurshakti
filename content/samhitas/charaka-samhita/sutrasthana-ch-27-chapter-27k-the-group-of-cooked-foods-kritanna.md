@@ -56,7 +56,11 @@ The qualities of Rice prepared with flesh etc.
 
 The qualities of Kulmasha preparation
 
+
+<blockquote className="ayur-shloka">
 260.Kulmasha [kulmāṣa] is heavy, dry, Vata-provoking and loosens the stools.
+</blockquote>
+
 
 The relative lightness and heaviness of prepared Gruels, Meat-juices and Soups
 
@@ -82,7 +86,11 @@ The qualities of Dhana preparation
 
 The qualities of Virudha preparation, Sashkuli etc.
 
+
+<blockquote className="ayur-shloka">
 267. Virudha-dhana [virūḍhadhānā], Shashkuli [śaṣkuli], Madhu-krodas [madhukroḍa] with Pindakas [piṇḍaka], Pupa [pūpa] and Pupalika [pūpalikā] and other preparations of flour are extremely heavy.
+</blockquote>
+
 
 The qualities of edibles prepared with fruit, flesh etc.
 
@@ -134,7 +142,11 @@ The qualities of Beverages
 
 The qualities of Raga and Shadava
 
+
+<blockquote className="ayur-shloka">
 281 The preparations called Raga [rāga] and Shadava [ṣāḍava] are pungent, sour, sweet, salt and light. They are pleasant to taste, cordial, digestive-stimulant and appetizers
+</blockquote>
+
 
 The qualities of the Linctuses of Mango and Emblic myrobaian
 
@@ -148,6 +160,10 @@ The qualities of Shukta-beverage
 
 The qualities of Shindaki and other fermented sour beverages.
 
+
+<blockquote className="ayur-shloka">
 285. Shindaki [śiṇḍākī] and other fermented articles which have become sour owing to long preservation are appetizing and light. The physician should know this section on cooked foods (Kritanna—kṛtānna-varga) to be the eleventh in the order.
+</blockquote>
+
 
 ---

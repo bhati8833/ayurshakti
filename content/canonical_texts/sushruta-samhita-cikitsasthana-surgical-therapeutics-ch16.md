@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical/surgical treatment of the fetus within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Chapter XV - The medical/surgical treatment of the fetus
+## Chapter XV - The medical/surgical treatment of the fetus
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -93,25 +93,25 @@ Nilotpala and Shatavari should be cooked in milk. The milk thus prepared should 
 
 Thus ends the fifteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the medical treatment of Mudha- garbha.
 
-[1]:
 
-The oil should be introduced into the vaginal canal by means of Pichu, i e., cotton plugs soaked in oil, etc.
+<div className="footnote-card"><strong>[1]</strong> The oil should be introduced into the vaginal canal by means of Pichu, i e., cotton plugs soaked in oil, etc.</div>
 
-[2]:
 
-This decoction should be specially used for 1 washing the uterus (Yoni).—Ed.
 
-[3]:
 
-Four seers of sesamun oil, thirty-two seers of the decoction of the Vala-roots, thirty-two seers of the decoction of Dasha-mula, thirty-two seers of the decoction of the drugs Yava, Kola and Kulattha taken together, thirty-two seers of milk and one seer of the paste compound (Kalka) should be taken in the preparation of the oil.
+<div className="footnote-card"><strong>[2]</strong> This decoction should be specially used for 1 washing the uterus (Yoni).—Ed.</div>
 
-[4]:
 
-Vala would be the Kalka in this oil, says Dallana. But he also says that some authorities hold that the Kalkas used in the Vala-Taila should be used as the Kalka in this oil as well.
+
+
+<div className="footnote-card"><strong>[3]</strong> Four seers of sesamun oil, thirty-two seers of the decoction of the Vala-roots, thirty-two seers of the decoction of Dasha-mula, thirty-two seers of the decoction of the drugs Yava, Kola and Kulattha taken together, thirty-two seers of milk and one seer of the paste compound (Kalka) should be taken in the preparation of the oil.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Vala would be the Kalka in this oil, says Dallana. But he also says that some authorities hold that the Kalkas used in the Vala-Taila should be used as the Kalka in this oil as well.</div>
 
 ---
-
-
 
 ---
 
@@ -120,10 +120,6 @@ Vala would be the Kalka in this oil, says Dallana. But he also says that some au
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of Abscesses and Tumours: Sushruta Samhita Cikitsasthana Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

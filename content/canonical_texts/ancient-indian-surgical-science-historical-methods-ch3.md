@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 10. Ayurveda in the Smritis within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. 10. Ayurveda in the Smritis
+## 10. Ayurveda in the Smritis
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ among the masses.
 
 ---
 
-## 10. 9. Ayurveda in Upanisads, Epics, Puranas, Vyakarana, and Sahitya
+## 9. Ayurveda in Upanisads, Epics, Puranas, Vyakarana, and Sahitya
 
 Surgery in ancient India (Study)
 
@@ -41,7 +41,7 @@ Brahma Vaivarta Purana, Daksa Prajapati taught Ayurveda to Brahma ' and he, in t
 
 ---
 
-## 11. 8. Description of Medicines and Treatment in Ayurveda
+## 8. Description of Medicines and Treatment in Ayurveda
 
 Surgery in ancient India (Study)
 
@@ -57,8 +57,6 @@ TYPES OF TREATMENT Four types of treatment have been mentioned in Atharvaveda. 4
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +64,6 @@ TYPES OF TREATMENT Four types of treatment have been mentioned in Atharvaveda. 4
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">7. Description of Medicinal plants: Ancient Indian Surgical Science Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

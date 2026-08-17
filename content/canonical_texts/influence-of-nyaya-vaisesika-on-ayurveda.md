@@ -13,163 +13,161 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Influence Of Nyaya Vaisesika On Ayurveda Chapter 1](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch1)
+### [General Discourse: Influence Of Nyaya Vaisesika On Ayurveda Chapter 1](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 2. [Origin and Development of Nyaya-Vaisesika and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 2](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch2)
+### [Origin and Development of Nyaya-Vaisesika and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 2](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch2)
 **Overview**: Detailed classical discussion on Origin and Development of Nyaya-Vaisesika and Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 3. [2. Classification of Darsana: Influence Of Nyaya Vaisesika On Ayurveda Chapter 3](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch3)
+### [2. Classification of Darsana: Influence Of Nyaya Vaisesika On Ayurveda Chapter 3](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch3)
 **Overview**: Detailed classical discussion on 2. Classification of Darsana within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 4. [3. Origin and development of Nyaya-Sastra: Influence Of Nyaya Vaisesika On Ayurveda Chapter 4](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch4)
+### [3. Origin and development of Nyaya-Sastra: Influence Of Nyaya Vaisesika On Ayurveda Chapter 4](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch4)
 **Overview**: Detailed classical discussion on 3. Origin and development of Nyaya-Sastra within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 5. [5. Nyaya Sutra: The first systematic work on Nyaya Shastra: Influence Of Nyaya Vaisesika On Ayurveda Chapter 5](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch5)
+### [5. Nyaya Sutra: The first systematic work on Nyaya Shastra: Influence Of Nyaya Vaisesika On Ayurveda Chapter 5](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch5)
 **Overview**: Detailed classical discussion on 5. Nyaya Sutra: The first systematic work on Nyaya Shastra within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 6. [4. Atmavidya (the science of Soul): Influence Of Nyaya Vaisesika On Ayurveda Chapter 6](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch6)
+### [4. Atmavidya (the science of Soul): Influence Of Nyaya Vaisesika On Ayurveda Chapter 6](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch6)
 **Overview**: Detailed classical discussion on 4. Atmavidya (the science of Soul) within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 7. [6. Aksapada: The author of Nyaya-sutra (150 A.D.): Influence Of Nyaya Vaisesika On Ayurveda Chapter 7](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch7)
+### [6. Aksapada: The author of Nyaya-sutra (150 A.D.): Influence Of Nyaya Vaisesika On Ayurveda Chapter 7](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch7)
 **Overview**: Detailed classical discussion on 6. Aksapada: The author of Nyaya-sutra (150 A.D.) within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 8. [8. Origin and Development of Vaisesika Darsana: Influence Of Nyaya Vaisesika On Ayurveda Chapter 8](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch8)
+### [8. Origin and Development of Vaisesika Darsana: Influence Of Nyaya Vaisesika On Ayurveda Chapter 8](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch8)
 **Overview**: Detailed classical discussion on 8. Origin and Development of Vaisesika Darsana within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 9. [7. The arrangement Categories in the Nyaya-sutra: Influence Of Nyaya Vaisesika On Ayurveda Chapter 9](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch9)
+### [7. The arrangement Categories in the Nyaya-sutra: Influence Of Nyaya Vaisesika On Ayurveda Chapter 9](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch9)
 **Overview**: Detailed classical discussion on 7. The arrangement Categories in the Nyaya-sutra within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 10. [9. The periods and development of inter-related Nyaya-Vaisesika: Influence Of Nyaya Vaisesika On Ayurveda Chapter 10](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch10)
+### [9. The periods and development of inter-related Nyaya-Vaisesika: Influence Of Nyaya Vaisesika On Ayurveda Chapter 10](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch10)
 **Overview**: Detailed classical discussion on 9. The periods and development of inter-related Nyaya-Vaisesika within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 11. [11. Origin and Antiquity of Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 11](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch11)
+### [11. Origin and Antiquity of Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 11](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch11)
 **Overview**: Detailed classical discussion on 11. Origin and Antiquity of Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 12. [12. Pre-Vedic Period of Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 12](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch12)
+### [12. Pre-Vedic Period of Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 12](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch12)
 **Overview**: Detailed classical discussion on 12. Pre-Vedic Period of Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 13. [14. Ayurveda and Atharva Veda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 13](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch13)
+### [14. Ayurveda and Atharva Veda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 13](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch13)
 **Overview**: Detailed classical discussion on 14. Ayurveda and Atharva Veda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 14. [13. Indian Medicine in Vedic period: Influence Of Nyaya Vaisesika On Ayurveda Chapter 14](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch14)
+### [13. Indian Medicine in Vedic period: Influence Of Nyaya Vaisesika On Ayurveda Chapter 14](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch14)
 **Overview**: Detailed classical discussion on 13. Indian Medicine in Vedic period within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 15. [16. Ayurveda and Sangraha period (period of Epitoms): Influence Of Nyaya Vaisesika On Ayurveda Chapter 15](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch15)
+### [16. Ayurveda and Sangraha period (period of Epitoms): Influence Of Nyaya Vaisesika On Ayurveda Chapter 15](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch15)
 **Overview**: Detailed classical discussion on 16. Ayurveda and Sangraha period (period of Epitoms) within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 16. [15. Ayurveda and Samhita period (period of Compilations): Influence Of Nyaya Vaisesika On Ayurveda Chapter 16](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch16)
+### [15. Ayurveda and Samhita period (period of Compilations): Influence Of Nyaya Vaisesika On Ayurveda Chapter 16](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch16)
 **Overview**: Detailed classical discussion on 15. Ayurveda and Samhita period (period of Compilations) within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 17. [Ayurveda and other systems of Indian Philosophy: An overview: Influence Of Nyaya Vaisesika On Ayurveda Chapter 17](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch17)
+### [Ayurveda and other systems of Indian Philosophy: An overview: Influence Of Nyaya Vaisesika On Ayurveda Chapter 17](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch17)
 **Overview**: Detailed classical discussion on Ayurveda and other systems of Indian Philosophy: An overview within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 18. [17. The Caraka Samhita: Influence Of Nyaya Vaisesika On Ayurveda Chapter 18](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch18)
+### [17. The Caraka Samhita: Influence Of Nyaya Vaisesika On Ayurveda Chapter 18](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch18)
 **Overview**: Detailed classical discussion on 17. The Caraka Samhita within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 19. [3. Yoga and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 19](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch19)
+### [3. Yoga and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 19](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch19)
 **Overview**: Detailed classical discussion on 3. Yoga and Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 20. [1. Nyaya-Vaisesika theory of Epistemology: Influence Of Nyaya Vaisesika On Ayurveda Chapter 20](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch20)
+### [1. Nyaya-Vaisesika theory of Epistemology: Influence Of Nyaya Vaisesika On Ayurveda Chapter 20](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch20)
 **Overview**: Detailed classical discussion on 1. Nyaya-Vaisesika theory of Epistemology within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 21. [2. Samkhya-Vedanta view of Cosmology and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 21](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch21)
+### [2. Samkhya-Vedanta view of Cosmology and Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 21](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch21)
 **Overview**: Detailed classical discussion on 2. Samkhya-Vedanta view of Cosmology and Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 22. [Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal: Influence Of Nyaya Vaisesika On Ayurveda Chapter 22](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch22)
+### [Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal: Influence Of Nyaya Vaisesika On Ayurveda Chapter 22](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch22)
 **Overview**: Detailed classical discussion on Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 23. [3. Inference (anumana) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 23](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch23)
+### [3. Inference (anumana) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 23](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch23)
 **Overview**: Detailed classical discussion on 3. Inference (anumana) according to the Nyaya School within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 24. [4. Comparison (upamana) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 24](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch24)
+### [4. Comparison (upamana) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 24](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch24)
 **Overview**: Detailed classical discussion on 4. Comparison (upamana) according to the Nyaya School within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 25. [2. Perception (pratyaksa) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 25](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch25)
+### [2. Perception (pratyaksa) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 25](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch25)
 **Overview**: Detailed classical discussion on 2. Perception (pratyaksa) according to the Nyaya School within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 26. [5. Verbal testimony (sabda) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 26](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch26)
+### [5. Verbal testimony (sabda) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 26](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch26)
 **Overview**: Detailed classical discussion on 5. Verbal testimony (sabda) according to the Nyaya School within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 27. [6. The Nyaya theory of Causation: Influence Of Nyaya Vaisesika On Ayurveda Chapter 27](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch27)
+### [6. The Nyaya theory of Causation: Influence Of Nyaya Vaisesika On Ayurveda Chapter 27](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch27)
 **Overview**: Detailed classical discussion on 6. The Nyaya theory of Causation within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 28. [8. Peelupaka [pilupaka] or chemical change: Influence Of Nyaya Vaisesika On Ayurveda Chapter 28](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch28)
+### [8. Peelupaka [pilupaka] or chemical change: Influence Of Nyaya Vaisesika On Ayurveda Chapter 28](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch28)
 **Overview**: Detailed classical discussion on 8. Peelupaka [pilupaka] or chemical change within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 29. [7. Nyaya-Vaisesika theory of Atomism: Influence Of Nyaya Vaisesika On Ayurveda Chapter 29](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch29)
+### [7. Nyaya-Vaisesika theory of Atomism: Influence Of Nyaya Vaisesika On Ayurveda Chapter 29](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch29)
 **Overview**: Detailed classical discussion on 7. Nyaya-Vaisesika theory of Atomism within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 30. [9. Panchamahabhuta Theory: Influence Of Nyaya Vaisesika On Ayurveda Chapter 30](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch30)
+### [9. Panchamahabhuta Theory: Influence Of Nyaya Vaisesika On Ayurveda Chapter 30](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch30)
 **Overview**: Detailed classical discussion on 9. Panchamahabhuta Theory within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 31. [10. Three Dosa theory: Influence Of Nyaya Vaisesika On Ayurveda Chapter 31](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch31)
+### [10. Three Dosa theory: Influence Of Nyaya Vaisesika On Ayurveda Chapter 31](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch31)
 **Overview**: Detailed classical discussion on 10. Three Dosa theory within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 32. [Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha: Influence Of Nyaya Vaisesika On Ayurveda Chapter 32](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch32)
+### [Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha: Influence Of Nyaya Vaisesika On Ayurveda Chapter 32](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch32)
 **Overview**: Detailed classical discussion on Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 33. [11. Sadrasas or Six tastes: Influence Of Nyaya Vaisesika On Ayurveda Chapter 33](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch33)
+### [11. Sadrasas or Six tastes: Influence Of Nyaya Vaisesika On Ayurveda Chapter 33](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch33)
 **Overview**: Detailed classical discussion on 11. Sadrasas or Six tastes within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 34. [1. Concept of pramanas in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 34](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch34)
+### [1. Concept of pramanas in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 34](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch34)
 **Overview**: Detailed classical discussion on 1. Concept of pramanas in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 35. [2. Pramanas and Diagnosis: Influence Of Nyaya Vaisesika On Ayurveda Chapter 35](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch35)
+### [2. Pramanas and Diagnosis: Influence Of Nyaya Vaisesika On Ayurveda Chapter 35](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch35)
 **Overview**: Detailed classical discussion on 2. Pramanas and Diagnosis within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 36. [4. The concept of Padarthas in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 36](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch36)
+### [4. The concept of Padarthas in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 36](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch36)
 **Overview**: Detailed classical discussion on 4. The concept of Padarthas in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 37. [5. Samanya (Generality) and Visesa (Particularly) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 37](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch37)
+### [5. Samanya (Generality) and Visesa (Particularly) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 37](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch37)
 **Overview**: Detailed classical discussion on 5. Samanya (Generality) and Visesa (Particularly) in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 38. [6. Dravya (Substance) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 38](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch38)
+### [6. Dravya (Substance) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 38](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch38)
 **Overview**: Detailed classical discussion on 6. Dravya (Substance) in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 39. [7. Guna (Quality) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 39](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch39)
+### [7. Guna (Quality) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 39](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch39)
 **Overview**: Detailed classical discussion on 7. Guna (Quality) in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 40. [3. Logical reflections in medical assemblies: Influence Of Nyaya Vaisesika On Ayurveda Chapter 40](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch40)
+### [3. Logical reflections in medical assemblies: Influence Of Nyaya Vaisesika On Ayurveda Chapter 40](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch40)
 **Overview**: Detailed classical discussion on 3. Logical reflections in medical assemblies within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 41. [8. Karma (Action) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 41](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch41)
+### [8. Karma (Action) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 41](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch41)
 **Overview**: Detailed classical discussion on 8. Karma (Action) in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 42. [9. Samavaya (Inherence) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 42](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch42)
+### [9. Samavaya (Inherence) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 42](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch42)
 **Overview**: Detailed classical discussion on 9. Samavaya (Inherence) in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 43. [12. Concept of mind, Indriyas and Indriyarthas: Influence Of Nyaya Vaisesika On Ayurveda Chapter 43](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch43)
+### [12. Concept of mind, Indriyas and Indriyarthas: Influence Of Nyaya Vaisesika On Ayurveda Chapter 43](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch43)
 **Overview**: Detailed classical discussion on 12. Concept of mind, Indriyas and Indriyarthas within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 44. [10. Concept of Dravya in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 44](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch44)
+### [10. Concept of Dravya in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 44](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch44)
 **Overview**: Detailed classical discussion on 10. Concept of Dravya in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 45. [13. Concept of Sukha (happiness) and Dukha (misery): Influence Of Nyaya Vaisesika On Ayurveda Chapter 45](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch45)
+### [13. Concept of Sukha (happiness) and Dukha (misery): Influence Of Nyaya Vaisesika On Ayurveda Chapter 45](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch45)
 **Overview**: Detailed classical discussion on 13. Concept of Sukha (happiness) and Dukha (misery) within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 46. [11. Principles of medicinal preparation: Influence Of Nyaya Vaisesika On Ayurveda Chapter 46](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch46)
+### [11. Principles of medicinal preparation: Influence Of Nyaya Vaisesika On Ayurveda Chapter 46](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch46)
 **Overview**: Detailed classical discussion on 11. Principles of medicinal preparation within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 47. [14. Concept of Moksa (emancipation): Influence Of Nyaya Vaisesika On Ayurveda Chapter 47](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch47)
+### [14. Concept of Moksa (emancipation): Influence Of Nyaya Vaisesika On Ayurveda Chapter 47](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch47)
 **Overview**: Detailed classical discussion on 14. Concept of Moksa (emancipation) within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 48. [15. Concept of God: Influence Of Nyaya Vaisesika On Ayurveda Chapter 48](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch48)
+### [15. Concept of God: Influence Of Nyaya Vaisesika On Ayurveda Chapter 48](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch48)
 **Overview**: Detailed classical discussion on 15. Concept of God within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 49. [Conclusion: Influence Of Nyaya Vaisesika On Ayurveda Chapter 49](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch49)
+### [Conclusion: Influence Of Nyaya Vaisesika On Ayurveda Chapter 49](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch49)
 **Overview**: Detailed classical discussion on Conclusion within Influence Of Nyaya Vaisesika On Ayurveda.
 
-### 50. [Notes for chapter 4: Influence Of Nyaya Vaisesika On Ayurveda Chapter 50](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch50)
+### [Notes for chapter 4: Influence Of Nyaya Vaisesika On Ayurveda Chapter 50](/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch50)
 **Overview**: Detailed classical discussion on Notes for chapter 4 within Influence Of Nyaya Vaisesika On Ayurveda.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. 1. Introduction to Darsana (philosophy)
+## 1. Introduction to Darsana (philosophy)
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -185,7 +183,7 @@ ages. As time went on such lines of thinking multiplied in number and began to d
 
 ---
 
-## 2. Acknowledgements
+## Acknowledgements
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -197,7 +195,7 @@ My thanks are due to my teachers and colleagues and to all those who have contri
 
 ---
 
-## 5. Introduction
+## Introduction
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -215,7 +213,7 @@ The third chapter deals with the scientific tradition of Nyaya-Vaisesika and Ayu
 
 ---
 
-## 14. 10. An introduction to Ayurveda
+## 10. An introduction to Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -235,7 +233,7 @@ physical and mental disease, endowed with vigour, strength, energy, and vitality
 
 ---
 
-## 22. 1. Introduction (to Ayurveda and Philosophy)
+## 1. Introduction (to Ayurveda and Philosophy)
 
 Influence of Nyaya-Vaisesika on Ayurveda
 

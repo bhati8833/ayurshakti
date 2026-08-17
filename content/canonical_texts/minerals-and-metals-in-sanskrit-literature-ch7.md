@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Gold and Coins (in the Ashtadhyayi) within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. 5. Gold and Coins (in the Ashtadhyayi)
+## 5. Gold and Coins (in the Ashtadhyayi)
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ IV-8 referred to several derivative terms based on niska: dviniska (two niska or
 
 ---
 
-## 31. 9. References
+## 9. References
 
 Minerals and Metals in Sanskrit literature
 
@@ -37,7 +37,7 @@ Agrawala, V.S., 1953, India as known to Panini, University of Lucknow. Allchin, 
 
 ---
 
-## 32. 8. Technical Concepts in Ashtadhyavi
+## 8. Technical Concepts in Ashtadhyavi
 
 Minerals and Metals in Sanskrit literature
 
@@ -51,7 +51,7 @@ IV-16 The Rasa-Sastras of the Post-Christian era adopted the word sattva to mean
 
 ---
 
-## 33. Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
+## Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
 
 Minerals and Metals in Sanskrit literature
 
@@ -59,11 +59,7 @@ This essay studies the presence of Minerals and Metals in Sanskrit literature ov
 
 Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -72,10 +68,6 @@ Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">3. Indian Topography of the Mineral Resources: Minerals And Metals In Sanskrit Literature Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

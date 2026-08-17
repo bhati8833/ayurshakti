@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Dinacarya (timetable for the healthy person) within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. 5. Dinacarya (timetable for the healthy person)
+## 5. Dinacarya (timetable for the healthy person)
 
 Physician as depicted in Manasollasa
 
@@ -49,8 +49,6 @@ The Manasollasa gives detailed description of dinacarya (or timetable for the he
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -58,10 +56,6 @@ The Manasollasa gives detailed description of dinacarya (or timetable for the he
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">3. The concept of Dravy and Tridosha: Physician As Depicted In Manasollasa Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

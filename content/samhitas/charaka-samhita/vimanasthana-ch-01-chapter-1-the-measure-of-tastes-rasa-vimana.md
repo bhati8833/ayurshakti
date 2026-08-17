@@ -102,7 +102,11 @@ The definition of Homologation
 
 The Eight aspects of Dietetics
 
+
+<blockquote className="ayur-shloka">
 21. The following are the eight factors of diet and dietetics. They are:—Natural qualities, Karana [karaṇa] (preparation), Samyoga [saṃyoga] (combination), Rashi [rāśi] (quantum), Desha [deśa] (habitat), Kala [kāla] (stage of disease), Upayoga (rules of use) and Upayokta [upayoktā] (user)—this makes the octalogue of diet and dietetics.
+</blockquote>
+
 
 22-(1); Among these natural qualities are the innate properties of substances. The presence of qualities like heaviness etc., is the natural property of substances, used as diet or drug. Thus, heaviness is the nature of blackgram and pork, and lightness that of green gram and venison.
 

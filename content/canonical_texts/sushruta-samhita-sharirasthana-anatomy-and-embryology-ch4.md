@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Pregnancy within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter III - Pregnancy
+## Chapter III - Pregnancy
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -121,21 +121,20 @@ Those women who are devout in their worship of the gods and the Brahmins and che
 
 Thus ends the third Chapter of the Sharira Sthana in the Sushruta Samhita which treats of the generation and pregnancy.
 
-[1]:
 
-Some are of opinion that the menstruation continues up to the sixtieth year.
+<div className="footnote-card"><strong>[1]</strong> Some are of opinion that the menstruation continues up to the sixtieth year.</div>
 
-[2]:
 
-According to Videha, menstrual secretion flows less on even days, hence a son is born if the sexual intercourse be made on those days; whereas menstrual secretion becomes more on odd days, so a daughter is born if the intercourse be made on odd days.
 
-[3]:
 
-Sometimes it passes irom the body of the child to that of the mother and vice vena.
+<div className="footnote-card"><strong>[2]</strong> According to Videha, menstrual secretion flows less on even days, hence a son is born if the sexual intercourse be made on those days; whereas menstrual secretion becomes more on odd days, so a daughter is born if the intercourse be made on odd days.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Sometimes it passes irom the body of the child to that of the mother and vice vena.</div>
 
 ---
-
-
 
 ---
 
@@ -144,10 +143,6 @@ Sometimes it passes irom the body of the child to that of the mother and vice ve
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">The development of a fetus in the womb: Sushruta Samhita Sharirasthana Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Process for creation of Dhanya-abhra (paddy mica) within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Part 4 - Process for creation of Dhanya-abhra (paddy mica)
+## Part 4 - Process for creation of Dhanya-abhra (paddy mica)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -151,13 +151,15 @@ Vajra-abhra is to be rubbed in a mortar with hot milk of cow, and heated by a mi
 
 The names of the drugs and their sequence are as follows milks of arka, banyan, bajri, and kanya; juices of eranda roots, jaba-tikta, musta, guduchi, bhanga, gokshura, bartakini (kantakari), shalaparni, prisniparni, sveta sarshapa, apamarga, aerial roots of a banyan tree, vilba, agnimantha, chitraka, tinduka, haritaki, patali, amalaki, bibhitaki, kumbhi growing in water, talisha-patra, talamuli, basaka, asvagandha, kesharaja, kadali (plantain), saptaparni, dhattura, lodhra, devadaru, tulsi, durba, white durba, kasamarda, maricha, dadima, kakamachi, shankhapuspi, nata, tambula, punarnava, brahmi, indra-baruni, bhargi, devadali, kapittha, shivalingi, katu-rohini, kinshuka, koshataki, indura-parni, minakshi, karavi, tilaparni, kumbhi, ardraka, shatabari, goat’s blood, and cow’s urine.
 
-[1]:
 
-Shukta is prepared as follows:—One prastha of boiled rice made into a paste (by being overboiled, robbed, and sifted through a piece of fine cloth), 20 prasthas of kanji, 30 tolas of curd, one prastha of molasses, 32 tolas of the residues of kanji, 64 tolas of shunthi, and eight tolas of pippali, jira, saindhava, haridra, and maricha, combined—all these things are to be kept for eight days, in an earthen vessel, previously soaked with clarified butter. It is then to be filtered and mixed with three tolas each of guda tvaka, ela, naga-keshara, and patri.
+<div className="footnote-card"><strong>[1]</strong> Shukta is prepared as follows:—One prastha of boiled rice made into a paste (by being overboiled, robbed, and sifted through a piece of fine cloth), 20 prasthas of kanji, 30 tolas of curd, one prastha of molasses, 32 tolas of the residues of kanji, 64 tolas of shunthi, and eight tolas of pippali, jira, saindhava, haridra, and maricha, combined—all these things are to be kept for eight days, in an earthen vessel, previously soaked with clarified butter. It is then to be filtered and mixed with three tolas each of guda tvaka, ela, naga-keshara, and patri.</div>
 
-[2]:
 
-This includes the process of preparing dhanya-abhra.
+
+
+<div className="footnote-card"><strong>[2]</strong> This includes the process of preparing dhanya-abhra.</div>
+
+
 
 Conclusion:
 
@@ -165,7 +167,7 @@ This concludes ‘Process for creation of Dhanya-abhra (paddy mica)’ included 
 
 ---
 
-## 6. Part 5 - Killing (incineration) of Mica
+## Part 5 - Killing (incineration) of Mica
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -205,9 +207,10 @@ Killers of mica.
 
 Mica is also incinerated by being subjected to puta, after having been rubbed with the following:—tanduliyaka, brihati, nagaballi, tagarpadika, punamava,[1] hilamochika, mandukaparni, tiktaka (kirata-tikta), akhuparni, madana, ardraka, palasha, mercury, and amalaki.
 
-[1]:
 
-Purified gold, and silver, as well as mica of the above des-creption, are called “bijam” (seed), simply because they are fit for being swallowed by mercury.
+<div className="footnote-card"><strong>[1]</strong> Purified gold, and silver, as well as mica of the above des-creption, are called “bijam” (seed), simply because they are fit for being swallowed by mercury.</div>
+
+
 
 Conclusion:
 
@@ -215,7 +218,7 @@ This concludes ‘Killing (incineration) of Mica’ included in Bhudeb Mookerjee
 
 ---
 
-## 7. Part 6 - Use of incinerated mica
+## Part 6 - Use of incinerated mica
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -255,7 +258,7 @@ This concludes ‘Use of incinerated mica’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-## 8. Part 8 - Incineration of essence of mica
+## Part 8 - Incineration of essence of mica
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -289,9 +292,10 @@ Softening of essence of mica.
 
 All sorts of hard essences, including those of metals, are softened, if smelted with honey, oil, fat, and ghee, and cooled—all these being done for, ten times.
 
-[1]:
 
-See page 260, vol I, under “Another kind of Baluka-yantra,” and page 291, ibid, under “Malla-musha.”
+<div className="footnote-card"><strong>[1]</strong> See page 260, vol I, under “Another kind of Baluka-yantra,” and page 291, ibid, under “Malla-musha.”</div>
+
+
 
 Conclusion:
 
@@ -299,7 +303,7 @@ This concludes ‘Incineration of essence of mica’ included in Bhudeb Mookerje
 
 ---
 
-## 9. Part 7 - Extraction of essence of mica
+## Part 7 - Extraction of essence of mica
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -339,21 +343,21 @@ Second process of purification.
 
 The particles of essence of mica are to be kept confined with the shodhaniya-gana and sour kanji, in a crucible, and heated until the smelting of the particles. The essence is then to be heated again twice. Thus purified, the essence becomes fit, by incineration, for being swallowed by mercury and for use as a rasayana (i.e., a medicine which prevents and cures physical decay and senility).[2]
 
-[1]:
 
-See page 305, vol I, for articles effecting an easy smelting of hard metals.
+<div className="footnote-card"><strong>[1]</strong> See page 305, vol I, for articles effecting an easy smelting of hard metals.</div>
 
-[2]:
 
-For meaning of shodhaniya-gana, see vol. I, page 306.
+
+
+<div className="footnote-card"><strong>[2]</strong> For meaning of shodhaniya-gana, see vol. I, page 306.</div>
+
+
 
 Conclusion:
 
 This concludes ‘Extraction of essence of mica’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
-
-
 
 ---
 
@@ -362,10 +366,6 @@ This concludes ‘Extraction of essence of mica’ included in Bhudeb Mookerjee 
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Liquefaction of mica: Rasa Jala Nidhi Volume 2 Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

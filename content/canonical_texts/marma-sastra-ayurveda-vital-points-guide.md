@@ -13,82 +13,80 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Marma Sastra and Ayurvedic Science Chapter 1](/articles/marma-sastra-ayurveda-vital-points-guide-ch1)
+### [General Discourse: Marma Sastra and Ayurvedic Science Chapter 1](/articles/marma-sastra-ayurveda-vital-points-guide-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Marma Sastra and Ayurvedic Science.
 
-### 2. [Adangal (techniques to relieve injured Marmas/Varmas): Marma Sastra and Ayurvedic Science Chapter 2](/articles/marma-sastra-ayurveda-vital-points-guide-ch2)
+### [Adangal (techniques to relieve injured Marmas/Varmas): Marma Sastra and Ayurvedic Science Chapter 2](/articles/marma-sastra-ayurveda-vital-points-guide-ch2)
 **Overview**: Detailed classical discussion on Adangal (techniques to relieve injured Marmas/Varmas) within Marma Sastra and Ayurvedic Science.
 
-### 3. [Significance of Mamsa Marma: Marma Sastra and Ayurvedic Science Chapter 3](/articles/marma-sastra-ayurveda-vital-points-guide-ch3)
+### [Significance of Mamsa Marma: Marma Sastra and Ayurvedic Science Chapter 3](/articles/marma-sastra-ayurveda-vital-points-guide-ch3)
 **Overview**: Detailed classical discussion on Significance of Mamsa Marma within Marma Sastra and Ayurvedic Science.
 
-### 4. [Panchabhautik Composition of Marma: Marma Sastra and Ayurvedic Science Chapter 4](/articles/marma-sastra-ayurveda-vital-points-guide-ch4)
+### [Panchabhautik Composition of Marma: Marma Sastra and Ayurvedic Science Chapter 4](/articles/marma-sastra-ayurveda-vital-points-guide-ch4)
 **Overview**: Detailed classical discussion on Panchabhautik Composition of Marma within Marma Sastra and Ayurvedic Science.
 
-### 5. [Significance of Asti Marma: Marma Sastra and Ayurvedic Science Chapter 5](/articles/marma-sastra-ayurveda-vital-points-guide-ch5)
+### [Significance of Asti Marma: Marma Sastra and Ayurvedic Science Chapter 5](/articles/marma-sastra-ayurveda-vital-points-guide-ch5)
 **Overview**: Detailed classical discussion on Significance of Asti Marma within Marma Sastra and Ayurvedic Science.
 
-### 6. [Classification according to Tamil Varma Shastra: Marma Sastra and Ayurvedic Science Chapter 6](/articles/marma-sastra-ayurveda-vital-points-guide-ch6)
+### [Classification according to Tamil Varma Shastra: Marma Sastra and Ayurvedic Science Chapter 6](/articles/marma-sastra-ayurveda-vital-points-guide-ch6)
 **Overview**: Detailed classical discussion on Classification according to Tamil Varma Shastra within Marma Sastra and Ayurvedic Science.
 
-### 7. [Padu Varmam (vital life centres): Marma Sastra and Ayurvedic Science Chapter 7](/articles/marma-sastra-ayurveda-vital-points-guide-ch7)
+### [Padu Varmam (vital life centres): Marma Sastra and Ayurvedic Science Chapter 7](/articles/marma-sastra-ayurveda-vital-points-guide-ch7)
 **Overview**: Detailed classical discussion on Padu Varmam (vital life centres) within Marma Sastra and Ayurvedic Science.
 
-### 8. [The Concept of Trimarmiya: Marma Sastra and Ayurvedic Science Chapter 8](/articles/marma-sastra-ayurveda-vital-points-guide-ch8)
+### [The Concept of Trimarmiya: Marma Sastra and Ayurvedic Science Chapter 8](/articles/marma-sastra-ayurveda-vital-points-guide-ch8)
 **Overview**: Detailed classical discussion on The Concept of Trimarmiya within Marma Sastra and Ayurvedic Science.
 
-### 9. [Study of Krikatika Marma: Marma Sastra and Ayurvedic Science Chapter 9](/articles/marma-sastra-ayurveda-vital-points-guide-ch9)
+### [Study of Krikatika Marma: Marma Sastra and Ayurvedic Science Chapter 9](/articles/marma-sastra-ayurveda-vital-points-guide-ch9)
 **Overview**: Detailed classical discussion on Study of Krikatika Marma within Marma Sastra and Ayurvedic Science.
 
-### 10. [Study of Sankha Marma: Marma Sastra and Ayurvedic Science Chapter 10](/articles/marma-sastra-ayurveda-vital-points-guide-ch10)
+### [Study of Sankha Marma: Marma Sastra and Ayurvedic Science Chapter 10](/articles/marma-sastra-ayurveda-vital-points-guide-ch10)
 **Overview**: Detailed classical discussion on Study of Sankha Marma within Marma Sastra and Ayurvedic Science.
 
-### 11. [Study of Shringataka Marma: Marma Sastra and Ayurvedic Science Chapter 11](/articles/marma-sastra-ayurveda-vital-points-guide-ch11)
+### [Study of Shringataka Marma: Marma Sastra and Ayurvedic Science Chapter 11](/articles/marma-sastra-ayurveda-vital-points-guide-ch11)
 **Overview**: Detailed classical discussion on Study of Shringataka Marma within Marma Sastra and Ayurvedic Science.
 
-### 12. [Appendix 1: Various other Varmas: Marma Sastra and Ayurvedic Science Chapter 12](/articles/marma-sastra-ayurveda-vital-points-guide-ch12)
+### [Appendix 1: Various other Varmas: Marma Sastra and Ayurvedic Science Chapter 12](/articles/marma-sastra-ayurveda-vital-points-guide-ch12)
 **Overview**: Detailed classical discussion on Appendix 1: Various other Varmas within Marma Sastra and Ayurvedic Science.
 
-### 13. [Study of Sthanamula Marma: Marma Sastra and Ayurvedic Science Chapter 13](/articles/marma-sastra-ayurveda-vital-points-guide-ch13)
+### [Study of Sthanamula Marma: Marma Sastra and Ayurvedic Science Chapter 13](/articles/marma-sastra-ayurveda-vital-points-guide-ch13)
 **Overview**: Detailed classical discussion on Study of Sthanamula Marma within Marma Sastra and Ayurvedic Science.
 
-### 14. [Study of Hridaya Marma: Marma Sastra and Ayurvedic Science Chapter 14](/articles/marma-sastra-ayurveda-vital-points-guide-ch14)
+### [Study of Hridaya Marma: Marma Sastra and Ayurvedic Science Chapter 14](/articles/marma-sastra-ayurveda-vital-points-guide-ch14)
 **Overview**: Detailed classical discussion on Study of Hridaya Marma within Marma Sastra and Ayurvedic Science.
 
-### 15. [Appendix 2: Various other Varmams: Marma Sastra and Ayurvedic Science Chapter 15](/articles/marma-sastra-ayurveda-vital-points-guide-ch15)
+### [Appendix 2: Various other Varmams: Marma Sastra and Ayurvedic Science Chapter 15](/articles/marma-sastra-ayurveda-vital-points-guide-ch15)
 **Overview**: Detailed classical discussion on Appendix 2: Various other Varmams within Marma Sastra and Ayurvedic Science.
 
-### 16. [Study of Kukundara Marma: Marma Sastra and Ayurvedic Science Chapter 16](/articles/marma-sastra-ayurveda-vital-points-guide-ch16)
+### [Study of Kukundara Marma: Marma Sastra and Ayurvedic Science Chapter 16](/articles/marma-sastra-ayurveda-vital-points-guide-ch16)
 **Overview**: Detailed classical discussion on Study of Kukundara Marma within Marma Sastra and Ayurvedic Science.
 
-### 17. [Study of Parsvasandhi Marma: Marma Sastra and Ayurvedic Science Chapter 17](/articles/marma-sastra-ayurveda-vital-points-guide-ch17)
+### [Study of Parsvasandhi Marma: Marma Sastra and Ayurvedic Science Chapter 17](/articles/marma-sastra-ayurveda-vital-points-guide-ch17)
 **Overview**: Detailed classical discussion on Study of Parsvasandhi Marma within Marma Sastra and Ayurvedic Science.
 
-### 18. [Study of Ksipra Marma: Marma Sastra and Ayurvedic Science Chapter 18](/articles/marma-sastra-ayurveda-vital-points-guide-ch18)
+### [Study of Ksipra Marma: Marma Sastra and Ayurvedic Science Chapter 18](/articles/marma-sastra-ayurveda-vital-points-guide-ch18)
 **Overview**: Detailed classical discussion on Study of Ksipra Marma within Marma Sastra and Ayurvedic Science.
 
-### 19. [Study of Kurchashira Marma: Marma Sastra and Ayurvedic Science Chapter 19](/articles/marma-sastra-ayurveda-vital-points-guide-ch19)
+### [Study of Kurchashira Marma: Marma Sastra and Ayurvedic Science Chapter 19](/articles/marma-sastra-ayurveda-vital-points-guide-ch19)
 **Overview**: Detailed classical discussion on Study of Kurchashira Marma within Marma Sastra and Ayurvedic Science.
 
-### 20. [Study of Manibandha or Gulpha Marma: Marma Sastra and Ayurvedic Science Chapter 20](/articles/marma-sastra-ayurveda-vital-points-guide-ch20)
+### [Study of Manibandha or Gulpha Marma: Marma Sastra and Ayurvedic Science Chapter 20](/articles/marma-sastra-ayurveda-vital-points-guide-ch20)
 **Overview**: Detailed classical discussion on Study of Manibandha or Gulpha Marma within Marma Sastra and Ayurvedic Science.
 
-### 21. [Study of Bahvi or Urvi Marma: Marma Sastra and Ayurvedic Science Chapter 21](/articles/marma-sastra-ayurveda-vital-points-guide-ch21)
+### [Study of Bahvi or Urvi Marma: Marma Sastra and Ayurvedic Science Chapter 21](/articles/marma-sastra-ayurveda-vital-points-guide-ch21)
 **Overview**: Detailed classical discussion on Study of Bahvi or Urvi Marma within Marma Sastra and Ayurvedic Science.
 
-### 22. [Appendix 1 - Marma and Shad Chakras: Marma Sastra and Ayurvedic Science Chapter 22](/articles/marma-sastra-ayurveda-vital-points-guide-ch22)
+### [Appendix 1 - Marma and Shad Chakras: Marma Sastra and Ayurvedic Science Chapter 22](/articles/marma-sastra-ayurveda-vital-points-guide-ch22)
 **Overview**: Detailed classical discussion on Appendix 1 - Marma and Shad Chakras within Marma Sastra and Ayurvedic Science.
 
-### 23. [Appendix 4 - Table of weights and measures described in Ayurvedic Classics: Marma Sastra and Ayurvedic Science Chapter 23](/articles/marma-sastra-ayurveda-vital-points-guide-ch23)
+### [Appendix 4 - Table of weights and measures described in Ayurvedic Classics: Marma Sastra and Ayurvedic Science Chapter 23](/articles/marma-sastra-ayurveda-vital-points-guide-ch23)
 **Overview**: Detailed classical discussion on Appendix 4 - Table of weights and measures described in Ayurvedic Classics within Marma Sastra and Ayurvedic Science.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 2. Part 1 - Introduction
+## Part 1 - Introduction
 
 Marma-sastra and Ayurveda (study)
 
@@ -96,11 +94,9 @@ This essay represents a comprehensive study of Marmas with special reference to 
 
 Part 1 - Introduction
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 3. Preface
+## Preface
 
 Marma-sastra and Ayurveda (study)
 
@@ -128,7 +124,7 @@ and Kulayana marma system restrict presentation of information in totality makin
 
 ---
 
-## 4. Acknowledgement
+## Acknowledgement
 
 Marma-sastra and Ayurveda (study)
 
@@ -144,7 +140,7 @@ I am thankful to Mr. Joy Abraham, Mr. Shibu and Miss. Chithra whose effort for t
 
 ---
 
-## 5. Introduction to Marmabhighata Samprapti (injured marmas)
+## Introduction to Marmabhighata Samprapti (injured marmas)
 
 Marma-sastra and Ayurveda (study)
 
@@ -172,7 +168,7 @@ Kurpara Apanga Oorvi Lohitha Apalapa Sthapani Shringataka Amsa Nabhi Vasthi Oorv
 
 ---
 
-## 9. Introduction to Marma
+## Introduction to Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -204,7 +200,7 @@ With the aid of certain highly developed camera to study halo - it is under stud
 
 ---
 
-## 10. Classification of Marmas (Introduction)
+## Classification of Marmas (Introduction)
 
 Marma-sastra and Ayurveda (study)
 
@@ -226,7 +222,7 @@ seen devoid of these structures like mamsa, sira. Otherwise srothas are a part a
 
 ---
 
-## 28. Marmas of the Head and Neck (introduction)
+## Marmas of the Head and Neck (introduction)
 
 Marma-sastra and Ayurveda (study)
 
@@ -244,7 +240,7 @@ Table No. XIV Sira Marma 15 Dhamani Marma 06 Sandhi Marma 10 Snayu Marma 04 Asth
 
 ---
 
-## 42. Udara and Uras Marmas (introduction)
+## Udara and Uras Marmas (introduction)
 
 Marma-sastra and Ayurveda (study)
 
@@ -256,7 +252,7 @@ UDARAM AND URAS Table No. XVIII Sl. Name Asraya Prognosis No. Extend No. 1. Nabh
 
 ---
 
-## 53. Marmas in the Back (introduction)
+## Marmas in the Back (introduction)
 
 Marma-sastra and Ayurveda (study)
 
@@ -268,7 +264,7 @@ MARMAS IN THE BACK Table No. XIX Sl. Name Asraya Prognosis No. Extend No. 1. Kat
 
 ---
 
-## 58. Marmas of the Extremities (introduction)
+## Marmas of the Extremities (introduction)
 
 Marma-sastra and Ayurveda (study)
 

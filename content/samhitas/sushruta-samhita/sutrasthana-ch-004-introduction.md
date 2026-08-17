@@ -362,48 +362,80 @@ Kalpa:—
 
 In the Kalpasthana of his Samhita, Sushruta has described the symptoms of hydrophobia and snake bites, etc. as well as those developed in cases of vegetable poisoning, together with their therapeutical treatment and remedies, which, if rightly studied and investigated, may yet throw a new light upon the subject.
 
+
+<blockquote className="ayur-shloka">
 Sushruta as an Observer It has been lately discovered by a German physiologist that tubercular bacilli do not thrive in goat’s blood. The importance of goat’s milk in colitis as an efficient agent in checking ferment in the intestines, or of the close contact of a goat as a powerful auxiliary in curingtuberculous phthisis was first demonstrated by Sushruta. Not only this—but the inhalation of the air of a cattle-shed and especially? the fact that exhalations of goats, bodies tend to destroy the phthisis germs did not fail to attract the attention of the Indian Rishis; the fumigation of the sick-room with antiseptic preparations such as aṣṭhaṅgadhūpa (Asthanga dhupas) is purely Indian
+</blockquote>
+
 
 in its origin and in no way inferior to the modern introduction of Cogghill’s respirators. The microscopic germs that are said to propagate septic fever otherwise called bhūtabhi ṣaṅgottha (saṅgottha?) viṣasajvara are found very often to disappear under this Indian device where no medicines produce any impression. Thus many a wonderful discovery like the above hails from the dimness of a bygone age. Many truths lie embedded in the vast medical literature of the Brahmanas which claimed close attention and devout study, even by the western savants. We have not laboured in vain if these pages can help a little to revive the old genius of the Ayurveda, or help the progress of human Science one step onward towards the attainment of its goal.
 
 [1]:
 
 śyāmāyano'tha gārgyaśca jābāliḥ suśrutastathā | 
-viśvāmitrātmajāḥ sabbeṃ (sarve?) munayo brahmavādinaḥ || 
+
+<blockquote className="ayur-shloka">
+viśvāmitrātmajāḥ sabbeṃ (sarve?) munayo brahmavādinaḥ ||
+</blockquote>
+
       Mahābhāratam—Anushasan Parva, Ch. IV
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 viśvāmitrāddevarāta maducchandādayaḥ sutāḥ | 
-āyuṣo nahuṣastasmādanenā rajirambhakau ||  
+āyuṣo nahuṣastasmādanenā rajirambhakau ||
+</blockquote>
+
 kṣattravṛddhaḥ kṣattravṛddhāt suhotraścābhavannṛpaḥ | 
+
+<blockquote className="ayur-shloka">
 kāśyakāśaugṛtsamadaḥ suhotrādabhavaṃstrayaḥ || 
-gṛtsamadācchaunako'bhūt kāśyāddīrghatamāstathā | 
+gṛtsamadācchaunako'bhūt kāśyāddīrghatamāstathā |
+</blockquote>
+
 vaidyo dhanvantaristasmāt ketumāṃścatadātmajaḥ | 
-bhīmarathaḥ ketumato divodāsastadātmajaḥ || 
+
+<blockquote className="ayur-shloka">
+bhīmarathaḥ ketumato divodāsastadātmajaḥ ||
+</blockquote>
+
       Garuda Puranām, Chap. 139, Vs. 8-11,
 
 [3]:
 
-“yatra yatra parokṣe niyogastatra tatraiva pratisaṃskarttṛsutraṃ kṣātavyaṃ | pratisaṃskarttāpīhanāgājuna eva |” 
+
+<blockquote className="ayur-shloka">
+“yatra yatra parokṣe niyogastatra tatraiva pratisaṃskarttṛsutraṃ kṣātavyaṃ | pratisaṃskarttāpīhanāgājuna eva |”
+</blockquote>
+
       Dallana’s Commentary, Sutrasthānam, Ch. I. 1.
 
 Dallana mentions the names of Jejjada, Gayadasa etc., as the redactors of the original Samhita, and rejects as spurious or of questionable authority the texts which cannot be found in their editions of the work. Most probably the authoritative verses are quotations from the Vriddha Sushruta.
 
 Recension or Pratisamskara consists in curtailing statements that have been made inordinately elaborate, and in dilating upon truths that have been very succinctly dealt with in the original book. A Redactor or Pratisamaskarta makes an old book new again.
 
+
+<blockquote className="ayur-shloka">
 saṃkṣipatyativistīrṇaṃ leśoktaṃ vistṛṇāti ca | 
 saṃskarttā kurute tantraṃ purāṇañca punarnavaṃ ||
+</blockquote>
+
 
 A Samhitā, on the other hand, deals with aphorisms contained in the Vedas.
 
 [4]:
 
+
+<blockquote className="ayur-shloka">
 vedavākyanibaddhatvāt saṃhitāstāḥ prakīrttitāḥ | 
 tadā bhagavataḥ śākyasiṃhasya paranirvvateḥ | 
 asminmahīlokadhātau sārddhaṃ varṣaśataṃ hyagā?? || 
 vodhisattvaśca deśesminneko bhumīścarobhavat | 
-sa ca nāgārjanaḥ śrīmān * * * || 
+sa ca nāgārjanaḥ śrīmān * * * ||
+</blockquote>
+
       Rājatarangini I. Taranga. Vs. 172-173.
 
 [5]:
@@ -435,7 +467,11 @@ P. C. Roy—Hindu Chemistry p. XVIII. (1902).
 
 Nagarjuna Bodhisattva was well practised in the art of compounding medicine. Nagarjuna Bodhisattva by moistening all the great stones with a divine and superior decoction changed them into gold.—Bael’s Buddhistic Records of the western world Vol. II.
 
-prajapatiṣṭavadhrat prathamamastṛtat vīryyaya kaṃ | taṃ te vadhramyayuṣe 
+
+<blockquote className="ayur-shloka">
+prajapatiṣṭavadhrat prathamamastṛtat vīryyaya kaṃ | taṃ te vadhramyayuṣe
+</blockquote>
+
       Anuvak 19. 45. 46. 5.
 
 [11]:
@@ -457,16 +493,24 @@ These Simoi (venerable) whom Clement of Alexandria has narrated to have rendered
 
 [15]:
 
+
+<blockquote className="ayur-shloka">
 ākṛṣṭaśaktiśca mahī tayā yat khasthaṃ gurusvābhimukhaḥ svaśaktyā | 
 ākṛṣyate tatpatatīva bhāti same samantāt kuriyaṃ yataḥ khe ||
+</blockquote>
+
       Siddhanta Shiromani (Bhaskardcharyaya) Golodhyaya.
 
 [16]:
 
 dhātūnām pūraṇaṃ samyak sparśajñanamasaṃśayam | 
+
+<blockquote className="ayur-shloka">
 svasirāmcaradraktaṃ kuryyāccānyān guṇān api || 
 yadātu kupitaṃ raktaṃ sevate svavahā sirāḥ, 
 tadāsya vividhā rogā jāyante raktasambhavā | bhāvaprakāśam | (Bhāvaprakāsha)
+</blockquote>
+
 
 The Harita Samhita, which according to certain scholars, is older than the Sushruta Samhita, refers to the circulation of blood in describing Panduroga (Anemia). The disease, he observes, is caused by eating clay which thus blocks the lumen of veins and obstructs the circulation of blood. Bhavamisra, the celebrated author of Bhavaprakasha, and who is a century older than Harvey, has the above couplets bearing on the subject.
 
@@ -486,18 +530,30 @@ Dr. Wise (Hindu system of medicine).
 
 [20]:
 
+
+<blockquote className="ayur-shloka">
 kṣīrodamathane vaidyo devo dhanvantarirhyabhūt | 
 vibhrat kamuṇḍaluṃ pūrṇamamṛtena samutthitaḥ || 
 āyurvedamathāṣṭāṅgaṃ suśrutāya sa uktavān |
+</blockquote>
+
       Garuda Purana. Chap. 142. Vs. 5-6.
 
 [21]:
 
-sarvāṅganivṛttiryugapaditi dhanvantariḥ | 
+
+<blockquote className="ayur-shloka">
+sarvāṅganivṛttiryugapaditi dhanvantariḥ |
+</blockquote>
+
       Charaka, Sharirasthana. Chap. V.
 
 tatra dhānvantarīyānāmadhikāraḥ kriyāvidhau | 
+
+<blockquote className="ayur-shloka">
 vaidyānām kṛtayogānām vyadhaśodhanaropaṇe ||
+</blockquote>
+
       Charaka, Chikitshasthana. Chap. V.
 
 [22]:
@@ -511,19 +567,31 @@ Sushruta Samhita, Sutrasthana. Ch. I. 3.
 
 [24]:
 
+
+<blockquote className="ayur-shloka">
 gobhiryavaṃ cakṛṣat | ṛgveda १ ma | २३ | १५
+</blockquote>
+
 
 [25]:
 
+
+<blockquote className="ayur-shloka">
 śaraḥ śaṇaḥ adhahiṣṭādevajātā vīrucchapatharopanī | 
 vabhrorarjunakāṇḍasya yavasyate palānyātilasya tilopiñja(ā/pā?) ||
+</blockquote>
+
       Atharvan Samhita
 
 B. See also Ibid I. 2 II. 4. 7. 9. 25, 27 and 36.
 
 [26]:
 
-tasmādakṣīnāsatyāvicakṣa ādhattama dasābhiṣajātharvvān | 
+
+<blockquote className="ayur-shloka">
+tasmādakṣīnāsatyāvicakṣa ādhattama dasābhiṣajātharvvān |
+</blockquote>
+
       Rik Samhita I M. 116-16.
 
 [27]:
@@ -545,21 +613,37 @@ Bedroe’s Origin of the Healing Art, and Sir John Lubbock's Prehistoric times.
 
 [31]:
 
-sadyo jaṃdhāmāyasīm viśpalāyai dhane hitāsartave pratyadhattaṃ || 
+
+<blockquote className="ayur-shloka">
+sadyo jaṃdhāmāyasīm viśpalāyai dhane hitāsartave pratyadhattaṃ ||
+</blockquote>
+
 * * * * * 
-tasmā akṣīnāsatyāvicakṣa ādhattṃ dasābhiṣajātharvvān || 
+
+<blockquote className="ayur-shloka">
+tasmā akṣīnāsatyāvicakṣa ādhattṃ dasābhiṣajātharvvān ||
+</blockquote>
+
       Rik Samhita I A. 8 Ad. 186 S. 116. 5.
 
 [32]:
 
 (A) divyauṣadhiṃ vinā devi śastravidyā suniṣphalā | 
+
+<blockquote className="ayur-shloka">
 vairūpyaṃ kurute yā ca duścikitsye vyadhāntare || 
 jāyantaṃ hi yathārśāṃsi pāṭitāni punaḥ punaḥ | 
-kiṃ tatra (?)strasādhyaṃ syāt susiddhairbheṣajairvinā || 
+kiṃ tatra (?)strasādhyaṃ syāt susiddhairbheṣajairvinā ||
+</blockquote>
+
 dhātūnām vyāpadi yacca bhiṣajāṃ naiva siddhāti | 
+
+<blockquote className="ayur-shloka">
 hyāmaye dustare tasmin śastrameva vidhīyate || 
 punaḥ saṃśamanaṃ tatra dhātūnām hi praśāntaye | 
 pradātavyaṃ mahādevi śastrādarvvāk bravīmi te ||
+</blockquote>
+
       Mahanilatantra, Patola X. Vs. 72-74.
 
 B) See the Article on “Heredity and some of its Surgical Aspects.” By F. C. Titzell, m. n. The medie?al Advance Vol. LXIV. June 1906. Page 357.
@@ -574,10 +658,18 @@ The Aitareya Brahnaana describes a particular way of dividing the organs and vis
 
 [35]:
 
-(A). tayā samasya hṛdayamārisva kikirākṛṇu 
+
+<blockquote className="ayur-shloka">
+(A). tayā samasya hṛdayamārisva kikirākṛṇu
+</blockquote>
+
       Rik Samhita V. NII, 1, 23, 538.
 
-hṛdā iva kukṣaya somadhānāḥ 
+
+<blockquote className="ayur-shloka">
+hṛdā iva kukṣaya somadhānāḥ
+</blockquote>
+
       Ibid
 
 B. Vide also Aitareya Brahmana I 2. II 12. III 37.
@@ -586,8 +678,12 @@ B. Vide also Aitareya Brahmana I 2. II 12. III 37.
 
 The nature of the human hody as the resulting effect of the combination of the five elementals have been clearly described in the verse.
 
+
+<blockquote className="ayur-shloka">
 mūryya cakṣurgaccatu vātamātmādyāṃ cagaccha pṛthivīṃ ca dharmmaṇā 
 āponāgaccha yadi tatra te hitamoṣadhīṣu pratitiṣṭhāśarīraiḥ |
+</blockquote>
+
       Rik Samhita X M. 16 S. 3.
 
 Which being translated reads:—
@@ -608,10 +704,18 @@ See Gray’s Anatomy (1897) p. 288 and 301 Figs. 248 and 262.
 
 [40]:
 
-“asthāṃ tribhiḥ ṣaṣṭhādhikaiḥ dhāryyamānaṃ |” 
+
+<blockquote className="ayur-shloka">
+“asthāṃ tribhiḥ ṣaṣṭhādhikaiḥ dhāryyamānaṃ |”
+</blockquote>
+
       Vishnu Smriti. Ch. 96. 55.
 
-“triṇi ṣaṣṭhādhikāni śata?nyasthām saha dant(tt?)olūmalanakhaiḥ |” 
+
+<blockquote className="ayur-shloka">
+“triṇi ṣaṣṭhādhikāni śata?nyasthām saha dant(tt?)olūmalanakhaiḥ |”
+</blockquote>
+
       Charaka, Sharirasthana.
 
 [41]:
@@ -621,13 +725,21 @@ Journal of the Asiatic Society Calcutta Vol. VII. P. 261.
 [42]:
 
 avyaktādīni bhutāni vyaktamadhyāni bh??ta | 
-avyaktanidhanānyeva tatra kā pa?i?edanā ||  
+
+<blockquote className="ayur-shloka">
+avyaktanidhanānyeva tatra kā pa?i?edanā ||
+</blockquote>
+
       Bhagavat Gita II. 28.
 
 [43]:
 
 śuddhe śukrārttave sattvaḥ ma?karmmakleśvoditaḥ | 
-garbhaḥ sampadyate yukti?vaśādagnirivāraṇau || 
+
+<blockquote className="ayur-shloka">
+garbhaḥ sampadyate yukti?vaśādagnirivāraṇau ||
+</blockquote>
+
       Astanga Hridayam (Vagbhat) 
       Sharira Sthana. Ch. I. I.
 
@@ -639,12 +751,20 @@ tasmāt parāṃ? cogarbhādhīyante, parāṃ ca sambhavanti | *
 
 [45]:
 
+
+<blockquote className="ayur-shloka">
 viṣṇuryoniṃ kalpayatu, tvaṣṭā rūpāṇi piṃśatu | 
-āsiñcatu prajāpatirdhātā gharbhaṃ dadhātu te || 
+āsiñcatu prajāpatirdhātā gharbhaṃ dadhātu te ||
+</blockquote>
+
 gharbhaṃ dhehi sinīvālī, gharbhaṃ dhehi sarasvati | 
+
+<blockquote className="ayur-shloka">
 gharbhaṃ teaśvinau devāvā dhattāṃ puṣkarasrajā || 
 hiraṇyayī araṇī yaṃ nirmanthato aśvinā | 
 taṃ tegharbhaṃ havāmahe daśame māsi sūtave ||
+</blockquote>
+
       Rik Samhita X. M. 184, S.
 
 [46]:
@@ -666,12 +786,20 @@ Sharirasthana Ch. II.
 [50]:
 
 hidhākṛtvātmano dihamarddhena puruṣo'bhavat | 
+
+<blockquote className="ayur-shloka">
 arddhena nārīṃ tasyāṃ sa virājamasṛjat prabhuḥ ||
+</blockquote>
+
       Manu Samhita Ch. I. 32.
 
 [51]:
 
-dakṣiṇāṃśaḥ smṛtaḥ saryyo? bāmabhāgoniśākar?aḥ | 
+
+<blockquote className="ayur-shloka">
+dakṣiṇāṃśaḥ smṛtaḥ saryyo? bāmabhāgoniśākar?aḥ |
+</blockquote>
+
       Sarada Tilak Tantra.
 
 [52]:
@@ -680,8 +808,12 @@ Vishnu Purana Ch. 7. Vs. 10–11.
 
 [53]:
 
+
+<blockquote className="ayur-shloka">
 kālaḥ saṃharate jantūn kālo janayati prajāḥ | 
-kalanāt sarvvabhūtānāṃ kāla ityabhidhīyate || 
+kalanāt sarvvabhūtānāṃ kāla ityabhidhīyate ||
+</blockquote>
+
       Mahabharata
 
 [54]:
@@ -703,7 +835,11 @@ Ray Lankester has again well expressed this:—
 [56]:
 
 (A) raktādhikā bhavennārau(ī?) bhavedretodhikaḥ pumān | 
+
+<blockquote className="ayur-shloka">
 ubhayoḥ samatāyāntu napuṃsakamiti sthitiḥ ||
+</blockquote>
+
       Sarada Tilak Tantra.
 
 (B) Sushruta Samhita (Sharira Sthana Ch. III)
@@ -711,25 +847,45 @@ ubhayoḥ samatāyāntu napuṃsakamiti sthitiḥ ||
 [57]:
 
 rasollāsākhyā sā siddhiḥ tayā hanti kṣudhaṃ naraḥ | 
+
+<blockquote className="ayur-shloka">
 kriyādi nirapekṣeṇa sadā tṛptāḥ prajāstadā ||
+</blockquote>
+
       Skanda Purana quoted by Shridhara Svami in his commentaries on the Vishnu Purana. Ch. VI. V. 16.
 
 [58]:
 
-karmmaṇā pitṛlokāt | 
+
+<blockquote className="ayur-shloka">
+karmmaṇā pitṛlokāt |
+</blockquote>
+
       Shruti.
 
 [59]:
 
 strīpuṃsayoḥ susuṃyoge yadyādau visṛjet pumān | 
-śukra tataḥ pumānvīro jāyate valavān dṛṭḥ || 
+
+<blockquote className="ayur-shloka">
+śukra tataḥ pumānvīro jāyate valavān dṛṭḥ ||
+</blockquote>
+
 athacedanitā pūrvvaṃ visṛjedraktasaṃyutam | 
+
+<blockquote className="ayur-shloka">
 tatorūpānvitā kanyā jāyate dṛḍhasaṃhatā ||
+</blockquote>
+
       Darubahi (Quoted by Arunadatta in his commentaries on Vagbhat).
 
 [60]:
 
-(A) pāramparyyato'nveṣaṇā vījāṅkuravat | 
+
+<blockquote className="ayur-shloka">
+(A) pāramparyyato'nveṣaṇā vījāṅkuravat |
+</blockquote>
+
       Sankhya Sutra Ch. I. 122.
 
 (B) tadījāt saṃsṛti
@@ -741,7 +897,11 @@ tatorūpānvitā kanyā jāyate dṛḍhasaṃhatā ||
 [61]:
 
 āhitāgne sadā pathyānyantarāgnaujuhoti yaḥ | 
+
+<blockquote className="ayur-shloka">
 ṣaṭatriṃśacca sahasāni rātrināṃ hitabhojanaḥ ||
+</blockquote>
+
       Charaka Samhita.
 
 [62]:
@@ -750,27 +910,47 @@ It is curious that the phonetic and etymological resemblance between Sanskrit �
 
 [63]:
 
-* * * tridhātu śarmma vahataṃ śubhaspatī || 
+
+<blockquote className="ayur-shloka">
+* * * tridhātu śarmma vahataṃ śubhaspatī ||
+</blockquote>
+
       Rik. Samhita. I. 3, 6.
 
 Sayana explains it as: vātapittaśleṣma dhātutrayopa śamanaviṣayaṃ sukhyaṃ vahataṃ |
 
 [64]:
 
-āpaḥ pītāstredhā vidhīyante | tāsāṃ yaḥ sthaviṣṭho??tutanmūtraṃ bhavati, yomadhyama stallohitaṃ, yo'miṣṭhaḥ saḥ prāṇaḥ | dadhaḥ saumya ! sathyamānasya yo'nimā sa ūrddhaḥ samudīṣati tat sarpirbhavati, evameva khalu saumya ! annasyāśyam?nasya yo'ṇimā sa ūrddhaḥ samudīṣati | 
+
+<blockquote className="ayur-shloka">
+āpaḥ pītāstredhā vidhīyante | tāsāṃ yaḥ sthaviṣṭho??tutanmūtraṃ bhavati, yomadhyama stallohitaṃ, yo'miṣṭhaḥ saḥ prāṇaḥ | dadhaḥ saumya ! sathyamānasya yo'nimā sa ūrddhaḥ samudīṣati tat sarpirbhavati, evameva khalu saumya ! annasyāśyam?nasya yo'ṇimā sa ūrddhaḥ samudīṣati |
+</blockquote>
+
       Chandagya Brahmana.
 
 [65]:
 
-śarīrāvayavāstu paramāṇubhedenāparisaṃkhyeyā bhavanti(?), ativahutvādati saumyādatīndriyatvācca | 
+
+<blockquote className="ayur-shloka">
+śarīrāvayavāstu paramāṇubhedenāparisaṃkhyeyā bhavanti(?), ativahutvādati saumyādatīndriyatvācca |
+</blockquote>
+
       Charaka Samhita Sharirasthana, Chap. VII.
 
 [66]:
 
+
+<blockquote className="ayur-shloka">
 prāṇanāccaiva bhūtānāṃ prāṇa ityabhidhīyate | 
-prerayatyabhre saṃkhātān dhumajāñcoṣmajāṃścaya || 
+prerayatyabhre saṃkhātān dhumajāñcoṣmajāṃścaya ||
+</blockquote>
+
 prathamaḥ prathame mārge pravāho nāma yo'nilaḥ | 
+
+<blockquote className="ayur-shloka">
 ambare snehamabhetya taḍidbhyāścottamadyutiḥ ||
+</blockquote>
+
       Mahabharata. Shanti Pay?a S. 39.
 
 [67]:
@@ -783,8 +963,12 @@ Force may be defined as that which tends to produce motion in a body at rest, or
       Charaka, Sutrasthana. Chap. XII.
 
 (B) pittaṃ paṅgaḥ kaphaḥ paṅgaḥ paṅgavao bhaladhātavaḥ (maladhātavaḥ?) | 
+
+<blockquote className="ayur-shloka">
 vāyunā yatra nīyante tatra gacchanti medhavat ||
       śārṅgadhara
+</blockquote>
+
 
 Inert is Pitta, inert is Kaphah, inert are the Malas & Dhatus Like clouds, they go wherever they are carried by the Vayu.
 
@@ -792,13 +976,21 @@ Inert is Pitta, inert is Kaphah, inert are the Malas & Dhatus Like clouds, they 
 
 dravatejaḥ samudāyātmakasyāpi pittasya tejobhāgo'gniriti | 
 tena pittamapyagnivaṇmanyate | atitāpitāyo golakavat | 
+
+<blockquote className="ayur-shloka">
 paramārthatastu agniḥ pittādbhinna eveti siddhāntaḥ ||
+</blockquote>
+
        Madhukosha.
 
 [70]:
 
+
+<blockquote className="ayur-shloka">
 nābhirāśayaḥ svedolasīkārudhiraṃ rasaḥ | 
-dṛkasparśanaṃ ca pittasya nābhiratra viśeṣata || 
+dṛkasparśanaṃ ca pittasya nābhiratra viśeṣata ||
+</blockquote>
+
       Bagbhat (Sutra Sthana ch. XII.)
 
 [71]:
@@ -808,8 +1000,12 @@ The bile assists in emulsifying the fats of the foods, and thus rendering them c
 
 [72]:
 
+
+<blockquote className="ayur-shloka">
 tatrasthamevapittānāṃ śeṣānāmapyanugraham | 
-karoti valadānena pācakaṃ nāma tatsma tam || 
+karoti valadānena pācakaṃ nāma tatsma tam ||
+</blockquote>
+
       Bagbhat Sutra ch. XII.
 
 [73]:
@@ -829,7 +1025,11 @@ A. The contraction (of the heart) can not be long maintained without a due suppl
       Kirk’s Physiology (metabolism of the heart). Ch. VI.
 
 B vuddhimedhābhimānādyai?bhipretārtha | 
+
+<blockquote className="ayur-shloka">
 sādhakaṃ hṛdgataṃ pittam ||
+</blockquote>
+
       Bagbhat Sutra. Ch. XII. 13.
 
 [75]:
@@ -847,13 +1047,21 @@ It is supposed that the change effected by the light, which falls upon the retin
 (A) śleṣmāgnisādanaḥ—Bagbhat.
 
 (B) tasmāttaṃ vidhitatyukterannapānendhanairhitaiḥ | 
-pālayet prayanna?stasya sthitauhyāyurvalasthitiḥ || 
+
+<blockquote className="ayur-shloka">
+pālayet prayanna?stasya sthitauhyāyurvalasthitiḥ ||
+</blockquote>
+
       Charaka Chikitshasthana. Chap. 15.
 
 [78]:
 
+
+<blockquote className="ayur-shloka">
 (A). kedāreṣu yathākulyāḥ puṇānti vividhauṣadhīḥ | 
-tathākalevare dhātun sarbbān varddhayate rasaḥ || 
+tathākalevare dhātun sarbbān varddhayate rasaḥ ||
+</blockquote>
+
       Bhava Mishra.
 
 (B). khale kapotanyāyenāhayasannarasaḥ pṛthak pṛthak dhātumārge gataḥ san ramādīn poṣayati | * * evaṃ rasapoṣaṇakālāduttarakālaṃ raktapoṣakamārgacārittvāt raktapoṣako rasabhāgo raktaṃ poṣayati | * * * evaṃ māmsamedaprabhṛti poṣaṇa'pijñeya | 
@@ -862,10 +1070,18 @@ tathākalevare dhātun sarbbān varddhayate rasaḥ ||
 [79]:
 
 (A) dhātavaśca malaścāpi duṣyantyebhiḥ yatastataḥ | 
+
+<blockquote className="ayur-shloka">
 vātapittakaphā?ete trayo diṣā iti smṛtāḥ ||
+</blockquote>
+
       Bhavaprakasha Part I.
 
-B vāyapittaṃ kaphaścoktaḥ śārīra doṣasaṃgnaham | 
+
+<blockquote className="ayur-shloka">
+B vāyapittaṃ kaphaścoktaḥ śārīra doṣasaṃgnaham |
+</blockquote>
+
       Charaka Sutrasthana Chap. I.
 
 [80]:
@@ -874,33 +1090,61 @@ pañca pittasya —Charaka Samhita.
 
 [81]:
 
-(A) evaṃ pāñcabhautikā agnayaḥ—eka udarāgniḥ, sapradhātvagnayo vakṣyamānā iti trayodaśā'gnayaḥ | nanupārthivādyuṣmābhiḥ pakkasya punaḥ dhātuṣmābhiḥ pāka dhātunāmapi pāñcabhautikatvāt tatrāpi pārthivādyuṣmābhāvaḥ | taiśca pārthivādyuṣmābhi punaḥ pākaḥ | 
+
+<blockquote className="ayur-shloka">
+(A) evaṃ pāñcabhautikā agnayaḥ—eka udarāgniḥ, sapradhātvagnayo vakṣyamānā iti trayodaśā'gnayaḥ | nanupārthivādyuṣmābhiḥ pakkasya punaḥ dhātuṣmābhiḥ pāka dhātunāmapi pāñcabhautikatvāt tatrāpi pārthivādyuṣmābhāvaḥ | taiśca pārthivādyuṣmābhi punaḥ pākaḥ |
+</blockquote>
+
       Arundatta.
 
+
+<blockquote className="ayur-shloka">
 B. tathā sapraṣu sirāśate sapro'gniśatāni | 
- pañcaṣu māṃsapeśī śateṣu ca pañcāgniśatānīti || 
+ pañcaṣu māṃsapeśī śateṣu ca pañcāgniśatānīti ||
+</blockquote>
+
       Ibid.
 
+
+<blockquote className="ayur-shloka">
 C. tejo rasānāṃ sarbbeṣāṃ manujānāṃ caducyate | 
 pittoṣmaṇaḥ sa rāgena raso raktatvamṛccati || 
 vāyūmbutejasā raktamuṣmaṇā cābhisaṃyutam | 
-sthiratāṃ prāpya māṃsaṃ syāt svoṣmaṇā pakkamevatat || 
+sthiratāṃ prāpya māṃsaṃ syāt svoṣmaṇā pakkamevatat ||
+</blockquote>
+
 svatejo'mbuguṇasnigdhodriktaṃ medo'bhijāyate | 
+
+<blockquote className="ayur-shloka">
 pṛthivyāgnyānilādīnāṃ saṃghātaḥ svoṣmaṇākṛtaḥ || 
 kharatvaṃ prakarotyasya jāyate'sthi tatonṛṇām | 
-karoti tatra śauṣiryyamasthāṃ madhye samīraṇaḥ || 
+karoti tatra śauṣiryyamasthāṃ madhye samīraṇaḥ ||
+</blockquote>
+
 medasāsthīni pūryyante snehī majjā tataḥ smṛtaḥ | 
+
+<blockquote className="ayur-shloka">
 tasmāt tajjastu yaḥ sneha śukraṃ saṃjāyate tataḥ || 
 vāyvākāśādibhirbhāṣaiḥ śauṣiryyaṃ jāyate'sthiṣu |
+</blockquote>
+
       Charaka Samhita, Chikitsasthana, Chapter XV.
 
 D). saptarbhideha dhātāro dhātavo dvividha punaḥ | 
-yathāsvamagnibhiḥ pākaṃ yānti kiṭṭa prasādataḥ || 
+
+<blockquote className="ayur-shloka">
+yathāsvamagnibhiḥ pākaṃ yānti kiṭṭa prasādataḥ ||
+</blockquote>
+
       Vid Ibid Chap. XX.
 
 [82]:
 
-A. daghnaḥ saumya yathā mathyamānasya yo'nimā sa uddharaṃ samudoryyati eva so khalu saumya annasyāśyamānasya | 
+
+<blockquote className="ayur-shloka">
+A. daghnaḥ saumya yathā mathyamānasya yo'nimā sa uddharaṃ samudoryyati eva so khalu saumya annasyāśyamānasya |
+</blockquote>
+
       Chandogya Upanishad.
 
 B. annasya odanāderaśyamānasya bhuñjamānasya audargyena agninā vāyu sahitena khajena iva satya(?) prānasya | 
@@ -921,39 +1165,67 @@ tridhātu śarmma vahaṃtaṃ | vātapittakapha śamanaviṣayasukhaṃ vahaṃ
 
 [85]:
 
-dhatuvaivamyanimittāḥ vyādhayaḥ | 
+
+<blockquote className="ayur-shloka">
+dhatuvaivamyanimittāḥ vyādhayaḥ |
+</blockquote>
+
       Charaka.
 
 [86]:
 
+
+<blockquote className="ayur-shloka">
 śarīraduṣaṇāddoṣo dhātavo dehadhāraṇāt | 
 vātapitta kaphājñeyā malinī karaṇānmalāḥ || śāṅgadhara |
+</blockquote>
+
 
 [87]:
 
 ojastu tejodhātūnāṃ śukrāntānāṃ paraṃsmṛtam | 
-hṛdayasthaptapi vyāpi dehasthitimivandhanam || 
+
+<blockquote className="ayur-shloka">
+hṛdayasthaptapi vyāpi dehasthitimivandhanam ||
+</blockquote>
+
       Vagbhat.
 
 [88]:
 
+
+<blockquote className="ayur-shloka">
 hṛdi tiṣṭhati yacchubhraṃ raktamīṣat sapītakam | 
-ojaḥ śarīre saṃkhyātaṃ tannāśānnā vinaśyavi || 
+ojaḥ śarīre saṃkhyātaṃ tannāśānnā vinaśyavi ||
+</blockquote>
+
       Charaka (Sutra Sthana) Ch. XVII.
 
 [89]:
 
 A. tairāvṛtagatirvāyuroja ādāya gaccati | 
-yadā bastiṃ tadā kṛcchro madhumehaḥ pravartate || 
+
+<blockquote className="ayur-shloka">
+yadā bastiṃ tadā kṛcchro madhumehaḥ pravartate ||
+</blockquote>
+
       Charaka (Sutra Sthana) Ch. XVII.
 
-B. ojaḥ punarmadhura-svabhāvaṃ, tadraukṣyād vāyuśca kaṣāyatvena abhisaṃ sṛjya sutrāśaye'bhivahan madhumeha karoti | 
+
+<blockquote className="ayur-shloka">
+B. ojaḥ punarmadhura-svabhāvaṃ, tadraukṣyād vāyuśca kaṣāyatvena abhisaṃ sṛjya sutrāśaye'bhivahan madhumeha karoti |
+</blockquote>
+
       Charaka (Sharira Sthana) Ch. IV.
 
 [90]:
 
+
+<blockquote className="ayur-shloka">
 ojaḥ sarvvaśarīrasthaṃ snigdha śītaṃ sthiraṃ sitam | 
-somātmakaṃ śarīrasya valapuṣṭikaraṃ satam || 
+somātmakaṃ śarīrasya valapuṣṭikaraṃ satam ||
+</blockquote>
+
       Bhavaprakasha. Part I.
 
 B. kṣire ghṛtamiva tadeva valam | 
@@ -961,7 +1233,11 @@ B. kṣire ghṛtamiva tadeva valam |
 
 [91]:
 
-tejo'pyāgne? kramaśaḥ pacyamānānāṃ dhātūnāmabhinivṛttamantarasthaṃ snehajāta vasākhyṃ strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāyyaṃ bhavati | 
+
+<blockquote className="ayur-shloka">
+tejo'pyāgne? kramaśaḥ pacyamānānāṃ dhātūnāmabhinivṛttamantarasthaṃ snehajāta vasākhyṃ strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāyyaṃ bhavati |
+</blockquote>
+
       Dallana Mishra.
 
 [92]:
@@ -971,33 +1247,61 @@ See Note 3 (B) Page iiv.
 [93]:
 
 yat sāramādau garbhasya yattadgarbharasādrasaḥ | 
-mamaṃvarttamānaṃ hṛdayaṃ samāviśati yat purā || 
+
+<blockquote className="ayur-shloka">
+mamaṃvarttamānaṃ hṛdayaṃ samāviśati yat purā ||
+</blockquote>
+
       Charaka Sutrasthana, Chap. XXX.
 
 [94]:
 
 A. prākṛtastu valaṃ śleṣmā vikṛto mala ucyate | 
-sacaivojaḥ smṛtaṃ kāye sa ca pāṣmopadiśyate || 
+
+<blockquote className="ayur-shloka">
+sacaivojaḥ smṛtaṃ kāye sa ca pāṣmopadiśyate ||
+</blockquote>
+
       Charaka Samhita Sutrasthana, Chap. XVII.
 
-B. dahanasyāpi dhātvagnāvavakalpanaṃ sthānaviśeṣāt kāryyaviśeṣācca | 
+
+<blockquote className="ayur-shloka">
+B. dahanasyāpi dhātvagnāvavakalpanaṃ sthānaviśeṣāt kāryyaviśeṣācca |
+</blockquote>
+
       Chakradatta’s Commentary S. Samhita, Sutrasthana Chap. XV.
 
 [95]:
 
 “From these extracts it appears to us still more vividly that our countrymen did also discover, like Dr. Pavy, the importance of fat and sugar in the animal economy, as well as the mode in which they can be elaborated from one common principle. (76-7S). A comparative study of the two systems of medical science, Indian and European, has led us to arrive at this conclusion; if we, therefore are not inclined to identify Ojah with albumen, as it has been done by some modern Indian commentators, we have reasons to believe that the aforesaid extracts have not as yet received sufficient consideration from them, as forming the nutritive? basis of the procreative elements; in short the subject has hitherto been neglected or, at least, been placed in the back-ground, from? want of attention on the part of those whose business it was to investigate into the truths of Science. To hold that Ojah is kept in deposit in the heart, as a reserved food material, for the maintenance of its own work as well as for the production of germinal seed, is to admit that efficiency of reproduction depends entirely upon the efficiency of this important substance in the body.”
 
+
+<blockquote className="ayur-shloka">
 (76) gurusnigdhāmlalavaṇānyatimātraṃ samaśnatām | 
-navamannañca pānañca nidrāmāsyāsukhāni ca || 
+navamannañca pānañca nidrāmāsyāsukhāni ca ||
+</blockquote>
+
 tyaktavyāyāmacintānāṃ saṃśodhanamakurvvatām | 
-śleṣmā pittañca medaśca māṃsañcāti pravarttate || 
+
+<blockquote className="ayur-shloka">
+śleṣmā pittañca medaśca māṃsañcāti pravarttate ||
+</blockquote>
+
 tairāvṛtagatirvāyuroja ādāya gaccati | 
+
+<blockquote className="ayur-shloka">
 yadāvastiṃ tadākṛccho madhumehaḥ pravarttate ||
+</blockquote>
+
       carakaḥ
 
 76. “Those who partake of heavy and cooling food abounding in acids and salts, of new rice, and beverages, or constantly enjoy sleep and luxuries, or neglect the exercise of body and mind, or who habitually abstain from the use of corrective medicines, help to accumulate in their bodies phlegm, bile, fat and flesh; and these interfere with the functions of the Vayu, which causes the Ojah to be displaced from its proper place down in the bladder and produces glycosuria,”
 
-(77) ghṛtaṃ yathā kṛtsnakṣīrasnehaḥ 
+
+<blockquote className="ayur-shloka">
+(77) ghṛtaṃ yathā kṛtsnakṣīrasnehaḥ
+</blockquote>
+
 tathaiva tejo'pi kṛtsnadhātusnehaḥ | 
       dallanamishraḥ
 
@@ -1005,7 +1309,11 @@ tathaiva tejo'pi kṛtsnadhātusnehaḥ |
 
 (78) tejo'pyāgneyaṃ kramaśaḥ pacyamānānānaṃ 
 dhātunāmabhinivṛttamantarasthaṃ snehajātaṃ vasākhyam 
-strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāryyaṃ bhavati | 
+
+<blockquote className="ayur-shloka">
+strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāryyaṃ bhavati |
+</blockquote>
+
       Ibid.
 
 78. “Teja (Ojah) too is combustible; in course of tissue-combustion, the excess quantity of it gets deposited especially in the female body as fat which produces softness and elegance.”
@@ -1013,17 +1321,29 @@ strīṇāṃ viśeṣato bhavati tena mārdavaṃ saukumāryyaṃ bhavati |
 [96]:
 
 kanṭhakūpe kṣutpipāsā nivṛttiḥ | 
-kūrmanāḍyā sthairyyam | 
+
+<blockquote className="ayur-shloka">
+kūrmanāḍyā sthairyyam |
+</blockquote>
+
       Patanjala Darshana Vibhutipada 29—30 A.
 
 [97]:
 
-sopakramaṃ nirupakramañca karmma tatsaṃyamāda parāntañjānamariṣṭebhyovā | 
+
+<blockquote className="ayur-shloka">
+sopakramaṃ nirupakramañca karmma tatsaṃyamāda parāntañjānamariṣṭebhyovā |
+</blockquote>
+
       Patanjala Darshana. Vibhutipada. A.
 
 [98]:
 
-tasmāt puruṣo'dhiṣṭānam | taddukha saṃyogāśca vyādhaya ityucyante | 
+
+<blockquote className="ayur-shloka">
+tasmāt puruṣo'dhiṣṭānam | taddukha saṃyogāśca vyādhaya ityucyante |
+</blockquote>
+
       Sushruta samhita. Sutra. Chap. I.
 
 [99]:
@@ -1038,37 +1358,65 @@ Contrary in character to the exciting factors of a disease.
 Contrary in character to the Esse of a disease. 
 Contrary in character both to the exciting factors and Esse of a disease.
 
+
+<blockquote className="ayur-shloka">
 hetuvyādhi viparyyasta vipuryyastārthakāriṇām | 
-auṣadhānnavihārāṇāmupayogaṃ sukhāvaham || 
+auṣadhānnavihārāṇāmupayogaṃ sukhāvaham ||
+</blockquote>
+
       Madhava Nidana Ch I. V. 8.
 
 [101]:
 
 dīrghamāyuḥ smṛti medhāmarogaṃ taruṇaṃ vayuḥ | 
-prabhāvarṇa svaraudāryyaṃ dehendriya balaṃ paraṃ || 
+
+<blockquote className="ayur-shloka">
+prabhāvarṇa svaraudāryyaṃ dehendriya balaṃ paraṃ ||
+</blockquote>
+
 vākasiddhiṃ praṇatiṃ kāntiṃ labhate nā rasāyanāt | 
-lābhopāyo hi śapranāṃ rasādīnāṃ rasāyanaṃ || 
+
+<blockquote className="ayur-shloka">
+lābhopāyo hi śapranāṃ rasādīnāṃ rasāyanaṃ ||
+</blockquote>
+
       Charaka Samhita Chikitsa Sthana Ch I.
 
 [102]:
 
+
+<blockquote className="ayur-shloka">
 kharāśva godhenuka saṃbhṛtānāṃḳ, tathā yavānāṃ vividhāśca bhakṣyāḥ | 
-deyāstathā veṇuyavā yavānāṃ, kalpena godhūmamayāśca bhakṣyāḥ || 
+deyāstathā veṇuyavā yavānāṃ, kalpena godhūmamayāśca bhakṣyāḥ ||
+</blockquote>
+
       Charaka Samhita, Chikitsa Sthana. Ch. VI. 23.
 
 [103]:
 
 The efficacy of such exclusion has been lately demonstrated by the researches of Dr. Benjamin Horniman (Lectures, Sanitarium, Park st. London.)
 
+
+<blockquote className="ayur-shloka">
 ?†? A. tathoṣṇa lavaṇāmlāni vidāhīni gurūṇica | 
-nādyādannāni jaṭharī toyapānaṃ ca varjayet || 
+nādyādannāni jaṭharī toyapānaṃ ca varjayet ||
+</blockquote>
+
       Charaka Chikitsha Sthana Ch. XIII.
 
-B. mūtrāṇyaṣṭāvudariṇāṃ seke pāne ca yojayet 
+
+<blockquote className="ayur-shloka">
+B. mūtrāṇyaṣṭāvudariṇāṃ seke pāne ca yojayet
+</blockquote>
+
       Ibid Chap. 13.
 
+
+<blockquote className="ayur-shloka">
 C. saptāhamauṣṭrantvathavāpi māsaṃ payaḥ pivedbhojanavārivarjjī | 
-gavyaṃ samūtraṃ mahiṣīpayo ca kṣīrāśanaṃ mūtromatho gavāṃ cā || 
+gavyaṃ samūtraṃ mahiṣīpayo ca kṣīrāśanaṃ mūtromatho gavāṃ cā ||
+</blockquote>
+
       Charaka Chikitsha Sthana Chap. 12.
 
 [104]:
@@ -1077,7 +1425,11 @@ Lead crystals (including diamond) gold and mineral poisons are mentioned in the 
 
 [105]:
 
-apasvaṃtarasṛtamapsu bheṣajamapāmata praśāntaye || 
+
+<blockquote className="ayur-shloka">
+apasvaṃtarasṛtamapsu bheṣajamapāmata praśāntaye ||
+</blockquote>
+
       Rik Samhita I. 23 s. 19.
 
 ---

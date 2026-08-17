@@ -13,103 +13,101 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Rasa Jala Nidhi Volume 4 Chapter 1](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch1)
+### [General Discourse: Rasa Jala Nidhi Volume 4 Chapter 1](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Rasa Jala Nidhi Volume 4.
 
-### 2. [Actions prohibited just at sunrise and sunset: Rasa Jala Nidhi Volume 4 Chapter 2](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch2)
+### [Actions prohibited just at sunrise and sunset: Rasa Jala Nidhi Volume 4 Chapter 2](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch2)
 **Overview**: Detailed classical discussion on Actions prohibited just at sunrise and sunset within Rasa Jala Nidhi Volume 4.
 
-### 3. [Directions to be followed in nava-jvara: Rasa Jala Nidhi Volume 4 Chapter 3](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch3)
+### [Directions to be followed in nava-jvara: Rasa Jala Nidhi Volume 4 Chapter 3](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch3)
 **Overview**: Detailed classical discussion on Directions to be followed in nava-jvara within Rasa Jala Nidhi Volume 4.
 
-### 4. [Treatment for fever (8): Brihat-jvarankusha rasa: Rasa Jala Nidhi Volume 4 Chapter 4](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch4)
+### [Treatment for fever (8): Brihat-jvarankusha rasa: Rasa Jala Nidhi Volume 4 Chapter 4](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch4)
 **Overview**: Detailed classical discussion on Treatment for fever (8): Brihat-jvarankusha rasa within Rasa Jala Nidhi Volume 4.
 
-### 5. [Treatment for fever (24): Sarvanga-sundara-chintamani rasa: Rasa Jala Nidhi Volume 4 Chapter 5](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch5)
+### [Treatment for fever (24): Sarvanga-sundara-chintamani rasa: Rasa Jala Nidhi Volume 4 Chapter 5](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch5)
 **Overview**: Detailed classical discussion on Treatment for fever (24): Sarvanga-sundara-chintamani rasa within Rasa Jala Nidhi Volume 4.
 
-### 6. [Treatment for fever (38): Gada-murari rasa: Rasa Jala Nidhi Volume 4 Chapter 6](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch6)
+### [Treatment for fever (38): Gada-murari rasa: Rasa Jala Nidhi Volume 4 Chapter 6](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch6)
 **Overview**: Detailed classical discussion on Treatment for fever (38): Gada-murari rasa within Rasa Jala Nidhi Volume 4.
 
-### 7. [Treatment for fever (52): Visva-vandya rasa: Rasa Jala Nidhi Volume 4 Chapter 7](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch7)
+### [Treatment for fever (52): Visva-vandya rasa: Rasa Jala Nidhi Volume 4 Chapter 7](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch7)
 **Overview**: Detailed classical discussion on Treatment for fever (52): Visva-vandya rasa within Rasa Jala Nidhi Volume 4.
 
-### 8. [Treatment for fever (70): Mahamrityunjaya rasa: Rasa Jala Nidhi Volume 4 Chapter 8](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch8)
+### [Treatment for fever (70): Mahamrityunjaya rasa: Rasa Jala Nidhi Volume 4 Chapter 8](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch8)
 **Overview**: Detailed classical discussion on Treatment for fever (70): Mahamrityunjaya rasa within Rasa Jala Nidhi Volume 4.
 
-### 9. [Treatment for fever (84): Jvara-matanga-keshari rasa: Rasa Jala Nidhi Volume 4 Chapter 9](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch9)
+### [Treatment for fever (84): Jvara-matanga-keshari rasa: Rasa Jala Nidhi Volume 4 Chapter 9](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch9)
 **Overview**: Detailed classical discussion on Treatment for fever (84): Jvara-matanga-keshari rasa within Rasa Jala Nidhi Volume 4.
 
-### 10. [Treatment for fever (88): Arogya-bhairava rasa: Rasa Jala Nidhi Volume 4 Chapter 10](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch10)
+### [Treatment for fever (88): Arogya-bhairava rasa: Rasa Jala Nidhi Volume 4 Chapter 10](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch10)
 **Overview**: Detailed classical discussion on Treatment for fever (88): Arogya-bhairava rasa within Rasa Jala Nidhi Volume 4.
 
-### 11. [Treatment for fever (114): Jvara-nrisimha rasa: Rasa Jala Nidhi Volume 4 Chapter 11](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch11)
+### [Treatment for fever (114): Jvara-nrisimha rasa: Rasa Jala Nidhi Volume 4 Chapter 11](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch11)
 **Overview**: Detailed classical discussion on Treatment for fever (114): Jvara-nrisimha rasa within Rasa Jala Nidhi Volume 4.
 
-### 12. [Treatment for fever (130): Jvarari rasa: Rasa Jala Nidhi Volume 4 Chapter 12](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch12)
+### [Treatment for fever (130): Jvarari rasa: Rasa Jala Nidhi Volume 4 Chapter 12](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch12)
 **Overview**: Detailed classical discussion on Treatment for fever (130): Jvarari rasa within Rasa Jala Nidhi Volume 4.
 
-### 13. [Treatment for fever (144): Sarva-jvara-hara lauham: Rasa Jala Nidhi Volume 4 Chapter 13](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch13)
+### [Treatment for fever (144): Sarva-jvara-hara lauham: Rasa Jala Nidhi Volume 4 Chapter 13](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch13)
 **Overview**: Detailed classical discussion on Treatment for fever (144): Sarva-jvara-hara lauham within Rasa Jala Nidhi Volume 4.
 
-### 14. [Treatment for fever (159): Chaturthaka-nivarana rasa: Rasa Jala Nidhi Volume 4 Chapter 14](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch14)
+### [Treatment for fever (159): Chaturthaka-nivarana rasa: Rasa Jala Nidhi Volume 4 Chapter 14](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch14)
 **Overview**: Detailed classical discussion on Treatment for fever (159): Chaturthaka-nivarana rasa within Rasa Jala Nidhi Volume 4.
 
-### 15. [Treatment for fever with diarrhea (2): Siddha-praneshvara rasa: Rasa Jala Nidhi Volume 4 Chapter 15](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch15)
+### [Treatment for fever with diarrhea (2): Siddha-praneshvara rasa: Rasa Jala Nidhi Volume 4 Chapter 15](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch15)
 **Overview**: Detailed classical discussion on Treatment for fever with diarrhea (2): Siddha-praneshvara rasa within Rasa Jala Nidhi Volume 4.
 
-### 16. [Treatment for diarrhea (9): Vishvanatha rasa: Rasa Jala Nidhi Volume 4 Chapter 16](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch16)
+### [Treatment for diarrhea (9): Vishvanatha rasa: Rasa Jala Nidhi Volume 4 Chapter 16](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch16)
 **Overview**: Detailed classical discussion on Treatment for diarrhea (9): Vishvanatha rasa within Rasa Jala Nidhi Volume 4.
 
-### 17. [Treatment for chronic diarrhea (3): Suvarna-sundara rasa: Rasa Jala Nidhi Volume 4 Chapter 17](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch17)
+### [Treatment for chronic diarrhea (3): Suvarna-sundara rasa: Rasa Jala Nidhi Volume 4 Chapter 17](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch17)
 **Overview**: Detailed classical discussion on Treatment for chronic diarrhea (3): Suvarna-sundara rasa within Rasa Jala Nidhi Volume 4.
 
-### 18. [Treatment for chronic diarrhea (19): Rajendra-vallabha rasa: Rasa Jala Nidhi Volume 4 Chapter 18](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch18)
+### [Treatment for chronic diarrhea (19): Rajendra-vallabha rasa: Rasa Jala Nidhi Volume 4 Chapter 18](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch18)
 **Overview**: Detailed classical discussion on Treatment for chronic diarrhea (19): Rajendra-vallabha rasa within Rasa Jala Nidhi Volume 4.
 
-### 19. [Treatment for chronic diarrhea (36): Shambhu-prasada rasa: Rasa Jala Nidhi Volume 4 Chapter 19](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch19)
+### [Treatment for chronic diarrhea (36): Shambhu-prasada rasa: Rasa Jala Nidhi Volume 4 Chapter 19](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch19)
 **Overview**: Detailed classical discussion on Treatment for chronic diarrhea (36): Shambhu-prasada rasa within Rasa Jala Nidhi Volume 4.
 
-### 20. [Rasa parpati: Rasa Jala Nidhi Volume 4 Chapter 20](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch20)
+### [Rasa parpati: Rasa Jala Nidhi Volume 4 Chapter 20](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch20)
 **Overview**: Detailed classical discussion on Rasa parpati within Rasa Jala Nidhi Volume 4.
 
-### 21. [Treatment for indigestion (5): Ramabana rasa: Rasa Jala Nidhi Volume 4 Chapter 21](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch21)
+### [Treatment for indigestion (5): Ramabana rasa: Rasa Jala Nidhi Volume 4 Chapter 21](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch21)
 **Overview**: Detailed classical discussion on Treatment for indigestion (5): Ramabana rasa within Rasa Jala Nidhi Volume 4.
 
-### 22. [Treatment for indigestion (20): Sandipana rasa: Rasa Jala Nidhi Volume 4 Chapter 22](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch22)
+### [Treatment for indigestion (20): Sandipana rasa: Rasa Jala Nidhi Volume 4 Chapter 22](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch22)
 **Overview**: Detailed classical discussion on Treatment for indigestion (20): Sandipana rasa within Rasa Jala Nidhi Volume 4.
 
-### 23. [Treatment for indigestion (36): Dvitiya-kravyada rasa: Rasa Jala Nidhi Volume 4 Chapter 23](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch23)
+### [Treatment for indigestion (36): Dvitiya-kravyada rasa: Rasa Jala Nidhi Volume 4 Chapter 23](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch23)
 **Overview**: Detailed classical discussion on Treatment for indigestion (36): Dvitiya-kravyada rasa within Rasa Jala Nidhi Volume 4.
 
-### 24. [Piles: Rasa Jala Nidhi Volume 4 Chapter 24](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch24)
+### [Piles: Rasa Jala Nidhi Volume 4 Chapter 24](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch24)
 **Overview**: Detailed classical discussion on Piles within Rasa Jala Nidhi Volume 4.
 
-### 25. [Treatment of Piles (15): Chakradhara rasa: Rasa Jala Nidhi Volume 4 Chapter 25](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch25)
+### [Treatment of Piles (15): Chakradhara rasa: Rasa Jala Nidhi Volume 4 Chapter 25](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch25)
 **Overview**: Detailed classical discussion on Treatment of Piles (15): Chakradhara rasa within Rasa Jala Nidhi Volume 4.
 
-### 26. [Treatment of Udara-roga (4): Svechchha-bhedi rasa: Rasa Jala Nidhi Volume 4 Chapter 26](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch26)
+### [Treatment of Udara-roga (4): Svechchha-bhedi rasa: Rasa Jala Nidhi Volume 4 Chapter 26](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch26)
 **Overview**: Detailed classical discussion on Treatment of Udara-roga (4): Svechchha-bhedi rasa within Rasa Jala Nidhi Volume 4.
 
-### 27. [Treatment of Udara-roga (16): Mrityu-nirodha rasa: Rasa Jala Nidhi Volume 4 Chapter 27](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch27)
+### [Treatment of Udara-roga (16): Mrityu-nirodha rasa: Rasa Jala Nidhi Volume 4 Chapter 27](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch27)
 **Overview**: Detailed classical discussion on Treatment of Udara-roga (16): Mrityu-nirodha rasa within Rasa Jala Nidhi Volume 4.
 
-### 28. [Treatment for enlargement of spleen and liver (8): Vajrapani rasa: Rasa Jala Nidhi Volume 4 Chapter 28](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch28)
+### [Treatment for enlargement of spleen and liver (8): Vajrapani rasa: Rasa Jala Nidhi Volume 4 Chapter 28](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch28)
 **Overview**: Detailed classical discussion on Treatment for enlargement of spleen and liver (8): Vajrapani rasa within Rasa Jala Nidhi Volume 4.
 
-### 29. [Treatment for enlargement of spleen and liver (26): Bari-shosana rasa: Rasa Jala Nidhi Volume 4 Chapter 29](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch29)
+### [Treatment for enlargement of spleen and liver (26): Bari-shosana rasa: Rasa Jala Nidhi Volume 4 Chapter 29](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch29)
 **Overview**: Detailed classical discussion on Treatment for enlargement of spleen and liver (26): Bari-shosana rasa within Rasa Jala Nidhi Volume 4.
 
-### 30. [Treatment for indigestion (23): Kambu rasa: Rasa Jala Nidhi Volume 4 Chapter 30](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch30)
+### [Treatment for indigestion (23): Kambu rasa: Rasa Jala Nidhi Volume 4 Chapter 30](/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch30)
 **Overview**: Detailed classical discussion on Treatment for indigestion (23): Kambu rasa within Rasa Jala Nidhi Volume 4.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Introduction
+## Introduction
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -127,7 +125,7 @@ This concludes ‘Introduction’ included in Bhudeb Mookerjee Rasa Jala Nidhi, 
 
 ---
 
-## 97. Preface
+## Preface
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 

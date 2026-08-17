@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on References and Notes for chapter 4 within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 64. References and Notes for chapter 4
+## References and Notes for chapter 4
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -37,7 +37,7 @@ jb kbab 264 105. Aiyer Yagna narayana, Milk and Milk Products, Bangalore, 1944, 
 
 ---
 
-## 65. Appendix 1 - Glossary of technical words
+## Appendix 1 - Glossary of technical words
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -81,7 +81,7 @@ I > - \ SE the body. SANIPATAJVARA : 476 The fever caused by the simultaneous vi
 
 ---
 
-## 66. Appendix 4 - Preparations of food and drinks (References)
+## Appendix 4 - Preparations of food and drinks (References)
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -115,8 +115,6 @@ i y Mandaka Parpata Polika Sevika Soup X-73 to 75 XI-39, 40 X-78, 79 X-142 to 14
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -124,10 +122,6 @@ i y Mandaka Parpata Polika Sevika Soup X-73 to 75 XI-39, 40 X-78, 79 X-142 to 14
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix 3 - Twenty physical properties of the food: Kshemakutuhala Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

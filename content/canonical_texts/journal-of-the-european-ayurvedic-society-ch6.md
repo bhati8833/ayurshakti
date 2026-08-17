@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on State Policy Towards Indigenous Drugs in British Bengal within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. State Policy Towards Indigenous Drugs in British Bengal
+## State Policy Towards Indigenous Drugs in British Bengal
 
 Journal of the European Ayurvedic Society
 
@@ -43,7 +43,7 @@ dominance of European drugs in the Indian market was more or less complete, thus
 
 ---
 
-## 16. Reflections on Rasaratna-samuccaya and Rasendra-chudamani
+## Reflections on Rasaratna-samuccaya and Rasendra-chudamani
 
 Journal of the European Ayurvedic Society
 
@@ -59,7 +59,7 @@ Als eine der wenigen inhaltlichen Anderungen ist z.B. zu erwahnen, dass Somadeva
 
 ---
 
-## 17. On Two Medical Verses in the Yuktidipika
+## On Two Medical Verses in the Yuktidipika
 
 Journal of the European Ayurvedic Society
 
@@ -115,8 +115,6 @@ studying their interrelation and historical development, is a desideratum of Ind
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -124,10 +122,6 @@ studying their interrelation and historical development, is a desideratum of Ind
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">(1992): Journal Of The European Ayurvedic Society Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

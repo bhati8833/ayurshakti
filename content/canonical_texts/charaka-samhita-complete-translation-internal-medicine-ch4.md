@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Major List of Diseases (maharoga) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Chapter 20 - The Major List of Diseases (maharoga)
+## Chapter 20 - The Major List of Diseases (maharoga)
 
 Charaka Samhita (English translation)
 
@@ -171,7 +171,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 19. Chapter 21 - The Eight Censured Persons (Nindita Purusha)
+## Chapter 21 - The Eight Censured Persons (Nindita Purusha)
 
 Charaka Samhita (English translation)
 
@@ -331,7 +331,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 20. Chapter 22 - Lightening (langhana) and Roborant (brimhana) Therapies
+## Chapter 22 - Lightening (langhana) and Roborant (brimhana) Therapies
 
 Charaka Samhita (English translation)
 
@@ -471,7 +471,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 21. Chapter 23 - Impletion therapy (Santarpana)
+## Chapter 23 - Impletion therapy (Santarpana)
 
 Charaka Samhita (English translation)
 
@@ -551,7 +551,7 @@ Summary
 
 ---
 
-## 22. Chapter 24 - The Blood derived through Systematic Regimen (Vidhi-shonita)
+## Chapter 24 - The Blood derived through Systematic Regimen (Vidhi-shonita)
 
 Charaka Samhita (English translation)
 
@@ -673,7 +673,7 @@ Here are the two recapitulatory verses.
 
 ---
 
-## 23. Chapter 25 - The Origin of Man and Disease (Purusha-samjnaka)
+## Chapter 25 - The Origin of Man and Disease (Purusha-samjnaka)
 
 Charaka Samhita (English translation)
 
@@ -867,8 +867,6 @@ Summary
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -876,10 +874,6 @@ Summary
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Discussion among Sages regarding Tastes (Rasa): Charaka Samhita Complete Translation Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

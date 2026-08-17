@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Panchabhautik Composition of Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 15. Panchabhautik Composition of Marma
+## Panchabhautik Composition of Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -31,7 +31,7 @@ Table No. V-d 1. Gulpha 2 2. Manibandha 2 3. Koorchasira 4 Total 8 1. 2. 3.
 
 ---
 
-## 16. Significance of Sandhi Marma
+## Significance of Sandhi Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -45,7 +45,7 @@ provision of intervening arrangements permitting some degree of torsion, angulat
 
 ---
 
-## 17. Significance of Dhamani Marma
+## Significance of Dhamani Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -63,8 +63,6 @@ Difference of opinion 27 According to Susruta, Guda marma is included as mamsa m
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -72,10 +70,6 @@ Difference of opinion 27 According to Susruta, Guda marma is included as mamsa m
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Significance of Asti Marma: Marma Sastra and Ayurvedic Science Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

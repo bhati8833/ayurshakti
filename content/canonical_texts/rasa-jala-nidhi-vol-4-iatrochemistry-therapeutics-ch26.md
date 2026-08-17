@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Udara-roga (4): Svechchha-bhedi rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 377. Part 7 - Treatment of Udara-roga (4): Svechchha-bhedi rasa
+## Part 7 - Treatment of Udara-roga (4): Svechchha-bhedi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment of Udara-roga (4): Svechchha-bhedi rasa’ included 
 
 ---
 
-## 378. Part 8 - Treatment of Udara-roga (5): Jalodara-hara rasa
+## Part 8 - Treatment of Udara-roga (5): Jalodara-hara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment of Udara-roga (5): Jalodara-hara rasa’ included in
 
 ---
 
-## 379. Part 9 - Treatment of Udara-roga (6): Jalodarari rasa
+## Part 9 - Treatment of Udara-roga (6): Jalodarari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment of Udara-roga (6): Jalodarari rasa’ included in Bh
 
 ---
 
-## 380. Part 11 - Treatment of Udara-roga (8): Maha-vahni rasa
+## Part 11 - Treatment of Udara-roga (8): Maha-vahni rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment of Udara-roga (8): Maha-vahni rasa’ included in Bh
 
 ---
 
-## 381. Part 1 - Characteristics of Udara-roga (diseases affecting the belly)
+## Part 1 - Characteristics of Udara-roga (diseases affecting the belly)
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -149,7 +149,7 @@ This concludes ‘Characteristics of Udara-roga (diseases affecting the belly)�
 
 ---
 
-## 382. Part 12 - Treatment of Udara-roga (9): Pippalyadya lauha
+## Part 12 - Treatment of Udara-roga (9): Pippalyadya lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -167,7 +167,7 @@ This concludes ‘Treatment of Udara-roga (9): Pippalyadya lauha’ included in 
 
 ---
 
-## 383. Part 10 - Treatment of Udara-roga (7): Naracha rasa
+## Part 10 - Treatment of Udara-roga (7): Naracha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -185,7 +185,7 @@ This concludes ‘Treatment of Udara-roga (7): Naracha rasa’ included in Bhude
 
 ---
 
-## 384. Part 13 - Treatment of Udara-roga (10): Udarari rasa
+## Part 13 - Treatment of Udara-roga (10): Udarari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -203,7 +203,7 @@ This concludes ‘Treatment of Udara-roga (10): Udarari rasa’ included in Bhud
 
 ---
 
-## 385. Part 14 - Treatment of Udara-roga (11): Shri-Vaidyanathadesha rasa
+## Part 14 - Treatment of Udara-roga (11): Shri-Vaidyanathadesha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -221,7 +221,7 @@ This concludes ‘Treatment of Udara-roga (11): Shri-Vaidyanathadesha rasa’ in
 
 ---
 
-## 386. Part 15 - Treatment of Udara-roga (12): Biraja rasa
+## Part 15 - Treatment of Udara-roga (12): Biraja rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -239,7 +239,7 @@ This concludes ‘Treatment of Udara-roga (12): Biraja rasa’ included in Bhude
 
 ---
 
-## 387. Part 17 - Treatment of Udara-roga (14): Surechana rasa
+## Part 17 - Treatment of Udara-roga (14): Surechana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -257,7 +257,7 @@ This concludes ‘Treatment of Udara-roga (14): Surechana rasa’ included in Bh
 
 ---
 
-## 388. Part 16 - Treatment of Udara-roga (13): Vinoda-vidyadhara rasa
+## Part 16 - Treatment of Udara-roga (13): Vinoda-vidyadhara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -275,7 +275,7 @@ This concludes ‘Treatment of Udara-roga (13): Vinoda-vidyadhara rasa’ includ
 
 ---
 
-## 389. Part 18 - Treatment of Udara-roga (15): Udaraghna rasa
+## Part 18 - Treatment of Udara-roga (15): Udaraghna rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -293,7 +293,7 @@ This concludes ‘Treatment of Udara-roga (15): Udaraghna rasa’ included in Bh
 
 ---
 
-## 390. Part 20 - Treatment of Udara-roga (17): Trailokya-ranjana rasa
+## Part 20 - Treatment of Udara-roga (17): Trailokya-ranjana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -313,7 +313,7 @@ This concludes ‘Treatment of Udara-roga (17): Trailokya-ranjana rasa’ includ
 
 ---
 
-## 391. Part 21 - Treatment of Udara-roga (18): Mahanala rasa
+## Part 21 - Treatment of Udara-roga (18): Mahanala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -333,8 +333,6 @@ This concludes ‘Treatment of Udara-roga (18): Mahanala rasa’ included in Bhu
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -342,10 +340,6 @@ This concludes ‘Treatment of Udara-roga (18): Mahanala rasa’ included in Bhu
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Udara-roga (16): Mrityu-nirodha rasa: Rasa Jala Nidhi Volume 4 Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

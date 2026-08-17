@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Technical terms used in the treatise within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 72. Chapter LXV - The Technical terms used in the treatise
+## Chapter LXV - The Technical terms used in the treatise
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -27,67 +27,7 @@ Now we shall discourse on the chapter which deals with the technical terms used 
 
 There are thirty-two technical terms in this Treatise. They are—
 
-Adhikarana,
-
-Yoga,
-
-Padartha,
-
-Hetvartha,
-
-Uddesha,
-
-Nirdesha,
-
-Upadesha,
-
-Apadesha,
-
-Pradesha,
-
-Atidesha,
-
-Apavarga,
-
-Vakya-shesha,
-
-Arthapatti,
-
-Viparyaya,
-
-Prasanga,
-
-Ekanta,
-
-Anekanta,
-
-Purva-paksha,
-
-Nirnaya,
-
-Anumata,
-
-Vidhana,
-
-Anagata-vekshana,
-
-Atikranta-vekshana,
-
-Samshaya,
-
-Vyakhyana,
-
-Sva-samjna,
-
-Nirvacana,
-
-Nidarshana,
-
-Niyoga,
-
-Samuccaya,
-
-Vikalpa,
+Adhikarana,, Yoga,, Padartha,, Hetvartha,, Uddesha,, Nirdesha,, Upadesha,, Apadesha,, Pradesha,, Atidesha,, Apavarga,, Vakya-shesha,, Arthapatti,, Viparyaya,, Prasanga,, Ekanta,, Anekanta,, Purva-paksha,, Nirnaya,, Anumata,, Vidhana,, Anagata-vekshana,, Atikranta-vekshana,, Samshaya,, Vyakhyana,, Sva-samjna,, Nirvacana,, Nidarshana,, Niyoga,, Samuccaya,, Vikalpa,
 
 and Uhya. 2.
 
@@ -183,17 +123,21 @@ Here have been fully described by me the thirty-two technical terms for the inve
 
 Thus ends the sixty-fifth chapter of the Uttara-Tantra in the Sushruta-Samhita which deals with the technical terms used in this work
 
-[1]:
 
-The common example of an Arthāpatti (presumption) in Sanskrit philosophy is ‘Pino Devadatto divā na bhumkte,’ (i.e., Fat Devadatta does not eat at day-time), from which it is evident that he certainly eats at night, otherwise he could not have become fat.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The common example of an Arthāpatti (presumption) in Sanskrit philosophy is ‘Pino Devadatto divā na bhumkte,’ (i.e., Fat Devadatta does not eat at day-time), from which it is evident that he certainly eats at night, otherwise he could not have become fat.
+</blockquote>
 
-[2]:
 
-Udāharana has been recognised here as a technical term. But it should not have been recognised as such, since it has not been included in the list (see para 2). Had it been so, the number would have been 33 and not 32. Dallana prefers to regard the portion “yathoṣṇabhayāt” etc. as an interpolation and adding a “va” after the sentence “loke prathitamudāharaṇam” takes if in continuation of the example of “khasaṃjñā” in the previous para. His meaning is that the word “mithuna” being not found in the sense referred to in para. 30, the reader is asked to find out a popular example.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Udāharana has been recognised here as a technical term. But it should not have been recognised as such, since it has not been included in the list (see para 2). Had it been so, the number would have been 33 and not 32. Dallana prefers to regard the portion “yathoṣṇabhayāt” etc. as an interpolation and adding a “va” after the sentence “loke prathitamudāharaṇam” takes if in continuation of the example of “khasaṃjñā” in the previous para. His meaning is that the word “mithuna” being not found in the sense referred to in para. 30, the reader is asked to find out a popular example.
+</blockquote>
 
 ---
 
-## 73. Chapter LXVI - The different Modifications of the different Doshas
+## Chapter LXVI - The different Modifications of the different Doshas
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -229,17 +173,19 @@ Here ends the Uttara-Tantra.
 
 THE END
 
-[1]:
 
-The reference is to chapter LXIII, but there the number is sixty-three and not sixty-two. The three Dhātus Vāyu, Pitta and Kapha, in their normal state, cannot properly be called Doshas. The state in which all the three Dhātus are in their normal state, is said to be the 63 rd. combination (see also para. 8 below).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The reference is to chapter LXIII, but there the number is sixty-three and not sixty-two. The three Dhātus Vāyu, Pitta and Kapha, in their normal state, cannot properly be called Doshas. The state in which all the three Dhātus are in their normal state, is said to be the 63 rd. combination (see also para. 8 below).
+</blockquote>
 
-[2]:
 
-The sixteen sub-strata are the five elementary principles, (viz. —Earth, Water, Fire, Air and Ether) and the eleven sense-organs.
+
+
+<div className="footnote-card"><strong>[2]</strong> The sixteen sub-strata are the five elementary principles, (viz. —Earth, Water, Fire, Air and Ether) and the eleven sense-organs.</div>
 
 ---
 
-## 74. Chapter XXXVII - Origin of nine Grahas
+## Chapter XXXVII - Origin of nine Grahas
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -271,13 +217,10 @@ Thus the Grahas came into being and began to attack the children (of iniquitious
 
 Thus ends the thirty-seventh chapter of the Uttara Tantra in the Sushruta Samhita which deals with the origin of the Grahas.
 
-[1]:
 
-Exchange or reciprocity of services underlies the foundation of all distinct and cognitive existences, whether beasts, men or gods. The worlds are linked to one another by bonds of service. Give-and-take is the law of the universe. Duty implies obligation.
+<div className="footnote-card"><strong>[1]</strong> Exchange or reciprocity of services underlies the foundation of all distinct and cognitive existences, whether beasts, men or gods. The worlds are linked to one another by bonds of service. Give-and-take is the law of the universe. Duty implies obligation.</div>
 
 ---
-
-
 
 ---
 
@@ -286,10 +229,6 @@ Exchange or reciprocity of services underlies the foundation of all distinct and
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

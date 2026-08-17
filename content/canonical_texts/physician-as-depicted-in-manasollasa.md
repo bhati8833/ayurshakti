@@ -13,124 +13,122 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Physician As Depicted In Manasollasa Chapter 1](/articles/physician-as-depicted-in-manasollasa-ch1)
+### [General Discourse: Physician As Depicted In Manasollasa Chapter 1](/articles/physician-as-depicted-in-manasollasa-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Physician As Depicted In Manasollasa.
 
-### 2. [Significance of Manasollasa and its relevance today: Physician As Depicted In Manasollasa Chapter 2](/articles/physician-as-depicted-in-manasollasa-ch2)
+### [Significance of Manasollasa and its relevance today: Physician As Depicted In Manasollasa Chapter 2](/articles/physician-as-depicted-in-manasollasa-ch2)
 **Overview**: Detailed classical discussion on Significance of Manasollasa and its relevance today within Physician As Depicted In Manasollasa.
 
-### 3. [Ancient treatises on Indian medicine: Physician As Depicted In Manasollasa Chapter 3](/articles/physician-as-depicted-in-manasollasa-ch3)
+### [Ancient treatises on Indian medicine: Physician As Depicted In Manasollasa Chapter 3](/articles/physician-as-depicted-in-manasollasa-ch3)
 **Overview**: Detailed classical discussion on Ancient treatises on Indian medicine within Physician As Depicted In Manasollasa.
 
-### 4. [a - Basic concepts of Ayurveda (as explained in Manasollasa): Physician As Depicted In Manasollasa Chapter 4](/articles/physician-as-depicted-in-manasollasa-ch4)
+### [a - Basic concepts of Ayurveda (as explained in Manasollasa): Physician As Depicted In Manasollasa Chapter 4](/articles/physician-as-depicted-in-manasollasa-ch4)
 **Overview**: Detailed classical discussion on a - Basic concepts of Ayurveda (as explained in Manasollasa) within Physician As Depicted In Manasollasa.
 
-### 5. [1. Ancient Indian Medicine: Ayurveda's Foundations and Evolution: Physician As Depicted In Manasollasa Chapter 5](/articles/physician-as-depicted-in-manasollasa-ch5)
+### [1. Ancient Indian Medicine: Ayurveda's Foundations and Evolution: Physician As Depicted In Manasollasa Chapter 5](/articles/physician-as-depicted-in-manasollasa-ch5)
 **Overview**: Detailed classical discussion on 1. Ancient Indian Medicine: Ayurveda's Foundations and Evolution within Physician As Depicted In Manasollasa.
 
-### 6. [Importance of Physician in society: Physician As Depicted In Manasollasa Chapter 6](/articles/physician-as-depicted-in-manasollasa-ch6)
+### [Importance of Physician in society: Physician As Depicted In Manasollasa Chapter 6](/articles/physician-as-depicted-in-manasollasa-ch6)
 **Overview**: Detailed classical discussion on Importance of Physician in society within Physician As Depicted In Manasollasa.
 
-### 7. [b - Sapta Dhatus (the seven dhatus): Physician As Depicted In Manasollasa Chapter 7](/articles/physician-as-depicted-in-manasollasa-ch7)
+### [b - Sapta Dhatus (the seven dhatus): Physician As Depicted In Manasollasa Chapter 7](/articles/physician-as-depicted-in-manasollasa-ch7)
 **Overview**: Detailed classical discussion on b - Sapta Dhatus (the seven dhatus) within Physician As Depicted In Manasollasa.
 
-### 8. [2. Description of Diseases: Physician As Depicted In Manasollasa Chapter 8](/articles/physician-as-depicted-in-manasollasa-ch8)
+### [2. Description of Diseases: Physician As Depicted In Manasollasa Chapter 8](/articles/physician-as-depicted-in-manasollasa-ch8)
 **Overview**: Detailed classical discussion on 2. Description of Diseases within Physician As Depicted In Manasollasa.
 
-### 9. [3. Description of Jvara or Fever: Physician As Depicted In Manasollasa Chapter 9](/articles/physician-as-depicted-in-manasollasa-ch9)
+### [3. Description of Jvara or Fever: Physician As Depicted In Manasollasa Chapter 9](/articles/physician-as-depicted-in-manasollasa-ch9)
 **Overview**: Detailed classical discussion on 3. Description of Jvara or Fever within Physician As Depicted In Manasollasa.
 
-### 10. [2. Creation of the Universe (according to Ayurveda): Physician As Depicted In Manasollasa Chapter 10](/articles/physician-as-depicted-in-manasollasa-ch10)
+### [2. Creation of the Universe (according to Ayurveda): Physician As Depicted In Manasollasa Chapter 10](/articles/physician-as-depicted-in-manasollasa-ch10)
 **Overview**: Detailed classical discussion on 2. Creation of the Universe (according to Ayurveda) within Physician As Depicted In Manasollasa.
 
-### 11. [4. Nidana-pancaka (Pathology or Investigation of Diseases): Physician As Depicted In Manasollasa Chapter 11](/articles/physician-as-depicted-in-manasollasa-ch11)
+### [4. Nidana-pancaka (Pathology or Investigation of Diseases): Physician As Depicted In Manasollasa Chapter 11](/articles/physician-as-depicted-in-manasollasa-ch11)
 **Overview**: Detailed classical discussion on 4. Nidana-pancaka (Pathology or Investigation of Diseases) within Physician As Depicted In Manasollasa.
 
-### 12. [5. Ayurvedic treatment: Physician As Depicted In Manasollasa Chapter 12](/articles/physician-as-depicted-in-manasollasa-ch12)
+### [5. Ayurvedic treatment: Physician As Depicted In Manasollasa Chapter 12](/articles/physician-as-depicted-in-manasollasa-ch12)
 **Overview**: Detailed classical discussion on 5. Ayurvedic treatment within Physician As Depicted In Manasollasa.
 
-### 13. [5. Dinacarya (timetable for the healthy person): Physician As Depicted In Manasollasa Chapter 13](/articles/physician-as-depicted-in-manasollasa-ch13)
+### [5. Dinacarya (timetable for the healthy person): Physician As Depicted In Manasollasa Chapter 13](/articles/physician-as-depicted-in-manasollasa-ch13)
 **Overview**: Detailed classical discussion on 5. Dinacarya (timetable for the healthy person) within Physician As Depicted In Manasollasa.
 
-### 14. [3. The concept of Dravy and Tridosha: Physician As Depicted In Manasollasa Chapter 14](/articles/physician-as-depicted-in-manasollasa-ch14)
+### [3. The concept of Dravy and Tridosha: Physician As Depicted In Manasollasa Chapter 14](/articles/physician-as-depicted-in-manasollasa-ch14)
 **Overview**: Detailed classical discussion on 3. The concept of Dravy and Tridosha within Physician As Depicted In Manasollasa.
 
-### 15. [6. Code of General Ethics: Physician As Depicted In Manasollasa Chapter 15](/articles/physician-as-depicted-in-manasollasa-ch15)
+### [6. Code of General Ethics: Physician As Depicted In Manasollasa Chapter 15](/articles/physician-as-depicted-in-manasollasa-ch15)
 **Overview**: Detailed classical discussion on 6. Code of General Ethics within Physician As Depicted In Manasollasa.
 
-### 16. [6. Clinical examination in Ayurveda: Physician As Depicted In Manasollasa Chapter 16](/articles/physician-as-depicted-in-manasollasa-ch16)
+### [6. Clinical examination in Ayurveda: Physician As Depicted In Manasollasa Chapter 16](/articles/physician-as-depicted-in-manasollasa-ch16)
 **Overview**: Detailed classical discussion on 6. Clinical examination in Ayurveda within Physician As Depicted In Manasollasa.
 
-### 17. [4. Environmental factors and the body’s capacity for resistance: Physician As Depicted In Manasollasa Chapter 17](/articles/physician-as-depicted-in-manasollasa-ch17)
+### [4. Environmental factors and the body’s capacity for resistance: Physician As Depicted In Manasollasa Chapter 17](/articles/physician-as-depicted-in-manasollasa-ch17)
 **Overview**: Detailed classical discussion on 4. Environmental factors and the body’s capacity for resistance within Physician As Depicted In Manasollasa.
 
-### 18. [7. General Conduct and Suitable Friends: Physician As Depicted In Manasollasa Chapter 18](/articles/physician-as-depicted-in-manasollasa-ch18)
+### [7. General Conduct and Suitable Friends: Physician As Depicted In Manasollasa Chapter 18](/articles/physician-as-depicted-in-manasollasa-ch18)
 **Overview**: Detailed classical discussion on 7. General Conduct and Suitable Friends within Physician As Depicted In Manasollasa.
 
-### 19. [8. Three phases of Dosasthana: Physician As Depicted In Manasollasa Chapter 19](/articles/physician-as-depicted-in-manasollasa-ch19)
+### [8. Three phases of Dosasthana: Physician As Depicted In Manasollasa Chapter 19](/articles/physician-as-depicted-in-manasollasa-ch19)
 **Overview**: Detailed classical discussion on 8. Three phases of Dosasthana within Physician As Depicted In Manasollasa.
 
-### 20. [9. Surgery in Ayurveda: Physician As Depicted In Manasollasa Chapter 20](/articles/physician-as-depicted-in-manasollasa-ch20)
+### [9. Surgery in Ayurveda: Physician As Depicted In Manasollasa Chapter 20](/articles/physician-as-depicted-in-manasollasa-ch20)
 **Overview**: Detailed classical discussion on 9. Surgery in Ayurveda within Physician As Depicted In Manasollasa.
 
-### 21. [7. Salient features of Pancamahabhutas: Physician As Depicted In Manasollasa Chapter 21](/articles/physician-as-depicted-in-manasollasa-ch21)
+### [7. Salient features of Pancamahabhutas: Physician As Depicted In Manasollasa Chapter 21](/articles/physician-as-depicted-in-manasollasa-ch21)
 **Overview**: Detailed classical discussion on 7. Salient features of Pancamahabhutas within Physician As Depicted In Manasollasa.
 
-### 22. [8. Ratricarya (conduct during night): Physician As Depicted In Manasollasa Chapter 22](/articles/physician-as-depicted-in-manasollasa-ch22)
+### [8. Ratricarya (conduct during night): Physician As Depicted In Manasollasa Chapter 22](/articles/physician-as-depicted-in-manasollasa-ch22)
 **Overview**: Detailed classical discussion on 8. Ratricarya (conduct during night) within Physician As Depicted In Manasollasa.
 
-### 23. [11. Ecological conditions in Ayurveda: Physician As Depicted In Manasollasa Chapter 23](/articles/physician-as-depicted-in-manasollasa-ch23)
+### [11. Ecological conditions in Ayurveda: Physician As Depicted In Manasollasa Chapter 23](/articles/physician-as-depicted-in-manasollasa-ch23)
 **Overview**: Detailed classical discussion on 11. Ecological conditions in Ayurveda within Physician As Depicted In Manasollasa.
 
-### 24. [The Environment in Manasollasa: Physician As Depicted In Manasollasa Chapter 24](/articles/physician-as-depicted-in-manasollasa-ch24)
+### [The Environment in Manasollasa: Physician As Depicted In Manasollasa Chapter 24](/articles/physician-as-depicted-in-manasollasa-ch24)
 **Overview**: Detailed classical discussion on The Environment in Manasollasa within Physician As Depicted In Manasollasa.
 
-### 25. [9. Ritucarya (conduct during different seasons): Physician As Depicted In Manasollasa Chapter 25](/articles/physician-as-depicted-in-manasollasa-ch25)
+### [9. Ritucarya (conduct during different seasons): Physician As Depicted In Manasollasa Chapter 25](/articles/physician-as-depicted-in-manasollasa-ch25)
 **Overview**: Detailed classical discussion on 9. Ritucarya (conduct during different seasons) within Physician As Depicted In Manasollasa.
 
-### 26. [10. Span of Life in Ayurveda: Physician As Depicted In Manasollasa Chapter 26](/articles/physician-as-depicted-in-manasollasa-ch26)
+### [10. Span of Life in Ayurveda: Physician As Depicted In Manasollasa Chapter 26](/articles/physician-as-depicted-in-manasollasa-ch26)
 **Overview**: Detailed classical discussion on 10. Span of Life in Ayurveda within Physician As Depicted In Manasollasa.
 
-### 27. [Restoring normal physical and mental health: Physician As Depicted In Manasollasa Chapter 27](/articles/physician-as-depicted-in-manasollasa-ch27)
+### [Restoring normal physical and mental health: Physician As Depicted In Manasollasa Chapter 27](/articles/physician-as-depicted-in-manasollasa-ch27)
 **Overview**: Detailed classical discussion on Restoring normal physical and mental health within Physician As Depicted In Manasollasa.
 
-### 28. [2. The concept of Rasa (direct action of a drug): Physician As Depicted In Manasollasa Chapter 28](/articles/physician-as-depicted-in-manasollasa-ch28)
+### [2. The concept of Rasa (direct action of a drug): Physician As Depicted In Manasollasa Chapter 28](/articles/physician-as-depicted-in-manasollasa-ch28)
 **Overview**: Detailed classical discussion on 2. The concept of Rasa (direct action of a drug) within Physician As Depicted In Manasollasa.
 
-### 29. [6. Examination of Patients: Physician As Depicted In Manasollasa Chapter 29](/articles/physician-as-depicted-in-manasollasa-ch29)
+### [6. Examination of Patients: Physician As Depicted In Manasollasa Chapter 29](/articles/physician-as-depicted-in-manasollasa-ch29)
 **Overview**: Detailed classical discussion on 6. Examination of Patients within Physician As Depicted In Manasollasa.
 
-### 30. [3. Quantity of food and digestion: Physician As Depicted In Manasollasa Chapter 30](/articles/physician-as-depicted-in-manasollasa-ch30)
+### [3. Quantity of food and digestion: Physician As Depicted In Manasollasa Chapter 30](/articles/physician-as-depicted-in-manasollasa-ch30)
 **Overview**: Detailed classical discussion on 3. Quantity of food and digestion within Physician As Depicted In Manasollasa.
 
-### 31. [5. Characteristics of pseudo and feigned Physicians: Physician As Depicted In Manasollasa Chapter 31](/articles/physician-as-depicted-in-manasollasa-ch31)
+### [5. Characteristics of pseudo and feigned Physicians: Physician As Depicted In Manasollasa Chapter 31](/articles/physician-as-depicted-in-manasollasa-ch31)
 **Overview**: Detailed classical discussion on 5. Characteristics of pseudo and feigned Physicians within Physician As Depicted In Manasollasa.
 
-### 32. [7. Examination of Diseases: Physician As Depicted In Manasollasa Chapter 32](/articles/physician-as-depicted-in-manasollasa-ch32)
+### [7. Examination of Diseases: Physician As Depicted In Manasollasa Chapter 32](/articles/physician-as-depicted-in-manasollasa-ch32)
 **Overview**: Detailed classical discussion on 7. Examination of Diseases within Physician As Depicted In Manasollasa.
 
-### 33. [4. Qualities of Physicians (in Ayurveda and Manasollasa): Physician As Depicted In Manasollasa Chapter 33](/articles/physician-as-depicted-in-manasollasa-ch33)
+### [4. Qualities of Physicians (in Ayurveda and Manasollasa): Physician As Depicted In Manasollasa Chapter 33](/articles/physician-as-depicted-in-manasollasa-ch33)
 **Overview**: Detailed classical discussion on 4. Qualities of Physicians (in Ayurveda and Manasollasa) within Physician As Depicted In Manasollasa.
 
-### 34. [8. Food and Diet (in Ayurveda and Manasollasa): Physician As Depicted In Manasollasa Chapter 34](/articles/physician-as-depicted-in-manasollasa-ch34)
+### [8. Food and Diet (in Ayurveda and Manasollasa): Physician As Depicted In Manasollasa Chapter 34](/articles/physician-as-depicted-in-manasollasa-ch34)
 **Overview**: Detailed classical discussion on 8. Food and Diet (in Ayurveda and Manasollasa) within Physician As Depicted In Manasollasa.
 
-### 35. [Selected Bibliography: Physician As Depicted In Manasollasa Chapter 35](/articles/physician-as-depicted-in-manasollasa-ch35)
+### [Selected Bibliography: Physician As Depicted In Manasollasa Chapter 35](/articles/physician-as-depicted-in-manasollasa-ch35)
 **Overview**: Detailed classical discussion on Selected Bibliography within Physician As Depicted In Manasollasa.
 
-### 36. [Conclusion: Physician As Depicted In Manasollasa Chapter 36](/articles/physician-as-depicted-in-manasollasa-ch36)
+### [Conclusion: Physician As Depicted In Manasollasa Chapter 36](/articles/physician-as-depicted-in-manasollasa-ch36)
 **Overview**: Detailed classical discussion on Conclusion within Physician As Depicted In Manasollasa.
 
-### 37. [Appendix: Glossary of Selected Sanskrit Words: Physician As Depicted In Manasollasa Chapter 37](/articles/physician-as-depicted-in-manasollasa-ch37)
+### [Appendix: Glossary of Selected Sanskrit Words: Physician As Depicted In Manasollasa Chapter 37](/articles/physician-as-depicted-in-manasollasa-ch37)
 **Overview**: Detailed classical discussion on Appendix: Glossary of Selected Sanskrit Words within Physician As Depicted In Manasollasa.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Acknowledgement
+## Acknowledgement
 
 Physician as depicted in Manasollasa
 
@@ -142,7 +140,7 @@ In the completion of the present thesis I always got encouragement from my guide
 
 ---
 
-## 2. Preface
+## Preface
 
 Physician as depicted in Manasollasa
 
@@ -158,7 +156,7 @@ quoted in the text of the thesis as found in the edition of Manasollasa, publish
 
 ---
 
-## 11. 1. Introduction (the concept of environment in Ayurveda)
+## 1. Introduction (the concept of environment in Ayurveda)
 
 Physician as depicted in Manasollasa
 
@@ -182,7 +180,7 @@ Right from Vedic times, though scholars have been thinking in their own way, it 
 
 ---
 
-## 30. 1. Introduction (rectifying the imbalance of dosas)
+## 1. Introduction (rectifying the imbalance of dosas)
 
 Physician as depicted in Manasollasa
 

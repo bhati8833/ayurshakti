@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Description of the Sushruta Samhita within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 58. 5. Description of the Sushruta Samhita
+## 5. Description of the Sushruta Samhita
 
 Surgery in ancient India (Study)
 
@@ -27,7 +27,7 @@ instantaneous effects by means by means of surgical instruments and appliances. 
 
 ---
 
-## 59. 9. Anatomy as enumerated by Sushruta
+## 9. Anatomy as enumerated by Sushruta
 
 Surgery in ancient India (Study)
 
@@ -41,7 +41,7 @@ This description of the body is known as 'anatomy' in the 39 present times. Susr
 
 ---
 
-## 60. 7. Surgical procedures of Sushruta
+## 7. Surgical procedures of Sushruta
 
 Surgery in ancient India (Study)
 
@@ -59,8 +59,6 @@ enemy, which in fights used to be lodged in the body of the soldiers. He emphasi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -68,10 +66,6 @@ enemy, which in fights used to be lodged in the body of the soldiers. He emphasi
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">6. Contents of the Sushruta Samhita: Ancient Indian Surgical Science Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

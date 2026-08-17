@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Medical Treatment of Ear-disease within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. Chapter XXI - Medical Treatment of Ear-disease
+## Chapter XXI - Medical Treatment of Ear-disease
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -117,69 +117,104 @@ Remedies and remedial measures described in connection with Pittaja Visarpa[15] 
 
 Thus ends the twenty-first chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the treatment of the diseases peculiar to the ear.
 
-[1]:
 
-In place of “Rasāyana” (use of tonic) some read “Rasāśanam” (use of meat-soup with meal).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> In place of “Rasāyana” (use of tonic) some read “Rasāśanam” (use of meat-soup with meal).
+</blockquote>
 
-[2]:
 
-“Mastu” (curd-cream) is mentioned neither by Vrinda nor by Cakrapāni. According to Videha’s recipe, clarified butter should be used in place of oil in cases of the aggravation of the Pitta.)
 
-[3]:
 
-For “Valā-Taila”—See chapter XV, Chikitsita Sthāna.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “Mastu” (curd-cream) is mentioned neither by Vrinda nor by Cakrapāni. According to Videha’s recipe, clarified butter should be used in place of oil in cases of the aggravation of the Pitta.)
+</blockquote>
 
-[4]:
 
-The liquid acids here are Dadhi, Takra, Surā, Chukra (a kind of Kānjika) and the expressed juice of Mātulunga.
 
-[5]:
 
-Both Vrinda and Cakrapāni read “Taila” (oil) in place of “Sarpih” (clarified butter). But we have the authority of Videha (as quoted by Śrikantha Datta in his commentary on Vrinda) in favour of clarified butter.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> For “Valā-Taila”—See chapter XV, Chikitsita Sthāna.
+</blockquote>
 
-[6]:
 
-Clarified butter should first be cooked with the urine of a ewe and then with that of a she-goat.—Dallana.
 
-[7]:
 
-Dallana says that Jejjatācārya holds these two recipes as unauthoritative.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The liquid acids here are Dadhi, Takra, Surā, Chukra (a kind of Kānjika) and the expressed juice of Mātulunga.
+</blockquote>
 
-[8]:
 
-In place of “Vilvāmbu-gādham” some read “Vimbi-gādham”, i e., mixed with an abundant quantity of powdered Vimbi fruit.—Dallana.
 
-[9]:
 
-Chap. XXIV, Uttara-Tantra.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Both Vrinda and Cakrapāni read “Taila” (oil) in place of “Sarpih” (clarified butter). But we have the authority of Videha (as quoted by Śrikantha Datta in his commentary on Vrinda) in favour of clarified butter.
+</blockquote>
 
-[10]:
 
-Chapter V and VI, Chikitsita-Sthāna.
 
-[11]:
 
-According to some, “Panca-Kashāya” means the barks of Āragbadha, Śirisha, Jambu, Sarja and of Asvamāra (Palāśa), but Dallana, on the authority of the authors of the Tikā and the Panjikā, (the two commentaries) refutes this and holds that “Panca-kashāya” means the barks of T induka, Abhayā, Lodhra, Samangā and of Āmalaka enumerated below in this chapter.
+<div className="footnote-card"><strong>[6]</strong> Clarified butter should first be cooked with the urine of a ewe and then with that of a she-goat.—Dallana.</div>
 
-[12]:
 
-Śrikantha Datta in his commentary on Vrinda quotes this couplet, but does not read ‘honey’ there. He reads “tathā” in place of “madhu” |
 
-[13]:
 
-Dallana explains this to mean fumigation of the affected organ, as well as the use of the same in the manner of smoking.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Dallana says that Jejjatācārya holds these two recipes as unauthoritative.
+</blockquote>
 
-[14]:
 
-The use of oil is also recommended in cases of abscess in the ear. In cases of acute and painful Vātaja Vidradhi sesamum oil should be used, whereas in cases of Kaphaja Vidradhi the use of mustard oil is recommended.—Dallana.
 
-[15]:
 
-In place of ‘Pittaja-Visarpa’, both Vrinda and Chakradatta read ‘Kshataja-Visarpa’.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> In place of “Vilvāmbu-gādham” some read “Vimbi-gādham”, i e., mixed with an abundant quantity of powdered Vimbi fruit.—Dallana.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Chap. XXIV, Uttara-Tantra.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Chapter V and VI, Chikitsita-Sthāna.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> According to some, “Panca-Kashāya” means the barks of Āragbadha, Śirisha, Jambu, Sarja and of Asvamāra (Palāśa), but Dallana, on the authority of the authors of the Tikā and the Panjikā, (the two commentaries) refutes this and holds that “Panca-kashāya” means the barks of T induka, Abhayā, Lodhra, Samangā and of Āmalaka enumerated below in this chapter.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Śrikantha Datta in his commentary on Vrinda quotes this couplet, but does not read ‘honey’ there. He reads “tathā” in place of “madhu” |
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Dallana explains this to mean fumigation of the affected organ, as well as the use of the same in the manner of smoking.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> The use of oil is also recommended in cases of abscess in the ear. In cases of acute and painful Vātaja Vidradhi sesamum oil should be used, whereas in cases of Kaphaja Vidradhi the use of mustard oil is recommended.—Dallana.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> In place of ‘Pittaja-Visarpa’, both Vrinda and Chakradatta read ‘Kshataja-Visarpa’.</div>
 
 ---
 
-## 25. Chapter XXIV - Symptoms and treatment of Catarrh
+## Chapter XXIV - Symptoms and treatment of Catarrh
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -265,49 +300,73 @@ All the foregoing preparations should be surcharged with the urine and bile of a
 
 Thus ends the twenty-fourth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) medical treatment of Pratishyaya.
 
-[1]:
 
-In place of “bhavedguru śiromukhaḥ”’—some read “bhavedguruśiro naraḥ”—i.e., “the man (patient) gets heaviness of the head.” In this case the flabbiness of the face is not seperately mentioned.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> In place of “bhavedguru śiromukhaḥ”’—some read “bhavedguruśiro naraḥ”—i.e., “the man (patient) gets heaviness of the head.” In this case the flabbiness of the face is not seperately mentioned.
+</blockquote>
 
-[2]:
 
-According to some this is the characteristic symptom of another kind of Pratiśyāya, and not one of the symptoms of the Raktaja type as appears at the first sight.
 
-[3]:
 
-Mādhava Kar reads ‘śvetāḥ snegdhāḥ’ i.e., glossy white in hue, in place of ‘śvetāḥ kṛṣṇāḥ’ i.e., whitish and blackish in hue.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> According to some this is the characteristic symptom of another kind of Pratiśyāya, and not one of the symptoms of the Raktaja type as appears at the first sight.
+</blockquote>
 
-[4]:
 
-Some explain “Ārdraka” to mean the expressed juice of fresh ginger, while others explain it to mean the powder of dried ginger.
 
-[5]:
 
-In place of “ikṣuvikārayogaiḥ”—with any modification of the expressed juice of sugar-cane, such as treacle, sugar, etc, some read “kadukopayogaiḥ” i.e., with articles of pungent taste.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Mādhava Kar reads ‘śvetāḥ snegdhāḥ’ i.e., glossy white in hue, in place of ‘śvetāḥ kṛṣṇāḥ’ i.e., whitish and blackish in hue.
+</blockquote>
 
-[6]:
 
-Palānna is generally prepared by cooking together rice, meat and clarified butter as well as other spices, but in this case clarified butter should not be used.
 
-[7]:
 
-Some read ‘tiktaiḥ’ in place of ‘peyam’. This word means that the clarified butter for use in this case should be duly cooked with the tikta (bitter) drugs, viz., the leaves of Patola, etc.
+<div className="footnote-card"><strong>[4]</strong> Some explain “Ārdraka” to mean the expressed juice of fresh ginger, while others explain it to mean the powder of dried ginger.</div>
 
-[8]:
 
-Both the commentators of Vrinda and Chakradatta explain the term śītalena (cold) to mean ‘prepared with the drugs of cold potency such as the drugs of the Nyagrodhādi and Utpalādi groups.’
 
-[9]:
 
-Some say that milk and water in equal parts should be taken.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> In place of “ikṣuvikārayogaiḥ”—with any modification of the expressed juice of sugar-cane, such as treacle, sugar, etc, some read “kadukopayogaiḥ” i.e., with articles of pungent taste.
+</blockquote>
 
-[10]:
 
-In places of “yāpanārtha’ Chakradatta reads “nāvanārthaṃ” as an errhine. He also reads “samūtrapiṣṭāḥṃ” i.e., pasted with the urine (of a cow), and thus does not read the bile of a cow (pitta) in the text. Vrinda, however, reads “dhāvanāni” in place of “yāpanārthaṃ” which means that vermifuges should be used for washing purposes.
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Palānna is generally prepared by cooking together rice, meat and clarified butter as well as other spices, but in this case clarified butter should not be used.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Some read ‘tiktaiḥ’ in place of ‘peyam’. This word means that the clarified butter for use in this case should be duly cooked with the tikta (bitter) drugs, viz., the leaves of Patola, etc.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Both the commentators of Vrinda and Chakradatta explain the term śītalena (cold) to mean ‘prepared with the drugs of cold potency such as the drugs of the Nyagrodhādi and Utpalādi groups.’
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Some say that milk and water in equal parts should be taken.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> In places of “yāpanārtha’ Chakradatta reads “nāvanārthaṃ” as an errhine. He also reads “samūtrapiṣṭāḥṃ” i.e., pasted with the urine (of a cow), and thus does not read the bile of a cow (pitta) in the text. Vrinda, however, reads “dhāvanāni” in place of “yāpanārthaṃ” which means that vermifuges should be used for washing purposes.
+</blockquote>
 
 ---
 
-## 26. Chapter XXIII - Therapeutics of nasal diseases
+## Chapter XXIII - Therapeutics of nasal diseases
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -345,25 +404,31 @@ The use of clarified butter churned out of milk, as well as that of the oil as a
 
 Thus ends the twenty-third chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the treatment of the diseases of the nose.
 
-[1]:
 
-Śivāti may mean either white Punarnavā or Śephālikā. Neither Cakrapāni nor Vrinda reads it in the text.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Śivāti may mean either white Punarnavā or Śephālikā. Neither Cakrapāni nor Vrinda reads it in the text.
+</blockquote>
 
-[2]:
 
-See ch. XLIV of the Uttara-Tantra.
 
-[3]:
 
-See ch. XIV of the Chikitsita-Sthāna.
+<div className="footnote-card"><strong>[2]</strong> See ch. XLIV of the Uttara-Tantra.</div>
 
-[4]:
 
-See ch. XVII of the Chikitsita-Sthāna.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> See ch. XIV of the Chikitsita-Sthāna.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> See ch. XVII of the Chikitsita-Sthāna.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -372,10 +437,6 @@ See ch. XVII of the Chikitsita-Sthāna.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms of diseases of the head: Sushruta Samhita Uttara Tantra Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

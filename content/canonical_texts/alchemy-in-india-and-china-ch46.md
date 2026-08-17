@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Case of purple gold within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 55. 5. Case of purple gold
+## 5. Case of purple gold
 
 Alchemy in India and China
 
@@ -39,8 +39,6 @@ in the medieval period, i.e., at the time when they had the closest and most fre
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -48,10 +46,6 @@ in the medieval period, i.e., at the time when they had the closest and most fre
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch47" className="text-emerald-400 hover:underline flex items-center font-medium">2. Case of making treasure using mercury and a gourd: Alchemy In India And China Chapter 47 →</a>
 </div>
-
-
-
-
 
 ---
 

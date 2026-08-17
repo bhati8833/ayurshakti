@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Sankha Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 34. Study of Sankha Marma
+## Study of Sankha Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -31,7 +31,7 @@ eyeball. If injured the patient loses his consciousness and become blind. He wil
 
 ---
 
-## 35. Study of Apanga Marma
+## Study of Apanga Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -49,7 +49,7 @@ The position of this marma is near the mookadappan marma and if injured the pati
 
 ---
 
-## 36. Study of Sthapani Marma
+## Study of Sthapani Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -69,8 +69,6 @@ kapala sadvyathah panca somantasniyagdhvagah bhramonmada manonai| stesu vidhenu 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ kapala sadvyathah panca somantasniyagdhvagah bhramonmada manonai| stesu vidhenu 
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Shringataka Marma: Marma Sastra and Ayurvedic Science Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

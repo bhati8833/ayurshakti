@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 10. Span of Life in Ayurveda within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 28. 10. Span of Life in Ayurveda
+## 10. Span of Life in Ayurveda
 
 Physician as depicted in Manasollasa
 
@@ -35,8 +35,6 @@ The span of life of the individual is divided into four parts. Upto the age of 2
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -44,10 +42,6 @@ The span of life of the individual is divided into four parts. Upto the age of 2
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">Restoring normal physical and mental health: Physician As Depicted In Manasollasa Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

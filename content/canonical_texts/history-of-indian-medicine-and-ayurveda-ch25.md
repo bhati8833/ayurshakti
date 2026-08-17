@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Imbalance Condition (Vaiṣamya) within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 74. Chapter 8 - Imbalance Condition (Vaiṣamya)
+## Chapter 8 - Imbalance Condition (Vaiṣamya)
 
 History of Indian Medicine (and Ayurveda)
 
@@ -164,7 +164,7 @@ That this Imbalance condition due to increase or decrease has greater importance
 
 ---
 
-## 75. Chapter 9a - Vitiation Process (dosha-prakopa)
+## Chapter 9a - Vitiation Process (dosha-prakopa)
 
 History of Indian Medicine (and Ayurveda)
 
@@ -665,7 +665,7 @@ After the complete riddance from morbid matter, the treatment consists in supply
 
 ---
 
-## 76. Chapter 10 - Importance of Knowledge of Constitution of the Body
+## Chapter 10 - Importance of Knowledge of Constitution of the Body
 
 History of Indian Medicine (and Ayurveda)
 
@@ -840,8 +840,6 @@ This parallel which the author applied to the tuberculosis may be generalized fo
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -849,10 +847,6 @@ This parallel which the author applied to the tuberculosis may be generalized fo
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Nosology and the Triumvirate: History Of Indian Medicine And Ayurveda Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

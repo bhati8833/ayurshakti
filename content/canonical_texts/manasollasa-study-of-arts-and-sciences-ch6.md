@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Element of the Treasury (Kosha) within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 14. 2.4. Element of the Treasury (Kosha)
+## 2.4. Element of the Treasury (Kosha)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -35,7 +35,7 @@ Somesvara gives fourth importance to Kosa or treasury of the seven elements. The
 
 ---
 
-## 16. 5. Food and Drinks described in the Manasollasa
+## 5. Food and Drinks described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -53,8 +53,6 @@ There was much cogitation, particularly among the respectable dvija families, wi
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ There was much cogitation, particularly among the respectable dvija families, wi
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">3. Religion during the period of Someshvara III: Manasollasa Study Of Arts And Sciences Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

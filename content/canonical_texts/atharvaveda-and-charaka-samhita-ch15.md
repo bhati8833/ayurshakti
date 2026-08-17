@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of Keśavṛddhi (hair loss and growth) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 78. Treatment of Keśavṛddhi (hair loss and growth)
+## Treatment of Keśavṛddhi (hair loss and growth)
 
 Treatment of Keśavṛddhi (hair loss and growth)
 
@@ -27,40 +27,51 @@ And according to Sāyaṇa—
 
 There is a much-particularised formula for growing hair. Again, in VI.136 Kauśika Sūtra advises the consumption of the fruit of the plant Nitatnī together with Jīvī and Alākā[3]. All these are distilled into a solution and poured upon the head of the person wishing for the growth of hair. The performance is to be undertaken early in the morning by the priest who is clothed in black and has had black food. In a mantra in the Atharvaveda, the soil is used as a herbal product for hair. In the Atharvaveda, Kuṣṭha medicine and Śamī tree is said to be beneficial for hair. Besides, in the Atharvaveda, it has been said that it is beneficial for the hair-like Jīvantī or Pāṭhā medicine, sesame, Bibhīdaka etc. In the Paippalāda Saṃhitā, Kṣetriyanāśanī Vīrudh is said to be beneficial for hair. The Śyāmā and Sarūpaṅkaranī herbs mentioned in the Atharvaveda are also said to be beneficial for blackening hair[4].
 
-[1]:
 
-devī devyāmadhi jātā pṛthivyāmasyoṣadhe |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> devī devyāmadhi jātā pṛthivyāmasyoṣadhe |
 tāṃ tvā nitatni keśebhyo dṛṃhaṇāya khanāmasi || (AV. –VI/136/1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–3, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 679.
+</blockquote>
 
-[2]:
 
-imā yāstisra iti vṛkṣabhūmau jātājvālenāvasiñcati || śīrṣa phāṇṭākṣaiḥ || nikaṭābhyām || (Kauśika Sūtra 30.8-10); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office,2009, p. 71.
 
-[3]:
 
-devi devyāṃ yāṃ jamadagniriti mantroktāphalaṃ jīvyalākābhyāmamāvāsyāyāṃ kṛṣṇavasanaḥ kṛṣṇabhakṣaḥ purā kākasampātādavanakṣatre'vasiñcati || (Kauśika Sūtra-31.28);Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office,2009, p. 75.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> imā yāstisra iti vṛkṣabhūmau jātājvālenāvasiñcati || śīrṣa phāṇṭākṣaiḥ || nikaṭābhyām || (Kauśika Sūtra 30.8-10); Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office,2009, p. 71.
+</blockquote>
 
-[4]:
 
-śyāmā sarūpaṅkaraṇī pṛthivyā ad bhud bhṛtā |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> devi devyāṃ yāṃ jamadagniriti mantroktāphalaṃ jīvyalākābhyāmamāvāsyāyāṃ kṛṣṇavasanaḥ kṛṣṇabhakṣaḥ purā kākasampātādavanakṣatre'vasiñcati || (Kauśika Sūtra-31.28);Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office,2009, p. 75.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> śyāmā sarūpaṅkaraṇī pṛthivyā ad bhud bhṛtā |
 idamū ṣu pra sādhaya punā rūpāṇi kalpaya || (AV. –I/24/4); K. L. Joshi(ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 43.
+</blockquote>
 
 ---
 
-## 79. Treatment of Prameha (diabetes)
+## Treatment of Prameha (diabetes)
 
 Treatment of Prameha (diabetes)
 
 Prameha and Madhumeha are mentioned in the Atharvaveda. Causes of prameha are eating more sweets, sitting in one place for a long time and sleeping irregularly. Prevalence of gonorrhoea and diabetes is excessive sweating, limb relaxation, increased desire for comfort, obesity of the body, dryness in the throat and palate, sweetness in the mouth, irritation in the hands and feet, and ants on the urine[1]. The Atharvaveda, mentions some medicines for relieving this disease, viz —Pippalī, Kṣiptabheṣajī Khadira, Tilvaka, Balā and Śāla etc.
 
-[1]:
 
-pramehā viṃśatistatra śleṣmato daśa, pittataḥ |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> pramehā viṃśatistatra śleṣmato daśa, pittataḥ |
 ṣaṭa, catvāro'nilāt teṣāṃ medomūtrakaphāvaham ||...........(Aṣṭā. H.  –Nidānasthāna-10/1-39); Aṣṭāṅga Hṛdayaṃ of Vāgbhaṭṭa Vol. II, trans. K. R. Srikantha Murthy, Varanasi, Chaukhambha Krishnadas Academy, 2018, p. 92-101.
+</blockquote>
 
 ---
 
-## 80. Treatment of Impotency
+## Treatment of Impotency
 
 Treatment of Impotency
 
@@ -75,23 +86,30 @@ T in Kauśika Sūtra are recited. During the recitation, the plants Ucchuṣmā 
 
 Babhrū is mentioned in the Atharvaveda. It is a semen enhancer and beneficial for the nervous system. Yajurveda and Atharvaveda mention the Nyagrodha or banyan tree. This can be used to treat impotence. Potency and the testosterone-related problem is called dhātu-roga. Atharvaveda prescribed Āñjana is medicine for dhātu-roga. Gonorrhoea is caused by physical intimacy. It causes itching in private parts. The following medication used includes Nyagrodha, Punarṇavā, Bhaṅgā or Gāñjā.
 
-[1]:
 
-śīrṣāmayamupahatyamakṣyostanvorapaḥ |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> śīrṣāmayamupahatyamakṣyostanvorapaḥ |
 kuṣṭhastat sarvaṃ niṣkarad daivaṃ samaha vṛṣṇyam || (AV. –V/4/10); K. L. Joshi (ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 376.
+</blockquote>
 
-[2]:
 
-uduṣā udu sūrya udidaṃ māmakaṃ vacaḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> uduṣā udu sūrya udidaṃ māmakaṃ vacaḥ |
 udejatu prajāpatirvṛṣā śuṣmeṇa vājinā || (AV. –IV/4/2); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–2, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 315.
+</blockquote>
 
-[3]:
 
-yāṃ tvā gandharvo akhanad vṛṣaṇastekhanitāro vṛṣā tvamasyoṣadhe | vṛṣāsi vṛṣṇyāvasi vṛṣaṇe tvā khanāmasītyucchu ṣmāparivyādhāvāyasena khanati || (Kauśika Sūtra-40.14);Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office,2009, p. 97.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> yāṃ tvā gandharvo akhanad vṛṣaṇastekhanitāro vṛṣā tvamasyoṣadhe | vṛṣāsi vṛṣṇyāvasi vṛṣaṇe tvā khanāmasītyucchu ṣmāparivyādhāvāyasena khanati || (Kauśika Sūtra-40.14);Atharvavedīya–Kauśika Gṛhyasūtraṃ (Dārilakeśavayosaṃ-kṣiptaṭīkaya sahitaṃ), trans. Udayanarayana Sinha, Varanasi, Chowkhamba Sanskrit Series office,2009, p. 97.
+</blockquote>
 
 ---
 
-## 81. Treatment of Mental illness
+## Treatment of Mental illness
 
 Treatment of Mental illness
 
@@ -107,62 +125,83 @@ In the Atharvaveda, medicines like Soma etc., are mentioned to remove doṣas li
 
 The Atharvaveda describes the medicine for jealousy or Īrṣā. Medicines for this disease are found near the sea[7]. In the Atharvaveda, species of jealousy–just as fire burns a tree, so jealousy consumes human life. Just as cold-water quenches fire, so jealousy must be quenched by water of corpse judgement. The medicine for jealousy is sea fruit or Sindhu-phala. In Nighaṇṭu Ratnākara, the quality of Sindhu-phala has been mentioned. The Sindhu-phala destroys delusions, jealousy and headaches. In Śāligrāma Nighaṇṭu it is said that this fruit is more in Koṅkaṇadeśa. The Sindhu-phala is like large cardamom, has three edges, and hangs like a rope from a tree.
 
-[1]:
 
-mano brahma | Gopatha Brāhmaṇa–2/11.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> mano brahma | Gopatha Brāhmaṇa–2/11.
 mano vai samrāṭ paramaṃ brahma | Bṛhadāraṇyaka Upaniṣad–4/1/6.
+</blockquote>
 
-[2]:
 
-kālakṛtāḥ pravātanivātātapacchāyājyotsnātamaḥ śītoṣṇavarṣāhorātrapakṣamāsartvayanādayaḥ saṃvatsaraviśeṣāḥ ||
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> kālakṛtāḥ pravātanivātātapacchāyājyotsnātamaḥ śītoṣṇavarṣāhorātrapakṣamāsartvayanādayaḥ saṃvatsaraviśeṣāḥ ||
 ta ete svabhāvata eva doṣāṇāṃ sañcayaprakopapraśamapratīkārahetavaḥ prayojanavantaśca ||
 śarīrāṇāṃ vikārāṇāmeṣa vargaścaturvidhaḥ | prakope praśame caiva heturuktaścikitsakaiḥ || (Suśruta Sūtrasthāna–I/32-34) Suśruta Saṃhitā of Maharṣi Suśruta Vol. I, Anant Ram Sharma (ed.), Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 16-17.
+</blockquote>
 
-[3]:
 
-īrṣyā śokabhayakrodhamānadveṣādayaśca ye |
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> īrṣyā śokabhayakrodhamānadveṣādayaśca ye |
 manovikārāste'pyuktāḥ sarve prajñāparādhajāḥ || (C. Sū. –VII.52); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 159.
+</blockquote>
 
-[4]:
 
-YV.  -34/1-6; Acharya Vedanta Tirtha (ed.), Yajurveda, Delhi, Manoj Publication, 2012, p. 447-448.
 
-[5]:
 
-ayaṃ darbho vimanyukaḥ svāya cāraṇāya ca |
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> YV.  -34/1-6; Acharya Vedanta Tirtha (ed.), Yajurveda, Delhi, Manoj Publication, 2012, p. 447-448.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> ayaṃ darbho vimanyukaḥ svāya cāraṇāya ca |
 manyorvimanyukasyāyaṃ manyuśamana ucyate || (AV. –VI/43/1); K. L. Joshi(ed.), Atharvaveda Saṃhitā–Vol. I, Delhi, Parimal Publication, 2015, p. 517.
+</blockquote>
 
-[6]:
 
-yā oṣadhayaḥ somarājñīrbahvīḥ śatavicakṣaṇāḥ |
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> yā oṣadhayaḥ somarājñīrbahvīḥ śatavicakṣaṇāḥ |
 bṛhaspatiprasūtāstā no muñcantvaṃhasaḥ || (AV. –VI.96.1); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 483.
+</blockquote>
 
-[7]:
 
-tyamū ṣu vājinaṃ devajūtaṃ sahovānaṃ tarutāraṃ rathānām |
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> tyamū ṣu vājinaṃ devajūtaṃ sahovānaṃ tarutāraṃ rathānām |
 ariṣṭanemiṃ pṛtanājimāśuṃ svastaye tārkṣyamihā huvema || (AV. –VII/85/1); K. L. Joshi(ed.), Atharvaveda Saṃhitā–Vol. II, Delhi, Parimal Publication, 2015, p. 102.
+</blockquote>
 
 ---
 
-## 82. Treatment of Dāharoga (burning disease)
+## Treatment of Dāharoga (burning disease)
 
 Treatment of Dāharoga (burning disease)
 
 The Atharvaveda mentions the application of Pūtudru and Cīpudru to alleviate Dāharoga or burning disease[1]. It is also mentioned in the Atharvaveda as Sarakaṇḍā and Śāṇḍadūrvā to soothe the burning sensation. These two medicines are diuretics. These two medicines calm the irritation that occurs when urine is stuck. In the Atharvaveda, there are references to Āśarīka, Aṅgaśūla and Viśarīka diseases. These two diseases are treated by Jaṅgiḍa Maṇi[2]. Arjuna or Jaṅgiḍa bark is applied on limbs, bleeding and fractures.
 
-[1]:
 
-agneḥ śarīramasi pārayiṣṇu rakṣohāsi sapatnahā |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> agneḥ śarīramasi pārayiṣṇu rakṣohāsi sapatnahā |
 atho amīvacātanaḥ pūtadrurnām bheṣajam || (AV. –VIII/2/28); Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, Kolkata, Aksaya Library, 2017, p. 607.
+</blockquote>
 
-[2]:
 
-āśarīkaṃ viśarīkaṃ balāsaṃ pṛṣṭyāmayam |
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> āśarīkaṃ viśarīkaṃ balāsaṃ pṛṣṭyāmayam |
 takmānaṃ viśvaśāradamarasāṃ jaṅgiḍaskarat || (AV. –XIX/34/10); Atharva-Veda-Saṃhitā along With Sāyaṇabhāṣya–Vol.–7, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 269.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -171,10 +210,6 @@ takmānaṃ viśvaśāradamarasāṃ jaṅgiḍaskarat || (AV. –XIX/34/10); At
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of Ulcers: Atharvaveda And Charaka Samhita Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

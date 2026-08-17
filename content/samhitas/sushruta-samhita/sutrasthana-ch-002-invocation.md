@@ -41,15 +41,35 @@ Invocation
 
 Shubhamastu
 
-parīṇaḥ shastrasindhoranupamanarimodgarividyapracaro 
+
+<blockquote className="ayur-shloka">
+parīṇaḥ shastrasindhoranupamanarimodgarividyapracaro
+</blockquote>
+
 durbaudhavyadhitattvavagamananipuṇaḥ praṇadaḥ pīditana | 
 pṛthvīprakhyatakīrttirjayati budhavaro’sheṣavidyavareṇyaḥ 
-shrīman vaidyavataṃso guṇigaṇanikaṣo dvarakanathasenaḥ || 1 || 
+
+<blockquote className="ayur-shloka">
+shrīman vaidyavataṃso guṇigaṇanikaṣo dvarakanathasenaḥ || 1 ||
+</blockquote>
+
 anarataadhyapayañcastraṇyasheṣaṇi hi va?ñciṣyan | 
-alabhata padavīṃ sarthaṃ yo mahamahopadhyayeti || 2 || 
+
+<blockquote className="ayur-shloka">
+alabhata padavīṃ sarthaṃ yo mahamahopadhyayeti || 2 ||
+</blockquote>
+
 ayurvedabdhimadhyadduradhigamatamaduddhṛta yena yatnat 
-tastaḥ siddhantamuktaḥ sakalasubhiṣajaṃ kaṇṭhalagna vibhanti | 
+
+<blockquote className="ayur-shloka">
+tastaḥ siddhantamuktaḥ sakalasubhiṣajaṃ kaṇṭhalagna vibhanti |
+</blockquote>
+
 etamiṃlaṇdabhaṣavyatipariṇamitaṃ saṃhitaṃ sushrutīyaṃ 
+
+<blockquote className="ayur-shloka">
 tasmai bhaktya'vanamro vitarati gurave kuñjalalo hijanma || 3 ||
+</blockquote>
+
 
 ---

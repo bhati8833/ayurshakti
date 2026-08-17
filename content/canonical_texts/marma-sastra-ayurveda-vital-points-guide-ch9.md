@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Krikatika Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 31. Study of Krikatika Marma
+## Study of Krikatika Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -29,7 +29,7 @@ The afflicted person is carefully lifted with his legs, bent and kept together a
 
 ---
 
-## 32. Study of Matruka Marma
+## Study of Matruka Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -47,7 +47,7 @@ As this is a sira marma and causes sudden death, this marma will invariably be b
 
 ---
 
-## 33. Study of Vidhura Marma
+## Study of Vidhura Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -65,8 +65,6 @@ Tamil varma sastra Urakkakalam is the varma which can be correlated with Vidhura
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -74,10 +72,6 @@ Tamil varma sastra Urakkakalam is the varma which can be correlated with Vidhura
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Sankha Marma: Marma Sastra and Ayurvedic Science Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Internal Medicine (d): Fever within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 53. Internal Medicine (d): Fever
+## Internal Medicine (d): Fever
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -72,81 +72,125 @@ In modern medicine, fever (pyrexia) is defined as “an elevation of body temper
 
 Records of feverish illness are found in the Chapters on Medicine. Such illness was treated by various means including consumption of lotus plant parts or objects from ponds; intake of certain diets such as ghee, milk, and even beer; application of scented substances or humour-allaying water; and use of emetic and purgative drugs together with rest and suitable post-treatment nourishment. Āyurveda has more elaborative teachings on this medical condition and the treatments. Modern medicine considers fever as a symptom or sign rather than a disease. It can occur in many diseases or medical conditions. Treatments involve curing the underlying cause and symptomatic relief by means of cooling measures and/or drugs.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 214: “tena kho pana samayena āyasmato Sāriputtassa kāyaḍāhābādho hoti. atha kho āyasmā Mahāmoggallāno yenāyasmā Sāriputto ten’ upasaṅkami, upasaṅkamitvā āyasmantaṃ Sāriputtaṃ etad avoca: pubbe te, āvuso Sāriputta kāyaḍāhābādho kena phāsu hotīti. bhisehi ca me āvuso muḷālikāhi cā’ti.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 214: “tena kho pana samayena āyasmato Sāriputtassa kāyaḍāhābādho hoti. atha kho āyasmā Mahāmoggallāno yenāyasmā Sāriputto ten’ upasaṅkami, upasaṅkamitvā āyasmantaṃ Sāriputtaṃ etad avoca: pubbe te, āvuso Sāriputta kāyaḍāhābādho kena phāsu hotīti. bhisehi ca me āvuso muḷālikāhi cā’ti.”
+</blockquote>
 
-[2]:
 
-The exact substance for kālānusārya is not certain, as discussed in footnote 130 of Chapter Four.
 
-[3]:
 
-Taishō Tripiṭaka 1428. 870c10-13: “爾時有比丘患身熱，醫教用栴檀，為差病故。比丘白佛，佛言：「聽用。」若沈水、若栴檀、畢陵祇伽羅[少/兔]婆羅，佛言：「聽用塗身。」”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The exact substance for kālānusārya is not certain, as discussed in footnote 130 of Chapter Four.
+</blockquote>
 
-[4]:
 
-Taishō Tripiṭaka 1421. 147b14-17: “有一比丘得熱病應服酥，諸比丘為乞不得，而得乳。以是白佛，佛言：「應使淨人作酥，煎令熟，作無食氣，受七日服。」”
 
-[5]:
 
-Taishō Tripiṭaka 1421. 147b20-24: “有一比丘得熱病應服石蜜，諸比丘為乞不得，而得甘蔗。以是白佛，佛
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1428. 870c10-13: “爾時有比丘患身熱，醫教用栴檀，為差病故。比丘白佛，佛言：「聽用。」若沈水、若栴檀、畢陵祇伽羅[少/兔]婆羅，佛言：「聽用塗身。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1421. 147b14-17: “有一比丘得熱病應服酥，諸比丘為乞不得，而得乳。以是白佛，佛言：「應使淨人作酥，煎令熟，作無食氣，受七日服。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1421. 147b20-24: “有一比丘得熱病應服石蜜，諸比丘為乞不得，而得甘蔗。以是白佛，佛
+</blockquote>
+
+
 
 言：「應使淨人作石蜜，作無食氣，受七日服。」諸比丘不知幾時應熟。以是白佛，佛言：
 
 「以杓舉瀉，相續不斷為熟。」”
 
-[6]:
 
-Taishō Tripiṭaka 1421. 147c13-15: “有比丘得時行熱病，佛言：「應服吐下藥，消息，節量食，隨病食。」”
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Taishō Tripiṭaka 1421. 147c13-15: “有比丘得時行熱病，佛言：「應服吐下藥，消息，節量食，隨病食。」”
+</blockquote>
 
-[7]:
 
-The Sarvāstivāda Vinaya uses a unique term “熱血病” which literally means “hot blood disease”. Although it is different from other Chinese terms for feverish illness which obviously talk about feverish illness, this term should refer to such sickness because of similarities of the concerned cases and the employed treatments when compared with the parallels in other Vinayas.
 
-[8]:
 
-首盧漿 should be surā, which is an alcohol drink and a kind of beer. See A Sanskrit-English Dictionary, s.v. “surā”. Srikantha Murthy has translated the term as beer in his translation of the Aṣṭāṅga Hṛdaya Saṃhitā (translator’ notes to Sūtrasthāna 5. 67).
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The Sarvāstivāda Vinaya uses a unique term “熱血病” which literally means “hot blood disease”. Although it is different from other Chinese terms for feverish illness which obviously talk about feverish illness, this term should refer to such sickness because of similarities of the concerned cases and the employed treatments when compared with the parallels in other Vinayas.
+</blockquote>
 
-[9]:
 
-蘗 refers to the sprout of a seed or grain (Shu et al. 2005, 1179). Thus 蘗米 means the sprouted rice-grains.
 
-[10]:
 
-Taishō Tripiṭaka 1435. 185b29-c5: “佛故在舍衛國。時長老舍利弗熱血病，藥師言：「應服首盧漿。」舍利弗言：「佛未聽我服首盧漿。」諸比丘以是事白佛，佛言：「聽服首盧漿。」長老優波離問佛：「何等物作首盧漿？」佛言：「若糵、若磨、若擣合油，等分以水和之令酢，時應服、非時不應服。」”
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> 首盧漿 should be surā, which is an alcohol drink and a kind of beer. See A Sanskrit-English Dictionary, s.v. “surā”. Srikantha Murthy has translated the term as beer in his translation of the Aṣṭāṅga Hṛdaya Saṃhitā (translator’ notes to Sūtrasthāna 5. 67).
+</blockquote>
 
-[11]:
 
-Taishō Tripiṭaka 1435. 190c24-191a8: “長老舍利弗熱血病，藥師語言：「應食池物。」...佛言：「...何等池物？若蓮根、蓮子、菱、芡雞頭子，如是種種池物聽食。」”
 
-[12]:
 
-Suomoni-water 娑摩尼水 probably refers to śamama or śamanī, which means “calming, tranquillizing, soothing, allaying, extinguishing, destroying;settler, destroyer” and so on in Sanskrit (A Sanskrit-English Dictionary, s.v. “śamana” and “śamanī”) and alleviator of doṣas in Āyurveda (Caraka Saṃhitā Cikitsāsthāna 3. 160161).
+<div className="footnote-card"><strong>[9]</strong> 蘗 refers to the sprout of a seed or grain (Shu et al. 2005, 1179). Thus 蘗米 means the sprouted rice-grains.</div>
 
-[13]:
 
-Taishō Tripiṭaka 1435. 275c25-28: “佛在舍衛國。長老舍利弗患熱血病，時藥師教言：「以娑摩尼水洗。」優波離問佛：「用何物作娑摩尼？」佛言：「除毒樹，取餘一切樹華葉作。」” This account is not within the Sarvāstivāda Bhaiṣajyadharmaka.
 
-[14]:
 
-Taishō Tripiṭaka 1435. 277a13-15: “佛在舍衛國。爾時長老舍利弗熱血病，藥師教言：「燒石著乳中飲。」答言：「佛未聽燒石著乳中飲。」是事白佛，佛言：「聽燒石著乳中飲。」” This account is not within the Sarvāstivāda Bhaiṣajyadharmaka.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Taishō Tripiṭaka 1435. 185b29-c5: “佛故在舍衛國。時長老舍利弗熱血病，藥師言：「應服首盧漿。」舍利弗言：「佛未聽我服首盧漿。」諸比丘以是事白佛，佛言：「聽服首盧漿。」長老優波離問佛：「何等物作首盧漿？」佛言：「若糵、若磨、若擣合油，等分以水和之令酢，時應服、非時不應服。」”
+</blockquote>
 
-[15]:
 
-Taishō Tripiṭaka 1425. 494b3-8: “佛言：「...香者，栴檀、沈水，如是比一切香皆不應著。若熱病，醫言：
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Taishō Tripiṭaka 1435. 190c24-191a8: “長老舍利弗熱血病，藥師語言：「應食池物。」...佛言：「...何等池物？若蓮根、蓮子、菱、芡雞頭子，如是種種池物聽食。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suomoni-water 娑摩尼水 probably refers to śamama or śamanī, which means “calming, tranquillizing, soothing, allaying, extinguishing, destroying;settler, destroyer” and so on in Sanskrit (A Sanskrit-English Dictionary, s.v. “śamana” and “śamanī”) and alleviator of doṣas in Āyurveda (Caraka Saṃhitā Cikitsāsthāna 3. 160161).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Taishō Tripiṭaka 1435. 275c25-28: “佛在舍衛國。長老舍利弗患熱血病，時藥師教言：「以娑摩尼水洗。」優波離問佛：「用何物作娑摩尼？」佛言：「除毒樹，取餘一切樹華葉作。」” This account is not within the Sarvāstivāda Bhaiṣajyadharmaka.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Taishō Tripiṭaka 1435. 277a13-15: “佛在舍衛國。爾時長老舍利弗熱血病，藥師教言：「燒石著乳中飲。」答言：「佛未聽燒石著乳中飲。」是事白佛，佛言：「聽燒石著乳中飲。」” This account is not within the Sarvāstivāda Bhaiṣajyadharmaka.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Taishō Tripiṭaka 1425. 494b3-8: “佛言：「...香者，栴檀、沈水，如是比一切香皆不應著。若熱病，醫言：
+</blockquote>
+
+
 
 『當須旃檀香塗。』爾時得用香塗。若欲塗時，先應供養佛泥塔，然後塗身。塗身已不得
 
 在眾中，當在屏處。病差淨澡，浴身然後入眾。」” This account is not within the Chapter on Medicine parallel of the Mahāsāṃghika Vinaya.
 
-[16]:
 
-These measures are extracted from the relevant chapter of the classical Āyurvedic treatises. Detailed descriptions of treatments can be found in Caraka Saṃhitā Cikitsāsthāna 3, Suśruta Saṃhitā Uttarasthāna 39, and Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 1. Numerous drugs are used in Āyurveda for curing fever, including a lot of scented substances, as well as lotus flowers or their parts.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> These measures are extracted from the relevant chapter of the classical Āyurvedic treatises. Detailed descriptions of treatments can be found in Caraka Saṃhitā Cikitsāsthāna 3, Suśruta Saṃhitā Uttarasthāna 39, and Aṣṭāṅga Hṛdaya Saṃhitā Cikitsāsthāna 1. Numerous drugs are used in Āyurveda for curing fever, including a lot of scented substances, as well as lotus flowers or their parts.
+</blockquote>
 
 ---
 
-## 54. Internal Medicine (g): Jaundice
+## Internal Medicine (g): Jaundice
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -164,27 +208,33 @@ In modern medicine, jaundice is a clinical feature but not a disease. It is the 
 
 A case of jaundice is found in the Chapter on Medicine. Such disease was treated by consuming yellow myrobalan treated with cow’s urine in the Buddhist source. This treatment should be an eliminative therapy amongst the variety of remedies employed in Āyurveda. In modern medicine, jaundice is merely a clinical feature occurring when there is excessive bilirubin in plasma and body tissues. It can occur in many disorders where the production of bilirubin is increased, its uptake by liver cells is reduced, and its secretion in bile is obstructed. Treatment nowadays is directed at the cause, and the Buddhist or Āyurvedic remedies are not utilised in modern medicine.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarassa bhikkhuno paṇḍurogābādho hot. anujānāmi bhikkhave muttaharītakaṃ pāyetun ti.” The Samantapāsādikā (V. 1092) provides a brief annotation on the remedy:
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarassa bhikkhuno paṇḍurogābādho hot. anujānāmi bhikkhave muttaharītakaṃ pāyetun ti.” The Samantapāsādikā (V. 1092) provides a brief annotation on the remedy:
+</blockquote>
+
+
 
 “‘Yellow myrobalan [treated] with urine’ is the yellow myrobalan treated with cow’s urine” (muttaharīṭakan ti gomuttaparibhāvitaṃ harītakaṃ).
 
-[2]:
 
-Modern Āyurvedic scholars tend to render this disease as anaemia. But we will see, in the following discussion of jaundice in modern medicine, that a type of anaemia–viz. haemolytic anaemia–is associated with jaundice.
+<div className="footnote-card"><strong>[2]</strong> Modern Āyurvedic scholars tend to render this disease as anaemia. But we will see, in the following discussion of jaundice in modern medicine, that a type of anaemia–viz. haemolytic anaemia–is associated with jaundice.</div>
 
-[3]:
 
-In Āyurveda, before a patient receives the emesis and/or purgation therapies for elimination of aggravated humours, he/she usually has preliminary therapies of lubrication (by intake of oil/ghee and/or external application of oil/ghee) and perspiration, for the purpose of loosening the aggravated humours (Suśruta Saṃhitā Cikitsāsthāna 33. 5).
 
-[4]:
 
-In the above Buddhist record, yellow myrobalan treated with cow’s urine is mentioned, which seems to be used as a medicine for eliminating the aggravated humours.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> In Āyurveda, before a patient receives the emesis and/or purgation therapies for elimination of aggravated humours, he/she usually has preliminary therapies of lubrication (by intake of oil/ghee and/or external application of oil/ghee) and perspiration, for the purpose of loosening the aggravated humours (Suśruta Saṃhitā Cikitsāsthāna 33. 5).
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> In the above Buddhist record, yellow myrobalan treated with cow’s urine is mentioned, which seems to be used as a medicine for eliminating the aggravated humours.</div>
 
 ---
 
-## 55. Internal Medicine (f): Headache
+## Internal Medicine (f): Headache
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -209,67 +259,103 @@ Headaches are one of the most common symptoms that many people have experienced.
 
 Few records of headaches and their treatments are found in the Chapters on Medicine. The remedies mentioned include anointing oil on the head, nasal treatment, and smoking therapy. Āyurveda has similar cures, which mainly use medicated ghee or oil for oral intake, application on the head or into the nose (in form of drops, smoke, powder, etc.), massage, enema, and so on. Other treatments such as bloodletting, cauterisation, and treating for worms may also be used. But these treatments play no role in modern medicine. Modern medicine has its classification of headaches and multitudinous remedies, though the mechanisms of many headache disorders are not yet known.
 
-[1]:
 
-Few accounts of head disease treated with surgery by Jīvaka are found in the Theravāda Cīvarakkhandhaka, the Dharmaguptaka Cīvaraskandhaka, and the Mūlasarvāstivāda Cīvaravastu. These records are not included in this thesis, for they are beyond the scope of the study. But these cases, together with other ones cured by Jīvaka as found in the Vinaya Piṭakas, are certainly intriguing materials for future research.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Few accounts of head disease treated with surgery by Jīvaka are found in the Theravāda Cīvarakkhandhaka, the Dharmaguptaka Cīvaraskandhaka, and the Mūlasarvāstivāda Cīvaravastu. These records are not included in this thesis, for they are beyond the scope of the study. But these cases, together with other ones cured by Jīvaka as found in the Vinaya Piṭakas, are certainly intriguing materials for future research.
+</blockquote>
 
-[2]:
 
-Sīsābhitāpa literally means “extreme heat in the head.” Pali-English Dictionary (s.v. “sīsa: -ābhitāpa”) renders it as “heat in the head” or “headache.” A Sanskrit-English Dictionary renders a close term, śirobhitāpa, as headache (s.v. “śiro: bhitāpa”).
 
-[3]:
 
-Pali-English Dictionary (s.v. “natthu: -kamma”) renders the term as a medical treatment through the nose. Hence, from the context, it should involve an application of oil through the nose.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Sīsābhitāpa literally means “extreme heat in the head.” Pali-English Dictionary (s.v. “sīsa: -ābhitāpa”) renders it as “heat in the head” or “headache.” A Sanskrit-English Dictionary renders a close term, śirobhitāpa, as headache (s.v. “śiro: bhitāpa”).
+</blockquote>
 
-[4]:
 
-Pali-English Dictionary renders the term natthukaraṇī as pocket handkerchief, which is incorrect from the context (the materials that it was allowed to be made of). The Sanskrit parallel of this term should be nastakaraṇa, which means an instrument for injecting the nose (A Sanskrit-English Dictionary, s.v. “nasta: -karaṇa). Horner, in her translation of the Theravāda Bhesajjyakkhandhaka (The Book of Discipline IV. 277), rendered it as nose-spoon. This translation seemingly has been adopted by Zysk (1991, 91) and Talim (2009, 38). Mitra (1985, 348) translates it as nasal speculum, which seems possible. By comparing this account with the parallel in the Dharmaguptaka Vinaya, the treatment should be nasal douching and the instrument should be a tube for such treatment.
 
-[5]:
 
-The translation of “manussā ujjhayanti khīyanti vipācenti” is adopted from Anuruddha 2004, 695.
+<div className="footnote-card"><strong>[3]</strong> Pali-English Dictionary (s.v. “natthu: -kamma”) renders the term as a medical treatment through the nose. Hence, from the context, it should involve an application of oil through the nose.</div>
 
-[6]:
 
-The translation of “seyyathāpi gihī kāmabhogino” is adopted from Anuruddha 2004, 961.
 
-[7]:
 
-Saṅkhanābhi (Pāli) or śankhanābhi (Sanskrit) refers to a kind of shell according to Pali-English Dictionary and A Sanskrit-English Dictionary. No English name is known for it.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Pali-English Dictionary renders the term natthukaraṇī as pocket handkerchief, which is incorrect from the context (the materials that it was allowed to be made of). The Sanskrit parallel of this term should be nastakaraṇa, which means an instrument for injecting the nose (A Sanskrit-English Dictionary, s.v. “nasta: -karaṇa). Horner, in her translation of the Theravāda Bhesajjyakkhandhaka (The Book of Discipline IV. 277), rendered it as nose-spoon. This translation seemingly has been adopted by Zysk (1991, 91) and Talim (2009, 38). Mitra (1985, 348) translates it as nasal speculum, which seems possible. By comparing this account with the parallel in the Dharmaguptaka Vinaya, the treatment should be nasal douching and the instrument should be a tube for such treatment.
+</blockquote>
 
-[8]:
 
-The Samantapāsādikā (V. 1091) has provided an explanation for this: “‘A double nasal instrument’ is one nasal instrument with two tubes [for] equal streams and so forth” (yamakaṃ natthukaraṇin ti samasotādi dvīhi pi nāḷikāhi ekaṃ natthukaraṇiṃ).
 
-[9]:
 
-Theravāda Vinaya Piṭaka I. 204: “tena kho pana samayena āyasmato Pilindavacchassa sīsābhitāpo hoti–la–anujānāmi bhikkhave muddhani telakan ti. na kkhamaniyo hoti–la–anujānāmi, bhikkhave, natthukamman ti. natthu galati–la–anujānāmi bhikkhave natthukaraṇin ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacā natthukaraṇiyo dhārenti sovaṇṇamayaṃ rūpiyamayaṃ. manussā ujjhāyanti khīyanti vipācenti: seyyathāpi gihī kāmabhogino’ti. na bhikkhave uccāvacā natthukaraṇī dhāretabbā. yo dhāreyya, āpatti dukkaṭassa. anujānāmi bhikkhave aṭṭhimayaṃ–la–saṅkhanābhimayan ti. natthuṃ visamaṃ āsiñcanti. anujānāmi bhikkhave yamakanatthukaraṇin ti. na kkhamaniyo hoti. anujānāmi bhikkhave dhūmaṃ pātun ti. tañ ñeva vaṭṭiṃ ālimpetvā pivanti. kaṇṭhaṃ dahati–la–anujānāmi bhikkhave dhūmanettan ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacāni dhūmanettāni dhārenti … saṅkhanābhimayan ti. tena kho pana samayena dhūmanettāni apārutāni honti, pāṇakā pavisanti–la–anujānāmi bhikkhave apidhānan ti. tena kho pana samayena bhikkhū dhūmanettāni hatthena pariharanti. anujānāmi bhikkhave dhūmanettathavikan ti. ekato ghaṃsiyanti–la–anujānāmi bhikkhave yamakathavikan ti. aṃsabandhako na hoti–la–anujānāmi bhikkhave aṃsabandhakaṃ bandhanasuttakan ti.”
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> The translation of “manussā ujjhayanti khīyanti vipācenti” is adopted from Anuruddha 2004, 695.
+</blockquote>
 
-[10]:
 
-Taishō Tripiṭaka 1428. 874b12-14: “時諸比丘患頭痛，醫教頂上著油，白佛，佛言：「聽著。」彼畏慎不敢用香油著，佛言：「聽著。」”
 
-[11]:
 
-劫貝 (Pāli: kappāsa; Sanskrit: karpāsa) is cotton.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> The translation of “seyyathāpi gihī kāmabhogino” is adopted from Anuruddha 2004, 961.
+</blockquote>
 
-[12]:
 
-The Taishō Tripiṭaka gives it as “若鉛錫” while older editions of Chinese Buddhist canon have it as “若鉛若錫”. Here the latter is adopted.
 
-[13]:
 
-Taishō Tripiṭaka 1428. 877a2-10: “爾時有比丘患頭痛，醫教灌鼻，佛言：「聽。」不知何物灌？佛言：「以酥油脂灌。」不知云何灌？佛言：「聽以羊毛、若劫貝鳥毛漬油中，然後渧著鼻中。」四邊流出，佛言：「聽作灌鼻筒。」彼便持寶作筒，佛言：「不應用寶作。應用骨、若牙、若角、若鐵、若銅、若白鑞、若鉛錫、若葦、若竹、若木。」彼不洗便舉置，佛言：「不
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Saṅkhanābhi (Pāli) or śankhanābhi (Sanskrit) refers to a kind of shell according to Pali-English Dictionary and A Sanskrit-English Dictionary. No English name is known for it.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> The Samantapāsādikā (V. 1091) has provided an explanation for this: “‘A double nasal instrument’ is one nasal instrument with two tubes [for] equal streams and so forth” (yamakaṃ natthukaraṇin ti samasotādi dvīhi pi nāḷikāhi ekaṃ natthukaraṇiṃ).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Theravāda Vinaya Piṭaka I. 204: “tena kho pana samayena āyasmato Pilindavacchassa sīsābhitāpo hoti–la–anujānāmi bhikkhave muddhani telakan ti. na kkhamaniyo hoti–la–anujānāmi, bhikkhave, natthukamman ti. natthu galati–la–anujānāmi bhikkhave natthukaraṇin ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacā natthukaraṇiyo dhārenti sovaṇṇamayaṃ rūpiyamayaṃ. manussā ujjhāyanti khīyanti vipācenti: seyyathāpi gihī kāmabhogino’ti. na bhikkhave uccāvacā natthukaraṇī dhāretabbā. yo dhāreyya, āpatti dukkaṭassa. anujānāmi bhikkhave aṭṭhimayaṃ–la–saṅkhanābhimayan ti. natthuṃ visamaṃ āsiñcanti. anujānāmi bhikkhave yamakanatthukaraṇin ti. na kkhamaniyo hoti. anujānāmi bhikkhave dhūmaṃ pātun ti. tañ ñeva vaṭṭiṃ ālimpetvā pivanti. kaṇṭhaṃ dahati–la–anujānāmi bhikkhave dhūmanettan ti. tena kho pana samayena chabbaggiyā bhikkhū uccāvacāni dhūmanettāni dhārenti … saṅkhanābhimayan ti. tena kho pana samayena dhūmanettāni apārutāni honti, pāṇakā pavisanti–la–anujānāmi bhikkhave apidhānan ti. tena kho pana samayena bhikkhū dhūmanettāni hatthena pariharanti. anujānāmi bhikkhave dhūmanettathavikan ti. ekato ghaṃsiyanti–la–anujānāmi bhikkhave yamakathavikan ti. aṃsabandhako na hoti–la–anujānāmi bhikkhave aṃsabandhakaṃ bandhanasuttakan ti.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Taishō Tripiṭaka 1428. 874b12-14: “時諸比丘患頭痛，醫教頂上著油，白佛，佛言：「聽著。」彼畏慎不敢用香油著，佛言：「聽著。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> 劫貝 (Pāli: kappāsa; Sanskrit: karpāsa) is cotton.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> The Taishō Tripiṭaka gives it as “若鉛錫” while older editions of Chinese Buddhist canon have it as “若鉛若錫”. Here the latter is adopted.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Taishō Tripiṭaka 1428. 877a2-10: “爾時有比丘患頭痛，醫教灌鼻，佛言：「聽。」不知何物灌？佛言：「以酥油脂灌。」不知云何灌？佛言：「聽以羊毛、若劫貝鳥毛漬油中，然後渧著鼻中。」四邊流出，佛言：「聽作灌鼻筒。」彼便持寶作筒，佛言：「不應用寶作。應用骨、若牙、若角、若鐵、若銅、若白鑞、若鉛錫、若葦、若竹、若木。」彼不洗便舉置，佛言：「不
+</blockquote>
+
+
 
 應不洗舉置。」洗已不燥後虫生，佛言：「不應洗已不燥，應令燥舉置。」”
 
-[14]:
 
-The Aṣṭāṅga Hṛdaya Saṃhitā, in the chapter dealing with head diseases, also mentions nine types of scalp disease (Uttarasthāna 23. 21-32).
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> The Aṣṭāṅga Hṛdaya Saṃhitā, in the chapter dealing with head diseases, also mentions nine types of scalp disease (Uttarasthāna 23. 21-32).
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -278,10 +364,6 @@ The Aṣṭāṅga Hṛdaya Saṃhitā, in the chapter dealing with head disease
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Internal Medicine (e): Gastrointestinal Disturbances: Bhesajjakkhandhaka Chapter On Medicine Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

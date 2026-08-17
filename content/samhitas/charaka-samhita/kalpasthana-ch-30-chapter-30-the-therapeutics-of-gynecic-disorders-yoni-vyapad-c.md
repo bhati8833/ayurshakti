@@ -424,7 +424,11 @@ Treatment
 
 272. The woman’s breast should be painted with the paste of grapes and liquorice and when dried, the breasts should be washed with water and the milk drawn away repeatedly.
 
+
+<blockquote className="ayur-shloka">
 273. Stinking swallow-wort and Ajashringi [ajaśṛṅgī], the three myrobalans, tur meric and sweet flag, reduced to paste and taken as potion with cold water, destroy the foul odor of the breastmilk.
+</blockquote>
+
 
 274. If the mother takes the linctus made of the powder of chebulic myrobalans and the three spices, mixed with honey and observes the regimen of diet, the bad odor of the milk gets rectified.
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Good and bad nature of body parts fatal signs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 40. Chapter XXXII - Good and bad nature of body parts fatal signs
+## Chapter XXXII - Good and bad nature of body parts fatal signs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -41,57 +41,65 @@ A Mahavyadhi[12] (lit:—a deep seated disease) suddenly abating in a person in 
 
 Thus ends the thirty-second Chapter of Sutrasthana in the Sushruta-Samhita which deals with the prognosis based on perversion of the natural appearances of the body.
 
-[1]:
 
-The teeth and the cornea.
+<div className="footnote-card"><strong>[1]</strong> The teeth and the cornea.</div>
 
-[2]:
 
-The iris,
 
-[3]:
 
-The tongue and the palate, etc.
+<div className="footnote-card"><strong>[2]</strong> The iris,</div>
 
-[4]:
 
-Bones, teeth, etc.
 
-[5]:
 
-Soft parts such as the flesh, fat, etc.
+<div className="footnote-card"><strong>[3]</strong> The tongue and the palate, etc.</div>
 
-[6]:
 
-Joints, etc.
 
-[7]:
 
-Nose, ears and flesh, etc.
+<div className="footnote-card"><strong>[4]</strong> Bones, teeth, etc.</div>
 
-[8]:
 
-Head and forehead, etc.
 
-[9]:
 
-Pupils, etc.
+<div className="footnote-card"><strong>[5]</strong> Soft parts such as the flesh, fat, etc.</div>
 
-[10]:
 
-Hair, nails, etc.
 
-[11]:
 
-Perspiration, urine and feces, etc.
+<div className="footnote-card"><strong>[6]</strong> Joints, etc.</div>
 
-[12]:
 
-Any deep seated disease, which seriously affects the vital principles of a man, is called Mahavyadhi. Diseases such as Prameha, Vatavyadhi, Shosha, etc. have also been included within the category in the Chapter on Kaya-chikitsha. A general amelioration or recovery in these cases being natural, on account of their deep-seated character, a sudden abatement is usually fraught with fatal consequences. (Arishta.)
+
+
+<div className="footnote-card"><strong>[7]</strong> Nose, ears and flesh, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Head and forehead, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Pupils, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Hair, nails, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Perspiration, urine and feces, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Any deep seated disease, which seriously affects the vital principles of a man, is called Mahavyadhi. Diseases such as Prameha, Vatavyadhi, Shosha, etc. have also been included within the category in the Chapter on Kaya-chikitsha. A general amelioration or recovery in these cases being natural, on account of their deep-seated character, a sudden abatement is usually fraught with fatal consequences. (Arishta.)</div>
 
 ---
-
-
 
 ---
 
@@ -100,10 +108,6 @@ Any deep seated disease, which seriously affects the vital principles of a man, 
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch35" className="text-emerald-400 hover:underline flex items-center font-medium">Duties of army surgeon: Sushruta Samhita Sutrasthana Chapter 35 →</a>
 </div>
-
-
-
-
 
 ---
 

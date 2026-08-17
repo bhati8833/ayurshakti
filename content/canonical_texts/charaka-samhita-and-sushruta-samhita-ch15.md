@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Infirmaries and Hospitals in ancient India within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 48. Infirmaries and Hospitals in ancient India
+## Infirmaries and Hospitals in ancient India
 
 Charaka Samhita and Sushruta Samhita
 
@@ -35,105 +35,135 @@ Two inscriptions from South India are especially significant in this context: th
 
 The āturaśālā or hospital was meant exclusively for the teachers and students of the residential school attached to the temple of Venkaṭeśa Perumāl as also for all categories of service providers to the temple. The staff of the fifteen-bedded hospital comprised a vaidya, a surgeon, nurses, barbers and herb collectors. The nurses attended to the patients and administered medicines. The barber served the hospitalized patients, teachers and students. The staff in-charge of collecting the herbs was also given the task of collecting fuel and preparing medicines.[24] The details of hospital management have been tabulated in the appendix to this chapter.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 19.3.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 15.6.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 15.7.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 15.6.
+</blockquote>
 
-[4]:
 
-K.G. Zysk, Asceticism and healing in Ancient India: Medicine in the Buddhist Monastery, Delhi, 2000, p.43.
 
-[5]:
 
-K.G. Zysk, Asceticism and healing in Ancient India: Medicine in the Buddhist Monastery, p.44.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 15.7.
+</blockquote>
 
-[6]:
 
-K. Bharathi and A. Narayana, “Evolution of Hospitals and Hospital Systems in Ancient India”, Journal of Indian Medical Heritage, Vol.XLI, 2011, pp.57-71.
 
-[7]:
 
-D.V.S. Reddy, Glimpses of Health and Medicine in the Mauryan Empire, Hyderabad, 1966, p.5.
+<div className="footnote-card"><strong>[4]</strong> K.G. Zysk, Asceticism and healing in Ancient India: Medicine in the Buddhist Monastery, Delhi, 2000, p.43.</div>
 
-[8]:
 
-K.G. Zysk, Asceticism and healing in Ancient India: Medicine in the Buddhist Monastery, p.44.
 
-[9]:
 
-K.G. Zysk, Asceticism and healing in Ancient India, pp.44-45.
+<div className="footnote-card"><strong>[5]</strong> K.G. Zysk, Asceticism and healing in Ancient India: Medicine in the Buddhist Monastery, p.44.</div>
 
-[10]:
 
-K.G. Zysk, Asceticism and healing in Ancient India, p.45.
 
-[11]:
 
-K.G. Zysk, Asceticism and healing in Ancient India, p.45.
+<div className="footnote-card"><strong>[6]</strong> K. Bharathi and A. Narayana, “Evolution of Hospitals and Hospital Systems in Ancient India”, Journal of Indian Medical Heritage, Vol.XLI, 2011, pp.57-71.</div>
 
-[12]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs” in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, p.23.
 
-[13]:
 
-K.G.Zysk, Asceticism and healing in Ancient India, p.45.
+<div className="footnote-card"><strong>[7]</strong> D.V.S. Reddy, Glimpses of Health and Medicine in the Mauryan Empire, Hyderabad, 1966, p.5.</div>
 
-[14]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 23-24.
 
-[15]:
 
-K.G.Zysk, Asceticism and healing in Ancient India, p.45.
+<div className="footnote-card"><strong>[8]</strong> K.G. Zysk, Asceticism and healing in Ancient India: Medicine in the Buddhist Monastery, p.44.</div>
 
-[16]:
 
-K.G.Zysk, Asceticism and healing in Ancient India, 44-45.
 
-[17]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 21.
+<div className="footnote-card"><strong>[9]</strong> K.G. Zysk, Asceticism and healing in Ancient India, pp.44-45.</div>
 
-[18]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p.20.
 
-[19]:
 
-R. Chakravarti and K. Ray, “Healing and healers inscribed: Epigraphic bearing on Healing Houses in Early India, Institute of Development Studies, Kolkata, 2011, p. 21-22.
+<div className="footnote-card"><strong>[10]</strong> K.G. Zysk, Asceticism and healing in Ancient India, p.45.</div>
 
-[20]:
 
-P.V. Sharma, Indian Medicine in the Classical Age, p. 13.
 
-[21]:
 
-K.G.Zysk, Asceticism and healing in Ancient India, p.45.
+<div className="footnote-card"><strong>[11]</strong> K.G. Zysk, Asceticism and healing in Ancient India, p.45.</div>
 
-[22]:
 
-Ayyar, K.V.Subramanya, “The Tirumukkuḍal inscription of Vīrarājendra’, Epigraphia Indica, Vol XXI, pp. 220-250.
 
-[23]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p.28.
+<div className="footnote-card"><strong>[12]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs” in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, p.23.</div>
 
-[24]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 24-26.
+
+
+<div className="footnote-card"><strong>[13]</strong> K.G.Zysk, Asceticism and healing in Ancient India, p.45.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 23-24.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> K.G.Zysk, Asceticism and healing in Ancient India, p.45.</div>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> K.G.Zysk, Asceticism and healing in Ancient India, 44-45.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p. 21.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p.20.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> R. Chakravarti and K. Ray, “Healing and healers inscribed: Epigraphic bearing on Healing Houses in Early India, Institute of Development Studies, Kolkata, 2011, p. 21-22.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> P.V. Sharma, Indian Medicine in the Classical Age, p. 13.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> K.G.Zysk, Asceticism and healing in Ancient India, p.45.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Ayyar, K.V.Subramanya, “The Tirumukkuḍal inscription of Vīrarājendra’, Epigraphia Indica, Vol XXI, pp. 220-250.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, p.28.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 24-26.</div>
 
 ---
 
-## 49. Practice of Therapeutics
+## Practice of Therapeutics
 
 Charaka Samhita and Sushruta Samhita
 
@@ -211,245 +241,418 @@ While on the one hand there is sympathy and understanding for the patient, on th
 
 The physician can consider the course of action complete with the appearance of symptoms of normal functioning of the physiological processes in the patient. These symptoms are spelled out clearly in the texts. The physician is advised to identify the symptoms of well-being. Subsidence of fever is marked by the observation of these symptoms in the patient: a feeling of lightness in the head (laghutva śira), perspiration (sveda), slight facial pallor (mukhapāṇḍu), stomatitis (mukhapāka), sneezing (kṣavathu) and appearance of appetite (annakāṅkṣā).[58] A patient is cured of unmāda if he manifests symptoms of clarity of sense faculties, clarity of intellect, spirit as well as of the mind, and normalcy of the tissue elements.[59]
 
-[1]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.317-318.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Cikitsāsthāna 3.317-318.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Nidāna-sthāna 1.31.
 
-[3]:
 
-Suśruta Saṃhitā Uttaratantra 39.265.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Nidāna-sthāna 1.31.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Uttaratantra 39.265.
 
-[5]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.292.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Uttaratantra 39.265.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.310-315.
 
-[7]:
 
-Suśruta Saṃhitā Uttaratantra 39.63.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Uttaratantra 39.265.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Cikitsāsthāna 3.75.
 
-[9]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 3.75.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Cikitsāsthāna 8.292.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.35.
 
-[11]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 23.35.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 3.310-315.
+</blockquote>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.61.
 
-[13]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.7-8.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Uttaratantra 39.63.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.180.
 
-[15]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.93-94.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Cikitsāsthāna 3.75.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.91-92.
 
-[17]:
 
-Suśruta Saṃhitā Uttaratantra 60.28/2-31/1.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 3.75.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Uttaratantra 60.37/2-38/1.
 
-[19]:
 
-Suśruta Saṃhitā Uttaratantra 60.38/2-53/1.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Cikitsāsthāna 23.35.
+</blockquote>
 
-[20]:
 
-For eg. Suśruta Saṃhitā Uttaratantra 28.8, 10-14.
 
-[21]:
 
-Suśruta Saṃhitā Uttaratantra 60.53/2-54/1.—eṣa sarvavikārāṃāstu mānasānaparajitaḥ. hanyādalpena kālena snehādirapi ca kramaḥ.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 23.35.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā,Nidāna-sthāna 1.35.
 
-[23]:
 
-Suśruta Saṃhitā Uttaratantra 41.3.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 23.61.
+</blockquote>
 
-[24]:
 
-P.V. Sharma, Medicine in the Classical Age, p. 60.
 
-[25]:
 
-Suśruta Saṃhitā Nidāna-sthāna 5.32.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Cikitsāsthāna 25.7-8.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Cikitsāsthāna 21.15.
 
-[27]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.172.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Cikitsāsthāna 8.180.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Cikitsāsthāna 21.6.
 
-[29]:
 
-Caraka Saṃhitā Cikitsāsthāna 21.16-22.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Caraka Saṃhitā Cikitsāsthāna 9.93-94.
+</blockquote>
 
-[30]:
 
-Caraka Saṃhitā Sūtrasthāna 25.31.
 
-[31]:
 
-Caraka Saṃhitā Sūtrasthāna 25.33.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Cikitsāsthāna 9.91-92.
+</blockquote>
 
-[32]:
 
-Caraka Saṃhitā Sūtrasthāna 25.40.
 
-[33]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.321.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Uttaratantra 60.28/2-31/1.
+</blockquote>
 
-[34]:
 
-Caraka Saṃhitā Vimānasthāna 1.3.
 
-[35]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.184-188.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Uttaratantra 60.37/2-38/1.
+</blockquote>
 
-[36]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.189.
 
-[37]:
 
-Suśruta Saṃhitā Uttaratantra 41.58.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Uttaratantra 60.38/2-53/1.
+</blockquote>
 
-[38]:
 
-Suśruta Saṃhitā Uttaratantra 39.56.
 
-[39]:
 
-Suśruta Saṃhitā Uttaratantra 39.259.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> For eg. Suśruta Saṃhitā Uttaratantra 28.8, 10-14.
+</blockquote>
 
-[40]:
 
-Suśruta Saṃhitā Uttaratantra 39.265.
 
-[41]:
 
-Caraka Saṃhitā Cikitsāsthāna 20.41.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Uttaratantra 60.53/2-54/1.—eṣa sarvavikārāṃāstu mānasānaparajitaḥ. hanyādalpena kālena snehādirapi ca kramaḥ.
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.26.
 
-[43]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.25-28, 32.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā,Nidāna-sthāna 1.35.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.34-77; Suśruta Saṃhitā Uttaratantra 62.22-24.
 
-[45]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.78; Suśruta Saṃhitā Uttaratantra 62.33/1.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Uttaratantra 41.3.
+</blockquote>
 
-[46]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.30.
 
-[47]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.85.
+<div className="footnote-card"><strong>[24]</strong> P.V. Sharma, Medicine in the Classical Age, p. 60.</div>
 
-[48]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.79.
 
-[49]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.86.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Nidāna-sthāna 5.32.
+</blockquote>
 
-[50]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.82-83.
 
-[51]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.84.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Cikitsāsthāna 21.15.
+</blockquote>
 
-[52]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.80-81. Similar measures are also given in Suśruta Saṃhitā Uttaratantra 62.17-20/1.
 
-[53]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.84.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Cikitsāsthāna 7.172.
+</blockquote>
 
-[54]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.29.
 
-[55]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.30.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Cikitsāsthāna 21.6.
+</blockquote>
 
-[56]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.78.
 
-[57]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.8.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Caraka Saṃhitā Cikitsāsthāna 21.16-22.
+</blockquote>
 
-[58]:
 
-Suśruta Saṃhitā Uttaratantra 39.322.
 
-[59]:
 
-Caraka Saṃhitā 9.97.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Caraka Saṃhitā Sūtrasthāna 25.31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Caraka Saṃhitā Sūtrasthāna 25.33.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Caraka Saṃhitā Sūtrasthāna 25.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Caraka Saṃhitā Cikitsāsthāna 30.321.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Caraka Saṃhitā Vimānasthāna 1.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Cikitsāsthāna 8.184-188.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Cikitsāsthāna 8.189.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Uttaratantra 41.58.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Uttaratantra 39.56.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Suśruta Saṃhitā Uttaratantra 39.259.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Suśruta Saṃhitā Uttaratantra 39.265.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Cikitsāsthāna 20.41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Cikitsāsthāna 9.26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Caraka Saṃhitā Cikitsāsthāna 9.25-28, 32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Cikitsāsthāna 9.34-77; Suśruta Saṃhitā Uttaratantra 62.22-24.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Cikitsāsthāna 9.78; Suśruta Saṃhitā Uttaratantra 62.33/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Caraka Saṃhitā Cikitsāsthāna 9.30.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Caraka Saṃhitā Cikitsāsthāna 9.85.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Caraka Saṃhitā Cikitsāsthāna 9.79.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Caraka Saṃhitā Cikitsāsthāna 9.86.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Caraka Saṃhitā Cikitsāsthāna 9.82-83.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Caraka Saṃhitā Cikitsāsthāna 9.84.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Caraka Saṃhitā Cikitsāsthāna 9.80-81. Similar measures are also given in Suśruta Saṃhitā Uttaratantra 62.17-20/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Caraka Saṃhitā Cikitsāsthāna 9.84.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Caraka Saṃhitā Cikitsāsthāna 9.29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Caraka Saṃhitā Cikitsāsthāna 9.30.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Caraka Saṃhitā Cikitsāsthāna 9.78.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Caraka Saṃhitā Cikitsāsthāna 9.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Suśruta Saṃhitā Uttaratantra 39.322.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Caraka Saṃhitā 9.97.
+</blockquote>
 
 ---
 
-## 50. Denial of Treatment
+## Denial of Treatment
 
 Charaka Samhita and Sushruta Samhita
 
@@ -525,297 +728,493 @@ Four categories of matted-haired individuals are identified by Olivelle. They ar
 
 Faith of the patient in the therapy or the physician is yet another necessary tenet of treatment. Among several factors that contribute to negative results of the therapy is the absence of faith in the therapy. Hence, the physician is warned against conducting it on such a patient.[69] Faith in the therapy cannot be disassociated from confidence in the physician. As we have noted in chapter 2, there are instances in the texts where expression of respect to the physician is declared mandatory on part of the patient. Caraka emphasises that people must specially extend their respectful regard to a physician.[70] A physician who does not abide by these tenets and takes on such patients suffers defamation because of his sinful acts.[71] A physician who does not abide by these tenets and takes on such patients suffers defamation because of his sinful acts.[72]
 
-[1]:
 
-Caraka Saṃhitā Vimānasthāna 8.33.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Vimānasthāna 8.33.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 23.10.
 
-[3]:
 
-Caraka Saṃhitā Vimānasthāna 8.34.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 23.10.
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Nidāna-sthāna 2.27.—tratāsādhyaṃ parityājyaṃ, yāpyaṃ yatnena yāpayet. sādhyaṃ cāvahitaḥ siddhairbheṣajaiḥ sādhayedbhiṣak.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 1.63.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Vimānasthāna 8.34.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Cikitsāsthāna 27.19.
 
-[7]:
 
-Caraka Saṃhitā Cikitsāsthāna 28.52-53.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Nidāna-sthāna 2.27.—tratāsādhyaṃ parityājyaṃ, yāpyaṃ yatnena yāpayet. sādhyaṃ cāvahitaḥ siddhairbheṣajaiḥ sādhayedbhiṣak.
+</blockquote>
 
-[8]:
 
-Arthaśāstra IV.1; Manusmṛti IX.284.
 
-[9]:
 
-For instance, Caraka Saṃhitā Nidāna-sthāna 3.12.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 1.63.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Nidāna-sthāna 5.12-15.
 
-[11]:
 
-Caraka Saṃhitā Nidāna-sthāna 6.16.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Cikitsāsthāna 27.19.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.6.
 
-[13]:
 
-Caraka Saṃhitā Cikitsāsthāna 28.235-236.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Cikitsāsthāna 28.52-53.
+</blockquote>
 
-[14]:
 
-Caraka Saṃhitā Nidāna-sthāna 4.38-39.
 
-[15]:
 
-Suśruta Saṃhitā Nidāna-sthāna 6.8, 24.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Arthaśāstra IV.1; Manusmṛti IX.284.
+</blockquote>
 
-[16]:
 
-Caraka Saṃhitā Cikitsāsthāna 6.33-34; Suśruta Saṃhitā Cikitsāsthāna 11.9.
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.64.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> For instance, Caraka Saṃhitā Nidāna-sthāna 3.12.
+</blockquote>
 
-[18]:
 
-Caraka Saṃhitā Cikitsāsthāna 28.72-73.
 
-[19]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 28. 72-74.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Nidāna-sthāna 5.12-15.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.27-29.
 
-[21]:
 
-Suśruta Saṃhitā Cikitsāsthāna 8.33-34.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Nidāna-sthāna 6.16.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Cikitsāsthāna 11.9.
 
-[23]:
 
-Suśruta Saṃhitā Cikitsāsthāna 14.3; Cikitsāsthāna 19.81.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.6.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Cikitsāsthāna 14.8.
 
-[25]:
 
-Bhisagratna, Kaviraj Kunja Lal (Ed.), An English Translation of the Sushruta Samhita Vol. II, p.394.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Cikitsāsthāna 28.235-236.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Cikitsāsthāna 13.3.
 
-[27]:
 
-Caraka Saṃhitā Nidāna-sthāna 4.38-39.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Caraka Saṃhitā Nidāna-sthāna 4.38-39.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Cikitsāsthāna 13.10-17.
 
-[29]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.29.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Nidāna-sthāna 6.8, 24.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.15-29; 34-40.
 
-[31]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.21-22; 34-38.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Caraka Saṃhitā Cikitsāsthāna 6.33-34; Suśruta Saṃhitā Cikitsāsthāna 11.9.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.7-9.
 
-[33]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.7.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 5.64.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.29/1-33. Iron preparations can also cure incurable kuṣṭha: Suśruta Saṃhitā Cikitsāsthāna 10.12.
 
-[35]:
 
-Caraka Saṃhitā Sūtrasthāna 1.62-63.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Caraka Saṃhitā Cikitsāsthāna 28.72-73.
+</blockquote>
 
-[36]:
 
-Caraka Saṃhitā Vimānasthāna 3.45; Caraka Saṃhitā Siddhisthāna 3.5.
 
-[37]:
 
-Caraka Saṃhitā Siddhisthāna 2.4.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 28. 72-74.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Siddhisthāna 2.4.
 
-[39]:
 
-Caraka Saṃhitā Siddhisthāna 2.5.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.27-29.
+</blockquote>
 
-[40]:
 
-Caraka Saṃhitā Siddhisthāna 2.4.
 
-[41]:
 
-Caraka Saṃhitā Siddhisthāna 2.5.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Cikitsāsthāna 8.33-34.
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Siddhisthāna 2.5.
 
-[43]:
 
-Caraka Saṃhitā Siddhisthāna 2.5.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Cikitsāsthāna 11.9.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Siddhisthāna 2.6.
 
-[45]:
 
-Caraka Saṃhitā Vimānasthāna 3.45.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Cikitsāsthāna 14.3; Cikitsāsthāna 19.81.
+</blockquote>
 
-[46]:
 
-Caraka Saṃhitā Siddhisthāna 2.5; Caraka Saṃhitā Vimānasthāna 3.45.
 
-[47]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Siddhisthāna 2.4.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Cikitsāsthāna 14.8.
+</blockquote>
 
-[48]:
 
-Caraka Saṃhitā Sūtrasthāna 6.17.
 
-[49]:
 
-Commentary to Caraka Saṃhitā Sūtrasthāna 2.4.
+<div className="footnote-card"><strong>[25]</strong> Bhisagratna, Kaviraj Kunja Lal (Ed.), An English Translation of the Sushruta Samhita Vol. II, p.394.</div>
 
-[50]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.39-41.
 
-[51]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.54-55.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Cikitsāsthāna 13.3.
+</blockquote>
 
-[52]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.61-82.
 
-[53]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.82-83.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Caraka Saṃhitā Nidāna-sthāna 4.38-39.
+</blockquote>
 
-[54]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.91-92.
 
-[55]:
 
-Suśruta Saṃhitā Sūtrasthāna 2.8.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Cikitsāsthāna 13.10-17.
+</blockquote>
 
-[56]:
 
-Arthaśāstra 2.36.10.
 
-[57]:
 
-Caraka Saṃhitā Sūtrasthāna 11.14-15.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.29.
+</blockquote>
 
-[58]:
 
-Caraka Saṃhitā Indriyasthāna12.67.
 
-[59]:
 
-P. Olivelle, Hair and Society in Olivelle, Language, Texts and Society: Explorations in Ancient Indian Culture and Religion, London and New York, 2011, pp.332-333.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.15-29; 34-40.
+</blockquote>
 
-[60]:
 
-P. Olivelle, “Hair and Society”, p.335.
 
-[61]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.8.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.21-22; 34-38.
+</blockquote>
 
-[62]:
 
-P. Olivelle, “Hair and Society”, p.335.
 
-[63]:
 
-P. Olivelle, “Hair and Society”, p.337.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.7-9.
+</blockquote>
 
-[64]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.11/1.
 
-[65]:
 
-G. Flood, G., “The Śaiva Traditions” in G. Flood (ed.), The Blackwell Companionto Hinduism, New Delhi, 2008 Indian Reprint, p. 207.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.7.
+</blockquote>
 
-[66]:
 
-G. Flood, “The Śaiva Traditions” p.207.
 
-[67]:
 
-Suśruta Saṃhitā Sūtrasthāna 29.12/1.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.29/1-33. Iron preparations can also cure incurable kuṣṭha: Suśruta Saṃhitā Cikitsāsthāna 10.12.
+</blockquote>
 
-[68]:
 
-P. Olivelle, “Hair and Society”, p.323.
 
-[69]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.38.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Caraka Saṃhitā Sūtrasthāna 1.62-63.
+</blockquote>
 
-[70]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:4.50.
 
-[71]:
 
-Caraka Saṃhitā Vimānasthāna 3.45.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Caraka Saṃhitā Vimānasthāna 3.45; Caraka Saṃhitā Siddhisthāna 3.5.
+</blockquote>
 
-[72]:
 
-Caraka Saṃhitā Vimānasthāna 3.45.
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Caraka Saṃhitā Siddhisthāna 2.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Siddhisthāna 2.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Caraka Saṃhitā Siddhisthāna 2.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka Saṃhitā Siddhisthāna 2.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Siddhisthāna 2.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Siddhisthāna 2.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Caraka Saṃhitā Siddhisthāna 2.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Siddhisthāna 2.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Vimānasthāna 3.45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Caraka Saṃhitā Siddhisthāna 2.5; Caraka Saṃhitā Vimānasthāna 3.45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Cakrapāṇidatta on Caraka Saṃhitā Siddhisthāna 2.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Caraka Saṃhitā Sūtrasthāna 6.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Commentary to Caraka Saṃhitā Sūtrasthāna 2.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Caraka Saṃhitā Cikitsāsthāna 7.39-41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Caraka Saṃhitā Cikitsāsthāna 7.54-55.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Caraka Saṃhitā Cikitsāsthāna 7.61-82.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Caraka Saṃhitā Cikitsāsthāna 7.82-83.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Caraka Saṃhitā Cikitsāsthāna 7.91-92.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Suśruta Saṃhitā Sūtrasthāna 2.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Arthaśāstra 2.36.10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Caraka Saṃhitā Sūtrasthāna 11.14-15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Caraka Saṃhitā Indriyasthāna12.67.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[59]</strong> P. Olivelle, Hair and Society in Olivelle, Language, Texts and Society: Explorations in Ancient Indian Culture and Religion, London and New York, 2011, pp.332-333.</div>
+
+
+
+
+<div className="footnote-card"><strong>[60]</strong> P. Olivelle, “Hair and Society”, p.335.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Suśruta Saṃhitā Sūtrasthāna 29.8.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[62]</strong> P. Olivelle, “Hair and Society”, p.335.</div>
+
+
+
+
+<div className="footnote-card"><strong>[63]</strong> P. Olivelle, “Hair and Society”, p.337.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Suśruta Saṃhitā Sūtrasthāna 29.11/1.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[65]</strong> G. Flood, G., “The Śaiva Traditions” in G. Flood (ed.), The Blackwell Companionto Hinduism, New Delhi, 2008 Indian Reprint, p. 207.</div>
+
+
+
+
+<div className="footnote-card"><strong>[66]</strong> G. Flood, “The Śaiva Traditions” p.207.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Suśruta Saṃhitā Sūtrasthāna 29.12/1.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[68]</strong> P. Olivelle, “Hair and Society”, p.323.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> Caraka Saṃhitā Cikitsāsthāna 1:4.50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Caraka Saṃhitā Vimānasthāna 3.45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> Caraka Saṃhitā Vimānasthāna 3.45.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -824,10 +1223,6 @@ Caraka Saṃhitā Vimānasthāna 3.45.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix 1 - Description of a Hospital: Charaka Samhita And Sushruta Samhita Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

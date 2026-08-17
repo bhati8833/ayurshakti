@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The life, date, and works of Someshvara III within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 6. Chapter 1 - The life, date, and works of Someshvara III
+## Chapter 1 - The life, date, and works of Someshvara III
 
 Manasollasa (study of Arts and Sciences)
 
@@ -69,7 +69,7 @@ A large number of bright stars have shone in the sky of the history of Karnataka
 
 ---
 
-## 7. 2.1. The element of the King, (Prabhu or Svamin)
+## 2.1. The element of the King, (Prabhu or Svamin)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -105,8 +105,6 @@ The seven elements are enumerated in accordance with their relative importance. 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -114,10 +112,6 @@ The seven elements are enumerated in accordance with their relative importance. 
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Element of the Minister or Amatya: Manasollasa Study Of Arts And Sciences Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

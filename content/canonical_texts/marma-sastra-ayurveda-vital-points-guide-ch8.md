@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Concept of Trimarmiya within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. The Concept of Trimarmiya
+## The Concept of Trimarmiya
 
 Marma-sastra and Ayurveda (study)
 
@@ -33,7 +33,7 @@ nbh nh Place of life. f. Place of sleep. g. Place of memory. h. Place of nerve. 
 
 ---
 
-## 29. Study of Nila and Manya Marma
+## Study of Nila and Manya Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -55,7 +55,7 @@ these varmas. However with the available data, the following varmas are taken in
 
 ---
 
-## 30. Study of Avarta Marma
+## Study of Avarta Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -75,8 +75,6 @@ external injury and also superficial treatment no doubt influence the underlying
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -84,10 +82,6 @@ external injury and also superficial treatment no doubt influence the underlying
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Krikatika Marma: Marma Sastra and Ayurvedic Science Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

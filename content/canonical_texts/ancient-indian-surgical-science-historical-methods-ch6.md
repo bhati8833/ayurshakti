@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 16. Conclusion and References within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. 16. Conclusion and References
+## 16. Conclusion and References
 
 Surgery in ancient India (Study)
 
@@ -35,7 +35,7 @@ Yajurveda Samhita, Veda Pratishthana, New Delhi, 1989, P-208 46. Subbarayappa, B
 
 ---
 
-## 19. Chapter 2 - The concept and practice of Surgery in ancient India
+## Chapter 2 - The concept and practice of Surgery in ancient India
 
 Surgery in ancient India (Study)
 
@@ -45,11 +45,9 @@ Chapter 2 - The concept and practice of Surgery in ancient India
 
 References from Sanskrit sources
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 20. 2. History of Surgery
+## 2. History of Surgery
 
 Surgery in ancient India (Study)
 
@@ -69,8 +67,6 @@ Barber surgeons generally had a bad reputation that was not to 19 improve until 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +74,6 @@ Barber surgeons generally had a bad reputation that was not to 19 improve until 
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">4. Surgery in the time of Vedas: Ancient Indian Surgical Science Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

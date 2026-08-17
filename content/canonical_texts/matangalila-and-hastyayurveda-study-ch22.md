@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elephants as commodities of Trade within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 71. Elephants as commodities of Trade
+## Elephants as commodities of Trade
 
 Matangalila and Hastyayurveda (study)
 
@@ -33,11 +33,7 @@ Varāhamihira mentions four kinds of elephants in Bṛhatsaṃhitā (Chapter LXV
 
 Varāhamihira also refers to four other kinds of elephants which were forbidden for domestication, viz.
 
-Kubja,
-
-Vāmanaka,
-
-Matkuṇa and
+Kubja,, Vāmanaka,, Matkuṇa and
 
 Ṣaṇḍha (LXVI.10).
 
@@ -61,116 +57,161 @@ Regions famous for elephants:
 
 According to Mahābhārata Bengal and Odisha were famous for fine cotton and elephants.[25] Black elephants of Kaliṅga region were very much famous in ancient past and have been referred to by the Chinese traveller Xuan Zang.
 
-[1]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Delhi: Motilal Banarsidass, 1985 (Reprint), p. 73.
+<div className="footnote-card"><strong>[1]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, Delhi: Motilal Banarsidass, 1985 (Reprint), p. 73.</div>
 
-[2]:
 
-T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, Trivandrum, Trivandrum Sanskrit Series, No. X, 1910, p.18. “etāvanmūlyameṣāmalamiti gadiṃtu no samarthā manuṣyā Kreturvikreturekaṃ yadiha bahumataṃ tadvidurmukhyamūlamI Ekasthāsammataṃ madhyamamanabhimataṃ cobhayornindyamasmāt Tadjñaiḥ sarvaṃ viditvā bahubhiravahitairmūlyamūjhyaṃ gajānam II”.
 
-[3]:
 
-Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 73.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> T. Ganapati Śāstri. ed. The Mātaṅgalīlā of Nīlakaṇṭha, Trivandrum, Trivandrum Sanskrit Series, No. X, 1910, p.18. “etāvanmūlyameṣāmalamiti gadiṃtu no samarthā manuṣyā Kreturvikreturekaṃ yadiha bahumataṃ tadvidurmukhyamūlamI Ekasthāsammataṃ madhyamamanabhimataṃ cobhayornindyamasmāt Tadjñaiḥ sarvaṃ viditvā bahubhiravahitairmūlyamūjhyaṃ gajānam II”.
+</blockquote>
 
-[4]:
 
-Shri Mantramurti K.S. Subrahmanyaśāstri, ed. & tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 161-162.
 
-[5]:
 
-“sarvalakṣaṇasaṃpanna eko vā sāmasamhavaḥ /
+<div className="footnote-card"><strong>[3]</strong> Franklin Edgerton. tr. The Elephant-Lore of the Hindus, p. 73.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Shri Mantramurti K.S. Subrahmanyaśāstri, ed. & tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gaja-śāstram of Pālakāpya muni with extracts from other works and Coloured Illustrations, pp. 161-162.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> “sarvalakṣaṇasaṃpanna eko vā sāmasamhavaḥ /
 kṛtsnāmapi mahīṃ datvā grāhyo rājñā bubhūṣatā //”–Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v.3), p.161.
+</blockquote>
 
-[6]:
 
-Ibid., p. 161.
 
-[7]:
 
-“bhagnaikadanta gṛhṇīyādbhagnaikāṅgaṃ ca vāraṇam /
+<div className="footnote-card"><strong>[6]</strong> Ibid., p. 161.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> “bhagnaikadanta gṛhṇīyādbhagnaikāṅgaṃ ca vāraṇam /
 ardhenāṃśena mūlyasya prerakapreṣaṇāya tu //” - Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 7), p. 161.
+</blockquote>
 
-[8]:
 
-“naṣṭaikanayanaṃ nāgaṃ bhinnahastāgravāladhim /
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> “naṣṭaikanayanaṃ nāgaṃ bhinnahastāgravāladhim /
 bharaṇāya tu bhārāṇāṃ gṛhṇīyādardhmūlyataḥ //” - Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 8), p. 162.
+</blockquote>
 
-[9]:
 
-“chhinnāgrakarṇaṃ gṛhṇīyānnāgaṃ mūlyārdhabhāgataḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> “chhinnāgrakarṇaṃ gṛhṇīyānnāgaṃ mūlyārdhabhāgataḥ /
 bhagnadantadvayaṃ bhagnagātradvandvamathāpi vā //” - Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 9), p.162.
+</blockquote>
 
-[10]:
 
-“bhagnāparadvayaṃ nāgaṃ gṛhṇīyātpādāmūlyataḥ /
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> “bhagnāparadvayaṃ nāgaṃ gṛhṇīyātpādāmūlyataḥ /
 caturbhāgena mūlyasya mahādoṣāñcitaṃ gajam //” - Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 10), p. 162.
+</blockquote>
 
-[11]:
 
-“tyajedādāya nāśāya deśe vairimahībhujām /
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> “tyajedādāya nāśāya deśe vairimahībhujām /
 vikṛtāṅgamarāḷaṃ cāpyatyarāḷādikaṃ gajam //” - Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 11), p. 162.
+</blockquote>
 
-[12]:
 
-“ardhamūlyena saṃgṛhya tvarideśaṃ ca praśayet /
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> “ardhamūlyena saṃgṛhya tvarideśaṃ ca praśayet /
 śālāyāṃ naiva badhnīyādekāhamapi //” - Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 12), p. 162.
+</blockquote>
 
-[13]:
 
-“Chhāyāhīnaṃ ca kubjaṃ ca paiśācaṃ romakūrcakam I Kacāvṛtaśarīraṃ ca gṛhṇīyādardhamūlyataḥ II”, Shri Mantramurti K.S. Subrahmanyaśāstri, ed. & tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Appendix, Atha Gajamūlyanirṇayaḥ, v. 13), p. 162.
 
-[14]:
 
-“Ariṇāṃ deśanāśāya tvaritaṃ preṣayeñca tān I Sarvalakṣaṇayuktopi pādahīno mataṅgajaḥ I Ardhanāga iti proktaḥ varjanīyo mahībhujā II”, Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 14), p. 162.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> “Chhāyāhīnaṃ ca kubjaṃ ca paiśācaṃ romakūrcakam I Kacāvṛtaśarīraṃ ca gṛhṇīyādardhamūlyataḥ II”, Shri Mantramurti K.S. Subrahmanyaśāstri, ed. & tr. (in Tamil) with a summary in English by Shri S.Gopalan, Gajaśāstra [Gaja-śāstram] of Pālakāpya muni with extracts from other works and Coloured Illustrations, (Appendix, Atha Gajamūlyanirṇayaḥ, v. 13), p. 162.
+</blockquote>
 
-[15]:
 
-Bhadra is also named in Chapter LXXX.20.
 
-[16]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.87.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> “Ariṇāṃ deśanāśāya tvaritaṃ preṣayeñca tān I Sarvalakṣaṇayuktopi pādahīno mataṅgajaḥ I Ardhanāga iti proktaḥ varjanīyo mahībhujā II”, Ibid., (Appendix, Atha Gajamūlyanirṇayaḥ, v. 14), p. 162.
+</blockquote>
 
-[17]:
 
-CII, IV, pp. 215&223.
 
-[18]:
 
-EI, XLII, pp. 166-68.
+<div className="footnote-card"><strong>[15]</strong> Bhadra is also named in Chapter LXXX.20.</div>
 
-[19]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.168.
 
-[20]:
 
-Ibid., p. ix (Introduction by V.S. Agrawala).
+<div className="footnote-card"><strong>[16]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.87.</div>
 
-[21]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.162.
 
-[22]:
 
-EC, Vol.V, pt. I, p. XX.
+<div className="footnote-card"><strong>[17]</strong> CII, IV, pp. 215&223.</div>
 
-[23]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.60.
 
-[24]:
 
-Ajay Desai. Indian Elephant: Endangered in the Land of Lord Ganesha, Vigyan Prasar, 2002.
+<div className="footnote-card"><strong>[18]</strong> EI, XLII, pp. 166-68.</div>
 
-[25]:
 
-Moti Chandra. Trade and Trade Routes in Ancient India, p.68.
+
+
+<div className="footnote-card"><strong>[19]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.168.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., p. ix (Introduction by V.S. Agrawala).</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.162.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> EC, Vol.V, pt. I, p. XX.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.60.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Ajay Desai. Indian Elephant: Endangered in the Land of Lord Ganesha, Vigyan Prasar, 2002.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Moti Chandra. Trade and Trade Routes in Ancient India, p.68.</div>
 
 ---
 
-## 72. Chapter 6 - Conclusion
+## Chapter 6 - Conclusion
 
 Matangalila and Hastyayurveda (study)
 
@@ -321,133 +362,172 @@ Concluding Remarks:
 
 The present work thus brings to light several unknown facts about elephants and their utility in a civilized society–we have analysed different genres of textual date mainly on elephants and what comes forth is that texts were composed not by those involved directly with the practical dealings i.e. elephant riders, catchers, trainers and so on but the target audience and readers also included them. The texts were created mainly for the royal army, keepers of stables and also other experts who handled elephants. Elephants were a source of fortune, their use in trade prompted the royalty to patronise the composition and creation of such texts. The more the number of elephants, the more prosperity and strength of the army. Hence every ruler wanted to make them captive and domesticate them according to their requirement and usage. Hence the need to have a proper data and texts on their availability, abodes, upkeep and care was imperative and from this demand the texts were created. Once the elephants were captured having a veterinary doctor crew was equally important. To treat the injured ones in the battle fields as well their necessity was felt. But more important was to have a proper hasti vaidya while the royal contingent was enrooted as a long distance travel. The texts also provide us information how veterinary doctors in and around the place of campaign and journey were to help the caravan or the royal retinue. Our study also reflects the practical angle of the use and position of the animal in varied social groups and condition. This data has been culled from epigraphic sources. The myths and metaphors related to elephants have been studied for the first time in the present research. Gajaśāstra also has been used in detail for the first time in this present thesis. Trade in elephants and ivory has also been addressed from different angle altogether in our doctoral research. The depiction of elephants on coins reflects their availability, importance and usage in these specific regions where it was issued or used. Sifting through a wide gamut of sources of different types has allowed us unravel several new facts about the association of early India with elephant and the science of elephantology.
 
-[1]:
 
-Susmita Basu Majumdar, Local Coins of Ancient India, a new series, Coins of Malhar, Anjaneri: IIRNS, 2000.
+<div className="footnote-card"><strong>[1]</strong> Susmita Basu Majumdar, Local Coins of Ancient India, a new series, Coins of Malhar, Anjaneri: IIRNS, 2000.</div>
 
-[2]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, Bombay: University of Bombay, 1963, p. 68.
 
-[3]:
 
-Ibid., p. 52.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, Bombay: University of Bombay, 1963, p. 68.
+</blockquote>
 
-[4]:
 
-Ibid., p. 63.
 
-[5]:
 
-Ibid., p. 64.
+<div className="footnote-card"><strong>[3]</strong> Ibid., p. 52.</div>
 
-[6]:
 
-Ibid., p. 67.
 
-[7]:
 
-Ibid.
+<div className="footnote-card"><strong>[4]</strong> Ibid., p. 63.</div>
 
-[8]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p.68.
 
-[9]:
 
-Ibid., p. 78.
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 64.</div>
 
-[10]:
 
-Ibid., p. 82.
 
-[11]:
 
-Ibid., p. 88.
+<div className="footnote-card"><strong>[6]</strong> Ibid., p. 67.</div>
 
-[12]:
 
-Ibid., pp. 88-89.
 
-[13]:
 
-Ibid., p. 152.
+<div className="footnote-card"><strong>[7]</strong> Ibid.</div>
 
-[14]:
 
-Ibid., pp. 152-153.
 
-[15]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 209.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p.68.
+</blockquote>
 
-[16]:
 
-Ibid., p. 257.
 
-[17]:
 
-Ibid., p. 290.
+<div className="footnote-card"><strong>[9]</strong> Ibid., p. 78.</div>
 
-[18]:
 
-Ibid., p. 326.
 
-[19]:
 
-Ibid., pp. 344-345.
+<div className="footnote-card"><strong>[10]</strong> Ibid., p. 82.</div>
 
-[20]:
 
-Ibid., p. 343.
 
-[21]:
 
-Ibid., pp. 350-351.
+<div className="footnote-card"><strong>[11]</strong> Ibid., p. 88.</div>
 
-[22]:
 
-Ibid., p. 360.
 
-[23]:
 
-Ibid., p. 429.
+<div className="footnote-card"><strong>[12]</strong> Ibid., pp. 88-89.</div>
 
-[24]:
 
-R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 373.
 
-[25]:
 
-EUCC–Early Uninscribed Cast Copper Coins.
+<div className="footnote-card"><strong>[13]</strong> Ibid., p. 152.</div>
 
-[26]:
 
-P.V. Sharma. ed. & tr. Suśruta-Saṃhitā, Vol.1 (Sūtrasthāna), Varanasi: Chaukhambha Visvabharati, 2013, p. 428.
 
-[27]:
 
-Ibid., p. 431.
+<div className="footnote-card"><strong>[14]</strong> Ibid., pp. 152-153.</div>
 
-[28]:
 
-Ibid., p. 437.
 
-[29]:
 
-Ibid., p. 461.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 209.
+</blockquote>
 
-[30]:
 
-Ibid., p. 484.
 
-[31]:
 
-Susmita Basu Majumdar. The Mauryas in Karnataka, Kolkata: Mahabodhi Book Agency, 2016, pp. 22-25.
+<div className="footnote-card"><strong>[16]</strong> Ibid., p. 257.</div>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> Ibid., p. 290.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Ibid., p. 326.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Ibid., pp. 344-345.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Ibid., p. 343.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Ibid., pp. 350-351.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Ibid., p. 360.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid., p. 429.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, Part II, p. 373.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> EUCC–Early Uninscribed Cast Copper Coins.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> P.V. Sharma. ed. & tr. Suśruta-Saṃhitā, Vol.1 (Sūtrasthāna), Varanasi: Chaukhambha Visvabharati, 2013, p. 428.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Ibid., p. 431.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Ibid., p. 437.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Ibid., p. 461.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Ibid., p. 484.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Susmita Basu Majumdar. The Mauryas in Karnataka, Kolkata: Mahabodhi Book Agency, 2016, pp. 22-25.</div>
 
 ---
 
-## 73. Concluding Remarks
+## Concluding Remarks
 
 Matangalila and Hastyayurveda (study)
 
@@ -479,8 +559,6 @@ Understanding or mapping the demand for elephants: A communicator who would comm
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -488,10 +566,6 @@ Understanding or mapping the demand for elephants: A communicator who would comm
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Appendix III: Elephant on other Coins: Matangalila And Hastyayurveda Study Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

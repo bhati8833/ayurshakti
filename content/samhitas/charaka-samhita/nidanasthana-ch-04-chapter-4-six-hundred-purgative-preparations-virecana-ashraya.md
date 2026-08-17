@@ -26,7 +26,11 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Chapter 4 - Six Hundred Purgative Preparations (virecana-ashraya)
 
+
+<blockquote className="ayur-shloka">
 1. We shall now expound the chapter entitled “Six hundred purgative preparations (Virecana-Ashraya—virecana-āśraya).”
+</blockquote>
+
 
 2. Thus declared the worshipful Atreya.
 
@@ -342,7 +346,11 @@ Here are described in brief the 600 purgative preparations, the names of the dru
 
 29. He is the best of physicians, who knows the art of combination as well as the systematic administration of these preparations, both internally and externally.
 
+
+<blockquote className="ayur-shloka">
 30. Thus, in the section on General Principles, in the treatise compiled by Agnivesha and revised by Caraka, the fourth chapter entitled Six hundred Purgative Preparations (Virecana-Ashraya—virecana-āśraya), is completed.
+</blockquote>
+
 
 Thus ends the tetrad of chapters on drugs.
 

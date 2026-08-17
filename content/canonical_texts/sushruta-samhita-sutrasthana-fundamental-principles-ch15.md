@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of blood within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. Chapter XIV - Description of blood
+## Chapter XIV - Description of blood
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -119,21 +119,20 @@ The Vayu of a person who has been bled, and which has been aggravated by constan
 
 Thus ends the fourteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of Blood.
 
-[1]:
 
-It is free from all sorts of impurities such as fecal matter, etc., and permeates the minutest vessels and capillaries.
+<div className="footnote-card"><strong>[1]</strong> It is free from all sorts of impurities such as fecal matter, etc., and permeates the minutest vessels and capillaries.</div>
 
-[2]:
 
-The successive development of the fundamental or root principles of the body follows a distinct order. The essence of the assimilated food-matter under the heat of digestion goes towards the formation of chyle, and is ultimately transformed into it, its excreted and effete residue being passed out of the organism in the shape of stool, etc. The chyle thus produced is called the immature Rasa, or the Rasa in its nascent stage. Subsequently it enters into the bodily principle of Rasa, becomes matured by the native heat of the latter, and is resolved into three factors, or in other words, its excreted matter is transformed into phlegm, its thick or condensed portion is transformed into and assimilated in the matured Rasa of the body, whereas its subtile essence is metamorphosed into blood. The blood, thus newly generated, is merged into the fundamental organic principle of blood; and there by the heat of the latter it is again resolved into three factors, viz., its excreted portion is transformed into bile, its thick or condensed portion is transformed or assimilated into the fundamental organic principle of blood, and its subtile essence is metamorphosed into flesh. The flesh, thus newly formed, is merged into the fundamental organic principle of flesh, and there, by the native heat of the latter, it is resolved into three factors, vis, its excreted portion goes towards the formation of such excreta as are found to be deposited in the corners of the eyes and inside the integuments of the prepuce, or about the region of the glans penis, its thick or condensed portion is transformed into the organic principle of flesh and its subtile essence is metamorphosed into fat. The fat, thus newly generated, enters into the organic principle of that name, and there, by the native heat of the latter, is resolved into three factors, viz, its excreted portion is discharged through the pores of the skin in drops of perspiration, its condensed portion is assimilated in the organic principle of fat, and its subtile portion is metamorphosed into bone. Again the bone, in its nascent stage, enters into the organic principle of bone, and there, by the inherent heat of that principle, is resolved into three factors, viz, its excreted portion goes towards the formation of hairs, mustaches, etc, its thick or condensed portion is assimilated into the organic principle of bone, and its subtile portion is metamorphosed into marrow. The marrow, in its nascent state, enters into the organic principle of that name; and there matured under the native heat of that principle, it is resolved into three factors, viz, its excreted portion contributes towards the formation of gelatinous matter deposited in the corners of the eyes, and the oily secretions of the skin, its condensed portion is assimilated into the organic principle of marrow, and its subtile portion is metamorphosed into semen. The semen again, in its nascent stage, enters into the organic principle of that name and there matured under its native heat is resolved into two factors, viz. thick and thin. The thick portion is assimilated into the organic principle of semen, the thin one being metamorphosed into (albumen). Semen, like gold a thousand times purified, casts off no dregs. Hence certain authorities hold albumen (protoplasmic matter) to be the eighth or the culminating principle of the body.
 
-[3]:
 
-Additional texts:—Later on we shall have occasion to speak of the principles known as the life-blood (essential conditions of vitality—Sk. Jiva-Shonita) and of the process of blood-letting.
+<div className="footnote-card"><strong>[2]</strong> The successive development of the fundamental or root principles of the body follows a distinct order. The essence of the assimilated food-matter under the heat of digestion goes towards the formation of chyle, and is ultimately transformed into it, its excreted and effete residue being passed out of the organism in the shape of stool, etc. The chyle thus produced is called the immature Rasa, or the Rasa in its nascent stage. Subsequently it enters into the bodily principle of Rasa, becomes matured by the native heat of the latter, and is resolved into three factors, or in other words, its excreted matter is transformed into phlegm, its thick or condensed portion is transformed into and assimilated in the matured Rasa of the body, whereas its subtile essence is metamorphosed into blood. The blood, thus newly generated, is merged into the fundamental organic principle of blood; and there by the heat of the latter it is again resolved into three factors, viz., its excreted portion is transformed into bile, its thick or condensed portion is transformed or assimilated into the fundamental organic principle of blood, and its subtile essence is metamorphosed into flesh. The flesh, thus newly formed, is merged into the fundamental organic principle of flesh, and there, by the native heat of the latter, it is resolved into three factors, vis, its excreted portion goes towards the formation of such excreta as are found to be deposited in the corners of the eyes and inside the integuments of the prepuce, or about the region of the glans penis, its thick or condensed portion is transformed into the organic principle of flesh and its subtile essence is metamorphosed into fat. The fat, thus newly generated, enters into the organic principle of that name, and there, by the native heat of the latter, is resolved into three factors, viz, its excreted portion is discharged through the pores of the skin in drops of perspiration, its condensed portion is assimilated in the organic principle of fat, and its subtile portion is metamorphosed into bone. Again the bone, in its nascent stage, enters into the organic principle of bone, and there, by the inherent heat of that principle, is resolved into three factors, viz, its excreted portion goes towards the formation of hairs, mustaches, etc, its thick or condensed portion is assimilated into the organic principle of bone, and its subtile portion is metamorphosed into marrow. The marrow, in its nascent state, enters into the organic principle of that name; and there matured under the native heat of that principle, it is resolved into three factors, viz, its excreted portion contributes towards the formation of gelatinous matter deposited in the corners of the eyes, and the oily secretions of the skin, its condensed portion is assimilated into the organic principle of marrow, and its subtile portion is metamorphosed into semen. The semen again, in its nascent stage, enters into the organic principle of that name and there matured under its native heat is resolved into two factors, viz. thick and thin. The thick portion is assimilated into the organic principle of semen, the thin one being metamorphosed into (albumen). Semen, like gold a thousand times purified, casts off no dregs. Hence certain authorities hold albumen (protoplasmic matter) to be the eighth or the culminating principle of the body.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Additional texts:—Later on we shall have occasion to speak of the principles known as the life-blood (essential conditions of vitality—Sk. Jiva-Shonita) and of the process of blood-letting.</div>
 
 ---
-
-
 
 ---
 
@@ -142,10 +141,6 @@ Additional texts:—Later on we shall have occasion to speak of the principles k
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Alkaline cautery: Sushruta Samhita Sutrasthana Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

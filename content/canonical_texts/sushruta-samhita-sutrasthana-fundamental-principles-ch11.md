@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Practical surgical instructions within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 17. Chapter IX - Practical surgical instructions
+## Chapter IX - Practical surgical instructions
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -31,8 +31,6 @@ Thus ends the ninth chapter of the Sutrasthana in the Sushruta Samhita which tre
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ Thus ends the ninth chapter of the Sutrasthana in the Sushruta Samhita which tre
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">Qualifications of a physician: Sushruta Samhita Sutrasthana Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

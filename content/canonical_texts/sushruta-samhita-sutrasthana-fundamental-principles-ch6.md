@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Preliminary measures within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 12. Chapter V - Preliminary measures
+## Chapter V - Preliminary measures
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -123,21 +123,20 @@ Clarified butter boiled with Yashtimadhu, and applied tepid to a wound, incident
 
 Thus ends the fifth chapter, of the Sutrasthana in the Sushruta Samhita which treats of Preliminary measures.
 
-[1]:
 
-Several authorities hold that acts such as fasting, administration of purgatives, etc. should be included within the preliminary measures; application of absorbent (Pacana) or healing medicinal agents, within the second or the principal measures; and the administration of tonics or restoratives within the third or the after-measure group. Others, on the contrary, lay down that measures adopted for the absorption, lubrication (pacification by the application of oily substances) or elimination of the deranged bodily humours by sweating should be grouped under the first subhead (Purva-karma), the administration of active purgatives, emetics etc., under the second (Pradhana-karma) and the giving of rice meal, etc. to the patient under the (Paschat-karma) last; while according to others the active medicinal agents employed to cope with the deranged humours in the incubative stage of a bodily disease till the appearance of its first characteristic symptoms, should be denominated as the Preliminary measure; measures employed for the subjugation of a disease in its patent or fully developed stage as the Pradhana-karma, and measures employed to guard against the recrudescence of a disease and for the restoration of health in a patient is the sequel treatment or the Paschat-karma.
+<div className="footnote-card"><strong>[1]</strong> Several authorities hold that acts such as fasting, administration of purgatives, etc. should be included within the preliminary measures; application of absorbent (Pacana) or healing medicinal agents, within the second or the principal measures; and the administration of tonics or restoratives within the third or the after-measure group. Others, on the contrary, lay down that measures adopted for the absorption, lubrication (pacification by the application of oily substances) or elimination of the deranged bodily humours by sweating should be grouped under the first subhead (Purva-karma), the administration of active purgatives, emetics etc., under the second (Pradhana-karma) and the giving of rice meal, etc. to the patient under the (Paschat-karma) last; while according to others the active medicinal agents employed to cope with the deranged humours in the incubative stage of a bodily disease till the appearance of its first characteristic symptoms, should be denominated as the Preliminary measure; measures employed for the subjugation of a disease in its patent or fully developed stage as the Pradhana-karma, and measures employed to guard against the recrudescence of a disease and for the restoration of health in a patient is the sequel treatment or the Paschat-karma.</div>
 
-[2]:
 
-Certain commentators interpret the couplet as follows: A boil or an abscess which is wide, extended, well defined in its shape, equally suppurated in all its parts and does not involve any vital part of the body is the fittest thing for a surgeon’s knife—Tr.
 
-[3]:
 
-Even the bedsheets, etc. of the patient should be fumigated as above. This foreshadows the germ theory of the modern days—Tr.
+<div className="footnote-card"><strong>[2]</strong> Certain commentators interpret the couplet as follows: A boil or an abscess which is wide, extended, well defined in its shape, equally suppurated in all its parts and does not involve any vital part of the body is the fittest thing for a surgeon’s knife—Tr.</div>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Even the bedsheets, etc. of the patient should be fumigated as above. This foreshadows the germ theory of the modern days—Tr.</div>
 
 ---
-
-
 
 ---
 
@@ -146,10 +145,6 @@ Even the bedsheets, etc. of the patient should be fumigated as above. This fores
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Initiation of the pupil: Sushruta Samhita Sutrasthana Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

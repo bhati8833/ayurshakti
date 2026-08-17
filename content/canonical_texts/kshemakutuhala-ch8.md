@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Sitting arrangement and Dining table within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. The Sitting arrangement and Dining table
+## The Sitting arrangement and Dining table
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -29,7 +29,7 @@ The food preparations are arranged on the dinning table as follows : Left side o
 
 ---
 
-## 27. Ayurvedic Dietetic rules
+## Ayurvedic Dietetic rules
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -55,7 +55,7 @@ Nutritional needs for the day. 2. Likes and dislikes of the group. 3. The stayin
 
 ---
 
-## 28. Chapter 3 - Preservation of Health
+## Chapter 3 - Preservation of Health
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -63,11 +63,7 @@ This is an English study of the Kshemakutuhala by Kshemasharma—an ancient Indi
 
 Chapter 3 - Preservation of Health
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -76,10 +72,6 @@ Chapter 3 - Preservation of Health
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">References and Notes for chapter 2: Kshemakutuhala Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

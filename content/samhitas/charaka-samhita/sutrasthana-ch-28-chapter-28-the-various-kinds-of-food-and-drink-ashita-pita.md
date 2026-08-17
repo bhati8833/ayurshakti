@@ -26,13 +26,21 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Chapter 28 - The Various kinds of Food and Drink (Ashita-Pita)
 
+
+<blockquote className="ayur-shloka">
 1. We shall now expound the chapter entitled “The various kinds of Food and Drink (Ashita-Pita—vividha-āśita-pīta).”
+</blockquote>
+
 
 2. Thus declared the worshipful Atreya.
 
 The effects of Food (ashita) and Drink (pita)
 
+
+<blockquote className="ayur-shloka">
 3. The various kinds of wholesome nourishment taken by man, viz., eatables (ashita), drinks (pita), electuaries (Lidha—līḍha) and masticables (Khadita—khādita), on being well digested by the heat of the particular body-element concerned, whose strength is kept active by the inner gastric fire, imbue the entire body wherein the metabolic processes of all the body-elements are constantly going on like the process of time and wherein the circulation of the body-elements and the body-channels is unimpeded—with growth, strength, complexion, happiness and life, as well as replenish the body-elements. It is by being nourished with corresponding elements that the body elements are able to maintain the body in the normal condition.
+</blockquote>
+
 
 4-(1). From the food ingested, there are formed assimilable nutritionfluid called the essential fluid and the excretory matter called the waste product. From this waste part are produced and fed sweat, urine, feces, the three excretory humors Vata, Pitta and Kapha, the excretions of the ear, eye, nose, mouth, hair-follicles and generative organs as well as the hairs of the head and beard, hairs of the body, and nails etc
 
@@ -158,7 +166,11 @@ Here are the recapitulatory verses:—
 
 43. the difference between the wise and the ignorant man; what is wholesome for both the healthy and the ailing—all this has has been set forth in this chapter on “The Various kinds of food (ashita) and drink (pita)”.
 
+
+<blockquote className="ayur-shloka">
 28. Thus in the Section on General Principles in the treatise compiled by Agnivesha and revised by Caraka, the twentyeighth chapter entitled “The various kinds of Food and Drink (Ashita-Pita—vividha-āśita-pīta)” is completed.
+</blockquote>
+
 
 7. Thus the quartet of chapters dealing with diet and dietetics is completed.
 

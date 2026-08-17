@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Indigenous Plants for the Treatment of Diseases of Animals within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 118. Part 31 - Indigenous Plants for the Treatment of Diseases of Animals
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Indigenous Plants for the Treatment of Diseases of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 31 - Indigenous Plants for the Treatment of Diseases of Animals
 
 Part 31 - Indigenous Plants for the Treatment of Diseases of Animals
 
@@ -35,65 +31,84 @@ In the Purāṇas we don’t find about Kuṇapajala. Ancient farmers used manur
 
 In case of animal husbandry modern farmers follow almost all the methods of rearing and tending, feeding and nourishment, treatment and care and management of cattle from the Purāṇas. It is observed that diets of animals were well-maintained by the Purāṇas. The modern system of animal husbandry also strictly follows the diets which are to be served to the animals when they are kept as pets. Even today in various parts of the country the feeding material for cattle consists of straws of cereal crops, trees of Prosopis, Acacia and Ficus species and the well-known nimba. Both the Purāṇic and post-Purāṇic texts deal with the cattle care methodically. The people in the days of the Purāṇas insisted on constructing sheds for cattle and ensured suitable sanitized conditions in the cow sheds, horse and elephant stables. Even today this consciousness of animal caring is observed. Today, Gośālās(protective shelters for cows) have been established all over India for preservation, protection and welfare of cows and calves. Special treatment and care for cattle are taken in Gośālās including bathing of cows, inspecting the cattle if they are suffering from any diseases or injury, healing the cows which are injured and medical treatment of diseased cows. Cattle in Gośālās are also taken out for grazing. They are provided with meals of gram, husk, fresh and dry fodder twice daily. Gosevā ambulances are also launched for service of cattle. In Assam, Jorhat Gośālā (Śrī Gītā Āśram) is the first Gośālā, to launch Gosevā ambulance service for injured cows. Moreover, in order to sustain organic farming, compost such as Vermicompost and Nadep Compost are prepared in Gośālās. Vermicompost is prepared from earthworms and any types of bio-degradable wastes such as vegetable wastes, hotel refuse, crop residues, and wastes from Agro-Industries. Nadep compost is prepared from cow-dung and crop residues, kitchen wastes, weeds, leaves, grasses, sugarcane trash and forest litter etc. Pañcagavya products are also obtained from the cows of Gośālā. Pañcagavya is used as a fermented product in agriculture today. The Purāṇas are the storehouse of traditional medicines prescribed for the treatment of animal diseases. The treatments of some animals are dealt with in a few chapters of the different Purāṇas. Modern veterinary doctors also follow most of traditional treatments as prescribed by the Purāṇas. It is witnessed that the system of agriculture and animal husbandry are not properly arranged in the Purāṇas. Various aspects of agriculture are scattered here and there in the Purāṇas. But the post-Purāṇic texts of agriculture seem to be more systematic and detailed, clear, simple and easy to learn. Thus, the Purāṇas appear to be a treasure house of agriculture and animal husbandry which are relevant even in the modern era. It can be therefore, opined that the Vedas and the Purāṇas are the pioneers of modern agriculture and animal husbandry in India.
 
-[1]:
 
-Agni Purāṇa , 302.28
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Agni Purāṇa , 302.28
+</blockquote>
 
-[2]:
 
-Ibid., 287.13
 
-[3]:
 
-Ibid., 287.17b
+<div className="footnote-card"><strong>[2]</strong> Ibid., 287.13</div>
 
-[4]:
 
-Agni Purāṇa , 289.29b-30a
 
-[5]:
 
-Garuḍa Purāṇa , 1.201.11-12a
+<div className="footnote-card"><strong>[3]</strong> Ibid., 287.17b</div>
 
-[6]:
 
-Saxena, R.C., et al, op.cit., p. 41
 
-[7]:
 
-Agni Purāṇa , 289.11-14a
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Agni Purāṇa , 289.29b-30a
+</blockquote>
 
-[8]:
 
-Ibid., 287.18a
 
-[9]:
 
-Saxena, R.C., et al, loc.cit.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Garuḍa Purāṇa , 1.201.11-12a
+</blockquote>
 
-[10]:
 
-Agni Purāṇa , 289.25b-26a
 
-[11]:
 
-Ibid.,287.18b-19a
+<div className="footnote-card"><strong>[6]</strong> Saxena, R.C., et al, op.cit., p. 41</div>
 
-[12]:
 
-Saxena, R.C., et al, loc.cit.
 
-[13]:
 
-Garuḍa Purāṇa , 1.201.38
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Agni Purāṇa , 289.11-14a
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 287.18a</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Saxena, R.C., et al, loc.cit.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Agni Purāṇa , 289.25b-26a
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid.,287.18b-19a</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Saxena, R.C., et al, loc.cit.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Garuḍa Purāṇa , 1.201.38
+</blockquote>
 
 ---
 
-## 119. Part 30 - Rearing of Cattle (in modern Indian society)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Rearing of Cattle (in modern Indian society)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 30 - Rearing of Cattle (in modern Indian society)
 
 Part 30 - Rearing of Cattle (in modern Indian society)
 
@@ -101,25 +116,24 @@ Part 30 - Rearing of Cattle (in modern Indian society)
 
 In rearing cattle, especially for dairy purposes, three things should be constantly kept in mind; viz., Breed, Feed and Trouble. By breed is meant undoubted pedigree, i.e., both the sire and the dam should be known for two or three generations past to have been of the desired type. In arranging for the feed of cattle, paddocks with shady trees are a necessity. Jowar, millets and other cheap grains, bran, oil-cakes and groundnut plants are the principal food-stuffs, besides straw, that should be the main vehicle to be depended upon. The oil-cake should be bought, but the other things should be grown, if possible, on the premises. Good water is of first consideration. Under the head of trouble, comes changing of litter or bedding, keeping the house clean, avoiding all ailments by watching the progress of the cattle day by day.[1] Rearing of animals is mentioned in the Purāṇas also. According to the Purāṇas, it was customary to keep in the stables the following beasts for the welfare of the horses-the cock, monkeys, especially the apes, a cow with her calf and goats. Dung should always be cleared away from the stables or elephant yards or cow sheds, before sunset. The quarters of the charioteers (sārathī) should be near the stables.[2] As diseases become more powerful in the fortress therefore, Veterinary doctors (govaidya, aśvavaidya and gajavaidya) should be provided lodging within the fortress.[3]
 
-[1]:
 
-Mukerji,Nitya Gopal, op.cit., p. 484
+<div className="footnote-card"><strong>[1]</strong> Mukerji,Nitya Gopal, op.cit., p. 484</div>
 
-[2]:
 
-Matsya Purāṇa , 217.21-23
 
-[3]:
 
-Ibid., 217.25
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Matsya Purāṇa , 217.21-23
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., 217.25</div>
 
 ---
 
-## 120. Chapter 6 - Conclusive Remarks
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Conclusive Remarks’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Chapter 6 - Conclusive Remarks
 
 Chapter 6 - Conclusive Remarks
 
@@ -222,8 +236,6 @@ These were the pioneers of agriculture who knew farming very well and wrote text
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -231,10 +243,6 @@ These were the pioneers of agriculture who knew farming very well and wrote text
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

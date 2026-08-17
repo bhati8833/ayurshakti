@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for indigestion (5): Ramabana rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 302. Part 7 - Treatment for indigestion (5): Ramabana rasa
+## Part 7 - Treatment for indigestion (5): Ramabana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for indigestion (5): Ramabana rasa’ included in Bh
 
 ---
 
-## 303. Part 8 - Treatment for indigestion (6): Agnisahaya rasa
+## Part 8 - Treatment for indigestion (6): Agnisahaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for indigestion (6): Agnisahaya rasa’ included in 
 
 ---
 
-## 304. Part 10 - Treatment for indigestion (8): Pashupata rasa
+## Part 10 - Treatment for indigestion (8): Pashupata rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for indigestion (8): Pashupata rasa’ included in B
 
 ---
 
-## 305. Part 11 - Treatment for indigestion (9): Amritakalpa rasa
+## Part 11 - Treatment for indigestion (9): Amritakalpa rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for indigestion (9): Amritakalpa rasa’ included in
 
 ---
 
-## 306. Part 12 - Treatment for indigestion (10): Ksudhasindhu rasa
+## Part 12 - Treatment for indigestion (10): Ksudhasindhu rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for indigestion (10): Ksudhasindhu rasa’ included 
 
 ---
 
-## 307. Part 9 - Treatment for indigestion (7): Mahagnikaraka rasa
+## Part 9 - Treatment for indigestion (7): Mahagnikaraka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -121,7 +121,7 @@ This concludes ‘Treatment for indigestion (7): Mahagnikaraka rasa’ included 
 
 ---
 
-## 308. Part 14 - Treatment for indigestion (12): Agni-tundi rasa
+## Part 14 - Treatment for indigestion (12): Agni-tundi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -139,7 +139,7 @@ This concludes ‘Treatment for indigestion (12): Agni-tundi rasa’ included in
 
 ---
 
-## 309. Part 13 - Treatment for indigestion (11): Bhakta-vipaka rasa
+## Part 13 - Treatment for indigestion (11): Bhakta-vipaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -157,7 +157,7 @@ This concludes ‘Treatment for indigestion (11): Bhakta-vipaka rasa’ included
 
 ---
 
-## 310. Part 15 - Treatment for indigestion (13): Panchamrita rasa
+## Part 15 - Treatment for indigestion (13): Panchamrita rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -175,7 +175,7 @@ This concludes ‘Treatment for indigestion (13): Panchamrita rasa’ included i
 
 ---
 
-## 311. Part 16 - Treatment for indigestion (14): Jvalanala rasa
+## Part 16 - Treatment for indigestion (14): Jvalanala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -193,7 +193,7 @@ This concludes ‘Treatment for indigestion (14): Jvalanala rasa’ included in 
 
 ---
 
-## 312. Part 19 - Treatment for indigestion (17): Majja-saradi rasa
+## Part 19 - Treatment for indigestion (17): Majja-saradi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -211,7 +211,7 @@ This concludes ‘Treatment for indigestion (17): Majja-saradi rasa’ included 
 
 ---
 
-## 313. Part 21 - Treatment for indigestion (19): Mahashankha rasa
+## Part 21 - Treatment for indigestion (19): Mahashankha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -229,7 +229,7 @@ This concludes ‘Treatment for indigestion (19): Mahashankha rasa’ included i
 
 ---
 
-## 314. Part 20 - Treatment for indigestion (18): Shankheshvara rasa and Mahashankhashvara rasa
+## Part 20 - Treatment for indigestion (18): Shankheshvara rasa and Mahashankhashvara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -249,7 +249,7 @@ This concludes ‘Treatment for indigestion (18): Shankheshvara rasa and Mahasha
 
 ---
 
-## 315. Part 17 - Treatment for indigestion (15): Vahni-pradipana rasa
+## Part 17 - Treatment for indigestion (15): Vahni-pradipana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -267,7 +267,7 @@ This concludes ‘Treatment for indigestion (15): Vahni-pradipana rasa’ includ
 
 ---
 
-## 316. Treatment for fever (158): Sadashiva rasa
+## Treatment for fever (158): Sadashiva rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -285,8 +285,6 @@ This concludes ‘Treatment for fever (158): Sadashiva rasa’ included in Bhude
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -294,10 +292,6 @@ This concludes ‘Treatment for fever (158): Sadashiva rasa’ included in Bhude
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for indigestion (20): Sandipana rasa: Rasa Jala Nidhi Volume 4 Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

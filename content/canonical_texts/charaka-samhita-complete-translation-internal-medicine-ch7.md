@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on k - The group of Cooked foods (Kritanna) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Chapter 27k - The group of Cooked foods (Kritanna)
+## Chapter 27k - The group of Cooked foods (Kritanna)
 
 Charaka Samhita (English translation)
 
@@ -145,7 +145,7 @@ The qualities of Shindaki and other fermented sour beverages.
 
 ---
 
-## 37. Chapter 27l - The section on the articles used in cooked foods (Aharayogi)
+## Chapter 27l - The section on the articles used in cooked foods (Aharayogi)
 
 Charaka Samhita (English translation)
 
@@ -241,7 +241,7 @@ The qualities of Celery, Black cumin Bishop’s weed, Coriander and indian tooth
 
 ---
 
-## 38. Chapter 28 - The Various kinds of Food and Drink (Ashita-Pita)
+## Chapter 28 - The Various kinds of Food and Drink (Ashita-Pita)
 
 Charaka Samhita (English translation)
 
@@ -389,7 +389,7 @@ Summary
 
 ---
 
-## 39. Chapter 29 - The Ten Resorts of Life (Dasha-Prana-Ayatana)
+## Chapter 29 - The Ten Resorts of Life (Dasha-Prana-Ayatana)
 
 Charaka Samhita (English translation)
 
@@ -463,7 +463,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 40. Chapter 30a - The Ten Great-rooted Arteries (Dasha-mahamula) in the Heart (Artha)
+## Chapter 30a - The Ten Great-rooted Arteries (Dasha-mahamula) in the Heart (Artha)
 
 Charaka Samhita (English translation)
 
@@ -507,7 +507,7 @@ Things to be practised and avoided in the protection of the heart etc.
 
 ---
 
-## 41. Nidanasthana (Nidana Sthana) — Section on Pathology
+## Nidanasthana (Nidana Sthana) — Section on Pathology
 
 Charaka Samhita (English translation)
 
@@ -515,13 +515,9 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Nidanasthana (Nidana Sthana) — Section on Pathology
 
-- Sub-Contents: (+ / -)
-
 Note.—The word pathology [i.e., nidana] here signifies the Science treating of diseases, their nature, causes, progress, manifestations and results. It is broadly divided into Nosology, Etiology, Morbid Anatomy; Symptomatology and Therapeutics. (Webster’s International Dictionary).
 
 ---
-
-
 
 ---
 
@@ -530,10 +526,6 @@ Note.—The word pathology [i.e., nidana] here signifies the Science treating of
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">b - Definition of Ayurveda (‘the science of life’): Charaka Samhita Complete Translation Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

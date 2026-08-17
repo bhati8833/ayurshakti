@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (84): Jvara-matanga-keshari rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 122. Treatment for fever (84): Jvara-matanga-keshari rasa
+## Treatment for fever (84): Jvara-matanga-keshari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (84): Jvara-matanga-keshari rasa’ includ
 
 ---
 
-## 123. Treatment for fever (86): Jvaramurari rasa
+## Treatment for fever (86): Jvaramurari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (86): Jvaramurari rasa’ included in Bhud
 
 ---
 
-## 124. Treatment for fever (87): Jvara-bhairava rasa
+## Treatment for fever (87): Jvara-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (87): Jvara-bhairava rasa’ included in B
 
 ---
 
-## 125. Treatment for fever (85): Chandra-shekhara rasa
+## Treatment for fever (85): Chandra-shekhara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for fever (85): Chandra-shekhara rasa’ included in
 
 ---
 
-## 126. Treatment for fever (89): Jvara-keshari rasa
+## Treatment for fever (89): Jvara-keshari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for fever (89): Jvara-keshari rasa’ included in Bh
 
 ---
 
-## 127. Treatment for fever (90): Vidyadhara rasa
+## Treatment for fever (90): Vidyadhara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for fever (90): Vidyadhara rasa’ included in Bhude
 
 ---
 
-## 128. Treatment for fever (91): Ardha-narishvara rasa and Tridoshadavanala rasa
+## Treatment for fever (91): Ardha-narishvara rasa and Tridoshadavanala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for fever (91): Ardha-narishvara rasa and Tridoshada
 
 ---
 
-## 129. Treatment for fever (92): Arkamurti rasa
+## Treatment for fever (92): Arkamurti rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for fever (92): Arkamurti rasa’ included in Bhudeb
 
 ---
 
-## 130. Treatment for fever (94): Kaphaketu rasa
+## Treatment for fever (94): Kaphaketu rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for fever (94): Kaphaketu rasa’ included in Bhudeb
 
 ---
 
-## 131. Treatment for fever (95): Kasturi-vijaya rasa
+## Treatment for fever (95): Kasturi-vijaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for fever (95): Kasturi-vijaya rasa’ included in B
 
 ---
 
-## 132. Treatment for fever (93): Tridosha-davanala-kalamegha rasa
+## Treatment for fever (93): Tridosha-davanala-kalamegha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for fever (93): Tridosha-davanala-kalamegha rasa’ 
 
 ---
 
-## 133. Treatment for fever (96): Kasturi-bhairava-rasa
+## Treatment for fever (96): Kasturi-bhairava-rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -227,7 +227,7 @@ This concludes ‘Treatment for fever (96): Kasturi-bhairava-rasa’ included in
 
 ---
 
-## 134. Treatment for fever (97): Shleshma-kalanala rasa
+## Treatment for fever (97): Shleshma-kalanala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Treatment for fever (97): Shleshma-kalanala rasa’ included i
 
 ---
 
-## 135. Treatment for fever (98): Sannipata-martanda rasa
+## Treatment for fever (98): Sannipata-martanda rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -263,7 +263,7 @@ This concludes ‘Treatment for fever (98): Sannipata-martanda rasa’ included 
 
 ---
 
-## 136. Treatment for fever (99): Suchika-ksepana rasa
+## Treatment for fever (99): Suchika-ksepana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -281,8 +281,6 @@ This concludes ‘Treatment for fever (99): Suchika-ksepana rasa’ included in 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -290,10 +288,6 @@ This concludes ‘Treatment for fever (99): Suchika-ksepana rasa’ included in 
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (88): Arogya-bhairava rasa: Rasa Jala Nidhi Volume 4 Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Chardi (vomiting) according to Caraka within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 125. Chardi (vomiting) according to Caraka
+## Chardi (vomiting) according to Caraka
 
 Chardi (vomiting) according to Caraka
 
@@ -19,13 +19,14 @@ Maharṣi Caraka discusses disease of Chardi and treatment of Vomiting and Chard
 
 The general treatment of Chardi includes lightening measures and evacuative measures. Regarding the diet of Chardi patients it has been said: old rice, wheat, snake-gourd, guḍūcī, butter-milk, roots of Citraka. Use of formulations to cures of this disease, namely, Kalyāṇa-Ghṛta, Tryūṣaṇa-Ghṛta and Jīvanīya-Ghṛta, juice of Āmalakī, etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XX.4-47; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 243-257.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XX.4-47; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. III, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 243-257.
+</blockquote>
 
 ---
 
-## 126. Tṛṣṇā (morbid thirst) according to Caraka
+## Tṛṣṇā (morbid thirst) according to Caraka
 
 Tṛṣṇā (morbid thirst) according to Caraka
 
@@ -45,13 +46,14 @@ Upasargaja Tṛṣṇā (as a complication of other diseases).
 
 The general treatment of Tṛṣṇā includes Aindra Jala, being touched by pleasant ladies, wine should be given mixed with water etc. Tṛṣṇā can also occur as a complication in those emaciated by other diseases[1].
 
-[1]:
 
-C. Cikitsāsthāna–XXII. 3-62; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 613-623.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXII. 3-62; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 613-623.
+</blockquote>
 
 ---
 
-## 127. Trimarmīya (conditions of the bladder, heart and head)
+## Trimarmīya (conditions of the bladder, heart and head)
 
 Trimarmīya (conditions of the bladder, heart and head)
 
@@ -67,13 +69,14 @@ The general symptoms of Hṛdroga or cardiac disease are as follows: abnormal co
 
 The general symptoms of Śiroroga and head disease are as follows: Vātika type of head disease, there is excruciating pain, ache, and throbbing sensation; Paittika type of headache is associated with burning sensation and pain; Khapaja type of headache is associated with heaviness; in Sānnipātika headache, which is caused by the simultaneous aggravation of all the three doṣas. Kṛmija Śiroroga gives rise to itching, foul smell, pricking sensation and pain in the head. The general treatment of Śiroroga includes Mayura Ghṛta, Mahāmayura Ghṛta, Baladi lepa and Rāsnādi lepa etc. Mouth disease is four types. Arocaka or Anorexia is caused by Aggravated Vāyu, etc., mental factors like grief fear, excessive greed, anger etc. there are five types of Arocaka. Ear disease caused by the simultaneous aggravation of all the three doṣas. Ear diseases are four types. Eye disease caused by the simultaneous aggravation of all the three doṣas. Eye diseases are four types. The tejas of the body in association with vāyu and other dosas, scorches up the hair-root giving instantaneous rise of alopecia in man. It is called Khālitya. If there is partial scorching, then this gives rise to premature greying of hair and tawny hair. It is called Palita. The treatment of hair diseases includes Manaḥśilādi- Cūrṇa, Mahānīla oil, Sahacarādi oil. Five types of Svarabheda or Hoarseness of voice are as follows: Vātaja (due to Vāta), Pittaja (due to pitta), Khapaja (due to kapha), Raktaja (due to rakta), and Sānnipātaja (all three doṣas involved). The treatment of Svarabheda includes using ghee internally and externally, purgation, Evacuation of doṣa from head etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XXVI. 3-293; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 716-765.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXVI. 3-293; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 716-765.
+</blockquote>
 
 ---
 
-## 128. Viṣa (poison) according to Caraka
+## Viṣa (poison) according to Caraka
 
 Viṣa (poison) according to Caraka
 
@@ -95,17 +98,7 @@ Rukṣa,
 
 Āśu,
 
-Viśada,
-
-Vyavāyi,
-
-Tīkṣṇa,
-
-Vikāsi,
-
-Sūkṣma,
-
-Uṣṇa and
+Viśada,, Vyavāyi,, Tīkṣṇa,, Vikāsi,, Sūkṣma,, Uṣṇa and
 
 Anirdeśya-rasa.
 
@@ -121,25 +114,25 @@ Rājimān.
 
 They cause aggravation of Vāyu, pitta, and kapha respectively. The Darvīkara snake has a spoon-like hood, the Maṇḍalī snake has a rounded hood, and the Rājimān snake has its body of variegated colour with drop like spots on it. Five incurable signs of snake bite are as follows: deep, elevated, painful, placed lengthwise, and having marks of fangs. Taṇḍulīyaka triturated with the juice of Kākāṇḍa is useful in all types of poison, similarly, Kākamācī triturated with peacock-bile is useful in all types of poison[1].
 
-[1]:
 
-C. Cikitsāsthāna–XXV.5-192; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. IV, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 73-104.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXV.5-192; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. IV, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 73-104.
+</blockquote>
 
 ---
 
-## 129. Ūrustambha (spasticity of thigh) according to Caraka
+## Ūrustambha (spasticity of thigh) according to Caraka
 
 Ūrustambha (spasticity of thigh) according to Caraka
 
 Maharṣi Caraka discusses disease of Ūrustambha and treatment of Spasticity of thigh and Ūrustambha-cikitsā. This is only disease where pañcakarma is contradicted. Kapha associated with medas afflicts vāyu and pitta to cause spasticity of the thighs characterized by their stiffness and coldness because of which the ailment is called Ūrustambha. The symptoms of Ūrustambha are as follows: stiffness and coldness of thighs, lassitude of thighs, and incapability to move. The treatment of Ūrustambha includes juices of Śārṅgeṣṭadi Cūrṇa, Aṣṭakaṭvara taila, application of master seeds pastes, exercise, jumping, swimming, intake of Saindhavādi oil, Harītakī, Pippalī and honey etc. Diet includes barley, Śyāmaka, saltless green vegetables etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XXVII.4-61; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. V, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 1-16.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXVII.4-61; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. V, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 1-16.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -148,10 +141,6 @@ C. Cikitsāsthāna–XXVII.4-61; R. K. Sharma & Bhagwan Dash (eds.), Caraka Sa�
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">Gynecic disorders and Impotency: Atharvaveda And Charaka Samhita Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

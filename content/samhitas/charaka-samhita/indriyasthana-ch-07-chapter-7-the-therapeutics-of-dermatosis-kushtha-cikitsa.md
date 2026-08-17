@@ -42,7 +42,11 @@ Premonitory symptoms
 
 Names and signs of symptoms of eighteen types of Dermatosis
 
+
+<blockquote className="ayur-shloka">
 13. Hereafter, I shall describe the signs and symptoms of the eighteen kinds of dermatosis [kushtha], namely, Kapala [kapāla], Udumbara, Mandala [maṇḍala], Rishyajihva [ṛṣyajihva], Pundarika [puṇḍarīka], Sidhma, Kakanaka [kākaṇaka], Ekakushtha [ekakuṣṭha], Carma, Kitima [kiṭima], Vipadika [vipādikā], Alasaka, Dadru, Carmadala, Pama [pāmā], Visphotaka [visphoṭaka], Shataru [śatāru] and Vicarcika [vicarcikā].
+</blockquote>
+
 
 14. The dermatosis which is dark-red in color like the broken piece of an earthen pot, which is dry, hard, thin, very painful and irregular in shape, is named the ‘Kapala’ dermatosis.
 

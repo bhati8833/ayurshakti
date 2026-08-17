@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Conclusion within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 89. Chapter 6 - Conclusion
+## Chapter 6 - Conclusion
 
 Surgery in ancient India (Study)
 
@@ -19,11 +19,9 @@ This essay studies Surgery in ancient India based on Sanskrit sources.—The Sus
 
 Chapter 6 - Conclusion
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 90. 2. How to revive Ayurveda Salya-Tantra
+## 2. How to revive Ayurveda Salya-Tantra
 
 Surgery in ancient India (Study)
 
@@ -47,7 +45,7 @@ it. Both government and private agencies can work together and provide of suffic
 
 ---
 
-## 91. 1. Revival of Ayurvedic Surgery
+## 1. Revival of Ayurvedic Surgery
 
 Surgery in ancient India (Study)
 
@@ -67,8 +65,6 @@ also held to observe the possibilities and types of surgeries that could be adap
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -76,10 +72,6 @@ also held to observe the possibilities and types of surgeries that could be adap
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch29" className="text-emerald-400 hover:underline flex items-center font-medium">3. Importance of Salya-Tantra: Ancient Indian Surgical Science Chapter 29 →</a>
 </div>
-
-
-
-
 
 ---
 

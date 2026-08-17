@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Commentators of Caraka Samhita within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. Chapter 9 - Commentators of Caraka Samhita
+## Chapter 9 - Commentators of Caraka Samhita
 
 History of Indian Medicine (and Ayurveda)
 
@@ -148,7 +148,7 @@ Besides his unrivalled commentary on Caraka three other works are ascribed to hi
 
 ---
 
-## 11. Chapter 10 - The Pupils of Atreya
+## Chapter 10 - The Pupils of Atreya
 
 History of Indian Medicine (and Ayurveda)
 
@@ -414,7 +414,7 @@ Thus we find that the galaxy of Atreya’s disciples had each one of them to his
 
 ---
 
-## 12. Part 2-3 - Medical Institutions in Ancient India
+## Part 2-3 - Medical Institutions in Ancient India
 
 History of Indian Medicine (and Ayurveda)
 
@@ -424,11 +424,7 @@ As an important final a...
 
 Part 2-3 - Medical Institutions in Ancient India
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -437,10 +433,6 @@ Part 2-3 - Medical Institutions in Ancient India
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">Universal Education in Ancient India: History Of Indian Medicine And Ayurveda Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

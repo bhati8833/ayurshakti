@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Treatment of Disease (roga-bhishaj-jiti-vimana) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 60. Chapter 8 - The Treatment of Disease (roga-bhishaj-jiti-vimana)
+## Chapter 8 - The Treatment of Disease (roga-bhishaj-jiti-vimana)
 
 Charaka Samhita (English translation)
 
@@ -713,7 +713,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 61. Chapter 1 - The classifications of man (purusha)
+## Chapter 1 - The classifications of man (purusha)
 
 Charaka Samhita (English translation)
 
@@ -1047,7 +1047,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 62. Chapter 2 - The Exogamous Union (atulya-gotra)
+## Chapter 2 - The Exogamous Union (atulya-gotra)
 
 Charaka Samhita (English translation)
 
@@ -1187,7 +1187,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 63. Chapter 4 - The major chapter on the Formation of the Fetus (garbha-avakranti)
+## Chapter 4 - The major chapter on the Formation of the Fetus (garbha-avakranti)
 
 Charaka Samhita (English translation)
 
@@ -1395,7 +1395,7 @@ Here are the recapitulatory verses—
 
 ---
 
-## 64. Chapter 3 - The Formation of the Fetus (garbha-avakranti)
+## Chapter 3 - The Formation of the Fetus (garbha-avakranti)
 
 Charaka Samhita (English translation)
 
@@ -1527,7 +1527,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 65. Chapter 6 - The Analysis of the Body (sharira-vicaya)
+## Chapter 6 - The Analysis of the Body (sharira-vicaya)
 
 Charaka Samhita (English translation)
 
@@ -1647,8 +1647,6 @@ Here are the recapitulatory verses—31-34. What the body is, how it functions.,
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1656,10 +1654,6 @@ Here are the recapitulatory verses—31-34. What the body is, how it functions.,
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">The Analysis of Man (purusha-vicaya): Charaka Samhita Complete Translation Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

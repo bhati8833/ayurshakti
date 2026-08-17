@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Aksapada: The author of Nyaya-sutra (150 A.D.) within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. 6. Aksapada: The author of Nyaya-sutra (150 A.D.)
+## 6. Aksapada: The author of Nyaya-sutra (150 A.D.)
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -25,8 +25,6 @@ of which he was rescued with great difficulty. God therefore mereficullly provid
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ of which he was rescued with great difficulty. God therefore mereficullly provid
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">8. Origin and Development of Vaisesika Darsana: Influence Of Nyaya Vaisesika On Ayurveda Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

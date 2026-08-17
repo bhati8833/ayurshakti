@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Parsvasandhi Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 57. Study of Parsvasandhi Marma
+## Study of Parsvasandhi Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -27,7 +27,7 @@ Tamil varma sastra Cheriya atti surukki is situated half angula distance from th
 
 ---
 
-## 59. Appendix 3: Various other Varmam
+## Appendix 3: Various other Varmam
 
 Marma-sastra and Ayurveda (study)
 
@@ -49,7 +49,7 @@ seen later. Irritation at the thoracic region will arise due to gastritis and ch
 
 ---
 
-## 60. Study of Amsa Marma
+## Study of Amsa Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -69,8 +69,6 @@ brought to consciousness by manipulating the same area just two angulas below th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ brought to consciousness by manipulating the same area just two angulas below th
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Ksipra Marma: Marma Sastra and Ayurvedic Science Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

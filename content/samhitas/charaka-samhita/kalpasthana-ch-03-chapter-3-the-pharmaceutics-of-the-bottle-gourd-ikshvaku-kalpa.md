@@ -34,7 +34,11 @@ Chapter 3 - The Pharmaceutics of the Bottle Gourd (ikshvaku-kalpa)
 
 Synonyms and Qualities
 
+
+<blockquote className="ayur-shloka">
 3-3½. Here we describe the pharmaceutics of the bottle gourd which is known also by the names of Lamba [lambā], Katukalabu [kaṭukālābū], Tumbi [tumbī], Pindaphala [piṇḍaphalā], Ikshvaku [ikṣvāku] and Phalini [phalinī].
+</blockquote>
+
 
 4-4½. It is recommended for purpose of emesis in patients afflicted with cough, dyspnea, toxicosis, vomiting and fever as well as in patients distressed with phlegm or tachycardia.
 

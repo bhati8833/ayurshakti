@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Study of Kukundara Marma within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 54. Study of Kukundara Marma
+## Study of Kukundara Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -29,7 +29,7 @@ Start remedial measures immediately. Internal medicines should be started only a
 
 ---
 
-## 55. Study of Amsaphalaka Marma
+## Study of Amsaphalaka Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -47,7 +47,7 @@ Menmai varma is seen four fingers below the arali varmam. Polyuria,diffuse whole
 
 ---
 
-## 56. Study of Brihati Marma
+## Study of Brihati Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -63,8 +63,6 @@ Tamil varma sastra Azhal varma is five fingers below the arasa varma close to th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -72,10 +70,6 @@ Tamil varma sastra Azhal varma is five fingers below the arasa varma close to th
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Parsvasandhi Marma: Marma Sastra and Ayurvedic Science Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

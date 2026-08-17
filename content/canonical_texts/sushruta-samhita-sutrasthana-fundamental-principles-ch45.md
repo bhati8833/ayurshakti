@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Recipes of emetic drugs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. Chapter XLIII - Recipes of emetic drugs
+## Chapter XLIII - Recipes of emetic drugs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -45,13 +45,10 @@ Thus a general outline of the leading characteristics of the emetic drugs in gen
 
 Thus ends the forty-third Chapter of the Sutrasthana in the Sushruta Samhita which deals with the choice and mode of administering emetics.
 
-[1]:
 
-Fruits include flowers.
+<div className="footnote-card"><strong>[1]</strong> Fruits include flowers.</div>
 
 ---
-
-
 
 ---
 
@@ -60,10 +57,6 @@ Fruits include flowers.
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch46" className="text-emerald-400 hover:underline flex items-center font-medium">Recipes of purgative drugs: Sushruta Samhita Sutrasthana Chapter 46 →</a>
 </div>
-
-
-
-
 
 ---
 

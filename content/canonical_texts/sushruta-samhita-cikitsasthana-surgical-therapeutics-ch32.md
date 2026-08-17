@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medicinal use of Sneha (oleaginous substances) within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 34. Chapter XXXI - The medicinal use of Sneha (oleaginous substances)
+## Chapter XXXI - The medicinal use of Sneha (oleaginous substances)
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -125,53 +125,68 @@ The blessings which attend a person who has duly taken a Sneha are improved dige
 
 Thus ends the Thirty-first Chapter in the Chikitsita Sthana of the Sushruta Samhita which deals with the treatment of the diseases where oleaginous medicines are useful.
 
-[1]:
 
-The Sneha is of four kinds, viz., clarified butter, oil, lard and marrow, of which clarified butter and oil are generally used.
+<div className="footnote-card"><strong>[1]</strong> The Sneha is of four kinds, viz., clarified butter, oil, lard and marrow, of which clarified butter and oil are generally used.</div>
 
-[2]:
 
-Thirty-two Palas make one Prastha in respect of water j but in respect of non-oily substances a Prastha is equal to twenty Palas, whereas in respect of fresh drugs it is equal to only sixteen Palas.
 
-[3]:
 
-Some drugs, viz.:—Vasa, Kutaja, Kushmanda, Prasarani Vala, Amrita and Nimba, etc., are invariably employed in their fresh state and the practice is not to take them in double measures in spite of their freshness. Two different kinds of measure have been adopted ip the Ayurvedic Pharmacopoeia. One is called the Kalinga and the other the Magadha measure. Maharshi Charaka has adopted the first, but that adopted by Sushruta is the second one.
+<div className="footnote-card"><strong>[2]</strong> Thirty-two Palas make one Prastha in respect of water j but in respect of non-oily substances a Prastha is equal to twenty Palas, whereas in respect of fresh drugs it is equal to only sixteen Palas.</div>
 
-[4]:
 
-Water weighing four times as much as the drugs when the drugs are of a soft consistency and eight times as much when they are hard and sixteen times as much when they are very hard.
 
-[5]:
 
-When there are more liquids to be used than one, the general rule is that the total weight of all the liquids would be four times that of the Sneha, if not otherwise directed. All this liquid part should, however, be boiled away and the Sneha part should be left before the Sneha is removed from the fire and before it can be fit for use. It should be noted that the cooking of a Sneha should not be completed in one day.—Ed.
+<div className="footnote-card"><strong>[3]</strong> Some drugs, viz.:—Vasa, Kutaja, Kushmanda, Prasarani Vala, Amrita and Nimba, etc., are invariably employed in their fresh state and the practice is not to take them in double measures in spite of their freshness. Two different kinds of measure have been adopted ip the Ayurvedic Pharmacopoeia. One is called the Kalinga and the other the Magadha measure. Maharshi Charaka has adopted the first, but that adopted by Sushruta is the second one.</div>
 
-[6]:
 
-Charaka, on the contrary, holds that a Khara (strongly cooked) Sneha should be used in anointing the body, a middling-cooked one for the purposes of drinks and Vasti-karma and a mildly cooked (Mridu) one for the purposes of errhines.
 
-[7]:
 
-Vide Uttara-Tantra, Chapter LXIII.
+<div className="footnote-card"><strong>[4]</strong> Water weighing four times as much as the drugs when the drugs are of a soft consistency and eight times as much when they are hard and sixteen times as much when they are very hard.</div>
 
-[8]:
 
-Both Vrinda and Chakrapani read this but with little difference. Both of them read “kale ca shītale”, i.e., in the cold season. But their commentators accept the reading “kale natyuṣṇashītale”, as in the text, to be a variant. We have the authority of Charaka, however, to accept the reading of the text.
 
-[9]:
 
-In place of “sūpakalpita” (well-cooked), Chakradatta reads ‘svalpataṇdula’ (prepared with a small quantity of rice).
+<div className="footnote-card"><strong>[5]</strong> When there are more liquids to be used than one, the general rule is that the total weight of all the liquids would be four times that of the Sneha, if not otherwise directed. All this liquid part should, however, be boiled away and the Sneha part should be left before the Sneha is removed from the fire and before it can be fit for use. It should be noted that the cooking of a Sneha should not be completed in one day.—Ed.</div>
 
-[10]:
 
-Both Vrinda and Chakrapani read this but with little difference. Both of them read “kale ca śītale”, i.e., in the cold season. But their commentators accept the reading “kale natyuṣṇaśītale”, as in the text, to be a variant. We have the authority of Charaka, however, to accept the reading of the text.
 
-[11]:
 
-In place of “payaḥsiddha” (prepared with milk), Chakradatta reads “bahutila” (prepared with an abundance of sesamum which, according to Shivadasa, would constitute three parts with only one part of rice).
+<div className="footnote-card"><strong>[6]</strong> Charaka, on the contrary, holds that a Khara (strongly cooked) Sneha should be used in anointing the body, a middling-cooked one for the purposes of drinks and Vasti-karma and a mildly cooked (Mridu) one for the purposes of errhines.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Vide Uttara-Tantra, Chapter LXIII.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Both Vrinda and Chakrapani read this but with little difference. Both of them read “kale ca shītale”, i.e., in the cold season. But their commentators accept the reading “kale natyuṣṇashītale”, as in the text, to be a variant. We have the authority of Charaka, however, to accept the reading of the text.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> In place of “sūpakalpita” (well-cooked), Chakradatta reads ‘svalpataṇdula’ (prepared with a small quantity of rice).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Both Vrinda and Chakrapani read this but with little difference. Both of them read “kale ca śītale”, i.e., in the cold season. But their commentators accept the reading “kale natyuṣṇaśītale”, as in the text, to be a variant. We have the authority of Charaka, however, to accept the reading of the text.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> In place of “payaḥsiddha” (prepared with milk), Chakradatta reads “bahutila” (prepared with an abundance of sesamum which, according to Shivadasa, would constitute three parts with only one part of rice).
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -180,10 +195,6 @@ In place of “payaḥsiddha” (prepared with milk), Chakradatta reads “bahut
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch33" className="text-emerald-400 hover:underline flex items-center font-medium">Description of purgative and emetic medicines: Sushruta Samhita Cikitsasthana Chapter 33 →</a>
 </div>
-
-
-
-
 
 ---
 

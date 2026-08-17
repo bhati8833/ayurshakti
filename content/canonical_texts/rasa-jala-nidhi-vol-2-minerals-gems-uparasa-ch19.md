@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Uparasa (16): Kankustha (an ore containing tin) within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 91. Chapter XV - Uparasa (16): Kankustha (an ore containing tin)
+## Chapter XV - Uparasa (16): Kankustha (an ore containing tin)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -21,15 +21,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XV - Uparasa (16): Kankustha (an ore containing tin)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (16): Kankustha (an ore containing tin)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 92. Part 1 - Characteristics of Kankustha (an ore containing tin)
+## Part 1 - Characteristics of Kankustha (an ore containing tin)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -49,7 +47,7 @@ This concludes ‘Characteristics of Kankustha (an ore containing tin)’ includ
 
 ---
 
-## 93. Part 2 - Purification of Kankustha (an ore containing tin)
+## Part 2 - Purification of Kankustha (an ore containing tin)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -75,7 +73,7 @@ This concludes ‘Purification of Kankustha (an ore containing tin)’ included 
 
 ---
 
-## 94. Part 3 - How to take kankustha
+## Part 3 - How to take kankustha
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -93,7 +91,7 @@ This concludes ‘How to take kankustha’ included in Bhudeb Mookerjee Rasa Jal
 
 ---
 
-## 95. Chapter XVI - Uparasa (17): Kampilla
+## Chapter XVI - Uparasa (17): Kampilla
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -103,15 +101,11 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XVI - Uparasa (17): Kampilla
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (17): Kampilla’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
-
-
 
 ---
 
@@ -120,10 +114,6 @@ This concludes ‘Uparasa (17): Kampilla’ included in Bhudeb Mookerjee Rasa Ja
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Characteristics of Kampilla: Rasa Jala Nidhi Volume 2 Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

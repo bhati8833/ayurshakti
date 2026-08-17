@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix 1 - Description of a Hospital within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. Appendix 1 - Description of a Hospital
+## Appendix 1 - Description of a Hospital
 
 Charaka Samhita and Sushruta Samhita
 
@@ -29,13 +29,14 @@ Arrangements are to be made for bedding, seats, etc. Golden vase and spittoon ar
 
 There should also be grinding stones (mortars) -smooth, hard and of medium size along with well cleaned pestles, sharp instruments, accessories, smoking pipe, tube for enema and douche, broom, scales and measuring vessels, ghee, oil, muscle fat, marrow, honey, phāṇita (a sugar cane preparation), salt, fuel, various types of wine like the one prepared of honey, sīdhu, surā, sauvīraka, maireya, medaka, tuṣodaka, curd, whey, udasvit (a mixture of water and butter milk in equal parts), dhānyāmla (sour gruel), śāli (Oryza sativa Linn.), ṣaṣṭika (a variety of Oryza sativa Linn.), mudga (Phaseolus mungo Linn.), māṣa (Phaseolus radicus Linn.), yava (Hordeum vulgara Linn.), tila (Sesamum indicum Linn.), Kulattha (Dolichos bifforus Linn.), badara (Zizyphus jujube Lam.), mṛdvīkā (Vitis vinifera Linn.), kāśmarya (Gmelina arborea Linn), parūṣaka (Grewia asiatica Linn.), abhay ā(Terminalia chebula Linn.), āmalakī (Embilica officinalis Gaertn), bibhītaka (Termenalia bellerica Roxb.), other drugs employed in oleation, fomentation, emesis, purgation, those having the combined action of emesis and purgation, which are known as constipatives, and appetizers and ablatines of v ta, etc., which are carminatives, and such other medicines as are conducive to the treatment of complications, if any, and also those which are useful in and after treatment should also be collected”.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 15.6-7.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 15.6-7.
+</blockquote>
 
 ---
 
-## 52. Appendix 2 - The details of hospital management
+## Appendix 2 - The details of hospital management
 
 Charaka Samhita and Sushruta Samhita
 
@@ -45,37 +46,24 @@ Appendix 2 - The details of hospital management
 
 The details of hospital management from the Tirumukuḍḍal inscription:[1]
 
-[1]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 24-26.
+<div className="footnote-card"><strong>[1]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 24-26.</div>
 
 ---
 
-## 53. Chapter 5
+## Chapter 5
 
 Charaka Samhita and Sushruta Samhita
 
 This page relates ‘Chapter 5’ of the study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature. The text anaylsis its medical and social aspects, and various topics such as diseases and health-care, the physician, their training and specialisation, interaction with society, educational training, etc.
 
-Chapter 5
-
-- Sub-Contents: (+ / -)
-
----
-
-
-
----
+Chapter 5, ---, ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">← Infirmaries and Hospitals in ancient India: Charaka Samhita And Sushruta Samhita Chapter 15</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">The Social Implications of Disease: Charaka Samhita And Sushruta Samhita Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

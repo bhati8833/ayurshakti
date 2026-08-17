@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of Glandular Swellings within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. Chapter XVIII - The medical treatment of Glandular Swellings
+## Chapter XVIII - The medical treatment of Glandular Swellings
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -117,71 +117,91 @@ As an alternative, the Goitre (Gala ganda) should be opened, its fatty contents 
 
 Thus ends the Eighteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita, which deals with the medical treatment of Glands, Scrofula, Tumour and Goitre.
 
-[1]:
 
-Beginning with Apatarpana up to the purgative measures.
+<div className="footnote-card"><strong>[1]</strong> Beginning with Apatarpana up to the purgative measures.</div>
 
-[2]:
 
-Oil, clarified butter and lard mixed together is technically called the “Trivrita”—Dallana.
+
+
+<div className="footnote-card"><strong>[2]</strong> Oil, clarified butter and lard mixed together is technically called the “Trivrita”—Dallana.</div>
+
+
 
 In the case of a Vátaja Granthi, a potion of oil cooked with the decoction and paste (Kalka) of the Váyu-subduing drugs should be prescribed for the patient ; in the case of a Pittaja Granthi, clarified butter cooked with the decoction and Kalka of the Pitta-subduing drugs should be administered in the same manner ; while in the case of a Kaphaja Granthi, oil cooked with the decoction and Kalka of the Kapha-subduing drugs should be taken by the patient. But in a case of Granthi due to the concerted action of the two, or three of the Doshas, any compound medicated oil, prepared by cooking any two, three, or four of the oily substances, viz., oil, clarified butter, lard and marrow, with the decoction and Kalka of those drugs which are antidotes to the said Doshas, should be prescribed for the patient as drinks.
 
-[3]:
 
-Some read “vilvarkagaṇaditoyaiḥ” and explain that the decoctions of the Vilvadi and the Arkadi groups are to be taken for the purpose.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Some read “vilvarkagaṇaditoyaiḥ” and explain that the decoctions of the Vilvadi and the Arkadi groups are to be taken for the purpose.
+</blockquote>
 
-[4]:
 
-The Vanaspati class consists of Vata, Plaksha, Ashvattha and Udumbara trees.
 
-[5]:
 
-These are the applications of Sneha, fomentation, emetics, purgatives, asthapana, Shiro-virecana and blood-letting.
+<div className="footnote-card"><strong>[4]</strong> The Vanaspati class consists of Vata, Plaksha, Ashvattha and Udumbara trees.</div>
 
-[6]:
 
-Dallana explains “Vikamkata” as “Kanta-karika,” but it means Sruva (called Vainch in Bengal) and Shivadasa also explains it as such.— Ed.
 
-[7]:
 
-Chakradatta does not read “Arka” in the list.
+<div className="footnote-card"><strong>[5]</strong> These are the applications of Sneha, fomentation, emetics, purgatives, asthapana, Shiro-virecana and blood-letting.</div>
 
-[8]:
 
-Applications of honey, clarified butter, etc.
 
-[9]:
 
-Cow’s urine measuring four times the oil should be taken in the preparation of this medicated oil.
+<div className="footnote-card"><strong>[6]</strong> Dallana explains “Vikamkata” as “Kanta-karika,” but it means Sruva (called Vainch in Bengal) and Shivadasa also explains it as such.— Ed.</div>
 
-[10]:
 
-In preparing this medicated Ghrita, the quantity of clarified butter should be taken four times as much as the combined weight of the Kalka (paste). These should be boiled with water, taken four times as much as the quantity of clarified butter. Some authorities, however, are of opinion that both the paste (Kalka) and the decoction of the drugs are to be taken in its preparation.
 
-[11]:
 
-Some read ‘Nirgundi’ after it.
+<div className="footnote-card"><strong>[7]</strong> Chakradatta does not read “Arka” in the list.</div>
 
-[12]:
 
-This medicated oil should be cooked without any Kalka. But some are of opinion that both the decoction and the Kalka of Shakhotaka should be used.
 
-[13]:
 
-Madhuka-sara mixed with tepid water and the expressed juice of Shigru-seeds and of Apamarga-seeds should be used.
+<div className="footnote-card"><strong>[8]</strong> Applications of honey, clarified butter, etc.</div>
 
-[14]:
 
-In cases of the preponderance of Vayu and of Kapha.
 
-[15]:
 
-In cases of the preponderance of Pitta.
+<div className="footnote-card"><strong>[9]</strong> Cow’s urine measuring four times the oil should be taken in the preparation of this medicated oil.</div>
 
-[16]:
 
-There is a good deal of difference as to the reading and explanation of this passage amongst the different commentators. The different explanations arise from the different interpretations put upon the word in the Text, “parṣṇiṃ prati dvadasha caṅgulani etc.”
+
+
+<div className="footnote-card"><strong>[10]</strong> In preparing this medicated Ghrita, the quantity of clarified butter should be taken four times as much as the combined weight of the Kalka (paste). These should be boiled with water, taken four times as much as the quantity of clarified butter. Some authorities, however, are of opinion that both the paste (Kalka) and the decoction of the drugs are to be taken in its preparation.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Some read ‘Nirgundi’ after it.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> This medicated oil should be cooked without any Kalka. But some are of opinion that both the decoction and the Kalka of Shakhotaka should be used.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Madhuka-sara mixed with tepid water and the expressed juice of Shigru-seeds and of Apamarga-seeds should be used.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> In cases of the preponderance of Vayu and of Kapha.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> In cases of the preponderance of Pitta.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> There is a good deal of difference as to the reading and explanation of this passage amongst the different commentators. The different explanations arise from the different interpretations put upon the word in the Text, “parṣṇiṃ prati dvadasha caṅgulani etc.”
+</blockquote>
+
+
 
 The words “parṣṇiṃ prati” may mean either of the following.
 
@@ -201,25 +221,25 @@ Others, however, read it as “ghoṇarjave'dhaḥ” and explain it (ghoṇarja
 
 Dallana says that the part to be excisioned, according to the first stanza, is below the Indra-vasti and that, according to the second, is above tbe lndra-vasti. We also think that the seat of the Indra-vasti should be carefully avoided and an excision should be made both above and below the Indra-vasti, according to the requirements in each case.
 
-[17]:
 
-There is a different reading “???? ???” in place of “??? ???”. In that case, roots of white Trivrit should be boiled with the decoction, etc.
+<div className="footnote-card"><strong>[17]</strong> There is a different reading “???? ???” in place of “??? ???”. In that case, roots of white Trivrit should be boiled with the decoction, etc.</div>
 
-[18]:
 
-Chakradatta reads “Arjuna” in place of “Anjana”.
 
-[19]:
 
-These are the drugs included in the emetic and purgative groups (see chap. XXXIX. Sutra Sthana).
+<div className="footnote-card"><strong>[18]</strong> Chakradatta reads “Arjuna” in place of “Anjana”.</div>
 
-[20]:
 
-Some say that the oil should be prepared with the decoction as well as with Kalka of the said drugs. Others, however, hold that water should be used in the preparation of the oil and the said drugs should be used only as a Kalka.
+
+
+<div className="footnote-card"><strong>[19]</strong> These are the drugs included in the emetic and purgative groups (see chap. XXXIX. Sutra Sthana).</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Some say that the oil should be prepared with the decoction as well as with Kalka of the said drugs. Others, however, hold that water should be used in the preparation of the oil and the said drugs should be used only as a Kalka.</div>
 
 ---
-
-
 
 ---
 
@@ -228,10 +248,6 @@ Some say that the oil should be prepared with the decoction as well as with Kalk
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of poison caused (water insect): Sushruta Samhita Cikitsasthana Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

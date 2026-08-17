@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Clinical examination in Ayurveda within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. 6. Clinical examination in Ayurveda
+## 6. Clinical examination in Ayurveda
 
 Physician as depicted in Manasollasa
 
@@ -29,8 +29,6 @@ The clinical examination in Ayurveda is conducted with the knowledge given by I.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ The clinical examination in Ayurveda is conducted with the knowledge given by I.
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">4. Environmental factors and the body’s capacity for resistance: Physician As Depicted In Manasollasa Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

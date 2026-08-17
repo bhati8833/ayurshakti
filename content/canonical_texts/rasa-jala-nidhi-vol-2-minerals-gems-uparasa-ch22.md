@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Incineration of kapardi (cowrie) within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 106. Part 3 - Incineration of kapardi (cowrie)
+## Part 3 - Incineration of kapardi (cowrie)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -39,7 +39,7 @@ This concludes ‘Incineration of kapardi (cowrie)’ included in Bhudeb Mookerj
 
 ---
 
-## 107. Chapter XX - Uparasa (20b): Shankha (conch shell)
+## Chapter XX - Uparasa (20b): Shankha (conch shell)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -49,15 +49,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter XX - Uparasa (20b): Shankha (conch shell)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (20b): Shankha (conch shell)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 108. Part 1 - Characteristics of Shankha (conch shell)
+## Part 1 - Characteristics of Shankha (conch shell)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -75,7 +73,7 @@ This concludes ‘Characteristics of Shankha (conch shell)’ included in Bhudeb
 
 ---
 
-## 109. Part 2 - Purification of shankha
+## Part 2 - Purification of shankha
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -93,7 +91,7 @@ This concludes ‘Purification of shankha’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-## 110. Part 3 - Incineration of shankha
+## Part 3 - Incineration of shankha
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -111,8 +109,6 @@ This concludes ‘Incineration of shankha’ included in Bhudeb Mookerjee Rasa J
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -120,10 +116,6 @@ This concludes ‘Incineration of shankha’ included in Bhudeb Mookerjee Rasa J
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Medical appliance of shankha: Rasa Jala Nidhi Volume 2 Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for fever (52): Visva-vandya rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 91. Treatment for fever (52): Visva-vandya rasa
+## Treatment for fever (52): Visva-vandya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for fever (52): Visva-vandya rasa’ included in Bhu
 
 ---
 
-## 92. Treatment for fever (53): Nilakantha rasa
+## Treatment for fever (53): Nilakantha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for fever (53): Nilakantha rasa’ included in Bhude
 
 ---
 
-## 93. Treatment for fever (54): Ananda-sagara rasa
+## Treatment for fever (54): Ananda-sagara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for fever (54): Ananda-sagara rasa’ included in Bh
 
 ---
 
-## 94. Treatment for fever (56): Nagadi rasa
+## Treatment for fever (56): Nagadi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for fever (56): Nagadi rasa’ included in Bhudeb Mo
 
 ---
 
-## 95. Treatment for fever (58): Sannipata-mrityunjaya rasa
+## Treatment for fever (58): Sannipata-mrityunjaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -103,7 +103,7 @@ This concludes ‘Treatment for fever (58): Sannipata-mrityunjaya rasa’ includ
 
 ---
 
-## 96. Treatment for fever (59): Sannipata-bhairava rasa
+## Treatment for fever (59): Sannipata-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -121,7 +121,7 @@ This concludes ‘Treatment for fever (59): Sannipata-bhairava rasa’ included 
 
 ---
 
-## 98. Treatment for fever (57): Vetala rasa
+## Treatment for fever (57): Vetala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -139,7 +139,7 @@ This concludes ‘Treatment for fever (57): Vetala rasa’ included in Bhudeb Mo
 
 ---
 
-## 99. Treatment for fever (60): Kalagni-bhairava rasa
+## Treatment for fever (60): Kalagni-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -157,7 +157,7 @@ This concludes ‘Treatment for fever (60): Kalagni-bhairava rasa’ included in
 
 ---
 
-## 100. Treatment for fever (61): Tridosha-vadavanala rasa
+## Treatment for fever (61): Tridosha-vadavanala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -175,7 +175,7 @@ This concludes ‘Treatment for fever (61): Tridosha-vadavanala rasa’ included
 
 ---
 
-## 101. Treatment for fever (62): Vadavanala rasa
+## Treatment for fever (62): Vadavanala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -193,7 +193,7 @@ This concludes ‘Treatment for fever (62): Vadavanala rasa’ included in Bhude
 
 ---
 
-## 102. Treatment for fever (63): Simha-nada rasa
+## Treatment for fever (63): Simha-nada rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -211,7 +211,7 @@ This concludes ‘Treatment for fever (63): Simha-nada rasa’ included in Bhude
 
 ---
 
-## 103. Treatment for fever (64): Chintamani rasa
+## Treatment for fever (64): Chintamani rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -229,7 +229,7 @@ This concludes ‘Treatment for fever (64): Chintamani rasa’ included in Bhude
 
 ---
 
-## 104. Treatment for fever (67): Dipika rasa
+## Treatment for fever (67): Dipika rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -247,7 +247,7 @@ This concludes ‘Treatment for fever (67): Dipika rasa’ included in Bhudeb Mo
 
 ---
 
-## 105. Treatment for fever (68): Vishva-palaka rasa
+## Treatment for fever (68): Vishva-palaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -265,7 +265,7 @@ This concludes ‘Treatment for fever (68): Vishva-palaka rasa’ included in Bh
 
 ---
 
-## 106. Treatment for fever (69): Sannipata-gajankusha rasa
+## Treatment for fever (69): Sannipata-gajankusha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -283,8 +283,6 @@ This concludes ‘Treatment for fever (69): Sannipata-gajankusha rasa’ include
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -292,10 +290,6 @@ This concludes ‘Treatment for fever (69): Sannipata-gajankusha rasa’ include
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for fever (70): Mahamrityunjaya rasa: Rasa Jala Nidhi Volume 4 Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

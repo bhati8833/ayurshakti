@@ -24,7 +24,7 @@ description: "Samhita (by Caraka) deals with Ayurveda (also ‘the science of li
 
 ---
 
-## 1. Sutrasthana (Sutra Sthana) — General Principles
+## Sutrasthana (Sutra Sthana) — General Principles
 
 Charaka Samhita (English translation)
 
@@ -32,11 +32,9 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Sutrasthana (Sutra Sthana) — General Principles
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 2. Chapter 5 - Measure in eating (matrashita)
+## Chapter 5 - Measure in eating (matrashita)
 
 Charaka Samhita (English translation)
 
@@ -332,7 +330,7 @@ Summary
 
 ---
 
-## 3. Chapter 3 - The Purging Cassia (aragvadha)
+## Chapter 3 - The Purging Cassia (aragvadha)
 
 Charaka Samhita (English translation)
 
@@ -430,7 +428,7 @@ Summary
 
 ---
 
-## 4. Chapter 6 - The Seasonal Dietary and Regimen of Man (tasyashita)
+## Chapter 6 - The Seasonal Dietary and Regimen of Man (tasyashita)
 
 Charaka Samhita (English translation)
 
@@ -574,7 +572,7 @@ Summary
 
 ---
 
-## 5. Chapter 7 - Natural urges (vega) should not be suppressed
+## Chapter 7 - Natural urges (vega) should not be suppressed
 
 Charaka Samhita (English translation)
 
@@ -798,8 +796,6 @@ The natural urges (vega), the diseases born of their suppression, their treatmen
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -807,10 +803,6 @@ The natural urges (vega), the diseases born of their suppression, their treatmen
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">The Discipline of the Senses (indriya-upakrama): Charaka Samhita Complete Translation Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment of diseases of the head within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 30. Chapter XXVI - Treatment of diseases of the head
+## Chapter XXVI - Treatment of diseases of the head
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -83,33 +83,47 @@ Thus ends the twenty-sixth chapter of the Uttara-Tantra in the Sushruta Samhita 
 
 Here ends the Shalakya Tantra (Surgery Minor).
 
-[1]:
 
-In place of ‘vasā’ (lard) some read ‘rasā’ which means meat-soup.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> In place of ‘vasā’ (lard) some read ‘rasā’ which means meat-soup.
+</blockquote>
 
-[2]:
 
-According to a variant matured clarified butter should be used in this case.
 
-[3]:
 
-According to Videha the clarified butter in this case should be cooked with the decoction of the Vāyu-subduing drugs and with the Kalka of the Madhura drugs.
+<div className="footnote-card"><strong>[2]</strong> According to a variant matured clarified butter should be used in this case.</div>
 
-[4]:
 
-Sripati Datta, the commentator of Vrinda, prescribes the bark and Śivadāsa Sen, the commentator of Cakrapāni, prescribes the seeds of Śirisha.
 
-[5]:
 
-Some take “madhurasā” to mean “mūrvā” |
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> According to Videha the clarified butter in this case should be cooked with the decoction of the Vāyu-subduing drugs and with the Kalka of the Madhura drugs.
+</blockquote>
 
-[6]:
 
-In place of the Kaphaja type some read the Kshayaja type. But it is not accepted by Jejjata, Others again read “Anilātmake” i.e., in the Vātaja type.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Sripati Datta, the commentator of Vrinda, prescribes the bark and Śivadāsa Sen, the commentator of Cakrapāni, prescribes the seeds of Śirisha.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Some take “madhurasā” to mean “mūrvā” |
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> In place of the Kaphaja type some read the Kshayaja type. But it is not accepted by Jejjata, Others again read “Anilātmake” i.e., in the Vātaja type.
+</blockquote>
 
 ---
 
-## 31. Chapter XXII - Causes and symptoms of diseases of the nose
+## Chapter XXII - Causes and symptoms of diseases of the nose
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -157,17 +171,19 @@ Local Arshas (polypoids) as well as local Shopha (four each) are due to the acti
 
 Thus ends the twenty-second chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the causes and symptoms of the diseases of the nose.
 
-[1]:
 
-The four kinds are due to vitiated Vāyu, Pitta and Kapha as well as their concerted action. The two origins are (a) the spleen and the liver, or (b) the Āmāśaya (stomach) and the Pakvāśaya (intestines). The two courses are (a) the upper and the lower orifice, or (b) the mouth and the nostrils. (2)
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The four kinds are due to vitiated Vāyu, Pitta and Kapha as well as their concerted action. The two origins are (a) the spleen and the liver, or (b) the Āmāśaya (stomach) and the Pakvāśaya (intestines). The two courses are (a) the upper and the lower orifice, or (b) the mouth and the nostrils. (2)
+</blockquote>
 
-[2]:
 
-The sneezing is here said to be of two kinds (1) Doshaja and (2) traumatic. Here the former is Doshaja, while the latter is of traumatic origin.
+
+
+<div className="footnote-card"><strong>[2]</strong> The sneezing is here said to be of two kinds (1) Doshaja and (2) traumatic. Here the former is Doshaja, while the latter is of traumatic origin.</div>
 
 ---
 
-## 32. Chapter XXVIII - Therapeutics of an attack by Skanda-graha
+## Chapter XXVIII - Therapeutics of an attack by Skanda-graha
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -197,13 +213,10 @@ The body of the child should be guarded by a careful physician against the influ
 
 Thus ends the twenty-eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of Skanda-Graha.
 
-[1]:
 
-Kaitaryya, according to Dallana, means Nimba or Guduci.
+<div className="footnote-card"><strong>[1]</strong> Kaitaryya, according to Dallana, means Nimba or Guduci.</div>
 
 ---
-
-
 
 ---
 
@@ -212,10 +225,6 @@ Kaitaryya, according to Dallana, means Nimba or Guduci.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of an attack -graha: Sushruta Samhita Uttara Tantra Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

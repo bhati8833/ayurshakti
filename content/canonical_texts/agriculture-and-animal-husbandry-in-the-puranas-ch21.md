@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Herbs and Plants prescribed for the treatment of Animals within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 87. Part 26 - Herbs and Plants prescribed for the treatment of Animals
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Herbs and Plants prescribed for the treatment of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 26 - Herbs and Plants prescribed for the treatment of Animals
 
 Part 26 - Herbs and Plants prescribed for the treatment of Animals
 
@@ -160,11 +156,7 @@ Yūthikā (Jasminum auriculatum);
 
 ---
 
-## 88. Part 2 - Ploughing for Sowing Seeds
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Ploughing for Sowing Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 2 - Ploughing for Sowing Seeds
 
 Part 2 - Ploughing for Sowing Seeds
 
@@ -172,68 +164,85 @@ So many procedures of sowing seeds have been pointed out in the Kāśyapīyakṛ
 
 The Bhaviṣya Purāṇa enjoins that after the process of ploughing, grains of paddy are to be sowed. It is also enjoined that, after ploughing and the grains are sown, gold dust(suvarṇa-mṛttikā) should be sprinkled in the central place.[12] The purity which is achieved by ploughing is mentioned in the Purāṇas. It is stated that by different process of agriculture such as ploughing the fields, cutting the herbs on the soil, the tillers get rid of sin and achieve purity by pacifying the gods through sacrifice.[13]
 
-[1]:
 
-bījāvāpastu vividho nirdiṣṭaḥ śāstrakovidaiḥ/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> bījāvāpastu vividho nirdiṣṭaḥ śāstrakovidaiḥ/
 kvacit śāleyabhūmyāṃtu karṣaṇaṃ vṛṣabhaiḥ śubhaiḥ// Ibid., 1.412
+</blockquote>
 
-[2]:
 
-Ibid., 1.417-418
 
-[3]:
 
-sītākramaśca kṣetreṣu bījāvāpāya kovidaiḥ/
+<div className="footnote-card"><strong>[2]</strong> Ibid., 1.417-418</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> sītākramaśca kṣetreṣu bījāvāpāya kovidaiḥ/
 kvacitkalpaśca nirdiṣṭaḥ kvacitkhananameva ca// Ibid., 1.419
+</blockquote>
 
-[4]:
 
-Ibid., 1.423-424
 
-[5]:
 
-Ibid., 1.426-427
+<div className="footnote-card"><strong>[4]</strong> Ibid., 1.423-424</div>
 
-[6]:
 
-medhāvī kṛṣikāryajñaḥ bhūlakṣaṇavidāṃ baraḥ/
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 1.426-427</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> medhāvī kṛṣikāryajñaḥ bhūlakṣaṇavidāṃ baraḥ/
 śubhe muhūrte sumanāstvadārambhe kṛṣikriyām// Ibid., 1.249
+</blockquote>
 
-[7]:
 
-Ibid., 1.262
 
-[8]:
 
-Ibid., 1.272-286
+<div className="footnote-card"><strong>[7]</strong> Ibid., 1.262</div>
 
-[9]:
 
-Ibid., 1.273
 
-[10]:
 
-Ibid., 1.286
+<div className="footnote-card"><strong>[8]</strong> Ibid., 1.272-286</div>
 
-[11]:
 
-Ibid., 1.274-276
 
-[12]:
 
-Bhaviṣya Purāṇa ,2.10.7
+<div className="footnote-card"><strong>[9]</strong> Ibid., 1.273</div>
 
-[13]:
 
-Agni Purāṇa , 152.3
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., 1.286</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid., 1.274-276</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Bhaviṣya Purāṇa ,2.10.7
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Agni Purāṇa , 152.3
+</blockquote>
 
 ---
 
-## 89. Part 3 - Sowing of Seeds
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Sowing of Seeds’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 3 - Sowing of Seeds
 
 Part 3 - Sowing of Seeds
 
@@ -248,50 +257,64 @@ manasyantaḥ kṛtvā tadanu paritonyaḥ parijanaḥ//[3]
 
 Kauṭilya in his Arthaśāstra mentions that the superintendent of agriculture should employ labors to sow seeds after thoroughly ploughing the lands.[4] According to Kauṭilya, the superintendent of agriculture, possessed of the knowledge of the science of agriculture, dealing with the plantation of bushes and trees or assisted by those who are educated in such sciences, should collect the seeds of all kinds of grains, flowers, fruits, vegetables, bulbous roots, fibre-producing plants and cotton etc. in time.[5] Parāśara says that seeds that are to be sown on the same field, all of them should be of the same variety, because the seeds which are of the same class, yield a prosperous harvest.[6] The Purāṇas also refer to sowing of auspicious seeds, which comprise yava, śāli-rice, tila, mudga, godhūma and śvetasarṣapa(white mustard), kulattha and māṣa. It is suggested that these seeds should be well washed before sowing.[7] A śarāva (earthen saucer), a small water-pot and a small raised bank or embankments are the most convenient post or places for growing on the above seeds.[8]
 
-[1]:
 
-śuciḥ snāto vibhradvasanamamalaṃ pūjitesuro
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> śuciḥ snāto vibhradvasanamamalaṃ pūjitesuro
 guruṃ natvā datvā vasu vasumatīṃ vā guṇavate/
 svayaṃ bījānyādau vapati katicidvāstupuruṣaṃ
 manasyantaḥ kṛtvā tadanu paritonyaḥ parijanaḥ// Vṛkṣāyurveda , 7.59
+</blockquote>
 
-[2]:
 
-samyakkṛṣṭe same kṣetre māṣānuptvā tilāṃstathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> samyakkṛṣṭe same kṣetre māṣānuptvā tilāṃstathā/
 suniṣpannānapanayetatra vījoptiriṣyate// Upavana-Vinoda , 5.50
+</blockquote>
 
-[3]:
 
-Ibid., 5.55
 
-[4]:
 
-bahuhalaparikṛṣṭāyāṃ svabhūmau dāsakarmakaradaṇḍapratikartṛbhirvāpayet// Arthaśāstra , 2.24.2
+<div className="footnote-card"><strong>[3]</strong> Ibid., 5.55</div>
 
-[5]:
 
-sītādhyakṣaḥ kṛṣitantraśulbavṛkṣāyurvedajñastajjñasakho vā sarvadhānyapuṣpaphalaśākakandamūlavāllikyakṣaumakārpāsabījāni yathākālaṃ gṛhṇīyāt// Ibid., 2.24.1
 
-[6]:
 
-ekarūpaṃ tu yadvījaṃ phalaṃ phalati nirbharam/
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> bahuhalaparikṛṣṭāyāṃ svabhūmau dāsakarmakaradaṇḍapratikartṛbhirvāpayet// Arthaśāstra , 2.24.2
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> sītādhyakṣaḥ kṛṣitantraśulbavṛkṣāyurvedajñastajjñasakho vā sarvadhānyapuṣpaphalaśākakandamūlavāllikyakṣaumakārpāsabījāni yathākālaṃ gṛhṇīyāt// Ibid., 2.24.1
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> ekarūpaṃ tu yadvījaṃ phalaṃ phalati nirbharam/
 ekarūpaṃ prayatnena tasmādbījaṃ samācaret// Kṛṣi Parāśara , 3.79
+</blockquote>
 
-[7]:
 
-Agni Purāṇa , 68.4-5
 
-[8]:
 
-Ibid., 68.4
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Agni Purāṇa , 68.4-5
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 68.4</div>
 
 ---
 
-## 90. Part 1 - Agriculture In Post-Purāṇic Sanskrit Works
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Agriculture In Post-Puranic Sanskrit Works’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 1 - Agriculture In Post-Purāṇic Sanskrit Works
 
 Part 1 - Agriculture In Post-Purāṇic Sanskrit Works
 
@@ -321,43 +344,53 @@ Kāśyapa has argued the profession of farming as a noble one. He states that th
 
 Any other livelihood involves dependence.[4] According to Kāśyapa, agriculture is the highest of all wealth.[5] Yielding profuse returns, farming provides pure grains, and other things which please gods.[6] That’s why, qualified persons through their own efforts, being truthful and kind hearted, always engage them in agriculture.[7] It is found in the Kāśyapīyakṛṣisūkti that people of all castes were engaged to practice agriculture.[8] In the post-Purāṇic Sanskrit works, the process of agriculture can be sub divided under the following heads:
 
-[1]:
 
-kṛṣipāśupālye vāṇijyā ca vārttā// Arthaśāstra , 1.4.1
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> kṛṣipāśupālye vāṇijyā ca vārttā// Arthaśāstra , 1.4.1
+</blockquote>
 
-[2]:
 
-sasyādireva medinyāḥ parodharmaḥ paraṃ yaśaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> sasyādireva medinyāḥ parodharmaḥ paraṃ yaśaḥ/
 sasyapūrṇā vasumatī prāṇināṃ prāṇavardhinī// Kāśyapīyakṛṣisūkti , 1.18
+</blockquote>
 
-[3]:
 
-Ibid., 1.12
 
-[4]:
 
-Ibid., 1.240
+<div className="footnote-card"><strong>[3]</strong> Ibid., 1.12</div>
 
-[5]:
 
-devānāṃ ca munīnāṃ ca te matāḥ prītidāyinaḥ/
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 1.240</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> devānāṃ ca munīnāṃ ca te matāḥ prītidāyinaḥ/
 dhanānāmapi sarveṣāṃ kṛṣireva paraṃ dhanam// Ibid., 1.237
+</blockquote>
 
-[6]:
 
-Ibid., 1.238
 
-[7]:
 
-Ibid., 1.241b-243
+<div className="footnote-card"><strong>[6]</strong> Ibid., 1.238</div>
 
-[8]:
 
-Ibid., 1.47
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., 1.241b-243</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 1.47</div>
 
 ---
-
-
 
 ---
 
@@ -366,10 +399,6 @@ Ibid., 1.47
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Successful Production Depends on the Fertility of the Soil: Agriculture And Animal Husbandry In The Puranas Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

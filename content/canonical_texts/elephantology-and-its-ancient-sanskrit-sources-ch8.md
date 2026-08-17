@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Uses and Values of Elephants within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 9. Chapter 8 - The Uses and Values of Elephants
+## Chapter 8 - The Uses and Values of Elephants
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -172,57 +172,65 @@ vi) creation of light gaps harmful to fungal pathogens that cause damping off of
 
 Thus elephant is a useful animal like coconut tree. Now elephant had a bracelet badge to considered it as a lineal animal from the above consideration the elephants are considered to be a tiger in its position.[12] Almost all poets signifies elephants in their Kavyas.
 
-[1]:
 
-S.S. D.C.1. 88.
+<div className="footnote-card"><strong>[1]</strong> S.S. D.C.1. 88.</div>
 
-[2]:
 
-AE. 10, 122.
 
-[3]:
 
-Carakasamhita. XXIII. S.119. 376.
+<div className="footnote-card"><strong>[2]</strong> AE. 10, 122.</div>
 
-[4]:
 
-Carakasamhita.(Sushrutasamhita) 94-96.11
 
-[5]:
 
-Carakasamhita Sushrutasamhita. 93-102.
+<div className="footnote-card"><strong>[3]</strong> Carakasamhita. XXIII. S.119. 376.</div>
 
-[6]:
 
-A.E. 10, 123.
 
-[7]:
 
-Carakasamhita. XIV. 55-231.
+<div className="footnote-card"><strong>[4]</strong> Carakasamhita.(Sushrutasamhita) 94-96.11</div>
 
-[8]:
 
-A.E. 10-123.
 
-[9]:
 
-C.S. S.S. II.12. 106-112.
+<div className="footnote-card"><strong>[5]</strong> Carakasamhita Sushrutasamhita. 93-102.</div>
 
-[10]:
 
-Sushrutasamhita Sutrastana. XIV.
 
-[11]:
 
-Anaye Ariyan. Anaye Ariyam.18, 49-65.
+<div className="footnote-card"><strong>[6]</strong> A.E. 10, 123.</div>
 
-[12]:
 
-Malayala Manorama Newspaper report 1.09.2010.
+
+
+<div className="footnote-card"><strong>[7]</strong> Carakasamhita. XIV. 55-231.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> A.E. 10-123.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> C.S. S.S. II.12. 106-112.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Sushrutasamhita Sutrastana. XIV.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Anaye Ariyan. Anaye Ariyam.18, 49-65.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Malayala Manorama Newspaper report 1.09.2010.</div>
 
 ---
-
-
 
 ---
 
@@ -231,10 +239,6 @@ Malayala Manorama Newspaper report 1.09.2010.
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources-ch9" className="text-emerald-400 hover:underline flex items-center font-medium">Conclusion: Elephantology And Its Ancient Sanskrit Sources Chapter 9 →</a>
 </div>
-
-
-
-
 
 ---
 

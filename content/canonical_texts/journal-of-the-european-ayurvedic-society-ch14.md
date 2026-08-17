@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Abhinava-Madhavanidana of Rajaguru Kavicandra within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. The Abhinava-Madhavanidana of Rajaguru Kavicandra
+## The Abhinava-Madhavanidana of Rajaguru Kavicandra
 
 Journal of the European Ayurvedic Society
 
@@ -73,7 +73,7 @@ Ch Abbreviations AbMa Ah Car Ci Abhinava-Madhavanidana Astangahrdaya-Samhita, ed
 
 ---
 
-## 40. Maharishi Ayur-Veda
+## Maharishi Ayur-Veda
 
 Journal of the European Ayurvedic Society
 
@@ -127,7 +127,7 @@ D. von Schmadel, Ayurveda - Quo vadis? 249 Summary: Maharishi Ayur-Ved(a) (MA) c
 
 ---
 
-## 41. An unpublished Jesuit work on Indian phytotherapy
+## An unpublished Jesuit work on Indian phytotherapy
 
 Journal of the European Ayurvedic Society
 
@@ -249,8 +249,6 @@ aleanna A. Maroudani. Sorte d'arbrisseau qui viene trave d'environ dix- pieds- L
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -258,10 +256,6 @@ aleanna A. Maroudani. Sorte d'arbrisseau qui viene trave d'environ dix- pieds- L
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Kokkoka’s Ratirahasya translated and explained (Part 1): Journal Of The European Ayurvedic Society Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

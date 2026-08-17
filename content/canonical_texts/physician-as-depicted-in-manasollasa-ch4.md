@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on a - Basic concepts of Ayurveda (as explained in Manasollasa) within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 5. Chapter 3a - Basic concepts of Ayurveda (as explained in Manasollasa)
+## Chapter 3a - Basic concepts of Ayurveda (as explained in Manasollasa)
 
 Physician as depicted in Manasollasa
 
@@ -59,8 +59,6 @@ Ayurveda is the Veda of Ayus, . This science of life has come down from the earl
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -68,10 +66,6 @@ Ayurveda is the Veda of Ayus, . This science of life has come down from the earl
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch5" className="text-emerald-400 hover:underline flex items-center font-medium">1. Ancient Indian Medicine: Ayurveda's Foundations and Evolution: Physician As Depicted In Manasollasa Chapter 5 →</a>
 </div>
-
-
-
-
 
 ---
 

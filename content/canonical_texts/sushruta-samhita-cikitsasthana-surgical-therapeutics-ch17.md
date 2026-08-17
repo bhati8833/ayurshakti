@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The medical treatment of Abscesses and Tumours within Sushruta Samhita Cikitsasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Chapter XVI - The medical treatment of Abscesses and Tumours
+## Chapter XVI - The medical treatment of Abscesses and Tumours
 
 This current book, the Chikitsa-sthana (english translation), deals with therapeutics, surgical emergencies, geriatrics, aphrodisiacs and various other subjects.
 
@@ -77,37 +77,42 @@ The medical treatment of a patient, afflicated with a Majja-jata abscess (absces
 
 Thus ends the sixteenth Chapter of the Chikitsita Sthana in the Sushruta Samhita which deals with the treatment of abscess.
 
-[1]:
 
-Commencing with Apatarpana up to purgative measures (Chikitsa, chapter.–I).
+<div className="footnote-card"><strong>[1]</strong> Commencing with Apatarpana up to purgative measures (Chikitsa, chapter.–I).</div>
 
-[2]:
 
-Both Dallana and Chakrapani Datta read “Vataghna” in place of “Murangi” of the text. Dallana explains the term “Vataghna” as the “Bhadra-darvadi group” and Shiva-dasa, the commentator of Chakrapani, explains it as the “Dasha-mula”. Both of them, however, say that he different reading is “Surangi” meaning “Shobhanjana.” “Murangi” also means “Shobhanjana.”—Ep.
 
-[3]:
 
-“Traivrita” is a technical term and means clarified butter mixed with the three other lardacious substances, viz., oil, lard and marrow. Vide Chikitsita Sthana. Chapter—V.
+<div className="footnote-card"><strong>[2]</strong> Both Dallana and Chakrapani Datta read “Vataghna” in place of “Murangi” of the text. Dallana explains the term “Vataghna” as the “Bhadra-darvadi group” and Shiva-dasa, the commentator of Chakrapani, explains it as the “Dasha-mula”. Both of them, however, say that he different reading is “Surangi” meaning “Shobhanjana.” “Murangi” also means “Shobhanjana.”—Ep.</div>
 
-[4]:
 
-Chakrapani Datta in his compilation does not include Priyangu, Kusha-roots add Nichula-bark in the list but he reads both the kinds of Sariva, i.e., Anantamula and Shyama-lata.
 
-[5]:
 
-In Chakradatta, the reading is “mūlapiṣṭaiḥ (?)” i.e., pasted in cow’s urine, instead of “mūnnairuṣṇai (?) |” Shivadasa, the commentator, however, holds that this reading is not authoritative, though he says that some commentators have accepted it.
+<div className="footnote-card"><strong>[3]</strong> “Traivrita” is a technical term and means clarified butter mixed with the three other lardacious substances, viz., oil, lard and marrow. Vide Chikitsita Sthana. Chapter—V.</div>
 
-[6]:
 
-This medicated Ghrita (Chikitsita Sthana, Ch. IX) may be used both internally and externally with good results. Ed.
 
-[7]:
 
-Dallana reads “Tini” in place of “Nemi,” both of which, however, mean “Tinisha”. Chakradatta does not include “Saindhava” in the list, but reads “Tinisha-tvaca” in place of “Nemi-Saindhavam”. Shivadasa, however, adds another reading “Tinisha Dhavam” on the authority of Candrala.
+<div className="footnote-card"><strong>[4]</strong> Chakrapani Datta in his compilation does not include Priyangu, Kusha-roots add Nichula-bark in the list but he reads both the kinds of Sariva, i.e., Anantamula and Shyama-lata.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> In Chakradatta, the reading is “mūlapiṣṭaiḥ (?)” i.e., pasted in cow’s urine, instead of “mūnnairuṣṇai (?) |” Shivadasa, the commentator, however, holds that this reading is not authoritative, though he says that some commentators have accepted it.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> This medicated Ghrita (Chikitsita Sthana, Ch. IX) may be used both internally and externally with good results. Ed.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Dallana reads “Tini” in place of “Nemi,” both of which, however, mean “Tinisha”. Chakradatta does not include “Saindhava” in the list, but reads “Tinisha-tvaca” in place of “Nemi-Saindhavam”. Shivadasa, however, adds another reading “Tinisha Dhavam” on the authority of Candrala.</div>
 
 ---
-
-
 
 ---
 
@@ -116,10 +121,6 @@ Dallana reads “Tini” in place of “Nemi,” both of which, however, mean �
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-cikitsasthana-surgical-therapeutics-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">The medical treatment of Glandular Swellings: Sushruta Samhita Cikitsasthana Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Liberation (mokṣa) as the ultimate moral end within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 92. Liberation (mokṣa) as the ultimate moral end
+## Liberation (mokṣa) as the ultimate moral end
 
 Philosophy of Charaka-samhita
 
@@ -33,53 +33,76 @@ All kinds of positive actions are sinful.[7] The positive actions originate from
 
 This vindicates that if ignorance, that is, if the derangement of intellect, fortitude, and memory are totally eradicated, volitional transgression can be eliminated, and if volitional transgression is eliminated positive actions can be relinquished. Then again if positive actions cease, the vicious circle of craving and suffering in the form of experiences can be completely rooted out. So the primary thing is to eradicate ignorance. Caraka says that a person with pure mind and who practices yoga acquires true knowledge and eliminates ignorance. Thus, one is able to see things “the way they really are”. This insight will help one to renounce everything, thereby all cravings and suffering can be eradicated and ultimate freedom can be attained.[11]
 
-[1]:
 
-All Indian religions and philosophical systems except the Cārvākas take freedom (mukti) from suffering as the goal of spiritual endeavour.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> All Indian religions and philosophical systems except the Cārvākas take freedom (mukti) from suffering as the goal of spiritual endeavour.
+</blockquote>
 
-[2]:
 
-vipāpaṃ virājaḥ śāntaṃ paramakṣaramavyayaṃ amṛtaṃ braḥma nirvāṇaṃ paryāyaiḥ śāntirucyate, CS, Śārīra - sthāna, V. 23.
 
-[3]:
 
-CS, Śārīra-sthāna, V. 8; cf. Yāska who mentions six kinds of modifications: birth, continuance, growth, transformation, decay and death. Nirukta, p. 1.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> vipāpaṃ virājaḥ śāntaṃ paramakṣaramavyayaṃ amṛtaṃ braḥma nirvāṇaṃ paryāyaiḥ śāntirucyate, CS, Śārīra - sthāna, V. 23.
+</blockquote>
 
-[4]:
 
-Postive action (pravṛtti) is suffering and negative action (nivṛtti) is happiness. “pravṛtirdukhaṃ nivṛttih sukhaṃ”, For details see CS, Śārīra - sthāna, V. 10- 11.
 
-[5]:
 
-For details see Ibid., II. 37-38.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> CS, Śārīra-sthāna, V. 8; cf. Yāska who mentions six kinds of modifications: birth, continuance, growth, transformation, decay and death. Nirukta, p. 1.
+</blockquote>
 
-[6]:
 
-icchā dveṣātmikā tṛṣṇā sukhaduḥkhāt pravartate tṛṣṇā ca sukhaduḥkhānāṃ kāraṇaṃ punarucyate., CS, Śārīra-sthāna, I. 134. Happiness is duḥkha because it is liable to change.
 
-[7]:
 
-sarvapravṛttiṣvaghasaṃjñā, ibid, V. 12.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Postive action (pravṛtti) is suffering and negative action (nivṛtti) is happiness. “pravṛtirdukhaṃ nivṛttih sukhaṃ”, For details see CS, Śārīra - sthāna, V. 10- 11.
+</blockquote>
 
-[8]:
 
-vide supra, p. 157, F. Note, 62.
 
-[9]:
 
-Loc. cit. p. 362.
+<div className="footnote-card"><strong>[5]</strong> For details see Ibid., II. 37-38.</div>
 
-[10]:
 
-CS, Śārīra - sthāna, I. 99-101.
 
-[11]:
 
-Ibid., V. 16-18.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> icchā dveṣātmikā tṛṣṇā sukhaduḥkhāt pravartate tṛṣṇā ca sukhaduḥkhānāṃ kāraṇaṃ punarucyate., CS, Śārīra-sthāna, I. 134. Happiness is duḥkha because it is liable to change.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> sarvapravṛttiṣvaghasaṃjñā, ibid, V. 12.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> vide supra, p. 157, F. Note, 62.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Loc. cit. p. 362.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> CS, Śārīra - sthāna, I. 99-101.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid., V. 16-18.</div>
 
 ---
 
-## 93. Means conducive to liberation
+## Means conducive to liberation
 
 Philosophy of Charaka-samhita
 
@@ -95,53 +118,68 @@ Fundamentally speaking, the way to liberation is the acceleration of intelligenc
 
 If the ultimate freedom is implicit in the transcendental knowledge, the psychosomatic spiritual endeavour that brings about the condition of quiescence is called Yoga.[9] Yoga is the awakening of a man into the freedom of the self. Yoga is a self impelled and self initiated effort by which man ascents from the lower to the higher existence.[10] Meditative contemplation or the exploration of the deeper reaches of consciousness of a Yogin is marked by the purity of mind that gives rise to the eight kinds of divine strength and powers.Those powers are (1) the capacity of the self to enter the body of others, (2) the capacity for cognition of mental objects, (3) doing things at will, (4) supernatural vision, (5) supernatural audition, (6) miraculous memory, (7) extraordinary brilliance, and (8)the state of unawareness when desired.[11]
 
-[1]:
 
-Ibid., 151.
+<div className="footnote-card"><strong>[1]</strong> Ibid., 151.</div>
 
-[2]:
 
-Ibid., V, 19.
 
-[3]:
 
-sarvalokamātmanyātmānaṃ ca sarvaloke samamanupaśyataḥ satyā buddhiḥ samutpadyate. sarvalokaṃ hyātmani paśyato bhavatyātmaiva sukhaduḥkhayoḥ kartā nānya iti. karmātmakatvācca hetvādibhiryuktaḥ sarvaloko'hamiti viditvā jñānaṃ pūrvamutthāpyate'-pavargāyeti, Ibid., V. 7; V. 20- 21.
+<div className="footnote-card"><strong>[2]</strong> Ibid., V, 19.</div>
 
-[4]:
 
-tayoravṛttiḥ kriyate parābhyāṃ dhṛtismṛtibhyāṃ parayā dhiyā ca, Ibid., II. 42.
 
-[5]:
 
-Ibid., I. 150.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> sarvalokamātmanyātmānaṃ ca sarvaloke samamanupaśyataḥ satyā buddhiḥ samutpadyate. sarvalokaṃ hyātmani paśyato bhavatyātmaiva sukhaduḥkhayoḥ kartā nānya iti. karmātmakatvācca hetvādibhiryuktaḥ sarvaloko'hamiti viditvā jñānaṃ pūrvamutthāpyate'-pavargāyeti, Ibid., V. 7; V. 20- 21.
+</blockquote>
 
-[6]:
 
-Ibid., I. 148-149.
 
-[7]:
 
-Ibid., I. 143-146.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> tayoravṛttiḥ kriyate parābhyāṃ dhṛtismṛtibhyāṃ parayā dhiyā ca, Ibid., II. 42.
+</blockquote>
 
-[8]:
 
-Ibid., 147.
 
-[9]:
 
-However, Caraka does not give the scheme of eight fold yoga in a systematic way.
+<div className="footnote-card"><strong>[5]</strong> Ibid., I. 150.</div>
 
-[10]:
 
-EWU, p.83.
 
-[11]:
 
-CS, Śārīra - sthāna, I. 140-141.
+<div className="footnote-card"><strong>[6]</strong> Ibid., I. 148-149.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> Ibid., I. 143-146.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Ibid., 147.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> However, Caraka does not give the scheme of eight fold yoga in a systematic way.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> EWU, p.83.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> CS, Śārīra - sthāna, I. 140-141.
+</blockquote>
 
 ---
 
-## 94. Compassion as the crowning principle of morality
+## Compassion as the crowning principle of morality
 
 Philosophy of Charaka-samhita
 
@@ -159,29 +197,34 @@ The institution of morality has for its basic concern the regulation of man's lo
 
 Even though Caraka gives lengthy moral prescriptions, he does not consider ethics as a mere study of morals. On the contrary, it is the acknowledgement of human responsibility to the sentient beings of the world. Caraka’s ethical system conceives man as an all comprehensive concept. Man is not considered as a limited being. On the contrary, he is regarded as the universal link between all humans and non-human animals. His ethical system is allied to the affirmation of both man and the world as natural. It combines in it both the “world view” and “life view”.
 
-[1]:
 
-Ibid., I. 15-17.
+<div className="footnote-card"><strong>[1]</strong> Ibid., I. 15-17.</div>
 
-[2]:
 
-atha maitrīparaḥ puṇyamāyurvedaṃ punarvasuḥ śiṣyebyo dattavān ṣaḍbhyaḥ sarvabhutānukaṃpayā, Ibid., 30.
 
-[3]:
 
-Ibid., 39-40.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> atha maitrīparaḥ puṇyamāyurvedaṃ punarvasuḥ śiṣyebyo dattavān ṣaḍbhyaḥ sarvabhutānukaṃpayā, Ibid., 30.
+</blockquote>
 
-[4]:
 
-CS, Su, XI. 27.
 
-[5]:
 
-Albert Sheweitzer was a contemperory altruist of the West, who decided to make his life fit his thoughts. He preached a humanistic philosophy of “reverence for life and respect for individual”. He believes that desire is the cause of sufferings. EWU, p.162-63
+<div className="footnote-card"><strong>[3]</strong> Ibid., 39-40.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> CS, Su, XI. 27.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Albert Sheweitzer was a contemperory altruist of the West, who decided to make his life fit his thoughts. He preached a humanistic philosophy of “reverence for life and respect for individual”. He believes that desire is the cause of sufferings. EWU, p.162-63</div>
 
 ---
 
-## 95. Nature of freedom
+## Nature of freedom
 
 Philosophy of Charaka-samhita
 
@@ -191,25 +234,31 @@ Nature of freedom
 
 Liberation is a transformation from the negative states of unpleasant experiences to a positive state. It is the state of quiescence (praśānta) and immutability (akśara). It is called the Brahman.[1] This optimum can be attained only by complete renouncement. In the final stage of renunciation (caramasanyāsa) all sense-bound experiences including all determinate and specific cognitions are completely relinquished.[2] One ultimately identifies oneself with the Brahman. Self awareness ceases and finally the phenomenal existence itself ceases with out leaving behind any identifying mark.[3] In the liberated state, all volitions get destroyed due to the absence of rajas and tamas. Thus, one is finally and irrecoverably liberated from the ties of the phenomenal world, from rebirth.[4]
 
-[1]:
 
-nivṛttirapavargaḥ, tat paraṃ praśāntaṃ tattadakṣaraṃ tadbraḥma sa mokṣaḥ. Ibid., 11.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> nivṛttirapavargaḥ, tat paraṃ praśāntaṃ tattadakṣaraṃ tadbraḥma sa mokṣaḥ. Ibid., 11.
+</blockquote>
 
-[2]:
 
-tasmiṃścaramasanyāse samūlāḥ sarvavedanāḥ sasañjnājñāna vijñānānivṛttiṃ yānti aśeṣataḥ. Ibid., I. 154.
 
-[3]:
 
-Ibid., V. 22.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> tasmiṃścaramasanyāse samūlāḥ sarvavedanāḥ sasañjnājñāna vijñānānivṛttiṃ yānti aśeṣataḥ. Ibid., I. 154.
+</blockquote>
 
-[4]:
 
-mokṣo rajastamo'bhāvāt balavatkarmasaṅkṣayāt viyogaḥ sarvasaṃyogairapunarbhāva ucyate, Ibid., I. 142.
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., V. 22.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> mokṣo rajastamo'bhāvāt balavatkarmasaṅkṣayāt viyogaḥ sarvasaṃyogairapunarbhāva ucyate, Ibid., I. 142.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -218,10 +267,6 @@ mokṣo rajastamo'bhāvāt balavatkarmasaṅkṣayāt viyogaḥ sarvasaṃyogair
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">Way of life to liberation [in Charaka philosophy]: Philosophy Of Charaka Samhita Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Bhuta-vidya-tantra (psychology and psychiatry) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 66. Canto IV - Bhuta-vidya-tantra (psychology and psychiatry)
+## Canto IV - Bhuta-vidya-tantra (psychology and psychiatry)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -19,11 +19,9 @@ The Sushruta Samhita is the most representative work of the Hindu system of m...
 
 Canto IV - Bhuta-vidya-tantra (psychology and psychiatry)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 67. Chapter LXI - Symptoms and Treatment of Epilepsy (Apasmara)
+## Chapter LXI - Symptoms and Treatment of Epilepsy (Apasmara)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -105,21 +103,26 @@ Milk should be duly cooked with Bhargi and Payasa (porridge) should be prepared 
 
 Thus ends the sixty first chapter in the Uttara Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Apasmara.
 
-[1]:
 
-According to Dallana, the Ghrita should be cooked with the decoction of Krishnā and Vaca, while the drugs of the Āragvadhādi group should be used as Kalka.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> According to Dallana, the Ghrita should be cooked with the decoction of Krishnā and Vaca, while the drugs of the Āragvadhādi group should be used as Kalka.
+</blockquote>
 
-[2]:
 
-By the term ‘Indra-vriksha-twak’ some mean (barks of) Kutaja and Twak (cinnamon).
 
-[3]:
 
-Bhārgi—Dallana explains it as Goshthodumbara—the wild fig.
+<div className="footnote-card"><strong>[2]</strong> By the term ‘Indra-vriksha-twak’ some mean (barks of) Kutaja and Twak (cinnamon).</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Bhārgi—Dallana explains it as Goshthodumbara—the wild fig.
+</blockquote>
 
 ---
 
-## 68. Chapter LXII - Symptoms and Treatment of Insanity (Unmada)
+## Chapter LXII - Symptoms and Treatment of Insanity (Unmada)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -191,17 +194,17 @@ In a case of the fifth kind (viz. Shokaja) of insanity the cause of grief should
 
 Thus ends the sixty-second chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the (symptoms and) treatment of Insanity.
 
-[1]:
 
-Additional Text:—The patient should likewise be threatened with being forced into a burning hut. He should be also kept immersed in water or threatened with the fall of a thunder bolt.
+<div className="footnote-card"><strong>[1]</strong> Additional Text:—The patient should likewise be threatened with being forced into a burning hut. He should be also kept immersed in water or threatened with the fall of a thunder bolt.</div>
 
-[2]:
 
-According to Dallana the mentions of these two recipes (Kalyāna Ghrita and Phala Grita) are interpolations.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> According to Dallana the mentions of these two recipes (Kalyāna Ghrita and Phala Grita) are interpolations.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -210,10 +213,6 @@ According to Dallana the mentions of these two recipes (Kalyāna Ghrita and Phal
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Tantra-bhusana-adhyaya (embellishing chapters): Sushruta Samhita Uttara Tantra Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

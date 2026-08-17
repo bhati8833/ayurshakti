@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Fruits plucked with the Hand (kara-pracita) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 84. Chapter 1c - Fruits plucked with the Hand (kara-pracita)
+## Chapter 1c - Fruits plucked with the Hand (kara-pracita)
 
 Charaka Samhita (English translation)
 
@@ -97,7 +97,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 85. Chapter 1b - The Urge to Live (prana-kama)
+## Chapter 1b - The Urge to Live (prana-kama)
 
 Charaka Samhita (English translation)
 
@@ -209,7 +209,7 @@ Here is the recapitulatory verse-
 
 ---
 
-## 86. Chapter 1d - Revival of Ayurveda (the Science of Life)
+## Chapter 1d - Revival of Ayurveda (the Science of Life)
 
 Charaka Samhita (English translation)
 
@@ -327,7 +327,7 @@ Summary
 
 ---
 
-## 87. Chapter 2a - The preparations of roots of pen-reed grass (shara-mula)
+## Chapter 2a - The preparations of roots of pen-reed grass (shara-mula)
 
 Charaka Samhita (English translation)
 
@@ -405,7 +405,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 88. Chapter 2b - Milk-saturated rice and other preparations (asikta-ksirika)
+## Chapter 2b - Milk-saturated rice and other preparations (asikta-ksirika)
 
 Charaka Samhita (English translation)
 
@@ -465,7 +465,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 89. Chapter 2c - Bred on the leaves of the blackgram etc. (masha-parna-bhrita)
+## Chapter 2c - Bred on the leaves of the blackgram etc. (masha-parna-bhrita)
 
 Charaka Samhita (English translation)
 
@@ -533,8 +533,6 @@ Here is the recapitulatory verse—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -542,10 +540,6 @@ Here is the recapitulatory verse—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">The man of enhanced virility etc. (pums-jatabala): Charaka Samhita Complete Translation Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

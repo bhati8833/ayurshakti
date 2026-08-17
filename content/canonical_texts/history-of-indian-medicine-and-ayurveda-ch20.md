@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Final Renunciation within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 59. Chapter 17 - The Final Renunciation
+## Chapter 17 - The Final Renunciation
 
 History of Indian Medicine (and Ayurveda)
 
@@ -49,7 +49,7 @@ Again to bring about that final renunciation of individuality, the following pat
 
 ---
 
-## 60. Chapter 18 - People and their Professions
+## Chapter 18 - People and their Professions
 
 History of Indian Medicine (and Ayurveda)
 
@@ -203,7 +203,7 @@ Kashyapa describes that for subordinate medical work they should be allowed medi
 
 ---
 
-## 61. Part 5 - The Philosophical Concepts in Caraka
+## Part 5 - The Philosophical Concepts in Caraka
 
 History of Indian Medicine (and Ayurveda)
 
@@ -213,11 +213,7 @@ As an important final a...
 
 Part 5 - The Philosophical Concepts in Caraka
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -226,10 +222,6 @@ Part 5 - The Philosophical Concepts in Caraka
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">The Beginning of Metaphysics and Medicine: History Of Indian Medicine And Ayurveda Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

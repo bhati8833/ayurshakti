@@ -13,94 +13,92 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Vrikshayurveda and Environmental Philosophy Chapter 1](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch1)
+### [General Discourse: Vrikshayurveda and Environmental Philosophy Chapter 1](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Vrikshayurveda and Environmental Philosophy.
 
-### 2. [3. Origin of Kalpavriksha: Vrikshayurveda and Environmental Philosophy Chapter 2](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch2)
+### [3. Origin of Kalpavriksha: Vrikshayurveda and Environmental Philosophy Chapter 2](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch2)
 **Overview**: Detailed classical discussion on 3. Origin of Kalpavriksha within Vrikshayurveda and Environmental Philosophy.
 
-### 3. [8. Research Methodology adopted: Vrikshayurveda and Environmental Philosophy Chapter 3](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch3)
+### [8. Research Methodology adopted: Vrikshayurveda and Environmental Philosophy Chapter 3](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch3)
 **Overview**: Detailed classical discussion on 8. Research Methodology adopted within Vrikshayurveda and Environmental Philosophy.
 
-### 4. [7. Representation of the Study: Vrikshayurveda and Environmental Philosophy Chapter 4](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch4)
+### [7. Representation of the Study: Vrikshayurveda and Environmental Philosophy Chapter 4](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch4)
 **Overview**: Detailed classical discussion on 7. Representation of the Study within Vrikshayurveda and Environmental Philosophy.
 
-### 5. [2. Environmental Philosophy and its relevance: Vrikshayurveda and Environmental Philosophy Chapter 5](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch5)
+### [2. Environmental Philosophy and its relevance: Vrikshayurveda and Environmental Philosophy Chapter 5](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch5)
 **Overview**: Detailed classical discussion on 2. Environmental Philosophy and its relevance within Vrikshayurveda and Environmental Philosophy.
 
-### 6. [Ethics in the context of Vedic Literatures: Vrikshayurveda and Environmental Philosophy Chapter 6](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch6)
+### [Ethics in the context of Vedic Literatures: Vrikshayurveda and Environmental Philosophy Chapter 6](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch6)
 **Overview**: Detailed classical discussion on Ethics in the context of Vedic Literatures within Vrikshayurveda and Environmental Philosophy.
 
-### 7. [Environment and Humanity: In the context of Philosophical View: Vrikshayurveda and Environmental Philosophy Chapter 7](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch7)
+### [Environment and Humanity: In the context of Philosophical View: Vrikshayurveda and Environmental Philosophy Chapter 7](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch7)
 **Overview**: Detailed classical discussion on Environment and Humanity: In the context of Philosophical View within Vrikshayurveda and Environmental Philosophy.
 
-### 8. [Environment and Humanity: In the context of Vedic View: Vrikshayurveda and Environmental Philosophy Chapter 8](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch8)
+### [Environment and Humanity: In the context of Vedic View: Vrikshayurveda and Environmental Philosophy Chapter 8](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch8)
 **Overview**: Detailed classical discussion on Environment and Humanity: In the context of Vedic View within Vrikshayurveda and Environmental Philosophy.
 
-### 9. [4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara: Vrikshayurveda and Environmental Philosophy Chapter 9](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch9)
+### [4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara: Vrikshayurveda and Environmental Philosophy Chapter 9](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch9)
 **Overview**: Detailed classical discussion on 4. Vrikshayurveda texts found in Upavanavinoda of Sarangadhara within Vrikshayurveda and Environmental Philosophy.
 
-### 10. [5. Vrikshayurveda texts found in Vastu-shastra: Vrikshayurveda and Environmental Philosophy Chapter 10](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch10)
+### [5. Vrikshayurveda texts found in Vastu-shastra: Vrikshayurveda and Environmental Philosophy Chapter 10](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch10)
 **Overview**: Detailed classical discussion on 5. Vrikshayurveda texts found in Vastu-shastra within Vrikshayurveda and Environmental Philosophy.
 
-### 11. [2. Summary of the Vrikshayurveda of Surapala: Vrikshayurveda and Environmental Philosophy Chapter 11](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch11)
+### [2. Summary of the Vrikshayurveda of Surapala: Vrikshayurveda and Environmental Philosophy Chapter 11](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch11)
 **Overview**: Detailed classical discussion on 2. Summary of the Vrikshayurveda of Surapala within Vrikshayurveda and Environmental Philosophy.
 
-### 12. [3. The Significance of Plantation: Vrikshayurveda and Environmental Philosophy Chapter 12](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch12)
+### [3. The Significance of Plantation: Vrikshayurveda and Environmental Philosophy Chapter 12](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch12)
 **Overview**: Detailed classical discussion on 3. The Significance of Plantation within Vrikshayurveda and Environmental Philosophy.
 
-### 13. [2. The Importance of Trees and Plants: Vrikshayurveda and Environmental Philosophy Chapter 13](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch13)
+### [2. The Importance of Trees and Plants: Vrikshayurveda and Environmental Philosophy Chapter 13](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch13)
 **Overview**: Detailed classical discussion on 2. The Importance of Trees and Plants within Vrikshayurveda and Environmental Philosophy.
 
-### 14. [5. Environmental Values reflected in Vedas: Vrikshayurveda and Environmental Philosophy Chapter 14](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch14)
+### [5. Environmental Values reflected in Vedas: Vrikshayurveda and Environmental Philosophy Chapter 14](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch14)
 **Overview**: Detailed classical discussion on 5. Environmental Values reflected in Vedas within Vrikshayurveda and Environmental Philosophy.
 
-### 15. [7. Environmental Values reflected in Dharma Sutras: Vrikshayurveda and Environmental Philosophy Chapter 15](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch15)
+### [7. Environmental Values reflected in Dharma Sutras: Vrikshayurveda and Environmental Philosophy Chapter 15](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch15)
 **Overview**: Detailed classical discussion on 7. Environmental Values reflected in Dharma Sutras within Vrikshayurveda and Environmental Philosophy.
 
-### 16. [Religious Significance of Plantation and Rearing of Trees: Vrikshayurveda and Environmental Philosophy Chapter 16](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch16)
+### [Religious Significance of Plantation and Rearing of Trees: Vrikshayurveda and Environmental Philosophy Chapter 16](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch16)
 **Overview**: Detailed classical discussion on Religious Significance of Plantation and Rearing of Trees within Vrikshayurveda and Environmental Philosophy.
 
-### 17. [4. Religious Importance of Ashvattha: Vrikshayurveda and Environmental Philosophy Chapter 17](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch17)
+### [4. Religious Importance of Ashvattha: Vrikshayurveda and Environmental Philosophy Chapter 17](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch17)
 **Overview**: Detailed classical discussion on 4. Religious Importance of Ashvattha within Vrikshayurveda and Environmental Philosophy.
 
-### 18. [6. Religious Importance of Tulasi and Dhatri: Vrikshayurveda and Environmental Philosophy Chapter 18](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch18)
+### [6. Religious Importance of Tulasi and Dhatri: Vrikshayurveda and Environmental Philosophy Chapter 18](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch18)
 **Overview**: Detailed classical discussion on 6. Religious Importance of Tulasi and Dhatri within Vrikshayurveda and Environmental Philosophy.
 
-### 19. [8. Religious Importance of Plants in Different Ceremonies: Vrikshayurveda and Environmental Philosophy Chapter 19](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch19)
+### [8. Religious Importance of Plants in Different Ceremonies: Vrikshayurveda and Environmental Philosophy Chapter 19](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch19)
 **Overview**: Detailed classical discussion on 8. Religious Importance of Plants in Different Ceremonies within Vrikshayurveda and Environmental Philosophy.
 
-### 20. [Aesthetic Value behind the arrangement of Trees and Gardens: Vrikshayurveda and Environmental Philosophy Chapter 20](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch20)
+### [Aesthetic Value behind the arrangement of Trees and Gardens: Vrikshayurveda and Environmental Philosophy Chapter 20](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch20)
 **Overview**: Detailed classical discussion on Aesthetic Value behind the arrangement of Trees and Gardens within Vrikshayurveda and Environmental Philosophy.
 
-### 21. [2. Aesthetical Values as reflected in Vrikshayurveda: Vrikshayurveda and Environmental Philosophy Chapter 21](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch21)
+### [2. Aesthetical Values as reflected in Vrikshayurveda: Vrikshayurveda and Environmental Philosophy Chapter 21](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch21)
 **Overview**: Detailed classical discussion on 2. Aesthetical Values as reflected in Vrikshayurveda within Vrikshayurveda and Environmental Philosophy.
 
-### 22. [4. Navagraha-vatika as an example of arrangement of Gardens: Vrikshayurveda and Environmental Philosophy Chapter 22](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch22)
+### [4. Navagraha-vatika as an example of arrangement of Gardens: Vrikshayurveda and Environmental Philosophy Chapter 22](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch22)
 **Overview**: Detailed classical discussion on 4. Navagraha-vatika as an example of arrangement of Gardens within Vrikshayurveda and Environmental Philosophy.
 
-### 23. [3. Philosophy behind the planting of Trees near the Abode: Vrikshayurveda and Environmental Philosophy Chapter 23](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch23)
+### [3. Philosophy behind the planting of Trees near the Abode: Vrikshayurveda and Environmental Philosophy Chapter 23](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch23)
 **Overview**: Detailed classical discussion on 3. Philosophy behind the planting of Trees near the Abode within Vrikshayurveda and Environmental Philosophy.
 
-### 24. [4. Environmental Philosophy behind the Method of Plantation: Vrikshayurveda and Environmental Philosophy Chapter 24](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch24)
+### [4. Environmental Philosophy behind the Method of Plantation: Vrikshayurveda and Environmental Philosophy Chapter 24](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch24)
 **Overview**: Detailed classical discussion on 4. Environmental Philosophy behind the Method of Plantation within Vrikshayurveda and Environmental Philosophy.
 
-### 25. [7. The Implication of Botanical Wonders: Vrikshayurveda and Environmental Philosophy Chapter 25](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch25)
+### [7. The Implication of Botanical Wonders: Vrikshayurveda and Environmental Philosophy Chapter 25](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch25)
 **Overview**: Detailed classical discussion on 7. The Implication of Botanical Wonders within Vrikshayurveda and Environmental Philosophy.
 
-### 26. [Epilogue: Vrikshayurveda and Environmental Philosophy Chapter 26](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch26)
+### [Epilogue: Vrikshayurveda and Environmental Philosophy Chapter 26](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch26)
 **Overview**: Detailed classical discussion on Epilogue within Vrikshayurveda and Environmental Philosophy.
 
-### 27. [10. The Manusmriti and the relation between the Earth and Plantation: Vrikshayurveda and Environmental Philosophy Chapter 27](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch27)
+### [10. The Manusmriti and the relation between the Earth and Plantation: Vrikshayurveda and Environmental Philosophy Chapter 27](/articles/vrikshayurveda-environmental-philosophy-ancient-botany-ch27)
 **Overview**: Detailed classical discussion on 10. The Manusmriti and the relation between the Earth and Plantation within Vrikshayurveda and Environmental Philosophy.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. 1. Introduction and attitude of India towards Trees
+## 1. Introduction and attitude of India towards Trees
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -132,7 +130,7 @@ Introduction 1 0. 1. 1. Biogenetic resource of India: India has forever been glo
 
 ---
 
-## 2. Acknowledgement
+## Acknowledgement
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -146,7 +144,7 @@ VI advice as in alliance on to the due ethical completion of this Thesis. I woul
 
 ---
 
-## 3. Chapter 1 - Introduction
+## Chapter 1 - Introduction
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -154,11 +152,9 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 Chapter 1 - Introduction
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 4. 2. Tradition of Vrikshayurveda (Introduction)
+## 2. Tradition of Vrikshayurveda (Introduction)
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -174,7 +170,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-## 10. 5. Introduction to the Study
+## 5. Introduction to the Study
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -194,7 +190,7 @@ This essay studies the Environmental Philosophy in the Vrikshayurveda Texts incl
 
 ---
 
-## 13. 1. An Introduction to Environment and its Significance
+## 1. An Introduction to Environment and its Significance
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -214,7 +210,7 @@ CHAPTER-I The Purport of Environment and the Significance of Environmental Philo
 
 ---
 
-## 15. 3.1. Introduction to Environmental Ethics
+## 3.1. Introduction to Environmental Ethics
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -230,7 +226,7 @@ Second we can act on the basis of what we understand. Third our actions can serv
 
 ---
 
-## 23. 1. Texts on Vrikshayurveda: An Introduction
+## 1. Texts on Vrikshayurveda: An Introduction
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -244,7 +240,7 @@ CHAPTER-II 65 II. Texts on vrksayurvedaâ€”II.0. Texts on vrksayurveda: An Introd
 
 ---
 
-## 31. 1. An Introduction to Environmental Values
+## 1. An Introduction to Environmental Values
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -258,7 +254,7 @@ CHAPTER - III 147 III. Environmental values as reflected in Vrksayurveda Texts I
 
 ---
 
-## 41. 1. Significance of planting Trees (Introduction)
+## 1. Significance of planting Trees (Introduction)
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -276,7 +272,7 @@ Butea monos Perma Palasa Brahma, Gandharva Ficus glomerata Udumbara Moon Madhuca
 
 ---
 
-## 49. 1. An Introduction to Aesthetical Values
+## 1. An Introduction to Aesthetical Values
 
 Vrikshayurveda (and environmental philosophy)
 
@@ -290,7 +286,7 @@ CHAPTER-V 215 V. Aesthetical values behind the arrangement of Trees and Gardensâ
 
 ---
 
-## 60. 1. An Introduction to the Philosophical Aspects of Vrikshayurveda
+## 1. An Introduction to the Philosophical Aspects of Vrikshayurveda
 
 Vrikshayurveda (and environmental philosophy)
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Elephants In Kavyas within Elephantology And Its Ancient Sanskrit Sources. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 14. Chapter 9 - Elephants In Kavyas
+## Chapter 9 - Elephants In Kavyas
 
 Elephantology and its Ancient Sanskrit Sources
 
@@ -337,137 +337,165 @@ Quran contains a chapter on describing elephant army. Ethyopyan emporor's govern
 
 All these references will enable to argue the significance of this animal.
 
-[1]:
 
-Rigveda (RgV) 1.4.69.
+<div className="footnote-card"><strong>[1]</strong> Rigveda (RgV) 1.4.69.</div>
 
-[2]:
 
-Adhyatma Ramayana (A.R) Y.K. 14-74. 15-22. 955-956.
 
-[3]:
 
-Pancaratra. 2.22. 344.
+<div className="footnote-card"><strong>[2]</strong> Adhyatma Ramayana (A.R) Y.K. 14-74. 15-22. 955-956.</div>
 
-[4]:
 
-Yajarveda. 3.28.312.
 
-[5]:
 
-Raghuvamsha (Rg) 4.39.936.
+<div className="footnote-card"><strong>[3]</strong> Pancaratra. 2.22. 344.</div>
 
-[6]:
 
-Matangalila. 8.21.86.
 
-[7]:
 
-Malavikagnimitra (MM). 1.236.
+<div className="footnote-card"><strong>[4]</strong> Yajarveda. 3.28.312.</div>
 
-[8]:
 
-Atharvaveda. 3.22.6.
 
-[9]:
 
-Ibid. 3.22.1
+<div className="footnote-card"><strong>[5]</strong> Raghuvamsha (Rg) 4.39.936.</div>
 
-[10]:
 
-Ibid. 6.38.1407.
 
-[11]:
 
-Uttararamacarita. 1.9.22.
+<div className="footnote-card"><strong>[6]</strong> Matangalila. 8.21.86.</div>
 
-[12]:
 
-Sahyante makan. 3.3.69.
 
-[13]:
 
-Kiratharjuniyam. 2.18.85.
+<div className="footnote-card"><strong>[7]</strong> Malavikagnimitra (MM). 1.236.</div>
 
-[14]:
 
-Avimarakam. 4.11.660
 
-[15]:
 
-Malavikagnimitram (mm). 1.200.
+<div className="footnote-card"><strong>[8]</strong> Atharvaveda. 3.22.6.</div>
 
-[16]:
 
-Shishupalavadham (Spv). 6.26.164.
 
-[17]:
 
-Meghasandesha (MS). P.M. 2.6.614.
+<div className="footnote-card"><strong>[9]</strong> Ibid. 3.22.1</div>
 
-[18]:
 
-Kumarasambhava. 1.7.192.
 
-[19]:
 
-Abhishekanatakam. 1.22.158.
+<div className="footnote-card"><strong>[10]</strong> Ibid. 6.38.1407.</div>
 
-[20]:
 
-Madhyamavyayoga.1.5.286.
 
-[21]:
 
-Pratimanatakam. 1.25.42.
+<div className="footnote-card"><strong>[11]</strong> Uttararamacarita. 1.9.22.</div>
 
-[22]:
 
-Raghuvamsha 13.18.1140.
 
-[23]:
 
-Ibid. 4.33.934.
+<div className="footnote-card"><strong>[12]</strong> Sahyante makan. 3.3.69.</div>
 
-[24]:
 
-Raghuvamsas (Raghuvamsha). 2.7.890.
 
-[25]:
 
-Meghadootam Poorvamegha. 21.41.
+<div className="footnote-card"><strong>[13]</strong> Kiratharjuniyam. 2.18.85.</div>
 
-[26]:
 
-Shishupalavadham. 5.40.144.
 
-[27]:
 
-Kumarasambhava. 3.37.736.
+<div className="footnote-card"><strong>[14]</strong> Avimarakam. 4.11.660</div>
 
-[28]:
 
-Vikramorvashiya 4.136.
 
-[29]:
 
-Ritusamhara. 1.24.10.
+<div className="footnote-card"><strong>[15]</strong> Malavikagnimitram (mm). 1.200.</div>
 
-[30]:
 
-Adhyatma Ramayana (A.K.). 1.36-40. 187-188.
 
-[31]:
 
-Makkabayar (6). 30. 33-38.
+<div className="footnote-card"><strong>[16]</strong> Shishupalavadham (Spv). 6.26.164.</div>
 
-[32]:
 
-Surah 105. Alpheel (Elephant)
+
+
+<div className="footnote-card"><strong>[17]</strong> Meghasandesha (MS). P.M. 2.6.614.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> Kumarasambhava. 1.7.192.</div>
+
+
+
+
+<div className="footnote-card"><strong>[19]</strong> Abhishekanatakam. 1.22.158.</div>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> Madhyamavyayoga.1.5.286.</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> Pratimanatakam. 1.25.42.</div>
+
+
+
+
+<div className="footnote-card"><strong>[22]</strong> Raghuvamsha 13.18.1140.</div>
+
+
+
+
+<div className="footnote-card"><strong>[23]</strong> Ibid. 4.33.934.</div>
+
+
+
+
+<div className="footnote-card"><strong>[24]</strong> Raghuvamsas (Raghuvamsha). 2.7.890.</div>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Meghadootam Poorvamegha. 21.41.</div>
+
+
+
+
+<div className="footnote-card"><strong>[26]</strong> Shishupalavadham. 5.40.144.</div>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> Kumarasambhava. 3.37.736.</div>
+
+
+
+
+<div className="footnote-card"><strong>[28]</strong> Vikramorvashiya 4.136.</div>
+
+
+
+
+<div className="footnote-card"><strong>[29]</strong> Ritusamhara. 1.24.10.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Adhyatma Ramayana (A.K.). 1.36-40. 187-188.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> Makkabayar (6). 30. 33-38.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> Surah 105. Alpheel (Elephant)</div>
 
 ---
-
-
 
 ---
 
@@ -476,10 +504,6 @@ Surah 105. Alpheel (Elephant)
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/elephantology-and-its-ancient-sanskrit-sources" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

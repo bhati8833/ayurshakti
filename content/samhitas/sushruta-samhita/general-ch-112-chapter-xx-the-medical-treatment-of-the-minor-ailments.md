@@ -114,7 +114,11 @@ Gayadasa explains that a non-suppurated Aja-gallika should be first plastered wi
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 Chakradatta reads “shuktisauraṣṭrakashara (?)” in place of “shuktishrughnīyavashara”, evidently, after the commentary of Gayadasa.
+</blockquote>
+
 
 [3]:
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Epithets containing Elephants within Matangalila And Hastyayurveda Study. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. Epithets containing Elephants
+## Epithets containing Elephants
 
 Matangalila and Hastyayurveda (study)
 
@@ -23,29 +23,34 @@ Epithets of rulers and chiefs were bearing direct reference to elphants. We ofte
 
 One earlier inscription Madakasira inscription of Diliparasa, Śaka 870 (CE 948-949) mentions another epithet taken by the ruler. The inscription records the death of Pannaya of Ballaha, in the battle of IpīỊi, in which he is said to have fought with great bravery against Gajāṅkuśa Coḷa[3]. Scholars have suggested that Gajāṅkuśa Coḷa may have been the Cola king Parāntaka’s eldest son Rājāditya[4] who bore the epithet of Gajāṅkuśa Cola. We may further conclude that names ending in “aṅkuśa” were popular in the family of the Coḍas of Reṇāṇḍu. On the basis of this, Gajāṅkuśa Coḷa may be said to have belonged to the same family[5].
 
-[1]:
 
-Studies in Indian Epigraphy, Vol.3, p.167.
+<div className="footnote-card"><strong>[1]</strong> Studies in Indian Epigraphy, Vol.3, p.167.</div>
 
-[2]:
 
-P.V. Parabrahmasastry. Kakatiya Coins and Measures, Hyderabad: Govt. of Andhra Pradesh, 1975.
 
-[3]:
 
-EI, Vol. XXXIII, p.77.
+<div className="footnote-card"><strong>[2]</strong> P.V. Parabrahmasastry. Kakatiya Coins and Measures, Hyderabad: Govt. of Andhra Pradesh, 1975.</div>
 
-[4]:
 
-A. R. Ep., 1917, Pt.II, p.106; Karṇāṭaka Arasumanetanagalu, p.217.
 
-[5]:
 
-SII, Vol. XII, p.20.
+<div className="footnote-card"><strong>[3]</strong> EI, Vol. XXXIII, p.77.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> A. R. Ep., 1917, Pt.II, p.106; Karṇāṭaka Arasumanetanagalu, p.217.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> SII, Vol. XII, p.20.</div>
 
 ---
 
-## 21. Elephants and land grants
+## Elephants and land grants
 
 Matangalila and Hastyayurveda (study)
 
@@ -61,33 +66,37 @@ In another case, the Anbil plates of Sundara-Cola of the 4th year records the gr
 
 Thus elephants were used for the fixing boundaries of the granted lands, and also in some records we saw elephants as a witness of the grants. It may possible that this technique flourished the measuring unit of “gaja”.
 
-[1]:
 
-EI, Vol. XXXIII, pp.50-56.
+<div className="footnote-card"><strong>[1]</strong> EI, Vol. XXXIII, pp.50-56.</div>
 
-[2]:
 
-Ibid., Vol. XXVII, pp.182ff.
 
-[3]:
 
-Ibid., Vol. XXX, pp.52-53.
+<div className="footnote-card"><strong>[2]</strong> Ibid., Vol. XXVII, pp.182ff.</div>
 
-[4]:
 
-Ibid., Vol.XXVIII, pp. 1-11.
 
-[5]:
 
-Ibid., Vol. XVIII, pp. 8-14.
+<div className="footnote-card"><strong>[3]</strong> Ibid., Vol. XXX, pp.52-53.</div>
 
-[6]:
 
-EI, Vol. XV, pp.55-56.
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., Vol.XXVIII, pp. 1-11.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., Vol. XVIII, pp. 8-14.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> EI, Vol. XV, pp.55-56.</div>
 
 ---
 
-## 22. Ivory and Trade
+## Ivory and Trade
 
 Matangalila and Hastyayurveda (study)
 
@@ -103,21 +112,22 @@ The Sonpur plates of Kumāra Someśvaradeva states that the donees of this chart
 
 In ancient times elephants were used for army and for transportation of heavy goods. Indian elephants are famous for their fighting ability; so it is quite natural selling of elephants was most common and profitable and that it was one of most eminent part of royal treasury through taxation on it. We have discussed the trade in elephants and ivory in detail in chapter 5.
 
-[1]:
 
-Cunningham, Bhilsa Topes, 1854, p.264, No.189, and PlatesXII &XIX,; Fergusson, Tree and Serpent, 1868, p.125, Plates XXX, I; Hoernle, Ind.Ant., Vol.XI, p.30, note 24, 1882; Buhler, EI, Vol.II, p. 378, No.200.
+<div className="footnote-card"><strong>[1]</strong> Cunningham, Bhilsa Topes, 1854, p.264, No.189, and PlatesXII &XIX,; Fergusson, Tree and Serpent, 1868, p.125, Plates XXX, I; Hoernle, Ind.Ant., Vol.XI, p.30, note 24, 1882; Buhler, EI, Vol.II, p. 378, No.200.</div>
 
-[2]:
 
-Inscriptions of Orissa, Vol. IV, p.275.
 
-[3]:
 
-H.V.Nagaraja Rao. ed.& tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, Bangalore: Poornaprajna Samsodhana Mandiram, 2009.
+<div className="footnote-card"><strong>[2]</strong> Inscriptions of Orissa, Vol. IV, p.275.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> H.V.Nagaraja Rao. ed.& tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam, Bangalore: Poornaprajna Samsodhana Mandiram, 2009.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -126,10 +136,6 @@ H.V.Nagaraja Rao. ed.& tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam,
   <a href="/articles/matangalila-and-hastyayurveda-study" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/matangalila-and-hastyayurveda-study-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Metaphors regarding Elephants: Matangalila And Hastyayurveda Study Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

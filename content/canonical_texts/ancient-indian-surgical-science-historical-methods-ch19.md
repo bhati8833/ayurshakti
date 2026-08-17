@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 6. Contents of the Sushruta Samhita within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 61. 6. Contents of the Sushruta Samhita
+## 6. Contents of the Sushruta Samhita
 
 Surgery in ancient India (Study)
 
@@ -37,7 +37,7 @@ Susruta says that in the first stage, the ulcer is with pus collection and hence
 
 ---
 
-## 62. 10. Plastic Surgery according to Sushruta
+## 10. Plastic Surgery according to Sushruta
 
 Surgery in ancient India (Study)
 
@@ -53,7 +53,7 @@ Susruta warns that improper intervention with surgical manoeuvre either due to i
 
 ---
 
-## 63. 12. Sushruta’s Teaching (regarding the Surgeon)
+## 12. Sushruta’s Teaching (regarding the Surgeon)
 
 Surgery in ancient India (Study)
 
@@ -75,8 +75,6 @@ be licensed by the king. He should be clean, keep his nails and hair short, and 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -84,10 +82,6 @@ be licensed by the king. He should be clean, keep his nails and hair short, and 
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">15. Conclusion and References: Ancient Indian Surgical Science Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

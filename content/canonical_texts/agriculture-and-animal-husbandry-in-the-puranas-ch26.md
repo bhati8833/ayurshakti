@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej) within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 109. Part 22 - Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Description of the Akshaya Tritiya festival (i.e., Akha Teej)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 22 - Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej)
 
 Part 22 - Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej)
 
@@ -23,29 +19,31 @@ Part 22 - Description of the Akṣaya Tṛtīyā festival (i.e., Akha Teej)
 
 Akṣayya Tṛtīyā is an agricultural festival, which is observed on the 3rd bright of the month Vaiśākha(April).[1] At present time, on this day farmers in Rajasthan sow seeds, especially paddy in the field, ceremonially. After ablution in a river or tank, wearing new cloths, the farmers carry the seeds in new baskets to the field. Then they make offerings to Goddess Lakṣmī in the field and sow the seeds ceremonially. Goddess Lakṣmī is prayed in the farmer’s home for abundant crops.[2] In the Bhaviṣya Purāṇa, reference of Akṣaya Tṛtīyā is met with. Pacification of the manes is a specialty of this day. Special things are mentioned to be given as gifts on this day. They are-water-jars, water-pitchers, umbrellas, gold, a piece of land and agricultural products such as yava, godhūma, caṇaka, saktu, etc.[3] It is believed that things gifted on this day would never be in shortage. So this day is called akṣayya [akṣaya].[4]
 
-[1]:
 
-Dange, S.A., Encyclopaedia of Puraṇic Beliefs and Practices, volume 2, p. 496
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Dange, S.A., Encyclopaedia of Puraṇic Beliefs and Practices, volume 2, p. 496
+</blockquote>
 
-[2]:
 
-Saxena, R.C., et al, op.cit., p. 127
 
-[3]:
 
-Bhaviṣya Purāṇa , 4.30.1-16
+<div className="footnote-card"><strong>[2]</strong> Saxena, R.C., et al, op.cit., p. 127</div>
 
-[4]:
 
-Ibid., 30.19
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Bhaviṣya Purāṇa , 4.30.1-16
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid., 30.19</div>
 
 ---
 
-## 110. Part 23 - Description of the Dīpāvalī festival
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Description of the Dipavali festival’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 23 - Description of the Dīpāvalī festival
 
 Part 23 - Description of the Dīpāvalī festival
 
@@ -61,33 +59,34 @@ tdīpairnīrājanādatra saiṣā dīpāvaliḥ smṛtā.[3]
 
 On the 14th dark of Āśvina, bath should be taken early in the morning, applying oil to the body, because on this day the Goddess Lakṣmī stays in oil and the Gaṅgā in water.[4] The eating of the broth of the leaves of black-gram (māṣa) is also mentioned as a special rite on this day.[5]
 
-[1]:
 
-Saxena, R.C., et al, op.cit., p. 126
+<div className="footnote-card"><strong>[1]</strong> Saxena, R.C., et al, op.cit., p. 126</div>
 
-[2]:
 
-Skanda Purāṇa ,2.4.9.43-45
 
-[3]:
 
-Ibid.,2.4.9.45
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Skanda Purāṇa ,2.4.9.43-45
+</blockquote>
 
-[4]:
 
-Ibid.,2.4.9.27,32
 
-[5]:
 
-Ibid.,2.4.9.47
+<div className="footnote-card"><strong>[3]</strong> Ibid.,2.4.9.45</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> Ibid.,2.4.9.27,32</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid.,2.4.9.47</div>
 
 ---
 
-## 111. Part 24 - The festival of Poṅgal of Tamil Nadu
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘festival of Pongal of Tamil Nadu’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 24 - The festival of Poṅgal of Tamil Nadu
 
 Part 24 - The festival of Poṅgal of Tamil Nadu
 
@@ -95,33 +94,40 @@ Part 24 - The festival of Poṅgal of Tamil Nadu
 
 The beginning of the Uttarāyaṇa(when the apparent movement of the Sun is Northwards) event is celebrated as Poṅgal. Poṅgal is a harvest festival. The Poṅgal is celebrated for four days. The celebration of Poṅgal marks a period of abundance, harmony and pleasure. Moreover, it is celebrated in honor of the sun praying for abundant crops. Families gather to express joy and to share their joy and harvests with others. Milk and rice are offered to the Sun.[1] Likewise we find in the Purāṇic texts the mention of festivals like, Āgneya-Utsava[2], Indra Mahotsava[3] Madana Mahotsava[4] and Saṃkrānti,[5] which are closely connected with agriculture.
 
-[1]:
 
-Saxena, R.C., et al, op.cit., p. 126
+<div className="footnote-card"><strong>[1]</strong> Saxena, R.C., et al, op.cit., p. 126</div>
 
-[2]:
 
-Skanda Purāṇa ,1.3(2).7.39
 
-[3]:
 
-Skanda Purāṇa , 6.207.66; Bhāgavata Purāṇa , 10.24.1
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Skanda Purāṇa ,1.3(2).7.39
+</blockquote>
 
-[4]:
 
-Bhaviṣya Purāṇa , 4.135.27-81
 
-[5]:
 
-Skanda Purāṇa , 2.242.6-29
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Skanda Purāṇa , 6.207.66; Bhāgavata Purāṇa , 10.24.1
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Bhaviṣya Purāṇa , 4.135.27-81
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Skanda Purāṇa , 2.242.6-29
+</blockquote>
 
 ---
 
-## 112. Part 23 - The festival of Bihu of Assam
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘festival of Bihu of Assam’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 23 - The festival of Bihu of Assam
 
 Part 23 - The festival of Bihu of Assam
 
@@ -149,13 +155,12 @@ The Māgh Bihu is celebrated on the last day of the month Pauṣa and lasts for 
 
 Likewise the Skanda Purāṇa[1] mentions about the festival Saṃkrānti which was observed in the month of Māgha. This is the festival, where new rice was to be offered to the God.
 
-[1]:
 
-Skanda Purāṇa ,2.2.42.6-29
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Skanda Purāṇa ,2.2.42.6-29
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -164,10 +169,6 @@ Skanda Purāṇa ,2.2.42.6-29
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch27" className="text-emerald-400 hover:underline flex items-center font-medium">Breeding Policy (in modern Indian society): Agriculture And Animal Husbandry In The Puranas Chapter 27 →</a>
 </div>
-
-
-
-
 
 ---
 

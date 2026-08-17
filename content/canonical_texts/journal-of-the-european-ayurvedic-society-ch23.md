@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Astanga Sangraha, Kalpasthana IV: Translation and Notes within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 66. Astanga Sangraha, Kalpasthana IV: Translation and Notes
+## Astanga Sangraha, Kalpasthana IV: Translation and Notes
 
 Journal of the European Ayurvedic Society
 
@@ -65,7 +65,7 @@ K.G. Zysk, Astangasangraha, Kalpasthana IV 45 Tarte has medahsvino for medasvino
 
 ---
 
-## 67. The Dakinikalpa: Religious and Astrological Medicine
+## The Dakinikalpa: Religious and Astrological Medicine
 
 Journal of the European Ayurvedic Society
 
@@ -123,7 +123,7 @@ A. Herrmann-Pfandt, The So-Called Dakinikalpa 75 Good fortune arises. ¡iti jvar
 
 ---
 
-## 68. The Mahasauvarcaladi Ghrita
+## The Mahasauvarcaladi Ghrita
 
 Journal of the European Ayurvedic Society
 
@@ -147,8 +147,6 @@ R.E. Emmerick, The maha-sauvarcala-adi ghrita in the 'Jivakapustaka' 81 KT 1-7 M
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -156,10 +154,6 @@ R.E. Emmerick, The maha-sauvarcala-adi ghrita in the 'Jivakapustaka' 81 KT 1-7 M
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">On Mercury in Tibetan ‘Precious Pills’: Journal Of The European Ayurvedic Society Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

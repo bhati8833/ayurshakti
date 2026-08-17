@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Time and space [in Charaka philosophy] within Philosophy Of Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 27. Time and space [in Charaka philosophy]
+## Time and space [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -35,81 +35,121 @@ Space
 
 Space, in Nyāya-Vaiśeṣika, is construed as the cause of the notions such as east and west.[15] In Caraka, dik refers to deśa or habitate which determines the characteristics of substances due to procreation and extend of drugs or their acclimatization to the region.[16] For instance drugs which grow in the Himalayas are very efficatious and those in deserts are light. Such habitats are classified into three: (i) jāṅgala, (2) anūpa, and (3) sadhāraṇa.[17] Carak gives a vast description for identifying these three habitates. In Aśṭāṅgahṛdaya, it is stated that jāṅgala habitates are those which are predominated by vāta; Anūpa habitats are those predominated by kapha, and the sādhāraṇa are those which have thee equipoise of the doṣās.[18] The description of time and space thus made by Caraka is purely for the treatment and maintenance of health and not from the point of view of metaphysical enquiry.
 
-[1]:
 
-CIPM, p. 3.
+<div className="footnote-card"><strong>[1]</strong> CIPM, p. 3.</div>
 
-[2]:
 
-CSP, p. 87.
 
-[3]:
 
-Ibid., p. 85.
+<div className="footnote-card"><strong>[2]</strong> CSP, p. 87.</div>
 
-[4]:
 
-aparasmin aparaṃ yugapat ciraṃ, kṣipraṃ iti kālaliṅgāni,Vaiśeṣikadarśana., II. ii. Praśastapādabhāṣya., p. 155; Kālo'pi digviparītaparatvāparatvānumeyaḥ, T. Bh, p. 189.
 
-[5]:
 
-TSA, p. 11.
+<div className="footnote-card"><strong>[3]</strong> Ibid., p. 85.</div>
 
-[6]:
 
-Ibid; Tarkabhāṣa of Keśavamiśra., p. 189.8.
 
-[7]:
 
-NSMK, p. 150.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> aparasmin aparaṃ yugapat ciraṃ, kṣipraṃ iti kālaliṅgāni,Vaiśeṣikadarśana., II. ii. Praśastapādabhāṣya., p. 155; Kālo'pi digviparītaparatvāparatvānumeyaḥ, T. Bh, p. 189.
+</blockquote>
 
-[8]:
 
-kālastu utpattisthitivināśalkṣaṇastrividhaḥ. Saptapadārthi of Śivāditya., p. 21.
 
-[9]:
 
-A Comparative Studyof the Concepts of Space and Time in Indian Thought., Kumar Kishore Mandal, p. 21.
+<div className="footnote-card"><strong>[5]</strong> TSA, p. 11.</div>
 
-[10]:
 
-Time occupies the sixth place in the Vaiśeṣika table of substances.
 
-[11]:
 
-CS, Vimāna - sthāna, I, 21 (6); Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I, 24. Elswhere it is stated that time is that which has change - kālaḥ punaḥ priṇāmaḥ, CS, Vimāna - sthāna, VIII. 76.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Ibid; Tarkabhāṣa of Keśavamiśra., p. 189.8.
+</blockquote>
 
-[12]:
 
-kālaḥ punaḥ saṃvatsaraścāturāvasthā ca. tatra saṃvatsaro dvidhā, tridhā, ṣoḍho, dvādaśadhā bhūyaścāpyataḥ pravibhajyate tattatkāryāmabhisamīkṣya, CS, Vimāna - sthāna, VIII. 125.
 
-[13]:
 
-ṛtvorantyādisaptāhāvṛtusandhiriti smṛtaḥ, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, III. 58.
+<div className="footnote-card"><strong>[7]</strong> NSMK, p. 150.</div>
 
-[14]:
 
-sañcayañca prakopañca prasaraṃ sthānasaṃśrayaṃ vyaktiṃ bhedañca yo vetti doṣāṇāṃ sa bhavedbhiṣak., Suśrutasaṃhitā of Suśruta., Su, XXI, 36. For details see IK, pp. 84 - 108.
 
-[15]:
 
-Praśastapādabhāṣya., p. 162; TSA, p. 12; Kaṇāḍā defines it as that which gives rise to the inference and usage that “this is here”. Vaiśeṣikadarśana., Su, II. ii. 10.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> kālastu utpattisthitivināśalkṣaṇastrividhaḥ. Saptapadārthi of Śivāditya., p. 21.
+</blockquote>
 
-[16]:
 
-deśaḥ punaḥ sthānaṃ; sa dravyāṇāmutpattipracārau deśasātmyaṃcacācaṣṭate. CS, Vimāna - sthāna, I. 21.
 
-[17]:
 
-trividhaḥ khalu deśaḥ- jāṅgalaḥ, anūpaḥ sādhāraṇaśceti. CS, Kalpa - sthāna, I. 8.
+<div className="footnote-card"><strong>[9]</strong> A Comparative Studyof the Concepts of Space and Time in Indian Thought., Kumar Kishore Mandal, p. 21.</div>
 
-[18]:
 
-Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 23.
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Time occupies the sixth place in the Vaiśeṣika table of substances.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> CS, Vimāna - sthāna, I, 21 (6); Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I, 24. Elswhere it is stated that time is that which has change - kālaḥ punaḥ priṇāmaḥ, CS, Vimāna - sthāna, VIII. 76.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> kālaḥ punaḥ saṃvatsaraścāturāvasthā ca. tatra saṃvatsaro dvidhā, tridhā, ṣoḍho, dvādaśadhā bhūyaścāpyataḥ pravibhajyate tattatkāryāmabhisamīkṣya, CS, Vimāna - sthāna, VIII. 125.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> ṛtvorantyādisaptāhāvṛtusandhiriti smṛtaḥ, Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, III. 58.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> sañcayañca prakopañca prasaraṃ sthānasaṃśrayaṃ vyaktiṃ bhedañca yo vetti doṣāṇāṃ sa bhavedbhiṣak., Suśrutasaṃhitā of Suśruta., Su, XXI, 36. For details see IK, pp. 84 - 108.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Praśastapādabhāṣya., p. 162; TSA, p. 12; Kaṇāḍā defines it as that which gives rise to the inference and usage that “this is here”. Vaiśeṣikadarśana., Su, II. ii. 10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> deśaḥ punaḥ sthānaṃ; sa dravyāṇāmutpattipracārau deśasātmyaṃcacācaṣṭate. CS, Vimāna - sthāna, I. 21.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> trividhaḥ khalu deśaḥ- jāṅgalaḥ, anūpaḥ sādhāraṇaśceti. CS, Kalpa - sthāna, I. 8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 23.
+</blockquote>
 
 ---
 
-## 28. World Construction (Sāṃkhya and Caraka)
+## World Construction (Sāṃkhya and Caraka)
 
 Philosophy of Charaka-samhita
 
@@ -203,85 +243,128 @@ Another notable aspect of the Caraka-Sāṃkhya is that it shows considerable si
 
 Anyway there can be no doubt that the Carakasāṃkhya represents one of the earliest available expositions of Sāṃkhya. What Caraka gives in his exposition is of natural cosmological-psychological character. Its centerpiece is the conception of the inner self as the field knower (kṣetrajña) and the psycho-somatic complex as the field (kṣetra) for the whole of therapeutics hinges on it.
 
-[1]:
 
-For details see Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 3- 5.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> For details see Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 3- 5.
+</blockquote>
 
-[2]:
 
-Ibid., 9.
 
-[3]:
 
-Ibid., 13
+<div className="footnote-card"><strong>[2]</strong> Ibid., 9.</div>
 
-[4]:
 
-bhautikāni cendriyāṇyāyurvede varṇyante...., Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 14.
 
-[5]:
 
-The pre-classical Sāṃkhya can be seen in the middle and younger Upaniṣads, that is, Kaṭha, Śetāsvatara, Maitrāyaṇi, and the philosophical portions of the Mahābhārata like Bhagavat Gīta, Mokṣadharma which developed over a long period of time, JJL p. 27.
+<div className="footnote-card"><strong>[3]</strong> Ibid., 13</div>
 
-[6]:
 
-sāṃkhyaiḥ saṃkhyātasāṃkhyeyaiḥ sahāsīnaṃ punarvasuṃ jagaddhitārthaṃ papraccha vahniveśaḥ svasaṃśayaṃ, CS, Su, XIII.3.
 
-[7]:
 
-ṣaḍdhātujastu puruṣo rogāḥ saḍdhātujāstathā rāśiḥ saḍdhātujo hyeṣah sāṃkhyairādyaiḥ prakīrtitaḥ. Ibid., XXV. 15.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> bhautikāni cendriyāṇyāyurvede varṇyante...., Suśrutasaṃhitā of Suśruta., Śārīra - sthāna, I. 14.
+</blockquote>
 
-[8]:
 
-yathā ādityaḥ prākāśastathā sāṃkyajñānaṃ prākāśakamiti. CS, Vimāna-sthāna, VIII. 38.
 
-[9]:
 
-loke'smin dvidhā niṣṭā purā proktā mayānagha jñānayogena sāṃkhyānāṃ karmayogena yogināṃ, BG, III. 3.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> The pre-classical Sāṃkhya can be seen in the middle and younger Upaniṣads, that is, Kaṭha, Śetāsvatara, Maitrāyaṇi, and the philosophical portions of the Mahābhārata like Bhagavat Gīta, Mokṣadharma which developed over a long period of time, JJL p. 27.
+</blockquote>
 
-[10]:
 
-ayanaṃ punarākhyātametadyogasya yogibhiḥ saṃkhyātadharmaiḥ sāṃkhyaiśca muktairmokṣasya cāyanaṃ, CS, Śārīra - sthāna, I. 151.
 
-[11]:
 
-sarvabhāvasvabhāvajño yayā bhavati niḥspṛhaḥ. yogaṃ yayā sādhayate sāṃkhyaḥ sampadyate yayā, Ibid., V. 17.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> sāṃkhyaiḥ saṃkhyātasāṃkhyeyaiḥ sahāsīnaṃ punarvasuṃ jagaddhitārthaṃ papraccha vahniveśaḥ svasaṃśayaṃ, CS, Su, XIII.3.
+</blockquote>
 
-[12]:
 
-JJL, p. 63.
 
-[13]:
 
-Ibid., p. 65.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> ṣaḍdhātujastu puruṣo rogāḥ saḍdhātujāstathā rāśiḥ saḍdhātujo hyeṣah sāṃkhyairādyaiḥ prakīrtitaḥ. Ibid., XXV. 15.
+</blockquote>
 
-[14]:
 
-Ibid., p. 48.
 
-[15]:
 
-NTIT, p. 179; JJL, p. 139.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> yathā ādityaḥ prākāśastathā sāṃkyajñānaṃ prākāśakamiti. CS, Vimāna-sthāna, VIII. 38.
+</blockquote>
 
-[16]:
 
-According to Vācaspatimiśra, Pañcaśikha is referred to in Vyāsa's Yoga-sūtra-bhāṣya (I.4, I.25, I.36, II.5, II.6, II.13, III.13 and III, 41) in Sāṃkhyapravacanabhāṣya (V.32, IV.68). Johnston has suggested that the Sāṃkhyayoga suggested in Buddhacarita XII can be ascribed to Pancaśikha amoung others., E. H. Johnston, Early Sāṃkhya, Price Publication Fund, Vol. XV. Royal Asiatic Society, London, 1937, p.152.
 
-[17]:
 
-HIPS, Vol. I, pp. 216-217.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> loke'smin dvidhā niṣṭā purā proktā mayānagha jñānayogena sāṃkhyānāṃ karmayogena yogināṃ, BG, III. 3.
+</blockquote>
 
-[18]:
 
-Buddhacarita of Aśvaghoṣa., XII. 18-19.
 
-[19]:
 
-asya kṣetrasya vijñānāt kṣetrajña iti saṃjñi ca kṣetrajña iti cātmānaṃ kathayantyātmacintakaḥ, ibid., 20.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> ayanaṃ punarākhyātametadyogasya yogibhiḥ saṃkhyātadharmaiḥ sāṃkhyaiśca muktairmokṣasya cāyanaṃ, CS, Śārīra - sthāna, I. 151.
+</blockquote>
 
-[20]:
 
-(i) ajñānaṃ karma tṛṣṇā ca jñeyaḥ śarīraṃ sārahetavaḥ
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> sarvabhāvasvabhāvajño yayā bhavati niḥspṛhaḥ. yogaṃ yayā sādhayate sāṃkhyaḥ sampadyate yayā, Ibid., V. 17.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> JJL, p. 63.</div>
+
+
+
+
+<div className="footnote-card"><strong>[13]</strong> Ibid., p. 65.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> Ibid., p. 48.</div>
+
+
+
+
+<div className="footnote-card"><strong>[15]</strong> NTIT, p. 179; JJL, p. 139.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> According to Vācaspatimiśra, Pañcaśikha is referred to in Vyāsa's Yoga-sūtra-bhāṣya (I.4, I.25, I.36, II.5, II.6, II.13, III.13 and III, 41) in Sāṃkhyapravacanabhāṣya (V.32, IV.68). Johnston has suggested that the Sāṃkhyayoga suggested in Buddhacarita XII can be ascribed to Pancaśikha amoung others., E. H. Johnston, Early Sāṃkhya, Price Publication Fund, Vol. XV. Royal Asiatic Society, London, 1937, p.152.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> HIPS, Vol. I, pp. 216-217.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Buddhacarita of Aśvaghoṣa., XII. 18-19.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> asya kṣetrasya vijñānāt kṣetrajña iti saṃjñi ca kṣetrajña iti cātmānaṃ kathayantyātmacintakaḥ, ibid., 20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> (i) ajñānaṃ karma tṛṣṇā ca jñeyaḥ śarīraṃ sārahetavaḥ
 ....................................................................................
 vipratyayādahaṃkārat sandehādabhisamplavāt aviśeṣanupāyābhyāṃ saṅgādabhyavapātaḥ.
 ....................................................................................
@@ -290,14 +373,16 @@ vijñeyo'bhyavapātaḥ sa saṃsāre yena pātyate.Ibid., 23-32;
 .....................................
 sattvaśarīradoṣamūlānāṃ sarvaduḥkhānāṃ bhavati”.
 CS, Su, V. 10. There is a slight difference in the sequence and definitions.
+</blockquote>
 
-[21]:
 
-JJL, p.107.
+
+
+<div className="footnote-card"><strong>[21]</strong> JJL, p.107.</div>
 
 ---
 
-## 29. Chapter 4 - Self (Puruṣa)
+## Chapter 4 - Self (Puruṣa)
 
 Philosophy of Charaka-samhita
 
@@ -305,11 +390,9 @@ Ayurveda, represented by Charaka and Sushruta, stands first among the sciences o
 
 Chapter 4 - Self (Puruṣa)
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 30. Self (Puruṣa) [in Charaka philosophy]
+## Self (Puruṣa) [in Charaka philosophy]
 
 Philosophy of Charaka-samhita
 
@@ -355,105 +438,143 @@ caturviṃśatikapuruṣa,
 
 ṣaḍdhātujapuruṣa.
 
-[1]:
 
-BLS, p. 3.
+<div className="footnote-card"><strong>[1]</strong> BLS, p. 3.</div>
 
-[2]:
 
-Truth and satisfaction are not interchangeable notions. “A view or theory of the world may be satisfactory with out being true. Or it may be true with out being satisfactory”. KFL, p. 2.
 
-[3]:
 
-See Ibid., p. 163.
+<div className="footnote-card"><strong>[2]</strong> Truth and satisfaction are not interchangeable notions. “A view or theory of the world may be satisfactory with out being true. Or it may be true with out being satisfactory”. KFL, p. 2.</div>
 
-[4]:
 
-According to mechanism, life is explained in terms of physical and chemical laws. According to vitalism, living substance differ fundamentally from non-living substance. Its processes are not reducible to the mere interactions of material components as the advocates of mechanism claimed. Life is something beyond the reach of science. Finalism holds that life has a preordained pattern that was purposefully directed towards a future goal. Although vitalism and finalism differ, they both hold the view that life is intrinsically beyond explanation. See BLS, p. 26.
 
-[5]:
 
-Ibid., p. 27.
+<div className="footnote-card"><strong>[3]</strong> See Ibid., p. 163.</div>
 
-[6]:
 
-Ramakant Sinari, “The World as the Ontological Project of Man”, PIP, p. 203; see also BFD, pp. 180-81.
 
-[7]:
 
-Ibid., p. 203.
+<div className="footnote-card"><strong>[4]</strong> According to mechanism, life is explained in terms of physical and chemical laws. According to vitalism, living substance differ fundamentally from non-living substance. Its processes are not reducible to the mere interactions of material components as the advocates of mechanism claimed. Life is something beyond the reach of science. Finalism holds that life has a preordained pattern that was purposefully directed towards a future goal. Although vitalism and finalism differ, they both hold the view that life is intrinsically beyond explanation. See BLS, p. 26.</div>
 
-[8]:
 
-Ibid., p. 201-02.
 
-[9]:
 
-Subjectivity refers to the core of human existence or the inner self which is responsible for thoughts, happiness, pain, desire, and aversion.
+<div className="footnote-card"><strong>[5]</strong> Ibid., p. 27.</div>
 
-[10]:
 
-“A scientific explanation must be testable experimentally, but êlan vital is unobservable”. BLS, p. 26.
 
-[11]:
 
-KFL, p. 14.
+<div className="footnote-card"><strong>[6]</strong> Ramakant Sinari, “The World as the Ontological Project of Man”, PIP, p. 203; see also BFD, pp. 180-81.</div>
 
-[12]:
 
-Loc. cit., F. Note. 23, p. 187.
 
-[13]:
 
-BLS, p. 26.
+<div className="footnote-card"><strong>[7]</strong> Ibid., p. 203.</div>
 
-[14]:
 
-PD, p. 19.
 
-[15]:
 
-“The root bṛḥ (bṛḥ vṛddhau) means growth, and the suffix man, added to it, signifies an absence of limitation (in expanse). So Brahman derivatively means that which is absolutely the greatest”. BraḥmaSūtra-Bhāṣya of Śri Śaṅkara, English Trns. by Swami Gaṃbhirananda, Advaita Ashrama, Culcutta, Fifth Impression, 1993, F. Notes, p.12; See also Amarakośa., Vol. II, Vivṛti on III. iii. 114.
+<div className="footnote-card"><strong>[8]</strong> Ibid., p. 201-02.</div>
 
-[16]:
 
-PD, p. 20
 
-[17]:
 
-Etymologically puruṣa means the one who dwells in the body: “purī dehe śedati tiṣṭati iti puruṣaḥ”, See ibid, Vivṛti on Amarakośa., Vol. I, I. iv, 29.
+<div className="footnote-card"><strong>[9]</strong> Subjectivity refers to the core of human existence or the inner self which is responsible for thoughts, happiness, pain, desire, and aversion.</div>
 
-[18]:
 
-Ṛgveda-Saṃhitā, 10.97, 4-5; 10.90.
 
-[19]:
 
-15. The word ātmā is derived from the root “ad bhakṣaṇe” and it means that one who one who enjoys the auspicious and inauspicious. Another derivation is from the root “ata sātatyagamane” which means one who dwells in bodies: “atati śarīreṣu saṃvasatīti va”. See Amarakośa., Vol. I, I. iv. 29. Yāska has used it in the sense of limitless expanse: “ātmā atatervyāptervāpi vāpta iva syādyāvad vyāptibhūta iti”. Nirukta, III. iii, p. 28.
+<div className="footnote-card"><strong>[10]</strong> “A scientific explanation must be testable experimentally, but êlan vital is unobservable”. BLS, p. 26.</div>
 
-[20]:
 
-“ātmā eva idaṃ agre āsīt”, Bṛhadāraṇyaka Upaniṣad.., I. iv. 1; See also Ch. U., VIII, vii. 4.
 
-[21]:
 
-Mahābhārata., Mokṣa, 199. 27; 178.4; 175. 11.
+<div className="footnote-card"><strong>[11]</strong> KFL, p. 14.</div>
 
-[22]:
 
-The term “Self” with the capitalized “S” refers to the foundational self and with small “s” refers to the empirical self, because the word puruṣa is used by Caraka stands for both the foundational Self, and the empirically bound self.
 
-[23]:
 
-tatra pūrvaṃ cetanādhātuḥ sattvakaraṇo guṇagrahaṇāyā pravartate; sa hi hetuḥ kāraṇaṃ nimittamakṣaraṃ kartā mantā veditā boddhā draṣṭā dhātā brahmā viśvakarmā viśvarūpaḥ purṣaḥ prabhavo avyayo nityo guṇī grahaṇaṃ pradhānamavyaktaṃ jīvo jñaḥ pudgalaścetanāvān vibhurbhūtātmā cāntarātmā ceti. CS, Śārīra-sthāna, IV. 8. It is recognized as the sixth substance and there it is called ātmā, CS, Su, I. 48.
+<div className="footnote-card"><strong>[12]</strong> Loc. cit., F. Note. 23, p. 187.</div>
 
-[24]:
 
-In CS the word puruṣa is used in the sense of human being, male, inner self and the foundational “Self” or ultimate reality (Brahman).
+
+
+<div className="footnote-card"><strong>[13]</strong> BLS, p. 26.</div>
+
+
+
+
+<div className="footnote-card"><strong>[14]</strong> PD, p. 19.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> “The root bṛḥ (bṛḥ vṛddhau) means growth, and the suffix man, added to it, signifies an absence of limitation (in expanse). So Brahman derivatively means that which is absolutely the greatest”. BraḥmaSūtra-Bhāṣya of Śri Śaṅkara, English Trns. by Swami Gaṃbhirananda, Advaita Ashrama, Culcutta, Fifth Impression, 1993, F. Notes, p.12; See also Amarakośa., Vol. II, Vivṛti on III. iii. 114.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[16]</strong> PD, p. 20</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Etymologically puruṣa means the one who dwells in the body: “purī dehe śedati tiṣṭati iti puruṣaḥ”, See ibid, Vivṛti on Amarakośa., Vol. I, I. iv, 29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Ṛgveda-Saṃhitā, 10.97, 4-5; 10.90.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> 15. The word ātmā is derived from the root “ad bhakṣaṇe” and it means that one who one who enjoys the auspicious and inauspicious. Another derivation is from the root “ata sātatyagamane” which means one who dwells in bodies: “atati śarīreṣu saṃvasatīti va”. See Amarakośa., Vol. I, I. iv. 29. Yāska has used it in the sense of limitless expanse: “ātmā atatervyāptervāpi vāpta iva syādyāvad vyāptibhūta iti”. Nirukta, III. iii, p. 28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> “ātmā eva idaṃ agre āsīt”, Bṛhadāraṇyaka Upaniṣad.., I. iv. 1; See also Ch. U., VIII, vii. 4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Mahābhārata., Mokṣa, 199. 27; 178.4; 175. 11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> The term “Self” with the capitalized “S” refers to the foundational self and with small “s” refers to the empirical self, because the word puruṣa is used by Caraka stands for both the foundational Self, and the empirically bound self.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> tatra pūrvaṃ cetanādhātuḥ sattvakaraṇo guṇagrahaṇāyā pravartate; sa hi hetuḥ kāraṇaṃ nimittamakṣaraṃ kartā mantā veditā boddhā draṣṭā dhātā brahmā viśvakarmā viśvarūpaḥ purṣaḥ prabhavo avyayo nityo guṇī grahaṇaṃ pradhānamavyaktaṃ jīvo jñaḥ pudgalaścetanāvān vibhurbhūtātmā cāntarātmā ceti. CS, Śārīra-sthāna, IV. 8. It is recognized as the sixth substance and there it is called ātmā, CS, Su, I. 48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> In CS the word puruṣa is used in the sense of human being, male, inner self and the foundational “Self” or ultimate reality (Brahman).
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -462,10 +583,6 @@ In CS the word puruṣa is used in the sense of human being, male, inner self an
   <a href="/articles/philosophy-of-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/philosophy-of-charaka-samhita-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">The theory of three faults (tridoṣa-siddhānta): Philosophy Of Charaka Samhita Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Quackery: The “Fraudulent” Medical Practitioners within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 20. Quackery: The “Fraudulent” Medical Practitioners
+## Quackery: The “Fraudulent” Medical Practitioners
 
 Charaka Samhita and Sushruta Samhita
 
@@ -31,61 +31,94 @@ As opposed to the genuine physicians, the prāṇābhisara or the “saviours of
 
 The animosity expressed for such healers may be attributed to disrepute to that would ensue to the medical profession particularly in case of failure to alleviate the patient’s condition. Their ignorance would have worsened the condition of some patients who then possibly sought a vaidya for consultation. By claiming nominal remuneration, they could attract many more patients thus harming the professional prospects of the āyurvedic physicians and surgeons. From above description it is evident that many healers moved about on the streets looking for patients. One of lost recensions of the Atharvaveda was of the Cāraṇa-vaidya śākhā which implies the existence of wandering medical practitioners. It has been suggested that they went from place to place and were approached by individuals in need of medical help.[11] In Caraka Saṃhitā itself, there is hardly any reference to the itinerant nature of the medical profession. We are told that messengers approach the physician on behalf of the patient whereupon the physician makes a visit to his or her home. The practice of physicians seeking patients on the streets is referred to in the Mahāvagga, when Jīvaka was in Sāketa on his way home from Takṣaśilā to Rajagṛha. As he wanted to earn money, he asked the people: “Who is sick here, my good Sir? Who shall I cure?”[12] Another reference occurs in a Jātaka story where we are told that some brāhmaṇas carry sacks filled with roots on their backs. They gather herbs, bathe and recite magical spells and are described as “physician-like”.[13] Irrespective of whether these medicine men can be called quacks, we get the picture of different categories of medical practitioners in ancient India.
 
-[1]:
 
-Caraka Saṃhitā Sūtrasthāna 11.50.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Sūtrasthāna 11.50.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 11.51-53.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.49.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 11.51-53.
+</blockquote>
 
-[4]:
 
-R.V. Russell, The Tribes and Castes of the Central Provinces of India, London, 1916, Vol. I, p.370.
 
-[5]:
 
-Caraka Saṃhitā Sūtrasthāna 29.10-12.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 3.49.
+</blockquote>
 
-[6]:
 
-Caraka Saṃhitā Sūtrasthāna 1.129-130.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.51.
+<div className="footnote-card"><strong>[4]</strong> R.V. Russell, The Tribes and Castes of the Central Provinces of India, London, 1916, Vol. I, p.370.</div>
 
-[8]:
 
-Caraka Saṃhitā Sūtrasthāna 29.8.
 
-[9]:
 
-Caraka Saṃhitā Sūtrasthāna 29.9.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Caraka Saṃhitā Sūtrasthāna 29.10-12.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Sūtrasthāna 29.9.
 
-[11]:
 
-S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p. 284.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Caraka Saṃhitā Sūtrasthāna 1.129-130.
+</blockquote>
 
-[12]:
 
-T.W.Rhys Davids and H.Oldenberg, Vinaya Texts, Part II, Sacred Books of the East Series, Vol. XVII, Delhi, 1965 (Reprint), Mahāvagga VIII.8.
 
-[13]:
 
-Jātaka, Vol.4, No. 495.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 3.51.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Sūtrasthāna 29.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā Sūtrasthāna 29.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Sūtrasthāna 29.9.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p. 284.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> T.W.Rhys Davids and H.Oldenberg, Vinaya Texts, Part II, Sacred Books of the East Series, Vol. XVII, Delhi, 1965 (Reprint), Mahāvagga VIII.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Jātaka, Vol.4, No. 495.
+</blockquote>
 
 ---
 
-## 21. Specialisation of physicians
+## Specialisation of physicians
 
 Charaka Samhita and Sushruta Samhita
 
@@ -111,157 +144,256 @@ Mention of the various categories within the medical profession occurs in other 
 
 A close reading of the two texts reveals a possible undercurrent of rivalry among the various kinds of physicians. Surgeons are evidently condescending of physicians who are incapable of conducting non-surgical (such as oleation, purgation, etc.)[36] and surgical procedures (like excision, etc.), and in fact, goes on to portray them as kuvaidya or bad physicians. Such physicians, according to Suśruta, kill people due their greed and survive only because of the negligence of the government.[37] It is also interesting that Suśruta does not once mention the name of Ātreya or Agniveśa or other authorities of medicine though the name of Dhanvantari (as we have seen) does appear in the compendia of Caraka.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.9.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 1.9.
+</blockquote>
 
-[2]:
 
-E.B. Cowell and F.W. Thomas (trans.), The Harṣa-charita of Bāṇa, London, 1897, p.143-144. Hereafter Harṣacarita
 
-[3]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs” in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, Mumbai/Nasik, 2013, p.14.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> E.B. Cowell and F.W. Thomas (trans.), The Harṣa-charita of Bāṇa, London, 1897, p.143-144. Hereafter Harṣacarita
+</blockquote>
 
-[4]:
 
-Caraka Saṃhitā Sūtrasthāna 30.28.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.7.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs” in S. Basu Majumdar and N. Sharma Mukherjee, Essays on History of Medicine, Mumbai/Nasik, 2013, p.14.
+</blockquote>
 
-[6]:
 
-V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, Varanasi, 2003, p.6.
 
-[7]:
 
-P.V. Sharma, Aswins and their Miracles, Nagarjuna, 1964 (December), Vol. VIII, No.4, pp.295-302.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Caraka Saṃhitā Sūtrasthāna 30.28.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Uttaratantra 1.6.
 
-[9]:
 
-For instance, wounds, lesions, skeletal injuries, piles, urinary stones, fistula, foetal malpresentations, etc.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 1.7.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.39/2-43.
 
-[11]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.61/1.
+<div className="footnote-card"><strong>[6]</strong> V.W. Karambelkar, The Atharva-Veda and the Āyur-Veda, Varanasi, 2003, p.6.</div>
 
-[12]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.103.
 
-[13]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.107.
+<div className="footnote-card"><strong>[7]</strong> P.V. Sharma, Aswins and their Miracles, Nagarjuna, 1964 (December), Vol. VIII, No.4, pp.295-302.</div>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 7.
 
-[15]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Uttaratantra 1.6.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.
 
-[17]:
 
-Suśruta Saṃhitā Sūtrasthāna 12.
+<div className="footnote-card"><strong>[9]</strong> For instance, wounds, lesions, skeletal injuries, piles, urinary stones, fistula, foetal malpresentations, etc.</div>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 13.
 
-[19]:
 
-Suśruta Saṃhitā Sūtrasthāna 14.25-32.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Cikitsāsthāna 25.39/2-43.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 18.
 
-[21]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.44.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Caraka Saṃhitā Cikitsāsthāna 25.61/1.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.63.
 
-[23]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.64/1.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Caraka Saṃhitā Cikitsāsthāna 25.103.
+</blockquote>
 
-[24]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.59-68.
 
-[25]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.119-123, 127-128, 129-130.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Caraka Saṃhitā Cikitsāsthāna 25.107.
+</blockquote>
 
-[26]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.131.
 
-[27]:
 
-Suśruta Saṃhitā Uttaratantra 1.5.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 7.
+</blockquote>
 
-[28]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.282-287.
 
-[29]:
 
-Suśruta Saṃhitā Uttaratantra 19.16.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Sūtrasthāna 8.
+</blockquote>
 
-[30]:
 
-J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with Special Reference to Tripitaka, Varanasi, 1974, p. 25-26.
 
-[31]:
 
-R.P. Goldman and S.J.S. Goldman (Annotated and Translated), The Rāmāyaṇa of Vālmīki: An Epic of Ancient India, Delhi, 2007, Vol.5, Sundarakāṇḍa, 26.6.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 11.
+</blockquote>
 
-[32]:
 
-R.P. Goldman (Annotated and Translated), The Rāmāyaṇa of Vālmīki, Vol.5, p.427.
 
-[33]:
 
-A.W.P. Guruge, The Society of the Rāmāyaṇa, New Delhi, 1991, p.314.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Sūtrasthāna 12.
+</blockquote>
 
-[34]:
 
-E.B. Cowell (Ed. and translated under various hands), The Jātaka or the Stories of the Buddha’s Former Births, Delhi, 1990, Vol. 1, No. 69.
 
-[35]:
 
-Harṣacarita, p.33; K.P. Parab (Ed.), Harṣacarita, Bombay, 1925, p.42.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 13.
+</blockquote>
 
-[36]:
 
-The five pre-operative procedures are massage, heat therapy, medication, purgation, stomach wash by vomiting technique and enema.
 
-[37]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.52.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Sūtrasthāna 14.25-32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Caraka Saṃhitā Cikitsāsthāna 5.44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Cikitsāsthāna 5.63.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Cikitsāsthāna 5.64/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Caraka Saṃhitā Cikitsāsthāna 26.59-68.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Caraka Saṃhitā Cikitsāsthāna 26.119-123, 127-128, 129-130.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Caraka Saṃhitā Cikitsāsthāna 26.131.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Uttaratantra 1.5.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Caraka Saṃhitā Cikitsāsthāna 30.282-287.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Uttaratantra 19.16.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature with Special Reference to Tripitaka, Varanasi, 1974, p. 25-26.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> R.P. Goldman and S.J.S. Goldman (Annotated and Translated), The Rāmāyaṇa of Vālmīki: An Epic of Ancient India, Delhi, 2007, Vol.5, Sundarakāṇḍa, 26.6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> R.P. Goldman (Annotated and Translated), The Rāmāyaṇa of Vālmīki, Vol.5, p.427.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> A.W.P. Guruge, The Society of the Rāmāyaṇa, New Delhi, 1991, p.314.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> E.B. Cowell (Ed. and translated under various hands), The Jātaka or the Stories of the Buddha’s Former Births, Delhi, 1990, Vol. 1, No. 69.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Harṣacarita, p.33; K.P. Parab (Ed.), Harṣacarita, Bombay, 1925, p.42.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> The five pre-operative procedures are massage, heat therapy, medication, purgation, stomach wash by vomiting technique and enema.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Sūtrasthāna 3.52.
+</blockquote>
 
 ---
 
-## 22. War Surgeons
+## War Surgeons
 
 Charaka Samhita and Sushruta Samhita
 
@@ -284,117 +416,182 @@ yo vetti viṣiṭaṃ śalyaṃ rājñaḥ kurtumarhati.
 
 In fact, the battle wounds probably had no small contribution in the progress of the ancient Indian surgeon’s chirurgical skills. One gets the impression that a great deal of empirical clinical medicine in the Indian tradition stemmed from the military physicians” efforts to treat the myriad casualties that resulted from the almost endless wars.[13] Descriptions of surgeries for the split ear lobule including cases where both flaps of the ear lobules are absent[14] or the ear has been torn out of place,[15] the amputated nose,[16] abdominal perforation (pariśrāvyuodara)[17], are clinical cases involving mutilations generally sustained in violent confrontations. The six kinds of recent traumatic wounds described by Suśruta are of grievous nature, which include extensive wounds with separation of body parts,[18] injury to the body cavities with points of spear, lance, ṛṣṭī, sword, etc.,[19] punctured wound caused by sharp pointed weapon,[20] crushing of a part of the body and flattening of the bones,[21] cut throat injury,[22] complete limb dismemberment,[23] puncture and avulsion of the eyeballs,[24] and skull injury.[25] Suśruta has also dealt with a range of abdominal injuries, the most severe being a situation where the abdomen is ripped open with ruptured (or non-ruptured) intestines.[26] Hence, it can be said that the author was dealing with a wide range of belly wounds found only on the battlefield, and the description is far too accurate not to have been recorded by a physician who had direct experience with this type of wound-in short, a military surgeon.[27]
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 34.12-14.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 34.12-14.
+</blockquote>
 
-[2]:
 
-R.A. Gabriel, Man and Wound in the Ancient World: A History of Military Medicine from Sumer to the Fall of Constantinople, Washington D.C., 2012, p.136.
 
-[3]:
 
-Arthaśāstra 10.3.47.
+<div className="footnote-card"><strong>[2]</strong> R.A. Gabriel, Man and Wound in the Ancient World: A History of Military Medicine from Sumer to the Fall of Constantinople, Washington D.C., 2012, p.136.</div>
 
-[4]:
 
-R.A. Gabriel, Man and Wound in the Ancient World, p.136.
 
-[5]:
 
-R.A. Gabriel, Man and Wound in the Ancient World, p.136.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Arthaśāstra 10.3.47.
+</blockquote>
 
-[6]:
 
-U.P. Thapliyal, Military Organisation in the Ancient Period in S.N. Prasad (Ed.), Historical Perspectives of Warfare in India: Some Morale and Mat riel Determinants. History of Science Philosophy And Culture In Indian Civilization Series, Vol. X Part 3, New Delhi, 2010, p.93.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 26.
+<div className="footnote-card"><strong>[4]</strong> R.A. Gabriel, Man and Wound in the Ancient World, p.136.</div>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 27.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 28.
+<div className="footnote-card"><strong>[5]</strong> R.A. Gabriel, Man and Wound in the Ancient World, p.136.</div>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 18.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.
+<div className="footnote-card"><strong>[6]</strong> U.P. Thapliyal, Military Organisation in the Ancient Period in S.N. Prasad (Ed.), Historical Perspectives of Warfare in India: Some Morale and Mat riel Determinants. History of Science Philosophy And Culture In Indian Civilization Series, Vol. X Part 3, New Delhi, 2010, p.93.</div>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 26.23.
 
-[13]:
 
-R.A. Gabriel, Man and Wound in the Ancient World, p.136.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 26.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.10-14.
 
-[15]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.31.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 27.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.27.20/1-30.
 
-[17]:
 
-Suśruta Saṃhitā Cikitsāsthāna 14.17.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 28.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.10/2-11/1.
 
-[19]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.11/2.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 18.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.19/2.
 
-[21]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.21/2-22/1.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 19.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.32.
 
-[23]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.37.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 26.23.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.42.
 
-[25]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.69/2-70/1.
+<div className="footnote-card"><strong>[13]</strong> R.A. Gabriel, Man and Wound in the Ancient World, p.136.</div>
 
-[26]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.56-57.
 
-[27]:
 
-R.A. Gabriel, Man and Wound in the Ancient World, p. 137.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 16.10-14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 16.27.20/1-30.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Cikitsāsthāna 14.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.10/2-11/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.11/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.19/2.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.21/2-22/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.42.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.69/2-70/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.56-57.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[27]</strong> R.A. Gabriel, Man and Wound in the Ancient World, p. 137.</div>
 
 ---
-
-
 
 ---
 
@@ -403,10 +600,6 @@ R.A. Gabriel, Man and Wound in the Ancient World, p. 137.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">Interface between Physicians and Society: Charaka Samhita And Sushruta Samhita Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

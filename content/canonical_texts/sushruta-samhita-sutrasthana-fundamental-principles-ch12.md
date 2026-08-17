@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Qualifications of a physician within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 18. Chapter X - Qualifications of a physician
+## Chapter X - Qualifications of a physician
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -43,13 +43,10 @@ A physician should abjure the company of women, nor should he speak in private t
 
 Thus ends the tenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the essential qualifications of a physician.
 
-[1]:
 
-The sweet, or any other taste of the discharges should be inferred from the fact of their being or not being swarmed with hosts of ants or flies, etc.
+<div className="footnote-card"><strong>[1]</strong> The sweet, or any other taste of the discharges should be inferred from the fact of their being or not being swarmed with hosts of ants or flies, etc.</div>
 
 ---
-
-
 
 ---
 
@@ -58,10 +55,6 @@ The sweet, or any other taste of the discharges should be inferred from the fact
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Thermal cautery: Sushruta Samhita Sutrasthana Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

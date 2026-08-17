@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on References and Notes for chapter 1 within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 10. References and Notes for chapter 1
+## References and Notes for chapter 1
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -25,7 +25,7 @@ References and Notes for chapter 1
 
 ---
 
-## 11. Chapter 2a - Food
+## Chapter 2a - Food
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -33,11 +33,9 @@ This is an English study of the Kshemakutuhala by Kshemasharma—an ancient Indi
 
 Chapter 2a - Food
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 12. Importance of Food
+## Importance of Food
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -51,8 +49,6 @@ Food is the centre 10 of life and civilisation focuses on it. According to the U
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -60,10 +56,6 @@ Food is the centre 10 of life and civilisation focuses on it. According to the U
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Normal diet: Kshemakutuhala Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

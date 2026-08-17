@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Limitations of this thesis and future research directions within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 71. Limitations of this thesis and future research directions
+## Limitations of this thesis and future research directions
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -37,13 +37,12 @@ Findings and interpretations in this thesis may act as a base on which implicati
 
 In fact, there could be a wide range of studies pertaining to “Buddhist medicine”. Various discussions on its definition, philosophical basis, ethical issues, historical development, transmission from India to other places, influence on other medical traditions, practice in the past, application to modern healthcare, and so on are potential topics in this field for future research.
 
-[1]:
 
-Both of these works belong to Zhiyi 智顗 (538-597). The former was written by him, and the latter came from his talks which were composed by his student Guanding 灌頂 (561-632).
+<div className="footnote-card"><strong>[1]</strong> Both of these works belong to Zhiyi 智顗 (538-597). The former was written by him, and the latter came from his talks which were composed by his student Guanding 灌頂 (561-632).</div>
 
 ---
 
-## 72. References
+## References
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -755,8 +754,6 @@ Zysk, Kenneth G. 1982. “Studies in Traditional Indian Medicine in the Pāli Ca
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -764,10 +761,6 @@ Zysk, Kenneth G. 1982. “Studies in Traditional Indian Medicine in the Pāli Ca
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-emerald-400 hover:underline font-medium">Volume Index →</a>
 </div>
-
-
-
-
 
 ---
 

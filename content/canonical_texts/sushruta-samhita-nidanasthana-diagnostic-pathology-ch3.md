@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Diagnosis of urinary calculus within Sushruta Samhita Nidanasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter III - Diagnosis of urinary calculus
+## Chapter III - Diagnosis of urinary calculus
 
 This current book, the Nidana-sthana (english translation), is the second part of this voluminous medical work. It deals with diseases: their prognosis, their cause, their symptoms and their pathogenesis (development of the disease).
 
@@ -87,25 +87,25 @@ The Vayu in the bladder, coursing in its natural downward direction, helps the f
 
 Thus ends the third Chapter of the Nidana Sthana in the Sushruta Samhita which treats of the Nidana of urinary calculi.
 
-[1]:
 
-Stool and urine can be voided only with the greatest straining.
+<div className="footnote-card"><strong>[1]</strong> Stool and urine can be voided only with the greatest straining.</div>
 
-[2]:
 
-We can not but contemplate with admiration the fact that Sushruta was aware of the formation of seminal or spermatic concretions in the seminal vesicles through degenerative changes of spermatozoa and other secretions and their subsequent calcification as lately discovered by the savants of the West .—Translator
 
-[3]:
 
-The text has Pranayatana, which means that an injury to the urinary bladder may be attended with fatal result.
+<div className="footnote-card"><strong>[2]</strong> We can not but contemplate with admiration the fact that Sushruta was aware of the formation of seminal or spermatic concretions in the seminal vesicles through degenerative changes of spermatozoa and other secretions and their subsequent calcification as lately discovered by the savants of the West .—Translator</div>
 
-[4]:
 
-From the kidneys.
+
+
+<div className="footnote-card"><strong>[3]</strong> The text has Pranayatana, which means that an injury to the urinary bladder may be attended with fatal result.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> From the kidneys.</div>
 
 ---
-
-
 
 ---
 
@@ -114,10 +114,6 @@ From the kidneys.
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-nidanasthana-diagnostic-pathology-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Diagnosis of haemorrhoids: Sushruta Samhita Nidanasthana Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

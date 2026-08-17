@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for enlargement of spleen and liver (26): Bari-shosana rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 422. Part 27 - Treatment for enlargement of spleen and liver (26): Bari-shosana rasa
+## Part 27 - Treatment for enlargement of spleen and liver (26): Bari-shosana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (26): Bari-shosa
 
 ---
 
-## 423. Part 23 - Treatment for enlargement of spleen and liver (22): Agni-kumara lauha
+## Part 23 - Treatment for enlargement of spleen and liver (22): Agni-kumara lauha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (22): Agni-kumar
 
 ---
 
-## 424. Part 26 - Treatment for enlargement of spleen and liver (25): Udaramaya-kumbhi-keshari rasa
+## Part 26 - Treatment for enlargement of spleen and liver (25): Udaramaya-kumbhi-keshari rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (25): Udaramaya-
 
 ---
 
-## 425. Part 28 - Treatment for enlargement of spleen and liver (27): Sarvatobhadra rasa
+## Part 28 - Treatment for enlargement of spleen and liver (27): Sarvatobhadra rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (27): Sarvatobha
 
 ---
 
-## 426. Part 25 - Treatment for enlargement of spleen and liver (24): Tamra Kalpa
+## Part 25 - Treatment for enlargement of spleen and liver (24): Tamra Kalpa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (24): Tamra Kalp
 
 ---
 
-## 427. Part 29 - Treatment for enlargement of spleen and liver (28): Application of Parpati
+## Part 29 - Treatment for enlargement of spleen and liver (28): Application of Parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (28): Applicatio
 
 ---
 
-## 428. Part 30 - Diet in enlargement of spleen and liver
+## Part 30 - Diet in enlargement of spleen and liver
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Diet in enlargement of spleen and liver’ included in Bhudeb 
 
 ---
 
-## 429. Part 1 - Characteristics of Udavarta and Anaha
+## Part 1 - Characteristics of Udavarta and Anaha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -165,7 +165,7 @@ This concludes ‘Characteristics of Udavarta and Anaha’ included in Bhudeb Mo
 
 ---
 
-## 430. Chapter VIII - Udavarta and Anaha
+## Chapter VIII - Udavarta and Anaha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -175,15 +175,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter VIII - Udavarta and Anaha
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Udavarta and Anaha’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 4: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 431. Part 2 - Treatment of Udavarta and Anaha (1): Vaidyanatha-bhasita rasa
+## Part 2 - Treatment of Udavarta and Anaha (1): Vaidyanatha-bhasita rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -201,7 +199,7 @@ This concludes ‘Treatment of Udavarta and Anaha (1): Vaidyanatha-bhasita rasa�
 
 ---
 
-## 432. Part 11 - Treatment for enlargement of spleen and liver (10): Lokaraja rasa
+## Part 11 - Treatment for enlargement of spleen and liver (10): Lokaraja rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -219,7 +217,7 @@ This concludes ‘Treatment for enlargement of spleen and liver (10): Lokaraja r
 
 ---
 
-## 433. Part 4 - Treatment of Udavarta and Anaha (3): Svechchha-bhedaka rasa
+## Part 4 - Treatment of Udavarta and Anaha (3): Svechchha-bhedaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -237,7 +235,7 @@ This concludes ‘Treatment of Udavarta and Anaha (3): Svechchha-bhedaka rasa’
 
 ---
 
-## 434. Part 5 - Other medicines for Udavarta and Anaha
+## Part 5 - Other medicines for Udavarta and Anaha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -255,7 +253,7 @@ This concludes ‘Other medicines for Udavarta and Anaha’ included in Bhudeb M
 
 ---
 
-## 435. Part 3 - Treatment of Udavarta and Anaha (2): Vireka rasa
+## Part 3 - Treatment of Udavarta and Anaha (2): Vireka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -273,7 +271,7 @@ This concludes ‘Treatment of Udavarta and Anaha (2): Vireka rasa’ included i
 
 ---
 
-## 436. Part 6 - Diet in Udavarta and Anaha
+## Part 6 - Diet in Udavarta and Anaha
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -303,8 +301,6 @@ This concludes ‘Diet in Udavarta and Anaha’ included in Bhudeb Mookerjee Ras
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -312,10 +308,6 @@ This concludes ‘Diet in Udavarta and Anaha’ included in Bhudeb Mookerjee Ras
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch30" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for indigestion (23): Kambu rasa: Rasa Jala Nidhi Volume 4 Chapter 30 →</a>
 </div>
-
-
-
-
 
 ---
 

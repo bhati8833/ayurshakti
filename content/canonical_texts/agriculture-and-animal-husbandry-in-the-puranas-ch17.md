@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Classification of Animals within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 70. Part 4 - Classification of Animals
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Classification of Animals’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 4 - Classification of Animals
 
 Part 4 - Classification of Animals
 
@@ -29,27 +25,36 @@ The Bhāgavaṭa Purāṇa[5] mentions twenty-eight kinds of creatures.They are�
 
 (iii) Thirteen kinds which have five claws or nails instead of hoofs: the dog, jackal, wolf, tiger, cat, hare, porcupine, lion, monkey, elephant, tortoise, lizard and alligator come under this group.[8]
 
-[1]:
 
-mukhato’jānsasarjātha vakṣasaśca vayo’sṛjat/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> mukhato’jānsasarjātha vakṣasaśca vayo’sṛjat/
 gāścaivāthodarādbrahmā pārśvābhyāṃ ca vinirmame //
 padbhyāṃ cāśvānsamātaṅgāñśārabhāngavayānmṛgān/
 uṣṭrānaśvata rāṃścaiva tāścānyāścaiva jātayaḥ//
 oṣadhyaḥ phalamūlāni romatastasya jajñire/
 evaṃ paśvoṣadhīḥ sṛṣṭvā nyayuñjatso’dhvare prabhuḥ// Vāyu Purāṇa , 9.43-45; Viṣṇu Purāṇa , 1.5.46-48
+</blockquote>
 
-[2]:
 
-Vāyu Purāṇa , 63.35-48;65.121-126
 
-[3]:
 
-tataḥ pravṛtto dakṣastu prajāḥ sraṣṭuṃ caturvidhāḥ/
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Vāyu Purāṇa , 63.35-48;65.121-126
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> tataḥ pravṛtto dakṣastu prajāḥ sraṣṭuṃ caturvidhāḥ/
 jarāyujāṇḍajāścaiva udbhijjāḥ svedajāstathā// Vāyu Purāṇa , 65.122; 30.101,227; Matsya Purāṇa , 1.29
+</blockquote>
 
-[4]:
 
-tasmādādau tu kalpasya tretāyugamukhe tadā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> tasmādādau tu kalpasya tretāyugamukhe tadā/
 gaurajaḥ puruṣo meṣo hyaśvo’śvarataragardabhau//
 etāngrāmyānpaśūnāhurāraṇyāṃśca nibodhata/
 śvāpadā dvikhuro hastī vānaraḥ pakṣipañcamāḥ//
@@ -60,33 +65,42 @@ gaurajaḥ puruṣā meṣā aśvā aśvatarāḥ kharāḥ/
 etān grāmyān praśūn prāhurāraṇyāṃśca nibodha me//
 śvāpado dvikhuro hastī vānaraḥ pakṣipañcamaḥ/
 audakāḥ paśavaḥ ṣaṣṭhāḥ saptamāstu sarīsṛpāḥ// Viṣṇu Purāṇa , 1.5.49-51
+</blockquote>
 
-[5]:
 
-Bhāgavata Purāṇa , 3.10.20-22
 
-[6]:
 
-kharo’śvo’śvataro gauraḥ śarabhaścamarī tathā/
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Bhāgavata Purāṇa , 3.10.20-22
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> kharo’śvo’śvataro gauraḥ śarabhaścamarī tathā/
 ete caikaśaphāḥ kṣattaḥ śṛṇu pañcanakhān paśūn// Ibid., 3.10.21
+</blockquote>
 
-[7]:
 
-gaurajo mahiṣaḥ kṛṣṇaḥ sūkaro gavayo ruruḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> gaurajo mahiṣaḥ kṛṣṇaḥ sūkaro gavayo ruruḥ/
 dviśaphāḥ paśavaśceme aviruṣṭraśca sattama// Ibid., 3.10.20
+</blockquote>
 
-[8]:
 
-śvā sṛgālo vṛko vyāghro mārjāraḥ śaśaśallakau/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> śvā sṛgālo vṛko vyāghro mārjāraḥ śaśaśallakau/
 siṃhaḥ kapirgajaḥ kūrmo godhā ca makarādayaḥ// Ibid., 3.10.22
+</blockquote>
 
 ---
 
-## 71. Part 13 - The Bull in the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Bull in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 13 - The Bull in the Purāṇas
 
 Part 13 - The Bull in the Purāṇas
 
@@ -135,129 +149,187 @@ Gift of Bull:
 
 The gift of a bull, has been recommended. According to the Agni Purāṇa, if a person releases a bull on a day of the month of Kārttika and fasts at night, he gets to the region of Śiva.[22] The term Vṛṣotsarga in the Purāṇas signifies the rules for the dedication of a bull. Bull and cow with its calf were intended for gift for all castes.Gift of Nīla bull at Gayā, was considered best for pitṛs.[23] Vārṣavratam leads to the world of Śiva; consists of dedication of a bull in the month of Kārttika.[24]
 
-[1]:
 
-Vāyu Purāṇa , 30.261, 54.108; 55.54
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vāyu Purāṇa , 30.261, 54.108; 55.54
 yo’sāvindhudharo devaḥ pinākī vṛṣavāhanaḥ// Matsya Purāṇa ,67.15a
+</blockquote>
 
-[2]:
 
-Matsya Purāṇa , 1.6; 133.13; Vāyu Purāṇa , 30.180; Viṣṇu Purāṇa ,5.34.35
 
-[3]:
 
-Bhāgavata Purāṇa , 10.11.33
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Matsya Purāṇa , 1.6; 133.13; Vāyu Purāṇa , 30.180; Viṣṇu Purāṇa ,5.34.35
+</blockquote>
 
-[4]:
 
-dadhi samprāśya gāḥ pūjya kāryaṃ vahnipradakṣiṇam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Bhāgavata Purāṇa , 10.11.33
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> dadhi samprāśya gāḥ pūjya kāryaṃ vahnipradakṣiṇam/
 vṛṣāṇāṃ yojayed yuddhaṃ gītavādyaravairbahiḥ// Agni Purāṇa , 292.38
+</blockquote>
 
-[5]:
 
-Vāyu Purāṇa , 54.45; 101.237
 
-[6]:
 
-Ibid.,70.10
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Vāyu Purāṇa , 54.45; 101.237
+</blockquote>
 
-[7]:
 
-Ibid., 99.47-50; 88-92
 
-[8]:
 
-Matsya Purāṇa ,207
+<div className="footnote-card"><strong>[6]</strong> Ibid.,70.10</div>
 
-[9]:
 
-Ibid., 207.2-8
 
-[10]:
 
-raktaśṛṅgāgranayanaḥ śvetavarṇo bhavedyadi/
+<div className="footnote-card"><strong>[7]</strong> Ibid., 99.47-50; 88-92</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Matsya Purāṇa ,207
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., 207.2-8</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> raktaśṛṅgāgranayanaḥ śvetavarṇo bhavedyadi/
 śaphaiḥ pravālasadṛśairnāsti dhanyatarastataḥ//
 ete dhāryāḥ prayatnena moktavyā yadi vā vṛṣāḥ/
 dhāritāśca tathā muktā dhanadhānyapravarddhanāḥ// Ibid., 207.36-37
+</blockquote>
 
-[11]:
 
-moktavyānāṃ ca dhāryāṇāṃ bhūyo vakṣyāmi lakṣaṇam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> moktavyānāṃ ca dhāryāṇāṃ bhūyo vakṣyāmi lakṣaṇam/
 svastikā kāraśṛṅgāśca tathā meghaughanisvanāḥ//
 mahāpramāṇāśca tathā mattamātaṅgagāminaḥ/
 mahoraskā mahocchrāyā mahābalaparākramāḥ// Ibid., 207.30-31
+</blockquote>
 
-[12]:
 
-Ibid., 207.10-12
 
-[13]:
 
-ākarṇamūlaśvetaṃ tu mukhaṃ yasya prakāśate/
+<div className="footnote-card"><strong>[12]</strong> Ibid., 207.10-12</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> ākarṇamūlaśvetaṃ tu mukhaṃ yasya prakāśate/
 nandīmukhaḥ sa vijñeyo raktavarṇo viśeṣataḥ // Ibid., 207.23
+</blockquote>
 
-[14]:
 
-śvetaṃ tu jaṭharaṃ yasya bhavetpṛṣṭhaṃ ca gopateḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> śvetaṃ tu jaṭharaṃ yasya bhavetpṛṣṭhaṃ ca gopateḥ/
 vṛṣabhaḥ sa samudrākhyaḥ satataṃ kulavarddhanaḥ// Ibid., 207.24
+</blockquote>
 
-[15]:
 
-caraṇāni mukhaṃ pucchaṃ yasya śvetāni gopateḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> caraṇāni mukhaṃ pucchaṃ yasya śvetāni gopateḥ/
 lākṣārasasavarṇaśca taṃ nīlamiti nirdiśet// Ibid., 207.38
+</blockquote>
 
-[16]:
 
-bhūmau karṣati lāṅgūlaṃ pralambasthalavāladhiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> bhūmau karṣati lāṅgūlaṃ pralambasthalavāladhiḥ/
 purastādudyato nīlo vṛṣabhaśca praśasyate// Ibid., 207.33
+</blockquote>
 
-[17]:
 
-śaktidhvajapatākāḍhyā yeṣāṃ rājī virājate/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> śaktidhvajapatākāḍhyā yeṣāṃ rājī virājate/
 anaḍvāhastu te dhanyāścitrasiddhijayāvahāḥ// Ibid., 207.34
+</blockquote>
 
-[18]:
 
-eṣṭavyā bahavaḥ putrā yadyeko’pi gayāṃ vrajet/
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> eṣṭavyā bahavaḥ putrā yadyeko’pi gayāṃ vrajet/
 yajet vā’śvamedhena nīlaṃ vā vṛṣamutsṛjet// Ibid., 22.6
+</blockquote>
 
-[19]:
 
-varṇatastāmrakapilo brāhmaṇasya praśasyate/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> varṇatastāmrakapilo brāhmaṇasya praśasyate/
 śveto raktaśca kṛṣṇaśca gauraḥ pāṭala eva ca// Ibid., 207.16
+</blockquote>
 
-[20]:
 
-śiraḥ karṇau lalāṭaṃ ca vāladhiścaraṇāstathā/
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> śiraḥ karṇau lalāṭaṃ ca vāladhiścaraṇāstathā/
 netre pārśve ca kṛṣṇāni śasyante candrabhāsinām/
 śvetānyetāni śasyante kṛṣṇasya tu viśeṣataḥ// Ibid., 207.31-32
+</blockquote>
 
-[21]:
 
-mallikāpuṣpacitraśca dhanyo bhavati puṅgavaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> mallikāpuṣpacitraśca dhanyo bhavati puṅgavaḥ/
 kamalairmaṇḍalaiścāpi citro bhavati bhāgyadaḥ//
 atasīpuṣpavarṇaśca tathā dhanyataraḥ smṛtaḥ/ Ibid., 207.25-26
+</blockquote>
 
-[22]:
 
-Agni Purāṇa ,194.2
 
-[23]:
 
-Matsya Purāṇa , 18.14; 207.1-41; Vāyu Purāṇa , 83.12,45-6.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Agni Purāṇa ,194.2
+</blockquote>
 
-[24]:
 
-kārttikyāṃ ca vṛṣotsargaṃ kṛtvā naktaṃ samācaret/
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Matsya Purāṇa , 18.14; 207.1-41; Vāyu Purāṇa , 83.12,45-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> kārttikyāṃ ca vṛṣotsargaṃ kṛtvā naktaṃ samācaret/
 śaivaṃ padamavāpnoti vārṣavratamidaṃ smṛtam// Matsya Purāṇa , 101.65
+</blockquote>
 
 ---
 
-## 72. Part 14 - The Elephant in the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Elephant in the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 14 - The Elephant in the Purāṇas
 
 Part 14 - The Elephant in the Purāṇas
 
@@ -300,113 +372,158 @@ the eager to fight (saṃhanana),
 
 the power of tolerance (java).
 
-[1]:
 
-Vāyu Purāṇa ,80.15
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vāyu Purāṇa ,80.15
+</blockquote>
 
-[2]:
 
-Brahmāṇḍa Purāṇa ,1.2.22.48
 
-[3]:
 
-Vāyu Purāṇa , 69.211
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Brahmāṇḍa Purāṇa ,1.2.22.48
+</blockquote>
 
-[4]:
 
-kuñjarāḥ paramā śobhā śivirasya balasya ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Vāyu Purāṇa , 69.211
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> kuñjarāḥ paramā śobhā śivirasya balasya ca/
 āhataḥ kuñjaraiścaiva vijayaḥ pṛthivīkṣitā// Agni Purāṇa ,287.5b-6a
+</blockquote>
 
-[5]:
 
-Vāyu Purāṇa ,80.45
 
-[6]:
 
-Agni Purāṇa , 294.38
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Vāyu Purāṇa ,80.45
+</blockquote>
 
-[7]:
 
-Matsya Purāṇa ,133.10
 
-[8]:
 
-Vāyu Purāṇa ,69.219
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Agni Purāṇa , 294.38
+</blockquote>
 
-[9]:
 
-Ibid., 69.237
 
-[10]:
 
-Ibid., 69.221
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Matsya Purāṇa ,133.10
+</blockquote>
 
-[11]:
 
-Bhāgavata Purāṇa , 5.20.61
 
-[12]:
 
-Vāyu Purāṇa , 51.43; Matsya Purāṇa , 1.1;125.17,19,21
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Vāyu Purāṇa ,69.219
+</blockquote>
 
-[13]:
 
-parjanyodiggajāścaiva hemante śītasaṃbhavāḥ/
+
+
+<div className="footnote-card"><strong>[9]</strong> Ibid., 69.237</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid., 69.221</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Bhāgavata Purāṇa , 5.20.61
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Vāyu Purāṇa , 51.43; Matsya Purāṇa , 1.1;125.17,19,21
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> parjanyodiggajāścaiva hemante śītasaṃbhavāḥ/
 tuṣāravṛṣṭiṃ varṣanti sarvasasyavivṛddhaye// Vāyu Purāṇa , 51.45;
 parjjanyo diggajāścaiva hemante śītasaṃbhavām/
 tuṣāravarṣaṃ varṣanti vṛddhā hyannavivṛddhaye// Matsya Purāṇa ,125.19
+</blockquote>
 
-[14]:
 
-Agni Purāṇa , 287
 
-[15]:
 
-Ibid., 287.1-3
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Agni Purāṇa , 287
+</blockquote>
 
-[16]:
 
-varsaṃ sattvaṃ balaṃ rūpaṃ kāntiḥ saṃhananaṃ javaḥ/
+
+
+<div className="footnote-card"><strong>[15]</strong> Ibid., 287.1-3</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> varsaṃ sattvaṃ balaṃ rūpaṃ kāntiḥ saṃhananaṃ javaḥ/
 saptasthito gajaścedṛksaṅgrāme’rīñjayetsadā// Ibid., 287.4
+</blockquote>
 
 ---
 
-## 73. Part 10 - Expiation for Killing a Cow
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Expiation for Killing a Cow’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 10 - Expiation for Killing a Cow
 
 Part 10 - Expiation for Killing a Cow
 
 The penance of killing a cow is as follows: The cow killer should drink barley soup for a month; he should stay in the cow-stall for that time, wearing the hide of the same cow. He should also eat once in four times without salt. Moreover, he should take bath with cow-urine for two months with full control over senses.[1] Rodha is a kind of hell; here falls slayers (killers) of cow.[2] Viśasana is one of the twenty-eight hells. It is a slaughter house for hypocritical sacrificers of animals.[3] Śūdrahatyā vratam is the vow for injuring bony animals. Killing animals having bones was considered a sin and to purify himself of such a sin one should observe the Śūdrahatyā vratam and also make some gift to a Brāhmaṇa.[4] Suvarṇam is a golden coin; a fine of hundred Suvarṇas for one who having been paid a wage, but does not protect the cow or milks it or uses it; besides he is liable to be bound by iron chains and made to work for his master.[5]
 
-[1]:
 
-upāpātakasaṃyukto goghno māsaṃ yavānpibet/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> upāpātakasaṃyukto goghno māsaṃ yavānpibet/
 kṛtavāpo vasedgoṣṭhe carmaṇā tena saṃvṛtaḥ//
 caturthakālamaśnīyādakṣāralavaṇaṃ mitam/
 gomūtreṇa caretsnānaṃ dvau māsau niyatendriyaḥ// Ibid., 169.5-6
+</blockquote>
 
-[2]:
 
-Vāyu Purāṇa , 101.146,152; Viṣṇu Purāṇa , 2.6.2 and 8
 
-[3]:
 
-Bhāgavata Purāṇa , 5.26.8 and 36; Viṣṇu Purāṇa , 2.6.2
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Vāyu Purāṇa , 101.146,152; Viṣṇu Purāṇa , 2.6.2 and 8
+</blockquote>
 
-[4]:
 
-Matsya Purāṇa , 227.35,37-38a
 
-[5]:
 
-Ibid., 227.23-24
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Bhāgavata Purāṇa , 5.26.8 and 36; Viṣṇu Purāṇa , 2.6.2
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Matsya Purāṇa , 227.35,37-38a
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 227.23-24</div>
 
 ---
-
-
 
 ---
 
@@ -415,10 +532,6 @@ Ibid., 227.23-24
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Kingdoms Noted for Elephants and Kings Who Had Elephants: Agriculture And Animal Husbandry In The Puranas Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

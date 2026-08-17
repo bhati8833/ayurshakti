@@ -122,7 +122,11 @@ Dallana explains this couplet to mean that clarified butter cooked with milk and
 
 [6]:
 
+
+<blockquote className="ayur-shloka">
 Dallana says that some read “vahupatnāyāḥ” and explain “vahupatrā (vahupannā?)” to mean “mayūraśikhā |”
+</blockquote>
+
 
 [7]:
 

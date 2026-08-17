@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Incineration of bimala within Rasa Jala Nidhi Volume 2. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 21. Part 3 - Incineration of bimala
+## Part 3 - Incineration of bimala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -35,7 +35,7 @@ This concludes ‘Incineration of bimala’ included in Bhudeb Mookerjee Rasa Ja
 
 ---
 
-## 22. Part 4 - Extraction of essence of Bimala
+## Part 4 - Extraction of essence of Bimala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -59,7 +59,7 @@ This concludes ‘Extraction of essence of Bimala’ included in Bhudeb Mookerje
 
 ---
 
-## 23. Part 5 - Use of the essence of Bimala
+## Part 5 - Use of the essence of Bimala
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -81,7 +81,7 @@ This concludes ‘Use of the essence of Bimala’ included in Bhudeb Mookerjee R
 
 ---
 
-## 24. Chapter IV - Uparasa (4): Shilajatu or Shilajit (bitumen)
+## Chapter IV - Uparasa (4): Shilajatu or Shilajit (bitumen)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -91,15 +91,13 @@ The Rasa-jala-nidhi (“the ocean of Iatrochemistry, or, chemical medicine) is a
 
 Chapter IV - Uparasa (4): Shilajatu or Shilajit (bitumen)
 
-- Sub-Contents: (+ / -)
-
 Conclusion:
 
 This concludes ‘Uparasa (4): Shilajatu or Shilajit (bitumen)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 2: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
 
-## 25. Part 1 - Characteristics of Shilajatu or Shilajit (bitumen)
+## Part 1 - Characteristics of Shilajatu or Shilajit (bitumen)
 
 Rasa Jala Nidhi, vol 2: Minerals (uparasa)
 
@@ -157,8 +155,6 @@ This concludes ‘Characteristics of Shilajatu or Shilajit (bitumen)’ included
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -166,10 +162,6 @@ This concludes ‘Characteristics of Shilajatu or Shilajit (bitumen)’ included
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-2-minerals-gems-uparasa-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">Purification of shilajatu: Rasa Jala Nidhi Volume 2 Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

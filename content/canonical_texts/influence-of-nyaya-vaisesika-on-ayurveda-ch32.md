@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Chapter 4 - Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha
+## Chapter 4 - Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -19,11 +19,7 @@ This study researches the influence of Nyaya and Vaisheshika on Ayurveda.—The 
 
 Chapter 4 - Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhitha
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -32,10 +28,6 @@ Chapter 4 - Reflections of Nyaya-Vaisesika on Ayurveda—Based on Caraka Samhith
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch33" className="text-emerald-400 hover:underline flex items-center font-medium">11. Sadrasas or Six tastes: Influence Of Nyaya Vaisesika On Ayurveda Chapter 33 →</a>
 </div>
-
-
-
-
 
 ---
 

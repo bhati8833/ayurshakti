@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Surgery in the time of Vedas within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 22. 4. Surgery in the time of Vedas
+## 4. Surgery in the time of Vedas
 
 Surgery in ancient India (Study)
 
@@ -29,7 +29,7 @@ On surgery and treatment of diseases of eye, ear, nose and throat (salya tantra 
 
 ---
 
-## 23. 5. Surgery in the Ramayana
+## 5. Surgery in the Ramayana
 
 Surgery in ancient India (Study)
 
@@ -51,7 +51,7 @@ present modern medical system, where, animal parts are transplanted. In one plac
 
 ---
 
-## 25. 6. Surgery in the Mahabharata
+## 6. Surgery in the Mahabharata
 
 Surgery in ancient India (Study)
 
@@ -65,8 +65,6 @@ arrows as a true ksatriya. This suggests that military surgeons and 55 practice 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -74,10 +72,6 @@ arrows as a true ksatriya. This suggests that military surgeons and 55 practice 
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">7. Surgery in the Puranas: Ancient Indian Surgical Science Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

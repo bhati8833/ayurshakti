@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for chronic diarrhea (36): Shambhu-prasada rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 272. Part 64 - Treatment for chronic diarrhea (36): Shambhu-prasada rasa
+## Part 64 - Treatment for chronic diarrhea (36): Shambhu-prasada rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for chronic diarrhea (36): Shambhu-prasada rasa’ i
 
 ---
 
-## 273. Part 60 - Treatment for chronic diarrhea (32): Gandhaka rasa
+## Part 60 - Treatment for chronic diarrhea (32): Gandhaka rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for chronic diarrhea (32): Gandhaka rasa’ included
 
 ---
 
-## 274. Part 65 - Treatment for chronic diarrhea (37): Vijaya rasa
+## Part 65 - Treatment for chronic diarrhea (37): Vijaya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for chronic diarrhea (37): Vijaya rasa’ included i
 
 ---
 
-## 275. Part 66 - Treatment for chronic diarrhea (38): Abhra rasayana
+## Part 66 - Treatment for chronic diarrhea (38): Abhra rasayana
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for chronic diarrhea (38): Abhra rasayana’ include
 
 ---
 
-## 276. Part 57 - Treatment for chronic diarrhea (29): Dardadi rasa
+## Part 57 - Treatment for chronic diarrhea (29): Dardadi rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for chronic diarrhea (29): Dardadi rasa’ included 
 
 ---
 
-## 277. Part 67 - Treatment for chronic diarrhea (39): Piyusavalli rasa
+## Part 67 - Treatment for chronic diarrhea (39): Piyusavalli rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for chronic diarrhea (39): Piyusavalli rasa’ inclu
 
 ---
 
-## 278. Part 69 - Treatment for chronic diarrhea (41): Agnisuta rasa
+## Part 69 - Treatment for chronic diarrhea (41): Agnisuta rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for chronic diarrhea (41): Agnisuta rasa’ included
 
 ---
 
-## 279. Part 70 - Treatment for chronic diarrhea (42): Shiva-sadhana rasa
+## Part 70 - Treatment for chronic diarrhea (42): Shiva-sadhana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for chronic diarrhea (42): Shiva-sadhana rasa’ inc
 
 ---
 
-## 280. Part 68 - Treatment for chronic diarrhea (40): Agastya rasa
+## Part 68 - Treatment for chronic diarrhea (40): Agastya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for chronic diarrhea (40): Agastya rasa’ included 
 
 ---
 
-## 281. Part 71 - Treatment for chronic diarrhea (43): Hiranya-garbha-pottali rasa
+## Part 71 - Treatment for chronic diarrhea (43): Hiranya-garbha-pottali rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for chronic diarrhea (43): Hiranya-garbha-pottali ra
 
 ---
 
-## 282. Part 73 - Dugdha-bati
+## Part 73 - Dugdha-bati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Dugdha-bati’ included in Bhudeb Mookerjee Rasa Jala Nidhi, v
 
 ---
 
-## 283. Part 72 - Recipes of certain medicines having no minerals in them
+## Part 72 - Recipes of certain medicines having no minerals in them
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Recipes of certain medicines having no minerals in them’ inc
 
 ---
 
-## 284. Part 74 - Piyusa-bati
+## Part 74 - Piyusa-bati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -263,7 +263,7 @@ This concludes ‘Piyusa-bati’ included in Bhudeb Mookerjee Rasa Jala Nidhi, v
 
 ---
 
-## 285. Part 75 - Medicines called “parpati”
+## Part 75 - Medicines called “parpati”
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -287,7 +287,7 @@ This concludes ‘Medicines called “parpati”’ included in Bhudeb Mookerjee
 
 ---
 
-## 286. Part 77 - Rasendra parpati
+## Part 77 - Rasendra parpati
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -305,8 +305,6 @@ This concludes ‘Rasendra parpati’ included in Bhudeb Mookerjee Rasa Jala Nid
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -314,10 +312,6 @@ This concludes ‘Rasendra parpati’ included in Bhudeb Mookerjee Rasa Jala Nid
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Rasa parpati: Rasa Jala Nidhi Volume 4 Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

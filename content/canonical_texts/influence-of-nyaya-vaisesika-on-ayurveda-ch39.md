@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Guna (Quality) in Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 43. 7. Guna (Quality) in Ayurveda
+## 7. Guna (Quality) in Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -29,8 +29,6 @@ Gurvadi gunas are twenty in number guru-lakhu, sitausna, snigdha-ruksamanda-tiks
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -38,10 +36,6 @@ Gurvadi gunas are twenty in number guru-lakhu, sitausna, snigdha-ruksamanda-tiks
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch40" className="text-emerald-400 hover:underline flex items-center font-medium">3. Logical reflections in medical assemblies: Influence Of Nyaya Vaisesika On Ayurveda Chapter 40 →</a>
 </div>
-
-
-
-
 
 ---
 

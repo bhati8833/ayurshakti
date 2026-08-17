@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 17. References of Surgery in Rajatarangini within Ancient Indian Surgical Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. 17. References of Surgery in Rajatarangini
+## 17. References of Surgery in Rajatarangini
 
 Surgery in ancient India (Study)
 
@@ -25,7 +25,7 @@ authentic chronicle and imaginative poetry of Kalhana. It was a period of enligh
 
 ---
 
-## 36. 16. Manusmriti and Surgery
+## 16. Manusmriti and Surgery
 
 Surgery in ancient India (Study)
 
@@ -39,7 +39,7 @@ skills were delegated to lower castes like 'Koomars' or potters who were known f
 
 ---
 
-## 37. 19. Surgery Reference in Astanga Hrdayam
+## 19. Surgery Reference in Astanga Hrdayam
 
 Surgery in ancient India (Study)
 
@@ -53,8 +53,6 @@ salyaharanavidhi chapter. The salyaharanavidhi chapter discuss the route, detect
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -62,10 +60,6 @@ salyaharanavidhi chapter. The salyaharanavidhi chapter discuss the route, detect
   <a href="/articles/ancient-indian-surgical-science-historical-methods" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/ancient-indian-surgical-science-historical-methods-ch12" className="text-emerald-400 hover:underline flex items-center font-medium">18. Surgery in Charaka Samhita: Ancient Indian Surgical Science Chapter 12 →</a>
 </div>
-
-
-
-
 
 ---
 

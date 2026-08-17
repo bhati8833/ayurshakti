@@ -24,7 +24,7 @@ description: "study on the Charaka Samhita and the Sushruta Samhita, both import
 
 ---
 
-## 3. Chapter 1
+## Chapter 1
 
 Charaka Samhita and Sushruta Samhita
 
@@ -32,11 +32,9 @@ This page relates ‘Chapter 1’ of the study on the Charaka Samhita and the Su
 
 Chapter 1
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 5. The identity of Agniveśa
+## The identity of Agniveśa
 
 Charaka Samhita and Sushruta Samhita
 
@@ -46,37 +44,48 @@ The identity of Agniveśa
 
 The historical identity of Agniveśa is also shrouded in uncertainty. The foremost among Ātreya’s students, is said to have been the son of Agni, the god of fire.[1] He is also known as Vahniveśa[2] and Hutāśaveśa;[3] he is quoted by the name Hutāśa in Madhava’s Nidāna.[4] Both the names have the same literal meaning of Agniveśa or “one with fire garment.” Hence, according to Chattopadhyaya, Agniveśa could have been used as a descriptive epithet rather than as a proper name of an individual authority.[5] The original Agniveśa-tantra which is now non-extant was in existence for a long time as later writers like Vāgbhaṭa (who mentions Agniveśa as one of his sources), Jejjaṭa (a pupil of Vāgbhaṭa), Tisaṭa (son of Vāgbhaṭa), Cakrapāṇidatta (in the 11th century) and others including Sivadāsa-Sen (15th century), who have quoted verses from it.[6] Thus, it is argued that the original text was available to Dṛḍhabala as well-only a certain portion of the redacted text of Caraka was not available.[7]
 
-[1]:
 
-G.N. Mukhopadhayaya, History of Indian Medicine, Vol.3, p. 519.
+<div className="footnote-card"><strong>[1]</strong> G.N. Mukhopadhayaya, History of Indian Medicine, Vol.3, p. 519.</div>
 
-[2]:
 
-Caraka Saṃhitā Sūtrasthāna 13.3; 17.5.
 
-[3]:
 
-Caraka Saṃhitā Sūtrasthāna 17.5.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Sūtrasthāna 13.3; 17.5.
+</blockquote>
 
-[4]:
 
-G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, p.521.
 
-[5]:
 
-D.P.Chattopadhyaya, Science and Society in Ancient India, Calcutta, 1977, p. 28.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Sūtrasthāna 17.5.
+</blockquote>
 
-[6]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp. 72-73.
 
-[7]:
 
-Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.71.
+<div className="footnote-card"><strong>[4]</strong> G.J. Meulenbeld, History of Indian Medical Literature, Vol. I A, p.521.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> D.P.Chattopadhyaya, Science and Society in Ancient India, Calcutta, 1977, p. 28.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, pp. 72-73.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.71.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -85,10 +94,6 @@ Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.71.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">The Question of Authorship: Charaka Samhita And Sushruta Samhita Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

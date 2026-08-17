@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Samkhya-Vedanta view of Cosmology and Ayurveda within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. 2. Samkhya-Vedanta view of Cosmology and Ayurveda
+## 2. Samkhya-Vedanta view of Cosmology and Ayurveda
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -39,8 +39,6 @@ these three gunas is essential for our physical and mental health. But disequili
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -48,10 +46,6 @@ these three gunas is essential for our physical and mental health. But disequili
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch22" className="text-emerald-400 hover:underline flex items-center font-medium">Scientific heritage of Nyaya-Vaisesika and Ayurveda: An apraisal: Influence Of Nyaya Vaisesika On Ayurveda Chapter 22 →</a>
 </div>
-
-
-
-
 
 ---
 

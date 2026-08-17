@@ -66,7 +66,11 @@ Tha difference in the “Karna-nāda” and “Kshveda” is that in the former 
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 Some explain “ghrāṇamukhaṃ” to mean the cavity of the nose and of the mouth.
+</blockquote>
+
 
 [3]:
 

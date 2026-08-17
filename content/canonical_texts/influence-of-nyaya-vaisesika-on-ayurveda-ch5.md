@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 5. Nyaya Sutra: The first systematic work on Nyaya Shastra within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. 5. Nyaya Sutra: The first systematic work on Nyaya Shastra
+## 5. Nyaya Sutra: The first systematic work on Nyaya Shastra
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -25,8 +25,6 @@ time. The principle subjects treated in the Nyaya-sutra, may be grouped under th
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ time. The principle subjects treated in the Nyaya-sutra, may be grouped under th
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">4. Atmavidya (the science of Soul): Influence Of Nyaya Vaisesika On Ayurveda Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

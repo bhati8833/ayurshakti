@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Fumarioideae / Fumariaceae (fumitory family) within Indian Medicinal Plants. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 19. Fumarioideae / Fumariaceae (fumitory family)
+## Fumarioideae / Fumariaceae (fumitory family)
 
 Indian Medicinal Plants
 
@@ -21,11 +21,7 @@ A comprehensive work on Indian Botany including plant synonyms in various langua
 
 Fumarioideae / Fumariaceae (fumitory family)
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -34,10 +30,6 @@ Fumarioideae / Fumariaceae (fumitory family)
   <a href="/articles/indian-medicinal-plants" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/indian-medicinal-plants-ch15" className="text-emerald-400 hover:underline flex items-center font-medium">Brassicaceae or Cruciferae (mustards family): Indian Medicinal Plants Chapter 15 →</a>
 </div>
-
-
-
-
 
 ---
 

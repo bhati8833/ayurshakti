@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The anatomy of the human body within Sushruta Samhita Sharirasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 11. Chapter V - The anatomy of the human body
+## Chapter V - The anatomy of the human body
 
 This current book, the Sharira-sthana (english translation), deals with anatomy, the human body, cosmology, embryology and various other subjects.
 
@@ -303,53 +303,60 @@ The Self, the occult or invisible Lord of the body cannot be detected except wit
 
 Thus ends the fifth Chapter of the Sharira-sthana in the Sushruta Samhita which treats of the anatomy of the human body.
 
-[1]:
 
-Meetings of muscles, ligament?, veins, nerves and bones as at the annular ligament.
+<div className="footnote-card"><strong>[1]</strong> Meetings of muscles, ligament?, veins, nerves and bones as at the annular ligament.</div>
 
-[2]:
 
-Those, that are in connection with the Dhamani.
 
-[3]:
 
-The Kurchas (clusters or groups) may be made up of muscles, bones, vessels and ligamentous structure–Dallana.
+<div className="footnote-card"><strong>[2]</strong> Those, that are in connection with the Dhamani.</div>
 
-[4]:
 
-According to Gayadasa four such cords are found on each side of the spinal column and thus totalling eight in all.
 
-[5]:
 
-Sevani evidently means the central tendinous band which looks like a structure from which the muscles on either side arise.
+<div className="footnote-card"><strong>[3]</strong> The Kurchas (clusters or groups) may be made up of muscles, bones, vessels and ligamentous structure–Dallana.</div>
 
-[6]:
 
-“Trika” generally means the sacral region, but Dallanan says that here it refers to the meeting of the two clavicles with the breastbone.
 
-[7]:
 
-According to them four more Asthi-sangatás are to be found over and above the fourteen already mentioned; these are—one above the sacrum, one above the chest, one at the junction of the thorax and abdomen, and one at the acromial end (of the Scapula).
+<div className="footnote-card"><strong>[4]</strong> According to Gayadasa four such cords are found on each side of the spinal column and thus totalling eight in all.</div>
 
-[8]:
 
-Tala, Kurcha, and Kantha-nadi are identical with Charak’s Salaka, Sthana and Jatru respectively.
 
-[9]:
 
-Though it is asserted here that there exists Taruna bones in the sockets of the eyes (Akshi-kosha) but there is no mention at all in the text, of the presence of any such therein. There is no mention of the shoulder-blade (Ansa) here though it is a part of the skeleton.
+<div className="footnote-card"><strong>[5]</strong> Sevani evidently means the central tendinous band which looks like a structure from which the muscles on either side arise.</div>
 
-[10]:
 
-Gayadasa reads sixty in the trunks and forty above the clavicles.
 
-[11]:
 
-If we read Mutrashaya (bladder) in place of Pittashaya it explains the anatomy better.—Ed.
+<div className="footnote-card"><strong>[6]</strong> “Trika” generally means the sacral region, but Dallanan says that here it refers to the meeting of the two clavicles with the breastbone.</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> According to them four more Asthi-sangatás are to be found over and above the fourteen already mentioned; these are—one above the sacrum, one above the chest, one at the junction of the thorax and abdomen, and one at the acromial end (of the Scapula).</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Tala, Kurcha, and Kantha-nadi are identical with Charak’s Salaka, Sthana and Jatru respectively.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Though it is asserted here that there exists Taruna bones in the sockets of the eyes (Akshi-kosha) but there is no mention at all in the text, of the presence of any such therein. There is no mention of the shoulder-blade (Ansa) here though it is a part of the skeleton.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Gayadasa reads sixty in the trunks and forty above the clavicles.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> If we read Mutrashaya (bladder) in place of Pittashaya it explains the anatomy better.—Ed.</div>
 
 ---
-
-
 
 ---
 
@@ -358,10 +365,6 @@ If we read Mutrashaya (bladder) in place of Pittashaya it explains the anatomy b
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sharirasthana-anatomy-and-embryology-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">The description of the arteries, nerves and ducts: Sushruta Samhita Sharirasthana Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

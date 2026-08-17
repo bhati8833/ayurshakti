@@ -25,8 +25,12 @@ export default function TableOfContents({ htmlContent }: TableOfContentsProps) {
     const items: TOCItem[] = [];
     headingNodes.forEach((node, idx) => {
       const level = node.tagName.toLowerCase() === 'h3' ? 3 : 2;
-      const text = node.textContent?.trim() || `Section ${idx + 1}`;
+      let rawText = node.textContent?.trim() || `Section ${idx + 1}`;
       
+      // Clean leading section numbers e.g. "45. Chapter 3" -> "Chapter 3"
+      const cleanText = rawText.replace(/^(\d+[\.\s]+)+/, '').trim();
+      const text = cleanText || rawText;
+
       let id = node.id;
       if (!id) {
         id = text

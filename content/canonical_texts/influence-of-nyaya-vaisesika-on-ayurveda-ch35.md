@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Pramanas and Diagnosis within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. 2. Pramanas and Diagnosis
+## 2. Pramanas and Diagnosis
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -35,8 +35,6 @@ described here for the diagnosis as same being of three kinds, viz., purvavat ( 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -44,10 +42,6 @@ described here for the diagnosis as same being of three kinds, viz., purvavat ( 
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch36" className="text-emerald-400 hover:underline flex items-center font-medium">4. The concept of Padarthas in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 36 →</a>
 </div>
-
-
-
-
 
 ---
 

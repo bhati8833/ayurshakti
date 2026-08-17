@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Knowledge of doshas etc within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 23. Chapter XV - Knowledge of doshas etc
+## Chapter XV - Knowledge of doshas etc
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -145,57 +145,65 @@ An intelligent physician should preserve the state of health in a healthy indivi
 
 Thus ends the fifteenth Chapter of the Sutrasthana in the Sushruta Samhita which treats of the Development and Non-development of the humoral constituents of the bodv.
 
-[1]:
 
-They are called Prana, Udana, Samana, Vyana and Apana.
+<div className="footnote-card"><strong>[1]</strong> They are called Prana, Udana, Samana, Vyana and Apana.</div>
 
-[2]:
 
-N. B. —The Vayu, Pitta, and Shleshma, (Kapha), though ordinarily translated as wind, bile and phlegm, differ in their meaning from their usual English synonyms. We reserve the treatment of these subjects for a separate place in another part of the book when we shall have occasion to deal with the essentials of Ayurvedic Physiology—Tr.
 
-[3]:
 
-They are named as Ranjaka, Pachaka, Sadhaka (Medhakrit and Ojakrit), Alochaka and Bhrajaka.
+<div className="footnote-card"><strong>[2]</strong> N. B. —The Vayu, Pitta, and Shleshma, (Kapha), though ordinarily translated as wind, bile and phlegm, differ in their meaning from their usual English synonyms. We reserve the treatment of these subjects for a separate place in another part of the book when we shall have occasion to deal with the essentials of Ayurvedic Physiology—Tr.</div>
 
-[4]:
 
-They are known as Shleshmaka, Kledaka, Vodhaka, Tarpaka, Avalamvaka.
 
-[5]:
 
-Such a loss or perceptible deterioration of any of them should be ascribed to the use of excessive cleansing or cathartic (Samshodhana) and pacifying (Samshamana) measures, or to a repression of the natural urgings of the body, or to a course of violent or overfatiguing physical exercise, or to amorous excesses, or to the use of unwholesome and unsuitable food, or to, grief, etc.
+<div className="footnote-card"><strong>[3]</strong> They are named as Ranjaka, Pachaka, Sadhaka (Medhakrit and Ojakrit), Alochaka and Bhrajaka.</div>
 
-[6]:
 
-The armpits look thin, narrow and contracted.
 
-[7]:
 
-Several editions read invigorating diets, egg, etc.
+<div className="footnote-card"><strong>[4]</strong> They are known as Shleshmaka, Kledaka, Vodhaka, Tarpaka, Avalamvaka.</div>
 
-[8]:
 
-Several Editions read it as an additional text.
 
-[9]:
 
-Several Editions read roughness of speech.
+<div className="footnote-card"><strong>[5]</strong> Such a loss or perceptible deterioration of any of them should be ascribed to the use of excessive cleansing or cathartic (Samshodhana) and pacifying (Samshamana) measures, or to a repression of the natural urgings of the body, or to a course of violent or overfatiguing physical exercise, or to amorous excesses, or to the use of unwholesome and unsuitable food, or to, grief, etc.</div>
 
-[10]:
 
-An abnormal flow tends to stimulate the voluptuous sensation of a woman to a considerable extent, and is followed by a sense of reactionary weakness. It emits a fetid smell and originates ovarian tumours.
 
-[11]:
 
-The Sanskrit term “Ojas” has a variety of meanings. Primarily it means protoplasmic matter as found in cells (Vindus). Secondarily it means albumen as we shall describe later on in the chapters on etiology and therapeutics of Prameha. Several authorities hold a contrary view stating that Ojas (albumen) forms only one of the essentials of vitality and that the two are by no means identical.
+<div className="footnote-card"><strong>[6]</strong> The armpits look thin, narrow and contracted.</div>
 
-[12]:
 
-Several editions read Rasa, meaning it to be possessed of a sweet taste.
+
+
+<div className="footnote-card"><strong>[7]</strong> Several editions read invigorating diets, egg, etc.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> Several Editions read it as an additional text.</div>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Several Editions read roughness of speech.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> An abnormal flow tends to stimulate the voluptuous sensation of a woman to a considerable extent, and is followed by a sense of reactionary weakness. It emits a fetid smell and originates ovarian tumours.</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> The Sanskrit term “Ojas” has a variety of meanings. Primarily it means protoplasmic matter as found in cells (Vindus). Secondarily it means albumen as we shall describe later on in the chapters on etiology and therapeutics of Prameha. Several authorities hold a contrary view stating that Ojas (albumen) forms only one of the essentials of vitality and that the two are by no means identical.</div>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Several editions read Rasa, meaning it to be possessed of a sweet taste.</div>
 
 ---
-
-
 
 ---
 
@@ -204,10 +212,6 @@ Several editions read Rasa, meaning it to be possessed of a sweet taste.
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Puncturing and Bandaging the ear: Sushruta Samhita Sutrasthana Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

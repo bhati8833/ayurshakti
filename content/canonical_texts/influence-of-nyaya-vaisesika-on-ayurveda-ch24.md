@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. Comparison (upamana) according to the Nyaya School within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 28. 4. Comparison (upamana) according to the Nyaya School
+## 4. Comparison (upamana) according to the Nyaya School
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -25,8 +25,6 @@ is like a cow. The result of comparison is the knowledge of the relation of the 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -34,10 +32,6 @@ is like a cow. The result of comparison is the knowledge of the relation of the 
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch25" className="text-emerald-400 hover:underline flex items-center font-medium">2. Perception (pratyaksa) according to the Nyaya School: Influence Of Nyaya Vaisesika On Ayurveda Chapter 25 →</a>
 </div>
-
-
-
-
 
 ---
 

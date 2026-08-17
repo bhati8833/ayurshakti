@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Method of Theoretical and Practical Study within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 25. Chapter 10 - The Method of Theoretical and Practical Study
+## Chapter 10 - The Method of Theoretical and Practical Study
 
 History of Indian Medicine (and Ayurveda)
 
@@ -776,7 +776,7 @@ The physician therefore was required to be fully equipped for such clinical test
 
 ---
 
-## 26. Chapter 14 - The Individual and Medicine
+## Chapter 14 - The Individual and Medicine
 
 History of Indian Medicine (and Ayurveda)
 
@@ -917,7 +917,7 @@ This relationship between the individual and medicine is therefore a vital one b
 
 ---
 
-## 27. Chapter 15 - Village and Medicine
+## Chapter 15 - Village and Medicine
 
 History of Indian Medicine (and Ayurveda)
 
@@ -1110,8 +1110,6 @@ As for example:
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1119,10 +1117,6 @@ As for example:
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Military Surgery: History Of Indian Medicine And Ayurveda Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

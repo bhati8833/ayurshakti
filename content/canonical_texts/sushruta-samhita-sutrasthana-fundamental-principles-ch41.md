@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Groups of drugs within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 47. Chapter XXXVIII - Groups of drugs
+## Chapter XXXVIII - Groups of drugs
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -455,13 +455,10 @@ An intelligent physician should prepare plasters, decoctions, medicated oils, Gh
 
 Thus ends the thirty-eighth Chapter of the Sutrasthana in the Sushruta Samhita, which deals with the classification of drugs according to their therapeutical use.
 
-[1]:
 
-Additional Text:—These drugs may be duly culled in all seasons of the year, and should be stored in a room protected from smoke, blasts of cold, wind and rain.
+<div className="footnote-card"><strong>[1]</strong> Additional Text:—These drugs may be duly culled in all seasons of the year, and should be stored in a room protected from smoke, blasts of cold, wind and rain.</div>
 
 ---
-
-
 
 ---
 
@@ -470,10 +467,6 @@ Additional Text:—These drugs may be duly culled in all seasons of the year, an
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch42" className="text-emerald-400 hover:underline flex items-center font-medium">Knowledge of taste etc of drugs: Sushruta Samhita Sutrasthana Chapter 42 →</a>
 </div>
-
-
-
-
 
 ---
 

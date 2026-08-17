@@ -13,160 +13,158 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Alchemy In India And China Chapter 1](/articles/alchemy-in-india-and-china-ch1)
+### [General Discourse: Alchemy In India And China Chapter 1](/articles/alchemy-in-india-and-china-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Alchemy In India And China.
 
-### 2. [Prologue: Alchemy In India And China Chapter 2](/articles/alchemy-in-india-and-china-ch2)
+### [Prologue: Alchemy In India And China Chapter 2](/articles/alchemy-in-india-and-china-ch2)
 **Overview**: Detailed classical discussion on Prologue within Alchemy In India And China.
 
-### 3. [Alchemy in India: Alchemy In India And China Chapter 3](/articles/alchemy-in-india-and-china-ch3)
+### [Alchemy in India: Alchemy In India And China Chapter 3](/articles/alchemy-in-india-and-china-ch3)
 **Overview**: Detailed classical discussion on Alchemy in India within Alchemy In India And China.
 
-### 4. [2. The Philosophy of Mercury: Alchemy In India And China Chapter 4](/articles/alchemy-in-india-and-china-ch4)
+### [2. The Philosophy of Mercury: Alchemy In India And China Chapter 4](/articles/alchemy-in-india-and-china-ch4)
 **Overview**: Detailed classical discussion on 2. The Philosophy of Mercury within Alchemy In India And China.
 
-### 5. [6. Nagarjuna and Rasaratnakara: Alchemy In India And China Chapter 5](/articles/alchemy-in-india-and-china-ch5)
+### [6. Nagarjuna and Rasaratnakara: Alchemy In India And China Chapter 5](/articles/alchemy-in-india-and-china-ch5)
 **Overview**: Detailed classical discussion on 6. Nagarjuna and Rasaratnakara within Alchemy In India And China.
 
-### 6. [3. Ayurveda and Rasayana: Alchemy In India And China Chapter 6](/articles/alchemy-in-india-and-china-ch6)
+### [3. Ayurveda and Rasayana: Alchemy In India And China Chapter 6](/articles/alchemy-in-india-and-china-ch6)
 **Overview**: Detailed classical discussion on 3. Ayurveda and Rasayana within Alchemy In India And China.
 
-### 7. [4. Alchemical Texts of the Medieval Period: Alchemy In India And China Chapter 7](/articles/alchemy-in-india-and-china-ch7)
+### [4. Alchemical Texts of the Medieval Period: Alchemy In India And China Chapter 7](/articles/alchemy-in-india-and-china-ch7)
 **Overview**: Detailed classical discussion on 4. Alchemical Texts of the Medieval Period within Alchemy In India And China.
 
-### 8. [5. Endeavours of the Medieval Alchemist: Alchemy In India And China Chapter 8](/articles/alchemy-in-india-and-china-ch8)
+### [5. Endeavours of the Medieval Alchemist: Alchemy In India And China Chapter 8](/articles/alchemy-in-india-and-china-ch8)
 **Overview**: Detailed classical discussion on 5. Endeavours of the Medieval Alchemist within Alchemy In India And China.
 
-### 9. [2. Origins of Alchemy in China and Its relation to Taoism: Alchemy In India And China Chapter 9](/articles/alchemy-in-india-and-china-ch9)
+### [2. Origins of Alchemy in China and Its relation to Taoism: Alchemy In India And China Chapter 9](/articles/alchemy-in-india-and-china-ch9)
 **Overview**: Detailed classical discussion on 2. Origins of Alchemy in China and Its relation to Taoism within Alchemy In India And China.
 
-### 10. [Chinese alchemy: Alchemy In India And China Chapter 10](/articles/alchemy-in-india-and-china-ch10)
+### [Chinese alchemy: Alchemy In India And China Chapter 10](/articles/alchemy-in-india-and-china-ch10)
 **Overview**: Detailed classical discussion on Chinese alchemy within Alchemy In India And China.
 
-### 11. [3. Yin, Yang, Qi and Five-element Theories: Alchemy In India And China Chapter 11](/articles/alchemy-in-india-and-china-ch11)
+### [3. Yin, Yang, Qi and Five-element Theories: Alchemy In India And China Chapter 11](/articles/alchemy-in-india-and-china-ch11)
 **Overview**: Detailed classical discussion on 3. Yin, Yang, Qi and Five-element Theories within Alchemy In India And China.
 
-### 12. [4. Wei Bo-yang and “Can-tong-gi”: Alchemy In India And China Chapter 12](/articles/alchemy-in-india-and-china-ch12)
+### [4. Wei Bo-yang and “Can-tong-gi”: Alchemy In India And China Chapter 12](/articles/alchemy-in-india-and-china-ch12)
 **Overview**: Detailed classical discussion on 4. Wei Bo-yang and “Can-tong-gi” within Alchemy In India And China.
 
-### 13. [5. Ge Hong and Bao-pu-zi: Alchemy In India And China Chapter 13](/articles/alchemy-in-india-and-china-ch13)
+### [5. Ge Hong and Bao-pu-zi: Alchemy In India And China Chapter 13](/articles/alchemy-in-india-and-china-ch13)
 **Overview**: Detailed classical discussion on 5. Ge Hong and Bao-pu-zi within Alchemy In India And China.
 
-### 14. [6. The Golden Period of Chinese Alchemy: Alchemy In India And China Chapter 14](/articles/alchemy-in-india-and-china-ch14)
+### [6. The Golden Period of Chinese Alchemy: Alchemy In India And China Chapter 14](/articles/alchemy-in-india-and-china-ch14)
 **Overview**: Detailed classical discussion on 6. The Golden Period of Chinese Alchemy within Alchemy In India And China.
 
-### 15. [7. Sun Si-miao and His Alchemy: Alchemy In India And China Chapter 15](/articles/alchemy-in-india-and-china-ch15)
+### [7. Sun Si-miao and His Alchemy: Alchemy In India And China Chapter 15](/articles/alchemy-in-india-and-china-ch15)
 **Overview**: Detailed classical discussion on 7. Sun Si-miao and His Alchemy within Alchemy In India And China.
 
-### 16. [Transmutation of Base Metals into Gold: Alchemy In India And China Chapter 16](/articles/alchemy-in-india-and-china-ch16)
+### [Transmutation of Base Metals into Gold: Alchemy In India And China Chapter 16](/articles/alchemy-in-india-and-china-ch16)
 **Overview**: Detailed classical discussion on Transmutation of Base Metals into Gold within Alchemy In India And China.
 
-### 17. [1. Uniform Substrate Alloys: Alchemy In India And China Chapter 17](/articles/alchemy-in-india-and-china-ch17)
+### [1. Uniform Substrate Alloys: Alchemy In India And China Chapter 17](/articles/alchemy-in-india-and-china-ch17)
 **Overview**: Detailed classical discussion on 1. Uniform Substrate Alloys within Alchemy In India And China.
 
-### 18. [8. Alchemy in Tang, Song and Ming Dynasties: Alchemy In India And China Chapter 18](/articles/alchemy-in-india-and-china-ch18)
+### [8. Alchemy in Tang, Song and Ming Dynasties: Alchemy In India And China Chapter 18](/articles/alchemy-in-india-and-china-ch18)
 **Overview**: Detailed classical discussion on 8. Alchemy in Tang, Song and Ming Dynasties within Alchemy In India And China.
 
-### 19. [4. Surface Film Formation and Tinging: Alchemy In India And China Chapter 19](/articles/alchemy-in-india-and-china-ch19)
+### [4. Surface Film Formation and Tinging: Alchemy In India And China Chapter 19](/articles/alchemy-in-india-and-china-ch19)
 **Overview**: Detailed classical discussion on 4. Surface Film Formation and Tinging within Alchemy In India And China.
 
-### 20. [3. Surface-layer Enrichment: Alchemy In India And China Chapter 20](/articles/alchemy-in-india-and-china-ch20)
+### [3. Surface-layer Enrichment: Alchemy In India And China Chapter 20](/articles/alchemy-in-india-and-china-ch20)
 **Overview**: Detailed classical discussion on 3. Surface-layer Enrichment within Alchemy In India And China.
 
-### 21. [2. Surface-layer Enrichment: Alchemy In India And China Chapter 21](/articles/alchemy-in-india-and-china-ch21)
+### [2. Surface-layer Enrichment: Alchemy In India And China Chapter 21](/articles/alchemy-in-india-and-china-ch21)
 **Overview**: Detailed classical discussion on 2. Surface-layer Enrichment within Alchemy In India And China.
 
-### 22. [5. Special Cases: Alchemy In India And China Chapter 22](/articles/alchemy-in-india-and-china-ch22)
+### [5. Special Cases: Alchemy In India And China Chapter 22](/articles/alchemy-in-india-and-china-ch22)
 **Overview**: Detailed classical discussion on 5. Special Cases within Alchemy In India And China.
 
-### 23. [6. The “Poisonous Water” or “Visodaka”: Alchemy In India And China Chapter 23](/articles/alchemy-in-india-and-china-ch23)
+### [6. The “Poisonous Water” or “Visodaka”: Alchemy In India And China Chapter 23](/articles/alchemy-in-india-and-china-ch23)
 **Overview**: Detailed classical discussion on 6. The “Poisonous Water” or “Visodaka” within Alchemy In India And China.
 
-### 24. [Transmission of Alchemical and Chemical ideas: Alchemy In India And China Chapter 24](/articles/alchemy-in-india-and-china-ch24)
+### [Transmission of Alchemical and Chemical ideas: Alchemy In India And China Chapter 24](/articles/alchemy-in-india-and-china-ch24)
 **Overview**: Detailed classical discussion on Transmission of Alchemical and Chemical ideas within Alchemy In India And China.
 
-### 25. [3. Secular Studies and Panca-Vidya: Alchemy In India And China Chapter 25](/articles/alchemy-in-india-and-china-ch25)
+### [3. Secular Studies and Panca-Vidya: Alchemy In India And China Chapter 25](/articles/alchemy-in-india-and-china-ch25)
 **Overview**: Detailed classical discussion on 3. Secular Studies and Panca-Vidya within Alchemy In India And China.
 
-### 26. [2. Buddhist Monks and their Translation Activity: Alchemy In India And China Chapter 26](/articles/alchemy-in-india-and-china-ch26)
+### [2. Buddhist Monks and their Translation Activity: Alchemy In India And China Chapter 26](/articles/alchemy-in-india-and-china-ch26)
 **Overview**: Detailed classical discussion on 2. Buddhist Monks and their Translation Activity within Alchemy In India And China.
 
-### 27. [7. Bogar Karpam—Three hundred: Alchemy In India And China Chapter 27](/articles/alchemy-in-india-and-china-ch27)
+### [7. Bogar Karpam—Three hundred: Alchemy In India And China Chapter 27](/articles/alchemy-in-india-and-china-ch27)
 **Overview**: Detailed classical discussion on 7. Bogar Karpam—Three hundred within Alchemy In India And China.
 
-### 28. [6. References to Alchemy in Ganda Vyuha Sutra: Alchemy In India And China Chapter 28](/articles/alchemy-in-india-and-china-ch28)
+### [6. References to Alchemy in Ganda Vyuha Sutra: Alchemy In India And China Chapter 28](/articles/alchemy-in-india-and-china-ch28)
 **Overview**: Detailed classical discussion on 6. References to Alchemy in Ganda Vyuha Sutra within Alchemy In India And China.
 
-### 29. [5. References to Indian Sciences in Chinese Texts: Alchemy In India And China Chapter 29](/articles/alchemy-in-india-and-china-ch29)
+### [5. References to Indian Sciences in Chinese Texts: Alchemy In India And China Chapter 29](/articles/alchemy-in-india-and-china-ch29)
 **Overview**: Detailed classical discussion on 5. References to Indian Sciences in Chinese Texts within Alchemy In India And China.
 
-### 30. [4. Buddhist Monks and Their Interests in Alchemy: Alchemy In India And China Chapter 30](/articles/alchemy-in-india-and-china-ch30)
+### [4. Buddhist Monks and Their Interests in Alchemy: Alchemy In India And China Chapter 30](/articles/alchemy-in-india-and-china-ch30)
 **Overview**: Detailed classical discussion on 4. Buddhist Monks and Their Interests in Alchemy within Alchemy In India And China.
 
-### 31. [9. Bogar Karpam and Ge Hong's Alchemy: Alchemy In India And China Chapter 31](/articles/alchemy-in-india-and-china-ch31)
+### [9. Bogar Karpam and Ge Hong's Alchemy: Alchemy In India And China Chapter 31](/articles/alchemy-in-india-and-china-ch31)
 **Overview**: Detailed classical discussion on 9. Bogar Karpam and Ge Hong's Alchemy within Alchemy In India And China.
 
-### 32. [Transmission of Alchemical and Chemical ideas (Part 2): Alchemy In India And China Chapter 32](/articles/alchemy-in-india-and-china-ch32)
+### [Transmission of Alchemical and Chemical ideas (Part 2): Alchemy In India And China Chapter 32](/articles/alchemy-in-india-and-china-ch32)
 **Overview**: Detailed classical discussion on Transmission of Alchemical and Chemical ideas (Part 2) within Alchemy In India And China.
 
-### 33. [10. Case of China Silver: Alchemy In India And China Chapter 33](/articles/alchemy-in-india-and-china-ch33)
+### [10. Case of China Silver: Alchemy In India And China Chapter 33](/articles/alchemy-in-india-and-china-ch33)
 **Overview**: Detailed classical discussion on 10. Case of China Silver within Alchemy In India And China.
 
-### 34. [2. Case of Naga (i.e., Dragon or Long): Alchemy In India And China Chapter 34](/articles/alchemy-in-india-and-china-ch34)
+### [2. Case of Naga (i.e., Dragon or Long): Alchemy In India And China Chapter 34](/articles/alchemy-in-india-and-china-ch34)
 **Overview**: Detailed classical discussion on 2. Case of Naga (i.e., Dragon or Long) within Alchemy In India And China.
 
-### 35. [8. Bogar Karpam and Wei Bo-yang’s Alchemy: Alchemy In India And China Chapter 35](/articles/alchemy-in-india-and-china-ch35)
+### [8. Bogar Karpam and Wei Bo-yang’s Alchemy: Alchemy In India And China Chapter 35](/articles/alchemy-in-india-and-china-ch35)
 **Overview**: Detailed classical discussion on 8. Bogar Karpam and Wei Bo-yang’s Alchemy within Alchemy In India And China.
 
-### 36. [4. Case of Arsenic Sulphide or Orpiment: Alchemy In India And China Chapter 36](/articles/alchemy-in-india-and-china-ch36)
+### [4. Case of Arsenic Sulphide or Orpiment: Alchemy In India And China Chapter 36](/articles/alchemy-in-india-and-china-ch36)
 **Overview**: Detailed classical discussion on 4. Case of Arsenic Sulphide or Orpiment within Alchemy In India And China.
 
-### 37. [7. Case of “Ban Cha Zhuo Shui” or Visodaka: Alchemy In India And China Chapter 37](/articles/alchemy-in-india-and-china-ch37)
+### [7. Case of “Ban Cha Zhuo Shui” or Visodaka: Alchemy In India And China Chapter 37](/articles/alchemy-in-india-and-china-ch37)
 **Overview**: Detailed classical discussion on 7. Case of “Ban Cha Zhuo Shui” or Visodaka within Alchemy In India And China.
 
-### 38. [5. Case of Nao Sha, Navasara or Sal-ammoniac: Alchemy In India And China Chapter 38](/articles/alchemy-in-india-and-china-ch38)
+### [5. Case of Nao Sha, Navasara or Sal-ammoniac: Alchemy In India And China Chapter 38](/articles/alchemy-in-india-and-china-ch38)
 **Overview**: Detailed classical discussion on 5. Case of Nao Sha, Navasara or Sal-ammoniac within Alchemy In India And China.
 
-### 39. [3. Case of Mica: Alchemy In India And China Chapter 39](/articles/alchemy-in-india-and-china-ch39)
+### [3. Case of Mica: Alchemy In India And China Chapter 39](/articles/alchemy-in-india-and-china-ch39)
 **Overview**: Detailed classical discussion on 3. Case of Mica within Alchemy In India And China.
 
-### 40. [6. Case of Sindura or Cinnabar: Alchemy In India And China Chapter 40](/articles/alchemy-in-india-and-china-ch40)
+### [6. Case of Sindura or Cinnabar: Alchemy In India And China Chapter 40](/articles/alchemy-in-india-and-china-ch40)
 **Overview**: Detailed classical discussion on 6. Case of Sindura or Cinnabar within Alchemy In India And China.
 
-### 41. [8. Case of Tutenag or Zinc: Alchemy In India And China Chapter 41](/articles/alchemy-in-india-and-china-ch41)
+### [8. Case of Tutenag or Zinc: Alchemy In India And China Chapter 41](/articles/alchemy-in-india-and-china-ch41)
 **Overview**: Detailed classical discussion on 8. Case of Tutenag or Zinc within Alchemy In India And China.
 
-### 42. [Indian and Chinese Alchemy—Parallels: Alchemy In India And China Chapter 42](/articles/alchemy-in-india-and-china-ch42)
+### [Indian and Chinese Alchemy—Parallels: Alchemy In India And China Chapter 42](/articles/alchemy-in-india-and-china-ch42)
 **Overview**: Detailed classical discussion on Indian and Chinese Alchemy—Parallels within Alchemy In India And China.
 
-### 43. [9. Case of “Crow’s Beak Gold”: Alchemy In India And China Chapter 43](/articles/alchemy-in-india-and-china-ch43)
+### [9. Case of “Crow’s Beak Gold”: Alchemy In India And China Chapter 43](/articles/alchemy-in-india-and-china-ch43)
 **Overview**: Detailed classical discussion on 9. Case of “Crow’s Beak Gold” within Alchemy In India And China.
 
-### 44. [4. Case of a metal-container becoming golden: Alchemy In India And China Chapter 44](/articles/alchemy-in-india-and-china-ch44)
+### [4. Case of a metal-container becoming golden: Alchemy In India And China Chapter 44](/articles/alchemy-in-india-and-china-ch44)
 **Overview**: Detailed classical discussion on 4. Case of a metal-container becoming golden within Alchemy In India And China.
 
-### 45. [3. Case of an herb transmuting mercury and iron gold: Alchemy In India And China Chapter 45](/articles/alchemy-in-india-and-china-ch45)
+### [3. Case of an herb transmuting mercury and iron gold: Alchemy In India And China Chapter 45](/articles/alchemy-in-india-and-china-ch45)
 **Overview**: Detailed classical discussion on 3. Case of an herb transmuting mercury and iron gold within Alchemy In India And China.
 
-### 46. [5. Case of purple gold: Alchemy In India And China Chapter 46](/articles/alchemy-in-india-and-china-ch46)
+### [5. Case of purple gold: Alchemy In India And China Chapter 46](/articles/alchemy-in-india-and-china-ch46)
 **Overview**: Detailed classical discussion on 5. Case of purple gold within Alchemy In India And China.
 
-### 47. [2. Case of making treasure using mercury and a gourd: Alchemy In India And China Chapter 47](/articles/alchemy-in-india-and-china-ch47)
+### [2. Case of making treasure using mercury and a gourd: Alchemy In India And China Chapter 47](/articles/alchemy-in-india-and-china-ch47)
 **Overview**: Detailed classical discussion on 2. Case of making treasure using mercury and a gourd within Alchemy In India And China.
 
-### 48. [Bibliography: Alchemy In India And China Chapter 48](/articles/alchemy-in-india-and-china-ch48)
+### [Bibliography: Alchemy In India And China Chapter 48](/articles/alchemy-in-india-and-china-ch48)
 **Overview**: Detailed classical discussion on Bibliography within Alchemy In India And China.
 
-### 49. [Conclusion: Alchemy In India And China Chapter 49](/articles/alchemy-in-india-and-china-ch49)
+### [Conclusion: Alchemy In India And China Chapter 49](/articles/alchemy-in-india-and-china-ch49)
 **Overview**: Detailed classical discussion on Conclusion within Alchemy In India And China.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Acknowledgement
+## Acknowledgement
 
 Alchemy in India and China
 
@@ -180,7 +178,7 @@ being very co-operative and patient during the entire period. Mrs. Vijaya Jayant
 
 ---
 
-## 2. Chapter 1 - Introduction to the history of Alchemy
+## Chapter 1 - Introduction to the history of Alchemy
 
 Alchemy in India and China
 
@@ -226,7 +224,7 @@ Why do we read about alchemy and other proto-sciences when they are no more sign
 
 ---
 
-## 5. 1. Introduction (the history of Alchemy in India)
+## 1. Introduction (the history of Alchemy in India)
 
 Alchemy in India and China
 
@@ -242,7 +240,7 @@ Alchemy flourished in India in the medieval period. It had, like in other areas 
 
 ---
 
-## 9. 7. Introduction to the Rasarnava
+## 7. Introduction to the Rasarnava
 
 Alchemy in India and China
 
@@ -258,7 +256,7 @@ After Rasaratnakara of Nagarjuna, there appeared a number of alchemical treatise
 
 ---
 
-## 12. 8. Introduction to the Rasarnavakalpa (11th century)
+## 8. Introduction to the Rasarnavakalpa (11th century)
 
 Alchemy in India and China
 
@@ -274,7 +272,7 @@ fewer ingredients, as compared to Rasarnava. poisonous substances such as copper
 
 ---
 
-## 13. 9. Introduction to the Rasaratnasamuccaya of Vagbhata (14th century)
+## 9. Introduction to the Rasaratnasamuccaya of Vagbhata (14th century)
 
 Alchemy in India and China
 
@@ -290,7 +288,7 @@ Rasaratnasamuccaya, written by Vagbhat in the fourteenth century AD, marks the b
 
 ---
 
-## 16. 1. Introduction to Chinese alchemy
+## 1. Introduction to Chinese alchemy
 
 Alchemy in India and China
 
@@ -306,7 +304,7 @@ Studies in Chinese alchemy are rendered comparatively easier, as in the case of 
 
 ---
 
-## 30. 1. Introduction (the Alchemical Exchange between India and China)
+## 1. Introduction (the Alchemical Exchange between India and China)
 
 Alchemy in India and China
 
@@ -326,7 +324,7 @@ consider the case of Indian Buddhist travelers, their translation activity and i
 
 ---
 
-## 41. 1. Introduction
+## 1. Introduction
 
 Alchemy in India and China
 
@@ -340,7 +338,7 @@ languages, which indicate their possible introduction and assimilation from one 
 
 ---
 
-## 51. 1. Introduction to the “Chun zhu ji wen”
+## 1. Introduction to the “Chun zhu ji wen”
 
 Alchemy in India and China
 

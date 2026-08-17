@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Myth behind the Creation of Agriculture within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 53. Part 7 - The Myth behind the Creation of Agriculture
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Myth behind the Creation of Agriculture’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 7 - The Myth behind the Creation of Agriculture
 
 Part 7 - The Myth behind the Creation of Agriculture
 
@@ -39,87 +35,123 @@ Myths about the Creation of Agricultural Products:
 
 The Matsya Purāṇa speaks that śāli (paddy), mudga (green-gram) and ikṣu (sugarcane) were produced from the drops of nectar fell from the mouth of the Sun while He was drinking it.[12] The same Purāṇa says that from the perspiration of ViṢṇu’s body, as he smote the demon Madhu, were produced the tila (sesame), the kuśa (sacred grass) and the māṣa (black gram).[13] The red variety of the kūṣmāṇḍa (cucumber) was produced from the fears of the Viśvedevas.[14] According to the Brahmāṇḍa Purāṇa, the date-palms were produced from the heads of the three sons of Varatrin, when they were killed by Indra.[15] Again the Skanda Purāṇa mentions that laśuna (garlic) and gṛñjana (turnip) were produced from the drops of the ocean at the churning by gods and demons, along with wine.[16]
 
-[1]:
 
-kṛtvā dvandvopaghātāstāṃstānvārtopāyamacintayan/ Vāyu Purāṇa , 8.128a
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> kṛtvā dvandvopaghātāstāṃstānvārtopāyamacintayan/ Vāyu Purāṇa , 8.128a
+</blockquote>
 
-[2]:
 
-viṣādavyākulāstā vai prajāstṛṣṇākṣudhātmikāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> viṣādavyākulāstā vai prajāstṛṣṇākṣudhātmikāḥ/
 tataḥ prādurbabhau tāsāṃ siddhistretāyuge punaḥ// Ibid., 8.129
+</blockquote>
 
-[3]:
 
-vārtārthasādhikā’pyanyā vṛttistāsāṃ hi kāmataḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> vārtārthasādhikā’pyanyā vṛttistāsāṃ hi kāmataḥ/
 tāsāṃ vṛṣṭyudakānīha yāni nimnairgatāni tu// Ibid., 8.130
+</blockquote>
 
-[4]:
 
-vṛṣṭyā tadbhavatsrotaḥ khātāni nimnagāḥ smṛtāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> vṛṣṭyā tadbhavatsrotaḥ khātāni nimnagāḥ smṛtāḥ/
 evaṃ nadyaḥ pravṛttāstu dvitīye vṛṣṭisarjane// Ibid.,8.131
+</blockquote>
 
-[5]:
 
-ye parastādapāṃ stokā āpannāḥ pṛthivītale/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> ye parastādapāṃ stokā āpannāḥ pṛthivītale/
 apāṃ bhūmeśca saṃyogādoṣadhyastāsu cābhavan// Ibid.,8.132
+</blockquote>
 
-[6]:
 
-ṛtupuṣpaphalāścaiva vṛkṣā gulmāśca jajñire/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> ṛtupuṣpaphalāścaiva vṛkṣā gulmāśca jajñire/
 prādurbhāvaśca tretāyāṃ vārtāyāmauṣadhasya tu// Ibid.,8.134
+</blockquote>
 
-[7]:
 
-kṛtvā vatsaṃ sumeruṃ tu dudoha pṛthivīmimām// Ibid.,8.148b
 
-[8]:
 
-dugdheyaṃ gaustadā tena bījāni pṛthivītale/
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> kṛtvā vatsaṃ sumeruṃ tu dudoha pṛthivīmimām// Ibid.,8.148b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> dugdheyaṃ gaustadā tena bījāni pṛthivītale/
 jajñire tāni bījāni grāmāraṇyāstu tāḥ punaḥ// Ibid.,8.149
+</blockquote>
 
-[9]:
 
-Ibid.,8.160b
 
-[10]:
 
-Ibid.,8.170b
+<div className="footnote-card"><strong>[9]</strong> Ibid.,8.160b</div>
 
-[11]:
 
-Ibid.,8.165a
 
-[12]:
 
-amṛtaṃ pibato vaktrātsūryasyāmṛtabindavaḥ/
+<div className="footnote-card"><strong>[10]</strong> Ibid.,8.170b</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid.,8.165a</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> amṛtaṃ pibato vaktrātsūryasyāmṛtabindavaḥ/
 nipeturye tadutthāmī śālimudgekṣavaḥ smṛtāḥ// Matsya Purāṇa ,77.13
+</blockquote>
 
-[13]:
 
-yasmānmadhu vadhe viṣṇordehasvedasamudbhavāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> yasmānmadhu vadhe viṣṇordehasvedasamudbhavāḥ/
 tilāḥ kuśāśca māṣāśca tasmācchāntyai bhavantviha// Ibid., 87.4
+</blockquote>
 
-[14]:
 
-Skanda Purāṇa , 6.206.75-77
 
-[15]:
 
-Brahmāṇḍa Purāṇa , 2.3.1.84-85
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Skanda Purāṇa , 6.206.75-77
+</blockquote>
 
-[16]:
 
-tānsarvānmadhyataḥ kṛtvā punaścaiva mamanthire//
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Brahmāṇḍa Purāṇa , 2.3.1.84-85
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> tānsarvānmadhyataḥ kṛtvā punaścaiva mamanthire//
 nirmathyamānādudadhernirgatāni bahūnyathā//
 madirā vijayā bhṛṅgī tathā laśunagṛñjanāḥ// Skanda Purāṇa , 1.1.11.56-57
+</blockquote>
 
 ---
 
-## 54. Part 8 - The Myth of Gautama and Gaṇeśa
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Myth of Gautama and Ganesha’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 8 - The Myth of Gautama and Gaṇeśa
 
 Part 8 - The Myth of Gautama and Gaṇeśa
 
@@ -134,26 +166,27 @@ As Gautama tried to put off her with the help of a stalk, the cow fell down dead
 
 In this myth of sage Gautama as we find the references of field of Gautama, full with barley and paddy, so it clearly indicates the practicing of agriculture prevailed in the days of Purāṇas.
 
-[1]:
 
-Śiva Purāṇa , 4.24.4ff, Ch. 25
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Śiva Purāṇa , 4.24.4ff, Ch. 25
+</blockquote>
 
-[2]:
 
-akṣayyaṃ ca jalaṃ te’stu tīrthabhūtaṃ mahāmune/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> akṣayyaṃ ca jalaṃ te’stu tīrthabhūtaṃ mahāmune/
 tava nāmnā ca vikhyātaṃ kṣitāvetadbhaviṣyati// Ibid., 4.24.18
+</blockquote>
 
-[3]:
 
-Ibid., 4.25.29
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., 4.25.29</div>
 
 ---
 
-## 55. Part 10 - The Account of King Ākāśa
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Account of King Akasha’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 10 - The Account of King Ākāśa
 
 Part 10 - The Account of King Ākāśa
 
@@ -166,21 +199,19 @@ kāñcanena halenaiva kṛṣyamāṇe dharātale//[1]
 
 The king named the girl Padminī.[2] Later Padminī was married to Śrīnivāsa. Reference of using golden plough for tilling is met with in this story. This too, indicates the practice of agriculture in the days of the Purāṇas.
 
-[1]:
 
-Skanda Purāṇa , 2.1.3.22
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Skanda Purāṇa , 2.1.3.22
+</blockquote>
 
-[2]:
 
-Ibid., 2.1.4.4
+
+
+<div className="footnote-card"><strong>[2]</strong> Ibid., 2.1.4.4</div>
 
 ---
 
-## 56. Part 9 - The Legend behind the Name Govardhana-Tīrtha
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Legend behind the Name Govardhana-Tirtha’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 9 - The Legend behind the Name Govardhana-Tīrtha
 
 Part 9 - The Legend behind the Name Govardhana-Tīrtha
 
@@ -204,38 +235,48 @@ govarddhanaṃ tu tattīrthaṃ devānāṃ prītivardhanam//.[6]
 
 Here, in this myth, it is met with that people in the days of Purāṇas, used bullocks for the act of ploughing. This myth too gives us reference about the practice of agriculture which prevailed in the days of the Purāṇas.
 
-[1]:
 
-Brahma Purāṇa , 2.21.2-13
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Brahma Purāṇa , 2.21.2-13
+</blockquote>
 
-[2]:
 
-Ibid., 2.21.2
 
-[3]:
 
-Ibid., 2.21.3
+<div className="footnote-card"><strong>[2]</strong> Ibid., 2.21.2</div>
 
-[4]:
 
-athaiṣa gosavaḥ/svargakāmo haitena yajeta/
+
+
+<div className="footnote-card"><strong>[3]</strong> Ibid., 2.21.3</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> athaiṣa gosavaḥ/svargakāmo haitena yajeta/
 …upa mātaram iyād upa svasāram upa sagotram/
 upāvahāyodakam ācāmed, upāvahāya tṛṇāni āchindyāt//
 cf., Jaiminīya Brāhmaṇa ,2.113
 yasmādeṣa kratuḥ paśuhetunā stomena yuktastena gosava ityucyate/
 Sāyaṇācārya in the commentary of Taittirīya Brāhmaṇa ,2.7.6.15
+</blockquote>
 
-[5]:
 
-Jaiminīya Brāhmaṇa , 2.113
 
-[6]:
 
-Brahma Purāṇa ,2.21.11
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Jaiminīya Brāhmaṇa , 2.113
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Brahma Purāṇa ,2.21.11
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -244,10 +285,6 @@ Brahma Purāṇa ,2.21.11
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch14" className="text-emerald-400 hover:underline flex items-center font-medium">Animal husbandry in the Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 14 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -62,6 +62,10 @@ In place of “śirogalaṃ” some read “śiro bhavet”. This reading is ado
 
 [2]:
 
+
+<blockquote className="ayur-shloka">
 Dallana here comments that the term “Vasā” means all the fatty substances in the body, e.g., the brain substance, Medas, semen, Majjan, etc. There is a variant which is not recognised by Gayi. That reading is “asṛgvasāśleṣmasamīraṇānāṃ” (i.e., by the waste) of blood, Vasā Kapha and Vāyu. This, however, seems to be the better reading.
+</blockquote>
+
 
 ---

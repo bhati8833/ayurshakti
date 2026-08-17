@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 2. Art in Citra or Painting within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. 2. Art in Citra or Painting
+## 2. Art in Citra or Painting
 
 Manasollasa (study of Arts and Sciences)
 
@@ -43,7 +43,7 @@ The Visnudharmottara Purana elucidates the process, and the strong points in pai
 
 ---
 
-## 36. 19. Education in Manasollasa
+## 19. Education in Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -79,8 +79,6 @@ Somesvara attached much importance to education, without which it was difficult 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -88,10 +86,6 @@ Somesvara attached much importance to education, without which it was difficult 
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch17" className="text-emerald-400 hover:underline flex items-center font-medium">6. Music in Somesvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 17 →</a>
 </div>
-
-
-
-
 
 ---
 

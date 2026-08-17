@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 15. Falcon fighting described in the Manasollasa within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 33. 15. Falcon fighting described in the Manasollasa
+## 15. Falcon fighting described in the Manasollasa
 
 Manasollasa (study of Arts and Sciences)
 
@@ -31,7 +31,7 @@ Somesvara further tells Syena Vinoda, or the entertainment through falcon. He de
 
 ---
 
-## 34. 1. Origin of art in India
+## 1. Origin of art in India
 
 Manasollasa (study of Arts and Sciences)
 
@@ -55,8 +55,6 @@ i 182 It is true, symbols, 1.e., bhangas, mudras (poses, gestures) etc., play a 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -64,10 +62,6 @@ i 182 It is true, symbols, 1.e., bhangas, mudras (poses, gestures) etc., play a 
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">2. Art in Citra or Painting: Manasollasa Study Of Arts And Sciences Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 

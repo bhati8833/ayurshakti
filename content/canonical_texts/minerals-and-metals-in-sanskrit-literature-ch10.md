@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 11. On Vaikrintaka, Vritta and Tikshna within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 43. 11. On Vaikrintaka, Vritta and Tikshna
+## 11. On Vaikrintaka, Vritta and Tikshna
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ V-23 evidently the Vedic name for pig or wrought iron; thus, the three (tu ri 2.
 
 ---
 
-## 44. 14. Concluding Remarks and References
+## 14. Concluding Remarks and References
 
 Minerals and Metals in Sanskrit literature
 
@@ -47,7 +47,7 @@ V-31 Roy, S.K., 1946, Glimpses into India's Heritage in Geology, Mining and Meta
 
 ---
 
-## 45. 12. Iron and Steel Armoury
+## 12. Iron and Steel Armoury
 
 Minerals and Metals in Sanskrit literature
 
@@ -63,7 +63,7 @@ V-25 Since casting of iron needed high temperature, and was not invented in anci
 
 ---
 
-## 46. 13. Tula mana desa kala Pautavam
+## 13. Tula mana desa kala Pautavam
 
 Minerals and Metals in Sanskrit literature
 
@@ -77,8 +77,6 @@ V-26 Standard weights were made of iron or metallic stone from Magadha or Mekala
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -86,10 +84,6 @@ V-26 Standard weights were made of iron or metallic stone from Magadha or Mekala
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch11" className="text-emerald-400 hover:underline flex items-center font-medium">10. The Lohadhyaksha (the Director of Metals): Minerals And Metals In Sanskrit Literature Chapter 11 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Tantra-bhusana-adhyaya (embellishing chapters) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 69. Canto V - Tantra-bhusana-adhyaya (embellishing chapters)
+## Canto V - Tantra-bhusana-adhyaya (embellishing chapters)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -31,33 +31,39 @@ The proper time for giving diet to a patient is when he gets free stool, urine a
 
 Thus ends the sixty-fourth chapter in the Uttara-tantra of the Sushruta-Samhita which deals with the Rules of Hygiene.
 
-[1]:
 
-Some explain ‘Kriyā’ separately as the organic functions e. g. sleep and awakening, etc.—Dallana.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Some explain ‘Kriyā’ separately as the organic functions e. g. sleep and awakening, etc.—Dallana.
+</blockquote>
 
-[2]:
 
-The waters in the rainy season are generally muddy and impure. When, after the rains, the waters become purer, it is said in Hindu mythology that owing to the rise of Agastya (a star making its appearance in the horizon after the rains—generally in the beginning of September) the waters become clear and transparent.
 
-[3]:
 
-For a list of the animals of the different classes mentioned here, see Chapter XLVI, Sutra-sthāna, pages 480 &c., Vol. 1.
+<div className="footnote-card"><strong>[2]</strong> The waters in the rainy season are generally muddy and impure. When, after the rains, the waters become purer, it is said in Hindu mythology that owing to the rise of Agastya (a star making its appearance in the horizon after the rains—generally in the beginning of September) the waters become clear and transparent.</div>
 
-[4]:
 
-A period of four months has been ascribed to the rains. Of these the first two months are ealled Pravrit, and the last two Varsha—both meaning the rainy season. See chapter VI, Sutrasthana.
 
-[5]:
 
-The whole of this Para is an interpolation in as much as Jejjata does not read this.—Dallana.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> For a list of the animals of the different classes mentioned here, see Chapter XLVI, Sutra-sthāna, pages 480 &c., Vol. 1.
+</blockquote>
 
-[6]:
 
-“A medicine applied with food” may mean a medicine prepared before and taken with the meal; or, it may mean that the meal is cooked (while being prepared) with the medicines to be applied.
+
+
+<div className="footnote-card"><strong>[4]</strong> A period of four months has been ascribed to the rains. Of these the first two months are ealled Pravrit, and the last two Varsha—both meaning the rainy season. See chapter VI, Sutrasthana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> The whole of this Para is an interpolation in as much as Jejjata does not read this.—Dallana.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> “A medicine applied with food” may mean a medicine prepared before and taken with the meal; or, it may mean that the meal is cooked (while being prepared) with the medicines to be applied.</div>
 
 ---
-
-
 
 ---
 
@@ -66,10 +72,6 @@ The whole of this Para is an interpolation in as much as Jejjata does not read t
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch24" className="text-emerald-400 hover:underline flex items-center font-medium">The Technical terms used in the treatise: Sushruta Samhita Uttara Tantra Chapter 24 →</a>
 </div>
-
-
-
-
 
 ---
 

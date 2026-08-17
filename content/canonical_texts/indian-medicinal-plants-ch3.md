@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Notes on the knowledge of medicinal plants within Indian Medicinal Plants. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. Notes on the knowledge of medicinal plants
+## Notes on the knowledge of medicinal plants
 
 Indian Medicinal Plants
 
@@ -51,8 +51,6 @@ What a pity that hardly any attention is paid to this subject in modern India.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -60,10 +58,6 @@ What a pity that hardly any attention is paid to this subject in modern India.
   <a href="/articles/indian-medicinal-plants" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/indian-medicinal-plants-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Notes on the elementary (cardinal) properties of medicines: Indian Medicinal Plants Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatment for chronic diarrhea (3): Suvarna-sundara rasa within Rasa Jala Nidhi Volume 4. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 242. Part 31 - Treatment for chronic diarrhea (3): Suvarna-sundara rasa
+## Part 31 - Treatment for chronic diarrhea (3): Suvarna-sundara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -29,7 +29,7 @@ This concludes ‘Treatment for chronic diarrhea (3): Suvarna-sundara rasa’ in
 
 ---
 
-## 243. Part 32 - Treatment for chronic diarrhea (4): Trimurti rasa
+## Part 32 - Treatment for chronic diarrhea (4): Trimurti rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -47,7 +47,7 @@ This concludes ‘Treatment for chronic diarrhea (4): Trimurti rasa’ included 
 
 ---
 
-## 244. Part 35 - Treatment for chronic diarrhea (7): Vajra-dhara rasa
+## Part 35 - Treatment for chronic diarrhea (7): Vajra-dhara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -65,7 +65,7 @@ This concludes ‘Treatment for chronic diarrhea (7): Vajra-dhara rasa’ includ
 
 ---
 
-## 245. Part 36 - Treatment for chronic diarrhea (8): Grahani-kapata rasa
+## Part 36 - Treatment for chronic diarrhea (8): Grahani-kapata rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -83,7 +83,7 @@ This concludes ‘Treatment for chronic diarrhea (8): Grahani-kapata rasa’ inc
 
 ---
 
-## 246. Part 34 - Treatment for chronic diarrhea (6): Vahni-jvala rasa
+## Part 34 - Treatment for chronic diarrhea (6): Vahni-jvala rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -101,7 +101,7 @@ This concludes ‘Treatment for chronic diarrhea (6): Vahni-jvala rasa’ includ
 
 ---
 
-## 247. Part 37 - Treatment for chronic diarrhea (9): Agni-vivardhana rasa
+## Part 37 - Treatment for chronic diarrhea (9): Agni-vivardhana rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -119,7 +119,7 @@ This concludes ‘Treatment for chronic diarrhea (9): Agni-vivardhana rasa’ in
 
 ---
 
-## 248. Part 39 - Treatment for chronic diarrhea (11): Grahani-shardula rasa
+## Part 39 - Treatment for chronic diarrhea (11): Grahani-shardula rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -137,7 +137,7 @@ This concludes ‘Treatment for chronic diarrhea (11): Grahani-shardula rasa’ 
 
 ---
 
-## 249. Part 38 - Treatment for chronic diarrhea (10): Markandeya rasa
+## Part 38 - Treatment for chronic diarrhea (10): Markandeya rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -155,7 +155,7 @@ This concludes ‘Treatment for chronic diarrhea (10): Markandeya rasa’ includ
 
 ---
 
-## 250. Part 40 - Treatment for chronic diarrhea (12): Grahani-bhairava rasa
+## Part 40 - Treatment for chronic diarrhea (12): Grahani-bhairava rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -173,7 +173,7 @@ This concludes ‘Treatment for chronic diarrhea (12): Grahani-bhairava rasa’ 
 
 ---
 
-## 251. Part 42 - Treatment for chronic diarrhea (14): Vadavamukha rasa
+## Part 42 - Treatment for chronic diarrhea (14): Vadavamukha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -191,7 +191,7 @@ This concludes ‘Treatment for chronic diarrhea (14): Vadavamukha rasa’ inclu
 
 ---
 
-## 252. Part 43 - Treatment for chronic diarrhea (15): Hamsa-pottali rasa
+## Part 43 - Treatment for chronic diarrhea (15): Hamsa-pottali rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -209,7 +209,7 @@ This concludes ‘Treatment for chronic diarrhea (15): Hamsa-pottali rasa’ inc
 
 ---
 
-## 253. Part 41 - Treatment for chronic diarrhea (13): Samgrahanihara rasa
+## Part 41 - Treatment for chronic diarrhea (13): Samgrahanihara rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -227,7 +227,7 @@ This concludes ‘Treatment for chronic diarrhea (13): Samgrahanihara rasa’ in
 
 ---
 
-## 254. Part 44 - Treatment for chronic diarrhea (16): Grahani-vajra-kapata rasa
+## Part 44 - Treatment for chronic diarrhea (16): Grahani-vajra-kapata rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -245,7 +245,7 @@ This concludes ‘Treatment for chronic diarrhea (16): Grahani-vajra-kapata rasa
 
 ---
 
-## 255. Part 45 - Treatment for chronic diarrhea (17): Nripavallabha rasa
+## Part 45 - Treatment for chronic diarrhea (17): Nripavallabha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -263,7 +263,7 @@ This concludes ‘Treatment for chronic diarrhea (17): Nripavallabha rasa’ inc
 
 ---
 
-## 256. Part 46 - Treatment for chronic diarrhea (18): Nripendra-vallabha rasa
+## Part 46 - Treatment for chronic diarrhea (18): Nripendra-vallabha rasa
 
 Rasa Jala Nidhi, vol 4: Iatrochemistry
 
@@ -281,8 +281,6 @@ This concludes ‘Treatment for chronic diarrhea (18): Nripendra-vallabha rasa�
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -290,10 +288,6 @@ This concludes ‘Treatment for chronic diarrhea (18): Nripendra-vallabha rasa�
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment for chronic diarrhea (19): Rajendra-vallabha rasa: Rasa Jala Nidhi Volume 4 Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

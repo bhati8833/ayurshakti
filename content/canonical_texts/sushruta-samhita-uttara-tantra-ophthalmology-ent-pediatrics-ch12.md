@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Theraputics Of An Attack -Graha within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Chapter XXXI - Theraputics Of An Attack By Revati-Graha
+## Chapter XXXI - Theraputics Of An Attack By Revati-Graha
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -31,13 +31,14 @@ The presiding deity of the disease known as Revati should be worshipped in a cow
 
 Thus ends the thirty-first chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the Therapeutics of an attack by Revati.
 
-[1]:
 
-There is an additional text in the Bhāvaprakāśa which says that Guggulu (Palamkashā), Nalada (Khus-khus) and Giri-kadamba should also be used in the preparation of the medicated oil.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> There is an additional text in the Bhāvaprakāśa which says that Guggulu (Palamkashā), Nalada (Khus-khus) and Giri-kadamba should also be used in the preparation of the medicated oil.
+</blockquote>
 
 ---
 
-## 37. Chapter XXXIII - Treatment of Andha-putana-graha
+## Chapter XXXIII - Treatment of Andha-putana-graha
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -61,17 +62,21 @@ Offerings of meat, cooked or uncooked, and of blood should be made (to Andhaputa
 
 Thus ends the thirty-third chapter in the Uttara-Tantra of the Sushruta Samhita which deals with the medical treatment of (an attack) by Andha-putana.
 
-[1]:
 
-Some explain “śeśān” (hair) and “carma” (skin) as those of man and not of a cock.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Some explain “śeśān” (hair) and “carma” (skin) as those of man and not of a cock.
+</blockquote>
 
-[2]:
 
-Bhāvaprakāśa reads “jīrṇañjābhīkṣṇaśo vāsaḥ” very old cloth. This reading does not suggest that the cloth to be used should have been worn by a Buddhist monk.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Bhāvaprakāśa reads “jīrṇañjābhīkṣṇaśo vāsaḥ” very old cloth. This reading does not suggest that the cloth to be used should have been worn by a Buddhist monk.
+</blockquote>
 
 ---
 
-## 38. Chapter XXXIV - Treatment of an attack by Shita-putana
+## Chapter XXXIV - Treatment of an attack by Shita-putana
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -97,8 +102,6 @@ Thus ends the thirty-fourth chapter in the Uttara-Tantra of the Sushruta Samhita
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -106,10 +109,6 @@ Thus ends the thirty-fourth chapter in the Uttara-Tantra of the Sushruta Samhita
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">Treatment of an attack -mandika: Sushruta Samhita Uttara Tantra Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

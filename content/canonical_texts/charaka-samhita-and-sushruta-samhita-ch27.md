@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on List of Surgical Conditions in the Suśruta Saṃhitā within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 90. List of Surgical Conditions in the Suśruta Saṃhitā
+## List of Surgical Conditions in the Suśruta Saṃhitā
 
 Charaka Samhita and Sushruta Samhita
 
@@ -111,225 +111,385 @@ Reconstructive surgery.
 
 Reconstructive surgery is a specialised form of surgical intervention that constitutes a landmark in the development of ancient Indian medical science. The Suśruta Saṃhitā has described surgical procedures for repairing the split ear lobules,[50] reconstruction of the ear lobule,[51] the amputated nose[52] and cleft-lip surgery.[53] Fifteen types of ear lobe deformities are referred to, and the detailed study and specificities of these conditions bear testimony to the skill and proficiency of ancient Indian surgeons and to the fact that plastic surgery was a well developed field. The importance of this field can be gauged from the significant statement of Dhanvantari that the physician alone who has mastered these procedures, is entitled to be the royal physician.[54] It may be inferred that proficiency in reconstructive surgery was the preserve of a few. The maturing of skills in this regard would lead one to believe that there was a great necessity and demand for this kind of surgery.
 
-[1]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.131.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.131.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.10/2-11/1.
 
-[3]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.31-33, 37.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.10/2-11/1.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.11/2-12/1.
 
-[5]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.12/1-19/1.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.31-33, 37.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.19/2-20/1.
 
-[7]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.69/2-71/1.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.11/2-12/1.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.42-45/1.
 
-[9]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.66/2-69/1.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.12/1-19/1.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.20/1-22/1.
 
-[11]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.21/1-23/1.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.19/2-20/1.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Cikitsāsthāna 3.23.
 
-[13]:
 
-Suśruta Saṃhitā Cikitsāsthāna 2.22/1-23/1.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.69/2-71/1.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Cikitsāsthāna 4,7.
 
-[15]:
 
-Suśruta Saṃhitā Cikitsāsthāna 30-33.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.42-45/1.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Cikitsāsthāna 8.4.
 
-[17]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.10-11.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.66/2-69/1.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Cikitsāsthāna 12.4.
 
-[19]:
 
-Suśruta Saṃhitā Cikitsāsthāna 14.17.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.20/1-22/1.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.3-4.
 
-[21]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.9.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.21/1-23/1.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Cikitsāsthāna 16.34-35.
 
-[23]:
 
-Suśruta Saṃhitā Cikitsāsthāna 16.39/2-41.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Cikitsāsthāna 3.23.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Cikitsāsthāna 17.46-47.
 
-[25]:
 
-Suśruta Saṃhitā Cikitsāsthāna 17.18-28.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Cikitsāsthāna 2.22/1-23/1.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Cikitsāsthāna 18.5-24;
 
-[27]:
 
-Suśruta Saṃhitā Cikitsāsthāna 18.15-16.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Cikitsāsthāna 4,7.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Cikitsāsthāna 18.39.
 
-[29]:
 
-Suśruta Saṃhitā Cikitsāsthāna 18.53-54.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Cikitsāsthāna 30-33.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.8-25.
 
-[31]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.38, 50-51.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Cikitsāsthāna 8.4.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Cikitsāsthāna 19.52-56.
 
-[33]:
 
-Suśruta Saṃhitā Cikitsāsthāna 20.3-61.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.10-11.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Cikitsāsthāna 21.4,6,9,10,13.
 
-[35]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.9.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Cikitsāsthāna 12.4.
+</blockquote>
 
-[36]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.11-22.
 
-[37]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.23.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Cikitsāsthāna 14.17.
+</blockquote>
 
-[38]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.24-25.
 
-[39]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.26-29.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.3-4.
+</blockquote>
 
-[40]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.40.
 
-[41]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.36-37.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.9.
+</blockquote>
 
-[42]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.45-48.
 
-[43]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.49-57.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Cikitsāsthāna 16.34-35.
+</blockquote>
 
-[44]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.59/2-67.
 
-[45]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.3.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Cikitsāsthāna 16.39/2-41.
+</blockquote>
 
-[46]:
 
-Suśruta Saṃhitā Uttaratantra 8.4.
 
-[47]:
 
-Suśruta Saṃhitā Uttaratantra 8.9.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Cikitsāsthāna 17.46-47.
+</blockquote>
 
-[48]:
 
-Suśruta Saṃhitā Uttaratantra 17.55-64.
 
-[49]:
 
-Suśruta Saṃhitā Cikitsāsthāna 4.9.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Cikitsāsthāna 17.18-28.
+</blockquote>
 
-[50]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.10-13.
 
-[51]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.14-15.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Cikitsāsthāna 18.5-24;
+</blockquote>
 
-[52]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.27-31.
 
-[53]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.32.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Cikitsāsthāna 18.15-16.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Sūtrasthāna 16.32.
+
+
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Cikitsāsthāna 18.39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Cikitsāsthāna 18.53-54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.8-25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.38, 50-51.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Cikitsāsthāna 19.52-56.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Cikitsāsthāna 20.3-61.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Cikitsāsthāna 21.4,6,9,10,13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.11-22.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.23.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.24-25.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.26-29.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.36-37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.45-48.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.49-57.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.59/2-67.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Suśruta Saṃhitā Sūtrasthāna 16.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Suśruta Saṃhitā Uttaratantra 8.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Suśruta Saṃhitā Uttaratantra 8.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Suśruta Saṃhitā Uttaratantra 17.55-64.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Suśruta Saṃhitā Cikitsāsthāna 4.9.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Suśruta Saṃhitā Sūtrasthāna 16.10-13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Suśruta Saṃhitā Sūtrasthāna 16.14-15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Suśruta Saṃhitā Sūtrasthāna 16.27-31.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Suśruta Saṃhitā Sūtrasthāna 16.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Sūtrasthāna 16.32.
+</blockquote>
 
 ---
 
-## 91. The perception of surgery
+## The perception of surgery
 
 Charaka Samhita and Sushruta Samhita
 
@@ -363,353 +523,601 @@ Though alkalis are held to be effective and safe (siddhā niratyayāḥ), it is 
 
 Apart from professional dexterity, the surgeon is called upon to be sensitive to the needs of the patient. When conducting procedures on infants and those who fear the sight of surgical instruments, he is advised to use instead bamboo skin, quartz (sphatika), glass (kāca) and kuruvinda (corundum)[83] for the procedures.[84] Leaves of gojī, śephālikā and śākapatra are used as substitutes in drainage of lesions within the oral cavity and on the eyelids.[85] Leeches, fire cautery and alkalis can also be used as the substitutes for sharp instruments. Among the various methods of phlebotomy the most gentle is leech treatment which, we have noted earlier, is preferred by Suśruta for kings and affluent persons, children and the elderly, timid and weak persons, women and delicate persons.[86]
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.16.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 1.16.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.18.
 
-[3]:
 
-Chambers 21st Century Dictionary, New Delhi, 2001, p. 1422.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 1.18.
+</blockquote>
 
-[4]:
 
-Chambers 21st Century Dictionary, p.1423.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 1.8(1).
+<div className="footnote-card"><strong>[3]</strong> Chambers 21st Century Dictionary, New Delhi, 2001, p. 1422.</div>
 
-[6]:
 
-Suśruta Saṃhitā Sūtrasthāna 7.3.
 
-[7]:
 
-Blood-letting is included in drainage.
+<div className="footnote-card"><strong>[4]</strong> Chambers 21st Century Dictionary, p.1423.</div>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 5.5.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 7.3.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 1.8(1).
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.3.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.18.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Sūtrasthāna 7.3.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 13.4.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.3.
+<div className="footnote-card"><strong>[7]</strong> Blood-letting is included in drainage.</div>
 
-[14]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.4.
 
-[15]:
 
-Suśruta Saṃhitā Uttaratantra 11.10-12.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 5.5.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.3.
 
-[17]:
 
-Suśruta Saṃhitā Sūtrasthāna 12.3.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 7.3.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 12.10.
 
-[19]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.28; 12.14.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 8.3.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.28.
 
-[21]:
 
-Suśruta Saṃhitā Sūtrasthāna 12.14.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 11.18.
+</blockquote>
 
-[22]:
 
-Suśruta Saṃhitā Sūtrasthāna 35.32.
 
-[23]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.29.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 13.4.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Sūtrasthāna 12.7.
 
-[25]:
 
-Suśruta Saṃhitā Sūtrasthāna 12.5.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 11.3.
+</blockquote>
 
-[26]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.31.
 
-[27]:
 
-Suśruta Saṃhitā Sūtrasthāna 14.34.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Sūtrasthāna 11.4.
+</blockquote>
 
-[28]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.27-29.
 
-[29]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.7.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Uttaratantra 11.10-12.
+</blockquote>
 
-[30]:
 
-Suśruta Saṃhitā Cikitsāsthāna 17.16.
 
-[31]:
 
-Suśruta Saṃhitā Cikitsāsthāna 4.7.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 11.3.
+</blockquote>
 
-[32]:
 
-Suśruta Saṃhitā Uttaratantra 12.8.
 
-[33]:
 
-Suśruta Saṃhitā Sūtrasthāna 24.3.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Suśruta Saṃhitā Sūtrasthāna 12.3.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.3.
 
-[35]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.3.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 12.10.
+</blockquote>
 
-[36]:
 
-Suśruta Saṃhitā Cikitsāsthāna 3. 27.
 
-[37]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.28-29.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Sūtrasthāna 11.28; 12.14.
+</blockquote>
 
-[38]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.32; 21.141.
 
-[39]:
 
-The hard skin patches in kuṣṭha are required to be scrapped with a hard brush (kūrca) or incised with a sharp scalpel prior to the application of medication; Caraka Saṃhitā Cikitsāsthāna 7.50-51.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 11.28.
+</blockquote>
 
-[40]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.36-37.
 
-[41]:
 
-Caraka Saṃhitā Cikitsāsthāna 21.141.
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Suśruta Saṃhitā Sūtrasthāna 12.14.
+</blockquote>
 
-[42]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.82.
 
-[43]:
 
-Caraka Saṃhitā Cikitsāsthāna 9.77.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Suśruta Saṃhitā Sūtrasthāna 35.32.
+</blockquote>
 
-[44]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.100.
 
-[45]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.102.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Suśruta Saṃhitā Sūtrasthāna 11.29.
+</blockquote>
 
-[46]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.77.
 
-[47]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.88.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Sūtrasthāna 12.7.
+</blockquote>
 
-[48]:
 
-Caraka Saṃhitā Cikitsāsthāna 21.68.
 
-[49]:
 
-Caraka Saṃhitā Cikitsāsthāna 29.35-36.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Sūtrasthāna 12.5.
+</blockquote>
 
-[50]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.53.
 
-[51]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.52
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Suśruta Saṃhitā Sūtrasthāna 11.31.
+</blockquote>
 
-[52]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.39.
 
-[53]:
 
-Caraka Saṃhitā Cikitsāsthāna 8.82.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Sūtrasthāna 14.34.
+</blockquote>
 
-[54]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.101.
 
-[55]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.82.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.27-29.
+</blockquote>
 
-[56]:
 
-Caraka Saṃhitā Cikitsāsthāna 13.184-188.
 
-[57]:
 
-Caraka Saṃhitā Cikitsāsthāna 12.97.
+<blockquote className="ayur-shloka">
+<strong>[29]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.7.
+</blockquote>
 
-[58]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.61.
 
-[59]:
 
-Caraka Saṃhitā Cikitsāsthāna 21.132-136.
+<blockquote className="ayur-shloka">
+<strong>[30]</strong> Suśruta Saṃhitā Cikitsāsthāna 17.16.
+</blockquote>
 
-[60]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.40, 101-104.
 
-[61]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.68.
+<blockquote className="ayur-shloka">
+<strong>[31]</strong> Suśruta Saṃhitā Cikitsāsthāna 4.7.
+</blockquote>
 
-[62]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.35.
 
-[63]:
 
-Caraka Saṃhitā Cikitsāsthāna 7.54.
+<blockquote className="ayur-shloka">
+<strong>[32]</strong> Suśruta Saṃhitā Uttaratantra 12.8.
+</blockquote>
 
-[64]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.20.
 
-[65]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.54.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Sūtrasthāna 24.3.
+</blockquote>
 
-[66]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.44.
 
-[67]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.139.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.3.
+</blockquote>
 
-[68]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.20-26.
 
-[69]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.32.
+<blockquote className="ayur-shloka">
+<strong>[35]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.3.
+</blockquote>
 
-[70]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.56.
 
-[71]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.68.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Suśruta Saṃhitā Cikitsāsthāna 3. 27.
+</blockquote>
 
-[72]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.54.
 
-[73]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.54.
+<blockquote className="ayur-shloka">
+<strong>[37]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.28-29.
+</blockquote>
 
-[74]:
 
-Caraka Saṃhitā Cikitsāsthāna 25.101.
 
-[75]:
 
-Caraka Saṃhitā Cikitsāsthāna 29.38.
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Caraka Saṃhitā Cikitsāsthāna 5.32; 21.141.
+</blockquote>
 
-[76]:
 
-Caraka Saṃhitā Cikitsāsthāna 5.163.
 
-[77]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.35-36.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> The hard skin patches in kuṣṭha are required to be scrapped with a hard brush (kūrca) or incised with a sharp scalpel prior to the application of medication; Caraka Saṃhitā Cikitsāsthāna 7.50-51.
+</blockquote>
 
-[78]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.34.
 
-[79]:
 
-Caraka Saṃhitā Cikitsāsthāna 14.37.
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> Caraka Saṃhitā Cikitsāsthāna 5.36-37.
+</blockquote>
 
-[80]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.3.
 
-[81]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.51.
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Cikitsāsthāna 21.141.
+</blockquote>
 
-[82]:
 
-Suśruta Saṃhitā Cikitsāsthāna 22.52.
 
-[83]:
 
-Corundum is a mineral that is second only in hardness to diamond among natural substances. L. Grande and A. Augustine, Gems and Gemstones: Timeless Natural Beauty of the Mineral World, Chicago, 2009, p. 55.
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Cikitsāsthāna 8.82.
+</blockquote>
 
-[84]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.16.
 
-[85]:
 
-Suśruta Saṃhitā Sūtrasthāna 8.18.
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> Caraka Saṃhitā Cikitsāsthāna 9.77.
+</blockquote>
 
-[86]:
 
-Suśruta Saṃhitā Sūtrasthāna 13.3.
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Cikitsāsthāna 12.100.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Cikitsāsthāna 12.102.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Caraka Saṃhitā Cikitsāsthāna 13.77.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Caraka Saṃhitā Cikitsāsthāna 13.88.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Caraka Saṃhitā Cikitsāsthāna 21.68.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Caraka Saṃhitā Cikitsāsthāna 29.35-36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Caraka Saṃhitā Cikitsāsthāna 7.53.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> Caraka Saṃhitā Cikitsāsthāna 7.52
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> Caraka Saṃhitā Cikitsāsthāna 23.39.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> Caraka Saṃhitā Cikitsāsthāna 8.82.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Caraka Saṃhitā Cikitsāsthāna 12.101.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Caraka Saṃhitā Cikitsāsthāna 12.82.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Caraka Saṃhitā Cikitsāsthāna 13.184-188.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Caraka Saṃhitā Cikitsāsthāna 12.97.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Caraka Saṃhitā Cikitsāsthāna 14.61.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Caraka Saṃhitā Cikitsāsthāna 21.132-136.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Caraka Saṃhitā Cikitsāsthāna 25.40, 101-104.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Caraka Saṃhitā Cikitsāsthāna 26.68.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> Caraka Saṃhitā Cikitsāsthāna 23.35.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> Caraka Saṃhitā Cikitsāsthāna 7.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Caraka Saṃhitā Cikitsāsthāna 25.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> Caraka Saṃhitā Cikitsāsthāna 25.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> Caraka Saṃhitā Cikitsāsthāna 5.44.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Caraka Saṃhitā Cikitsāsthāna 5.139.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[68]</strong> Caraka Saṃhitā Cikitsāsthāna 5.20-26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> Caraka Saṃhitā Cikitsāsthāna 5.32.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> Caraka Saṃhitā Cikitsāsthāna 5.56.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Caraka Saṃhitā Cikitsāsthāna 26.68.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> Caraka Saṃhitā Cikitsāsthāna 25.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[73]</strong> Caraka Saṃhitā Cikitsāsthāna 25.54.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[74]</strong> Caraka Saṃhitā Cikitsāsthāna 25.101.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[75]</strong> Caraka Saṃhitā Cikitsāsthāna 29.38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> Caraka Saṃhitā Cikitsāsthāna 5.163.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> Caraka Saṃhitā Cikitsāsthāna 14.35-36.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> Caraka Saṃhitā Cikitsāsthāna 14.34.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> Caraka Saṃhitā Cikitsāsthāna 14.37.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[80]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.3.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[81]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.51.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[82]</strong> Suśruta Saṃhitā Cikitsāsthāna 22.52.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[83]</strong> Corundum is a mineral that is second only in hardness to diamond among natural substances. L. Grande and A. Augustine, Gems and Gemstones: Timeless Natural Beauty of the Mineral World, Chicago, 2009, p. 55.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[84]</strong> Suśruta Saṃhitā Sūtrasthāna 8.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[85]</strong> Suśruta Saṃhitā Sūtrasthāna 8.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[86]</strong> Suśruta Saṃhitā Sūtrasthāna 13.3.
+</blockquote>
 
 ---
 
-## 92. Concept of infection
+## Concept of infection
 
 Charaka Samhita and Sushruta Samhita
 
@@ -737,89 +1145,141 @@ The agents causing infection are personified as rākṣasas and niśācaras (nig
 
 The terms rākṣasa and niśācara are metaphors for entities which today would be recognised as disease causing micro-organisms. As the ancient physicians knew precious little about their behaviour, these entities became homonymous with malevolent forces that were commonly known. There is no gainsaying that the risk of infection following surgery was immense. Even in late nineteenth century Europe before the development of germ theory by Louis Pasteur, infection was a major contributor to mortality and morbidity rates among surgical patients.
 
-[1]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.22.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Suśruta Saṃhitā Sūtrasthāna 19.22.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 3.69.
 
-[3]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 3.69.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Cikitsāsthāna 15.25.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 25.18-19.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Suśruta Saṃhitā Sūtrasthāna 19.
+</blockquote>
 
-[6]:
 
-Suśruta Saṃhitā Sūtrasthāna 18.29.
 
-[7]:
 
-Suśruta Saṃhitā Sūtrasthāna 18.30.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Cikitsāsthāna 15.25.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 18.3.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 18.44-45.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 25.18-19.
+</blockquote>
 
-[10]:
 
-Suśruta Saṃhitā Sūtrasthāna 18.26.
 
-[11]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.119-120.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Suśruta Saṃhitā Sūtrasthāna 18.29.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Cikitsāsthāna 16.40-41.
 
-[13]:
 
-Suśruta Saṃhitā Cikitsāsthāna 18.5-6.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Suśruta Saṃhitā Sūtrasthāna 18.30.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Cikitsāsthāna 16.41; 18.7.
 
-[15]:
 
-L.M.Singh, K.K. Thakral and P.J. Deshpande, ‘Suśruta’ s Contributions to the Fundamentals of Surgery‘, Indian Journal of History of Science, Vol.5, No.1, 1970, pp.36-50.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 18.3.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1837-38.
 
-[17]:
 
-P. R. Manohar, ‘Accounts of Pathogenic Organisms in the Early Texts of Ayurveda’, in Indian Journal of History of Science, Vol. 47, no.4, December, 2012, pp.545-559.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 18.44-45.
+</blockquote>
 
-[18]:
 
-P. R. Manohar, ‘Accounts of Pathogenic Organisms in the Early Texts of Ayurveda’.
 
-[19]:
 
-Suśruta Saṃhitā Uttaratantra 20.13.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Suśruta Saṃhitā Sūtrasthāna 18.26.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Sūtrasthāna 19.23.
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.119-120.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Cikitsāsthāna 16.40-41.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Cikitsāsthāna 18.5-6.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Cikitsāsthāna 16.41; 18.7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> L.M.Singh, K.K. Thakral and P.J. Deshpande, ‘Suśruta’ s Contributions to the Fundamentals of Surgery‘, Indian Journal of History of Science, Vol.5, No.1, 1970, pp.36-50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Cikitsāsthāna 1837-38.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[17]</strong> P. R. Manohar, ‘Accounts of Pathogenic Organisms in the Early Texts of Ayurveda’, in Indian Journal of History of Science, Vol. 47, no.4, December, 2012, pp.545-559.</div>
+
+
+
+
+<div className="footnote-card"><strong>[18]</strong> P. R. Manohar, ‘Accounts of Pathogenic Organisms in the Early Texts of Ayurveda’.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Uttaratantra 20.13.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Sūtrasthāna 19.23.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -828,10 +1288,6 @@ Suśruta Saṃhitā Sūtrasthāna 19.23.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch28" className="text-emerald-400 hover:underline flex items-center font-medium">Conclusion: Charaka Samhita And Sushruta Samhita Chapter 28 →</a>
 </div>
-
-
-
-
 
 ---
 

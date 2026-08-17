@@ -32,7 +32,11 @@ Chapter 12a - The Pharmaceutics of the Physic nut [danti-dravanti-kalpa]
 
 Synonyms, parts used and Qualities
 
+
+<blockquote className="ayur-shloka">
 3 Danti [dantī] (red physic nut) is also known by its synonyms Udumbaraparni [udumbaraparṇī], Nikumbha and Mukulaka [mukūlaka], Dravanti [dravantī] (physic nut) is known also as Citra [citrā], Nyagrodhi [nyagrodhī] and Mushikahvaya [mūṣikāhvayā]. It is also known as Mushikaparni [mūṣikaparṇī], Upacitra [upacitrā] and Shambari [śambarī], Pratyakshreni [pratyakśreṇī], Sutashreni [sutaśreṇī], Danti [dantī] and Randa [raṇḍā] (or Caṇḍā [caṇḍā]).
+</blockquote>
+
 
 4-5. The wise physician should gather the roots of the red physic nut and the physic nut that are strong and thick and resemble in shape the elephant’s tusk and are dark and coppery in color respectively. They should be smeared with long pepper and honey, covered with earth and sacrificial grass and subjected to sudation procedure. They should then be dried in the sun. Their toxic effects of causing paralysis is destroyed by the fire and the sun.
 
@@ -44,7 +48,11 @@ Various Preparations
 
 9-10. The ghee prepared with the paste and the decoction of the red physic nut and the physic nut along with the juice of the deca-radices should be taken in condition of herpes, boils and spreading affections and burning. Oil similarly prepared should be taken in urinary anomalies, Gulma, misperistalsis and provocation of Kapha and Vata. The tetrad of unctuous substances combined together and prepared similarly should be taken in conditions of stasis of feces, semen and flatus and in disorders of Vata.
 
+
+<blockquote className="ayur-shloka">
 11. The linctus prepared for the purpose of purgation, by mixing gur, honey and ghee in the juice of the red physic nut and Ajashringi [ajaśṛṅgī] is curative of burning, excessive, heat; and urinary anomalies.
+</blockquote>
+
 
 11½. In dipsosis of the Vata type, and in fever of the Pitta type, the linctus prepared with wild carrot will serve as a good purgative.
 
@@ -74,7 +82,11 @@ Various Preparations
 
 32.A medicated wine prepared of gur and the juice of black turpeth and red physic nut and physic nut, in a pot lined with long pepper, emetic nut and white flowered leadwort, is curative of morbid Vata and Kapha, splenic disorders, anemia and abdominal diseases.
 
+
+<blockquote className="ayur-shloka">
 33. A medicated wine of gur may likewise be prepared with the decoction of red physic nut and physic nut and wild carrot, or with the two former drugs and Ajashringi [ajaśṛṅgī]. It acts as an easy purgative.
+</blockquote>
+
 
 34 The medicated wine prepared from the powder of the decoction of the red physic nut and physic nut mixed with black-gram water and the solution of yeast, is curative of morbid Kapha; Gulma, weakness of the gastric fire and rigidity of the sides and waist.
 

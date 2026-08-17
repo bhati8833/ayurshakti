@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Symptoms and Treatment of thirst (Trishna) within Sushruta Samhita Uttara Tantra. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)
+## Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -93,9 +93,10 @@ Vomiting should be induced in these cases with the decoction of such drugs as ar
 
 Thus ends the forty-eighth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of thirst.
 
-[1]:
 
-The five Panca-mula groups are
+<div className="footnote-card"><strong>[1]</strong> The five Panca-mula groups are</div>
+
+
 
 The major Panca-mula,
 
@@ -109,25 +110,35 @@ The Trina-Panca-mula .
 
 See Chap. XXXVIII, Sutra sthāna.
 
-[2]:
 
-The Pitta-subduing groups are Utpalādi, Sārivādi and Kākolyādi groups.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> The Pitta-subduing groups are Utpalādi, Sārivādi and Kākolyādi groups.
+</blockquote>
 
-[3]:
 
-In Place of “kaṇṭakapañcamūlī” etc.”, some read “kaṇṭakapañcakola” etc., i.e. Kantaka (Gokshura) and the drugs included in the group known as “pañcakola,” viz. Pippali, Pippali-mula, Cavya, Citraka and Nāgara. The commentator Kārtika Kundu supports this:—Dallana. For Kantaka—Panca-mula, see Chap, XXXVIII—Sutra-Sthāna.
 
-[4]:
 
-In places of “kṣīraghṛtaṃ” and “madhukodakaṃ” some read “kṣīracalaṃ” (milk mixed with water), “māṣodakaṃ” (soup of Māsha pulse) and “madhūdakaṃ” (honey mixed with water) respectively.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> In Place of “kaṇṭakapañcamūlī” etc.”, some read “kaṇṭakapañcakola” etc., i.e. Kantaka (Gokshura) and the drugs included in the group known as “pañcakola,” viz. Pippali, Pippali-mula, Cavya, Citraka and Nāgara. The commentator Kārtika Kundu supports this:—Dallana. For Kantaka—Panca-mula, see Chap, XXXVIII—Sutra-Sthāna.
+</blockquote>
 
-[5]:
 
-Warm Yavāgu should be prescribed in cases where Vāyu pre-ponderates and cold Mantha in cases where Pitta preponderates.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> In places of “kṣīraghṛtaṃ” and “madhukodakaṃ” some read “kṣīracalaṃ” (milk mixed with water), “māṣodakaṃ” (soup of Māsha pulse) and “madhūdakaṃ” (honey mixed with water) respectively.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Warm Yavāgu should be prescribed in cases where Vāyu pre-ponderates and cold Mantha in cases where Pitta preponderates.
+</blockquote>
 
 ---
 
-## 52. Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)
+## Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -377,17 +388,22 @@ A voracious eating in an impaired state of digestive fire, aggravate the local V
 
 Thus ends the forty-second chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the medical treatment of Gulma.
 
-[1]:
 
-This Raktaja Gulma is peculiar to the females only. But some authorities are of opinion that a kind of Raktaja (blood-origined) Gulma due to the vitiated blood of the organism may be possible both in the males and females.
+<div className="footnote-card"><strong>[1]</strong> This Raktaja Gulma is peculiar to the females only. But some authorities are of opinion that a kind of Raktaja (blood-origined) Gulma due to the vitiated blood of the organism may be possible both in the males and females.</div>
 
-[2]:
 
-Dallana recommends the use of Vāyu subduing, Pitta-subduing and Kapha-subduing drugs as Kalka in the preparation of these three Vastis respectively.
 
-[3]:
 
-The six drugs to be used as Kalka are
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Dallana recommends the use of Vāyu subduing, Pitta-subduing and Kapha-subduing drugs as Kalka in the preparation of these three Vastis respectively.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[3]</strong> The six drugs to be used as Kalka are</div>
+
+
 
 Pippali,
 
@@ -403,45 +419,62 @@ and Yava-kshāra
 
 taken one Pala of each.
 
-[4]:
 
-According to Dallara, Sarjikā-Kshāra, Kushtha and Yava-Kshāra with oil would form the 1st compound and the Ketakā-Kshāra with oil would form a separate compound.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> According to Dallara, Sarjikā-Kshāra, Kushtha and Yava-Kshāra with oil would form the 1st compound and the Ketakā-Kshāra with oil would form a separate compound.
+</blockquote>
 
-[5]:
 
-Udarāmaya may mean either indigestion or ascites. Anilāmaya (Vāta-vyādhi) is a variant addopted by Dallana and is undoubtedly preferable since there are several medicated salts e.g., Patra-Lavana, Kānda-Lavana, in the treatment of Vāta-Vyādhi. See Chap. IV, Chikitsita Sthāna.
 
-[6]:
 
-According to some ‘Sāmudra’ means Sāmudra-salt and others, it means Samudra-Phena.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Udarāmaya may mean either indigestion or ascites. Anilāmaya (Vāta-vyādhi) is a variant addopted by Dallana and is undoubtedly preferable since there are several medicated salts e.g., Patra-Lavana, Kānda-Lavana, in the treatment of Vāta-Vyādhi. See Chap. IV, Chikitsita Sthāna.
+</blockquote>
 
-[7]:
 
-According to some commentators the first two compounds should be taken with water.
 
-[8]:
 
-Kāla Havana generally means ‘Vit-salt’, but here, according to Dallana, it means ‘Snuvarchala-salt’.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> According to some ‘Sāmudra’ means Sāmudra-salt and others, it means Samudra-Phena.
+</blockquote>
 
-[9]:
 
-Some commentators, according to Dallana, take Pippali to mean seeds of Madana-phala.
 
-[10]:
 
-The total weight of the drugs should be 8 seers, according to Dallana. According to others, however, it should be 12 seers. The preparation should be used in any shape both internally and externally e.g., bath, washings, etc.
+<div className="footnote-card"><strong>[7]</strong> According to some commentators the first two compounds should be taken with water.</div>
 
-[11]:
 
-Vijapuraka-sāra, according to Dallana, means the fruit of Vija-puraka. Vijaka-sāra (the pith of Vijaka) is, however, a variant.
 
-[12]:
 
-Hingu, Sauvarchala and Vit salt should be used as an after-throw.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Kāla Havana generally means ‘Vit-salt’, but here, according to Dallana, it means ‘Snuvarchala-salt’.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Some commentators, according to Dallana, take Pippali to mean seeds of Madana-phala.</div>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> The total weight of the drugs should be 8 seers, according to Dallana. According to others, however, it should be 12 seers. The preparation should be used in any shape both internally and externally e.g., bath, washings, etc.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Vijapuraka-sāra, according to Dallana, means the fruit of Vija-puraka. Vijaka-sāra (the pith of Vijaka) is, however, a variant.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[12]</strong> Hingu, Sauvarchala and Vit salt should be used as an after-throw.</div>
 
 ---
 
-## 53. Chapter XLIX - Symptoms and Treatment of Vomiting (Chardi)
+## Chapter XLIX - Symptoms and Treatment of Vomiting (Chardi)
 
 This current book, the Uttara-tantra (english translation) is the supplementary part of the Sushrutasamhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc.
 
@@ -531,29 +564,38 @@ The meat of any Jangala animal and palatable cordials and victuals of various pl
 
 Thus ends the forty-ninth chapter of the Uttara-Tantra in the Sushruta Samhita which deals with the (symptoms and) treatment of Vomiting.
 
-[1]:
 
-The supervening symptoms are:—Cough, asthma, fever, hiccough, thirst, mental dejection, heart-disease and Tamaka-Śvāsa.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The supervening symptoms are:—Cough, asthma, fever, hiccough, thirst, mental dejection, heart-disease and Tamaka-Śvāsa.
+</blockquote>
 
-[2]:
 
-“kṣīraghṛtaṃ” been explained by some commentators as milk mixed with clarified butter. Chakradatta reads “kṣīrodakaṃ” milk and water in place of “kṣīradhṛtaṃ”.
 
-[3]:
 
-“Madhurasā” may mean (1) Drakshā (2) Gāmbhāri fruit (3) Murvā or (4) Yashti-madhu. The practice is to prescribe Drākshā.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> “kṣīraghṛtaṃ” been explained by some commentators as milk mixed with clarified butter. Chakradatta reads “kṣīrodakaṃ” milk and water in place of “kṣīradhṛtaṃ”.
+</blockquote>
 
-[4]:
 
-The practice is to take white Sandal in this case.
 
-[5]:
 
-Vāgbhata prescribes the decoction alone as a separate remedy.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> “Madhurasā” may mean (1) Drakshā (2) Gāmbhāri fruit (3) Murvā or (4) Yashti-madhu. The practice is to prescribe Drākshā.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> The practice is to take white Sandal in this case.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Vāgbhata prescribes the decoction alone as a separate remedy.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -562,10 +604,6 @@ Vāgbhata prescribes the decoction alone as a separate remedy.
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics-ch18" className="text-emerald-400 hover:underline flex items-center font-medium">Symptoms and Treatment of Hiccough (Hicca): Sushruta Samhita Uttara Tantra Chapter 18 →</a>
 </div>
-
-
-
-
 
 ---
 

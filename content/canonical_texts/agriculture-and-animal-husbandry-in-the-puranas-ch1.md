@@ -24,11 +24,7 @@ description: "study on agriculture and animal husbandry in the Puranas—a categ
 
 ---
 
-## 1. Part 1 - The Meaning and Scope of the word Purāṇa
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Meaning and Scope of the word Purana’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 1 - The Meaning and Scope of the word Purāṇa
 
 Part 1 - The Meaning and Scope of the word Purāṇa
 
@@ -96,110 +92,156 @@ The Padma Purāṇa says that it is called Purāṇa because it is interested in
 
 The Purāṇas have been utilized through centuries not only for educating the mass mind and infusing it with the nobler ideas of life but also for tactfully solving the religious, social and economic problems which were created in ancient India by the rise of various religious movements and the repeated invasions made by foreign races.[20] These works afford us, more than other works of the time a great insight into all phases and aspects of Hinduism.[21] For the modern Hinduism, the Purāṇas are religious treatises of divine origin. Hence, they have been a great source of inspiration to the mass-mind, especially, on religious matter.[22] That is why, the Purāṇas ought to have more careful study than has previously been dedicated to them.
 
-[1]:
 
-Vide, Dikshitar, V.R.R., The Purāṇa Index, Introduction, p.XXX
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Vide, Dikshitar, V.R.R., The Purāṇa Index, Introduction, p.XXX
+</blockquote>
 
-[2]:
 
-Hazra, R.C., Studies in the Purāṇic Records on Hindu Rites and Customs, p.1
 
-[3]:
 
-De, S. K., et al (ed.), The Cultural Heritage of India, volume 2, p. 240
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Hazra, R.C., Studies in the Purāṇic Records on Hindu Rites and Customs, p.1
+</blockquote>
 
-[4]:
 
-Vide, Winternitz, M., A History of Indian Literature, volume 1, p. 496
 
-[5]:
 
-purā bhavamiti and purā nīyate iti/ Śabdakalpadruma, volume 3, p. 179;Vācaspatyam, volume 5, p. 4369
+<div className="footnote-card"><strong>[3]</strong> De, S. K., et al (ed.), The Cultural Heritage of India, volume 2, p. 240</div>
 
-[6]:
 
-Nirukta , 3.19
 
-[7]:
 
-Sāyaṇācārya, Ṛgveda Saṃhitā ,9.99.4
+<div className="footnote-card"><strong>[4]</strong> Vide, Winternitz, M., A History of Indian Literature, volume 1, p. 496</div>
 
-[8]:
 
-Vāyu Purāṇa , 1.203
 
-[9]:
 
-Vide, Winternitz, M., op.cit., volume 1, p. 495
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> purā bhavamiti and purā nīyate iti/ Śabdakalpadruma, volume 3, p. 179;Vācaspatyam, volume 5, p. 4369
+</blockquote>
 
-[10]:
 
-yo vidyāccaturo vedānsāṅgopaniṣado dvijaḥ/
+
+
+<div className="footnote-card"><strong>[6]</strong> Nirukta , 3.19</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Sāyaṇācārya, Ṛgveda Saṃhitā ,9.99.4
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Vāyu Purāṇa , 1.203
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[9]</strong> Vide, Winternitz, M., op.cit., volume 1, p. 495</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> yo vidyāccaturo vedānsāṅgopaniṣado dvijaḥ/
 na cetpurāṇaṃ saṃvidyānnaiva sa syādvicakṣaṇaḥ//
 itihāsapurāṇābhyāṃ vedaṃ samupabṛṃhayet/
 vibhetyalpaśrutātvedo māmayaṃ prahariṣyati// Vāyu Purāṇa , 1.200-201; Padma Purāṇa , 1.2.50-51
+</blockquote>
 
-[11]:
 
-Skanda Purāṇa , 5.3.1.18;
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Skanda Purāṇa , 5.3.1.18;
 itihāsapurāṇāni pañcamaṃ vedamīśvaraḥ// cf., Bhāgavata Purāṇa , 3.12.40
+</blockquote>
 
-[12]:
 
-Chāndogya Upaniṣad , 7.1.2
 
-[13]:
 
-vedavanniścalaṃ manye purāṇaṃ vai dvijottamāḥ/
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Chāndogya Upaniṣad , 7.1.2
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> vedavanniścalaṃ manye purāṇaṃ vai dvijottamāḥ/
 vedāḥ pratiṣṭhitāḥ sarve purāṇe nātra saṃśayaḥ//
 vibhetyalpaśrutātvedo māmayaṃ cālayiṣyati/
 itihāsapurāṇaistu niścalo’yaṃ kṛtaḥ purā//
 yanna dṛṣṭaṃ hi vedeṣu na dṛṣṭaṃ smṛtiṣu dvijāḥ/
 ubhayoryanna dṛṣṭaṃ ca tatpurāṇeṣu gīyate// Skanda Purāṇa ,7.1.2.90-92
+</blockquote>
 
-[14]:
 
-madhvāhutayo ha vā etā devānāṃ yadanuśāsanāni vidyā vākovākyamitihāsapurāṇaṃ gāthā nārāśaṃsyaḥ /sa ya evaṃ vidvānanuśāsanāni vidyā vākovākyamitihāsapurāṇaṃ gāthā nārāśaṃsīriti aharaḥ svādhyāyamadhīte// Śatapatha Brāhmaṇa , 11.5.6.8
 
-[15]:
 
-yasmātpurā hyabhūccaitatpurāṇaṃ tena tat smṛtam / Brahmāṇḍa Purāṇa , 1.1.173
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> madhvāhutayo ha vā etā devānāṃ yadanuśāsanāni vidyā vākovākyamitihāsapurāṇaṃ gāthā nārāśaṃsyaḥ /sa ya evaṃ vidvānanuśāsanāni vidyā vākovākyamitihāsapurāṇaṃ gāthā nārāśaṃsīriti aharaḥ svādhyāyamadhīte// Śatapatha Brāhmaṇa , 11.5.6.8
+</blockquote>
 
-[16]:
 
-Śabdakalpadruma, volume 3, p. 190
 
-[17]:
 
-Matsya Purāṇa ,53.72
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> yasmātpurā hyabhūccaitatpurāṇaṃ tena tat smṛtam / Brahmāṇḍa Purāṇa , 1.1.173
+</blockquote>
 
-[18]:
 
-purā paramparāṃ vakti purāṇaṃ tena vai smṛtam// Padma Purāṇa , 1.2.53
 
-[19]:
 
-purāṇe pratanapratnapurātanacirantanāḥ/ Amarakoṣa, 3. 1.75
+<div className="footnote-card"><strong>[16]</strong> Śabdakalpadruma, volume 3, p. 190</div>
 
-[20]:
 
-De, S.K., et al (ed.), op.cit., volume 2, p. 270
 
-[21]:
 
-De, S.K., et al (ed.), loc.cit.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Matsya Purāṇa ,53.72
+</blockquote>
 
-[22]:
 
-Gyani, S.D., Agni-Purāṇa:A Study, p. 33
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> purā paramparāṃ vakti purāṇaṃ tena vai smṛtam// Padma Purāṇa , 1.2.53
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> purāṇe pratanapratnapurātanacirantanāḥ/ Amarakoṣa, 3. 1.75
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[20]</strong> De, S.K., et al (ed.), op.cit., volume 2, p. 270</div>
+
+
+
+
+<div className="footnote-card"><strong>[21]</strong> De, S.K., et al (ed.), loc.cit.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Gyani, S.D., Agni-Purāṇa:A Study, p. 33
+</blockquote>
 
 ---
 
-## 4. Part 2 - Characteristics of the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Characteristics of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 2 - Characteristics of the Purāṇas
 
 Part 2 - Characteristics of the Purāṇas
 
@@ -334,118 +376,175 @@ the Garuḍa Purāṇa being the marrow and
 
 the Brahmāṇḍa Purāṇa the bones.
 
-[1]:
 
-Matsya Purāṇa , 53.64;
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Matsya Purāṇa , 53.64;
 sargaśca pratisargaśca vaṃśo manvantarāṇi ca/
 vaṃśyānucaritaṃ caiva purāṇaṃ pañcalakṣaṇam// Vāyu Purāṇa , 4.11
+</blockquote>
 
-[2]:
 
-brahmaviṣṇvarkarudrāṇāṃ māhātmyaṃ bhuvanasya ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> brahmaviṣṇvarkarudrāṇāṃ māhātmyaṃ bhuvanasya ca/
 sasaṃhārapradānāṃ ca purāṇe pañcavarṇake// Matsya Purāṇa , 53.66
+</blockquote>
 
-[3]:
 
-dharmaścārthaśca kāmaśca mokṣaścaiva vātra kīrtyate/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> dharmaścārthaśca kāmaśca mokṣaścaiva vātra kīrtyate/
 sarveṣvapi purāṇeṣu tadviruddhaṃ ca yatphalam// Ibid., 53.67
+</blockquote>
 
-[4]:
 
-purāṇaṃ pañcalakṣaṇam / Amarakoṣa,1.6.5
 
-[5]:
 
-sargasya pratisargasya vaṃśamanvantarasya ca/
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> purāṇaṃ pañcalakṣaṇam / Amarakoṣa,1.6.5
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> sargasya pratisargasya vaṃśamanvantarasya ca/
 vaṃśānucaritādeśca matsyakūrmādirūpadhṛk// Agni Purāṇa , 1.14
+</blockquote>
 
-[6]:
 
-Śiva Purāṇa ,5.1,37; Brahmāṇḍa Purāṇa , l. 1.37-38; Viṣṇu Purāṇa ,3.6,25; Skanda Purāṇa ,7.2.84; Brahmavaivarta Purāṇa ,4.133.6; Kūrma Purāṇa ,1.1.12
 
-[7]:
 
-purāṇalakṣaṇaṃ brahman brahmarṣibhirnirūpitam/
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Śiva Purāṇa ,5.1,37; Brahmāṇḍa Purāṇa , l. 1.37-38; Viṣṇu Purāṇa ,3.6,25; Skanda Purāṇa ,7.2.84; Brahmavaivarta Purāṇa ,4.133.6; Kūrma Purāṇa ,1.1.12
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> purāṇalakṣaṇaṃ brahman brahmarṣibhirnirūpitam/
 śṛṇuṣva buddhimāśritya vedaśāstrānusārataḥ//
 sargo’syātha visargaśca vṛttī rakṣāntarāṇi ca/
 vaṃśo vaṃśyānucaritaṃ saṃsthā hetorapāśrayaḥ//
 daśabhirlakṣaṇairyuktaṃ purāṇaṃ tadvido viduḥ/
 kecitpañcavidhaṃ brahmanmahadalpavyavasthayā// Bhāgavata Purāṇa , 12.7.8-10
+</blockquote>
 
-[8]:
 
-avyākṛta guṇakṣobhānmahatastrivṛto’hamaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> avyākṛta guṇakṣobhānmahatastrivṛto’hamaḥ/
 bhūtasūkṣmendriyārthānāṃ saṃbhavaḥ sarga ucyate// Ibid., 12.7.11
+</blockquote>
 
-[9]:
 
-puruṣānugṛhī tānāmeteṣāṃ vāsanāmayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> puruṣānugṛhī tānāmeteṣāṃ vāsanāmayaḥ/
 visargo’yaṃ samāhāro bījādbījaṃ carācaram// Ibid., 12.7.12
+</blockquote>
 
-[10]:
 
-vṛttibhūtāni bhūtānāṃ carāṇāmacarāṇi ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> vṛttibhūtāni bhūtānāṃ carāṇāmacarāṇi ca/
 kṛtā svena nṛṇāṃ tatra kāmāccodanayāpi vā// Ibid., 12.7.13
+</blockquote>
 
-[11]:
 
-rakṣā’cyutāvatārehā viśvasyānu yuge yuge/
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> rakṣā’cyutāvatārehā viśvasyānu yuge yuge/
 tiryaṅmartyarṣideveṣu hanyante yaistrayīdviṣaḥ// Ibid., 12.7.14
+</blockquote>
 
-[12]:
 
-heturjīvo’sya sargāderavidyākarmakārakaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> heturjīvo’sya sargāderavidyākarmakārakaḥ/
 yaṃ vānuśayinaṃ prāhuravyākṛtamutāpare// Ibid., 12.7.18
+</blockquote>
 
-[13]:
 
-manvantaraṃ manurdevā manuputrāḥ sureśvaraḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> manvantaraṃ manurdevā manuputrāḥ sureśvaraḥ/
 ṛṣayo’ṃśāvatāraśca hareḥ ṣaḍvidhamucyate// Ibid., 12.7.15
+</blockquote>
 
-[14]:
 
-rājñāṃ brahmaprasūtānāṃ vaṃśastraikāliko’nvayaḥ/ Ibid., 12.7.16
 
-[15]:
 
-vaṃśyānucaritaṃ teṣāṃ vṛttaṃ vaṃśadharāśca ye// Ibid.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> rājñāṃ brahmaprasūtānāṃ vaṃśastraikāliko’nvayaḥ/ Ibid., 12.7.16
+</blockquote>
 
-[16]:
 
-naimittikaḥ prākṛtiko nitya ātyantiko layaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> vaṃśyānucaritaṃ teṣāṃ vṛttaṃ vaṃśadharāśca ye// Ibid.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> naimittikaḥ prākṛtiko nitya ātyantiko layaḥ/
 saṃstheti kavibhiḥ proktā caturdhāsya svabhāvataḥ// Ibid., 12.7.17
+</blockquote>
 
-[17]:
 
-vyatirekānvayo yasya jāgratsvapnasuṣuptiṣu/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> vyatirekānvayo yasya jāgratsvapnasuṣuptiṣu/
 māyāmayeṣu tadbrahma jīvavṛttiṣvapāśrayaḥ// Ibid., 12.7.19
+</blockquote>
 
-[18]:
 
-Brahmavaivarta Purāṇa , 4.133.8-9
 
-[19]:
 
-daśādhikaṃ lakṣaṇaṃ ca mahatāṃ parikīrttitam// Ibid., 4.133.10
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Brahmavaivarta Purāṇa , 4.133.8-9
+</blockquote>
 
-[20]:
 
-sargaśca pratisargaśca vaṃśo manvantarāṇi ca/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> daśādhikaṃ lakṣaṇaṃ ca mahatāṃ parikīrttitam// Ibid., 4.133.10
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> sargaśca pratisargaśca vaṃśo manvantarāṇi ca/
 vaṃśānucaritaṃ vipra purāṇaṃ pañcalakṣaṇam//
 etadupapurāṇānāṃ lakṣaṇaṃ ca vidurbudhāḥ/
 mahatāṃ ca purāṇānāṃ lakṣaṇaṃ kathayāmi te// Ibid., 4.133.6-7
+</blockquote>
 
-[21]:
 
-Padma Purāṇa , 3.62.2-8
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> Padma Purāṇa , 3.62.2-8
+</blockquote>
 
 ---
 
-## 5. Part 3 - Authorship of the Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Authorship of the Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 3 - Authorship of the Purāṇas
 
 Part 3 - Authorship of the Purāṇas
 
@@ -459,13 +558,7 @@ Romaharṣaṇa made that Purāṇa-Saṃhitā into six versions and taught the
 
 Ātreya Sumati,
 
-Kāśyapa Akṛtavraṇa,
-
-Bharadvāja Agnivarcas,
-
-Vasiṣṭha Mitrayu,
-
-Sāvarṇi Somadatti, and
+Kāśyapa Akṛtavraṇa,, Bharadvāja Agnivarcas,, Vasiṣṭha Mitrayu,, Sāvarṇi Somadatti, and
 
 Suśarman Śāṃśapāyana.
 
@@ -475,102 +568,138 @@ After the composition of the original Purāṇa, by Vyāsa, his disciple Romahar
 
 The Bhāgavata Purāṇa mentions six persons to be traditionally noted as the teachers(paurāṇika) of the Purāṇas. They are—
 
-Trayyāruṇi,
-
-Kaśyapa,
-
-Sāvarṇi,
-
-Akṛtavraṇa,
-
-Vaiśampāyana and
+Trayyāruṇi,, Kaśyapa,, Sāvarṇi,, Akṛtavraṇa,, Vaiśampāyana and
 
 Hārita.[16]
 
-[1]:
 
-Matsya Purāṇa , 50.73
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Matsya Purāṇa , 50.73
+</blockquote>
 
-[2]:
 
-aṣṭādaśa purāṇāni kṛtvā satyavatīsutaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> aṣṭādaśa purāṇāni kṛtvā satyavatīsutaḥ/
 bhāratākhyānamakhilaṃ cakre tadupabṛṃhitam/
 lakṣeṇaikena yatproktaṃ vedārthaparibṛṃhitam// Ibid., 53.69
+</blockquote>
 
-[3]:
 
-parāśarasuto vyāsaḥ kṛtvā paurāṇikīṃ kathām/
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> parāśarasuto vyāsaḥ kṛtvā paurāṇikīṃ kathām/
 sarvavedārthaghaṭitāṃ cintayāmāsa cetasi// Vāyu Purāṇa , 104.20
+</blockquote>
 
-[4]:
 
-purāṇamekamevāsīttadā kalpāntare’nagha/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> purāṇamekamevāsīttadā kalpāntare’nagha/
 trivargasādhanaṃ puṇyaṃ śatakoṭipravistaram// Matsya Purāṇa , 53.4
+</blockquote>
 
-[5]:
 
-purāṇamekamevāsītsarvakalpeṣu mānada// Nāradīya Purāṇa , 1.92.22
 
-[6]:
 
-vyāsarūpamahaṃ kṛtvā saṃharāmi yuge yuge// Matsya Purāṇa , 53.9
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> purāṇamekamevāsītsarvakalpeṣu mānada// Nāradīya Purāṇa , 1.92.22
+</blockquote>
 
-[7]:
 
-caturlakṣapramāṇena dvāpare dvāpare sadā//
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> vyāsarūpamahaṃ kṛtvā saṃharāmi yuge yuge// Matsya Purāṇa , 53.9
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> caturlakṣapramāṇena dvāpare dvāpare sadā//
 tathā’ṣṭādaśadhā kṛtvā bhūrloke’sminprakāśyate/
 adyāpi devaloke’smin śatakoṭipravistaram// Ibid., 53.9-10
+</blockquote>
 
-[8]:
 
-Vāyu Purāṇa , 60.12-16
 
-[9]:
 
-Brahmāṇḍa Purāṇa ,2.34.12-16
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Vāyu Purāṇa , 60.12-16
+</blockquote>
 
-[10]:
 
-Viṣṇu Purāṇa , 3.4,7-10
 
-[11]:
 
-Brahmāṇḍa Purāṇa ,2.34.21;
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Brahmāṇḍa Purāṇa ,2.34.12-16
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Viṣṇu Purāṇa , 3.4,7-10
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Brahmāṇḍa Purāṇa ,2.34.21;
 ākhyānaiścāpyupākhyānairgāthābhiḥ kulakarmabhiḥ/
 purāṇasaṃhitāṃ cakre purāṇārthaviśāradaḥ// Vāyu Purāṇa , 60.21;
 ākhyānaiścāpyupākhyānairgāthābhiḥ kalpasiddhibhiḥ/
 purāṇasaṃhitāṃ cakre purāṇārthaviśāradaḥ// Viṣṇu Purāṇa ,3.6.15
+</blockquote>
 
-[12]:
 
-Brahmāṇḍa Purāṇa ,2.34.16;
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Brahmāṇḍa Purāṇa ,2.34.16;
 itihāsapurāṇasya vaktāraṃ samyageva hi/
 māṃ caiva pratijagrāha bhagavānīśvaraḥ prabhuḥ// Vāyu Purāṇa , 60.16;
 romaharṣaṇanāmānaṃ mahābuddhi mahāmuniḥ/
 sūtaṃ jagrāha śiṣyaṃ sa itihāsa-purāṇayoḥ// Viṣṇu Purāṇa ,3.4.10;
 prakhyāto vyāsaśiṣyo’bhūt sūto vai romaharṣaṇaḥ/
 purāṇasaṃhitāṃ tasmai dadau vyāsau mahāmuniḥ// Viṣṇu Purāṇa ,3.6.16
+</blockquote>
 
-[13]:
 
-Brahmāṇḍa Purāṇa , 2.35.63-70; Vāyu Purāṇa , 61. 55-62; Viṣṇu Purāṇa , 3.6. 17-19; Agni Purāṇa , 270.10-13
 
-[14]:
 
-Brahmāṇḍa Purāṇa , 4. 4, 67; Padma Purāṇa , 1.1. 2-10
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Brahmāṇḍa Purāṇa , 2.35.63-70; Vāyu Purāṇa , 61. 55-62; Viṣṇu Purāṇa , 3.6. 17-19; Agni Purāṇa , 270.10-13
+</blockquote>
 
-[15]:
 
-Padma Purāṇa , 1.1.14 f; Brahmavaivarta Purāṇa , 1. 1, 2f
 
-[16]:
 
-trayyāruṇiḥ kaśyapaśca sāvarṇirakṛtavraṇaḥ/
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Brahmāṇḍa Purāṇa , 4. 4, 67; Padma Purāṇa , 1.1. 2-10
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Padma Purāṇa , 1.1.14 f; Brahmavaivarta Purāṇa , 1. 1, 2f
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> trayyāruṇiḥ kaśyapaśca sāvarṇirakṛtavraṇaḥ/
 vaiśampāyanahārītau ṣaḍvai paurāṇikā ime// Bhāgavata Purāṇa , 12.7.5
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -579,10 +708,6 @@ vaiśampāyanahārītau ṣaḍvai paurāṇikā ime// Bhāgavata Purāṇa , 12
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Date of the Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -30,7 +30,11 @@ Chapter 11 - The Three Pursuits (eshana) of Man
 
 2. Thus declared the worshipful Atreya.
 
+
+<blockquote className="ayur-shloka">
 3. Three indeed are the pursuits (eshana) that should be followed by every man who is possessed of unimpaired intelligence, understanding, energy and enterprise and who wishes to secure his good, both in this world and in the other. They are the pursuit of Life (Pranaishana—prāṇaiṣaṇā), the pursuit of Wealth (Dhanaishana—dhanaiṣaṇā) and the pursuit of the Other World (Paralokaishana—paralokaiṣaṇā).
+</blockquote>
+
 
 The Pursuit of Life
 

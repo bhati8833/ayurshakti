@@ -114,7 +114,11 @@ Thus ends the Twenty-second Chapter of the Chikitsita-Sthana in the Sushruta Sam
 
 [1]:
 
+
+<blockquote className="ayur-shloka">
 Vagbhata reads “madhuciṣṭaṃ (madhṛciṣṭaṃ?)” i.e., wax, in place of “shrīveṣṭaka |”
+</blockquote>
+
 
 [2]:
 
@@ -162,6 +166,10 @@ The “purifying remedies” here means Shiro-virecana, fumigation, plasters and
 
 [13]:
 
+
+<blockquote className="ayur-shloka">
 Dallana and Nishchala explain the term “cūrṇairlavaṇaiḥ” as the powders of the five officinal kinds of salt. Shiva-dasa, however, holds that powdered Saindhava salt only should be used. Vrinda reads “cūṇairlavaṇaiḥ” and the commentator Shri-kantha Datta explains it to mean either the powders of “lavaṇa”, i.e., Jyotishmati or those of “lavaṇa” i.e., the five officinal kinds of salt.—Ed.
+</blockquote>
+
 
 ---

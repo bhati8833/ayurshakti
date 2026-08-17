@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Examination of Diseases within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 35. 7. Examination of Diseases
+## 7. Examination of Diseases
 
 Physician as depicted in Manasollasa
 
@@ -41,8 +41,6 @@ For proper treatment of a disease, it is essential to determine the exact nature
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -50,10 +48,6 @@ For proper treatment of a disease, it is essential to determine the exact nature
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch33" className="text-emerald-400 hover:underline flex items-center font-medium">4. Qualities of Physicians (in Ayurveda and Manasollasa): Physician As Depicted In Manasollasa Chapter 33 →</a>
 </div>
-
-
-
-
 
 ---
 

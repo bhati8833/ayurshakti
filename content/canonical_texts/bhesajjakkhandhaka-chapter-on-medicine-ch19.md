@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dermatology (c): Wounds within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 62. Dermatology (c): Wounds
+## Dermatology (c): Wounds
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -36,33 +36,43 @@ In modern medicine, a wound is the result of a “loss of anatomic structure in 
 
 Wound management is described in the accounts on the treatment of carbuncles, but there is also additional information pertaining to wound care found in the Dharmaguptaka Bhaiṣajyaskandhaka. Various measures for treating wounds had already been developed in ancient India, as shown in the classical Āyurvedic texts. In modern medicine, knowledge of wounds and their care is well advanced especially in the disciplines of pathology and surgery.
 
-[1]:
 
-瘡, in classical Chinese, means a wound or sore.
+<div className="footnote-card"><strong>[1]</strong> 瘡, in classical Chinese, means a wound or sore.</div>
 
-[2]:
 
-This may be performed for the purpose of ripening the wound or cauterising it.
 
-[3]:
 
-Taishō Tripiṭaka 1428. 870c4-5: “爾時比丘患瘡，須唾塗以銚底熨。比丘白佛，佛言：「聽用。」”
+<div className="footnote-card"><strong>[2]</strong> This may be performed for the purpose of ripening the wound or cauterising it.</div>
 
-[4]:
 
-It seems to mean that a wound has become an abscess, which needs to be cut open.
 
-[5]:
 
-Taishō Tripiṭaka 1428. 877a19-25: “時有比丘患瘡，醫教作塗瘡藥，佛言：「聽作。」彼瘡熟，應以刀破著藥。「自今已去，聽以刀破瘡。患瘡臭應洗，若以根湯、莖葉華菓湯，及小便洗。」時以手洗患痛。「以鳥毛洗。若藥汁流棄，以物擁障四邊。若患燥以油塗，若上棄以物覆，若瘡臭香塗。」”
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1428. 870c4-5: “爾時比丘患瘡，須唾塗以銚底熨。比丘白佛，佛言：「聽用。」”
+</blockquote>
 
-[6]:
 
-These mearures are general treatments for any type of wound. In addition, there are chapters in the Suśruta Saṃhitā and the Aṣṭāṅga Hṛdaya Saṃhitā especially dealing with treatments for traumatic wounds (Suśruta Saṃhitā Cikitsāsthāna 2; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 26).
+
+
+<div className="footnote-card"><strong>[4]</strong> It seems to mean that a wound has become an abscess, which needs to be cut open.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1428. 877a19-25: “時有比丘患瘡，醫教作塗瘡藥，佛言：「聽作。」彼瘡熟，應以刀破著藥。「自今已去，聽以刀破瘡。患瘡臭應洗，若以根湯、莖葉華菓湯，及小便洗。」時以手洗患痛。「以鳥毛洗。若藥汁流棄，以物擁障四邊。若患燥以油塗，若上棄以物覆，若瘡臭香塗。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> These mearures are general treatments for any type of wound. In addition, there are chapters in the Suśruta Saṃhitā and the Aṣṭāṅga Hṛdaya Saṃhitā especially dealing with treatments for traumatic wounds (Suśruta Saṃhitā Cikitsāsthāna 2; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 26).
+</blockquote>
 
 ---
 
-## 63. Dermatology (d): Miscellaneous Skin Lesions
+## Dermatology (d): Miscellaneous Skin Lesions
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -92,41 +102,61 @@ Blisters in skin can occur in many disorders. Causes of blistering diseases are:
 
 Several accounts relating to skin problems not examined in the previous three subsections have been studied in this subsection. In these cases, topical application of powders was the major treatment. Jielai should be associated with kuṣṭha, which is taught in detail in Āyurveda. Blisters can also occur in different skin conditions, but there is no separate section for blistering diseases in Āyurvedic texts. According to modern medicine, leprosy is a complex disease with many manifestations. Treatment for it mainly relies on multidrug therapy. There are numerous causes for blistering disorders, and remedies for such skin problems depend on the diagnoses.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarassa bhikkhuno chavidosābādho hoti. anujānāmi bhikkhave gandhālepaṃ kātun ti.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarassa bhikkhuno chavidosābādho hoti. anujānāmi bhikkhave gandhālepaṃ kātun ti.”
+</blockquote>
 
-[2]:
 
-These powders have been mentioned in Section 4. 2. 10. 2 on “Medicinal Powders.”
 
-[3]:
 
-疥癩 literally means “itching leprosy”. It probably refers to one of the itching forms of leprous skin diseases (kuṣṭha), which will be discussed below. It may be udumbara, puṇḍarīka, sidhma, kiṭibha, alasaka, dadru, carmadala, pāmā, rakasā, vipādikā, or vicarcikā (Caraka Saṃhitā Cikitsāsthāna 7. 14-26; Suśruta Saṃhitā Nidānasthāna 5. 8-16; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 14. 13-30). Hirakawa, in A Buddhist Chinese-Sanskrit Dictionary (1997, 854), states that this Chinese term is vicarcikā, but it is not clear on what basis he makes this rendering.
+<div className="footnote-card"><strong>[2]</strong> These powders have been mentioned in Section 4. 2. 10. 2 on “Medicinal Powders.”</div>
 
-[4]:
 
-Taishō Tripiṭaka 1428. 867b2-13: “爾時病比丘須種種細末藥洗，佛言：「聽用種種細末藥。是中細末藥者，胡桐樹末，馬耳樹末，舍摩羅樹末洗。若自作若更互作。」須杵臼，佛言：「聽畜。」須簸箕簁掃帚，佛言：「聽畜。」時諸比丘畏慎，不敢以塗香著末藥中。佛言：「聽著。」時末藥無器盛，佛言：「聽作瓶。若患坌塵，聽作蓋。若欲令堅牢，當著床下、若串壁上 象牙杙上。」爾時病比丘，以麁末藥洗身患痛，佛言：「聽細末若細泥，若葉、若華、若 菓取令病者得樂。是中病者，若體有瘡、若癬、若瘑、若疥癩、乃至身臭。」”
 
-[5]:
 
-Taishō Tripiṭaka 1428. 870c5-6: “時有比丘患皰，醫教用人脂，佛言：「聽用。」”
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> 疥癩 literally means “itching leprosy”. It probably refers to one of the itching forms of leprous skin diseases (kuṣṭha), which will be discussed below. It may be udumbara, puṇḍarīka, sidhma, kiṭibha, alasaka, dadru, carmadala, pāmā, rakasā, vipādikā, or vicarcikā (Caraka Saṃhitā Cikitsāsthāna 7. 14-26; Suśruta Saṃhitā Nidānasthāna 5. 8-16; Aṣṭāṅga Hṛdaya Saṃhitā Nidānasthāna 14. 13-30). Hirakawa, in A Buddhist Chinese-Sanskrit Dictionary (1997, 854), states that this Chinese term is vicarcikā, but it is not clear on what basis he makes this rendering.
+</blockquote>
 
-[6]:
 
-It is even stated that there are innumerable types in kusṭha due to the permutation and combination of various fractions of the humours and their location in the body (Caraka Saṃhitā Nidānasthāna 5. 4).
 
-[7]:
 
-The above outlines of treatment are extracted from the Caraka Saṃhitā. There are also chapters giving details on the treatment of kuṣṭha in the Caraka Saṃhitā (Cikitsāsthāna 7), the Suśruta Saṃhitā (Cikitsāsthāna 9-10), and the Aṣṭāṅga Hṛdaya Saṃhitā (Cikitsāsthāna 19).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1428. 867b2-13: “爾時病比丘須種種細末藥洗，佛言：「聽用種種細末藥。是中細末藥者，胡桐樹末，馬耳樹末，舍摩羅樹末洗。若自作若更互作。」須杵臼，佛言：「聽畜。」須簸箕簁掃帚，佛言：「聽畜。」時諸比丘畏慎，不敢以塗香著末藥中。佛言：「聽著。」時末藥無器盛，佛言：「聽作瓶。若患坌塵，聽作蓋。若欲令堅牢，當著床下、若串壁上 象牙杙上。」爾時病比丘，以麁末藥洗身患痛，佛言：「聽細末若細泥，若葉、若華、若 菓取令病者得樂。是中病者，若體有瘡、若癬、若瘑、若疥癩、乃至身臭。」”
+</blockquote>
 
-[8]:
 
-Details of these diseases can be read in Suśruta Saṃhitā Nidānasthāna 10; Cikitsāsthāna 17; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 31-32.
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1428. 870c5-6: “時有比丘患皰，醫教用人脂，佛言：「聽用。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> It is even stated that there are innumerable types in kusṭha due to the permutation and combination of various fractions of the humours and their location in the body (Caraka Saṃhitā Nidānasthāna 5. 4).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> The above outlines of treatment are extracted from the Caraka Saṃhitā. There are also chapters giving details on the treatment of kuṣṭha in the Caraka Saṃhitā (Cikitsāsthāna 7), the Suśruta Saṃhitā (Cikitsāsthāna 9-10), and the Aṣṭāṅga Hṛdaya Saṃhitā (Cikitsāsthāna 19).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Details of these diseases can be read in Suśruta Saṃhitā Nidānasthāna 10; Cikitsāsthāna 17; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 31-32.
+</blockquote>
 
 ---
 
-## 64. Surgery (a): Perineal Diseases
+## Surgery (a): Perineal Diseases
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -181,81 +211,126 @@ A fistula, in modern medicine, is defined as “an abnormal passage or communica
 
 Perineal diseases are mentioned in the Buddhist Vinayas. They were treated by surgery or enema. In Āyurveda, such diseases are also treated by various surgical and medical remedies. Haemorrhoids and anal fistulae are managed with medical and/or surgical measures in modern medicine, though much advanced treatments are being employed.
 
-[1]:
 
-The translation for the phrase “ananucchaviyaṃ... ananulomikaṃ appaṭirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ” is adopted from Anuruddha 2004, 64.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The translation for the phrase “ananucchaviyaṃ... ananulomikaṃ appaṭirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ” is adopted from Anuruddha 2004, 64.
+</blockquote>
 
-[2]:
 
-In the Pāli text, kārāpessati, a verb in future tense, makes strange sense in the English translation. Here the present writer adopts Horner’s translation in the Bhesajjakkhandhaka and renders the verb with “can” instead of “will”, which gives better meaning.
 
-[3]:
 
-The Samantapāsādikā (V. 1093) explains the clause “duropayo vaṇo” (a wound is hard to heal) thus: “the meaning is: [the wound] heals with difficulty, [and] it becomes the original state with difficulty” (dukkhena ruhati, dukkhena pākatiko hotī’ti attho).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> In the Pāli text, kārāpessati, a verb in future tense, makes strange sense in the English translation. Here the present writer adopts Horner’s translation in the Bhesajjakkhandhaka and renders the verb with “can” instead of “will”, which gives better meaning.
+</blockquote>
 
-[4]:
 
-The Samantapāsādikā (V. 1093) gives explanation to this clause: “‘A knife is difficult to move around’ [means] the knife would hit with difficulty at the private parts” (dupparihāraṃ satthan ti sambādhe dukkhena satthaṃ pahareyya).
 
-[5]:
 
-The translation of “appasannānaṃ vā pasādāya” is adopted from Anuruddha 2004, 100.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> The Samantapāsādikā (V. 1093) explains the clause “duropayo vaṇo” (a wound is hard to heal) thus: “the meaning is: [the wound] heals with difficulty, [and] it becomes the original state with difficulty” (dukkhena ruhati, dukkhena pākatiko hotī’ti attho).
+</blockquote>
 
-[6]:
 
-Theravāda Vinaya Piṭaka I. 215-216: “tatra sudaṃ bhagavā Rājagahe viharati Veḷuvane Kalandakanivāpe. tena kho pana samayena aññatarassa bhikkhuno bhagandalābādho hoti. Ākāsagotto vejjo satthakammaṃ karoti. atha kho bhagavā senāsanacārikaṃ āhiṇḍanto yena tassa bhikkhuno vihāro ten’ upasaṅkami. addasā kho Ākāsagotto vejjo bhagavantaṃ dūrato’va āgacchantaṃ, disvāna bhagavantaṃ etad avoca: āgacchatu bhavaṃ Gotamo imassa bhikkhuno vaccamaggaṃ passatu seyyathāpi godhāmukhan ti. atha kho bhagavā mamaṃ khv āyaṃ moghapuriso uppaṇḍetīti tuṇhibhūto’va paṭinivattitvā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā bhikkhū paṭipucchi: atthi kira bhikkhave amukasmiṃ vihāre bhikkhu gilāno’ti. atthi bhagavā’ti. kiṃ tassa bhikkhave bhikkhuno ābādho’ti. tassa bhante āyasmato bhagandalābādho, Ākāsagotto vejjo satthakammaṃ karotīti. vigarahi buddho bhagavā: ananucchaviyaṃ bhikkhave tassa moghapurisassa ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ. kathaṃ hi nāma so bhikkhave moghapuriso sambādhe satthakammaṃ kārāpessatīti. sambādhe bhikkhave sukhumā chavi, duropayo vaṇo, dupparihāraṃ satthaṃ. n’ etaṃ bhikkhave appasannānaṃ vā pasādāya. vigarahitvā dhammikathaṃ katvā bhikkhū āmantesi: na bhikkhave sambādhe satthakammaṃ kārāpetabbaṃ. yo kārāpeyya, āpatti thullaccayassā’ti. tena kho pana samayena  chabbaggiyā bhikkhū bhagavatā satthakammaṃ paṭikkhittan ti vatthikammaṃ kārāpenti. ye te bhikkhū appicchā te ujjhāyanti khīyanti vipācenti: kathaṃ hi nāma chabbaggiyā bhikkhū vatthikammaṃ kārāpessantīti. atha kho te bhikkhū bhagavato etam atthaṃ ārocesuṃ. saccaṃ kira bhikkhave chabbaggiyā bhikkhū vatthikammaṃ kārāpentīti. saccaṃ bhagavā. vigarahitvā dhammikathaṃ katvā bhikkhū āmantesi: na bhikkhave sambādhassa sāmantā dvaṅgulā satthakammaṃ vā vatthikammaṃ vā kārāpetabbaṃ. yo kārāpeyya, āpatti thullaccayassā’ti.”
 
-[7]:
 
-Taishō Tripiṭaka 1428. 871a13-18: “爾時世尊在王舍城。時耆婆童子，刀治比丘大小便處兩腋下病。時世尊慈念告諸比丘：「此耆婆童子，刀治比丘大小便處及兩腋下病。不應以刀治。何以故？刀利破肉深入故。自今已去，聽以筋、若毛繩急結之，若爪取使斷皮然後著藥。」”
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The Samantapāsādikā (V. 1093) gives explanation to this clause: “‘A knife is difficult to move around’ [means] the knife would hit with difficulty at the private parts” (dupparihāraṃ satthan ti sambādhe dukkhena satthaṃ pahareyya).
+</blockquote>
 
-[8]:
 
-Taishō Tripiṭaka 1428. 877b8-10: “時六群比丘以酥油灌大便道，佛言：「不應灌。」彼教人灌，佛言：「不應教人灌。」”
 
-[9]:
 
-Taishō Tripiṭaka 1421. 147c10-13: “有比丘隱處癰，醫為刀破。佛經前過，醫白佛言：「刀已至大便門，世尊視之。」佛言：「此是難護之處，若使凡夫命過，便失大利。從今不聽刀破隱處，犯者偷羅遮。」”
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> The translation of “appasannānaṃ vā pasādāya” is adopted from Anuruddha 2004, 100.
+</blockquote>
 
-[10]:
 
-Taishō Tripiṭaka 1435. 187a28-b5: “佛故在舍衛國。有一比丘痔病，藥師名阿帝利瞿妬路，以刀割大行處。時近祇桓門間露現處治，苦痛切身。時佛欲入祇桓，藥師遙見佛來，合掌請佛看是處，佛言：「惡口人中，阿帝利瞿妬路此最第一，乃請如來示如是處。從今不應示語大行處，若示語犯罪。從今大行處不應聽刀治。若治，犯偷蘭遮罪。」”
 
-[11]:
 
-Taishō Tripiṭaka 1448. 6a1-19, b27-c8: “見一苾芻痔病嬰身羸瘦無力，王既見已遂便問曰：「聖者！何故羸瘦無力？」苾芻答曰：「大王！為患痔病，是故羸瘦。」時王還勅醫人阿帝耶為之療疾。時彼醫人奉教而往，然此醫人不信三寶，於其病者不肯療治。王於後時還見病者，怪而問曰：「聖者！醫人不為治耶？身尚羸損。」病者對曰：「大王雖遣醫人，彼竟不來相為救療。」時王聞已，即便瞋責，遂遣使者追捉將來。王曰：「我先令汝看病苾芻，何為至今竟不救療？若不治者，我當奪汝官位。」然此醫人素無信意，因被王責更加瞋忿，惡言毀罵：「豈為汝輩，奪我官耶？」捉病苾芻，至寺門外，遂縛手足，為割痔病。時彼苾芻既遭逼迫，苦痛纏心，即便大叫，復作是念：「我遭極苦，世尊大慈寧不哀愍？」如來常法，於一切時無不知見，由大悲力之所警覺，至苾芻所。時彼醫人遙見佛來，嗔猶未息作如是語：「汝來！婢兒！看汝弟子下部如何。」爾時世尊聞此語已，默然而去，還至本處... 爾時世尊告阿難陀曰：「...是故苾芻，如阿帝耶無信醫人，不應令遣看病苾芻。痔病有二種療法：一者以呪、二者以藥。若苾芻有病，不應於阿帝耶等不信之類而遣療治。若令治者，得越法罪。」” The Sanskrit parallel of this account in the Gilgit Manuscripts is lost.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Theravāda Vinaya Piṭaka I. 215-216: “tatra sudaṃ bhagavā Rājagahe viharati Veḷuvane Kalandakanivāpe. tena kho pana samayena aññatarassa bhikkhuno bhagandalābādho hoti. Ākāsagotto vejjo satthakammaṃ karoti. atha kho bhagavā senāsanacārikaṃ āhiṇḍanto yena tassa bhikkhuno vihāro ten’ upasaṅkami. addasā kho Ākāsagotto vejjo bhagavantaṃ dūrato’va āgacchantaṃ, disvāna bhagavantaṃ etad avoca: āgacchatu bhavaṃ Gotamo imassa bhikkhuno vaccamaggaṃ passatu seyyathāpi godhāmukhan ti. atha kho bhagavā mamaṃ khv āyaṃ moghapuriso uppaṇḍetīti tuṇhibhūto’va paṭinivattitvā etasmiṃ nidāne etasmiṃ pakaraṇe bhikkhusaṃghaṃ sannipātāpetvā bhikkhū paṭipucchi: atthi kira bhikkhave amukasmiṃ vihāre bhikkhu gilāno’ti. atthi bhagavā’ti. kiṃ tassa bhikkhave bhikkhuno ābādho’ti. tassa bhante āyasmato bhagandalābādho, Ākāsagotto vejjo satthakammaṃ karotīti. vigarahi buddho bhagavā: ananucchaviyaṃ bhikkhave tassa moghapurisassa ananulomikaṃ appatirūpaṃ assāmaṇakaṃ akappiyaṃ akaraṇīyaṃ. kathaṃ hi nāma so bhikkhave moghapuriso sambādhe satthakammaṃ kārāpessatīti. sambādhe bhikkhave sukhumā chavi, duropayo vaṇo, dupparihāraṃ satthaṃ. n’ etaṃ bhikkhave appasannānaṃ vā pasādāya. vigarahitvā dhammikathaṃ katvā bhikkhū āmantesi: na bhikkhave sambādhe satthakammaṃ kārāpetabbaṃ. yo kārāpeyya, āpatti thullaccayassā’ti. tena kho pana samayena  chabbaggiyā bhikkhū bhagavatā satthakammaṃ paṭikkhittan ti vatthikammaṃ kārāpenti. ye te bhikkhū appicchā te ujjhāyanti khīyanti vipācenti: kathaṃ hi nāma chabbaggiyā bhikkhū vatthikammaṃ kārāpessantīti. atha kho te bhikkhū bhagavato etam atthaṃ ārocesuṃ. saccaṃ kira bhikkhave chabbaggiyā bhikkhū vatthikammaṃ kārāpentīti. saccaṃ bhagavā. vigarahitvā dhammikathaṃ katvā bhikkhū āmantesi: na bhikkhave sambādhassa sāmantā dvaṅgulā satthakammaṃ vā vatthikammaṃ vā kārāpetabbaṃ. yo kārāpeyya, āpatti thullaccayassā’ti.”
+</blockquote>
 
-[12]:
 
-長壽 is āyuṣman in Sanksrit. It is usually rendered as “sir”. See Buddhist Hybrid Sanskrit
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Taishō Tripiṭaka 1428. 871a13-18: “爾時世尊在王舍城。時耆婆童子，刀治比丘大小便處兩腋下病。時世尊慈念告諸比丘：「此耆婆童子，刀治比丘大小便處及兩腋下病。不應以刀治。何以故？刀利破肉深入故。自今已去，聽以筋、若毛繩急結之，若爪取使斷皮然後著藥。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Taishō Tripiṭaka 1428. 877b8-10: “時六群比丘以酥油灌大便道，佛言：「不應灌。」彼教人灌，佛言：「不應教人灌。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Taishō Tripiṭaka 1421. 147c10-13: “有比丘隱處癰，醫為刀破。佛經前過，醫白佛言：「刀已至大便門，世尊視之。」佛言：「此是難護之處，若使凡夫命過，便失大利。從今不聽刀破隱處，犯者偷羅遮。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Taishō Tripiṭaka 1435. 187a28-b5: “佛故在舍衛國。有一比丘痔病，藥師名阿帝利瞿妬路，以刀割大行處。時近祇桓門間露現處治，苦痛切身。時佛欲入祇桓，藥師遙見佛來，合掌請佛看是處，佛言：「惡口人中，阿帝利瞿妬路此最第一，乃請如來示如是處。從今不應示語大行處，若示語犯罪。從今大行處不應聽刀治。若治，犯偷蘭遮罪。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Taishō Tripiṭaka 1448. 6a1-19, b27-c8: “見一苾芻痔病嬰身羸瘦無力，王既見已遂便問曰：「聖者！何故羸瘦無力？」苾芻答曰：「大王！為患痔病，是故羸瘦。」時王還勅醫人阿帝耶為之療疾。時彼醫人奉教而往，然此醫人不信三寶，於其病者不肯療治。王於後時還見病者，怪而問曰：「聖者！醫人不為治耶？身尚羸損。」病者對曰：「大王雖遣醫人，彼竟不來相為救療。」時王聞已，即便瞋責，遂遣使者追捉將來。王曰：「我先令汝看病苾芻，何為至今竟不救療？若不治者，我當奪汝官位。」然此醫人素無信意，因被王責更加瞋忿，惡言毀罵：「豈為汝輩，奪我官耶？」捉病苾芻，至寺門外，遂縛手足，為割痔病。時彼苾芻既遭逼迫，苦痛纏心，即便大叫，復作是念：「我遭極苦，世尊大慈寧不哀愍？」如來常法，於一切時無不知見，由大悲力之所警覺，至苾芻所。時彼醫人遙見佛來，嗔猶未息作如是語：「汝來！婢兒！看汝弟子下部如何。」爾時世尊聞此語已，默然而去，還至本處... 爾時世尊告阿難陀曰：「...是故苾芻，如阿帝耶無信醫人，不應令遣看病苾芻。痔病有二種療法：一者以呪、二者以藥。若苾芻有病，不應於阿帝耶等不信之類而遣療治。若令治者，得越法罪。」” The Sanskrit parallel of this account in the Gilgit Manuscripts is lost.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> 長壽 is āyuṣman in Sanksrit. It is usually rendered as “sir”. See Buddhist Hybrid Sanskrit
+</blockquote>
+
+
 
 Dictionary, s.v. “āyuṣmaṃ”.
 
-[13]:
 
-We are not told what kind of unrighteous deed (adharma) it was.
+<div className="footnote-card"><strong>[13]</strong> We are not told what kind of unrighteous deed (adharma) it was.</div>
 
-[14]:
 
-Taishō Tripiṭaka 1425. 488b12-25: “刀治者，佛住舍衛城，時有比丘痔病，語醫言：「長壽！能為我刀治不？」答言：「爾。」醫便作是念：「是諸沙門聰明智慧，見我治者便當學得，不復求我。」即遣諸比丘，去已，欲作非法。時此比丘即生疑，喚諸比丘言：「長老來此，醫欲作非法。」諸比丘聞即便來入，醫怖畏棄刀而走。諸比丘以是因緣往白世尊。佛言：「呼彼比丘來。」來已，佛問比丘：「汝實爾不？」答言：「實爾。世尊！」佛言：「比丘！汝云何用刀治愛處？從今已後不聽用刀治愛處。愛處者，離穀道邊各四指。若有癰痤癤，聽嚼小麥、雞屎塗上使熟，當令同和上、阿闍梨擿破。若餘處有癰痤癤等諸病，須刀治者聽用。用刀治愛處者，偷蘭罪。」是名刀治。” This passage is not within the Chapter on Medicine parallel in this Vinaya.
 
-[15]:
 
-乾痟病 should refer to śoṣa, which is usually rendered as tuberculosis.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Taishō Tripiṭaka 1425. 488b12-25: “刀治者，佛住舍衛城，時有比丘痔病，語醫言：「長壽！能為我刀治不？」答言：「爾。」醫便作是念：「是諸沙門聰明智慧，見我治者便當學得，不復求我。」即遣諸比丘，去已，欲作非法。時此比丘即生疑，喚諸比丘言：「長老來此，醫欲作非法。」諸比丘聞即便來入，醫怖畏棄刀而走。諸比丘以是因緣往白世尊。佛言：「呼彼比丘來。」來已，佛問比丘：「汝實爾不？」答言：「實爾。世尊！」佛言：「比丘！汝云何用刀治愛處？從今已後不聽用刀治愛處。愛處者，離穀道邊各四指。若有癰痤癤，聽嚼小麥、雞屎塗上使熟，當令同和上、阿闍梨擿破。若餘處有癰痤癤等諸病，須刀治者聽用。用刀治愛處者，偷蘭罪。」是名刀治。” This passage is not within the Chapter on Medicine parallel in this Vinaya.
+</blockquote>
 
-[16]:
 
-Taishō Tripiṭaka 1425. 488b26-c6: “灌筒者，佛住舍衛城，有比丘[病-丙+干]痟病，語醫言：「長壽！能為我灌病不？」答言：「可爾。」即作是念：「此諸沙門聰明智慧，見我灌者更不喚我。」乃至棄筒而走。諸比丘以是因緣往白世尊，乃至佛言：「汝云何用筒灌病？從今已後不聽用筒。」筒者，牛皮筒、水牛皮筒、羊皮筒，如是一切不聽用灌。若醫言：『此病須油灌』者，應在浴室中穿板盛油，褰衣坐上，口含甘蔗。若復以[疊*毛]衣絮等內著油中，臨孔上按之，令油流入者無罪。若筒灌者，偷蘭罪。」是名筒灌法。” This passage is not within the
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> 乾痟病 should refer to śoṣa, which is usually rendered as tuberculosis.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Taishō Tripiṭaka 1425. 488b26-c6: “灌筒者，佛住舍衛城，有比丘[病-丙+干]痟病，語醫言：「長壽！能為我灌病不？」答言：「可爾。」即作是念：「此諸沙門聰明智慧，見我灌者更不喚我。」乃至棄筒而走。諸比丘以是因緣往白世尊，乃至佛言：「汝云何用筒灌病？從今已後不聽用筒。」筒者，牛皮筒、水牛皮筒、羊皮筒，如是一切不聽用灌。若醫言：『此病須油灌』者，應在浴室中穿板盛油，褰衣坐上，口含甘蔗。若復以[疊*毛]衣絮等內著油中，臨孔上按之，令油流入者無罪。若筒灌者，偷蘭罪。」是名筒灌法。” This passage is not within the
+</blockquote>
+
+
 
 Chapter on Medicine parallel in this Vinaya.
 
-[17]:
 
-Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti yathā paricchinne okāse yena kenaci satthena vā sūciyā vā kaṇṭakena vā santikāya vā pāsāṇasakalikāya vā nakhena vā chindanaṃ vā phālanaṃ vā vijjhanaṃ vā lekhanaṃ vā na kātabbaṃ, sabbaṃ h’ etaṃ satthakammam eva hoti. yena kenaci pana cammena vā vatthena vā vatthipīḷanam pi na kātabbaṃ, sabbaṃ h’ etaṃ vatthikammameva hoti. ettha ca sambādhassa sāmantā dvaṅgulā’ti idaṃ satthakammam eva sandhāya vuttaṃ. vatthikammam pana sambādhe yeva paṭikkhittaṃ. tattha pana khāraṃ vā dātuṃ yena kenaci rajjukena vā bandhituṃ vaṭṭati. yadi tena chijjati, succhinnaṃ. aṇḍavuḍḍhiroge’pi satthakammaṃ na vaṭṭati, tasmā aṇḍaṃ phāletvā bījāni uddharitvā arogaṃ karissāmī’ti na kattabbaṃ. aggitāpanabhesajjalepanesu pana paṭikkhepo n’ atthi. vaccamagge bhesajjamakkhitā ādānavaṭṭi vā veḷunāḷikā vā vaṭṭati, yāya khārakammaṃ vā karonti telaṃ vā pavesenti.”
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti yathā paricchinne okāse yena kenaci satthena vā sūciyā vā kaṇṭakena vā santikāya vā pāsāṇasakalikāya vā nakhena vā chindanaṃ vā phālanaṃ vā vijjhanaṃ vā lekhanaṃ vā na kātabbaṃ, sabbaṃ h’ etaṃ satthakammam eva hoti. yena kenaci pana cammena vā vatthena vā vatthipīḷanam pi na kātabbaṃ, sabbaṃ h’ etaṃ vatthikammameva hoti. ettha ca sambādhassa sāmantā dvaṅgulā’ti idaṃ satthakammam eva sandhāya vuttaṃ. vatthikammam pana sambādhe yeva paṭikkhittaṃ. tattha pana khāraṃ vā dātuṃ yena kenaci rajjukena vā bandhituṃ vaṭṭati. yadi tena chijjati, succhinnaṃ. aṇḍavuḍḍhiroge’pi satthakammaṃ na vaṭṭati, tasmā aṇḍaṃ phāletvā bījāni uddharitvā arogaṃ karissāmī’ti na kattabbaṃ. aggitāpanabhesajjalepanesu pana paṭikkhepo n’ atthi. vaccamagge bhesajjamakkhitā ādānavaṭṭi vā veḷunāḷikā vā vaṭṭati, yāya khārakammaṃ vā karonti telaṃ vā pavesenti.”
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -264,10 +339,6 @@ Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti y
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">Chapter Summary: Bhesajjakkhandhaka Chapter On Medicine Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

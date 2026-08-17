@@ -24,7 +24,7 @@ description: "study deals with the ancient Indian Medicine (Ayurveda) in Early B
 
 ---
 
-## 5. Literature Review
+## Literature Review
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -60,45 +60,60 @@ In one of his articles, “Yindu fojiao yixüe gaishuo 印度佛教醫學概說�
 
 From the above review, several points can be noted: (i) the majority of the scholarly works are based on one or two versions of the Chapter on Medicine, mostly the Theravāda Bhesajjakkhandhaka, while the other versions are much less explored; (ii) the majority of the works are descriptive in nature, and they lack detailed comparison, analysis, or interpretation of the medical facts in the Chapter on Medicine; (iii) the studies often focus on particular scope(s) and hence are not comprehensive; (iv) in many short works the medical data in the Chapter on Medicine are cited and used for general discussions of Buddhist medicine, but they are not examined in detail; and (v) most of these works lack interpretations of the medical details in terms of modern knowledge or terminology. Therefore, it can be seen that extensive research of the Chapter on Medicine, which investigates ancient Indian medical lore, is wanting. A detailed examination and interpretation of such medical material–based on all versions of the Chapter on Medicine–is definitely needed.
 
-[1]:
 
-The Pāli term dukkha (or duḥkha in Sanskrit) can be rendered as pain, sorrow, discomfort, suffering, ills, trouble, misery, distress, agony, affliction, woe, and so on (see Rhys Davids and Stede’s PaliEnglish Dictionary (Pali-English Dictionary), s.v. “dukkha”). The translation “suffering” is used here as a general term representing all kinds of dukkha.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The Pāli term dukkha (or duḥkha in Sanskrit) can be rendered as pain, sorrow, discomfort, suffering, ills, trouble, misery, distress, agony, affliction, woe, and so on (see Rhys Davids and Stede’s PaliEnglish Dictionary (Pali-English Dictionary), s.v. “dukkha”). The translation “suffering” is used here as a general term representing all kinds of dukkha.
+</blockquote>
 
-[2]:
 
-Names of this chapter vary in the Vinaya Piṭaka (Vinaya Piṭaka) of different schools, e.g. Bhesajjakkhandhaka/Bhaiṣajyaskandhaka for the Theravāda and Dharmaguptaka schools; Bhaiṣajyadharma(ka) for the Sarvāstivāda and Mahīśāsaka schools; Bhaiṣajyavastu for the Mūlasarvāstivāda school. There is no separate Chapter on Medicine for the Mahāsāṃghika school. The term Chapter on Medicine (or the abbreviation Chapter on Medicine) is used in this thesis as a general and collective one to denote this group of texts. Individual version will be specified with its name when necessary.
 
-[3]:
 
-Two works, though seemingly have covered the Chapters on Medicine, are not included for review. They are Frauwallner (1956) and Inoue (2013). The former is a short section in the book and the latter a journal article. They are not included for review because both of the works have only (very) briefly outlined the contents of the Chapters on Medicine without discussing the medical cases/drugs in these texts.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Names of this chapter vary in the Vinaya Piṭaka (Vinaya Piṭaka) of different schools, e.g. Bhesajjakkhandhaka/Bhaiṣajyaskandhaka for the Theravāda and Dharmaguptaka schools; Bhaiṣajyadharma(ka) for the Sarvāstivāda and Mahīśāsaka schools; Bhaiṣajyavastu for the Mūlasarvāstivāda school. There is no separate Chapter on Medicine for the Mahāsāṃghika school. The term Chapter on Medicine (or the abbreviation Chapter on Medicine) is used in this thesis as a general and collective one to denote this group of texts. Individual version will be specified with its name when necessary.
+</blockquote>
 
-[4]:
 
-For example, his interpretation of wind disease as common cold is apparently not correct if taking the Āyurvedic information into consideration. Detailed discussions and interpretations of this disease in terms of Āyurveda and modern medicine will be found at Section 5. 1. 2 in Chapter Five.
 
-[5]:
 
-An essay by Zysk (1988) has a similar method and content (in a more concise form) to his monograph.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Two works, though seemingly have covered the Chapters on Medicine, are not included for review. They are Frauwallner (1956) and Inoue (2013). The former is a short section in the book and the latter a journal article. They are not included for review because both of the works have only (very) briefly outlined the contents of the Chapters on Medicine without discussing the medical cases/drugs in these texts.
+</blockquote>
 
-[6]:
 
-This book has a Chinese version edited by Qin Guanyue 秦關月 (1992).
 
-[7]:
 
-The term Buddhist medicine will be discussed later in the Special Remarks (Section 1. 3. 3) in this chapter.
+<div className="footnote-card"><strong>[4]</strong> For example, his interpretation of wind disease as common cold is apparently not correct if taking the Āyurvedic information into consideration. Detailed discussions and interpretations of this disease in terms of Āyurveda and modern medicine will be found at Section 5. 1. 2 in Chapter Five.</div>
 
-[8]:
 
-It is an ancient Indian medical text composed by Ravigupta in the second half of the seventh century Common Era, according to Chen (2002, 4, 8-9).
 
-[9]:
 
-There are yet other scholarly works which are about medicine in Buddhism or in Buddhist scriptures, but have their studies based on Buddhist texts other than the Chapter on Medicine or on historical documents–mostly the Chinese or the Tibetan literature of Mahāyāna or Vajrayāna Buddhism. Some examples are: Cao 1977, 1987; Cao 2006; Chen 2000, 2005, 2006; Chen and Chen 2002; Clifford 1984; Demiéville 1985; Garrett 2008; Gu and Zhou 2010a; Huang 2009; Huang 2004;Kageyama 2002; Kritzer 2014; Langenberg 2008, 2014; Liu and Han 1992; Liyanaratne 1996; Ma 2004; Mazars 2008; Naqvi 2011; Nihonyanagi 1994; Salguero 2010; Sen 1945; Sheng-yan 1969; Shi 1991; Shi 2010; Sugita and Fujiwara 2004; Tan 2013;Wang 2003; Xiao 2000a, 2000b, 2000c, 2000d; Yamanaka and Yamashita 2009; Zysk 1982, etc.
+<div className="footnote-card"><strong>[5]</strong> An essay by Zysk (1988) has a similar method and content (in a more concise form) to his monograph.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> This book has a Chinese version edited by Qin Guanyue 秦關月 (1992).</div>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> The term Buddhist medicine will be discussed later in the Special Remarks (Section 1. 3. 3) in this chapter.</div>
+
+
+
+
+<div className="footnote-card"><strong>[8]</strong> It is an ancient Indian medical text composed by Ravigupta in the second half of the seventh century Common Era, according to Chen (2002, 4, 8-9).</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> There are yet other scholarly works which are about medicine in Buddhism or in Buddhist scriptures, but have their studies based on Buddhist texts other than the Chapter on Medicine or on historical documents–mostly the Chinese or the Tibetan literature of Mahāyāna or Vajrayāna Buddhism. Some examples are: Cao 1977, 1987; Cao 2006; Chen 2000, 2005, 2006; Chen and Chen 2002; Clifford 1984; Demiéville 1985; Garrett 2008; Gu and Zhou 2010a; Huang 2009; Huang 2004;Kageyama 2002; Kritzer 2014; Langenberg 2008, 2014; Liu and Han 1992; Liyanaratne 1996; Ma 2004; Mazars 2008; Naqvi 2011; Nihonyanagi 1994; Salguero 2010; Sen 1945; Sheng-yan 1969; Shi 1991; Shi 2010; Sugita and Fujiwara 2004; Tan 2013;Wang 2003; Xiao 2000a, 2000b, 2000c, 2000d; Yamanaka and Yamashita 2009; Zysk 1982, etc.
+</blockquote>
 
 ---
 
-## 6. Research Questions and Aims of the Study
+## Research Questions and Aims of the Study
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -132,17 +147,15 @@ The medical material in the Chapter on Medicine lacks details or explanations. W
 
 Lastly, for studying the ancient medical information in the Chapter on Medicine, a suitable method is required. The method devised for the present research–a three-fold interpretative method–will be detailed in the next section. Such a method not only can be used for examining the medical cases and drugs in the Chapter on Medicine, but also can be applied for examining medical material found in other Buddhist texts (or even other historical documents).
 
-[1]:
 
-Description of the Vinaya canon is found in Section 2. 2 in Chapter Two.
+<div className="footnote-card"><strong>[1]</strong> Description of the Vinaya canon is found in Section 2. 2 in Chapter Two.</div>
 
-[2]:
 
-See Chapter Four and Chapter Five of this thesis for the discussions and interpretations of such drugs and illnesses.
+
+
+<div className="footnote-card"><strong>[2]</strong> See Chapter Four and Chapter Five of this thesis for the discussions and interpretations of such drugs and illnesses.</div>
 
 ---
-
-
 
 ---
 
@@ -151,10 +164,6 @@ See Chapter Four and Chapter Five of this thesis for the discussions and interpr
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">Background Information: Bhesajjakkhandhaka Chapter On Medicine Chapter 2 →</a>
 </div>
-
-
-
-
 
 ---
 

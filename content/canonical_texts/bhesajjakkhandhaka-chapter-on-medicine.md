@@ -13,79 +13,77 @@ isCanonicalText: true
 
 ## Volume Chapter Directory
 
-### 1. [General Discourse: Bhesajjakkhandhaka Chapter On Medicine Chapter 1](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch1)
+### [General Discourse: Bhesajjakkhandhaka Chapter On Medicine Chapter 1](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch1)
 **Overview**: Detailed classical discussion on General Discourse within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 2. [Background Information: Bhesajjakkhandhaka Chapter On Medicine Chapter 2](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch2)
+### [Background Information: Bhesajjakkhandhaka Chapter On Medicine Chapter 2](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch2)
 **Overview**: Detailed classical discussion on Background Information within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 3. [Outlines of Chapters: Bhesajjakkhandhaka Chapter On Medicine Chapter 3](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch3)
+### [Outlines of Chapters: Bhesajjakkhandhaka Chapter On Medicine Chapter 3](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch3)
 **Overview**: Detailed classical discussion on Outlines of Chapters within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 4. [History of Indian Medicine (b): Vedic Phase: Bhesajjakkhandhaka Chapter On Medicine Chapter 4](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch4)
+### [History of Indian Medicine (b): Vedic Phase: Bhesajjakkhandhaka Chapter On Medicine Chapter 4](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch4)
 **Overview**: Detailed classical discussion on History of Indian Medicine (b): Vedic Phase within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 5. [(c) The Bhesajjakkhandhaka (Chapters on Medicine): Bhesajjakkhandhaka Chapter On Medicine Chapter 5](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch5)
+### [(c) The Bhesajjakkhandhaka (Chapters on Medicine): Bhesajjakkhandhaka Chapter On Medicine Chapter 5](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch5)
 **Overview**: Detailed classical discussion on (c) The Bhesajjakkhandhaka (Chapters on Medicine) within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 6. [Āyurveda–Brief History and Basic Principles: Bhesajjakkhandhaka Chapter On Medicine Chapter 6](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch6)
+### [Āyurveda–Brief History and Basic Principles: Bhesajjakkhandhaka Chapter On Medicine Chapter 6](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch6)
 **Overview**: Detailed classical discussion on Āyurveda–Brief History and Basic Principles within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 7. [Biomedicine (Western medicine)—Brief History and Basic Principles: Bhesajjakkhandhaka Chapter On Medicine Chapter 7](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch7)
+### [Biomedicine (Western medicine)—Brief History and Basic Principles: Bhesajjakkhandhaka Chapter On Medicine Chapter 7](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch7)
 **Overview**: Detailed classical discussion on Biomedicine (Western medicine)—Brief History and Basic Principles within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 8. [(b) Basic Principles of Biomedicine (Western medicine): Bhesajjakkhandhaka Chapter On Medicine Chapter 8](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch8)
+### [(b) Basic Principles of Biomedicine (Western medicine): Bhesajjakkhandhaka Chapter On Medicine Chapter 8](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch8)
 **Overview**: Detailed classical discussion on (b) Basic Principles of Biomedicine (Western medicine) within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 9. [Medicinal Substances in the Chapter on Medicine: Bhesajjakkhandhaka Chapter On Medicine Chapter 9](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch9)
+### [Medicinal Substances in the Chapter on Medicine: Bhesajjakkhandhaka Chapter On Medicine Chapter 9](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch9)
 **Overview**: Detailed classical discussion on Medicinal Substances in the Chapter on Medicine within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 10. [Medicines (b): Stems (Gaṇḍa): Bhesajjakkhandhaka Chapter On Medicine Chapter 10](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch10)
+### [Medicines (b): Stems (Gaṇḍa): Bhesajjakkhandhaka Chapter On Medicine Chapter 10](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch10)
 **Overview**: Detailed classical discussion on Medicines (b): Stems (Gaṇḍa) within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 11. [Medicines (c): Leaves (Paṇṇa/Patra): Bhesajjakkhandhaka Chapter On Medicine Chapter 11](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch11)
+### [Medicines (c): Leaves (Paṇṇa/Patra): Bhesajjakkhandhaka Chapter On Medicine Chapter 11](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch11)
 **Overview**: Detailed classical discussion on Medicines (c): Leaves (Paṇṇa/Patra) within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 12. [Medicines (d): Flowers (Puṣpa): Bhesajjakkhandhaka Chapter On Medicine Chapter 12](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch12)
+### [Medicines (d): Flowers (Puṣpa): Bhesajjakkhandhaka Chapter On Medicine Chapter 12](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch12)
 **Overview**: Detailed classical discussion on Medicines (d): Flowers (Puṣpa) within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 13. [Medicines (i): Salts (Loṇa/Lavaṇa): Bhesajjakkhandhaka Chapter On Medicine Chapter 13](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch13)
+### [Medicines (i): Salts (Loṇa/Lavaṇa): Bhesajjakkhandhaka Chapter On Medicine Chapter 13](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch13)
 **Overview**: Detailed classical discussion on Medicines (i): Salts (Loṇa/Lavaṇa) within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 14. [Medicines (m): Unclassified Substances: Bhesajjakkhandhaka Chapter On Medicine Chapter 14](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch14)
+### [Medicines (m): Unclassified Substances: Bhesajjakkhandhaka Chapter On Medicine Chapter 14](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch14)
 **Overview**: Detailed classical discussion on Medicines (m): Unclassified Substances within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 15. [Chapter Summary: Bhesajjakkhandhaka Chapter On Medicine Chapter 15](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch15)
+### [Chapter Summary: Bhesajjakkhandhaka Chapter On Medicine Chapter 15](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch15)
 **Overview**: Detailed classical discussion on Chapter Summary within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 16. [Internal Medicine (d): Fever: Bhesajjakkhandhaka Chapter On Medicine Chapter 16](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch16)
+### [Internal Medicine (d): Fever: Bhesajjakkhandhaka Chapter On Medicine Chapter 16](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch16)
 **Overview**: Detailed classical discussion on Internal Medicine (d): Fever within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 17. [Internal Medicine (e): Gastrointestinal Disturbances: Bhesajjakkhandhaka Chapter On Medicine Chapter 17](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch17)
+### [Internal Medicine (e): Gastrointestinal Disturbances: Bhesajjakkhandhaka Chapter On Medicine Chapter 17](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch17)
 **Overview**: Detailed classical discussion on Internal Medicine (e): Gastrointestinal Disturbances within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 18. [Dermatology (a): Itching Lesions: Bhesajjakkhandhaka Chapter On Medicine Chapter 18](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch18)
+### [Dermatology (a): Itching Lesions: Bhesajjakkhandhaka Chapter On Medicine Chapter 18](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch18)
 **Overview**: Detailed classical discussion on Dermatology (a): Itching Lesions within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 19. [Dermatology (c): Wounds: Bhesajjakkhandhaka Chapter On Medicine Chapter 19](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch19)
+### [Dermatology (c): Wounds: Bhesajjakkhandhaka Chapter On Medicine Chapter 19](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch19)
 **Overview**: Detailed classical discussion on Dermatology (c): Wounds within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 20. [Chapter Summary: Bhesajjakkhandhaka Chapter On Medicine Chapter 20](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch20)
+### [Chapter Summary: Bhesajjakkhandhaka Chapter On Medicine Chapter 20](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch20)
 **Overview**: Detailed classical discussion on Chapter Summary within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 21. [Conclusion: Summary of Present Research: Bhesajjakkhandhaka Chapter On Medicine Chapter 21](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch21)
+### [Conclusion: Summary of Present Research: Bhesajjakkhandhaka Chapter On Medicine Chapter 21](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch21)
 **Overview**: Detailed classical discussion on Conclusion: Summary of Present Research within Bhesajjakkhandhaka Chapter On Medicine.
 
-### 22. [Limitations of this thesis and future research directions: Bhesajjakkhandhaka Chapter On Medicine Chapter 22](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch22)
+### [Limitations of this thesis and future research directions: Bhesajjakkhandhaka Chapter On Medicine Chapter 22](/articles/bhesajjakkhandhaka-chapter-on-medicine-ch22)
 **Overview**: Detailed classical discussion on Limitations of this thesis and future research directions within Bhesajjakkhandhaka Chapter On Medicine.
-
-
 
 ---
 
 ## Volume Background & Preface
 
-## 1. Chapter 1 - Introduction
+## Chapter 1 - Introduction
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -93,11 +91,9 @@ This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist L
 
 Chapter 1 - Introduction
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 2. Preface
+## Preface
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -119,7 +115,7 @@ This research makes contributions by presenting Buddhist perspectives on health/
 
 ---
 
-## 3. Acknowledgements
+## Acknowledgements
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -151,7 +147,7 @@ sukhino vā khemino hontu sabbe sattā bhavantu sukhitattā.
 
 ---
 
-## 4. Introduction (traditional medicine)
+## Introduction (traditional medicine)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -189,33 +185,43 @@ Does Buddhist literature contain any medical information? If yes, which texts ar
 
 In the Buddhist literature, there is a Vinaya (monastic discipline) text which is rich in medical material. It is the Bhesajjakkhandhaka of the Theravāda Vinaya, and its parallel receptions in other Vinaya versions.[5] This text, available in several extant Vinaya canons, is an informative source for studying ancient Indian medicine recorded in early Buddhist literature. It records numerous cases of diseases and remedies for them, as well as copious medicinal substances.[6] However, such medical data in various versions of this text are succinct and difficult to understand. Moreover, they have not been comprehensively investigated. This text therefore is an essential source for the present study that will attempt to examine extensively and interpret the medical information contained in the text, with the cases of diseases and remedies and the medicinal substances forming the foci. In the following section, scholarly literature which studies this text will be reviewed and the insufficiency of the works will be shown.
 
-[1]:
 
-See the Dhammacakkappavattana Sutta (Discourse on Setting the Wheel of Dhamma in Motion) of the Saṃyutta Nikāya (Saṃyutta Nikāya V. 420 ff.). The other three Noble Truths are: the Noble Truth of the Origin of Suffering; the Noble Truth of Cessation of Suffering; and the Noble Truth of the Way Leading to the Cessation of Suffering.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> See the Dhammacakkappavattana Sutta (Discourse on Setting the Wheel of Dhamma in Motion) of the Saṃyutta Nikāya (Saṃyutta Nikāya V. 420 ff.). The other three Noble Truths are: the Noble Truth of the Origin of Suffering; the Noble Truth of Cessation of Suffering; and the Noble Truth of the Way Leading to the Cessation of Suffering.
+</blockquote>
 
-[2]:
 
-For example: Oxford English Dictionary (Oxford English Dictionary), 3rd ed., s.v. “medicine” [accessed July 30, 2012, http://www.oed.com/viewdictionaryentry/Entry/115715];also Dorland’s Illustrated Medical Dictionary, 32nd ed., s.v. “medicine.”
 
-[3]:
 
-Thanks to Fr. Dr. Ari Dy who showed me a website where information on using medicines for healing in the Christian literature is mentioned, though such information is scanty. See Presentation Ministries 2014.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> For example: Oxford English Dictionary (Oxford English Dictionary), 3rd ed., s.v. “medicine” [accessed July 30, 2012, http://www.oed.com/viewdictionaryentry/Entry/115715];also Dorland’s Illustrated Medical Dictionary, 32nd ed., s.v. “medicine.”
+</blockquote>
 
-[4]:
 
-Some examples of these texts are the (Mahā-) Satipaṭṭhāna Sutta ((Greater) Discourse on the Establishments of Mindfulness) (Dīgha Nikāya (Dīgha Nikāya) II. 290-315; Majjhima Nikāya (Majjhima Nikāya) I. 55-63), the Suvarṇaprabhāsa Sūtra (Discourse on Golden Light) (Chinese: Jinguangming jing 金光明經) (Taishō Tripiṭaka 663; 664;665), the Xiuxing daodi jing 修行道地經 (Discourse on the Path and Stage of Practice) (Taishō Tripiṭaka 606), the Foshuo baotai jing 佛說胞胎經 (Discourse on the Buddha’s Exposition of Embryo) (Taishō Tripiṭaka 317), the Fo wei Anan shuo chutai hui 佛爲阿難説處胎會 (Occasion on the Buddha’s Exposition to Ānanda on Abiding in the Womb) (Taishō Tripiṭaka 310(13)), the Foshuo ru taizang hui 佛説入胎藏會 (Occasion on the Buddha’s Exposition on Entering the Womb) (Taishō Tripiṭaka 310(14)), the Foshuo foyi jing 佛說佛醫經 (Discourse on the Buddha’s Exposition of Buddhist Medicine) (Taishō Tripiṭaka 793), the Foshuo yiyü  jing 佛說醫喻經 (Discourse on the Buddha’s Exposition of the Simile of Medicine) (Taishō Tripiṭaka 219), and so on. Salguero’s dissertation (2010) provides a detailed list of Buddhist texts containing medical doctrines and/or healing practices in the Taishō Tripiṭaka.
 
-[5]:
 
-The different versions of this text will be described in Section 1. 3 on methodology in this chapter.
+<div className="footnote-card"><strong>[3]</strong> Thanks to Fr. Dr. Ari Dy who showed me a website where information on using medicines for healing in the Christian literature is mentioned, though such information is scanty. See Presentation Ministries 2014.</div>
 
-[6]:
 
-Description of the contents of the Chapter on Medicine will be found in Section 2. 2. 3 in Chapter Two.
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Some examples of these texts are the (Mahā-) Satipaṭṭhāna Sutta ((Greater) Discourse on the Establishments of Mindfulness) (Dīgha Nikāya (Dīgha Nikāya) II. 290-315; Majjhima Nikāya (Majjhima Nikāya) I. 55-63), the Suvarṇaprabhāsa Sūtra (Discourse on Golden Light) (Chinese: Jinguangming jing 金光明經) (Taishō Tripiṭaka 663; 664;665), the Xiuxing daodi jing 修行道地經 (Discourse on the Path and Stage of Practice) (Taishō Tripiṭaka 606), the Foshuo baotai jing 佛說胞胎經 (Discourse on the Buddha’s Exposition of Embryo) (Taishō Tripiṭaka 317), the Fo wei Anan shuo chutai hui 佛爲阿難説處胎會 (Occasion on the Buddha’s Exposition to Ānanda on Abiding in the Womb) (Taishō Tripiṭaka 310(13)), the Foshuo ru taizang hui 佛説入胎藏會 (Occasion on the Buddha’s Exposition on Entering the Womb) (Taishō Tripiṭaka 310(14)), the Foshuo foyi jing 佛說佛醫經 (Discourse on the Buddha’s Exposition of Buddhist Medicine) (Taishō Tripiṭaka 793), the Foshuo yiyü  jing 佛說醫喻經 (Discourse on the Buddha’s Exposition of the Simile of Medicine) (Taishō Tripiṭaka 219), and so on. Salguero’s dissertation (2010) provides a detailed list of Buddhist texts containing medical doctrines and/or healing practices in the Taishō Tripiṭaka.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> The different versions of this text will be described in Section 1. 3 on methodology in this chapter.</div>
+
+
+
+
+<div className="footnote-card"><strong>[6]</strong> Description of the contents of the Chapter on Medicine will be found in Section 2. 2. 3 in Chapter Two.</div>
 
 ---
 
-## 25. Introduction
+## Introduction
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -231,17 +237,19 @@ This chapter will introduce these health/medical teachings, which are mainly fou
 
 Before proceeding, the sources for such doctrines have to be delineated. The sources will be confined to the aforementioned “dharma-vinaya,” i.e. the Nikāya-s/ Āgama-s[1] of the Sūtra Piṭaka and the Vinaya Piṭaka of early Buddhist literature. The reasons for this are: these texts are likely to represent the more original teachings and viewpoints of the Buddha; and they contain information which should be consistent with that in the Chapter on Medicine. There are many texts in Buddhist literature representing different stages of Buddhism. The scriptures of the early stage are less likely to have been changed (by later philosophical, religious, or sociocultural elements), and hence the teachings should be closer to what the Buddha gave. Besides, by confining the sources to the dharma-vinaya, where the sūtras and the vinaya supposedly represent the literature of the same stage of Buddhist history, then concepts of health/disease and medical principles found in the Sūtra Piṭaka are more likely to be in accordance with the medical data in the Chapter on Medicine, and to provide more uniform perspectives on health/medical issues.[2]
 
-[1]:
 
-The Nikāyas of the Pāli canon and the Āgamas of the Chinese canon will be referenced.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The Nikāyas of the Pāli canon and the Āgamas of the Chinese canon will be referenced.
+</blockquote>
 
-[2]:
 
-Although the discussion of these concepts and medical principles here is confined to the early dharma-vinaya, there is much medical information in the whole of Buddhist literature. Such materials are certainly worth exploring in the field of Buddhist Medicine. It is the author’s future plan to examine these data in various Buddhist texts.
+
+
+<div className="footnote-card"><strong>[2]</strong> Although the discussion of these concepts and medical principles here is confined to the early dharma-vinaya, there is much medical information in the whole of Buddhist literature. Such materials are certainly worth exploring in the field of Buddhist Medicine. It is the author’s future plan to examine these data in various Buddhist texts.</div>
 
 ---
 
-## 29. Introduction
+## Introduction
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -263,21 +271,24 @@ By conducting these three steps, this chapter aims at introducing to readers wha
 
 In this chapter, the medicinal substances being studied will be presented in two major groups: one covers those prescribed for use within seven days and another deals with those allowed for use throughout one’s whole lifespan. In each of these two groups, categories of drugs as found in the Chapters on Medicine, such as lipids and sweets, fats, vegetal parts and derivatives, and minerals, will be described. A miscellaneous category in the group of drugs for use throughout one’s whole life will cover those substances which are not clearly classified in the original sources. These categories of medicinal substances will be examined one by one in the following sections.
 
-[1]:
 
-The three research questions of this thesis, as stated in Section 1. 2. 1 in Chapter One, are: (i) what were the medicinal substances as well as the illnesses and their remedies as recorded in the Chapters on Medicine; (ii) how could these medical data be understood, and why was such a method employed for this study;and (iii) what would be the interpretations of these drugs and diseases in terms of modern knowledge. The first and third questions relate to the discussion and interpretation of the medical data in the Chapter on Medicine; the second question pertains to the methodology of this research, which has been discussed in Section 1. 3 in Chapter One.
+<div className="footnote-card"><strong>[1]</strong> The three research questions of this thesis, as stated in Section 1. 2. 1 in Chapter One, are: (i) what were the medicinal substances as well as the illnesses and their remedies as recorded in the Chapters on Medicine; (ii) how could these medical data be understood, and why was such a method employed for this study;and (iii) what would be the interpretations of these drugs and diseases in terms of modern knowledge. The first and third questions relate to the discussion and interpretation of the medical data in the Chapter on Medicine; the second question pertains to the methodology of this research, which has been discussed in Section 1. 3 in Chapter One.</div>
 
-[2]:
 
-However, while studying the drugs, it has been noted that the categorisation of medicinal substances in the Chapters on Medicine and that in Āyurveda are quite different. Certain groups of drugs in the Chapters on Medicine may not find much analogous Āyurvedic detail to help the explanations.
 
-[3]:
 
-For example, in Āyurveda, a medicinal substance can be described comprehensively in terms of certain attributes: taste (rasa), property (guṇa), potency (vīrya), taste after digestion (vipāka), and action (karma). For knowledge of these attributes, see Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 9;also Caraka Saṃhitā Sūtrasthāna 26 and Suśruta Saṃhitā Sūtrasthāna 40.
+<div className="footnote-card"><strong>[2]</strong> However, while studying the drugs, it has been noted that the categorisation of medicinal substances in the Chapters on Medicine and that in Āyurveda are quite different. Certain groups of drugs in the Chapters on Medicine may not find much analogous Āyurvedic detail to help the explanations.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> For example, in Āyurveda, a medicinal substance can be described comprehensively in terms of certain attributes: taste (rasa), property (guṇa), potency (vīrya), taste after digestion (vipāka), and action (karma). For knowledge of these attributes, see Aṣṭāṅga Hṛdaya Saṃhitā Sūtrasthāna 9;also Caraka Saṃhitā Sūtrasthāna 26 and Suśruta Saṃhitā Sūtrasthāna 40.
+</blockquote>
 
 ---
 
-## 33. Medicines for the Duration of one’s Life (Introduction)
+## Medicines for the Duration of one’s Life (Introduction)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -291,7 +302,7 @@ Thus the categorisation of drugs in the Chapters on Medicine may well have been 
 
 ---
 
-## 50. Introduction
+## Introduction
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -309,9 +320,8 @@ However, this chapter does not aim to be a medical essay which gives all details
 
 Diseases found in the Chapters on Medicine will be classified according to the patho-physiology and/or the anatomical parts involved. Moreover, the classification is presented in accordance with modern medical specialisation for the following reasons: readers of this thesis would be more familiar with contemporary medical terms; the author is more acquainted with the modern medical system because of his previous training; and the classification of diseases in terms of the eight branches of Āyurveda generally resembles that in modern medicine. The diseases therefore will be grouped and discussed as per modern medical specialties. These include: internal medicine (including autumnal illness, wind diseases, humoural diseases, fever, gastrointestinal disturbances, headache, and jaundice); toxicology (encompassing snakebite and poisoning); ophthalmology (discussing eye problems); dermatology (covering itching lesions, carbuncles, wounds, and others); surgery (examining perineal diseases and foot ailments); and psychiatry. These will be dealt with one by one in the following sections.
 
-[1]:
 
-See Section 1. 2. 1 in Chapter One and footnote 1 of Chapter Four at p. 137 on these research questions.
+<div className="footnote-card"><strong>[1]</strong> See Section 1. 2. 1 in Chapter One and footnote 1 of Chapter Four at p. 137 on these research questions.</div>
 
 ---
 

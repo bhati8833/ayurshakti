@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Ayurveda and Rasayana within Alchemy In India And China. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 8. 3. Ayurveda and Rasayana
+## 3. Ayurveda and Rasayana
 
 Alchemy in India and China
 
@@ -31,8 +31,6 @@ could ensure the development and the preservation of the body itself. This expla
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -40,10 +38,6 @@ could ensure the development and the preservation of the body itself. This expla
   <a href="/articles/alchemy-in-india-and-china" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/alchemy-in-india-and-china-ch7" className="text-emerald-400 hover:underline flex items-center font-medium">4. Alchemical Texts of the Medieval Period: Alchemy In India And China Chapter 7 →</a>
 </div>
-
-
-
-
 
 ---
 

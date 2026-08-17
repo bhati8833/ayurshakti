@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Discussion among Sages regarding Tastes (Rasa) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. Chapter 26 - Discussion among Sages regarding Tastes (Rasa)
+## Chapter 26 - Discussion among Sages regarding Tastes (Rasa)
 
 Charaka Samhita (English translation)
 
@@ -435,7 +435,7 @@ Summary
 
 ---
 
-## 25. Chapter 27 - Diet and Dietetics (Annapana-vidhi)
+## Chapter 27 - Diet and Dietetics (Annapana-vidhi)
 
 Charaka Samhita (English translation)
 
@@ -625,7 +625,7 @@ Summary
 
 ---
 
-## 26. Chapter 27a - The group of awned cereals (Shukadhanya—monocotyledons)
+## Chapter 27a - The group of awned cereals (Shukadhanya—monocotyledons)
 
 Charaka Samhita (English translation)
 
@@ -683,7 +683,7 @@ The Qualities of Nandimukhi and Madhuli Varieties of grain
 
 ---
 
-## 27. Chapter 27b - The group of pulses (Shamidhanya—dicotyledons)
+## Chapter 27b - The group of pulses (Shamidhanya—dicotyledons)
 
 Charaka Samhita (English translation)
 
@@ -741,7 +741,7 @@ The qualities Sword bean, Linseed And Cewage
 
 ---
 
-## 28. Chapter 27c - The group of meats (Mamsa)
+## Chapter 27c - The group of meats (Mamsa)
 
 Charaka Samhita (English translation)
 
@@ -877,7 +877,7 @@ The qualities of swan-eggs
 
 ---
 
-## 29. Chapter 27d - The group of vegetables (Shaka)
+## Chapter 27d - The group of vegetables (Shaka)
 
 Charaka Samhita (English translation)
 
@@ -999,8 +999,6 @@ The qualities of Mushroom
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -1008,10 +1006,6 @@ The qualities of Mushroom
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch6" className="text-emerald-400 hover:underline flex items-center font-medium">e - The group of Fruits (Phala): Charaka Samhita Complete Translation Chapter 6 →</a>
 </div>
-
-
-
-
 
 ---
 

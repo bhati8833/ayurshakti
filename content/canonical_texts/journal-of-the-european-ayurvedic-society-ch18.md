@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on A Note on the Sanskrit Word Svastha within Journal Of The European Ayurvedic Society. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 51. A Note on the Sanskrit Word Svastha
+## A Note on the Sanskrit Word Svastha
 
 Journal of the European Ayurvedic Society
 
@@ -89,7 +89,7 @@ M. Hara, A Note on the Sanskrit Word Svastha Abhijnanasakuntala Arthasastra Avim
 
 ---
 
-## 52. On Varttika 1 on Panini's Astadhyayi 6.4.24
+## On Varttika 1 on Panini's Astadhyayi 6.4.24
 
 Journal of the European Ayurvedic Society
 
@@ -143,7 +143,7 @@ Vacaspatyam by T. Tarkavachaspati, Vols.I-VI. Reprint Varanasi 1969 (Chowkhamba 
 
 ---
 
-## 53. Female “Fertility” in the Thought of Vedic Indians
+## Female “Fertility” in the Thought of Vedic Indians
 
 Journal of the European Ayurvedic Society
 
@@ -235,8 +235,6 @@ general meaning of which is '(belonging to) a division of time, period, season' 
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -244,10 +242,6 @@ general meaning of which is '(belonging to) a division of time, period, season' 
   <a href="/articles/journal-of-the-european-ayurvedic-society" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/journal-of-the-european-ayurvedic-society-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">A Rasashastra Motif in Mughal Painting: Journal Of The European Ayurvedic Society Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

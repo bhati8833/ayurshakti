@@ -42,7 +42,11 @@ The Vitalization taught by indra
 
 6. Then Indra, coming over to the sages, imported to them the immortal Science of Life. He concluded the initiation with the following injunctions: ‘All this must you do. This is the propitious time for carrying out the vitalizing therapy. Sovereign herbs growing in the Himalayas are ripe with potency. Such, for instance as Aindri, Brahmi, milky yam, Kshirapushpi, east Indian globe thistle, climbing asparagus, white yam, cork swallow-wort, hog’s weed, gingo fruit, ticktrefoil, sweet flag, wild dill, wild fennel, Meda, Mahameda—these and such other life-promoting drugs of proved virtue taken in conjunction with cow’s milk, secure for their user, after a course of six months, optimum length of life, youthful age, immunity from disease, excellence of voice and complexion, full physical growth, intelligence, memory, the highest kind of power, and all other desirable qualities.’ Thus has been described the vitalization procedure taught by Indra.
 
+
+<blockquote className="ayur-shloka">
 7-(1). There is a herb by the name of Brahma-suvarcala which exudes a golden colored sap, and has leaves resembling those of white lotus. The herb which is called ‘Adityaparni [ādityaparṇī]’ (‘Sun-leaved’) is also known by the name of ‘Suryakanta [sūryakāntā]’. It also exudes a golden colored sap and has flowers like the disk of the sun. The herb called ‘Nari [nārī?]’ which is also known by the name of ‘Ashvabala [aśvabalā]’ has petals resembling those of the Balvaja. The herb called ‘Kashthagodha [kāṣṭhagodhā]’ is shaped like the iguana; while the herb called ‘Sarpa [sarpa]’ has a form resembling the snake. The sovereign herb which is known by the name of ‘Soma’ hag fifteen joints for knots; it wanes and waxes like the moon. The herb called ‘Padma [padmā]’ is similar in shape to a lotus, is red like a lotus and smells too like a lotus. The herb called ‘Aja [ajā]’ is also spoken of as ‘Ajashringi [ajaśṛṅgī]’ The herb known as ‘Nila [nīlā]’ has blue sap and blue flowers. It is a creeper with luxuriant growth.
+</blockquote>
+
 
 7. Out of the above-mentioned herbs, one should drink to one’s fill, the juices of such as are available; he should then lie down naked in a vat furnished with a lid, made of green bengal kino wood and saturated with ghee. Living like this, one’s body will dwindle down to nothing; in the course of six months he rises with a reformed body. His only sustenance shall be goat’s milk. On completing the course of six months, he becomes like the gods in the matter of youth, complexion, voice, form, strength and lustre. To him all excellences of speech come of their own accord. He becomes endowed with clairvoyance and clairaudience. He will be able to cover a thousand Yojanas at one stretch and will live for a period of ten thousand years without any ailment.
 
@@ -94,7 +98,11 @@ In praise of Physicians
 
 46-50. Cups of Soma, psalms, hymns, various kinds of burnt offerings and smoke-colored cattle are offered in sacrifice by the priests in honor of these two In the morning Indra drinks the libatory Soma along with these two in the sacrificial place.
 
+
+<blockquote className="ayur-shloka">
 It is again in their company that the Great God rejoices in the ‘Sautramani [sautrāmaṇī] sacrifice.’ Indra, Agni and the two Ashvins—these are the four deities that are the most commonly invoked by the priests. No gods are praised in the vedic hymns to the same extent as these four. If the Ashvin twins, by virtue of their office as healers, are thus held in honor by the very gods, including their chief, all of whom are imaging, immortal, changeless and self-controlled, what need then, is there to say, that physicians can never be honored too much by mere mortals, who are subject to death, disease and old age aud are for the most part miserable and who hunger for happiness?
+</blockquote>
+
 
 51. The twice-born physician, who is endowed with character, intelligence and reason and has mistered the science of healing, deserves to be reverenced as a mentor by all men. He indeed is regarded “Life’s Guardian”.
 

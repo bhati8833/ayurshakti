@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Padu Varmam (vital life centres) within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 24. Padu Varmam (vital life centres)
+## Padu Varmam (vital life centres)
 
 Marma-sastra and Ayurveda (study)
 
@@ -27,7 +27,7 @@ Measurement of impact Life centres 1. Thilartha Kala 2. Nakshathira Kala 3. Sevi
 
 ---
 
-## 25. Classification of Marma according to Parimana
+## Classification of Marma according to Parimana
 
 Marma-sastra and Ayurveda (study)
 
@@ -43,7 +43,7 @@ Thrayangula mana marma 1. Janu Table No. VI-d 2 2. Koorpara Total 04 21 Panithal
 
 ---
 
-## 26. Part 2 - Study of Marmas
+## Part 2 - Study of Marmas
 
 Marma-sastra and Ayurveda (study)
 
@@ -51,11 +51,7 @@ This essay represents a comprehensive study of Marmas with special reference to 
 
 Part 2 - Study of Marmas
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -64,10 +60,6 @@ Part 2 - Study of Marmas
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">The Concept of Trimarmiya: Marma Sastra and Ayurvedic Science Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

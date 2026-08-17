@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Dermatology (a): Itching Lesions within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 59. Dermatology (a): Itching Lesions
+## Dermatology (a): Itching Lesions
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -50,93 +50,143 @@ Modern medicine defines itch (pruritis) as “an unpleasant cutaneous sensation 
 
 Itching skin condition was a common illness affecting the monastic members as recorded in the Chapters on Medicine. Such problems were treated with medicinal powders or decoctions. In Āyurveda, there is no distinct section discussing itching cutaneous diseases, but many skin lesions can cause an itch. They are treated accordingly. In modern medicine, an itch can occur not only in skin conditions, but also in various systemic problems. Apart from treating the underlying cause, pruritis may be managed with topical and/or systemic drugs, as well as physical measures.
 
-[1]:
 
-Moreover, there are overlaps between these categories. For example, itching sores can be discussed as itching lesions or as sores/wounds. The cases are classified based on their major presenting problems and treatments involved.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Moreover, there are overlaps between these categories. For example, itching sores can be discussed as itching lesions or as sores/wounds. The cases are classified based on their major presenting problems and treatments involved.
+</blockquote>
 
-[2]:
 
-Thulla means “massive, coarse, gross, big,” and so on (Pali-English Dictionary, s.v. “thūla”). Kacchā means “enclosure, … veilings, ribbon, … belt, loin or waist cloth” and so forth (Pali-English Dictionary, s.v. “kacchā). The term thullakacchā thus means something unrelated to skin problem. Rather, kacchā seems to be a variant or corruption of kacchu, which refers to “itch, scab, a cutaneous disease” (Pali-English Dictionary, s.v. “kacchu”). Hence the term should be thullakacchu which is translated here as “extensive itching skin disease”. Pali-English Dictionary renders this term thullakacchā as thick scurf, which is incorrect.
 
-[3]:
 
-The Samantapāsādikā (V. 1090) explains “kāyo vā duggandho” as: “‘Or body with bad smell’ [means] the body smell of anybody is like [that] of horse and so on, and for him the powders of siris tree, Kosambī’s neem tree (?), etc., or scented powders–all are suitable” (kāyo vā duggandho’ti kassaci assādīnaṃ viya kāyagandho hoti, tassāpi sirīsakosambādicuṇṇāni vā gandhacuṇṇāni vā sabbāni vaṭṭanti).
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Thulla means “massive, coarse, gross, big,” and so on (Pali-English Dictionary, s.v. “thūla”). Kacchā means “enclosure, … veilings, ribbon, … belt, loin or waist cloth” and so forth (Pali-English Dictionary, s.v. “kacchā). The term thullakacchā thus means something unrelated to skin problem. Rather, kacchā seems to be a variant or corruption of kacchu, which refers to “itch, scab, a cutaneous disease” (Pali-English Dictionary, s.v. “kacchu”). Hence the term should be thullakacchu which is translated here as “extensive itching skin disease”. Pali-English Dictionary renders this term thullakacchā as thick scurf, which is incorrect.
+</blockquote>
 
-[4]:
 
-The Samantapāsādikā (V. 1090) expounds thus: “‘Animal dung’ is cow dung” (chakanan ti gomayaṃ).
 
-[5]:
 
-The Samantapāsādikā (V. 1090) gives annotation to this term: “‘Boiled dye’ is the dregs of dye. Having pounded the natural powder [and] moistened [it] with water, it is suitable to take bath [with]. This comes to know exactly [as] the definition of boiled dye” (rajananipakkan ti rajanakasaṭaṃ. pākatikacuṇṇam pi koṭṭetvā udakena temetvā nhāyituṃ vaṭṭati. etam pi rajananippakkasaṅkham eva gacchati).
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> The Samantapāsādikā (V. 1090) explains “kāyo vā duggandho” as: “‘Or body with bad smell’ [means] the body smell of anybody is like [that] of horse and so on, and for him the powders of siris tree, Kosambī’s neem tree (?), etc., or scented powders–all are suitable” (kāyo vā duggandho’ti kassaci assādīnaṃ viya kāyagandho hoti, tassāpi sirīsakosambādicuṇṇāni vā gandhacuṇṇāni vā sabbāni vaṭṭanti).
+</blockquote>
 
-[6]:
 
-Theravāda Vinaya Piṭaka I. 202: “tena kho pana samayena āyasmato Ānandassa upajjhāyassa āyasmato Belaṭṭhasīsassa thullakacchābādho hoti. tassa lasikāya cīvarāni kāye lagganti. tāni bhikkhū udakena temetvātemetvā apakaḍḍhanti.... atha kho bhagavā etasmiṃ nidāne dhammikathaṃ katvā bhikkhū āmantesi: anujānāmi bhikkhave yassa kaṇḍu vā piḷakā vā assāvo vā thullakacchā vā ābādho kāyo vā duggandho, cuṇṇāni bhesajjāni, agilānassa chakanaṃ mattikaṃ rajananipakkaṃ. anujānāmi bhikkhave udukkhalaṃ musalan ti. tena kho pana samayena gilānānaṃ bhikkhūnaṃ cuṇṇehi bhesajjehi cālitehi attho hoti–la–anujānāmi bhikkhave cuṇṇacālanin ti. saṇhehi attho hoti. anujānāmi bhikkhave dussacālanin ti.”
 
-[7]:
 
-疥瘡 literally means itching sore(s). Nowadays this Chinese term specifically refers to scabies, which is a very contagious skin infection caused by a kind of tiny mite. But we cannot be certain that in ancient China, when the primary sources were translated from ancient Indian language to Chinese, this term had the meaning of parasitic infection. Thus the literal meaning will be used in the present writer’s translations of this term.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> The Samantapāsādikā (V. 1090) expounds thus: “‘Animal dung’ is cow dung” (chakanan ti gomayaṃ).
+</blockquote>
 
-[8]:
 
-Taishō Tripiṭaka 1421. 147c6-7: “有比丘患疥瘡欲治，以是白佛，佛言：「聽治。」” The information given is very brief and we are not told what treatment was allowed.
 
-[9]:
 
-安陀會 (Pāli: antaravāsaka; Sanskrit: antarvāsa) means inner garment.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> The Samantapāsādikā (V. 1090) gives annotation to this term: “‘Boiled dye’ is the dregs of dye. Having pounded the natural powder [and] moistened [it] with water, it is suitable to take bath [with]. This comes to know exactly [as] the definition of boiled dye” (rajananipakkan ti rajanakasaṭaṃ. pākatikacuṇṇam pi koṭṭetvā udakena temetvā nhāyituṃ vaṭṭati. etam pi rajananippakkasaṅkham eva gacchati).
+</blockquote>
 
-[10]:
 
-See “Decoctions/Astringent Medicines” in Section 4. 2. 7 of Chapter Four.
 
-[11]:
 
-Taishō Tripiṭaka 1435. 184c24-185a6: “佛在毘耶離國住，是地醎濕，諸比丘病疥，膿血流污安陀會如水漬。
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Theravāda Vinaya Piṭaka I. 202: “tena kho pana samayena āyasmato Ānandassa upajjhāyassa āyasmato Belaṭṭhasīsassa thullakacchābādho hoti. tassa lasikāya cīvarāni kāye lagganti. tāni bhikkhū udakena temetvātemetvā apakaḍḍhanti.... atha kho bhagavā etasmiṃ nidāne dhammikathaṃ katvā bhikkhū āmantesi: anujānāmi bhikkhave yassa kaṇḍu vā piḷakā vā assāvo vā thullakacchā vā ābādho kāyo vā duggandho, cuṇṇāni bhesajjāni, agilānassa chakanaṃ mattikaṃ rajananipakkaṃ. anujānāmi bhikkhave udukkhalaṃ musalan ti. tena kho pana samayena gilānānaṃ bhikkhūnaṃ cuṇṇehi bhesajjehi cālitehi attho hoti–la–anujānāmi bhikkhave cuṇṇacālanin ti. saṇhehi attho hoti. anujānāmi bhikkhave dussacālanin ti.”
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[7]</strong> 疥瘡 literally means itching sore(s). Nowadays this Chinese term specifically refers to scabies, which is a very contagious skin infection caused by a kind of tiny mite. But we cannot be certain that in ancient China, when the primary sources were translated from ancient Indian language to Chinese, this term had the meaning of parasitic infection. Thus the literal meaning will be used in the present writer’s translations of this term.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Taishō Tripiṭaka 1421. 147c6-7: “有比丘患疥瘡欲治，以是白佛，佛言：「聽治。」” The information given is very brief and we are not told what treatment was allowed.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> 安陀會 (Pāli: antaravāsaka; Sanskrit: antarvāsa) means inner garment.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> See “Decoctions/Astringent Medicines” in Section 4. 2. 7 of Chapter Four.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Taishō Tripiṭaka 1435. 184c24-185a6: “佛在毘耶離國住，是地醎濕，諸比丘病疥，膿血流污安陀會如水漬。
+</blockquote>
+
+
 
 佛知故問，問諸比丘：「何以污安陀會如水漬？」諸比丘言：「世尊！我曹病疥，膿血流出污安陀會。」佛言：「從今日聽諸病疥比丘用苦藥塗。」長老優波離問佛：「何等苦藥？」佛言：「拘賴闍樹、拘波羅樹、拘真利他樹、師羅樹、波伽羅樹、波尼無祇倫陀樹。」諸比丘不曉擣磨，佛言：「聽石磨。」石磨藥墮地，佛言：「聽石臼杵擣。」諸比丘手壞，佛言：「聽作木杵。」作木杵不曉作，捉處手上下脫，佛言：「中央令細。」所擣藥麁，佛言：「應簁令細，以油塗瘡，以藥坌上。」”
 
-[12]:
 
-The five decoctions mentioned earlier in the Mūlasarvāstivāda Bhaiṣajyavastu are: decoction of mango tree, decoction of neem tree, decoction of black plum tree, decoction of siris tree, and decoction of (possibly) neem tree in Kośambī.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> The five decoctions mentioned earlier in the Mūlasarvāstivāda Bhaiṣajyavastu are: decoction of mango tree, decoction of neem tree, decoction of black plum tree, decoction of siris tree, and decoction of (possibly) neem tree in Kośambī.
+</blockquote>
 
-[13]:
 
-Gilgit Manuscripts III. 1.vi-viii: “bhagavān śrāvastyāṃ viharati jetavane'nāthapiṇḍadasyārāme | tena khalu samayenānyatamasya bhikṣoḥ kacchūrogaḥ samutpannaḥ | sa vaidyasakāśamupasaṃkrāntaḥ | bhadramukha me kacchūrogaḥ samutpanno bhaiṣajyaṃ vyapadiśeti | sa kathayati | ārya kaṣāyaṃ sevasva | svāsthyaṃ te bhaviṣyati | bhadramukha kimahaṃ kāmabhogī | sa kathayati | idaṃ te bhikṣorbhaiṣajyam | na śakyamanyathā svasthena bhavitum | etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | pūrvavadyāvacchāstā te (sarvajñaḥ | tameva gatvā pṛccheti | etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | pañca) kaṣāyāḥ | āmrakaṣāyāḥ pūrvavat | tena bhikṣuṇā kaṣāyaṃ kalpīkṛtya gātraṃ ghṛṣṭam | ekaghanībhūtam | bhagavānāha | cūrṇaḥ kartavyaḥ | bhikṣavaḥ ārdrameva cūrṇayanti | piṇḍī(bhūtaḥ | bhagavānāha | śoṣayitavyaḥ | te ātape śoṣayanti | nirvīryaṃ bhavati | bhagavānāha) nātape śoṣayitavyaḥ | te chāyāyāṃ śoṣayanti | tathāpi pūyyati | bhagavānāha | chāyātape śoṣayitavyaḥ iti | bhikṣavaḥ kaṣāyeṇa gātraṃ mrakṣayitvā snānti | kaṣāyakṛtyaṃ na (kurvanti | bhagavānāha | yāvad hastaparāmarśaṃ śodhayitavyam) | (atha) kaṣāyaṃ dattvā snātavyam | kaṣāyakṛtyaṃ karotīti | bhikṣoḥ kaṣāyeṇa rogo vyupaśāntaḥ | tenāvaśiṣṭaḥ kaṣāyaḥ choritaḥ |... etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha |... (kaṣāyadhārakeṇa bhikṣuṇā upayuktaśeṣaḥ kaṣāyo yo) bhikṣurarthī tasya dātavyaḥ | glānakalpikaśālāyāṃ vā sthāpayitavyaḥ |...”
 
-[14]:
 
-夜合 is synonymous with 合歡, which refers to Albizia species which are commonly known as silk trees or sirises.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Gilgit Manuscripts III. 1.vi-viii: “bhagavān śrāvastyāṃ viharati jetavane'nāthapiṇḍadasyārāme | tena khalu samayenānyatamasya bhikṣoḥ kacchūrogaḥ samutpannaḥ | sa vaidyasakāśamupasaṃkrāntaḥ | bhadramukha me kacchūrogaḥ samutpanno bhaiṣajyaṃ vyapadiśeti | sa kathayati | ārya kaṣāyaṃ sevasva | svāsthyaṃ te bhaviṣyati | bhadramukha kimahaṃ kāmabhogī | sa kathayati | idaṃ te bhikṣorbhaiṣajyam | na śakyamanyathā svasthena bhavitum | etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | pūrvavadyāvacchāstā te (sarvajñaḥ | tameva gatvā pṛccheti | etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | pañca) kaṣāyāḥ | āmrakaṣāyāḥ pūrvavat | tena bhikṣuṇā kaṣāyaṃ kalpīkṛtya gātraṃ ghṛṣṭam | ekaghanībhūtam | bhagavānāha | cūrṇaḥ kartavyaḥ | bhikṣavaḥ ārdrameva cūrṇayanti | piṇḍī(bhūtaḥ | bhagavānāha | śoṣayitavyaḥ | te ātape śoṣayanti | nirvīryaṃ bhavati | bhagavānāha) nātape śoṣayitavyaḥ | te chāyāyāṃ śoṣayanti | tathāpi pūyyati | bhagavānāha | chāyātape śoṣayitavyaḥ iti | bhikṣavaḥ kaṣāyeṇa gātraṃ mrakṣayitvā snānti | kaṣāyakṛtyaṃ na (kurvanti | bhagavānāha | yāvad hastaparāmarśaṃ śodhayitavyam) | (atha) kaṣāyaṃ dattvā snātavyam | kaṣāyakṛtyaṃ karotīti | bhikṣoḥ kaṣāyeṇa rogo vyupaśāntaḥ | tenāvaśiṣṭaḥ kaṣāyaḥ choritaḥ |... etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha |... (kaṣāyadhārakeṇa bhikṣuṇā upayuktaśeṣaḥ kaṣāyo yo) bhikṣurarthī tasya dātavyaḥ | glānakalpikaśālāyāṃ vā sthāpayitavyaḥ |...”
+</blockquote>
 
-[15]:
 
-Taishō Tripiṭaka 1448. 2a13-b11: “緣處同前。時有苾芻身患瘡疥，詣醫人處，問曰：「賢首！我患瘡疥，為我處方。」醫人報曰：「聖者！宜服澁藥，當得病差。」苾芻答曰：「賢首！我可是耽欲人耶？」醫人報曰：「此澁藥能治疥瘡，餘藥不差。」苾芻問曰：「當服何等澁藥？」醫人答曰：「聖者！汝師是一切智者，具知此事。」諸苾芻等往白世尊，佛言：「有五種澁藥：一者菴沒羅，二者絍婆，三者贍部，四者夜合，五者俱奢摩。苾芻應知，此等諸藥，或皮或葉，並應擣碎，水煮塗身。」塗已體更生瘡，佛告苾芻：「應作散藥。」苾芻濕擣，為作一團，不為碎粖，佛言：「不應濕擣，應曝使乾。」諸苾芻於盛日中曬藥，遂令無力，佛言：「不應於烈日中曝藥。」苾芻陰乾，藥便衣生，佛言：「可於微日中曝。」諸苾芻等，澁藥塗身，即便沐浴，其藥墮落，不得藥力，佛言：「待乾手摩其藥入皮膚，然後沐浴已更塗，塗已更浴，瘡病得差。」彼病苾芻瘡既差已，所有殘藥遂便棄擲。...時彼苾芻以緣白佛，佛言：「...所用殘藥，不應棄擲。若有餘病苾芻求者應與；若無求者，可送病坊，依法貯庫，病者應給。...」”
 
-[16]:
 
-See Section 4. 2. 10. 1 on scented substances; also footnote 132 of Chapter Four.
+<div className="footnote-card"><strong>[14]</strong> 夜合 is synonymous with 合歡, which refers to Albizia species which are commonly known as silk trees or sirises.</div>
 
-[17]:
 
-迦羅 may be kalāya (grass pea), because the following items in the list are different kinds of pulse.
 
-[18]:
 
-沙坻 seems to be śaṭi (zedoary). It may also be a literal translation of sand islet, because the following item is soil. But it seems unlikely because it would then be sand and not exactly powder.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Taishō Tripiṭaka 1448. 2a13-b11: “緣處同前。時有苾芻身患瘡疥，詣醫人處，問曰：「賢首！我患瘡疥，為我處方。」醫人報曰：「聖者！宜服澁藥，當得病差。」苾芻答曰：「賢首！我可是耽欲人耶？」醫人報曰：「此澁藥能治疥瘡，餘藥不差。」苾芻問曰：「當服何等澁藥？」醫人答曰：「聖者！汝師是一切智者，具知此事。」諸苾芻等往白世尊，佛言：「有五種澁藥：一者菴沒羅，二者絍婆，三者贍部，四者夜合，五者俱奢摩。苾芻應知，此等諸藥，或皮或葉，並應擣碎，水煮塗身。」塗已體更生瘡，佛告苾芻：「應作散藥。」苾芻濕擣，為作一團，不為碎粖，佛言：「不應濕擣，應曝使乾。」諸苾芻於盛日中曬藥，遂令無力，佛言：「不應於烈日中曝藥。」苾芻陰乾，藥便衣生，佛言：「可於微日中曝。」諸苾芻等，澁藥塗身，即便沐浴，其藥墮落，不得藥力，佛言：「待乾手摩其藥入皮膚，然後沐浴已更塗，塗已更浴，瘡病得差。」彼病苾芻瘡既差已，所有殘藥遂便棄擲。...時彼苾芻以緣白佛，佛言：「...所用殘藥，不應棄擲。若有餘病苾芻求者應與；若無求者，可送病坊，依法貯庫，病者應給。...」”
+</blockquote>
 
-[19]:
 
-Taishō Tripiṭaka 1425. 482c21-483a2: “佛...見比丘癬病。...答言：「世尊！我病癬瘙，得香屑末洗浴便差。...」佛言：「從今日聽病比丘用香屑。香屑者，於尸屑、馬耳屑、七色屑、栴檀屑、俱哆屑、菴拔羅屑、閻浮尸利屑、阿淳屑、伽比羅屑，如是比一切不聽。若比丘病癬瘙，
+
+
+<div className="footnote-card"><strong>[16]</strong> See Section 4. 2. 10. 1 on scented substances; also footnote 132 of Chapter Four.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> 迦羅 may be kalāya (grass pea), because the following items in the list are different kinds of pulse.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> 沙坻 seems to be śaṭi (zedoary). It may also be a literal translation of sand islet, because the following item is soil. But it seems unlikely because it would then be sand and not exactly powder.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Taishō Tripiṭaka 1425. 482c21-483a2: “佛...見比丘癬病。...答言：「世尊！我病癬瘙，得香屑末洗浴便差。...」佛言：「從今日聽病比丘用香屑。香屑者，於尸屑、馬耳屑、七色屑、栴檀屑、俱哆屑、菴拔羅屑、閻浮尸利屑、阿淳屑、伽比羅屑，如是比一切不聽。若比丘病癬瘙，
+</blockquote>
+
+
 
 須屑末塗浴差者，得用無罪。聽用迦羅屑、摩沙屑、摩瘦羅屑、沙坻屑、塗土。」” This account is not within the Chapter on Medicine parallel in the Mahāsāṃghika Vinaya.
 
-[20]:
 
-These general principles of treatment are summarised from chapters dealing with skin diseases in Āyurvedic treatises.
+<div className="footnote-card"><strong>[20]</strong> These general principles of treatment are summarised from chapters dealing with skin diseases in Āyurvedic treatises.</div>
 
 ---
 
-## 60. Toxicology (Agadatantra)
+## Toxicology (Agadatantra)
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -204,115 +254,187 @@ Poisoning can be due to self-administration (because of improper use of drugs or
 
 In this section, records of snakebite and poisoning found in the Vinayas have been examined. For these poisoning cases, both empirical remedies (such as using foul things like dung, urine, ashes, and mud, releasing venom from a bitten wound, bloodletting and so on) as well as religious means (including the practice of loving-kindness and chanting of a protective charm or spell) were employed. Such approaches of therapy are also noticed in Āyurveda for curing poisoning. In modern medicine, none of these ancient remedies are used. Cures nowadays involve appropriate first-aid management, quick transfer to a medical centre, careful monitoring of vital signs and blood condition, supportive care of major organ functions, measures for dealing with complications, use of an antivenom or an antidote if necessary, wound management, special measures to reduce absorption of toxins and/or to enhance their elimination.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññataro bhikkhu ahinā daṭṭho hoti. bhagavato etam attaṃ ārocesuṃ. anujānāmi bhikkhave cattāri mahāvikṭāni dātuṃ gūthaṃ muttaṃ chārikaṃ mattikan ti.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññataro bhikkhu ahinā daṭṭho hoti. bhagavato etam attaṃ ārocesuṃ. anujānāmi bhikkhave cattāri mahāvikṭāni dātuṃ gūthaṃ muttaṃ chārikaṃ mattikan ti.”
+</blockquote>
 
-[2]:
 
-Theravāda Vinaya Piṭaka II. 109-110: “tena kho pana samayena aññataro bhikkhu ahinā daṭṭho kālaṃkato hoti. bhagavato etam atthaṃ ārocesuṃ. na ha nūna so bhikkhave bhikkhu cattāri ahirājakulāni mettena cittena phari. sace hi so bhikkhave bhikkhu cattāri ahirājakulāni mettena cittena phareyya na hi so bhikkhave bhikkhu ahinā daṭṭho kālaṃ kareyya. katamāni cattāri ahirājakulāni. Virūpakkhaṃ ahirājakulaṃ, Erāpathaṃ ahirājakulaṃ, Chabyāputtaṃ ahirājakulaṃ, Kaṇhāgotamakaṃ ahirājakulaṃ. na ha nūna so bhikkhave bhikkhu imāni cattāri ahirājakulāni mettena cittena phari. sace hi so bhikkhave bhikkhu imāni cattāri ahirājakulāni mettena cittena phareyya na hi so bhikkhave bhikkhu ahinā daṭṭho kālaṃ kareyya. anujānāmi bhikkhave imāni cattāri ahirājakulāni mettena cittena pharituṃ attaguttiyā attarakkhāya attaparittaṃ kātuṃ. evañ ca pana bhikkhave kātabbaṃ: Virūpakkhehi me mettaṃ, mettaṃ Erāpathehi me, Chabyāputtehi me mettaṃ, mettaṃ Kaṇhāgotamakehi ca,| apādakehi me mettaṃ, mettaṃ dvipādakehi me, catuppadehi me mettaṃ, mettaṃ bahuppadehi me.| mā maṃ apādako hiṃsi, mā maṃ hiṃsi dvipādako, mā maṃ catuppado hiṃsi, mā maṃ hiṃsi bahuppado.| sabbe sattā sabbe pāṇā sabbe bhūtā ca kevalā sabbe bhadrāni passantu, mā kiñci pāpam āgamā.| appamāṇo buddho appamāṇo dhammo appamāṇo saṅgho, pamāṇavantāni siriṃsapāni ahivicchikā satapadī uṇṇanābhisarabū mūsikā. katā me rakkhā katā me parittā, paṭikkamantu bhūtāni, so’haṃ namo bhagavato namo sattannaṃ sammāsambuddhānan ti. anujānāmi bhikkhave lohitaṃ mocetun ti.” This account is not within the Theravāda Bhesajjakkhandhaka.
 
-[3]:
 
-According to Vogel (1972, 191-192), the two nāgarājas (snake-kings), Kambala and Aśvatara, are often coupled together in ancient Indian lore.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Theravāda Vinaya Piṭaka II. 109-110: “tena kho pana samayena aññataro bhikkhu ahinā daṭṭho kālaṃkato hoti. bhagavato etam atthaṃ ārocesuṃ. na ha nūna so bhikkhave bhikkhu cattāri ahirājakulāni mettena cittena phari. sace hi so bhikkhave bhikkhu cattāri ahirājakulāni mettena cittena phareyya na hi so bhikkhave bhikkhu ahinā daṭṭho kālaṃ kareyya. katamāni cattāri ahirājakulāni. Virūpakkhaṃ ahirājakulaṃ, Erāpathaṃ ahirājakulaṃ, Chabyāputtaṃ ahirājakulaṃ, Kaṇhāgotamakaṃ ahirājakulaṃ. na ha nūna so bhikkhave bhikkhu imāni cattāri ahirājakulāni mettena cittena phari. sace hi so bhikkhave bhikkhu imāni cattāri ahirājakulāni mettena cittena phareyya na hi so bhikkhave bhikkhu ahinā daṭṭho kālaṃ kareyya. anujānāmi bhikkhave imāni cattāri ahirājakulāni mettena cittena pharituṃ attaguttiyā attarakkhāya attaparittaṃ kātuṃ. evañ ca pana bhikkhave kātabbaṃ: Virūpakkhehi me mettaṃ, mettaṃ Erāpathehi me, Chabyāputtehi me mettaṃ, mettaṃ Kaṇhāgotamakehi ca,| apādakehi me mettaṃ, mettaṃ dvipādakehi me, catuppadehi me mettaṃ, mettaṃ bahuppadehi me.| mā maṃ apādako hiṃsi, mā maṃ hiṃsi dvipādako, mā maṃ catuppado hiṃsi, mā maṃ hiṃsi bahuppado.| sabbe sattā sabbe pāṇā sabbe bhūtā ca kevalā sabbe bhadrāni passantu, mā kiñci pāpam āgamā.| appamāṇo buddho appamāṇo dhammo appamāṇo saṅgho, pamāṇavantāni siriṃsapāni ahivicchikā satapadī uṇṇanābhisarabū mūsikā. katā me rakkhā katā me parittā, paṭikkamantu bhūtāni, so’haṃ namo bhagavato namo sattannaṃ sammāsambuddhānan ti. anujānāmi bhikkhave lohitaṃ mocetun ti.” This account is not within the Theravāda Bhesajjakkhandhaka.
+</blockquote>
 
-[4]:
 
-乾闥婆 is gandharva (heavenly musician). 羅剎娑 is rākṣasa (evil demon).
 
-[5]:
 
-According to Kangxi zidian (The Kangxi Dictionary), 鈹 means a big needle (Zhang et al. 2005, 1228). It is used for breaking open carbuncles, according to Cihai (The Ocean of Words) (Shu et al. 2005, 1373). Thus 鈹刀 should be a kind of knife or instrument which acts as a big needle.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> According to Vogel (1972, 191-192), the two nāgarājas (snake-kings), Kambala and Aśvatara, are often coupled together in ancient Indian lore.
+</blockquote>
 
-[6]:
 
-Taishō Tripiṭaka 1428. 870c22-871a8: “爾時佛在王舍城。諸比丘破浴室薪，空木中蛇出螫比丘殺。時世尊慈念，告諸比丘：「彼比丘不生慈心於彼八龍王蛇，以是故為蛇所殺。何等八？毘樓勒叉龍王，次名伽寧，次名瞿曇冥，次名施婆彌多羅，次名多奢伊羅婆尼，次名伽毘羅濕波羅，次名提頭賴託龍王。比丘若慈心於彼八龍王蛇者，不為螫殺。若此比丘慈心於一切眾生者，亦不為彼蛇所螫殺。」佛聽作自護慈念呪：「毘樓勒叉慈、伽寧慈、瞿曇冥慈、施婆彌多羅慈、多奢伊羅摩尼慈、伽毘羅濕波羅慈、提頭賴吒慈，慈念諸龍王、乾闥婆、羅剎娑，今我作慈心，除滅諸毒惡，從是得平復，斷毒滅毒除毒，南無婆伽婆。」佛言：「聽刀破出血以藥塗之，亦聽畜鈹刀。」”
 
-[7]:
 
-Nanda and Upananda are two nāgarājas. In the Buddhist legend they are often paired together and finally they are considered as one nāgarāja (Vogel 1972, 192).
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> 乾闥婆 is gandharva (heavenly musician). 羅剎娑 is rākṣasa (evil demon).
+</blockquote>
 
-[8]:
 
-Taishō Tripiṭaka 1421. 171a16-b2: “有一比丘欲燃浴室中火破薪，蛇從木孔中出，螫脚即死。諸比丘以是白佛，佛言：「彼比丘不知八種蛇名，不慈心向，又不說呪，為蛇所害。八種蛇者：提樓賴吒蛇、怛車蛇、伊羅漫蛇、舍婆子蛇、甘摩羅阿濕波羅呵蛇、毘樓羅阿叉蛇、瞿曇蛇、難陀跋難陀蛇。呪蛇者：『我慈諸龍王，天上及世間，以我此慈心，得滅諸恚毒。我以智慧力，用之殺此毒，味毒無味毒，破滅入地去。』」佛言：「若彼比丘以此呪自護者，不為毒蛇之所傷殺。」復有比丘被蛇所螫，諸比丘白佛，佛言：「汝以此呪呪彼，令得安隱。」
+
+
+<div className="footnote-card"><strong>[5]</strong> According to Kangxi zidian (The Kangxi Dictionary), 鈹 means a big needle (Zhang et al. 2005, 1228). It is used for breaking open carbuncles, according to Cihai (The Ocean of Words) (Shu et al. 2005, 1373). Thus 鈹刀 should be a kind of knife or instrument which acts as a big needle.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Taishō Tripiṭaka 1428. 870c22-871a8: “爾時佛在王舍城。諸比丘破浴室薪，空木中蛇出螫比丘殺。時世尊慈念，告諸比丘：「彼比丘不生慈心於彼八龍王蛇，以是故為蛇所殺。何等八？毘樓勒叉龍王，次名伽寧，次名瞿曇冥，次名施婆彌多羅，次名多奢伊羅婆尼，次名伽毘羅濕波羅，次名提頭賴託龍王。比丘若慈心於彼八龍王蛇者，不為螫殺。若此比丘慈心於一切眾生者，亦不為彼蛇所螫殺。」佛聽作自護慈念呪：「毘樓勒叉慈、伽寧慈、瞿曇冥慈、施婆彌多羅慈、多奢伊羅摩尼慈、伽毘羅濕波羅慈、提頭賴吒慈，慈念諸龍王、乾闥婆、羅剎娑，今我作慈心，除滅諸毒惡，從是得平復，斷毒滅毒除毒，南無婆伽婆。」佛言：「聽刀破出血以藥塗之，亦聽畜鈹刀。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Nanda and Upananda are two nāgarājas. In the Buddhist legend they are often paired together and finally they are considered as one nāgarāja (Vogel 1972, 192).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Taishō Tripiṭaka 1421. 171a16-b2: “有一比丘欲燃浴室中火破薪，蛇從木孔中出，螫脚即死。諸比丘以是白佛，佛言：「彼比丘不知八種蛇名，不慈心向，又不說呪，為蛇所害。八種蛇者：提樓賴吒蛇、怛車蛇、伊羅漫蛇、舍婆子蛇、甘摩羅阿濕波羅呵蛇、毘樓羅阿叉蛇、瞿曇蛇、難陀跋難陀蛇。呪蛇者：『我慈諸龍王，天上及世間，以我此慈心，得滅諸恚毒。我以智慧力，用之殺此毒，味毒無味毒，破滅入地去。』」佛言：「若彼比丘以此呪自護者，不為毒蛇之所傷殺。」復有比丘被蛇所螫，諸比丘白佛，佛言：「汝以此呪呪彼，令得安隱。」
+</blockquote>
+
+
 
 受教往呪，彼即得差。復有諸比丘處處為蛇所螫，以是白佛，佛言：「聽作呪術，隨宜治之。」” This account is not within the Mahīśāsaka Bhaiṣajyadharmaka.
 
-[9]:
 
-Taishō Tripiṭaka 1435. 269b19-27: “復有比丘為作浴破薪故，毒蛇從朽木中出囓比丘指。比丘作是念：「此毒必入身。」即自斷指，由是指撅。...佛言：「從今有如是因緣，聽以繩纏指，以刀刺出毒。」” This account is not within the Sarvāstivāda Bhaiṣajyadharmaka.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Taishō Tripiṭaka 1435. 269b19-27: “復有比丘為作浴破薪故，毒蛇從朽木中出囓比丘指。比丘作是念：「此毒必入身。」即自斷指，由是指撅。...佛言：「從今有如是因緣，聽以繩纏指，以刀刺出毒。」” This account is not within the Sarvāstivāda Bhaiṣajyadharmaka.
+</blockquote>
 
-[10]:
 
-See Buddhist Hybrid Sanskrit Dictionary, s.v. “vikṛta”.
 
-[11]:
 
-According to a footnote to this Sanskrit term in the Gilgit Manuscripts (III. 1. 286n2), kamībala is written as kapi-da-ka (ཀ་པི་ད་ཀ་) in the Tibetan version. But both kaṃībala and kapidaka are not identifiable. A close term to the latter is kapitthaka, which is wood apple (Feronia elephantum) (A Sanskrit-English Dictionary, s.v. “kapitthaka”; Dash 2008, 306).
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> See Buddhist Hybrid Sanskrit Dictionary, s.v. “vikṛta”.
+</blockquote>
 
-[12]:
 
-Gilgit Manuscripts III. 1. 285-287: “śrāvastyāṃ nidānam | anyatamena gṛhapatinā buddhapramukho bhikṣusaṃgho jentākenopanimaṃtritaḥ | tena khalu samayenāyuṣmān svātirnavāgatastaruṇo 'cirapravrajitaḥ acirāgata imaṃ dharmavinayam | … sa kāṣṭhaṃ pāṭayitumārabdho yāvadanyatamasmātpūtidārusuṣirānniṣkramyāśīviṣeṇa dakṣiṇe pādāṅguṣṭhe daṣṭaḥ | sa viṣeṇa saṃmūrchito bhūmau patito lālā vāhayati mukhaṃ ca vibhaṇḍayati akṣiṇī ca samparivartayati | … etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | vaidyaṃ pṛṣṭvā cikitsā kartavyeti | bhikṣubhirvaidya pṛṣṭaḥ | sa kathayati | āryā vikṛtabhojanamanuprayacchateti | etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | dātavyaṃ vaidyopadeśeneti | bhikṣavo na jānate kīdṛśaṃ vikṛtabhojanamiti | tairvaidyaḥ pṛṣṭaḥ | sa kathayati | āryā yuṣmākameva śāstā sarvajño bhagavānsarvadarśī sa eva jñāsyatīti | bhikṣavo bhagavata ārocayanti bhagavānāha | vikṛtabhojanaṃ bhikṣava uccāraḥ prasrāvaśchāyikāṃ mṛttikā ca | tatra uccāraḥ acirajātakānāṃ vatsakānāṃ teṣāmeva ca prasrāvaḥ | chāyikā pañcānāṃ vṛkṣāṇām | kāñcanasya kamībalasyāśvatthasyodumbarasya nyagrodhasya| mṛttikā pṛthivyāṃ caturaṅgulam-apanīyoddhartavyā iti vikṛtabhojanamiti | tato bhikṣubhirāyuṣmataḥ svātervikṛtabhojanaṃ dattam  | tathāpi na svasthībhavati | etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | śakṣyasi tvamānanda mamāntikānmahāmāyūrīṃ vidyāmudgṛhya paryavāpya svāterbhikṣo rakṣāṃ kartuṃ … | atha bhagavāṃstasyāṃ velāyāmimāṃ mahāmāyūrīṃ vidyāṃ bhāṣate sma | namo buddhāya namo dharmāya namaḥ saṃghāya | tadyathā amale vimale nirmale maṃgale hiraṇye hiraṇyagarbhe bhadre subhadre samantabhadre śrībhadre sarvārthasādhani paramārthasādhani sarvānarthapraśamani sarvamaṅgalasādhani manase mahāmānase acyute adbhute atyadbhute mukte mocani mokṣaṇi | araje viraje amṛte amare (amaraṇi) brahme brahmasvare pūrṇe pūrṇamanorathe mukte jīvate rakṣa svātiṃ sarvopadravabhayarogebhyaḥ svāhā | evaṃ bhadantetyāyuṣmānānando bhagavato'ntikānmahāmāyūrīṃ vidyāmudgṛhya paryavāpya svāterbhikṣoḥ svastyayanaṃ kṛtam | nirviṣaśca saṃvṛtto yathā paurāṇaḥ |”
 
-[13]:
 
-The Taishō Tripiṭaka has it here as “應得無漏一切賢聖善。心相視莫興惡意”, but older editions of Chinese Buddhist canon have it as “應得無漏一切賢善慈心相視莫興惡意”. My translation is based on the older editions.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> According to a footnote to this Sanskrit term in the Gilgit Manuscripts (III. 1. 286n2), kamībala is written as kapi-da-ka (ཀ་པི་ད་ཀ་) in the Tibetan version. But both kaṃībala and kapidaka are not identifiable. A close term to the latter is kapitthaka, which is wood apple (Feronia elephantum) (A Sanskrit-English Dictionary, s.v. “kapitthaka”; Dash 2008, 306).
+</blockquote>
 
-[14]:
 
-Taishō Tripiṭaka 1425. 389a10-28: “復次佛住舍衛城，廣說如上。爾時有二比丘阿練若處住。時一比丘塗房為蛇所螫...即便命終。諸比丘以是因緣往白世尊。...佛語諸比丘：「彼若慈心稱四大龍王名者，應不至死。何等四？持國龍王、伊羅國龍王、善子龍王、黑白龍王，我有慈。無足眾生我有慈，兩足眾生我有慈，四足眾生我有慈，多足眾生我有慈。無足眾生莫害我，兩足眾生莫害我，四足眾生莫害我，多足眾生莫害我。一切眾生應得無漏一切賢聖善，心相視，莫興惡意。設使比丘稱是四大龍王名者，應不致死。”
 
-[15]:
 
-Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarena bhikkhunā visaṃ pītaṃ hoti. anujānāmi bhikkhave gūthaṃ pāyetun ti.”
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Gilgit Manuscripts III. 1. 285-287: “śrāvastyāṃ nidānam | anyatamena gṛhapatinā buddhapramukho bhikṣusaṃgho jentākenopanimaṃtritaḥ | tena khalu samayenāyuṣmān svātirnavāgatastaruṇo 'cirapravrajitaḥ acirāgata imaṃ dharmavinayam | … sa kāṣṭhaṃ pāṭayitumārabdho yāvadanyatamasmātpūtidārusuṣirānniṣkramyāśīviṣeṇa dakṣiṇe pādāṅguṣṭhe daṣṭaḥ | sa viṣeṇa saṃmūrchito bhūmau patito lālā vāhayati mukhaṃ ca vibhaṇḍayati akṣiṇī ca samparivartayati | … etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | vaidyaṃ pṛṣṭvā cikitsā kartavyeti | bhikṣubhirvaidya pṛṣṭaḥ | sa kathayati | āryā vikṛtabhojanamanuprayacchateti | etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | dātavyaṃ vaidyopadeśeneti | bhikṣavo na jānate kīdṛśaṃ vikṛtabhojanamiti | tairvaidyaḥ pṛṣṭaḥ | sa kathayati | āryā yuṣmākameva śāstā sarvajño bhagavānsarvadarśī sa eva jñāsyatīti | bhikṣavo bhagavata ārocayanti bhagavānāha | vikṛtabhojanaṃ bhikṣava uccāraḥ prasrāvaśchāyikāṃ mṛttikā ca | tatra uccāraḥ acirajātakānāṃ vatsakānāṃ teṣāmeva ca prasrāvaḥ | chāyikā pañcānāṃ vṛkṣāṇām | kāñcanasya kamībalasyāśvatthasyodumbarasya nyagrodhasya| mṛttikā pṛthivyāṃ caturaṅgulam-apanīyoddhartavyā iti vikṛtabhojanamiti | tato bhikṣubhirāyuṣmataḥ svātervikṛtabhojanaṃ dattam  | tathāpi na svasthībhavati | etatprakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | śakṣyasi tvamānanda mamāntikānmahāmāyūrīṃ vidyāmudgṛhya paryavāpya svāterbhikṣo rakṣāṃ kartuṃ … | atha bhagavāṃstasyāṃ velāyāmimāṃ mahāmāyūrīṃ vidyāṃ bhāṣate sma | namo buddhāya namo dharmāya namaḥ saṃghāya | tadyathā amale vimale nirmale maṃgale hiraṇye hiraṇyagarbhe bhadre subhadre samantabhadre śrībhadre sarvārthasādhani paramārthasādhani sarvānarthapraśamani sarvamaṅgalasādhani manase mahāmānase acyute adbhute atyadbhute mukte mocani mokṣaṇi | araje viraje amṛte amare (amaraṇi) brahme brahmasvare pūrṇe pūrṇamanorathe mukte jīvate rakṣa svātiṃ sarvopadravabhayarogebhyaḥ svāhā | evaṃ bhadantetyāyuṣmānānando bhagavato'ntikānmahāmāyūrīṃ vidyāmudgṛhya paryavāpya svāterbhikṣoḥ svastyayanaṃ kṛtam | nirviṣaśca saṃvṛtto yathā paurāṇaḥ |”
+</blockquote>
 
-[16]:
 
-The translation of “sītāloḷiṃ pāyetuṃ” is adopted from Anuruddha 2004, 939.
 
-[17]:
 
-Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarassa bhikkhuno gharadinnakābādho hoti. anujānāmi bhikkhave sītāloḷiṃ pāyetun ti.”
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> The Taishō Tripiṭaka has it here as “應得無漏一切賢聖善。心相視莫興惡意”, but older editions of Chinese Buddhist canon have it as “應得無漏一切賢善慈心相視莫興惡意”. My translation is based on the older editions.
+</blockquote>
 
-[18]:
 
-Taishō Tripiṭaka 1428. 871a8: “爾時有比丘病毒，醫教服腐爛藥。”
 
-[19]:
 
-Taishō Tripiṭaka 1428. 871a11-13: “爾時病毒比丘，醫教服田中泥，佛言：「聽以器盛水和之漉然後受飲。」”
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Taishō Tripiṭaka 1425. 389a10-28: “復次佛住舍衛城，廣說如上。爾時有二比丘阿練若處住。時一比丘塗房為蛇所螫...即便命終。諸比丘以是因緣往白世尊。...佛語諸比丘：「彼若慈心稱四大龍王名者，應不至死。何等四？持國龍王、伊羅國龍王、善子龍王、黑白龍王，我有慈。無足眾生我有慈，兩足眾生我有慈，四足眾生我有慈，多足眾生我有慈。無足眾生莫害我，兩足眾生莫害我，四足眾生莫害我，多足眾生莫害我。一切眾生應得無漏一切賢聖善，心相視，莫興惡意。設使比丘稱是四大龍王名者，應不致死。”
+</blockquote>
 
-[20]:
 
-Taishō Tripiṭaka 1425. 504c15: “若被毒，醫言：「應服大便汁。」...” This is not within the Chapter on Medicine parallel in the Mahāsāṃghika Vinaya.
 
-[21]:
 
-See Pali-English Dictionary, s.v. “vasī°”. Anuruddha (2004, 371) interprets this as a sickness caused by a drink given by a charmer.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarena bhikkhunā visaṃ pītaṃ hoti. anujānāmi bhikkhave gūthaṃ pāyetun ti.”
+</blockquote>
 
-[22]:
 
-Samantapāsādikā V. 1092: “gharadinnakābādho ti vasikaraṇapānakasamuṭṭhitarogo. sitāloḷin ti naṅgalena kasantassa phāle laggamattikaṃ udakena āloḷetvā pāyetuṃ anujānāmī’ti attho.”
 
-[23]:
 
-In Āyurvedic texts, three kinds of snakes are mentioned. They are classified by their appearance, quality of venom, and the bite wound caused by them. None of the names of the snake types or families mentioned in the above Buddhist sources are found in these medical texts (Caraka Saṃhitā Cikitsāsthāna 23. 123129; Suśruta Saṃhitā Kalpasthāna 4. 9-13; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 36. 1-6).
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> The translation of “sītāloḷiṃ pāyetuṃ” is adopted from Anuruddha 2004, 939.
+</blockquote>
 
-[24]:
 
-In the Āyurvedic treatises, there are chapters discussing poisoning and its treatments. For details, see Caraka Saṃhitā Cikitsāsthāna 23; Suśruta Saṃhitā Kalpasthāna 2-8; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 35-38.
 
-[25]:
 
-Emesis can be induced, for example, by syrup of ipecac. But nowadays this method is not encouraged because of the risk of pulmonary aspiration and of the delayed use of more effective treatments. Ingestion of faeces, faecal fluid or mud in the Buddhist sources might aim at induced emesis.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Theravāda Vinaya Piṭaka I. 206: “tena kho pana samayena aññatarassa bhikkhuno gharadinnakābādho hoti. anujānāmi bhikkhave sītāloḷiṃ pāyetun ti.”
+</blockquote>
 
-[26]:
 
-Some poisons and/or their by-products are eliminated via the liver and bile into the bowel. They may be soluble in lipids and would then undergo the enterohepatic reabsorption process. Thus they are difficult to be excreted. As Genius (2011, 11) points out, certain clays can act as absorbents in the bowel, reduce this enterohepatic reabsorption of lipophilic substances and toxins, and enhance the elimination of the toxins. This may explain why mud was used as a remedy for poisoning in ancient India as shown in the Buddhist accounts and in Āyurvedic texts.
+
+
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Taishō Tripiṭaka 1428. 871a8: “爾時有比丘病毒，醫教服腐爛藥。”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Taishō Tripiṭaka 1428. 871a11-13: “爾時病毒比丘，醫教服田中泥，佛言：「聽以器盛水和之漉然後受飲。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Taishō Tripiṭaka 1425. 504c15: “若被毒，醫言：「應服大便汁。」...” This is not within the Chapter on Medicine parallel in the Mahāsāṃghika Vinaya.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[21]</strong> See Pali-English Dictionary, s.v. “vasī°”. Anuruddha (2004, 371) interprets this as a sickness caused by a drink given by a charmer.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Samantapāsādikā V. 1092: “gharadinnakābādho ti vasikaraṇapānakasamuṭṭhitarogo. sitāloḷin ti naṅgalena kasantassa phāle laggamattikaṃ udakena āloḷetvā pāyetuṃ anujānāmī’ti attho.”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> In Āyurvedic texts, three kinds of snakes are mentioned. They are classified by their appearance, quality of venom, and the bite wound caused by them. None of the names of the snake types or families mentioned in the above Buddhist sources are found in these medical texts (Caraka Saṃhitā Cikitsāsthāna 23. 123129; Suśruta Saṃhitā Kalpasthāna 4. 9-13; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 36. 1-6).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> In the Āyurvedic treatises, there are chapters discussing poisoning and its treatments. For details, see Caraka Saṃhitā Cikitsāsthāna 23; Suśruta Saṃhitā Kalpasthāna 2-8; Aṣṭāṅga Hṛdaya Saṃhitā Uttarasthāna 35-38.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[25]</strong> Emesis can be induced, for example, by syrup of ipecac. But nowadays this method is not encouraged because of the risk of pulmonary aspiration and of the delayed use of more effective treatments. Ingestion of faeces, faecal fluid or mud in the Buddhist sources might aim at induced emesis.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Some poisons and/or their by-products are eliminated via the liver and bile into the bowel. They may be soluble in lipids and would then undergo the enterohepatic reabsorption process. Thus they are difficult to be excreted. As Genius (2011, 11) points out, certain clays can act as absorbents in the bowel, reduce this enterohepatic reabsorption of lipophilic substances and toxins, and enhance the elimination of the toxins. This may explain why mud was used as a remedy for poisoning in ancient India as shown in the Buddhist accounts and in Āyurvedic texts.
+</blockquote>
 
 ---
 
-## 61. Dermatology (b): Carbuncles
+## Dermatology (b): Carbuncles
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -344,33 +466,44 @@ The modern medical term for boil is furuncle. Both furuncles and carbuncles are 
 
 Several accounts of carbuncle with description of its cure are noted in the Vinayas. They were treated surgically with incision and then by wound care with drugs and bandaging. Āyurvedic treatises do not have a specific section on boil or carbuncle. But such lesions are well discussed in sections of related conditions of inflammatory swelling and abscess. According to modern medicine, a boil (furuncle) is an infection of hair follicle, and a carbuncle is the more severe and extensive form of furuncle, which requires immediate surgical treatment.
 
-[1]:
 
-Gaṇḍa is one of the five diseases with which a person is not allowed to become a monk (or nun) (Theravāda Vinaya Piṭaka I. 71). The Chinese parallel is 癰, which is translated as a carbuncle (Shu et al. 2005, 924).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Gaṇḍa is one of the five diseases with which a person is not allowed to become a monk (or nun) (Theravāda Vinaya Piṭaka I. 71). The Chinese parallel is 癰, which is translated as a carbuncle (Shu et al. 2005, 924).
+</blockquote>
 
-[2]:
 
-Theravāda Vinaya Piṭaka I. 205-206: “tena kho pana samayena aññatarassa bhikkhuno gaṇḍābādho hoti. anujānāmi bhikkhave satthakammaṃ. kasāvodakena attho hoti. anujānāmi bhikkhave kasāvodakan ti. tilakakkena attho hoti. anujānāmi bhikkhave tilakakkan ti. kabaḷikāya attho hoti. anujānāmi bhikkhave kabaḷikan ti. vaṇabandhanacolena attho hoti. anujānāmi bhikkhave vaṇabandhanacolan ti. vaṇo kaṇḍuvati. anujānāmi bhikkhave sāsapakuṭṭena phositun ti. vaṇo kilijjittha. anujānāmi bhikkhave dhūmaṃ kātun ti. vaṇamaṃsaṃ vuṭṭhāti. anujānāmi bhikkhave loṇasakkharikāya chinditun ti. vaṇo na rūhati. anujānāmi bhikkhave vaṇatelan ti. telaṃ galati. anujānāmi bhikkhave vikāsikaṃ sabbaṃ vaṇapaṭikamman ti.”
 
-[3]:
 
-Taishō Tripiṭaka 1421. 147c7-8: “有比丘患癰，應以刀破藥塗。以是白佛，佛言：「聽。」”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Theravāda Vinaya Piṭaka I. 205-206: “tena kho pana samayena aññatarassa bhikkhuno gaṇḍābādho hoti. anujānāmi bhikkhave satthakammaṃ. kasāvodakena attho hoti. anujānāmi bhikkhave kasāvodakan ti. tilakakkena attho hoti. anujānāmi bhikkhave tilakakkan ti. kabaḷikāya attho hoti. anujānāmi bhikkhave kabaḷikan ti. vaṇabandhanacolena attho hoti. anujānāmi bhikkhave vaṇabandhanacolan ti. vaṇo kaṇḍuvati. anujānāmi bhikkhave sāsapakuṭṭena phositun ti. vaṇo kilijjittha. anujānāmi bhikkhave dhūmaṃ kātun ti. vaṇamaṃsaṃ vuṭṭhāti. anujānāmi bhikkhave loṇasakkharikāya chinditun ti. vaṇo na rūhati. anujānāmi bhikkhave vaṇatelan ti. telaṃ galati. anujānāmi bhikkhave vikāsikaṃ sabbaṃ vaṇapaṭikamman ti.”
+</blockquote>
 
-[4]:
 
-Taishō Tripiṭaka 1435. 288a4-11: “佛在王舍城。有比丘病癰，往語耆婆：「治我此病。」耆婆答言：「膒令熟。」比丘言：「佛未聽膒熟。」諸比丘是事白佛，佛言：「聽膒令熟。」耆婆又言：「應破。」答言：「佛未聽破癰。」是事白佛，佛言：「聽破。」耆婆又言：「應捺去膿。」比丘言：「佛未聽捺。」是事白佛，佛言：「聽捺。」耆婆又言：「應著食膿物。」
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1421. 147c7-8: “有比丘患癰，應以刀破藥塗。以是白佛，佛言：「聽。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Taishō Tripiṭaka 1435. 288a4-11: “佛在王舍城。有比丘病癰，往語耆婆：「治我此病。」耆婆答言：「膒令熟。」比丘言：「佛未聽膒熟。」諸比丘是事白佛，佛言：「聽膒令熟。」耆婆又言：「應破。」答言：「佛未聽破癰。」是事白佛，佛言：「聽破。」耆婆又言：「應捺去膿。」比丘言：「佛未聽捺。」是事白佛，佛言：「聽捺。」耆婆又言：「應著食膿物。」
+</blockquote>
+
+
 
 比丘言：「佛未聽著。」是事白佛，佛言：「聽著種種治膿藥。」” This account is not in the
 
 Sarvāstivāda Bhaiṣajyadharmaka.
 
-[5]:
 
-Samantapāsādikā V. 1092: “tilakakkena attho ti piṭṭhehi tilehi attho. kabaḷikan ti vaṇamukhe sattupiṇḍaṃ pakkhipituṃ. sāsapakuḍḍenā’ti sāsapapiṭṭhena. vaḍḍhamaṃsan ti adhikamaṃsaṃ āṇi viya uṭṭhahati. vikāsikan ti telarundhanapilotikaṃ. sabbaṃ vaṇapaṭikamman ti yaṃ kiñci vaṇapaṭikammaṃ nāma atthi, sabbaṃ anujānāmī’ti attho.”
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Samantapāsādikā V. 1092: “tilakakkena attho ti piṭṭhehi tilehi attho. kabaḷikan ti vaṇamukhe sattupiṇḍaṃ pakkhipituṃ. sāsapakuḍḍenā’ti sāsapapiṭṭhena. vaḍḍhamaṃsan ti adhikamaṃsaṃ āṇi viya uṭṭhahati. vikāsikan ti telarundhanapilotikaṃ. sabbaṃ vaṇapaṭikamman ti yaṃ kiñci vaṇapaṭikammaṃ nāma atthi, sabbaṃ anujānāmī’ti attho.”
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -379,10 +512,6 @@ Samantapāsādikā V. 1092: “tilakakkena attho ti piṭṭhehi tilehi attho. k
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch19" className="text-emerald-400 hover:underline flex items-center font-medium">Dermatology (c): Wounds: Bhesajjakkhandhaka Chapter On Medicine Chapter 19 →</a>
 </div>
-
-
-
-
 
 ---
 

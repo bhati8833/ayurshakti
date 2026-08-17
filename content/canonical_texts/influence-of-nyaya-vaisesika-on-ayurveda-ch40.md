@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 3. Logical reflections in medical assemblies within Influence Of Nyaya Vaisesika On Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 44. 3. Logical reflections in medical assemblies
+## 3. Logical reflections in medical assemblies
 
 Influence of Nyaya-Vaisesika on Ayurveda
 
@@ -83,8 +83,6 @@ in the Nyaya system of philosophy than in these of polity or medicine. Besides t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -92,10 +90,6 @@ in the Nyaya system of philosophy than in these of polity or medicine. Besides t
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/influence-of-nyaya-vaisesika-on-ayurveda-ch41" className="text-emerald-400 hover:underline flex items-center font-medium">8. Karma (Action) in Ayurveda: Influence Of Nyaya Vaisesika On Ayurveda Chapter 41 →</a>
 </div>
-
-
-
-
 
 ---
 

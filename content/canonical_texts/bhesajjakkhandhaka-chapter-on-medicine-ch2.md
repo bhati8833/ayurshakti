@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Background Information within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 7. Chapter 2 - Background Information
+## Chapter 2 - Background Information
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -19,11 +19,9 @@ This study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist L
 
 Chapter 2 - Background Information
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 8. History of Indian Medicine—Up to the Buddha’s Time
+## History of Indian Medicine—Up to the Buddha’s Time
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -49,7 +47,7 @@ The medical data of the śramaṇ-ic phase are found preserved in the early Budd
 
 ---
 
-## 9. Background Information
+## Background Information
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -73,17 +71,17 @@ Why are these four scopes covered as background information? To begin with, the 
 
 Many scholars have conducted much research on the history of Indian medicine as well as on the Vinaya Piṭaka, and their fruitful results will be relied on for depicting the facts in the first two parts–that is, the information of Indian medical history up to the Buddha’s time, and that of the Vinaya Piṭaka, the Skandhaka and the Chapter on Medicine.[2] For the part on the history and principles of Āyurvedic medicine, classical Indian medical texts and contemporary Āyurvedic works will be consulted. Likewise, for the part on the history and principles of biomedicine, modern medical literature will be relied on.
 
-[1]:
 
-The dating of the historical Buddha is a complex issue. There is no reliable information on the Buddha’s dates and no consensus has been reached. It is not within the scope of this study to examine this difficult topic, but a brief description on it is provided here. According to Bechert (2004, 82), there are several hypotheses: (i) the Theravāda tradition calculates the demise of the Buddha to be in 544 or 543 Before Common Era, 218 years before the enthronement of Emperor Aśoka; (ii) most of the scholars, based on the exact dates for Emperor Aśoka, calculate the year of the demise of the Buddha to be 487 or 486 Before Common Era (this is known as the long chronology); (iii) based on certain Buddhist texts of the Mūlasarvāstivāda tradition and historical references of the Theravāda tradition, the Buddha’s parinirvāṇa is dated at 100 years before the reign of Emperor Aśoka, or 368 Before Common Era (this is known as the short chronology); (iv) later texts of East Asian and Tibetan traditions suggest a variety of earlier dates. Although there is no conclusion on the dating of the Buddha, Bechert expresses that “it is safe to suppose that the Buddha passed away some time between 420 Before Common Era and 350 Before Common Era at the age of approximately eighty years” (2004, 82).
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> The dating of the historical Buddha is a complex issue. There is no reliable information on the Buddha’s dates and no consensus has been reached. It is not within the scope of this study to examine this difficult topic, but a brief description on it is provided here. According to Bechert (2004, 82), there are several hypotheses: (i) the Theravāda tradition calculates the demise of the Buddha to be in 544 or 543 Before Common Era, 218 years before the enthronement of Emperor Aśoka; (ii) most of the scholars, based on the exact dates for Emperor Aśoka, calculate the year of the demise of the Buddha to be 487 or 486 Before Common Era (this is known as the long chronology); (iii) based on certain Buddhist texts of the Mūlasarvāstivāda tradition and historical references of the Theravāda tradition, the Buddha’s parinirvāṇa is dated at 100 years before the reign of Emperor Aśoka, or 368 Before Common Era (this is known as the short chronology); (iv) later texts of East Asian and Tibetan traditions suggest a variety of earlier dates. Although there is no conclusion on the dating of the Buddha, Bechert expresses that “it is safe to suppose that the Buddha passed away some time between 420 Before Common Era and 350 Before Common Era at the age of approximately eighty years” (2004, 82).
+</blockquote>
 
-[2]:
 
-The history of ancient Indian medicine and that of Indian Buddhism (which is relevant for the origin of the Buddhist canon) still have many controversies, due to the fact that the historical events were not accurately recorded, as well as that the records often were filled with myths and legends. This makes concise (and precise) descriptions for the preliminary information not easy at all. This chapter has no intention to examine these controversies, for they are not within the aim of this study.
+
+
+<div className="footnote-card"><strong>[2]</strong> The history of ancient Indian medicine and that of Indian Buddhism (which is relevant for the origin of the Buddhist canon) still have many controversies, due to the fact that the historical events were not accurately recorded, as well as that the records often were filled with myths and legends. This makes concise (and precise) descriptions for the preliminary information not easy at all. This chapter has no intention to examine these controversies, for they are not within the aim of this study.</div>
 
 ---
-
-
 
 ---
 
@@ -92,10 +90,6 @@ The history of ancient Indian medicine and that of Indian Buddhism (which is rel
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch3" className="text-emerald-400 hover:underline flex items-center font-medium">Outlines of Chapters: Bhesajjakkhandhaka Chapter On Medicine Chapter 3 →</a>
 </div>
-
-
-
-
 
 ---
 

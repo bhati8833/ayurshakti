@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 7. Description and treatment of Fever (Jvara) within Manasollasa Study Of Arts And Sciences. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 49. 7. Description and treatment of Fever (Jvara)
+## 7. Description and treatment of Fever (Jvara)
 
 Manasollasa (study of Arts and Sciences)
 
@@ -47,7 +47,7 @@ Jvara or fever occupies the first place among physical ailments. So Somesvara's 
 
 ---
 
-## 50. 6. Ancient Indian Chemistry (Rasayana) and Metallurgy
+## 6. Ancient Indian Chemistry (Rasayana) and Metallurgy
 
 Manasollasa (study of Arts and Sciences)
 
@@ -71,8 +71,6 @@ Chemistry was known to the people in ancient India. Chemicals and medicines were
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -80,10 +78,6 @@ Chemistry was known to the people in ancient India. Chemicals and medicines were
   <a href="/articles/manasollasa-study-of-arts-and-sciences" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/manasollasa-study-of-arts-and-sciences-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">2. Upabhogas or Enjoyments in Someshvara’s Manasollasa: Manasollasa Study Of Arts And Sciences Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

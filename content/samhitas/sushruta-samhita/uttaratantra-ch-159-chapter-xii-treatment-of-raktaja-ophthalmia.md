@@ -110,7 +110,11 @@ Dallana explains “Vetrāmla” as “Amla vetasa”. Some, however, divide it 
 
 [5]:
 
+
+<blockquote className="ayur-shloka">
 The group beginning with Kāśiśa—See Chapter XXXVI, Sutra-Sthana, page 334, Vol. 1.
+</blockquote>
+
 
 [6]:
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Ancient treatises on Indian medicine within Physician As Depicted In Manasollasa. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 4. Chapter 4 - Ancient treatises on Indian medicine
+## Chapter 4 - Ancient treatises on Indian medicine
 
 Physician as depicted in Manasollasa
 
@@ -19,11 +19,7 @@ This thesis critically evaluates the role of physicians in Ayurvedic literature,
 
 Chapter 4 - Ancient treatises on Indian medicine
 
-- Sub-Contents: (+ / -)
-
 ---
-
-
 
 ---
 
@@ -32,10 +28,6 @@ Chapter 4 - Ancient treatises on Indian medicine
   <a href="/articles/physician-as-depicted-in-manasollasa" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/physician-as-depicted-in-manasollasa-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">a - Basic concepts of Ayurveda (as explained in Manasollasa): Physician As Depicted In Manasollasa Chapter 4 →</a>
 </div>
-
-
-
-
 
 ---
 

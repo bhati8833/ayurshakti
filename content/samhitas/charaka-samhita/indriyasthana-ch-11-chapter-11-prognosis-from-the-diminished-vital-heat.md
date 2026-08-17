@@ -94,7 +94,11 @@ Fatal prognostics
 
 Here is the recapitulatory verse—
 
+
+<blockquote className="ayur-shloka">
 29, The indication which the morbid humors give of their having transcended the stage of treatment and having pervaded throughout the entire body, is called the evil symptom (ariṣṭa [ariṣṭa]) prognosticative of death.
+</blockquote>
+
 
 11. Thus, in the Section on Sensorial Prognosis in the treatise compiled by Agnivesha and revised by Caraka, the eleventh chapter entitled “The Sensorial prognosis from the observation of the Loss of the Vital Heat” is completed.
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Chapter Summary within Bhesajjakkhandhaka Chapter On Medicine. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 65. Chapter Summary
+## Chapter Summary
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -25,7 +25,7 @@ All these diseases with their treatments (as well as tools in some cases), like 
 
 ---
 
-## 66. Surgery (b): Foot Ailments
+## Surgery (b): Foot Ailments
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -65,45 +65,68 @@ Calluses and corns are common foot problems in the elderly. A callus is a hard a
 
 In short, cases of foot ailments are found in the Chapters on Medicine. These minor problems include cracked feet, corns, and injury. They were treated by ointments and footwear. In Āyurveda, cracked feet are chiefly cured by applying medicated ghee or fat, while corns by surgical excision. In modern medicine, treatements for these diseases aim at correcting any mechanical stress which causes these foot problems, and healing of lesions by means of medicinal agents, physical appliances, and/or surgical interventions.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 187-188: “tena kho pana samayena aññatarassa bhikkhuno pādakhīlābādho hoti... anujānāmi bhikkhave yassa pādā vā dikkhā pādā vā phālitā pādakhīlā vā ābādho upāhanaṃ dhāretun ti.” This information is not within the Theravāda Bhesajjakkhandhaka.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 187-188: “tena kho pana samayena aññatarassa bhikkhuno pādakhīlābādho hoti... anujānāmi bhikkhave yassa pādā vā dikkhā pādā vā phālitā pādakhīlā vā ābādho upāhanaṃ dhāretun ti.” This information is not within the Theravāda Bhesajjakkhandhaka.
+</blockquote>
 
-[2]:
 
-Theravāda Vinaya Piṭaka I. 205: “tena kho pana samayena āyasmato Pilindacacchassa pādā phālitā honti. anujānāmi bhikkhave pādabbhañjanan ti. na kkhamanīyo hoti. anujānāmi bhikkhave pajjaṃ abhisaṃkharitun ti.”
 
-[3]:
 
-In Taishō Tripiṭaka (and CBETA), the character 篦 is given. In older editions of Chinese Buddhist canon, it is written as 錍, which refers to a kind of broad, thin, and long spear-head (Zhang et al.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Theravāda Vinaya Piṭaka I. 205: “tena kho pana samayena āyasmato Pilindacacchassa pādā phālitā honti. anujānāmi bhikkhave pādabbhañjanan ti. na kkhamanīyo hoti. anujānāmi bhikkhave pajjaṃ abhisaṃkharitun ti.”
+</blockquote>
 
-[4]:
 
-, 1237). Thus the instrument for anointing medicine probably is a blade which resembles that kind of spear-head.
 
-[5]:
 
-Taishō Tripiṭaka 1428. 874b3-11: “爾時世尊從迦摩羅至迦維羅衛國。畢陵伽婆蹉在彼國住，患脚劈破，醫教塗脚。白佛，佛言：「聽塗。」不知以何藥塗，白佛，佛言：「聽以酥油若脂塗。」手捉酥油臭，佛言：「聽用塗藥篦。」時手塗脚手膩，佛言：「聽脚脚相塗。」塗脚藥著淺器中不堅密，佛言：「聽作瓶。」若患坌塵，佛言：「聽作蓋。」時油瓶舉處不堅牢。佛言：「聽著床下、若懸著壁上龍牙杙上。」”
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> In Taishō Tripiṭaka (and CBETA), the character 篦 is given. In older editions of Chinese Buddhist canon, it is written as 錍, which refers to a kind of broad, thin, and long spear-head (Zhang et al.
+</blockquote>
 
-[6]:
 
-富羅 is short-legged boot. See Digital Dictionary of Buddhism, s.v. “富羅” [accessed March 14, 2015, http://www.buddhism-dict.net/cgi-bin/xpr-ddb.pl?q=%E5%AF%8C%E7%BE%85].
 
-[7]:
 
-Taishō Tripiṭaka 1421. 146c11-14: “有諸比丘脚跟劈裂，以是白佛，佛言：「聽以熊膏塗，熊皮裹。」時畢陵伽婆蹉常一心行，不覺蹴脚指破。佛見之，告諸比丘：「從今聽諸比丘著富羅。」” This account is not within the Mahīśāsaka Bhaiṣajyadharmaka.
+<div className="footnote-card"><strong>[4]</strong> , 1237). Thus the instrument for anointing medicine probably is a blade which resembles that kind of spear-head.</div>
 
-[8]:
 
-Taishō Tripiṭaka 1421. 147c8-10: “有比丘患脚，須著熊皮鞾、熊膏塗；復須用麵、蛇皮、熊膏、酥，著苦瓠中漬。以是白佛，佛言：「皆聽。」”
 
-[9]:
 
-Samantapāsādikā V. 1092: “pajjaṃ abhisaṅkharitun ti yena phālitapādā pākatikā honti, taṃ nāḷikerādīsu nānābhesajjāni pakkhipitvā pajjaṃ abhisaṅkharituṃ, pādānaṃ sappāyabhesajjaṃ pacitun ti attho.”
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1428. 874b3-11: “爾時世尊從迦摩羅至迦維羅衛國。畢陵伽婆蹉在彼國住，患脚劈破，醫教塗脚。白佛，佛言：「聽塗。」不知以何藥塗，白佛，佛言：「聽以酥油若脂塗。」手捉酥油臭，佛言：「聽用塗藥篦。」時手塗脚手膩，佛言：「聽脚脚相塗。」塗脚藥著淺器中不堅密，佛言：「聽作瓶。」若患坌塵，佛言：「聽作蓋。」時油瓶舉處不堅牢。佛言：「聽著床下、若懸著壁上龍牙杙上。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> 富羅 is short-legged boot. See Digital Dictionary of Buddhism, s.v. “富羅” [accessed March 14, 2015, http://www.buddhism-dict.net/cgi-bin/xpr-ddb.pl?q=%E5%AF%8C%E7%BE%85].
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Taishō Tripiṭaka 1421. 146c11-14: “有諸比丘脚跟劈裂，以是白佛，佛言：「聽以熊膏塗，熊皮裹。」時畢陵伽婆蹉常一心行，不覺蹴脚指破。佛見之，告諸比丘：「從今聽諸比丘著富羅。」” This account is not within the Mahīśāsaka Bhaiṣajyadharmaka.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Taishō Tripiṭaka 1421. 147c8-10: “有比丘患脚，須著熊皮鞾、熊膏塗；復須用麵、蛇皮、熊膏、酥，著苦瓠中漬。以是白佛，佛言：「皆聽。」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Samantapāsādikā V. 1092: “pajjaṃ abhisaṅkharitun ti yena phālitapādā pākatikā honti, taṃ nāḷikerādīsu nānābhesajjāni pakkhipitvā pajjaṃ abhisaṅkharituṃ, pādānaṃ sappāyabhesajjaṃ pacitun ti attho.”
+</blockquote>
 
 ---
 
-## 67. Psychiatry
+## Psychiatry
 
 Bhesajjakkhandhaka (Chapter on Medicine)
 
@@ -141,33 +164,47 @@ In modern medicine, there is no teaching of any diseases caused by nonhumans or 
 
 In brief, a case of insanity or non-human-causing disease is recorded in most of the Chapters on Medicine. Āyurveda has teachings on both illnesses and remedies for them. In modern medicine, there is no coverage for diseases pertaining to non-humans. Insanity, referring to mental derangement, can be a clinical manifestation of various psychiatric disorders. For this Buddhist case, it could be delirium due to vitamin B12 deficiency as analysed above.
 
-[1]:
 
-Theravāda Vinaya Piṭaka I. 202-203: “tena kho pana samayena aññatarassa bhikkhuno amanussikābādho hoti. taṃ ācariyupajjhāyā upaṭṭhahantā nāsakkhiṃsu ārogaṃ kātuṃ. so sūkarasūnaṃ gantvā āmakamaṃsaṃ khādi āmakalohitaṃ pivi, tassa so amanussikābādho paṭippassambhi. bhagavato etam atthaṃ ārocesuṃ. anujānāmi bhikkhave amanussikābādhe āmakamaṃsaṃ āmakalohitan ti.”
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Theravāda Vinaya Piṭaka I. 202-203: “tena kho pana samayena aññatarassa bhikkhuno amanussikābādho hoti. taṃ ācariyupajjhāyā upaṭṭhahantā nāsakkhiṃsu ārogaṃ kātuṃ. so sūkarasūnaṃ gantvā āmakamaṃsaṃ khādi āmakalohitaṃ pivi, tassa so amanussikābādho paṭippassambhi. bhagavato etam atthaṃ ārocesuṃ. anujānāmi bhikkhave amanussikābādhe āmakamaṃsaṃ āmakalohitan ti.”
+</blockquote>
 
-[2]:
 
-Taishō Tripiṭaka 1428. 868b5-9: “爾時世尊在王舍城。時有顛狂病比丘，至殺牛處食生肉飲血，病即差。還復本心，畏慎。諸比丘白佛，佛言：「不犯。若有餘比丘有如是病，食生肉飲血病得差者聽食。」”
 
-[3]:
 
-Taishō Tripiṭaka 1435. 185a7-15: “佛在舍衛國。長老施越狂病，受他語：「噉生肉、飲血狂病當差。」施越語諸比丘：「我狂受他語噉生肉飲血，我今當云何？」諸比丘以是事白佛。佛以是因緣集僧，集僧已，佛知故問，問施越：「汝實狂受他語噉生肉飲血，語諸比丘：『我今當云何？』汝實作是事不？」答言：「實作。世尊！」佛種種因緣讚戒、讚持戒，讚戒、讚持戒已，語諸比丘：「從今日若有如是病，聽噉生肉、飲血，應屏處噉，莫令人見。」”
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Taishō Tripiṭaka 1428. 868b5-9: “爾時世尊在王舍城。時有顛狂病比丘，至殺牛處食生肉飲血，病即差。還復本心，畏慎。諸比丘白佛，佛言：「不犯。若有餘比丘有如是病，食生肉飲血病得差者聽食。」”
+</blockquote>
 
-[4]:
 
-Gilgit Manuscripts III. 1.ix-x: “śrāvastyāṃ nidānam | āyuṣmān saikata unmattaḥ kṣiptacittastenāhiṇḍate |... etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhaga(vānāha | evaṃ sati bhikṣavaḥ saikatasya bhikṣorglānyanirūpaṇāya praṣṭavyam | atha te vaidyasakāśamupasaṃkrāntāḥ | bhadramukha asyaivamevaṃ) ca glānyam | bhaiṣajyaṃ vyapadiśa | ārya āmamāṃsaṃ paribhuñjatu | svastho bhaviṣyati | bhadramukha kimasau puruṣādaḥ | ārya na śakyamanyathā svasthena bhavitum | etat prakara(ṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | yadyevaṃ bhaiṣajyaṃ sevitavyam | na śakyamanyathā svasthena bhavitum | māṃsaṃ dātavyam | bhikṣavastathā) evānuprayacchanti | na khādati | bhagavānāha | akṣiṇī paṭṭakena baddhvā dātavyam | tairdattam | atiśīghraṃ paṭṭako muktaḥ | tena hastau liptau dṛṣṭau | tena vāntam | bhagavānāha | (sadyo na moktavyaḥ | atha cet sadyomoktavyastadā tasya hastau tadagrataḥ suśuddhe pā)nīye sthāpayitvā paścāt paṭṭako moktavyaḥ | sa svasthībhūtaḥ |...”
 
-[5]:
 
-Taishō Tripiṭaka 1448. 2c7-25: “緣處同前。時有具壽西羯多苾芻，遂患風瘨，隨處遊行...以此因緣，時諸苾芻往白世尊。佛言：「諸苾芻，當為西羯多苾芻問彼醫人，為療風疾。」時諸苾芻往醫人處，問曰：「賢首！有一苾芻，患如是病，可為處方。」醫人曰：「宜服生肉，必當得差。」苾芻報曰：「賢首！彼苾芻可是食肉人耶？」醫人曰：「聖者！此是治風病藥。除此藥已，餘不能療。」時諸苾芻以緣白佛。佛言：「若醫人說此為藥，餘不能療，應與生肉。」時諸苾芻便與生肉，彼人眼見而不肯食。佛言：「應以物掩眼，然後與食。」時彼苾芻緣與，即除掩物，然病苾芻見手有血，遂便歐逆。佛言：「不應即除繫物。待彼食訖，淨洗手已，別置香美飲食，方可除其掩繫，而告之曰：『汝應食此美食，病可得差。』」”
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Taishō Tripiṭaka 1435. 185a7-15: “佛在舍衛國。長老施越狂病，受他語：「噉生肉、飲血狂病當差。」施越語諸比丘：「我狂受他語噉生肉飲血，我今當云何？」諸比丘以是事白佛。佛以是因緣集僧，集僧已，佛知故問，問施越：「汝實狂受他語噉生肉飲血，語諸比丘：『我今當云何？』汝實作是事不？」答言：「實作。世尊！」佛種種因緣讚戒、讚持戒，讚戒、讚持戒已，語諸比丘：「從今日若有如是病，聽噉生肉、飲血，應屏處噉，莫令人見。」”
+</blockquote>
 
-[6]:
 
-Samantapāsādikā V. 1090: “āmakamaṃsañ ca khādi āmakalohitañ ca pivīti, na taṃ bhikkhu khādi na pivi, amanusso khāditvā ca pivitvā ca pakkanto, tena vuttaṃ tassa so amanussikābādho paṭippassambhī’ti.”
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Gilgit Manuscripts III. 1.ix-x: “śrāvastyāṃ nidānam | āyuṣmān saikata unmattaḥ kṣiptacittastenāhiṇḍate |... etat prakaraṇaṃ bhikṣavo bhagavata ārocayanti | bhaga(vānāha | evaṃ sati bhikṣavaḥ saikatasya bhikṣorglānyanirūpaṇāya praṣṭavyam | atha te vaidyasakāśamupasaṃkrāntāḥ | bhadramukha asyaivamevaṃ) ca glānyam | bhaiṣajyaṃ vyapadiśa | ārya āmamāṃsaṃ paribhuñjatu | svastho bhaviṣyati | bhadramukha kimasau puruṣādaḥ | ārya na śakyamanyathā svasthena bhavitum | etat prakara(ṇaṃ bhikṣavo bhagavata ārocayanti | bhagavānāha | yadyevaṃ bhaiṣajyaṃ sevitavyam | na śakyamanyathā svasthena bhavitum | māṃsaṃ dātavyam | bhikṣavastathā) evānuprayacchanti | na khādati | bhagavānāha | akṣiṇī paṭṭakena baddhvā dātavyam | tairdattam | atiśīghraṃ paṭṭako muktaḥ | tena hastau liptau dṛṣṭau | tena vāntam | bhagavānāha | (sadyo na moktavyaḥ | atha cet sadyomoktavyastadā tasya hastau tadagrataḥ suśuddhe pā)nīye sthāpayitvā paścāt paṭṭako moktavyaḥ | sa svasthībhūtaḥ |...”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Taishō Tripiṭaka 1448. 2c7-25: “緣處同前。時有具壽西羯多苾芻，遂患風瘨，隨處遊行...以此因緣，時諸苾芻往白世尊。佛言：「諸苾芻，當為西羯多苾芻問彼醫人，為療風疾。」時諸苾芻往醫人處，問曰：「賢首！有一苾芻，患如是病，可為處方。」醫人曰：「宜服生肉，必當得差。」苾芻報曰：「賢首！彼苾芻可是食肉人耶？」醫人曰：「聖者！此是治風病藥。除此藥已，餘不能療。」時諸苾芻以緣白佛。佛言：「若醫人說此為藥，餘不能療，應與生肉。」時諸苾芻便與生肉，彼人眼見而不肯食。佛言：「應以物掩眼，然後與食。」時彼苾芻緣與，即除掩物，然病苾芻見手有血，遂便歐逆。佛言：「不應即除繫物。待彼食訖，淨洗手已，別置香美飲食，方可除其掩繫，而告之曰：『汝應食此美食，病可得差。』」”
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Samantapāsādikā V. 1090: “āmakamaṃsañ ca khādi āmakalohitañ ca pivīti, na taṃ bhikkhu khādi na pivi, amanusso khāditvā ca pivitvā ca pakkanto, tena vuttaṃ tassa so amanussikābādho paṭippassambhī’ti.”
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -176,10 +213,6 @@ Samantapāsādikā V. 1090: “āmakamaṃsañ ca khādi āmakalohitañ ca pivī
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/bhesajjakkhandhaka-chapter-on-medicine-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Conclusion: Summary of Present Research: Bhesajjakkhandhaka Chapter On Medicine Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

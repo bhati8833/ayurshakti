@@ -11,37 +11,42 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Treatments of Viṣūcikā disease (cholera) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 104. Treatments of Viṣūcikā disease (cholera)
+## Treatments of Viṣūcikā disease (cholera)
 
 Treatments of Viṣūcikā disease (cholera)
 
 Viṣūcikā disease is called cholera. Viṣūcikā disease is mentioned in Yajurveda[1]. The word Viṣūcikā for this disease is found in the Atharvaveda and the god Rudra is said to be the destroyer of this disease[2]. The Maitrāyaṇī Saṃhitā speaks of the application of Upavāka or Upavākā medicine[3]. The Atharvaveda mentions the application of Kuṣṭha medicine for this disease.
 
-[1]:
 
-yā vyāghraṃ viṣūcikobhau vṛkaṃ ca rakṣati || (YV.  -XIX/10); Acharya Vedanta Tirtha (ed.), Yajurveda, Delhi, Manoj Publication, 2012, p. 282.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> yā vyāghraṃ viṣūcikobhau vṛkaṃ ca rakṣati || (YV.  -XIX/10); Acharya Vedanta Tirtha (ed.), Yajurveda, Delhi, Manoj Publication, 2012, p. 282.
+</blockquote>
 
-[2]:
 
-somarudrā vi vṛhataṃ viṣūcīmamīvā yā no gamayāviveśa | (AV. –VII/42/1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 145.
 
-[3]:
 
-badarairūpavākābhirbheṣajam | Maitrā. S.–3/11/ 2, 6.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> somarudrā vi vṛhataṃ viṣūcīmamīvā yā no gamayāviveśa | (AV. –VII/42/1); Atharva-Veda-Saṃhitā along with Sāyaṇabhāṣya–Vol.–4, Ramswaroop Sharma Gaud (ed.), Varanasi, Chowkhamba Vidyabhawan, 2011, p. 145.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> badarairūpavākābhirbheṣajam | Maitrā. S.–3/11/ 2, 6.
+</blockquote>
 
 ---
 
-## 105. Chapter 4 - Diseases and Remedial measures (described in Caraka-saṃhitā)
+## Chapter 4 - Diseases and Remedial measures (described in Caraka-saṃhitā)
 
 Chapter 4 - Diseases and Remedial measures (described in Caraka-saṃhitā)
-
-- Sub-Contents: (+ / -)
 
 [Full title: Description of diseases and their remedial measures as described in Caraka-Saṃhitā]
 
 ---
 
-## 106. Classification of diseases in the Caraka-Saṃhitā
+## Classification of diseases in the Caraka-Saṃhitā
 
 Classification of diseases in the Caraka-Saṃhitā
 
@@ -83,19 +88,7 @@ Aśmarīja (due to stone in urinary tract),
 
 Eight Kṣīra doṣas (Vitiation of milk) are:
 
-Discoloration,
-
-bad smell,
-
-bad taste,
-
-sliminess,
-
-foaminess,
-
-ununctuousness,
-
-Heaviness and
+Discoloration,, bad smell,, bad taste,, sliminess,, foaminess,, ununctuousness,, Heaviness and
 
 Atisneha (Over unctuousness).
 
@@ -119,11 +112,7 @@ high specific gravity.
 
 Seven Kuṣṭhas (obstinate) skin diseases including Leprosy are:
 
-Kapāla,
-
-Udumbara,
-
-Maṇḍala,
+Kapāla,, Udumbara,, Maṇḍala,
 
 Ṛṣyajihva,
 
@@ -137,31 +126,13 @@ Seven Piḍakās (abscess or carbuncle) are:
 
 Śarāvikā,
 
-Kacchapikā,
-
-Jālinī,
-
-Sarṣapī,
-
-Alajī,
-
-Vinatā and
+Kacchapikā,, Jālinī,, Sarṣapī,, Alajī,, Vinatā and
 
 Vidradhī.
 
 Seven Vīsarpas (skin diseases characterized by an acute spread) are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja,
-
-Agnivīsarpa,
-
-Karddamavīsarpa and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja,, Agnivīsarpa,, Karddamavīsarpa and
 
 Granthivīsarpa.
 
@@ -181,11 +152,7 @@ Bhayaja (due to fear) and
 
 Six Udāvarttas (abdominal diseases characterized by an acute spread) are:
 
-Vātaja (due to flatus),
-
-Mūtraja (due to urine),
-
-Purīṣaja (due to faeces),
+Vātaja (due to flatus),, Mūtraja (due to urine),, Purīṣaja (due to faeces),
 
 Śukraja (due to semen),
 
@@ -195,25 +162,13 @@ Kṣavathuja (due to sneezing).
 
 Five Gulma (abdominal tumour) diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja and
 
 Raktaja (due to blood).
 
 Five Splenic disorders are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja and
 
 Raktaja (due to blood).
 
@@ -231,25 +186,13 @@ Kṣayaja (due to wasting).
 
 Five Śvāsa (dyspnoea) diseases are:
 
-Mahāśvāsa,
-
-Urdhvaśvāsa,
-
-Chinnaśvāsa,
-
-Tamakaśvāsa and
+Mahāśvāsa,, Urdhvaśvāsa,, Chinnaśvāsa,, Tamakaśvāsa and
 
 Kṣudraśvāsa.
 
 Five Hikkā (hiccup) diseases are:
 
-Mahāhikkā,
-
-Gambhīrahikkā,
-
-Vyapetā (intermittent),
-
-Kṣudrā and
+Mahāhikkā,, Gambhīrahikkā,, Vyapetā (intermittent),, Kṣudrā and
 
 Annajā.
 
@@ -269,149 +212,85 @@ Five Chardi (Vomiting) diseases are:
 
 Dviṣṭānnasaṃyogajā,
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Five Anorexia (Aruci) diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja and
 
 Śramaja.
 
 Five Head diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja and
 
 Kṛmija (due to infection).
 
 Five Heart diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja and
 
 Kṛmija.
 
 Five Pāṇḍu (anaemia) diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Sannipātaja and
+Vātaja,, Pittaja,, Kaphaja,, Sannipātaja and
 
 Mṛdbhakṣaṇaja.
 
 Four Apasmāras (epilepsy) are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Eye diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Ear diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Pratiśyāyas (coryza) are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Mouth Diseases are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Grahaṇīs are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Madas (intoxication) are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Mūrcchās (fainting) are:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja and
+Vātaja,, Pittaja,, Kaphaja and
 
 Sannipātaja.
 
 Four Yakṣmās or Śoṣās (consumption) are:
 
-due to overstrain,
-
-suppression of natural urges,
-
-wasting and
+due to overstrain,, suppression of natural urges,, wasting and
 
 irregular dieting.
 
@@ -509,51 +388,21 @@ Yūka [both reside outside the body in the excreta],
 
 Pipīlikā [residing outside the body in the excreta],
 
-Keśāda,
-
-Lomāda,
-
-Lomadvīpa,
-
-Saurasa,
-
-Auḍumbara and
+Keśāda,, Lomāda,, Lomadvīpa,, Saurasa,, Auḍumbara and
 
 Jantumātṛ—these six reside in the blood;
 
-Antrādā,
-
-Udarāveṣṭā,
-
-Hṛdayādā,
-
-Curu,
-
-Darbhapuṣpa,
-
-Saugandhika and
+Antrādā,, Udarāveṣṭā,, Hṛdayādā,, Curu,, Darbhapuṣpa,, Saugandhika and
 
 Mahāgada—these seven are due to Kapha;
 
-Kakerukā,
-
-Makerukā,
-
-Lelihā,
-
-Saśūlakā and
+Kakerukā,, Makerukā,, Lelihā,, Saśūlakā and
 
 Sausurāda—these five inhabit faces.
 
 Twenty Pramehas (a kind of urinary disorder) are:
 
-Udaka-meha,
-
-Ikṣubālikārasa-meha,
-
-Sāndra-meha,
-
-Sāndraprasāda-meha,
+Udaka-meha,, Ikṣubālikārasa-meha,, Sāndra-meha,, Sāndraprasāda-meha,
 
 Śukla-meha,
 
@@ -567,23 +416,11 @@ Sikatā-meha and
 
 Lālā-meha—these ten are due to Śleṣma;
 
-Kṣāra-meha,
-
-Kāla-meha,
-
-Nīla-meha,
-
-Lohita-meha,
-
-Mañjiṣṭhā-meha and
+Kṣāra-meha,, Kāla-meha,, Nīla-meha,, Lohita-meha,, Mañjiṣṭhā-meha and
 
 Haridrā-meha—these six are due to Pitta;
 
-Vasā-meha,
-
-Majjā-meha,
-
-Hasti-meha and
+Vasā-meha,, Majjā-meha,, Hasti-meha and
 
 Madhumeha—these four types are due to Vāta.
 
@@ -595,31 +432,7 @@ Pittaja,
 
 Ślaiṣmika,
 
-Sānnipātika,
-
-Raktayoni (menorrhagia),
-
-Arajaskā (amenorrhoea),
-
-Acaraṇa (colpitis Mycotica),
-
-Aticaraṇā (chronic vaginitis),
-
-Prākcaraṇā (deflorative vaginitis),
-
-Upaplutā (secondary dysmenorrhoea),
-
-Pariplutā (acute vaginitis),
-
-Udāvartinī (primary dysmenorrhoea),
-
-Karṇinī (endo-cervicitis),
-
-Putraghnī (abortive tendency),
-
-Antarmukhī (inversion of uterus),
-
-Sūcīmukhī (pinhole os),
+Sānnipātika,, Raktayoni (menorrhagia),, Arajaskā (amenorrhoea),, Acaraṇa (colpitis Mycotica),, Aticaraṇā (chronic vaginitis),, Prākcaraṇā (deflorative vaginitis),, Upaplutā (secondary dysmenorrhoea),, Pariplutā (acute vaginitis),, Udāvartinī (primary dysmenorrhoea),, Karṇinī (endo-cervicitis),, Putraghnī (abortive tendency),, Antarmukhī (inversion of uterus),, Sūcīmukhī (pinhole os),
 
 Śuṣka (colo-xerosis),
 
@@ -639,18 +452,22 @@ Pittaja,
 
 Śleṣmaja.
 
-[1]:
 
-prāṇāḥ prāṇābhṛtāṃ yatra śritāḥ sarvendriyāṇi ca |
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> prāṇāḥ prāṇābhṛtāṃ yatra śritāḥ sarvendriyāṇi ca |
 yaduttamāṅgānāṃ śirastadabhidhīyate || (CS.  -Sūtrasthāna–XVII.12); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 332.
+</blockquote>
 
-[2]:
 
-CS.  -Sūtrasthāna–XIX.2-46; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 156-163.
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> CS.  -Sūtrasthāna–XIX.2-46; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 156-163.
+</blockquote>
 
 ---
 
-## 107. Vāta (Vāyu), Pitta and Kapha (Śleṣma)
+## Vāta (Vāyu), Pitta and Kapha (Śleṣma)
 
 Vāta (Vāyu), Pitta and Kapha (Śleṣma)
 
@@ -668,25 +485,35 @@ The place of Śleṣma is the chest, head, neck, joint, stomach and fat. The che
 
 The vitiated Śleṣma should be treated with drugs having pungent, bitter, astringent, sharp, hot, and unctuous qualities. Śleṣmaja diseases should be treated according to the dosage and duration of fomentation, emesis, elimination of dosas from the head, exercise, etc. Physicians call emetic therapy is the best treatment for curing Paittika diseases.
 
-[1]:
 
-trayaḥ śothā bhavanti vātapittaśleṣmanimittāḥ, tu punardvividhā nijāgantubhedena || (CS.  -Sūtrasthāna–XVIII.3); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 336.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> trayaḥ śothā bhavanti vātapittaśleṣmanimittāḥ, tu punardvividhā nijāgantubhedena || (CS.  -Sūtrasthāna–XVIII.3); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 336.
+</blockquote>
 
-[2]:
 
-taṃ madhurāmlalavaṇasnigdhoṣṇorupakrameta, snehasvedāsthapanānuvāsanastaḥ ______karma....... (CS.  -Sūtrasthāna–XX.13); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 402.
 
-[3]:
 
-svedo raso lasīkārudhiramāmāśayaśca pittasthanāni, tatrāpyāmāśayo viśeṣaṇa pittasthanam | (CS.  -Sūtrasthāna–XX.8); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 336.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> taṃ madhurāmlalavaṇasnigdhoṣṇorupakrameta, snehasvedāsthapanānuvāsanastaḥ ______karma....... (CS.  -Sūtrasthāna–XX.13); Caraka Saṃhitā Vol. I with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, p. 402.
+</blockquote>
 
-[4]:
 
-uraḥ śiro grīvā parvāṇyāmāśayo medaśca śleṣmasthanāni, tatrāpyuro viśeṣaṇa śleṣmasthanam |(C. Sūtrasthāna–XX.8); Baidyacharya Kalikinkar Sensarma &Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 165.
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> svedo raso lasīkārudhiramāmāśayaśca pittasthanāni, tatrāpyāmāśayo viśeṣaṇa pittasthanam | (CS.  -Sūtrasthāna–XX.8); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. I, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 336.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> uraḥ śiro grīvā parvāṇyāmāśayo medaśca śleṣmasthanāni, tatrāpyuro viśeṣaṇa śleṣmasthanam |(C. Sūtrasthāna–XX.8); Baidyacharya Kalikinkar Sensarma &Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. I, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 165.
+</blockquote>
 
 ---
 
-## 109. Gulma (abdominal swelling) according to Caraka
+## Gulma (abdominal swelling) according to Caraka
 
 Gulma (abdominal swelling) according to Caraka
 
@@ -730,21 +557,24 @@ Table 1: Vibhedaka Symptoms of Raktagulma[2]
 
 All these symptoms develop after three months of the patient. Treatment of Raktagulma is as follows: Treated only after tenth months, purgation (sneha Virecana), intake of Palāśa kṣāra, vaginal douche, disintegrating the swelling, with measures like enema of Daśamūla with kṣāra, Cow’s urine. In addition, Snehapāna is regarded to be the best treatment for gulma above the umbilicus. Also, the use of Basti is regarded to be the best treatment for gulma in Pakvāśaya and Jaṭhara[3].
 
-[1]:
 
-anannābhilaṣaṇam, arocakāvipākau, agnivaiṣamyaṃ vidāho bhuktasya, pākakāle cāyuktayā chard्yudgārau, vātamūtrapurīṣavegānāṃ cāprādurbhāvaḥ, prādurbhūtānāṃ cāpravṛttirīṣadāgamanaṃ vā, vātaśūlāṭopāntrakujanāpariharṣaṇāti vṛttapurīṣatāḥ, abubhukṣā, daurbalyaṃ, sauhitasya cāsahatvamiti | (C. Nidānasthāna–III.15); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 51.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> anannābhilaṣaṇam, arocakāvipākau, agnivaiṣamyaṃ vidāho bhuktasya, pākakāle cāyuktayā chard्yudgārau, vātamūtrapurīṣavegānāṃ cāprādurbhāvaḥ, prādurbhūtānāṃ cāpravṛttirīṣadāgamanaṃ vā, vātaśūlāṭopāntrakujanāpariharṣaṇāti vṛttapurīṣatāḥ, abubhukṣā, daurbalyaṃ, sauhitasya cāsahatvamiti | (C. Nidānasthāna–III.15); R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. II, Varanasi, Chowkhamba Sanskrit Series Office, 2017, p. 51.
+</blockquote>
 
-[2]:
 
-Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 277.
 
-[3]:
 
-C. Cikitsāsthāna–V.4-182; Caraka Saṃhitā -Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 199-227.
+<div className="footnote-card"><strong>[2]</strong> Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka- Samhita–Vol. II, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, p. 277.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> C. Cikitsāsthāna–V.4-182; Caraka Saṃhitā -Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 199-227.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -753,10 +583,6 @@ C. Cikitsāsthāna–V.4-182; Caraka Saṃhitā -Vol. II with elaborated Vidyoti
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch21" className="text-emerald-400 hover:underline flex items-center font-medium">Arśa (piles) according to Caraka: Atharvaveda And Charaka Samhita Chapter 21 →</a>
 </div>
-
-
-
-
 
 ---
 

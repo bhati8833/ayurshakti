@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Gynecic disorders and Impotency within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 130. Gynecic disorders and Impotency
+## Gynecic disorders and Impotency
 
 Gynecic disorders and Impotency
 
@@ -19,37 +19,7 @@ Maharṣi Caraka discusses disease of Yonivyāpat and treatment of Gynecic disor
 
 Twenty types of Yoni-roga are as follows:
 
-Vātaja,
-
-Pittaja,
-
-Kaphaja,
-
-Tridoṣaja,
-
-Raktaja,
-
-Arajaskā,
-
-Acaraṇa,
-
-Aticaraṇā,
-
-Prākcaraṇā,
-
-Upaplutā,
-
-Pariplutā,
-
-Udāvartinī,
-
-Karṇinī,
-
-Putraghnī,
-
-Antarmukhī,
-
-Sūcīmukhī,
+Vātaja,, Pittaja,, Kaphaja,, Tridoṣaja,, Raktaja,, Arajaskā,, Acaraṇa,, Aticaraṇā,, Prākcaraṇā,, Upaplutā,, Pariplutā,, Udāvartinī,, Karṇinī,, Putraghnī,, Antarmukhī,, Sūcīmukhī,
 
 Śuṣkayoni,
 
@@ -63,19 +33,7 @@ The general treatment of Yoniroga includes unction, fomentation, therapeutic ene
 
 Eight types of Śukra doṣa are as follows:
 
-phenila,
-
-tanu,
-
-rūkṣa,
-
-vivarṇa,
-
-pūti,
-
-picchila,
-
-dhātu upasanisṛṣṭa, and
+phenila,, tanu,, rūkṣa,, vivarṇa,, pūti,, picchila,, dhātu upasanisṛṣṭa, and
 
 avasādi.
 
@@ -83,11 +41,7 @@ The general treatment of defective semen includes unctuous and non-unctuous ther
 
 Four causes of impotency are as follows:
 
-defective seed,
-
-loss of penile strength,
-
-senility, and
+defective seed,, loss of penile strength,, senility, and
 
 deficiency of semen.
 
@@ -97,55 +51,46 @@ Four types of pradara. Features of good menstrual flow are as follows: appears a
 
 Eight types of defective breast milk are as follows:
 
-tasteless,
-
-frothy,
-
-ununctuous,
-
-multi-coloured,
-
-foetid,
-
-slimy,
-
-viscous, and
+tasteless,, frothy,, ununctuous,, multi-coloured,, foetid,, slimy,, viscous, and
 
 heavy.
 
 The treatment of Stanya-roga includes unction, fomentation, emesis, purgation etc. Diet includes rice, red rice, maize, snake-gourd leaves, and brinjal. Use of formulations to cures of this disease, namely, Pañcakolādi ghṛta, Sārivādi lepa, Takrāriṣṭra. Doṣa, dūṣya, mala and vyādhi which are seen in adults, in similarly seen in infants and children, but only their quantity is less[1]. Four more diseases are also discussed in Chapter five.
 
-[1]:
 
-C. Cikitsāsthāna–XXX. 4-152; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. V, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 129-168.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXX. 4-152; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol. V, Varanasi, Chowkhamba Sanskrit Series Office, 2017, pp. 129-168.
+</blockquote>
 
 ---
 
-## 131. Vāta-śoṇita (gout) and Vāta-rakta (arthritis)
+## Vāta-śoṇita (gout) and Vāta-rakta (arthritis)
 
 Vāta-śoṇita (gout) and Vāta-rakta (arthritis)
 
 Maharṣi Caraka discusses disease of Vāta-śoṇita and treatment of Vāta-rakta or Gout and Arthritis and Vāta-śoṇita-cikitsā. Vāta-śoṇita is a variety of vāta-roga. The disease which is caused by both, vāta and rakta is called Vāta-śoṇita. Alternatively, the very attainment of the stage of the morbid transformation of vitiated vāyu and rakta is called Vāta-śoṇita. Pathogenesis of Vāta-śoṇita are as follows: excessive intake of saline, sour, pungent, alkaline, unctuous, hot and uncooked food, oil-cake; sleeping during day time etc. General symptoms of Vāta-śoṇita are as follows: injury, inappropriate pañcakarma, sexual intercourse etc. Vāta-śoṇita located in hands, feet, fingers and all joints. it begins from hands and feet, then spreads all over the body. Due to vāta, pitta, kapha, vāta-pitta, pitta-kapha, kapha-vāta and all three doṣa and rakta produced eight types of Vātaśoṇita. The general treatment of Vāta-śoṇita includes oleation, purgation, unctuous and non-unctuous enema, bloodletting with leech, horn, needle, venesection etc. Use of formulations to cures of this disease, namely, Balā ghṛta, Jīvanīya ghṛta, Sukumāra taila Amṛtādi taila etc. Regarding the diet of Vāta-śoṇita patients it has been said: old maize, wheat, rice, pigeon pea, bengal gram, lentils, ghee, and milk[1].
 
-[1]:
 
-C. Cikitsāsthāna–XXIX. 3-162; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 916-939.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXIX. 3-162; Caraka Saṃhitā Vol. II with elaborated Vidyotini Hindi Commentary, trans. Kasinatha Pandey & Gorakha Natha Chaturvedi, Varanasi, Chaukhambha Bharati Academy, 2015, pp. 916-939.
+</blockquote>
 
 ---
 
-## 132. Vātavyādhi (disease caused by Vāyu)
+## Vātavyādhi (disease caused by Vāyu)
 
 Vātavyādhi (disease caused by Vāyu)
 
 Maharṣi Caraka discusses disease of Vātavyādhi and treatment of disease caused by Vāyu and Vāta-vyādhi-cikitsā. Vāyu itself is the disease. By implication, the aggravated vāyu itself after afflicting the concerned dūṣyas pervades the entire body or a part of it to give rise to different types of pain for which the disease is called Vāta-vyādhi. Vayu is the elan vitae, vāyu is the strength and vāyu is the sustained of the body of living beings. There are five divisions of vāyu, namely Prāṇa, Udāna, Samāna, Vyāna, and Apāna. Eighty diseases occur due to vāta. Premonitory symptom of vāyu is unmanifested. The treatment of vāyu includes oleation, sudation, mild purgation with cuter oil, bloodletting, venesection, nasya, therapeutic enema, Daśamūlādi ghṛta, Citrakādi ghṛta, repeated cold and hot treatment, strong purgation etc.[1]
 
-[1]:
 
-C. Cikitsāsthāna–XXVIII.3-182; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. IV, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 157-189.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> C. Cikitsāsthāna–XXVIII.3-182; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya Satyasekhar Bhattacharya (eds.), Caraka-Samhita–Vol. IV, trans. Kabiraj Jasodanandan Sirkar, Kolkata, Deepayan Publication, 2013, pp. 157-189.
+</blockquote>
 
 ---
 
-## 133. Therapeutics and Rejuvenation Therapy
+## Therapeutics and Rejuvenation Therapy
 
 Therapeutics and Rejuvenation Therapy
 
@@ -163,17 +108,13 @@ Used products for purgation therapy are as follows: latex; roots; barks; leaves;
 
 ---
 
-## 134. Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
+## Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
 
 Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
-
-- Sub-Contents: (+ / -)
 
 [Full title: Comparative Study of General Diseases and remedy in Atharvaveda and Caraka-Saṃhitā]
 
 ---
-
-
 
 ---
 
@@ -182,10 +123,6 @@ Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
   <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/atharvaveda-and-charaka-samhita-ch26" className="text-emerald-400 hover:underline flex items-center font-medium">Signs and Omens in the Caraka-Saṃhitā: Atharvaveda And Charaka Samhita Chapter 26 →</a>
 </div>
-
-
-
-
 
 ---
 

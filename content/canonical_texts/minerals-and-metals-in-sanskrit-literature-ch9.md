@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on 4. The Director of Mines and his Duties within Minerals And Metals In Sanskrit Literature. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 39. 4. The Director of Mines and his Duties
+## 4. The Director of Mines and his Duties
 
 Minerals and Metals in Sanskrit literature
 
@@ -25,7 +25,7 @@ V-6 The Arthasastra advised the Director of Mines to concentrate on the more acc
 
 ---
 
-## 40. 7. Metallic Ores mentioned in the Arthashastra
+## 7. Metallic Ores mentioned in the Arthashastra
 
 Minerals and Metals in Sanskrit literature
 
@@ -45,7 +45,7 @@ V-18 in metal-content' (2.12.7). This phenomenon is due to the fact that in most
 
 ---
 
-## 41. 8. Precious Metals: Gold, Silver and their Alloys
+## 8. Precious Metals: Gold, Silver and their Alloys
 
 Minerals and Metals in Sanskrit literature
 
@@ -61,7 +61,7 @@ V-20 A firm and a removable enclosing (petaka) was made in cases of plating, coa
 
 ---
 
-## 42. 9. The process of Minting Coins
+## 9. The process of Minting Coins
 
 Minerals and Metals in Sanskrit literature
 
@@ -75,8 +75,6 @@ V-21 The Mint Master of laksanadhyaksah was supposed to supervise minting (2.12.
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -84,10 +82,6 @@ V-21 The Mint Master of laksanadhyaksah was supposed to supervise minting (2.12.
   <a href="/articles/minerals-and-metals-in-sanskrit-literature" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/minerals-and-metals-in-sanskrit-literature-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">11. On Vaikrintaka, Vritta and Tikshna: Minerals And Metals In Sanskrit Literature Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

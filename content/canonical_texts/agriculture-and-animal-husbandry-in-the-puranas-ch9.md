@@ -11,11 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Rainfall, the Support of Agriculture that Depends upon the Sun within Agriculture And Animal Husbandry In The Puranas. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 36. Part 18 - Rainfall, the Support of Agriculture that Depends upon the Sun
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Rainfall, the Support of Agriculture that Depends upon the Sun’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 18 - Rainfall, the Support of Agriculture that Depends upon the Sun
 
 Part 18 - Rainfall, the Support of Agriculture that Depends upon the Sun
 
@@ -35,119 +31,173 @@ The same Purāṇa points out that the universe is supported by the Moon as the 
 
 The heat generates from the Sun and the coldness gets into being, from the Moon. Thus, these two have the power to sustain the universe.[16] The Viṣṇu Purāṇa too adds that the Moon with its cooling rays nourishes the vegetables with the cool nectary atoms (containing water), it sheds upon them and through their development it sustains living beings.[17] The Matsya Purāṇa discloses that the Sun always pleases men by producing herbs.[18] It imparts strength in the herbs and plants.[19] During spring and hot weather the Sun passes on heat by his three hundred rays, during the rainy and autumn season causes rain by his four hundred rays and during the dewy and winter season communicates cold by his three hundred rays.[20]
 
-[1]:
 
-vivasvānaṣṭabhirmāsairādāyāpo rasātmikāḥ/
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> vivasvānaṣṭabhirmāsairādāyāpo rasātmikāḥ/
 varṣatyumbu tataścānnamannādapyakhilaṃ jagat// Viṣṇu Purāṇa , 2.9.8
+</blockquote>
 
-[2]:
 
-yattu meghaiḥ samutsṛṣṭaṃ vāri tat prāṇināṃ dvija/
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> yattu meghaiḥ samutsṛṣṭaṃ vāri tat prāṇināṃ dvija/
 puṣṇātyoṣadhayaḥ sarvā jīvanāyāmṛtaṃ hi tat//
 tena vṛddhiṃ parāṃ nītaḥ salilenauṣadhīgaṇaḥ// Ibid., 2.9.19-20a
+</blockquote>
 
-[3]:
 
-sādhakaḥ phalapākāntaḥ prajānāṃ dvija jāyate//
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> sādhakaḥ phalapākāntaḥ prajānāṃ dvija jāyate//
 tena yajñān yathāproktān mānavāḥ śāstracakṣuṣaḥ/
 kurvantyaharahastaiśca devānāpyāyayanti te// Ibid., 2.9.20b-21
+</blockquote>
 
-[4]:
 
-evaṃ yajñāśca vedāśca varṇāśca dvijapūrvakāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> evaṃ yajñāśca vedāśca varṇāśca dvijapūrvakāḥ/
 sarve devanikāyāśca paśubhūtagaṇāśca ye//
 vṛṣṭyā dhṛtamidaṃ sarvamannaṃ niṣpādyate yathā// Ibid., 2.9.22-23a
+</blockquote>
 
-[5]:
 
-ādatte raśmibhiryattu kṣitisaṃsthaṃ rasaṃ raviḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> ādatte raśmibhiryattu kṣitisaṃsthaṃ rasaṃ raviḥ/
 tamutsṛjati bhūtānāṃ puṣṭyarthaṃ śasyavṛddhaye//
 tena prīṇātyaśeṣāṇi bhūtāni bhagavān raviḥ// Ibid., 2.11.24-25a
+</blockquote>
 
-[6]:
 
-vivasvānaṃśubhistīkṣṇairādāya jagato jalam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> vivasvānaṃśubhistīkṣṇairādāya jagato jalam/
 somaṃ puṣyatyathendraśca vāyunāḍīmayairdivi// Ibid., 2.9.9
+</blockquote>
 
-[7]:
 
-ādityapītaṃ sūryāgneḥ somaṃ saṃkramate jalam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> ādityapītaṃ sūryāgneḥ somaṃ saṃkramate jalam/
 nāḍībhirvāyuyuktābhirlokādhānaṃ pravartate// Vāyu Purāṇa , 51.14
+</blockquote>
 
-[8]:
 
-somaṃ puṣyatyathendraśca vāyunāḍīmayairdivi //
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> somaṃ puṣyatyathendraśca vāyunāḍīmayairdivi //
 nālairvikṣipate’bhreṣu dhūmāgnyanilamūrtiṣu// Viṣṇu Purāṇa , 2.9.9b-10a
+</blockquote>
 
-[9]:
 
-samudādvāyusaṃyogādvahantyāpo gabhastayaḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> samudādvāyusaṃyogādvahantyāpo gabhastayaḥ/
 tatastvṛtuvaśāt kāle parivarttandivākaraḥ//
 niyacchatyāpo meghebhyaḥ śuklāḥ śuklaistu raśmibhiḥ/
 abhrasthāḥ prapatantyāpo vāyunā samudīritāḥ// Matsya Purāṇa , 125.32-33
+</blockquote>
 
-[10]:
 
-abhrasthāḥ prapatantyāpo vāyunā samudīritāḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> abhrasthāḥ prapatantyāpo vāyunā samudīritāḥ/
 saṃskāraṃ kālajanitaṃ maitreyāsādya nirmalāḥ // Viṣṇu Purāṇa , 2.9.11
+</blockquote>
 
-[11]:
 
-meghā vāyunighātena visṛjanti jalaṃ bhuvi// Vāyu Purāṇa , 51.15b
 
-[12]:
 
-na bhraśyanti yatastebhyo jalānyabhrāṇi tānyataḥ// Viṣṇu Purāṇa , 2.9.10b
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> meghā vāyunighātena visṛjanti jalaṃ bhuvi// Vāyu Purāṇa , 51.15b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> na bhraśyanti yatastebhyo jalānyabhrāṇi tānyataḥ// Viṣṇu Purāṇa , 2.9.10b
 na bhraśyanti yatastvāpastadabhraṃ kavayo viduḥ// Vāyu Purāṇa , 51.27b
 na bhraśyante tato hyāpastasmādabbhrasya vai sthitiḥ// Matsya Purāṇa , 125.35b
+</blockquote>
 
-[13]:
 
-mehanācca miherdhātormeghatvaṃ vyañjayanti ca// Vāyu Purāṇa , 51.27a; Matsya Purāṇa , 125.35a
 
-[14]:
 
-meghānāṃ punarutpattistrividhā yonirucyate/
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> mehanācca miherdhātormeghatvaṃ vyañjayanti ca// Vāyu Purāṇa , 51.27a; Matsya Purāṇa , 125.35a
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> meghānāṃ punarutpattistrividhā yonirucyate/
 āgneyā brahmajāścaiva pakṣajāśca pṛthagvidhāḥ//
 tridhā ghanāḥ samākhyātāsteṣāṃ vakṣyāmi saṃbhavam// Vāyu Purāṇa ,51.28
+</blockquote>
 
-[15]:
 
-sārvalaukikamambho vai yatsomānnabhasaścyutam/
+
+
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> sārvalaukikamambho vai yatsomānnabhasaścyutam/
 somādhāraṃ jagatsarvametattathyaṃ prakīrtitam// Ibid., 51.19
+</blockquote>
 
-[16]:
 
-sūryāduṣṇaṃ nisravate somācchrītaṃ pravartate/
+
+
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> sūryāduṣṇaṃ nisravate somācchrītaṃ pravartate/
 śītoṣṇavīryau dvāvetau yuktau dhārayato jagat// Ibid., 51.20
+</blockquote>
 
-[17]:
 
-vīrudhaścāmṛtamayaiḥ śītairapparamāṇubhiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> vīrudhaścāmṛtamayaiḥ śītairapparamāṇubhiḥ/
 vīrudhoṣadhiniṣpattyā manuṣya-paśu-kīṭakān/
 āpyāyayati śītāṃśuḥ prakāśāhlādanena tu// Viṣṇu Purāṇa , 2.12.14b-15
+</blockquote>
 
-[18]:
 
-manuṣyānauṣadhībhiśca…/ Matsya Purāṇa , 128.23a
 
-[19]:
 
-auṣadhīṣu balaṃ dhatte…/ Ibid., 128.25b
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> manuṣyānauṣadhībhiśca…/ Matsya Purāṇa , 128.23a
+</blockquote>
 
-[20]:
 
-vasante caiva grīṣme ca śanaiḥ santapate tribhiḥ/
+
+
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> auṣadhīṣu balaṃ dhatte…/ Ibid., 128.25b
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> vasante caiva grīṣme ca śanaiḥ santapate tribhiḥ/
 varṣāsu ca śaradyevaṃ caturbhiḥ sampravarṣati//
 hemante śiśire caiva himotsargastribhiḥ punaḥ// Ibid.,128.24-25a
+</blockquote>
 
 ---
 
-## 37. Part 22 - Vegetables and Fruits (according to the Purāṇas)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Vegetables and Fruits (according to the Puranas)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 22 - Vegetables and Fruits (according to the Purāṇas)
 
 Part 22 - Vegetables and Fruits (according to the Purāṇas)
 
@@ -205,41 +255,13 @@ karkaṭī (types of cucumber), and
 
 The Skanda Purāṇa[5] again mentions the following fruits:
 
-panasa (jack-fruit),
-
-pārāpata,
-
-karamardaka,
-
-badarī (jujube),
-
-śatakandalī,
-
-tamāla,
-
-asanakanda,
-
-lakuca,
-
-priyāmalaka, and
+panasa (jack-fruit),, pārāpata,, karamardaka,, badarī (jujube),, śatakandalī,, tamāla,, asanakanda,, lakuca,, priyāmalaka, and
 
 moca (banana).
 
 The Mārkaṇḍeya Purāṇa[6] also mentions some cultivated fruits such as—
 
-āmra (mango trees),
-
-āmrātaka (hog-plum),
-
-dāḍima (pomegranates),
-
-vījapūraka (citron),
-
-lakuca (monkey-jack tree),
-
-nārikela (coconut),
-
-panasa (Jack-trees), and
+āmra (mango trees),, āmrātaka (hog-plum),, dāḍima (pomegranates),, vījapūraka (citron),, lakuca (monkey-jack tree),, nārikela (coconut),, panasa (Jack-trees), and
 
 amlavetasa (dock or sorrel), etc.
 
@@ -247,11 +269,7 @@ The Garuḍa Purāṇa[7] mentions about Jambū-phala.
 
 The [following] are also mentioned by the Brahmavaivarta Purāṇa.[8]
 
-jambū,
-
-dāḍima,
-
-kadalī,
+jambū,, dāḍima,, kadalī,
 
 āmrātaka.
 
@@ -265,53 +283,69 @@ nārikela and
 
 The Padma Purāṇa[10] mentions one more fruit named ghoṇṭāphala (a kind of jujube).
 
-[1]:
 
-Skanda Purāṇa ,2.7.20.80ff
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Skanda Purāṇa ,2.7.20.80ff
+</blockquote>
 
-[2]:
 
-Ibid.,2.4.6.4-5
 
-[3]:
 
-Ibid.,2.4.6.54
+<div className="footnote-card"><strong>[2]</strong> Ibid.,2.4.6.4-5</div>
 
-[4]:
 
-Ibid.,5.1.60.49-51
 
-[5]:
 
-Ibid.,7.1.206.83-88
+<div className="footnote-card"><strong>[3]</strong> Ibid.,2.4.6.54</div>
 
-[6]:
 
-Mārkaṇḍeya Purāṇa , 6.12-14
 
-[7]:
 
-Garuḍa Purāṇa , 1.183.14
+<div className="footnote-card"><strong>[4]</strong> Ibid.,5.1.60.49-51</div>
 
-[8]:
 
-Brahmavaivarta Purāṇa ,4.103.38
 
-[9]:
 
-Bhaviṣya Purāṇa , 1.64.42
+<div className="footnote-card"><strong>[5]</strong> Ibid.,7.1.206.83-88</div>
 
-[10]:
 
-Padma Purāṇa , 5.80.63
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> Mārkaṇḍeya Purāṇa , 6.12-14
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Garuḍa Purāṇa , 1.183.14
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Brahmavaivarta Purāṇa ,4.103.38
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Bhaviṣya Purāṇa , 1.64.42
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Padma Purāṇa , 5.80.63
+</blockquote>
 
 ---
 
-## 38. Part 21 - Agricultural Products as Mentioned in the Proposed Purāṇas
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Agricultural Products as Mentioned in the Proposed Puranas’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 21 - Agricultural Products as Mentioned in the Proposed Purāṇas
 
 Part 21 - Agricultural Products as Mentioned in the Proposed Purāṇas
 
@@ -393,29 +427,7 @@ The Vāyu Purāṇa too mentions that the herbal plants meant for the sacrificia
 
 The Mārkaṇḍeya Purāṇa too mentions about various agricultural products such as—
 
-yava,
-
-tila,
-
-māṣa,
-
-mudga,
-
-godhūma,
-
-kulattha,
-
-kalāya,
-
-kalama,
-
-rājamāṣa,
-
-kovidāra,
-
-nīvāra,
-
-markaṭaka and
+yava,, tila,, māṣa,, mudga,, godhūma,, kulattha,, kalāya,, kalama,, rājamāṣa,, kovidāra,, nīvāra,, markaṭaka and
 
 karambha etc.[8]
 
@@ -455,161 +467,161 @@ Tapanīya;
 
 And [the following] commentary under śamīdhānyavarga (group consisting of pulses).
 
-mudga,
-
-māṣa,
-
-rājamāṣa,
-
-kulattha,
-
-makuṣṭha,
-
-canaka,
-
-tila,
-
-śimbi,
-
-āḍhakī,
-
-avalguja,
-
-eḍagaja,
-
-niṣpāva,
-
-kākāṇḍomā,
-
-ātmagupta and
+mudga,, māṣa,, rājamāṣa,, kulattha,, makuṣṭha,, canaka,, tila,, śimbi,, āḍhakī,, avalguja,, eḍagaja,, niṣpāva,, kākāṇḍomā,, ātmagupta and
 
 umā [10]
 
 Moreover, the Caraka Saṃhitā elaborates the qualities of the agricultural products such as—
 
-śāli,
-
-ṣaṣṭika,
-
-vrīhi,
-
-śyāmāka,
-
-koradūṣa,
-
-yava and
+śāli,, ṣaṣṭika,, vrīhi,, śyāmāka,, koradūṣa,, yava and
 
 godhūma etc.[11]
 
-[1]:
 
-annaṃ brahma yataḥ proktamanne prāṇāḥ pratiṣṭhitāḥ /
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> annaṃ brahma yataḥ proktamanne prāṇāḥ pratiṣṭhitāḥ /
 annādbhavanti bhūtāni jagadannena varttate //
 annameva tato lakṣmīrannameva janārdanaḥ / Matsya Purāṇa ,83.42-43a
+</blockquote>
 
-[2]:
 
-Vāyu Purāṇa ,8.153
 
-[3]:
 
-vrīhayaśca yavāścaiva godhūmā aṇavastilāḥ/
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Vāyu Purāṇa ,8.153
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> vrīhayaśca yavāścaiva godhūmā aṇavastilāḥ/
 priyaṅgavo hyudārāśca koradūṣāḥ sacīkaṇāḥ//
 māṣā mudgā masūrāśca niṣpāvāḥ sakulatthakāḥ/
 āḍhakyaścaṇakāścaiva śaṇāḥ saptadaśaḥ smṛtāḥ//
 ityetāścauṣadhīnāntu grāmyāṇāṃ jātayo mune/ Viṣṇu Purāṇa , 1.6.21-23a
+</blockquote>
 
-[4]:
 
-Vide, Amarakoṣa, p.239
 
-[5]:
 
-oṣadhyo yajñiyāścaiva grāmyāraṇyācaturdaśa//
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Vide, Amarakoṣa, p.239
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> oṣadhyo yajñiyāścaiva grāmyāraṇyācaturdaśa//
 vrīhayaḥ sayavā māṣā godhūmā aṇavastilāḥ/
 priyaṅgusaptamā hyetā aṣṭamāstu kulatthakāḥ//
 śyāmākāstvatha nīvārā jarttilāḥ sagavedhukāḥ/
 tathā veṇuyavāḥ proktāstadvat markaṭakā mune// Ibid., 1.6 23b-25
+</blockquote>
 
-[6]:
 
-oṣadhyo yajñiyāścaiva grāmyāraṇyāścaturdaśa/
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> oṣadhyo yajñiyāścaiva grāmyāraṇyāścaturdaśa/
 vrīhayaḥ sayavā māṣā godhūmā aṇavastilāḥ//
 priyaṃgusaptama hyete aṣṭamī tu kulatthikā/
 śyāmākāstvatha nīvārā jartilāḥ sagavedhukā//
 kuruvindā veṇuyavāstathā markaṭakāśca ye/
 grāmyāraṇyāḥ smṛtā hyetā auṣadhyastu caturdaśa// Vāyu Purāṇa ,8.153-155
+</blockquote>
 
-[7]:
 
-kṛṣṇebhyaśca tilebhyaśca yattailaṃ parirakṣitaṃ// Ibid., 75.31
 
-[8]:
 
-Mārkaṇḍeya Purāṇa , 15.7-8; 32.9-12
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> kṛṣṇebhyaśca tilebhyaśca yattailaṃ parirakṣitaṃ// Ibid., 75.31
+</blockquote>
 
-[9]:
 
-Caraka Saṃhitā ,1.27.8-9
 
-[10]:
 
-Ibid.,1.27.23-34
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Mārkaṇḍeya Purāṇa , 15.7-8; 32.9-12
+</blockquote>
 
-[11]:
 
-Ibid., 1.27
+
+
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Caraka Saṃhitā ,1.27.8-9
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[10]</strong> Ibid.,1.27.23-34</div>
+
+
+
+
+<div className="footnote-card"><strong>[11]</strong> Ibid., 1.27</div>
 
 ---
 
-## 39. Part 19 - The Gleaning of Corns (from the field or market-place)
-
-Agriculture and Animal husbandry in the Puranas
-
-This page relates ‘Gleaning of Corns (from the field or market-place)’ of the study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society. Besides detailing animal care, the six chapters of this essay also documents various Puranic agricultural science: ploughing, sowing, soil-types/fertility tests, transplantation, manuring, irrigation/water-management, tanks, rainfall–Sun dependence, horticulture, plus crop lists (e.g., Vrihi, Yava, Godhuma) and festivals/rites.
+## Part 19 - The Gleaning of Corns (from the field or market-place)
 
 Part 19 - The Gleaning of Corns (from the field or market-place)
 
 The Bhāgavata Purāṇa defines that the gleaning of corns from the leftovers of field or of the market place is called as ṛta and the cultivation is called as pramṛta, while rendering service to the lowborn is known as śvavṛtti.[1] The same Purāṇa suggests that a person may sustain his life by following the professions which are known as ṛta or pramṛta, but even for preserving his life, he should never lead a dog’s life i.e., śvavṛtti.[2] The Bhāgavata Purāṇa mentions four types of means of livelihood for the Brāhmaṇas.Among these occupations, there were also agriculture, cattle breeding and gleaning grains of corn from the leftover of the threshing floor in the field (śila) or of the market place (uñcha).[3] It emphasizes on gleaning grains of corn from the field as the occupation of a Brāhmaṇa.[4] It enjoins that grain which is gleaned after the removal of corn from the fields and the grains of corn found after the market-day is over, these two forms the wealth.[5] He, whose mind is satisfied with gleaning grains of corn from the fields after the owner had reaped and taken home the food-grains and from the market-place when the market day is over, attains eternal spiritual peace.[6] It is recommended that a Sannyāsī should frequently visit the hermitages of the Vānaprasthas, because the food he gets is prepared out of food-grains which are gleaned from cornfields and market places and by such food from gleaned food-grains, his mind becomes quickly purified and he attains liberation.[7]
 
-[1]:
 
-ṛtamuñchaśilaṃ proktamamṛtaṃ yadayācitam//
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> ṛtamuñchaśilaṃ proktamamṛtaṃ yadayācitam//
 mṛtaṃ tu nityayācñā syātpramṛtaṃ karṣaṇaṃ smṛtam//
 satyānṛtaṃ tu vāṇijyaṃ śvavṛttirnīcasevanam// Bhāgavata Purāṇa ,7.11.19
+</blockquote>
 
-[2]:
 
-ṛtāmṛtābhyāṃ jīveta mṛtena pramṛtena va//
+
+
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> ṛtāmṛtābhyāṃ jīveta mṛtena pramṛtena va//
 satyānṛtābhyāṃ jīveta na śvavṛttyā kathaṃcana// Ibid., 7.11.18
+</blockquote>
 
-[3]:
 
-vārtā vicitrā śālīnayāyāvaraśiloñchanam//
+
+
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> vārtā vicitrā śālīnayāyāvaraśiloñchanam//
 vipravṛttiścaturdhyeyaṃ śreyasī cottarottarā// Ibid.,7.11.16
+</blockquote>
 
-[4]:
 
-Ibid., 11.17.41
 
-[5]:
 
-Ibid., 6.7.36
+<div className="footnote-card"><strong>[4]</strong> Ibid., 11.17.41</div>
 
-[6]:
 
-śiloñchavṛttyā parituṣṭacitto
+
+
+<div className="footnote-card"><strong>[5]</strong> Ibid., 6.7.36</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> śiloñchavṛttyā parituṣṭacitto
 dharmaṃ mahāntaṃ virajaṃ juṣāṇaḥ//
 mayyarpitātmā gṛha eva tiṣṭhannāti
 prasaktaḥ samupaiti śāntim// Ibid., 11.17.43
+</blockquote>
 
-[7]:
 
-vānaprasthāśramapadeṣvabhīṣṇaṃ bhaikṣamācaret// saṃsidhyatyāśvasaṃmoha śuddhasattvaḥ śilāndhasā// Ibid., 11.18.25
+
+
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> vānaprasthāśramapadeṣvabhīṣṇaṃ bhaikṣamācaret// saṃsidhyatyāśvasaṃmoha śuddhasattvaḥ śilāndhasā// Ibid., 11.18.25
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -618,10 +630,6 @@ vānaprasthāśramapadeṣvabhīṣṇaṃ bhaikṣamācaret// saṃsidhyatyāś
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/agriculture-and-animal-husbandry-in-the-puranas-ch10" className="text-emerald-400 hover:underline flex items-center font-medium">Agriculture and its Related Concepts in the Proposed Purāṇas: Agriculture And Animal Husbandry In The Puranas Chapter 10 →</a>
 </div>
-
-
-
-
 
 ---
 

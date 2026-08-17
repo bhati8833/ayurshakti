@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Description of the Physician within Kshemakutuhala. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 22. Description of the Physician
+## Description of the Physician
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -27,7 +27,7 @@ Having all virtues of a physician. 25) Who always keeps life saving drugs at han
 
 ---
 
-## 23. Chapter 2c - Eating
+## Chapter 2c - Eating
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -35,11 +35,9 @@ This is an English study of the Kshemakutuhala by Kshemasharma—an ancient Indi
 
 Chapter 2c - Eating
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 24. Inspection of cooked food
+## Inspection of cooked food
 
 Kshemakutuhala by Kshemasharma (critical study)
 
@@ -57,8 +55,6 @@ In royal families, it was customary to examine the food 61 preparations to see t
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -66,10 +62,6 @@ In royal families, it was customary to examine the food 61 preparations to see t
   <a href="/articles/kshemakutuhala" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/kshemakutuhala-ch8" className="text-emerald-400 hover:underline flex items-center font-medium">The Sitting arrangement and Dining table: Kshemakutuhala Chapter 8 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Trade In Medicinal Drugs within Charaka Samhita And Sushruta Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 73. Trade In Medicinal Drugs
+## Trade In Medicinal Drugs
 
 Charaka Samhita and Sushruta Samhita
 
@@ -52,237 +52,344 @@ We may also note that the medical documents of Genizah belonging to the 12th -13
 
 We may, therefore, hypothesize that as many floral and mineral drugs were procured through trade, they were costly and always readily available. It is in this background that we may appreciate the general injunction of the classical authors that no medicine should be given to the incurable patient (sādhanaṃ na tvasādhyānāṃ vyādhīnām-upadiśyate).[57]
 
-[1]:
 
-Caraka Saṃhitā Cikitsāsthāna 30.3.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Cikitsāsthāna 30.3.
+</blockquote>
 
-[2]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:1.38.
 
-[3]:
 
-A.W.P. Guruge, Society in the Rāmāyaṇa, New Delhi, 1991, p.315.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Caraka Saṃhitā Cikitsāsthāna 1:1.38.
+</blockquote>
 
-[4]:
 
-Suśruta Saṃhitā Cikitsāsthāna 13.4.
 
-[5]:
 
-Suśruta Saṃhitā Cikitsāsthāna 13.14-16.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> A.W.P. Guruge, Society in the Rāmāyaṇa, New Delhi, 1991, p.315.
+</blockquote>
 
-[6]:
 
-It also grows in the Nilgiris; A.K. Nadkarni (Revised and enlarged), Dr. K.M. Nadkarni’s Indian Materia Medica, with Ayurvedic, Unani-Tibbi, Siddha, Allopathic, Homeopathic, Naturopathic and Home Remedies, Appendices and Indexes, Bombay, 2007, p. 187. Hereafter Indian Materia Medica.
 
-[7]:
 
-Indian Materia Medica, p. 23.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Suśruta Saṃhitā Cikitsāsthāna 13.4.
+</blockquote>
 
-[8]:
 
-Caraka Saṃhitā Cikitsāsthāna 1:1.38.
 
-[9]:
 
-Indian Materia Medica, p. 190.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Cikitsāsthāna 13.14-16.
+</blockquote>
 
-[10]:
 
-A. Dalby, Dangerous Tastes: The Story of Spices, Berkeley and Los Angeles, 2000, p.95.
 
-[11]:
 
-Amarakośa II.VI.III.25.
+<div className="footnote-card"><strong>[6]</strong> It also grows in the Nilgiris; A.K. Nadkarni (Revised and enlarged), Dr. K.M. Nadkarni’s Indian Materia Medica, with Ayurvedic, Unani-Tibbi, Siddha, Allopathic, Homeopathic, Naturopathic and Home Remedies, Appendices and Indexes, Bombay, 2007, p. 187. Hereafter Indian Materia Medica.</div>
 
-[12]:
 
-Indian Materia Medica, p. 108.
 
-[13]:
 
-Amarakośa II.IX.40.
+<div className="footnote-card"><strong>[7]</strong> Indian Materia Medica, p. 23.</div>
 
-[14]:
 
-D.C. Sircar, Studies in the Geography of Ancient and Medieval India, Delhi, 1971 (second edition) p.101, p.236.
 
-[15]:
 
-Suśruta Saṃhitā Uttaratantra 15.26.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Caraka Saṃhitā Cikitsāsthāna 1:1.38.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Uttaratantra 8.11; 11.15; 12.22.
 
-[17]:
 
-Caraka Saṃhitā Cikitsāsthāna 26.224-225; Suśruta Saṃhitā Cikitsāsthāna 14.13.
+<div className="footnote-card"><strong>[9]</strong> Indian Materia Medica, p. 190.</div>
 
-[18]:
 
-Suśruta Saṃhitā Sūtrasthāna 11.11; Cikitsāsthāna 1.105; Uttaratantra 8.8;12. 16, 22, 29,34.
 
-[19]:
 
-Suśruta Saṃhitā Cikitsāsthāna 13.20-23.
+<div className="footnote-card"><strong>[10]</strong> A. Dalby, Dangerous Tastes: The Story of Spices, Berkeley and Los Angeles, 2000, p.95.</div>
 
-[20]:
 
-Suśruta Saṃhitā Kalpasthāna 5.16, 67, 69.
 
-[21]:
 
-Indian Materia Medica, Vol.1, p. 1026.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Amarakośa II.VI.III.25.
+</blockquote>
 
-[22]:
 
-Caraka Saṃhitā Sūtrasthāna 5.25; Caraka Saṃhitā Cikitsāsthāna 28.150; Suśruta Saṃhitā Kalpasthāna 6.14.
 
-[23]:
 
-Indian Materia Medica, Vol.1, p.120.
+<div className="footnote-card"><strong>[12]</strong> Indian Materia Medica, p. 108.</div>
 
-[24]:
 
-Angela Barden, et al., Heart Of The Matter: Agarwood Use And Trade and CITES Implementation for Aquilaria Malaccensis. www.traffic.org/forestry-reports/traffic_pub_forestry7.pdf (Accessed on 9.10.2012)
 
-[25]:
 
-Arthaśāstra 2.11.57-58.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Amarakośa II.IX.40.
+</blockquote>
 
-[26]:
 
-Arthaśāstra 2.11.59.
 
-[27]:
 
-Suśruta Saṃhitā Uttaratantra 18.24, 103; 19.11; 44.22.
+<div className="footnote-card"><strong>[14]</strong> D.C. Sircar, Studies in the Geography of Ancient and Medieval India, Delhi, 1971 (second edition) p.101, p.236.</div>
 
-[28]:
 
-Suśruta Saṃhitā Cikitsāsthāna 5.40-45.
 
-[29]:
 
-C.P. Khare (Ed.), Indian Medicinal Plants: An Illustrated Dictionary, p.750.
+<blockquote className="ayur-shloka">
+<strong>[15]</strong> Suśruta Saṃhitā Uttaratantra 15.26.
+</blockquote>
 
-[30]:
 
-Schoff, W.H. (annotated and trans.), The Periplus of the Erythraean Sea: Travel and Trade in the Indian Ocean by a Merchant of the First Century, New Delhi, 2001 (reprint), p. 42.
 
-[31]:
 
-The Periplus of the Erythraean Sea, p. 44.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Uttaratantra 8.11; 11.15; 12.22.
+</blockquote>
 
-[32]:
 
-G. Blane, “Account of the Nardus Indica, or Spikenard”, Philosophical Transactions of the Royal Society of London, Vol. 80, 1790, pp. 284-292.
 
-[33]:
 
-W. Jones, “Additional Remarks on the Spikenard of the Ancients”, Asiatic Researches, Vol. IV, 1807, pp.97-107.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Caraka Saṃhitā Cikitsāsthāna 26.224-225; Suśruta Saṃhitā Cikitsāsthāna 14.13.
+</blockquote>
 
-[34]:
 
-C.P. Khare (Ed.), Indian Medicinal Plants, p.150.
 
-[35]:
 
-J.Scarborough, “Roman Pharmacy and the Eastern Drug Trade: Some Problems as Illustrated by the Example of Aloe”, Pharmacy in History, Vol.24, No.4, 1982, pp. 135-143.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Sūtrasthāna 11.11; Cikitsāsthāna 1.105; Uttaratantra 8.8;12. 16, 22, 29,34.
+</blockquote>
 
-[36]:
 
-The Periplus of the Erythraean Sea, p. 169.
 
-[37]:
 
-The Periplus of the Erythraean Sea, p. 44.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Cikitsāsthāna 13.20-23.
+</blockquote>
 
-[38]:
 
-The Periplus of the Erythraean Sea, p. 214.
 
-[39]:
 
-S.E. Sidebotham, M.Hense and H.M. Nouwens, The Red Land: The Illustrated Archaeology of Egypt’s Eastern Desert, Cairo/New York, 2008, p. 172.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Kalpasthāna 5.16, 67, 69.
+</blockquote>
 
-[40]:
 
-J. Scarborough, “Roman Pharmacy”, pp. 135-143.
 
-[41]:
 
-Liu Xinru, Ancient India and Ancient China: Trade and Religious Exchange, AD 1-600, Delhi, 1988, p. 63-64.
+<div className="footnote-card"><strong>[21]</strong> Indian Materia Medica, Vol.1, p. 1026.</div>
 
-[42]:
 
-The Periplus of the Erythraean Sea, p. 42.
 
-[43]:
 
-The Periplus of the Erythraean Sea, p.168.
+<blockquote className="ayur-shloka">
+<strong>[22]</strong> Caraka Saṃhitā Sūtrasthāna 5.25; Caraka Saṃhitā Cikitsāsthāna 28.150; Suśruta Saṃhitā Kalpasthāna 6.14.
+</blockquote>
 
-[44]:
 
-Suśruta Saṃhitā Uttaratantra 15.26.
 
-[45]:
 
-Suśruta Saṃhitā Sūtrasthāna 37. 12, 15.
+<div className="footnote-card"><strong>[23]</strong> Indian Materia Medica, Vol.1, p.120.</div>
 
-[46]:
 
-Suśruta Saṃhitā Uttaratantra 11.8, 9, 16.
 
-[47]:
 
-H.B. Sarkar, Trade and Commercial Activities of Southern India in the Malaya-Indonesian World (up to AD 1511), Calcutta: Firma KLM, 1986, p.1233.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Angela Barden, et al., Heart Of The Matter: Agarwood Use And Trade and CITES Implementation for Aquilaria Malaccensis. www.traffic.org/forestry-reports/traffic_pub_forestry7.pdf (Accessed on 9.10.2012)
+</blockquote>
 
-[48]:
 
-H. Tinker, South Asia: A Short History, Honolulu, 1990 (2nd edition), p.33.
 
-[49]:
 
-U.C. Dutt, The Materia Medica of the Hindus, p.143.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Arthaśāstra 2.11.57-58.
+</blockquote>
 
-[50]:
 
-W. Dymcock, C.J.H. Warden and D. Hooper, Pharmacographica Indica: A History of the Principal Drugs of Vegetable Origin met with in British India, London/Bombay/Calcutta, 1890, Vol.1, pp.491-492.
 
-[51]:
 
-D.E. Zaurov et al., “The Medicinal Plants of Uzbekistan and Kyrgystan” in S. Eisenman, et al., Medicinal Plants of Central Asia: Uzbekistan and Kyrgystan, Springer: New York, Heidelberg, Dordrecht, London, 2013, p.128.
+<blockquote className="ayur-shloka">
+<strong>[26]</strong> Arthaśāstra 2.11.59.
+</blockquote>
 
-[52]:
 
-P.V. Sharma, “Medicine from Other Non-Medical Sources” in P.V. Sharma (ed.), History of Medicine in India, p.138.
 
-[53]:
 
-A. Dalby, Dangerous Tastes: The Story of Spices, Berkeley and Los Angeles, 2000, p. 46.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Suśruta Saṃhitā Uttaratantra 18.24, 103; 19.11; 44.22.
+</blockquote>
 
-[54]:
 
-Pharmacographica Indica, p.442.
 
-[55]:
 
-Z. Amar and E. Lev, “The Significance of the Genizah's Medical Documents for the Study of Medieval Mediterranean Trade” in Journal of the Economic and Social History of the Orient, Vol. 50, No. 4 (2007), pp.524-541.
+<blockquote className="ayur-shloka">
+<strong>[28]</strong> Suśruta Saṃhitā Cikitsāsthāna 5.40-45.
+</blockquote>
 
-[56]:
 
-Z. Amar and E. Lev, “The Significance of the Genizah's Medical Documents for the Study of Medieval Mediterranean Trade”.
 
-[57]:
 
-Caraka Saṃhitā Sūtrasthāna 1.63.
+<div className="footnote-card"><strong>[29]</strong> C.P. Khare (Ed.), Indian Medicinal Plants: An Illustrated Dictionary, p.750.</div>
+
+
+
+
+<div className="footnote-card"><strong>[30]</strong> Schoff, W.H. (annotated and trans.), The Periplus of the Erythraean Sea: Travel and Trade in the Indian Ocean by a Merchant of the First Century, New Delhi, 2001 (reprint), p. 42.</div>
+
+
+
+
+<div className="footnote-card"><strong>[31]</strong> The Periplus of the Erythraean Sea, p. 44.</div>
+
+
+
+
+<div className="footnote-card"><strong>[32]</strong> G. Blane, “Account of the Nardus Indica, or Spikenard”, Philosophical Transactions of the Royal Society of London, Vol. 80, 1790, pp. 284-292.</div>
+
+
+
+
+<div className="footnote-card"><strong>[33]</strong> W. Jones, “Additional Remarks on the Spikenard of the Ancients”, Asiatic Researches, Vol. IV, 1807, pp.97-107.</div>
+
+
+
+
+<div className="footnote-card"><strong>[34]</strong> C.P. Khare (Ed.), Indian Medicinal Plants, p.150.</div>
+
+
+
+
+<div className="footnote-card"><strong>[35]</strong> J.Scarborough, “Roman Pharmacy and the Eastern Drug Trade: Some Problems as Illustrated by the Example of Aloe”, Pharmacy in History, Vol.24, No.4, 1982, pp. 135-143.</div>
+
+
+
+
+<div className="footnote-card"><strong>[36]</strong> The Periplus of the Erythraean Sea, p. 169.</div>
+
+
+
+
+<div className="footnote-card"><strong>[37]</strong> The Periplus of the Erythraean Sea, p. 44.</div>
+
+
+
+
+<div className="footnote-card"><strong>[38]</strong> The Periplus of the Erythraean Sea, p. 214.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> S.E. Sidebotham, M.Hense and H.M. Nouwens, The Red Land: The Illustrated Archaeology of Egypt’s Eastern Desert, Cairo/New York, 2008, p. 172.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[40]</strong> J. Scarborough, “Roman Pharmacy”, pp. 135-143.</div>
+
+
+
+
+<div className="footnote-card"><strong>[41]</strong> Liu Xinru, Ancient India and Ancient China: Trade and Religious Exchange, AD 1-600, Delhi, 1988, p. 63-64.</div>
+
+
+
+
+<div className="footnote-card"><strong>[42]</strong> The Periplus of the Erythraean Sea, p. 42.</div>
+
+
+
+
+<div className="footnote-card"><strong>[43]</strong> The Periplus of the Erythraean Sea, p.168.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Suśruta Saṃhitā Uttaratantra 15.26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Suśruta Saṃhitā Sūtrasthāna 37. 12, 15.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Suśruta Saṃhitā Uttaratantra 11.8, 9, 16.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[47]</strong> H.B. Sarkar, Trade and Commercial Activities of Southern India in the Malaya-Indonesian World (up to AD 1511), Calcutta: Firma KLM, 1986, p.1233.</div>
+
+
+
+
+<div className="footnote-card"><strong>[48]</strong> H. Tinker, South Asia: A Short History, Honolulu, 1990 (2nd edition), p.33.</div>
+
+
+
+
+<div className="footnote-card"><strong>[49]</strong> U.C. Dutt, The Materia Medica of the Hindus, p.143.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> W. Dymcock, C.J.H. Warden and D. Hooper, Pharmacographica Indica: A History of the Principal Drugs of Vegetable Origin met with in British India, London/Bombay/Calcutta, 1890, Vol.1, pp.491-492.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[51]</strong> D.E. Zaurov et al., “The Medicinal Plants of Uzbekistan and Kyrgystan” in S. Eisenman, et al., Medicinal Plants of Central Asia: Uzbekistan and Kyrgystan, Springer: New York, Heidelberg, Dordrecht, London, 2013, p.128.</div>
+
+
+
+
+<div className="footnote-card"><strong>[52]</strong> P.V. Sharma, “Medicine from Other Non-Medical Sources” in P.V. Sharma (ed.), History of Medicine in India, p.138.</div>
+
+
+
+
+<div className="footnote-card"><strong>[53]</strong> A. Dalby, Dangerous Tastes: The Story of Spices, Berkeley and Los Angeles, 2000, p. 46.</div>
+
+
+
+
+<div className="footnote-card"><strong>[54]</strong> Pharmacographica Indica, p.442.</div>
+
+
+
+
+<div className="footnote-card"><strong>[55]</strong> Z. Amar and E. Lev, “The Significance of the Genizah's Medical Documents for the Study of Medieval Mediterranean Trade” in Journal of the Economic and Social History of the Orient, Vol. 50, No. 4 (2007), pp.524-541.</div>
+
+
+
+
+<div className="footnote-card"><strong>[56]</strong> Z. Amar and E. Lev, “The Significance of the Genizah's Medical Documents for the Study of Medieval Mediterranean Trade”.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Caraka Saṃhitā Sūtrasthāna 1.63.
+</blockquote>
 
 ---
 
-## 74. Chapter 8
+## Chapter 8
 
 Charaka Samhita and Sushruta Samhita
 
@@ -290,11 +397,9 @@ This page relates ‘Chapter 8’ of the study on the Charaka Samhita and the Su
 
 Chapter 8
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 75. Procurement of medicinal drugs
+## Procurement of medicinal drugs
 
 Charaka Samhita and Sushruta Samhita
 
@@ -360,329 +465,541 @@ Other than floral and faunal drugs, the Saṃhitās also incorporate metals and 
 
 Although the two Saṃhitās embody a huge body of knowledge on medicinal substances, the authors did not consider this materia medica to be exhaustive. The physician is by no means circumscribed in his choice of drugs to those mentioned in the texts; he is advised to use his own discretion in the selection of appropriate drugs,[78] and is also at liberty to add herbs of similar nature to a formulation.[79] Besides, when the prescribed rare drugs are unavailable, he is advised to treat with the one readily available, and if anyone drug in a group is harmful, it should be replaced with a suitable one.[80] It is therefore, considered necessary that the physician will use his discretion in formulating remedies for the patient. Drugs with similar properties have, therefore, been classed together keeping in mind the seasonal availability, rarity or suitability to the patient. It may have depended on th patient’s financial status as well.
 
-[1]:
 
-Caraka Saṃhitā Kalpasthāna 1.7.
+<blockquote className="ayur-shloka">
+<strong>[1]</strong> Caraka Saṃhitā Kalpasthāna 1.7.
+</blockquote>
 
-[2]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.4.
 
-[3]:
 
-Caraka Saṃhitā Kalpasthāna 1.9.
+<blockquote className="ayur-shloka">
+<strong>[2]</strong> Suśruta Saṃhitā Sūtrasthāna 36.4.
+</blockquote>
 
-[4]:
 
-Areas with pits, ant hills and saline soil are unsuitable. Caraka Saṃhitā Kalpasthāna 1.9.
 
-[5]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.3.
+<blockquote className="ayur-shloka">
+<strong>[3]</strong> Caraka Saṃhitā Kalpasthāna 1.9.
+</blockquote>
 
-[6]:
 
-These areas include cremation ground, prayer ground (devayajanāgāra) and place of assembly (sabha) or where sacred tomb (caitya) is located. Caraka Saṃhitā Kalpasthāna 1.9.
 
-[7]:
 
-Caraka Saṃhitā Kalpasthāna 1.9.
+<blockquote className="ayur-shloka">
+<strong>[4]</strong> Areas with pits, ant hills and saline soil are unsuitable. Caraka Saṃhitā Kalpasthāna 1.9.
+</blockquote>
 
-[8]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.3.
 
-[9]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.3.
+<blockquote className="ayur-shloka">
+<strong>[5]</strong> Suśruta Saṃhitā Sūtrasthāna 36.3.
+</blockquote>
 
-[10]:
 
-Caraka Saṃhitā Kalpasthāna 1.10.
 
-[11]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.5.
+<blockquote className="ayur-shloka">
+<strong>[6]</strong> These areas include cremation ground, prayer ground (devayajanāgāra) and place of assembly (sabha) or where sacred tomb (caitya) is located. Caraka Saṃhitā Kalpasthāna 1.9.
+</blockquote>
 
-[12]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.6.
 
-[13]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.11.
+<blockquote className="ayur-shloka">
+<strong>[7]</strong> Caraka Saṃhitā Kalpasthāna 1.9.
+</blockquote>
 
-[14]:
 
-Suśruta Saṃhitā Cikitsāsthāna 29.32; Suśruta Saṃhitā Cikitsāsthāna 30.28-29.
 
-[15]:
 
-S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 24-25.
+<blockquote className="ayur-shloka">
+<strong>[8]</strong> Suśruta Saṃhitā Sūtrasthāna 36.3.
+</blockquote>
 
-[16]:
 
-Suśruta Saṃhitā Sūtrasthāna 36.10.
 
-[17]:
 
-Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 23.11-13.
+<blockquote className="ayur-shloka">
+<strong>[9]</strong> Suśruta Saṃhitā Sūtrasthāna 36.3.
+</blockquote>
 
-[18]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.66/2-67/1.
 
-[19]:
 
-Suśruta Saṃhitā Cikitsāsthāna 6.19.
+<blockquote className="ayur-shloka">
+<strong>[10]</strong> Caraka Saṃhitā Kalpasthāna 1.10.
+</blockquote>
 
-[20]:
 
-Suśruta Saṃhitā Cikitsāsthāna 10.13.
 
-[21]:
 
-R.V. Russell, The Tribes and Castes of the Central Provinces of India, Vol.III, London, 1916, pp.430-431.
+<blockquote className="ayur-shloka">
+<strong>[11]</strong> Suśruta Saṃhitā Sūtrasthāna 36.5.
+</blockquote>
 
-[22]:
 
-William Crooke, The North-Western Provinces of India: Their History, Ethnography and Administration, London, 1897, p.18.
 
-[23]:
 
-Caraka Saṃhitā Sūtrasthāna 15.19.
+<blockquote className="ayur-shloka">
+<strong>[12]</strong> Suśruta Saṃhitā Sūtrasthāna 36.6.
+</blockquote>
 
-[24]:
 
-Suśruta Saṃhitā Cikitsāsthāna 30.4.
 
-[25]:
 
-Suśruta Saṃhitā Cikitsāsthāna 30.40.
+<blockquote className="ayur-shloka">
+<strong>[13]</strong> Suśruta Saṃhitā Sūtrasthāna 36.11.
+</blockquote>
 
-[26]:
 
-N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, New Delhi, 1999, (first published 1991), p.72.
 
-[27]:
 
-Pargitar holds that it is a portion of the Eastern Ghats between the Mahānadī and the Godāvarī. N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, p. 210.
+<blockquote className="ayur-shloka">
+<strong>[14]</strong> Suśruta Saṃhitā Cikitsāsthāna 29.32; Suśruta Saṃhitā Cikitsāsthāna 30.28-29.
+</blockquote>
 
-[28]:
 
-N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, p. 213.
 
-[29]:
 
-S. Kapoor, (Ed.), Encyclopaedia of Ancient Indian Geography, New Delhi, 2002, Vol. 2, pp.620-621.
+<div className="footnote-card"><strong>[15]</strong> S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions in Epigraphs”, pp. 24-25.</div>
 
-[30]:
 
-N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, p.118.
 
-[31]:
 
-S. Kapoor (Ed.), Encyclopaedia of Ancient Indian Geography, New Delhi, 2002, Vol. 1, p. 233.
+<blockquote className="ayur-shloka">
+<strong>[16]</strong> Suśruta Saṃhitā Sūtrasthāna 36.10.
+</blockquote>
 
-[32]:
 
-S. Kapoor (Ed.), Encyclopaedia of Ancient Indian Geography, Vol.1, p.245.
 
-[33]:
 
-Suśruta Saṃhitā Cikitsāsthāna 29.27-28.
+<blockquote className="ayur-shloka">
+<strong>[17]</strong> Cakrapāṇidatta on Caraka Saṃhitā Cikitsāsthāna 23.11-13.
+</blockquote>
 
-[34]:
 
-Suśruta Saṃhitā Cikitsāsthāna 29.28-30.
 
-[35]:
 
-D.V.S. Reddy, Glimpses of Health and Medicine in the Mauryan Empire, Hyderabad, 1966, p.5.
+<blockquote className="ayur-shloka">
+<strong>[18]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.66/2-67/1.
+</blockquote>
 
-[36]:
 
-Arthaśāstra II.4.14.
 
-[37]:
 
-D.V.S. Reddy, Glimpses of Health and Medicine in the Mauryan Empire, p. 88.
+<blockquote className="ayur-shloka">
+<strong>[19]</strong> Suśruta Saṃhitā Cikitsāsthāna 6.19.
+</blockquote>
 
-[38]:
 
-Arthaśāstra II.4.27.
 
-[39]:
 
-Arthaśāstra II.4.28.
+<blockquote className="ayur-shloka">
+<strong>[20]</strong> Suśruta Saṃhitā Cikitsāsthāna 10.13.
+</blockquote>
 
-[40]:
 
-R. Thapar, Aśoka and the Decline of the Mauryas with New Afterword, Bibliography and Index, New Delhi, 2002 (Sixth impression), p. 251.
 
-[41]:
 
-Caraka Saṃhitā Sūtrasthāna 1.69.
+<div className="footnote-card"><strong>[21]</strong> R.V. Russell, The Tribes and Castes of the Central Provinces of India, Vol.III, London, 1916, pp.430-431.</div>
 
-[42]:
 
-Caraka Saṃhitā Sūtrasthāna 3-7.
 
-[43]:
 
-It is used in the treatment of skin diseases (Suśruta Saṃhitā Cikitsāsthāna 9.64) and in epilepsy (Suśruta Saṃhitā Uttaratantra 61.24/2- 25/1).
+<div className="footnote-card"><strong>[22]</strong> William Crooke, The North-Western Provinces of India: Their History, Ethnography and Administration, London, 1897, p.18.</div>
 
-[44]:
 
-Caraka Saṃhitā Sūtrasthāna 1.92-104.
 
-[45]:
 
-Caraka Saṃhitā Sūtrasthāna 1.105-113; Suśruta Saṃhitā Sūtrasthāna 1.50-59.
+<blockquote className="ayur-shloka">
+<strong>[23]</strong> Caraka Saṃhitā Sūtrasthāna 15.19.
+</blockquote>
 
-[46]:
 
-Suśruta Saṃhitā Uttaratantra 45.28.
 
-[47]:
 
-Suśruta Saṃhitā Uttaratantra 45.28.
+<blockquote className="ayur-shloka">
+<strong>[24]</strong> Suśruta Saṃhitā Cikitsāsthāna 30.4.
+</blockquote>
 
-[48]:
 
-Suśruta Saṃhitā Uttaratantra 51.52.
 
-[49]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.26.
+<blockquote className="ayur-shloka">
+<strong>[25]</strong> Suśruta Saṃhitā Cikitsāsthāna 30.40.
+</blockquote>
 
-[50]:
 
-Suśruta Saṃhitā Kalpasthāna 5.71 (in antidotal formulation).
 
-[51]:
 
-These are used in nasal insufflations, eye salves and sprinkling in graha afflictions and epilepsy; Suśruta Saṃhitā Uttaratantra 60.40.
+<div className="footnote-card"><strong>[26]</strong> N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, New Delhi, 1999, (first published 1991), p.72.</div>
 
-[52]:
 
-These are used in epilepsy; Suśruta Saṃhitā Uttaratantra 61.24/2-25/1.
 
-[53]:
 
-These are used in graha seizures and epilepsy; Suśruta Saṃhitā Uttaratantra 60.45.
+<blockquote className="ayur-shloka">
+<strong>[27]</strong> Pargitar holds that it is a portion of the Eastern Ghats between the Mahānadī and the Godāvarī. N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, p. 210.
+</blockquote>
 
-[54]:
 
-Suśruta Saṃhitā Uttaratantra 41.49.
 
-[55]:
 
-Suśruta Saṃhitā Cikitsāsthāna 11.11.
+<div className="footnote-card"><strong>[28]</strong> N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, p. 213.</div>
 
-[56]:
 
-Suśruta Saṃhitā Uttaratantra 60.49-50.
 
-[57]:
 
-Caraka Saṃhitā Cikitsāsthāna 23.190; Caraka Saṃhitā Cikitsāsthāna 27.38.
+<div className="footnote-card"><strong>[29]</strong> S. Kapoor, (Ed.), Encyclopaedia of Ancient Indian Geography, New Delhi, 2002, Vol. 2, pp.620-621.</div>
 
-[58]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.16.
 
-[59]:
 
-Suśruta Saṃhitā Uttaratantra 50.20.
+<div className="footnote-card"><strong>[30]</strong> N.N. Bhattacharyya, The Geographical Dictionary of Ancient and Medieval India, p.118.</div>
 
-[60]:
 
-Suśruta Saṃhitā Cikitsāsthāna 7.18.
 
-[61]:
 
-Suśruta Saṃhitā Cikitsāsthāna 11.10.
+<div className="footnote-card"><strong>[31]</strong> S. Kapoor (Ed.), Encyclopaedia of Ancient Indian Geography, New Delhi, 2002, Vol. 1, p. 233.</div>
 
-[62]:
 
-Suśruta Saṃhitā Cikitsāsthāna 40.4.
 
-[63]:
 
-Caraka Saṃhitā Siddhisthāna 12.18(6).
+<div className="footnote-card"><strong>[32]</strong> S. Kapoor (Ed.), Encyclopaedia of Ancient Indian Geography, Vol.1, p.245.</div>
 
-[64]:
 
-Caraka Saṃhitā Siddhisthāna 12.17.
 
-[65]:
 
-Suśruta Saṃhitā Cikitsāsthāna 14.8.
+<blockquote className="ayur-shloka">
+<strong>[33]</strong> Suśruta Saṃhitā Cikitsāsthāna 29.27-28.
+</blockquote>
 
-[66]:
 
-Suśruta Saṃhitā Cikitsāsthāna 9.17.
 
-[67]:
 
-Suśruta Saṃhitā Cikitsāsthāna 4.17.
+<blockquote className="ayur-shloka">
+<strong>[34]</strong> Suśruta Saṃhitā Cikitsāsthāna 29.28-30.
+</blockquote>
 
-[68]:
 
-R.V. Russell, The Tribes and Castes of the Central Provinces of India, Vol. I, p.370.
 
-[69]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.326-329.
+<div className="footnote-card"><strong>[35]</strong> D.V.S. Reddy, Glimpses of Health and Medicine in the Mauryan Empire, Hyderabad, 1966, p.5.</div>
 
-[70]:
 
-Suśruta Saṃhitā Kalpasthāna 3.14.
 
-[71]:
 
-Caraka Saṃhitā Sūtrasthāna 1.70.
+<blockquote className="ayur-shloka">
+<strong>[36]</strong> Arthaśāstra II.4.14.
+</blockquote>
 
-[72]:
 
-They include pearl (muktā), coral (vidruma), diamond (vajrendra), ruby (vaidūrya) and quartz (sphaṭika). Suśruta Saṃhitā Sūtrasthāna 46.329.
 
-[73]:
 
-Suśruta mentions ten types of salts: Suśruta Saṃhitā Sūtrasthāna 46.313-321.
+<div className="footnote-card"><strong>[37]</strong> D.V.S. Reddy, Glimpses of Health and Medicine in the Mauryan Empire, p. 88.</div>
 
-[74]:
 
-Caraka Saṃhitā Sūtrasthāna 1.70.
 
-[75]:
 
-Caraka Saṃhitā Sūtrasthāna 1.70.
+<blockquote className="ayur-shloka">
+<strong>[38]</strong> Arthaśāstra II.4.27.
+</blockquote>
 
-[76]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.322-325.
 
-[77]:
 
-Suśruta Saṃhitā Sūtrasthāna 46.313-330.
+<blockquote className="ayur-shloka">
+<strong>[39]</strong> Arthaśāstra II.4.28.
+</blockquote>
 
-[78]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.76.
 
-[79]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.135.
+<blockquote className="ayur-shloka">
+<strong>[40]</strong> R. Thapar, Aśoka and the Decline of the Mauryas with New Afterword, Bibliography and Index, New Delhi, 2002 (Sixth impression), p. 251.
+</blockquote>
 
-[80]:
 
-Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
+
+
+<blockquote className="ayur-shloka">
+<strong>[41]</strong> Caraka Saṃhitā Sūtrasthāna 1.69.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[42]</strong> Caraka Saṃhitā Sūtrasthāna 3-7.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[43]</strong> It is used in the treatment of skin diseases (Suśruta Saṃhitā Cikitsāsthāna 9.64) and in epilepsy (Suśruta Saṃhitā Uttaratantra 61.24/2- 25/1).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[44]</strong> Caraka Saṃhitā Sūtrasthāna 1.92-104.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[45]</strong> Caraka Saṃhitā Sūtrasthāna 1.105-113; Suśruta Saṃhitā Sūtrasthāna 1.50-59.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[46]</strong> Suśruta Saṃhitā Uttaratantra 45.28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[47]</strong> Suśruta Saṃhitā Uttaratantra 45.28.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[48]</strong> Suśruta Saṃhitā Uttaratantra 51.52.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[49]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.26.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[50]</strong> Suśruta Saṃhitā Kalpasthāna 5.71 (in antidotal formulation).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[51]</strong> These are used in nasal insufflations, eye salves and sprinkling in graha afflictions and epilepsy; Suśruta Saṃhitā Uttaratantra 60.40.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[52]</strong> These are used in epilepsy; Suśruta Saṃhitā Uttaratantra 61.24/2-25/1.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[53]</strong> These are used in graha seizures and epilepsy; Suśruta Saṃhitā Uttaratantra 60.45.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[54]</strong> Suśruta Saṃhitā Uttaratantra 41.49.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[55]</strong> Suśruta Saṃhitā Cikitsāsthāna 11.11.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[56]</strong> Suśruta Saṃhitā Uttaratantra 60.49-50.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[57]</strong> Caraka Saṃhitā Cikitsāsthāna 23.190; Caraka Saṃhitā Cikitsāsthāna 27.38.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[58]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.16.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[59]</strong> Suśruta Saṃhitā Uttaratantra 50.20.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[60]</strong> Suśruta Saṃhitā Cikitsāsthāna 7.18.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[61]</strong> Suśruta Saṃhitā Cikitsāsthāna 11.10.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[62]</strong> Suśruta Saṃhitā Cikitsāsthāna 40.4.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[63]</strong> Caraka Saṃhitā Siddhisthāna 12.18(6).
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[64]</strong> Caraka Saṃhitā Siddhisthāna 12.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[65]</strong> Suśruta Saṃhitā Cikitsāsthāna 14.8.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[66]</strong> Suśruta Saṃhitā Cikitsāsthāna 9.17.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[67]</strong> Suśruta Saṃhitā Cikitsāsthāna 4.17.
+</blockquote>
+
+
+
+
+<div className="footnote-card"><strong>[68]</strong> R.V. Russell, The Tribes and Castes of the Central Provinces of India, Vol. I, p.370.</div>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[69]</strong> Suśruta Saṃhitā Sūtrasthāna 46.326-329.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[70]</strong> Suśruta Saṃhitā Kalpasthāna 3.14.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[71]</strong> Caraka Saṃhitā Sūtrasthāna 1.70.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[72]</strong> They include pearl (muktā), coral (vidruma), diamond (vajrendra), ruby (vaidūrya) and quartz (sphaṭika). Suśruta Saṃhitā Sūtrasthāna 46.329.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[73]</strong> Suśruta mentions ten types of salts: Suśruta Saṃhitā Sūtrasthāna 46.313-321.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[74]</strong> Caraka Saṃhitā Sūtrasthāna 1.70.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[75]</strong> Caraka Saṃhitā Sūtrasthāna 1.70.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[76]</strong> Suśruta Saṃhitā Sūtrasthāna 46.322-325.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[77]</strong> Suśruta Saṃhitā Sūtrasthāna 46.313-330.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[78]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.76.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[79]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.135.
+</blockquote>
+
+
+
+
+<blockquote className="ayur-shloka">
+<strong>[80]</strong> Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
+</blockquote>
 
 ---
-
-
 
 ---
 
@@ -691,10 +1008,6 @@ Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
   <a href="/articles/charaka-samhita-and-sushruta-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-and-sushruta-samhita-ch23" className="text-emerald-400 hover:underline flex items-center font-medium">Certain aspects of dietary regimen: Charaka Samhita And Sushruta Samhita Chapter 23 →</a>
 </div>
-
-
-
-
 
 ---
 

@@ -42,7 +42,11 @@ Classification into Seven groups
 
 4. They may be classified into seven kinds or eighteen kinds or innumerable varieties. When the morbidised humors are classified according to the various combinations, diseases too, fall into similar classifications except in the case of irremediable disorders. As the list of the varieties of disorders is too long to narrate, we shall content ourselves here with describing only seven main varieties of dermatoses.
 
+
+<blockquote className="ayur-shloka">
 5-(1). When Vata and other humors get provoked and vitiate the four body-elements such as skin etc,, if Vata is predominant, there results Kapala dermatosis (kushtha) and if Kapha is predominant Mandala dermatosis is the result. When both Vata, and Pitta are predominant, the Rishyajihva [ṛṣyajihva] type of dermatosis is the result. When Pitta and Kapha predominate the Pundarika [puṇḍarīka] dermatosis result;; when Kapha and Vata predominate, Sidhma dermatosis and when all the three humors equally predominate the Kakanaka [kākaṇaka] type of dermatosis is the result.
+</blockquote>
+
 
 5. Thus these are the seven main types of dermatosisdermatosis (kushtha). When these combine in varying degrees, they cause various types of the disease.
 
@@ -62,15 +66,27 @@ The Audumbara Dermatosis
 
 The Mandala Dermatosis
 
+
+<blockquote className="ayur-shloka">
 8-(3). Those that are glossy, large, raised, smooth, stable and have swollen edges of whitish red shade covered with white rows of hair, with excessive thick white discharge, very moist, itchy and affected with parasites, sluggish in spreading, appearance and ulceration, and which are round in shape are to be known as Mandala [maṇḍala] dermatoses (Urticaria group).
+</blockquote>
+
 
 The Rishyajihva Dermatosis
 
+
+<blockquote className="ayur-shloka">
 8-(4). Those that are rough, reddish -colored, dark brown at the edges and in the centre, with shades of blue, yellow and copper-color, that are quick in spreading and appearance, attended with slight itching, moisture, parasitic infection, much burning, ulceration, pricking pain,(suppuration), painful as if pierced by thorns, and are raised in the middle with thin edges, and are surrounded with round pimples, and are oval in shape like that of the deers tongue, are known as Rishyajihva [ṛṣyajihva] dermatoses.
+</blockquote>
+
 
 The Pundarika Dermatosis
 
+
+<blockquote className="ayur-shloka">
 8-(5). Those that are of white and reddish shades, of red edges, are covered with red rows of hair and veins, are elevated have profuse and dense, sanguinous, purulent and serus discharge, are attended with itching parasitic infection, burning and suppuration and are quickly spreading, appearing and ulcerating and of the color of the petal of the pink lotus (Padma palāśa) are to be known as Pundarika [puṇḍarīka] dermatoses.
+</blockquote>
+
 
 The Sidhma Dermatosis
 

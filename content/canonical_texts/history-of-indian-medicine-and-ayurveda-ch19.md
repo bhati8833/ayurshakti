@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Legends and Mantras within History Of Indian Medicine And Ayurveda. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 56. Chapter 14 - Legends and Mantras
+## Chapter 14 - Legends and Mantras
 
 History of Indian Medicine (and Ayurveda)
 
@@ -122,7 +122,7 @@ Thus although we find traces of legends and charms in the scientific work, they 
 
 ---
 
-## 57. Chapter 13 - Regulations of Society and State Regarding Treatment
+## Chapter 13 - Regulations of Society and State Regarding Treatment
 
 History of Indian Medicine (and Ayurveda)
 
@@ -215,7 +215,7 @@ Thus in keeping with the spirit of the age and the social conventions prevalent 
 
 ---
 
-## 58. Chapter 16 - Various Schools of Thought in Caraka’s Times
+## Chapter 16 - Various Schools of Thought in Caraka’s Times
 
 History of Indian Medicine (and Ayurveda)
 
@@ -288,8 +288,6 @@ Naturally enough, the corollary is that if a soul can go out of the body and re-
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -297,10 +295,6 @@ Naturally enough, the corollary is that if a soul can go out of the body and re-
   <a href="/articles/history-of-indian-medicine-and-ayurveda" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/history-of-indian-medicine-and-ayurveda-ch20" className="text-emerald-400 hover:underline flex items-center font-medium">The Final Renunciation: History Of Indian Medicine And Ayurveda Chapter 20 →</a>
 </div>
-
-
-
-
 
 ---
 

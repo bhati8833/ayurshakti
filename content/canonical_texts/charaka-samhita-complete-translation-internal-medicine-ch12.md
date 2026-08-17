@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on The Analysis of Man (purusha-vicaya) within Charaka Samhita Complete Translation. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 66. Chapter 5 - The Analysis of Man (purusha-vicaya)
+## Chapter 5 - The Analysis of Man (purusha-vicaya)
 
 Charaka Samhita (English translation)
 
@@ -93,7 +93,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 67. Chapter 7 - The Enumeration of the Parts of the Body (sharira-sankhya)
+## Chapter 7 - The Enumeration of the Parts of the Body (sharira-sankhya)
 
 Charaka Samhita (English translation)
 
@@ -167,7 +167,7 @@ Here are the two recapitulatory verses—
 
 ---
 
-## 68. Chapter 8 - ‘The Continuation of one’s Lineage (jatisutriya)
+## Chapter 8 - ‘The Continuation of one’s Lineage (jatisutriya)
 
 Charaka Samhita (English translation)
 
@@ -461,7 +461,7 @@ Summary
 
 ---
 
-## 69. Indriyasthana (Indriya Sthana) — Section on Sensorial Prognosis
+## Indriyasthana (Indriya Sthana) — Section on Sensorial Prognosis
 
 Charaka Samhita (English translation)
 
@@ -469,11 +469,9 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Indriyasthana (Indriya Sthana) — Section on Sensorial Prognosis
 
-- Sub-Contents: (+ / -)
-
 ---
 
-## 70. Chapter 2 - The blossoming of prognostic symptoms (pushpitaka)
+## Chapter 2 - The blossoming of prognostic symptoms (pushpitaka)
 
 Charaka Samhita (English translation)
 
@@ -539,7 +537,7 @@ Here is the recapitulatory verse—
 
 ---
 
-## 71. Chapter 1 - Prognosis from voice and complexion (varna-svara)
+## Chapter 1 - Prognosis from voice and complexion (varna-svara)
 
 Charaka Samhita (English translation)
 
@@ -623,8 +621,6 @@ Here is the recapitulatory verse—
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -632,10 +628,6 @@ Here is the recapitulatory verse—
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/charaka-samhita-complete-translation-internal-medicine-ch13" className="text-emerald-400 hover:underline flex items-center font-medium">The Quest for Longevity (dirgha-jivita): Charaka Samhita Complete Translation Chapter 13 →</a>
 </div>
-
-
-
-
 
 ---
 

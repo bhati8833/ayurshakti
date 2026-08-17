@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Examination of the patient within Sushruta Samhita Sutrasthana. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 44. Chapter XXXV - Examination of the patient
+## Chapter XXXV - Examination of the patient
 
 This current book, the Sutra-sthana (english translation), is the first part of this voluminous medical work. It contains a large summary of the knowledge envelopig the medical aspects of Ayurveda. Descriptions of diseases, various diets and drugs, the duties of a surgeon, surgical procedures, medical training; these are only some of the numerous s...
 
@@ -209,29 +209,30 @@ In the case of a former medicine proving abortive, a different one should not be
 
 Thus ends the Thirty-fifth Chapter of the Sutrasthana in the Sushruta Samhita, which treats of clinical observations.
 
-[1]:
 
-There is a difference between “Agni” and “appetite.” Agni includes bile and pancreatic secretions, and hence indicates the stale of one’s digestion. Appetite, though not an unerring indicator of the process, is the effect of Agni.
+<div className="footnote-card"><strong>[1]</strong> There is a difference between “Agni” and “appetite.” Agni includes bile and pancreatic secretions, and hence indicates the stale of one’s digestion. Appetite, though not an unerring indicator of the process, is the effect of Agni.</div>
 
-[2]:
 
-As the development of a disease due to the deranged Kapha in a country of the Jangala type.
 
-[3]:
 
-As the attack of a bilious distemper in forewinter, or of a Vataja malady in autumn, or of a Kaphaja affection in summer.
+<div className="footnote-card"><strong>[2]</strong> As the development of a disease due to the deranged Kapha in a country of the Jangala type.</div>
 
-[4]:
 
-As the appearance of Kaphaja disease in a patient of bilious temperament.
 
-[5]:
 
-As the appearance of a Kaphaja disease in a subject habituated to the use of viands of pungent taste.
+<div className="footnote-card"><strong>[3]</strong> As the attack of a bilious distemper in forewinter, or of a Vataja malady in autumn, or of a Kaphaja affection in summer.</div>
+
+
+
+
+<div className="footnote-card"><strong>[4]</strong> As the appearance of Kaphaja disease in a patient of bilious temperament.</div>
+
+
+
+
+<div className="footnote-card"><strong>[5]</strong> As the appearance of a Kaphaja disease in a subject habituated to the use of viands of pungent taste.</div>
 
 ---
-
-
 
 ---
 
@@ -240,10 +241,6 @@ As the appearance of a Kaphaja disease in a subject habituated to the use of via
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/sushruta-samhita-sutrasthana-fundamental-principles-ch39" className="text-emerald-400 hover:underline flex items-center font-medium">Purificatory and Palliative Drugs: Sushruta Samhita Sutrasthana Chapter 39 →</a>
 </div>
-
-
-
-
 
 ---
 

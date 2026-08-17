@@ -26,7 +26,11 @@ The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (
 
 Chapter 4 - The Three methods of investigation (trividha-vimana)
 
+
+<blockquote className="ayur-shloka">
 1. We shall now expound the chapter entitled “The Specific Determination of the Measure of the special knowledge of the Three Methods of Diagnosis (trividha-roga-vishesha-vijnana—roga-viśeṣa-vijñāna).”
+</blockquote>
+
 
 2. Thus declared the worshipful Atreya.
 
@@ -88,6 +92,10 @@ Here are the two recapitulatory verses—
 
 14. and what by the method of inference—all this has the high-souled sage given out in this chapter on the Specific Determination of the Three Methods of Diagnosis.
 
+
+<blockquote className="ayur-shloka">
 4 Thus in the Section on Specific Determination of Measure in the treatise compiled by Aguivesha and revised by Caraka, the fourth chapter entitled “The Specific Determination of the Measure of the special knowledge of the Three Methods of Diagnosis (trividha-roga-vishesha-vijnana—roga-viśeṣa-vijñāna)” is completed.
+</blockquote>
+
 
 ---

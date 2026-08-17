@@ -11,7 +11,7 @@ isCanonicalText: true
 
 > **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Appendix 2: Various other Varmams within Marma Sastra and Ayurvedic Science. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
-## 50. Appendix 2: Various other Varmams
+## Appendix 2: Various other Varmams
 
 Marma-sastra and Ayurveda (study)
 
@@ -37,7 +37,7 @@ Involuntary discharge of semen will be the symptom of this varma disorder. Antha
 
 ---
 
-## 51. Study of Katikataruna Marma
+## Study of Katikataruna Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -53,7 +53,7 @@ It is suitable to consider the marma near the upper margin of pelvic bone which 
 
 ---
 
-## 52. Study of Nitamba Marma
+## Study of Nitamba Marma
 
 Marma-sastra and Ayurveda (study)
 
@@ -69,8 +69,6 @@ above the Sroni instead of 'upon' (Upari) the Shroni Palaka) Nitamba literally r
 
 ---
 
-
-
 ---
 
 <div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
@@ -78,10 +76,6 @@ above the Sroni instead of 'upon' (Upari) the Shroni Palaka) Nitamba literally r
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
   <a href="/articles/marma-sastra-ayurveda-vital-points-guide-ch16" className="text-emerald-400 hover:underline flex items-center font-medium">Study of Kukundara Marma: Marma Sastra and Ayurvedic Science Chapter 16 →</a>
 </div>
-
-
-
-
 
 ---
 
