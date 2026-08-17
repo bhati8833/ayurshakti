@@ -22,14 +22,14 @@ export default function HeroSection() {
 
         {/* Hero Monumental Headline */}
         <div className="text-center max-w-4xl mx-auto space-y-6">
-          <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-ayur-forest leading-[1.12] animate-ayur-fade-up">
+          <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-ayur-forest leading-[1.12]">
             Authentic Ayurvedic Remedies.{' '}
             <span className="block italic font-serif font-normal text-ayur-emerald underline decoration-ayur-gold/40 decoration-wavy decoration-2">
               Validated by Modern Pharmacology.
             </span>
           </h1>
 
-          <p className="text-lg sm:text-xl text-ayur-sage max-w-3xl mx-auto leading-relaxed animate-ayur-fade-up">
+          <p className="text-lg sm:text-xl text-ayur-sage max-w-3xl mx-auto leading-relaxed">
             Researched by <strong>Suresh Bhati</strong>. Analyzing 366 chapters from <em>Charaka & Sushruta Samhita</em>, 42 clinical botanical profiles (withanolides, curcuminoids), and PubMed-backed veterinary remedies for human and pet vitality.
           </p>
 

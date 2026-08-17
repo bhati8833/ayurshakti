@@ -117,13 +117,10 @@ export default function RootLayout({
     <html lang="en" className={`${playfair.variable} ${jakarta.variable}`}>
       <head>
         {/* Preconnect & Resource Hints for Critical Path Optimization */}
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://static.cloudflareinsights.com" />
-        <link rel="dns-prefetch" href="https://static.cloudflareinsights.com" />
-        <link rel="preconnect" href="https://www.googletagmanager.com" />
-        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
+        <link rel="preconnect" href="https://resources.ayurshakti.shop" />
         <link rel="dns-prefetch" href="https://resources.ayurshakti.shop" />
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://www.google-analytics.com" />
 
         {/* Schema.org Global Organization & WebSite JSON-LD */}
         <script
@@ -135,8 +132,8 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdWebSite) }}
         />
 
-        {/* Google Analytics 4 (GA4) Tag - Loaded on user interaction or 3.5s idle window */}
-        <Script id="google-analytics" strategy="afterInteractive" data-cfasync="false">
+        {/* Google Analytics 4 (GA4) Tag - Loaded lazily to eliminate main thread blocking */}
+        <Script id="google-analytics" strategy="lazyOnload" data-cfasync="false">
           {`
             (function() {
               function loadGA() {
