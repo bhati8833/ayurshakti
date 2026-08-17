@@ -147,6 +147,9 @@ export default function RootLayout({
             gtag('js', new Date());
             gtag('config', '${GA_MEASUREMENT_ID}', {
               page_path: window.location.pathname,
+              allow_google_signals: false,
+              allow_ad_personalization_signals: false,
+              restricted_data_processing: true,
             });
           `}
         </Script>
