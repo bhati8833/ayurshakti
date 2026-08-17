@@ -3,6 +3,18 @@
     "public": "out",
     "cleanUrls": true,
     "trailingSlash": false,
+    "redirects": [
+      {
+        "source": "/robot.txt",
+        "destination": "/robots.txt",
+        "type": 301
+      },
+      {
+        "source": "/robot",
+        "destination": "/robots.txt",
+        "type": 301
+      }
+    ],
     "ignore": [
       "firebase.json",
       "**/.*",
