@@ -297,12 +297,15 @@ export function getAllArticles(): ArticleDoc[] {
   const articlesMap = new Map<string, ArticleDoc>();
 
   if (fs.existsSync(CONTENT_DIR)) {
+    const EXCLUDED_SILOS = new Set(['samhitas', 'glossary', 'herbs', 'herbs_draft', 'pet-health', 'research']);
     function scanDir(dir: string, categoryName: string) {
       const entries = fs.readdirSync(dir, { withFileTypes: true });
       for (const entry of entries) {
         const fullPath = path.join(dir, entry.name);
         if (entry.isDirectory()) {
-          scanDir(fullPath, entry.name.replace(/_/g, ' '));
+          if (!EXCLUDED_SILOS.has(entry.name)) {
+            scanDir(fullPath, entry.name.replace(/_/g, ' '));
+          }
         } else if (entry.name.endsWith('.md')) {
           const fileContents = fs.readFileSync(fullPath, 'utf8');
           const { data, content } = matter(fileContents);

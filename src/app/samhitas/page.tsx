@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Classical Ayurvedic Samhitas | Authentic Sanskrit Texts | AyurShakti',
   description: 'Explore full English translations and Sanskrit verses of Charaka Samhita, Sushruta Samhita, and classical Ayurvedic scriptures with chapter-by-chapter navigation.',
   alternates: {
-    canonical: 'https://ayurshakti.shop/samhitas',
+    canonical: '/samhitas',
   },
 };
 

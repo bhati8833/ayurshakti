@@ -17,14 +17,18 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://ayurshakti.shop'),
   title: 'AyurShakti — Authentic Ayurvedic Wisdom & Science-Backed Protocols',
   description: 'Evidence-based Ayurvedic remedies, Sanskrit canonical text analysis, and PubMed peer-reviewed protocols for human and pet health. Authored by Suresh Bhati.',
   keywords: ['Ayurveda', 'Ashwagandha', 'Shatavari', 'Giloy', 'Triphala', 'Dog Health Ayurveda', 'Dosha Quiz', 'Suresh Bhati'],
-  authors: [{ name: 'Suresh Bhati', url: 'https://www.ayurshakti.shop' }],
+  authors: [{ name: 'Suresh Bhati', url: 'https://ayurshakti.shop' }],
+  alternates: {
+    canonical: '/',
+  },
   openGraph: {
     title: 'AyurShakti — Authentic Ayurvedic Wisdom & Science-Backed Protocols',
     description: 'Evidence-based Ayurvedic remedies and Sanskrit canonical text analysis for human and pet health.',
-    url: 'https://www.ayurshakti.shop',
+    url: 'https://ayurshakti.shop',
     siteName: 'AyurShakti',
     locale: 'en_US',
     type: 'website',

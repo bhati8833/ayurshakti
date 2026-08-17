@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Botanical Herbal Library & Dravyaguna | AyurShakti',
   description: 'Explore authenticated Ayurvedic herb profiles including Ashwagandha, Shatavari, Giloy, Triphala, and Tulsi with detailed energetic profiles and scientific studies.',
   alternates: {
-    canonical: 'https://ayurshakti.shop/herbs',
+    canonical: '/herbs',
   },
 };
 

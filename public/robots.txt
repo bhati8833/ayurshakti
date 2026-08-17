@@ -1,0 +1,34 @@
+# robots.txt for ayurshakti.shop
+# Optimized for Yandex, Seznam, Google, Bing, and AI crawlers
+# Last updated: 2026-08-17
+
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+
+# Block search/filter/utility pages (no SEO value)
+Disallow: /search
+Disallow: /search/
+Disallow: /search?q=*
+Disallow: *?q=*
+Disallow: /feeds/
+Disallow: /feeds/posts/default
+Disallow: /feeds/posts/default?*
+Disallow: /blogger/
+Disallow: /blogger/*
+Disallow: /*?format=*
+Disallow: /*?m=*
+Disallow: /*?amp=*
+Disallow: /comment*
+Disallow: /*/comment*
+Disallow: /*#comment
+Disallow: /view-source:*
+Disallow: /*.atom
+Disallow: /*?redirect=*
+Disallow: /*.json$
+
+# SITEMAPS
+Sitemap: https://ayurshakti.shop/sitemap.xml
+Sitemap: https://ayurshakti.shop/llms.txt
+
+Host: ayurshakti.shop

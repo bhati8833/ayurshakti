@@ -2847,6 +2847,40 @@
           }
         }
       }
+    },
+    "https://ayurshakti.shop/sitemap.xml": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-17T08:09:17.810463+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://ayurshakti.shop/sitemap.xml",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        }
+      }
     }
   }
 }

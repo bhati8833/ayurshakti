@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: ResearchPageProps): Promise<M
     title: `${doc.title} | Ayurvedic Research Paper | AyurShakti`,
     description: doc.description,
     alternates: {
-      canonical: `https://ayurshakti.shop/research/${params.slug}`,
+      canonical: `/research/${params.slug}`,
     },
   };
 }

@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: BookPageProps): Promise<Metad
     title: `${book.title} - Complete Chapters & Table of Contents | AyurShakti`,
     description: `Browse all ${book.total_chapters} chapters of ${book.title}. Translated by ${book.author} with detailed Ayurvedic therapeutics.`,
     alternates: {
-      canonical: `https://ayurshakti.shop/samhitas/${book.book_slug}`,
+      canonical: `/samhitas/${book.book_slug}`,
     },
   };
 }

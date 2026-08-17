@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: PetPageProps): Promise<Metada
     title: `${doc.title} | Veterinary Ayurveda | AyurShakti`,
     description: doc.description,
     alternates: {
-      canonical: `https://ayurshakti.shop/pet-health/${params.slug}`,
+      canonical: `/pet-health/${params.slug}`,
     },
   };
 }

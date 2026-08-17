@@ -1,16 +1,16 @@
 // ayurshakti-robots worker
 // Scoped ONLY to ayurshakti.shop/robots.txt and www.ayurshakti.shop/robots.txt
-// All other traffic passes untouched to Blogger (no route match).
 
 const ROBOTS_TXT = `# robots.txt for ayurshakti.shop
 # Optimized for Yandex, Seznam, Google, Bing, and AI crawlers
-# Last updated: 2026-07-11
+# Last updated: 2026-08-17
 
 # ============================================================
 # DEFAULT RULES - All crawlers
 # ============================================================
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
 
 # Block search/filter/utility pages (no SEO value)
 Disallow: /search
@@ -30,7 +30,6 @@ Disallow: /*/comment*
 Disallow: /*#comment
 Disallow: /view-source:*
 Disallow: /*.atom
-Disallow: /*.xml$
 Disallow: /*?redirect=*
 Disallow: /*.json$
 
@@ -39,6 +38,7 @@ Disallow: /*.json$
 # ============================================================
 User-agent: Yandex
 Allow: /
+Allow: /sitemap.xml
 Disallow: /search
 Disallow: /search/
 Disallow: /feeds/
@@ -51,10 +51,8 @@ Disallow: /*/comment*
 Disallow: /*#comment
 Disallow: /view-source:*
 Disallow: /*.atom
-Disallow: /*.xml$
 
 # Yandex-specific: Clean-param for UTM/tracking parameters
-# Ignores these URL parameters when indexing (prevents duplicates)
 Clean-param: utm_source&utm_medium&utm_campaign&utm_content&utm_term / 
 Clean-param: ref / 
 Clean-param: fbclid / 
@@ -64,8 +62,6 @@ Clean-param: mc_eid /
 Clean-param: _ga / 
 Clean-param: _gl /
 
-# Crawl-delay for Yandex (seconds between requests)
-# Default is conservative; adjust if server load is an issue
 Crawl-delay: 2
 
 # ============================================================
@@ -73,6 +69,7 @@ Crawl-delay: 2
 # ============================================================
 User-agent: SeznamBot
 Allow: /
+Allow: /sitemap.xml
 Disallow: /search
 Disallow: /search/
 Disallow: /feeds/
@@ -85,10 +82,7 @@ Disallow: /*/comment*
 Disallow: /*#comment
 Disallow: /view-source:*
 Disallow: /*.atom
-Disallow: /*.xml$
 
-# Request-rate for Seznam (requests per time unit)
-# Format: Request-rate: requests/time (s=seconds, m=minutes, h=hours, d=days)
 Request-rate: 100/1m
 
 # ============================================================
@@ -141,6 +135,7 @@ Allow: /
 # ============================================================
 User-agent: Googlebot
 Allow: /
+Allow: /sitemap.xml
 Disallow: /search
 Disallow: /feeds/
 Disallow: /blogger/
@@ -152,6 +147,7 @@ Disallow: /*/comment*
 
 User-agent: Bingbot
 Allow: /
+Allow: /sitemap.xml
 Disallow: /search
 Disallow: /feeds/
 Disallow: /blogger/
@@ -163,6 +159,7 @@ Disallow: /*/comment*
 
 User-agent: DuckDuckBot
 Allow: /
+Allow: /sitemap.xml
 Disallow: /search
 Disallow: /feeds/
 Disallow: /blogger/
@@ -174,6 +171,7 @@ Disallow: /*/comment*
 
 User-agent: Baiduspider
 Allow: /
+Allow: /sitemap.xml
 Disallow: /search
 Disallow: /feeds/
 Disallow: /blogger/
@@ -184,20 +182,17 @@ Disallow: /comment*
 Disallow: /*/comment*
 
 # ============================================================
-# SITEMAPS - Use XML sitemap (not Atom feed)
+# SITEMAPS
 # ============================================================
-Sitemap: https://www.ayurshakti.shop/sitemap.xml
+Sitemap: https://ayurshakti.shop/sitemap.xml
 
 # llms.txt for AI knowledge retrieval
-Sitemap: https://www.ayurshakti.shop/llms.txt
-
-# Image sitemap (if available)
-# Sitemap: https://www.ayurshakti.shop/sitemap-images.xml
+Sitemap: https://ayurshakti.shop/llms.txt
 
 # ============================================================
 # HOST DIRECTIVE (Yandex) - Preferred domain
 # ============================================================
-Host: www.ayurshakti.shop`;
+Host: ayurshakti.shop`;
 
 export default {
   async fetch(request, env, ctx) {
@@ -211,7 +206,6 @@ export default {
         },
       });
     }
-    // Fallback (should never trigger since route is scoped to /robots.txt)
     return fetch(request);
   },
 };

@@ -38,7 +38,7 @@ export async function generateMetadata({ params }: ChapterPageProps): Promise<Me
     title: `${chapter.title} | ${chapter.book} | AyurShakti`,
     description: `Read ${chapter.title} from ${chapter.book} (${chapter.section}). Unabridged English translation with classical Ayurvedic principles.`,
     alternates: {
-      canonical: `https://ayurshakti.shop/samhitas/${params.bookSlug}/${params.chapterSlug}`,
+      canonical: `/samhitas/${params.bookSlug}/${params.chapterSlug}`,
     },
   };
 }

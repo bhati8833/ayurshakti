@@ -26,7 +26,7 @@ export async function generateMetadata({ params }: HerbPageProps): Promise<Metad
     title: `${herb.title} | Ayurvedic Herbal Profile | AyurShakti`,
     description: herb.description,
     alternates: {
-      canonical: `https://ayurshakti.shop/herbs/${params.slug}`,
+      canonical: `/herbs/${params.slug}`,
     },
   };
 }

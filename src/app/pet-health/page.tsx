@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Veterinary Ayurveda & Pet Health | Mrigayurveda | AyurShakti',
   description: 'Ancient Ayurvedic veterinary sciences, Hastyayurveda (elephantology), Matangalila, and natural herbal care protocols for pets and domestic animals.',
   alternates: {
-    canonical: 'https://ayurshakti.shop/pet-health',
+    canonical: '/pet-health',
   },
 };
 

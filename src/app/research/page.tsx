@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   title: 'Ayurvedic Research Papers & Alchemy Studies | AyurShakti',
   description: 'Academic studies on Rasa Jala Nidhi, ancient Indian surgery, Nyaya-Vaisesika philosophy, Marma Shastra, and ethnobotanical research.',
   alternates: {
-    canonical: 'https://ayurshakti.shop/research',
+    canonical: '/research',
   },
 };
 
