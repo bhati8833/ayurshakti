@@ -1,0 +1,779 @@
+{
+  "title": "Charaka Samhita And Sushruta Samhita By Nayana Sharma",
+  "paper_slug": "charaka-samhita-and-sushruta-samhita-by-nayana-sharma",
+  "author": "Suresh Bhati",
+  "original_scholar": "Nayana Sharma",
+  "total_chapters": 96,
+  "silo": "research",
+  "description": "Scholarly research monograph by Nayana Sharma on Charaka Samhita And Sushruta Samhita By Nayana Sharma. Unabridged chapter directory, evidence review, and PubMed citations.",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "1. The Sa\u1e43hit\u0101s (Introduction)",
+      "clean_title": "The Sa\u1e43hit\u0101s (Introduction)",
+      "slug": "the-sa\u1e43hit\u0101s-introduction",
+      "reading_time": 17,
+      "word_count": 3394
+    },
+    {
+      "chapter_number": 2,
+      "title": "2. Preface",
+      "clean_title": "Preface",
+      "slug": "preface",
+      "reading_time": 2,
+      "word_count": 326
+    },
+    {
+      "chapter_number": 3,
+      "title": "3. Abstract",
+      "clean_title": "Abstract",
+      "slug": "abstract",
+      "reading_time": 2,
+      "word_count": 400
+    },
+    {
+      "chapter_number": 4,
+      "title": "4. Chapter 1",
+      "clean_title": "Chapter 1",
+      "slug": "chapter-1",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 5,
+      "title": "5. Introduction to ancient Indian medicine",
+      "clean_title": "Introduction to ancient Indian medicine",
+      "slug": "introduction-to-ancient-indian-medicine",
+      "reading_time": 31,
+      "word_count": 6238
+    },
+    {
+      "chapter_number": 6,
+      "title": "6. The Question of Authorship",
+      "clean_title": "The Question of Authorship",
+      "slug": "the-question-of-authorship",
+      "reading_time": 7,
+      "word_count": 1491
+    },
+    {
+      "chapter_number": 7,
+      "title": "7. The identity of Agnive\u015ba",
+      "clean_title": "The identity of Agnive\u015ba",
+      "slug": "the-identity-of-agnive\u015ba",
+      "reading_time": 2,
+      "word_count": 303
+    },
+    {
+      "chapter_number": 8,
+      "title": "8. The identity of Caraka",
+      "clean_title": "The identity of Caraka",
+      "slug": "the-identity-of-caraka",
+      "reading_time": 7,
+      "word_count": 1433
+    },
+    {
+      "chapter_number": 9,
+      "title": "9. The Date of Caraka Sa\u1e43hit\u0101",
+      "clean_title": "The Date of Caraka Sa\u1e43hit\u0101",
+      "slug": "the-date-of-caraka-sa\u1e43hit\u0101",
+      "reading_time": 3,
+      "word_count": 633
+    },
+    {
+      "chapter_number": 10,
+      "title": "10. The Identity of \u0100treya",
+      "clean_title": "The Identity of \u0100treya",
+      "slug": "the-identity-of-\u0101treya",
+      "reading_time": 4,
+      "word_count": 899
+    },
+    {
+      "chapter_number": 11,
+      "title": "11. The authors and redactors of the Su\u015bruta Sa\u1e43hit\u0101 and its date",
+      "clean_title": "The authors and redactors of the Su\u015bruta Sa\u1e43hit\u0101 and its date",
+      "slug": "the-authors-and-redactors-of-the-su\u015bruta-sa\u1e43hit\u0101-and-its-date",
+      "reading_time": 11,
+      "word_count": 2282
+    },
+    {
+      "chapter_number": 12,
+      "title": "12. Multiplicity of Textual Strata",
+      "clean_title": "Multiplicity of Textual Strata",
+      "slug": "multiplicity-of-textual-strata",
+      "reading_time": 8,
+      "word_count": 1523
+    },
+    {
+      "chapter_number": 13,
+      "title": "13. Chapter 2",
+      "clean_title": "Chapter 2",
+      "slug": "chapter-2",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 14,
+      "title": "14. The Medical Profession (Introduction)",
+      "clean_title": "The Medical Profession (Introduction)",
+      "slug": "the-medical-profession-introduction",
+      "reading_time": 2,
+      "word_count": 387
+    },
+    {
+      "chapter_number": 15,
+      "title": "15. The Social Orientation of the medical compendia",
+      "clean_title": "The Social Orientation of the medical compendia",
+      "slug": "the-social-orientation-of-the-medical-compendia",
+      "reading_time": 4,
+      "word_count": 704
+    },
+    {
+      "chapter_number": 16,
+      "title": "16. The physician in the Vedas",
+      "clean_title": "The physician in the Vedas",
+      "slug": "the-physician-in-the-vedas",
+      "reading_time": 4,
+      "word_count": 807
+    },
+    {
+      "chapter_number": 17,
+      "title": "17. The Royal Physician",
+      "clean_title": "The Royal Physician",
+      "slug": "the-royal-physician",
+      "reading_time": 3,
+      "word_count": 657
+    },
+    {
+      "chapter_number": 18,
+      "title": "18. The Physician in the Caraka and Su\u015bruta Sa\u1e43hit\u0101s",
+      "clean_title": "The Physician in the Caraka and Su\u015bruta Sa\u1e43hit\u0101s",
+      "slug": "the-physician-in-the-caraka-and-su\u015bruta-sa\u1e43hit\u0101s",
+      "reading_time": 11,
+      "word_count": 2123
+    },
+    {
+      "chapter_number": 19,
+      "title": "19. Specialisation of physicians",
+      "clean_title": "Specialisation of physicians",
+      "slug": "specialisation-of-physicians",
+      "reading_time": 8,
+      "word_count": 1556
+    },
+    {
+      "chapter_number": 20,
+      "title": "20. Superintendent of the Royal Kitchen",
+      "clean_title": "Superintendent of the Royal Kitchen",
+      "slug": "superintendent-of-the-royal-kitchen",
+      "reading_time": 3,
+      "word_count": 582
+    },
+    {
+      "chapter_number": 21,
+      "title": "21. War Surgeons",
+      "clean_title": "War Surgeons",
+      "slug": "war-surgeons",
+      "reading_time": 5,
+      "word_count": 1017
+    },
+    {
+      "chapter_number": 22,
+      "title": "22. Quackery: The \u201cFraudulent\u201d Medical Practitioners",
+      "clean_title": "Quackery: The \u201cFraudulent\u201d Medical Practitioners",
+      "slug": "quackery-the-fraudulent-medical-practitioners",
+      "reading_time": 6,
+      "word_count": 1198
+    },
+    {
+      "chapter_number": 23,
+      "title": "23. Interface between Physicians and Society",
+      "clean_title": "Interface between Physicians and Society",
+      "slug": "interface-between-physicians-and-society",
+      "reading_time": 13,
+      "word_count": 2501
+    },
+    {
+      "chapter_number": 24,
+      "title": "24. The Medical Attendant",
+      "clean_title": "The Medical Attendant",
+      "slug": "the-medical-attendant",
+      "reading_time": 10,
+      "word_count": 2025
+    },
+    {
+      "chapter_number": 25,
+      "title": "25. Chapter 3",
+      "clean_title": "Chapter 3",
+      "slug": "chapter-3",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 26,
+      "title": "26. The Physician in the Medical Texts",
+      "clean_title": "The Physician in the Medical Texts",
+      "slug": "the-physician-in-the-medical-texts",
+      "reading_time": 20,
+      "word_count": 4083
+    },
+    {
+      "chapter_number": 27,
+      "title": "27. The Position of the Physician in Society",
+      "clean_title": "The Position of the Physician in Society",
+      "slug": "the-position-of-the-physician-in-society",
+      "reading_time": 25,
+      "word_count": 5077
+    },
+    {
+      "chapter_number": 28,
+      "title": "28. The Medical Student and the Teacher (Introduction)",
+      "clean_title": "The Medical Student and the Teacher (Introduction)",
+      "slug": "the-medical-student-and-the-teacher-introduction",
+      "reading_time": 6,
+      "word_count": 1239
+    },
+    {
+      "chapter_number": 29,
+      "title": "29. The Teacher of \u0100yurveda",
+      "clean_title": "The Teacher of \u0100yurveda",
+      "slug": "the-teacher-of-\u0101yurveda",
+      "reading_time": 6,
+      "word_count": 1117
+    },
+    {
+      "chapter_number": 30,
+      "title": "30. The Student of \u0100yurveda (1): The pre-admission stage",
+      "clean_title": "The Student of \u0100yurveda (1): The pre-admission stage",
+      "slug": "the-student-of-\u0101yurveda-1-the-pre-admission-stage",
+      "reading_time": 11,
+      "word_count": 2151
+    },
+    {
+      "chapter_number": 31,
+      "title": "31. The Student of \u0100yurveda (2): The Initiation Ceremony",
+      "clean_title": "The Student of \u0100yurveda (2): The Initiation Ceremony",
+      "slug": "the-student-of-\u0101yurveda-2-the-initiation-ceremony",
+      "reading_time": 7,
+      "word_count": 1463
+    },
+    {
+      "chapter_number": 32,
+      "title": "32. The Student of \u0100yurveda (3a): The Period of Student-hood",
+      "clean_title": "The Student of \u0100yurveda (3a): The Period of Student-hood",
+      "slug": "the-student-of-\u0101yurveda-3a-the-period-of-student-hood",
+      "reading_time": 4,
+      "word_count": 886
+    },
+    {
+      "chapter_number": 33,
+      "title": "33. The Student of \u0100yurveda (3c): Practical Knowledge",
+      "clean_title": "The Student of \u0100yurveda (3c): Practical Knowledge",
+      "slug": "the-student-of-\u0101yurveda-3c-practical-knowledge",
+      "reading_time": 7,
+      "word_count": 1361
+    },
+    {
+      "chapter_number": 34,
+      "title": "34. The Student of \u0100yurveda (4): System of assessment",
+      "clean_title": "The Student of \u0100yurveda (4): System of assessment",
+      "slug": "the-student-of-\u0101yurveda-4-system-of-assessment",
+      "reading_time": 3,
+      "word_count": 635
+    },
+    {
+      "chapter_number": 35,
+      "title": "35. The Student of \u0100yurveda (3b): Methodology of Teaching and Study",
+      "clean_title": "The Student of \u0100yurveda (3b): Methodology of Teaching and Study",
+      "slug": "the-student-of-\u0101yurveda-3b-methodology-of-teaching-and-study",
+      "reading_time": 15,
+      "word_count": 2976
+    },
+    {
+      "chapter_number": 36,
+      "title": "36. Chapter 4",
+      "clean_title": "Chapter 4",
+      "slug": "chapter-4",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 37,
+      "title": "37. Teacher-Student Relationship",
+      "clean_title": "Teacher-Student Relationship",
+      "slug": "teacher-student-relationship",
+      "reading_time": 9,
+      "word_count": 1828
+    },
+    {
+      "chapter_number": 38,
+      "title": "38. Social Implications of Diseases and their Treatment",
+      "clean_title": "Social Implications of Diseases and their Treatment",
+      "slug": "social-implications-of-diseases-and-their-treatment",
+      "reading_time": 1,
+      "word_count": 253
+    },
+    {
+      "chapter_number": 39,
+      "title": "39. Disease in the Vedas",
+      "clean_title": "Disease in the Vedas",
+      "slug": "disease-in-the-vedas",
+      "reading_time": 8,
+      "word_count": 1522
+    },
+    {
+      "chapter_number": 40,
+      "title": "40. Disease in the classical Sa\u1e43hit\u0101s",
+      "clean_title": "Disease in the classical Sa\u1e43hit\u0101s",
+      "slug": "disease-in-the-classical-sa\u1e43hit\u0101s",
+      "reading_time": 4,
+      "word_count": 876
+    },
+    {
+      "chapter_number": 41,
+      "title": "41. Aetiology (a): \u0100dhyatmika",
+      "clean_title": "Aetiology (a): \u0100dhyatmika",
+      "slug": "aetiology-a-\u0101dhyatmika",
+      "reading_time": 1,
+      "word_count": 257
+    },
+    {
+      "chapter_number": 42,
+      "title": "42. Aetiology (b): \u0100dhibhautika",
+      "clean_title": "Aetiology (b): \u0100dhibhautika",
+      "slug": "aetiology-b-\u0101dhibhautika",
+      "reading_time": 1,
+      "word_count": 217
+    },
+    {
+      "chapter_number": 43,
+      "title": "43. Aetiology of Disease",
+      "clean_title": "Aetiology of Disease",
+      "slug": "aetiology-of-disease",
+      "reading_time": 12,
+      "word_count": 2316
+    },
+    {
+      "chapter_number": 44,
+      "title": "44. Aetiology (c): \u0100dhidaivika",
+      "clean_title": "Aetiology (c): \u0100dhidaivika",
+      "slug": "aetiology-c-\u0101dhidaivika",
+      "reading_time": 2,
+      "word_count": 487
+    },
+    {
+      "chapter_number": 45,
+      "title": "45. Karma and Disease",
+      "clean_title": "Karma and Disease",
+      "slug": "karma-and-disease",
+      "reading_time": 7,
+      "word_count": 1482
+    },
+    {
+      "chapter_number": 46,
+      "title": "46. The Principles of Therapeutics (Cikits\u0101)",
+      "clean_title": "The Principles of Therapeutics (Cikits\u0101)",
+      "slug": "the-principles-of-therapeutics-cikits\u0101",
+      "reading_time": 4,
+      "word_count": 885
+    },
+    {
+      "chapter_number": 47,
+      "title": "47. Practice of Therapeutics",
+      "clean_title": "Practice of Therapeutics",
+      "slug": "practice-of-therapeutics",
+      "reading_time": 14,
+      "word_count": 2747
+    },
+    {
+      "chapter_number": 48,
+      "title": "48. Disease as an entity or as a process",
+      "clean_title": "Disease as an entity or as a process",
+      "slug": "disease-as-an-entity-or-as-a-process",
+      "reading_time": 5,
+      "word_count": 1061
+    },
+    {
+      "chapter_number": 49,
+      "title": "49. Infirmaries and Hospitals in ancient India",
+      "clean_title": "Infirmaries and Hospitals in ancient India",
+      "slug": "infirmaries-and-hospitals-in-ancient-india",
+      "reading_time": 7,
+      "word_count": 1479
+    },
+    {
+      "chapter_number": 50,
+      "title": "50. Appendix 2 - The details of hospital management",
+      "clean_title": "Appendix 2 - The details of hospital management",
+      "slug": "appendix-2---the-details-of-hospital-management",
+      "reading_time": 1,
+      "word_count": 106
+    },
+    {
+      "chapter_number": 51,
+      "title": "51. The Social Implications of Disease",
+      "clean_title": "The Social Implications of Disease",
+      "slug": "the-social-implications-of-disease",
+      "reading_time": 21,
+      "word_count": 4263
+    },
+    {
+      "chapter_number": 52,
+      "title": "52. Appendix 1 - Description of a Hospital",
+      "clean_title": "Appendix 1 - Description of a Hospital",
+      "slug": "appendix-1---description-of-a-hospital",
+      "reading_time": 4,
+      "word_count": 709
+    },
+    {
+      "chapter_number": 53,
+      "title": "53. Denial of Treatment",
+      "clean_title": "Denial of Treatment",
+      "slug": "denial-of-treatment",
+      "reading_time": 16,
+      "word_count": 3242
+    },
+    {
+      "chapter_number": 54,
+      "title": "54. Chapter 5",
+      "clean_title": "Chapter 5",
+      "slug": "chapter-5",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 55,
+      "title": "55. Chapter 6",
+      "clean_title": "Chapter 6",
+      "slug": "chapter-6",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 56,
+      "title": "56. Class and Gender (Introduction)",
+      "clean_title": "Class and Gender (Introduction)",
+      "slug": "class-and-gender-introduction",
+      "reading_time": 38,
+      "word_count": 7521
+    },
+    {
+      "chapter_number": 57,
+      "title": "57. Hygiene and Environmental Issues (Introduction)",
+      "clean_title": "Hygiene and Environmental Issues (Introduction)",
+      "slug": "hygiene-and-environmental-issues-introduction",
+      "reading_time": 14,
+      "word_count": 2749
+    },
+    {
+      "chapter_number": 58,
+      "title": "58. Gender in the Sa\u1e43hit\u0101s",
+      "clean_title": "Gender in the Sa\u1e43hit\u0101s",
+      "slug": "gender-in-the-sa\u1e43hit\u0101s",
+      "reading_time": 42,
+      "word_count": 8401
+    },
+    {
+      "chapter_number": 59,
+      "title": "59. Epidemics (maraka)",
+      "clean_title": "Epidemics (maraka)",
+      "slug": "epidemics-maraka",
+      "reading_time": 17,
+      "word_count": 3442
+    },
+    {
+      "chapter_number": 60,
+      "title": "60. Facial Hygiene",
+      "clean_title": "Facial Hygiene",
+      "slug": "facial-hygiene",
+      "reading_time": 2,
+      "word_count": 434
+    },
+    {
+      "chapter_number": 61,
+      "title": "61. Personal Hygiene",
+      "clean_title": "Personal Hygiene",
+      "slug": "personal-hygiene",
+      "reading_time": 3,
+      "word_count": 511
+    },
+    {
+      "chapter_number": 62,
+      "title": "62. Hygiene and diseases (Introduction)",
+      "clean_title": "Hygiene and diseases (Introduction)",
+      "slug": "hygiene-and-diseases-introduction",
+      "reading_time": 2,
+      "word_count": 486
+    },
+    {
+      "chapter_number": 63,
+      "title": "63. Hygiene of the body and personal grooming",
+      "clean_title": "Hygiene of the body and personal grooming",
+      "slug": "hygiene-of-the-body-and-personal-grooming",
+      "reading_time": 4,
+      "word_count": 897
+    },
+    {
+      "chapter_number": 64,
+      "title": "64. Mental Hygiene and Social Health",
+      "clean_title": "Mental Hygiene and Social Health",
+      "slug": "mental-hygiene-and-social-health",
+      "reading_time": 7,
+      "word_count": 1490
+    },
+    {
+      "chapter_number": 65,
+      "title": "65. Dietary and Lifestyle measures based on the six Seasons",
+      "clean_title": "Dietary and Lifestyle measures based on the six Seasons",
+      "slug": "dietary-and-lifestyle-measures-based-on-the-six-seasons",
+      "reading_time": 3,
+      "word_count": 573
+    },
+    {
+      "chapter_number": 66,
+      "title": "66. Precautionary measures for good health and Prophylactic Measures",
+      "clean_title": "Precautionary measures for good health and Prophylactic Measures",
+      "slug": "precautionary-measures-for-good-health-and-prophylactic-measures",
+      "reading_time": 6,
+      "word_count": 1125
+    },
+    {
+      "chapter_number": 67,
+      "title": "67. Hygiene of the Head and Neck region",
+      "clean_title": "Hygiene of the Head and Neck region",
+      "slug": "hygiene-of-the-head-and-neck-region",
+      "reading_time": 3,
+      "word_count": 536
+    },
+    {
+      "chapter_number": 68,
+      "title": "68. Chapter 7",
+      "clean_title": "Chapter 7",
+      "slug": "chapter-7",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 69,
+      "title": "69. Words of Caution",
+      "clean_title": "Words of Caution",
+      "slug": "words-of-caution",
+      "reading_time": 10,
+      "word_count": 2095
+    },
+    {
+      "chapter_number": 70,
+      "title": "70. Drugs and Diet (Introduction)",
+      "clean_title": "Drugs and Diet (Introduction)",
+      "slug": "drugs-and-diet-introduction",
+      "reading_time": 6,
+      "word_count": 1123
+    },
+    {
+      "chapter_number": 71,
+      "title": "71. Processing of medicines",
+      "clean_title": "Processing of medicines",
+      "slug": "processing-of-medicines",
+      "reading_time": 8,
+      "word_count": 1611
+    },
+    {
+      "chapter_number": 72,
+      "title": "72. Trade In Medicinal Drugs",
+      "clean_title": "Trade In Medicinal Drugs",
+      "slug": "trade-in-medicinal-drugs",
+      "reading_time": 11,
+      "word_count": 2163
+    },
+    {
+      "chapter_number": 73,
+      "title": "73. Knowledge of Dietetics",
+      "clean_title": "Knowledge of Dietetics",
+      "slug": "knowledge-of-dietetics",
+      "reading_time": 10,
+      "word_count": 1925
+    },
+    {
+      "chapter_number": 74,
+      "title": "74. Procurement of medicinal drugs",
+      "clean_title": "Procurement of medicinal drugs",
+      "slug": "procurement-of-medicinal-drugs",
+      "reading_time": 16,
+      "word_count": 3162
+    },
+    {
+      "chapter_number": 75,
+      "title": "75. Certain aspects of dietary regimen",
+      "clean_title": "Certain aspects of dietary regimen",
+      "slug": "certain-aspects-of-dietary-regimen",
+      "reading_time": 15,
+      "word_count": 2910
+    },
+    {
+      "chapter_number": 76,
+      "title": "76. Chapter 8",
+      "clean_title": "Chapter 8",
+      "slug": "chapter-8",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 77,
+      "title": "77. Brahm\u0101, Praj\u0101pati and Dak\u1e63a",
+      "clean_title": "Brahm\u0101, Praj\u0101pati and Dak\u1e63a",
+      "slug": "brahm\u0101-praj\u0101pati-and-dak\u1e63a",
+      "reading_time": 8,
+      "word_count": 1625
+    },
+    {
+      "chapter_number": 78,
+      "title": "78. Indra receives the knowledge of \u0100yurveda",
+      "clean_title": "Indra receives the knowledge of \u0100yurveda",
+      "slug": "indra-receives-the-knowledge-of-\u0101yurveda",
+      "reading_time": 4,
+      "word_count": 732
+    },
+    {
+      "chapter_number": 79,
+      "title": "79. Medicine and Religion (Introduction)",
+      "clean_title": "Medicine and Religion (Introduction)",
+      "slug": "medicine-and-religion-introduction",
+      "reading_time": 16,
+      "word_count": 3172
+    },
+    {
+      "chapter_number": 80,
+      "title": "80. Soma (the Lord of the drugs)",
+      "clean_title": "Soma (the Lord of the drugs)",
+      "slug": "soma-the-lord-of-the-drugs",
+      "reading_time": 1,
+      "word_count": 118
+    },
+    {
+      "chapter_number": 81,
+      "title": "81. Dhanvantari (the god of the physicians)",
+      "clean_title": "Dhanvantari (the god of the physicians)",
+      "slug": "dhanvantari-the-god-of-the-physicians",
+      "reading_time": 4,
+      "word_count": 774
+    },
+    {
+      "chapter_number": 82,
+      "title": "82. The Sun (Arka)",
+      "clean_title": "The Sun (Arka)",
+      "slug": "the-sun-arka",
+      "reading_time": 1,
+      "word_count": 243
+    },
+    {
+      "chapter_number": 83,
+      "title": "83. Vi\u1e63\u1e47u in the Medical Texts",
+      "clean_title": "Vi\u1e63\u1e47u in the Medical Texts",
+      "slug": "vi\u1e63\u1e47u-in-the-medical-texts",
+      "reading_time": 2,
+      "word_count": 388
+    },
+    {
+      "chapter_number": 84,
+      "title": "84. Female Divinities",
+      "clean_title": "Female Divinities",
+      "slug": "female-divinities",
+      "reading_time": 3,
+      "word_count": 542
+    },
+    {
+      "chapter_number": 85,
+      "title": "85. Bh\u016btas and Grahas",
+      "clean_title": "Bh\u016btas and Grahas",
+      "slug": "bh\u016btas-and-grahas",
+      "reading_time": 10,
+      "word_count": 1920
+    },
+    {
+      "chapter_number": 86,
+      "title": "86. Ritualism in the Medical Texts",
+      "clean_title": "Ritualism in the Medical Texts",
+      "slug": "ritualism-in-the-medical-texts",
+      "reading_time": 6,
+      "word_count": 1227
+    },
+    {
+      "chapter_number": 87,
+      "title": "87. Chapter 9",
+      "clean_title": "Chapter 9",
+      "slug": "chapter-9",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 88,
+      "title": "88. Surgery: Pre-operative and Post-operative Care (Introduction)",
+      "clean_title": "Surgery: Pre-operative and Post-operative Care (Introduction)",
+      "slug": "surgery-pre-operative-and-post-operative-care-introduction",
+      "reading_time": 3,
+      "word_count": 622
+    },
+    {
+      "chapter_number": 89,
+      "title": "89. Rudra-\u015aiva in the Medical Texts",
+      "clean_title": "Rudra-\u015aiva in the Medical Texts",
+      "slug": "rudra-\u015biva-in-the-medical-texts",
+      "reading_time": 10,
+      "word_count": 1941
+    },
+    {
+      "chapter_number": 90,
+      "title": "90. List of Surgical Conditions in the Su\u015bruta Sa\u1e43hit\u0101",
+      "clean_title": "List of Surgical Conditions in the Su\u015bruta Sa\u1e43hit\u0101",
+      "slug": "list-of-surgical-conditions-in-the-su\u015bruta-sa\u1e43hit\u0101",
+      "reading_time": 4,
+      "word_count": 866
+    },
+    {
+      "chapter_number": 91,
+      "title": "91. The three stages of Surgical procedures",
+      "clean_title": "The three stages of Surgical procedures",
+      "slug": "the-three-stages-of-surgical-procedures",
+      "reading_time": 14,
+      "word_count": 2851
+    },
+    {
+      "chapter_number": 92,
+      "title": "92. The training of the Surgeon",
+      "clean_title": "The training of the Surgeon",
+      "slug": "the-training-of-the-surgeon",
+      "reading_time": 10,
+      "word_count": 2042
+    },
+    {
+      "chapter_number": 93,
+      "title": "93. Chapter 10: Conclusion",
+      "clean_title": "Chapter 10: Conclusion",
+      "slug": "chapter-10-conclusion",
+      "reading_time": 22,
+      "word_count": 4338
+    },
+    {
+      "chapter_number": 94,
+      "title": "94. Concept of infection",
+      "clean_title": "Concept of infection",
+      "slug": "concept-of-infection",
+      "reading_time": 6,
+      "word_count": 1183
+    },
+    {
+      "chapter_number": 95,
+      "title": "95. The perception of surgery",
+      "clean_title": "The perception of surgery",
+      "slug": "the-perception-of-surgery",
+      "reading_time": 11,
+      "word_count": 2266
+    },
+    {
+      "chapter_number": 96,
+      "title": "\u2753 7. Frequently Asked Questions (15 Question Intent Matrix)",
+      "clean_title": "\u2753 7. Frequently Asked Questions (15 Question Intent Matrix)",
+      "slug": "7-frequently-asked-questions-15-question-intent-matrix",
+      "reading_time": 3,
+      "word_count": 671
+    }
+  ]
+}

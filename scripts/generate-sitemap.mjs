@@ -72,16 +72,31 @@ if (fs.existsSync(petDir)) {
   }
 }
 
-// 4. Research Silo
+// 4. Research Silo (Hubs & Chapters)
 const researchDir = path.join(CONTENT_DIR, 'research');
 if (fs.existsSync(researchDir)) {
-  const files = fs.readdirSync(researchDir).filter(f => f.endsWith('.md'));
-  for (const f of files) {
-    const slug = f.replace(/\.md$/, '');
-    const fullUrl = `${BASE_URL}/research/${slug}`;
-    addUrl(fullUrl, '0.8', 'weekly');
-    const readableTitle = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
-    llmsLinks.research.push(`- [${readableTitle}](${fullUrl})`);
+  const entries = fs.readdirSync(researchDir, { withFileTypes: true });
+  for (const entry of entries) {
+    if (entry.isDirectory()) {
+      const paperSlug = entry.name;
+      const fullUrl = `${BASE_URL}/research/${paperSlug}`;
+      addUrl(fullUrl, '0.8', 'weekly');
+      const readableTitle = paperSlug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+      llmsLinks.research.push(`- [${readableTitle}](${fullUrl})`);
+
+      const paperPath = path.join(researchDir, paperSlug);
+      const chFiles = fs.readdirSync(paperPath).filter(f => f.endsWith('.md') && f !== 'index.md');
+      for (const ch of chFiles) {
+        const chSlug = ch.replace(/\.md$/, '');
+        addUrl(`${BASE_URL}/research/${paperSlug}/${chSlug}`, '0.7', 'monthly');
+      }
+    } else if (entry.isFile() && entry.name.endsWith('.md')) {
+      const slug = entry.name.replace(/\.md$/, '');
+      const fullUrl = `${BASE_URL}/research/${slug}`;
+      addUrl(fullUrl, '0.8', 'weekly');
+      const readableTitle = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+      llmsLinks.research.push(`- [${readableTitle}](${fullUrl})`);
+    }
   }
 }
 

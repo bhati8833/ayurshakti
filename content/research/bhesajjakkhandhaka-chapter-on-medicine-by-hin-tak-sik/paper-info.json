@@ -1,0 +1,595 @@
+{
+  "title": "Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik",
+  "paper_slug": "bhesajjakkhandhaka-chapter-on-medicine-by-hin-tak-sik",
+  "author": "Suresh Bhati",
+  "original_scholar": "Hin Tak Sik",
+  "total_chapters": 73,
+  "silo": "research",
+  "description": "Scholarly research monograph by Hin Tak Sik on Bhesajjakkhandhaka Chapter On Medicine By Hin Tak Sik. Unabridged chapter directory, evidence review, and PubMed citations.",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "1. Acknowledgements",
+      "clean_title": "Acknowledgements",
+      "slug": "acknowledgements",
+      "reading_time": 3,
+      "word_count": 690
+    },
+    {
+      "chapter_number": 2,
+      "title": "2. Literature Review",
+      "clean_title": "Literature Review",
+      "slug": "literature-review",
+      "reading_time": 15,
+      "word_count": 3005
+    },
+    {
+      "chapter_number": 3,
+      "title": "3. Preface",
+      "clean_title": "Preface",
+      "slug": "preface",
+      "reading_time": 3,
+      "word_count": 547
+    },
+    {
+      "chapter_number": 4,
+      "title": "4. Introduction (traditional medicine)",
+      "clean_title": "Introduction (traditional medicine)",
+      "slug": "introduction-traditional-medicine",
+      "reading_time": 7,
+      "word_count": 1406
+    },
+    {
+      "chapter_number": 5,
+      "title": "5. Chapter 1 - Introduction",
+      "clean_title": "Chapter 1 - Introduction",
+      "slug": "chapter-1---introduction",
+      "reading_time": 1,
+      "word_count": 67
+    },
+    {
+      "chapter_number": 6,
+      "title": "6. Research Questions and Aims of the Study",
+      "clean_title": "Research Questions and Aims of the Study",
+      "slug": "research-questions-and-aims-of-the-study",
+      "reading_time": 4,
+      "word_count": 825
+    },
+    {
+      "chapter_number": 7,
+      "title": "7. Outlines of Chapters",
+      "clean_title": "Outlines of Chapters",
+      "slug": "outlines-of-chapters",
+      "reading_time": 5,
+      "word_count": 1002
+    },
+    {
+      "chapter_number": 8,
+      "title": "8. History of Indian Medicine\u2014Up to the Buddha\u2019s Time",
+      "clean_title": "History of Indian Medicine\u2014Up to the Buddha\u2019s Time",
+      "slug": "history-of-indian-medicineup-to-the-buddhas-time",
+      "reading_time": 3,
+      "word_count": 551
+    },
+    {
+      "chapter_number": 9,
+      "title": "9. Background Information",
+      "clean_title": "Background Information",
+      "slug": "background-information",
+      "reading_time": 4,
+      "word_count": 868
+    },
+    {
+      "chapter_number": 10,
+      "title": "10. Methodology and Sources",
+      "clean_title": "Methodology and Sources",
+      "slug": "methodology-and-sources",
+      "reading_time": 21,
+      "word_count": 4148
+    },
+    {
+      "chapter_number": 11,
+      "title": "11. Chapter 2 - Background Information",
+      "clean_title": "Chapter 2 - Background Information",
+      "slug": "chapter-2---background-information",
+      "reading_time": 1,
+      "word_count": 68
+    },
+    {
+      "chapter_number": 12,
+      "title": "12. History of Indian Medicine (c): Shramanic Phase",
+      "clean_title": "History of Indian Medicine (c): Shramanic Phase",
+      "slug": "history-of-indian-medicine-c-shramanic-phase",
+      "reading_time": 7,
+      "word_count": 1371
+    },
+    {
+      "chapter_number": 13,
+      "title": "13. History of Indian Medicine (b): Vedic Phase",
+      "clean_title": "History of Indian Medicine (b): Vedic Phase",
+      "slug": "history-of-indian-medicine-b-vedic-phase",
+      "reading_time": 6,
+      "word_count": 1292
+    },
+    {
+      "chapter_number": 14,
+      "title": "14. History of Indian Medicine (a): Pre-Vedic Phase",
+      "clean_title": "History of Indian Medicine (a): Pre-Vedic Phase",
+      "slug": "history-of-indian-medicine-a-pre-vedic-phase",
+      "reading_time": 5,
+      "word_count": 967
+    },
+    {
+      "chapter_number": 15,
+      "title": "15. The Vinaya Pi\u1e6daka, Skandhaka, and Bhesajjakkhandhaka",
+      "clean_title": "The Vinaya Pi\u1e6daka, Skandhaka, and Bhesajjakkhandhaka",
+      "slug": "the-vinaya-pi\u1e6daka-skandhaka-and-bhesajjakkhandhaka",
+      "reading_time": 6,
+      "word_count": 1142
+    },
+    {
+      "chapter_number": 16,
+      "title": "16. (a) The Vinaya Pi\u1e6daka",
+      "clean_title": "(a) The Vinaya Pi\u1e6daka",
+      "slug": "a-the-vinaya-pi\u1e6daka",
+      "reading_time": 18,
+      "word_count": 3524
+    },
+    {
+      "chapter_number": 17,
+      "title": "17. (b) The Skandhaka",
+      "clean_title": "(b) The Skandhaka",
+      "slug": "b-the-skandhaka",
+      "reading_time": 10,
+      "word_count": 1983
+    },
+    {
+      "chapter_number": 18,
+      "title": "18. (c) The Bhesajjakkhandhaka (Chapters on Medicine)",
+      "clean_title": "(c) The Bhesajjakkhandhaka (Chapters on Medicine)",
+      "slug": "c-the-bhesajjakkhandhaka-chapters-on-medicine",
+      "reading_time": 5,
+      "word_count": 906
+    },
+    {
+      "chapter_number": 19,
+      "title": "19. (a) Brief History of \u0100yurveda",
+      "clean_title": "(a) Brief History of \u0100yurveda",
+      "slug": "a-brief-history-of-\u0101yurveda",
+      "reading_time": 12,
+      "word_count": 2472
+    },
+    {
+      "chapter_number": 20,
+      "title": "20. (b) Basic Principles of \u0100yurveda",
+      "clean_title": "(b) Basic Principles of \u0100yurveda",
+      "slug": "b-basic-principles-of-\u0101yurveda",
+      "reading_time": 18,
+      "word_count": 3678
+    },
+    {
+      "chapter_number": 21,
+      "title": "21. \u0100yurveda\u2013Brief History and Basic Principles",
+      "clean_title": "\u0100yurveda\u2013Brief History and Basic Principles",
+      "slug": "\u0101yurvedabrief-history-and-basic-principles",
+      "reading_time": 6,
+      "word_count": 1168
+    },
+    {
+      "chapter_number": 22,
+      "title": "22. Biomedicine (Western medicine)\u2014Brief History and Basic Principles",
+      "clean_title": "Biomedicine (Western medicine)\u2014Brief History and Basic Principles",
+      "slug": "biomedicine-western-medicinebrief-history-and-basic-principles",
+      "reading_time": 6,
+      "word_count": 1155
+    },
+    {
+      "chapter_number": 23,
+      "title": "23. (a) Brief History of Biomedicine (Western medicine)",
+      "clean_title": "(a) Brief History of Biomedicine (Western medicine)",
+      "slug": "a-brief-history-of-biomedicine-western-medicine",
+      "reading_time": 16,
+      "word_count": 3160
+    },
+    {
+      "chapter_number": 24,
+      "title": "24. Chapter 3 - Concepts of Health and Disease",
+      "clean_title": "Chapter 3 - Concepts of Health and Disease",
+      "slug": "chapter-3---concepts-of-health-and-disease",
+      "reading_time": 1,
+      "word_count": 71
+    },
+    {
+      "chapter_number": 25,
+      "title": "25. Introduction",
+      "clean_title": "Introduction",
+      "slug": "introduction",
+      "reading_time": 3,
+      "word_count": 613
+    },
+    {
+      "chapter_number": 26,
+      "title": "26. (b) Basic Principles of Biomedicine (Western medicine)",
+      "clean_title": "(b) Basic Principles of Biomedicine (Western medicine)",
+      "slug": "b-basic-principles-of-biomedicine-western-medicine",
+      "reading_time": 14,
+      "word_count": 2702
+    },
+    {
+      "chapter_number": 27,
+      "title": "27. Concepts of Health and Disease (In early Buddhism)",
+      "clean_title": "Concepts of Health and Disease (In early Buddhism)",
+      "slug": "concepts-of-health-and-disease-in-early-buddhism",
+      "reading_time": 28,
+      "word_count": 5605
+    },
+    {
+      "chapter_number": 28,
+      "title": "28. Medical Principles (In Early Buddhist Scriptures)",
+      "clean_title": "Medical Principles (In Early Buddhist Scriptures)",
+      "slug": "medical-principles-in-early-buddhist-scriptures",
+      "reading_time": 37,
+      "word_count": 7437
+    },
+    {
+      "chapter_number": 29,
+      "title": "29. Chapter 4 - Medicinal Substances in the Chapter on Medicine",
+      "clean_title": "Chapter 4 - Medicinal Substances in the Chapter on Medicine",
+      "slug": "chapter-4---medicinal-substances-in-the-chapter-on-medicine",
+      "reading_time": 1,
+      "word_count": 73
+    },
+    {
+      "chapter_number": 30,
+      "title": "30. Chapter Summary",
+      "clean_title": "Chapter Summary",
+      "slug": "chapter-summary",
+      "reading_time": 4,
+      "word_count": 817
+    },
+    {
+      "chapter_number": 31,
+      "title": "31. Introduction",
+      "clean_title": "Introduction",
+      "slug": "introduction",
+      "reading_time": 7,
+      "word_count": 1496
+    },
+    {
+      "chapter_number": 32,
+      "title": "32. Seven-day Medicines (a): Lipids and Sweets",
+      "clean_title": "Seven-day Medicines (a): Lipids and Sweets",
+      "slug": "seven-day-medicines-a-lipids-and-sweets",
+      "reading_time": 9,
+      "word_count": 1766
+    },
+    {
+      "chapter_number": 33,
+      "title": "33. Medicines (a): Roots (M\u016bla)",
+      "clean_title": "Medicines (a): Roots (M\u016bla)",
+      "slug": "medicines-a-roots-m\u016bla",
+      "reading_time": 11,
+      "word_count": 2131
+    },
+    {
+      "chapter_number": 34,
+      "title": "34. Medicines (b): Stems (Ga\u1e47\u1e0da)",
+      "clean_title": "Medicines (b): Stems (Ga\u1e47\u1e0da)",
+      "slug": "medicines-b-stems-ga\u1e47\u1e0da",
+      "reading_time": 3,
+      "word_count": 518
+    },
+    {
+      "chapter_number": 35,
+      "title": "35. Medicines for the Duration of one\u2019s Life (Introduction)",
+      "clean_title": "Medicines for the Duration of one\u2019s Life (Introduction)",
+      "slug": "medicines-for-the-duration-of-ones-life-introduction",
+      "reading_time": 1,
+      "word_count": 288
+    },
+    {
+      "chapter_number": 36,
+      "title": "36. Seven-day Medicines (b): Animal Fats (Vas\u0101)",
+      "clean_title": "Seven-day Medicines (b): Animal Fats (Vas\u0101)",
+      "slug": "seven-day-medicines-b-animal-fats-vas\u0101",
+      "reading_time": 8,
+      "word_count": 1583
+    },
+    {
+      "chapter_number": 37,
+      "title": "37. Medicines (c): Leaves (Pa\u1e47\u1e47a/Patra)",
+      "clean_title": "Medicines (c): Leaves (Pa\u1e47\u1e47a/Patra)",
+      "slug": "medicines-c-leaves-pa\u1e47\u1e47apatra",
+      "reading_time": 4,
+      "word_count": 729
+    },
+    {
+      "chapter_number": 38,
+      "title": "38. Medicines (d): Flowers (Pu\u1e63pa)",
+      "clean_title": "Medicines (d): Flowers (Pu\u1e63pa)",
+      "slug": "medicines-d-flowers-pu\u1e63pa",
+      "reading_time": 4,
+      "word_count": 712
+    },
+    {
+      "chapter_number": 39,
+      "title": "39. Medicines (e): Fruits (Phala)",
+      "clean_title": "Medicines (e): Fruits (Phala)",
+      "slug": "medicines-e-fruits-phala",
+      "reading_time": 9,
+      "word_count": 1885
+    },
+    {
+      "chapter_number": 40,
+      "title": "40. Medicines (f): Gum-Resins (Jatu)",
+      "clean_title": "Medicines (f): Gum-Resins (Jatu)",
+      "slug": "medicines-f-gum-resins-jatu",
+      "reading_time": 8,
+      "word_count": 1696
+    },
+    {
+      "chapter_number": 41,
+      "title": "41. Medicines (g): Decoctions/Astringent Medicines (Kas\u0101va/Ka\u1e63\u0101ya)",
+      "clean_title": "Medicines (g): Decoctions/Astringent Medicines (Kas\u0101va/Ka\u1e63\u0101ya)",
+      "slug": "medicines-g-decoctionsastringent-medicines-kas\u0101vaka\u1e63\u0101ya",
+      "reading_time": 9,
+      "word_count": 1818
+    },
+    {
+      "chapter_number": 42,
+      "title": "42. Medicines (h): Alkaline Ashes (K\u1e63\u0101ra)",
+      "clean_title": "Medicines (h): Alkaline Ashes (K\u1e63\u0101ra)",
+      "slug": "medicines-h-alkaline-ashes-k\u1e63\u0101ra",
+      "reading_time": 6,
+      "word_count": 1128
+    },
+    {
+      "chapter_number": 43,
+      "title": "43. Medicines (i): Salts (Lo\u1e47a/Lava\u1e47a)",
+      "clean_title": "Medicines (i): Salts (Lo\u1e47a/Lava\u1e47a)",
+      "slug": "medicines-i-salts-lo\u1e47alava\u1e47a",
+      "reading_time": 7,
+      "word_count": 1427
+    },
+    {
+      "chapter_number": 44,
+      "title": "44. Medicines (k): Medicinal Powders",
+      "clean_title": "Medicines (k): Medicinal Powders",
+      "slug": "medicines-k-medicinal-powders",
+      "reading_time": 3,
+      "word_count": 578
+    },
+    {
+      "chapter_number": 45,
+      "title": "45. Medicines (j): Scented Substances",
+      "clean_title": "Medicines (j): Scented Substances",
+      "slug": "medicines-j-scented-substances",
+      "reading_time": 5,
+      "word_count": 1011
+    },
+    {
+      "chapter_number": 46,
+      "title": "46. Medicines (l): Putrid Medicines",
+      "clean_title": "Medicines (l): Putrid Medicines",
+      "slug": "medicines-l-putrid-medicines",
+      "reading_time": 3,
+      "word_count": 590
+    },
+    {
+      "chapter_number": 47,
+      "title": "47. Medicines (m): Unclassified Substances",
+      "clean_title": "Medicines (m): Unclassified Substances",
+      "slug": "medicines-m-unclassified-substances",
+      "reading_time": 3,
+      "word_count": 687
+    },
+    {
+      "chapter_number": 48,
+      "title": "48. Chapter Summary",
+      "clean_title": "Chapter Summary",
+      "slug": "chapter-summary",
+      "reading_time": 2,
+      "word_count": 474
+    },
+    {
+      "chapter_number": 49,
+      "title": "49. Chapter 5 - Diseases and Treatments in the Chapter on Medicine",
+      "clean_title": "Chapter 5 - Diseases and Treatments in the Chapter on Medicine",
+      "slug": "chapter-5---diseases-and-treatments-in-the-chapter-on-medicine",
+      "reading_time": 1,
+      "word_count": 74
+    },
+    {
+      "chapter_number": 50,
+      "title": "50. Introduction",
+      "clean_title": "Introduction",
+      "slug": "introduction",
+      "reading_time": 3,
+      "word_count": 667
+    },
+    {
+      "chapter_number": 51,
+      "title": "51. Internal Medicine (a): Autumnal Disease",
+      "clean_title": "Internal Medicine (a): Autumnal Disease",
+      "slug": "internal-medicine-a-autumnal-disease",
+      "reading_time": 34,
+      "word_count": 6702
+    },
+    {
+      "chapter_number": 52,
+      "title": "52. Internal Medicine (c): Disorders of Humours/Elements",
+      "clean_title": "Internal Medicine (c): Disorders of Humours/Elements",
+      "slug": "internal-medicine-c-disorders-of-humourselements",
+      "reading_time": 8,
+      "word_count": 1536
+    },
+    {
+      "chapter_number": 53,
+      "title": "53. Internal Medicine (d): Fever",
+      "clean_title": "Internal Medicine (d): Fever",
+      "slug": "internal-medicine-d-fever",
+      "reading_time": 13,
+      "word_count": 2676
+    },
+    {
+      "chapter_number": 54,
+      "title": "54. Internal Medicine (b): Wind Diseases",
+      "clean_title": "Internal Medicine (b): Wind Diseases",
+      "slug": "internal-medicine-b-wind-diseases",
+      "reading_time": 49,
+      "word_count": 9819
+    },
+    {
+      "chapter_number": 55,
+      "title": "55. Internal Medicine (f): Headache",
+      "clean_title": "Internal Medicine (f): Headache",
+      "slug": "internal-medicine-f-headache",
+      "reading_time": 11,
+      "word_count": 2267
+    },
+    {
+      "chapter_number": 56,
+      "title": "56. Internal Medicine (e): Gastrointestinal Disturbances",
+      "clean_title": "Internal Medicine (e): Gastrointestinal Disturbances",
+      "slug": "internal-medicine-e-gastrointestinal-disturbances",
+      "reading_time": 9,
+      "word_count": 1853
+    },
+    {
+      "chapter_number": 57,
+      "title": "57. Internal Medicine (g): Jaundice",
+      "clean_title": "Internal Medicine (g): Jaundice",
+      "slug": "internal-medicine-g-jaundice",
+      "reading_time": 5,
+      "word_count": 921
+    },
+    {
+      "chapter_number": 58,
+      "title": "58. Dermatology (b): Carbuncles",
+      "clean_title": "Dermatology (b): Carbuncles",
+      "slug": "dermatology-b-carbuncles",
+      "reading_time": 10,
+      "word_count": 2001
+    },
+    {
+      "chapter_number": 59,
+      "title": "59. Toxicology (Agadatantra)",
+      "clean_title": "Toxicology (Agadatantra)",
+      "slug": "toxicology-agadatantra",
+      "reading_time": 30,
+      "word_count": 6071
+    },
+    {
+      "chapter_number": 60,
+      "title": "60. Dermatology (c): Wounds",
+      "clean_title": "Dermatology (c): Wounds",
+      "slug": "dermatology-c-wounds",
+      "reading_time": 6,
+      "word_count": 1263
+    },
+    {
+      "chapter_number": 61,
+      "title": "61. Dermatology (a): Itching Lesions",
+      "clean_title": "Dermatology (a): Itching Lesions",
+      "slug": "dermatology-a-itching-lesions",
+      "reading_time": 22,
+      "word_count": 4371
+    },
+    {
+      "chapter_number": 62,
+      "title": "62. Ophthalmology (S\u0101l\u0101kiya)",
+      "clean_title": "Ophthalmology (S\u0101l\u0101kiya)",
+      "slug": "ophthalmology-s\u0101l\u0101kiya",
+      "reading_time": 38,
+      "word_count": 7550
+    },
+    {
+      "chapter_number": 63,
+      "title": "63. Dermatology (d): Miscellaneous Skin Lesions",
+      "clean_title": "Dermatology (d): Miscellaneous Skin Lesions",
+      "slug": "dermatology-d-miscellaneous-skin-lesions",
+      "reading_time": 9,
+      "word_count": 1740
+    },
+    {
+      "chapter_number": 64,
+      "title": "64. Surgery (a): Perineal Diseases",
+      "clean_title": "Surgery (a): Perineal Diseases",
+      "slug": "surgery-a-perineal-diseases",
+      "reading_time": 31,
+      "word_count": 6166
+    },
+    {
+      "chapter_number": 65,
+      "title": "65. Chapter 6 - Conclusion",
+      "clean_title": "Chapter 6 - Conclusion",
+      "slug": "chapter-6---conclusion",
+      "reading_time": 1,
+      "word_count": 67
+    },
+    {
+      "chapter_number": 66,
+      "title": "66. Surgery (b): Foot Ailments",
+      "clean_title": "Surgery (b): Foot Ailments",
+      "slug": "surgery-b-foot-ailments",
+      "reading_time": 9,
+      "word_count": 1812
+    },
+    {
+      "chapter_number": 67,
+      "title": "67. Chapter Summary",
+      "clean_title": "Chapter Summary",
+      "slug": "chapter-summary",
+      "reading_time": 1,
+      "word_count": 279
+    },
+    {
+      "chapter_number": 68,
+      "title": "68. Psychiatry",
+      "clean_title": "Psychiatry",
+      "slug": "psychiatry",
+      "reading_time": 16,
+      "word_count": 3255
+    },
+    {
+      "chapter_number": 69,
+      "title": "69. Contributions of this Study",
+      "clean_title": "Contributions of this Study",
+      "slug": "contributions-of-this-study",
+      "reading_time": 9,
+      "word_count": 1848
+    },
+    {
+      "chapter_number": 70,
+      "title": "70. Conclusion: Summary of Present Research",
+      "clean_title": "Conclusion: Summary of Present Research",
+      "slug": "conclusion-summary-of-present-research",
+      "reading_time": 11,
+      "word_count": 2151
+    },
+    {
+      "chapter_number": 71,
+      "title": "71. Limitations of this thesis and future research directions",
+      "clean_title": "Limitations of this thesis and future research directions",
+      "slug": "limitations-of-this-thesis-and-future-research-directions",
+      "reading_time": 5,
+      "word_count": 973
+    },
+    {
+      "chapter_number": 72,
+      "title": "72. References",
+      "clean_title": "References",
+      "slug": "references",
+      "reading_time": 42,
+      "word_count": 8459
+    },
+    {
+      "chapter_number": 73,
+      "title": "\u2753 7. Frequently Asked Questions (15 Question Intent Matrix)",
+      "clean_title": "\u2753 7. Frequently Asked Questions (15 Question Intent Matrix)",
+      "slug": "7-frequently-asked-questions-15-question-intent-matrix",
+      "reading_time": 3,
+      "word_count": 674
+    }
+  ]
+}

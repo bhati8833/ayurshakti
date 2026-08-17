@@ -1,0 +1,979 @@
+{
+  "title": "Agriculture And Animal Husbandry In The Puranas By Purboshri",
+  "paper_slug": "agriculture-and-animal-husbandry-in-the-puranas-by-purboshri",
+  "author": "Suresh Bhati",
+  "original_scholar": "Purboshri Borpuzari",
+  "total_chapters": 121,
+  "silo": "research",
+  "description": "Scholarly research monograph by Purboshri Borpuzari on Agriculture And Animal Husbandry In The Puranas By Purboshri. Unabridged chapter directory, evidence review, and PubMed citations.",
+  "chapters": [
+    {
+      "chapter_number": 1,
+      "title": "1. Acknowledgement",
+      "clean_title": "Acknowledgement",
+      "slug": "acknowledgement",
+      "reading_time": 2,
+      "word_count": 453
+    },
+    {
+      "chapter_number": 2,
+      "title": "2. Part 1 - The Meaning and Scope of the word Pur\u0101\u1e47a",
+      "clean_title": "Part 1 - The Meaning and Scope of the word Pur\u0101\u1e47a",
+      "slug": "part-1---the-meaning-and-scope-of-the-word-pur\u0101\u1e47a",
+      "reading_time": 5,
+      "word_count": 1064
+    },
+    {
+      "chapter_number": 3,
+      "title": "3. Chapter 1 - An introduction to the Pur\u0101\u1e47as",
+      "clean_title": "Chapter 1 - An introduction to the Pur\u0101\u1e47as",
+      "slug": "chapter-1---an-introduction-to-the-pur\u0101\u1e47as",
+      "reading_time": 1,
+      "word_count": 88
+    },
+    {
+      "chapter_number": 4,
+      "title": "4. Part 2 - Characteristics of the Pur\u0101\u1e47as",
+      "clean_title": "Part 2 - Characteristics of the Pur\u0101\u1e47as",
+      "slug": "part-2---characteristics-of-the-pur\u0101\u1e47as",
+      "reading_time": 6,
+      "word_count": 1169
+    },
+    {
+      "chapter_number": 5,
+      "title": "5. Preface",
+      "clean_title": "Preface",
+      "slug": "preface",
+      "reading_time": 3,
+      "word_count": 557
+    },
+    {
+      "chapter_number": 6,
+      "title": "6. Part 3 - Authorship of the Pur\u0101\u1e47as",
+      "clean_title": "Part 3 - Authorship of the Pur\u0101\u1e47as",
+      "slug": "part-3---authorship-of-the-pur\u0101\u1e47as",
+      "reading_time": 3,
+      "word_count": 635
+    },
+    {
+      "chapter_number": 7,
+      "title": "7. Part 5 - Number of the Pur\u0101\u1e47as",
+      "clean_title": "Part 5 - Number of the Pur\u0101\u1e47as",
+      "slug": "part-5---number-of-the-pur\u0101\u1e47as",
+      "reading_time": 4,
+      "word_count": 750
+    },
+    {
+      "chapter_number": 8,
+      "title": "8. Part 4 - Date of the Pur\u0101\u1e47as",
+      "clean_title": "Part 4 - Date of the Pur\u0101\u1e47as",
+      "slug": "part-4---date-of-the-pur\u0101\u1e47as",
+      "reading_time": 5,
+      "word_count": 1081
+    },
+    {
+      "chapter_number": 9,
+      "title": "9. Part 6 - Description of the Upapur\u0101\u1e47as",
+      "clean_title": "Part 6 - Description of the Upapur\u0101\u1e47as",
+      "slug": "part-6---description-of-the-upapur\u0101\u1e47as",
+      "reading_time": 1,
+      "word_count": 295
+    },
+    {
+      "chapter_number": 10,
+      "title": "10. Part 8.1 - Contents of the Agni Pur\u0101\u1e47a",
+      "clean_title": "Part 8.1 - Contents of the Agni Pur\u0101\u1e47a",
+      "slug": "part-81---contents-of-the-agni-pur\u0101\u1e47a",
+      "reading_time": 5,
+      "word_count": 965
+    },
+    {
+      "chapter_number": 11,
+      "title": "11. Part 7 - Division of the Pur\u0101\u1e47as",
+      "clean_title": "Part 7 - Division of the Pur\u0101\u1e47as",
+      "slug": "part-7---division-of-the-pur\u0101\u1e47as",
+      "reading_time": 2,
+      "word_count": 397
+    },
+    {
+      "chapter_number": 12,
+      "title": "12. Part 8.2 - Contents of the Bh\u0101gavata Pur\u0101\u1e47a",
+      "clean_title": "Part 8.2 - Contents of the Bh\u0101gavata Pur\u0101\u1e47a",
+      "slug": "part-82---contents-of-the-bh\u0101gavata-pur\u0101\u1e47a",
+      "reading_time": 9,
+      "word_count": 1878
+    },
+    {
+      "chapter_number": 13,
+      "title": "13. Part 8.3 - Contents of the Matsya Pur\u0101\u1e47a",
+      "clean_title": "Part 8.3 - Contents of the Matsya Pur\u0101\u1e47a",
+      "slug": "part-83---contents-of-the-matsya-pur\u0101\u1e47a",
+      "reading_time": 4,
+      "word_count": 766
+    },
+    {
+      "chapter_number": 14,
+      "title": "14. Part 8.4 - Contents of the V\u0101yu Pur\u0101\u1e47a",
+      "clean_title": "Part 8.4 - Contents of the V\u0101yu Pur\u0101\u1e47a",
+      "slug": "part-84---contents-of-the-v\u0101yu-pur\u0101\u1e47a",
+      "reading_time": 5,
+      "word_count": 991
+    },
+    {
+      "chapter_number": 15,
+      "title": "15. Part 10 - Literature Review",
+      "clean_title": "Part 10 - Literature Review",
+      "slug": "part-10---literature-review",
+      "reading_time": 4,
+      "word_count": 843
+    },
+    {
+      "chapter_number": 16,
+      "title": "16. Part 9 - Justification of Studying the Five Pur\u0101\u1e47as",
+      "clean_title": "Part 9 - Justification of Studying the Five Pur\u0101\u1e47as",
+      "slug": "part-9---justification-of-studying-the-five-pur\u0101\u1e47as",
+      "reading_time": 2,
+      "word_count": 322
+    },
+    {
+      "chapter_number": 17,
+      "title": "17. Part 8.5 - Contents of the Vi\u1e63\u1e47u Pur\u0101\u1e47a",
+      "clean_title": "Part 8.5 - Contents of the Vi\u1e63\u1e47u Pur\u0101\u1e47a",
+      "slug": "part-85---contents-of-the-vi\u1e63\u1e47u-pur\u0101\u1e47a",
+      "reading_time": 6,
+      "word_count": 1286
+    },
+    {
+      "chapter_number": 18,
+      "title": "18. Part 2 - The Meaning of the Word K\u1e5b\u1e63i (Agriculture)",
+      "clean_title": "Part 2 - The Meaning of the Word K\u1e5b\u1e63i (Agriculture)",
+      "slug": "part-2---the-meaning-of-the-word-k\u1e5b\u1e63i-agriculture",
+      "reading_time": 2,
+      "word_count": 452
+    },
+    {
+      "chapter_number": 19,
+      "title": "19. Chapter 2 - Agriculture and its importance",
+      "clean_title": "Chapter 2 - Agriculture and its importance",
+      "slug": "chapter-2---agriculture-and-its-importance",
+      "reading_time": 1,
+      "word_count": 87
+    },
+    {
+      "chapter_number": 20,
+      "title": "20. Part 1 - Introduction and history of ancient Indian Agriculture",
+      "clean_title": "Part 1 - Introduction and history of ancient Indian Agriculture",
+      "slug": "part-1---introduction-and-history-of-ancient-indian-agriculture",
+      "reading_time": 4,
+      "word_count": 868
+    },
+    {
+      "chapter_number": 21,
+      "title": "21. Part 3 - Importance of Agriculture",
+      "clean_title": "Part 3 - Importance of Agriculture",
+      "slug": "part-3---importance-of-agriculture",
+      "reading_time": 4,
+      "word_count": 880
+    },
+    {
+      "chapter_number": 22,
+      "title": "22. Part 4 - Agriculture from the Vedic Point of View",
+      "clean_title": "Part 4 - Agriculture from the Vedic Point of View",
+      "slug": "part-4---agriculture-from-the-vedic-point-of-view",
+      "reading_time": 2,
+      "word_count": 329
+    },
+    {
+      "chapter_number": 23,
+      "title": "23. Part 5 - Agriculture in the \u1e5agveda Sa\u1e43hit\u0101",
+      "clean_title": "Part 5 - Agriculture in the \u1e5agveda Sa\u1e43hit\u0101",
+      "slug": "part-5---agriculture-in-the-\u1e5bgveda-sa\u1e43hit\u0101",
+      "reading_time": 8,
+      "word_count": 1690
+    },
+    {
+      "chapter_number": 24,
+      "title": "24. Part 6 - Agriculture in the Yajurveda Sa\u1e43hit\u0101",
+      "clean_title": "Part 6 - Agriculture in the Yajurveda Sa\u1e43hit\u0101",
+      "slug": "part-6---agriculture-in-the-yajurveda-sa\u1e43hit\u0101",
+      "reading_time": 2,
+      "word_count": 443
+    },
+    {
+      "chapter_number": 25,
+      "title": "25. Part 8 - Methods of Agriculture in the Pur\u0101\u1e47as",
+      "clean_title": "Part 8 - Methods of Agriculture in the Pur\u0101\u1e47as",
+      "slug": "part-8---methods-of-agriculture-in-the-pur\u0101\u1e47as",
+      "reading_time": 2,
+      "word_count": 471
+    },
+    {
+      "chapter_number": 26,
+      "title": "26. Part 9 - The concept of Ploughing (Hala and L\u0101\u1e45gala)",
+      "clean_title": "Part 9 - The concept of Ploughing (Hala and L\u0101\u1e45gala)",
+      "slug": "part-9---the-concept-of-ploughing-hala-and-l\u0101\u1e45gala",
+      "reading_time": 5,
+      "word_count": 929
+    },
+    {
+      "chapter_number": 27,
+      "title": "27. Part 11 - Sowing of Seeds (B\u012bja/V\u012bja)",
+      "clean_title": "Part 11 - Sowing of Seeds (B\u012bja/V\u012bja)",
+      "slug": "part-11---sowing-of-seeds-b\u012bjav\u012bja",
+      "reading_time": 3,
+      "word_count": 545
+    },
+    {
+      "chapter_number": 28,
+      "title": "28. Part 10 - Favourable Time for Various Methods of Agriculture",
+      "clean_title": "Part 10 - Favourable Time for Various Methods of Agriculture",
+      "slug": "part-10---favourable-time-for-various-methods-of-agriculture",
+      "reading_time": 3,
+      "word_count": 529
+    },
+    {
+      "chapter_number": 29,
+      "title": "29. Part 13 - Process for Checking the Fertility of the Soil",
+      "clean_title": "Part 13 - Process for Checking the Fertility of the Soil",
+      "slug": "part-13---process-for-checking-the-fertility-of-the-soil",
+      "reading_time": 1,
+      "word_count": 289
+    },
+    {
+      "chapter_number": 30,
+      "title": "30. Part 7 - Agriculture in the Atharvaveda Sa\u1e43hit\u0101",
+      "clean_title": "Part 7 - Agriculture in the Atharvaveda Sa\u1e43hit\u0101",
+      "slug": "part-7---agriculture-in-the-atharvaveda-sa\u1e43hit\u0101",
+      "reading_time": 6,
+      "word_count": 1235
+    },
+    {
+      "chapter_number": 31,
+      "title": "31. Part 12 - Types of Soil (Bhauma)",
+      "clean_title": "Part 12 - Types of Soil (Bhauma)",
+      "slug": "part-12---types-of-soil-bhauma",
+      "reading_time": 2,
+      "word_count": 460
+    },
+    {
+      "chapter_number": 32,
+      "title": "32. Part 14 - Rites and Methods of Sowing and Transplantation",
+      "clean_title": "Part 14 - Rites and Methods of Sowing and Transplantation",
+      "slug": "part-14---rites-and-methods-of-sowing-and-transplantation",
+      "reading_time": 5,
+      "word_count": 902
+    },
+    {
+      "chapter_number": 33,
+      "title": "33. Part 15 - The concept of Manuring (in the Pur\u0101\u1e47as)",
+      "clean_title": "Part 15 - The concept of Manuring (in the Pur\u0101\u1e47as)",
+      "slug": "part-15---the-concept-of-manuring-in-the-pur\u0101\u1e47as",
+      "reading_time": 3,
+      "word_count": 569
+    },
+    {
+      "chapter_number": 34,
+      "title": "34. Part 16 - Irrigation and Water Management",
+      "clean_title": "Part 16 - Irrigation and Water Management",
+      "slug": "part-16---irrigation-and-water-management",
+      "reading_time": 4,
+      "word_count": 816
+    },
+    {
+      "chapter_number": 35,
+      "title": "35. Part 17 - Excavation as well as Consecration of Tanks",
+      "clean_title": "Part 17 - Excavation as well as Consecration of Tanks",
+      "slug": "part-17---excavation-as-well-as-consecration-of-tanks",
+      "reading_time": 2,
+      "word_count": 346
+    },
+    {
+      "chapter_number": 36,
+      "title": "36. Part 18 - Rainfall, the Support of Agriculture that Depends upon the Sun",
+      "clean_title": "Part 18 - Rainfall, the Support of Agriculture that Depends upon the Sun",
+      "slug": "part-18---rainfall-the-support-of-agriculture-that-depends-upon-the-sun",
+      "reading_time": 5,
+      "word_count": 964
+    },
+    {
+      "chapter_number": 37,
+      "title": "37. Part 19 - The Gleaning of Corns (from the field or market-place)",
+      "clean_title": "Part 19 - The Gleaning of Corns (from the field or market-place)",
+      "slug": "part-19---the-gleaning-of-corns-from-the-field-or-market-place",
+      "reading_time": 2,
+      "word_count": 417
+    },
+    {
+      "chapter_number": 38,
+      "title": "38. Part 20 - Ancient Indian Horticulture (the science of planting)\u2014Introduction",
+      "clean_title": "Part 20 - Ancient Indian Horticulture (the science of planting)\u2014Introduction",
+      "slug": "part-20---ancient-indian-horticulture-the-science-of-plantingintroduction",
+      "reading_time": 5,
+      "word_count": 990
+    },
+    {
+      "chapter_number": 39,
+      "title": "39. Part 22 - Vegetables and Fruits (according to the Pur\u0101\u1e47as)",
+      "clean_title": "Part 22 - Vegetables and Fruits (according to the Pur\u0101\u1e47as)",
+      "slug": "part-22---vegetables-and-fruits-according-to-the-pur\u0101\u1e47as",
+      "reading_time": 1,
+      "word_count": 295
+    },
+    {
+      "chapter_number": 40,
+      "title": "40. Part 21 - Agricultural Products as Mentioned in the Proposed Pur\u0101\u1e47as",
+      "clean_title": "Part 21 - Agricultural Products as Mentioned in the Proposed Pur\u0101\u1e47as",
+      "slug": "part-21---agricultural-products-as-mentioned-in-the-proposed-pur\u0101\u1e47as",
+      "reading_time": 3,
+      "word_count": 633
+    },
+    {
+      "chapter_number": 41,
+      "title": "41. Part 23 - Oil Seeds (according to the Pur\u0101\u1e47as)",
+      "clean_title": "Part 23 - Oil Seeds (according to the Pur\u0101\u1e47as)",
+      "slug": "part-23---oil-seeds-according-to-the-pur\u0101\u1e47as",
+      "reading_time": 1,
+      "word_count": 238
+    },
+    {
+      "chapter_number": 42,
+      "title": "42. Part 24 - Agriculture and its Related Concepts in the Proposed Pur\u0101\u1e47as",
+      "clean_title": "Part 24 - Agriculture and its Related Concepts in the Proposed Pur\u0101\u1e47as",
+      "slug": "part-24---agriculture-and-its-related-concepts-in-the-proposed-pur\u0101\u1e47as",
+      "reading_time": 6,
+      "word_count": 1128
+    },
+    {
+      "chapter_number": 43,
+      "title": "43. Part 25 - Festivals and Rites Related to Agriculture:",
+      "clean_title": "Part 25 - Festivals and Rites Related to Agriculture:",
+      "slug": "part-25---festivals-and-rites-related-to-agriculture",
+      "reading_time": 3,
+      "word_count": 638
+    },
+    {
+      "chapter_number": 44,
+      "title": "44. Part 26 - Agricultural Products Used as Gifts",
+      "clean_title": "Part 26 - Agricultural Products Used as Gifts",
+      "slug": "part-26---agricultural-products-used-as-gifts",
+      "reading_time": 11,
+      "word_count": 2241
+    },
+    {
+      "chapter_number": 45,
+      "title": "45. Part 27 - Agricultural Products Used as Medicines",
+      "clean_title": "Part 27 - Agricultural Products Used as Medicines",
+      "slug": "part-27---agricultural-products-used-as-medicines",
+      "reading_time": 8,
+      "word_count": 1591
+    },
+    {
+      "chapter_number": 46,
+      "title": "46. Chapter 3 - Pur\u0101\u1e47ic myths related to Agriculture",
+      "clean_title": "Chapter 3 - Pur\u0101\u1e47ic myths related to Agriculture",
+      "slug": "chapter-3---pur\u0101\u1e47ic-myths-related-to-agriculture",
+      "reading_time": 1,
+      "word_count": 89
+    },
+    {
+      "chapter_number": 47,
+      "title": "47. Part 1 - Meaning of the word \u0100khy\u0101na",
+      "clean_title": "Part 1 - Meaning of the word \u0100khy\u0101na",
+      "slug": "part-1---meaning-of-the-word-\u0101khy\u0101na",
+      "reading_time": 3,
+      "word_count": 651
+    },
+    {
+      "chapter_number": 48,
+      "title": "48. Part 3 - The Myth of Kuru (son of king Sa\u1e43vara\u1e47a)",
+      "clean_title": "Part 3 - The Myth of Kuru (son of king Sa\u1e43vara\u1e47a)",
+      "slug": "part-3---the-myth-of-kuru-son-of-king-sa\u1e43vara\u1e47a",
+      "reading_time": 2,
+      "word_count": 441
+    },
+    {
+      "chapter_number": 49,
+      "title": "49. Part 2 - The Myth of P\u1e5bthu, the Son of Vena",
+      "clean_title": "Part 2 - The Myth of P\u1e5bthu, the Son of Vena",
+      "slug": "part-2---the-myth-of-p\u1e5bthu-the-son-of-vena",
+      "reading_time": 8,
+      "word_count": 1687
+    },
+    {
+      "chapter_number": 50,
+      "title": "50. Part 4 - The Myth of Indra and Ahaly\u0101",
+      "clean_title": "Part 4 - The Myth of Indra and Ahaly\u0101",
+      "slug": "part-4---the-myth-of-indra-and-ahaly\u0101",
+      "reading_time": 4,
+      "word_count": 750
+    },
+    {
+      "chapter_number": 51,
+      "title": "51. Part 6 - The Myth of Vi\u015bv\u0101mitra",
+      "clean_title": "Part 6 - The Myth of Vi\u015bv\u0101mitra",
+      "slug": "part-6---the-myth-of-vi\u015bv\u0101mitra",
+      "reading_time": 2,
+      "word_count": 442
+    },
+    {
+      "chapter_number": 52,
+      "title": "52. Part 5 - The Myth of Indra and V\u1e5btra",
+      "clean_title": "Part 5 - The Myth of Indra and V\u1e5btra",
+      "slug": "part-5---the-myth-of-indra-and-v\u1e5btra",
+      "reading_time": 7,
+      "word_count": 1398
+    },
+    {
+      "chapter_number": 53,
+      "title": "53. Part 8 - The Myth of Gautama and Ga\u1e47e\u015ba",
+      "clean_title": "Part 8 - The Myth of Gautama and Ga\u1e47e\u015ba",
+      "slug": "part-8---the-myth-of-gautama-and-ga\u1e47e\u015ba",
+      "reading_time": 3,
+      "word_count": 551
+    },
+    {
+      "chapter_number": 54,
+      "title": "54. Part 7 - The Myth behind the Creation of Agriculture",
+      "clean_title": "Part 7 - The Myth behind the Creation of Agriculture",
+      "slug": "part-7---the-myth-behind-the-creation-of-agriculture",
+      "reading_time": 3,
+      "word_count": 595
+    },
+    {
+      "chapter_number": 55,
+      "title": "55. Part 9 - The Legend behind the Name Govardhana-T\u012brtha",
+      "clean_title": "Part 9 - The Legend behind the Name Govardhana-T\u012brtha",
+      "slug": "part-9---the-legend-behind-the-name-govardhana-t\u012brtha",
+      "reading_time": 2,
+      "word_count": 454
+    },
+    {
+      "chapter_number": 56,
+      "title": "56. Part 11 - The Account of Uplifting the Mountain Govardhana",
+      "clean_title": "Part 11 - The Account of Uplifting the Mountain Govardhana",
+      "slug": "part-11---the-account-of-uplifting-the-mountain-govardhana",
+      "reading_time": 7,
+      "word_count": 1428
+    },
+    {
+      "chapter_number": 57,
+      "title": "57. Part 10 - The Account of King \u0100k\u0101\u015ba",
+      "clean_title": "Part 10 - The Account of King \u0100k\u0101\u015ba",
+      "slug": "part-10---the-account-of-king-\u0101k\u0101\u015ba",
+      "reading_time": 1,
+      "word_count": 206
+    },
+    {
+      "chapter_number": 58,
+      "title": "58. Part 12 - Establishment of V\u0101rt\u0101-V\u1e5btti",
+      "clean_title": "Part 12 - Establishment of V\u0101rt\u0101-V\u1e5btti",
+      "slug": "part-12---establishment-of-v\u0101rt\u0101-v\u1e5btti",
+      "reading_time": 2,
+      "word_count": 403
+    },
+    {
+      "chapter_number": 59,
+      "title": "59. Chapter 4 - Animal husbandry in the Pur\u0101\u1e47as",
+      "clean_title": "Chapter 4 - Animal husbandry in the Pur\u0101\u1e47as",
+      "slug": "chapter-4---animal-husbandry-in-the-pur\u0101\u1e47as",
+      "reading_time": 1,
+      "word_count": 89
+    },
+    {
+      "chapter_number": 60,
+      "title": "60. Part 1 - Meaning of the term Pa\u015bu-p\u0101lana (Animal Husbandry)",
+      "clean_title": "Part 1 - Meaning of the term Pa\u015bu-p\u0101lana (Animal Husbandry)",
+      "slug": "part-1---meaning-of-the-term-pa\u015bu-p\u0101lana-animal-husbandry",
+      "reading_time": 4,
+      "word_count": 779
+    },
+    {
+      "chapter_number": 61,
+      "title": "61. Part 3 - Animal Husbandry in the Pur\u0101\u1e47as",
+      "clean_title": "Part 3 - Animal Husbandry in the Pur\u0101\u1e47as",
+      "slug": "part-3---animal-husbandry-in-the-pur\u0101\u1e47as",
+      "reading_time": 5,
+      "word_count": 980
+    },
+    {
+      "chapter_number": 62,
+      "title": "62. Part 2 - Animal Husbandry in the Vedic Period",
+      "clean_title": "Part 2 - Animal Husbandry in the Vedic Period",
+      "slug": "part-2---animal-husbandry-in-the-vedic-period",
+      "reading_time": 8,
+      "word_count": 1649
+    },
+    {
+      "chapter_number": 63,
+      "title": "63. Part 4 - Classification of Animals",
+      "clean_title": "Part 4 - Classification of Animals",
+      "slug": "part-4---classification-of-animals",
+      "reading_time": 2,
+      "word_count": 491
+    },
+    {
+      "chapter_number": 64,
+      "title": "64. Part 6 - Treatment and Care of Cow (according to Pur\u0101\u1e47as)",
+      "clean_title": "Part 6 - Treatment and Care of Cow (according to Pur\u0101\u1e47as)",
+      "slug": "part-6---treatment-and-care-of-cow-according-to-pur\u0101\u1e47as",
+      "reading_time": 4,
+      "word_count": 744
+    },
+    {
+      "chapter_number": 65,
+      "title": "65. Part 5 - The Cow in the Pur\u0101\u1e47as\u2014Introduction",
+      "clean_title": "Part 5 - The Cow in the Pur\u0101\u1e47as\u2014Introduction",
+      "slug": "part-5---the-cow-in-the-pur\u0101\u1e47asintroduction",
+      "reading_time": 5,
+      "word_count": 1053
+    },
+    {
+      "chapter_number": 66,
+      "title": "66. Part 7 - The Worship of Cow and Go-vrata",
+      "clean_title": "Part 7 - The Worship of Cow and Go-vrata",
+      "slug": "part-7---the-worship-of-cow-and-go-vrata",
+      "reading_time": 2,
+      "word_count": 330
+    },
+    {
+      "chapter_number": 67,
+      "title": "67. Part 8 - Rearing and Tending cattle",
+      "clean_title": "Part 8 - Rearing and Tending cattle",
+      "slug": "part-8---rearing-and-tending-cattle",
+      "reading_time": 2,
+      "word_count": 361
+    },
+    {
+      "chapter_number": 68,
+      "title": "68. Part 9 - Rites Performed for the Welfare of Cow",
+      "clean_title": "Part 9 - Rites Performed for the Welfare of Cow",
+      "slug": "part-9---rites-performed-for-the-welfare-of-cow",
+      "reading_time": 2,
+      "word_count": 359
+    },
+    {
+      "chapter_number": 69,
+      "title": "69. Part 11 - Cows Used as Gifts in Various Rituals",
+      "clean_title": "Part 11 - Cows Used as Gifts in Various Rituals",
+      "slug": "part-11---cows-used-as-gifts-in-various-rituals",
+      "reading_time": 5,
+      "word_count": 1042
+    },
+    {
+      "chapter_number": 70,
+      "title": "70. Part 12 - Pa\u00f1cagavya (Produced from Cow) used in different occasions",
+      "clean_title": "Part 12 - Pa\u00f1cagavya (Produced from Cow) used in different occasions",
+      "slug": "part-12---pa\u00f1cagavya-produced-from-cow-used-in-different-occasions",
+      "reading_time": 5,
+      "word_count": 962
+    },
+    {
+      "chapter_number": 71,
+      "title": "71. Part 10 - Expiation for Killing a Cow",
+      "clean_title": "Part 10 - Expiation for Killing a Cow",
+      "slug": "part-10---expiation-for-killing-a-cow",
+      "reading_time": 2,
+      "word_count": 314
+    },
+    {
+      "chapter_number": 72,
+      "title": "72. Part 13 - The Bull in the Pur\u0101\u1e47as",
+      "clean_title": "Part 13 - The Bull in the Pur\u0101\u1e47as",
+      "slug": "part-13---the-bull-in-the-pur\u0101\u1e47as",
+      "reading_time": 6,
+      "word_count": 1123
+    },
+    {
+      "chapter_number": 73,
+      "title": "73. Part 17 - Kingdoms Noted for Elephants and Kings Who Had Elephants",
+      "clean_title": "Part 17 - Kingdoms Noted for Elephants and Kings Who Had Elephants",
+      "slug": "part-17---kingdoms-noted-for-elephants-and-kings-who-had-elephants",
+      "reading_time": 2,
+      "word_count": 396
+    },
+    {
+      "chapter_number": 74,
+      "title": "74. Part 14 - The Elephant in the Pur\u0101\u1e47as",
+      "clean_title": "Part 14 - The Elephant in the Pur\u0101\u1e47as",
+      "slug": "part-14---the-elephant-in-the-pur\u0101\u1e47as",
+      "reading_time": 3,
+      "word_count": 680
+    },
+    {
+      "chapter_number": 75,
+      "title": "75. Part 16 - Rites Performed for the Welfare of Elephants",
+      "clean_title": "Part 16 - Rites Performed for the Welfare of Elephants",
+      "slug": "part-16---rites-performed-for-the-welfare-of-elephants",
+      "reading_time": 4,
+      "word_count": 745
+    },
+    {
+      "chapter_number": 76,
+      "title": "76. Part 15 - Management and Treatment of Elephants",
+      "clean_title": "Part 15 - Management and Treatment of Elephants",
+      "slug": "part-15---management-and-treatment-of-elephants",
+      "reading_time": 8,
+      "word_count": 1529
+    },
+    {
+      "chapter_number": 77,
+      "title": "77. Part 18 - Elephants Used for Gifts",
+      "clean_title": "Part 18 - Elephants Used for Gifts",
+      "slug": "part-18---elephants-used-for-gifts",
+      "reading_time": 1,
+      "word_count": 167
+    },
+    {
+      "chapter_number": 78,
+      "title": "78. Part 22 - Rites Performed for the Welfare of Horses",
+      "clean_title": "Part 22 - Rites Performed for the Welfare of Horses",
+      "slug": "part-22---rites-performed-for-the-welfare-of-horses",
+      "reading_time": 2,
+      "word_count": 390
+    },
+    {
+      "chapter_number": 79,
+      "title": "79. Part 23 - Kingdoms Noted for Horses",
+      "clean_title": "Part 23 - Kingdoms Noted for Horses",
+      "slug": "part-23---kingdoms-noted-for-horses",
+      "reading_time": 2,
+      "word_count": 433
+    },
+    {
+      "chapter_number": 80,
+      "title": "80. Part 20 - Management of Horses",
+      "clean_title": "Part 20 - Management of Horses",
+      "slug": "part-20---management-of-horses",
+      "reading_time": 5,
+      "word_count": 1066
+    },
+    {
+      "chapter_number": 81,
+      "title": "81. Part 21 - Treatment and Care of Horses",
+      "clean_title": "Part 21 - Treatment and Care of Horses",
+      "slug": "part-21---treatment-and-care-of-horses",
+      "reading_time": 10,
+      "word_count": 1960
+    },
+    {
+      "chapter_number": 82,
+      "title": "82. Part 19 - Horse in the Pur\u0101\u1e47as\u2014Introduction",
+      "clean_title": "Part 19 - Horse in the Pur\u0101\u1e47as\u2014Introduction",
+      "slug": "part-19---horse-in-the-pur\u0101\u1e47asintroduction",
+      "reading_time": 8,
+      "word_count": 1638
+    },
+    {
+      "chapter_number": 83,
+      "title": "83. Part 24 - Horses Used for Chariots",
+      "clean_title": "Part 24 - Horses Used for Chariots",
+      "slug": "part-24---horses-used-for-chariots",
+      "reading_time": 2,
+      "word_count": 328
+    },
+    {
+      "chapter_number": 84,
+      "title": "84. Chapter 5 - Modern relevance of Pur\u0101\u1e47ic agriculture and Animal Husbandry",
+      "clean_title": "Chapter 5 - Modern relevance of Pur\u0101\u1e47ic agriculture and Animal Husbandry",
+      "slug": "chapter-5---modern-relevance-of-pur\u0101\u1e47ic-agriculture-and-animal-husbandry",
+      "reading_time": 1,
+      "word_count": 95
+    },
+    {
+      "chapter_number": 85,
+      "title": "85. Part 25 - References of other Animals as found in the Pur\u0101\u1e47as",
+      "clean_title": "Part 25 - References of other Animals as found in the Pur\u0101\u1e47as",
+      "slug": "part-25---references-of-other-animals-as-found-in-the-pur\u0101\u1e47as",
+      "reading_time": 4,
+      "word_count": 859
+    },
+    {
+      "chapter_number": 86,
+      "title": "86. Part 26 - Herbs and Plants prescribed for the treatment of Animals",
+      "clean_title": "Part 26 - Herbs and Plants prescribed for the treatment of Animals",
+      "slug": "part-26---herbs-and-plants-prescribed-for-the-treatment-of-animals",
+      "reading_time": 3,
+      "word_count": 575
+    },
+    {
+      "chapter_number": 87,
+      "title": "87. Part 24 - Horses Used as Gifts",
+      "clean_title": "Part 24 - Horses Used as Gifts",
+      "slug": "part-24---horses-used-as-gifts",
+      "reading_time": 2,
+      "word_count": 313
+    },
+    {
+      "chapter_number": 88,
+      "title": "88. Part 1 - Agriculture In Post-Pur\u0101\u1e47ic Sanskrit Works",
+      "clean_title": "Part 1 - Agriculture In Post-Pur\u0101\u1e47ic Sanskrit Works",
+      "slug": "part-1---agriculture-in-post-pur\u0101\u1e47ic-sanskrit-works",
+      "reading_time": 2,
+      "word_count": 478
+    },
+    {
+      "chapter_number": 89,
+      "title": "89. Part 2 - Ploughing for Sowing Seeds",
+      "clean_title": "Part 2 - Ploughing for Sowing Seeds",
+      "slug": "part-2---ploughing-for-sowing-seeds",
+      "reading_time": 2,
+      "word_count": 473
+    },
+    {
+      "chapter_number": 90,
+      "title": "90. Part 3 - Sowing of Seeds",
+      "clean_title": "Part 3 - Sowing of Seeds",
+      "slug": "part-3---sowing-of-seeds",
+      "reading_time": 3,
+      "word_count": 513
+    },
+    {
+      "chapter_number": 91,
+      "title": "91. Part 4 - Treatment of Seeds",
+      "clean_title": "Part 4 - Treatment of Seeds",
+      "slug": "part-4---treatment-of-seeds",
+      "reading_time": 2,
+      "word_count": 499
+    },
+    {
+      "chapter_number": 92,
+      "title": "92. Part 5 - Successful Production Depends on the Fertility of the Soil",
+      "clean_title": "Part 5 - Successful Production Depends on the Fertility of the Soil",
+      "slug": "part-5---successful-production-depends-on-the-fertility-of-the-soil",
+      "reading_time": 3,
+      "word_count": 549
+    },
+    {
+      "chapter_number": 93,
+      "title": "93. Part 6 - The modern relevance of ancient Indian Manuring",
+      "clean_title": "Part 6 - The modern relevance of ancient Indian Manuring",
+      "slug": "part-6---the-modern-relevance-of-ancient-indian-manuring",
+      "reading_time": 2,
+      "word_count": 382
+    },
+    {
+      "chapter_number": 94,
+      "title": "94. Part 7 - Irrigation and Water Management",
+      "clean_title": "Part 7 - Irrigation and Water Management",
+      "slug": "part-7---irrigation-and-water-management",
+      "reading_time": 4,
+      "word_count": 803
+    },
+    {
+      "chapter_number": 95,
+      "title": "95. Part 8 - Protection and Care (of crops)",
+      "clean_title": "Part 8 - Protection and Care (of crops)",
+      "slug": "part-8---protection-and-care-of-crops",
+      "reading_time": 3,
+      "word_count": 628
+    },
+    {
+      "chapter_number": 96,
+      "title": "96. Part 9 - Animal Husbandry in Post-Pur\u0101\u1e47ic Sanskrit Works\u2014Introduction",
+      "clean_title": "Part 9 - Animal Husbandry in Post-Pur\u0101\u1e47ic Sanskrit Works\u2014Introduction",
+      "slug": "part-9---animal-husbandry-in-post-pur\u0101\u1e47ic-sanskrit-worksintroduction",
+      "reading_time": 2,
+      "word_count": 369
+    },
+    {
+      "chapter_number": 97,
+      "title": "97. Part 10 - Breeds of Animals (in Post-Pur\u0101\u1e47ic Sanskrit Works)",
+      "clean_title": "Part 10 - Breeds of Animals (in Post-Pur\u0101\u1e47ic Sanskrit Works)",
+      "slug": "part-10---breeds-of-animals-in-post-pur\u0101\u1e47ic-sanskrit-works",
+      "reading_time": 4,
+      "word_count": 782
+    },
+    {
+      "chapter_number": 98,
+      "title": "98. Part 11 - Rearing and Tending of Animals",
+      "clean_title": "Part 11 - Rearing and Tending of Animals",
+      "slug": "part-11---rearing-and-tending-of-animals",
+      "reading_time": 4,
+      "word_count": 718
+    },
+    {
+      "chapter_number": 99,
+      "title": "99. Part 12 - Nourishment and Feeding of Animals",
+      "clean_title": "Part 12 - Nourishment and Feeding of Animals",
+      "slug": "part-12---nourishment-and-feeding-of-animals",
+      "reading_time": 4,
+      "word_count": 726
+    },
+    {
+      "chapter_number": 100,
+      "title": "100. Part 14 - Agriculture in the Modern Age\u2014Introduction",
+      "clean_title": "Part 14 - Agriculture in the Modern Age\u2014Introduction",
+      "slug": "part-14---agriculture-in-the-modern-ageintroduction",
+      "reading_time": 2,
+      "word_count": 371
+    },
+    {
+      "chapter_number": 101,
+      "title": "101. Part 13 - Preservation of Animal Life",
+      "clean_title": "Part 13 - Preservation of Animal Life",
+      "slug": "part-13---preservation-of-animal-life",
+      "reading_time": 2,
+      "word_count": 442
+    },
+    {
+      "chapter_number": 102,
+      "title": "102. Part 15 - Major crops and Staple food",
+      "clean_title": "Part 15 - Major crops and Staple food",
+      "slug": "part-15---major-crops-and-staple-food",
+      "reading_time": 3,
+      "word_count": 588
+    },
+    {
+      "chapter_number": 103,
+      "title": "103. Part 16 - Tools Used for Agriculture",
+      "clean_title": "Part 16 - Tools Used for Agriculture",
+      "slug": "part-16---tools-used-for-agriculture",
+      "reading_time": 2,
+      "word_count": 398
+    },
+    {
+      "chapter_number": 104,
+      "title": "104. Part 17 - Classification of Soils",
+      "clean_title": "Part 17 - Classification of Soils",
+      "slug": "part-17---classification-of-soils",
+      "reading_time": 1,
+      "word_count": 260
+    },
+    {
+      "chapter_number": 105,
+      "title": "105. Part 18 - Sowing of Seeds",
+      "clean_title": "Part 18 - Sowing of Seeds",
+      "slug": "part-18---sowing-of-seeds",
+      "reading_time": 1,
+      "word_count": 298
+    },
+    {
+      "chapter_number": 106,
+      "title": "106. Part 19 - Manuring (in modern Indian Agriculture)",
+      "clean_title": "Part 19 - Manuring (in modern Indian Agriculture)",
+      "slug": "part-19---manuring-in-modern-indian-agriculture",
+      "reading_time": 3,
+      "word_count": 599
+    },
+    {
+      "chapter_number": 107,
+      "title": "107. Part 20 - Plant-Protection Practices",
+      "clean_title": "Part 20 - Plant-Protection Practices",
+      "slug": "part-20---plant-protection-practices",
+      "reading_time": 4,
+      "word_count": 726
+    },
+    {
+      "chapter_number": 108,
+      "title": "108. Part 21 - Irrigation (in modern Indian Agriculture)",
+      "clean_title": "Part 21 - Irrigation (in modern Indian Agriculture)",
+      "slug": "part-21---irrigation-in-modern-indian-agriculture",
+      "reading_time": 3,
+      "word_count": 588
+    },
+    {
+      "chapter_number": 109,
+      "title": "109. Part 23 - The festival of Bihu of Assam",
+      "clean_title": "Part 23 - The festival of Bihu of Assam",
+      "slug": "part-23---the-festival-of-bihu-of-assam",
+      "reading_time": 2,
+      "word_count": 447
+    },
+    {
+      "chapter_number": 110,
+      "title": "110. Part 22 - Description of the Ak\u1e63aya T\u1e5bt\u012by\u0101 festival (i.e., Akha Teej)",
+      "clean_title": "Part 22 - Description of the Ak\u1e63aya T\u1e5bt\u012by\u0101 festival (i.e., Akha Teej)",
+      "slug": "part-22---description-of-the-ak\u1e63aya-t\u1e5bt\u012by\u0101-festival-ie-akha-teej",
+      "reading_time": 1,
+      "word_count": 293
+    },
+    {
+      "chapter_number": 111,
+      "title": "111. Part 23 - Description of the D\u012bp\u0101val\u012b festival",
+      "clean_title": "Part 23 - Description of the D\u012bp\u0101val\u012b festival",
+      "slug": "part-23---description-of-the-d\u012bp\u0101val\u012b-festival",
+      "reading_time": 2,
+      "word_count": 316
+    },
+    {
+      "chapter_number": 112,
+      "title": "112. Part 24 - The festival of Po\u1e45gal of Tamil Nadu",
+      "clean_title": "Part 24 - The festival of Po\u1e45gal of Tamil Nadu",
+      "slug": "part-24---the-festival-of-po\u1e45gal-of-tamil-nadu",
+      "reading_time": 1,
+      "word_count": 237
+    },
+    {
+      "chapter_number": 113,
+      "title": "113. Part 25 - Animal Husbandry in the Modern Age\u2014Introduction",
+      "clean_title": "Part 25 - Animal Husbandry in the Modern Age\u2014Introduction",
+      "slug": "part-25---animal-husbandry-in-the-modern-ageintroduction",
+      "reading_time": 2,
+      "word_count": 429
+    },
+    {
+      "chapter_number": 114,
+      "title": "114. Part 26 - Breeding Policy (in modern Indian society)",
+      "clean_title": "Part 26 - Breeding Policy (in modern Indian society)",
+      "slug": "part-26---breeding-policy-in-modern-indian-society",
+      "reading_time": 2,
+      "word_count": 407
+    },
+    {
+      "chapter_number": 115,
+      "title": "115. Part 27 - Classification of Breeds (in modern Indian society)",
+      "clean_title": "Part 27 - Classification of Breeds (in modern Indian society)",
+      "slug": "part-27---classification-of-breeds-in-modern-indian-society",
+      "reading_time": 3,
+      "word_count": 652
+    },
+    {
+      "chapter_number": 116,
+      "title": "116. Part 28 - Feeding of Cattle (in modern Indian society)",
+      "clean_title": "Part 28 - Feeding of Cattle (in modern Indian society)",
+      "slug": "part-28---feeding-of-cattle-in-modern-indian-society",
+      "reading_time": 2,
+      "word_count": 393
+    },
+    {
+      "chapter_number": 117,
+      "title": "117. Part 29 - Management of Cattle (in modern Indian society)",
+      "clean_title": "Part 29 - Management of Cattle (in modern Indian society)",
+      "slug": "part-29---management-of-cattle-in-modern-indian-society",
+      "reading_time": 3,
+      "word_count": 531
+    },
+    {
+      "chapter_number": 118,
+      "title": "118. Part 30 - Rearing of Cattle (in modern Indian society)",
+      "clean_title": "Part 30 - Rearing of Cattle (in modern Indian society)",
+      "slug": "part-30---rearing-of-cattle-in-modern-indian-society",
+      "reading_time": 2,
+      "word_count": 356
+    },
+    {
+      "chapter_number": 119,
+      "title": "119. Part 31 - Indigenous Plants for the Treatment of Diseases of Animals",
+      "clean_title": "Part 31 - Indigenous Plants for the Treatment of Diseases of Animals",
+      "slug": "part-31---indigenous-plants-for-the-treatment-of-diseases-of-animals",
+      "reading_time": 8,
+      "word_count": 1553
+    },
+    {
+      "chapter_number": 120,
+      "title": "120. Chapter 6 - Conclusive Remarks",
+      "clean_title": "Chapter 6 - Conclusive Remarks",
+      "slug": "chapter-6---conclusive-remarks",
+      "reading_time": 19,
+      "word_count": 3806
+    },
+    {
+      "chapter_number": 121,
+      "title": "\u2753 7. Frequently Asked Questions (15 Question Intent Matrix)",
+      "clean_title": "\u2753 7. Frequently Asked Questions (15 Question Intent Matrix)",
+      "slug": "7-frequently-asked-questions-15-question-intent-matrix",
+      "reading_time": 3,
+      "word_count": 682
+    }
+  ]
+}

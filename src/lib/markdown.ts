@@ -229,7 +229,108 @@ export function getHerbDocBySlug(slug: string): SiloDoc | null {
 export const getHerbBySlug = getHerbDocBySlug;
 
 // ----------------------------------------------------
-// Generic Silo Reader (pet-health, research)
+// Research Silo Functions
+// ----------------------------------------------------
+
+export interface ResearchChapterMeta {
+  title: string;
+  paper_title: string;
+  paper_slug: string;
+  chapter_title: string;
+  chapter_slug: string;
+  chapter_number: number;
+  author: string;
+  original_scholar: string;
+  silo: string;
+  reading_time: number;
+  prev_chapter: string;
+  next_chapter: string;
+  content: string;
+  htmlContent: string;
+}
+
+export interface ResearchPaperInfo {
+  title: string;
+  paper_slug: string;
+  author: string;
+  original_scholar: string;
+  total_chapters: number;
+  silo: string;
+  description: string;
+  chapters: Array<{
+    chapter_number: number;
+    title: string;
+    clean_title: string;
+    slug: string;
+    reading_time: number;
+    word_count: number;
+  }>;
+}
+
+export function getResearchPapers(): ResearchPaperInfo[] {
+  const researchDir = path.join(CONTENT_DIR, 'research');
+  if (!fs.existsSync(researchDir)) return [];
+
+  const papers: ResearchPaperInfo[] = [];
+  const entries = fs.readdirSync(researchDir, { withFileTypes: true });
+
+  for (const entry of entries) {
+    if (entry.isDirectory()) {
+      const infoPath = path.join(researchDir, entry.name, 'paper-info.json');
+      if (fs.existsSync(infoPath)) {
+        try {
+          const infoData = JSON.parse(fs.readFileSync(infoPath, 'utf8'));
+          papers.push(infoData);
+        } catch (e) {
+          console.error(`Error reading ${infoPath}:`, e);
+        }
+      }
+    }
+  }
+
+  return papers;
+}
+
+export function getResearchPaper(paperSlug: string): ResearchPaperInfo | null {
+  const infoPath = path.join(CONTENT_DIR, 'research', paperSlug, 'paper-info.json');
+  if (!fs.existsSync(infoPath)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(infoPath, 'utf8'));
+  } catch (e) {
+    return null;
+  }
+}
+
+export function getResearchChapter(paperSlug: string, chapterSlug: string): ResearchChapterMeta | null {
+  const filePath = path.join(CONTENT_DIR, 'research', paperSlug, `${chapterSlug}.md`);
+  if (!fs.existsSync(filePath)) return null;
+
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const { data, content } = matter(raw);
+
+  const parsedHtml = marked.parse(content) as string;
+  const htmlContent = applyWikipediaInterlinks(parsedHtml);
+
+  return {
+    title: data.title || chapterSlug.replace(/-/g, ' '),
+    paper_title: data.paper_title || paperSlug.replace(/-/g, ' '),
+    paper_slug: data.paper_slug || paperSlug,
+    chapter_title: data.chapter_title || data.title || chapterSlug,
+    chapter_slug: chapterSlug,
+    chapter_number: data.chapter_number || 1,
+    author: data.author || 'Suresh Bhati',
+    original_scholar: data.original_scholar || 'Classical Ayurvedic Scholar',
+    silo: 'research',
+    reading_time: data.reading_time || 5,
+    prev_chapter: data.prev_chapter || '',
+    next_chapter: data.next_chapter || '',
+    content,
+    htmlContent,
+  };
+}
+
+// ----------------------------------------------------
+// Generic Silo Reader (pet-health, research fallback)
 // ----------------------------------------------------
 
 export function getSiloDocs(siloName: 'pet-health' | 'research'): SiloDoc[] {
@@ -237,19 +338,33 @@ export function getSiloDocs(siloName: 'pet-health' | 'research'): SiloDoc[] {
   if (!fs.existsSync(dir)) return [];
 
   const docs: SiloDoc[] = [];
-  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
 
-  for (const f of files) {
-    const slug = f.replace(/\.md$/, '');
-    const doc = getSiloDocBySlug(siloName, slug);
-    if (doc) docs.push(doc);
+  for (const entry of entries) {
+    if (entry.isFile() && entry.name.endsWith('.md')) {
+      const slug = entry.name.replace(/\.md$/, '');
+      const doc = getSiloDocBySlug(siloName, slug);
+      if (doc) docs.push(doc);
+    } else if (entry.isDirectory()) {
+      const indexFile = path.join(dir, entry.name, 'index.md');
+      if (fs.existsSync(indexFile)) {
+        const doc = getSiloDocBySlug(siloName, `${entry.name}/index`);
+        if (doc) {
+          doc.slug = entry.name;
+          docs.push(doc);
+        }
+      }
+    }
   }
 
   return docs;
 }
 
 export function getSiloDocBySlug(siloName: 'pet-health' | 'research', slug: string): SiloDoc | null {
-  const filePath = path.join(CONTENT_DIR, siloName, `${slug}.md`);
+  let filePath = path.join(CONTENT_DIR, siloName, `${slug}.md`);
+  if (!fs.existsSync(filePath)) {
+    filePath = path.join(CONTENT_DIR, siloName, slug, 'index.md');
+  }
   if (!fs.existsSync(filePath)) return null;
 
   const raw = fs.readFileSync(filePath, 'utf8');
