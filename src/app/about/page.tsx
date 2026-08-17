@@ -1,6 +1,15 @@
 import React from 'react';
 import Link from 'next/link';
-import { Sparkles, ShieldCheck, Microscope, ScrollText, Mail, ArrowRight } from 'lucide-react';
+import { Metadata } from 'next';
+import { Sparkles, ShieldCheck, Microscope, ScrollText, Mail } from 'lucide-react';
+
+export const metadata: Metadata = {
+  title: 'About Suresh Bhati & AyurShakti | Mission & Scientific Vision',
+  description: 'Learn about Suresh Bhati and the mission of AyurShakti: bridging ancient Sanskrit medical treatises with modern PubMed-backed botanical pharmacology.',
+  alternates: {
+    canonical: '/about',
+  },
+};
 
 export default function AboutPage() {
   return (

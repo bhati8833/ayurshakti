@@ -1,10 +1,17 @@
 import React from 'react';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug } from '@/lib/markdown';
 import { ArrowLeft, BookOpen, Search, Tag, ShieldCheck } from 'lucide-react';
 
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'.split('');
+
+interface LetterPageProps {
+  params: {
+    letter: string;
+  };
+}
 
 export async function generateStaticParams() {
   return ALPHABET.map((letter) => ({
@@ -12,7 +19,18 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function GlossaryLetterPage({ params }: { params: { letter: string } }) {
+export async function generateMetadata({ params }: LetterPageProps): Promise<Metadata> {
+  const letter = params.letter.toUpperCase();
+  return {
+    title: `Sanskrit Terms Starting with ${letter} | Ayurvedic Glossary | AyurShakti`,
+    description: `Browse classical Sanskrit medical terms, herbal botanical names, and Ayurvedic clinical definitions starting with the letter ${letter}.`,
+    alternates: {
+      canonical: `/glossary/${params.letter.toLowerCase()}`,
+    },
+  };
+}
+
+export default function GlossaryLetterPage({ params }: LetterPageProps) {
   const letter = params.letter.toLowerCase();
   
   if (!ALPHABET.includes(letter)) {

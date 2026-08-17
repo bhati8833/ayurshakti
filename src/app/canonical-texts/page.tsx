@@ -1,7 +1,16 @@
 import React from 'react';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { getAllArticles } from '@/lib/markdown';
-import { Compass, ScrollText, ArrowRight, BookCheck } from 'lucide-react';
+import { Compass, ScrollText, ArrowRight } from 'lucide-react';
+
+export const metadata: Metadata = {
+  title: 'Sanskrit Canonical Text Library | Classical Archives | AyurShakti',
+  description: 'Direct analytical translations of classical Sanskrit literature including Vrikshayurveda, Mrigayurveda, and Samhitas.',
+  alternates: {
+    canonical: '/canonical-texts',
+  },
+};
 
 export default function CanonicalTextsPage() {
   const allArticles = getAllArticles();

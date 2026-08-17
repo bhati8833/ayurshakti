@@ -1,15 +1,23 @@
 import React from 'react';
+import { Metadata } from 'next';
 import HeroSection from '@/components/HeroSection';
 import DoshaQuizWidget from '@/components/DoshaQuizWidget';
 import FeaturedArticles from '@/components/FeaturedArticles';
 import CanonicalLibrary from '@/components/CanonicalLibrary';
 import { getAllArticles } from '@/lib/markdown';
 
+export const metadata: Metadata = {
+  title: 'Ayurvedic Remedies & Evidence-Based Protocols | AyurShakti',
+  description: 'Explore evidence-based Ayurvedic remedies, Sanskrit canonical text analysis (Charaka & Sushruta Samhita), herbal botanical profiles, and PubMed peer-reviewed protocols by Suresh Bhati.',
+  alternates: {
+    canonical: '/',
+  },
+};
+
 export default function HomePage() {
   const allArticles = getAllArticles();
   
   const standardArticles = allArticles.filter((a) => !a.isCanonicalText);
-  const canonicalTexts = allArticles.filter((a) => a.isCanonicalText);
 
   return (
     <div className="space-y-0">

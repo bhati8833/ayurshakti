@@ -1,9 +1,16 @@
 import React from 'react';
 import Link from 'next/link';
+import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
 import { getArticleBySlug, getAllArticles } from '@/lib/markdown';
 import ArticleCard from '@/components/ArticleCard';
 import { ArrowLeft, Clock, Tag, User, ShieldCheck, Share2, Sparkles, BookOpen } from 'lucide-react';
+
+interface ArticlePageProps {
+  params: {
+    slug: string;
+  };
+}
 
 export async function generateStaticParams() {
   const articles = getAllArticles();
@@ -12,7 +19,28 @@ export async function generateStaticParams() {
   }));
 }
 
-export default function ArticleDetailPage({ params }: { params: { slug: string } }) {
+export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
+  const article = getArticleBySlug(params.slug);
+  if (!article) return { title: 'Article Not Found | AyurShakti' };
+
+  return {
+    title: `${article.title} | AyurShakti`,
+    description: article.description || article.title,
+    alternates: {
+      canonical: `/articles/${params.slug}`,
+    },
+    openGraph: {
+      title: article.title,
+      description: article.description || article.title,
+      url: `https://ayurshakti.shop/articles/${params.slug}`,
+      type: 'article',
+      publishedTime: article.publishedDate,
+      authors: [article.author || 'Suresh Bhati'],
+    },
+  };
+}
+
+export default function ArticleDetailPage({ params }: ArticlePageProps) {
   const article = getArticleBySlug(params.slug);
 
   if (!article) {
@@ -61,85 +89,92 @@ export default function ArticleDetailPage({ params }: { params: { slug: string }
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdArticle) }}
       />
 
-      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 space-y-8">
         
-        {/* Back Button Navigation */}
-        <div className="mb-8">
+        {/* Back Navigation */}
+        <div className="flex items-center justify-between">
           <Link
             href="/articles"
             className="inline-flex items-center gap-2 text-xs font-bold uppercase tracking-wider text-ayur-forest hover:text-ayur-emerald transition-colors"
           >
             <ArrowLeft className="w-4 h-4 text-ayur-gold" />
-            Back to Articles Library
+            Back to Articles
           </Link>
+
+          <span className="px-3.5 py-1 rounded-full bg-ayur-sand text-ayur-forest text-xs font-bold uppercase tracking-wider">
+            {article.category}
+          </span>
         </div>
 
-        {/* Article Header Card */}
-        <header className="glass-panel-gold rounded-3xl p-8 sm:p-12 mb-12 border border-ayur-gold/30 shadow-soft-glow space-y-6">
-          <div className="flex flex-wrap items-center gap-3 text-xs font-semibold">
-            <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-ayur-forest text-ayur-bg uppercase tracking-wider">
-              <Tag className="w-3 h-3 text-ayur-gold" />
-              {article.category}
-            </span>
-            <span className="flex items-center gap-1 text-ayur-sage">
-              <Clock className="w-3.5 h-3.5" />
-              {article.readingTime}
-            </span>
-            <span className="inline-flex items-center gap-1 text-ayur-emerald font-bold uppercase tracking-wider">
-              <ShieldCheck className="w-4 h-4" /> PubMed Peer-Reviewed Protocol
-            </span>
-          </div>
-
-          <h1 className="font-serif text-3xl sm:text-5xl font-bold text-ayur-forest leading-tight">
+        {/* Header Block */}
+        <div className="space-y-6">
+          <h1 className="font-serif text-3xl sm:text-5xl lg:text-6xl font-bold text-ayur-forest leading-tight">
             {article.title}
           </h1>
 
-          <div className="pt-6 border-t border-ayur-border/60 flex items-center justify-between">
-            <div className="flex items-center gap-3">
-              <div className="w-10 h-10 rounded-full bg-ayur-forest text-ayur-gold flex items-center justify-center font-serif font-bold text-sm">
-                SB
-              </div>
-              <div>
-                <span className="text-sm font-bold text-ayur-forest block">{article.author}</span>
-                <span className="text-xs text-ayur-sage">Ayurvedic Researcher & Author • {article.publishedDate}</span>
-              </div>
-            </div>
-
-            <div className="flex items-center gap-2 text-xs font-semibold text-ayur-gold uppercase tracking-wider">
-              <Sparkles className="w-4 h-4 text-ayur-gold" /> Evidence-Based
-            </div>
+          {/* Meta Info Strip */}
+          <div className="flex flex-wrap items-center gap-4 sm:gap-6 text-xs text-ayur-sage border-y border-ayur-border/60 py-4">
+            <span className="flex items-center gap-1.5 font-medium text-ayur-forest">
+              <User className="w-4 h-4 text-ayur-gold" />
+              Authored by {article.author}
+            </span>
+            <span className="flex items-center gap-1.5">
+              <Clock className="w-4 h-4 text-ayur-emerald" />
+              {article.readingTime}
+            </span>
+            <span className="flex items-center gap-1.5">
+              <ShieldCheck className="w-4 h-4 text-ayur-gold" />
+              Peer-Reviewed PubMed Protocol
+            </span>
           </div>
-        </header>
+        </div>
 
-        {/* Article Body HTML Content */}
+        {/* Executive Summary Box */}
+        {article.description && (
+          <div className="glass-panel-gold rounded-2xl p-6 sm:p-8 border border-ayur-gold/40 shadow-xs space-y-2">
+            <span className="text-xs font-bold uppercase tracking-widest text-ayur-gold flex items-center gap-1.5">
+              <Sparkles className="w-4 h-4" /> Clinical Executive Summary
+            </span>
+            <p className="text-ayur-forest text-base sm:text-lg font-serif italic leading-relaxed">
+              "{article.description}"
+            </p>
+          </div>
+        )}
+
+        {/* Render Main Article HTML Content */}
         <div
-          className="prose-ayur bg-white rounded-3xl p-8 sm:p-14 border border-ayur-border shadow-sm mb-16 mx-auto"
+          className="prose-ayur bg-white rounded-3xl p-8 sm:p-12 border border-ayur-border shadow-sm"
           dangerouslySetInnerHTML={{ __html: article.htmlContent }}
         />
 
-        {/* Author Bio Box */}
-        <div className="glass-panel rounded-3xl p-8 mb-16 border border-ayur-border flex flex-col sm:flex-row items-center gap-6 shadow-sm">
-          <div className="w-16 h-16 rounded-full bg-ayur-forest text-ayur-gold flex items-center justify-center font-serif font-bold text-2xl shrink-0">
-            SB
-          </div>
-          <div className="space-y-2 text-center sm:text-left">
-            <h3 className="font-serif text-xl font-bold text-ayur-forest">About Suresh Bhati</h3>
-            <p className="text-xs text-ayur-sage leading-relaxed">
-              Suresh Bhati is an Ayurvedic practitioner and researcher dedicated to decoding classical Sanskrit texts and correlating them with modern pharmacological studies.
-            </p>
+        {/* Article Footnotes & Labels */}
+        <div className="pt-6 border-t border-ayur-border flex flex-wrap items-center justify-between gap-4">
+          <div className="flex flex-wrap items-center gap-2">
+            <Tag className="w-4 h-4 text-ayur-sage" />
+            {article.labels.map((lbl) => (
+              <span
+                key={lbl}
+                className="px-3 py-1 rounded-full bg-ayur-sand text-ayur-forest text-xs font-semibold uppercase tracking-wider"
+              >
+                {lbl}
+              </span>
+            ))}
           </div>
         </div>
 
         {/* Related Articles Section */}
         {relatedArticles.length > 0 && (
-          <div className="space-y-8 pt-8 border-t border-ayur-border">
+          <div className="pt-12 space-y-6 border-t border-ayur-border">
             <div className="flex items-center gap-2">
-              <BookOpen className="w-5 h-5 text-ayur-emerald" />
-              <h3 className="font-serif text-2xl font-bold text-ayur-forest">Related Research Protocols</h3>
+              <BookOpen className="w-5 h-5 text-ayur-gold" />
+              <h2 className="font-serif text-2xl font-bold text-ayur-forest">
+                Related Research Protocols
+              </h2>
             </div>
+
             <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-              {relatedArticles.map((art, idx) => (
-                <ArticleCard key={art.slug} article={art} index={idx} />
+              {relatedArticles.map((relArt, idx) => (
+                <ArticleCard key={relArt.slug} article={relArt} index={idx} />
               ))}
             </div>
           </div>

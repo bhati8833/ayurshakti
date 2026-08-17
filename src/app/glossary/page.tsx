@@ -1,7 +1,15 @@
 import React from 'react';
 import Link from 'next/link';
-import { getAllArticles } from '@/lib/markdown';
-import { BookOpen, ArrowRight, Search, Sparkles } from 'lucide-react';
+import { Metadata } from 'next';
+import { BookOpen, ArrowRight } from 'lucide-react';
+
+export const metadata: Metadata = {
+  title: 'Sanskrit & Ayurvedic Medical Directory (A-Z) | AyurShakti',
+  description: 'Explore over 21,000 authenticated Sanskrit medical terms, botanical plant names, and classical Ayurvedic disease taxonomies.',
+  alternates: {
+    canonical: '/glossary',
+  },
+};
 
 const ALPHABET = 'abcdefghijklmnopqrstuvwxyz'.split('');
 

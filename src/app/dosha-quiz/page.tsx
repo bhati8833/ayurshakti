@@ -1,6 +1,15 @@
 import React from 'react';
+import { Metadata } from 'next';
 import DoshaQuizWidget from '@/components/DoshaQuizWidget';
-import { HeartPulse, Sparkles } from 'lucide-react';
+import { HeartPulse } from 'lucide-react';
+
+export const metadata: Metadata = {
+  title: 'Interactive Ayurvedic Dosha Quiz & Prakriti Test | AyurShakti',
+  description: 'Discover your unique mind-body Ayurvedic constitution (Vata, Pitta, Kapha) with our classical interactive self-assessment quiz.',
+  alternates: {
+    canonical: '/dosha-quiz',
+  },
+};
 
 export default function DoshaQuizPage() {
   return (
