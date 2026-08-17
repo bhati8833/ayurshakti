@@ -100,12 +100,14 @@ export default function Footer() {
           <div className="space-y-3">
             <h4 className="font-bold text-[#E5C158] uppercase tracking-widest text-sm">Navigation Matrix</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><Link href="/" className="hover:text-[#E5C158] transition-colors">Home</Link></li>
+              <li><Link href="/" className="hover:text-[#E5C158] transition-colors">Home Landing</Link></li>
               <li><Link href="/samhitas" className="hover:text-[#E5C158] transition-colors">Classical Samhitas (366 Ch.)</Link></li>
+              <li><Link href="/canonical-texts" className="hover:text-[#E5C158] transition-colors">Canonical Library (826 Pages)</Link></li>
               <li><Link href="/herbs" className="hover:text-[#E5C158] transition-colors">Herbal Library (42 Herbs)</Link></li>
               <li><Link href="/pet-health" className="hover:text-[#E5C158] transition-colors">Pet Health & Veterinary</Link></li>
               <li><Link href="/research" className="hover:text-[#E5C158] transition-colors">Research & Studies</Link></li>
-              <li><Link href="/glossary" className="hover:text-[#E5C158] transition-colors">A-Z Sanskrit Glossary</Link></li>
+              <li><Link href="/articles" className="hover:text-[#E5C158] transition-colors">Evidence-Based Articles</Link></li>
+              <li><Link href="/glossary" className="hover:text-[#E5C158] transition-colors">A-Z Sanskrit Glossary (21k Terms)</Link></li>
               <li><Link href="/dosha-quiz" className="hover:text-[#E5C158] transition-colors">Take Dosha Assessment</Link></li>
             </ul>
           </div>

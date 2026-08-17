@@ -14,6 +14,8 @@ import {
   Scroll,
   HeartPulse,
   ShieldCheck,
+  Library,
+  FileText,
 } from 'lucide-react';
 
 export default function Navbar() {
@@ -30,7 +32,7 @@ export default function Navbar() {
     { title: 'Shatavari', slug: 'shatavari', desc: 'Rejuvenation & Reproductive Health' },
     { title: 'Giloy (Guduchi)', slug: 'giloy', desc: 'Immunomodulator & Detoxifier' },
     { title: 'Triphala', slug: 'triphala', desc: 'Tridoshic Digestive Formula' },
-    { title: 'Tulsi & Turmeric', slug: 'tulsi', desc: 'Respiratory & Anti-inflammatory' },
+    { title: 'Arjuna', slug: 'arjuna', desc: 'Cardiovascular & Myocardial Support' },
   ];
 
   const researchLinks = [
@@ -60,7 +62,7 @@ export default function Navbar() {
         </Link>
 
         {/* Desktop Navigation Links with Mega Menu */}
-        <nav className="hidden md:flex items-center gap-6">
+        <nav className="hidden xl:flex items-center gap-5">
           <Link
             href="/"
             className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2"
@@ -86,7 +88,7 @@ export default function Navbar() {
             {activeDropdown === 'samhitas' && (
               <div className="absolute top-full left-0 w-80 bg-white border border-ayur-border rounded-2xl shadow-xl p-4 mt-1 z-50 animate-ayur-fade-up">
                 <div className="text-xs font-semibold uppercase tracking-wider text-ayur-gold mb-3 px-2">
-                  Classical Sanskrit Library
+                  Classical Sanskrit Samhitas
                 </div>
                 <div className="space-y-1">
                   {samhitaLinks.map((item) => (
@@ -104,14 +106,23 @@ export default function Navbar() {
                 </div>
                 <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
                   <Link href="/samhitas" className="text-xs font-bold text-ayur-emerald hover:underline">
-                    Explore All Classical Texts →
+                    Explore All 366 Samhita Chapters →
                   </Link>
                 </div>
               </div>
             )}
           </div>
 
-          {/* 2. Herbs Silo Dropdown */}
+          {/* 2. Canonical Library Link */}
+          <Link
+            href="/canonical-texts"
+            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+          >
+            <Library className="w-4 h-4 text-ayur-gold" />
+            <span>Canonical Library</span>
+          </Link>
+
+          {/* 3. Herbs Silo Dropdown */}
           <div
             className="relative"
             onMouseEnter={() => setActiveDropdown('herbs')}
@@ -147,23 +158,23 @@ export default function Navbar() {
                 </div>
                 <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
                   <Link href="/herbs" className="text-xs font-bold text-ayur-emerald hover:underline">
-                    View All Herb Profiles →
+                    View All 42 Herb Profiles →
                   </Link>
                 </div>
               </div>
             )}
           </div>
 
-          {/* 3. Pet Care Silo Link */}
+          {/* 4. Pet Care Silo Link */}
           <Link
             href="/pet-health"
             className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
           >
             <PawPrint className="w-4 h-4 text-ayur-gold" />
-            <span>Pet Health</span>
+            <span>Pet Care</span>
           </Link>
 
-          {/* 4. Research Silo Dropdown */}
+          {/* 5. Research Silo Dropdown */}
           <div
             className="relative"
             onMouseEnter={() => setActiveDropdown('research')}
@@ -206,22 +217,22 @@ export default function Navbar() {
             )}
           </div>
 
-          {/* 5. Glossary Link */}
+          {/* 6. Articles Link */}
+          <Link
+            href="/articles"
+            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+          >
+            <FileText className="w-4 h-4 text-ayur-gold" />
+            <span>Articles</span>
+          </Link>
+
+          {/* 7. Glossary Link */}
           <Link
             href="/glossary"
             className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
           >
             <BookOpen className="w-4 h-4 text-ayur-gold" />
             <span>Glossary</span>
-          </Link>
-
-          {/* 6. Methodology Link */}
-          <Link
-            href="/methodology"
-            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
-          >
-            <ShieldCheck className="w-4 h-4 text-ayur-gold" />
-            <span>Methodology</span>
           </Link>
         </nav>
 
@@ -239,7 +250,7 @@ export default function Navbar() {
         {/* Mobile Menu Button */}
         <button
           onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          className="md:hidden p-2 rounded-lg text-ayur-forest hover:bg-ayur-sand transition-colors"
+          className="xl:hidden p-2 rounded-lg text-ayur-forest hover:bg-ayur-sand transition-colors"
           aria-label="Toggle Navigation Menu"
         >
           {mobileMenuOpen ? <X className="w-6 h-6" /> : <Menu className="w-6 h-6" />}
@@ -248,7 +259,7 @@ export default function Navbar() {
 
       {/* Mobile Drawer Menu */}
       {mobileMenuOpen && (
-        <div className="md:hidden bg-white border-b border-ayur-border px-6 py-6 space-y-4 max-h-[85vh] overflow-y-auto animate-ayur-fade-up">
+        <div className="xl:hidden bg-white border-b border-ayur-border px-6 py-6 space-y-4 max-h-[85vh] overflow-y-auto animate-ayur-fade-up">
           <Link
             href="/"
             onClick={() => setMobileMenuOpen(false)}
@@ -276,8 +287,23 @@ export default function Navbar() {
               >
                 Sushruta Samhita (216 Ch.)
               </Link>
+              <Link
+                href="/samhitas"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block text-xs font-bold text-ayur-emerald pt-1"
+              >
+                View All 366 Samhita Chapters →
+              </Link>
             </div>
           </div>
+
+          <Link
+            href="/canonical-texts"
+            onClick={() => setMobileMenuOpen(false)}
+            className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
+          >
+            <Library className="w-4 h-4 text-ayur-gold" /> Canonical Library (826 Pages)
+          </Link>
 
           <div className="py-2 border-b border-ayur-border/40">
             <div className="font-bold text-sm text-ayur-gold uppercase tracking-wider mb-2 flex items-center gap-2">
@@ -289,7 +315,7 @@ export default function Navbar() {
                 onClick={() => setMobileMenuOpen(false)}
                 className="block text-sm text-ayur-forest font-semibold hover:text-ayur-emerald"
               >
-                All Herb Profiles
+                All 42 Herb Profiles
               </Link>
             </div>
           </div>
@@ -299,7 +325,7 @@ export default function Navbar() {
             onClick={() => setMobileMenuOpen(false)}
             className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
           >
-            <PawPrint className="w-4 h-4 text-ayur-gold" /> Pet Health & Veterinary
+            <PawPrint className="w-4 h-4 text-ayur-gold" /> Pet Care (Mrigayurveda)
           </Link>
 
           <Link
@@ -311,11 +337,19 @@ export default function Navbar() {
           </Link>
 
           <Link
+            href="/articles"
+            onClick={() => setMobileMenuOpen(false)}
+            className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
+          >
+            <FileText className="w-4 h-4 text-ayur-gold" /> Evidence-Based Articles
+          </Link>
+
+          <Link
             href="/glossary"
             onClick={() => setMobileMenuOpen(false)}
             className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
           >
-            <BookOpen className="w-4 h-4 text-ayur-gold" /> A-Z Sanskrit Glossary
+            <BookOpen className="w-4 h-4 text-ayur-gold" /> A-Z Sanskrit Glossary (21,499 Terms)
           </Link>
 
           <div className="pt-3">
@@ -333,3 +367,4 @@ export default function Navbar() {
     </header>
   );
 }
+

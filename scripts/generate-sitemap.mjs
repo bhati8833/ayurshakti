@@ -140,7 +140,7 @@ if (fs.existsSync(registryPath)) {
         const urlMatch = art.url.match(/\/([^\/]+)\.html$/);
         if (urlMatch) slug = urlMatch[1];
       }
-      if (slug) {
+      if (slug && !slug.toLowerCase().startsWith('glossary_')) {
         const fullUrl = `${BASE_URL}/articles/${slug}`;
         addUrl(fullUrl, '0.8', 'weekly', art.published_date || CURRENT_DATE);
         llmsLinks.articles.push(`- [${art.title || slug}](${fullUrl})`);

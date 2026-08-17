@@ -29,6 +29,27 @@ export function sanitizeMarkdownContent(raw: string): string {
   return text.trim();
 }
 
+export function addHeadingIdsToHtml(html: string): string {
+  if (!html) return '';
+  const headingCounts = new Map<string, number>();
+  return html.replace(/<h([23])([^>]*)>(.*?)<\/h[23]>/gi, (match, level, attrs, content) => {
+    if (attrs.includes('id=')) return match;
+    const textContent = content.replace(/<[^>]+>/g, '').trim();
+    let slug = textContent
+      .toLowerCase()
+      .replace(/[^a-z0-9\s-]/g, '')
+      .replace(/[\s-]+/g, '-')
+      .replace(/^-+|-+$/g, '');
+    if (!slug) slug = `section-${level}`;
+    
+    const count = headingCounts.get(slug) || 0;
+    headingCounts.set(slug, count + 1);
+    const finalId = count > 0 ? `${slug}-${count}` : slug;
+    
+    return `<h${level}${attrs} id="${finalId}">${content}</h${level}>`;
+  });
+}
+
 
 export interface ArticleDoc {
   slug: string;
@@ -189,7 +210,7 @@ export function getSamhitaChapter(bookSlug: string, chapterSlug: string): Samhit
 
   const cleanContent = sanitizeMarkdownContent(content);
   const parsedHtml = marked.parse(cleanContent) as string;
-  const htmlContent = applyWikipediaInterlinks(parsedHtml);
+  const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
 
   return {
     title: data.title || chapterSlug.replace(/-/g, ' '),
@@ -243,7 +264,7 @@ export function getHerbDocBySlug(slug: string): SiloDoc | null {
     silo: 'herbs',
     category: data.category || 'Herb Profile',
     content,
-    htmlContent: applyWikipediaInterlinks(parsedHtml),
+    htmlContent: applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml)),
     description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
     readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
   };
@@ -333,7 +354,7 @@ export function getResearchChapter(paperSlug: string, chapterSlug: string): Rese
 
   const cleanContent = sanitizeMarkdownContent(content);
   const parsedHtml = marked.parse(cleanContent) as string;
-  const htmlContent = applyWikipediaInterlinks(parsedHtml);
+  const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
 
   return {
     title: data.title || chapterSlug.replace(/-/g, ' '),
@@ -402,7 +423,7 @@ export function getSiloDocBySlug(siloName: 'pet-health' | 'research', slug: stri
     silo: siloName,
     category: data.category || 'Ayurvedic Studies',
     content,
-    htmlContent: applyWikipediaInterlinks(parsedHtml),
+    htmlContent: applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml)),
     description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
     readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
   };
@@ -416,7 +437,7 @@ export function getAllArticleSummaries(): ArticleDoc[] {
   const summariesMap = new Map<string, ArticleDoc>();
 
   if (fs.existsSync(CONTENT_DIR)) {
-    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research']);
+    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research', 'glossary']);
     function scanDir(dir: string, categoryName: string) {
       const entries = fs.readdirSync(dir, { withFileTypes: true });
       for (const entry of entries) {
@@ -426,9 +447,11 @@ export function getAllArticleSummaries(): ArticleDoc[] {
             scanDir(fullPath, entry.name.replace(/_/g, ' '));
           }
         } else if (entry.name.endsWith('.md')) {
+          const slug = entry.name.replace(/\.md$/, '').toLowerCase();
+          if (slug.startsWith('glossary_')) continue;
+
           const fileContents = fs.readFileSync(fullPath, 'utf8');
           const { data, content } = matter(fileContents);
-          const slug = entry.name.replace(/\.md$/, '').toLowerCase();
           
           const rawTitle = data.title || entry.name.replace(/\.md$/, '').replace(/_/g, ' ');
           const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
@@ -466,10 +489,11 @@ export function getAllArticles(): ArticleDoc[] {
 
 export function getArticleBySlug(slug: string): ArticleDoc | undefined {
   const lowerSlug = slug.toLowerCase();
+  if (lowerSlug.startsWith('glossary_')) return undefined;
   
   // Find single article file on demand
   if (fs.existsSync(CONTENT_DIR)) {
-    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research']);
+    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research', 'glossary']);
     function findFileInDir(dir: string, categoryName: string): ArticleDoc | null {
       const entries = fs.readdirSync(dir, { withFileTypes: true });
       for (const entry of entries) {
@@ -499,7 +523,7 @@ export function getArticleBySlug(slug: string): ArticleDoc | undefined {
 
             const rawTitle = data.title || entry.name.replace(/\.md$/, '').replace(/_/g, ' ');
             const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
-            const htmlContent = applyWikipediaInterlinks(parsedHtml);
+            const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
             const words = finalContent.split(/\s+/).length;
             const readingTime = `${Math.max(1, Math.ceil(words / 200))} min read`;
 
