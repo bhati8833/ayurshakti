@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { motion, AnimatePresence } from 'motion/react';
 import {
   Sparkles,
   Menu,
@@ -84,40 +83,32 @@ export default function Navbar() {
               <ChevronDown className="w-3.5 h-3.5 text-ayur-sage" />
             </Link>
 
-            <AnimatePresence>
-              {activeDropdown === 'samhitas' && (
-                <motion.div
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: 10 }}
-                  transition={{ duration: 0.15 }}
-                  className="absolute top-full left-0 w-80 bg-white border border-ayur-border rounded-2xl shadow-xl p-4 mt-1 z-50"
-                >
-                  <div className="text-xs font-semibold uppercase tracking-wider text-ayur-gold mb-3 px-2">
-                    Classical Sanskrit Library
-                  </div>
-                  <div className="space-y-1">
-                    {samhitaLinks.map((item) => (
-                      <Link
-                        key={item.slug}
-                        href={`/samhitas/${item.slug}`}
-                        className="block p-2.5 rounded-xl hover:bg-ayur-sand/50 transition-colors group"
-                      >
-                        <div className="text-sm font-bold text-ayur-forest group-hover:text-ayur-emerald">
-                          {item.title}
-                        </div>
-                        <div className="text-xs text-ayur-sage mt-0.5">{item.desc}</div>
-                      </Link>
-                    ))}
-                  </div>
-                  <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
-                    <Link href="/samhitas" className="text-xs font-bold text-ayur-emerald hover:underline">
-                      Explore All Classical Texts →
+            {activeDropdown === 'samhitas' && (
+              <div className="absolute top-full left-0 w-80 bg-white border border-ayur-border rounded-2xl shadow-xl p-4 mt-1 z-50 animate-ayur-fade-up">
+                <div className="text-xs font-semibold uppercase tracking-wider text-ayur-gold mb-3 px-2">
+                  Classical Sanskrit Library
+                </div>
+                <div className="space-y-1">
+                  {samhitaLinks.map((item) => (
+                    <Link
+                      key={item.slug}
+                      href={`/samhitas/${item.slug}`}
+                      className="block p-2.5 rounded-xl hover:bg-ayur-sand/50 transition-colors group"
+                    >
+                      <div className="text-sm font-bold text-ayur-forest group-hover:text-ayur-emerald">
+                        {item.title}
+                      </div>
+                      <div className="text-xs text-ayur-sage mt-0.5">{item.desc}</div>
                     </Link>
-                  </div>
-                </motion.div>
-              )}
-            </AnimatePresence>
+                  ))}
+                </div>
+                <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
+                  <Link href="/samhitas" className="text-xs font-bold text-ayur-emerald hover:underline">
+                    Explore All Classical Texts →
+                  </Link>
+                </div>
+              </div>
+            )}
           </div>
 
           {/* 2. Herbs Silo Dropdown */}
@@ -135,40 +126,32 @@ export default function Navbar() {
               <ChevronDown className="w-3.5 h-3.5 text-ayur-sage" />
             </Link>
 
-            <AnimatePresence>
-              {activeDropdown === 'herbs' && (
-                <motion.div
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: 10 }}
-                  transition={{ duration: 0.15 }}
-                  className="absolute top-full left-0 w-80 bg-white border border-ayur-border rounded-2xl shadow-xl p-4 mt-1 z-50"
-                >
-                  <div className="text-xs font-semibold uppercase tracking-wider text-ayur-gold mb-3 px-2">
-                    Botanical Materia Medica
-                  </div>
-                  <div className="space-y-1">
-                    {herbLinks.map((item) => (
-                      <Link
-                        key={item.slug}
-                        href={`/herbs/${item.slug}`}
-                        className="block p-2.5 rounded-xl hover:bg-ayur-sand/50 transition-colors group"
-                      >
-                        <div className="text-sm font-bold text-ayur-forest group-hover:text-ayur-emerald">
-                          {item.title}
-                        </div>
-                        <div className="text-xs text-ayur-sage mt-0.5">{item.desc}</div>
-                      </Link>
-                    ))}
-                  </div>
-                  <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
-                    <Link href="/herbs" className="text-xs font-bold text-ayur-emerald hover:underline">
-                      View All Herb Profiles →
+            {activeDropdown === 'herbs' && (
+              <div className="absolute top-full left-0 w-80 bg-white border border-ayur-border rounded-2xl shadow-xl p-4 mt-1 z-50 animate-ayur-fade-up">
+                <div className="text-xs font-semibold uppercase tracking-wider text-ayur-gold mb-3 px-2">
+                  Botanical Materia Medica
+                </div>
+                <div className="space-y-1">
+                  {herbLinks.map((item) => (
+                    <Link
+                      key={item.slug}
+                      href={`/herbs/${item.slug}`}
+                      className="block p-2.5 rounded-xl hover:bg-ayur-sand/50 transition-colors group"
+                    >
+                      <div className="text-sm font-bold text-ayur-forest group-hover:text-ayur-emerald">
+                        {item.title}
+                      </div>
+                      <div className="text-xs text-ayur-sage mt-0.5">{item.desc}</div>
                     </Link>
-                  </div>
-                </motion.div>
-              )}
-            </AnimatePresence>
+                  ))}
+                </div>
+                <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
+                  <Link href="/herbs" className="text-xs font-bold text-ayur-emerald hover:underline">
+                    View All Herb Profiles →
+                  </Link>
+                </div>
+              </div>
+            )}
           </div>
 
           {/* 3. Pet Care Silo Link */}
@@ -195,40 +178,32 @@ export default function Navbar() {
               <ChevronDown className="w-3.5 h-3.5 text-ayur-sage" />
             </Link>
 
-            <AnimatePresence>
-              {activeDropdown === 'research' && (
-                <motion.div
-                  initial={{ opacity: 0, y: 10 }}
-                  animate={{ opacity: 1, y: 0 }}
-                  exit={{ opacity: 0, y: 10 }}
-                  transition={{ duration: 0.15 }}
-                  className="absolute top-full right-0 w-80 bg-white border border-ayur-border rounded-2xl shadow-xl p-4 mt-1 z-50"
-                >
-                  <div className="text-xs font-semibold uppercase tracking-wider text-ayur-gold mb-3 px-2">
-                    Ayurvedic History & Studies
-                  </div>
-                  <div className="space-y-1">
-                    {researchLinks.map((item) => (
-                      <Link
-                        key={item.slug}
-                        href={`/research/${item.slug}`}
-                        className="block p-2.5 rounded-xl hover:bg-ayur-sand/50 transition-colors group"
-                      >
-                        <div className="text-sm font-bold text-ayur-forest group-hover:text-ayur-emerald">
-                          {item.title}
-                        </div>
-                        <div className="text-xs text-ayur-sage mt-0.5">{item.desc}</div>
-                      </Link>
-                    ))}
-                  </div>
-                  <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
-                    <Link href="/research" className="text-xs font-bold text-ayur-emerald hover:underline">
-                      Explore All Research Studies →
+            {activeDropdown === 'research' && (
+              <div className="absolute top-full right-0 w-80 bg-white border border-ayur-border rounded-2xl shadow-xl p-4 mt-1 z-50 animate-ayur-fade-up">
+                <div className="text-xs font-semibold uppercase tracking-wider text-ayur-gold mb-3 px-2">
+                  Ayurvedic History & Studies
+                </div>
+                <div className="space-y-1">
+                  {researchLinks.map((item) => (
+                    <Link
+                      key={item.slug}
+                      href={`/research/${item.slug}`}
+                      className="block p-2.5 rounded-xl hover:bg-ayur-sand/50 transition-colors group"
+                    >
+                      <div className="text-sm font-bold text-ayur-forest group-hover:text-ayur-emerald">
+                        {item.title}
+                      </div>
+                      <div className="text-xs text-ayur-sage mt-0.5">{item.desc}</div>
                     </Link>
-                  </div>
-                </motion.div>
-              )}
-            </AnimatePresence>
+                  ))}
+                </div>
+                <div className="mt-3 pt-3 border-t border-ayur-border/40 text-center">
+                  <Link href="/research" className="text-xs font-bold text-ayur-emerald hover:underline">
+                    Explore All Research Studies →
+                  </Link>
+                </div>
+              </div>
+            )}
           </div>
 
           {/* 5. Glossary Link */}
@@ -272,96 +247,89 @@ export default function Navbar() {
       </div>
 
       {/* Mobile Drawer Menu */}
-      <AnimatePresence>
-        {mobileMenuOpen && (
-          <motion.div
-            initial={{ opacity: 0, height: 0 }}
-            animate={{ opacity: 1, height: 'auto' }}
-            exit={{ opacity: 0, height: 0 }}
-            className="md:hidden bg-white border-b border-ayur-border px-6 py-6 space-y-4 max-h-[85vh] overflow-y-auto"
+      {mobileMenuOpen && (
+        <div className="md:hidden bg-white border-b border-ayur-border px-6 py-6 space-y-4 max-h-[85vh] overflow-y-auto animate-ayur-fade-up">
+          <Link
+            href="/"
+            onClick={() => setMobileMenuOpen(false)}
+            className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40"
           >
-            <Link
-              href="/"
-              onClick={() => setMobileMenuOpen(false)}
-              className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40"
-            >
-              Home
-            </Link>
+            Home
+          </Link>
 
-            <div className="py-2 border-b border-ayur-border/40">
-              <div className="font-bold text-sm text-ayur-gold uppercase tracking-wider mb-2 flex items-center gap-2">
-                <Scroll className="w-4 h-4" /> Classical Samhitas
-              </div>
-              <div className="pl-4 space-y-2">
-                <Link
-                  href="/samhitas/charaka-samhita"
-                  onClick={() => setMobileMenuOpen(false)}
-                  className="block text-sm text-ayur-forest font-semibold hover:text-ayur-emerald"
-                >
-                  Charaka Samhita (150 Ch.)
-                </Link>
-                <Link
-                  href="/samhitas/sushruta-samhita"
-                  onClick={() => setMobileMenuOpen(false)}
-                  className="block text-sm text-ayur-forest font-semibold hover:text-ayur-emerald"
-                >
-                  Sushruta Samhita (216 Ch.)
-                </Link>
-              </div>
+          <div className="py-2 border-b border-ayur-border/40">
+            <div className="font-bold text-sm text-ayur-gold uppercase tracking-wider mb-2 flex items-center gap-2">
+              <Scroll className="w-4 h-4" /> Classical Samhitas
             </div>
-
-            <div className="py-2 border-b border-ayur-border/40">
-              <div className="font-bold text-sm text-ayur-gold uppercase tracking-wider mb-2 flex items-center gap-2">
-                <Leaf className="w-4 h-4" /> Herbal Library
-              </div>
-              <div className="pl-4 space-y-2">
-                <Link
-                  href="/herbs"
-                  onClick={() => setMobileMenuOpen(false)}
-                  className="block text-sm text-ayur-forest font-semibold hover:text-ayur-emerald"
-                >
-                  All Herb Profiles
-                </Link>
-              </div>
-            </div>
-
-            <Link
-              href="/pet-health"
-              onClick={() => setMobileMenuOpen(false)}
-              className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
-            >
-              <PawPrint className="w-4 h-4 text-ayur-gold" /> Pet Health & Veterinary
-            </Link>
-
-            <Link
-              href="/research"
-              onClick={() => setMobileMenuOpen(false)}
-              className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
-            >
-              <Microscope className="w-4 h-4 text-ayur-gold" /> Research & Studies
-            </Link>
-
-            <Link
-              href="/glossary"
-              onClick={() => setMobileMenuOpen(false)}
-              className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
-            >
-              <BookOpen className="w-4 h-4 text-ayur-gold" /> A-Z Sanskrit Glossary
-            </Link>
-
-            <div className="pt-3">
+            <div className="pl-4 space-y-2">
               <Link
-                href="/dosha-quiz"
+                href="/samhitas/charaka-samhita"
                 onClick={() => setMobileMenuOpen(false)}
-                className="w-full justify-center px-5 py-3 rounded-xl bg-ayur-forest text-ayur-bg text-sm font-semibold uppercase tracking-wider flex items-center gap-2 shadow-md"
+                className="block text-sm text-ayur-forest font-semibold hover:text-ayur-emerald"
               >
-                <ShieldCheck className="w-4 h-4 text-ayur-gold" />
-                Find Your Dosha
+                Charaka Samhita (150 Ch.)
+              </Link>
+              <Link
+                href="/samhitas/sushruta-samhita"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block text-sm text-ayur-forest font-semibold hover:text-ayur-emerald"
+              >
+                Sushruta Samhita (216 Ch.)
               </Link>
             </div>
-          </motion.div>
-        )}
-      </AnimatePresence>
+          </div>
+
+          <div className="py-2 border-b border-ayur-border/40">
+            <div className="font-bold text-sm text-ayur-gold uppercase tracking-wider mb-2 flex items-center gap-2">
+              <Leaf className="w-4 h-4" /> Herbal Library
+            </div>
+            <div className="pl-4 space-y-2">
+              <Link
+                href="/herbs"
+                onClick={() => setMobileMenuOpen(false)}
+                className="block text-sm text-ayur-forest font-semibold hover:text-ayur-emerald"
+              >
+                All Herb Profiles
+              </Link>
+            </div>
+          </div>
+
+          <Link
+            href="/pet-health"
+            onClick={() => setMobileMenuOpen(false)}
+            className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
+          >
+            <PawPrint className="w-4 h-4 text-ayur-gold" /> Pet Health & Veterinary
+          </Link>
+
+          <Link
+            href="/research"
+            onClick={() => setMobileMenuOpen(false)}
+            className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
+          >
+            <Microscope className="w-4 h-4 text-ayur-gold" /> Research & Studies
+          </Link>
+
+          <Link
+            href="/glossary"
+            onClick={() => setMobileMenuOpen(false)}
+            className="block text-base font-bold text-ayur-forest py-2 border-b border-ayur-border/40 flex items-center gap-2"
+          >
+            <BookOpen className="w-4 h-4 text-ayur-gold" /> A-Z Sanskrit Glossary
+          </Link>
+
+          <div className="pt-3">
+            <Link
+              href="/dosha-quiz"
+              onClick={() => setMobileMenuOpen(false)}
+              className="w-full justify-center px-5 py-3 rounded-xl bg-ayur-forest text-ayur-bg text-sm font-semibold uppercase tracking-wider flex items-center gap-2 shadow-md"
+            >
+              <ShieldCheck className="w-4 h-4 text-ayur-gold" />
+              Find Your Dosha
+            </Link>
+          </div>
+        </div>
+      )}
     </header>
   );
 }

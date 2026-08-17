@@ -135,22 +135,39 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdWebSite) }}
         />
 
-        {/* Google Analytics 4 (GA4) Tag - Deferred via lazyOnload to minimize TBT & main-thread work */}
-        <Script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}`}
-          strategy="lazyOnload"
-        />
-        <Script id="google-analytics" strategy="lazyOnload">
+        {/* Google Analytics 4 (GA4) Tag - Loaded on user interaction or 3.5s idle window */}
+        <Script id="google-analytics" strategy="afterInteractive" data-cfasync="false">
           {`
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-            gtag('config', '${GA_MEASUREMENT_ID}', {
-              page_path: window.location.pathname,
-              allow_google_signals: false,
-              allow_ad_personalization_signals: false,
-              restricted_data_processing: true,
-            });
+            (function() {
+              function loadGA() {
+                if (window.gaLoaded) return;
+                window.gaLoaded = true;
+                var script = document.createElement('script');
+                script.async = true;
+                script.setAttribute('data-cfasync', 'false');
+                script.src = 'https://www.googletagmanager.com/gtag/js?id=${GA_MEASUREMENT_ID}';
+                document.head.appendChild(script);
+
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                window.gtag = gtag;
+                gtag('js', new Date());
+                gtag('config', '${GA_MEASUREMENT_ID}', {
+                  page_path: window.location.pathname,
+                  allow_google_signals: false,
+                  allow_ad_personalization_signals: false,
+                  restricted_data_processing: true,
+                });
+              }
+              
+              var events = ['mousemove', 'touchstart', 'keydown', 'scroll'];
+              function trigger() {
+                loadGA();
+                events.forEach(function(e) { window.removeEventListener(e, trigger); });
+              }
+              events.forEach(function(e) { window.addEventListener(e, trigger, { passive: true }); });
+              setTimeout(loadGA, 3500);
+            })();
           `}
         </Script>
       </head>
