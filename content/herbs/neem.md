@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Azadirachta indica. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Nimba"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Nimba (Azadirachta indica)

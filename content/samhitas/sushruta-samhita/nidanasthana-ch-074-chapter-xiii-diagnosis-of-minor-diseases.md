@@ -1,18 +1,25 @@
 ---
 title: "Chapter XIII - Diagnosis of minor diseases"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 20
-chapter_slug: "nidanasthana-ch-074-chapter-xiii-diagnosis-of-minor-diseases"
-reading_time: 13
-prev_chapter: "nidanasthana-ch-073-chapter-xv-diagnosis-of-fractures-dislocations"
-next_chapter: "nidanasthana-ch-075-chapter-xvi-diagnosis-of-diseases-of-mouth"
+slug: "nidanasthana-ch-074-chapter-xiii-diagnosis-of-minor-diseases"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Nidana of Kshudraroga (diseases which are known by the general name of minor ailments)."
+labels: ["Sushruta Samhita", "Nidanasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XIII - Diagnosis of minor diseases
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 2: Nidanasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter IX - Practical surgical instructions"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 17
-chapter_slug: "sutrasthana-ch-017-chapter-ix-practical-surgical-instructions"
-reading_time: 4
-prev_chapter: "sutrasthana-ch-016-chapter-viii-surgical-instruments"
-next_chapter: "sutrasthana-ch-018-chapter-x-qualifications-of-a-physician"
+slug: "sutrasthana-ch-017-chapter-ix-practical-surgical-instructions"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of practical instructions in surgical operations (Yogya-Sutra)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IX - Practical surgical instructions
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

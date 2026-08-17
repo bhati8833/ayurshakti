@@ -1,18 +1,25 @@
 ---
 title: "Chapter XV - Treatment of eye-diseases which require Excision"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 18
-chapter_slug: "uttaratantra-ch-160-chapter-xv-treatment-of-eye-diseases-which-require-excision"
-reading_time: 7
-prev_chapter: "uttaratantra-ch-159-chapter-xii-treatment-of-raktaja-ophthalmia"
-next_chapter: "uttaratantra-ch-161-chapter-xi-treatment-of-shleshma-ophthalmia"
+slug: "uttaratantra-ch-160-chapter-xv-treatment-of-eye-diseases-which-require-excision"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the curative treatment of eye-diseases, which should be cured with excisions (Cedya-Roga-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XV - Treatment of eye-diseases which require Excision
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

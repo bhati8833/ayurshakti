@@ -1,18 +1,25 @@
 ---
 title: "Chapter I - The medical treatment of inflamed ulcers"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 4
-chapter_slug: "general-ch-092-chapter-i-the-medical-treatment-of-inflamed-ulcers"
-reading_time: 38
-prev_chapter: "general-ch-091-preface"
-next_chapter: "general-ch-093-chapter-iii-the-medical-treatments-of-fractures-and-dislocations"
+slug: "general-ch-092-chapter-i-the-medical-treatment-of-inflamed-ulcers"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of the two kinds of inflamed ulcers (Dvivraniya Chikitsita)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter I - The medical treatment of inflamed ulcers
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

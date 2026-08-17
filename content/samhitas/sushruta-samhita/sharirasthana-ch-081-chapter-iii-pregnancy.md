@@ -1,18 +1,25 @@
 ---
 title: "Chapter III - Pregnancy"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sharirasthana"
-chapter_number: 6
-chapter_slug: "sharirasthana-ch-081-chapter-iii-pregnancy"
-reading_time: 15
-prev_chapter: "sharirasthana-ch-080-chapter-i-the-science-of-being-in-general"
-next_chapter: "sharirasthana-ch-082-chapter-iv-the-development-of-a-fetus-in-the-womb"
+slug: "sharirasthana-ch-081-chapter-iii-pregnancy"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sharirasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Sharira which treats of pregnancy,etc."
+labels: ["Sushruta Samhita", "Sharirasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter III - Pregnancy
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 3: Sharirasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter XIX - Treatment of hurt or injnry to the eye"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 22
-chapter_slug: "uttaratantra-ch-164-chapter-xix-treatment-of-hurt-or-injnry-to-the-eye"
-reading_time: 7
-prev_chapter: "uttaratantra-ch-163-chapter-xviii-preparations-and-medicinal-measures-for-ocular"
-next_chapter: "uttaratantra-ch-165-chapter-xx-causes-and-symptoms-of-ear-disease"
+slug: "uttaratantra-ch-164-chapter-xix-treatment-of-hurt-or-injnry-to-the-eye"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment to be adopted in cases of hurt or injury to the eye (Nayanabhighata-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XIX - Treatment of hurt or injnry to the eye
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

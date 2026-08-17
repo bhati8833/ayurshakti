@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Bacopa monnieri. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Brahmi"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Brahmi (Bacopa monnieri)

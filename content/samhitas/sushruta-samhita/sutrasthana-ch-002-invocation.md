@@ -1,18 +1,25 @@
 ---
 title: "Invocation"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 2
-chapter_slug: "sutrasthana-ch-002-invocation"
-reading_time: 1
-prev_chapter: "sutrasthana-ch-001-preface"
-next_chapter: "sutrasthana-ch-003-plate-i"
+slug: "sutrasthana-ch-002-invocation"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "Unabridged English translation and surgical commentary of Sushruta Samhita (Sutrasthana): Invocation."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Invocation
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

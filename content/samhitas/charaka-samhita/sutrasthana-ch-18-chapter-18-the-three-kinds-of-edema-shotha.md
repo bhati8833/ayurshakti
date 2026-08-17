@@ -1,18 +1,25 @@
 ---
 title: "Chapter 18 - The Three Kinds of Edema (shotha)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 18
-chapter_slug: "sutrasthana-ch-18-chapter-18-the-three-kinds-of-edema-shotha"
-reading_time: 13
-prev_chapter: "sutrasthana-ch-17-chapter-17-the-diseases-of-the-head-shiroroga-and-of-the-heart"
-next_chapter: "sutrasthana-ch-19-chapter-19-the-eight-abdominal-affections-udara-roga"
+slug: "sutrasthana-ch-18-chapter-18-the-three-kinds-of-edema-shotha"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 18 - The Three Kinds of Edema (shotha)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

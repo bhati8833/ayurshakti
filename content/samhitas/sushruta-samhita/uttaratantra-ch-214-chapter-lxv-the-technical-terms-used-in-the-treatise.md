@@ -1,18 +1,25 @@
 ---
 title: "Chapter LXV - The Technical terms used in the treatise"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 72
-chapter_slug: "uttaratantra-ch-214-chapter-lxv-the-technical-terms-used-in-the-treatise"
-reading_time: 12
-prev_chapter: "uttaratantra-ch-213-chapter-lxiv-rules-of-health"
-next_chapter: "uttaratantra-ch-215-chapter-lxvi-the-different-modifications-of-the-different-do"
+slug: "uttaratantra-ch-214-chapter-lxv-the-technical-terms-used-in-the-treatise"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the technical terms used in this treatise (Tantra-Yukti-Nama-Adhyaya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LXV - The Technical terms used in the treatise
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

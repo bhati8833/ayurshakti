@@ -1,18 +1,25 @@
 ---
 title: "Chapter IV - Pathology of the diseases of the sclerotic coat"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 5
-chapter_slug: "uttaratantra-ch-147-chapter-iv-pathology-of-the-diseases-of-the-sclerotic-coat"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-146-chapter-iii-pathology-of-the-diseases-of-the-eye-lids"
-next_chapter: "uttaratantra-ch-148-chapter-ii-pathology-of-the-diseases-of-the-eye-joints"
+slug: "uttaratantra-ch-147-chapter-iv-pathology-of-the-diseases-of-the-sclerotic-coat"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the pathology of diseases of the Sclerotic coat (white coat) of the eye (Shuklagata-Roga-Vijnaniya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IV - Pathology of the diseases of the sclerotic coat
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

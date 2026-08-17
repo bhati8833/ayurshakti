@@ -1,18 +1,25 @@
 ---
 title: "Chapter V - Preliminary measures"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 12
-chapter_slug: "sutrasthana-ch-012-chapter-v-preliminary-measures"
-reading_time: 14
-prev_chapter: "sutrasthana-ch-011-chapter-iv-general-explanations"
-next_chapter: "sutrasthana-ch-013-chapter-ii-initiation-of-the-pupil"
+slug: "sutrasthana-ch-012-chapter-v-preliminary-measures"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of Preliminary measures (in connection with the curative remedies of a disease)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter V - Preliminary measures
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

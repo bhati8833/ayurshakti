@@ -1,18 +1,25 @@
 ---
 title: "Chapter 6 - Nosology (roganika-vimana)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Vimanasthana"
-chapter_number: 6
-chapter_slug: "vimanasthana-ch-06-chapter-6-nosology-roganika-vimana"
-reading_time: 13
-prev_chapter: "vimanasthana-ch-05-chapter-5-body-channels-srotas-vimana"
-next_chapter: "vimanasthana-ch-07-chapter-7-the-appearance-of-the-diseased-patient-vyadhita-rup"
+slug: "vimanasthana-ch-06-chapter-6-nosology-roganika-vimana"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Vimanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Vimanasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 6 - Nosology (roganika-vimana)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Vimanasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

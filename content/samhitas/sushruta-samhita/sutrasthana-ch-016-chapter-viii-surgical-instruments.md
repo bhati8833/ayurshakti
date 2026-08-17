@@ -1,18 +1,25 @@
 ---
 title: "Chapter VIII - Surgical instruments"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 16
-chapter_slug: "sutrasthana-ch-016-chapter-viii-surgical-instruments"
-reading_time: 9
-prev_chapter: "sutrasthana-ch-015-chapter-vii-surgical-appliances"
-next_chapter: "sutrasthana-ch-017-chapter-ix-practical-surgical-instructions"
+slug: "sutrasthana-ch-016-chapter-viii-surgical-instruments"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of instruments used in connection with a surgical operation."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VIII - Surgical instruments
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

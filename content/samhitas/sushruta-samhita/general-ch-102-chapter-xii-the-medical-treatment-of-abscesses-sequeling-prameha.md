@@ -1,18 +1,25 @@
 ---
 title: "Chapter XII - The medical treatment of abscesses sequeling Prameha"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 14
-chapter_slug: "general-ch-102-chapter-xii-the-medical-treatment-of-abscesses-sequeling-prameha"
-reading_time: 11
-prev_chapter: "general-ch-101-chapter-xi-the-diseases-of-the-urinary-tracts"
-next_chapter: "general-ch-103-chapter-xiii-the-medical-treatment-of-diabetes"
+slug: "general-ch-102-chapter-xii-the-medical-treatment-of-abscesses-sequeling-prameha"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of the abscesses or eruptions which mark the sequel of a case of Prameha (Prameha-Pidaka)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XII - The medical treatment of abscesses sequeling Prameha
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

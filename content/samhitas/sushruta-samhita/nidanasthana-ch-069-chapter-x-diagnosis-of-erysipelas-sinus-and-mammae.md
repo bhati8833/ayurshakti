@@ -1,18 +1,25 @@
 ---
 title: "Chapter X - Diagnosis of erysipelas, sinus and mammae"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 15
-chapter_slug: "nidanasthana-ch-069-chapter-x-diagnosis-of-erysipelas-sinus-and-mammae"
-reading_time: 8
-prev_chapter: "nidanasthana-ch-068-chapter-viii-diagnosis-of-foetal-obstruction"
-next_chapter: "nidanasthana-ch-070-chapter-xi-diagnosis-of-glands-scrofula-tumors-and-goitre"
+slug: "nidanasthana-ch-069-chapter-x-diagnosis-of-erysipelas-sinus-and-mammae"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Nidana of Visarpa (erysipelas), Nadi (sinus) and Stana-roga  (diseases affecting the mammae of a woman)."
+labels: ["Sushruta Samhita", "Nidanasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter X - Diagnosis of erysipelas, sinus and mammae
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 2: Nidanasthana
 

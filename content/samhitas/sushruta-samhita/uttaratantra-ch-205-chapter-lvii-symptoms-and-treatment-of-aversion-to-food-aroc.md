@@ -1,18 +1,25 @@
 ---
 title: "Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 63
-chapter_slug: "uttaratantra-ch-205-chapter-lvii-symptoms-and-treatment-of-aversion-to-food-aroc"
-reading_time: 6
-prev_chapter: "uttaratantra-ch-204-chapter-lix-symptoms-and-treatment-of-the-defects-of-urine-m"
-next_chapter: "uttaratantra-ch-206-chapter-lviii-symptoms-and-treatment-of-suppression-of-urine"
+slug: "uttaratantra-ch-205-chapter-lvii-symptoms-and-treatment-of-aversion-to-food-aroc"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of aversion to food (Arocaka-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

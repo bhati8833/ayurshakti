@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Nardostachys jatamansi. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Jatamansi"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Jatamansi (Nardostachys jatamansi)

@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXVIII - Therapeutics of an attack by Skanda-graha"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 32
-chapter_slug: "uttaratantra-ch-174-chapter-xxviii-therapeutics-of-an-attack-by-skanda-graha"
-reading_time: 4
-prev_chapter: "uttaratantra-ch-173-chapter-xxii-causes-and-symptoms-of-diseases-of-the-nose"
-next_chapter: "uttaratantra-ch-175-chapter-xxx-treatment-of-an-attack-by-shakuni-graha"
+slug: "uttaratantra-ch-174-chapter-xxviii-therapeutics-of-an-attack-by-skanda-graha"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the Therapeutics (and remedial measures) of an attack by Skanda-Graha (Skanda-Graha-Pra tishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXVIII - Therapeutics of an attack by Skanda-graha
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

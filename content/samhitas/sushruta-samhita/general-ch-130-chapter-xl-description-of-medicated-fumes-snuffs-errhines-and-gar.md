@@ -1,18 +1,25 @@
 ---
 title: "Chapter XL - Description of medicated fumes, snuffs, errhines and gargles"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 42
-chapter_slug: "general-ch-130-chapter-xl-description-of-medicated-fumes-snuffs-errhines-and-gar"
-reading_time: 28
-prev_chapter: "general-ch-129-chapter-xxxix-the-treatment-of-distressing-symptoms"
-next_chapter: "general-ch-131-chapter-xxxviii-the-treatment-with-a-nirudha-vasti"
+slug: "general-ch-130-chapter-xl-description-of-medicated-fumes-snuffs-errhines-and-gar"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the treatment which consists in employing the (inhalation of) medicated fumes, snuffs, (errhines) and gargles (Dhuma- Nasya-Kavala-Graha-Chikitsita)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XL - Description of medicated fumes, snuffs, errhines and gargles
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

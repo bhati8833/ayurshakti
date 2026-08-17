@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Hemidesmus indicus. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Sariva"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Sariva (Hemidesmus indicus)

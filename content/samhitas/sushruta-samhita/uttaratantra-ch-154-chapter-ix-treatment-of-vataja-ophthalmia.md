@@ -1,18 +1,25 @@
 ---
 title: "Chapter IX - Treatment of Vataja Ophthalmia"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 12
-chapter_slug: "uttaratantra-ch-154-chapter-ix-treatment-of-vataja-ophthalmia"
-reading_time: 6
-prev_chapter: "uttaratantra-ch-153-chapter-vii-pathology-of-the-diseases-of-the-pupil"
-next_chapter: "uttaratantra-ch-155-chapter-x-treatment-of-pittaja-ophthalmia"
+slug: "uttaratantra-ch-154-chapter-ix-treatment-of-vataja-ophthalmia"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the remedial measures of Abhishyanda (Ophthalmia) due to the action of the deranged Vayu (Vatabhishyanda-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IX - Treatment of Vataja Ophthalmia
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

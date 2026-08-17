@@ -1,18 +1,25 @@
 ---
 title: "Chapter 1a - Introduction to the Kalpasthana"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 1
-chapter_slug: "kalpasthana-ch-01-chapter-1a-introduction-to-the-kalpasthana"
-reading_time: 7
-prev_chapter: "kalpasthana-ch-30-chapter-30-the-therapeutics-of-gynecic-disorders-yoni-vyapad-c"
-next_chapter: "kalpasthana-ch-01-chapter-1b-the-pharmaceutics-of-the-emetic-nut-madana-kalpa"
+slug: "kalpasthana-ch-01-chapter-1a-introduction-to-the-kalpasthana"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Kalpasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 1a - Introduction to the Kalpasthana
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Kalpasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

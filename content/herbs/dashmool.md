@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Dashmool (polyherbal formulation). featuring scientific taxonomy, multilingual names. Classical polyherbal formulation with 10 ingredients."
 labels: ["Herb Profiles", "Classical Formulation"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Dashmool (polyherbal formulation)

@@ -1,18 +1,25 @@
 ---
 title: "Chapter VII - Description of Sira (vascular system)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sharirasthana"
-chapter_number: 8
-chapter_slug: "sharirasthana-ch-083-chapter-vii-description-of-sira-vascular-system"
-reading_time: 10
-prev_chapter: "sharirasthana-ch-082-chapter-iv-the-development-of-a-fetus-in-the-womb"
-next_chapter: "sharirasthana-ch-084-chapter-vi-the-marmas-vital-parts-of-the-body"
+slug: "sharirasthana-ch-083-chapter-vii-description-of-sira-vascular-system"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sharirasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Sharira which treats of the description and classification of Sira or vascular system[1] (Sira-Varnana-Vibhaktinama Sharira)."
+labels: ["Sushruta Samhita", "Sharirasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VII - Description of Sira (vascular system)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 3: Sharirasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXIII - Description of purgative and emetic medicines"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 35
-chapter_slug: "general-ch-123-chapter-xxxiii-description-of-purgative-and-emetic-medicines"
-reading_time: 18
-prev_chapter: "general-ch-122-chapter-xxxi-the-medicinal-use-of-sneha-oleaginous-substances"
-next_chapter: "general-ch-124-chapter-xxxii-description-of-sveda-fomentation-calorification-etc"
+slug: "general-ch-123-chapter-xxxiii-description-of-purgative-and-emetic-medicines"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the treatment of the distresses which prove amenable to the use of purgatives and emetics (Vamana-Virecana- Sadhyopadrava)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXIII - Description of purgative and emetic medicines
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

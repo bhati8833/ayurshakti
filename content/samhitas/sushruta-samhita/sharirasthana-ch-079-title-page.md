@@ -1,18 +1,25 @@
 ---
 title: "Title Page"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sharirasthana"
-chapter_number: 4
-chapter_slug: "sharirasthana-ch-079-title-page"
-reading_time: 1
-prev_chapter: "sharirasthana-ch-078-chapter-ii-the-purification-of-semen-and-cataminal-fluid"
-next_chapter: "sharirasthana-ch-080-chapter-i-the-science-of-being-in-general"
+slug: "sharirasthana-ch-079-title-page"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sharirasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "Unabridged English translation and surgical commentary of Sushruta Samhita (Sharirasthana): Title Page."
+labels: ["Sushruta Samhita", "Sharirasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Title Page
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 3: Sharirasthana
 

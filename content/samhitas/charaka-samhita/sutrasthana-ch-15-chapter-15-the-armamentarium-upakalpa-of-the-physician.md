@@ -1,18 +1,25 @@
 ---
 title: "Chapter 15 - The Armamentarium (upakalpa) of the Physician"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 15
-chapter_slug: "sutrasthana-ch-15-chapter-15-the-armamentarium-upakalpa-of-the-physician"
-reading_time: 12
-prev_chapter: "sutrasthana-ch-14-chapter-14-the-sudation-therapy-sveda"
-next_chapter: "sutrasthana-ch-16-chapter-16-the-fully-equipped-physician-cikitsa-prabhrita"
+slug: "sutrasthana-ch-15-chapter-15-the-armamentarium-upakalpa-of-the-physician"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 15 - The Armamentarium (upakalpa) of the Physician
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

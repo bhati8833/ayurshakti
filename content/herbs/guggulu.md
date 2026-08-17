@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Commiphora mukul. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Guggulu"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Guggulu (Commiphora mukul)

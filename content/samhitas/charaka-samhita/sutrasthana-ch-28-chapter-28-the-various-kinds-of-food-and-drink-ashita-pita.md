@@ -1,18 +1,25 @@
 ---
 title: "Chapter 28 - The Various kinds of Food and Drink (Ashita-Pita)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 28
-chapter_slug: "sutrasthana-ch-28-chapter-28-the-various-kinds-of-food-and-drink-ashita-pita"
-reading_time: 13
-prev_chapter: "sutrasthana-ch-27-chapter-27l-the-section-on-the-articles-used-in-cooked-foods-a"
-next_chapter: "sutrasthana-ch-29-chapter-29-the-ten-resorts-of-life-dasha-prana-ayatana"
+slug: "sutrasthana-ch-28-chapter-28-the-various-kinds-of-food-and-drink-ashita-pita"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 28 - The Various kinds of Food and Drink (Ashita-Pita)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 64
-chapter_slug: "uttaratantra-ch-206-chapter-lviii-symptoms-and-treatment-of-suppression-of-urine"
-reading_time: 12
-prev_chapter: "uttaratantra-ch-205-chapter-lvii-symptoms-and-treatment-of-aversion-to-food-aroc"
-next_chapter: "uttaratantra-ch-207-chapter-lx-symptoms-and-treatment-of-demonology-amanusha"
+slug: "uttaratantra-ch-206-chapter-lviii-symptoms-and-treatment-of-suppression-of-urine"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of the suppression of urine (Mutra-ghata Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

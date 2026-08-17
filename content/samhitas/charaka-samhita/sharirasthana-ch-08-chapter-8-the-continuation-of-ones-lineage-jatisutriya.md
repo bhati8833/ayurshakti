@@ -1,18 +1,25 @@
 ---
 title: "Chapter 8 - ‘The Continuation of one’s Lineage (jatisutriya)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sharirasthana"
-chapter_number: 8
-chapter_slug: "sharirasthana-ch-08-chapter-8-the-continuation-of-ones-lineage-jatisutriya"
-reading_time: 48
-prev_chapter: "sharirasthana-ch-07-chapter-7-the-enumeration-of-the-parts-of-the-body-sharira-s"
-next_chapter: "indriyasthana-ch-69-indriyasthana-indriya-sthana-section-on-sensorial-prognosis"
+slug: "sharirasthana-ch-08-chapter-8-the-continuation-of-ones-lineage-jatisutriya"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sharirasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sharirasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 8 - ‘The Continuation of one’s Lineage (jatisutriya)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sharirasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

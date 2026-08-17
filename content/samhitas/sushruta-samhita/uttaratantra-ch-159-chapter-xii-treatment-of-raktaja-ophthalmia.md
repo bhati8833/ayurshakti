@@ -1,18 +1,25 @@
 ---
 title: "Chapter XII - Treatment of Raktaja Ophthalmia"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 17
-chapter_slug: "uttaratantra-ch-159-chapter-xii-treatment-of-raktaja-ophthalmia"
-reading_time: 12
-prev_chapter: "uttaratantra-ch-158-chapter-xvi-treatment-of-diseases-peculiar-to-eye-lashes-and"
-next_chapter: "uttaratantra-ch-160-chapter-xv-treatment-of-eye-diseases-which-require-excision"
+slug: "uttaratantra-ch-159-chapter-xii-treatment-of-raktaja-ophthalmia"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the curative treatment of the type of Abhishyanda (Ophthalmia) which has its origin in the vitiated condition of the blood (Raktabhishyanda-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XII - Treatment of Raktaja Ophthalmia
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

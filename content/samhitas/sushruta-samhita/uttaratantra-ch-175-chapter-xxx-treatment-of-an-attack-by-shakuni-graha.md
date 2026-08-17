@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXX - Treatment of an attack by Shakuni-graha"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 33
-chapter_slug: "uttaratantra-ch-175-chapter-xxx-treatment-of-an-attack-by-shakuni-graha"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-174-chapter-xxviii-therapeutics-of-an-attack-by-skanda-graha"
-next_chapter: "uttaratantra-ch-176-chapter-i-diseases-of-the-eye-and-its-appendages"
+slug: "uttaratantra-ch-175-chapter-xxx-treatment-of-an-attack-by-shakuni-graha"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the medical treatment of an attack by Shakuni (Shakuni-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXX - Treatment of an attack by Shakuni-graha
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

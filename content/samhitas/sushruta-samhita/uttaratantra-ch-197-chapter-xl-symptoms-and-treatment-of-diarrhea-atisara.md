@@ -1,18 +1,25 @@
 ---
 title: "Chapter XL - Symptoms and treatment of Diarrhea (Atisara)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 55
-chapter_slug: "uttaratantra-ch-197-chapter-xl-symptoms-and-treatment-of-diarrhea-atisara"
-reading_time: 35
-prev_chapter: "uttaratantra-ch-196-chapter-l-symptoms-and-treatment-of-hiccough-hicca"
-next_chapter: "uttaratantra-ch-198-chapter-li-symptoms-and-treatment-of-asthma-shvasa"
+slug: "uttaratantra-ch-197-chapter-xl-symptoms-and-treatment-of-diarrhea-atisara"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the (causes, symptoms and) medical treatment of diarrhea, etc."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XL - Symptoms and treatment of Diarrhea (Atisara)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Mucuna pruriens. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Kapikacchu"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Kapikacchu (Mucuna pruriens)

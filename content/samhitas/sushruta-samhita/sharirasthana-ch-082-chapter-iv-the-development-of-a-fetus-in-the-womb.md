@@ -1,18 +1,25 @@
 ---
 title: "Chapter IV - The development of a fetus in the womb"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sharirasthana"
-chapter_number: 7
-chapter_slug: "sharirasthana-ch-082-chapter-iv-the-development-of-a-fetus-in-the-womb"
-reading_time: 23
-prev_chapter: "sharirasthana-ch-081-chapter-iii-pregnancy"
-next_chapter: "sharirasthana-ch-083-chapter-vii-description-of-sira-vascular-system"
+slug: "sharirasthana-ch-082-chapter-iv-the-development-of-a-fetus-in-the-womb"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sharirasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Sharira which treats of the development of a fetus in the womb, as well as of the factors which contribute to the growth of its different bodily organs and princ..."
+labels: ["Sushruta Samhita", "Sharirasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IV - The development of a fetus in the womb
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 3: Sharirasthana
 

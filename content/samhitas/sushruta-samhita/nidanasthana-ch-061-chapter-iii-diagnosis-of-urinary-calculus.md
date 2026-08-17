@@ -1,18 +1,25 @@
 ---
 title: "Chapter III - Diagnosis of urinary calculus"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 7
-chapter_slug: "nidanasthana-ch-061-chapter-iii-diagnosis-of-urinary-calculus"
-reading_time: 9
-prev_chapter: "nidanasthana-ch-060-chapter-i-diagnosis-of-diseases-of-nervous-system"
-next_chapter: "nidanasthana-ch-062-chapter-ii-diagnosis-of-haemorrhoids"
+slug: "nidanasthana-ch-061-chapter-iii-diagnosis-of-urinary-calculus"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Nidana of Ashmari (urinary calculi)."
+labels: ["Sushruta Samhita", "Nidanasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter III - Diagnosis of urinary calculus
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 2: Nidanasthana
 

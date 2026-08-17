@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXII - Knowledge of exudates of wounds"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 30
-chapter_slug: "sutrasthana-ch-030-chapter-xxii-knowledge-of-exudates-of-wounds"
-reading_time: 10
-prev_chapter: "sutrasthana-ch-029-chapter-xxi-questions-concerning-wounds"
-next_chapter: "sutrasthana-ch-031-chapter-xxiii-prognosis-of-wounds"
+slug: "sutrasthana-ch-030-chapter-xxii-knowledge-of-exudates-of-wounds"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the chapter, which treats of secretions from boils or ulcers of different types."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXII - Knowledge of exudates of wounds
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

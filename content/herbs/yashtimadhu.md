@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Glycyrrhiza glabra. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Yashtimadhu"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Yashtimadhu (Glycyrrhiza glabra)

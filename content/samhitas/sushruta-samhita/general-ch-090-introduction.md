@@ -1,18 +1,25 @@
 ---
 title: "Introduction"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 2
-chapter_slug: "general-ch-090-introduction"
-reading_time: 1
-prev_chapter: "general-ch-089-title-page"
-next_chapter: "general-ch-091-preface"
+slug: "general-ch-090-introduction"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "Unabridged English translation and surgical commentary of Sushruta Samhita (Chikitsasthana): Introduction."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Introduction
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

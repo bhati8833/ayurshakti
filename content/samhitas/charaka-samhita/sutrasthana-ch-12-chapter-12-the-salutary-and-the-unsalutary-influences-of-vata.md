@@ -1,18 +1,25 @@
 ---
 title: "Chapter 12 - The Salutary and the Unsalutary influences of Vata"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 12
-chapter_slug: "sutrasthana-ch-12-chapter-12-the-salutary-and-the-unsalutary-influences-of-vata"
-reading_time: 9
-prev_chapter: "sutrasthana-ch-13-chapter-13-oleation-therapy-sneha"
-next_chapter: "sutrasthana-ch-14-chapter-14-the-sudation-therapy-sveda"
+slug: "sutrasthana-ch-12-chapter-12-the-salutary-and-the-unsalutary-influences-of-vata"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 12 - The Salutary and the Unsalutary influences of Vata
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

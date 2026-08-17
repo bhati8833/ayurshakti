@@ -1,18 +1,25 @@
 ---
 title: "Chapter XX - Causes and symptoms of Ear-disease"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 23
-chapter_slug: "uttaratantra-ch-165-chapter-xx-causes-and-symptoms-of-ear-disease"
-reading_time: 5
-prev_chapter: "uttaratantra-ch-164-chapter-xix-treatment-of-hurt-or-injnry-to-the-eye"
-next_chapter: "uttaratantra-ch-166-chapter-xxi-medical-treatment-of-ear-disease"
+slug: "uttaratantra-ch-165-chapter-xx-causes-and-symptoms-of-ear-disease"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which treats of the causes and symptoms of the diseases peculiar to the ear—the organ of hearing (Karna-gata-Roga-Vijnaniya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XX - Causes and symptoms of Ear-disease
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

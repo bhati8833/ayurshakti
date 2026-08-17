@@ -1,18 +1,25 @@
 ---
 title: "Chapter IV - General explanations"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 11
-chapter_slug: "sutrasthana-ch-011-chapter-iv-general-explanations"
-reading_time: 3
-prev_chapter: "sutrasthana-ch-010-chapter-iii-classification-of-ayurveda"
-next_chapter: "sutrasthana-ch-012-chapter-v-preliminary-measures"
+slug: "sutrasthana-ch-011-chapter-iv-general-explanations"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which deals with General Explanations (Prabhasaniya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IV - General explanations
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

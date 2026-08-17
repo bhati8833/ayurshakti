@@ -1,18 +1,25 @@
 ---
 title: "Chapter LIX - Symptoms and Treatment of the defects of Urine (Mutra-dosha)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 62
-chapter_slug: "uttaratantra-ch-204-chapter-lix-symptoms-and-treatment-of-the-defects-of-urine-m"
-reading_time: 6
-prev_chapter: "uttaratantra-ch-203-chapter-lvi-symptoms-and-treatment-of-cholera-visuchika"
-next_chapter: "uttaratantra-ch-205-chapter-lvii-symptoms-and-treatment-of-aversion-to-food-aroc"
+slug: "uttaratantra-ch-204-chapter-lix-symptoms-and-treatment-of-the-defects-of-urine-m"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of the defects of urine (Mutra-dosha-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LIX - Symptoms and Treatment of the defects of Urine (Mutra-dosha)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter 9 - The (minor) Four Basic Factors of Therapeusis (Cikitsa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 9
-chapter_slug: "sutrasthana-ch-09-chapter-9-the-minor-four-basic-factors-of-therapeusis-cikitsa"
-reading_time: 5
-prev_chapter: "sutrasthana-ch-08-chapter-8-the-discipline-of-the-senses-indriya-upakrama"
-next_chapter: "sutrasthana-ch-10-chapter-10-the-major-fourfold-basic-factors-in-therapeusis-cik"
+slug: "sutrasthana-ch-09-chapter-9-the-minor-four-basic-factors-of-therapeusis-cikitsa"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 9 - The (minor) Four Basic Factors of Therapeusis (Cikitsa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

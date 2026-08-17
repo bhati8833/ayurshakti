@@ -1,18 +1,25 @@
 ---
 title: "Chapter VII - Pathology of the diseases of the Pupil"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 11
-chapter_slug: "uttaratantra-ch-153-chapter-vii-pathology-of-the-diseases-of-the-pupil"
-reading_time: 11
-prev_chapter: "uttaratantra-ch-152-chapter-viii-classification-and-treatment-of-ocular-affectio"
-next_chapter: "uttaratantra-ch-154-chapter-ix-treatment-of-vataja-ophthalmia"
+slug: "uttaratantra-ch-153-chapter-vii-pathology-of-the-diseases-of-the-pupil"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the pathology of the diseases which are peculiar to the Drishti (pupil) of the eye (Drishti-gata-Roga-Vijnaniya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VII - Pathology of the diseases of the Pupil
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

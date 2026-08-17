@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Picrorhiza kurroa. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Katuki"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Katuki (Picrorhiza kurroa)

@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Holarrhena antidysenterica. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Kutaja"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Kutaja (Holarrhena antidysenterica)

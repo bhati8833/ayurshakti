@@ -1,18 +1,25 @@
 ---
 title: "Chapter XIX - Care of the wounded"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 26
-chapter_slug: "sutrasthana-ch-026-chapter-xix-care-of-the-wounded"
-reading_time: 8
-prev_chapter: "sutrasthana-ch-025-chapter-xvii-features-of-unripe-and-ripe-swelling"
-next_chapter: "sutrasthana-ch-027-chapter-xx-suitable-and-unsuitables-for-health"
+slug: "sutrasthana-ch-026-chapter-xix-care-of-the-wounded"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of the management or nursing of a patient with an ulcer etc."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XIX - Care of the wounded
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

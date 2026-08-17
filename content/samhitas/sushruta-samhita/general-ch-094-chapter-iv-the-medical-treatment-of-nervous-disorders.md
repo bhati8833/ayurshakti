@@ -1,18 +1,25 @@
 ---
 title: "Chapter IV - The medical treatment of nervous disorders"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 6
-chapter_slug: "general-ch-094-chapter-iv-the-medical-treatment-of-nervous-disorders"
-reading_time: 11
-prev_chapter: "general-ch-093-chapter-iii-the-medical-treatments-of-fractures-and-dislocations"
-next_chapter: "general-ch-095-chapter-v-the-diseases-affecting-the-nervous-system"
+slug: "general-ch-094-chapter-iv-the-medical-treatment-of-nervous-disorders"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall diseourse on the medical treatment of nervous disorders (Vata-vyadhi)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IV - The medical treatment of nervous disorders
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Vimanasthana (Vimana Sthana) — Section on Measure"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Vimanasthana"
-chapter_number: 51
-chapter_slug: "vimanasthana-ch-51-vimanasthana-vimana-sthana-section-on-measure"
-reading_time: 1
-prev_chapter: "nidanasthana-ch-08-chapter-8-the-pathology-of-epilepsy-apasmara-nidana"
-next_chapter: "vimanasthana-ch-01-chapter-1-the-measure-of-tastes-rasa-vimana"
+slug: "vimanasthana-ch-51-vimanasthana-vimana-sthana-section-on-measure"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Vimanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Vimanasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Vimanasthana (Vimana Sthana) — Section on Measure
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Vimanasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter 8 - The Treatment of Disease (roga-bhishaj-jiti-vimana)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sharirasthana"
-chapter_number: 8
-chapter_slug: "sharirasthana-ch-08-chapter-8-the-treatment-of-disease-roga-bhishaj-jiti-vimana"
-reading_time: 75
-prev_chapter: "sharirasthana-ch-59-sharirasthana-sharira-sthana-section-on-human-embodiment"
-next_chapter: "sharirasthana-ch-01-chapter-1-the-classifications-of-man-purusha"
+slug: "sharirasthana-ch-08-chapter-8-the-treatment-of-disease-roga-bhishaj-jiti-vimana"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sharirasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sharirasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 8 - The Treatment of Disease (roga-bhishaj-jiti-vimana)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sharirasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

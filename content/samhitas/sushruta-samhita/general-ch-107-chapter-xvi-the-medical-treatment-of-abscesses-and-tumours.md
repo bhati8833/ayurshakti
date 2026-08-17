@@ -1,18 +1,25 @@
 ---
 title: "Chapter XVI - The medical treatment of Abscesses and Tumours"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 19
-chapter_slug: "general-ch-107-chapter-xvi-the-medical-treatment-of-abscesses-and-tumours"
-reading_time: 9
-prev_chapter: "general-ch-106-chapter-xv-the-medicalsurgical-treatment-of-the-fetus"
-next_chapter: "general-ch-108-chapter-xviii-the-medical-treatment-of-glandular-swellings"
+slug: "general-ch-107-chapter-xvi-the-medical-treatment-of-abscesses-and-tumours"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of Abscesses and Tumours (Vidradhi)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XVI - The medical treatment of Abscesses and Tumours
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

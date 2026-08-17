@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXVIII - Groups of drugs"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 47
-chapter_slug: "sutrasthana-ch-047-chapter-xxxviii-groups-of-drugs"
-reading_time: 15
-prev_chapter: "sutrasthana-ch-046-chapter-xxxvii-kinds-of-land-regions"
-next_chapter: "sutrasthana-ch-048-chapter-xl-knowledge-of-taste-etc-of-drugs"
+slug: "sutrasthana-ch-047-chapter-xxxviii-groups-of-drugs"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter which deals with the general classification of drugs according to their therapeutical properties (Dravya-Sangrahaniya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXVIII - Groups of drugs
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Celastrus paniculatus. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Jyotishmati"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Jyotishmati (Celastrus paniculatus)

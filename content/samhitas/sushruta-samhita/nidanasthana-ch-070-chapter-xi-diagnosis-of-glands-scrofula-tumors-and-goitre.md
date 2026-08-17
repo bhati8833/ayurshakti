@@ -1,18 +1,25 @@
 ---
 title: "Chapter XI - Diagnosis of glands, scrofula, tumors and goitre"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 16
-chapter_slug: "nidanasthana-ch-070-chapter-xi-diagnosis-of-glands-scrofula-tumors-and-goitre"
-reading_time: 10
-prev_chapter: "nidanasthana-ch-069-chapter-x-diagnosis-of-erysipelas-sinus-and-mammae"
-next_chapter: "nidanasthana-ch-071-chapter-xii-diagnosis-of-hernia-tumours-elephantiasis-etc"
+slug: "nidanasthana-ch-070-chapter-xi-diagnosis-of-glands-scrofula-tumors-and-goitre"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Nidana of Granthi  (Glands etc."
+labels: ["Sushruta Samhita", "Nidanasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XI - Diagnosis of glands, scrofula, tumors and goitre
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 2: Nidanasthana
 

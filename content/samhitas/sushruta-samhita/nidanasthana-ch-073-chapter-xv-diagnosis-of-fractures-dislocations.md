@@ -1,18 +1,25 @@
 ---
 title: "Chapter XV - Diagnosis of fractures-dislocations"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 19
-chapter_slug: "nidanasthana-ch-073-chapter-xv-diagnosis-of-fractures-dislocations"
-reading_time: 6
-prev_chapter: "nidanasthana-ch-072-chapter-xiv-diagnosis-of-diseases-of-the-penis"
-next_chapter: "nidanasthana-ch-074-chapter-xiii-diagnosis-of-minor-diseases"
+slug: "nidanasthana-ch-073-chapter-xv-diagnosis-of-fractures-dislocations"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Nidana of Bhagna (fractures and dislocations etc."
+labels: ["Sushruta Samhita", "Nidanasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XV - Diagnosis of fractures-dislocations
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 2: Nidanasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter III - Pathology of the diseases of the eye-lids"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 4
-chapter_slug: "uttaratantra-ch-146-chapter-iii-pathology-of-the-diseases-of-the-eye-lids"
-reading_time: 5
-prev_chapter: "uttaratantra-ch-145-canto-i-shalakya-tantra-ears-eyes-nose-mouth-and-throat"
-next_chapter: "uttaratantra-ch-147-chapter-iv-pathology-of-the-diseases-of-the-sclerotic-coat"
+slug: "uttaratantra-ch-146-chapter-iii-pathology-of-the-diseases-of-the-eye-lids"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the pathology of diseases peculiar to the region of the eye lids (Vartmagata-Roga-Vijnaniya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter III - Pathology of the diseases of the eye-lids
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

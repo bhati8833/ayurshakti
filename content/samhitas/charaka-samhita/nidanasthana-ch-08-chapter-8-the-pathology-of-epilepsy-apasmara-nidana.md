@@ -1,18 +1,25 @@
 ---
 title: "Chapter 8 - The Pathology of Epilepsy (apasmara-nidana)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 8
-chapter_slug: "nidanasthana-ch-08-chapter-8-the-pathology-of-epilepsy-apasmara-nidana"
-reading_time: 10
-prev_chapter: "nidanasthana-ch-07-chapter-7-the-pathology-of-insanity-unmada-nidana"
-next_chapter: "vimanasthana-ch-51-vimanasthana-vimana-sthana-section-on-measure"
+slug: "nidanasthana-ch-08-chapter-8-the-pathology-of-epilepsy-apasmara-nidana"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Nidanasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 8 - The Pathology of Epilepsy (apasmara-nidana)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Nidanasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

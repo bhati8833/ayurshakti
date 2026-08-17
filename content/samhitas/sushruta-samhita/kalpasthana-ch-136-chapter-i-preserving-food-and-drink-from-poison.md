@@ -1,18 +1,25 @@
 ---
 title: "Chapter I - Preserving food and drink from poison"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 5
-chapter_slug: "kalpasthana-ch-136-chapter-i-preserving-food-and-drink-from-poison"
-reading_time: 17
-prev_chapter: "kalpasthana-ch-135-title-page"
-next_chapter: "kalpasthana-ch-137-chapter-iii-description-of-jangama-animal-poisons"
+slug: "kalpasthana-ch-136-chapter-i-preserving-food-and-drink-from-poison"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the mode of preserving food and drink from the effects of poison (Anna- pana-Raksha-Kalpa)."
+labels: ["Sushruta Samhita", "Kalpasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter I - Preserving food and drink from poison
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 5: Kalpasthana
 

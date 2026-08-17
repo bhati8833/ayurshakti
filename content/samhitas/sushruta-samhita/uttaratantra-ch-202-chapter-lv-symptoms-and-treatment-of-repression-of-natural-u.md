@@ -1,18 +1,25 @@
 ---
 title: "Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 60
-chapter_slug: "uttaratantra-ch-202-chapter-lv-symptoms-and-treatment-of-repression-of-natural-u"
-reading_time: 12
-prev_chapter: "uttaratantra-ch-201-chapter-liv-symptoms-and-treatment-of-worms-krimi-roga"
-next_chapter: "uttaratantra-ch-203-chapter-lvi-symptoms-and-treatment-of-cholera-visuchika"
+slug: "uttaratantra-ch-202-chapter-lv-symptoms-and-treatment-of-repression-of-natural-u"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of the disease due to the retention of any natural physical urging (Udavarta-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

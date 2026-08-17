@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Aegle marmelos. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Bilva", "Component of Dashmool"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Bilva (Aegle marmelos)

@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Symplocos racemosa. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Lodhra"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Lodhra (Symplocos racemosa)

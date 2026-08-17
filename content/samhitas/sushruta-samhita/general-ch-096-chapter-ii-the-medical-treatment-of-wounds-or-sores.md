@@ -1,18 +1,25 @@
 ---
 title: "Chapter II - The medical treatment of wounds or sores"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 8
-chapter_slug: "general-ch-096-chapter-ii-the-medical-treatment-of-wounds-or-sores"
-reading_time: 21
-prev_chapter: "general-ch-095-chapter-v-the-diseases-affecting-the-nervous-system"
-next_chapter: "general-ch-097-chapter-viii-the-medical-treatment-of-fistula-in-ano"
+slug: "general-ch-096-chapter-ii-the-medical-treatment-of-wounds-or-sores"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of recent or traumatic wounds or sores (Sadyovrana- Chikitsa)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter II - The medical treatment of wounds or sores
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

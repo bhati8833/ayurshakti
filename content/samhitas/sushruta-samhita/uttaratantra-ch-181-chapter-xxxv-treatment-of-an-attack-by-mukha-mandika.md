@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXV - Treatment of an attack by Mukha-mandika"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 39
-chapter_slug: "uttaratantra-ch-181-chapter-xxxv-treatment-of-an-attack-by-mukha-mandika"
-reading_time: 2
-prev_chapter: "uttaratantra-ch-180-chapter-xxxiv-treatment-of-an-attack-by-shita-putana"
-next_chapter: "uttaratantra-ch-182-chapter-xxxii-treatment-of-an-attack-by-putana-graha"
+slug: "uttaratantra-ch-181-chapter-xxxv-treatment-of-an-attack-by-mukha-mandika"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the medical treatment of (an attack by) Mukhamandika (Mukha-mandika-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXV - Treatment of an attack by Mukha-mandika
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

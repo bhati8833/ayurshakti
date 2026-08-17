@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Phyllanthus niruri. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Bhumyamalaki"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Bhumyamalaki (Phyllanthus niruri)

@@ -1,18 +1,25 @@
 ---
 title: "Chapter 23 - The therapeutics of Toxicosis (visha-cikitsa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 23
-chapter_slug: "indriyasthana-ch-23-chapter-23-the-therapeutics-of-toxicosis-visha-cikitsa"
-reading_time: 42
-prev_chapter: "indriyasthana-ch-22-chapter-22-the-therapeutics-of-dipsosis-morbid-thirst-trishn"
-next_chapter: "indriyasthana-ch-24-chapter-24-the-therapeutics-of-alcoholism-madatyaya-cikitsa"
+slug: "indriyasthana-ch-23-chapter-23-the-therapeutics-of-toxicosis-visha-cikitsa"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 23 - The therapeutics of Toxicosis (visha-cikitsa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

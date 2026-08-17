@@ -1,18 +1,25 @@
 ---
 title: "Chapter I - Origin of Ayurveda"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 9
-chapter_slug: "sutrasthana-ch-009-chapter-i-origin-of-ayurveda"
-reading_time: 18
-prev_chapter: "sutrasthana-ch-008-plate-iv"
-next_chapter: "sutrasthana-ch-010-chapter-iii-classification-of-ayurveda"
+slug: "sutrasthana-ch-009-chapter-i-origin-of-ayurveda"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "in this life and hereafter, is in the gift of this eternal Ayurveda, and for this, O Lord, we have made bold to approach thee as thy humble disciples."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter I - Origin of Ayurveda
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

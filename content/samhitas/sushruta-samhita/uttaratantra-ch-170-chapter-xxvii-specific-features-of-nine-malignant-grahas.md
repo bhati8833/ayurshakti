@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXVII - Specific features of nine malignant Grahas"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 28
-chapter_slug: "uttaratantra-ch-170-chapter-xxvii-specific-features-of-nine-malignant-grahas"
-reading_time: 6
-prev_chapter: "uttaratantra-ch-169-chapter-xxv-symptoms-of-diseases-of-the-head"
-next_chapter: "uttaratantra-ch-171-canto-ii-kaumarabhritya-tantra-pediatrics-gynecology-and-pre"
+slug: "uttaratantra-ch-170-chapter-xxvii-specific-features-of-nine-malignant-grahas"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the specific features (of the nine diseases of infant life, which are attributed to the influences) of the nine malignant Grahas (Nava-G..."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXVII - Specific features of nine malignant Grahas
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

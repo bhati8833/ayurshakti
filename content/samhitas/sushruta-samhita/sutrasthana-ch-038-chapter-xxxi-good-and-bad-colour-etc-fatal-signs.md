@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXI - Good And Bad Colour Etc. Fatal Signs"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 38
-chapter_slug: "sutrasthana-ch-038-chapter-xxxi-good-and-bad-colour-etc-fatal-signs"
-reading_time: 7
-prev_chapter: "sutrasthana-ch-037-chapter-xxx-good-and-bad-sensory-perceptions"
-next_chapter: "sutrasthana-ch-039-chapter-xxxiii-fatal-signs-of-diseases"
+slug: "sutrasthana-ch-038-chapter-xxxi-good-and-bad-colour-etc-fatal-signs"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter, which deals with the prognosis to be gathered from the altered condition of features (Chaya-vipratipatti-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXI - Good And Bad Colour Etc. Fatal Signs
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

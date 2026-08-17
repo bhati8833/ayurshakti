@@ -1,18 +1,25 @@
 ---
 title: "Chapter XV - Knowledge of doshas etc"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 23
-chapter_slug: "sutrasthana-ch-023-chapter-xv-knowledge-of-doshas-etc"
-reading_time: 25
-prev_chapter: "sutrasthana-ch-022-chapter-xi-alkaline-cautery"
-next_chapter: "sutrasthana-ch-024-chapter-xvi-puncturing-and-bandaging-the-ear"
+slug: "sutrasthana-ch-023-chapter-xv-knowledge-of-doshas-etc"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall describe the Chapter which treats of development and non-development of the humoral constituents."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XV - Knowledge of doshas etc
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

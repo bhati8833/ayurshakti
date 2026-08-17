@@ -1,18 +1,25 @@
 ---
 title: "Chapter VIII - Classification and treatment of ocular affections"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 10
-chapter_slug: "uttaratantra-ch-152-chapter-viii-classification-and-treatment-of-ocular-affectio"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-151-preface"
-next_chapter: "uttaratantra-ch-153-chapter-vii-pathology-of-the-diseases-of-the-pupil"
+slug: "uttaratantra-ch-152-chapter-viii-classification-and-treatment-of-ocular-affectio"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the classification of occular affection according to the different modes of treatment (Netra-Roga-Chikitsa-Vibhaga-Vijnaniya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VIII - Classification and treatment of ocular affections
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

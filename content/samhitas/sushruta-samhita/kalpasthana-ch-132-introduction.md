@@ -1,18 +1,25 @@
 ---
 title: "Introduction"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 1
-chapter_slug: "kalpasthana-ch-132-introduction"
-reading_time: 1
-prev_chapter: "general-ch-131-chapter-xxxviii-the-treatment-with-a-nirudha-vasti"
-next_chapter: "kalpasthana-ch-133-preface"
+slug: "kalpasthana-ch-132-introduction"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "Unabridged English translation and surgical commentary of Sushruta Samhita (Kalpasthana): Introduction."
+labels: ["Sushruta Samhita", "Kalpasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Introduction
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 5: Kalpasthana
 

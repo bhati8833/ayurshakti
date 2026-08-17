@@ -1,18 +1,25 @@
 ---
 title: "Chapter IX - The medical treatment of cutaneous affections"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 17
-chapter_slug: "general-ch-105-chapter-ix-the-medical-treatment-of-cutaneous-affections"
-reading_time: 23
-prev_chapter: "general-ch-104-chapter-xiv-the-medical-treatment-of-dropsy"
-next_chapter: "general-ch-106-chapter-xv-the-medicalsurgical-treatment-of-the-fetus"
+slug: "general-ch-105-chapter-ix-the-medical-treatment-of-cutaneous-affections"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of cutaneous affections in general (Kushtha)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IX - The medical treatment of cutaneous affections
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

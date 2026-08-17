@@ -1,18 +1,25 @@
 ---
 title: "Chapter 17 - The therapeutics of Hiccup and Dyspnea (hikka-shvasa-cikitsa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 17
-chapter_slug: "indriyasthana-ch-17-chapter-17-the-therapeutics-of-hiccup-and-dyspnea-hikka-shva"
-reading_time: 26
-prev_chapter: "indriyasthana-ch-16-chapter-16-the-therapeutics-of-anemia-panduroga-cikitsa"
-next_chapter: "indriyasthana-ch-18-chapter-18-the-therapeutics-of-cough-disorder-kasa-cikitsa"
+slug: "indriyasthana-ch-17-chapter-17-the-therapeutics-of-hiccup-and-dyspnea-hikka-shva"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 17 - The therapeutics of Hiccup and Dyspnea (hikka-shvasa-cikitsa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

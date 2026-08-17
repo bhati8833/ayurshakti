@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Asphaltum punjabianum. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Shilajatu"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Shilajatu (Asphaltum punjabianum)

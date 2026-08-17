@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Pueraria tuberosa. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Vidarikanda"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Vidarikanda (Pueraria tuberosa)

@@ -1,18 +1,25 @@
 ---
 title: "Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 3
-chapter_slug: "uttaratantra-ch-145-canto-i-shalakya-tantra-ears-eyes-nose-mouth-and-throat"
-reading_time: 1
-prev_chapter: "uttaratantra-ch-144-title-page"
-next_chapter: "uttaratantra-ch-146-chapter-iii-pathology-of-the-diseases-of-the-eye-lids"
+slug: "uttaratantra-ch-145-canto-i-shalakya-tantra-ears-eyes-nose-mouth-and-throat"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "Unabridged English translation and surgical commentary of Sushruta Samhita (Uttaratantra): Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

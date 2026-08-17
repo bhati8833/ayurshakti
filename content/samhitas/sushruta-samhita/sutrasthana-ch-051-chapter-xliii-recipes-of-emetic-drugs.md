@@ -1,18 +1,25 @@
 ---
 title: "Chapter XLIII - Recipes of emetic drugs"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 51
-chapter_slug: "sutrasthana-ch-051-chapter-xliii-recipes-of-emetic-drugs"
-reading_time: 7
-prev_chapter: "sutrasthana-ch-050-chapter-xli-knowledge-of-categories-of-drugs"
-next_chapter: "sutrasthana-ch-052-chapter-xliv-recipes-of-purgative-drugs"
+slug: "sutrasthana-ch-051-chapter-xliii-recipes-of-emetic-drugs"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter, which treats of the mode of administering emetics (Vamana-Dravya-Vikalpa-Vijnaniya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XLIII - Recipes of emetic drugs
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

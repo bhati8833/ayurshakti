@@ -1,18 +1,25 @@
 ---
 title: "Chapter 27b - The group of pulses (Shamidhanya—dicotyledons)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 27
-chapter_slug: "sutrasthana-ch-27-chapter-27b-the-group-of-pulses-shamidhanyadicotyledons"
-reading_time: 3
-prev_chapter: "sutrasthana-ch-27-chapter-27a-the-group-of-awned-cereals-shukadhanyamonocotyledo"
-next_chapter: "sutrasthana-ch-27-chapter-27c-the-group-of-meats-mamsa"
+slug: "sutrasthana-ch-27-chapter-27b-the-group-of-pulses-shamidhanyadicotyledons"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 27b - The group of pulses (Shamidhanya—dicotyledons)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

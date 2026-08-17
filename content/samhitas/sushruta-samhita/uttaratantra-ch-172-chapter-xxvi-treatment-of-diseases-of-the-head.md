@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXVI - Treatment of diseases of the head"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 30
-chapter_slug: "uttaratantra-ch-172-chapter-xxvi-treatment-of-diseases-of-the-head"
-reading_time: 10
-prev_chapter: "uttaratantra-ch-171-canto-ii-kaumarabhritya-tantra-pediatrics-gynecology-and-pre"
-next_chapter: "uttaratantra-ch-173-chapter-xxii-causes-and-symptoms-of-diseases-of-the-nose"
+slug: "uttaratantra-ch-172-chapter-xxvi-treatment-of-diseases-of-the-head"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the therapeutics of the diseases of the head (Shiro-roga-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXVI - Treatment of diseases of the head
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

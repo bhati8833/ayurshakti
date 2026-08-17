@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXII - The affections of the mouth"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 23
-chapter_slug: "general-ch-111-chapter-xxii-the-affections-of-the-mouth"
-reading_time: 18
-prev_chapter: "general-ch-110-chapter-xvii-the-medical-treatment-of-erysipelas"
-next_chapter: "general-ch-112-chapter-xx-the-medical-treatment-of-the-minor-ailments"
+slug: "general-ch-111-chapter-xxii-the-affections-of-the-mouth"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of the affections of the mouth (Mukha- Roga)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXII - The affections of the mouth
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

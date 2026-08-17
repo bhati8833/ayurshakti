@@ -1,18 +1,25 @@
 ---
 title: "Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 48
-chapter_slug: "uttaratantra-ch-190-chapter-xlv-symptoms-and-treatment-of-hemorrhage-rakta-pitta"
-reading_time: 12
-prev_chapter: "uttaratantra-ch-189-chapter-xliv-symptoms-and-treatment-of-jaundice-pandu-roga"
-next_chapter: "uttaratantra-ch-191-chapter-xlvi-symptoms-and-treatment-of-fainting-fits-murccha"
+slug: "uttaratantra-ch-190-chapter-xlv-symptoms-and-treatment-of-hemorrhage-rakta-pitta"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter which deals with the symptoms and) medical treatment of Hemorrhage (Rakta-Pitta-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

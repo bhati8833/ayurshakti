@@ -1,18 +1,25 @@
 ---
 title: "Chapter LXVI - The different Modifications of the different Doshas"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 73
-chapter_slug: "uttaratantra-ch-215-chapter-lxvi-the-different-modifications-of-the-different-do"
-reading_time: 4
-prev_chapter: "uttaratantra-ch-214-chapter-lxv-the-technical-terms-used-in-the-treatise"
-next_chapter: "uttaratantra-ch-216-chapter-xxxvii-origin-of-nine-grahas"
+slug: "uttaratantra-ch-215-chapter-lxvi-the-different-modifications-of-the-different-do"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which (deals with and) is called the different modifications (combinations) of the different Doshas —Dosha-Bheda-vikalpa-namadhyaya."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LXVI - The different Modifications of the different Doshas
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

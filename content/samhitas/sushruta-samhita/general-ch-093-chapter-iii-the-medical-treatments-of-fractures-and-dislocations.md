@@ -1,18 +1,25 @@
 ---
 title: "Chapter III - The medical treatments of fractures and dislocations"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 5
-chapter_slug: "general-ch-093-chapter-iii-the-medical-treatments-of-fractures-and-dislocations"
-reading_time: 16
-prev_chapter: "general-ch-092-chapter-i-the-medical-treatment-of-inflamed-ulcers"
-next_chapter: "general-ch-094-chapter-iv-the-medical-treatment-of-nervous-disorders"
+slug: "general-ch-093-chapter-iii-the-medical-treatments-of-fractures-and-dislocations"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatments of fractures and dislocations (Bhagnas)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter III - The medical treatments of fractures and dislocations
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

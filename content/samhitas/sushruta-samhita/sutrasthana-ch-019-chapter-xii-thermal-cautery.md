@@ -1,18 +1,25 @@
 ---
 title: "Chapter XII - Thermal cautery"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 19
-chapter_slug: "sutrasthana-ch-019-chapter-xii-thermal-cautery"
-reading_time: 11
-prev_chapter: "sutrasthana-ch-018-chapter-x-qualifications-of-a-physician"
-next_chapter: "sutrasthana-ch-020-chapter-xiii-usage-of-leeches"
+slug: "sutrasthana-ch-019-chapter-xii-thermal-cautery"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of cauteries and the rules to be observed in their use (Agni-Karma-Vidhi-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XII - Thermal cautery
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter X - Qualifications of a physician"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 18
-chapter_slug: "sutrasthana-ch-018-chapter-x-qualifications-of-a-physician"
-reading_time: 5
-prev_chapter: "sutrasthana-ch-017-chapter-ix-practical-surgical-instructions"
-next_chapter: "sutrasthana-ch-019-chapter-xii-thermal-cautery"
+slug: "sutrasthana-ch-018-chapter-x-qualifications-of-a-physician"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of the essential qualifications of a physician before he formally enters his profession (Vishikhanupraveshaniya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter X - Qualifications of a physician
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

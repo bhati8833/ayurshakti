@@ -1,18 +1,25 @@
 ---
 title: "Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 29
-chapter_slug: "uttaratantra-ch-171-canto-ii-kaumarabhritya-tantra-pediatrics-gynecology-and-pre"
-reading_time: 1
-prev_chapter: "uttaratantra-ch-170-chapter-xxvii-specific-features-of-nine-malignant-grahas"
-next_chapter: "uttaratantra-ch-172-chapter-xxvi-treatment-of-diseases-of-the-head"
+slug: "uttaratantra-ch-171-canto-ii-kaumarabhritya-tantra-pediatrics-gynecology-and-pre"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "Unabridged English translation and surgical commentary of Sushruta Samhita (Uttaratantra): Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

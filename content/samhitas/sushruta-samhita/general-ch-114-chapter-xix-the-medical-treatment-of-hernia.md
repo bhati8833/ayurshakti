@@ -1,18 +1,25 @@
 ---
 title: "Chapter XIX - The medical treatment of hernia"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 26
-chapter_slug: "general-ch-114-chapter-xix-the-medical-treatment-of-hernia"
-reading_time: 16
-prev_chapter: "general-ch-113-chapter-xxiii-the-medical-treatment-of-swellings"
-next_chapter: "general-ch-115-chapter-xxv-the-medical-treatment-of-a-variety-of-diseases"
+slug: "general-ch-114-chapter-xix-the-medical-treatment-of-hernia"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of hernia, hydrocele, scrotal tumour, etc."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XIX - The medical treatment of hernia
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

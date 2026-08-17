@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Terminalia chebula. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Haritaki", "Component of Triphala"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Haritaki (Terminalia chebula)

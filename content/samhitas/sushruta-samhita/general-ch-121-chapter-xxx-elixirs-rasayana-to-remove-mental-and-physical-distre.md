@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXX - Elixirs (rasayana) to remove mental and physical distress"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 33
-chapter_slug: "general-ch-121-chapter-xxx-elixirs-rasayana-to-remove-mental-and-physical-distre"
-reading_time: 10
-prev_chapter: "general-ch-120-chapter-xxix-elixirs-rasayana-for-the-prevention-of-death-and-dec"
-next_chapter: "general-ch-122-chapter-xxxi-the-medicinal-use-of-sneha-oleaginous-substances"
+slug: "general-ch-121-chapter-xxx-elixirs-rasayana-to-remove-mental-and-physical-distre"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the tonic remedies which remove mental and physical distress (Nivritta- samtapiya-Rasayana)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXX - Elixirs (rasayana) to remove mental and physical distress
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

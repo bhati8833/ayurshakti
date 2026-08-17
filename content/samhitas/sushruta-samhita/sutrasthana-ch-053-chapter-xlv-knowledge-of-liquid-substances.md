@@ -1,18 +1,25 @@
 ---
 title: "Chapter XLV - Knowledge of liquid substances"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 53
-chapter_slug: "sutrasthana-ch-053-chapter-xlv-knowledge-of-liquid-substances"
-reading_time: 59
-prev_chapter: "sutrasthana-ch-052-chapter-xliv-recipes-of-purgative-drugs"
-next_chapter: "sutrasthana-ch-054-chapter-xlvi-diet-articles-and-regimen-of-diet"
+slug: "sutrasthana-ch-053-chapter-xlv-knowledge-of-liquid-substances"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter, which deals with the rules to be observed in respect of liquid substances in general (Drava-Dravya-Vidhi-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XLV - Knowledge of liquid substances
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

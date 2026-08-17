@@ -1,18 +1,25 @@
 ---
 title: "Chapter V - The anatomy of the human body"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sharirasthana"
-chapter_number: 11
-chapter_slug: "sharirasthana-ch-086-chapter-v-the-anatomy-of-the-human-body"
-reading_time: 24
-prev_chapter: "sharirasthana-ch-085-chapter-viii-the-method-of-venesection"
-next_chapter: "sharirasthana-ch-087-chapter-ix-the-description-of-the-arteries-nerves-and-ducts"
+slug: "sharirasthana-ch-086-chapter-v-the-anatomy-of-the-human-body"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sharirasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Sharira which treats of the anatomy of the human body (Sharira- Shankhya-Vyakarana)."
+labels: ["Sushruta Samhita", "Sharirasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter V - The anatomy of the human body
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sharirasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 3: Sharirasthana
 

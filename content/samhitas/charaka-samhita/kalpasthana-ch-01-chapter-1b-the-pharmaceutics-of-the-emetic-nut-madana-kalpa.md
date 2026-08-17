@@ -1,18 +1,25 @@
 ---
 title: "Chapter 1b - The Pharmaceutics of the Emetic nut (madana-kalpa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 1
-chapter_slug: "kalpasthana-ch-01-chapter-1b-the-pharmaceutics-of-the-emetic-nut-madana-kalpa"
-reading_time: 9
-prev_chapter: "kalpasthana-ch-01-chapter-1a-introduction-to-the-kalpasthana"
-next_chapter: "kalpasthana-ch-03-chapter-3-the-pharmaceutics-of-the-bottle-gourd-ikshvaku-kalpa"
+slug: "kalpasthana-ch-01-chapter-1b-the-pharmaceutics-of-the-emetic-nut-madana-kalpa"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Kalpasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 1b - The Pharmaceutics of the Emetic nut (madana-kalpa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Kalpasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

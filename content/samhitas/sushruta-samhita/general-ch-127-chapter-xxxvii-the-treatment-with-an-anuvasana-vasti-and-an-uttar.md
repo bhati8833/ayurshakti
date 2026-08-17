@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 39
-chapter_slug: "general-ch-127-chapter-xxxvii-the-treatment-with-an-anuvasana-vasti-and-an-uttar"
-reading_time: 28
-prev_chapter: "general-ch-126-chapter-xxxvi-the-injudicious-application-of-the-netra-and-vasti"
-next_chapter: "general-ch-128-chapter-xxxiv-the-injudicious-use-of-emetics-and-purgatives"
+slug: "general-ch-127-chapter-xxxvii-the-treatment-with-an-anuvasana-vasti-and-an-uttar"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the treatment of an Anuvasana vasti and an Uttara vasti (Anuvasanottara-Vasti-Chikitsita)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

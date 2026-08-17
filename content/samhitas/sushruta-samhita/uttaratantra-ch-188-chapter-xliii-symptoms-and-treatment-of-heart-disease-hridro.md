@@ -1,18 +1,25 @@
 ---
 title: "Chapter XLIII - Symptoms and Treatment of Heart-disease (Hridroga)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 46
-chapter_slug: "uttaratantra-ch-188-chapter-xliii-symptoms-and-treatment-of-heart-disease-hridro"
-reading_time: 5
-prev_chapter: "uttaratantra-ch-187-chapter-xli-symptoms-and-treatment-of-phthisis-shosha"
-next_chapter: "uttaratantra-ch-189-chapter-xliv-symptoms-and-treatment-of-jaundice-pandu-roga"
+slug: "uttaratantra-ch-188-chapter-xliii-symptoms-and-treatment-of-heart-disease-hridro"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of the disease of the heart (Hridroga-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XLIII - Symptoms and Treatment of Heart-disease (Hridroga)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

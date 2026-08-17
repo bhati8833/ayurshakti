@@ -1,18 +1,25 @@
 ---
 title: "Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 52
-chapter_slug: "uttaratantra-ch-194-chapter-xlii-symptoms-and-treatment-of-abdominal-tumors-gulm"
-reading_time: 27
-prev_chapter: "uttaratantra-ch-193-chapter-xlviii-symptoms-and-treatment-of-thirst-trishna"
-next_chapter: "uttaratantra-ch-195-chapter-xlix-symptoms-and-treatment-of-vomiting-chardi"
+slug: "uttaratantra-ch-194-chapter-xlii-symptoms-and-treatment-of-abdominal-tumors-gulm"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the symptoms and) medical treatment of Gulma (Gulma-Pratisheda)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

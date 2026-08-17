@@ -1,18 +1,25 @@
 ---
 title: "Chapter VII - Description and preparation medicated drums"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 11
-chapter_slug: "kalpasthana-ch-142-chapter-vii-description-and-preparation-medicated-drums"
-reading_time: 7
-prev_chapter: "kalpasthana-ch-141-chapter-viii-the-medical-treatment-of-insect-bites"
-next_chapter: "uttaratantra-ch-143-plate-i"
+slug: "kalpasthana-ch-142-chapter-vii-description-and-preparation-medicated-drums"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter which treats of the sounds of a (medicated) drum, etc."
+labels: ["Sushruta Samhita", "Kalpasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VII - Description and preparation medicated drums
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 5: Kalpasthana
 

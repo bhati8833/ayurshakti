@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXVII - Origin of nine Grahas"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 74
-chapter_slug: "uttaratantra-ch-216-chapter-xxxvii-origin-of-nine-grahas"
-reading_time: 7
-prev_chapter: "uttaratantra-ch-215-chapter-lxvi-the-different-modifications-of-the-different-do"
-next_chapter: ""
+slug: "uttaratantra-ch-216-chapter-xxxvii-origin-of-nine-grahas"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the origin of the (nine) Grahas (Grahotpatti-Adhyaya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXVII - Origin of nine Grahas
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

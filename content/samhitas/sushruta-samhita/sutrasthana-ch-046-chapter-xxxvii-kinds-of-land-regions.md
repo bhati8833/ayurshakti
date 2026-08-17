@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXVII - Kinds of land regions"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 46
-chapter_slug: "sutrasthana-ch-046-chapter-xxxvii-kinds-of-land-regions"
-reading_time: 7
-prev_chapter: "sutrasthana-ch-045-chapter-xxxix-purificatory-and-palliative-drugs"
-next_chapter: "sutrasthana-ch-047-chapter-xxxviii-groups-of-drugs"
+slug: "sutrasthana-ch-046-chapter-xxxvii-kinds-of-land-regions"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter, which deals with the distinctive traits of the different classes of soil commended for the growth or culture of medicinal herbs (Bhumi-Pravibhaga-Vijnan..."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXVII - Kinds of land regions
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

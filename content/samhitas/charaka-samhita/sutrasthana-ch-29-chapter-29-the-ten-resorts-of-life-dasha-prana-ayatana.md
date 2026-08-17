@@ -1,18 +1,25 @@
 ---
 title: "Chapter 29 - The Ten Resorts of Life (Dasha-Prana-Ayatana)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 29
-chapter_slug: "sutrasthana-ch-29-chapter-29-the-ten-resorts-of-life-dasha-prana-ayatana"
-reading_time: 9
-prev_chapter: "sutrasthana-ch-28-chapter-28-the-various-kinds-of-food-and-drink-ashita-pita"
-next_chapter: "sutrasthana-ch-30-chapter-30a-the-ten-great-rooted-arteries-dasha-mahamula-in-th"
+slug: "sutrasthana-ch-29-chapter-29-the-ten-resorts-of-life-dasha-prana-ayatana"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 29 - The Ten Resorts of Life (Dasha-Prana-Ayatana)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

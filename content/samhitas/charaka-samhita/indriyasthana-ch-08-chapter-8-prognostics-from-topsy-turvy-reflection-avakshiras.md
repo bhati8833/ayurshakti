@@ -1,18 +1,25 @@
 ---
 title: "Chapter 8 - Prognostics from Topsy-turvy reflection (avakshiras)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 8
-chapter_slug: "indriyasthana-ch-08-chapter-8-prognostics-from-topsy-turvy-reflection-avakshiras"
-reading_time: 5
-prev_chapter: "indriyasthana-ch-07-chapter-7-prognosis-from-the-pupil-condition-pannarupa"
-next_chapter: "indriyasthana-ch-09-chapter-9-prognosis-from-the-dark-red-coloration"
+slug: "indriyasthana-ch-08-chapter-8-prognostics-from-topsy-turvy-reflection-avakshiras"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 8 - Prognostics from Topsy-turvy reflection (avakshiras)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXIX - Purificatory and Palliative Drugs"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 45
-chapter_slug: "sutrasthana-ch-045-chapter-xxxix-purificatory-and-palliative-drugs"
-reading_time: 6
-prev_chapter: "sutrasthana-ch-044-chapter-xxxv-examination-of-the-patient"
-next_chapter: "sutrasthana-ch-046-chapter-xxxvii-kinds-of-land-regions"
+slug: "sutrasthana-ch-045-chapter-xxxix-purificatory-and-palliative-drugs"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter which treats of medicinal drugs possessed of cleansing (cathartic; or soothing effects (Samshodhana-Samsha-maniya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXIX - Purificatory and Palliative Drugs
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

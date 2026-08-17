@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 36
-chapter_slug: "general-ch-124-chapter-xxxii-description-of-sveda-fomentation-calorification-etc"
-reading_time: 11
-prev_chapter: "general-ch-123-chapter-xxxiii-description-of-purgative-and-emetic-medicines"
-next_chapter: "general-ch-125-chapter-xxxv-description-of-a-netra-and-a-vasti-pipes-nozzles-and"
+slug: "general-ch-124-chapter-xxxii-description-of-sveda-fomentation-calorification-etc"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment by measures of fomentations, diaphoretic measures, etc."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

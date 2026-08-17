@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 44
-chapter_slug: "uttaratantra-ch-186-chapter-xxxix-symptoms-and-treatment-of-fever-jvara"
-reading_time: 63
-prev_chapter: "uttaratantra-ch-185-canto-iii-kaya-chikitsa-tantra-internal-medicine"
-next_chapter: "uttaratantra-ch-187-chapter-xli-symptoms-and-treatment-of-phthisis-shosha"
+slug: "uttaratantra-ch-186-chapter-xxxix-symptoms-and-treatment-of-fever-jvara"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the (symptoms and) medical treatment of Fever (Jvara-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

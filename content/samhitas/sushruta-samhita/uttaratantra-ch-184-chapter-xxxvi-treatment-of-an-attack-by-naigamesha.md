@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXVI - Treatment of an attack by Naigamesha"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 42
-chapter_slug: "uttaratantra-ch-184-chapter-xxxvi-treatment-of-an-attack-by-naigamesha"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-183-chapter-xxxviii-treatment-of-the-diseases-of-the-female-orga"
-next_chapter: "uttaratantra-ch-185-canto-iii-kaya-chikitsa-tantra-internal-medicine"
+slug: "uttaratantra-ch-184-chapter-xxxvi-treatment-of-an-attack-by-naigamesha"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the medical treatment of (an attack by) Naigamesha (Naigamesha-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXVI - Treatment of an attack by Naigamesha
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

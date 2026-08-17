@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXV - Eight kinds of surgical operations"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 36
-chapter_slug: "sutrasthana-ch-036-chapter-xxv-eight-kinds-of-surgical-operations"
-reading_time: 10
-prev_chapter: "sutrasthana-ch-035-chapter-xxviii-prognosis-of-wounds"
-next_chapter: "sutrasthana-ch-037-chapter-xxx-good-and-bad-sensory-perceptions"
+slug: "sutrasthana-ch-036-chapter-xxv-eight-kinds-of-surgical-operations"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter which deals with the eight different forms of surgical operations (Ashtavidha-Shastra- Karmanya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXV - Eight kinds of surgical operations
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

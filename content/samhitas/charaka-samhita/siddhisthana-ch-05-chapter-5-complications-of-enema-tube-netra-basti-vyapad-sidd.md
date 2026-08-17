@@ -1,18 +1,25 @@
 ---
 title: "Chapter 5 - Complications of Enema-tube (netra-basti-vyapad-siddhi)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Siddhisthana"
-chapter_number: 5
-chapter_slug: "siddhisthana-ch-05-chapter-5-complications-of-enema-tube-netra-basti-vyapad-sidd"
-reading_time: 5
-prev_chapter: "siddhisthana-ch-03-chapter-3-the-principles-of-the-enema-procedure-basti-sutra-s"
-next_chapter: "siddhisthana-ch-06-chapter-6-complications-of-emesis-vamana-and-purgation-vireca"
+slug: "siddhisthana-ch-05-chapter-5-complications-of-enema-tube-netra-basti-vyapad-sidd"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Siddhisthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Siddhisthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 5 - Complications of Enema-tube (netra-basti-vyapad-siddhi)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Siddhisthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXVI - The injudicious application of the Netra and Vasti"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 38
-chapter_slug: "general-ch-126-chapter-xxxvi-the-injudicious-application-of-the-netra-and-vasti"
-reading_time: 13
-prev_chapter: "general-ch-125-chapter-xxxv-description-of-a-netra-and-a-vasti-pipes-nozzles-and"
-next_chapter: "general-ch-127-chapter-xxxvii-the-treatment-with-an-anuvasana-vasti-and-an-uttar"
+slug: "general-ch-126-chapter-xxxvi-the-injudicious-application-of-the-netra-and-vasti"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of the mishaps which are consequent on an injudicious application of the pipe and of the vasti (Netravasti-Vaypach-Chikitsita)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXVI - The injudicious application of the Netra and Vasti
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

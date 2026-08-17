@@ -1,18 +1,25 @@
 ---
 title: "Chapter XVII - Features of unripe and ripe swelling"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 25
-chapter_slug: "sutrasthana-ch-025-chapter-xvii-features-of-unripe-and-ripe-swelling"
-reading_time: 9
-prev_chapter: "sutrasthana-ch-024-chapter-xvi-puncturing-and-bandaging-the-ear"
-next_chapter: "sutrasthana-ch-026-chapter-xix-care-of-the-wounded"
+slug: "sutrasthana-ch-025-chapter-xvii-features-of-unripe-and-ripe-swelling"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which deals with the mode of distinguishing between suppurating and nonsuppurating swellings."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XVII - Features of unripe and ripe swelling
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

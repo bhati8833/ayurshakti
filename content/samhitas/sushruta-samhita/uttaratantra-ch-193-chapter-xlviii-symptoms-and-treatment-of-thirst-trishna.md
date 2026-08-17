@@ -1,18 +1,25 @@
 ---
 title: "Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 51
-chapter_slug: "uttaratantra-ch-193-chapter-xlviii-symptoms-and-treatment-of-thirst-trishna"
-reading_time: 10
-prev_chapter: "uttaratantra-ch-192-chapter-xlvii-symptoms-and-treatment-of-alcoholism-panatyaya"
-next_chapter: "uttaratantra-ch-194-chapter-xlii-symptoms-and-treatment-of-abdominal-tumors-gulm"
+slug: "uttaratantra-ch-193-chapter-xlviii-symptoms-and-treatment-of-thirst-trishna"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of thirst (Trishna-Pratishedha Adhyaya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

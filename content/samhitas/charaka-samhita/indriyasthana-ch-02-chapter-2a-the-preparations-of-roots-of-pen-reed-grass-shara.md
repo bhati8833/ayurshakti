@@ -1,18 +1,25 @@
 ---
 title: "Chapter 2a - The preparations of roots of pen-reed grass (shara-mula)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 2
-chapter_slug: "indriyasthana-ch-02-chapter-2a-the-preparations-of-roots-of-pen-reed-grass-shara"
-reading_time: 9
-prev_chapter: "indriyasthana-ch-01-chapter-1d-revival-of-ayurveda-the-science-of-life"
-next_chapter: "indriyasthana-ch-02-chapter-2b-milk-saturated-rice-and-other-preparations-asikta"
+slug: "indriyasthana-ch-02-chapter-2a-the-preparations-of-roots-of-pen-reed-grass-shara"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 2a - The preparations of roots of pen-reed grass (shara-mula)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

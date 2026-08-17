@@ -1,18 +1,25 @@
 ---
 title: "Chapter 6 - The Pathology of Consumption (shosha-nidana)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 6
-chapter_slug: "nidanasthana-ch-06-chapter-6-the-pathology-of-consumption-shosha-nidana"
-reading_time: 11
-prev_chapter: "nidanasthana-ch-05-chapter-5-the-pathology-of-dermatosis-kushtha-nidana"
-next_chapter: "nidanasthana-ch-07-chapter-7-the-pathology-of-insanity-unmada-nidana"
+slug: "nidanasthana-ch-06-chapter-6-the-pathology-of-consumption-shosha-nidana"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Nidanasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 6 - The Pathology of Consumption (shosha-nidana)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Nidanasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter L - Symptoms and Treatment of Hiccough (Hicca)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 54
-chapter_slug: "uttaratantra-ch-196-chapter-l-symptoms-and-treatment-of-hiccough-hicca"
-reading_time: 7
-prev_chapter: "uttaratantra-ch-195-chapter-xlix-symptoms-and-treatment-of-vomiting-chardi"
-next_chapter: "uttaratantra-ch-197-chapter-xl-symptoms-and-treatment-of-diarrhea-atisara"
+slug: "uttaratantra-ch-196-chapter-l-symptoms-and-treatment-of-hiccough-hicca"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of hic cough (Hicca-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter L - Symptoms and Treatment of Hiccough (Hicca)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

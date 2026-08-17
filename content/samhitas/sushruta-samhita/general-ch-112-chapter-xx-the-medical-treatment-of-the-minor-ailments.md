@@ -1,18 +1,25 @@
 ---
 title: "Chapter XX - The medical treatment of the minor ailments"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 24
-chapter_slug: "general-ch-112-chapter-xx-the-medical-treatment-of-the-minor-ailments"
-reading_time: 13
-prev_chapter: "general-ch-111-chapter-xxii-the-affections-of-the-mouth"
-next_chapter: "general-ch-113-chapter-xxiii-the-medical-treatment-of-swellings"
+slug: "general-ch-112-chapter-xx-the-medical-treatment-of-the-minor-ailments"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of the minor ailments or diseases (Kshudra-roga) 1."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XX - The medical treatment of the minor ailments
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter 27 - The therapeutics of Spastic Paraplegia (urustambha-cikitsa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 27
-chapter_slug: "indriyasthana-ch-27-chapter-27-the-therapeutics-of-spastic-paraplegia-urustambha"
-reading_time: 10
-prev_chapter: "indriyasthana-ch-25-chapter-25-the-therapeutics-of-wounds-vrana-cikitsa"
-next_chapter: "indriyasthana-ch-26-chapter-26-the-therapeutics-of-wounds-tri-marma-cikitsa"
+slug: "indriyasthana-ch-27-chapter-27-the-therapeutics-of-spastic-paraplegia-urustambha"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 27 - The therapeutics of Spastic Paraplegia (urustambha-cikitsa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

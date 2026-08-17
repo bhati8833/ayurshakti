@@ -1,18 +1,25 @@
 ---
 title: "Chapter XX - Suitable and unsuitables for health"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 27
-chapter_slug: "sutrasthana-ch-027-chapter-xx-suitable-and-unsuitables-for-health"
-reading_time: 12
-prev_chapter: "sutrasthana-ch-026-chapter-xix-care-of-the-wounded"
-next_chapter: "sutrasthana-ch-028-chapter-xviii-poulticing-and-bandaging-of-wounds"
+slug: "sutrasthana-ch-027-chapter-xx-suitable-and-unsuitables-for-health"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of the salutary and non-salutary effects of regimen, etc."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XX - Suitable and unsuitables for health
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

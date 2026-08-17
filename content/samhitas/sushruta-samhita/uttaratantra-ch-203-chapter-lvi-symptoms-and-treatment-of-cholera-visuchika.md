@@ -1,18 +1,25 @@
 ---
 title: "Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 61
-chapter_slug: "uttaratantra-ch-203-chapter-lvi-symptoms-and-treatment-of-cholera-visuchika"
-reading_time: 8
-prev_chapter: "uttaratantra-ch-202-chapter-lv-symptoms-and-treatment-of-repression-of-natural-u"
-next_chapter: "uttaratantra-ch-204-chapter-lix-symptoms-and-treatment-of-the-defects-of-urine-m"
+slug: "uttaratantra-ch-203-chapter-lvi-symptoms-and-treatment-of-cholera-visuchika"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the (symptoms and) medical treatment of Vishuchika type of cholera, etc."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

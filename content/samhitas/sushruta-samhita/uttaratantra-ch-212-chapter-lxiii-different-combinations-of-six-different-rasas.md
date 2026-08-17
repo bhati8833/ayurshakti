@@ -1,18 +1,25 @@
 ---
 title: "Chapter LXIII - Different Combinations of six different Rasas"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 70
-chapter_slug: "uttaratantra-ch-212-chapter-lxiii-different-combinations-of-six-different-rasas"
-reading_time: 6
-prev_chapter: "uttaratantra-ch-211-canto-v-tantra-bhusana-adhyaya-embellishing-chapters"
-next_chapter: "uttaratantra-ch-213-chapter-lxiv-rules-of-health"
+slug: "uttaratantra-ch-212-chapter-lxiii-different-combinations-of-six-different-rasas"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the different combinations of the (six) different Rasas (Rasa-bheda-vikalpa-Adhyaya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LXIII - Different Combinations of six different Rasas
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

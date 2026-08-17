@@ -1,18 +1,25 @@
 ---
 title: "Chapter VI - Diagnosis of diabetes"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Nidanasthana"
-chapter_number: 12
-chapter_slug: "nidanasthana-ch-066-chapter-vi-diagnosis-of-diabetes"
-reading_time: 11
-prev_chapter: "nidanasthana-ch-065-chapter-vii-diagnosis-of-enlargement-of-the-abdomen"
-next_chapter: "nidanasthana-ch-067-chapter-ix-diagnosis-of-abscess"
+slug: "nidanasthana-ch-066-chapter-vi-diagnosis-of-diabetes"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Nidanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Nidana of Prameha (diseases of the urinary tracts), 1."
+labels: ["Sushruta Samhita", "Nidanasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VI - Diagnosis of diabetes
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Nidanasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 2: Nidanasthana
 

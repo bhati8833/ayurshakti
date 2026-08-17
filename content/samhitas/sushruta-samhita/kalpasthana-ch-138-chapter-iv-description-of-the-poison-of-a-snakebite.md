@@ -1,18 +1,25 @@
 ---
 title: "Chapter IV - Description of the poison of a snakebite"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 7
-chapter_slug: "kalpasthana-ch-138-chapter-iv-description-of-the-poison-of-a-snakebite"
-reading_time: 17
-prev_chapter: "kalpasthana-ch-137-chapter-iii-description-of-jangama-animal-poisons"
-next_chapter: "kalpasthana-ch-139-chapter-vi-description-of-rat-poisoning"
+slug: "kalpasthana-ch-138-chapter-iv-description-of-the-poison-of-a-snakebite"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter which treats of the specific features of the poison of a snakebite Sarpa-dashta-Visha-Vijnaniya)."
+labels: ["Sushruta Samhita", "Kalpasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter IV - Description of the poison of a snakebite
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 5: Kalpasthana
 

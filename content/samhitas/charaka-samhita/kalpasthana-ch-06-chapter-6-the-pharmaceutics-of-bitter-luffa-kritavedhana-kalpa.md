@@ -1,18 +1,25 @@
 ---
 title: "Chapter 6 - The Pharmaceutics of Bitter Luffa (kritavedhana-kalpa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 6
-chapter_slug: "kalpasthana-ch-06-chapter-6-the-pharmaceutics-of-bitter-luffa-kritavedhana-kalpa"
-reading_time: 3
-prev_chapter: "kalpasthana-ch-05-chapter-5-the-pharmaceutics-of-kurchi-vatsaka-kalpa"
-next_chapter: "kalpasthana-ch-03-chapter-3-the-pathology-of-gulma-gulma-nidana"
+slug: "kalpasthana-ch-06-chapter-6-the-pharmaceutics-of-bitter-luffa-kritavedhana-kalpa"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Kalpasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 6 - The Pharmaceutics of Bitter Luffa (kritavedhana-kalpa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Kalpasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

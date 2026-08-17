@@ -1,18 +1,25 @@
 ---
 title: "Chapter 11 - Prognosis from the Diminished Vital-heat"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 11
-chapter_slug: "indriyasthana-ch-11-chapter-11-prognosis-from-the-diminished-vital-heat"
-reading_time: 6
-prev_chapter: "indriyasthana-ch-10-chapter-10-prognosis-of-impending-death-sadyas-marana"
-next_chapter: "indriyasthana-ch-12-chapter-12-prognosis-from-powder-resembling-cow-dung-powder"
+slug: "indriyasthana-ch-11-chapter-11-prognosis-from-the-diminished-vital-heat"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 11 - Prognosis from the Diminished Vital-heat
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

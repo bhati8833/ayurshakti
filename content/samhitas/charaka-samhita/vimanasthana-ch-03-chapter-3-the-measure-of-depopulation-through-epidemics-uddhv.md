@@ -1,18 +1,25 @@
 ---
 title: "Chapter 3 - The Measure of Depopulation through Epidemics (uddhvamsa-vimana)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Vimanasthana"
-chapter_number: 3
-chapter_slug: "vimanasthana-ch-03-chapter-3-the-measure-of-depopulation-through-epidemics-uddhv"
-reading_time: 21
-prev_chapter: "vimanasthana-ch-02-chapter-2-the-measure-of-the-stomach-capacity-kukshi-vimana"
-next_chapter: "vimanasthana-ch-04-chapter-4-the-three-methods-of-investigation-trividha-vimana"
+slug: "vimanasthana-ch-03-chapter-3-the-measure-of-depopulation-through-epidemics-uddhv"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Vimanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Vimanasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 3 - The Measure of Depopulation through Epidemics (uddhvamsa-vimana)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Vimanasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

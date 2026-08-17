@@ -1,18 +1,25 @@
 ---
 title: "Chapter 25 - The Origin of Man and Disease (Purusha-samjnaka)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 25
-chapter_slug: "sutrasthana-ch-25-chapter-25-the-origin-of-man-and-disease-purusha-samjnaka"
-reading_time: 22
-prev_chapter: "sutrasthana-ch-24-chapter-24-the-blood-derived-through-systematic-regimen-vidhi"
-next_chapter: "sutrasthana-ch-26-chapter-26-discussion-among-sages-regarding-tastes-rasa"
+slug: "sutrasthana-ch-25-chapter-25-the-origin-of-man-and-disease-purusha-samjnaka"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Sutrasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 25 - The Origin of Man and Disease (Purusha-samjnaka)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Sutrasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

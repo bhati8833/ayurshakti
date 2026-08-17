@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Withania somnifera. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Ashwagandha"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Ashwagandha (Withania somnifera)

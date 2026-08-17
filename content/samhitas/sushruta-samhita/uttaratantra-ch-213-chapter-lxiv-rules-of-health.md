@@ -1,18 +1,25 @@
 ---
 title: "Chapter LXIV - Rules of Health"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 71
-chapter_slug: "uttaratantra-ch-213-chapter-lxiv-rules-of-health"
-reading_time: 15
-prev_chapter: "uttaratantra-ch-212-chapter-lxiii-different-combinations-of-six-different-rasas"
-next_chapter: "uttaratantra-ch-214-chapter-lxv-the-technical-terms-used-in-the-treatise"
+slug: "uttaratantra-ch-213-chapter-lxiv-rules-of-health"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the Rules of Health (Svastha-Vritta-adhyaya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter LXIV - Rules of Health
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

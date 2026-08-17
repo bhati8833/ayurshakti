@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXVIII - The treatment with a Nirudha-vasti"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 43
-chapter_slug: "general-ch-131-chapter-xxxviii-the-treatment-with-a-nirudha-vasti"
-reading_time: 28
-prev_chapter: "general-ch-130-chapter-xl-description-of-medicated-fumes-snuffs-errhines-and-gar"
-next_chapter: "kalpasthana-ch-132-introduction"
+slug: "general-ch-131-chapter-xxxviii-the-treatment-with-a-nirudha-vasti"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the mode of applying as well as on the treatment with a Nirudha-vasti (Nirudhopakrama-Chikitsita)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXVIII - The treatment with a Nirudha-vasti
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

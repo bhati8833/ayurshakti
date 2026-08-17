@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXIX - Therapeutics of an attack by Skandapasmara"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 35
-chapter_slug: "uttaratantra-ch-177-chapter-xxix-therapeutics-of-an-attack-by-skandapasmara"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-176-chapter-i-diseases-of-the-eye-and-its-appendages"
-next_chapter: "uttaratantra-ch-178-chapter-xxxi-theraputics-of-an-attack-by-revati-graha"
+slug: "uttaratantra-ch-177-chapter-xxix-therapeutics-of-an-attack-by-skandapasmara"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the Therapeutics of an attack by Skandapasmara (Skandapasmara-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXIX - Therapeutics of an attack by Skandapasmara
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

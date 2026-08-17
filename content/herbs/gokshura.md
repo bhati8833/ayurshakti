@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Tribulus terrestris. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Gokshura", "Component of Dashmool"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Gokshura (Tribulus terrestris)

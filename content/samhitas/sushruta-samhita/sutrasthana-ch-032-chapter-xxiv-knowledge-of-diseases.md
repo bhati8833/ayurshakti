@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXIV - Knowledge of diseases"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 32
-chapter_slug: "sutrasthana-ch-032-chapter-xxiv-knowledge-of-diseases"
-reading_time: 10
-prev_chapter: "sutrasthana-ch-031-chapter-xxiii-prognosis-of-wounds"
-next_chapter: "sutrasthana-ch-033-chapter-xxvi-knowledge-of-foreign-bodies"
+slug: "sutrasthana-ch-032-chapter-xxiv-knowledge-of-diseases"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter, which deals with the classification of diseases according to their specific nature (Vyadhi-Samuddheshiya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXIV - Knowledge of diseases
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

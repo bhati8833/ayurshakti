@@ -1,18 +1,25 @@
 ---
 title: "Chapter VIII - The medical treatment of insect bites"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 10
-chapter_slug: "kalpasthana-ch-141-chapter-viii-the-medical-treatment-of-insect-bites"
-reading_time: 30
-prev_chapter: "kalpasthana-ch-140-chapter-v-the-medical-treatment-of-snake-bites"
-next_chapter: "kalpasthana-ch-142-chapter-vii-description-and-preparation-medicated-drums"
+slug: "kalpasthana-ch-141-chapter-viii-the-medical-treatment-of-insect-bites"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on insects, i."
+labels: ["Sushruta Samhita", "Kalpasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VIII - The medical treatment of insect bites
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 5: Kalpasthana
 

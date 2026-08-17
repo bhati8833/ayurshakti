@@ -1,18 +1,25 @@
 ---
 title: "Chapter XIV - The medical treatment of dropsy"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 16
-chapter_slug: "general-ch-104-chapter-xiv-the-medical-treatment-of-dropsy"
-reading_time: 18
-prev_chapter: "general-ch-103-chapter-xiii-the-medical-treatment-of-diabetes"
-next_chapter: "general-ch-105-chapter-ix-the-medical-treatment-of-cutaneous-affections"
+slug: "general-ch-104-chapter-xiv-the-medical-treatment-of-dropsy"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of dropsy with an abnormal condition of the abdomen (Udara)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XIV - The medical treatment of dropsy
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

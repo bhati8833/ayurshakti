@@ -1,18 +1,25 @@
 ---
 title: "Chapter XVII - The medical treatment of erysipelas"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 22
-chapter_slug: "general-ch-110-chapter-xvii-the-medical-treatment-of-erysipelas"
-reading_time: 12
-prev_chapter: "general-ch-109-chapter-xxi-the-medical-treatment-of-poison-caused-by-a-shuka-wat"
-next_chapter: "general-ch-111-chapter-xxii-the-affections-of-the-mouth"
+slug: "general-ch-110-chapter-xvii-the-medical-treatment-of-erysipelas"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of erysipelas, etc."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XVII - The medical treatment of erysipelas
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

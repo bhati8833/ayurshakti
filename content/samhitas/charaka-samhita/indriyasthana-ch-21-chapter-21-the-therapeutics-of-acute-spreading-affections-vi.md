@@ -1,18 +1,25 @@
 ---
 title: "Chapter 21 - The therapeutics of Acute Spreading Affections (visarpa-cikitsa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 21
-chapter_slug: "indriyasthana-ch-21-chapter-21-the-therapeutics-of-acute-spreading-affections-vi"
-reading_time: 30
-prev_chapter: "indriyasthana-ch-19-chapter-19-the-therapeutics-of-diarrhea-atisara-cikitsa"
-next_chapter: "indriyasthana-ch-20-chapter-20-the-therapeutics-of-vomiting-chardi-cikitsa"
+slug: "indriyasthana-ch-21-chapter-21-the-therapeutics-of-acute-spreading-affections-vi"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 21 - The therapeutics of Acute Spreading Affections (visarpa-cikitsa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

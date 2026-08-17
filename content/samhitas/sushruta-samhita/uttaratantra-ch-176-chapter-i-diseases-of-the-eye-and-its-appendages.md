@@ -1,18 +1,25 @@
 ---
 title: "Chapter I - Diseases of the eye and its appendages"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 34
-chapter_slug: "uttaratantra-ch-176-chapter-i-diseases-of-the-eye-and-its-appendages"
-reading_time: 10
-prev_chapter: "uttaratantra-ch-175-chapter-xxx-treatment-of-an-attack-by-shakuni-graha"
-next_chapter: "uttaratantra-ch-177-chapter-xxix-therapeutics-of-an-attack-by-skandapasmara"
+slug: "uttaratantra-ch-176-chapter-i-diseases-of-the-eye-and-its-appendages"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the diseases, viz."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter I - Diseases of the eye and its appendages
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

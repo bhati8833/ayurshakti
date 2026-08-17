@@ -1,18 +1,25 @@
 ---
 title: "Chapter 4 - The Three methods of investigation (trividha-vimana)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Vimanasthana"
-chapter_number: 4
-chapter_slug: "vimanasthana-ch-04-chapter-4-the-three-methods-of-investigation-trividha-vimana"
-reading_time: 7
-prev_chapter: "vimanasthana-ch-03-chapter-3-the-measure-of-depopulation-through-epidemics-uddhv"
-next_chapter: "vimanasthana-ch-05-chapter-5-body-channels-srotas-vimana"
+slug: "vimanasthana-ch-04-chapter-4-the-three-methods-of-investigation-trividha-vimana"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Vimanasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Vimanasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 4 - The Three methods of investigation (trividha-vimana)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Vimanasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

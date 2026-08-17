@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Sida cordifolia. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Bala"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Bala (Sida cordifolia)

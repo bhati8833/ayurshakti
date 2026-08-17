@@ -1,18 +1,25 @@
 ---
 title: "Chapter XI - Alkaline cautery"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 22
-chapter_slug: "sutrasthana-ch-022-chapter-xi-alkaline-cautery"
-reading_time: 12
-prev_chapter: "sutrasthana-ch-021-chapter-xiv-description-of-blood"
-next_chapter: "sutrasthana-ch-023-chapter-xv-knowledge-of-doshas-etc"
+slug: "sutrasthana-ch-022-chapter-xi-alkaline-cautery"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of the pharmacy of alkalis or potential cauteries (Kshara-paka-vidhi-madhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XI - Alkaline cautery
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

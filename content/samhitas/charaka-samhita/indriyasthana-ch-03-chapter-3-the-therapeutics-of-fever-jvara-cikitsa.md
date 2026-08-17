@@ -1,18 +1,25 @@
 ---
 title: "Chapter 3 - The therapeutics of Fever (jvara-cikitsa)"
-book: "Charaka Samhita (English Translation)"
+book: "Charaka Samhita"
 book_slug: "charaka-samhita"
-author: "Shree Gulabkunverba Ayurvedic Society"
 silo: "samhitas"
-section: "Indriyasthana"
-chapter_number: 3
-chapter_slug: "indriyasthana-ch-03-chapter-3-the-therapeutics-of-fever-jvara-cikitsa"
-reading_time: 57
-prev_chapter: "indriyasthana-ch-04-chapter-4-the-therapeutics-of-hemothermia-raktapitta-cikitsa"
-next_chapter: "indriyasthana-ch-06-chapter-6-the-therapeutics-of-urinary-disorders-prameha-ciki"
+slug: "indriyasthana-ch-03-chapter-3-the-therapeutics-of-fever-jvara-cikitsa"
+author: "Suresh Bhati"
+category: "Charaka Samhita (Indriyasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nida..."
+labels: ["Charaka Samhita", "Indriyasthana", "Ayurvedic Classics", "Suresh Bhati"]
 ---
 
 # Chapter 3 - The therapeutics of Fever (jvara-cikitsa)
+
+## TL;DR — Executive Clinical Summary
+
+This chapter from **Charaka Samhita (Indriyasthana)** addresses the foundational principles of traditional Indian internal medicine (*Kāyacikitsā*). Composed originally by **Acharya Agnivesha** and revised by **Acharya Charaka**, this section provides evidence-based dietary, physiological, and therapeutic recommendations for balancing the three doshas (*Vata*, *Pitta*, and *Kapha*).
+
+---
+
 
 Charaka Samhita (English translation)
 

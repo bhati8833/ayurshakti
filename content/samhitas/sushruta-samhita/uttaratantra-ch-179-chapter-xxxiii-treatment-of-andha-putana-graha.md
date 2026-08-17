@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXIII - Treatment of Andha-putana-graha"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 37
-chapter_slug: "uttaratantra-ch-179-chapter-xxxiii-treatment-of-andha-putana-graha"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-178-chapter-xxxi-theraputics-of-an-attack-by-revati-graha"
-next_chapter: "uttaratantra-ch-180-chapter-xxxiv-treatment-of-an-attack-by-shita-putana"
+slug: "uttaratantra-ch-179-chapter-xxxiii-treatment-of-andha-putana-graha"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the medical treatment of (an attack by) Andha-putana (Andha-putana-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXIII - Treatment of Andha-putana-graha
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

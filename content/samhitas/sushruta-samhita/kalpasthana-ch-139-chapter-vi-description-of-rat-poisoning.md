@@ -1,18 +1,25 @@
 ---
 title: "Chapter VI - Description of rat-poisoning"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Kalpasthana"
-chapter_number: 8
-chapter_slug: "kalpasthana-ch-139-chapter-vi-description-of-rat-poisoning"
-reading_time: 15
-prev_chapter: "kalpasthana-ch-138-chapter-iv-description-of-the-poison-of-a-snakebite"
-next_chapter: "kalpasthana-ch-140-chapter-v-the-medical-treatment-of-snake-bites"
+slug: "kalpasthana-ch-139-chapter-vi-description-of-rat-poisoning"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Kalpasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on cases of rat-poisoning (Mushika-kalpa) 1."
+labels: ["Sushruta Samhita", "Kalpasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VI - Description of rat-poisoning
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Kalpasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 5: Kalpasthana
 

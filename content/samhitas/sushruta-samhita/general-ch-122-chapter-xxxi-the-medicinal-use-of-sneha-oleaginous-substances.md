@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXI - The medicinal use of Sneha (oleaginous substances)"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 34
-chapter_slug: "general-ch-122-chapter-xxxi-the-medicinal-use-of-sneha-oleaginous-substances"
-reading_time: 19
-prev_chapter: "general-ch-121-chapter-xxx-elixirs-rasayana-to-remove-mental-and-physical-distre"
-next_chapter: "general-ch-123-chapter-xxxiii-description-of-purgative-and-emetic-medicines"
+slug: "general-ch-122-chapter-xxxi-the-medicinal-use-of-sneha-oleaginous-substances"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medicinal uses (both internal and external) of the Snehas[1], i."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXI - The medicinal use of Sneha (oleaginous substances)
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

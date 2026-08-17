@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 32
-chapter_slug: "general-ch-120-chapter-xxix-elixirs-rasayana-for-the-prevention-of-death-and-dec"
-reading_time: 14
-prev_chapter: "general-ch-119-chapter-xxvi-the-medical-treatment-for-increasing-virility"
-next_chapter: "general-ch-121-chapter-xxx-elixirs-rasayana-to-remove-mental-and-physical-distre"
+slug: "general-ch-120-chapter-xxix-elixirs-rasayana-for-the-prevention-of-death-and-dec"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the restorative and on the constructive agents (Rasayana) which arrest innate morbific tendencies and decay[1] (Svabhavika-Vyadhi Pratishedhaniya Rasayana)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

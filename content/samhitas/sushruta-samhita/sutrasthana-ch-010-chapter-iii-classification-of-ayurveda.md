@@ -1,18 +1,25 @@
 ---
 title: "Chapter III - Classification of Ayurveda"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 10
-chapter_slug: "sutrasthana-ch-010-chapter-iii-classification-of-ayurveda"
-reading_time: 14
-prev_chapter: "sutrasthana-ch-009-chapter-i-origin-of-ayurveda"
-next_chapter: "sutrasthana-ch-011-chapter-iv-general-explanations"
+slug: "sutrasthana-ch-010-chapter-iii-classification-of-ayurveda"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the chapter which deals with the classification of the Ayurveda and the order [in which the venerable Dhanvantari discoursed on them to his pupils]."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter III - Classification of Ayurveda
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

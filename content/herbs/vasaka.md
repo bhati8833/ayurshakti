@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Justicia adhatoda. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Vasaka"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Vasaka (Justicia adhatoda)

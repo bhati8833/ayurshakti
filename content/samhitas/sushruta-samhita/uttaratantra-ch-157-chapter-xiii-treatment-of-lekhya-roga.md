@@ -1,18 +1,25 @@
 ---
 title: "Chapter XIII - Treatment of Lekhya-roga"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 15
-chapter_slug: "uttaratantra-ch-157-chapter-xiii-treatment-of-lekhya-roga"
-reading_time: 4
-prev_chapter: "uttaratantra-ch-156-chapter-xiv-treatment-of-eye-diseases-which-require-incision"
-next_chapter: "uttaratantra-ch-158-chapter-xvi-treatment-of-diseases-peculiar-to-eye-lashes-and"
+slug: "uttaratantra-ch-157-chapter-xiii-treatment-of-lekhya-roga"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the curative treatment of eye-diseases in which Scarification should be resorted to (Lekhya-Roga-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XIII - Treatment of Lekhya-roga
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

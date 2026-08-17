@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXII - Causes and symptoms of diseases of the nose"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 31
-chapter_slug: "uttaratantra-ch-173-chapter-xxii-causes-and-symptoms-of-diseases-of-the-nose"
-reading_time: 5
-prev_chapter: "uttaratantra-ch-172-chapter-xxvi-treatment-of-diseases-of-the-head"
-next_chapter: "uttaratantra-ch-174-chapter-xxviii-therapeutics-of-an-attack-by-skanda-graha"
+slug: "uttaratantra-ch-173-chapter-xxii-causes-and-symptoms-of-diseases-of-the-nose"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which deals with the causes and symptoms of diseases of the nose (Nasa-gata-roga-Vijnaniya)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXII - Causes and symptoms of diseases of the nose
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Asparagus racemosus. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Shatavari"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Shatavari (Asparagus racemosus)

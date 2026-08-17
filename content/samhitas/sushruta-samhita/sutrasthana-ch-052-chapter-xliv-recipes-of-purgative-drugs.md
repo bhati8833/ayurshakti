@@ -1,18 +1,25 @@
 ---
 title: "Chapter XLIV - Recipes of purgative drugs"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 52
-chapter_slug: "sutrasthana-ch-052-chapter-xliv-recipes-of-purgative-drugs"
-reading_time: 21
-prev_chapter: "sutrasthana-ch-051-chapter-xliii-recipes-of-emetic-drugs"
-next_chapter: "sutrasthana-ch-053-chapter-xlv-knowledge-of-liquid-substances"
+slug: "sutrasthana-ch-052-chapter-xliv-recipes-of-purgative-drugs"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the Chapter, which treats of the choice of purgatives (Virecana-Dravya-Vikalpa-Vijnaniya-adhyaya."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XLIV - Recipes of purgative drugs
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

@@ -1,18 +1,25 @@
 ---
 title: "Chapter XVI - Puncturing and Bandaging the ear"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 24
-chapter_slug: "sutrasthana-ch-024-chapter-xvi-puncturing-and-bandaging-the-ear"
-reading_time: 19
-prev_chapter: "sutrasthana-ch-023-chapter-xv-knowledge-of-doshas-etc"
-next_chapter: "sutrasthana-ch-025-chapter-xvii-features-of-unripe-and-ripe-swelling"
+slug: "sutrasthana-ch-024-chapter-xvi-puncturing-and-bandaging-the-ear"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of the piercing and bandaging of the lobules of ears (Karna-Vyadha-Vandha-Vidhi-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XVI - Puncturing and Bandaging the ear
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

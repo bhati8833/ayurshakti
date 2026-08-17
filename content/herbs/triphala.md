@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Triphala (polyherbal formulation). featuring scientific taxonomy, multilingual names. Classical polyherbal formulation with 3 ingredients."
 labels: ["Herb Profiles", "Classical Formulation"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Triphala (polyherbal formulation)

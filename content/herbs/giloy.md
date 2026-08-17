@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Tinospora cordifolia. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Guduchi"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Guduchi (Tinospora cordifolia)

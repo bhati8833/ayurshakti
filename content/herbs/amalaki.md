@@ -5,6 +5,8 @@ date: "2026-08-17"
 status: "Published"
 description: "Complete botanical profile of Phyllanthus emblica. featuring scientific taxonomy, multilingual names. Ayurvedic Taseer (Virya)."
 labels: ["Herb Profiles", "Amalaki", "Component of Triphala"]
+author: "Suresh Bhati"
+silo: "herbs"
 ---
 
 # Amalaki (Phyllanthus emblica)

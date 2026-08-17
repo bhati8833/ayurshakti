@@ -1,18 +1,25 @@
 ---
 title: "Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 16
-chapter_slug: "uttaratantra-ch-158-chapter-xvi-treatment-of-diseases-peculiar-to-eye-lashes-and"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-157-chapter-xiii-treatment-of-lekhya-roga"
-next_chapter: "uttaratantra-ch-159-chapter-xii-treatment-of-raktaja-ophthalmia"
+slug: "uttaratantra-ch-158-chapter-xvi-treatment-of-diseases-peculiar-to-eye-lashes-and"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the curative measures for the remedy of diseases occurring on the eye-lashes and hence on the eyelid (Pakshma-kopa Prati-shedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

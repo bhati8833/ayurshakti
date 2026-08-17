@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXI - Theraputics Of An Attack By Revati-Graha"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Uttaratantra"
-chapter_number: 36
-chapter_slug: "uttaratantra-ch-178-chapter-xxxi-theraputics-of-an-attack-by-revati-graha"
-reading_time: 3
-prev_chapter: "uttaratantra-ch-177-chapter-xxix-therapeutics-of-an-attack-by-skandapasmara"
-next_chapter: "uttaratantra-ch-179-chapter-xxxiii-treatment-of-andha-putana-graha"
+slug: "uttaratantra-ch-178-chapter-xxxi-theraputics-of-an-attack-by-revati-graha"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Uttaratantra)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the chapter which treats of the Therapeutics of an an attack by Revati (Revati-Pratishedha)."
+labels: ["Sushruta Samhita", "Uttaratantra", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXI - Theraputics Of An Attack By Revati-Graha
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Uttaratantra)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, Volume 6: Uttara-tantra
 

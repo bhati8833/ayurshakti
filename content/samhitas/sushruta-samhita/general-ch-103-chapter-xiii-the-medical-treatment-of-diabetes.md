@@ -1,18 +1,25 @@
 ---
 title: "Chapter XIII - The medical treatment of Diabetes"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 15
-chapter_slug: "general-ch-103-chapter-xiii-the-medical-treatment-of-diabetes"
-reading_time: 9
-prev_chapter: "general-ch-102-chapter-xii-the-medical-treatment-of-abscesses-sequeling-prameha"
-next_chapter: "general-ch-104-chapter-xiv-the-medical-treatment-of-dropsy"
+slug: "general-ch-103-chapter-xiii-the-medical-treatment-of-diabetes"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of Diabetes (Madhu-Meha)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XIII - The medical treatment of Diabetes
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

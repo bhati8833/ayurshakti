@@ -1,18 +1,25 @@
 ---
 title: "Chapter XXXIV - The injudicious use of emetics and purgatives"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 40
-chapter_slug: "general-ch-128-chapter-xxxiv-the-injudicious-use-of-emetics-and-purgatives"
-reading_time: 19
-prev_chapter: "general-ch-127-chapter-xxxvii-the-treatment-with-an-anuvasana-vasti-and-an-uttar"
-next_chapter: "general-ch-129-chapter-xxxix-the-treatment-of-distressing-symptoms"
+slug: "general-ch-128-chapter-xxxiv-the-injudicious-use-of-emetics-and-purgatives"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the treatment of the disorders resulting from an injudicious use of emetics or purgatives (Vamana-Virecana-Vyapach-Chikitsita)."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter XXXIV - The injudicious use of emetics and purgatives
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 

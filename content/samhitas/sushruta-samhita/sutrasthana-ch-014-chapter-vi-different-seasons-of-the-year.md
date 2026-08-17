@@ -1,18 +1,25 @@
 ---
 title: "Chapter VI - Different seasons of the year"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "Sutrasthana"
-chapter_number: 14
-chapter_slug: "sutrasthana-ch-014-chapter-vi-different-seasons-of-the-year"
-reading_time: 13
-prev_chapter: "sutrasthana-ch-013-chapter-ii-initiation-of-the-pupil"
-next_chapter: "sutrasthana-ch-015-chapter-vii-surgical-appliances"
+slug: "sutrasthana-ch-014-chapter-vi-different-seasons-of-the-year"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Sutrasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discuss the Chapter which treats of the characteristic features of the different seasons of the year and their influence on health and drugs (Ritucarya-adhyaya)."
+labels: ["Sushruta Samhita", "Sutrasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VI - Different seasons of the year
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Sutrasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 1: Sutrasthana
 

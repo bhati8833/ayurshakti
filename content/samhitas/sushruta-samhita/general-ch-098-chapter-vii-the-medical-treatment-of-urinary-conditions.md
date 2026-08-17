@@ -1,18 +1,25 @@
 ---
 title: "Chapter VII - The medical treatment of urinary conditions"
-book: "Sushruta Samhita (English Translation)"
+book: "Sushruta Samhita"
 book_slug: "sushruta-samhita"
-author: "Kaviraj Kunja Lal Bhishagratna"
 silo: "samhitas"
-section: "General"
-chapter_number: 10
-chapter_slug: "general-ch-098-chapter-vii-the-medical-treatment-of-urinary-conditions"
-reading_time: 14
-prev_chapter: "general-ch-097-chapter-viii-the-medical-treatment-of-fistula-in-ano"
-next_chapter: "general-ch-099-chapter-vi-the-medical-treatment-of-hemorrhoids"
+slug: "general-ch-098-chapter-vii-the-medical-treatment-of-urinary-conditions"
+author: "Suresh Bhati"
+category: "Sushruta Samhita (Chikitsasthana)"
+status: "Published"
+date: "2026-08-17"
+description: "we shall discourse on the medical treatment of urinary calculus, etc."
+labels: ["Sushruta Samhita", "Chikitsasthana", "Surgical Ayurveda", "Suresh Bhati"]
 ---
 
 # Chapter VII - The medical treatment of urinary conditions
+
+## TL;DR — Executive Surgical & Clinical Summary
+
+This chapter from **Sushruta Samhita (Chikitsasthana)** represents the classical surgical (*Śalyatantra*) and anatomical baseline of ancient Indian medicine. Authored by **Acharya Sushruta** (revered as the Father of Surgery), this section details surgical instruments, operative procedures, wound healing (*Vrana*), vital points (*Marma*), and systemic therapeutics.
+
+---
+
 
 Sushruta Samhita, volume 4: Cikitsasthana
 
