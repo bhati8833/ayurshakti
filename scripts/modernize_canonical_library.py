@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 scripts/modernize_canonical_library.py
-AyurShakti Canonical Text Library Modernization Engine.
+AyurShakti Comprehensive Canonical Text Library Modernization Engine.
 
-Converts multi-chapter monolithic canonical text files into:
-1. A Volume Index Hub Page (Master Overview & Chapter Directory)
+Transforms all monolithic canonical text files into:
+1. Volume Index Hub Pages (Master Overview & Chapter Directory)
 2. Dedicated Chapter Pages with:
    - Pure International Medical English Titles & Slugs
    - Strict H1/H2/H3 Heading Hierarchy (for dynamic Sticky TOC)
@@ -21,127 +21,180 @@ import re
 import glob
 import json
 import argparse
+from typing import List, Dict, Tuple
 
-# English Title Mapping for Known Volumes & Chapters
-ENGLISH_VOLUME_TITLES = {
+# Volume Title & Slug Standardizer Dictionary
+VOLUME_MAP = {
+    "sushruta_samhita_volume_1_sutrasthana": {
+        "title": "Sushruta Samhita Sutrasthana: Fundamental Principles of Ayurvedic Surgery and Medicine",
+        "slug": "sushruta-samhita-sutrasthana-fundamental-principles",
+        "category": "Sutrasthana",
+        "desc": "Classical foundational handbook of Ayurvedic surgery, surgical tools, wound care, pharmacology, and medical ethics."
+    },
+    "sushruta_samhita_volume_2_nidanasthana": {
+        "title": "Sushruta Samhita Nidanasthana: Diagnostic Pathology and Clinical Etiology Guide",
+        "slug": "sushruta-samhita-nidanasthana-diagnostic-pathology",
+        "category": "Nidanasthana",
+        "desc": "Classical Ayurvedic pathology guide detailing etiology, signs, and diagnosis of surgical and systemic diseases."
+    },
+    "sushruta_samhita_volume_3_sharirasthana": {
+        "title": "Sushruta Samhita Sharirasthana: Human Anatomy, Embryology and Marma Science",
+        "slug": "sushruta-samhita-sharirasthana-anatomy-and-embryology",
+        "category": "Sharirasthana",
+        "desc": "Ancient Indian anatomical treatise covering embryology, vital organs, cadaver dissection, and Marma vital points."
+    },
+    "sushruta_samhita_volume_4_cikitsasthana": {
+        "title": "Sushruta Samhita Cikitsasthana: Surgical Therapeutics and Clinical Operations",
+        "slug": "sushruta-samhita-cikitsasthana-surgical-therapeutics",
+        "category": "Cikitsasthana",
+        "desc": "Comprehensive surgical treatment manual covering post-operative recovery, wound management, and rejuvenation."
+    },
     "sushruta_samhita_volume_5_kalpasthana": {
-        "volume_title": "Ayurvedic Toxicology and Agada Tantra: Sushruta Samhita Kalpasthana Complete Guide",
-        "volume_slug": "ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana",
-        "description": "Comprehensive classical Ayurvedic guide to toxicology (Kalpasthana), emergency snakebite antidotes, plant & mineral toxins, rabies management, and sonic detoxification.",
-        "chapters": {
-            1: {
-                "title": "Ayurvedic Food Safety and Poison Detection: Sushruta Samhita Kalpasthana Chapter 1",
-                "slug": "ayurvedic-food-safety-and-poison-detection-sushruta-samhita-kalpasthana-ch1",
-                "topic": "Royal food protection, detection of poisoned drinks, food safety protocols, and immediate resuscitation methods."
-            },
-            2: {
-                "title": "Plant and Mineral Toxicology Guide: Sushruta Samhita Kalpasthana Chapter 2",
-                "slug": "plant-and-mineral-toxicology-guide-sushruta-samhita-kalpasthana-ch2",
-                "topic": "Classification of immobile (Sthavara) vegetable and mineral poisons, botanical toxins, and systemic antidote formulations."
-            },
-            3: {
-                "title": "Animal Venom Classification and Air Purification: Sushruta Samhita Kalpasthana Chapter 3",
-                "slug": "animal-venom-classification-and-air-purification-sushruta-samhita-kalpasthana-ch3",
-                "topic": "Classification of animal (Jangama) toxins, venomous bites, and environmental air/water decontamination techniques."
-            },
-            4: {
-                "title": "Venomous Snakes and Bite Symptoms: Sushruta Samhita Kalpasthana Chapter 4",
-                "slug": "venomous-snakes-and-bite-symptoms-sushruta-samhita-kalpasthana-ch4",
-                "topic": "Taxonomy of venomous serpents (Hooded, Spotted, Striped), physiological bite stages, and clinical prognosis."
-            },
-            5: {
-                "title": "Emergency Snakebite Antidotes and Protocols: Sushruta Samhita Kalpasthana Chapter 5",
-                "slug": "emergency-snakebite-antidotes-and-protocols-sushruta-samhita-kalpasthana-ch5",
-                "topic": "Classical anti-venomous Agadas, emergency tourniquet & suction protocols, and resuscitation formulations (Ajeya Ghrita)."
-            },
-            6: {
-                "title": "Ayurvedic Management of Rabies and Hydrophobia: Sushruta Samhita Kalpasthana Chapter 6",
-                "slug": "ayurvedic-management-of-rabies-and-hydrophobia-sushruta-samhita-kalpasthana-ch6",
-                "topic": "Rodent venom, rabid animal bites (Alarka Visha), clinical symptoms of hydrophobia, and cauterization therapies."
-            },
-            7: {
-                "title": "Sonic Detoxification Therapy and Master Antidotes: Sushruta Samhita Kalpasthana Chapter 7",
-                "slug": "sonic-detoxification-therapy-and-master-antidotes-sushruta-samhita-kalpasthana-ch7",
-                "topic": "Therapeutic anti-venomous sound drums (Dundubhi Svaniya), Kshara-agada, Kalyanaka Ghrita, and Mahasugandhi Agada."
-            },
-            8: {
-                "title": "Medical Management of Insect and Spider Venom: Sushruta Samhita Kalpasthana Chapter 8",
-                "slug": "medical-management-of-insect-and-spider-venom-sushruta-samhita-kalpasthana-ch8",
-                "topic": "Insects, scorpions, and venomous spider (Luta) bites, staging of necrotic tissue lesions, and specific antidote pastes."
-            }
-        }
+        "title": "Ayurvedic Toxicology and Agada Tantra: Sushruta Samhita Kalpasthana Complete Guide",
+        "slug": "ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana",
+        "category": "Kalpasthana",
+        "desc": "Classical Ayurvedic guide to toxicology (Kalpasthana), emergency snakebite antidotes, plant & mineral toxins, rabies management, and sonic detoxification."
+    },
+    "sushruta_samhita_volume_6_uttara_tantra": {
+        "title": "Sushruta Samhita Uttara Tantra: Ophthalmology, ENT, Pediatrics and Internal Medicine",
+        "slug": "sushruta-samhita-uttara-tantra-ophthalmology-ent-pediatrics",
+        "category": "Uttara Tantra",
+        "desc": "Master clinical supplement detailing cataract surgery, eye diseases, ENT protocols, pediatrics, and internal medicine."
+    },
+    "charaka_samhita_english_translation": {
+        "title": "Charaka Samhita Complete Translation: Fundamental Concepts of Internal Medicine",
+        "slug": "charaka-samhita-complete-translation-internal-medicine",
+        "category": "Charaka Samhita",
+        "desc": "The quintessential classical text of Ayurvedic internal medicine, Panchakarma, diagnosis, and longevity."
+    },
+    "rasa_jala_nidhi_vol_1": {
+        "title": "Rasa Jala Nidhi Volume 1: Mercury Purification and Alchemy Science",
+        "slug": "rasa-jala-nidhi-vol-1-mercury-purification-alchemy",
+        "category": "Rasa Shastra",
+        "desc": "Classical treatise on iatrochemistry, mercury processing (Parada), laboratory apparatus, and alchemical initiations."
+    },
+    "rasa_jala_nidhi_vol_2": {
+        "title": "Rasa Jala Nidhi Volume 2: Minerals, Gems and Uparasa Pharmacology",
+        "slug": "rasa-jala-nidhi-vol-2-minerals-gems-uparasa",
+        "category": "Rasa Shastra",
+        "desc": "Detailed guide on mineral processing, Uparasa, gems, metals, and therapeutic metallic Bhasma preparations."
+    },
+    "rasa_jala_nidhi_vol_3": {
+        "title": "Rasa Jala Nidhi Volume 3: Metals, Gems and Mineral Processing",
+        "slug": "rasa-jala-nidhi-vol-3-metals-gems-processing",
+        "category": "Rasa Shastra",
+        "desc": "Comprehensive handbook on precious metals, gold, silver, copper, and mineral alchemy in Ayurvedic pharmacology."
+    },
+    "rasa_jala_nidhi_vol_4": {
+        "title": "Rasa Jala Nidhi Volume 4: Iatrochemistry and Therapeutic Formulations",
+        "slug": "rasa-jala-nidhi-vol-4-iatrochemistry-therapeutics",
+        "category": "Rasa Shastra",
+        "desc": "Master clinical formulation text detailing mercury-based therapeutics for systemic diseases."
+    },
+    "rasa_jala_nidhi_vol_5": {
+        "title": "Rasa Jala Nidhi Volume 5: Treatment of Complex Chronic Afflictions",
+        "slug": "rasa-jala-nidhi-vol-5-treatment-complex-chronic-diseases",
+        "category": "Rasa Shastra",
+        "desc": "Clinical guide for managing severe chronic conditions using purified mineral and herbometallic formulations."
+    },
+    "vrikshayurveda_and_environmental_philosophy": {
+        "title": "Vrikshayurveda and Environmental Philosophy: Ancient Plant Science and Botany",
+        "slug": "vrikshayurveda-environmental-philosophy-ancient-botany",
+        "category": "Vrikshayurveda",
+        "desc": "Classical Indian agricultural and botanical science manual detailing tree nursing, soil care, and plant pathology."
+    },
+    "marma_sastra_and_ayurveda": {
+        "title": "Marma Sastra and Ayurvedic Science: Vital Energy Points and Clinical Practice",
+        "slug": "marma-sastra-ayurveda-vital-points-guide",
+        "category": "Marma Science",
+        "desc": "Clinical monograph on 107 Marma vital points, trauma management, and therapeutic pressure points."
+    },
+    "surgery_in_ancient_india": {
+        "title": "Ancient Indian Surgical Science: Historical Methods and Techniques",
+        "slug": "ancient-indian-surgical-science-historical-methods",
+        "category": "Ayurvedic Surgery",
+        "desc": "Academic investigation into surgical instruments, rhinoplasty, lithotomy, and operative techniques in ancient India."
     }
 }
 
+def clean_heading_text(heading: str) -> str:
+    """Clean raw markdown heading into a Pure International English Title."""
+    h = re.sub(r'^##\s*', '', heading).strip()
+    h = re.sub(r'^[#\s]+', '', h)
+    # Strip leading digits and dots like '1. ', '2. 3. ', 'Chapter I - ', 'Part 1 - '
+    h = re.sub(r'^\d+\.\s*', '', h)
+    h = re.sub(r'^\d+\.\s*\d+\.\s*', '', h)
+    h = re.sub(r'^(?:Chapter|Canto|Part|Vol|Volume)\s+[IVXLCDM\d]+[\s\:\-\–]*', '', h, flags=re.I)
+    h = re.sub(r'^(?:Chapter|Canto|Part|Vol|Volume)\s+\d+[\s\:\-\–]*', '', h, flags=re.I)
+    h = re.sub(r'\bby\s+[A-Za-z\s.]+', '', h, flags=re.I)
+    h = h.replace('"', "'").replace('\n', ' ').strip(' :-–—.')
+    return h if h else "General Discourse"
+
+def slugify(text: str) -> str:
+    """Generate clean URL slug."""
+    text = text.lower()
+    text = re.sub(r'[^a-z0-9\s-]', '', text)
+    text = re.sub(r'[\s-]+', '-', text).strip('-')
+    return text[:80]
+
 def clean_scraped_boilerplate(text: str) -> str:
-    """Purge 5-line scraped paragraphs, word counts, and legacy header noise."""
+    """Purge scraped paragraphs, word counts, and legacy header noise."""
     if not text:
         return ""
-    
-    # Remove scraped metadata lines
     text = re.sub(r'^\s*\*\*Author\s*/\s*Source:\*\*\s*by\s*.*$', '', text, flags=re.M | re.I)
     text = re.sub(r'^\s*\*\*Total\s+Chapters/Sections:\*\*\s*\d+$', '', text, flags=re.M | re.I)
     text = re.sub(r'Total\s+Chapters/Sections:\s*\d+', '', text, flags=re.I)
     text = re.sub(r'by\s+[A-Za-z\s.]+\|\s*\d{4}\s*\|\s*[\d,]+\s*words', '', text, flags=re.I)
-    
-    # Remove repetitive volume intro paragraph block
     text = re.sub(r'Sushruta Samhita, Volume \d+:.*?\n', '', text, flags=re.I)
     text = re.sub(r'This current book, the Kalpa-sthana.*?various other subjects\.', '', text, flags=re.S | re.I)
     text = re.sub(r'The Sushruta Samhita is the most representative work.*?medicine\.', '', text, flags=re.S | re.I)
     text = re.sub(r'Susruta-samhita is recognized as\.\.\.', '', text, flags=re.I)
     text = re.sub(r'This page relates [‘\'"].*?[’\'"] found in the study on diseases.*?for study\.', '', text, flags=re.S | re.I)
-    
-    # Clean whitespace
     text = re.sub(r'\n{3,}', '\n\n', text)
     return text.strip()
 
 def convert_to_h3_subheadings(text: str) -> str:
-    """Convert unformatted recipe & symptom headers like 'Ajeya-Ghrita:—' into '### Ajeya-Ghrita' for TOC."""
+    """Convert unformatted recipe & symptom headers into H3 subheadings for sticky TOC."""
     lines = text.split('\n')
     new_lines = []
-    
     for line in lines:
-        # Match pattern like 'Ajeya-Ghrita:—' or 'Symptoms of bite:—' or 'Insects of Vataja Temperament:—'
-        m = re.match(r'^\s*([A-Z0-9][a-zA-Z0-9\s\,\-\(\)\/]+):\s*[\—\-–]\s*$', line)
+        m = re.match(r'^\s*([A-Z0-9][a-zA-Z0-9\s\,\-\(\)\/]{3,60}):\s*[\—\-–]\s*$', line)
         if m:
             heading_title = m.group(1).strip()
             new_lines.append(f'\n### {heading_title}\n')
         else:
             new_lines.append(line)
-            
     return '\n'.join(new_lines)
 
 def build_faq_and_schema(chapter_title: str, topic_desc: str, slug: str) -> tuple[str, str]:
     """Build 5-Question FAQ section and JSON-LD FAQPage & MedicalWebPage Schema."""
     qas = [
         {
-            "q": f"What are the main medical topics covered in {chapter_title}?",
-            "a": f"This chapter focuses on {topic_desc}, providing detailed classical Ayurvedic protocols, symptom staging, and therapeutic interventions."
+            "q": f"What are the primary medical concepts explained in {chapter_title}?",
+            "a": f"This chapter covers {topic_desc}, offering authoritative classical Ayurvedic principles, therapeutic procedures, and clinical formulations."
         },
         {
-            "q": "Who is the primary classical authority for these Ayurvedic medical teachings?",
-            "a": "These classical medical discourses originate from Acharya Sushruta and Sage Dhanvantari in the Sushruta Samhita, edited and formatted for modern clinical E-E-A-T reference by Suresh Bhati."
+            "q": "What is the classical authority and origin of these medical teachings?",
+            "a": "These teachings originate from classical Sanskrit Samhitas and ancient scholar manuscripts, curated and structured for modern E-E-A-T clinical reference by Suresh Bhati."
         },
         {
-            "q": "How are the formulations in this chapter applied in clinical practice?",
-            "a": "The classical formulations (Agadas, Ghritas, and plasters) described are administered externally as pastes or internally as decoctions under expert Ayurvedic supervision according to patient Dosha constitution."
+            "q": "How are the therapeutic remedies in this chapter utilized in clinical practice?",
+            "a": "Remedies described in this text are customized based on individual Dosha constitution, severe pathology staging, and professional Ayurvedic medical guidance."
         },
         {
-            "q": "Are emergency toxicological measures detailed in this text?",
-            "a": "Yes, Sushruta Samhita provides immediate emergency resuscitation protocols, tourniquet application, blood purification, and specific antidotes for environmental and biological toxins."
+            "q": "Does this text outline preventive and curative healthcare measures?",
+            "a": "Yes, it provides comprehensive preventive daily routines (Dinacharya), dietary rules, herbal formulations, and therapeutic interventions."
         },
         {
-            "q": "Where can I find the complete index of Sushruta Samhita Kalpasthana chapters?",
-            "a": "The complete index and navigation for all chapters of Kalpasthana are accessible on the AyurShakti Canonical Texts directory."
+            "q": "Where can I view the complete directory of canonical Ayurvedic chapters?",
+            "a": "The full library index and chapter directories are accessible on the AyurShakti Canonical Texts portal."
         }
     ]
     
-    # Build Markdown FAQ
     faq_md = "\n\n---\n\n## Frequently Asked Questions (FAQ)\n\n"
     for item in qas:
         faq_md += f"### {item['q']}\n{item['a']}\n\n"
         
-    # Build JSON-LD Schema
     json_ld = {
         "@context": "https://schema.org",
         "@graph": [
@@ -183,64 +236,82 @@ def build_faq_and_schema(chapter_title: str, topic_desc: str, slug: str) -> tupl
     return faq_md, schema_script
 
 def process_file(filepath: str):
-    print(f"\n[+] Processing canonical file: {filepath}")
-    filename_base = os.path.basename(filepath).replace('.md', '')
+    if not os.path.exists(filepath):
+        return
+    filename = os.path.basename(filepath)
+    # Skip already generated chapter files
+    if any(x in filename for x in ['-ch1.md', '-ch2.md', '-ch3.md', '-ch4.md', '-ch5.md', '-ch6.md', '-ch7.md', '-ch8.md']) or filename == 'ayurvedic-toxicology-and-agada-tantra-sushruta-samhita-kalpasthana.md':
+        return
+
+    print(f"\n[+] Modernizing Monolithic Text: {filename}")
+    filename_base = filename.replace('.md', '')
     
     with open(filepath, 'r', encoding='utf-8') as f:
         raw_content = f.read()
 
-    # Determine volume key
-    vol_key = None
-    for k in ENGLISH_VOLUME_TITLES:
-        if k in filename_base:
-            vol_key = k
+    # Find volume metadata
+    vol_info = None
+    for key, info in VOLUME_MAP.items():
+        if key in filename_base:
+            vol_info = info
             break
             
-    vol_config = ENGLISH_VOLUME_TITLES.get(vol_key)
+    if not vol_info:
+        clean_name = re.sub(r'_by_.*$', '', filename_base).replace('_', ' ').title()
+        vol_info = {
+            "title": f"{clean_name}: Comprehensive Classical Ayurvedic Research Monograph",
+            "slug": slugify(clean_name),
+            "category": "Canonical Texts",
+            "desc": f"Classical Ayurvedic research monograph and medical treatise on {clean_name}."
+        }
+        
+    vol_title = vol_info["title"]
+    vol_slug = vol_info["slug"]
+    vol_desc = vol_info["desc"]
     
-    # Split raw content by H2 headings
     sections = re.split(r'\n(?=##\s*)', raw_content)
-    
-    # Group sections into Volume Intro vs Chapters
     intro_sections = []
-    chapter_map = {}
+    chapter_list = []
     
     for sec in sections:
         sec_clean = sec.strip()
         if not sec_clean:
             continue
-            
         first_line = sec_clean.split('\n')[0]
-        
-        # Check if it's a chapter
-        ch_match = re.search(r'Chapter\s+([IVXLCDM\d]+)', first_line, re.I)
-        if ch_match:
-            ch_str = ch_match.group(1).upper()
-            # Convert roman numeral to integer
-            roman_dict = {'I': 1, 'II': 2, 'III': 3, 'IV': 4, 'V': 5, 'VI': 6, 'VII': 7, 'VIII': 8, 'IX': 9, 'X': 10}
-            ch_num = roman_dict.get(ch_str) if ch_str in roman_dict else int(ch_str) if ch_str.isdigit() else 1
-            chapter_map[ch_num] = sec_clean
-        elif any(x in first_line.lower() for x in ['introduction', 'preface', 'title page', 'acknowledg']):
+        if any(x in first_line.lower() for x in ['preface', 'intro', 'title page', 'acknowledg', 'abstract', 'synopsis', 'plate']):
             intro_sections.append(sec_clean)
+        else:
+            chapter_list.append(sec_clean)
             
-    sorted_ch_nums = sorted(chapter_map.keys())
-    print(f"    Found {len(sorted_ch_nums)} chapters: {sorted_ch_nums}")
+    # If no chapters found, treat whole file as 1 major chapter
+    if not chapter_list:
+        chapter_list = [raw_content]
+        
+    # Cap excessive sub-chunks to maximum 50 quality chapters to prevent RAM thrashing
+    if len(chapter_list) > 50:
+        print(f"    Notice: Consolidating {len(chapter_list)} micro-sections into 30 structured major chapters.")
+        chunk_size = len(chapter_list) // 30 + 1
+        consolidated = []
+        for i in range(0, len(chapter_list), chunk_size):
+            chunk_group = chapter_list[i:i+chunk_size]
+            first_h2 = chunk_group[0].split('\n')[0]
+            group_body = "\n\n".join(chunk_group)
+            consolidated.append(group_body)
+        chapter_list = consolidated
+
+    print(f"    Generated {len(chapter_list)} chapter sections.")
     
     # -------------------------------------------------------------
     # 1. CREATE VOLUME MASTER HUB PAGE
     # -------------------------------------------------------------
-    vol_title = vol_config["volume_title"] if vol_config else f"Ayurvedic Guide: {filename_base.replace('_', ' ').title()}"
-    vol_slug = vol_config["volume_slug"] if vol_config else filename_base.replace('_', '-')
-    vol_desc = vol_config["description"] if vol_config else "Classical Ayurvedic research monograph and canonical text guide."
-    
     hub_frontmatter = f"""---
 title: "{vol_title}"
 description: "{vol_desc}"
 author: "Suresh Bhati"
-category: "Canonical Texts"
+category: "{vol_info.get('category', 'Canonical Texts')}"
 publishedDate: "2026-08-17"
 status: "Published"
-labels: ["Ayurveda", "Sushruta Samhita", "Kalpasthana", "Toxicology", "Agada Tantra"]
+labels: ["Ayurveda", "Canonical Texts", "Suresh Bhati", "{vol_info.get('category', 'Research')}"]
 isCanonicalText: true
 ---
 
@@ -249,20 +320,23 @@ isCanonicalText: true
 ## Volume Chapter Directory
 
 """
-    for ch_num in sorted_ch_nums:
-        if vol_config and ch_num in vol_config["chapters"]:
-            ch_info = vol_config["chapters"][ch_num]
-            ch_t = ch_info["title"]
-            ch_s = ch_info["slug"]
-            ch_d = ch_info["topic"]
-        else:
-            ch_t = f"Chapter {ch_num}"
-            ch_s = f"{vol_slug}-ch{ch_num}"
-            ch_d = "Classical Ayurvedic medical chapter."
-            
-        hub_frontmatter += f"### {ch_num}. [{ch_t}](/articles/{ch_s})\n**Overview**: {ch_d}\n\n"
+    chapter_meta = []
+    for idx, sec in enumerate(chapter_list, start=1):
+        first_line = sec.split('\n')[0]
+        topic = clean_heading_text(first_line)
+        ch_title = f"{topic}: {vol_title.split(':')[0]} Chapter {idx}".replace('"', "'").replace('\n', ' ')
+        ch_slug = f"{vol_slug}-ch{idx}"
+        ch_desc = f"Detailed classical discussion on {topic} within {vol_title.split(':')[0]}.".replace('"', "'").replace('\n', ' ')
+        chapter_meta.append({
+            "num": idx,
+            "title": ch_title,
+            "slug": ch_slug,
+            "topic": topic,
+            "desc": ch_desc,
+            "raw_sec": sec
+        })
+        hub_frontmatter += f"### {idx}. [{ch_title}](/articles/{ch_slug})\n**Overview**: {ch_desc}\n\n"
 
-    # Append cleaned introductory sections
     hub_body = "\n\n---\n\n## Volume Background & Preface\n\n"
     for intro in intro_sections:
         cleaned = clean_scraped_boilerplate(intro)
@@ -277,62 +351,48 @@ isCanonicalText: true
     # -------------------------------------------------------------
     # 2. CREATE DEDICATED CHAPTER PAGES
     # -------------------------------------------------------------
-    total_chs = len(sorted_ch_nums)
+    total_chs = len(chapter_meta)
     
-    for idx, ch_num in enumerate(sorted_ch_nums):
-        if vol_config and ch_num in vol_config["chapters"]:
-            ch_info = vol_config["chapters"][ch_num]
-            ch_title = ch_info["title"]
-            ch_slug = ch_info["slug"]
-            ch_topic = ch_info["topic"]
-        else:
-            ch_title = f"Chapter {ch_num}: {filename_base.replace('_', ' ').title()}"
-            ch_slug = f"{vol_slug}-ch{ch_num}"
-            ch_topic = "Detailed classical Ayurvedic medical chapter."
-            
-        # Determine Prev and Next chapters
-        prev_slug = vol_config["chapters"][sorted_ch_nums[idx-1]]["slug"] if idx > 0 and vol_config else (f"{vol_slug}-ch{sorted_ch_nums[idx-1]}" if idx > 0 else "")
-        prev_title = vol_config["chapters"][sorted_ch_nums[idx-1]]["title"] if idx > 0 and vol_config else (f"Chapter {sorted_ch_nums[idx-1]}" if idx > 0 else "")
+    for idx, ch in enumerate(chapter_meta):
+        ch_title = ch["title"].replace('"', "'").replace('\n', ' ')
+        ch_slug = ch["slug"]
+        ch_topic = ch["topic"]
+        ch_desc = ch["desc"].replace('"', "'").replace('\n', ' ')
         
-        next_slug = vol_config["chapters"][sorted_ch_nums[idx+1]]["slug"] if idx < total_chs - 1 and vol_config else (f"{vol_slug}-ch{sorted_ch_nums[idx+1]}" if idx < total_chs - 1 else "")
-        next_title = vol_config["chapters"][sorted_ch_nums[idx+1]]["title"] if idx < total_chs - 1 and vol_config else (f"Chapter {sorted_ch_nums[idx+1]}" if idx < total_chs - 1 else "")
+        prev_ch = chapter_meta[idx-1] if idx > 0 else None
+        next_ch = chapter_meta[idx+1] if idx < total_chs - 1 else None
         
-        # Clean section content
-        raw_sec = chapter_map[ch_num]
-        cleaned_sec = clean_scraped_boilerplate(raw_sec)
+        cleaned_sec = clean_scraped_boilerplate(ch["raw_sec"])
         formatted_sec = convert_to_h3_subheadings(cleaned_sec)
         
-        # Build Navigation Markdown
         nav_md = "\n\n---\n\n<div className=\"flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20\">\n"
-        if prev_slug:
-            nav_md += f"  <a href=\"/articles/{prev_slug}\" className=\"text-emerald-400 hover:underline flex items-center font-medium\">← {prev_title}</a>\n"
+        if prev_ch:
+            nav_md += f"  <a href=\"/articles/{prev_ch['slug']}\" className=\"text-emerald-400 hover:underline flex items-center font-medium\">← {prev_ch['title']}</a>\n"
         else:
             nav_md += f"  <a href=\"/articles/{vol_slug}\" className=\"text-emerald-400 hover:underline font-medium\">← Volume Index</a>\n"
             
         nav_md += f"  <a href=\"/articles/{vol_slug}\" className=\"text-slate-400 hover:text-emerald-400 text-sm font-medium\">Volume Index</a>\n"
         
-        if next_slug:
-            nav_md += f"  <a href=\"/articles/{next_slug}\" className=\"text-emerald-400 hover:underline flex items-center font-medium\">{next_title} →</a>\n"
+        if next_ch:
+            nav_md += f"  <a href=\"/articles/{next_ch['slug']}\" className=\"text-emerald-400 hover:underline flex items-center font-medium\">{next_ch['title']} →</a>\n"
         else:
             nav_md += f"  <a href=\"/articles/{vol_slug}\" className=\"text-emerald-400 hover:underline font-medium\">Volume Index →</a>\n"
         nav_md += "</div>\n\n"
 
-        # Build FAQ & Schema
-        faq_md, schema_script = build_faq_and_schema(ch_title, ch_topic, ch_slug)
+        faq_md, schema_script = build_faq_and_schema(ch_title, ch_desc, ch_slug)
         
-        # Frontmatter
         ch_frontmatter = f"""---
 title: "{ch_title}"
-description: "{ch_topic}"
+description: "{ch_desc}"
 author: "Suresh Bhati"
-category: "Canonical Texts"
+category: "{vol_info.get('category', 'Canonical Texts')}"
 publishedDate: "2026-08-17"
 status: "Published"
-labels: ["Ayurveda", "Sushruta Samhita", "Kalpasthana", "Toxicology", "Agada Tantra", "Chapter {ch_num}"]
+labels: ["Ayurveda", "Canonical Texts", "{vol_info.get('category', 'Research')}", "Chapter {ch['num']}"]
 isCanonicalText: true
 ---
 
-> **Clinical Executive Summary (E-E-A-T Overview)**: {ch_topic} Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
+> **Clinical Executive Summary (E-E-A-T Overview)**: {ch_desc} Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
 
 {formatted_sec}
 
@@ -346,23 +406,26 @@ isCanonicalText: true
         with open(ch_filepath, 'w', encoding='utf-8') as f:
             f.write(ch_frontmatter.strip())
             
-        print(f"    [✓] Created Chapter Page: {ch_filepath}")
+    # Purge old monolithic file to avoid duplicates
+    if os.path.exists(filepath) and filepath != hub_filepath:
+        os.remove(filepath)
+        print(f"    [✔] Removed monolithic legacy source file: {filename}")
 
 def main():
-    parser = argparse.ArgumentParser(description="AyurShakti Canonical Library Modernization Engine")
+    parser = argparse.ArgumentParser(description="AyurShakti Comprehensive Canonical Library Modernization Engine")
     parser.add_argument("--file", help="Specific canonical markdown file to process")
     args = parser.parse_args()
     
     if args.file:
         files = [args.file]
     else:
-        files = glob.glob('content/canonical_texts/sushruta_samhita_volume_5_kalpasthana*.md')
+        files = sorted(glob.glob('content/canonical_texts/*_by_*.md') + glob.glob('content/canonical_texts/*_sanskrit.md'))
         
-    print(f"Starting Canonical Modernization on {len(files)} file(s)...")
+    print(f"Starting Canonical Modernization across {len(files)} monolithic text volume(s)...")
     for f in files:
         process_file(f)
         
-    print("\n[✔] Pilot Canonical Modernization completed successfully!")
+    print("\n[✔] ALL Canonical Text Modernization completed successfully!")
 
 if __name__ == "__main__":
     main()

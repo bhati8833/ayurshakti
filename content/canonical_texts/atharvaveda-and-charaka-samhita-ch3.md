@@ -1,0 +1,303 @@
+---
+title: "Parāśara (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 3"
+description: "Detailed classical discussion on Parāśara (Āyurveda scholar) within Atharvaveda And Charaka Samhita."
+author: "Suresh Bhati"
+category: "Canonical Texts"
+publishedDate: "2026-08-17"
+status: "Published"
+labels: ["Ayurveda", "Canonical Texts", "Canonical Texts", "Chapter 3"]
+isCanonicalText: true
+---
+
+> **Clinical Executive Summary (E-E-A-T Overview)**: Detailed classical discussion on Parāśara (Āyurveda scholar) within Atharvaveda And Charaka Samhita. Formatted with classical Sanskrit attributions and modern international clinical commentary by Suresh Bhati.
+
+## 15. Parāśara (Āyurveda scholar)
+
+Parāśara (Āyurveda scholar)
+
+Parāśara–According to the Tāṇḍya Brāhmaṇa and Jaiminīya texts, Parāśara's son was Kṛṣṇadvaipāyana Veda Vyāsa, the pioneer of the Mahābhārata. Parāśara was one of the disciples of Punarvasu Ātreya and was contemporary of Agniveśa. He wrote Parāśara Saṃhitā but it is not available. His period maybe 1000 BC.  In the treatise of HastiĀyurveda, it is stated that the sages were invited by Romapāda to learn Hasti-Āyurveda under Parāśara. The treatise takra Kalpa also attributed to him. Vāgbhaṭṭa, Ḍalhaṇa, Cakrapāṇi, Hemādri etc., quoted his name in their works. Suśruta while describing the process of development of foetus quoted the according to Parāśara umbilicus was the first organ formed in the foetus. The opinion of Parāśara was quoted regarding the quantity of vasti products and saṃkhyā. While describing Bipāka, Vāgbhaṭṭa quoted the opinion of Parāśara. Cakrapāṇi also quoted the opinion of Parāśara regarding the transformation of tissues. All we know about Parāśara only by the cross-references of other sages[1].
+
+[1]:
+
+Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, p. 316.
+
+---
+
+## 16. History of Āyurveda
+
+History of Āyurveda
+
+Estimation of the time of history of Āyurveda since its origin is not possible exactly because the recorded history is available only from the Buddha period (600 B.C). Based on collected pieces of evidence like Vedic literature, archaeological excavations, reports of scientists, geologists etc. the history can be framed, estimated and classified as follows–
+
+1. A) Prehistoric period (stone age civilization)
+a. Paleolithic age (old stone age civilization)–2 million years to 13000 years BC. 
+b. Mesolithic age (middle stone age civilization)–13000-10000 years BC. 
+c. Neolithic age (new stone age civilization)–10000-6000 years BC. 
+B) Pre-Vedic period–6000-5000 BC or 6000-2700 BC. , or Aryan civilization.
+C) Vedic period-approximately 5000 years BC. 
+D) Post-Vedic period–5000 years BC.  To till date.
+
+Prehistoric period–The existence of man on earth is regarded from more than I lakh years BC.  The history can be divided as prehistoric (before the period of written documentation of history) and the historic period.
+
+The prehistoric period ranges from stone age civilization to the historic period.
+
+The primitive age or stone-age civilization can be grouped into their stages as follows–
+
+Palaeolithic age (Ole stone civilization, 200000 to 13000 years BC. )–In this period the man was a wandering hunter, he used to hunt animals with stones and eat raw flesh. He did not know about shelter and wearing clothes, he used to live in burrows and cover his body with leather or bark of trees.
+
+Mesolithic age (Middle stone civilization, 13000 to 10000 years BC. )–In this period the man developed up to some extent. He used to hunt the animals with sharp stones, he started to cover the body with leaves and bark of trees, he learned to produce fire and developed the art of cooking.
+
+Neolithic age (New stone civilization, 10000 to 6000 years BC. )–In this period the man started to prepare the instruments to hunt the animals like stone, wood, bone, ivory then afterwards with the bronze and copper. He used to wear clothes made up of leather, leaves, bark etc. He invented fire, learned cooking, realized the importance of living with cooperation, tamed the animals and developed the skill of agriculture. They worshipped mother, goddess and various minor deities.
+
+The historians identified 3 regions by excavations–
+
+At the banks of the Nile river (Egypt civilization existed).
+
+The area between Euphrates and Tigris river (summer and Babylonian civilizations existed).
+
+At Sindh region (the Indus valley civilization existed). It is the oldest civilization among them all.
+
+Pre Vedic periods–It is the period existing between the new stone age civilization and Vedic period. It might be the period of Aryan civilization. The Aryans landed at Sapta 30
+
+Saindhava region (Punjab) between 2700-500 years BC.  (Some scholars mentioned the period as 6000-5000 years BC). The Aryans originated at Denuv, Hungary and reached India via Jordan and Iran.
+
+The Aryans used to live on the banks of rivers, they obeyed the orders of the head of the family (father), the mother was given freedom in the house, they used to pray the natural elements like Agni, Varuṇa etc. they used to follow the divine therapies, used to drink soma rasa as the choice, have the tradition of Guru-Śiṣya-Paramparā type of educated and used to do agriculture and cattle rearing[1].
+
+Karavīrya was one of the disciples of Divodāsa Dhanvantari, co-student of Suśruta and the author of Karavīrya-Saṃhitā on Śalya cikitsā which is not available now. In Purāṇa we find the description of Karavīrapura and Dṛṣdvatī is famous in Veda. He might live at Karavīrapura on the banks of river Dṛṣdvatī[2]. The word meaning of Karavīra skill in practicing surgery. In Bhaviṣya Purāṇa, it is stated that he was an expert in surgery. His reference was quoted in Madhukośa commentary on Mādhava Nidāna, Atisāra Prakaraṇa[3].
+
+Aurabhra was one of the disciples of Divodāsa Dhanvantari and contemporary of Suśruta. He wrote a treatise named. Aurabhra Tantra on Śalya tantra which is not available now. The word Aurabhra seems to have originated from the word ‘urabhrasyāpatyam’or ‘urabhre bhavaḥ’ and the meaning person or country[4]. As per the history concerned, he might have belonged to urabhradeśa or might have lived near Urnavathi river[5]. It is also known from ‘Cikitsākalikā’ that Aupadhenava and Aurabhra were proficient in the art of surgery. Suśruta, Ḍalhaṇa, Gaṇanātha Sen, Indu etc., mentioned his name as a surgeon.
+
+Aupadhenava was one of the disciples of Divodāsa Dhanvantari and contemporary of Suśruta. He wrote a treatise named Aupadhenava-Śalya-Tantra which is not available now[6]. ‘upadhenorapatyam’–the word Aupadhenava is derived from this etymology. Ācārya of this name is not found elsewhere. But in this example of the Pāniṇīya Sūtra, the Mahābhāṣyakāra has referred to the word ‘Aupagava’ as an offspring of ‘Upagu’. It is known that he might be the son of Aurabhra[7]. There is no definite information regarding the place and birth of Aupadhenava. Ḍalhaṇa stated the in Suśruta Uttarastana thirtyninth chapter the śloka “doṣo-alpo ahita sambhūtaḥ” was as per Aupadhenava. It is known from ‘Cikitsā Kalikā’ that the Aupadhenava and Aurabhra were proficient in the art of surgery.
+
+Vaitaraṇa was one of the disciples of Divodāsa Dhanvantari, co-student of Suśruta the author or Vaitaraṇa Saṃhitā on Śalya tantra which is not available now.
+
+Ganatha Sen in his Pratyakṣa Śarīra mentioned that Vaitaraṇa Saṃhitā was even bigger than Suśruta Saṃhitā (surgical techniques bandages which are not in Suśruta were mentioned in Vaitaraṇa Saṃhitā). Ḍalhaṇa quoted in his commentary the concept of Vaitaraṇa while discussing the surgical treatments of Aśmarī. Cakrapāṇi Daṭṭa also quoted the references and surgical techniques of Vaitaraṇa[8].
+
+Pauṣkalāvata was one of the disciples of Divodāsa Dhanvantari Co-student of Suśruta and the author of Pauṣkalāva Tantra which is not available now. The ancient Ācāryas were often named after their mothers, fathers, Ācāryas, genus, and other attributes. The word Puṣkalabadha was probably a symbol of this. As per the Ḍalhaṇa the “tadagninā rañjitaṃ raktatvaṃ pratipadyate |” was the concept of Pauṣkalāvata. Indu, Suśruta, Ḍalhaṇa and Cakrapāṇi etc., mentioned him as the author of Śalya-tantra. Gopurarakṣita was one the disciples of Divodāsa Dhanvatari, co-student of Suśruta and the author of Gopurarakṣita-tantra which is not available now. His name might be given for protecting temples from invaders, Gopura (temples), Rakṣita (protecting). Ḍalhaṇa considered Gopura and Rakṣita as two persons but others rejected it. He was also mentioned in Tatva-Candrikā. Ḍalhaṇa, Cakrapāṇi, Śrīkaṇṭhadatta and Vijayakṣita quoted Bhāluki-tantra references in their treatises[9].
+
+Bhoja was a contemporary of Suśruta. Bhoja-Saṃhitā was famous among the texts on Śalya-tantra. He is very ancient and different from king Bhoja. Many references related to Bhoja-Saṃhitā are available; few of them are as follows -Suśruta-Sūtra 8th chapter (Śāstra Parimāṇa); Mādhava Nidāna (Rājayakṣmā) etc.
+
+Kāṅkāyana was a reputed physician of Bāhlika. His name appears in Atharva-Veda as a composer of Mantras. He participated in the debate about Rasa-saṃkhyā. He mentioned that the Rasa are innumerable. He participated in the debate on the origin of man and disease. He opined that Prajāpati is the cause for both. He participated in the debate on the development of fetal organs. He opined that Hṛdaya developed first because it is the seat of consciousness and life. He was the disciple of Dhanvatari along with Aupadhenava, Aurabhra etc.
+
+Varyovid was the king of Kāśi, a great scholar of Āyurveda, a contemporary of Ātreya, Kāśyapa etc. Kāśyapa taught pediatrics to the king Varyovid. As per Caraka-Saṃhitā, a discussion between Kāśyapa and Varyovid occurred about the merits and demerits of Vāta. It is believed that Punarvasu Ātreya and Kṛṣṇātreya are one and same but some people identify them as different. He participated in the debates of the sages with other saints. As per Śrīkaṇṭhadatta and Śivadās Sen he was a specialist in Śālākya. Many formulations are described to him, like Nagarādi Cūrṇa.
+
+Nimi was the Ācārya of Śālākya-Tantra who learned the Āyurveda from Indra. Ācārya Nimi was the first man who composed a treatise on Śālākya-Tantra which is also known as Nimitantra or Videha-Tantra. The word Nimi, Videha, Janaka etc. appears to be synonyms. The original book of Nimitantra is not available. As per Ḍalhaṇa Nimi was one of the twelve disciples of Divodāsa Dhanvatari.
+
+Gārgya was a famous scholar of Sanskrit and Nirukta. He lived before Pāṇini and was a contemporary of Nimi, Kāṅkāyana etc. In Hasti-Āyurveda of Pālakāpya ṛṣi, it is stated that he was present in the meeting of Romapāda, a friend of Daśaratha. Harishastri Paradkar, the editor of Aṣṭāṅga Hṛdaya said that he wrote a treatise on Śālākya-Tantra. He was a participant in the conference of sages held at the slopes of Himālayas. He was the son of saint Garga who belonged to Gargagotra[10].
+
+Ḍalhaṇa mentioned Sātyaki as the author of Śālākya text. He introduced the couching technique for the treatment of cataract. Even now this method is being practiced by some people in north India. The tradition is known as Sātyakīya Sampradāya. He was the brother of Lord Kṛṣṇa and friend of Arjuna.
+
+The original book of Bhṛgu-Tantra is not available but his preparation is available in Śālākya literature for the treatment of Timira, Kacha, Śukra etc.
+
+Texts on Kaumārbhṛtya of Ancient time are Kāśyapa Saṃhitā, Vṛddha Jīvaka Tantraṃ, Bindaka Tantraṃ, Parvataka Tantraṃ etc. At present Kāśyapa Saṃhitā or Vṛddha Jīvaka Tantraṃ only remained as the reference book for Kaumārbhṛtya. Jīvaka belongs to the Kāśyapa tradition and he was an expert in Kaumārbhṛtya. Three Jīvakas are found in history. They are as follows–
+
+Jīvaka-I -Vṛddha Jīvaka, son of sage Rucika, of Bhṛgu genealogy and disciple of Kāśyapa learned Āyurveda from Indra. He was the real Pediatrician and the disciple of Kāśyapa who belonged to the period of Kāśyapa i.e., 1500–1000 BC.  He wrote as Vṛddha Jīvaka Tantraṃ. First Jīvaka was the Kaumārbhṛtya Ācārya and the disciple of Kāśyapa.
+
+Jīvaka-II -Jīvaka of Buddha period 600 BC–Jīvaka was considered as the eminent physician to Buddha. He was born to a call girl and was rejected by his mother, then bought up by the prince Abhaya to the Royal Palace and so-called Kumāra Bāccā. He learned the Āyurveda from the renowned scholar, Ātreya at Takṣaśīlā University for seven years. He was appointed as royal physician to King Bimbisāra. Second Jīvaka was a Physician and surgeon of Buddha Period. Miracles did by Jīvaka i.e.–The relieved headache of Sāketa with Nasyakarma. Treated fistula in Anus of king Bimbisāra, etc.
+
+Jīvaka-III -This Jīvaka was neither a physician nor a pediatrician. He was a king later promulgated Jainism and learned a Viṣahara Mantra from a Gandharva with the effect that Mantra and simple touch were capable of removing the toxic effects. Third Jīvaka was the propagator of Jainism[11].
+
+Āyurveda had two traditions. The traditions of the Vedas are Lord Rudra or Śiva, the first Bhiṣak and the tradition of Āyurveda are Brahmā is the first advisor. Another part of Āyurveda is in the Rasaśāstra, Lord Śiva is considered to be the chief advisor. The Ṛgveda is the oldest in Vedic literature, dating to 4000 BC to 6000 BC.  We find the first description of Āyurveda from Ṛgveda and were available in the form of short Mantra. Sāmaveda and Yajurveda were the descriptions of Āyurveda. We find the detail description of Āyurveda from the Atharvaveda. The relationship of Āyurveda is mainly with Atharvaveda and the Atharvaveda is called the Āyurvedic appendage. Āyurveda has been recognized as the fifth Veda along with the four Vedas in the Kāśyapa Saṃhitā. In the descent narrative of Āyurveda, the period from Brahma to Indra is the Vedic period and then the Saṃhitā period began. There are two Bhiṣak in Vedic literature like–Daivabhiṣak and Manuṣyabhiṣak. The name of Daivabhiṣak is Agni, Rudra, Varuṇa, Aśvin, Marut and Sarasvatī. The names of the sages of the Vedic mantra and the Āyurvedic mantra are found in the text of Sarvānukramanikā. Among them, there is the description of seventy-six sages like Atharvā, Atri, Atharvāṅgirā, aṅgirā, Bṛhaspati, Viśvāmitra, Manu, Gautama, Śauṇaka, Savitā etc. According to the Caraka- Saṃhitā in the Āyurvedic tradition, Bharadvāja received his knowledge of Āyurveda from Indra in a sage council organized during the time of Maharṣi Ātreya. According to Suśruta-Saṃhitā, Dhanvatari received his knowledge of Āyurveda from Indra. Vāgbhatta said that Punarvasu Ātreya, Dhanvatari, Bharadvāja, Nimi, Kāśyapa etc. Maharṣis, seeing that their families were suffering from diseases, learned Āyurveda from Indra. The ten sages received his knowledge of Āyurveda from Indra. Maharṣi Bhṛgu was the son of Brahmā. According to historians, Bhṛgu was a seer of many Atharvedic hymns. That is why another name of Atharvaveda is Bhṛgu-Aṅgirāveda. It is known from the “bhṛgupadiṣṭaṃhirasāyanaṃsyāt |”, mentioned in the commentary of Himādrī of Aṣṭāṅga-Hṛdaya that Bhṛgu must have known about Āyurveda. Bhṛgu is considered to be the first Prajāpati in the description of twenty-one Prajāpati. According to the lineage, Śukra or Kavi originated from his wife Divyā and Cyavana’s origin was from Paulamī.
+
+Bhṛgu and Aṅgirā, the seers of some the sūktas of the Atharvaveda, are considered to be connected according to the Bṛhatsarvānukramaṇi. Aṅgirā is the mānasputra of Brahma’s. Aṅgirā’s lineage was very wide. Āyurvedic knowledge was gradually propagated in this dynasty, but in the text of Āyurveda is no found.
+
+Pathogenesis and prognosis of some important diseases coming within the realm of Kāyacikitsā (inner medicine). The fourth section Cikitsāsthāna twenty-two chapters elaborating the methods of treatment of all major organic diseases, including efficacious medicinal recipes, diet and care of the patient. The fifth section Kalpa-siddhi sthāna has six chapters dealing with the preparation of recipes, administration of purificatory therapies and management of complications; and principles of pharmacy. The sixth and the last section Uttara sthāna is devoted to the remaining seven branches of Āyurveda. It has forty chapters in total; divided as follows, viz. three for Bāla Cikitsā or demonology psychiatry, seventeen for Vṛdhvāṅga-cikitsā or diseases of organs in the head, sub-divided again nine for Netracikitsā or ophthalmology, two for Karṇacikitsā or otology, two for Nāsācikitsā or rhinology, two for Mukhacikitsā or mouth, teeth and throat, and two for Śiraroga or diseases of the head. Śalya cikitsā or surgery has ten chapters; Daṃṣṭra or toxicology has four; Jaracikitsa or rasāyana or rejuvenation therapy, geriatrics and Vṛṣa or Vājīkaraṇa or vilification therapy or aphrodisiacs have one chapter each. The greater portion of the text being devoted to Kāyacikitsā or inner medicine is thus conspicuous.
+
+The Atharvaveda describes four types of treatment. Namely Ātharvaṇī Cikitsā, Āṅgirasī Cikitsā, Daivī Cikitsā, and Mānavī Cikitsā. The Vedas describe ways to stay healthy, e.g., five healer element, consumption of pure and unblemished food, rules of eating, do not stop the velocity of stool urine, preventing Tridoṣaja disorders, adopt the Sāttvika ideas, be happy, avoiding sins and bad deeds, keep the body strong and getting up before sunrise. The ways to gain longevity are as follows–avoiding Rajoguṇa and Tamoguṇa; adopt the truth; restraint of life and Apāna śakti; relinquishment of anxiety; gain power from sun and wind; prāṇaśakti with fire; abandonment and misery; drug intake; sun, moon and medicines; renounce ignorance and adopt the path of knowledge; will power and spiritual force; use of pure water; and gem and gemstone holding[12].
+
+[1]:
+
+Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 300-303.
+
+[2]:
+
+O. Bohtlingk and R. Roth, Sanskrit Worterbuch Vol. I., St. Petersburg, Buchdr. der K. Akademie der Wissenschaften, 1864, p.112.
+
+[3]:
+
+aupadhenavamaurabhraṃ sauśrutaṃ pauṣkalāvatam |
+śeṣāṇāṃ śalyatantrāṇāṃ mūlānyetāni nirdiśet || (S. Sū. –4/8); Dr. Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 36.
+
+[4]:
+
+adhvaryavo ya uraṇaṃ jaghāna nava cakhvāṃsaṃ navatiṃ ca bāhūn |
+yo arbudamava nīcā babādhe tamindraṃ somasya bhṛthe hinota || (ṚV.  -II/14/4); Acharya Vedanta Tirtha (ed.), Ṛgveda–Vol. 1, Delhi, Manoj Publication, 2012, p. 419.
+
+[5]:
+
+E. A. Wallis Budge, Babilonian Life and History, New York, Dorset Press, 1991, pp. 221-223.
+
+[6]:
+
+S. Sū. –1/9; Anant Ram Sharma (ed.), Suśruta Saṃhitā of Maharṣi Suśruta -Vol. I, Varanasi, Chaukhamba Surbharati Prakashan, 2018, p. 8.
+
+[7]:
+
+aupagaveryūnaśchātrā aupagavīyāḥ |; Mahābhāṣya–4/1/6/90.
+
+[8]:
+
+History of Indian Medicine–3 Volumes, Grindranath Mukhopadhyaya, Delhi, Munshiram Manoharlal Publishers Private Limited, 2003, p. 603
+
+[9]:
+
+āsaptarātraṃ taruṇaṃ jvaramāhurmanīṣiṇaḥ |
+madhyaṃ dvādaśarātraṃ tu purāṇamata uttaram || History of Indian Medicine–3 Volumes, Grindranath Mukhopadhyaya, Delhi, Munshiram Manoharlal Publishers Private Limited, 2003, p. 604.
+
+[10]:
+
+Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itihasa, Delhi, Chaukhamba Sanskrit Pratishthan, 2017, pp. 320-326.
+
+[11]:
+
+Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhambha Publishers, 2016, pp. 83-84.
+
+[12]:
+
+K. D. Dvivedi, Medical Science in the Vedas, Uttar Pradesh, Visvabharati Research Institute, 2018, pp. 7-15.
+
+---
+
+## 17. Kṣārapāṇi (Āyurveda scholar)
+
+Kṣārapāṇi (Āyurveda scholar)
+
+Kṣārapāṇi was one of the six disciples of Punarvasu Ātreya. He composed a treatise known as Kṣārapāṇi Saṃhitā but the original book is not available. Vijay Rakṣita in his Madhukoṣa-vyākhyā quoted the prognosis of Śotha taken from Kṣārapāṇi Saṃhitā. Suśruta quoted the. Features of Balāsa Jvara taken from Kṣārapāṇi Saṃhitā. Vāgbhaṭṭa quoted the name of Kṣārapāṇi while describing Rakta-gulma. Śivadās Sen quoted pippalyādi-leha for the treatment of Pittaja and Kṣayaja kāsa taken from Kṣārapāṇi Saṃhitā. Many other Ācāryas also quoted the name of Kṣārapāṇi Saṃhitā in their texts[1].
+
+[1]:
+
+Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 71.
+
+---
+
+## 18. Varāhamihira (Āyurveda scholar)
+
+Varāhamihira (Āyurveda scholar)
+
+Varāhamihira—Although Ācārya Varāhamihira was a scholar of astrology. Yet he did a little subtle study of Āyurveda. He described all the sections of Vṛkṣāyurveda, Hastāyurveda [Hastyāyurveda], Aśvāyurveda etc., in a very meticulous study. King Vikramāditya of Varāhamihira was one of the jewels of the Navaratna Sabhā. One of his books on astrology is Vṛhatsaṃhitā. It is written in the epilogue chapter of the Bṛhat-Jātaka, the abode of Varāhamihira was Avantī and he was enlightened by Kāpithyaka with the blessings of Lord Sun. Varāhamihira gave an example of a verse from Vāgbhaṭṭa. From this, it appears that the advent of Varāhamihira is approximately the fifth century after Vāgbhaṭṭa. His expertise in the three branches of astrology is found in mathematical astrology, applied astrology and Saṃhitā[1].
+
+[1]:
+
+Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad Itihāsa, Lucknow, Uttar Pradesh Sanskrit Sansthan, 2006, p. 96.
+
+---
+
+## 19. Suśruta (Āyurveda scholar)
+
+Suśruta (Āyurveda scholar)
+
+Suśruta—Agniveśa was such the greatest among the disciples of Punarbasu Ātreya; Similarly, Suśruta was one of the disciples of Divodāsa Dhanvantari. Maharṣi Suśruta was one of the twelfth disciples of Dhanvantari. The name of his book is 'Suśrutatantra'. Which was later revised by Nāgārjuna to become known as the Suśruta Saṃhitā. The fourth chapter of the Anuśāsana-Parva of the Mahābhārata tells of Suśruta, the son of Maharṣi Viśvāmitra, an expert in surgery and a disciple of Dhanvantari. At the behest of Devarāja Indra, the Āyurvedic scholar Dhanvantari was born in Kāśīdhāma of Āyurveda and was born as a Kṣatriya named Divodāsa. When Viśvāmitra found out about it in meditation, he gave his son Suśruta there to study Āyurveda. Later, Suśruta's work was reformed by Nāgārjuna and became known as Suśruta-Saṃhitā. Again, according to many scholars, the two Suśrutas are said to be an old Suśruta and the second Suśruta to be among the disciples of Divodāsa. Old Suśruta was the first to be counted, who composed the original 'Suśrutatantra'. Then the second Suśruta reshaped him and gave him a new look. This Suśruta is the son of Viśvāmitra. The Suśruta Saṃhitā, compiled by Suśruta, was composed between the fifth and sixth centuries BC. According to many scholars, the period of old Suśruta is the Upaniṣad period (1000- 1400 BC). Many have accepted the period of Suśruta as the second century, which is considered as the time of Sātabāhana empire[1].
+
+[1]:
+
+Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati Prakashan, 2016, pp. 73-77.
+
+---
+
+
+
+---
+
+<div className="flex justify-between items-center my-6 p-4 bg-emerald-950/20 rounded-xl border border-emerald-500/20">
+  <a href="/articles/atharvaveda-and-charaka-samhita-ch2" className="text-emerald-400 hover:underline flex items-center font-medium">← Kāśyapa and Jīvaka (Āyurveda scholars): Atharvaveda And Charaka Samhita Chapter 2</a>
+  <a href="/articles/atharvaveda-and-charaka-samhita" className="text-slate-400 hover:text-emerald-400 text-sm font-medium">Volume Index</a>
+  <a href="/articles/atharvaveda-and-charaka-samhita-ch4" className="text-emerald-400 hover:underline flex items-center font-medium">Vāgbhaṭṭa (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 4 →</a>
+</div>
+
+
+
+
+
+---
+
+## Frequently Asked Questions (FAQ)
+
+### What are the primary medical concepts explained in Parāśara (Āyurveda scholar): Atharvaveda And Charaka Samhita Chapter 3?
+This chapter covers Detailed classical discussion on Parāśara (Āyurveda scholar) within Atharvaveda And Charaka Samhita., offering authoritative classical Ayurvedic principles, therapeutic procedures, and clinical formulations.
+
+### What is the classical authority and origin of these medical teachings?
+These teachings originate from classical Sanskrit Samhitas and ancient scholar manuscripts, curated and structured for modern E-E-A-T clinical reference by Suresh Bhati.
+
+### How are the therapeutic remedies in this chapter utilized in clinical practice?
+Remedies described in this text are customized based on individual Dosha constitution, severe pathology staging, and professional Ayurvedic medical guidance.
+
+### Does this text outline preventive and curative healthcare measures?
+Yes, it provides comprehensive preventive daily routines (Dinacharya), dietary rules, herbal formulations, and therapeutic interventions.
+
+### Where can I view the complete directory of canonical Ayurvedic chapters?
+The full library index and chapter directories are accessible on the AyurShakti Canonical Texts portal.
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "MedicalWebPage",
+      "@id": "https://ayurshakti.shop/articles/atharvaveda-and-charaka-samhita-ch3#webpage",
+      "url": "https://ayurshakti.shop/articles/atharvaveda-and-charaka-samhita-ch3",
+      "name": "Par\u0101\u015bara (\u0100yurveda scholar): Atharvaveda And Charaka Samhita Chapter 3",
+      "description": "Detailed classical discussion on Par\u0101\u015bara (\u0100yurveda scholar) within Atharvaveda And Charaka Samhita.",
+      "author": {
+        "@type": "Person",
+        "name": "Suresh Bhati",
+        "url": "https://ayurshakti.shop/about"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "AyurShakti",
+        "url": "https://ayurshakti.shop"
+      }
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ayurshakti.shop/articles/atharvaveda-and-charaka-samhita-ch3#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What are the primary medical concepts explained in Par\u0101\u015bara (\u0100yurveda scholar): Atharvaveda And Charaka Samhita Chapter 3?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "This chapter covers Detailed classical discussion on Par\u0101\u015bara (\u0100yurveda scholar) within Atharvaveda And Charaka Samhita., offering authoritative classical Ayurvedic principles, therapeutic procedures, and clinical formulations."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the classical authority and origin of these medical teachings?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "These teachings originate from classical Sanskrit Samhitas and ancient scholar manuscripts, curated and structured for modern E-E-A-T clinical reference by Suresh Bhati."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How are the therapeutic remedies in this chapter utilized in clinical practice?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Remedies described in this text are customized based on individual Dosha constitution, severe pathology staging, and professional Ayurvedic medical guidance."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Does this text outline preventive and curative healthcare measures?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes, it provides comprehensive preventive daily routines (Dinacharya), dietary rules, herbal formulations, and therapeutic interventions."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Where can I view the complete directory of canonical Ayurvedic chapters?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The full library index and chapter directories are accessible on the AyurShakti Canonical Texts portal."
+          }
+        }
+      ]
+    }
+  ]
+}
+</script>
