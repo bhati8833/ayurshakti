@@ -189,3 +189,26 @@ body {
 .prose-ayur a:hover {
   color: #C5A059;
 }
+
+/* Interlink Hover Tooltip Styles */
+.ayur-tooltip-wrapper {
+  position: relative;
+  display: inline-block;
+}
+
+.ayur-tooltip-card {
+  pointer-events: none;
+  opacity: 0;
+  visibility: hidden;
+  transform: translate3d(-50%, 8px, 0);
+  transition: opacity 0.2s ease, transform 0.2s ease, visibility 0.2s ease;
+  box-shadow: 0 10px 25px -5px rgba(12, 41, 32, 0.15), 0 8px 10px -6px rgba(12, 41, 32, 0.1);
+}
+
+.group:hover .ayur-tooltip-card,
+.ayur-tooltip-wrapper:hover .ayur-tooltip-card {
+  opacity: 1;
+  visibility: visible;
+  transform: translate3d(-50%, 0, 0);
+}
+
