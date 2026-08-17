@@ -13,7 +13,7 @@ labels: ["Charaka Samhita", "Siddhisthana", "Ayurvedic Classics", "Suresh Bhati"
 section: "Siddhisthana"
 reading_time: "16"
 prev_chapter: "siddhisthana-ch-01-successful-line-of-treatment-kalpana-siddhi"
-next_chapter: "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-sddhi"
+next_chapter: "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-siddhi"
 ---
 
 # Chapter 2 - The Fivefold Purificatory Therapy (panchakarma-siddhi)

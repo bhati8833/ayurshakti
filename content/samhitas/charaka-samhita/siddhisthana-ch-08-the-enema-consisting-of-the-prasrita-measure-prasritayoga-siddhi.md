@@ -13,7 +13,7 @@ labels: ["Charaka Samhita", "Siddhisthana", "Ayurvedic Classics", "Suresh Bhati"
 section: "Siddhisthana"
 reading_time: "10"
 prev_chapter: "siddhisthana-ch-07-complications-of-enema-basti-vyapad-siddhi"
-next_chapter: "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-sddhi"
+next_chapter: "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-siddhi"
 ---
 
 # Chapter 8 - The Enema consisting of the Prasrita measure (prasritayoga-siddhi)

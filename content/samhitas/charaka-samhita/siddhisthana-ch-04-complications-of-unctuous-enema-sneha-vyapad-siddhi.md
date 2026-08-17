@@ -12,7 +12,7 @@ description: "Charaka Samhita (Siddhisthana) — Complications of Unctuous Enema
 labels: ["Charaka Samhita", "Siddhisthana", "Ayurvedic Classics", "Suresh Bhati"]
 section: "Siddhisthana"
 reading_time: "10"
-prev_chapter: "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-sddhi"
+prev_chapter: "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-siddhi"
 next_chapter: "siddhisthana-ch-05-complications-of-enema-tube-netra-basti-vyapad-siddhi"
 ---
 

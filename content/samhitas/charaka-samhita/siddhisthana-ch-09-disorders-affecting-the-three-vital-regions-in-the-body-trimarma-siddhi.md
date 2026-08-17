@@ -1,14 +1,14 @@
 ---
-title: "Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)"
+title: "Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-siddhi)"
 book: "Charaka Samhita"
 book_slug: "charaka-samhita"
 silo: "samhitas"
-slug: "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-sddhi"
+slug: "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-siddhi"
 author: "Suresh Bhati"
 category: "Charaka Samhita (Siddhisthana)"
 status: "Published"
 date: "2026-08-17"
-description: "Charaka Samhita (Siddhisthana) — Disorders affecting the Three Vital Regions in the body (trimarma-sddhi). Panchakarma procedures and their successful adminis."
+description: "Charaka Samhita (Siddhisthana) — Disorders affecting the Three Vital Regions in the body (trimarma-siddhi). Panchakarma procedures and their successful adminis."
 labels: ["Charaka Samhita", "Siddhisthana", "Ayurvedic Classics", "Suresh Bhati"]
 section: "Siddhisthana"
 reading_time: "25"
@@ -16,11 +16,11 @@ prev_chapter: "siddhisthana-ch-08-the-enema-consisting-of-the-prasrita-measure-p
 next_chapter: "siddhisthana-ch-10-successful-enema-therapy-basti-siddhi"
 ---
 
-# Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)
+# Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-siddhi)
 
 ## TL;DR — Executive Clinical Summary
 
-**Disorders affecting the Three Vital Regions in the body** — This chapter of the Charaka Samhita, Siddhisthana Chapter 9, expounds disorders affecting the three vital regions in the body (trimarma-sddhi) as taught by Acharya Atreya through Agnivesha and revised by Acharya Charaka. It covers the successful administration (siddhi) of enema, emesis, and panchakarma procedures.
+**Disorders affecting the Three Vital Regions in the body** — This chapter of the Charaka Samhita, Siddhisthana Chapter 9, expounds disorders affecting the three vital regions in the body (trimarma-siddhi) as taught by Acharya Atreya through Agnivesha and revised by Acharya Charaka. It covers the successful administration (siddhi) of enema, emesis, and panchakarma procedures.
 
 
 ---
@@ -29,9 +29,9 @@ Charaka Samhita (English translation)
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
-Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)
+Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-siddhi)
 
-1. We shill now expound the chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-sddhi]’.
+1. We shill now expound the chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-siddhi]’.
 
 2. Thus declared the worshipful Atreya.
 
@@ -213,6 +213,6 @@ Here are the two recapitulatory verses—
 
 118-119. Of the vital regions why three are pre-eminent; the signs and symptoms and treatment of injuries occurring in these regions;the different varieties of diseases affecting these organs and their remedies; the method of administration of the urethral and vaginal douches and similarly the method of administering nasal medication; the complications and their treatment, have all been described in this chapter entitled Success in Treatment of the ‘Three Vital Regions’.
 
-9. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the ninth chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-sddhi]’, not being available, the same as restored by Drdhabala, is completed.
+9. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the ninth chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-siddhi]’, not being available, the same as restored by Drdhabala, is completed.
 
 ---

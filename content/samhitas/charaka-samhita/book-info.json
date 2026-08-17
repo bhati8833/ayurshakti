@@ -14,11 +14,11 @@
       "reading_time": 6
     },
     {
-      "chapter_number": 5,
-      "title": "Chapter 5 - Measure in eating (matrashita)",
+      "chapter_number": 1,
+      "title": "Chapter 1 - The Quest for Longevity (dirgha-jivita)",
       "section": "Sutrasthana",
-      "slug": "sutrasthana-ch-05-measure-in-eating-matrashita",
-      "reading_time": 18
+      "slug": "sutrasthana-ch-01-the-quest-for-longevity-dirgha-jivita",
+      "reading_time": 20
     },
     {
       "chapter_number": 3,
@@ -26,6 +26,13 @@
       "section": "Sutrasthana",
       "slug": "sutrasthana-ch-03-the-purging-cassia-aragvadha",
       "reading_time": 6
+    },
+    {
+      "chapter_number": 5,
+      "title": "Chapter 5 - Measure in eating (matrashita)",
+      "section": "Sutrasthana",
+      "slug": "sutrasthana-ch-05-measure-in-eating-matrashita",
+      "reading_time": 18
     },
     {
       "chapter_number": 6,
@@ -70,18 +77,18 @@
       "reading_time": 21
     },
     {
-      "chapter_number": 13,
-      "title": "Chapter 13 - Oleation Therapy (Sneha)",
-      "section": "Sutrasthana",
-      "slug": "sutrasthana-ch-13-oleation-therapy-sneha",
-      "reading_time": 17
-    },
-    {
       "chapter_number": 12,
       "title": "Chapter 12 - The Salutary and the Unsalutary influences of Vata",
       "section": "Sutrasthana",
       "slug": "sutrasthana-ch-12-the-salutary-and-the-unsalutary-influences-of-vata",
       "reading_time": 9
+    },
+    {
+      "chapter_number": 13,
+      "title": "Chapter 13 - Oleation Therapy (Sneha)",
+      "section": "Sutrasthana",
+      "slug": "sutrasthana-ch-13-oleation-therapy-sneha",
+      "reading_time": 17
     },
     {
       "chapter_number": 14,
@@ -287,13 +294,6 @@
       "reading_time": 3
     },
     {
-      "chapter_number": 41,
-      "title": "Nidanasthana (Nidana Sthana) — Section on Pathology",
-      "section": "Nidanasthana",
-      "slug": "nidanasthana-general-principles",
-      "reading_time": 1
-    },
-    {
       "chapter_number": 30,
       "title": "Chapter 30b - Definition of Ayurveda (‘the science of life’)",
       "section": "Sutrasthana",
@@ -301,11 +301,11 @@
       "reading_time": 21
     },
     {
-      "chapter_number": 4,
-      "title": "Chapter 4 - Six Hundred Purgative Preparations (virecana-ashraya)",
+      "chapter_number": 41,
+      "title": "Nidanasthana (Nidana Sthana) — Section on Pathology",
       "section": "Nidanasthana",
-      "slug": "nidanasthana-ch-04-six-hundred-purgative-preparations-virecana-ashraya",
-      "reading_time": 14
+      "slug": "nidanasthana-general-principles",
+      "reading_time": 1
     },
     {
       "chapter_number": 1,
@@ -320,6 +320,20 @@
       "section": "Nidanasthana",
       "slug": "nidanasthana-ch-02-the-pathology-of-hemothermia-raktapitta-nidana",
       "reading_time": 7
+    },
+    {
+      "chapter_number": 3,
+      "title": "Chapter 3 - The Pathology of Gulma (gulma-nidana)",
+      "section": "Nidanasthana",
+      "slug": "nidanasthana-ch-03-the-pathology-of-gulma-gulma-nidana",
+      "reading_time": 1
+    },
+    {
+      "chapter_number": 4,
+      "title": "Chapter 4 - Six Hundred Purgative Preparations (virecana-ashraya)",
+      "section": "Nidanasthana",
+      "slug": "nidanasthana-ch-04-six-hundred-purgative-preparations-virecana-ashraya",
+      "reading_time": 14
     },
     {
       "chapter_number": 4,
@@ -413,18 +427,18 @@
       "reading_time": 17
     },
     {
-      "chapter_number": 59,
-      "title": "Sharirasthana (Sharira Sthana) — Section on Human Embodiment",
-      "section": "Sharirasthana",
-      "slug": "sharirasthana-general-principles",
-      "reading_time": 1
-    },
-    {
       "chapter_number": 8,
       "title": "Chapter 8 - The Treatment of Disease (roga-bhishaj-jiti-vimana)",
       "section": "Vimanasthana",
       "slug": "vimanasthana-ch-08-the-treatment-of-disease-roga-bhishaj-jiti-vimana",
       "reading_time": 75
+    },
+    {
+      "chapter_number": 59,
+      "title": "Sharirasthana (Sharira Sthana) — Section on Human Embodiment",
+      "section": "Sharirasthana",
+      "slug": "sharirasthana-general-principles",
+      "reading_time": 1
     },
     {
       "chapter_number": 1,
@@ -441,13 +455,6 @@
       "reading_time": 11
     },
     {
-      "chapter_number": 4,
-      "title": "Chapter 4 - The major chapter on the Formation of the Fetus (garbha-avakranti)",
-      "section": "Sharirasthana",
-      "slug": "sharirasthana-ch-04-the-major-chapter-on-the-formation-of-the-fetus-garbha-avakranti",
-      "reading_time": 19
-    },
-    {
       "chapter_number": 3,
       "title": "Chapter 3 - The Formation of the Fetus (garbha-avakranti)",
       "section": "Sharirasthana",
@@ -455,11 +462,11 @@
       "reading_time": 17
     },
     {
-      "chapter_number": 6,
-      "title": "Chapter 6 - The Analysis of the Body (sharira-vicaya)",
+      "chapter_number": 4,
+      "title": "Chapter 4 - The major chapter on the Formation of the Fetus (garbha-avakranti)",
       "section": "Sharirasthana",
-      "slug": "sharirasthana-ch-06-the-analysis-of-the-body-sharira-vicaya",
-      "reading_time": 14
+      "slug": "sharirasthana-ch-04-the-major-chapter-on-the-formation-of-the-fetus-garbha-avakranti",
+      "reading_time": 19
     },
     {
       "chapter_number": 5,
@@ -467,6 +474,13 @@
       "section": "Sharirasthana",
       "slug": "sharirasthana-ch-05-the-analysis-of-man-purusha-vicaya",
       "reading_time": 11
+    },
+    {
+      "chapter_number": 6,
+      "title": "Chapter 6 - The Analysis of the Body (sharira-vicaya)",
+      "section": "Sharirasthana",
+      "slug": "sharirasthana-ch-06-the-analysis-of-the-body-sharira-vicaya",
+      "reading_time": 14
     },
     {
       "chapter_number": 7,
@@ -490,13 +504,6 @@
       "reading_time": 1
     },
     {
-      "chapter_number": 2,
-      "title": "Chapter 2 - The blossoming of prognostic symptoms (pushpitaka)",
-      "section": "Indriyasthana",
-      "slug": "indriyasthana-ch-02-the-blossoming-of-prognostic-symptoms-pushpitaka",
-      "reading_time": 4
-    },
-    {
       "chapter_number": 1,
       "title": "Chapter 1 - Prognosis from voice and complexion (varna-svara)",
       "section": "Indriyasthana",
@@ -504,17 +511,24 @@
       "reading_time": 8
     },
     {
-      "chapter_number": 1,
-      "title": "Chapter 1 - The Quest for Longevity (dirgha-jivita)",
-      "section": "Sutrasthana",
-      "slug": "sutrasthana-ch-01-the-quest-for-longevity-dirgha-jivita",
-      "reading_time": 20
+      "chapter_number": 2,
+      "title": "Chapter 2 - The blossoming of prognostic symptoms (pushpitaka)",
+      "section": "Indriyasthana",
+      "slug": "indriyasthana-ch-02-the-blossoming-of-prognostic-symptoms-pushpitaka",
+      "reading_time": 4
     },
     {
       "chapter_number": 3,
       "title": "Chapter 3 - Prognostic investigation (parimarshana)",
       "section": "Indriyasthana",
       "slug": "indriyasthana-ch-03-prognostic-investigation-parimarshana",
+      "reading_time": 5
+    },
+    {
+      "chapter_number": 4,
+      "title": "Chapter 4 - Prognostics pertaining to senses (indriya)",
+      "section": "Indriyasthana",
+      "slug": "indriyasthana-ch-04-prognostics-pertaining-to-senses-indriya",
       "reading_time": 5
     },
     {
@@ -553,13 +567,6 @@
       "reading_time": 4
     },
     {
-      "chapter_number": 4,
-      "title": "Chapter 4 - Prognostics pertaining to senses (indriya)",
-      "section": "Indriyasthana",
-      "slug": "indriyasthana-ch-04-prognostics-pertaining-to-senses-indriya",
-      "reading_time": 5
-    },
-    {
       "chapter_number": 10,
       "title": "Chapter 10 - Prognosis of Impending Death (sadyas-marana)",
       "section": "Indriyasthana",
@@ -581,6 +588,13 @@
       "reading_time": 13
     },
     {
+      "chapter_number": 150,
+      "title": "Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics",
+      "section": "Chikitsasthana",
+      "slug": "chikitsasthana-general-principles",
+      "reading_time": 1
+    },
+    {
       "chapter_number": 1,
       "title": "Chapter 1a - The Virtues of the Chebulic (abhaya) and Emblic Myrobalans (amalaki)",
       "section": "Chikitsasthana",
@@ -589,16 +603,16 @@
     },
     {
       "chapter_number": 1,
-      "title": "Chapter 1c - Fruits plucked with the Hand (kara-pracita)",
+      "title": "Chapter 1b - The Urge to Live (prana-kama)",
       "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-01c-fruits-plucked-with-the-hand-kara-pracita",
+      "slug": "chikitsasthana-ch-01b-the-urge-to-live-prana-kama",
       "reading_time": 14
     },
     {
       "chapter_number": 1,
-      "title": "Chapter 1b - The Urge to Live (prana-kama)",
+      "title": "Chapter 1c - Fruits plucked with the Hand (kara-pracita)",
       "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-01b-the-urge-to-live-prana-kama",
+      "slug": "chikitsasthana-ch-01c-fruits-plucked-with-the-hand-kara-pracita",
       "reading_time": 14
     },
     {
@@ -637,6 +651,13 @@
       "reading_time": 8
     },
     {
+      "chapter_number": 3,
+      "title": "Chapter 3 - The therapeutics of Fever (jvara-cikitsa)",
+      "section": "Chikitsasthana",
+      "slug": "chikitsasthana-ch-03-the-therapeutics-of-fever-jvara-cikitsa",
+      "reading_time": 57
+    },
+    {
       "chapter_number": 4,
       "title": "Chapter 4 - The therapeutics of Hemothermia (raktapitta-cikitsa)",
       "section": "Chikitsasthana",
@@ -644,11 +665,11 @@
       "reading_time": 19
     },
     {
-      "chapter_number": 3,
-      "title": "Chapter 3 - The therapeutics of Fever (jvara-cikitsa)",
+      "chapter_number": 5,
+      "title": "Chapter 5 - The therapeutics of Gulma (abdominal swellings)",
       "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-03-the-therapeutics-of-fever-jvara-cikitsa",
-      "reading_time": 57
+      "slug": "chikitsasthana-ch-05-the-therapeutics-of-gulma-abdominal-swellings",
+      "reading_time": 30
     },
     {
       "chapter_number": 6,
@@ -665,11 +686,11 @@
       "reading_time": 29
     },
     {
-      "chapter_number": 5,
-      "title": "Chapter 5 - The therapeutics of Gulma (abdominal swellings)",
+      "chapter_number": 8,
+      "title": "Chapter 8 - The therapeutics of Consumption (raja-yakshma-cikitsa)",
       "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-05-the-therapeutics-of-gulma-abdominal-swellings",
-      "reading_time": 30
+      "slug": "chikitsasthana-ch-08-the-therapeutics-of-consumption-raja-yakshma-cikitsa",
+      "reading_time": 28
     },
     {
       "chapter_number": 9,
@@ -677,13 +698,6 @@
       "section": "Chikitsasthana",
       "slug": "chikitsasthana-ch-09-the-therapeutics-of-insanity-unmada-cikitsa",
       "reading_time": 21
-    },
-    {
-      "chapter_number": 8,
-      "title": "Chapter 8 - The therapeutics of Consumption (raja-yakshma-cikitsa)",
-      "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-08-the-therapeutics-of-consumption-raja-yakshma-cikitsa",
-      "reading_time": 28
     },
     {
       "chapter_number": 10,
@@ -707,18 +721,18 @@
       "reading_time": 23
     },
     {
-      "chapter_number": 14,
-      "title": "Chapter 14 - The therapeutics of Abdominal Piles (arshas-cikitsa)",
-      "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-14-the-therapeutics-of-abdominal-piles-arshas-cikitsa",
-      "reading_time": 44
-    },
-    {
       "chapter_number": 13,
       "title": "Chapter 13 - The therapeutics of Abdominal Disease (udara-cikitsa)",
       "section": "Chikitsasthana",
       "slug": "chikitsasthana-ch-13-the-therapeutics-of-abdominal-disease-udara-cikitsa",
       "reading_time": 36
+    },
+    {
+      "chapter_number": 14,
+      "title": "Chapter 14 - The therapeutics of Abdominal Piles (arshas-cikitsa)",
+      "section": "Chikitsasthana",
+      "slug": "chikitsasthana-ch-14-the-therapeutics-of-abdominal-piles-arshas-cikitsa",
+      "reading_time": 44
     },
     {
       "chapter_number": 15,
@@ -756,18 +770,18 @@
       "reading_time": 25
     },
     {
-      "chapter_number": 21,
-      "title": "Chapter 21 - The therapeutics of Acute Spreading Affections (visarpa-cikitsa)",
-      "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-21-the-therapeutics-of-acute-spreading-affections-visarpa-cikitsa",
-      "reading_time": 30
-    },
-    {
       "chapter_number": 20,
       "title": "Chapter 20 - The therapeutics of Vomiting (chardi-cikitsa)",
       "section": "Chikitsasthana",
       "slug": "chikitsasthana-ch-20-the-therapeutics-of-vomiting-chardi-cikitsa",
       "reading_time": 11
+    },
+    {
+      "chapter_number": 21,
+      "title": "Chapter 21 - The therapeutics of Acute Spreading Affections (visarpa-cikitsa)",
+      "section": "Chikitsasthana",
+      "slug": "chikitsasthana-ch-21-the-therapeutics-of-acute-spreading-affections-visarpa-cikitsa",
+      "reading_time": 30
     },
     {
       "chapter_number": 22,
@@ -798,18 +812,18 @@
       "reading_time": 18
     },
     {
-      "chapter_number": 27,
-      "title": "Chapter 27 - The therapeutics of Spastic Paraplegia (urustambha-cikitsa)",
-      "section": "Chikitsasthana",
-      "slug": "chikitsasthana-ch-27-the-therapeutics-of-spastic-paraplegia-urustambha-cikitsa",
-      "reading_time": 10
-    },
-    {
       "chapter_number": 26,
       "title": "Chapter 26 - The therapeutics of Wounds (tri-marma-cikitsa)",
       "section": "Chikitsasthana",
       "slug": "chikitsasthana-ch-26-the-therapeutics-of-wounds-tri-marma-cikitsa",
       "reading_time": 52
+    },
+    {
+      "chapter_number": 27,
+      "title": "Chapter 27 - The therapeutics of Spastic Paraplegia (urustambha-cikitsa)",
+      "section": "Chikitsasthana",
+      "slug": "chikitsasthana-ch-27-the-therapeutics-of-spastic-paraplegia-urustambha-cikitsa",
+      "reading_time": 10
     },
     {
       "chapter_number": 28,
@@ -826,18 +840,18 @@
       "reading_time": 26
     },
     {
-      "chapter_number": 118,
-      "title": "Kalpasthana (Kalpa Sthana) — Section on Pharmaceutics",
-      "section": "Kalpasthana",
-      "slug": "kalpasthana-general-principles",
-      "reading_time": 1
-    },
-    {
       "chapter_number": 30,
       "title": "Chapter 30 - The therapeutics of Gynecic Disorders (yoni-vyapad-cikitsa)",
       "section": "Chikitsasthana",
       "slug": "chikitsasthana-ch-30-the-therapeutics-of-gynecic-disorders-yoni-vyapad-cikitsa",
       "reading_time": 53
+    },
+    {
+      "chapter_number": 118,
+      "title": "Kalpasthana (Kalpa Sthana) — Section on Pharmaceutics",
+      "section": "Kalpasthana",
+      "slug": "kalpasthana-general-principles",
+      "reading_time": 1
     },
     {
       "chapter_number": 1,
@@ -854,18 +868,25 @@
       "reading_time": 9
     },
     {
-      "chapter_number": 3,
-      "title": "Chapter 3 - The Pharmaceutics of the Bottle Gourd (ikshvaku-kalpa)",
-      "section": "Kalpasthana",
-      "slug": "kalpasthana-ch-03-the-pharmaceutics-of-the-bottle-gourd-ikshvaku-kalpa",
-      "reading_time": 5
-    },
-    {
       "chapter_number": 2,
       "title": "Chapter 2 - The Pharmaceutics of Bristly luffa (jimutaka-kalpa)",
       "section": "Kalpasthana",
       "slug": "kalpasthana-ch-02-the-pharmaceutics-of-bristly-luffa-jimutaka-kalpa",
       "reading_time": 3
+    },
+    {
+      "chapter_number": 2,
+      "title": "Chapter 2 - The Seeds of Rough chaff (apamarga-tanduliya)",
+      "section": "Kalpasthana",
+      "slug": "kalpasthana-ch-02-the-seeds-of-rough-chaff-apamarga-tanduliya",
+      "reading_time": 1
+    },
+    {
+      "chapter_number": 3,
+      "title": "Chapter 3 - The Pharmaceutics of the Bottle Gourd (ikshvaku-kalpa)",
+      "section": "Kalpasthana",
+      "slug": "kalpasthana-ch-03-the-pharmaceutics-of-the-bottle-gourd-ikshvaku-kalpa",
+      "reading_time": 5
     },
     {
       "chapter_number": 4,
@@ -889,11 +910,11 @@
       "reading_time": 3
     },
     {
-      "chapter_number": 3,
-      "title": "Chapter 3 - The Pathology of Gulma (gulma-nidana)",
-      "section": "Nidanasthana",
-      "slug": "nidanasthana-ch-03-the-pathology-of-gulma-gulma-nidana",
-      "reading_time": 1
+      "chapter_number": 7,
+      "title": "Chapter 7 - The Pharmaceutics of Turpeth (trivrit-kalpa)",
+      "section": "Kalpasthana",
+      "slug": "kalpasthana-ch-07-the-pharmaceutics-of-turpeth-trivrit-kalpa",
+      "reading_time": 13
     },
     {
       "chapter_number": 8,
@@ -903,11 +924,11 @@
       "reading_time": 4
     },
     {
-      "chapter_number": 7,
-      "title": "Chapter 7 - The Pharmaceutics of Turpeth (trivrit-kalpa)",
+      "chapter_number": 9,
+      "title": "Chapter 9 - The Pharmaceutics of Tilwaka (tilvaka-kalpa)",
       "section": "Kalpasthana",
-      "slug": "kalpasthana-ch-07-the-pharmaceutics-of-turpeth-trivrit-kalpa",
-      "reading_time": 13
+      "slug": "kalpasthana-ch-09-the-pharmaceutics-of-tilwaka-tilvaka-kalpa",
+      "reading_time": 4
     },
     {
       "chapter_number": 10,
@@ -917,24 +938,10 @@
       "reading_time": 4
     },
     {
-      "chapter_number": 2,
-      "title": "Chapter 2 - The Seeds of Rough chaff (apamarga-tanduliya)",
-      "section": "Kalpasthana",
-      "slug": "kalpasthana-ch-02-the-seeds-of-rough-chaff-apamarga-tanduliya",
-      "reading_time": 1
-    },
-    {
       "chapter_number": 11,
       "title": "Chapter 11 - The Pharmaceutics of the Soap-pod and Clenolepis",
       "section": "Kalpasthana",
       "slug": "kalpasthana-ch-11-the-pharmaceutics-of-the-soap-pod-and-clenolepis",
-      "reading_time": 4
-    },
-    {
-      "chapter_number": 9,
-      "title": "Chapter 9 - The Pharmaceutics of Tilwaka (tilvaka-kalpa)",
-      "section": "Kalpasthana",
-      "slug": "kalpasthana-ch-09-the-pharmaceutics-of-tilwaka-tilvaka-kalpa",
       "reading_time": 4
     },
     {
@@ -959,13 +966,6 @@
       "reading_time": 4
     },
     {
-      "chapter_number": 2,
-      "title": "Chapter 2 - The Fivefold Purificatory Therapy (panchakarma-siddhi)",
-      "section": "Siddhisthana",
-      "slug": "siddhisthana-ch-02-the-fivefold-purificatory-therapy-panchakarma-siddhi",
-      "reading_time": 16
-    },
-    {
       "chapter_number": 138,
       "title": "Siddhisthana (Siddhi Sthana) — Section on Successful Treatment",
       "section": "Siddhisthana",
@@ -973,18 +973,32 @@
       "reading_time": 1
     },
     {
+      "chapter_number": 1,
+      "title": "Chapter 1 - Successful line of Treatment (kalpana-siddhi)",
+      "section": "Siddhisthana",
+      "slug": "siddhisthana-ch-01-successful-line-of-treatment-kalpana-siddhi",
+      "reading_time": 15
+    },
+    {
+      "chapter_number": 2,
+      "title": "Chapter 2 - The Fivefold Purificatory Therapy (panchakarma-siddhi)",
+      "section": "Siddhisthana",
+      "slug": "siddhisthana-ch-02-the-fivefold-purificatory-therapy-panchakarma-siddhi",
+      "reading_time": 16
+    },
+    {
+      "chapter_number": 3,
+      "title": "Chapter 3 - The Principles of the Enema Procedure (basti-sutra-siddhi)",
+      "section": "Siddhisthana",
+      "slug": "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-siddhi",
+      "reading_time": 17
+    },
+    {
       "chapter_number": 4,
       "title": "Chapter 4 - Complications of Unctuous Enema (sneha-vyapad-siddhi)",
       "section": "Siddhisthana",
       "slug": "siddhisthana-ch-04-complications-of-unctuous-enema-sneha-vyapad-siddhi",
       "reading_time": 10
-    },
-    {
-      "chapter_number": 3,
-      "title": "Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)",
-      "section": "Siddhisthana",
-      "slug": "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-sddhi",
-      "reading_time": 17
     },
     {
       "chapter_number": 5,
@@ -1001,25 +1015,11 @@
       "reading_time": 18
     },
     {
-      "chapter_number": 9,
-      "title": "Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)",
-      "section": "Siddhisthana",
-      "slug": "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-sddhi",
-      "reading_time": 25
-    },
-    {
       "chapter_number": 7,
       "title": "Chapter 7 - Complications of Enema (basti-vyapad-siddhi)",
       "section": "Siddhisthana",
       "slug": "siddhisthana-ch-07-complications-of-enema-basti-vyapad-siddhi",
       "reading_time": 13
-    },
-    {
-      "chapter_number": 10,
-      "title": "Chapter 10 - Successful Enema therapy (basti-siddhi)",
-      "section": "Siddhisthana",
-      "slug": "siddhisthana-ch-10-successful-enema-therapy-basti-siddhi",
-      "reading_time": 9
     },
     {
       "chapter_number": 8,
@@ -1029,11 +1029,18 @@
       "reading_time": 10
     },
     {
-      "chapter_number": 12,
-      "title": "Chapter 12 - The remaining best kinds of Enema (uttara-basti-siddhi)",
+      "chapter_number": 9,
+      "title": "Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-siddhi)",
       "section": "Siddhisthana",
-      "slug": "siddhisthana-ch-12-the-remaining-best-kinds-of-enema-uttara-basti-siddhi",
-      "reading_time": 28
+      "slug": "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-siddhi",
+      "reading_time": 25
+    },
+    {
+      "chapter_number": 10,
+      "title": "Chapter 10 - Successful Enema therapy (basti-siddhi)",
+      "section": "Siddhisthana",
+      "slug": "siddhisthana-ch-10-successful-enema-therapy-basti-siddhi",
+      "reading_time": 9
     },
     {
       "chapter_number": 11,
@@ -1043,18 +1050,11 @@
       "reading_time": 10
     },
     {
-      "chapter_number": 1,
-      "title": "Chapter 1 - Successful line of Treatment (kalpana-siddhi)",
+      "chapter_number": 12,
+      "title": "Chapter 12 - The remaining best kinds of Enema (uttara-basti-siddhi)",
       "section": "Siddhisthana",
-      "slug": "siddhisthana-ch-01-successful-line-of-treatment-kalpana-siddhi",
-      "reading_time": 15
-    },
-    {
-      "chapter_number": 150,
-      "title": "Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics",
-      "section": "Chikitsasthana",
-      "slug": "chikitsasthana-general-principles",
-      "reading_time": 1
+      "slug": "siddhisthana-ch-12-the-remaining-best-kinds-of-enema-uttara-basti-siddhi",
+      "reading_time": 28
     }
   ]
 }

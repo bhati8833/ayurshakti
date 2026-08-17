@@ -103,15 +103,15 @@ Here are the two recapitulatory verses—
 
 ---
 
-## Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)
+## Chapter 3 - The Principles of the Enema Procedure (basti-sutra-siddhi)
 
 Charaka Samhita (English translation)
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
-Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)
+Chapter 3 - The Principles of the Enema Procedure (basti-sutra-siddhi)
 
-1. We shall now expound the chapter entitled ‘The Success in Treatment through the Principles of the Enema Procedure [basti-sutra-sddhi].’
+1. We shall now expound the chapter entitled ‘The Success in Treatment through the Principles of the Enema Procedure [basti-sutra-siddhi].’
 
 2. Thus declared the worshipful Atreya.
 
@@ -193,7 +193,7 @@ Summary
 
 71. Thus, the best method of administering the enema-treatment has been fully and properly expounded here. The wise man who learning this, administers the euema treatment, achieves complete success in his treatment.
 
-3. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the third chapter entitled ‘Success in Treatment through the Principles of the Enema Procedure [basti-sutra-sddhi]’ not being available, the same as restored by Dridhabala, is completed.
+3. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the third chapter entitled ‘Success in Treatment through the Principles of the Enema Procedure [basti-sutra-siddhi]’ not being available, the same as restored by Dridhabala, is completed.
 
 ---
 
@@ -429,15 +429,15 @@ Here are the two recapitulatory verses—
 
 ---
 
-## Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)
+## Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-siddhi)
 
 Charaka Samhita (English translation)
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
-Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-sddhi)
+Chapter 9 - Disorders affecting the Three Vital Regions in the body (trimarma-siddhi)
 
-1. We shill now expound the chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-sddhi]’.
+1. We shill now expound the chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-siddhi]’.
 
 2. Thus declared the worshipful Atreya.
 
@@ -615,7 +615,7 @@ Here are the two recapitulatory verses—
 
 118-119. Of the vital regions why three are pre-eminent; the signs and symptoms and treatment of injuries occurring in these regions;the different varieties of diseases affecting these organs and their remedies; the method of administration of the urethral and vaginal douches and similarly the method of administering nasal medication; the complications and their treatment, have all been described in this chapter entitled Success in Treatment of the ‘Three Vital Regions’.
 
-9. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the ninth chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-sddhi]’, not being available, the same as restored by Drdhabala, is completed.
+9. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the ninth chapter entitled ‘Success in Treatment of the Complications arising from the Disorders affecting the Three Vital Regions in the body [trimarma-siddhi]’, not being available, the same as restored by Drdhabala, is completed.
 
 ---
 

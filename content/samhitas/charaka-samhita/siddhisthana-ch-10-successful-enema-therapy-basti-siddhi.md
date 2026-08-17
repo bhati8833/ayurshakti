@@ -12,7 +12,7 @@ description: "Charaka Samhita (Siddhisthana) — Successful Enema therapy (basti
 labels: ["Charaka Samhita", "Siddhisthana", "Ayurvedic Classics", "Suresh Bhati"]
 section: "Siddhisthana"
 reading_time: "9"
-prev_chapter: "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-sddhi"
+prev_chapter: "siddhisthana-ch-09-disorders-affecting-the-three-vital-regions-in-the-body-trimarma-siddhi"
 next_chapter: "siddhisthana-ch-11-the-dose-of-the-enema-phala-matra-siddhi"
 ---
 

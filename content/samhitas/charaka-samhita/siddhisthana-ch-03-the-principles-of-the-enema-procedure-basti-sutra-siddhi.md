@@ -1,14 +1,14 @@
 ---
-title: "Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)"
+title: "Chapter 3 - The Principles of the Enema Procedure (basti-sutra-siddhi)"
 book: "Charaka Samhita"
 book_slug: "charaka-samhita"
 silo: "samhitas"
-slug: "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-sddhi"
+slug: "siddhisthana-ch-03-the-principles-of-the-enema-procedure-basti-sutra-siddhi"
 author: "Suresh Bhati"
 category: "Charaka Samhita (Siddhisthana)"
 status: "Published"
 date: "2026-08-17"
-description: "Charaka Samhita (Siddhisthana) — The Principles of the Enema Procedure (basti-sutra-sddhi). Panchakarma procedures and their successful administration."
+description: "Charaka Samhita (Siddhisthana) — The Principles of the Enema Procedure (basti-sutra-siddhi). Panchakarma procedures and their successful administration."
 labels: ["Charaka Samhita", "Siddhisthana", "Ayurvedic Classics", "Suresh Bhati"]
 section: "Siddhisthana"
 reading_time: "17"
@@ -16,11 +16,11 @@ prev_chapter: "siddhisthana-ch-02-the-fivefold-purificatory-therapy-panchakarma-
 next_chapter: "siddhisthana-ch-04-complications-of-unctuous-enema-sneha-vyapad-siddhi"
 ---
 
-# Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)
+# Chapter 3 - The Principles of the Enema Procedure (basti-sutra-siddhi)
 
 ## TL;DR — Executive Clinical Summary
 
-**The Principles of the Enema Procedure** — This chapter of the Charaka Samhita, Siddhisthana Chapter 3, expounds the principles of the enema procedure (basti-sutra-sddhi) as taught by Acharya Atreya through Agnivesha and revised by Acharya Charaka. It covers the successful administration (siddhi) of enema, emesis, and panchakarma procedures.
+**The Principles of the Enema Procedure** — This chapter of the Charaka Samhita, Siddhisthana Chapter 3, expounds the principles of the enema procedure (basti-sutra-siddhi) as taught by Acharya Atreya through Agnivesha and revised by Acharya Charaka. It covers the successful administration (siddhi) of enema, emesis, and panchakarma procedures.
 
 
 ---
@@ -29,9 +29,9 @@ Charaka Samhita (English translation)
 
 The English translation of the Charaka Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sharirasthana (anatomy), Indriyasthana (sensory), Cikitsasthana (therapeutics), Kalpasthana (pharmaceutics) and Sidd...
 
-Chapter 3 - The Principles of the Enema Procedure (basti-sutra-sddhi)
+Chapter 3 - The Principles of the Enema Procedure (basti-sutra-siddhi)
 
-1. We shall now expound the chapter entitled ‘The Success in Treatment through the Principles of the Enema Procedure [basti-sutra-sddhi].’
+1. We shall now expound the chapter entitled ‘The Success in Treatment through the Principles of the Enema Procedure [basti-sutra-siddhi].’
 
 2. Thus declared the worshipful Atreya.
 
@@ -113,6 +113,6 @@ Summary
 
 71. Thus, the best method of administering the enema-treatment has been fully and properly expounded here. The wise man who learning this, administers the euema treatment, achieves complete success in his treatment.
 
-3. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the third chapter entitled ‘Success in Treatment through the Principles of the Enema Procedure [basti-sutra-sddhi]’ not being available, the same as restored by Dridhabala, is completed.
+3. Thus, in the Section on Success in Treatment, in the treatise compiled by Agnivesha and revised by Caraka, the third chapter entitled ‘Success in Treatment through the Principles of the Enema Procedure [basti-sutra-siddhi]’ not being available, the same as restored by Dridhabala, is completed.
 
 ---
