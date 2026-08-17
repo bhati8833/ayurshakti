@@ -2737,6 +2737,116 @@
           }
         }
       }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status_0569942292.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:30:04.660810+00:00",
+          "details": {
+            "post_id": "4347528571778439527",
+            "scheduled_est": "2026-08-17T08:44:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:30:41.198826+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:30:36.041363+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:30:14.048601+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin_02065515883.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:30:45.966355+00:00",
+          "details": {
+            "post_id": "2074259165141032095",
+            "scheduled_est": "2026-08-17T19:21:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:31:16.820384+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:31:13.083208+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-17T06:30:50.913176+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
     }
   }
 }

@@ -27,3 +27,13 @@ Developer / AI Agent ──► GitHub (Git Push) ──► GitHub Actions ──
 | Firebase Project ID | `ayur-shakti` |
 | GA4 Property ID | `533609055` |
 | Cloudflare Zone ID | `f63c29bc9532dc008cd45e2db084ee4e` |
+
+## Local Development Hardware & Processing Batching
+
+| Spec | Value | Operational Rule |
+|------|-------|------------------|
+| **CPU** | Intel Core i5-1035G1 (4C/8T @ 1.00GHz - 3.60GHz) | Add minor sleep delays in loops to prevent throttling |
+| **RAM** | 8 GB (7.3 GiB usable, ~4.5 GiB available) | Keep parallel script execution within memory limits |
+| **Disk** | 109 GB SSD (84% used, ~18 GB free) | Keep `.next/` and build outputs clean |
+| **Batching** | 25–50 items / micro-batch | Process content/markdown files in chunks of 25–50 |
+

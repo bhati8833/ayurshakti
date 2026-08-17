@@ -18,6 +18,18 @@ Author is **Suresh Bhati** (from `config/profile.json`). Do NOT assume "shiva" f
 - **Node.js**: ≥ 18 (required for Next.js build & Firebase tools)
 - **Secrets**: All credentials in `secrets/` (gitignored). See `docs/04-credentials.md`.
 
+## Local Hardware Specs & Batching Guidelines
+
+- **CPU**: Intel Core i5-1035G1 (4 Cores / 8 Threads @ 1.00GHz, Turbo 3.60GHz)
+- **RAM**: 8 GB Total (7.3 GiB usable, ~4.5 GiB available, 31 GB Swap)
+- **Disk Space**: 109 GB Partition (84% used, ~18 GB available free space)
+
+### Batching & Resource Allocation Rules:
+1. **Micro-Batch Operations**: When processing large file batches (e.g. Samhita chapters, Glossary JSONs, or bulk article processing), execute work in **chunks of 25–50 files at a time**.
+2. **Memory Threshold**: Limit parallel processes so Node.js/Python tasks operate comfortably within the available ~4.5 GB RAM.
+3. **Disk Maintenance**: Keep `.next/` and static `out/` build artifacts clean to protect the remaining 18 GB disk space.
+4. **CPU Throttling Prevention**: Insert micro-pauses (e.g., script sleep delays) during intensive batch jobs to prevent CPU overheating and system freeze.
+
 ## Key Commands
 
 ```bash

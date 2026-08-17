@@ -59,19 +59,19 @@ export default function HeroSection() {
             className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4"
           >
             <Link
-              href="/articles"
+              href="/herbs"
               className="w-full sm:w-auto px-8 py-4 rounded-full bg-ayur-forest text-ayur-bg font-semibold text-sm tracking-wide uppercase shadow-lg hover:bg-ayur-emerald transition-all duration-300 flex items-center justify-center gap-3 group hover:-translate-y-1"
             >
-              Explore Research Articles
+              Explore Herbal Library
               <ArrowRight className="w-4 h-4 text-ayur-gold group-hover:translate-x-1 transition-transform" />
             </Link>
 
             <Link
-              href="/dosha-quiz"
+              href="/samhitas"
               className="w-full sm:w-auto px-8 py-4 rounded-full bg-white border border-ayur-border text-ayur-forest font-semibold text-sm tracking-wide uppercase shadow-sm hover:border-ayur-gold hover:bg-ayur-sand transition-all duration-300 flex items-center justify-center gap-2"
             >
-              <HeartPulse className="w-4 h-4 text-ayur-emerald" />
-              Take Dosha Quiz
+              <BookOpenCheck className="w-4 h-4 text-ayur-gold" />
+              Sanskrit Samhitas
             </Link>
           </motion.div>
         </div>

@@ -98,41 +98,48 @@ export default function Footer() {
         <div className="py-12 grid grid-cols-2 md:grid-cols-4 gap-8 border-b border-ayur-herbal/80 text-xs">
           
           <div className="space-y-3">
-            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Navigation</h4>
+            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Navigation Matrix</h4>
             <ul className="space-y-2 text-ayur-bg/80">
               <li><Link href="/" className="hover:text-ayur-gold transition-colors">Home</Link></li>
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Research Articles</Link></li>
-              <li><Link href="/canonical-texts" className="hover:text-ayur-gold transition-colors">Sanskrit Manuscripts</Link></li>
-              <li><Link href="/dosha-quiz" className="hover:text-ayur-gold transition-colors">Dosha Quiz</Link></li>
-              <li><Link href="/about" className="hover:text-ayur-gold transition-colors">About Suresh Bhati</Link></li>
+              <li><Link href="/samhitas" className="hover:text-ayur-gold transition-colors">Classical Samhitas (366 Ch.)</Link></li>
+              <li><Link href="/herbs" className="hover:text-ayur-gold transition-colors">Herbal Library (42 Herbs)</Link></li>
+              <li><Link href="/pet-health" className="hover:text-ayur-gold transition-colors">Pet Health & Veterinary</Link></li>
+              <li><Link href="/research" className="hover:text-ayur-gold transition-colors">Research & Studies</Link></li>
+              <li><Link href="/glossary" className="hover:text-ayur-gold transition-colors">A-Z Sanskrit Glossary</Link></li>
+              <li><Link href="/dosha-quiz" className="hover:text-ayur-gold transition-colors">Take Dosha Assessment</Link></li>
             </ul>
           </div>
 
           <div className="space-y-3">
             <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Herbal Pillars</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Ashwagandha Adaptogens</Link></li>
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Giloy Immunity Protocols</Link></li>
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Shatavari Women's Health</Link></li>
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Triphala & Agni Digestion</Link></li>
+              <li><Link href="/herbs/ashwagandha" className="hover:text-ayur-gold transition-colors">Ashwagandha Adaptogens</Link></li>
+              <li><Link href="/herbs/giloy" className="hover:text-ayur-gold transition-colors">Giloy Immunity Protocols</Link></li>
+              <li><Link href="/herbs/shatavari" className="hover:text-ayur-gold transition-colors">Shatavari Women's Health</Link></li>
+              <li><Link href="/herbs/triphala" className="hover:text-ayur-gold transition-colors">Triphala & Agni Digestion</Link></li>
+              <li><Link href="/herbs/arjuna" className="hover:text-ayur-gold transition-colors">Arjuna Cardiovascular</Link></li>
+              <li><Link href="/herbs" className="hover:text-ayur-gold transition-colors">Explore All 42 Profiles →</Link></li>
             </ul>
           </div>
 
           <div className="space-y-3">
             <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Pet Care (Mrigayurveda)</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Dog Anxiety Remedies</Link></li>
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Dog Itchy Skin & Neem</Link></li>
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Senior Dog Joint Relief</Link></li>
-              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Coconut Oil for Dogs</Link></li>
+              <li><Link href="/pet-health/natural-remedies-for-dog-anxiety" className="hover:text-ayur-gold transition-colors">Dog Anxiety Remedies</Link></li>
+              <li><Link href="/pet-health/natural-remedies-dog-itchy-skin" className="hover:text-ayur-gold transition-colors">Dog Itchy Skin & Neem</Link></li>
+              <li><Link href="/pet-health/turmeric-for-dogs" className="hover:text-ayur-gold transition-colors">Turmeric & Joint Health</Link></li>
+              <li><Link href="/pet-health/coconut-oil-for-dogs" className="hover:text-ayur-gold transition-colors">Coconut Oil for Dogs</Link></li>
+              <li><Link href="/pet-health/triphala-for-dogs" className="hover:text-ayur-gold transition-colors">Triphala for Canine Gut</Link></li>
+              <li><Link href="/pet-health" className="hover:text-ayur-gold transition-colors">View All Pet Protocols →</Link></li>
             </ul>
           </div>
 
           <div className="space-y-3">
-            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Legal & Transparency</h4>
+            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Transparency & About</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><span className="text-ayur-bg/60">PubMed Citation Guidelines</span></li>
-              <li><span className="text-ayur-bg/60">Privacy Policy</span></li>
+              <li><Link href="/about" className="hover:text-ayur-gold transition-colors">About Author Suresh Bhati</Link></li>
+              <li><span className="text-ayur-bg/60">PubMed Citation Standards</span></li>
+              <li><span className="text-ayur-bg/60">Sanskrit Translation Rigor</span></li>
               <li><span className="text-ayur-bg/60">Editorial Principles</span></li>
               <li><a href="mailto:contact@ayurshakti.shop" className="hover:text-ayur-gold transition-colors">contact@ayurshakti.shop</a></li>
             </ul>

@@ -513,5 +513,35 @@
       "social_status": "success",
       "analytics_status": "success"
     }
+  },
+  {
+    "id": "4347528571778439527",
+    "title": "Test Article for Pipeline Status",
+    "scheduled_est": "2026-08-17 08:44 AM",
+    "scheduled_utc": "2026-08-17T12:44:00Z",
+    "window": "morning",
+    "timestamp": "2026-08-17T06:30:44.353654+00:00",
+    "syndication": {
+      "indexnow_status": "success",
+      "google_index_status": "success",
+      "ping_status": "success",
+      "social_status": "success",
+      "analytics_status": "success"
+    }
+  },
+  {
+    "id": "2074259165141032095",
+    "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+    "scheduled_est": "2026-08-17 07:21 PM",
+    "scheduled_utc": "2026-08-17T23:21:00Z",
+    "window": "evening",
+    "timestamp": "2026-08-17T06:31:18.310408+00:00",
+    "syndication": {
+      "indexnow_status": "success",
+      "google_index_status": "success",
+      "ping_status": "success",
+      "social_status": "success",
+      "analytics_status": "success"
+    }
   }
 ]
