@@ -11,19 +11,16 @@ Allow: /llms.txt
 # Block utility/query paths (no standalone indexable content)
 Disallow: /search
 Disallow: /search/
-Disallow: /search?*
-Disallow: /*?q=*
 Disallow: /feeds/
 Disallow: /blogger/
-Disallow: /*?format=*
+Disallow: /comment
+Disallow: /*/comment
+Disallow: /*?q=*
 Disallow: /*?m=*
 Disallow: /*?amp=*
-Disallow: /comment*
-Disallow: /*/comment*
-Disallow: /*#comment
-Disallow: /view-source:*
-Disallow: /*.atom
+Disallow: /*?format=*
 Disallow: /*?redirect=*
+Disallow: /*.atom$
 
 # SITEMAPS & AI KNOWLEDGE retrieval
 Sitemap: https://ayurshakti.shop/sitemap.xml
