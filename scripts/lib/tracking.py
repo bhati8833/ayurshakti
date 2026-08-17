@@ -17,7 +17,7 @@ ARTICLE_REGISTRY_PATH = os.path.join(TRACKING_DIR, "article-registry.json")
 API_LOG_PATH = os.path.join(TRACKING_DIR, "api-usage-log.json")
 PIPELINE_STATUS_PATH = os.path.join(TRACKING_DIR, "pipeline-status.json")
 
-VALID_STAGES = ("scheduled", "published", "social-posted", "pinged")
+VALID_STAGES = ("scheduled", "published", "social-posted", "pinged", "indexing")
 VALID_STATUSES = ("pending", "in_progress", "completed", "failed")
 
 

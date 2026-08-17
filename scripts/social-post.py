@@ -168,6 +168,40 @@ def post_x(url, title):
         return False
 
 
+def _pinterest_get(access_token, path):
+    resp = requests.get(
+        f"https://api.pinterest.com{path}",
+        headers={"Authorization": f"Bearer {access_token}"},
+        timeout=15,
+    )
+    resp.raise_for_status()
+    return resp.json()
+
+
+def _resolve_pinterest_board(access_token):
+    # Env override takes priority (avoids an extra API call).
+    board_id = os.environ.get("PINTEREST_BOARD_ID")
+    if board_id:
+        return board_id
+    board_name = os.environ.get("PINTEREST_BOARD_NAME")
+    try:
+        boards = _pinterest_get(access_token, "/v5/boards?page_size=50")
+    except Exception as e:
+        print(f"  Pinterest: could not list boards ({e})")
+        return None
+    items = boards.get("items", [])
+    if not items:
+        return None
+    if board_name:
+        match = next(
+            (b for b in items if b.get("name", "").lower() == board_name.lower()),
+            None,
+        )
+        if match:
+            return match["id"]
+    return items[0]["id"]
+
+
 def post_pinterest(url, title):
     if not check_api_usage("pinterest_api"):
         return False
@@ -183,7 +217,12 @@ def post_pinterest(url, title):
             print("  Pinterest: access_token empty")
             return False
 
-        board_id = os.environ.get("PINTEREST_BOARD_ID", "944982003002747285")
+        board_id = _resolve_pinterest_board(access_token)
+        if not board_id:
+            print("  Pinterest: no board resolved "
+                  "(set PINTEREST_BOARD_ID or PINTEREST_BOARD_NAME)")
+            return False
+
         resp = requests.post(
             "https://api.pinterest.com/v5/pins",
             headers={
@@ -191,7 +230,7 @@ def post_pinterest(url, title):
                 "Content-Type": "application/json"
             },
             json={
-                "title": title,
+                "title": title[:100],
                 "description": f"{title}\n\nVisit: {url}",
                 "link": url,
                 "alt_text": title[:500],
@@ -199,12 +238,16 @@ def post_pinterest(url, title):
             },
             timeout=15
         )
-        resp.raise_for_status()
+        if not resp.ok:
+            print(f"  Pinterest: failed ({resp.status_code}) {resp.text[:300]}")
+            return False
         print("  Pinterest: posted")
         increment_api_usage("pinterest_api")
         return True
     except Exception as e:
-        print(f"  Pinterest: failed ({e})")
+        detail = getattr(e, "response", None)
+        extra = detail.text[:300] if detail is not None else ""
+        print(f"  Pinterest: failed ({e}) {extra}")
         return False
 
 

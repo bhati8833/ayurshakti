@@ -1,0 +1,241 @@
+{
+  "canonical_texts": [
+    {
+      "title": "Charaka Samhita (English translation) by Shree Gulabkunverba Ayurvedic Society",
+      "author": "by Shree Gulabkunverba Ayurvedic Society",
+      "total_chapters": 150,
+      "file": "canonical_texts/charaka_samhita_english_translation_by_shree_gulabkunverba.json"
+    },
+    {
+      "title": "Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory by Bhudeb Mookerjee",
+      "author": "by Bhudeb Mookerjee",
+      "total_chapters": 48,
+      "file": "canonical_texts/rasa_jala_nidhi_vol_1_initiation_mercury_and_laboratory_b.json"
+    },
+    {
+      "title": "Rasa Jala Nidhi, vol 2: Minerals (uparasa) by Bhudeb Mookerjee",
+      "author": "by Bhudeb Mookerjee",
+      "total_chapters": 135,
+      "file": "canonical_texts/rasa_jala_nidhi_vol_2_minerals_uparasa_by_bhudeb_mookerj.json"
+    },
+    {
+      "title": "Rasa Jala Nidhi, vol 3: Metals, Gems and other substances by Bhudeb Mookerjee",
+      "author": "by Bhudeb Mookerjee",
+      "total_chapters": 250,
+      "file": "canonical_texts/rasa_jala_nidhi_vol_3_metals_gems_and_other_substances_by.json"
+    },
+    {
+      "title": "Rasa Jala Nidhi, vol 4: Iatrochemistry by Bhudeb Mookerjee",
+      "author": "by Bhudeb Mookerjee",
+      "total_chapters": 437,
+      "file": "canonical_texts/rasa_jala_nidhi_vol_4_iatrochemistry_by_bhudeb_mookerjee.json"
+    },
+    {
+      "title": "Rasa Jala Nidhi, vol 5: Treatment of various afflictions by Bhudeb Mookerjee",
+      "author": "by Bhudeb Mookerjee",
+      "total_chapters": 56,
+      "file": "canonical_texts/rasa_jala_nidhi_vol_5_treatment_of_various_afflictions_by.json"
+    },
+    {
+      "title": "Sushruta Samhita, volume 1: Sutrasthana by Kaviraj Kunja Lal Bhishagratna",
+      "author": "by Kaviraj Kunja Lal Bhishagratna",
+      "total_chapters": 54,
+      "file": "canonical_texts/sushruta_samhita_volume_1_sutrasthana_by_kaviraj_kunja_lal.json"
+    },
+    {
+      "title": "Sushruta Samhita, volume 2: Nidanasthana by Kaviraj Kunja Lal Bhishagratna",
+      "author": "by Kaviraj Kunja Lal Bhishagratna",
+      "total_chapters": 21,
+      "file": "canonical_texts/sushruta_samhita_volume_2_nidanasthana_by_kaviraj_kunja_la.json"
+    },
+    {
+      "title": "Sushruta Samhita, volume 3: Sharirasthana by Kaviraj Kunja Lal Bhishagratna",
+      "author": "by Kaviraj Kunja Lal Bhishagratna",
+      "total_chapters": 13,
+      "file": "canonical_texts/sushruta_samhita_volume_3_sharirasthana_by_kaviraj_kunja_l.json"
+    },
+    {
+      "title": "Sushruta Samhita, volume 4: Cikitsasthana by Kaviraj Kunja Lal Bhishagratna",
+      "author": "by Kaviraj Kunja Lal Bhishagratna",
+      "total_chapters": 43,
+      "file": "canonical_texts/sushruta_samhita_volume_4_cikitsasthana_by_kaviraj_kunja_l.json"
+    },
+    {
+      "title": "Sushruta Samhita, Volume 5: Kalpasthana by Kaviraj Kunja Lal Bhishagratna",
+      "author": "by Kaviraj Kunja Lal Bhishagratna",
+      "total_chapters": 11,
+      "file": "canonical_texts/sushruta_samhita_volume_5_kalpasthana_by_kaviraj_kunja_lal.json"
+    },
+    {
+      "title": "Sushruta Samhita, Volume 6: Uttara-tantra by Kaviraj Kunja Lal Bhishagratna",
+      "author": "by Kaviraj Kunja Lal Bhishagratna",
+      "total_chapters": 74,
+      "file": "canonical_texts/sushruta_samhita_volume_6_uttara_tantra_by_kaviraj_kunja_l.json"
+    },
+    {
+      "title": "Ashtanga-hridaya-samhita [sanskrit]",
+      "author": "",
+      "total_chapters": 123,
+      "file": "canonical_texts/ashtanga_hridaya_samhita_sanskrit.json"
+    },
+    {
+      "title": "Matangalila by Nilakantha [Sanskrit]",
+      "author": "",
+      "total_chapters": 12,
+      "file": "canonical_texts/matangalila_by_nilakantha_sanskrit.json"
+    }
+  ],
+  "essays_and_studies": [
+    {
+      "title": "Agriculture and Animal husbandry in the Puranas by Purboshri Borpuzari",
+      "author": "by Purboshri Borpuzari",
+      "total_chapters": 120,
+      "file": "essays_and_studies/agriculture_and_animal_husbandry_in_the_puranas_by_purboshri.json"
+    },
+    {
+      "title": "Alchemy in India and China  by Vijaya Jayant Deshpande",
+      "author": "by Vijaya Jayant Deshpande",
+      "total_chapters": 58,
+      "file": "essays_and_studies/alchemy_in_india_and_china_by_vijaya_jayant_deshpande.json"
+    },
+    {
+      "title": "Atharvaveda and Charaka Samhita by Laxmi Maji",
+      "author": "by Laxmi Maji",
+      "total_chapters": 147,
+      "file": "essays_and_studies/atharvaveda_and_charaka_samhita_by_laxmi_maji.json"
+    },
+    {
+      "title": "Bhesajjakkhandhaka (Chapter on Medicine) by Hin-tak Sik",
+      "author": "by Hin-tak Sik",
+      "total_chapters": 72,
+      "file": "essays_and_studies/bhesajjakkhandhaka_chapter_on_medicine_by_hin_tak_sik.json"
+    },
+    {
+      "title": "Charaka Samhita and Sushruta Samhita by Nayana Sharma",
+      "author": "by Nayana Sharma",
+      "total_chapters": 95,
+      "file": "essays_and_studies/charaka_samhita_and_sushruta_samhita_by_nayana_sharma.json"
+    },
+    {
+      "title": "Elephantology and its Ancient Sanskrit Sources by Geetha N.",
+      "author": "by Geetha N.",
+      "total_chapters": 14,
+      "file": "essays_and_studies/elephantology_and_its_ancient_sanskrit_sources_by_geetha_n.json"
+    },
+    {
+      "title": "Influence of Nyaya-Vaisesika on Ayurveda  by Sindhu K. K.",
+      "author": "by Sindhu K. K.",
+      "total_chapters": 54,
+      "file": "essays_and_studies/influence_of_nyaya_vaisesika_on_ayurveda_by_sindhu_k_k.json"
+    },
+    {
+      "title": "Kshemakutuhala by Kshemasharma (critical study)  by Hiteshbhai Vrajalal Bhuptani",
+      "author": "by Hiteshbhai Vrajalal Bhuptani",
+      "total_chapters": 67,
+      "file": "essays_and_studies/kshemakutuhala_by_kshemasharma_critical_study_by_hiteshbh.json"
+    },
+    {
+      "title": "Manasollasa (study of Arts and Sciences)  by Mahadev Narayanrao Joshi",
+      "author": "by Mahadev Narayanrao Joshi",
+      "total_chapters": 60,
+      "file": "essays_and_studies/manasollasa_study_of_arts_and_sciences_by_mahadev_narayan.json"
+    },
+    {
+      "title": "Marma-sastra and Ayurveda (study)  by C. Suresh Kumar",
+      "author": "by C. Suresh Kumar",
+      "total_chapters": 77,
+      "file": "essays_and_studies/marma_sastra_and_ayurveda_study_by_c_suresh_kumar.json"
+    },
+    {
+      "title": "Matangalila and Hastyayurveda (study) by Chandrima Das",
+      "author": "by Chandrima Das",
+      "total_chapters": 75,
+      "file": "essays_and_studies/matangalila_and_hastyayurveda_study_by_chandrima_das.json"
+    },
+    {
+      "title": "Minerals and Metals in Sanskrit literature  by Sulekha Biswas",
+      "author": "by Sulekha Biswas",
+      "total_chapters": 113,
+      "file": "essays_and_studies/minerals_and_metals_in_sanskrit_literature_by_sulekha_biswa.json"
+    },
+    {
+      "title": "Philosophy of Charaka-samhita by Asokan. G",
+      "author": "by Asokan. G",
+      "total_chapters": 98,
+      "file": "essays_and_studies/philosophy_of_charaka_samhita_by_asokan_g.json"
+    },
+    {
+      "title": "Physician as depicted in Manasollasa  by Sri B. S. Hebballi",
+      "author": "by Sri B. S. Hebballi",
+      "total_chapters": 40,
+      "file": "essays_and_studies/physician_as_depicted_in_manasollasa_by_sri_b_s_hebballi.json"
+    },
+    {
+      "title": "Studies in Ethnobotany of ‘Nath’ of Bundelkhand region  by Praveen Kumar Khare",
+      "author": "by Praveen Kumar Khare",
+      "total_chapters": 11,
+      "file": "essays_and_studies/studies_in_ethnobotany_of_nath_of_bundelkhand_region_by_p.json"
+    },
+    {
+      "title": "Surgery in ancient India (Study)  by P. P. Prathapan",
+      "author": "by P. P. Prathapan",
+      "total_chapters": 93,
+      "file": "essays_and_studies/surgery_in_ancient_india_study_by_p_p_prathapan.json"
+    },
+    {
+      "title": "Vrikshayurveda (and environmental philosophy)  by Beenapani Mishra",
+      "author": "by Beenapani Mishra",
+      "total_chapters": 64,
+      "file": "essays_and_studies/vrikshayurveda_and_environmental_philosophy_by_beenapani.json"
+    }
+  ],
+  "other_works": [
+    {
+      "title": "History of Indian Medicine (and Ayurveda) by Shree Gulabkunverba Ayurvedic Society",
+      "author": "by Shree Gulabkunverba Ayurvedic Society",
+      "total_chapters": 81,
+      "file": "other_works/history_of_indian_medicine_and_ayurveda_by_shree_gulabkunv.json"
+    },
+    {
+      "title": "Indian Medicinal Plants * by Kanhoba Ranchoddas Kirtikar",
+      "author": "by Kanhoba Ranchoddas Kirtikar",
+      "total_chapters": 21,
+      "file": "other_works/indian_medicinal_plants_by_kanhoba_ranchoddas_kirtikar.json"
+    },
+    {
+      "title": "Journal of the European Ayurvedic Society  by Inge Wezler",
+      "author": "by Inge Wezler",
+      "total_chapters": 77,
+      "file": "other_works/journal_of_the_european_ayurvedic_society_by_inge_wezler.json"
+    }
+  ],
+  "glossary_summary": {
+    "A": 2315,
+    "B": 1079,
+    "C": 673,
+    "D": 1096,
+    "E": 107,
+    "F": 29,
+    "G": 859,
+    "H": 436,
+    "I": 151,
+    "J": 442,
+    "K": 2304,
+    "L": 343,
+    "M": 1642,
+    "N": 833,
+    "O": 39,
+    "P": 2023,
+    "Q": 1,
+    "R": 651,
+    "S": 3143,
+    "T": 847,
+    "U": 476,
+    "V": 1779,
+    "W": 17,
+    "X": 1,
+    "Y": 206,
+    "Z": 7
+  },
+  "total_glossary_terms": 21499
+}

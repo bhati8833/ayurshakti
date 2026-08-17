@@ -1,69 +1,83 @@
-# 34-Resource-Hosting — AyurShakti.shop
+# 34-Resource-Hosting — GitHub Image & Asset Hosting Workflow
 
-## Architecture Overview
+## Overview
+
+All image assets, botanical graphics, logos, favicons, and downloadable PDFs for AyurShakti.shop are hosted using **GitHub** (via the repository or raw CDN) and proxied through Cloudflare at `resources.ayurshakti.shop`.
 
 ```
-blog_images/  (local project directory)
-    ↓ git push
-GitHub Repo: bhati8833/ayurshakti-images
-    ↓ auto-deploy
-Cloudflare Pages: resources.ayurshakti.shop
+┌──────────────────────────────────────┐
+│  Local Image Files (blog_images/ or  │
+│  public/images/)                     │
+└──────────────────────────────────────┘
+                   │
+                   ▼ git push
+┌──────────────────────────────────────┐
+│  GitHub Repository / Media Storage   │ (Free raw CDN serving)
+└──────────────────────────────────────┘
+                   │
+                   ▼ CDN Proxy
+┌──────────────────────────────────────┐
+│  Cloudflare Edge CDN                 │ (resources.ayurshakti.shop)
+└──────────────────────────────────────┘
+                   │
+                   ▼
+┌──────────────────────────────────────┐
+│  Next.js Static Articles & Pages     │
+└──────────────────────────────────────┘
 ```
 
-## GitHub Repo Structure
+---
+
+## 📁 Image Directory Structure
 
 ```
 /
-├── img/                → All images (.jpg, .png)
-│   ├── favicon/        → Browser favicons (favicon.ico, icon-192.png, etc.)
-│   ├── logo.png        → Site logo
-│   ├── *.jpg           → Blog header images
-│   └── *.png           → AI-generated illustrations
-├── key/                → Verification keys
-│   └── indexnow-key.txt → Bing IndexNow API key
-├── pdf/                → Downloadable PDFs
-│   └── lead-magnet.pdf → Email lead magnet
-└── wrangler.toml       → Cloudflare Workers config
+├── public/                 → Next.js public assets (build export)
+│   ├── images/             → WebP / JPG article images
+│   ├── logo.png            → Site branding logo
+│   └── favicon.ico         → Favicons
+├── blog_images/            → Dedicated GitHub media folder / sub-repo
+│   ├── img/                → High-resolution botanical & article photos
+│   │   ├── ashwagandha.jpg
+│   │   ├── shatavari.jpg
+│   │   └── giloy.jpg
+│   └── pdf/                → Downloadable lead magnets & guides
 ```
 
-## CDN URL Reference
+---
 
-| Category | URL Pattern |
-|---|---|
-| Blog Images | `https://resources.ayurshakti.shop/img/{filename}` |
-| Logo | `https://resources.ayurshakti.shop/img/logo.png` |
-| Favicon | `https://resources.ayurshakti.shop/img/favicon/{filename}` |
-| PDFs | `https://resources.ayurshakti.shop/pdf/{filename}` |
-| IndexNow Key | `https://resources.ayurshakti.shop/key/indexnow-key.txt` |
+## 🌐 Image CDN URL Reference
 
-## Deploy Methods
+| Category | GitHub / Cloudflare URL Pattern | Use Case |
+| :--- | :--- | :--- |
+| **Article Hero Images** | `https://resources.ayurshakti.shop/img/{filename}` | Main article featured image |
+| **Inline Article Photos** | `/images/{filename}` or `https://resources.ayurshakti.shop/img/{filename}` | In-article botanical diagrams |
+| **Brand Logo** | `https://resources.ayurshakti.shop/img/logo.png` | Header logo, OpenGraph cards |
+| **Favicons** | `https://resources.ayurshakti.shop/img/favicon/favicon.ico` | Browser address bar icons |
+| **PDF Lead Magnets** | `https://resources.ayurshakti.shop/pdf/lead-magnet.pdf` | Email opt-in downloads |
 
-### Method 1: Git Push (Auto-deploy)
-```bash
-cd blog_images
-git add img/your-new-image.jpg
-git commit -m "Add image for article X"
-git push origin main
-# Cloudflare Pages auto-rebuilds (~30-60s)
-```
+---
 
-### Method 2: Wrangler CLI (Instant)
-```bash
-cd blog_images
-CLOUDFLARE_API_TOKEN=$(cat ../secrets/cloudflare-api-token.txt) npx wrangler deploy
-```
+## 🔄 How to Add New Images via GitHub Workflow
 
-## Auth
+1. **Place new image** in `public/images/` or `blog_images/img/` (preferably formatted in WebP or optimized JPG).
+2. **Commit and push** to GitHub:
+   ```bash
+   git add public/images/new-herb.webp
+   git commit -m "Add hero image for new herb article"
+   git push origin main
+   ```
+3. **Reference in Next.js content / Markdown**:
+   ```markdown
+   ![Ashwagandha Root Benefits](/images/new-herb.webp)
+   ```
+4. On deployment, Next.js static build bundles the image into `/out/images/` served lightning-fast via Firebase Hosting & Cloudflare.
 
-| Credential | File | Purpose |
-|---|---|---|
-| GitHub Token | `secrets/github-images-token.json` | `git push` manual image uploads |
-| CF API Token | `secrets/cloudflare-api-token.txt` | Wrangler deploy, Page Rules |
-| CF Global Key | `secrets/cloudflare-global-key.txt` | DNS, Cache Purge (fallback) |
+---
 
-## Important Notes
+## 💡 Image Optimization Best Practices
 
-- `www.ayurshakti.shop` is **DNS-only** (not proxied) — Cloudflare cannot serve Page Rules or Workers on the www domain. This is required for Blogger CNAME (`ghs.google.com`).
-- `resources.ayurshakti.shop` is **proxied** (AAAA `100::`) — Cloudflare Pages handles all traffic.
-- Images are only served under `/img/` prefix — old root-level paths (e.g. `/logo.png`) return 404.
-- All existing Blogger posts have been updated in July 2026 to use the new `/img/` paths.
+- **Format**: Convert PNG/JPG to `.webp` format whenever possible (70-80% smaller file size).
+- **Dimensions**: Standardize hero images to `1200x675` (16:9 ratio) for optimal OpenGraph sharing.
+- **Alt Text**: Always include descriptive, keyword-rich `alt` text for SEO and accessibility.
+- **No Heavy Storage**: Keep individual image sizes under **300 KB**.

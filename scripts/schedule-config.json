@@ -1,0 +1,24 @@
+{
+  "target_timezone": "America/New_York",
+  "schedule_windows": [
+    {
+      "slot": "morning",
+      "start_hour": 8,
+      "end_hour": 10,
+      "label": "Morning (8-10am EST)"
+    },
+    {
+      "slot": "evening",
+      "start_hour": 18,
+      "end_hour": 20,
+      "label": "Evening (6-8pm EST)"
+    }
+  ],
+  "posts_per_day": 2,
+  "jitter_minutes": 15,
+  "gap_between_posts_hours": 10,
+  "ga4_enabled": false,
+  "blog_id": "944859273218738540",
+  "weekend_schedule": true,
+  "max_daily_posts": 2
+}

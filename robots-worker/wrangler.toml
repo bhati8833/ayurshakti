@@ -1,0 +1,10 @@
+name = "ayurshakti-robots"
+main = "worker.js"
+compatibility_date = "2026-07-11"
+
+# Deploy only to the /robots.txt route on the Cloudflare zone — does NOT touch
+# the rest of the site (everything else passes through to Blogger).
+routes = [
+  { pattern = "ayurshakti.shop/robots.txt", zone_name = "ayurshakti.shop" },
+  { pattern = "www.ayurshakti.shop/robots.txt", zone_name = "ayurshakti.shop" }
+]

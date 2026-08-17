@@ -1,0 +1,161 @@
+'use client';
+
+import React, { useState } from 'react';
+import Link from 'next/link';
+import { motion } from 'motion/react';
+import { Sparkles, Send, Heart, BookOpen, Compass, ShieldCheck, Mail } from 'lucide-react';
+
+export default function Footer() {
+  const [email, setEmail] = useState('');
+  const [subscribed, setSubscribed] = useState(false);
+
+  const handleSubscribe = (e: React.FormEvent) => {
+    e.preventDefault();
+    if (email) {
+      setSubscribed(true);
+      setEmail('');
+    }
+  };
+
+  return (
+    <footer className="bg-ayur-forest text-ayur-bg relative overflow-hidden pt-20 pb-12 border-t-4 border-ayur-gold">
+      
+      {/* Background Soft Radial Glow */}
+      <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[300px] bg-emerald-500/10 blur-[150px] pointer-events-none" />
+
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+        
+        {/* Top Newsletter & Brand Quote Grid */}
+        <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 pb-16 border-b border-ayur-herbal/80 items-center">
+          
+          {/* Brand Intro Column */}
+          <div className="lg:col-span-6 space-y-4">
+            <div className="flex items-center gap-3">
+              <div className="w-10 h-10 rounded-full bg-ayur-gold text-ayur-forest flex items-center justify-center font-bold">
+                <Sparkles className="w-5 h-5 text-ayur-forest" />
+              </div>
+              <span className="font-serif text-3xl font-bold tracking-tight text-white">
+                AyurShakti.shop
+              </span>
+            </div>
+
+            <p className="text-ayur-bg/80 text-sm sm:text-base max-w-lg leading-relaxed">
+              Bridging authentic classical Sanskrit Ayurvedic manuscripts with modern peer-reviewed PubMed research. Dedicated to holistic human and pet vitality.
+            </p>
+
+            <div className="flex items-center gap-4 text-xs font-semibold uppercase tracking-wider text-ayur-gold pt-2">
+              <span className="flex items-center gap-1.5"><ShieldCheck className="w-4 h-4 text-emerald-400" /> Peer Reviewed</span>
+              <span>•</span>
+              <span>Sanskrit Sourced</span>
+              <span>•</span>
+              <span>Evidence Based</span>
+            </div>
+          </div>
+
+          {/* Newsletter Subscribe Box */}
+          <div className="lg:col-span-6">
+            <div className="p-8 rounded-3xl bg-ayur-herbal/60 border border-ayur-gold/30 shadow-lg space-y-4">
+              <div className="flex items-center gap-2">
+                <Mail className="w-4 h-4 text-ayur-gold" />
+                <span className="text-xs font-bold uppercase tracking-widest text-ayur-gold">Weekly Herbal Research Digest</span>
+              </div>
+              <h3 className="font-serif text-xl sm:text-2xl font-bold text-white">
+                Subscribe for Science-Backed Protocols
+              </h3>
+              <p className="text-xs text-ayur-bg/70">
+                Join 5,000+ readers getting analytical studies on Ashwagandha, Giloy, Shatavari, and pet care directly to their inbox.
+              </p>
+
+              {subscribed ? (
+                <div className="p-4 rounded-xl bg-emerald-950/80 border border-emerald-500/40 text-emerald-300 text-sm font-semibold flex items-center gap-2">
+                  <Sparkles className="w-4 h-4 text-ayur-gold" />
+                  Thank you for subscribing! Welcome to AyurShakti Research.
+                </div>
+              ) : (
+                <form onSubmit={handleSubscribe} className="flex flex-col sm:flex-row gap-2 pt-2">
+                  <input
+                    type="email"
+                    value={email}
+                    onChange={(e) => setEmail(e.target.value)}
+                    placeholder="Enter your email address..."
+                    required
+                    className="flex-1 px-5 py-3 rounded-full bg-ayur-forest/90 border border-ayur-gold/30 text-white placeholder-ayur-bg/50 text-sm focus:outline-none focus:border-ayur-gold transition-colors"
+                  />
+                  <button
+                    type="submit"
+                    className="px-6 py-3 rounded-full bg-ayur-gold text-ayur-forest font-bold text-xs uppercase tracking-wider hover:bg-white transition-colors flex items-center justify-center gap-2"
+                  >
+                    Subscribe <Send className="w-3.5 h-3.5" />
+                  </button>
+                </form>
+              )}
+            </div>
+          </div>
+
+        </div>
+
+        {/* Links Navigation Matrix */}
+        <div className="py-12 grid grid-cols-2 md:grid-cols-4 gap-8 border-b border-ayur-herbal/80 text-xs">
+          
+          <div className="space-y-3">
+            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Navigation</h4>
+            <ul className="space-y-2 text-ayur-bg/80">
+              <li><Link href="/" className="hover:text-ayur-gold transition-colors">Home</Link></li>
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Research Articles</Link></li>
+              <li><Link href="/canonical-texts" className="hover:text-ayur-gold transition-colors">Sanskrit Manuscripts</Link></li>
+              <li><Link href="/dosha-quiz" className="hover:text-ayur-gold transition-colors">Dosha Quiz</Link></li>
+              <li><Link href="/about" className="hover:text-ayur-gold transition-colors">About Suresh Bhati</Link></li>
+            </ul>
+          </div>
+
+          <div className="space-y-3">
+            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Herbal Pillars</h4>
+            <ul className="space-y-2 text-ayur-bg/80">
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Ashwagandha Adaptogens</Link></li>
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Giloy Immunity Protocols</Link></li>
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Shatavari Women's Health</Link></li>
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Triphala & Agni Digestion</Link></li>
+            </ul>
+          </div>
+
+          <div className="space-y-3">
+            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Pet Care (Mrigayurveda)</h4>
+            <ul className="space-y-2 text-ayur-bg/80">
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Dog Anxiety Remedies</Link></li>
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Dog Itchy Skin & Neem</Link></li>
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Senior Dog Joint Relief</Link></li>
+              <li><Link href="/articles" className="hover:text-ayur-gold transition-colors">Coconut Oil for Dogs</Link></li>
+            </ul>
+          </div>
+
+          <div className="space-y-3">
+            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Legal & Transparency</h4>
+            <ul className="space-y-2 text-ayur-bg/80">
+              <li><span className="text-ayur-bg/60">PubMed Citation Guidelines</span></li>
+              <li><span className="text-ayur-bg/60">Privacy Policy</span></li>
+              <li><span className="text-ayur-bg/60">Editorial Principles</span></li>
+              <li><a href="mailto:contact@ayurshakti.shop" className="hover:text-ayur-gold transition-colors">contact@ayurshakti.shop</a></li>
+            </ul>
+          </div>
+
+        </div>
+
+        {/* DRAMATIC OVERSIZED MONUMENTAL BRAND FOOTER TEXT */}
+        <div className="py-12 text-center select-none overflow-hidden">
+          <span className="font-serif text-[13vw] font-extrabold tracking-tighter text-transparent bg-clip-text bg-gradient-to-b from-ayur-gold/40 via-ayur-gold/15 to-transparent leading-none block uppercase opacity-80">
+            AYURSHAKTI
+          </span>
+        </div>
+
+        {/* Bottom Copyright & Byline */}
+        <div className="pt-6 border-t border-ayur-herbal/60 flex flex-col sm:flex-row items-center justify-between text-xs text-ayur-bg/60 gap-4">
+          <p>© {new Date().getFullYear()} AyurShakti.shop. All rights reserved.</p>
+          <p className="flex items-center gap-1 font-medium text-ayur-bg/80">
+            Crafted with <Heart className="w-3.5 h-3.5 text-rose-400 fill-rose-400" /> by <strong className="text-ayur-gold font-serif">Suresh Bhati</strong>
+          </p>
+        </div>
+
+      </div>
+    </footer>
+  );
+}

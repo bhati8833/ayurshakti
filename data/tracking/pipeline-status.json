@@ -45,6 +45,2699 @@
           }
         }
       }
+    },
+    "https://www.ayurshakti.shop/sitemap.xml": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-04T12:08:09.094545+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/sitemap.xml",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-12T06:30:04.605590+00:00",
+          "details": {
+            "post_id": "4655782339641259069",
+            "scheduled_est": "2026-07-12T08:04:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-12T06:30:31.836288+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-12T06:30:28.138045+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_0925400784.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-13T06:30:03.115217+00:00",
+          "details": {
+            "post_id": "1901045983807963409",
+            "scheduled_est": "2026-07-13T09:26:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-13T06:30:30.826729+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-13T06:30:27.763054+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-15T02:50:58.527638+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/natural-calming-for-dogs-without-cbd.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:04.631548+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/natural-calming-for-dogs-without-cbd.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:49:34.505699+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-digestive.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:08.591914+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-digestive.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:02.358582+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/natural-flea-tick-prevention-for-dogs.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:12.618013+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/natural-flea-tick-prevention-for-dogs.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:07.478587+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/ayurveda-for-gut-health-complete-agni.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:17.328366+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/ayurveda-for-gut-health-complete-agni.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:12.598839+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/natural-joint-pain-relief-for-senior.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:21.629338+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/natural-joint-pain-relief-for-senior.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:18.128264+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-ear-infections.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:26.544409+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-ear-infections.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:23.247984+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/ayurvedic-remedies-for-pcos-natural_01253035810.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:31.177385+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/ayurvedic-remedies-for-pcos-natural_01253035810.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-15T03:35:27.691101+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/natural-allergy-relief-for-dogs-itchy.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:37.603340+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/natural-allergy-relief-for-dogs-itchy.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:28.572611+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/giloy-benefits-for-immunity-ultimate.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:42.109202+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/giloy-benefits-for-immunity-ultimate.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:49:46.179244+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/ayurvedic-remedies-for-gut-health-7.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:46.410376+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/ayurvedic-remedies-for-gut-health-7.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:34.102389+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/ayurvedic-remedies-for-pcos-natural.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:51.325178+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/ayurvedic-remedies-for-pcos-natural.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:49:40.240056+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/brahmi-benefits-for-brain-health.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:55.216826+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/brahmi-benefits-for-brain-health.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:49:23.242529+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/shatavari-benefits-for-women-ayurvedic.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:53:59.824638+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/shatavari-benefits-for-women-ayurvedic.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:39.222406+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/coconut-oil-for-dogs-ayurvedic-benefits.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:04.120261+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/coconut-oil-for-dogs-ayurvedic-benefits.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:44.137606+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-anxiety-at.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:08.062932+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-anxiety-at.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:49.257670+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/ashwagandha-benefits-for-men-complete.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:12.281235+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/ashwagandha-benefits-for-men-complete.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:49:28.874047+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/triphala-for-dogs-digestive-health.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:16.707955+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/triphala-for-dogs-digestive-health.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:54.583008+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/turmeric-for-dogs-benefits-dosage.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:21.123720+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/turmeric-for-dogs-benefits-dosage.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:50:59.703087+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/best-natural-calming-chews-for-dogs.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:25.731673+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/best-natural-calming-chews-for-dogs.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:51:04.823041+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/ayurveda-for-dogs-complete-beginners.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:30.237470+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/ayurveda-for-dogs-complete-beginners.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:51:09.942822+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/2026/07/ashwagandha-for-dogs-benefits-dosage.html": {
+      "title": "",
+      "stages": {
+        "scheduled": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "social-posted": {
+          "status": "pending",
+          "timestamp": null,
+          "details": null
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:54:34.435572+00:00",
+          "details": {
+            "service": "bing",
+            "url": "https://www.ayurshakti.shop/2026/07/ashwagandha-for-dogs-benefits-dosage.html",
+            "status_code": 200
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T05:51:15.062307+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_01896178407.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:30:11.848067+00:00",
+          "details": {
+            "post_id": "7603928473626583086",
+            "scheduled_est": "2026-07-19T09:59:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:31:25.136169+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:30:59.294825+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:30:34.951792+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:31:51.978883+00:00",
+          "details": {
+            "post_id": "8480635398899770194",
+            "scheduled_est": "2026-07-19T18:32:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:32:50.358183+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:32:29.220171+00:00",
+          "details": {
+            "services_success": 1,
+            "services_failed": 2
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-19T06:32:03.951791+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_01813190256.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:30:05.668793+00:00",
+          "details": {
+            "post_id": "3158761270147698026",
+            "scheduled_est": "2026-07-23T08:32:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:30:43.594373+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:30:37.123280+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:30:12.699638+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_0608734747.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:30:49.212388+00:00",
+          "details": {
+            "post_id": "6822213060823611558",
+            "scheduled_est": "2026-07-23T19:30:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:31:19.774067+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:31:15.938181+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-23T06:30:54.171869+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_01704319885.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:30:07.245461+00:00",
+          "details": {
+            "post_id": "5141389431993947138",
+            "scheduled_est": "2026-07-24T09:59:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:31:01.800207+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:30:44.980730+00:00",
+          "details": {
+            "services_success": 1,
+            "services_failed": 2
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:30:19.539756+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_0354810107.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:31:06.163518+00:00",
+          "details": {
+            "post_id": "2206933889746580759",
+            "scheduled_est": "2026-07-24T18:06:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:31:59.783326+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:31:46.724333+00:00",
+          "details": {
+            "services_success": 1,
+            "services_failed": 2
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-24T06:31:22.884316+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_0479125510.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:30:04.882804+00:00",
+          "details": {
+            "post_id": "3735579036155685672",
+            "scheduled_est": "2026-07-27T08:00:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:30:44.501644+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:30:37.587956+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:30:12.002798+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_01659359508.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:30:49.420209+00:00",
+          "details": {
+            "post_id": "8961359369644050711",
+            "scheduled_est": "2026-07-27T18:16:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:31:25.255793+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:31:20.634600+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-27T06:30:55.147898+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_01544585081.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:30:04.310891+00:00",
+          "details": {
+            "post_id": "3430138621777285472",
+            "scheduled_est": "2026-07-28T08:34:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:30:56.303643+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:30:39.070998+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:30:15.954273+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_0259817041.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:31:00.729689+00:00",
+          "details": {
+            "post_id": "1360747305574695417",
+            "scheduled_est": "2026-07-28T18:27:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:31:31.938307+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:31:27.994132+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-28T06:31:05.801898+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_0797797387.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:30:04.181428+00:00",
+          "details": {
+            "post_id": "1999897110138946892",
+            "scheduled_est": "2026-07-29T09:03:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:30:41.766397+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:30:36.282445+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:30:13.398843+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_01120684740.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:30:46.853942+00:00",
+          "details": {
+            "post_id": "3187687715741133565",
+            "scheduled_est": "2026-07-28T18:56:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:31:17.711424+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:31:13.762394+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-28T18:30:51.695891+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_02055996389.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:30:05.641464+00:00",
+          "details": {
+            "post_id": "5743501305334222850",
+            "scheduled_est": "2026-07-30T08:57:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:30:41.284827+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:30:36.648761+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:30:12.939844+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_0890672544.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:30:46.341823+00:00",
+          "details": {
+            "post_id": "427902378650987795",
+            "scheduled_est": "2026-07-30T18:14:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:31:16.777378+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:31:13.024651+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-30T06:30:51.035050+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_01250339484.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:30:05.096794+00:00",
+          "details": {
+            "post_id": "8039055855331121781",
+            "scheduled_est": "2026-07-31T08:08:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:30:38.485116+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:30:34.607848+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:30:12.864117+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_01387145665.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:30:42.761197+00:00",
+          "details": {
+            "post_id": "4751608208744812019",
+            "scheduled_est": "2026-07-30T19:11:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:31:14.182352+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:31:10.350901+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-30T18:30:47.659208+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/test-article-for-pipeline-status_01657190650.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:30:04.374855+00:00",
+          "details": {
+            "post_id": "1392408430776321809",
+            "scheduled_est": "2026-07-31T09:10:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:30:37.739237+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:30:33.387183+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:30:11.316222+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/07/natural-remedies-for-dog-itchy-skin_01996325185.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:30:43.636653+00:00",
+          "details": {
+            "post_id": "6189698825593677637",
+            "scheduled_est": "2026-07-31T19:42:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:31:14.380302+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:31:10.758535+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-07-31T06:30:48.794265+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:30:07.401256+00:00",
+          "details": {
+            "post_id": "5400330925305299724",
+            "scheduled_est": "2026-08-02T08:46:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:31:06.024234+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:30:55.322610+00:00",
+          "details": {
+            "services_success": 1,
+            "services_failed": 2
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:30:30.052891+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:31:13.610064+00:00",
+          "details": {
+            "post_id": "2017680032616298928",
+            "scheduled_est": "2026-08-02T18:43:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:31:45.239022+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:31:41.599720+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-02T06:31:19.997579+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin_01102926408.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:30:04.175525+00:00",
+          "details": {
+            "post_id": "4210892233324808587",
+            "scheduled_est": "2026-08-05T08:57:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:30:39.923673+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:30:34.153555+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:30:11.173603+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status_0182137720.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:30:44.369861+00:00",
+          "details": {
+            "post_id": "1336676048108605641",
+            "scheduled_est": "2026-08-04T19:05:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:31:14.354452+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:31:10.511299+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-04T18:30:48.908365+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status_01420229504.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:30:05.989910+00:00",
+          "details": {
+            "post_id": "1778057312831259269",
+            "scheduled_est": "2026-08-08T09:41:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:30:57.576749+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:30:52.299761+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:30:29.514337+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin_01588521321.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:31:02.617781+00:00",
+          "details": {
+            "post_id": "7859816052814164864",
+            "scheduled_est": "2026-08-07T19:39:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:31:33.871722+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:31:30.498466+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-07T18:31:07.633940+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status_0406146187.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:30:06.095948+00:00",
+          "details": {
+            "post_id": "8602918233118862786",
+            "scheduled_est": "2026-08-11T09:41:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:30:53.533711+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:30:42.022231+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:30:17.707621+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin_01222766811.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:31:01.511733+00:00",
+          "details": {
+            "post_id": "21896352296887259",
+            "scheduled_est": "2026-08-10T18:21:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:32:02.341022+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:31:44.722919+00:00",
+          "details": {
+            "services_success": 1,
+            "services_failed": 2
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-10T18:31:20.823009+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status_01650362994.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:30:05.536560+00:00",
+          "details": {
+            "post_id": "8805548869999265584",
+            "scheduled_est": "2026-08-12T09:43:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:30:39.414113+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:30:33.318346+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:30:10.842878+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin_01740866162.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:30:45.473875+00:00",
+          "details": {
+            "post_id": "6719663040723098561",
+            "scheduled_est": "2026-08-12T18:51:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:31:15.546037+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:31:12.233480+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-12T06:30:49.752988+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status_02020808710.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:30:05.722075+00:00",
+          "details": {
+            "post_id": "388736362512424446",
+            "scheduled_est": "2026-08-13T09:38:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:30:45.520486+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:30:40.064522+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:30:15.367289+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin_01389890721.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:30:49.107495+00:00",
+          "details": {
+            "post_id": "1778317122750758020",
+            "scheduled_est": "2026-08-12T19:09:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:31:21.173783+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:31:17.118486+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-12T18:30:55.256307+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/natural-remedies-for-dog-itchy-skin_02042512514.html": {
+      "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:30:09.349724+00:00",
+          "details": {
+            "post_id": "5294527555530089919",
+            "scheduled_est": "2026-08-16T09:59:00-04:00",
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:30:46.810532+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Natural Remedies for Dog Itchy Skin: An Ayurvedic Approach"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:30:42.148715+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:30:15.469898+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
+    },
+    "https://www.ayurshakti.shop/https://www.ayurshakti.shop/2026/08/test-article-for-pipeline-status_01101560130.html": {
+      "title": "Test Article for Pipeline Status",
+      "stages": {
+        "scheduled": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:30:51.996947+00:00",
+          "details": {
+            "post_id": "8391718353704105141",
+            "scheduled_est": "2026-08-16T19:53:00-04:00",
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "published": {
+          "status": "pending",
+          "timestamp": null,
+          "details": {
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "social-posted": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:31:22.868289+00:00",
+          "details": {
+            "platforms": {
+              "bluesky": {
+                "status": "completed"
+              },
+              "x": {
+                "status": "failed"
+              },
+              "pinterest": {
+                "status": "failed"
+              }
+            },
+            "title": "Test Article for Pipeline Status"
+          }
+        },
+        "pinged": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:31:19.724905+00:00",
+          "details": {
+            "services_success": 2,
+            "services_failed": 1
+          }
+        },
+        "indexing": {
+          "status": "completed",
+          "timestamp": "2026-08-16T06:30:57.273494+00:00",
+          "details": {
+            "service": "google",
+            "status_code": 200
+          }
+        }
+      }
     }
   }
 }

@@ -1,0 +1,39 @@
+# Secrets directory (API keys, tokens, credentials)
+secrets/
+
+# Environment files
+.env
+.env.local
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# GSD planning artifacts (multi-repo workspace)
+.planning/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+.gstack/
+
+# Build outputs & frameworks
+.next/
+out/
+.firebase/
+
+# Dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Backups
+*.bak
+*.bak.*
+
+# Runtime tracking data (generated state, not source)
+data/tracking/*.json
+data/tracking/*.log

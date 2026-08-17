@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-08-16T04:30:37.556946+00:00",
+  "mentions": [],
+  "site_health": {
+    "homepage": {
+      "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ayurshakti.shop'. (_ssl.c:1000)>",
+      "ok": false
+    },
+    "sitemap": {
+      "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ayurshakti.shop'. (_ssl.c:1000)>",
+      "ok": false
+    },
+    "robots": {
+      "status": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'www.ayurshakti.shop'. (_ssl.c:1000)>",
+      "ok": false
+    },
+    "llms": {
+      "status": 200,
+      "ok": true,
+      "size": 817
+    }
+  },
+  "competitors": [
+    {
+      "domain": "easyayurveda.com",
+      "status": 200,
+      "status_ok": true
+    },
+    {
+      "domain": "ayurtimes.com",
+      "status": 200,
+      "status_ok": true
+    },
+    {
+      "domain": "planetayurveda.com",
+      "status": 200,
+      "status_ok": true
+    }
+  ]
+}

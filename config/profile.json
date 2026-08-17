@@ -1,0 +1,57 @@
+{
+  "site": {
+    "name": "AyurShakti",
+    "domain": "ayurshakti.shop",
+    "url": "https://www.ayurshakti.shop",
+    "sitemap": "https://www.ayurshakti.shop/sitemap.xml",
+    "llms": "https://llms.ayurshakti.shop/llms.txt",
+    "title": "AyurShakti — Ayurvedic Health & Pet Wellness",
+    "description": "Ancient Ayurvedic wisdom for human health and pet care. Evidence-based natural remedies, herbal formulations, and holistic wellness guides.",
+    "keywords": [
+      "ayurveda", "pet health", "natural remedies",
+      "herbal medicine", "dog health", "cat health",
+      "holistic wellness", "ayurvedic treatment",
+      "herbs for dogs", "natural pet care"
+    ],
+    "language": "en",
+    "timezone": "America/New_York"
+  },
+  "author": {
+    "name": "Suresh Bhati",
+    "title": "Ayurvedic Researcher & Health Writer",
+    "bio": "Suresh Bhati is an Ayurvedic researcher and health writer dedicated to bridging ancient Ayurvedic wisdom with modern pet care. With years of research in natural remedies and herbal formulations, he provides evidence-based guidance for pet owners seeking holistic health solutions.",
+    "short_bio": "Ayurvedic researcher sharing evidence-based natural health wisdom for humans and pets.",
+    "photo": "",
+    "social": {
+      "twitter": "https://x.com/ayurshakti_",
+      "bluesky": "https://bsky.app/profile/ayurshakti.bsky.social",
+      "pinterest": "https://www.pinterest.com/ayurshakti_shop/",
+      "quora": "https://www.quora.com/profile/Ayurshakti",
+      "reddit": "https://www.reddit.com/user/ayurshakti/",
+      "medium": "https://medium.com/@ayurshakti"
+    }
+  },
+  "contact": {
+    "email": "contact@ayurshakti.shop",
+    "phone": "",
+    "address": ""
+  },
+  "brand": {
+    "tagline": "Ancient Wisdom for Modern Wellness",
+    "voice": "Authoritative yet warm, evidence-based Ayurveda",
+    "audience": ["India", "United States", "United Kingdom", "Canada", "Australia"],
+    "topics": ["Ayurveda", "Pet Health", "Natural Remedies", "Herbal Medicine", "Dog Care", "Cat Care"]
+  },
+  "scripts": {
+    "dir": "scripts",
+    "bing_sitemap": "bing-sitemap-submit.py",
+    "notify_ping": "notify-ping.py",
+    "social_post": "social-post.py",
+    "monitor_mentions": "monitor-mentions.py",
+    "schedule_posts": "schedule-posts.py",
+    "pubmed_cite": "pubmed-cite.py",
+    "schedule_log": "schedule-log.json",
+    "approval_queue": "approval-queue.json",
+    "schedule_config": "schedule-config.json"
+  }
+}

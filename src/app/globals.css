@@ -1,0 +1,166 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #FAF9F5;
+  --foreground: #0C2920;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: var(--background);
+  color: var(--foreground);
+}
+
+body {
+  font-family: var(--font-jakarta), system-ui, sans-serif;
+  background-color: #FAF9F5;
+  color: #0C2920;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Custom Selection Highlight */
+::selection {
+  background-color: #059669;
+  color: #FFFFFF;
+}
+
+/* Scrollbar Customization */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #FAF9F5;
+}
+::-webkit-scrollbar-thumb {
+  background: #C5A059;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #059669;
+}
+
+/* Glassmorphism utility for light organic theme */
+.glass-panel {
+  background: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(12, 41, 32, 0.08);
+}
+
+.glass-panel-gold {
+  background: rgba(250, 249, 245, 0.9);
+  backdrop-filter: blur(12px);
+  border: 1px solid rgba(197, 160, 89, 0.25);
+}
+
+/* Markdown HTML Typography Formatting */
+.prose-ayur {
+  color: #1B2421;
+  max-width: 68ch;
+  line-height: 1.8;
+  font-size: 1.125rem;
+}
+
+.prose-ayur h1 {
+  font-family: var(--font-playfair), serif;
+  color: #0C2920;
+  font-size: 2.5rem;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  line-height: 1.25;
+}
+
+.prose-ayur h2 {
+  font-family: var(--font-playfair), serif;
+  color: #0C2920;
+  font-size: 1.875rem;
+  font-weight: 700;
+  margin-top: 2.25rem;
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #E6E2D8;
+}
+
+.prose-ayur h3 {
+  font-family: var(--font-playfair), serif;
+  color: #1B4332;
+  font-size: 1.35rem;
+  font-weight: 600;
+  margin-top: 1.75rem;
+  margin-bottom: 0.75rem;
+}
+
+.prose-ayur p {
+  margin-bottom: 1.5rem;
+}
+
+.prose-ayur ul, .prose-ayur ol {
+  margin-top: 1rem;
+  margin-bottom: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+.prose-ayur ul {
+  list-style-type: disc;
+}
+
+.prose-ayur ol {
+  list-style-type: decimal;
+}
+
+.prose-ayur li {
+  margin-bottom: 0.5rem;
+}
+
+.prose-ayur blockquote {
+  border-left: 4px solid #C5A059;
+  background-color: #F5F3ED;
+  padding: 1.25rem 1.5rem;
+  margin: 1.75rem 0;
+  border-radius: 0 0.75rem 0.75rem 0;
+  font-style: italic;
+  color: #0C2920;
+}
+
+.prose-ayur blockquote p:last-child {
+  margin-bottom: 0;
+}
+
+.prose-ayur code {
+  background-color: #EFECE6;
+  color: #0C2920;
+  padding: 0.2rem 0.4rem;
+  border-radius: 0.25rem;
+  font-size: 0.9em;
+}
+
+.prose-ayur pre {
+  background-color: #0C2920;
+  color: #FAF9F5;
+  padding: 1.25rem;
+  border-radius: 0.75rem;
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+.prose-ayur pre code {
+  background-color: transparent;
+  color: inherit;
+  padding: 0;
+}
+
+.prose-ayur a {
+  color: #059669;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+  font-weight: 500;
+  transition: color 0.2s ease;
+}
+
+.prose-ayur a:hover {
+  color: #C5A059;
+}

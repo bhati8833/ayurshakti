@@ -1,0 +1,75 @@
+User-agent: *
+Allow: /
+
+Disallow: /search
+Disallow: /search/
+Disallow: /feeds/
+Disallow: /feeds/posts/default
+Disallow: /blogger/
+Disallow: /blogger/*
+Disallow: /comment
+Disallow: /comment/
+Disallow: /view-source:
+
+User-agent: Yandex
+Allow: /
+
+User-agent: SeznamBot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: AppleBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: omgili
+Allow: /
+
+User-agent: PetalBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: BingPreview
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+Sitemap: https://www.ayurshakti.shop/sitemap.xml
+Sitemap: https://www.ayurshakti.shop/llms.txt

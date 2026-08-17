@@ -285,7 +285,7 @@ Find: "site:*.com "best ayurveda blogs" OR "ayurveda resources""
 
 **Workflow:**
 ```
-Visitor → Signup form (Blogger sidebar) → Google Sheet → Apps Script
+Visitor → Signup form (Next.js sidebar) → Google Sheet → Apps Script
   → Welcome email with lead magnet → Weekly newsletter with blog links
   → Click → GA4 tracked → Return visitor → Better SEO signals
 ```
@@ -333,7 +333,7 @@ Every article publish triggers this automated pipeline:
 
 ```
 schedule-posts.py
-  ├─ 1. Blogger API → Publish article
+  ├─ 1. Build & Deploy → Publish static export to Firebase Hosting
   ├─ 2. bing-sitemap-submit.py → IndexNow (7 engines) ✅
   ├─ 3. notify-ping.py → 15+ ping services ✅
   └─ 4. social-post.py → Bluesky direct + X/LinkedIn/Pinterest queue ✅
@@ -370,7 +370,7 @@ monitor-mentions.py
 | `notify-ping.py` | P2 | 15+ ping services | ✅ Done |
 | `social-post.py` | P2 | Bluesky API + agent queue for X/LinkedIn | ✅ Done |
 | `monitor-mentions.py` | P2 | Weekly brand mention & backlink monitoring | ✅ Done |
-| `schedule-posts.py` | Core | Auto-publish to Blogger | ✅ Done |
+| `schedule-posts.py` | Core | Auto-build and deploy static site | ✅ Done |
 
 ---
 

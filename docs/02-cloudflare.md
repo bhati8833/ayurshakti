@@ -108,7 +108,7 @@ Global Key has **full access** — can do everything. Use only when Token A/Toke
 | TXT | `cf2024-1._domainkey` | DKIM key for email signing | DNS only | Auto |
 | TXT | `_dmarc` | `v=DMARC1; p=none;` | DNS only | Auto |
 
-**Important:** `www.ayurshakti.shop` is DNS-only (unproxied) — required for Google Sites/Blogger CNAME compatibility. This means Page Rules and Workers cannot be applied to the www domain.
+**Note:** All primary domains (`ayurshakti.shop` and `www.ayurshakti.shop`) are fully proxied through Cloudflare CDN for Firebase Hosting.
 
 ## Workers
 

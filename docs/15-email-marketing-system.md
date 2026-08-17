@@ -6,7 +6,7 @@
 ## Architecture
 
 ```
-Visitor ──► Signup Form (Blogger embed)
+Visitor ──► Signup Form (Next.js Newsletter Component)
                 │
                 ▼
       Google Sheet (subscribers)
@@ -184,29 +184,21 @@ To unsubscribe: {UNSUBSCRIBE_LINK}
 7. URL: `https://resources.ayurshakti.shop/pdfs/lead-magnet.pdf`
 8. Verify in browser
 
-## Signup Form (Blogger Embed)
+## Signup Form (Next.js Newsletter Component)
 
-### Option A: Google Form (Easiest)
-1. Google Forms → New Form → Name + Email fields
-2. Settings → Collect email addresses automatically
-3. Responses → Link to Sheet (your email sheet)
-4. Google Forms → Send → Embed HTML → Paste in Blogger
-
-### Option B: Custom HTML (Better Design)
-```html
+### Custom React Component (Next.js)
+```tsx
 <form id="ayur-subscribe" action="YOUR_APPS_SCRIPT_WEB_APP_URL" method="POST">
   <h3>Get Weekly Ayurveda Tips</h3>
-  <input type="text" name="name" placeholder="Your Name" required>
-  <input type="email" name="email" placeholder="Your Email" required>
+  <input type="text" name="name" placeholder="Your Name" required />
+  <input type="email" name="email" placeholder="Your Email" required />
   <button type="submit">Subscribe</button>
 </form>
 ```
 
-### Blogger Sidebar Placement
-1. Blogger Dashboard → Layout
-2. Add a "HTML/JavaScript" gadget in sidebar
-3. Paste form code
-4. Save → Republish
+### Component Placement
+1. Embedded in Next.js footer and sidebar components.
+2. Form submits data directly to Google Apps Script Endpoint.
 
 ## Limits & Constraints
 
@@ -230,7 +222,7 @@ To unsubscribe: {UNSUBSCRIBE_LINK}
 ### 2. Form Setup
 1. Google Forms → Create with Name + Email
 2. Link response destination to Sheet
-3. Get embed code → Paste in Blogger Layout
+3. Add component to Next.js page or layout
 4. Test: Submit form → Check sheet → Check email
 
 ### 3. Lead Magnet

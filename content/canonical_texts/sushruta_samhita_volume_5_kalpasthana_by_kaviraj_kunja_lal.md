@@ -1,0 +1,1181 @@
+# Sushruta Samhita, Volume 5: Kalpasthana by Kaviraj Kunja Lal Bhishagratna
+
+**Author / Source:** by Kaviraj Kunja Lal Bhishagratna
+
+
+**Total Chapters/Sections:** 11
+
+---
+
+## 1. Introduction
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Introduction
+
+Please refer to the introduction attached to the first part of the second volume, the Nidanasthana.
+
+---
+
+## 2. Preface
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Preface
+
+For the preface of this edition, see the Nidanasthana.
+
+---
+
+## 3. Chapter II - Description of Sthavara (vegetable and mineral) poisons
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter II - Description of Sthavara (vegetable and mineral) poisons
+
+Now we shall discourse on the chapter which treats of the indications (effects, nature and operations) of Sthavara (vegetable and mineral) poisons (Sthavara- Visha-Vijnaniyam). 1.
+
+Sthavara-poison: its Source (M. T .):—
+
+There are two kinds of poison viz., that obtained from immobile things (Sthavara) and that obtained from mobile creatures (Jangama). The sources of the Sthavara (vegetable and mineral) poison are ten, while those of the Jangama (animal) poison are sixteen in number.
+
+The ten sources from which a Sthavara poison may be obtained are roots, leaves, fruits, flowers, bark, milky exudations, pith (Sara), gum (Niryasa), bulb and a mineral or metal (Dhatu). 2–3.
+
+Names of the different Vegetable and Mineral poisons:—
+
+Klitaka, Ashva-mara, Gunja, Subandha[1], Gargaraka, Karaghata, Vidyuch-chikha and Vijaya are the eight root-poisons. Visha-Patrika, Lamba, Avaradaruka, Karambha and Maha-Karambha  are the five leaf-poisons The fruits of Kumudvati, Renuka, Karambha, Maha-Karambha, Karkotaka, Venuka, Khadyotaka, Carmari, Ibha-gandha, Sarpa-ghati, Nandana and Sara-paka, numbering twelve in all, are the twelve fruit-poisons. The flowers of Vetra, Kadamba, Vallija (Naracha —D. R), Karambha and Maha-Karambha are the five flower-poisons. The bark, pith and gum of Antra-pachaka, Kartariya, Sauriyaka, Karaghata, Karambha, Nandana and Varataka are the seven bark-poisons, pith-poisons and gum-poisons.
+
+The milky exudations of Kumudaghni, Snuhi and Jala-Kshiri are poisons and are known as the three Kshira-Vishas, Phenashma-bhasma (white arsenic) and Haritala (yellew orpiment) are the two mineral poisons. Kala-kuta, Vatsa-nabha, Sarshapaka, Palaka, Kardamaka, Vairataka, Must aka, Shringi-visha, Prapaundarika, Mulaka, Halahala, Maha-visha and Karkataka, numbering thirteen in all, are the bulb-poisons. Thus the number of poisons obtained from the vegetable and mineral world (Sthavara) amount to fifty-five in all. 4–11.
+
+Metrical Text:—
+
+There are four kinds of Vatsa-nabha poisons, two kinds of Mustaka and six kinds of Sarshapaka. The remaining ones have no different species. 12.
+
+Effects of poison on the human organism:—
+
+Root-poisons or poisonous roots produce a twisting pain in the limbs, delirium and loss of consciousness. A leaf-poison or poisonous leaf gives rise to yawning, difficult breathing and a twisting pain in the limbs. A fruit poison is attended with a swelling of the scrotum, a burning sensation in the body and an aversion to food. A flower-poison gives rise to vomiting, distensions of the abdomen and loss of consciousness. A bark-poison, or pith-poison, or gum-poison is marked by a fetour in the mouth, roughness of the body, headache and a secretion of Kapha (mucus from the mouth). The effects of the poisonous milky exudations (of a tree, plant or creeper) are foaming from the mouth, loose stools (diarrhea) and a curvature (drawing back) of the tongue, whereas a mineral poison gives rise to pain in the heart, fainting and a burning sensation in the region of the palate. All these are slow poisons proving fatal only after a considerable length of time. 13.
+
+Effects of BuIb-poisons:—
+
+Now we shall describe in full the respective effects of the bulb-poisons which are very strong (Tikshna) in their actions The bulb-poison known as the Kalakuta produces complete anesthesia, shivering and numbness. Paralysis of the neck and yellowness of the stool, urine and of the eye-balls are the symptoms produced in a case of Vatsanabha-poisoning. Retention of stool and urine (Anaha), disorders of the palate and the appearance of glands are the effects of a case of Sarshapa-poisoning. Loss of speech and weakness of the neck are the symptoms in a case of Palaka-poisoning. Water-brash loose stools (diarrhea) and a yellowness of the eyes mark a case of Kardamaka-poisoning. Pain in the limbs and diseases of the head are produced in a case of Vairataka -poisoning. Shivering and a numbness of the limbs are the effects of a case of Mustaka-poisoning. Lassitude, a burning sensation in the body and an enlargement of the abdomen mark a case of Shringi-visha-poisoning. An enlargement of the abdomen and redness of the eyes are the symptoms of Pundarika-poisoning. A discolouring of the complexion, vomiting hic-cough, swelling and a loss of cousciousness are the effects of the Mulaka-poison. Difficult breathing and a tawny brown colour of the skin mark a case of Halahala-poisoning. Aneurysm (Granthi) on the region of the heart and a piercing pain in the same are the symptoms in a case of Maha-visha -poisoning; while a case of Karkataka-poisoning is marked by laughing, gushing of the teeth and jumping up (without any cause). 14
+
+Specific properties of the above- named Bulb-poisons:—
+
+These thirteen kinds of bulbous poisons should be deemed as very strong292 in their potency and they possess the following ten properties in common. They are parching (Ruksha) and heat-making (Ushna in their potency. They are sharp (Tikshna) and subtle (Sukshma) i,e., have the power of penetrating into the minutest capillaries of the body and are instantaneous (Ashu) in their effects. They first permeate the whole organism and become subsequently digested (Vyavayi) and disintegrate the root- principles of the body (Vikashi). They are non-viscid (Vishada), light in potency (Laghu) and indigestible (Apaki). 15.
+
+A poison aggravates the bodily Vayu in virtue of its parching quality and vitiates the blood and the Pitta through its heat-generating property. It overwhelms the mind (produces unconsciousness) and tends to disintegrate the limbs and muscles in virtue of its sharpness and penetrates into and deranges the minutest capillaries owing to its extreme subtile essence. It proves speedily fatal owing to its speedy activity and spreads through the entire organism (which is the very nature of a drug) on account of its rapid permeating or expansive quality. It annihilates the root-principles (Dhatus) as well as the Doshas and the Malas (excreta) of the body through the power of disintregation, and does not addhere to any spot therein owing to its non-viscidness. It baffles the efficacies of other drugs and thus becomes unremediable on account of the extreme lightness (of its potency), and it cannot be easily assimilated owing to its innate indigestibility. It thus proves troublesome for a long time. 16.
+
+A poison of whatsoever sort, whether animal, vegetable, or chemical, which proves almost instantaneously fatal (within a day) should be regarded as possessed of all the ten aforesaid qualities. 17.
+
+Definition of Dushi-visha (weak and slow poison):—
+
+A poison whether animal, vegetable or chemical, not fully eliminated from the system and partially inherent therein, enfeebled, of course by anti- poisonous remedies, is designated a Dushi-visha (weak and slow poison) which is even extended to those the keenness of potency whereof is enfeebled by the sun, the fire and the wind, as well as to those which are found to be naturally devoid of some of the ten aforesaid natural qualities of a poison. A Dushi visha, owing to its enfeebled or attenuated virtue and as a necessary consequence of its being covered over with the bodily Kapha, ceases to be fatal though retained in the system for a number of years. 18.
+
+Symptoms of weakand slow poisoning:—
+
+A person afflicted with any sort of Dushi- Visha develops such symptoms as, looseness of stool (diarrhea), a discoloured complexion, fetor in the body, bad taste in the mouth, thirst, epileptic fits, vomiting (D. R.—vertigo), lassitude, confused speech and all the symptoms of Dushyodara[2] A Dushi-Visha lodged in the Amashaya (stomach) gives rise to diseases due to the combined action of the Vayu and Kapha; seated in the Pakvashaya (intestines) it brings on diseases due to the deranged condition of the Vayu and Pitta and leads to the falling off of the hair. The patient becomes rapidly atrophied, and looks like a wingless bird. When it attacks the Rasa, etc.[3] of the system it produces the diseases[4] peculiar to the root or vital principles of the body. Its action on the body becomes aggravated on a cloudy day and by exposure to cold and wind. 19-21.
+
+Premonitory Symptoms of Dushi- Visha poisoning:—
+
+Now hear me first describe the premonitory symptoms (of its aggravation). They are as follow:—Sleepiness, heaviness (of the limbs), yawning, a sense of looseness (in the joints), horripilation and aching of the limbs. These are followed by a sense of intoxication after meals, indigestion, disrelish for food, eruptions of circular patches (Mandala) on the skin, urticaria (Kotha), fainting fits, loss of the vital principles of the organism (D. R—loss of flesh), swelling of the face and the extremities (D.R.—Atrophy of the hands and legs), ascites (Dakodara), vomiting, epileptic fits, Vishama-jvara, high-fever and an un- quenchable thirst. Moreover, some of these poisons produce insanity. Some of them are characterised by an obstinate constipation of the bowels (Anaha), others, by an involuntary emission of semen while a few others produce confused speech, Kushtha (leprosy), or some other similar disease. 22.
+
+Derivative Meaning of “Dushi- Visha”:—
+
+A constant use of some particular time,[5] place and diet as well as constant and regular day-sleep tends (slowly) to poison the fundamental root-principles (Dhatus)  of the body and this (slow) poison is consequently known as the Dushi-Visha. 23.
+
+Symptoms of the different stages of Sthavara poisoning:—
+
+In the first stage of a case of poisoning by a Sthavara (vegetable or mineral) poison, the tongue becomes dark brown and numbed, and epileptic fits and hard breathing follow in its wake. The second stage is marked by such symptoms as shivering, perspiration, burning sensation, itching and pain in the body; when seated in the amashaya (stomach) it causes pain in the region of the heart. The third stage is marked by a dryness of the palate and severe (colic) pain in the stomach. The eyes become discoloured, yellow-tinted aud swollen. When seated in the Pakvashaya (intestines) it produces hic-cough, cough, and a sort of pricking pain and rumbling sound in the Antra (intestines). The fourth stage is marked by an extreme heaviness of the head. The fifth stage is marked by salivation, discolouring of the body and a breaking pain in the joints. It is marked also by the aggravation of all the Doshas and pain in the Pakvadhana (intestines?). The sixth stage is characterised by loss of consciousness or excessive diarrhea; while the seventh stage is marked by a breaking pain in the back, the shoulders and the waist and a complete stoppage (of respiration)[6]. 24.
+
+Treatment:—
+
+In the first stage the patient should be made to vomit and to drink cold water after that. Then an Agada (Anti-poisonous remedy) mixed with honey and clarified butter should be given him. In the second stage, the patient should be first made to vomit as in the preceding stage and then a purgative should be given him. Anti-poisonous potions, medicated snuffs (Nasya) and Anjanas possessed of similar virtues are beneficial in the third stage. An anti- poisonous potion through the vehicle of a Sneha (clarified butter) is efficacious in the fourth stage. In the fifth stage the patient should be given an antipoisonous medicine with the decoction of Yashti-madhu  and honey. In the sixth stage the treatment should be as in a case of diarrhea (Atisara) and the use of a medicated snuff in the form of an Avapida is recommended. The latter remedy (Avapida-Nasya) should be applied in the seventh stage as well and the scalp after being shaved in the shape of a Kaka-pada[7] (crow’s claw) should also[8] be incised with a small incision. The incised flesh and the (vitiated) blood should also be removed. 25.
+
+Koshatakyadi Yavagu:—
+
+After adopting the respective measures enjoined in respect of the several stages of poisoning, the patient should, in the interval of any two stages be made to drink in a cold state a gruel (Yavagu) prepared with the decoctions of Koshataki (Ghosha), Agnika (Ajamoda), Patha, Suryavalli, Amrita, A bhaya, Shirisha, Kinihi, Shelu, Giryahva, (white Aparajita), the two kinds of Rajani, the two kinds of Punarnava, Harenu, Trikatu, Sariva, and Bala (D.R. Sariva and Utpala) mixed with honey and clarified butter. This is beneficial in both the cases of (animal and vegetable) poisoning. 26.
+
+Ajeya-Ghrita:—
+
+Clarified butter should be duly cooked with an adequate quantity of water and the Kalka of Yashti-madhu, Tagara, Kushtha, Bhadra-daru, Harenu, Punnaga, Ela, Ela-valuka, Naga-keshara, Utpala, sugar, Vidanga, Chandana, Patra, Priyangu, Dhyamaka, the two kinds Haridra, the two kinds of Vrihati, the two kinds of Sariva, Sthira (Shala-parni) and Saha (Prishni-parni). It is called the Ajeya-Ghrita. It speedily destroys all kinds of poison in the system and is infallible in its efficacy. 27.
+
+Vishari-Agada:—
+
+A patient afflicted with the effects of Dushi-Visha inherent in the system should be first fomented and cleansed by both emetics and purgatives. The following anti-poisonous Agada (medicine) should then be taken daily. The recipe of this Agada is as follows:—Pippali, Dhyamaka, Mamsi, Savara  (Lodhra), Paripelava[9], Suvarchika, small Ela, Toya  (Balaka) and Suvarna-Gairika should be taken with honey. It destroys, when taken, the Dushi-Visha (slow chemical poisoning) in the system. It is called the Vishari-Agada and its efficacy extends also to cases of all other kinds of poisoning. 28.
+
+Treatment of the Supervening Symptoms of poisoning:—
+
+Cases of fever, burning sensation in the body, hic-cough, constipation of the bowels, loss of semen, swelling, diarrhea, epileptic fits, heart-disease, ascites, insanity, shivering, and such other supervening symptoms (consequent on the effects of a Dushi-Visha inherent in the system) should be treated with remedies laid down under the respective heads of the aforesaid diseases in accompaniment with (suitable) anti-poisonous medicines. 29.
+
+Prognosis:—
+
+A case of Dushi-Visha poisoning in a prudent and judicious person, and of recent growth is easily cured, while palliation is the only relief that can be offered in a case of more than a year’s standing. In an enfeebled and intemperate patient, it should be considered as incurable. 30.
+
+Thus ends the sceond Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the Sthavara and jangama poisons.
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+Lambā, according to Gayi—D. R.
+
+[2]:
+
+See Chapter VII. para 10, Nidāna-sthāna.
+
+[3]:
+
+These are the seven fundamental principles of the body.
+
+[4]:
+
+The text has “Ugra-viryāni’' (strong in potency). Gayi reads “Agra-Viryāni” (of great poteney).
+
+[5]:
+
+See Chapter xxvii, Sutra Sthāna.
+
+[6]:
+
+The seven stages of the poisoning are due to the poisoning of the seven fundamental root-principles (Dhātus) of the body in succession.
+
+[7]:
+
+By “the particular time” is meant a cloudy and windy day as well as the rainy season. By “the particular place” is meant a marshy country, and by “the particular diet” is meant wine, sesamum, Kulaltha-pulse, etc. as well as physical exercise, sexual intercourse, fits of anger, etc.
+
+[8]:
+
+The particular form of shaving the hair, in which the part of the scalp from and above the forehead only is shaved is technically called a Kāka-pada.
+
+[9]:
+
+“Paripelava” means either “Dhanyāka” or “Kaivartta-Mustaka”.
+
+---
+
+## 4. Title Page
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Title Page
+
+AN ENGLISH TRANSLATION
+
+OF
+
+THE SUSHRUTA SAMHITA
+
+WITH
+
+A FULL AND COMPREHENSIVE INTRODUCTION, ADDITIONAL TEXTS,  
+DIFFERENT READINGS, NOTES, COMPARATIVE VIEWS,  
+INDEX, GLOSSARY AND PLATES
+
+IN FIVE VOLUMES
+
+EDITED BY
+
+KAVIRAJ KUNJA LAL BHISHAGRATNA, M.R.A.S.
+
+Vol. V
+
+KALPA-STHANA
+
+CALCUTTA:
+
+PUBLISHED BY THE AUTHOR,  
+No. 10, KASHI GHOSE’S LANE.
+
+1911.
+
+---
+
+## 5. Chapter I - Preserving food and drink from poison
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter I - Preserving food and drink from poison
+
+Now we shall discourse on the mode of preserving food and drink from the effects of poison (Anna- pana-Raksha-Kalpa). 1.
+
+Dhanvantari, the King of Kashi, the foremost in virtue and religion and whose commands brook no disobedience or contradiction, instructed his disciples, Sushruta and others (in the following words). 2.
+
+Powerful enemies and even the servants and relations of the sovereign in a fit of anger to avenge themselves on the sovereign sometimes concoct poisonous compounds and administer the same to him, powerful though he may be, by taking advantage of any defect or weak point in him. Sometimes the ladies (of the royal house-hold) are found to administer to the king various preparations (of food and drink), which often prove to be poisonous, from a foolish motive of securing his affection and good graces thereby, and sometimes it is found that by the embrace of a poisoned girl (Visha-Kanya),[1] he dies almost instantaneously. Hence it is the imperative duty of a royal physician to guard the person of the king against poisoning. 3.
+
+The minds of men are restless and uncontrollable like an unbroken horse. Faith is a rare thing in the human society and hence a crowned head should never believe any one[2] in this world. 4.
+
+The necessary Qualifications of a Superintendent of the Royal Kitchen:—
+
+A king should appoint a physician for the royal kitchen (to superintend the preparations of the royal fare). He should be well-paid and possess the following qualifications. He should come of a respectable family, should be virtuous in conduct, fondly attached to the person of his sovereign, and always watchful of the health of the king. He should be greedless, straight-forward, god-fearing, grateful, of handsome features, and devoid of irascibility, roughness, vanity, arrogance and laziness. He should be forbearing, self-controlled, cleanly, compassionate, well- behaved, intelligent, capable of bearing fatigue, well- meaning, devoted, of good address, clever, skilful, smart, artless, energetic and marked with all the necessary qualifications (of a physician; as described before. He should be fully provided with all kinds of medicine and be highly esteemed by the members of his profession. 5.
+
+The necessary features of a Royal kitchen:—
+
+The Royal kitchen should be a spacious chamber occupying an auspicious (south-east) corner of the royal mansion and built on a commendable site. The vessels and utensils (to be used in a royal kitchen) should be kept scrupulously clean. The kitchen should be kept clean, well lighted by means of a large number of windows and guarded with nets and fret works (against the intrusion of crows, etc.). None but the trusted and proved friends and relatives should have access to the royal kitchen, or hold any appointment therein. Highly inflammable articles (such as hay, straw, etc.) should not be stacked in the royal kitchen whose ceiling should be covered with a canopy. The Fire-god should be (daily) worshipped therein. The head or managar (manager) of the royal cooks should generally possess the same qualifications as those of a physician. The bearers and cooks in the royal kitchen should have their nails and hair clipped off and should bear turbans. They should be cleanly, civil, clever, obedient, good-looking, each charged with separate duties, good-tempered, composed in their behaviour, well-bathed, greedless, determined, and prompt in executing the orders of their superiors. A physician of the royal kitchen should be very cautious and circumspect in the discharge of his duties, since food is the main stay of life, and the sole contributor to the safe continuance of the body. Every one employed in a royal kitchen such as, bearers, servers, cooks, soup- makers, cake-makers (confectioners), should be placed under the direct control and supervision of the physician of the kitchen. 6.
+
+Characteristic features of a poisoner:—
+
+An intelligent physician well qualified to ascertain the true state of one’s feelings from the speech, conduct, demeanour and distortions of the face, would be able to discover the true culprit (poisoner) from the following external indications. A giver of poison does not speak nor does he answer when a question is put to him. He swoons or breaks off suddenly in the middle of his statement, and talks incoherently and indistinctly like a fool. He is found suddenly and listlessly to press the joints of his fingers or to scratch the earth, to laugh and to shiver. He will look frightened at the sight of others (indifferently), and will cut (straw or hay) with his fingernails, and his colour changes constantly. He will scratch his head in an agonised and confused state, and will look this way and that, trying to slip away by a back or side door, thus betraying his guilty conscience by his confusion. 7.
+
+An innocent man, unjustly arraigned before the royal tribunal might from fear or precipation, become (confused and) liable to make untrue statements (and thus be unjustly convicted). Hence the king should first of all test the sincerity and fidelity of his servants ascertaining the non-poisonous character of the boiled rice, drink, tooth-twigs, unguents, combs, cosmetics, infusions, washes, anointments (with sandal pastes, etc.), garlands (of flowers, etc.), clothes, bedding, armour, ornaments, shoes, foot cushions, the backs of horses and elephants and snuff’s (Nasya), Dhuma (tobacco smoking), collyrium and such other things (reserved for the use of the king). 8-9.
+
+Indications of poisoned food and drink, etc.:—
+
+The indications by which the poisonous character of food, drink, etc. (to be used by a king) may be detected are described first and the medical treatment is dealt with secondly. A portion of the food prepared for the royal use should be first given to crows and flies and its poisonous character should be presumed, if they instantaneously die on partaking of the same. Poisoned food burns making loud cracks, and when cast into the fire it assumes the Colour of a peacock’s throat, becomes unbearable, burns in severed and disjointed flames and emits irritating fumes and it cannot be speedily extinguished. The eyes of a Chakora bird are instantaneously affected by looking at such poisoned food and a Jivajivaka dies under a similar condition. The note of the cuckoo becomes hoarse and a Krauncha (heron) becomes excited. A peacock moves about and becomes sprightly, and a Shuka and a Sarika scream (in fear). A swan cackles violently and a Bhringaraja (of the swallow class) raises its inarticutate voice. A Prishata (a species of spotted deer) sheds tears and a monkey passes stools. Hence these birds and animals should be kept in the royal palace for show and entertainment as well as for the protection of the sovereign master. 10.
+
+The vapours arising from poisoned food when served for use give rise to a pain in the cardiac region and produce headache and restlessness of the eyes. As an antidote, a preparation of Kushtha, Ramatha (asafetida), Nalada and honey mixed together should be used as an Anjana (along the eye-lids) and a medical compound of the same drugs should be snuffed into the nostrils. A plaster composed of Shirisha, turmeric, and sandal pasted together or simply a sandal paste should be used over the region of the heart in such cases 11.
+
+A poison affecting the palms of the hands, produces a burning sensation in them and leads to the falling off of the finger-nails. The remedy in such cases consists in applying a plaster of Shyama[3], Indra, Gopa soma and Utpala pasted together. 12.
+
+Poisoned food partaken of through ignorance or folly, produces a stone-like swelling and numbness of the tongue, a loss of the faculty of taste and a pricking burning pain in that organ attended with copious mucous salivation. The measures and remedies already laid down in connection with the treatment of cases of poisonous vapours as well as those to be hereinafter described in connection with the use of a poisoned tooth twig should be adopted. 13.
+
+Food mixed with poison, when it reaches the Amashaya (stomach), gives rise to epileptic fits, vomiting, dysenteric stools (Atisara), distention of the abdomen, a burning sensation, shivering and a derangement of the sense-organs. Under such circumstances an emetic consisting of Madana, Alavu, Vimbi and Koshataki  pasted together and administered through the medium of milk, curd and Udasvit (Takra) or with rice-washings should be understood as the proper remedy. 14.
+
+Food mixed with poison, if it reaches the Pakvashaya (intestines), gives rise to a burning sensation (in the body), epileptic fits, dysenteric stools (Atisara), derangements of the organs of sense-perception, rumbling sounds in the abdomen and emaciation, and makes the complexion (of the sufferer) yellow. In such a case a purgative composed of clarified butter and Nilini  fruits should be the first remedy. As an alternative, remedies to be described lateron (in the next chapter) in connection with the effects of Dushi-Visha (slow chemical poison) should be adopted and used, saturated with milk-curd (Dadhi) or honey. 15.
+
+All liquid substances such as wine, milk, water, etc., if anywise poisoned, are found to be marked with variegated stripes on their[4] surface and become covered over with froth and bubbles. Shadows are not reflected in such (poisoned) liquids and if they ever are, they look doubled, net-like (porous) thin and distorted. 16.
+
+Preparations of potherbs, soups, boiled rice and cooked meat are instantaneously decomposed, and become putrid, tasteless and omit little odour when in contact with poison. All kinds of food become tasteless, smellless and colourless when in contact with poison. Ripe fruit, under such conditions, is speedily decomposed and the unripe ones are found to get prematurely ripe. 17–18.
+
+If the tooth-twig be anyway charged with poison its brush-like end is withered and shattered and if used gives rise to a swelling of the lips and the tongue and about the gums. In such a case, the swollen part should be first rubbed (with any leaf of rough fibre) and then gently rubbed with a plaster composed of Dhataki  flowers, Pathya, stones of Jambuline (black-berry) and honey pasted together. As an alternative, the pait should be gently rubbed and dusted over with a plaster of powdered Amkotha roots or Sapta-ccada bark or seeds of Shirisha, pasted together with honey. The same remedies should be applied in the cases of affections due to the use of a poisoned tongue-cleanser or a poisoned gargle (Kavala). 12–20.
+
+Poisoned articles for Abhyanga (oils and unguents) look thick, slimy or discoloured and produce, when used, eruptions on the skin which suppurate and exude a characteristic secretion attended with pain, perspiration, fever and bursting of the flesh. The remedy in such a case consists in sprinkling cold water over the body of the patient and in applying a plaster of sandal wood, Tagara, Kushtha, Ushira, Venu-patrika (leaves of bamboo), Soma-valli, Amrita, Shveta-padma (lotus), Kaliyaka and cardamom pasted together (with cold water). A potion of the same drugs mixed with the urine of a cow and the expressed juice of Kapittha is equally commended in the present instance. Symptoms which mark the use of poisoned armour, garments, bedding, cosmetic, washes, infusions, anointments, etc. and the remedies for these are identical with those consequent upon the use of poisoned unguents. 21-22.
+
+A poisoned plaster (if applied to the head) leads to the falling off of the hair and to violent headache, bleeding through the mouth and the nostrils, etc., and the appearance of glands on the head. The remedy in such a case consists in the application of a plaster made of black earth treated (Bhavita) several times with the bile of a Rishya (a species of deer), clarified butter and the expressed juice of Shyama, Palindi (Trivrit) and Tandu- liyaka (in succession). The expressed juice of Malati  (flower) or of Mushika-parni, fluid-secretions of fresh cow-dung and house soot as external applications are also beneficial in such cases. 23.
+
+In cases of poisoning through head-unguents or through a poisoned turban, cap garland of flowers, or bathing water, measures and remedies as laid down in connection with a case of poisoned Anulepana should be adopted and applied. In a case of poisoning through cosmetics applied to the face, the local skin assumes a bluish or tawny brown colour covered with eruptions like those in cases of Padmini-kantaka and the symptoms peculiar to a case of using a poisoned unguent become manifest. The remedy in such a case consists in the application of a plaster composed of (white) sandal wood, clarified butter, Payasya, Yashti madhu, Phanji, (Bhargi), Vandhujiva and Panarnava. A potion of honey and clarified butter is also beneficial in this case. 24-25.
+
+A poisoned elephant usually exhibits such symptoms as restlessness, copious salivation and redness of the eyes. The buttocks, the penis, the anal region and the scrotum of its rider coming in contact with the body of such an elephant are marked by eruptions. Under such conditions both the animal and its rider should be medically treated with the remedies laid down in the treatment of poisoning through an unguent. 26.
+
+A poisoned snuff (Nasya) or poisoned smoke (Dhuma) produces bleeding from the mouth and nose, etc., pain in the head, a discharge of mucus and a derangement of the functions of the sense-organs. The remedy in such cases consists in drinking and snuffing[5] a potion of clarified butter duly cooked with the milk of a cow or such other animal together with Ativisha, Vaca and Mallika flower (as Kalka). A poisoned garland (of flowers) is characterised by the loss of odour and by the fading and discolouring of its natural colour, and when smelt produces headache and lachrymation. Remedies laid down under the heads of poisoning through vapour (Dhuma) and through cosmetics for the face (Mukha-lepa) should be used and applied. 27-28.
+
+The act of applying poisoned oil into the cavity of the ears impairs the faculty of hearing and gives rise to swelling and pain in that locality and to the secretion (of pus) from the affected organs. The filling up of the cavity of the ears with a compound of clarified butter, honey and the expressed juice of Vahuputra (Shatavari)[6] or with the juice of Soma-valka in a cold state prove curative in such cases. 29.
+
+The use of a poisoned Anjana (collyrium) to the eyes is attended with copious lachrymation, deposit of an increased quantity of waxy mucus (in the corners of the eyes), a burning sensation, pain (in the affected organs), impairment of the sight and even blindness. In such a case the patient should be made to drink a potion of fresh clarified butter (Sadyo-ghrita)[7] alone or with pasted Pippali which would act as a Tarpana (soother). Anjana prepared with the expressed juice of Mesha shringi, Varuna- bark, Mushkaka or Ajakama or with Samudra-phena pasted with the bile (Pitta) of a cow should be applied to the eyes, or the one prepared with the (expressed juice of the) flower of Kapittha, Mesha-shringi, Bhallataka, Bandhuka and Amkotha  separately. 30.
+
+The case which is incidental to the use of a paste of poisoned sandals, is marked by a swelling in the legs, secretion from the affected organs, complete anesthesia of the diseased locality and the appearance of vesciles thereon. Those due to the use of poisoned shoes or foot-stools exhibit symptoms identical with those of the above case and the medical treatment in all of these cases should be one and the same. Ornaments charged with poison lose their former lustre and give rise to swelling, suppuration and the cracking of the parts they are worn on. The treatment in these cases due to the use of poisoned sandals and ornaments should be similar to the one advised in connection with that due to the use of poisoned unguents (Abhyanga). 31-32.
+
+General Treatment:—
+
+The symptoms which characterise cases of poisoning commencing with “poisoning through poisoned smoke" and ending with that due to the use of “poisoned ornaments” should be remedied with an eye to each of the specific and characteristic indications, and the medicine known as the Maha-sugandhi Agada to be described hereafter should be administered as drink, unguent, snuff and Anjana. Purgatives or emetics should be exhibited and even strong venesection should be speedily resorted to in cases where bleeding would be beneficial. 33–34.
+
+The drugs known as Mushika and Ajaruha should be tied round the wrists of a king as prophylactics to guard against the effects of poisoned food, since either of these two drugs (in virtue of their specific properties) tends to neutralise the operativeness of the poison. A king surrounded by his devoted friends shall cover his chest (with drugs of heart-protecting virtues) and shall drink those preparations of clarified butter, which are respectively known as the Ajeya and the Amrita  Ghritas[8]. He should drink regularly every day such wholesome cordials as honey, clarified butter, curd, milk and cold water and use in his food the meat and soup of the flesh of a peacock, mungoose, Godha (a species of lizard), or Prishata deer. 35–A.
+
+The mode of preparing the Soup:—
+
+The flesh of a Godha, mungoose, or deer should be cooked and spiced with pasted Palindi (Trivrit), Yashtimadhu and sugar. The flesh of a peacock should be similarly cooked and spiced with sugar, Ativisha and Shunthi and that of a Prishata deer with Pippali and Shunthi. The soup of Shimbi taken with honey
+
+and clarified butter should, similarly, be deemed beneficial (as being possessed of similar antitoxic properties). An intelligent king should always use food and drink of poison-destroying properties. In a case of imbibed poison, the heart should be protected (with a covering of anti-poisonous drugs) and the patient should be made to vomit (the contents of his stomach) with a potion composed of sugar, Pippali, Yashti-madhu, honey and the expressed juice of sugar-cane dissolved in water. 35-36.
+
+Thus ends the first Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the mode of protecting food and drink (from the effect of poison).
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+A girl slowly habituated to taking poison or poisoned food is called a Visha-Kanyā, such a girl presented to a king by a pretending friend of the state often managed to hug her royal victim into her fatal embrace. The poison operates through the perspiration, proving almost instantaneously fatal through the act of dalliance.
+
+[2]:
+
+A Royal Physician is an honourable exception in this respect.
+
+[3]:
+
+Some explain “Śyāmā” as “Śyāmā-latā; others explain it as “Priyangu”. Dallana explains “Indra” to mean “Indra-Vāruni”, “Gopa” to mean “Sārivā” and “Soma” to mean “Guduci”. Others, however, take “Indra-Gopa” as one word and explain it to mean a kind of insect known by that name, and they take “Soma” to mean “Soma-latā” in the ordinary sense of the word.
+
+[4]:
+
+The colours of the different poisoned articles vary in each case and this is elaborately described by Vāgbhata in his Samhitā.
+
+[5]:
+
+Dallana explains this couplet to mean that clarified butter cooked with milk and Ativishā should be given for drink, and that cooked with Vaca and Mālati flower as an errhine.
+
+[6]:
+
+Dallana says that some read “vahupatnāyāḥ” and explain “vahupatrā (vahupannā?)” to mean “mayūraśikhā |”
+
+[7]:
+
+Some are inclined to take “sadyaḥ” as an adverb meaning “instantly” and modifying “peyam” meaning thereby that clarified butter should be instantly taken.
+
+[8]:
+
+See Kalpa-Sthāna, Chapter II. Para 27, and Chapter VII. para 5, respectively.
+
+---
+
+## 6. Chapter III - Description of Jangama (animal) poisons
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter III - Description of Jangama (animal) poisons
+
+Now we shall discourse on the subject of (the nature, virtue, etc. of) animal poisons (jangama-visha-vijnaniya). 1.
+
+We have briefly said before that there are sixteen situations of poison in the bodies of venomous animals. Now we shall deal with them in detail. 2.
+
+Locations:—
+
+An animal poison is usually situated in the following parts, viz; the sight, breath, teeth, nails, urine, stool, semen, saliva, menstrual blood, stings, belching[1], anus, bones, bile, bristles (Shuka) and in the dead body of an animal. 3.
+
+Of these, the venom of celestial serpents lies in their sight and breath, that of the terrestrial ones in their fangs while that of cats, dogs, monkeys, Makara (alligators?), Frogs, Paka-matsyas (a kind of insect), lizards (Godha), mollusks (Snails), Prachalakas (a kind of insect), domestic lizards, four-legged insects and of any other species of flies such as mosquitoes, etc., lies in their teeth and nails. 4.
+
+The venom of a Chipita, Piccataka, Kashaya- vasika, Sarshapa-vasika, Totaka, Varchah-kita, Kaundilyaka and such-like insects lies in their urine and excreta. The poison of a mouse or rat lies in its semen, while that of a Luta (spider) lies in its saliva, urine, excreta, fangs, nails, semen and menstrual fluid (ovum). 5–6.
+
+The venom of a scorpion, Vishvambhara, Rajiva-fish, Uccitinga (cricket) and a sea-scorpion lies in their saliva. The venom of a Citra-shirah, Sarava, Kurdishata, Daruka, Arimedaka and Sharika-mukha, lies in their fangs, belching, stool and urine. The venom of a fly, a Kanabha and leeches lies in their fangs. The poison lies in the bones of an animal killed by any poison, as well as in those of a snake, a Varati and a fish[2]. The poison lies in the bile of a Shakuli, a Rakta-raji and a Charaki fish. The poison lies in the bristles (Shuka) and the head of a Sukshma-tunda, an Uccitinga (cricket), a wasp, a centipede (Shatapadi), a Shuka, a Vala-bhika, a Shringi and a bee. The dead body of a snake or an insect is poisonous in itself. Animals not included in the above list should be deemed as belonging to the fang-venomed species i.e., the poison lies in their fangs. 7–11.
+
+Memorable Verses:—
+
+The enemies of a sovereign poison the pastures, water, roads, food-stuffs and smoke (Dhuma) of their country and even charge the atmosphere with poison in the event of his making incursions into their country. The poisonous nature of the foregoing things should be ascertained from the following features and should be duly purified (before use). 12-A.
+
+Characteristic Features and Purifications of poisoned water, etc:—
+
+A sheet of poisoned water becomes slimy, strong-smelling, frothy and marked with (black-coloured) lines on the surface. Frogs and fish living in the water die without any apparent cause. Birds and beasts that live (in the water and) on its shores roam about wildly in confusion (from the effects of poison), and a man, a horse or an elephant, by bathing in this (poisoned) water is afflicted with vomiting, fainting, fever, a burning sensation and swelling of the limbs. These disorders (in men and animals) should be immediately attended to and remedied and no pains should be spared to purify such poisoned water. The cold ashes, of Dhava, Ashva-karna, Asana, Paribhadra, Patala, Siddhaka, Mokshaka, Raja-druma and Somavalka burnt together, should be cast into the poisoned pool or tank, whereby its water would be purified; as an alternative, an Anjali-measure (half a seer) of the said ashes cast in a Ghata-measure[3] (sixty-four seers) of the required water would lead to its purification. 12-B.
+
+A poisoned ground or stone-slab, landing stage or desert country gives rise to swellings in those parts of the bodies of men, bullocks, horses, asses, camels and elephants that may chance to come in contact with them. In such cases a burning sensation is felt in the affected parts and the hair and nails (of these parts) fall off. In these cases, the poisoned surface should be purified by sprinkling it over with a solution of Ananta and Sarvagandha (the scented drugs) dissolved in wine (Sura)[4], or with (an adequate quantity of) black clay[5] dissolved in water or with the decoction of Vidanga, Patha, and Katabhi. 12–C.
+
+Poisoned hay or fodder or any other poisoned foodstuff produces lassitude, fainting, vomiting, diarrhea or even death (of the animal partaking thereof). Such cases should be treated with proper anti poisonous medicines  according to the indications of each case. As an alternative, drums and other musical instruments smeared with plasters of anti-poisonous compounds (Agadas)[6] should be beaten and sounded (round them). Equal parts of silver (Tara), mercury (Sutara) and Indra-Gopa insects with Kuru Vinda[7] equal in weight to that of the entire preceding compound, pasted with the bile of a Kapila (brown) cow, should be used as a paste over the musical instruments (in such cases). The sounds of such drums, etc. (pasted with such anti-poisonous drugs) are said to destroy the effects of even the most dreadful poison. 12–D.
+
+Poisons of the Atmosphere and its purification:—
+
+The dropping of birds from the skies to the earth below in a tired condition is a distinct indication of the wind and the smoke (of the atmosphere) being charged with poison. It is further attended with an attack of cough, catarrh, head ache, and of severe eye-diseases among persons inhaling the same wind and smoke. In such cases the (poisoned) atmosphere should be purified by burning quantities of Laksha, Haridra, Ati-visha, Abhaya, Abda (Musta), Renuka, Ela, Data (Teja-Patra), Valka  (cinnamon), Kushtha and Priangu in the open ground. The fumes of these drugs would purify the Anila (air) and the Dhuma (smoke) from the poison they had been charged with 12.
+
+Mythological origin of poison (Visha):—
+
+It is stated in the Scriptures that a demon named Kaitabha obstructed in various ways, the work of the self-origined Brahma when he was engaged in creating this world. At this the omnipotent god grew extremely wrathful. The vehement wrath of the god gradually swollen and inflamed, at last emanated in physical forms from his mouth and reduced the mighty, death-like, roaring fiend to ashes. But the energy of that terrific wrath went on increasing even after the destruction of the demon, at the sight of which the gods were greatly depressed in spirit. The term Visha (poison) is so called from the fact of its filling the gods with Vishada (depression of spirits). After that the god of creation, having finished his (self imposed) task of creating this world, cast that wrath both into the mobile and the immobile creations Just as the atmospheric water which is of imperceptible and undeveloped taste, acquires the specific taste of the ground or soil it falls upon, so it is the very nature of the (tasteless) Visha that it partakes of the specific taste (Rasa) of a thing or animal in which it exists. 13.
+
+Properties of poisons:—
+
+All the sharp and violent qualities are present in poison. Hence poisons should be considered as aggravating and and deranging all the Doshas of the body. The Doshas aggravated and charged with poison forego their own specific functions. Hence poison can never be digested or assimilated in the system. It stops the power of inhaling. Expiration (exhalation of the breath) becomes impossible owing to the internal passages having been choked by the deranged Kapha. Consequently a poisoned person drops down in an unconscious state even when life is still present within his body. 14.
+
+Nature and Location of Snake-poison:—
+
+The poison of a snake like the semen in an adult male lies diffused all through its organism. As semen is gathered up, dislodged and subsequently emitted through the urethra by being agitated (by contact with woman, etc.), so the poison in a snake is gathered up and secreted through the holes of its fangs under the conditions of anger and agitation. The fangs being hook-shaped, a snake cannot secrete its poison without lowering its hood just after a bite. 15.
+
+General treatment of poisoning:—
+
+Since a poison of whatever sort is extremely keen, sharp and heat-making in its poteney, a copious sprinkling with cold water should be used in all cases of poisoning. But since the poison of an insect is mild and not too much heat-making in its potency and as it engenders a large quantity of Vayu and Kapha in the organism, measures of fomentation (Sveda) are not forbidden in a case of insect-bite. A bite by a strongly poisoned insect, however, should be treated as a snake-bite to all intents and purposes. 16.
+
+The poison of a venomed dart or of a snakebite courses through the whole organism of the victim but it is its nature that it returns to the place of hurt and bite respectively. A man eating, from culpable gluttony, the flesh of such an animal, just dead (from the effects of poison), is afflicted with symptoms and diseases peculiar to the specific pathogenetic virtues of the poison with which the dead body is charged, and, in the long run, meets with his doom. Hence the flesh of an animal killed by a venomed dart or a snake bite (should be considered as fatal as the poison itself and) should not be taken immediately after its death. The flesh of such an animal, however, may be eaten after a period of forty eight minutes (Muhurta) from its death after the portions of the hurt and the bite have been removed. 17.
+
+Symptoms of taking poison internally:—
+
+Whoever passes a black sooty stool with loud flatus, or sheds hot tears and drops down with agony, and whose complexion becomes discoloured, and whose mouth becomes filled with foam, should be considered as afflicted with poison taken internally (Visha-pita). The heart of such a man (dying from the effects of internal poisoning) cannot be burnt in fire; since the poison from its very nature lies extended in the whole viscera of the heart, the seat of cognition[8]. 18.
+
+Fatal bites:—
+
+A man bitten by a snake in any of the vulnerable parts of the body, or near (the root of) an Ashvatthva tree, or a temple, at the cremation ground or on an ant-hill, or at the meeting of day and night, or at the crossings of roads or under the influence of the Bharani or Magha asterisms (astral mansions) should be given up as lost. The poison of a hooded cobra (Darvri-kara proves instantaneously fatal. All poisons become doubly strong and operative in summer (Ushna)[9]. In cases of persons suffering from indigestion, urinary complaints, or from the effects of deranged Pitta or oppressed with the heat of the sun (sun stroke) as well as infants, old men, invalids, emaciated persons, pregnant women, men of timid disposition, or of a dry temperament, or oppressed with hunger, or bitten on a cloudy day, the poisons become doubly strong and operative. 19–20.
+
+On the other hand, a snake bitten person, into whose body an incision is unattended with bleeding, or on whose body the strokes of lashes leave no marks, nor does horripilation appear even after a copious pouring of cold water on the body, should be likewise given up as lost. A case of snake-bite in which the tongue of the victim is found to be coated white and whose hair falls off (on the slightest pull), the bridge of whose nose becomes bent and the voice hoarse, where there is lockjaw and the appearance of a blackish-red swelling about the bite,—such a case should be given up as hopeless. 21–22.
+
+The case in which thick, long lumps of mucus are expectorated accompanied by bleeding from both the upward and the downward orifices of the body with distinct impression of all the fangs on the bitten part, should be given up by the physician. 23.
+
+A case of snake-bite marked by the symptoms of an insane state like that of a drunkard and accompanied by severe distressing symptoms (Upadrava), as well as loss of voice and complexion and an absence of the circulation of blood[10] and by other fatal symptoms should be abandoned and no action need be taken therein. 24.
+
+Thus ends the third Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of animal poisons.
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+Vriddha-Vāgbhata reads Alaji-Śonite in place of “Visardhita.”
+
+[2]:
+
+Some read “varaṭīmatsya” (Varati-fish) as one word—the name of a species of fish.
+
+[3]:
+
+Jejjata explains ‘Ghata’ as a pitcher, i.e., a pitcher-ful of water.
+
+[4]:
+
+Dallana holds that the use of the plural number here in “murābhiḥ” means that honey, treacle, etc. should also be used with wine.
+
+[5]:
+
+Dallana says that some read ‘earth of an ant-hill’ in place of ‘black clay’ for its anti-poisonous properties.
+
+[6]:
+
+See Chapter VII, Kalpa-Sthāna.
+
+[7]:
+
+‘Sārivā’ according to Dallana, ‘Bhadra-musta’ according to others.
+
+[8]:
+
+In the Charaka Samhitā also we come across identical expressions of opinion as to the seat of poison in the dead body of an animal or man, dying from poison from a poisoned dart or snake-bite or from poison administered internally. See chapter xxiii, cikitsā-sthāna—Charaka Samhitā.
+
+[9]:
+
+In place of “uṇe” some read “ūrddhe” This would mean “if bitten in the upper part of the body.”
+
+[10]:
+
+The text has “Avegi”. Kārtika explains it to mean “with suppression of the natural urgings, ie.. of stool, urine, etc.
+
+---
+
+## 7. Chapter IV - Description of the poison of a snakebite
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter IV - Description of the poison of a snakebite
+
+Now we shall discourse on the Chapter which treats of the specific features of the poison of a snakebite Sarpa-dashta-Visha-Vijnaniya). 1.
+
+Having laid himself prostrate at the feet of the holy and wise Dhanvantari, the master of all the Shastras, Sushruta addressed him as follows:—“Enlighten and illumineus (illuminous?), O Lord, on the number and classification of snakes, on the nature of their poison and on the distinguishing marks of their respective bites”, whereupon Dhanvantari, the foremost of all physicians replied as follows:—Innumerable are the families of serpents, of which Takshaka and Vasuki are the foremost and the most renowned. These are supposed to carry the earth[1] with the oceans, mountains and the islands on their heads and are as powerful and furious as the blazing fire, fed upon the libations of clarified butter. I make obeisance to those who constantly roar, bring down rain, scorch the whole world (with the heat of their hundred-headed venom) and are capable of destroying the universe with their angry looks and poisonous breath. It is fruitless, O Sushruta, to enter into a discourse on the treatment of their bites as they are beyond the curative virtues of ail terrestrial remedies. 2-A.
+
+Classification:—
+
+I shall, however, describe in due order, the classification of the terrestrial snakes whose poison lies in their fangs wherewith they bite the human beings (and other animals). They are eighty in number, classified into five main genera, namely, the Darvi-kara (hooded), Mandali (hoodless and painted with circular patches or rings of varied colours on their skin), Rajiman (hoodless and striped), Nirvisha (non-venomous or slightly venomous) and Vaikaranja (hybrid species). The last named is also, in its turn, divided into three sub-divisions only, viz., the Darvi-kara (hooded), the Mandali (hoodless and ring-marked) and the Rajiman (striped ones). 2.
+
+Of these there are twenty six kinds of Darvi-kara snakes, twenty-two of the Mandali species, ten of the Raji-man class, twelve of the Nirvisha (non-venomous) species and three of the Vaikaranja (hybrid) species. Snakes born of Vaikaranja parents are of variegated colours (Citra) and are of seven different species (three of these being Mandali (marked with rings) and (four) Rajila (marked with stripes). 3.
+
+Classification of snake-bites:—
+
+snake trampled under foot, or in a fit of anger or hunger, or anywise terrified or attacked, or out of its innate malicious nature, will bite a man or an animal. The bites of these snakes highly enraged as they are, are grouped under three heads by men conversant with their nature, viz., Sarpita (deep-punctured), Radita (superficially punctured) and Nirvisha (non-venomous) bites. Some of the authorities on snake bites,however, add a fourth kind viz., Sarpangabhihata (coming in contact with the body of a serpent). 4–A.
+
+Their specific Symptoms:—
+
+The bite in which one, two or more marks (punctures) of fangs of considerable depth are found on the affected part attended with a slight bleeding as well as those which are extremely slender and owe their origin to the turning aside and lowering of its mouth (head) immediately after the bite and are attended with swelling and the characteristic changes (in the system of the victim) should be known as the Sarpita bite. A (superficial) puncture (or punctures) made by the fangs of a snake and the affected part being attended with reddish, bluish, whitish or yellowish lines or stripes is called the Radita bite, which is characterised by the presence of a very small quantity of venom in the punctured wound. A Nirvisha (non- venomous) bite is marked by the presence of one or more fang - marks, an absence of swelling and the presence of slightly vitiated blood at the spot and is not attended with any change in the normal (physiological) condition of the person bitten. The contact of a snake with the body of a naturally timid person may cause the aggravation of his bodily Vayu and produce a swelling of the part. Such a man is said to be Sarpangabhihata[2] (affected by the touch of a snake). 4.
+
+A bite by a diseased or agitated snake or by an extremely old or young one, should be considered as considerably less venomous. The poison of a snake is inoperative in a country resorted to by the celestial Garuda (the king of birds), or by the gods, Yakshas, Siddhas and Brahmarshis, as well as in one in which there are drugs of anti-venomous virtues. 5.
+
+Characteristic features of the different Species Of Snakes:—
+
+Those having hoods and marked with spots resembling a wheel or a plough, an umbrella or a cross (Svastika) or a goad (Amkusha) on their heads and are extremely swift, should be known as the Darvi-kara snakes. Those which are large and slow and marked with parti-coloured
+
+*
+
+ring-like or circular spots on their skin, and have the glow of the sun or fire should be known as Mandali snakes, while those which are glossy and whose bodies are painted with parti-coloured horizontal, perpendicular and lateral stripes, should be known as the Rajiman species. 6.
+
+Features of the different Castes amongst snakes:—
+
+The snakes whose skin is lustrous like a pearl or silver, is coloured yellow and looks like gold and emits a sweet smell, should be regarded as belonging to the Brahmana species of snakes. Those which are glossy, extremely irritable in their nature and marked with spots on their skin resembling the discs of the sun and moon, or of the shape of a conch- shell (Ambuja) or an umbrella, should be regarded as belonging to the Kshatriya species. The snakes of the Vaishya caste are coloured black or red or blackish grey or ash-coloured or pigeon-coloured and are (crooked or hard in their structures) like a Vajra. The snakes which resemble a buffalo or a leopard in colour and lustre or are rough-skinned or are possessed of a colour other than the preceding ones should be considered as belonging to the Shudra class. 7.
+
+The poison of all hooded snakes (Phani) deranges and aggravates the bodily Vayu, that of the Mandali (circular spotted) species aggravates the Pitta, while that of the Rajiman (striped) class aggravates the bodily Kapha. The poison of a snake of hybrid (Vaikaranja) origin aggravates the two particular Doshas of the body which its parents would have separately aggravated—a fact which helps us to ascertain the species to which its parents belong. 8.
+
+Particular habits of different kinds of snakes:—
+
+Now hear me describe the special habits of each of these families of snakes. A snake of the Rajiman species, is found abroad in the fourth or the last quarter of the night, the Mandali snakes are found to be out in the three preceding watches, while the Darvi-kara snakes are found to be abroad (in quest of prey) only in the day time. 9.
+
+A Darvi-kara snake of tender age, a middle-aged Rajiman snake and an old Mandali snake are as fatal as personified death. A snake of extremely tender age, as well as the one roughly handled by a mungoose, or oppressed with water, as well as an extremely old and emaciated one, or one which is extremely frightened or has recently cast ofif its slough should be considered as mild-venomed. 10–11.
+
+Names of the different Species of Darvi-kara Snakes:—
+
+Snakes known as Krishna-Sarpa, Maha-krishna, Krishnodara, Shveta-kapota, Vala haka, Maha-Sarpa, Shankha-pala, Lohitaksha, Gavedhuka, Parisarpa Khanda-phana, Kakuda, Padma, Maha-Padma, Darbha-pushpa, Dadhi-mukha, Pundarika, Bhrukuti-mukha, Vishkira, Pushpabhikirna, Giri-sarpa, Riju-sarpa, Shvetodara, Maha-shiras, Alagarda and Ashi- visha belong to the family of Darvi-kara snakes. 12
+
+Names of the different Species of Mandali Snakes:—
+
+Snakes known as Adarsha- mandala, Shveta-mandala, Rakta-mandala, Citra-mandala, Prishata, Rodhra-pushpa, Milindaka, Gonasa, Vriddha-gonasa, Panasa, Maha-panasa, Venu-patraka, Shishuka, Madana, Palimhira, Pingala, Tantuka, Pushpa-pandu, Shadga, Agnika, Vabhru, Kashaya, Kalusha, Paravata, Hastabharana, Citraka and Enipada belong to the family of the Mandali species of snakes. 13.
+
+Names of the different species of Rajiman Snakes:—
+
+Snakes known as Pundarika, Raji-citra, Angula-raji, Vindu-raji, Kardamaka, Trina-shoshakas, Sarshapaka, Shveta-hanu, Darbha-pushpa, Chakraka, Godhumaka, Kikvisada belong to the Rajiman family of snakes. 14.
+
+Names of the different species of Nirvisha snakes:—
+
+The Galagoli, Shuka-patra, Ajagara, Divyaka, Varshahika, Pushpa-shakali, Jyoti- ratha, Kshirika, Pushpaka, Ahi-pataka, Andhahika, Gaurahika and the Vrikshe-shaya belong to the Nirvisha (non-venomous) group of snakes. 15.
+
+Names and Origin of the different species of Vaikaranja snakes:—
+
+The Vaikaranja snakes are the cross-bred of the above first three species, viz., Darvi-kara, etc., and are known as Makuli, Potagala and Snigdha-raji. Those born of a Krishna-sarpa father and Gonasi mother or the contrary are known as Makuli, A Rajila father and Gonasi mother or the contrary bring forth a (hybrid species known as the) Potagala, and a Krishna-sarpa father and a Rajimati mother or the contrary produce a Snigdha-raji snake. According to several authorities, the poison of a snake of the first of these three hybrid sub families partakes of the nature of that of its father while that of the remaining two partakes of the nature of their mother. 16.
+
+Sub-families of the Vaikaranja Snakes:—
+
+Seven other sub-families arise out of the three aforesaid families of Vaikaranja snakes and are known as Divyelaka, Lodhra-pushpaka, Raji-citraka, Potagala, Pushpabhikirna, Darbha-pushpa and Vellitaka. Of these the first three species resemble the Rajila and the last four resemble the Mandali species of snakes. Thus we have finished describing the eighty different families of snakes. 17.
+
+Characteristic features of male and female snakes:—
+
+The eyes, the tongue, the mouth and the head of a male serpent are large, while those of a female snake are small Those which partake of both these features and are mild-venomed and not (easily) irritable, should be considered as hermaphrodite (Napumsaka). 18.
+
+Now we shall describe the general features of snakebites:—Why does snake-poison prove instantaneously fatal like a sharp sword, thunder-bolt or fire? Why is it that a case of snake bite, if neglected even for a very short time (Muhurta) at the outset, terminates in the death of the patient without (even) giving him an opportunity of speaking? 19-20.
+
+From the general characteristics of the bites, it should be presumed that they may be divided into three kinds. We shall, therefore, describe in detail the specific features of the bites of these three kinds (instead of all of them separately). It will be both beneficial to the patient and will leave no room for the confusion of the physician. From the specific features of these three kinds of snake-bites should be inferred all other snake-bites. 21.
+
+Specific symptoms of a bite by a  Darvi-kara snake:—
+
+A black colour of the skin, eyes, nails, tooth, urine and stool and the seat of the bite, roughness of the body and heaviness of the head, pain in the joints, weakness of the back, neck and waist, yawning, shivering, hoarseness of the voice, a rattling sound in the throat, lassitude, dry eructation, cough and difficult breathing, hiccough, upward course of the bodily Vayu, pain (Shula) and consequent aching of the limbs, thirst, excessive salivation, foaming in the mouth, choking of the external orifices of the body (such as the mouth and the nostrils) and peculiar pains (such as the pricking, piercing pain in the body) due to the aggravation of the bodily Vayu,—these are the specific symptoms of a bite by a snake of the Darvi-kara species. 22.
+
+Specific symptoms of a bite by a Mandali snake:—
+
+Yellowness of the skin, etc., longing for cold, a sensation as if the whole interior is being burnt with scorching vapours, extreme burning sensation in the body, thirst, a sensation of intoxication, delirium, fever, hemorrhage through both the upper and the lower channels, sloughing of the flesh, swelling and suppuration in the affected part, a jaundiced sight, a rapid aggravation (of the Pitta) and the presence of various sorts of pain peculiar to the derangement of the of the bodily Pitta,—these are the specific symptoms of a bite by a snake of the Mandali species. 23.
+
+Specific symptoms of a bite by a Rajiman snake:—
+
+Whiteness of the skin, etc., Shita-Jvara (catarrhal fever), horripilation, a numbness of the limbs, a swelling about the seat of the bite, flowing out of dense phlegm (from the mouth), vomiting, constant itching of the eyes, a swelling of and a rattling sound in the throat, obstruction of breath, delirium, peculiar pain and troubles characteristic of the deranged Kapha in the body,—these are the specific symptoms of a bite by a snake of the Rajiman species 24.
+
+Specific symptoms of bites by snakes of different sexes and ages, etc.:—
+
+The sight or the pupils of the eyes of a person bitten by a male snake, is turned upward. A bite by a female serpent exhibits such smyptoms as downcast eyes and appearance of veins on the forehead, while that by a hermaphrodite (Napumsaka) snake makes the patient look sidelong. A person bitten by a pregnant snake produces yellowness of the face and tympanites. A bite by a newly delivered snake causes Shula (pain), bloody urination and an attack of tonsilites (Upa-jihvika) in the victim. A person bitten by a hungry serpent craves for food. A bite by an old serpent is marked by a slow and mild character of the different stages of poisoning. A bite by a snake of tender age is marked by a rapid setting of the characteristic poisonous symptoms which are found to be mild in their nature. A bite by a non-venomous serpent is marked by the absence of any of the specific symptoms of poisoning. According to several authorities, a bite by a blind serpent brings on blindness in its train. An Ajagara (Boa-constructor) is found to actually swallow up the body of its prey, to which should be ascribed the death of the victim in such a case (resulting from the crushing of bones and strangulation) and not to the effects of any poison. A person bitten by a snake of instantaneously fatal poison, drops down dead at the moment of the bite as if struck by a sharp weapon or by lightning. 25.
+
+Symptoms of the different stages of poisoning from the bites of a Darvi- kara Snake:—
+
+The poison of all species of snakes (snake-bites) produces seven distinct stages of transformation (in the organism of a person bitten by one of them). The poison of a snake of the Darvi-kara species affects and vitiates the blood (vascular system) in the first stage of its course or its physiological transformation in the body. The blood thereby turns black, imparting its hue to the complexion and giving rise to a sort of creeping sensation in the body, as if ants have been creeping over it. In the second stage the poison affects the principle of flesh, turns it deep black and produces swellings and Granthis all over the body. In the third stage it invades the principle of Medas (adipose tissues?) in the body, giving rise to a sort of mucous discharge from the seat of bite, heaviness in the head, perspiration and numbness of the eyes. In the fourth stage the poison enters the Koshtha (abdomen?) and aggravates the Doshas, especially Kapha, producing somnolence, water-brash and a breaking sensation in the joints. In the fifth stage, it penetrates into the principle of bone, deranges the Prana (vital principle) and impairs the Agni (digestive fire), giving rise to hiccough, a burning sensation in the body and a breaking pain in the joints. In the sixth stage, it enters the principle of Majjan (marrow) and greatly deranges the Grahani (the large intestines?) giving rise to a sense of heaviness of the limbs, dysentery, pain in the heart and epileptic fits. In the seventh stage it permeates the principle of semen, extremely aggravates the vital nerve-governing Vayu known as the Vyana, dislodges the Kapha even from the minutest capillaries, producing secretions of lump-like phlegm from the mouth, a breaking pain in the waist and the back, impaired functions of the mind and of the body, excessive salivation, perspiration and a suppression of breath 26.
+
+Different stages of poisoning from the bites of a Mandali Snake:—
+
+In the first stage of bite by a Mandali snake, the poison affects the blood (vascular system), which being thus vitiated produces shivering (lit. coldness followed by a burning sensation in the body and pallor (yellowness) of the skin. In the second stage the poison contaminates the flesh which causes an extreme yellowness of complexion attended with a burning sensation in the body and yellowness about the seat of the bite. In the third stage, the poison affects the principle of Medas (adipose tissues) producing numbness of the eyes, thirst, slimy exudation from the wound (bite) and perspiration as in the case of a bite by a Darvi-kara snake described before. In the fourth stage, it enters the Koshtha (cavity of the trunk) and produces fever. In the fifth stage, it produces a burning sensation throughout the whole organism. The sixth and the seventh stages are identical with those of the foregoing (Darvi-kara bite). 27.
+
+Different stages of poisoning from the bite of a Rajiman Snake:—
+
+The poison of a Rajiman snake in the first stage of poisoning, vitiates the blood whicht is turned pale yellow producing the appearance of goose-skin of the victim who looks white. In the second stage, it contaminates the flesh, giving rise to an extreme paleness of complexion, prostration and swelling of the head. In the third stage, it affects the principle of Medas, giving rise to haziness of the eyes, deposit of filthy matter on the teeth, perspiraion and secretions from the nostrils and the eyes. In the fourth stage, it enters the Koshtha (abdominal cavity) and produces paralysis of the nerves of the neck (Manya) and heaviness of the head. In the fifth stage, it gives rise to loss of speech and brings on Shita-Jvara (catarrhal fever). The sixth and the seventh stages of the poisoning are identical with the preceding kind. 28.
+
+Memorable Verses:—
+
+A snake-poison is found to successively attack the seven Kalas or facio described before (in Chapter IV. Sharira Sthana), and gives rise respectively to the seven stages of poisoning. The interval of time during which a deadly poison leaves a preceding Kala and, carried forward by the bodily Vayu, attacks the succeeding one, is called its Vegantara (the intervening stage). 29-30.
+
+Different Stages of poisoning in cases of lower animals:—
+
+A lower animal bitten by a snake first becomes swelled up and looks steadfast and distressed. In the second stage of poisoning, salivation, horripilation and pain in the heart set in. The third stage is marked by pain in the head and drooping of the neck and of the shoulder. In the fourth stage, it shivers, gnashas its teeth, drops down unconscious and expires. Some experts hold that there are only three stages of poisoning in the case of a lower animal, the fourth being included therein. 31.
+
+Different Stages of poisoning in Cases Of birds:—
+
+A bird, bitten by a snake,looks stead-fast and becomes unconscious in the first stage of poisoning. The second stage is marked by an extreme agitated condition of the bird and the third stage ends in death. According to several authorities there is only a single stage of poisoning in the case of a bird. A snake-poison cannot penetrate far into the body of a cat, mungoose, etc. 32–33.
+
+Thus ends the fourth Chapter of the Kalpa Sthana in the Sushruta Samhita which treats of the specific features of the poison of a snakebite.
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+In the Hindu mythology the earth is supposed to rest on the heads of snakes, the inmates of the infernal region.
+
+[2]:
+
+It should be noted here that coming in contact with thorns and nails, etc., if unnoticed, may also produce in the minds of persons the fear of having been bitten by a snake and may thus produce the effects of such poisoning.
+
+---
+
+## 8. Chapter VI - Description of rat-poisoning
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter VI - Description of rat-poisoning
+
+Now we shall discourse on cases of rat-poisoning (Mushika-kalpa) 1.
+
+Different varieties of rats (M. Text):—
+
+Now hear me enumerate the names of the different families of Mushika (rats) briefly referred to before as having their poison in their semen, classified according to their different names, features and the medical treatment to be employed for the neutralisation of the effects of their poison. They are eighteen in number and are named as follows:—Lalana, Putraka, Krishna, Hamsira, Chikkira, Chuchundara, Alasa, Kashaya-dashana, Kulinga, Ajita, Chapala, Kapila, Kokila, Aruna, Maha- Krishna, Shveta, Maha-Kapila and Kapotabha. 2 A
+
+General symptoms of rat-poisoning:—
+
+The blood of any part of a human body coming in contact with the semen of any of these different classes of rats or scratched with their nails, teeth, etc., previously besmeared with their semen (Shukra) is vitiated and gives rise to the appearance of Granthi (nodes), swelling, Mandala, eruptions of circular erythematous patches on the skin, Karnika (eruptions of patches resembling the calycle of a lotus flower), pimples (pustules) violent and acute erysipelas, Kitima (keloid tumours), breaking pain in the joints, extreme pain (in the body), fever, violent epileptic fits, anemia, aversion to food, difficult breathing, shivering and horripilation. 2.
+
+Specific symptoms and treatment of rat-poisoning:—
+
+The general symptoms of rat-poisoning have been briefly described above. Now hear me specially describe the symptoms of the bites by the different families of rats (Mushika). A bite by a rat of the Lalana class is marked by a copious flow of saliva, hic-cough and vomiting. The patient in such a case should be made to use a lambative made of the roots of Tanduliyaka mixed with honey. A bite by a rat of the Putraka family is marked by a sense of physical langour, yellowness of the complexion and the appearance of nodular glands (Granthi) resembling young rats. A compound of Shirisha and Ingudi pasted together and mixed with honey should be given to the patient as a lambative in this case. A bite by a rat of the Krishna (black) class in foul weather and more especially on a cloudy day is characterised by the vomiting of blood. A pasted compound of Shirisha  fruit and Kushtha with the washings of the ashes of Kimshuka (flower) should be given to the patient in such a case. 3–A.
+
+A bite by a rat of the Hansira species brings on an aversion to food, yawning and horripilation. In such a case emetics should be first given to the patient who should be then made to drink a decoction of the drugs of the Aragvadhadi group. A bite by a rat of the Chikkira class is accompanied by headache, swelling, hic-cough and vomiting. In such a case an emetic consisting of the decoction of Jalini, Madana fruit and Amkotha should be prescribed. A bite by a venomous Mushika of the Chucchundara (mole) species gives rise to diarrhea (watery stool), numbness of the muscles of the neck and yawning. In this case an alkaline compound prepared of the ashes of the dry plants of barley (Yava-nala), Rishahhi (atma-gupta) and Vrihati  should be prescribed[1]. 3–B.
+
+A bite by a rat of the Alasa species is characterised by a numbness of the neck, an upward coursing of the Vayu, fever and pain at the seat of the bite. In this case the patient should be made to take the Mahagada with honey and clarified butter as a lambative. A bite by a rat of the Kashaya-dashana species is marked by somnolence or excessive sleep, atrophy (Sosha) of the heart and a general emaciation of the body. In such a case a lambative made of the bark, pith and fruit (seeds) of Shirisha mixed with honey should be given to the patient to lick. A bite by a rat of the Kulinga species is marked by pain, swelling and stripe-like marks about the seat of the bite, the remedy consisting in a lambative made of the two kinds of Saha (Mudga-parni and Masha- parni) and Sindhuvara pasted together and mixed with honey. 3-C.
+
+A bite by a rat of the Ajita species is characterised by vomiting, epileptic fits (fainting), a catching pain at the heart (Hrid-graha) and blackness of the eyes. The patient in such a case should be made to lick a compound made of (the roots of) Palindi (Trivrit) pasted with the milky juice of Snuhi and mixed with honey. A bite by a rat of the Chapala species is marked by vomiting, epileptic fits and thirst, and the remedy in this case should consist of a lambative made of Tri-phala, Bhadra-kashtha (Deva-daru) and Jata-mansi (D.R.—Yava) pasted together and mixed with honey. A bite by a rat of the Kapila species is followed by Kotha (putrefaction) of the bite, appearance
+
+of nodular glands (Granthi) and fever. The remedy consists in the use of a lambative made of Tri-phala, Shveta[2] (white Aparajita) and Punarnava pasted together and licked with honey. A bite by a rat of the Kokila species is attended with high fever, an intolerable burning sensation in the body and the appearance of nodular glands (Granthi). Clarified butter duly cooked with the decoction of Varshabhu and Nilini  (Indigo plants) should be administered in such a case. 3–D.
+
+A bite by a rat of the Aruna (vermilion coloured) species is marked by an extremely aggravated condition of the bodily Vayu and the symptoms peculiar to it. A bite by a rat of the M aha-krishna (extremely black) species leads to an aggravated condition of the Pitta, while a bite by one of the Maha-shveta class ushers in an aggravation of the bodily Kapha. The blood of a person is vitiated by the bite of a rat of the Maha-kapila family, while the bite by one of the Kapota species leads to the derangement of all the four principles viz., the three Doshas (Vayu, Pitta and Kapha) as well as of the blood. Their bites are accompanied by a violent swelling of the affected locality, the appearance of nodular glands (Granthi) and such other erythematous and eczematous growths as Mandala, Karnika and Pidaka (Pustules). 3–E.
+
+Three Prastha measures[3] each of clarified butter, curd and milk should be duly cooked with the duly prepared decoction of Karanja, Aragvadha, Tri-katu, Vrihati, Amshumati and Sthira (Kakoli), and with Trivrit, Tila, Amrita (Gulanca), Chakra, Sarpa-gandha, (black) earth[4] (of an ant-hill) and the barks of Kapittha  and Dadima as Kalka. The whole should be duly cooked over a gentle fire. The Ghrita thus prepared would destroy the poison of the five kinds of rats viz., Aruna, etc. As an alternative, clarified butter duly cooked with the expressed juice of Kakadani and Kaka-machi  should be given to the patient in such cases. A wise physician shall have recourse to bleeding or venesection in these cases and the system of the patient should be cleansed by purgatives and emetics. 3.
+
+General Treatment:—
+
+The general measures to be adopted in the case of a bite by a rat of whatsoever class are as follows The seat of the bite should be first cauterized (with boiling clarified butter), and blood-letting should be resorted to (by opening the veins of the patient). The seat of the bite should then be marked with superficial incisions and a plaster of Shirisha, Rajani, Kushtha, Kumkuma and Amrita (Gulanca) should be applied. The patient should be made to vomit with the decoction of Jalini or with that of Shukakhya and Amkotha boiled together. The (powdered) roots of Shukakhya, Koshavati, Madana fruits and Deva- dali fruits should be administered with curd for the elimination by vomiting the (internal) poison (if any). The patient should be made to take (with curd) the compound consisting of Phala (Madana), Vaca, Deva- dali and Kushtha pasted with the urine of a cow (as an emetic). This remedy neutralises the effects of the poison of all species of venomous rats. 4–A
+
+A compound composed of Trivrit, Danti and Triphala  should (if necessary) be employed as a purgative (in such a case). A compound prepared with the pith of Shirisha and the pulp of its fruits should be used (if necessary) as an errhine (Shiro-virecana). The watery secretion of fresh cow-dung mixed with a profuse quantity of (powdered) Tri-katu should be used as collyrium. The patient should be made to lick a compound prepared with the expressed juice of the fruits of Kapittha and with honey and the serous secretion of (fresh) cow-dung, or a lambative made of Rasanjana, Haridra, Indra-yava, Katuki and Ati-visha with honey should be given to the patient in the morning. A potion of medicated clarified butter duly cooked with the roots of Tanduliyaka should be given to the patient for drink. As an alternative, clarified butter, duly cooked with the five parts (viz., roots, bark, fruits, leaves and flowers) of a Kapittha tree or with the roots of ashphota,  should be prescribed. 4.
+
+The poison of a venomous Mushika (rat or mole) even though (apparently) eliminated from the system may sometimes still be aggravated in cloudy days or in foul weather. In such a case, all the above measures as well as the remedies laid down under the treatment of Dushi-visha should be resorted to. The round protruding edges (Karnika) of an ulcer, incidental to a rat-bite, whether benumbed or painful, should be excised (D.R.—made to suppurate) and should be treated with purifying or cleansing remedies according to the deranged Dosha or Doshas involved in each case. 5–6.
+
+Causes of Rabies:—
+
+The bodily Vayu in conjunction with the (aggravated) Kapha of a jackal, dog, wolf, bear, tiger or of any other such ferocious beast affects the sensory nerves of these animals and overwhelms their instinct and consciousness. The tails, jaw-bones (D. R.—neck) and shoulders of such infurated animals naturally droop down, attended with a copious flow of saliva from their mouths. The beasts in such a state of frenzy, blinded and deafened by rage, roam about and bite each other. 7–A.
+
+Symptoms of Hydrophobia:—
+
+The limb or part of the body of a person bitten by such a rabid and (consequently) poisonous animal loses its sensibility of touch, and a copious flow of dark sooty blood is emitted from the seat of the bite. The patient in such a case generally exhibits all the symptoms which mark a case of poisoning by a venomed arrow. 7–B.
+
+Prognosis:—
+
+A person bitten by a rabid animal barks and howls like the animal by which he is bitten, imitates it in many other ways and, bereft of the specific functions and faculties of a human subject, ultimately dies. If a person, bitten by a rabid animal, sees its (imaginary) image reflected in water or in a mirror, he should be deemed to have reached an unfavourable stage of the disease. 7-C.
+
+Symptoms of Jala-trasa:—
+
+If the patient in such a case becomes exceedingly frightened at the sight or mention of the very name of water, he should be understood to have been afflicted with Jala-trasa (Hydrophobia) and be deemed to have been doomed. Such a case of Jala-trasa (water-scare) even in an unbitten person or in a healthy person, if frightened (by such a scare), whether waking or in sleep, should be regarded as a fatal symptom. 7.
+
+Treatment:—
+
+In the case of a bite by a rabid animal, the seat of the bite should be profusely bled (by pressing it) so as to let out all the (vitiated) blood. It should then be cauterized with (boiling) clarified butter and pasted with any of the aforesaid Agada, or the patient should be made to drink a potion of matured clarified butter. Clarified butter mixed with the milky exudation of an Arka plant, as well as a compound of white Punarnava[5] and Dhuttura[6] should be prescribed for the patient as an errhine. 8–A.
+
+Treatment of bites by rabid dogs:—
+
+A compound of pasted sesamum mixed with its oil, treacle and the (milky) juice of a Rupika plant eliminates the poison of a rabid dog (Alarka) from the system as a gale of wind drives a pack of clouds before it. A quantity of rice, two Tolas (one Karsha) in weight of the roots of Shara-pumkha and half a Karsha weight of Dhuttura  (roots) should be pasted together with the washings of rice. The paste should be covered with (seven) Dhustura leaves and baked (on the fire) in the shape of an Apupaka (cake). The cake thus prepared should be given, at the proper time of taking a medicine, to a person bitten by a rabid dog for a complete nullification of the poison. But the use of these cakes is attended with certain other troubles at the time of their digestion and these troubles become subdued by a retiring to in a dry but cool chamber away from water. The patient (after the subsidence of the troubles) should be bathed the next day and a diet of boiled Shali or Shashtika rice with tepid milk[7] should be prescribed for him. On the third and on the fifth day, the aforesaid anti-venomous compound should again be administered in half doses to the patient for the elimination of the poison. 8-B.
+
+The person in whom the poison (of a rabid dog or jackal, etc.) is spontaneously aggravated has no chance of recovery. Hence the poison should be artificially aggravated (and then remedied) before reaching that stage of aggravation. The patient should be bathed at the crossing of roads or on the bank of a river with pitcherfuls of water containing gems and medicinal drugs and consecrated with the appropriate Mantra. Offerings of cooked and uncooked meat, cakes and levigated pastes of sesamum as well as garlands of flowers of variegated colours should be made to the god (and the following Mantra should be recited). “O thou Yaksha, lord of Alarka, who art also the lord of all dogs, speedily makest me free from the poison of the rabid dog that has bitten me.” Strong purgatives and emetics should be administered to the patient after having bathed him in the above manner, since the poison in a patient with an uncleansed organism may sometimes be aggravated, even after the healing of the incidental ulcer. 8.
+
+The poison of a (rabid) dog, etc., lies in the teeth and tends to aggravate the Pitta and the Vayu and hence the patient bitten by such animals is found to imitate their cries and nature. A patient afflicted with such poison cannot be saved even with the greatest care. The seat of a scratch made by the nails or teeth of any of those animals should be rubbed (and the poisoned blood should be let out). It should then be sprinkled over with tepid oil, since the poison in this case aggravates only the Vayu of the system. 9–10
+
+Thus ends the sixth Chapter of the Kalpa-sthana in the Sushruta Samhita which deals with the symptoms and treatments of rat-poison.
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+Different reading.—A bite by a Mushika of the Chucchundara class produces thirst, vomiting, fever, weakness, numbness of the muscles of the neck, swelling, abscess on the back, loss of the sense of smell and Visucikā. A compound of Cavya, Haritaki, Śunthi, Vidanga, Pippali, Śvetaka-seeds and the ashes of (the plants of) Vrihati pounded together and mixed with honey should be prescribed in this case,—Gayadāsa.
+
+[2]:
+
+Some explains “Śvetā Punarnavā” to mean “white Punarnavā.” Gayadāsa reads “Śreshthā” in place of “Śvetā” in which case also the white species of Punarnavā is evidently meant.
+
+[3]:
+
+According to Dallana, the recipe of this Ghrita is as follows:—One Prastha each of clarified butter, curd and milk, two Palas each of Karanja, etc., and sixteen seers of water to be boiled down to four seers, the drugs of the Kalka weighing one seer in all.
+
+[4]:
+
+In place of “sapagandhā samṛttikā” some reads “sarpagandhāhimṛttikā”, While Jejjata reads “sarpagandhāgamṛttikā |”
+
+[5]:
+
+Some explain “Śvetā Punarnavā” to mean “white Punarnavā”, but others explain it to mean “Śvetā (Katabhi) and Punarnavā”.
+
+[6]:
+
+Some commentators prescribe the roots of Dhustura to be taken, while others hold that its fruits should be used.
+
+[7]:
+
+Dallana says that in place of “kṣireṇoṣṇena” Gayadāsa reads “gavyenājyena”, that is to say, the diet should be taken with clarified butter. This reading of Gayadāsa seems to be the better one, as the use of clarified butter in such cases is supported by the custom of our country.
+
+---
+
+## 9. Chapter V - The medical treatment of snake bites
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter V - The medical treatment of snake bites
+
+Now we shall discourse on the Chapter which deals with the medical treatment of snake-bites (Sarpa- dashta Kalpa-Chikitsita).
+
+General treatment of Snake-bites:—
+
+In all cases of snake bites ligatures of cloth, skin, soft fibre or any other soft article (consecrated with the proper Mantras), should first of all be bound four fingers apart above the seat of the bite in the event of its occurring in the extremities, inasmuch as such a proceeding would arrest the further (upward) course of the poison in the body. As an alternative, the seat of the bite should be incisioned, bled and cauterized where such a ligature would be found to be impossible. Incision, cauterization, and sucking (of the poisoned blood from the seat of the bite) should be highly recommended in all cases of snake-bites. The cavity of the mouth should be filled with a linen[1] before sucking (the blood from the wound). It would do the man bitten by a snake an immense good if he could bite the serpent that had bitten him or failing that, bite a clod of earth without any loss of time. 2-3.
+
+The seat of the bite by a Mandali snake should not, however, be cauterized inasmuch as the preponderant Pittaja character of the poison, aggravated by the application of the heat, might lead to its speedy expansion or coursing in the system. 4.
+
+Mantras:—
+
+A physician well-versed in the Mantras of anti-venomous potency should bind a ligature of cord consecrated with appropriate Mantras which would arrest a further spread of the poison. The Mantras full of occult energy of perfect truth and divine communion, disclosed by the Devarshis and Brahmarshis of yore, never fail to eliminate the poison from the system, and hold their own even in cases of deadliest poisons. Elimination of the poison with the help of Mantras, full of the energy of Brahma, of truth and austerities, is more rapid than under the effects of drugs. 5–A.
+
+A man, while learning the Mantras, should forego sexual intercourse, animal diet, wine, honey, etc., should be self-controlled and clean in body and spirit and (before learning the Mantras) shall lie on a mattress of Kusha-grass. For the successful application of his newly acquired knowledge (Mantras), he shall devotedly worship the gods with offerings of perfumes, garlands of flowers, edibles, (animal) oblations, etc., and with the appropriate Mantras sacred to them as well as with burnt offerings, since a Mantra chanted by a man in an unclean spirit or body, or accented or uttered incorrectly will not take effect. The medicinal compounds of anti-venomous drugs should also be employed in such cases. 5.
+
+Blood-letting in Snake-bite:—
+
+A skillful physician should open the veins round the seat of the bite and bleed the affected part. The veins of the fore-head and the extremities should be opened in the case where the poison would be found to have spread through the whole organism. The poison will be found to have been fully eliminated with the passage of the blood (from the incisioned wound). Hence bleeding should be resorted to as it is the best remedy in a case of snake-bite. 6–A.
+
+Plasters of anti-poisonous drugs (Agada) should be applied all round the seat of the bite after scarifying it, which should be sprikled with water mixed with (red) Sandal wood and Ushira or with their decoction. The appropriate Agada compounds (according to the nature of the bite) should be administered through the medium of milk, honey and clarified butter, etc. In the absence of these, the patient should be made to take (a solution of) the black earth of an ant-hill (dissolved in water). As an alternative, (a paste of) Kovidara, Shirisha, Arka  and Katabhi should be prescribed for him. The patient should not be allowed to take oil, the soup of Kulattha-  pulse, wine and Sauviraka. The patient should be made to vomit with the help of any other suitable liquid available, since vomiting in most cases leads to the elimination of the poison from the system. 6.
+
+Specific treatment of the bite by a hooded (Darvi-kara) Snake:—
+
+In the case of a bite by a hooded (Darvi-kara) snake, bleeding by opening the veins should be resorted to in the first stage of poisoning. In the second stage, the patient should be made to drink an Agada compound with honey and clarified butter. In the third stage, anti-poisonous snuffs (Nasya) and collyrium (Anjana) should be employed. In the fourth stage, the patient should be made to vomit, and medicated Yavagu (gruel) mentioned before (in connection with vegetable poison—see Chapter II, para. 26, Kalpasthana) should then be given him for drink. In the fifth and the sixth stages, after the administration of cooling measures, strong purgatives and emetics should be administered and the foregoing medicated Yavagu (gruel) should be administered to the patient. In the seventh stage, strong medicated Avapida-snuffs and strong collyrium of anti-venomous efficacy should be employed for the purification (purging) of the head. Superficial incisions like the marks of crow’s feet should be made on the scalp and the affected flesh and blood should be removed. 7.
+
+Specific treatment of bites by a Mandali Snake:—
+
+In the first stage of a case of poisoning by the bite of a Mandali snake, the treatment is the same as in the corresponding stage of a Darvi-kara (cobra) bite. In the second stage, an Agada compound should be given with honey and clarified butter and after making the patient vomit the preceding medicated Yavagu (gruel) should be administered to him. In the third stage, after the exhibition of drastic purgatives and brisk emetics, a proper and suitable medicated gruel should be administered. In the fourth and the fifth stages, the treatment would be the same as in the corresponding stages of a Darvi-kara (cobra) bite. In the sixth stage, the drugs of the Madhura (Kakolyadi) Gana taken with milk prove efficacious. In the seventh stage, anti-venomous Agada compound in the shape of Avapida (snuff) would neutralise the effects of poison. 8.
+
+Specific treatment of Rajiman- bites:—
+
+In the first stage of a case of Rajiman -bite, bleeding should be resorted to and an Agada should be administered with milk and honey. In the second stage, emetics and an anti-venomous Agada should be given to the patient. In the third, fourth and fifth stages, the treatment should be the same as in the corresponding stages of a case of Darvi-kara-bite. In the sixth stage, the use of the strongest (anti-venomous) collyrium and in the seventh stage, that of an Avapida (snuff) of similar virtue should be prescribed. 9.
+
+Contra-indication to blood-letting in cases of Snake-bites:—
+
+In the case of an infant, an old man, or an enciente woman having been bitten by a snake, all the foregoing remedies in milder doses with the exception of blood-letting should be employed according to the requirements of the case. 10.
+
+Dosage of Collyrium, etc., to be resorted to incases of different beasts and birds:—
+
+The quantity of medicated collyrium (Anjana) to be used and blood to be let out in the case of a goat or a sheep bitten by a snake should be equal to those laid down in connection with a similar human patient, while the quantity should be doubled in the case of a cow or a horse. In the case of a camel or a buffalo it should be trebled, while in the case of an elephant, it should be quadrupled Birds of what soever species in a similar predicament should, however, be treated only with sprays of cold water and cooling medicated plasters. 11.
+
+General dosage of medicines in cases of Snake-bites:—
+
+In cases of snake bites, collyrium to the weight of one Mashaka (Masha) should be used at a time. The dosage of medicated snuff (Nasya), potions and emetics being respectively double, quadruple and eight times thereof. But a wise physician should treat a case of snake-bite with a full regard to the nature of the country, season, temperament, as well as to the intensity and the particular stage of poisoning the case has reached. 12–13.
+
+We have described the anti-venomous measures and remedies applicable to the different stages of poisoning (by a snake-bite). We shall now deal with the specific treatment of poisoning of either kind according to the physical symptoms developed in the patient. Blood-letting should be speedily resorted to in the case where the poisoned limb had become discoloured, rigid, swollen and painful. Curd, Takra, honey, clarified butter and meat-soups should then be given to the patient affected with a poison marked by a preponderance of the aggravated Vayu and by a craving for food. A person affected with a poison marked by a predominance of the aggravated Pitta would have thirst, epileptic fits, perspiration and a burning sensation in the body and should be treated with shampooing with cold hands and with cold baths, and cooling medicinal plasters. A person affected with a poison marked by a predominance of the aggravated Kapha and bitten in the winter would have cold salivation, epileptic fits and intoxication and should be treated with strong emetics. 14.
+
+Specific treatment of the different Supervening Symptoms:—
+
+Purgatives should be exhibited in the event of the patient being oppressed with such symptoms as pain and burning sensation in the abdomen, Adhmana (tympanites), retention of urine, stool and flatus, painful urination and other troubles of the deranged Pitta. Collyrium should be applied (along the eyelids) in the case of a swelling of the eyeballs, somnolence, discolouring of the eye, cloudiness of vision and discoloured appearance of all objects. The head of the patient should be cleansed (purged) with medicinal errhines (Nasya) in the case of pain and a heaviness of the head, lassitude, lock-jaw, constriction of the throat (Gala-graha) and violent wryneck (Manya-stambha). Powders of such drugs of the Shiro-virecana group as are of strong potency, in the shape of Pradhamana Nasya should be blown into the nostrils of the patient suffering from the effects of poisoning in the case wheresuch symptoms as loss of consciousness, upturned eyes and drooping of the neck would set in. The veins of his forehead and of the extremities should be instantly opened. When such opening of the veins would not be attended with (the desired) bleeding superficial incisions in the shape of cow’s feet (Kaka- pada) should be made by an experienced surgeon on the scalp of the patient. These failing, the incisioned bits of flesh mixed with blood should be removed and the decoction or powders of a Carma-vriksha  (Bhurja patra) should be applied to the incisions. Dundubhis (small drums) smeared with anti-venomous plasters should be sounded around the patient. The patient thus restored to consciousness should be treated with both purgatives and emetics. A complete elimination of the poison from the system is a very difficult task but it is indespensably necessary, since the least remnant of the poison may again be aggravated in course of time and cause lassitude, discolouring of the complexion, fever, cough, headache, swelling, emaciation (Shosha), cataract, blindness, catarrh (Pratishyaya), aversion to food and nasal catarrh (Pinasa). These diseases and any other supervening symptoms of poisoning should be treated according to the injunctions laid down under their specific heads with a careful consideration of the Dosha or Doshas involved in each case. 15.
+
+The ligature should then be removed, the seat of the bite incisioned and an Agada plaster should be applied there, so inasmuch as the poison is found to be lodged in a condensed form (in the puncture of the fangs) and is likely to be afterwards aggravated (if not fully eliminated). 16.
+
+Remedy for aggravated Doshas due to poison:—
+
+If the Vayu of the body be found to be in an aggravated condition, even after a careful elimination of the poison from the system with the help of suitable Mantras, measures and medicinal remedies, it should be pacified and restored to its normal conditon with any Vayu-pacifying Sneha, etc., other than oil. The use of fish, Kulattha -soup and acid articles (fermented rice-gruel, etc.) is forbidden. The aggravated Pitta in such a case should be remedied with the application of a Sneha-Vasti and with the decoction of drugs prescribed in cases of Pittaja-fever, while the deranged Kapha should be corrected with Kapha -subduing remedies or with (the decoction of) the drugs of the aragvadhddi Gana mixed with honey, or with a diet consisting of bitter and parching (Ruksha) articles of food. 17.
+
+A person found to be unconscious from the effects of a fall from an uneven ground or from the top of a tree or precipice as well as a drowned man rescued unconscious, or one in a state of suspended animation owing to strangulation should be treated according to the injunctions and with remedies laid down in connection with the treatment of persons who have become unconscious from the effects of poisoning (mentioned in the present chapter). 18.
+
+If a deep seated incision (Praccita) in, or an extremely tight fastening (Arishta) around the seat of the bite, or an application of extremely irritant plasters or any such other application thereon gives rise to a local swelling which emits a bad smell and slimy matter it should be inferred from these that the inherent poison in such a case has putrefied the flesh of the affected part which can be made amenable to medicine only with the greatest difficulty. 19–A.
+
+Sypmtoms of wounds from poisoned darts, etc:—
+
+The poisonous character of a dart or of an arrow with which a person has been pierced (Digdha-viddha) should be inferred from the following symptoms, viz., flow of black-coloured blood from an immediately inflicted wound, suppuration, a constant burning sensation (in the incidental ulcer) and sloughing of black coloured, putrefied and morbid flesh mixed with a mucopurulent discharge from the wound, and thirst, vertigo, epileptic fits, a burning sensation in the body and fever. 19.
+
+Treatment of a poisoned wound:—
+
+In a case where all the above symptoms of poisoning are present whether in a case of snake-bite or of a bite by a spider (Luta). or in a case of being pierced with a venomed arrow, or in a case of poisoning of any kind, where putrefaction has set in, the putrid flesh of the incidental ulcer should be judiciously removed and the vitiated blood of the locality should be speedily extracted by applying leeches thereto. The system of the patient should then be cleansed with purgatives and emetics and the affected part of his body should be profusely sprayed or washed with the decoction (of the bark) of a Kshiri-Vriksha A poultice prepared with the anti venomous drugs of cool potency mixed with clarified butter (washed a hundred times and) placed inside the folds of linen should also be applied. In the event of its being caused by the insertion or introduction of a bone[2] of any animal, the bone of which is poisonous in itself, the measures and remedies laid down above as well as those prescribed under the treatment of the “Pitta-poisoning” should be adopted and used. 20.
+
+Recipe of different Agadas Maha-gada:—
+
+The powders of Trivrit, Vishalya, Yashtimadhu, the two kinds of Haridra, Rakta (Manjishtha), Narendra (Aragvadha), the five kinds of officinal salt and Tri-katu, pasted with honey, should be placed inside a horn. This Agada or anti-poisonous compound used as snuff (Nasya), collyrium and anointment acts as a good neutraliser of poison. It is irresistible in its potency and is of mighty efficacy. It is called the Mahagada. 21.
+
+Ajitagada:—
+
+A compound made of powdered Vidanga, Patha, Tri-phala, Ajamoda, Hingu, Chakra  (Tagara), Tri-katu, the five kinds of officinal salt and Citraka, pasted with honey, should be kept for a fortnight inside a cow’s horn covered with a lid of the same material. This anti-venomous compound (Agada) is known as the Ajitagada and is efficacious in cases of both vegetable and animal poisoning. 22.
+
+Tarkshyagada:—
+
+A compound made of the fine powders of Prapaundarika, Deva-daru, Musta, Kala- nusarya, Katu-rohini, Sthauneyaka, Dhyamaka, Padmaka, Punnaga, Talisha, Suvarchika, Kutannata, Ela,  white Sindhu-vara, Shaileya, Kushtha, Tagara, Priyangu, Lodhra, Jala (Balaka), Svarna-Gairika, Magadha, (red) Chandana and Saindhava salt, taken in equal parts and pasted with honey, should be kept inside a horn. This Agada is called the Tarkshyagada and is capable of neutralising the effects even of the poison of a Takshaka. 23.
+
+Rishabhagada:—
+
+A compound made of the powders of Mansi, Tri-phala, Murangi, Manjishtha, Yashti-madhu, Padmaka, Vidanga, Talisha, Sugandhika, Ela, Tvak, Kushtha, Teja-patra, Chandana, Bhargi, Patola, Kinihi (Apamarga), Patha, Mrigadani, Karkatika, Pura (Guggulu), Palindi, Ashoka, Kramuka and flowers of Surasi and of Bhallataka, well pasted with honey and with the bile of a boar (Varaha), Godha, Peacock, Shallaka, cat, Prishata (deer) and of mungoose, should be preserved inside a horn. This anti-venomous medicine is called the Rishabhagada. Snakes never visit the house of the fortunate and mighty one wherein this well prepared remedy is preserved. Venomous insects dare not come within the precincts of such a mansion and even their poison loses its quickness and fatal character. The sound of trumpets and drums, smeared with this compound and blown upon and beaten, tend immediately to destroy the effects of poison. If a poisoned patient would only look at the banner plastered with this Agada the poison from his system would be thereby eliminated. 24
+
+Sanjivana Agada:—
+
+A compound made of the powders of Laksha, Harenu, Nalada, Priyangu, the two kinds of Shigru, Yashti-madhu, Prithvika (Ela) and Haridra, pasted with honey and clarified butter, should be preserved inside a cow’s horn and covered in the above manner. This anti venomous medicine is called the Sanjivana Agada and should be used as snuff, collyrium and drink. It is capable of restoring even a man apparently dead (by poisoning) to life. 25.
+
+Darvi-kara-Rajila-Vishahara-Aga da:—
+
+An Agada consisting of the powders of Shleshma- taka, Katphala, Matulunga, Shveta, Girihva, Kinihi, sugar and Tanduliya should be regarded as the best remedy in cases of poisoning by Darvi kara or Rajila-bites. 26.
+
+Mandali-Vishahara Agada:—
+
+One part each of Draksha, Sugandha, Naga-vrittika[3] and Samanga (Varaha kranta), two parts each of the following drugs, viz.,—leaves of Surasa, Vilva, Kapittha, and of Dadima, and half a part each of the following, viz.: (leaves of) black Sindhuvara, Amkotha and Gairika, should be powdered together and mixed with honey. This anti- venomous medicine (Agada) is highly efficacious especially in the case of poisoning by a Mandali-bite. 27.
+
+Vamsha-tvagadi Agada:—
+
+An Agada should be prepared with the scrapings of green bamboo (Vamsha-tvak), amalaka, Kapittha, Tri-katu, Haimavati, Kushtha, Karanja- seeds, Tagara and Shirisha flowers, pasted with cow’s bile. Used as a plaster, snufìf or collyrium, it destroys the poison of a spider, mouse, serpent or any other (poisonous) insect. Used as a collyrium (over the eye-lids), as a plaster over the umbilical region, or as a Varti (plug), it removes the obstruction of stool, urine and Vayu (flatus, etc.), or of a fetus in the womb. Used as a snuff or a collyrium, its curative potency is manifest even in such dangerous eye-diseases as Kacha, Arman, Kotha, Patala and Pushpa. 28.
+
+Panca-Shirisha Agada:—
+
+A potion consisting of a decoction of the roots, flowers, bark, seeds and sprouts of a Shirisha tree, taken with honey, the five officinal kinds of salt and a profuse quantity of powdered Tri-kutu, proves speedily efficacious in a case of poisoning by an insect-bite. 29.
+
+Sarva-Kamika Agada:—
+
+An Agada prepared with Kushtha, Tri-katu, Darvi, Madhuka (flower), the two kinds of salt (Saindhava and Sauvarchala), Malati (flower), Naga-pushpa and all the drugs of the Madhura (Kakolyadi) group and pasted with the juice of Kapittha and mixed with honey and sugar destroys all sorts of poison specially that of a mouse (Mushika). 30.
+
+Ekasara Agada:—
+
+The following drugs viz., Somaraji seeds and Somaraji flowers,[4] Katabhi, Sindhu- vara, Choraka, Varuna, Kushtha, Sarpa-gandha, Saptala, Punarnava, flowers of Shirisha, Aragvada and of Arka, Shyama, Ambashtha, Vidanga, Amra, Ashmantaka, black earth and Kuravaka comprise the Ekasara Agada. These should be applied singly[5] or in combination of two or three to destroy the effects of poison. 31.
+
+Thus ends the fifth Chapter of the Kalpa-Sathana in the Sushruta Samhita which deals with the medical treatment of snake-bites.
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+Dallana recommends burnt earth or the earth of an ant-hill or ash for the purpose of filling up the mouth before sucking the poisoned blood.
+
+[2]:
+
+Dallana holds that by the word “bone” in the text should be understood all the different sources of poison, viz., fæces, urine, nail, tooth, bristle, etc., of an animal.
+
+[3]:
+
+Dallana says that in place of “Sugandhā Naga-vrittikā” some read “Sugandhā Naga-mrittikā” which means “the sweet-scented earth of the mountain” known to be possessed of anti-poisonous virtues.
+
+[4]:
+
+Some explain “somarājiphalaṃ puṣpaṃ” to mean ‘Somaráji, Phala (Madana) and Pushpa (Nága-keśara).’
+
+[5]:
+
+Some explain “ekaśo histriśo vāpi” to mean that the Agada should be used “once, twice or thrice” according to the requirements in each case.
+
+---
+
+## 10. Chapter VIII - The medical treatment of insect bites
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter VIII - The medical treatment of insect bites
+
+Now we shall discourse on insects, i.e. the measures, etc. to be adopted in cases of insect-bite, etc. (Kita-Kalpa). 1.
+
+Various kinds of worms and insects (Kita) germinate from the semen, fecal matter, urine, putrid eggs and putrid carcases of serpents which are marked by Vataja, Pittaja (agneya) and Kaphaja (Ambuja) temperaments. The poisons of these vermin which are nothing but insects (Kita), are apt to be most dangerous in the long run on account of their being acted upon by the Doshas and may be divided into four[1] groups. 2.
+
+Insects of Vataja Temperament:—
+
+The eighteen classes of insects known as the Kumbhi- nasa, Tundikeri, Shringi, Shata-Kuliraka, Uccitinga, Agninama, Chiccitinga, Mayurika, Avartaka, Urabhra, Sarika-mukha, Vaidala, Sharava-kurda, Abhiraji, Parusha, Citra-shirshaka, Shata bahu and the Rakta-raji are possessed of a Vataja temperament and their poison tends to aggravate and derange the bodily Vayu and produce the specific diseases due thereto. 3.
+
+Insects of Pittaja Temperament:—
+
+The twenty-four families of insects known as the Kaundilyaka, Kanabhaka, Varati (asp), Patra-vrishchika, Vinasika, Brahmanika, Vindula (D.R.-Viluta), Bhramara, Vahyaki, Piccita, Kumbhi, Varchah-kita, Arimedaka, Padma-kita, Dundubhika, Makara, Shata-padaka (centipede), Pancalaka, Paka-matsya, Krishna-tunda, Gardabhi, Klita, Krimi-Sarai and the Utkleshaka are of a fiery i.e. Pittaja temperament and their poison tends to derange and aggravate the bodily Pitta and produce the specific diseases due to the derangement of that Dosha. 4.
+
+Insects of Kaphaja Temperament:—
+
+The thirteen families of insects known as the Vishvambhara, Panca-shukla, Panca-krishna, Kokila, Saireyaka Prachalaka, Valabha, Kitima, Suchi-mukha, Krishna- Godha, Kashaya-Vasika, Kita-gardabhaka and the Trotaka are possessed of Saumya i.e., Kaphaja temperament, and their poison aggravates and deranges the Kapha and produces the specific diseases which owe their origin to the deranged condition of that Dosha. 5.
+
+Insects of Sannipatika Temperament:—
+
+The twelve kinds of insects known as the Tungi-nasa, Vichilaka, Talaka, Vahaka, Koshthagari, Krimikara, Mandala-Pucchaka, Tunga-nabha, Sarsha- pika, Avalguli, Shambuka and the Angi-kita are dangerously fatal in their bite. A person or an animal bitten by any of these dangerous insects exhibits stages and symptoms similar to those of a case of a snake-bite and their poison tends to derange and aggravate the three Doshas (Sannipatika) of the body and produce the specific symptoms thereof. 6–A.
+
+Symptoms of their bite:—
+
+The seat of the bite seems as if on fire or being burnt with strong alkali and is characterised by a red, yellow, white or vermillion colour. The symptoms which are developed in the entire course of the poisoning (or are found to supervene) in cases of their bites are fever, breaking and aching pain (in the limbs), horripilation, vomiting, thirst, a burning sensation in the body, loss of consciousness, yawning, shaking of the limbs, difficult breathing, hic-cough, (sometimes) a burning and (at others) a cold sensation (in the seat of the bite), eruption of pustules, swelling (in the affected locality), appearance of nodular glands (Granthi), circular erythematous patches (Mandala) on the skin, ring-worm, Erysipelas, Kitima (Keloid Tumour) and Karnika (round about the seat of the bite) as well as any other symptoms peculiar to the Dosha aggravated by the poison of each species. 6.
+
+The other characteristic features of the poison of these (fatal and strong-poisoned) insects should be speedily ascertained by comparing the symptoms of aggravation of the Dushi-Visha (consequent thereon) and by examining the effets (effects?) of the application of different anti-poisonous plasters as well. 7.
+
+These are the characteristic features of sharp-poisoned insects; now hear me describe those of the mild- poisoned ones. The symptoms which are manifest in the case of a bite by such an insect are salivation (Praseka), an aversion to food, vomiting, heaviness in the head, a slight sensation of cold and the appearance of pustules and urticaria according to the deranged Dosha aggravated by the species of the biting insect. 8
+
+The pulverised bodies of these insects possessing, as they do, the characteristic features of Dushi-Visha or enfeebled poison (lying inherent in a human system) is turned into a Gara or chemical (combinative or resultant) poison, if administered (internally) with any medicine or externally with any plaster. 9.
+
+We shall henceforth describe the distinctive traits of one insect from another of the same species according to the classification and general characteristics and incurability of their bites. 9.
+
+The Kanabha class of Insects:—
+
+The Trikantaka, Kuni, Hasti-kaksha and the Aparajita are the four kinds of insects that belong to the Kanabha group and are extremely painful in their bites giving rise to swelling, aching in the limbs, heaviness of the body and a black aspect at the seat of the bite. 10.
+
+The Gaudheyaka class of Insects:—
+
+The five kinds of insects known as the Prati-surya, Pinga-bhasa, Bahu-varna, Maha-shiras and the Nirupama belong to the Gaudheyaka class. The stages and the symptoms of a bite by an insect of this group are often identical with (or mistaken for) a snake bite and are marked by all its characteristic pain and the appearance of dreadful Granthis (nodular glands) of varied colours and shapes. 11.
+
+The six kinds of insects known as the Gala-goli, Shveta-krishna, Rakta-raji, Rakta-mandala, Sarva-shveta, and the Sarshapika belong to one and the same species. A bite by any of these insects excepting by a Sarshapika is attended with a burning sensation and slimy exudation from and swelling in the seat of the bite, that of the Sarshapika being accompanied by an attack of dysentery (Atisara) and pain at the heart. 12.
+
+Shata-padi (centipede):—
+
+The Shata-padi (centipede) species is divided into eight kinds, viz., the Parusha (rough), Krishna (black), Citra (of variegated colours), Kapilika (tawny brown), Pitaka (yellow), Rakta (red), Shveta (white) and the Agni-prabha (resembling, fire in virtue). A bite by any of these insects is attended with swelling, pain and a burning sensation in the heart. A bite by one of the Sveta or the Agni-prabha species is marked by all the aforesaid symptoms as well as by violent epileptic fits, an intolerable burning sensation and eruptions of white pustules (Pidaka). 13.
+
+Manduka (frogs):—
+
+The Mandukas (frogs) are divided in eight different species viz., the Krishna, Sara, Kuhaka, Harita, Rakta, Yava-varnabha, Bhrikuti and the Kotika A bite by any of these is accompanied by an itching sensation in the seat of the bite and a flow of yellow-coloured foam from the mouth. A bite by one of the Bhrikuti or Kotika species gives rise to the aforesaid symptoms as well as a burning sensation, vomiting and a severe attack of epileptic fits in addition thereto. 14.
+
+A bite by one of the Vishvambhara species of insects is followed by Sita-jvara (catarrhal fever) and an eruption of white pimples (Pidaka) in the shape of mustard seeds round about the seat of the bite. A bite by one of the Ahinduka species is marked by piercing pain, a burning sensation, itching and swelling (in the affected locality), as well as by delirium. A bite (contact) by one of the Kandumaka species is followed by a yellowness of the complexion, vomiting, dysentery and fever, etc. A bite by one of the Sh uka-vrinta or such like species is attended with itching and Kotha (urticaria) and the bristles of the insects are found to be adhering to the affected locality. 15.
+
+Pipilika (Ants):—
+
+There are six kinds of Pipilika (ants) viz., the Sthula-shirsha, Samvahika, Brahmanika, Kapilika and the Citra-varna. A bite by any of these is attended with inflammatory swelling and a burning sensation (in the seat of the bite) resembling those produced by contact with fire. 16.
+
+Makshika (stinging flies):—
+
+Flies (Makshika) may be divided into six species viz., the Kantarika, Krishna, Pingalika, Madhulika, Kashayi and the Sthalika. A bite by any of these is accompanied by swelling and a burning sensation. A bite by one of the Sthalika or the Kashayi species, however, is marked by the preceding symptoms as well as by the eruption of pustules (Pidaka), with supervening symptoms in addition thereto. 17.
+
+Mashakas (Mosquitoes):—
+
+Mosquitoes (Mashakas) are divided into five species, viz., the Samudra, Pari- mandala, Hasti-mashaka, Krishna and the Parvatiya. A mosquito (Mashaka)-bite is characterised by a severe itching and swelling of the affected locality; while the symptoms which mark a bite by a Parvatiya one are similar to those of a bite by fatally venomous insects, and a sting of the points of their antenne is followed by the appearance of pustules (Pidaka) attended with a burning sensation and suppuration therein, when scratched by the finger-nails. The characteristic features of a bite by Jalaukas (leeches) with the mode of treatment thereof have already been described. 18.
+
+Memorable Verses:—
+
+The poisons of the Gaudheyaka, Sthalika, Shveta, Agni-samprabha, Bhrikuti and the Kotika belonging to their respective classes are incurable. 19.
+
+Contact with the dead body, stool or urine of a venomous animal is accompanied by itching and a burning sensation, pricking pain, eruption of Pidaka (pustules), ulcers and Kotha as well as by a slimy and painful exudation. The local skin is found to suppurate and the treatment would be the same as in the case of a wound by an envenomed arrow. 20.
+
+A bite which is neither depressed nor raised, but very much swollen with pain (round about), but unattended with any pain in the seat itself just after the bite, should be regarded as not easily amenable to any medical remedy. 21.
+
+A bite by an insect of strong and acute poison should be treated as a snake-bite and the three-fold remedies to be employed in snake-bites according to the three fold divisions of snakes should also be employed in these cases. The measures of fomenting, plastering and hot washing would prove efficacious in these cases, except in the event of an insect-bitten patient having been found to have been fainting away on account of suppuration and sloughing in the seat of the bite, in which case all kinds of cleansing (emetic, purgative, etc.) and anti-poisonous measures should be adopted. 22–23.
+
+Plasters of Shirisha, Katuka, Kushtha, Vaca, Rajani, Saindhava, milk, marrow, lard (Vasa), clarified butter, Shunthi, Pippali and Deva-daru in the form of Utkarika (poultice-like preparation) should be used in fomenting (the seat of the bite). As an alternative, the fomentation with the drugs of the Shala-parnyadi Gana in the same (Utkarika) form should be considered equally efficacious in the case. 24.
+
+In the case of a Scorpion bite, the affected part should not be fomented. It might, however, be fumigated with vapours of the drugs to be dealt with later on. The medicinal remedies (Agadas) applicable in the several cases are here separately described. 25–26.
+
+Recipes of remedies in different cases:—
+
+An anti-venomous compound (Agada) consisting of Kushtha, Chakra (Tagara), Vaca, Vilva -roots, Patha, Suvarchika, house-soot and the two kinds of Haridra is efficacious in the case of a bite by a Trikantaka insect. An Agada consisting of house-soot, Rajani, Chakra, Kushtha and the seeds of Palasha destroys the poison of a Gala-goli insect. An Agada composed of Kumkuma, Tagara, Shigru, Padmaka and the two kinds of Rajani, pasted with water, proves curative in the case of a bite by a Shata-padi (centipede). An Agada consisting of Mesha-shringi, Vaca, Patha, Nichula, Rohini,  and Balaka is efficacious in all kinds of Manduka - poisoning. An Agada consisting of Vaca, Ashva-gandha, Ati-bala, Bala, Atiguha (Sala-parni) and Aguha (Prishni- parni) nullifies the poison of a Vishvambhara insect. An Agada consisting of Shirisha, Tagara, Kushtha, the two kinds of Haridra, Amshu-mati and the two kinds of Saha destroys the poison of an Ahinduka insect. Cooling measures should be adopted in the night time in the case of a Kandumaka-bite, since the poison which is aggravated by the sun’s rays in the day does not prove amenable to any remedy, if applied at that time. An Agada consisting of Chakra, Kushtha and Apa- marga is efficacious in a case of Sh uka-vrinta -bite. As an alternative, the earth of a black ant-hill pasted with the expressed juice of Bhringa would prove efficacious in such cases. A plaster prepared with the earth of a black ant-hill and the urine of a cow proves curative in cases of bites of flies, ants and mosquitoes. The treatment of a case of a bite by a Prati-suryaka is the same as that of a snake-bite. 27-36.
+
+Origin and Classification of Scorpions:—
+
+Scorpions are divided into three classe, viz.,  the mild-poisoned ones (Manda-visha), those whose poison is neither mild nor strong (Madhya-visha), and the strong-poisoned ones (Maha-visha). Scorpions germinating from cow-dung[2] or from any other rotten substances are Manda-visha. Those which germinate from (decomposed) wood or (decayed) bricks are Madhya-visha (with poison neither mild nor strong); while those which originate from the decomposed carcase of a snake or from any other poisonous putrid organic matter are Tikshna-visha (strong-poisoned). The first group of scorpions includes twelve different species, the second three and the third and last fifteen, thus making thirty[3] species in all. 37-38.
+
+Specific traits and Characteristics of mild-poisoned Scorpions:—
+
+Scorpions which are black (Krishna) or dark-brown (Shyava) or of variegated colours (Karbura) or yellow (Pandu) or coloured like the urine of a cow or rough or dark blue (Mechaka) or white or red or greenish (Shadvala) or red mixed with white (Rakta-shveta)[4] or provided with hair on their bodies (Romasha) should be regarded as Manda-visha (mild poisoned ones). A bite by a scorpion of this species is accompained by pain (in the seat of the bite), shivering, numbness of the limbs and a flow of blackish blood (from the punctures of the bite). In the case of a bite at any of the extremities, the pain courses upward, accompained by a burning sensation, perspiration, swelling of the bitten part and fever. 39
+
+Madhya-visha Scorpions:—
+
+Scorpions of the Madhya-visha (mild-poisoned) class are red (Rakta) or yellow (Pita), or tawny (Kapila). All of them are ash-coloured in their belly and provided with three joints or links. They germinate from the stool, excreta, eggs and putrid carcases of the three (aforesaid) groups of snakes and respectively partake of the nature of the serpent whose fecal matter, etc. they originate from. A bite by a scorpion of this species is accompanied by a swelling of the tongue, an incapacity of deglutition and violent epileptic fits. 40.
+
+Tikshna-visha Scorpions:—
+
+The keen-poisoned (Tikshna-visha) scorpions are either white or parti-coloured (Citra) or blackish (Shyamala) or reddish white (Rakta-shveta) or red-bellied or blue-bellied or reddish or bluish yellow or reddish blue or bluish white; others are reddish brown and are (further divided into four classes), viz., three-jointed (like those of the previous class) or one-jointed or two-jointed or jointless. The poison of this group of scorpions, varying in colour and shape, is extremely dreadful and should be regarded as the veritable robber of vitality. They germinate from the putrified dead body of a snake or any poisoned animal. A bite by a member of any of these families produces those physiological transformations in the body of its victims which mark the different stages of a snake-bite, and gives rise to pustular eruptions (Sphota) on the skin accompanied by vertigo, a burning sensation (in the body), fever and excessive discharge of black- coloured blood from the channels (mouth and nostrils, etc.). And hence their bite proves so rapidly fatal. 41.
+
+Treatment of Scorpion-bites:—
+
+A bite by a scorpion of the middie-venomed or strong- venomed class should be treated as a case of snakebite to all intents and purposes. In a case of a bite by a mild-venomed one, the affected seat should be sprinkled over with the Chakra-Taila or with a tepid oil duly cooked with the drugs of the Vidaryadi group. The affected locality should be (repeatedly) fomented with the application of poultices in the Utkarika form prepared with anti-venomous drugs (Shirisha, etc.). The seat of the bite should then be marked with superficial incisions (scratches) and should be gently rubbed (Prati-sarana) with powders of Haridra, Saindhava, Trikatu and the fruit and flower of Shirisha. The tender leaves of Surasa pasted with the juice of Matu- lunga and the urine of a cow in a lukewarm state, or lukewarm (i.e., fresh) cow-dung should be employed in plastering and fomenting the affected part. Potions of clarified butter mixed with honey, milk mixed with a profuse quantity of sugar and honey, treacle mixed with cold water and perfumed with Catur-jataka, or cold milk mixed with treacle should be recommended as drinks. Fumigation (Dhupana) with the compound made of the feathers of the tail of a cock or a peacock, Saindhava, oil and clarified butter pasted together and burnt is a speedy destroyer of scorpion-poison. As an alternative, the fumes (Dhuma) of a compound made up of Kusumbha flower, the two kinds of Rajani and Kodrava straw mixed with clarified butter applied to the region of the arms speedily destroys the poison of a venomous insect in general and of a scorpion in particular. 42.
+
+Spider-bites:—
+
+Cases of Luta (venomous spider)-bite (lit.—poison of a Luta) are the most difficult to diagnose and cure. The diagnosis of such a case puzzles the head of many an experienced physician, while novices in the art of healing find it a very difficult matter. In a case of doubt or of conflicting indications pointing equally both to the venomous and non-venomous character of the bite, a physician should employ anti-poisonous remedies of such a character as would not prove hostile (to the natural temperament and vital principles of the patient’s system nor to the course of food and drink he is enjoined to take or naturally takes), since the Agadas are applicable only in cases of poisoning and, applied otherwise in healthy non-poisoned persons, would produce all kinds of discomfort. Hence it is incumbent on a physician to gather conclusive evidence of the poisonous nature of the bite at the very outset. A physician, failing to ascertion the existence of poison, proves more fatal in many cases than the bite itself. 43.
+
+Development of Luta-poison:—
+
+As the first sprouting of a tree does not enable a man to correctly ascertain the species, so the poison of a venomous spider in its first stage of incubation into the body, does not develop any specific symptoms sufficiently potent to throw any light on its nature, nor does it give any hint as to its correct diagonosis. A spider (Luta)- poison latent in a human organism, is marked by a slight itching sensation in the seat of the bite, as if the poison were shifting from one place to another[5] in that locality, by the presence of Kotha (urticaria), and by an indistinctness of colour on the first day of its incubation. On the second day the seat of the bite becomes swollen at the end and sunk in the middle and the characteristic marks of biting show themselves. On the third day the specific symptoms (fever, shivering, etc.) of the poison of the animal set in. On the fourth day the poison is aggravated. On the fifth day the symptoms and disorders peculiar to its aggravated condition are present. On the sixth day the poison begins to course through the organism and envolopes the Marmas (or the vulnerable parts). On the seventh day the poison is diffused throughout the whole organism, becomes extremely aggravated and proves fatal. 44.
+
+Potency:—
+
+The poison of spiders (Luta) which are acutely and violently venomous proves fatal in the course of a week. That of a middle-poisonous one would take a little more time in order to prove fatal, while a bite by one of the mild-poisonous brings death within a fortnight. Hence a physician should try his best with anti-venomous remedies for the complete nullification of the poison immediately after the bite. 45.
+
+Location:—
+
+A spider is found to secrete seven kinds of poison through the seven different parts or principles of its body, viz., saliva (Lala), nails (claws), urine, fangs, ovum (Rajas), fecal matter and semen, and such poison is either keen or mild in its potency, or follows a middle path between the two (keen and mild). 46.
+
+Characteristics of poison according to its seat in the body of a spider:—
+
+The poison which is secreted with the saliva (of a spider) gives rise to non-shiftting superficial Kotha (urticaria) attended with itching and slight pain. The poison from a scratch with the tips of its claws, is attended with swelling, itching, horripilation and a sense as if fumes had been escaping from the body. Any part of the body coming in contact with the urine of a spider is marked by a (slight) blackness of skin in the middle of the point of contact and redness at its edge, and the affected part is cracked. In a case of fang -poison (actual bite) the seat of the bite is marked by fixed circular patches and becomes indurated and discoloured. The poison in this case is strong. A part of the body touched with the Rajas, semen, or with fecal matter of a (venomous) spider is marked by eruptions of pustules which assume a yellow colour like that of a ripe amilaka or Pilu. 47.
+
+Thus far we have described the effects of spider- (Luta)-poison according to its seat in the body of the insect and to the period of its aggravation. Now we shall describe the mythological account of the origin of these insects and the curable and incurable natures of their bites together with the course of medical treatment to be followed in each case. 48.
+
+Mythological account of the origin Of Luta:—
+
+Once upon a time, it is said, king Vishvamitra went to the hermitage of the holy Vashishtha and by his actions aroused the wrath of the holy sage. Drops of perspiration were thereupon produced on the forehead of that holy and celestially brilliant sage and trickled down on the stacks of hay culled and gathered (Luna) by the holy sages for the use of the (celestial) cow, and behold! they (the drops of sweat) were transformed into innumerable dreadful and venomous spiders (Luta) which, up to this day, are found to infest the articles of royal use for the iniquity of that royal sage (Vishvamitra). They are called Lutas (spiders) from the fact of their being germinated from the drops of perspiration of the holy sage Vashishtha fallen on the culled (Luna) stacks of hay and they are sixteen in number. 49.
+
+The different names of spiders and the general symptoms of their bites:—
+
+The poison of spiders is divided into two classes—curable with difficulty and incurable. Of the sixteen kinds of spiders, the bites or poisons of eight may be cured with the greatest difficulty, while those of the remaining eight are incurable. The Tri-mandala, Shveta, Kapila, Pitika, ala-visha, Mutra-visha, Rakta and the Kasana are the eight species of spiders which belong to the first group. A bite by any of them is attended with an aching pain in the head, pain and itching about the seat of the bite and the symptoms and disorders peculiar to the aggravated Vayu and Kapha. The Sauvarnika, Laja-varna, Jalini, Eni-padi, Krishna-varna, Agni varna, Kakanda and the Mala-guna belong to the second group and their bites are marked by bleeding, fever, a burning sensation, dysentery and disorders due to the concerted action of all the three deranged Doshas of the body, and the bitten part putrefies. Eruptions of various sorts and pustules and large circular patches as well as large, soft and shifting swellings, red or brown in colour, appear on the skin about the affected part. These are the general features of spider (Luta)-bites. Now we shall describe the characteristic symptoms which are developed by bites of the several classes of spiders and the course of medical treatment to be adopted in each case. 50–51.
+
+Specific symptoms of spider-bites and their treatment:—
+
+A bite by a spider of the Tri-mandala species is marked by a flow of black-coloured blood from the bite which is transformed into an open ulcer. It is also attended with deafness, impaired or cloudy vision and a burning sensation in the eyes. In such cases, a compound consisting of Arka roots, Ra/ani, Nakuli and Prishni-parnika  should be employed as snuff as well as in drink (Pana), enemas (Vastis) and ointments etc. A bite by a spider of the Shveta species is followed by the eruption of white-coloured pustules attended with itching, burning sensation, epileptic fits, fever, erysipelas and pain in and secretion from the bite. An Agada consisting of Chandana, Rasna, Ela, Harenu, Nala, Vanjula, Kushtha, Lamajjaka, Chakra and Nalada is efficacious in such a case. A bite by a Kapila spider is characterised by eruptions of copper-coloured pustules of an indurated nature accompanied by a sense of heaviness in the head, a burning sensation, vertigo and darkness of vision (Timira). The remedy in such a case consists of an anti-poisonous Agada composed of Padmaka, Kushtha, Ela, Karanja, Kakubha- bark, Shthira, Arka - parni, Apamarga, Durva and Brahmi. A case of bite by a Pitika spider is marked by an eruption of hard pustules, vomiting, fever, colic (Shula) and redness of the eyes, and the remedy consists in the application of an Agada, composed of Kutaja, Ushira, Kinihi, Shelu, Kadamba and Kakubha -bark. A case of bite by an Ala-visha spider is marked by the bright red colour of the seat of the bite, eruption of pustules like mustard seeds, parchedness of the palate and a burning sensation in the body. The remedy in such a case should consist of an Agada composed of Priyangu, Hrivera, Kushtha, Lamajja, Vanjula, Shata-pushpa and the sprouts of the Pippala and the Vata trees. The case of bite by a spider of the Mutra-visha class is attended with putrefaction (of the affected locality), erysipelas, a flow of blackish blood (from the seat of the bite), cough, difficult breathing, vomiting, epileptic fits, fever and a burning sensation. The remedy in such a case consists in Manah-shila, ala, Yashti-madhu, Kushtha, Chandana, Padmaka and Lamajja pasted together and mixed with honey. The case of bite by a spider of the Rakta species is marked by eruptions of yellow-coloured pustules full of blood and coloured red in the extremities (round the seat of the bite), with a burning sensation and slimy secretion. The Agada in such a case should be prepared with Toya (Balaka) Chandana, Ushira, Padmaka and the bark of Arjuna, Shelu and Amrataka.  A bite by a spider of the Kasana class is attended with a flow of slimy cold blood (from the bite), and with cough and difficult breathing, the treatment being the same as in the case of a bite by a spider of the Ratka class. 52–59.
+
+A bite by a spider (Luta) of the Krishna class smells of fecal matter and is attended with a scanty flow of blood, as well as with fever, epileptic fits, vomiting, burning sensation, cough and difficult breathing. The treatment of such a patient should be taken in hand without holding out any definite hope of recovery and the remedy in this case should consist of an Agada composed of Ela, Chakra, sarpakshi, Gandha-nakuli, Chandana and the drugs known as the Maha-sugandhi  (as described in the Dundubhi-svaniya chapter). The case of bite by an Agni-varna spider is marked by a burning sensation in the seat of the bite, excessive secretion (of blood), fever, a sort of sucking pain, itching, horripilation, a burning sensation in the body and eruptions of pustules. In a case of this type, the patient may be treated with the Agada prescribed for the treatment of a bite by a spider of the Krishna class but no hopes should be held out. 60–61.
+
+General Remedies:—
+
+An Agada made of Sariva, Ushira, Yashti-madhu, Chandana, Utpala and Padmaka may be used with advantage in cases of spider-bites of all types. The bark of Shleshmataka and Kshira-pippala should be deemed equally efficacious in all cases of spider-bites, and these may be employed in any shape, viz., as snuff, potion, unguent, etc. 62.
+
+We have described (the symptoms and the treatment of the bites of) the eight classes of spiders which can be cured with difficulty. Those of the two classes (of the other group whose bites are generally incurable) have also been described above, as being sometimes found amenable to medicine (with the greatest difficulty). Now hear me describe (the symptoms and the treatment of the bites of) the remaining six species which are incurable. 63–A.
+
+Specific Symptoms of the incurable cases of Spider-bites:—
+
+A bite by a spider of the Sauvarnika species is marked by swelling and a frothy secretion and a fishy smell from the scat of the bite, and is followed by cough, difficult breathing, fever, thirst and violent fainting fits. A bite by a Laja-varna spider is marked by a flow of flesh-smelling and fetid blood from its seat as well as by a burning sensation, dysentery, fainting fits and pain in the head. A case of bite by a spider of the Jalini species is very severe and is marked by a cracking of the scat of the bite which is striped with lines as well as by numbness, difficult breathing, parchedness of the palate and continued dizziness of the head. The bite by an Eni-padi spider resembles the seeds of black sesamum in shape and is marked by thirst, fever, fainting fits, vomiting, cough and difficult breathing. A bite by a Kakandaka spider is marked by an excruciating pain and a reddish-yellow colour at its scat. A bite by a Malaguna spider is characterised by a cracking of the seat of the bite in several parts and is marked by a red colour, smoky smell, extreme pain, fever and epileptic fits. 63.
+
+Treatment of the incurable cases of spider-bites should, however, be taken in hand by a wise physician with a due consideration of the aggravated Dosha or Doshas in each case with the exception of making incisions (cheda-karma). 64-A.
+
+Surgical Treatments:—
+
+In all cases of the curable types of spider-bites, the affected part should at once be cut open and removed with a Vriddhi- patra instrument and the incisioned part should then be cauterised with a red-hot Jambvoshtha instrument in the absence of any fever or such like distressing symptoms and in the event of its not occurring in any of the vulnable parts of the body (Marmas). The act of cauterisation should be continued until the patient himself (through pain) prohibits the continuation of the same. If the affected part is found to be attended with a slight swelling, it should be cut open and removed. It should then be plastered with a paste of the (Maha- sugandhi and such other) Agada mixed with Saindhava  and honey or with the paste of Priyangu, Haridra, Kushtha, Samanga and Yashti-madhu. A potion composed of the decoction of Sariva, the two kinds of Yashti-madhu,[6] Draksha, Payasya, Kshira-morata, Vidari and Gokshura mixed with honey should be administered to the patient. The affected part should be washed with a cold decoction of the bark of the Kshiri-vrikshas. Any other distressing symptoms should be remedied with anti-poisonous measures with an eye to the deranged Doshas involved in the case. 64.
+
+Any of the (ten-fold) remedial measures of Nasya (snuff), medicated collyrium, unguents (Abhyanjana), potions (Pana) Dhuma (fumigation), Avapida form of snuff, gargling, emesis, purging and blood-letting by the application of leeches should be adopted in a case of spider bite according to its requirements. 65.
+
+All cases of bites by any insect or by any snake, and ulcers incidental to those bites should be carefully treated with measures and remedies laid down in connection with snake-bites as long as the stage of inflammation and suppuration would last. The growths (if any) of pappille (Karnika) around the seat of the bite should be removed after the subsidence of the swelling by the application of a plaster consisting of Nimba leaves,[7] Trivrit, Danti, Kusumbha flower, Rajani, honey, Guggulu, Saindhava salt, Kinva and the dung of a pigeon pasted together, and such diet as would not aggravate the effects of poison should be carefully prescribed. The papillatous growths (Karnika) due to the poison of any kind should be scratched with a proper surgical instrument in the event of their being hard and painless and should then be plastered with a paste of purifying (Sodhaniya) drugs (such as Nimba leaves, etc.) mixed with honey. 66.
+
+The specific features and treatment of the bites by the one hundred and sixty-seven types of insect are now described. The subjects mentioned but not included within these one hundred and twenty chapters (from the commencement of the book) would be dealt with in detail in the latter part of the present treatise (Uttara-Tantara). 67-68.
+
+We have not heard of a holier discourse than the medical science on account of the eternal and imperishable character of the Ayurveda (the science of life) from its tested merit and its beneficial effects upon the created beings and since it is always worshipped by the whole human race for the fact of its fully explaining the import of words (i.e. delineation of its specific subjects). Who ever stores up in his memory and acts up to these sacred and worshipful injunctions on the science of life propounded, as it is, by the nectar-origined sage (Dhanvantari), the preceptor of all physicians and equal to the celestial Indra in respect of majesty, enjoys happiness both in this world and in the next. 69.
+
+Thus ends the eighth Chapter of the Kalpasthana in the Sushruta Samhita which treats of the measures to be adopted in the case of an insect-bite.
+
+Here ends the Kalpa Sthana.
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+Dallana says that the four groups are to be determined according to the origin of the insects from the semen, etc. of a Darvi-kara, Mandali, Rājila, or a Vaikaranja serpent. To us it seems, however, that the groups should be Vātaja, Pittaja, Kaphaja and Sannipātaja.
+
+[2]:
+
+Dallana says that by cow-dung (Gomaya) is meant the dung, the urine etc. of not only a cow, but of a buffalo, etc. as well
+
+[3]:
+
+According to Gayadāsa the total number of the three classes of scorpions would be twenty-seven, of which the first (mild-poisoned) class consists of eleven, the second consists of three and the third of thirteen.
+
+[4]:
+
+In place of “white, red and whitish red” some read “white, red and little red” (Arakta), while others make it “white in the abdomen (Śvetodara), red and white.”
+
+[5]:
+
+In place of “Prachala” Gayadāsa reads “Prabala,” i.e., strong and says that the poison becomes stronger and stronger with the lapse of time.
+
+[6]:
+
+Mention of Madhuka twice in the list shows that one part each of both the kinds Yashti-madhu (liquorice)—grown on lands and in water—should be taken.
+
+[7]:
+
+Gayadāsa reads “Śikhi” (Lāngalaki) and “Vamśa” (scrapings of bamboo) in place of “Nimba-patra”. He also reads “Danta” (tooth of a cow) in place of “Kinva.”
+
+---
+
+## 11. Chapter VII - Description and preparation medicated drums
+
+
+Sushruta Samhita, Volume 5: Kalpasthana
+
+by Kaviraj Kunja Lal Bhishagratna | 1911 | 24,963 words
+
+This current book, the Kalpa-sthana (english translation), deals with the nature of poisons, the management of poisons, toxicology and various other subjects.
+
+The Sushruta Samhita is the most representative work of the Hindu system of medicine. It embraces all that can possibly appertain to the science of medicine. Susruta-samhita is recognized as...
+
+Go directly to: 
+Footnotes.
+
+Chapter VII - Description and preparation medicated drums
+
+Now we shall discourse on the Chapter which treats of the sounds of a (medicated) drum, etc., possessed of anti-venomous virtues (Dundhubhi-Svaniya). 1.
+
+Ksharagada:—
+
+The woods of Dhava, Ashva-karna, Tinisha, Palasha, Pichu-marda, Patali, Paribhadraka, Amra, Udumbara, Karahataka, Arjuna, Kakubha, Sarja, Kapitana, Shleshmataka, Amkotha, Amalaka, Pragraha, Kutaja, Shami, Kapittha, Ashvmantaka, Arka, Chira-vilva, Maha-vriksha, Arushkara, Aralu, Madhuka, Madhu-shigru, Shaka, Goji, Murva, Tilvaka, Ikshuraka, Gopa-ghanta and Arimeda[1] should be taken (in equal parts) and burnt down to ashes. The said ashes should be dissolved in the urine of a cow and filtered (through a piece of linen) in the manner of preparing an alkali. This alkaline solution should then be duly boiled (till it would assume a transparent blood-red hue and slimy character), and the powders of Pippali- mula, Tanduliyaka, Varanga, Chochaka, Manjishtha, Karanja, Hasti-Pippali, Marica, Utpala, Sariva, Vidanga, Griha-dhuma (soot of a room), Ananta, Soma, Sarala, Vahlika, Guha, Koshamra, white mustard seeds, Varuna, Lavana, Plaksha, Nichula, Vardhamana, Vanjula, Putra-shreni, Sapta-parna, Dandaka, Ela-valuka, Naga-danti, Ativisha, Abhaya, Bhadra-daru Kushtha, Haridra and Vaca together with pulverised (dead) iron (taken in equal parts)[2] should be added to it. Then it should be boiled again and preserved in an iron pitcher after it had been duly prepared in the manner of an alkali. 2.
+
+Metrical Texts:—
+
+Dundhubhis (drums), banners and the gate ways of houses should be smeared with this alkaline preparation, hearing the sound as well as the sight and touch whereof would lead to the complete elimination of the poison from the system of the patient. This medicine is known as the Ksharagada which is equally efficacious in cases of Sharkara (gravel), stones in the bladder, Hemorrhoids, Vata- Gulma, cough, Shula (colic), Udara (abdominal dropsy), indigestion, Grahani, extreme aversion to food, general edema of the body and violent asthma. The remedy is applicable in all cases of poisoning of whatsoever type and acts as a sure antidote to the poison of the serpents headed by the dreadful Takshaka. 3.
+
+Kalyanaka Ghrita:—
+
+An adequate quantity of clarified better duly cooked with (the decoction and Kalka of) the drugs known as Vidanga, Tri-phala, Danti, Bhadra-daru, Harenu, Talisha-patra, Manjishtha, Keshara, Utpala, Padmaka, Dadima, Malati flower, the two kinds of Rajani, the two kinds of Sariva, the two kinds of Sthira, Priyangu, Tagara, Kushtha, the two kinds of Vrihati, Ela-valuka, sandal wood and Gavakshi, is known as the Kalyanaka Ghrita. The curative efficacy of this Ghrita extends to cases of poisoning, Grahapasmara (hysteria due to the influence of malignant stars and planets), Jaundice, Gara dosha (slow chemical poisoning), asthma, sluggishness of appetite, fever and cough. It is commended to consumptive patients, as well as to men suffering from scantiness of semen and women afflicted with sterility. 4.
+
+Amrita Ghrita:—
+
+An adequate quantity of clarified butter duly cooked with the seeds of Apamarga and of the two kinds of Shveta, Shirisha, and Kakatnachi  (previously) pasted with the urine of a cow is known as the Amrita-Ghrita. It embraces within the pale of its therapeutic virtues all cases of poisoning and is capable of bringing back an apparently dead man to life. 5.
+
+Maha-sugandhi Agada:—
+
+The follow- ing drugs viz., (red) sandal wood, Aguru, Kushtha, Tagara, Tila-parnika, Prapaundarika, Nalada, Sarala, Deva-daru, Bhadra-shri (white sandal wood), Yava- phala, Bhargi, Nili, Sugandhika, Kaleyaka, Padmaka, Madhuka, Nagara, Jata (a variety of Jata-mamsi), Punnaga, Ela, Elavalu, Gairika, Dhyamaka, Bala, Toya, Sarjarasa, Mamsi, Sita-pushpa, Harenuka, Talisha - patra, small Ela, Priyangu, Kutannata, Shaila pushpa, Shaileya, Patra, Kalanu-Sariva, Tri-katu, Shita-shiva,[3] Kasmarya, Katu-rohini, Somaraji, Ati-visha, Prithvika, Indra-varuni, Ushira, Varuna, Musta, Nakha, Kustumburu, the two kinds of Shveta,[4] the two kinds of Haridra, Sthauneya, Laksha, the five kinds of officinal salts, Kumuda, Utpala, Padma, flower of flowers
+
+and fruits of Champaka, Ashoka, Sumanas, Tilaka  (sesamum), Patali, Salmali, Shelu, Shirisha, Surasi, Trina-shuli and of Sindhuvara, flowers of Dhava, Ashva- karna, and Tinisa, Guggula, Kumkuma, Vimbi, Sarpakshi and Gandha-Nakuli should be carefully collected and pasted with honey, clarified butter and the bile of a cow and should be kept inside a horn (or a receptacle made of that material). This medicine, which is the best of all anti-venomous medicinal preparations, would rescue from the jaws of death, a patient even with drooped down shoulders and sunk and upturned eyes. It is capable of destroying in a moment the irresistible fire like poison even of the dreadful infuriated Vasuki, the king of serpents. This Agada which consists of eighty-five ingredients is called the Maha- sugandhi Agada and is the most potent of all anti- venomous remedies. It should constantly be in the possession of a king. Smeared with the present preparation he is sure to be a favourite with all his subjects and to shine with his sovereign majesty even amidst his enemies. 6.
+
+A physician well versed in the natures of poisons, should adopt all remedial measures excepting the heat- engendering ones in all types of poisoning. But this rule would not be applicable in a case of insect-bite inasmuch as the poison of an insect is cool in its potency and hence would be aggravated by the application of any cooling measures. 7.
+
+Rules of diet and conduct:—
+
+Wholesome diets which have been enumerated in the chapter on Anupana-Vidhi, should be prescribed in cases of poisoning after a due consideration of the nature, habit, and temperament of the patient who should be warned against the use of unwholesome ones. The use of Phanita (liquid treacle), Shìgru, Sauvira, the taking of meals before the digestion of the previous ones, the group of Nava-Dhanya (unmatured corn), wine, sesamum, oil and Kulattha- pulse, sleep in the day time, sexual intercourse, physical exercise, fits of anger and exposure to the sun are forbidden in the case of a poisoned patient. 8.
+
+Symptoms of elimination of poison:—
+
+The restoration of the deranged Doshas and of the vital principles (Dhatus of the body) to their normal state, a natural craving for food and drink, the normal colour and condition of the tongue and of the urine and the normal state and functions of the mind and of the sense-organs in a poisoned patient would indicate the full and complete elimination of the poison from his system. 9.
+
+Thus ends the Seventh Chapter of the Kalpa-Sthana in the Sushruta Samhita which treats of the sounds of medicated drums, etc.
+
+Footnotes and references:
+
+[back to top]
+
+[1]:
+
+The plants of these should be taken in full i.e. with their leaves, roots, branches, etc. The prepared ash should be dissolved in cow’s urine weighing six times the combined weight of the ashes. Dallana says that Gayadāsa does not read “Śirisha, Pichumarda, Kakubha, Arushkara and Madhu-Śigru” in the list.
+
+[2]:
+
+The total weight of these powders to be added should be one thirtieth part of the prepared alkaline solution. Dallana says that Gayadāsa counts only thirty and he does not read “Marica, Soma, Guhā, Lavana, Chakra and Ala in the text. We do not, however, find Chakra and Ala in the text. We have, on the other hand, the names of some more drugs which are believed to be mere interpolations from the marginal notes of some manuscripts.
+
+[3]:
+
+Dallana explains “Śita-śiva” to mean “camphor”. Others explain it to mean “Śami.”
+
+[4]:
+
+The text has “Śvetā” in the dual number meaning the two kinds of “Śvetā” viz; white Vaca and white Aparājitā. Dallana gives only “Vacā” as its synonym, which shows he takes the word in the singular number and not in the dual as in the printed text. This appears to be the correct reading, for otherwise the number of the drugs in the list would be more than eighty-five.
+
+---
+

@@ -1,58 +1,29 @@
 # Overview — ayurshakti.shop
 
-## Architecture
+## Lightweight Architecture (GitHub + Cloudflare + Firebase)
 
 ```
-User ──► ayurshakti.shop ──► Cloudflare DNS ──► Google Blogger ──► Readers
-                              (DNS only)
-                              │
-                              ├─ llms.ayurshakti.shop ──► Cloudflare Worker (llms-txt) ──► AI crawlers
-                              │
-                              └─ Email (contact@) ──► Cloudflare Email ──► Gmail ──► Apps Script ──► Google Sheet
-                                      └─ Subscribers ──► Welcome Email ──► Newsletter ──► Traffic back to site
+Developer / AI Agent ──► GitHub (Git Push) ──► GitHub Actions ──► Firebase Hosting ──► Cloudflare DNS ──► Readers
+                                                    (Static CDN)       (Security/SSL)
 ```
 
 | Layer | Provider | Role |
 |-------|----------|------|
-| Domain | Namecheap | Registration |
-| DNS | Cloudflare | Nameservers, DNS records |
-| Hosting | Google Blogger | Content, pages, posts |
-| Analytics | Google Analytics GA4 | Traffic tracking |
-| SEO | Google Search Console | Keyword performance |
-| Bing SEO | Bing Webmaster Tools | Bing indexation, sitemap submission |
-| AI Crawlers | Cloudflare Worker (`llms-txt`) | `llms.txt` serve for GPTBot, Claude, Perplexity |
-| Email Marketing | Google Sheets + Apps Script | Subscriber management, newsletter, lead magnets |
+| **Version Control** | GitHub | Code & Markdown repository (`bhati8833/ayurshakti.shop`) |
+| **CI/CD Build** | GitHub Actions | Automatic `npm run build` and deployment trigger |
+| **Hosting & Storage** | Firebase Hosting | Ultra-fast SSG static hosting (`ayur-shakti`) for account `vle.bhati@gmail.com` |
+| **DNS & SSL Edge** | Cloudflare | DNS management, DDoS protection, Brotli compression, edge SSL |
+| **Domain** | Namecheap | Domain registration (`ayurshakti.shop`) |
+| **Framework** | Next.js 14 | React, TypeScript, Tailwind CSS, Motion (`output: 'export'`) |
+| **Analytics** | Google Analytics GA4 | Traffic tracking (`G-1KKZFZB7ML`) |
+| **SEO** | GSC & Bing | Search Console & Bing IndexNow |
+| **AI Crawlers** | Cloudflare Worker | `llms.txt` serving (`llms.ayurshakti.shop`) |
 
-## Key Facts
+## Key Identifiers
 
-| Fact | Value |
+| Identifier | Value |
 |------|-------|
-| Blog ID | `944859273218738540` |
+| Firebase Account | `vle.bhati@gmail.com` |
+| Firebase Project ID | `ayur-shakti` |
 | GA4 Property ID | `533609055` |
-| GA4 Measurement ID | `G-1KKZFZB7ML` |
-| GCP Project ID | `ayurshakti-501603` |
-| GCP Project Number | `641160040343` |
 | Cloudflare Zone ID | `f63c29bc9532dc008cd45e2db084ee4e` |
-
-## Service Account
-
-| Field | Value |
-|-------|-------|
-| Email | `blogger-service-account@ayurshakti-501603.iam.gserviceaccount.com` |
-| Key File | `secrets/ayurshakti-501603-a1a6ff0396df.json` |
-| Permissions | Search Console: siteFullUser, GA4: Viewer |
-
-## Refresh Token
-
-| Field | Value |
-|-------|-------|
-| Token | `YOUR_REFRESH_TOKEN` (see `secrets/blogger-oauth-tokens.json`) |
-| File | `secrets/blogger-oauth-tokens.json` |
-| Expiry | Never |
-
-## API Key (Restricted)
-
-| Field | Value |
-|-------|-------|
-| Key | `YOUR_BLOGGER_API_KEY` (see `secrets/blogger-api-key.txt`) |
-| Restrictions | Blogger API v3, *.ayurshakti.shop/* |

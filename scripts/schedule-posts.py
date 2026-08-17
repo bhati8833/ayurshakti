@@ -141,10 +141,18 @@ def main():
         logger.info("ℹ️  Queue empty. Nothing to schedule.")
         return
 
-    # Filter: only 10/10 checklist passed
-    approved = [p for p in queue if p.get("checklist_10_10") is True]
+    # Filter: only 10/10 checklist passed AND has labels
+    approved = []
+    for p in queue:
+        if p.get("checklist_10_10") is not True:
+            continue
+        labels = p.get("labels", [])
+        if not labels:
+            logger.warning(f"  ⚠️  SKIPPED (no labels): {p.get('title', 'Untitled')[:50]}... — assign labels before scheduling")
+            continue
+        approved.append(p)
     if not approved:
-        logger.info("ℹ️  No articles have passed 10/10 checklist. Nothing to schedule.")
+        logger.info("ℹ️  No articles with 10/10 + labels. Nothing to schedule.")
         return
 
     # Strip 'id' field from approval queue items (Blogger assigns numeric ID on creation)
@@ -247,8 +255,10 @@ def main():
             # Track syndication results
             syndication_results = {
                 "indexnow_status": "pending",
+                "google_index_status": "pending",
                 "ping_status": "pending",
                 "social_status": "pending",
+                "analytics_status": "pending",
             }
 
             # Notify Bing IndexNow
@@ -267,6 +277,24 @@ def main():
             except Exception as e:
                 logger.error(f"  ❌ IndexNow error: {e}")
                 syndication_results["indexnow_status"] = "error"
+
+            # Notify Google Indexing API (instant ping on publish)
+            try:
+                g_post_url = result.get("url", "")
+                if g_post_url:
+                    g_full_url = f"https://www.ayurshakti.shop/{g_post_url}"
+                    logger.info(f"  📡 Notifying Google Indexing API: {g_full_url}")
+                    success, stdout, stderr = run_subprocess_logged(
+                        ["python3", os.path.join(SCRIPT_DIR, "gsc-index-submit.py"),
+                         "--url", g_full_url],
+                        logger, timeout=20
+                    )
+                    syndication_results["google_index_status"] = "success" if success else "failed"
+                    if not success:
+                        logger.warning(f"  ⚠️  Google Indexing API failed: {stderr}")
+            except Exception as e:
+                logger.error(f"  ❌ Google Indexing API error: {e}")
+                syndication_results["google_index_status"] = "error"
 
             # Notify ping services
             try:
@@ -302,6 +330,27 @@ def main():
             except Exception as e:
                 logger.error(f"  ❌ Social posting error: {e}")
                 syndication_results["social_status"] = "error"
+
+            # Analytics snapshot (post-publish traffic check)
+            try:
+                logger.info("  📊 Capturing analytics snapshot...")
+                success, stdout, stderr = run_subprocess_logged(
+                    ["python3", os.path.join(SCRIPT_DIR, "analytics-report.py"),
+                     "--days", "1", "--save", "--json"],
+                    logger, timeout=30
+                )
+                syndication_results["analytics_status"] = "success" if success else "failed"
+                if success and stdout:
+                    try:
+                        data = json.loads(stdout)
+                        u = data.get("ga4", {}).get("totals", {}).get("users", 0)
+                        pv = data.get("ga4", {}).get("totals", {}).get("pageviews", 0)
+                        logger.info(f"    Post-publish traffic: {u} users, {pv} pageviews")
+                    except json.JSONDecodeError:
+                        pass
+            except Exception as e:
+                logger.error(f"  ❌ Analytics snapshot error: {e}")
+                syndication_results["analytics_status"] = "error"
 
             log_records.append({
                 "id": numeric_id,

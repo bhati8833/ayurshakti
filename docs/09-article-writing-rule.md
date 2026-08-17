@@ -156,7 +156,7 @@ Jab bhi article write karne ka task aaye, yeh skills load karo:
 |------|-------------|
 | `skill` | Load relevant writing skills before drafting |
 | `task` | Deploy subagents for parallel tasks (e.g., research + outline + fact-check) |
-| `bash` | Run Blogger API publish scripts, format checks. **PubMed citations:** `python3 scripts/pubmed-cite.py 'keyword study trial' 3` |
+| `bash` | Run build & deploy scripts, format checks. **PubMed citations:** `python3 scripts/pubmed-cite.py 'keyword study trial' 3` |
 | `read` | Read existing articles, topic list, reference docs |
 | `grep` | Check if content already exists for a keyword |
 | `glob` | Find related articles for internal linking |
@@ -409,11 +409,10 @@ Har article mein yeh SEO + multi-platform elements must hain.
 | Keyword in at least 2 H2s | Yes |
 | Keyword in meta description | Yes — 150-160 chars |
 
-### B. Internal Linking (CRITICAL RULE FOR BLOGGER)
+### B. Internal Linking (CRITICAL RULE FOR NEXT.JS)
 - Link to 2-4 existing related articles on the site.
-- **NEVER use `/blog/topic-name` formats.** Blogger does not support this and it creates dead links (404).
-- If the exact absolute URL of the post is unknown (e.g. drafted articles), always format the link as `/search?q=topic-name` (e.g., `/search?q=ashwagandha-benefits-men`).
-- If the exact absolute URL is known, use it (e.g., `https://www.ayurshakti.shop/2026/07/article-slug.html`).
+- **ALWAYS use clean relative URLs:** `/articles/slug-name` (e.g., `/articles/ashwagandha-benefits`).
+- For glossary terms use `/glossary`, for canonical texts use `/canonical-texts`, and for dosha quiz use `/dosha-quiz`.
 - Use descriptive anchor text (not "click here").
 - Priority: link to pillar pages, then other cluster articles.
 
@@ -435,8 +434,8 @@ Add schema type based on article content:
 - Compress images (use TinyPNG or similar)
 
 ### E. URL Slug
-- Blogger auto-generates from title
-- Manually shorten to 3-5 words max
+- Derived automatically from title
+- Keep short (3-5 words max)
 - Include primary keyword
 - No stop words (a, an, the, and, of, for)
 
@@ -453,7 +452,7 @@ Add schema type based on article content:
 | `twitter:description` | Recommended | Same as og:description |
 | `twitter:image` | Recommended | Same as og:image |
 
-- Blogger adds OG tags automatically if configured in theme
+- Rendered via Next.js metadata API in static exports
 - Manually verify using [metatags.io](https://metatags.io) or Facebook Sharing Debugger
 
 ### G. External Linking / Citation Rules
@@ -585,7 +584,7 @@ AI engines (ChatGPT, Perplexity, Gemini) yahi content extract karte hain:
 - Bold only for key terms (1-2 per section max)
 - No ALL CAPS
 - Quotes: Use `>` for emphasis sparingly
-- Code blocks: Only for actual code (Blogger API scripts etc.)
+- Code blocks: Only for actual code or command scripts
 
 ---
 ## 9B. Platform-Specific Writing Rules
@@ -832,7 +831,7 @@ Agent jab article complete karega, yeh format use karega:
                        │ - Pick 2 random          │
                        │ - Best time EST          │
                        │   8-10am / 6-8pm         │
-                       │ - Blogger API            │
+                       │ - Static site build      │
                        │   future publish         │
                        └──────────┬───────────────┘
                                   │
@@ -1133,5 +1132,5 @@ Article Published → Wait 48h for indexation
 **CRITICAL RULE FOR ALL AI AGENTS:**
 - AI agents MUST ALWAYS write articles in **Markdown format** (e.g., `**bold**`, `[link](url)`, `## Heading`, `* list`).
 - DO NOT attempt to write raw HTML in the article draft.
-- The system's scheduling script (`scripts/schedule-posts.py`) has a built-in Markdown-to-HTML converter (`markdown` library) which automatically parses the Markdown into clean HTML before pushing it to the Blogger API.
+- The system's content pipeline renders Markdown articles directly into clean React HTML components during `npm run build` static export.
 - Do NOT use complex Markdown that cannot be translated to standard HTML (keep tables simple, use standard bullet lists).

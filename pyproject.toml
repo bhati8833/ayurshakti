@@ -1,11 +1,11 @@
 [build-system]
-requires = ["setuptools>=61.0", "wheel"]
+requires = ["setuptools>=68", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
 name = "ayurshakti-automation"
-version = "0.1.0"
-description = "AyurShakti Blog Automation Pipeline"
+version = "1.0.0"
+description = "AyurShakti blog automation scripts"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
@@ -25,60 +25,23 @@ dev = [
 [tool.ruff]
 target-version = "py312"
 line-length = 100
-select = [
-    "E",   # pycodestyle errors
-    "W",   # pycodestyle warnings
-    "F",   # pyflakes
-    "I",   # isort
-    "UP",  # pyupgrade
-    "B",   # flake8-bugbear
-    "C4",  # flake8-comprehensions
-    "SIM", # flake8-simplify
-    "T20", # flake8-print
-]
-ignore = [
-    "E501",  # line too long (handled by formatter)
-    "B008",  # do not perform function calls in argument defaults
-    "SIM117", # for-else-overused
-]
-exclude = [
-    ".git",
-    "__pycache__",
-    ".venv",
-    "venv",
-    "node_modules",
-    "secrets",
-    "data",
-]
-fixable = "ALL"
-unfixable = []
+select = ["E", "F", "I", "UP", "B", "C4", "SIM", "T20"]
+ignore = ["E501"]
+fix = true
 
 [tool.ruff.format]
 quote-style = "double"
 indent-style = "space"
-skip-magic-trailing-comma = false
-line-ending = "lf"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
 python_files = ["test_*.py"]
-python_classes = ["Test*"]
 python_functions = ["test_*"]
 addopts = "-x -q --strict-markers"
-markers = [
-    "unit: Unit tests",
-    "integration: Integration tests",
-    "slow: Slow tests",
-]
 
 [tool.coverage.run]
 source = ["scripts"]
-omit = [
-    "*/tests/*",
-    "*/__pycache__/*",
-    "scripts/lib/__init__.py",
-]
-branch = true
+omit = ["scripts/lib/__pycache__/*", "tests/*"]
 
 [tool.coverage.report]
 exclude_lines = [
@@ -86,7 +49,4 @@ exclude_lines = [
     "def __repr__",
     "raise AssertionError",
     "raise NotImplementedError",
-    "if __name__ == .__main__.:",
 ]
-show_missing = true
-precision = 2
