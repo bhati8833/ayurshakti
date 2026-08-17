@@ -1,4 +1,13 @@
-# Charaka Samhita and Sushruta Samhita by Nayana Sharma
+---
+title: "Charaka Samhita and Sushruta Samhita by Nayana Sharma"
+silo: "canonical-texts"
+slug: "charaka_samhita_and_sushruta_samhita_by_nayana_sharma"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study on the Charaka Samhita and the Sushruta Samhita, both important and authentic Sanskrit texts belonging to Ayurveda: the ancient Indian science of medicine and nature."
+---
 
 **Author / Source:** by Nayana Sharma
 
@@ -16495,4 +16504,3 @@ Suśruta Saṃhitā Sūtrasthāna 19.20.
 Suśruta Saṃhitā Sūtrasthāna 19.7-15.
 
 ---
-

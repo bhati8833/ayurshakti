@@ -1,4 +1,13 @@
-# Manasollasa (study of Arts and Sciences)  by Mahadev Narayanrao Joshi
+---
+title: "Manasollasa (study of Arts and Sciences)  by Mahadev Narayanrao Joshi"
+silo: "canonical-texts"
+slug: "manasollasa_study_of_arts_and_sciences_by_mahadev_narayan"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "text addresses diverse topics like polity, political sciences, architecture, jurisprudence, iconography, idol-making, and various arts and sciences such as mathematics."
+---
 
 **Author / Source:** by Mahadev Narayanrao Joshi
 
@@ -1876,4 +1885,3 @@ Desai, Kalpana S. 426 Iconography of Visnu. Abhinava Publications, New Delhi, 19
 433 Vedangajyotisa. Ed. D.R.Shamasastry Govt.Branch Press, Mysore, 1936. Viddhasalabhanjika of Rajasekhara. Ed. Jatindra Bimal Chaudhari. Press Ltd., Calcutta, 1943. The Calcutta Oriental Oriental Institute, Baroda, 1958. Visnudharmottara Purana. Vol.I. Ed. Priyabala Shah. Yajnavalkya Smrti. Ed. S.S.Setlur. Madras, 1912. Yajurveda Brahmavadin Press, Georgetown, Ed. S.D.Satavalekar.
 
 ---
-

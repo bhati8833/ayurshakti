@@ -1,4 +1,13 @@
-# Elephantology and its Ancient Sanskrit Sources by Geetha N.
+---
+title: "Elephantology and its Ancient Sanskrit Sources by Geetha N."
+silo: "canonical-texts"
+slug: "elephantology_and_its_ancient_sanskrit_sources_by_geetha_n"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study of Elephant which is based on Hastyayurveda and Matangalila."
+---
 
 **Author / Source:** by Geetha N.
 
@@ -4724,4 +4733,3 @@ Makkabayar (6). 30. 33-38.
 Surah 105. Alpheel (Elephant)
 
 ---
-

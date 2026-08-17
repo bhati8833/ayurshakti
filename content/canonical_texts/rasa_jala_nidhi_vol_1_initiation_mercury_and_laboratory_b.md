@@ -1,4 +1,13 @@
-# Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory by Bhudeb Mookerjee
+---
+title: "Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory by Bhudeb Mookerjee"
+silo: "canonical-texts"
+slug: "rasa_jala_nidhi_vol_1_initiation_mercury_and_laboratory_b"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the p..."
+---
 
 **Author / Source:** by Bhudeb Mookerjee
 
@@ -2966,4 +2975,3 @@ Conclusion:
 This concludes ‘Requisites for metallurgical operations’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 1: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
-

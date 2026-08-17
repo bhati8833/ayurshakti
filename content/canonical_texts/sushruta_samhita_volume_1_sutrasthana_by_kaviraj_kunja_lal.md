@@ -1,4 +1,13 @@
-# Sushruta Samhita, volume 1: Sutrasthana by Kaviraj Kunja Lal Bhishagratna
+---
+title: "Sushruta Samhita, volume 1: Sutrasthana by Kaviraj Kunja Lal Bhishagratna"
+silo: "canonical-texts"
+slug: "sushruta_samhita_volume_1_sutrasthana_by_kaviraj_kunja_lal"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Samhita."
+---
 
 **Author / Source:** by Kaviraj Kunja Lal Bhishagratna
 
@@ -6902,4 +6911,3 @@ The taste of sweet viands eaten at the outset would naturally go to subdue the V
 This rule holds good in the case of persons, who eat a single meal in the course of a day and night. Those, who are in the habit of eating two meals a day, should eat a light half meal at one and quarter Prahara in the morning and another between the third and the fourth Praharas in the afternoon (Panjikakara). According to Jejjada, the meals should be between the third and the fourth Prahara both in the day and night.
 
 ---
-

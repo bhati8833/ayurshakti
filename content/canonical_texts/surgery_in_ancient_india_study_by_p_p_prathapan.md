@@ -1,4 +1,13 @@
-# Surgery in ancient India (Study)  by P. P. Prathapan
+---
+title: "Surgery in ancient India (Study)  by P. P. Prathapan"
+silo: "canonical-texts"
+slug: "surgery_in_ancient_india_study_by_p_p_prathapan"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Samhita details the practice of surgery known to ancient Indian traditional medicine, which showcases an advanced development in this field as well as theoretical and practical knowledge of hygiene..."
+---
 
 **Author / Source:** by P. P. Prathapan
 
@@ -1909,4 +1918,3 @@ Sarapunkha and local anesthesia with Thagara. But unfortunately, no further rese
 contented with his own medical knowledge, but should enrich with knowledge from other fields. Ekam sastram Adhiyano na vidyat sastrainscayam. Tasmat bahusrutam Vijaniyat cikitsakah. 8.SPREAD OF BUDDHISM. Long before foreign invasions, India had to face another problem from Buddhism. The fantastic superstitions of Budhists and Jains have branded surgery as an act of violence. Infact surgery has nothing to do with violence. But the Candasatva of Budhists has made surgery a forbidden and unethical act. This also has led to the fall of Ayurveda salyatantra. Later, Sankaracarya spread his Advaita Siddhanta and the misinterpretations of this pious principle made the people of India timid and lethargic and the people have taken every thing as their fate and misfortune and led a passive life. This is one of the reasons of our slavery for the last so many centuries. 283
 
 ---
-

@@ -1,4 +1,13 @@
-# Bhesajjakkhandhaka (Chapter on Medicine) by Hin-tak Sik
+---
+title: "Bhesajjakkhandhaka (Chapter on Medicine) by Hin-tak Sik"
+silo: "canonical-texts"
+slug: "bhesajjakkhandhaka_chapter_on_medicine_by_hin_tak_sik"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study deals with the ancient Indian Medicine (Ayurveda) in Early Buddhist Literature and studies the Bhesajjakkhandhaka and the Parallels in other Vinaya Canons."
+---
 
 **Author / Source:** by Hin-tak Sik
 
@@ -6923,4 +6932,3 @@ Zysk, Kenneth G. 1982. “Studies in Traditional Indian Medicine in the Pāli Ca
 —————. 1996. Medicine in the Veda: Religious Healing in the Veda. 1st Indian ed. Delhi: Motilal Banarsidass. (Orig. pub. 1985.)
 
 ---
-

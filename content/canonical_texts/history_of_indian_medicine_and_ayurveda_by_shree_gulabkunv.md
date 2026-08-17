@@ -1,4 +1,13 @@
-# History of Indian Medicine (and Ayurveda) by Shree Gulabkunverba Ayurvedic Society
+---
+title: "History of Indian Medicine (and Ayurveda) by Shree Gulabkunverba Ayurvedic Society"
+silo: "canonical-texts"
+slug: "history_of_indian_medicine_and_ayurveda_by_shree_gulabkunv"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "presents the introductory pages of the Charaka Samhita composed of six large sections dealing with every facet of Medicine in ancient India in a Socio-Historical context."
+---
 
 **Author / Source:** by Shree Gulabkunverba Ayurvedic Society
 
@@ -13003,4 +13012,3 @@ Caraka draws a beautiful picture of the life of a man in possession of ideal phy
 The life of that man is said to be good who is a well-wisher of all creatures, who does not covet other people’s goods, who is a teller of truth, who is peace-loving, who acts with deliberation, is not negligent, is devoted to the three ends (viz., virtue, wealth and enjoyment) without letting any one end come into conflict with the other two, who is reverential to those who are worthy of reverence, of a scholarly, scientific and retiring disposition, partial to the company of elders, of well curbed passions of desire, anger, envy, pride and conceit; constantly given to charitable acts; devoted always to austerity, knowledge and quietude, endowed with spiritual insight, one-minded, contemplative of the good in this world and the next, and endowed with memory and understanding. That life which is of the opposite nature is said to be ‘not good’”.
 
 ---
-

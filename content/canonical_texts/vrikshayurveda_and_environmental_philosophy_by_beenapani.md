@@ -1,4 +1,13 @@
-# Vrikshayurveda (and environmental philosophy)  by Beenapani Mishra
+---
+title: "Vrikshayurveda (and environmental philosophy)  by Beenapani Mishra"
+silo: "canonical-texts"
+slug: "vrikshayurveda_and_environmental_philosophy_by_beenapani"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Texts including English translation of extracts."
+---
 
 **Author / Source:** by Beenapani Mishra
 
@@ -1434,4 +1443,3 @@ VI.9. The Vision of Manusmriti as reflected in the ideology behind the relation 
 245 The rice to be cultivated in the Hindu season Sarat named as Vrihi, that to be cultivated in Hemanta season named as Sali, Mudga-beans, Sesamum, Masha-beans, Barley, leeks, and Sugar Cane all spring up and germinate sprout with different characteristics without deviating its own mother features and as such possess the same properties as like the different seeds of its own origin. vrihayah salayo mudatastila masastatha yavah yatha bijam prarohanti lasunaniksavastatha// (Manusmrti, 9, 39) The seeds of a particular plant in no other way can germinate. a different plant different in properties than the mother seed. It's therefore, the plant so emerging out of the type of seed should always possess the like characteristics as the seed from which it germinate. anyaduptam jatamanyadityotannopapadyate/ upyate yaddhi tadbijam tattadeva prarohati// (Manusmrti, 9, 40)
 
 ---
-

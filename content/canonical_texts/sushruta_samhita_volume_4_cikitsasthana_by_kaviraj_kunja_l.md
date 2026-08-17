@@ -1,4 +1,13 @@
-# Sushruta Samhita, volume 4: Cikitsasthana by Kaviraj Kunja Lal Bhishagratna
+---
+title: "Sushruta Samhita, volume 4: Cikitsasthana by Kaviraj Kunja Lal Bhishagratna"
+silo: "canonical-texts"
+slug: "sushruta_samhita_volume_4_cikitsasthana_by_kaviraj_kunja_l"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Samhita is the most representative work of the Hindu system of medicine."
+---
 
 **Author / Source:** by Kaviraj Kunja Lal Bhishagratna
 
@@ -5936,4 +5945,3 @@ In the text we find “Madhuka” which generally means Yashti-madhu. (?) ere, h
 According to Dallana, however, a Pala measure of each of honey and clarified butter should be added.
 
 ---
-

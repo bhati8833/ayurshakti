@@ -1,4 +1,13 @@
-# Sushruta Samhita, volume 2: Nidanasthana by Kaviraj Kunja Lal Bhishagratna
+---
+title: "Sushruta Samhita, volume 2: Nidanasthana by Kaviraj Kunja Lal Bhishagratna"
+silo: "canonical-texts"
+slug: "sushruta_samhita_volume_2_nidanasthana_by_kaviraj_kunja_la"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Samhita is the most representative work of the Hindu system of medicine."
+---
 
 **Author / Source:** by Kaviraj Kunja Lal Bhishagratna
 
@@ -2304,4 +2313,3 @@ The diseases of the throat are 17 in number. Taking Vrinda as a separate disease
 Sataghni is a kind of weapon used in andient warfare.
 
 ---
-

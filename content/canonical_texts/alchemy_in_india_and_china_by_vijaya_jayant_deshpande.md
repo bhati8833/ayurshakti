@@ -1,4 +1,13 @@
-# Alchemy in India and China  by Vijaya Jayant Deshpande
+---
+title: "Alchemy in India and China  by Vijaya Jayant Deshpande"
+silo: "canonical-texts"
+slug: "alchemy_in_india_and_china_by_vijaya_jayant_deshpande"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "explores the comparative aspects of alchemy in these two countries, focusing on chemical and protochemical formulations while addressing why modern science developed in the West rather than in Indi..."
+---
 
 **Author / Source:** by Vijaya Jayant Deshpande
 
@@ -1318,4 +1327,3 @@ Chemistry, first of all, appeared in the form of metallurgy when the earlier met
 225 but gold. He was ready to consider "gold" as such an element, obviously because of the fact that any effort of transmuting other metals into gold had proved to be futile. He writes that he knows no fact that would prove that gold, for instance, might not as well be called an element as anything else. This is where the glorious success of alchemy (that of lies, viz. in falsifying the earlier theories Aristotle, Galen, i.e., three, four, five element theories and transmutation with changing the "substantial" forms) by its failure to achieve its goal of transmuting other metals into gold and silver. The centuries of unsuccessful endeavours proved the non-transformability of metals by chemical means. The geniuses like Boyle were able to grasp the meaning of these failures. Hence we could add this as a contribution of alchemy to chemistry, along with the other positive contributions noted earlier. Thus, publication of Boyle's "Sceptical Chymist" can be considered as a starting point in the advent of modern science of chemistry. Hence we maintain that chemistry developed as a new attitude providing theoretical development of all the areas of earlier practice in the fields of alchemy, metallurgy and medicine. 4 stillman, J. M., see Secondary Sources, p. 397.
 
 ---
-

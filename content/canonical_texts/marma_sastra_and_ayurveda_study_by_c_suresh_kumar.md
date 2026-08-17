@@ -1,4 +1,13 @@
-# Marma-sastra and Ayurveda (study)  by C. Suresh Kumar
+---
+title: "Marma-sastra and Ayurveda (study)  by C. Suresh Kumar"
+silo: "canonical-texts"
+slug: "marma_sastra_and_ayurveda_study_by_c_suresh_kumar"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "presents a comprehensive study of Marmas with special reference to Ayurvedic and Tamil Marma Sastras in relation to its applied anatomy."
+---
 
 **Author / Source:** by C. Suresh Kumar
 
@@ -1683,4 +1692,3 @@ Appendix No.3 Research work done on Marma in various Universities and Institutes
 - 9. Study of Prishthagata (back) Marma Valvi M.D.- Pune University, 1993. 10. To investigate biochemically different components of Kapha- Pitta Vata doshanashaka Marma Mrs. Bale A.P. Pune. - - 11. Sadyha Pranachara Marma Abhyasa Basti (study of basti in Vital points producing instant death) - Shinde S.R.- Pune University, 1994. 12. Anatomical localization of shakhagata avadhya shira with special reference to Lohitaksha and Urvi Marma Shelke D.S.- Govt. Ay. College, Nanded 1994. - - 13. A discussion of localization of Shirastha Marma with special reference of identification of Shringataka Marma - Korde N.P.Pune University, 1995. 14. Kakshadhara Marma - rachana and its vaikalyakaratva parikshana (Anatomy of Kakshadhara Marma and its examination in relation of its effect as disability) - Nehre R.K. Govt. Ay. College, Nanded 1995. 15. Vaikalyakara Marma with reference to Kurpara Marma - Mule S.Govt.Ay. College of Nanded - 1996. - -- - 16. Late Stroke rehabilitation using marma therapy A pilot study Starr J.M., Petty R, Ali. M, Purkit.D, Impallomeni. M Geriatrics Services Unit, Royal P.G. Medical School, Hammersmith Hospital, London, U.K. 293
 
 ---
-

@@ -1,4 +1,13 @@
-# Charaka Samhita (English translation) by Shree Gulabkunverba Ayurvedic Society
+---
+title: "Charaka Samhita (English translation) by Shree Gulabkunverba Ayurvedic Society"
+silo: "canonical-texts"
+slug: "charaka_samhita_english_translation_by_shree_gulabkunverba"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Samhita (by Caraka) deals with Ayurveda (also ‘the science of life’) and includes eight sections dealing with Sutrasthana (general principles), Nidanasthana (pathology), Vimanasthana (training), Sh..."
+---
 
 **Author / Source:** by Shree Gulabkunverba Ayurvedic Society
 
@@ -23188,4 +23197,3 @@ Cikitsasthana (Cikitsa Sthana) — Section on Therapeutics
 - Sub-Contents: (+ / -)
 
 ---
-

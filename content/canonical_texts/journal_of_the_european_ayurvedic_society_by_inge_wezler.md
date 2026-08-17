@@ -1,4 +1,13 @@
-# Journal of the European Ayurvedic Society  by Inge Wezler
+---
+title: "Journal of the European Ayurvedic Society  by Inge Wezler"
+silo: "canonical-texts"
+slug: "journal_of_the_european_ayurvedic_society_by_inge_wezler"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "focuses on research on Indian medicine."
+---
 
 **Author / Source:** by Inge Wezler
 
@@ -3567,4 +3576,3 @@ AYURVEDIC SCIENCE CONTRIBUTIONEmphasis on fruit characters, until then neglected
 20. T. Deroin, J. Liyanaratne, Plant Names ... 25 4 3 2 a 2 b 1 cm
 
 ---
-

@@ -1,4 +1,13 @@
-# Rasa Jala Nidhi, vol 2: Minerals (uparasa) by Bhudeb Mookerjee
+---
+title: "Rasa Jala Nidhi, vol 2: Minerals (uparasa) by Bhudeb Mookerjee"
+silo: "canonical-texts"
+slug: "rasa_jala_nidhi_vol_2_minerals_uparasa_by_bhudeb_mookerj"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the p..."
+---
 
 **Author / Source:** by Bhudeb Mookerjee
 
@@ -4192,4 +4201,3 @@ This concludes ‘Use of essence of Makshika’ included in Bhudeb Mookerjee Ras
 
 
 ---
-

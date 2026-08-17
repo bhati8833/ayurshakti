@@ -1,4 +1,13 @@
-# Sushruta Samhita, Volume 5: Kalpasthana by Kaviraj Kunja Lal Bhishagratna
+---
+title: "Sushruta Samhita, Volume 5: Kalpasthana by Kaviraj Kunja Lal Bhishagratna"
+silo: "canonical-texts"
+slug: "sushruta_samhita_volume_5_kalpasthana_by_kaviraj_kunja_lal"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Samhita is the most representative work of the Hindu system of medicine."
+---
 
 **Author / Source:** by Kaviraj Kunja Lal Bhishagratna
 
@@ -1178,4 +1187,3 @@ Dallana explains “Śita-śiva” to mean “camphor”. Others explain it to m
 The text has “Śvetā” in the dual number meaning the two kinds of “Śvetā” viz; white Vaca and white Aparājitā. Dallana gives only “Vacā” as its synonym, which shows he takes the word in the singular number and not in the dual as in the printed text. This appears to be the correct reading, for otherwise the number of the drugs in the list would be more than eighty-five.
 
 ---
-

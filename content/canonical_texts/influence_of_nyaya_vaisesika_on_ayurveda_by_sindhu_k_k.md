@@ -1,4 +1,13 @@
-# Influence of Nyaya-Vaisesika on Ayurveda  by Sindhu K. K.
+---
+title: "Influence of Nyaya-Vaisesika on Ayurveda  by Sindhu K. K."
+silo: "canonical-texts"
+slug: "influence_of_nyaya_vaisesika_on_ayurveda_by_sindhu_k_k"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study researches the influence of Nyaya and Vaisheshika on Ayurveda."
+---
 
 **Author / Source:** by Sindhu K. K.
 
@@ -1326,4 +1335,3 @@ yugapat samana visistadravyopayogat pravrttirdhatusamyarupa bhavati |  Cakrapani
 111 laksanam manaso jnanasyabhavo bhava eva ca | iti hyatmendriyarthanam sannikarse na vartate |  Caraka Sarnhita Sarirasthana , I. 18 112 yugapajjnananutpattirmanaso lingam |  Nyaya Sutra , 1.1.16 atmendriyartha sannikarsajnanasya bhavo'bhavasca manaso limgam |  Vaisesika Sutra , III. 2.1 113 C.C.Sa., I.20-21. 114 Vaisesika Sutra , V.2.16 115 Caraka Sarnhita Sarirasthana , I.8. 116 Vaisesika Sutra , V.2.18 117 Caraka Sarnhita Sarirasthana , I.142. 118 Caraka Sarnhita Sarirasthana , I.116-117. 257
 
 ---
-

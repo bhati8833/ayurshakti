@@ -1,4 +1,13 @@
-# Atharvaveda and Charaka Samhita by Laxmi Maji
+---
+title: "Atharvaveda and Charaka Samhita by Laxmi Maji"
+silo: "canonical-texts"
+slug: "atharvaveda_and_charaka_samhita_by_laxmi_maji"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study on diseases and remedies found in the Atharvaveda and Charaka-samhita."
+---
 
 **Author / Source:** by Laxmi Maji
 
@@ -13498,4 +13507,3 @@ To sum up, both Atharvaveda and Caraka-Saṃhitā describe different diseases an
 It is important to understand the ancient treatment process so that we can implement such treatment in our society which is a healthier alternative treatment system based on organic plant-based remedial processes.
 
 ---
-

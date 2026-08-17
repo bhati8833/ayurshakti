@@ -1,4 +1,13 @@
-# Indian Medicinal Plants * by Kanhoba Ranchoddas Kirtikar
+---
+title: "Indian Medicinal Plants * by Kanhoba Ranchoddas Kirtikar"
+silo: "canonical-texts"
+slug: "indian_medicinal_plants_by_kanhoba_ranchoddas_kirtikar"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study of the subject by the establishment of the Asiatic Society of Bengal."
+---
 
 **Author / Source:** by Kanhoba Ranchoddas Kirtikar
 
@@ -1034,4 +1043,3 @@ Notes
 - Sub-Contents: (+ / -)
 
 ---
-

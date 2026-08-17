@@ -1,4 +1,13 @@
-# Agriculture and Animal husbandry in the Puranas by Purboshri Borpuzari
+---
+title: "Agriculture and Animal husbandry in the Puranas by Purboshri Borpuzari"
+silo: "canonical-texts"
+slug: "agriculture_and_animal_husbandry_in_the_puranas_by_purboshri"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study on agriculture and animal husbandry in the Puranas—a category of Sanskrit literature describing the culture and heritage of ancient Indian society."
+---
 
 **Author / Source:** by Purboshri Borpuzari
 
@@ -13153,4 +13162,3 @@ The Purāṇas are one of the foremost contributors of agriculture and animal hu
 These were the pioneers of agriculture who knew farming very well and wrote texts like Bṛhatsaṃhitā, Arthaśāstra, Kāśyapīyakṛṣisūkti, Kṛṣi-parāśara, Vṛksāyurveda, Upavana-Vinoda and Viśvavallabha, in Sanskrit. We came to know that before the advent of modern science and technology, the process of agriculture and animal husbandry was fully known by the ancient Indians. Even today, in the modern age of 21st century, many Indian farmers follow the indigenous or traditional methods or techniques which have been laid down in our ancient treatises long ago. Hence, it is apparent from the above discussion that modern agriculturists unquestionably are indebted to the ancient treatises like the Vedas and the Purāṇas, since most of the techniques and methods of agriculture and animal husbandry are borrowed by our modern farmers from these ancient treatises.
 
 ---
-

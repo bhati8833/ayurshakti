@@ -1,4 +1,13 @@
-# Sushruta Samhita, Volume 6: Uttara-tantra by Kaviraj Kunja Lal Bhishagratna
+---
+title: "Sushruta Samhita, Volume 6: Uttara-tantra by Kaviraj Kunja Lal Bhishagratna"
+silo: "canonical-texts"
+slug: "sushruta_samhita_volume_6_uttara_tantra_by_kaviraj_kunja_l"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "samhita and deals various subjects such as diseases of the eye, treatment of fever, diarrhea, diseases resulting from superhuman influences, insanity, rules of health etc."
+---
 
 **Author / Source:** by Kaviraj Kunja Lal Bhishagratna
 
@@ -6694,4 +6703,3 @@ Footnotes and references:
 Exchange or reciprocity of services underlies the foundation of all distinct and cognitive existences, whether beasts, men or gods. The worlds are linked to one another by bonds of service. Give-and-take is the law of the universe. Duty implies obligation.
 
 ---
-

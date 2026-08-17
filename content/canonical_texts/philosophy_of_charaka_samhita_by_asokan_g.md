@@ -1,4 +1,13 @@
-# Philosophy of Charaka-samhita by Asokan. G
+---
+title: "Philosophy of Charaka-samhita by Asokan. G"
+silo: "canonical-texts"
+slug: "philosophy_of_charaka_samhita_by_asokan_g"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "samhita, ascribed to the great celebrity Charaka, has got three strata."
+---
 
 **Author / Source:** by Asokan. G
 
@@ -9316,4 +9325,3 @@ In brief, Carakasaṃhitā is a complete book which contains deliberations and i
 In concluding the thesis, it would not be improper to point out that at least some among the Āyurvedic community too frequently take the attitude of comparing the therapeutic principles with those in the Western medical science which is purely experimental and objective oriented. Consequently, they often forget to give due attention to the philosophical concepts in which the fundamental principles of treatment are rooted. It is unfortunate. If the reason is the risk factor of probability and precision, plausibility and demonstrability in the practice of Āyurvada, it is the same for Western medicine also. So it is not the actual reason. The actual reason is that we are prone to think whatever that is contributed by Western science is faultless. What is needed is that the physicians who are willing to push the limit of the theoretical constructs of Āyurveda have to work along original lines either to show the flaws or to justify them. At any rate, it is essential to address the philosophical abstractions. It would at least help us to bridge the gulf between ethical reasoning and scientific reasoning. Correct philosophical pursuit creates the way for entering the domain of consciousness. A fuller grasp of the philosophy of Caraka could possibly provide improved interpretative perspectives for the understanding of the underlying complex systems of knowledge, archaic notions and values. It offers insights in understanding Āyurveda as a whole.
 
 ---
-

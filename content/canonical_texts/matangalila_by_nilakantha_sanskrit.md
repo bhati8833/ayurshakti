@@ -1,5 +1,13 @@
-# Matangalila by Nilakantha [Sanskrit]
-
+---
+title: "Matangalila by Nilakantha [Sanskrit]"
+silo: "canonical-texts"
+slug: "matangalila_by_nilakantha_sanskrit"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Unabridged classical Sanskrit medical text and chapter overview of Matangalila by Nilakantha [Sanskrit]."
+---
 
 **Total Chapters/Sections:** 12
 
@@ -88,4 +96,3 @@
 
 
 ---
-

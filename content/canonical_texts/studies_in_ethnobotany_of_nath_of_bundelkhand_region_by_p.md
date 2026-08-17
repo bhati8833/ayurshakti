@@ -1,4 +1,13 @@
-# Studies in Ethnobotany of ‘Nath’ of Bundelkhand region  by Praveen Kumar Khare
+---
+title: "Studies in Ethnobotany of ‘Nath’ of Bundelkhand region  by Praveen Kumar Khare"
+silo: "canonical-texts"
+slug: "studies_in_ethnobotany_of_nath_of_bundelkhand_region_by_p"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "presents a convergence of diverse meteorological, climatic, and floral conditions, which provides unique opportunities for ethnobotanical research."
+---
 
 **Author / Source:** by Praveen Kumar Khare
 
@@ -597,4 +606,3 @@ CYPERACEAE 258. Eleocharis dulcis, (Burm. f.) Trinius. (Shuri ghas), Herb #Washe
 268. Sorghum vulgare, Linn. (Pers) (Jowar), Herb Flour is said to be useful to control diabities. Young plant is used as fooder. Loc. Ghatera. Mahoba (U.P.) 1044. Ethn.dist. Bundelkhand. 269. Triticum vulgare, Vill. (Gehun), Herb Loc. The seeds are soaked in the water for 48 hours, the soaked seeds are dried and powdered with the flower buds of cloves. The powder is fried in geee and taken orally during migrain. Bharwa Sumerpur, Hamirpur (U.P.) 1596. Ethn.dist. Bundelkhand. 270. Vetiveria zizanioides, Linn. (Khas), Herb Loc. # The root is grinded and made into paste, it is applied externally for the treatment of scorpion sting. The roots are used for making mats. Devgaon, Hamirpur (U.P.) 1232. Ethn.dist. India (Khanna and Mudgal, 1992), Uttar Pradesh (Khanna et. al., 1996, Saini, 1996), Rajasthan ( Das, 1997) Madhya Pradesh (Vivek Kumar & S.K.Jain, 1998; Samvatsar and Diwan Ji. 1999). CRYPTOGAMS SELAGINELLAE 271. Selaginella bryopteris, (L) Baker. (Kamraj), Herb The plant is pounded and taken orally during genral debility. The plant is boild with brassica oil and filtered, this oil is used !
 
 ---
-

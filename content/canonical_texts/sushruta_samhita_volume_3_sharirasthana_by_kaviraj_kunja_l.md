@@ -1,4 +1,13 @@
-# Sushruta Samhita, volume 3: Sharirasthana by Kaviraj Kunja Lal Bhishagratna
+---
+title: "Sushruta Samhita, volume 3: Sharirasthana by Kaviraj Kunja Lal Bhishagratna"
+silo: "canonical-texts"
+slug: "sushruta_samhita_volume_3_sharirasthana_by_kaviraj_kunja_l"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Samhita is the most representative work of the Hindu system of medicine."
+---
 
 **Author / Source:** by Kaviraj Kunja Lal Bhishagratna
 
@@ -1918,4 +1927,3 @@ Some, however, explain Matsyakshaka to be Dhustura; others again say it is a kin
 The word “Shveta,” in the Text, may either be adjective to “Durva” and mean “white” or it may mean white Vaca or white Aparajita or white Durva.
 
 ---
-

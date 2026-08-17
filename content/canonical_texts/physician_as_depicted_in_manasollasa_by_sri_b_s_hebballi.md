@@ -1,4 +1,13 @@
-# Physician as depicted in Manasollasa  by Sri B. S. Hebballi
+---
+title: "Physician as depicted in Manasollasa  by Sri B. S. Hebballi"
+silo: "canonical-texts"
+slug: "physician_as_depicted_in_manasollasa_by_sri_b_s_hebballi"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "explores the connection between mind and body health, emphasizing the influence of diet and actions."
+---
 
 **Author / Source:** by Sri B. S. Hebballi
 
@@ -1154,4 +1163,3 @@ Appendix Glossary of Selected Sanskrit Words astamga -  Eight parts of Ayurveda 
 276 or Hindu. Thus, according to them, there are all Hindus towards the east of Sindhu. - 167. Persons working in defence of a nation. Gradually it became a caste in India. 168. tridosa  www. The biophysical organic phenomena complex in Ayurveda. Tridosa are as below:- 169. jnana  170. jnata  1) 2) • Actomorphic biophysical phenomena complex. Mexomorphic biophysical phenomena complex. 3) Endomorphic biophysical phenomena complex. Sp A knowledge through the centripetal forces of the brain. The subjective of a knowledge. 171. The object of a knowledge.
 
 ---
-

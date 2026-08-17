@@ -1,4 +1,13 @@
-# Rasa Jala Nidhi, vol 3: Metals, Gems and other substances by Bhudeb Mookerjee
+---
+title: "Rasa Jala Nidhi, vol 3: Metals, Gems and other substances by Bhudeb Mookerjee"
+silo: "canonical-texts"
+slug: "rasa_jala_nidhi_vol_3_metals_gems_and_other_substances_by"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study of a pharmacopoea of drugs prepared mainly from minerals—a pharmacopoea of a colossal magnitude, prepared, in pre-historic times, by the ancient Indians."
+---
 
 **Author / Source:** by Bhudeb Mookerjee
 
@@ -7941,4 +7950,3 @@ Conclusion:
 This concludes ‘Gems (6): Gomeda (zercon)’ included in Bhudeb Mookerjee Rasa Jala Nidhi, vol 3: Initiation, Mercury and Laboratory. The text includes treatments, recipes and remedies and is categorised as Rasa Shastra: an important branch of Ayurveda that specialises in medicinal/ herbal chemistry, alchemy and mineralogy, for the purpose of prolonging and preserving life.
 
 ---
-

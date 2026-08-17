@@ -1,4 +1,13 @@
-# Kshemakutuhala by Kshemasharma (critical study)  by Hiteshbhai Vrajalal Bhuptani
+---
+title: "Kshemakutuhala by Kshemasharma (critical study)  by Hiteshbhai Vrajalal Bhuptani"
+silo: "canonical-texts"
+slug: "kshemakutuhala_by_kshemasharma_critical_study_by_hiteshbh"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "study of the Kshemakutuhala by Kshemasharma—an ancient Indian text rooted in the sciences of Dietology, Nutrition, Cookery, and Hygiene, as interpreted through Ayurvedic principles."
+---
 
 **Author / Source:** by Hiteshbhai Vrajalal Bhuptani
 
@@ -1539,4 +1548,3 @@ gr p } i * } 487 Rks a (Un-Unctuous): The Rksa substances are Reducing or Defatt
 i 488 Y } $ Cala or Sara (Mobile): The substances that bestow motion to the body or its parts in a desired direction are Cala or Sara. Suksma (Substle): All substances that manage to spread quickly throughout the body externally as well as internally are Suksma They produce no pain by their action. ! Sthula (Gross): The substances that bestow softness and rounded form on our body are Sthula. Fatty and nutrious food substances are generally Sthula. Visada (Non-Slimy): The substances which manage to remove wetness from the body are Visada. Picchila (Slimy): The Picchila substances spread over the bodyparts and are maintained wet thereupon for a considerable length of time. : The above mentioned twenty Physical Properties are found in Living whether of Vegetable kingdom or the Animal. Unless one is fully acquinted with the practical meaning of these terms, it is impossible to realise the value of food materials and herbs.
 
 ---
-

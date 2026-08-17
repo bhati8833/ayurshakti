@@ -1,4 +1,13 @@
-# Minerals and Metals in Sanskrit literature  by Sulekha Biswas
+---
+title: "Minerals and Metals in Sanskrit literature  by Sulekha Biswas"
+silo: "canonical-texts"
+slug: "minerals_and_metals_in_sanskrit_literature_by_sulekha_biswa"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "examines the evolutio."
+---
 
 **Author / Source:** by Sulekha Biswas
 
@@ -2379,4 +2388,3 @@ E-8 SESA onyx SODHANA purification SORA SORA saltpetre KNO SATVA/SATTVA metallic
 SRAVANMADHYA asteriated or star sapphire SROTANJANA carrollite SVARNA gold SVARNA MAKSIKA chalcopyrite -1 HARA KASISA green vitriol FeSO HARITALA orpiment (Also lollingite ?) HARINMANI emerald HINGULA cinnabar HIRAKA HIRA diamond mara  Are By deB-9
 
 ---
-

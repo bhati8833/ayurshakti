@@ -1,4 +1,13 @@
-# Matangalila and Hastyayurveda (study) by Chandrima Das
+---
+title: "Matangalila and Hastyayurveda (study) by Chandrima Das"
+silo: "canonical-texts"
+slug: "matangalila_and_hastyayurveda_study_by_chandrima_das"
+author: "Suresh Bhati"
+category: "Canonical Texts & Sanskrit Samhitas"
+status: "Published"
+date: "2026-08-17"
+description: "Texts: Matangalila and Hastyayurveda’ of the study on the Matangalina and Hastyayurveda in the light of available epigraphic data on elephants in ancient India."
+---
 
 **Author / Source:** by Chandrima Das
 
@@ -7066,4 +7075,3 @@ This page relates ‘Appendix I: List of Inscriptions’ of the study on the Mat
 Appendix I: List of Inscriptions
 
 ---
-
