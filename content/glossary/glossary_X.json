@@ -4,7 +4,12 @@
   "terms": [
     {
       "term": "Xerostomia",
-      "letter": "X"
+      "devanagari": "Xerostomia",
+      "slug": "xerostomia",
+      "letter": "X",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'X', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

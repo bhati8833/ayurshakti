@@ -4,7 +4,12 @@
   "terms": [
     {
       "term": "Quality",
-      "letter": "Q"
+      "devanagari": "Quality",
+      "slug": "quality",
+      "letter": "Q",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Q', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

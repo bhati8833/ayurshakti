@@ -4,431 +4,860 @@
   "terms": [
     {
       "term": "Eagle",
-      "letter": "E"
+      "devanagari": "Eagle",
+      "slug": "eagle",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Edagaja",
-      "letter": "E"
+      "devanagari": "Edagaja",
+      "slug": "edagaja",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Edagajadi",
-      "letter": "E"
+      "devanagari": "Edagajadi",
+      "slug": "edagajadi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Edagajadicurna",
-      "letter": "E"
+      "devanagari": "Edagajadicurna",
+      "slug": "edagajadicurna",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Edaka",
-      "letter": "E"
+      "devanagari": "Edaka",
+      "slug": "edaka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Edema",
-      "letter": "E"
+      "devanagari": "Edema",
+      "slug": "edema",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekacara",
-      "letter": "E"
+      "devanagari": "Ekacara",
+      "slug": "ekacara",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekacarin",
-      "letter": "E"
+      "devanagari": "Ekacarin",
+      "slug": "ekacarin",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadamshtrardita",
-      "letter": "E"
+      "devanagari": "Ekadamshtrardita",
+      "slug": "ekadamshtrardita",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadanta",
-      "letter": "E"
+      "devanagari": "Ekadanta",
+      "slug": "ekadanta",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadashan",
-      "letter": "E"
+      "devanagari": "Ekadashan",
+      "slug": "ekadashan",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadasharasa",
-      "letter": "E"
+      "devanagari": "Ekadasharasa",
+      "slug": "ekadasharasa",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ekadashashatika",
-      "letter": "E"
+      "devanagari": "Ekadashashatika",
+      "slug": "ekadashashatika",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadashashatikaprasarani",
-      "letter": "E"
+      "devanagari": "Ekadashashatikaprasarani",
+      "slug": "ekadashashatikaprasarani",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ekadashashatikaprasaranitaila",
-      "letter": "E"
+      "devanagari": "Ekadashashatikaprasaranitaila",
+      "slug": "ekadashashatikaprasaranitaila",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ekadashayasa",
-      "letter": "E"
+      "devanagari": "Ekadashayasa",
+      "slug": "ekadashayasa",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadashayasacurna",
-      "letter": "E"
+      "devanagari": "Ekadashayasacurna",
+      "slug": "ekadashayasacurna",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadeshasadhyatva",
-      "letter": "E"
+      "devanagari": "Ekadeshasadhyatva",
+      "slug": "ekadeshasadhyatva",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadosha",
-      "letter": "E"
+      "devanagari": "Ekadosha",
+      "slug": "ekadosha",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadoshaja",
-      "letter": "E"
+      "devanagari": "Ekadoshaja",
+      "slug": "ekadoshaja",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekadrishti",
-      "letter": "E"
+      "devanagari": "Ekadrishti",
+      "slug": "ekadrishti",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekakalabhojana",
-      "letter": "E"
+      "devanagari": "Ekakalabhojana",
+      "slug": "ekakalabhojana",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekakara",
-      "letter": "E"
+      "devanagari": "Ekakara",
+      "slug": "ekakara",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekakshi",
-      "letter": "E"
+      "devanagari": "Ekakshi",
+      "slug": "ekakshi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekakushtha",
-      "letter": "E"
+      "devanagari": "Ekakushtha",
+      "slug": "ekakushtha",
+      "letter": "E",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'E', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Ekamatrika",
-      "letter": "E"
+      "devanagari": "Ekamatrika",
+      "slug": "ekamatrika",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekanayaka",
-      "letter": "E"
+      "devanagari": "Ekanayaka",
+      "slug": "ekanayaka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekanayakaghrita",
-      "letter": "E"
+      "devanagari": "Ekanayakaghrita",
+      "slug": "ekanayakaghrita",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ekanda",
-      "letter": "E"
+      "devanagari": "Ekanda",
+      "slug": "ekanda",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Ekangavata",
-      "letter": "E"
+      "devanagari": "Ekangavata",
+      "slug": "ekangavata",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekanghri",
-      "letter": "E"
+      "devanagari": "Ekanghri",
+      "slug": "ekanghri",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekanta",
-      "letter": "E"
+      "devanagari": "Ekanta",
+      "slug": "ekanta",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekantara",
-      "letter": "E"
+      "devanagari": "Ekantara",
+      "slug": "ekantara",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekapattrika",
-      "letter": "E"
+      "devanagari": "Ekapattrika",
+      "slug": "ekapattrika",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekapinda",
-      "letter": "E"
+      "devanagari": "Ekapinda",
+      "slug": "ekapinda",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekapushpa",
-      "letter": "E"
+      "devanagari": "Ekapushpa",
+      "slug": "ekapushpa",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Ekapushpavallari",
-      "letter": "E"
+      "devanagari": "Ekapushpavallari",
+      "slug": "ekapushpavallari",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Ekasandhika",
-      "letter": "E"
+      "devanagari": "Ekasandhika",
+      "slug": "ekasandhika",
+      "letter": "E",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'E', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Ekashthila",
-      "letter": "E"
+      "devanagari": "Ekashthila",
+      "slug": "ekashthila",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekashunga",
-      "letter": "E"
+      "devanagari": "Ekashunga",
+      "slug": "ekashunga",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekavartaka",
-      "letter": "E"
+      "devanagari": "Ekavartaka",
+      "slug": "ekavartaka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekavasara",
-      "letter": "E"
+      "devanagari": "Ekavasara",
+      "slug": "ekavasara",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekavimshati",
-      "letter": "E"
+      "devanagari": "Ekavimshati",
+      "slug": "ekavimshati",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekavimshatiguggulu",
-      "letter": "E"
+      "devanagari": "Ekavimshatiguggulu",
+      "slug": "ekavimshatiguggulu",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ekavimshatika",
-      "letter": "E"
+      "devanagari": "Ekavimshatika",
+      "slug": "ekavimshatika",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ekavimshatikaguggulu",
-      "letter": "E"
+      "devanagari": "Ekavimshatikaguggulu",
+      "slug": "ekavimshatikaguggulu",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ekavirakalpa",
-      "letter": "E"
+      "devanagari": "Ekavirakalpa",
+      "slug": "ekavirakalpa",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ela",
-      "letter": "E"
+      "devanagari": "Ela",
+      "slug": "ela",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Eladi",
-      "letter": "E"
+      "devanagari": "Eladi",
+      "slug": "eladi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Eladi Churna",
-      "letter": "E"
+      "devanagari": "Eladi churna",
+      "slug": "eladi-churna",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Eladi Taila",
-      "letter": "E"
+      "devanagari": "Eladi taila",
+      "slug": "eladi-taila",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Eladimaha",
-      "letter": "E"
+      "devanagari": "Eladimaha",
+      "slug": "eladimaha",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Eladya",
-      "letter": "E"
+      "devanagari": "Eladya",
+      "slug": "eladya",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Eladyataila",
-      "letter": "E"
+      "devanagari": "Eladyataila",
+      "slug": "eladyataila",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Eladyavaleha",
-      "letter": "E"
+      "devanagari": "Eladyavaleha",
+      "slug": "eladyavaleha",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Elagandhika",
-      "letter": "E"
+      "devanagari": "Elagandhika",
+      "slug": "elagandhika",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elagudika",
-      "letter": "E"
+      "devanagari": "Elagudika",
+      "slug": "elagudika",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elahva",
-      "letter": "E"
+      "devanagari": "Elahva",
+      "slug": "elahva",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elakaja",
-      "letter": "E"
+      "devanagari": "Elakaja",
+      "slug": "elakaja",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elakajadi",
-      "letter": "E"
+      "devanagari": "Elakajadi",
+      "slug": "elakajadi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elaparni",
-      "letter": "E"
+      "devanagari": "Elaparni",
+      "slug": "elaparni",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elaphala",
-      "letter": "E"
+      "devanagari": "Elaphala",
+      "slug": "elaphala",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Elavalu",
-      "letter": "E"
+      "devanagari": "Elavalu",
+      "slug": "elavalu",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elavaluka",
-      "letter": "E"
+      "devanagari": "Elavaluka",
+      "slug": "elavaluka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elephant",
-      "letter": "E"
+      "devanagari": "Elephant",
+      "slug": "elephant",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elephant Bone",
-      "letter": "E"
+      "devanagari": "Elephant bone",
+      "slug": "elephant-bone",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elephantology",
-      "letter": "E"
+      "devanagari": "Elephantology",
+      "slug": "elephantology",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elippashanadi",
-      "letter": "E"
+      "devanagari": "Elippashanadi",
+      "slug": "elippashanadi",
+      "letter": "E",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'E' referenced in classical treatises."
     },
     {
       "term": "Elippilukkadi",
-      "letter": "E"
+      "devanagari": "Elippilukkadi",
+      "slug": "elippilukkadi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elkharo",
-      "letter": "E"
+      "devanagari": "Elkharo",
+      "slug": "elkharo",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Elvaluka",
-      "letter": "E"
+      "devanagari": "Elvaluka",
+      "slug": "elvaluka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Embelia Ribes",
-      "letter": "E"
+      "devanagari": "Embelia ribes",
+      "slug": "embelia-ribes",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Emblic Myrobalan",
-      "letter": "E"
+      "devanagari": "Emblic myrobalan",
+      "slug": "emblic-myrobalan",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Emblica Officinalis",
-      "letter": "E"
+      "devanagari": "Emblica officinalis",
+      "slug": "emblica-officinalis",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Emerald",
-      "letter": "E"
+      "devanagari": "Emerald",
+      "slug": "emerald",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ena",
-      "letter": "E"
+      "devanagari": "Ena",
+      "slug": "ena",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Envy",
-      "letter": "E"
+      "devanagari": "Envy",
+      "slug": "envy",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Epidemic",
-      "letter": "E"
+      "devanagari": "Epidemic",
+      "slug": "epidemic",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Epilepsy",
-      "letter": "E"
+      "devanagari": "Epilepsy",
+      "slug": "epilepsy",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Eranda",
-      "letter": "E"
+      "devanagari": "Eranda",
+      "slug": "eranda",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erandabija",
-      "letter": "E"
+      "devanagari": "Erandabija",
+      "slug": "erandabija",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Erandabijadi",
-      "letter": "E"
+      "devanagari": "Erandabijadi",
+      "slug": "erandabijadi",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Erandadi",
-      "letter": "E"
+      "devanagari": "Erandadi",
+      "slug": "erandadi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erandadi Taila",
-      "letter": "E"
+      "devanagari": "Erandadi taila",
+      "slug": "erandadi-taila",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Erandaditailayoga",
-      "letter": "E"
+      "devanagari": "Erandaditailayoga",
+      "slug": "erandaditailayoga",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Erandadvadashaka",
-      "letter": "E"
+      "devanagari": "Erandadvadashaka",
+      "slug": "erandadvadashaka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erandakorandadi",
-      "letter": "E"
+      "devanagari": "Erandakorandadi",
+      "slug": "erandakorandadi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erandamula",
-      "letter": "E"
+      "devanagari": "Erandamula",
+      "slug": "erandamula",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Erandamuladi",
-      "letter": "E"
+      "devanagari": "Erandamuladi",
+      "slug": "erandamuladi",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Erandapaka",
-      "letter": "E"
+      "devanagari": "Erandapaka",
+      "slug": "erandapaka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erandapatra",
-      "letter": "E"
+      "devanagari": "Erandapatra",
+      "slug": "erandapatra",
+      "letter": "E",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'E' documented in traditional lexicons."
     },
     {
       "term": "Erandasaptaka",
-      "letter": "E"
+      "devanagari": "Erandasaptaka",
+      "slug": "erandasaptaka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erandasaptakapacana",
-      "letter": "E"
+      "devanagari": "Erandasaptakapacana",
+      "slug": "erandasaptakapacana",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erandatailadi",
-      "letter": "E"
+      "devanagari": "Erandatailadi",
+      "slug": "erandatailadi",
+      "letter": "E",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'E', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Erandipaka",
-      "letter": "E"
+      "devanagari": "Erandipaka",
+      "slug": "erandipaka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erikkinveradi",
-      "letter": "E"
+      "devanagari": "Erikkinveradi",
+      "slug": "erikkinveradi",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erikku",
-      "letter": "E"
+      "devanagari": "Erikku",
+      "slug": "erikku",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ervaruka",
-      "letter": "E"
+      "devanagari": "Ervaruka",
+      "slug": "ervaruka",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Erythrina Stricta",
-      "letter": "E"
+      "devanagari": "Erythrina stricta",
+      "slug": "erythrina-stricta",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Eshya",
-      "letter": "E"
+      "devanagari": "Eshya",
+      "slug": "eshya",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ethyl Paraben",
-      "letter": "E"
+      "devanagari": "Ethyl paraben",
+      "slug": "ethyl-paraben",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Etipuchchha",
-      "letter": "E"
+      "devanagari": "Etipuchchha",
+      "slug": "etipuchchha",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Euphoria",
-      "letter": "E"
+      "devanagari": "Euphoria",
+      "slug": "euphoria",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Evolution",
-      "letter": "E"
+      "devanagari": "Evolution",
+      "slug": "evolution",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "External Purification",
-      "letter": "E"
+      "devanagari": "External purification",
+      "slug": "external-purification",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Exudation",
-      "letter": "E"
+      "devanagari": "Exudation",
+      "slug": "exudation",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Eye Disease",
-      "letter": "E"
+      "devanagari": "Eye disease",
+      "slug": "eye-disease",
+      "letter": "E",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'E', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

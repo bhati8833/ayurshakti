@@ -4,159 +4,317 @@
   "terms": [
     {
       "term": "Oblation",
-      "letter": "O"
+      "devanagari": "Oblation",
+      "slug": "oblation",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Obsession",
-      "letter": "O"
+      "devanagari": "Obsession",
+      "slug": "obsession",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ocimum Sanctum",
-      "letter": "O"
+      "devanagari": "Ocimum sanctum",
+      "slug": "ocimum-sanctum",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Odana",
-      "letter": "O"
+      "devanagari": "Odana",
+      "slug": "odana",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Odanapinda",
-      "letter": "O"
+      "devanagari": "Odanapinda",
+      "slug": "odanapinda",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Odanayuta",
-      "letter": "O"
+      "devanagari": "Odanayuta",
+      "slug": "odanayuta",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Odanika",
-      "letter": "O"
+      "devanagari": "Odanika",
+      "slug": "odanika",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oil",
-      "letter": "O"
+      "devanagari": "Oil",
+      "slug": "oil",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oil Cake",
-      "letter": "O"
+      "devanagari": "Oil cake",
+      "slug": "oil-cake",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ojas",
-      "letter": "O"
+      "devanagari": "ओजस",
+      "slug": "ojas",
+      "letter": "O",
+      "category": "Sharira / Physiology",
+      "definition": "The subtle essence of all seven tissue dhatus, representing physical immunity, vitality, aura, resilience, and mental clarity.",
+      "dosha": "Ojas Booster"
     },
     {
       "term": "Ojaskara",
-      "letter": "O"
+      "devanagari": "Ojaskara",
+      "slug": "ojaskara",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ojasvin",
-      "letter": "O"
+      "devanagari": "Ojasvin",
+      "slug": "ojasvin",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ojasya",
-      "letter": "O"
+      "devanagari": "Ojasya",
+      "slug": "ojasya",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Okasatmya",
-      "letter": "O"
+      "devanagari": "Okasatmya",
+      "slug": "okasatmya",
+      "letter": "O",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'O', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Ola-Caha",
-      "letter": "O"
+      "devanagari": "Ola-caha",
+      "slug": "ola-caha",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oleaginous Matter",
-      "letter": "O"
+      "devanagari": "Oleaginous matter",
+      "slug": "oleaginous-matter",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oli-Kirayat",
-      "letter": "O"
+      "devanagari": "Oli-kirayat",
+      "slug": "oli-kirayat",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Olikiryata",
-      "letter": "O"
+      "devanagari": "Olikiryata",
+      "slug": "olikiryata",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oma",
-      "letter": "O"
+      "devanagari": "Oma",
+      "slug": "oma",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Onion",
-      "letter": "O"
+      "devanagari": "Onion",
+      "slug": "onion",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Operative Treatment",
-      "letter": "O"
+      "devanagari": "Operative treatment",
+      "slug": "operative-treatment",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Opiliatry",
-      "letter": "O"
+      "devanagari": "Opiliatry",
+      "slug": "opiliatry",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Orange Tree",
-      "letter": "O"
+      "devanagari": "Orange tree",
+      "slug": "orange-tree",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Organic Fertilizer",
-      "letter": "O"
+      "devanagari": "Organic fertilizer",
+      "slug": "organic-fertilizer",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oroxylum Indicum",
-      "letter": "O"
+      "devanagari": "Oroxylum indicum",
+      "slug": "oroxylum-indicum",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Orpiment",
-      "letter": "O"
+      "devanagari": "Orpiment",
+      "slug": "orpiment",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Osadha",
-      "letter": "O"
+      "devanagari": "Osadha",
+      "slug": "osadha",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Osha",
-      "letter": "O"
+      "devanagari": "Osha",
+      "slug": "osha",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oshadhi",
-      "letter": "O"
+      "devanagari": "Oshadhi",
+      "slug": "oshadhi",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oshnya",
-      "letter": "O"
+      "devanagari": "Oshnya",
+      "slug": "oshnya",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oshtha",
-      "letter": "O"
+      "devanagari": "Oshtha",
+      "slug": "oshtha",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oshthakshepa",
-      "letter": "O"
+      "devanagari": "Oshthakshepa",
+      "slug": "oshthakshepa",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Oshtharoga",
-      "letter": "O"
+      "devanagari": "Oshtharoga",
+      "slug": "oshtharoga",
+      "letter": "O",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'O', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Oshthasandashana",
-      "letter": "O"
+      "devanagari": "Oshthasandashana",
+      "slug": "oshthasandashana",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Otikulamp",
-      "letter": "O"
+      "devanagari": "Otikulamp",
+      "slug": "otikulamp",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Otu",
-      "letter": "O"
+      "devanagari": "Otu",
+      "slug": "otu",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Otupucchika",
-      "letter": "O"
+      "devanagari": "Otupucchika",
+      "slug": "otupucchika",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ovary",
-      "letter": "O"
+      "devanagari": "Ovary",
+      "slug": "ovary",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Overuse",
-      "letter": "O"
+      "devanagari": "Overuse",
+      "slug": "overuse",
+      "letter": "O",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'O', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

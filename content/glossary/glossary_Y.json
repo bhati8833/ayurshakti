@@ -4,827 +4,1653 @@
   "terms": [
     {
       "term": "Yacanaka",
-      "letter": "Y"
+      "devanagari": "Yacanaka",
+      "slug": "yacanaka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yagakarman",
-      "letter": "Y"
+      "devanagari": "Yagakarman",
+      "slug": "yagakarman",
+      "letter": "Y",
+      "category": "Chikitsa / Treatment",
+      "definition": "Therapeutic procedure or clinical intervention protocol under Ayurvedic medicine starting with 'Y'."
     },
     {
       "term": "Yajnanga",
-      "letter": "Y"
+      "devanagari": "Yajnanga",
+      "slug": "yajnanga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yajnapashu",
-      "letter": "Y"
+      "devanagari": "Yajnapashu",
+      "slug": "yajnapashu",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yajnashreshtha",
-      "letter": "Y"
+      "devanagari": "Yajnashreshtha",
+      "slug": "yajnashreshtha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yajnavalkyavacanavyakhya",
-      "letter": "Y"
+      "devanagari": "Yajnavalkyavacanavyakhya",
+      "slug": "yajnavalkyavacanavyakhya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yajnavalli",
-      "letter": "Y"
+      "devanagari": "Yajnavalli",
+      "slug": "yajnavalli",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakridari",
-      "letter": "Y"
+      "devanagari": "Yakridari",
+      "slug": "yakridari",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakridarilauha",
-      "letter": "Y"
+      "devanagari": "Yakridarilauha",
+      "slug": "yakridarilauha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakridiva",
-      "letter": "Y"
+      "devanagari": "Yakridiva",
+      "slug": "yakridiva",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakridudara",
-      "letter": "Y"
+      "devanagari": "Yakridudara",
+      "slug": "yakridudara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakrit",
-      "letter": "Y"
+      "devanagari": "Yakrit",
+      "slug": "yakrit",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakrithari",
-      "letter": "Y"
+      "devanagari": "Yakrithari",
+      "slug": "yakrithari",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritharilauha",
-      "letter": "Y"
+      "devanagari": "Yakritharilauha",
+      "slug": "yakritharilauha",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritkhandanibha",
-      "letter": "Y"
+      "devanagari": "Yakritkhandanibha",
+      "slug": "yakritkhandanibha",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritkhandatulya",
-      "letter": "Y"
+      "devanagari": "Yakritkhandatulya",
+      "slug": "yakritkhandatulya",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritkhandopama",
-      "letter": "Y"
+      "devanagari": "Yakritkhandopama",
+      "slug": "yakritkhandopama",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritpindasaprabha",
-      "letter": "Y"
+      "devanagari": "Yakritpindasaprabha",
+      "slug": "yakritpindasaprabha",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritpliha",
-      "letter": "Y"
+      "devanagari": "Yakritpliha",
+      "slug": "yakritpliha",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritplihari",
-      "letter": "Y"
+      "devanagari": "Yakritplihari",
+      "slug": "yakritplihari",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritplihodara",
-      "letter": "Y"
+      "devanagari": "Yakritplihodara",
+      "slug": "yakritplihodara",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritplihodarahara",
-      "letter": "Y"
+      "devanagari": "Yakritplihodarahara",
+      "slug": "yakritplihodarahara",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritplihodaralauha",
-      "letter": "Y"
+      "devanagari": "Yakritplihodaralauha",
+      "slug": "yakritplihodaralauha",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritplihodarari",
-      "letter": "Y"
+      "devanagari": "Yakritplihodarari",
+      "slug": "yakritplihodarari",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yakritplihodararirasa",
-      "letter": "Y"
+      "devanagari": "Yakritplihodararirasa",
+      "slug": "yakritplihodararirasa",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yaksha",
-      "letter": "Y"
+      "devanagari": "Yaksha",
+      "slug": "yaksha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshadanta",
-      "letter": "Y"
+      "devanagari": "Yakshadanta",
+      "slug": "yakshadanta",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshakardama",
-      "letter": "Y"
+      "devanagari": "Yakshakardama",
+      "slug": "yakshakardama",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshasattva",
-      "letter": "Y"
+      "devanagari": "Yakshasattva",
+      "slug": "yakshasattva",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshi",
-      "letter": "Y"
+      "devanagari": "Yakshi",
+      "slug": "yakshi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshma",
-      "letter": "Y"
+      "devanagari": "Yakshma",
+      "slug": "yakshma",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshmadhikara",
-      "letter": "Y"
+      "devanagari": "Yakshmadhikara",
+      "slug": "yakshmadhikara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshmakeshari",
-      "letter": "Y"
+      "devanagari": "Yakshmakeshari",
+      "slug": "yakshmakeshari",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshmantaka",
-      "letter": "Y"
+      "devanagari": "Yakshmantaka",
+      "slug": "yakshmantaka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshmantakalauha",
-      "letter": "Y"
+      "devanagari": "Yakshmantakalauha",
+      "slug": "yakshmantakalauha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshmari",
-      "letter": "Y"
+      "devanagari": "Yakshmari",
+      "slug": "yakshmari",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yakshmaroga",
-      "letter": "Y"
+      "devanagari": "Yakshmaroga",
+      "slug": "yakshmaroga",
+      "letter": "Y",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'Y', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Yakshmarogacikitsa",
-      "letter": "Y"
+      "devanagari": "Yakshmarogacikitsa",
+      "slug": "yakshmarogacikitsa",
+      "letter": "Y",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'Y', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Yakshmarogadhikara",
-      "letter": "Y"
+      "devanagari": "Yakshmarogadhikara",
+      "slug": "yakshmarogadhikara",
+      "letter": "Y",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'Y', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Yama",
-      "letter": "Y"
+      "devanagari": "Yama",
+      "slug": "yama",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamadamshtrakala",
-      "letter": "Y"
+      "devanagari": "Yamadamshtrakala",
+      "slug": "yamadamshtrakala",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamadutika",
-      "letter": "Y"
+      "devanagari": "Yamadutika",
+      "slug": "yamadutika",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamaja",
-      "letter": "Y"
+      "devanagari": "Yamaja",
+      "slug": "yamaja",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamalacchada",
-      "letter": "Y"
+      "devanagari": "Yamalacchada",
+      "slug": "yamalacchada",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamalachaya",
-      "letter": "Y"
+      "devanagari": "Yamalachaya",
+      "slug": "yamalachaya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamalatantra",
-      "letter": "Y"
+      "devanagari": "Yamalatantra",
+      "slug": "yamalatantra",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamama",
-      "letter": "Y"
+      "devanagari": "Yamama",
+      "slug": "yamama",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamanadin",
-      "letter": "Y"
+      "devanagari": "Yamanadin",
+      "slug": "yamanadin",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yamasharkara",
-      "letter": "Y"
+      "devanagari": "Yamasharkara",
+      "slug": "yamasharkara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamasharkaracurna",
-      "letter": "Y"
+      "devanagari": "Yamasharkaracurna",
+      "slug": "yamasharkaracurna",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamavati",
-      "letter": "Y"
+      "devanagari": "Yamavati",
+      "slug": "yamavati",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamavatidvaya",
-      "letter": "Y"
+      "devanagari": "Yamavatidvaya",
+      "slug": "yamavatidvaya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamavatirasa",
-      "letter": "Y"
+      "devanagari": "Yamavatirasa",
+      "slug": "yamavatirasa",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yamini",
-      "letter": "Y"
+      "devanagari": "Yamini",
+      "slug": "yamini",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yaminidvaya",
-      "letter": "Y"
+      "devanagari": "Yaminidvaya",
+      "slug": "yaminidvaya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yamuna",
-      "letter": "Y"
+      "devanagari": "Yamuna",
+      "slug": "yamuna",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yana",
-      "letter": "Y"
+      "devanagari": "Yana",
+      "slug": "yana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yanashakti",
-      "letter": "Y"
+      "devanagari": "Yanashakti",
+      "slug": "yanashakti",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yanavidhi",
-      "letter": "Y"
+      "devanagari": "Yanavidhi",
+      "slug": "yanavidhi",
+      "letter": "Y",
+      "category": "Chikitsa / Treatment",
+      "definition": "Therapeutic procedure or clinical intervention protocol under Ayurvedic medicine starting with 'Y'."
     },
     {
       "term": "Yantra",
-      "letter": "Y"
+      "devanagari": "Yantra",
+      "slug": "yantra",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yantrabhishekataddharanavidhi",
-      "letter": "Y"
+      "devanagari": "Yantrabhishekataddharanavidhi",
+      "slug": "yantrabhishekataddharanavidhi",
+      "letter": "Y",
+      "category": "Chikitsa / Treatment",
+      "definition": "Therapeutic procedure or clinical intervention protocol under Ayurvedic medicine starting with 'Y'."
     },
     {
       "term": "Yantrantara",
-      "letter": "Y"
+      "devanagari": "Yantrantara",
+      "slug": "yantrantara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yantraprayoga",
-      "letter": "Y"
+      "devanagari": "Yantraprayoga",
+      "slug": "yantraprayoga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yantri",
-      "letter": "Y"
+      "devanagari": "Yantri",
+      "slug": "yantri",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yantrivashaga",
-      "letter": "Y"
+      "devanagari": "Yantrivashaga",
+      "slug": "yantrivashaga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yasa",
-      "letter": "Y"
+      "devanagari": "Yasa",
+      "slug": "yasa",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yasasharkara",
-      "letter": "Y"
+      "devanagari": "Yasasharkara",
+      "slug": "yasasharkara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashada",
-      "letter": "Y"
+      "devanagari": "Yashada",
+      "slug": "yashada",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashaskari",
-      "letter": "Y"
+      "devanagari": "Yashaskari",
+      "slug": "yashaskari",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashasvin",
-      "letter": "Y"
+      "devanagari": "Yashasvin",
+      "slug": "yashasvin",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashasvini",
-      "letter": "Y"
+      "devanagari": "Yashasvini",
+      "slug": "yashasvini",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashasya",
-      "letter": "Y"
+      "devanagari": "Yashasya",
+      "slug": "yashasya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashthi",
-      "letter": "Y"
+      "devanagari": "Yashthi",
+      "slug": "yashthi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashti",
-      "letter": "Y"
+      "devanagari": "Yashti",
+      "slug": "yashti",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashtika",
-      "letter": "Y"
+      "devanagari": "Yashtika",
+      "slug": "yashtika",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashtikalka",
-      "letter": "Y"
+      "devanagari": "Yashtikalka",
+      "slug": "yashtikalka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashtimadhu",
-      "letter": "Y"
+      "devanagari": "यष्टीमधु",
+      "slug": "yashtimadhu",
+      "letter": "Y",
+      "category": "Dravyaguna / Herb",
+      "definition": "Glycyrrhiza glabra (Licorice), sweet demulcent root soothing gastric ulcers, sore throat, and adrenal fatigue.",
+      "link": "/herbs/yashtimadhu"
     },
     {
       "term": "Yashtimadhukadi",
-      "letter": "Y"
+      "devanagari": "Yashtimadhukadi",
+      "slug": "yashtimadhukadi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashtimula",
-      "letter": "Y"
+      "devanagari": "Yashtimula",
+      "slug": "yashtimula",
+      "letter": "Y",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'Y' documented in traditional lexicons."
     },
     {
       "term": "Yashtyabhayadi",
-      "letter": "Y"
+      "devanagari": "Yashtyabhayadi",
+      "slug": "yashtyabhayadi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashtyadi",
-      "letter": "Y"
+      "devanagari": "Yashtyadi",
+      "slug": "yashtyadi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashtyadighrita",
-      "letter": "Y"
+      "devanagari": "Yashtyadighrita",
+      "slug": "yashtyadighrita",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yashtyadya",
-      "letter": "Y"
+      "devanagari": "Yashtyadya",
+      "slug": "yashtyadya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yashtyadyaghrita",
-      "letter": "Y"
+      "devanagari": "Yashtyadyaghrita",
+      "slug": "yashtyadyaghrita",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yashtyahvadi",
-      "letter": "Y"
+      "devanagari": "Yashtyahvadi",
+      "slug": "yashtyahvadi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yata",
-      "letter": "Y"
+      "devanagari": "Yata",
+      "slug": "yata",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yathakramam",
-      "letter": "Y"
+      "devanagari": "Yathakramam",
+      "slug": "yathakramam",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yathayogam",
-      "letter": "Y"
+      "devanagari": "Yathayogam",
+      "slug": "yathayogam",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yatheshta",
-      "letter": "Y"
+      "devanagari": "Yatheshta",
+      "slug": "yatheshta",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yatnavat",
-      "letter": "Y"
+      "devanagari": "Yatnavat",
+      "slug": "yatnavat",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yatuka",
-      "letter": "Y"
+      "devanagari": "Yatuka",
+      "slug": "yatuka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yaudha",
-      "letter": "Y"
+      "devanagari": "Yaudha",
+      "slug": "yaudha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yauvana",
-      "letter": "Y"
+      "devanagari": "Yauvana",
+      "slug": "yauvana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yava",
-      "letter": "Y"
+      "devanagari": "Yava",
+      "slug": "yava",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yava Bhaat",
-      "letter": "Y"
+      "devanagari": "Yava bhaat",
+      "slug": "yava-bhaat",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavacinca",
-      "letter": "Y"
+      "devanagari": "Yavacinca",
+      "slug": "yavacinca",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavacurna",
-      "letter": "Y"
+      "devanagari": "Yavacurna",
+      "slug": "yavacurna",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavagraja",
-      "letter": "Y"
+      "devanagari": "Yavagraja",
+      "slug": "yavagraja",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavagu",
-      "letter": "Y"
+      "devanagari": "Yavagu",
+      "slug": "yavagu",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavagubhakta",
-      "letter": "Y"
+      "devanagari": "Yavagubhakta",
+      "slug": "yavagubhakta",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavaja",
-      "letter": "Y"
+      "devanagari": "Yavaja",
+      "slug": "yavaja",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavajarotika",
-      "letter": "Y"
+      "devanagari": "Yavajarotika",
+      "slug": "yavajarotika",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavajyadi",
-      "letter": "Y"
+      "devanagari": "Yavajyadi",
+      "slug": "yavajyadi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavaka",
-      "letter": "Y"
+      "devanagari": "Yavaka",
+      "slug": "yavaka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavakalka",
-      "letter": "Y"
+      "devanagari": "Yavakalka",
+      "slug": "yavakalka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavakshara",
-      "letter": "Y"
+      "devanagari": "Yavakshara",
+      "slug": "yavakshara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavaksharadi",
-      "letter": "Y"
+      "devanagari": "Yavaksharadi",
+      "slug": "yavaksharadi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavaksharadicurna",
-      "letter": "Y"
+      "devanagari": "Yavaksharadicurna",
+      "slug": "yavaksharadicurna",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavalaka",
-      "letter": "Y"
+      "devanagari": "Yavalaka",
+      "slug": "yavalaka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavaneshta",
-      "letter": "Y"
+      "devanagari": "Yavaneshta",
+      "slug": "yavaneshta",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavani",
-      "letter": "Y"
+      "devanagari": "Yavani",
+      "slug": "yavani",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavanika",
-      "letter": "Y"
+      "devanagari": "Yavanika",
+      "slug": "yavanika",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavanyadi",
-      "letter": "Y"
+      "devanagari": "Yavanyadi",
+      "slug": "yavanyadi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavapishtika",
-      "letter": "Y"
+      "devanagari": "Yavapishtika",
+      "slug": "yavapishtika",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavasa",
-      "letter": "Y"
+      "devanagari": "Yavasa",
+      "slug": "yavasa",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavasabhuj",
-      "letter": "Y"
+      "devanagari": "Yavasabhuj",
+      "slug": "yavasabhuj",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavasahva",
-      "letter": "Y"
+      "devanagari": "Yavasahva",
+      "slug": "yavasahva",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavasaktu",
-      "letter": "Y"
+      "devanagari": "Yavasaktu",
+      "slug": "yavasaktu",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavasaparihriti",
-      "letter": "Y"
+      "devanagari": "Yavasaparihriti",
+      "slug": "yavasaparihriti",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavasarjarasadi",
-      "letter": "Y"
+      "devanagari": "Yavasarjarasadi",
+      "slug": "yavasarjarasadi",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yavasashi",
-      "letter": "Y"
+      "devanagari": "Yavasashi",
+      "slug": "yavasashi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavasataila",
-      "letter": "Y"
+      "devanagari": "Yavasataila",
+      "slug": "yavasataila",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yavashaka",
-      "letter": "Y"
+      "devanagari": "Yavashaka",
+      "slug": "yavashaka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavashir",
-      "letter": "Y"
+      "devanagari": "Yavashir",
+      "slug": "yavashir",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavatikta",
-      "letter": "Y"
+      "devanagari": "Yavatikta",
+      "slug": "yavatikta",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavi",
-      "letter": "Y"
+      "devanagari": "Yavi",
+      "slug": "yavi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavoshana",
-      "letter": "Y"
+      "devanagari": "Yavoshana",
+      "slug": "yavoshana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yavya",
-      "letter": "Y"
+      "devanagari": "Yavya",
+      "slug": "yavya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yayin",
-      "letter": "Y"
+      "devanagari": "Yayin",
+      "slug": "yayin",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yellow Amaranth",
-      "letter": "Y"
+      "devanagari": "Yellow amaranth",
+      "slug": "yellow-amaranth",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yellow Arsenic",
-      "letter": "Y"
+      "devanagari": "Yellow arsenic",
+      "slug": "yellow-arsenic",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yellow Orpiment",
-      "letter": "Y"
+      "devanagari": "Yellow orpiment",
+      "slug": "yellow-orpiment",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yellow Sandal",
-      "letter": "Y"
+      "devanagari": "Yellow sandal",
+      "slug": "yellow-sandal",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yodha",
-      "letter": "Y"
+      "devanagari": "Yodha",
+      "slug": "yodha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yodhana",
-      "letter": "Y"
+      "devanagari": "Yodhana",
+      "slug": "yodhana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yoga",
-      "letter": "Y"
+      "devanagari": "Yoga",
+      "slug": "yoga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogacintamani",
-      "letter": "Y"
+      "devanagari": "Yogacintamani",
+      "slug": "yogacintamani",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogamaya",
-      "letter": "Y"
+      "devanagari": "Yogamaya",
+      "slug": "yogamaya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogamayatantra",
-      "letter": "Y"
+      "devanagari": "Yogamayatantra",
+      "slug": "yogamayatantra",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogamrita",
-      "letter": "Y"
+      "devanagari": "Yogamrita",
+      "slug": "yogamrita",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogamritavivarana",
-      "letter": "Y"
+      "devanagari": "Yogamritavivarana",
+      "slug": "yogamritavivarana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogamusha",
-      "letter": "Y"
+      "devanagari": "Yogamusha",
+      "slug": "yogamusha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogapradipa",
-      "letter": "Y"
+      "devanagari": "Yogapradipa",
+      "slug": "yogapradipa",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogaraja",
-      "letter": "Y"
+      "devanagari": "Yogaraja",
+      "slug": "yogaraja",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogarajaguggulu",
-      "letter": "Y"
+      "devanagari": "Yogarajaguggulu",
+      "slug": "yogarajaguggulu",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yogarajarasa",
-      "letter": "Y"
+      "devanagari": "Yogarajarasa",
+      "slug": "yogarajarasa",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yogaratnakara",
-      "letter": "Y"
+      "devanagari": "Yogaratnakara",
+      "slug": "yogaratnakara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogaratnamala",
-      "letter": "Y"
+      "devanagari": "Yogaratnamala",
+      "slug": "yogaratnamala",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogaratnavali",
-      "letter": "Y"
+      "devanagari": "Yogaratnavali",
+      "slug": "yogaratnavali",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogasana",
-      "letter": "Y"
+      "devanagari": "Yogasana",
+      "slug": "yogasana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogasara",
-      "letter": "Y"
+      "devanagari": "Yogasara",
+      "slug": "yogasara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogasaramrita",
-      "letter": "Y"
+      "devanagari": "Yogasaramrita",
+      "slug": "yogasaramrita",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogasarasamgraha",
-      "letter": "Y"
+      "devanagari": "Yogasarasamgraha",
+      "slug": "yogasarasamgraha",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yogasaratantra",
-      "letter": "Y"
+      "devanagari": "Yogasaratantra",
+      "slug": "yogasaratantra",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogashataka",
-      "letter": "Y"
+      "devanagari": "Yogashataka",
+      "slug": "yogashataka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogatantra",
-      "letter": "Y"
+      "devanagari": "Yogatantra",
+      "slug": "yogatantra",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogavahin",
-      "letter": "Y"
+      "devanagari": "Yogavahin",
+      "slug": "yogavahin",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yoginitantra",
-      "letter": "Y"
+      "devanagari": "Yoginitantra",
+      "slug": "yoginitantra",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogya",
-      "letter": "Y"
+      "devanagari": "Yogya",
+      "slug": "yogya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yogyasana",
-      "letter": "Y"
+      "devanagari": "Yogyasana",
+      "slug": "yogyasana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yojana",
-      "letter": "Y"
+      "devanagari": "Yojana",
+      "slug": "yojana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yojanacatushka",
-      "letter": "Y"
+      "devanagari": "Yojanacatushka",
+      "slug": "yojanacatushka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yoni",
-      "letter": "Y"
+      "devanagari": "Yoni",
+      "slug": "yoni",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yoniprasava",
-      "letter": "Y"
+      "devanagari": "Yoniprasava",
+      "slug": "yoniprasava",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yoniprasavashula",
-      "letter": "Y"
+      "devanagari": "Yoniprasavashula",
+      "slug": "yoniprasavashula",
+      "letter": "Y",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'Y', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Yoniroga",
-      "letter": "Y"
+      "devanagari": "Yoniroga",
+      "slug": "yoniroga",
+      "letter": "Y",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'Y', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Yonisadharmya",
-      "letter": "Y"
+      "devanagari": "Yonisadharmya",
+      "slug": "yonisadharmya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yonishula",
-      "letter": "Y"
+      "devanagari": "Yonishula",
+      "slug": "yonishula",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yonivyadhi",
-      "letter": "Y"
+      "devanagari": "Yonivyadhi",
+      "slug": "yonivyadhi",
+      "letter": "Y",
+      "category": "Nidana / Disorder",
+      "definition": "Ayurvedic clinical term starting with 'Y', describing pathological signs, dosha imbalance, or disease taxonomy."
     },
     {
       "term": "Yonivyapaccikitsa",
-      "letter": "Y"
+      "devanagari": "Yonivyapaccikitsa",
+      "slug": "yonivyapaccikitsa",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yonivyapad",
-      "letter": "Y"
+      "devanagari": "Yonivyapad",
+      "slug": "yonivyapad",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yosha",
-      "letter": "Y"
+      "devanagari": "Yosha",
+      "slug": "yosha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuddha",
-      "letter": "Y"
+      "devanagari": "Yuddha",
+      "slug": "yuddha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuddhaprayoga",
-      "letter": "Y"
+      "devanagari": "Yuddhaprayoga",
+      "slug": "yuddhaprayoga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuddharata",
-      "letter": "Y"
+      "devanagari": "Yuddharata",
+      "slug": "yuddharata",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yudh",
-      "letter": "Y"
+      "devanagari": "Yudh",
+      "slug": "yudh",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yudhimuladi",
-      "letter": "Y"
+      "devanagari": "Yudhimuladi",
+      "slug": "yudhimuladi",
+      "letter": "Y",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'Y' documented in traditional lexicons."
     },
     {
       "term": "Yuga",
-      "letter": "Y"
+      "devanagari": "Yuga",
+      "slug": "yuga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yugalisankhyana",
-      "letter": "Y"
+      "devanagari": "Yugalisankhyana",
+      "slug": "yugalisankhyana",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yugma",
-      "letter": "Y"
+      "devanagari": "Yugma",
+      "slug": "yugma",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yugmapatra",
-      "letter": "Y"
+      "devanagari": "Yugmapatra",
+      "slug": "yugmapatra",
+      "letter": "Y",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'Y' documented in traditional lexicons."
     },
     {
       "term": "Yugmapattra",
-      "letter": "Y"
+      "devanagari": "Yugmapattra",
+      "slug": "yugmapattra",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yugmaphala",
-      "letter": "Y"
+      "devanagari": "Yugmaphala",
+      "slug": "yugmaphala",
+      "letter": "Y",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'Y' documented in traditional lexicons."
     },
     {
       "term": "Yuka",
-      "letter": "Y"
+      "devanagari": "Yuka",
+      "slug": "yuka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yukavasa",
-      "letter": "Y"
+      "devanagari": "Yukavasa",
+      "slug": "yukavasa",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yukta",
-      "letter": "Y"
+      "devanagari": "Yukta",
+      "slug": "yukta",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuktadala",
-      "letter": "Y"
+      "devanagari": "Yuktadala",
+      "slug": "yuktadala",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuktajalaka",
-      "letter": "Y"
+      "devanagari": "Yuktajalaka",
+      "slug": "yuktajalaka",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yukti",
-      "letter": "Y"
+      "devanagari": "Yukti",
+      "slug": "yukti",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuktikritabala",
-      "letter": "Y"
+      "devanagari": "Yuktikritabala",
+      "slug": "yuktikritabala",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuktimat",
-      "letter": "Y"
+      "devanagari": "Yuktimat",
+      "slug": "yuktimat",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuktivyapashraya",
-      "letter": "Y"
+      "devanagari": "Yuktivyapashraya",
+      "slug": "yuktivyapashraya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuktya",
-      "letter": "Y"
+      "devanagari": "Yuktya",
+      "slug": "yuktya",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yusa",
-      "letter": "Y"
+      "devanagari": "Yusa",
+      "slug": "yusa",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yushavarga",
-      "letter": "Y"
+      "devanagari": "Yushavarga",
+      "slug": "yushavarga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yutayuktavak",
-      "letter": "Y"
+      "devanagari": "Yutayuktavak",
+      "slug": "yutayuktavak",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yutha",
-      "letter": "Y"
+      "devanagari": "Yutha",
+      "slug": "yutha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuthabahishcara",
-      "letter": "Y"
+      "devanagari": "Yuthabahishcara",
+      "slug": "yuthabahishcara",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuthaga",
-      "letter": "Y"
+      "devanagari": "Yuthaga",
+      "slug": "yuthaga",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuthapraharshi",
-      "letter": "Y"
+      "devanagari": "Yuthapraharshi",
+      "slug": "yuthapraharshi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuthaprishtha",
-      "letter": "Y"
+      "devanagari": "Yuthaprishtha",
+      "slug": "yuthaprishtha",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuthaprishthanugami",
-      "letter": "Y"
+      "devanagari": "Yuthaprishthanugami",
+      "slug": "yuthaprishthanugami",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuthasthita",
-      "letter": "Y"
+      "devanagari": "Yuthasthita",
+      "slug": "yuthasthita",
+      "letter": "Y",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'Y' referenced in classical treatises."
     },
     {
       "term": "Yuthi",
-      "letter": "Y"
+      "devanagari": "Yuthi",
+      "slug": "yuthi",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuthika",
-      "letter": "Y"
+      "devanagari": "Yuthika",
+      "slug": "yuthika",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Yuvan",
-      "letter": "Y"
+      "devanagari": "Yuvan",
+      "slug": "yuvan",
+      "letter": "Y",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Y', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

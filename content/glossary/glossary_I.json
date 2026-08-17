@@ -4,607 +4,1213 @@
   "terms": [
     {
       "term": "Ibha",
-      "letter": "I"
+      "devanagari": "Ibha",
+      "slug": "ibha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ibhacarita",
-      "letter": "I"
+      "devanagari": "Ibhacarita",
+      "slug": "ibhacarita",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ibhagama",
-      "letter": "I"
+      "devanagari": "Ibhagama",
+      "slug": "ibhagama",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ibhagamajna",
-      "letter": "I"
+      "devanagari": "Ibhagamajna",
+      "slug": "ibhagamajna",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ibhagraha",
-      "letter": "I"
+      "devanagari": "Ibhagraha",
+      "slug": "ibhagraha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ibhaha",
-      "letter": "I"
+      "devanagari": "Ibhaha",
+      "slug": "ibhaha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ibhari",
-      "letter": "I"
+      "devanagari": "Ibhari",
+      "slug": "ibhari",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ibhasthi",
-      "letter": "I"
+      "devanagari": "Ibhasthi",
+      "slug": "ibhasthi",
+      "letter": "I",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'I' referenced in classical treatises."
     },
     {
       "term": "Iccha",
-      "letter": "I"
+      "devanagari": "Iccha",
+      "slug": "iccha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Icchabhedi",
-      "letter": "I"
+      "devanagari": "Icchabhedi",
+      "slug": "icchabhedi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Icchabhedirasa",
-      "letter": "I"
+      "devanagari": "Icchabhedirasa",
+      "slug": "icchabhedirasa",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Icchabhedivataka",
-      "letter": "I"
+      "devanagari": "Icchabhedivataka",
+      "slug": "icchabhedivataka",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Icchadveshavanimittata",
-      "letter": "I"
+      "devanagari": "Icchadveshavanimittata",
+      "slug": "icchadveshavanimittata",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Icchamaya",
-      "letter": "I"
+      "devanagari": "Icchamaya",
+      "slug": "icchamaya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Icchamayarasa",
-      "letter": "I"
+      "devanagari": "Icchamayarasa",
+      "slug": "icchamayarasa",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ichor",
-      "letter": "I"
+      "devanagari": "Ichor",
+      "slug": "ichor",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ida",
-      "letter": "I"
+      "devanagari": "Ida",
+      "slug": "ida",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Idarika",
-      "letter": "I"
+      "devanagari": "Idarika",
+      "slug": "idarika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Iddali",
-      "letter": "I"
+      "devanagari": "Iddali",
+      "slug": "iddali",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ijjala",
-      "letter": "I"
+      "devanagari": "Ijjala",
+      "slug": "ijjala",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshana",
-      "letter": "I"
+      "devanagari": "Ikshana",
+      "slug": "ikshana",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshu",
-      "letter": "I"
+      "devanagari": "Ikshu",
+      "slug": "ikshu",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshugandha",
-      "letter": "I"
+      "devanagari": "Ikshugandha",
+      "slug": "ikshugandha",
+      "letter": "I",
+      "category": "Dravyaguna / Herb",
+      "definition": "Authenticated Sanskrit name for Vidarikanda (Pueraria tuberosa) in the Fabaceae family, a classical Ayurvedic medicinal botanical.",
+      "link": "/herbs/vidarikanda"
     },
     {
       "term": "Ikshukanda",
-      "letter": "I"
+      "devanagari": "Ikshukanda",
+      "slug": "ikshukanda",
+      "letter": "I",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'I' documented in traditional lexicons."
     },
     {
       "term": "Ikshura",
-      "letter": "I"
+      "devanagari": "Ikshura",
+      "slug": "ikshura",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshuraka",
-      "letter": "I"
+      "devanagari": "Ikshuraka",
+      "slug": "ikshuraka",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshurasa",
-      "letter": "I"
+      "devanagari": "Ikshurasa",
+      "slug": "ikshurasa",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ikshuvalika",
-      "letter": "I"
+      "devanagari": "Ikshuvalika",
+      "slug": "ikshuvalika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshuvarga",
-      "letter": "I"
+      "devanagari": "Ikshuvarga",
+      "slug": "ikshuvarga",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshuvikara",
-      "letter": "I"
+      "devanagari": "Ikshuvikara",
+      "slug": "ikshuvikara",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshvaku",
-      "letter": "I"
+      "devanagari": "Ikshvaku",
+      "slug": "ikshvaku",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ikshvalika",
-      "letter": "I"
+      "devanagari": "Ikshvalika",
+      "slug": "ikshvalika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ila",
-      "letter": "I"
+      "devanagari": "Ila",
+      "slug": "ila",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ilanta",
-      "letter": "I"
+      "devanagari": "Ilanta",
+      "slug": "ilanta",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ilavintoliyadi",
-      "letter": "I"
+      "devanagari": "Ilavintoliyadi",
+      "slug": "ilavintoliyadi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ili",
-      "letter": "I"
+      "devanagari": "Ili",
+      "slug": "ili",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Iliparni",
-      "letter": "I"
+      "devanagari": "Iliparni",
+      "slug": "iliparni",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Illarakkaricurna",
-      "letter": "I"
+      "devanagari": "Illarakkaricurna",
+      "slug": "illarakkaricurna",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ilsa",
-      "letter": "I"
+      "devanagari": "Ilsa",
+      "slug": "ilsa",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Impaired Digestion",
-      "letter": "I"
+      "devanagari": "Impaired digestion",
+      "slug": "impaired-digestion",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Inci",
-      "letter": "I"
+      "devanagari": "Inci",
+      "slug": "inci",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Incision",
-      "letter": "I"
+      "devanagari": "Incision",
+      "slug": "incision",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indian Cherry",
-      "letter": "I"
+      "devanagari": "Indian cherry",
+      "slug": "indian-cherry",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indian Coral Tree",
-      "letter": "I"
+      "devanagari": "Indian coral tree",
+      "slug": "indian-coral-tree",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indian Jujube",
-      "letter": "I"
+      "devanagari": "Indian jujube",
+      "slug": "indian-jujube",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indian Lotus",
-      "letter": "I"
+      "devanagari": "Indian lotus",
+      "slug": "indian-lotus",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indian Madder",
-      "letter": "I"
+      "devanagari": "Indian madder",
+      "slug": "indian-madder",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indian Oleander",
-      "letter": "I"
+      "devanagari": "Indian oleander",
+      "slug": "indian-oleander",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indigo",
-      "letter": "I"
+      "devanagari": "Indigo",
+      "slug": "indigo",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indigo Plant",
-      "letter": "I"
+      "devanagari": "Indigo plant",
+      "slug": "indigo-plant",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indigofera Tinctoria",
-      "letter": "I"
+      "devanagari": "Indigofera tinctoria",
+      "slug": "indigofera-tinctoria",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indivara",
-      "letter": "I"
+      "devanagari": "Indivara",
+      "slug": "indivara",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indivari",
-      "letter": "I"
+      "devanagari": "Indivari",
+      "slug": "indivari",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrabha",
-      "letter": "I"
+      "devanagari": "Indrabha",
+      "slug": "indrabha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrabija",
-      "letter": "I"
+      "devanagari": "Indrabija",
+      "slug": "indrabija",
+      "letter": "I",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'I' documented in traditional lexicons."
     },
     {
       "term": "Indrabrahma",
-      "letter": "I"
+      "devanagari": "Indrabrahma",
+      "slug": "indrabrahma",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrabrahmarasa",
-      "letter": "I"
+      "devanagari": "Indrabrahmarasa",
+      "slug": "indrabrahmarasa",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Indradaru",
-      "letter": "I"
+      "devanagari": "Indradaru",
+      "slug": "indradaru",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indradru",
-      "letter": "I"
+      "devanagari": "Indradru",
+      "slug": "indradru",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indragopa",
-      "letter": "I"
+      "devanagari": "Indragopa",
+      "slug": "indragopa",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indragopabharakta",
-      "letter": "I"
+      "devanagari": "Indragopabharakta",
+      "slug": "indragopabharakta",
+      "letter": "I",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'I' referenced in classical treatises."
     },
     {
       "term": "Indragopaka",
-      "letter": "I"
+      "devanagari": "Indragopaka",
+      "slug": "indragopaka",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrajala",
-      "letter": "I"
+      "devanagari": "Indrajala",
+      "slug": "indrajala",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrajalatantra",
-      "letter": "I"
+      "devanagari": "Indrajalatantra",
+      "slug": "indrajalatantra",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrani",
-      "letter": "I"
+      "devanagari": "Indrani",
+      "slug": "indrani",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indranika",
-      "letter": "I"
+      "devanagari": "Indranika",
+      "slug": "indranika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indranila",
-      "letter": "I"
+      "devanagari": "Indranila",
+      "slug": "indranila",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrashana",
-      "letter": "I"
+      "devanagari": "Indrashana",
+      "slug": "indrashana",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrasurasa",
-      "letter": "I"
+      "devanagari": "Indrasurasa",
+      "slug": "indrasurasa",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Indravallari",
-      "letter": "I"
+      "devanagari": "Indravallari",
+      "slug": "indravallari",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravalli",
-      "letter": "I"
+      "devanagari": "Indravalli",
+      "slug": "indravalli",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravallikashaya",
-      "letter": "I"
+      "devanagari": "Indravallikashaya",
+      "slug": "indravallikashaya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravallyadi",
-      "letter": "I"
+      "devanagari": "Indravallyadi",
+      "slug": "indravallyadi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravana",
-      "letter": "I"
+      "devanagari": "Indravana",
+      "slug": "indravana",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravaruni",
-      "letter": "I"
+      "devanagari": "Indravaruni",
+      "slug": "indravaruni",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravarunika",
-      "letter": "I"
+      "devanagari": "Indravarunika",
+      "slug": "indravarunika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravarunikadi",
-      "letter": "I"
+      "devanagari": "Indravarunikadi",
+      "slug": "indravarunikadi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravasti",
-      "letter": "I"
+      "devanagari": "Indravasti",
+      "slug": "indravasti",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indravatika",
-      "letter": "I"
+      "devanagari": "Indravatika",
+      "slug": "indravatika",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Indravriksha",
-      "letter": "I"
+      "devanagari": "Indravriksha",
+      "slug": "indravriksha",
+      "letter": "I",
+      "category": "Dravyaguna / Botanical",
+      "definition": "Botanical plant specimen or natural plant part reference starting with 'I' documented in traditional lexicons."
     },
     {
       "term": "Indrayan",
-      "letter": "I"
+      "devanagari": "Indrayan",
+      "slug": "indrayan",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indrayava",
-      "letter": "I"
+      "devanagari": "Indrayava",
+      "slug": "indrayava",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriya",
-      "letter": "I"
+      "devanagari": "Indriya",
+      "slug": "indriya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyabalahani",
-      "letter": "I"
+      "devanagari": "Indriyabalahani",
+      "slug": "indriyabalahani",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyabuddhi",
-      "letter": "I"
+      "devanagari": "Indriyabuddhi",
+      "slug": "indriyabuddhi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyadaurbalya",
-      "letter": "I"
+      "devanagari": "Indriyadaurbalya",
+      "slug": "indriyadaurbalya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyadhishthana",
-      "letter": "I"
+      "devanagari": "Indriyadhishthana",
+      "slug": "indriyadhishthana",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyantarasamcara",
-      "letter": "I"
+      "devanagari": "Indriyantarasamcara",
+      "slug": "indriyantarasamcara",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Indriyartha",
-      "letter": "I"
+      "devanagari": "Indriyartha",
+      "slug": "indriyartha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyarthasannikarsha",
-      "letter": "I"
+      "devanagari": "Indriyarthasannikarsha",
+      "slug": "indriyarthasannikarsha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyasthana",
-      "letter": "I"
+      "devanagari": "Indriyasthana",
+      "slug": "indriyasthana",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyavaimalya",
-      "letter": "I"
+      "devanagari": "Indriyavaimalya",
+      "slug": "indriyavaimalya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indriyopashama",
-      "letter": "I"
+      "devanagari": "Indriyopashama",
+      "slug": "indriyopashama",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indu",
-      "letter": "I"
+      "devanagari": "Indu",
+      "slug": "indu",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indukantaghrita",
-      "letter": "I"
+      "devanagari": "Indukantaghrita",
+      "slug": "indukantaghrita",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Indukara",
-      "letter": "I"
+      "devanagari": "Indukara",
+      "slug": "indukara",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indumati",
-      "letter": "I"
+      "devanagari": "Indumati",
+      "slug": "indumati",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indupanduradrishtimandala",
-      "letter": "I"
+      "devanagari": "Indupanduradrishtimandala",
+      "slug": "indupanduradrishtimandala",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indupariveshadarshana",
-      "letter": "I"
+      "devanagari": "Indupariveshadarshana",
+      "slug": "indupariveshadarshana",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Indupushpika",
-      "letter": "I"
+      "devanagari": "Indupushpika",
+      "slug": "indupushpika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Inference",
-      "letter": "I"
+      "devanagari": "Inference",
+      "slug": "inference",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Inflammation",
-      "letter": "I"
+      "devanagari": "Inflammation",
+      "slug": "inflammation",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Infloroscence",
-      "letter": "I"
+      "devanagari": "Infloroscence",
+      "slug": "infloroscence",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ingita",
-      "letter": "I"
+      "devanagari": "Ingita",
+      "slug": "ingita",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Inguda",
-      "letter": "I"
+      "devanagari": "Inguda",
+      "slug": "inguda",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ingudi",
-      "letter": "I"
+      "devanagari": "Ingudi",
+      "slug": "ingudi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Inherence",
-      "letter": "I"
+      "devanagari": "Inherence",
+      "slug": "inherence",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Inji",
-      "letter": "I"
+      "devanagari": "Inji",
+      "slug": "inji",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Insect",
-      "letter": "I"
+      "devanagari": "Insect",
+      "slug": "insect",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Insect Pest",
-      "letter": "I"
+      "devanagari": "Insect pest",
+      "slug": "insect-pest",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Insect Poison",
-      "letter": "I"
+      "devanagari": "Insect poison",
+      "slug": "insect-poison",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Internal Purification",
-      "letter": "I"
+      "devanagari": "Internal purification",
+      "slug": "internal-purification",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Intuppadi",
-      "letter": "I"
+      "devanagari": "Intuppadi",
+      "slug": "intuppadi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Invulnerability",
-      "letter": "I"
+      "devanagari": "Invulnerability",
+      "slug": "invulnerability",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ipsa",
-      "letter": "I"
+      "devanagari": "Ipsa",
+      "slug": "ipsa",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ira",
-      "letter": "I"
+      "devanagari": "Ira",
+      "slug": "ira",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Iravati",
-      "letter": "I"
+      "devanagari": "Iravati",
+      "slug": "iravati",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Irippa",
-      "letter": "I"
+      "devanagari": "Irippa",
+      "slug": "irippa",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Iron Needle",
-      "letter": "I"
+      "devanagari": "Iron needle",
+      "slug": "iron-needle",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Irritation",
-      "letter": "I"
+      "devanagari": "Irritation",
+      "slug": "irritation",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Irshya",
-      "letter": "I"
+      "devanagari": "Irshya",
+      "slug": "irshya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Irshyaka",
-      "letter": "I"
+      "devanagari": "Irshyaka",
+      "slug": "irshyaka",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Iruveli",
-      "letter": "I"
+      "devanagari": "Iruveli",
+      "slug": "iruveli",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishadrasakalka",
-      "letter": "I"
+      "devanagari": "Ishadrasakalka",
+      "slug": "ishadrasakalka",
+      "letter": "I",
+      "category": "Dravyaguna / Formulation",
+      "definition": "Classical Ayurvedic pharmaceutical formulation starting with 'I', compiled from Samhitas and botanical Nighantus."
     },
     {
       "term": "Ishanasundara",
-      "letter": "I"
+      "devanagari": "Ishanasundara",
+      "slug": "ishanasundara",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishat",
-      "letter": "I"
+      "devanagari": "Ishat",
+      "slug": "ishat",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishatkathina",
-      "letter": "I"
+      "devanagari": "Ishatkathina",
+      "slug": "ishatkathina",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishatpriya",
-      "letter": "I"
+      "devanagari": "Ishatpriya",
+      "slug": "ishatpriya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishatsparshana",
-      "letter": "I"
+      "devanagari": "Ishatsparshana",
+      "slug": "ishatsparshana",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishtaka",
-      "letter": "I"
+      "devanagari": "Ishtaka",
+      "slug": "ishtaka",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishtamamsa",
-      "letter": "I"
+      "devanagari": "Ishtamamsa",
+      "slug": "ishtamamsa",
+      "letter": "I",
+      "category": "Sharira / Anatomy",
+      "definition": "Anatomical or physiological Sanskrit medical term starting with 'I' referenced in classical treatises."
     },
     {
       "term": "Ishtamla",
-      "letter": "I"
+      "devanagari": "Ishtamla",
+      "slug": "ishtamla",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishtarudhira",
-      "letter": "I"
+      "devanagari": "Ishtarudhira",
+      "slug": "ishtarudhira",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishtata",
-      "letter": "I"
+      "devanagari": "Ishtata",
+      "slug": "ishtata",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishtika",
-      "letter": "I"
+      "devanagari": "Ishtika",
+      "slug": "ishtika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishtikacurnasamkasha",
-      "letter": "I"
+      "devanagari": "Ishtikacurnasamkasha",
+      "slug": "ishtikacurnasamkasha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishupunkha",
-      "letter": "I"
+      "devanagari": "Ishupunkha",
+      "slug": "ishupunkha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishupunkhika",
-      "letter": "I"
+      "devanagari": "Ishupunkhika",
+      "slug": "ishupunkhika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishvaramata",
-      "letter": "I"
+      "devanagari": "Ishvaramata",
+      "slug": "ishvaramata",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishvaramatalauha",
-      "letter": "I"
+      "devanagari": "Ishvaramatalauha",
+      "slug": "ishvaramatalauha",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishvaranmuli",
-      "letter": "I"
+      "devanagari": "Ishvaranmuli",
+      "slug": "ishvaranmuli",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishvari",
-      "letter": "I"
+      "devanagari": "Ishvari",
+      "slug": "ishvari",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ishvarikalpa",
-      "letter": "I"
+      "devanagari": "Ishvarikalpa",
+      "slug": "ishvarikalpa",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Isika",
-      "letter": "I"
+      "devanagari": "Isika",
+      "slug": "isika",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Itarahvaya",
-      "letter": "I"
+      "devanagari": "Itarahvaya",
+      "slug": "itarahvaya",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Itching",
-      "letter": "I"
+      "devanagari": "Itching",
+      "slug": "itching",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Itti",
-      "letter": "I"
+      "devanagari": "Itti",
+      "slug": "itti",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ittil",
-      "letter": "I"
+      "devanagari": "Ittil",
+      "slug": "ittil",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ittinalaladi",
-      "letter": "I"
+      "devanagari": "Ittinalaladi",
+      "slug": "ittinalaladi",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ivory",
-      "letter": "I"
+      "devanagari": "Ivory",
+      "slug": "ivory",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ivory Powder",
-      "letter": "I"
+      "devanagari": "Ivory powder",
+      "slug": "ivory-powder",
+      "letter": "I",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'I', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

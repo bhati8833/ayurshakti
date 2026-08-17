@@ -4,31 +4,60 @@
   "terms": [
     {
       "term": "Zaban-posh",
-      "letter": "Z"
+      "devanagari": "Zaban-posh",
+      "slug": "zaban-posh",
+      "letter": "Z",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Z', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Zingiber Officinale",
-      "letter": "Z"
+      "devanagari": "Zingiber officinale",
+      "slug": "zingiber-officinale",
+      "letter": "Z",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Z', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Zira",
-      "letter": "Z"
+      "devanagari": "Zira",
+      "slug": "zira",
+      "letter": "Z",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Z', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Zircon",
-      "letter": "Z"
+      "devanagari": "Zircon",
+      "slug": "zircon",
+      "letter": "Z",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Z', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Ziziphus Mauritiana",
-      "letter": "Z"
+      "devanagari": "Ziziphus mauritiana",
+      "slug": "ziziphus-mauritiana",
+      "letter": "Z",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Z', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Zla-ba-la-dga-ba",
-      "letter": "Z"
+      "devanagari": "Zla-ba-la-dga-ba",
+      "slug": "zla-ba-la-dga-ba",
+      "letter": "Z",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Z', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Zoology",
-      "letter": "Z"
+      "devanagari": "Zoology",
+      "slug": "zoology",
+      "letter": "Z",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'Z', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

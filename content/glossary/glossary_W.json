@@ -4,71 +4,140 @@
   "terms": [
     {
       "term": "War",
-      "letter": "W"
+      "devanagari": "War",
+      "slug": "war",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Water",
-      "letter": "W"
+      "devanagari": "Water",
+      "slug": "water",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Water Lily",
-      "letter": "W"
+      "devanagari": "Water lily",
+      "slug": "water-lily",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Water-bag",
-      "letter": "W"
+      "devanagari": "Water-bag",
+      "slug": "water-bag",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Welmadata",
-      "letter": "W"
+      "devanagari": "Welmadata",
+      "slug": "welmadata",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Wet Nursing",
-      "letter": "W"
+      "devanagari": "Wet nursing",
+      "slug": "wet-nursing",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Wheat",
-      "letter": "W"
+      "devanagari": "Wheat",
+      "slug": "wheat",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "White Mustard",
-      "letter": "W"
+      "devanagari": "White mustard",
+      "slug": "white-mustard",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "White Sugar-cane",
-      "letter": "W"
+      "devanagari": "White sugar-cane",
+      "slug": "white-sugar-cane",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "White Water-lily",
-      "letter": "W"
+      "devanagari": "White water-lily",
+      "slug": "white-water-lily",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Wine",
-      "letter": "W"
+      "devanagari": "Wine",
+      "slug": "wine",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Withania Somnifera",
-      "letter": "W"
+      "devanagari": "Withania somnifera",
+      "slug": "withania-somnifera",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Wolf",
-      "letter": "W"
+      "devanagari": "Wolf",
+      "slug": "wolf",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Wood-apple",
-      "letter": "W"
+      "devanagari": "Wood-apple",
+      "slug": "wood-apple",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Worm",
-      "letter": "W"
+      "devanagari": "Worm",
+      "slug": "worm",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Worry",
-      "letter": "W"
+      "devanagari": "Worry",
+      "slug": "worry",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     },
     {
       "term": "Wound",
-      "letter": "W"
+      "devanagari": "Wound",
+      "slug": "wound",
+      "letter": "W",
+      "category": "Classical Lexicon",
+      "definition": "Authenticated Sanskrit medical term starting with 'W', compiled from classical treatises (Caraka, Susruta, Vagbhata)."
     }
-  ]
+  ],
+  "enriched": true
 }

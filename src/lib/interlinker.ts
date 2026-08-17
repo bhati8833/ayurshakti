@@ -20,13 +20,14 @@ const INTERLINK_MAP: Record<string, string> = {
   'Pitta': '/dosha-quiz',
   'Kapha': '/dosha-quiz',
   'Prakriti': '/dosha-quiz',
-  'Agni': '/glossary/a',
-  'Ama': '/glossary/a',
-  'Ojas': '/glossary/o',
-  'Prana': '/glossary/p',
-  'Dhatu': '/glossary/d',
-  'Srotas': '/glossary/s',
-  'Rasayana': '/glossary/r',
+  'Agni': '/glossary/term/agni',
+  'Ama': '/glossary/term/ama',
+  'Ojas': '/glossary/term/ojas',
+  'Prana': '/glossary/term/prana',
+  'Dhatu': '/glossary/term/dhatu',
+  'Srotas': '/glossary/term/srotas',
+  'Rasayana': '/glossary/term/rasayana',
+  'Abhyanga': '/glossary/term/abhyanga',
 };
 
 export function applyWikipediaInterlinks(htmlContent: string): string {
