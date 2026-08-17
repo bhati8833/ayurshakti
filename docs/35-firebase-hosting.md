@@ -8,9 +8,9 @@ AyurShakti.shop utilizes a modern, zero-cost, high-performance static architectu
 ┌──────────────────┐
 │  GitHub Repo     │ ──► GitHub Actions CI/CD (`npm run build`)
 └──────────────────┘             │
-                                 ▼ auto-deploy
+                                 ▼ auto-deploy via FIREBASE_TOKEN
                        ┌───────────────────┐
-                       │ Firebase Hosting  │ (Static SSG Edge CDN)
+                       │ Firebase Hosting  │ (Static SSG Edge CDN - project: ayur-shakti)
                        └───────────────────┘
                                  ▲
                                  │ CNAME Proxy / Edge SSL & Cache
@@ -47,9 +47,9 @@ AyurShakti.shop utilizes a modern, zero-cost, high-performance static architectu
 ### 3. GitHub (Free Tier)
 | Feature / Resource | Free Tier Limit | Details & Strategy for AyurShakti |
 | :--- | :--- | :--- |
-| **Repository Storage** | **1 GB - 5 GB (recommended)** | Codebase & static Markdown content repository (`bhati8833/ayurshakti.shop`). |
-| **GitHub Actions CI/CD** | **2,000 minutes / month** | Automatically builds Next.js (`npm run build`) and deploys to Firebase Hosting on `git push main`. |
-| **GitHub Image Hosting** | **Unlimited via Repo / Raw CDN** | Blog images hosted in public repository or dedicated media repository, served via raw CDN (`raw.githubusercontent.com`) or Cloudflare resource proxy. |
+| **Repository Storage** | **1 GB - 5 GB (recommended)** | Codebase & static Markdown content repository (`bhati8833/ayurshakti`). |
+| **GitHub Actions CI/CD** | **2,000 minutes / month** | Automatically builds Next.js (`npm run build`) and deploys to Firebase Hosting on `git push master` using `FIREBASE_TOKEN`. |
+| **GitHub Image Hosting** | **Unlimited via Repo / Raw CDN** | Blog images hosted in public repository or dedicated media repository, served via raw CDN or Cloudflare resource proxy (`resources.ayurshakti.shop`). |
 
 ---
 
@@ -74,20 +74,20 @@ AyurShakti.shop utilizes a modern, zero-cost, high-performance static architectu
 
 ---
 
-## ⚙️ Project Configuration Files
+## ⚙️ Project Configuration & GitHub CI/CD
 
 ### `firebase.json`
 ```json
 {
   "hosting": {
     "public": "out",
+    "cleanUrls": true,
+    "trailingSlash": false,
     "ignore": [
       "firebase.json",
       "**/.*",
       "**/node_modules/**"
-    ],
-    "cleanUrls": true,
-    "trailingSlash": false
+    ]
   }
 }
 ```
@@ -101,17 +101,48 @@ AyurShakti.shop utilizes a modern, zero-cost, high-performance static architectu
 }
 ```
 
+### `.github/workflows/firebase-deploy.yml`
+```yaml
+name: Deploy to Firebase Hosting
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  build_and_deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Next.js App
+        run: npm run build
+
+      - name: Deploy to Firebase Hosting
+        run: npx firebase-tools deploy --only hosting --token "${{ secrets.FIREBASE_TOKEN }}"
+```
+
 ---
 
 ## 🚀 Key Deployment Commands
 
 ```bash
-# 1. Clean build output and generate static files
+# 1. Clean build output and generate static files locally
 npm run build
 
-# 2. Manual Firebase Hosting deployment
-firebase deploy --only hosting
-
-# 3. Forced deployment (bypasses stale session locks)
-firebase deploy --only hosting --force
+# 2. Push to GitHub to trigger automatic high-speed cloud deployment
+git add .
+git commit -m "Deploy update"
+git push origin master
 ```

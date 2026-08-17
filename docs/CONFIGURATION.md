@@ -39,23 +39,23 @@ Contains site metadata, author identity, contact details, brand voice, and scrip
 | :--- | :--- | :--- |
 | **Framework** | Next.js 14 SSG | `next.config.mjs` (`output: 'export'`), `tailwind.config.ts`, `tsconfig.json` |
 | **Hosting** | Firebase Hosting | `firebase.json` (`public: "out"`, `cleanUrls: true`), `.firebaserc` (`ayur-shakti`) |
+| **CI/CD Build** | GitHub Actions | `.github/workflows/firebase-deploy.yml` (`FIREBASE_TOKEN` secret) |
 | **DNS & Edge** | Cloudflare | DNS records, SSL/TLS (Full Strict), WAF rules, Bot Management |
 | **Image Asset Hosting** | GitHub / Cloudflare | `blog_images/` & `/public/images/` served via `resources.ayurshakti.shop` |
 
 ---
 
-## 3. Secrets Directory
+## 3. Secrets & Tokens Reference
 
-**Directory:** `secrets/` (gitignored — contains actual private credential values)
-
-| File | Service | Purpose |
-| :--- | :--- | :--- |
-| `secrets/ayurshakti-501603-a1a6ff0396df.json` | GCP IAM | Service account private key for Search Console & Indexing API |
-| `secrets/cloudflare-api-token.txt` | Cloudflare | API Token for DNS and Cache Management |
-| `secrets/cloudflare-workers-token.txt` | Cloudflare | API Token for Workers & Pages |
-| `secrets/github-images-token.json` | GitHub | GitHub access token for image hosting repository |
-| `secrets/x-creds.json` | X / Twitter | Developer API credentials |
-| `secrets/pinterest-creds.json` | Pinterest | Pinterest API App token |
+| Token / Secret | Platform / Scope | Purpose | Stored In |
+| :--- | :--- | :--- | :--- |
+| `FIREBASE_TOKEN` | Firebase Hosting | Deployment authentication for project `ayur-shakti` (`vle.bhati@gmail.com`) | GitHub Secrets (`FIREBASE_TOKEN`) & CLI config |
+| `ayurshakti-501603-a1a6ff0396df.json` | GCP IAM | Service account private key for GCP Search Indexing API & Search Console | `secrets/ayurshakti-501603-a1a6ff0396df.json` |
+| `cloudflare-api-token.txt` | Cloudflare | API Token for DNS and Cache Management | `secrets/cloudflare-api-token.txt` |
+| `cloudflare-workers-token.txt` | Cloudflare | API Token for Workers & Pages | `secrets/cloudflare-workers-token.txt` |
+| `github-images-token.json` | GitHub | GitHub access token for image hosting repository (`resources.ayurshakti.shop`) | `secrets/github-images-token.json` |
+| `x-creds.json` | X / Twitter | Developer API credentials | `secrets/x-creds.json` |
+| `pinterest-creds.json` | Pinterest | Pinterest API App token | `secrets/pinterest-creds.json` |
 
 ---
 
@@ -73,12 +73,11 @@ Contains site metadata, author identity, contact details, brand voice, and scrip
 ## 5. Deployment Commands
 
 ```bash
-# Build static site output
+# Build static site output locally
 npm run build
 
-# Deploy static bundle to Firebase Hosting
-firebase deploy --only hosting
-
-# Force deployment
-firebase deploy --only hosting --force
+# Push changes to GitHub to trigger automated CI/CD deployment to Firebase Hosting
+git add .
+git commit -m "Deployment update"
+git push origin master
 ```
