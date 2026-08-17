@@ -2,10 +2,9 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { motion } from 'motion/react';
 import { ArticleDoc } from '@/lib/markdown';
 import ArticleCard from './ArticleCard';
-import { ArrowRight, BookOpen, Filter } from 'lucide-react';
+import { ArrowRight, BookOpen } from 'lucide-react';
 
 export default function FeaturedArticles({ articles }: { articles: ArticleDoc[] }) {
   const [selectedCategory, setSelectedCategory] = useState<string>('All');

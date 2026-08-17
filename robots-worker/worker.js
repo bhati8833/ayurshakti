@@ -10,18 +10,17 @@ const ROBOTS_TXT = `# robots.txt for ayurshakti.shop
 # ============================================================
 User-agent: *
 Allow: /
+Allow: /_next/
 Allow: /sitemap.xml
+Allow: /llms.txt
 
 # Block search/filter/utility pages (no SEO value)
 Disallow: /search
 Disallow: /search/
-Disallow: /search?q=*
-Disallow: *?q=*
+Disallow: /search?*
+Disallow: /*?q=*
 Disallow: /feeds/
-Disallow: /feeds/posts/default
-Disallow: /feeds/posts/default?*
 Disallow: /blogger/
-Disallow: /blogger/*
 Disallow: /*?format=*
 Disallow: /*?m=*
 Disallow: /*?amp=*
@@ -31,7 +30,6 @@ Disallow: /*#comment
 Disallow: /view-source:*
 Disallow: /*.atom
 Disallow: /*?redirect=*
-Disallow: /*.json$
 
 # ============================================================
 # YANDEX-SPECIFIC RULES

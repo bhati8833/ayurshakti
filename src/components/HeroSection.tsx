@@ -1,8 +1,5 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
-import { motion } from 'motion/react';
 import { Sparkles, ArrowRight, ShieldCheck, Microscope, BookOpenCheck, HeartPulse } from 'lucide-react';
 
 export default function HeroSection() {
@@ -16,48 +13,28 @@ export default function HeroSection() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
         
         {/* Top Eyebrow Tag */}
-        <motion.div
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
-          className="flex justify-center mb-6"
-        >
+        <div className="flex justify-center mb-6 animate-ayur-fade-up">
           <span className="inline-flex items-center gap-2 px-4.5 py-1.5 rounded-full bg-white border border-ayur-gold/40 text-ayur-forest text-xs font-semibold uppercase tracking-widest shadow-sm">
             <Sparkles className="w-3.5 h-3.5 text-ayur-gold" />
             PubMed Peer-Reviewed Science × 3,000-Year Sanskrit Treatises
           </span>
-        </motion.div>
+        </div>
 
         {/* Hero Monumental Headline */}
         <div className="text-center max-w-4xl mx-auto space-y-6">
-          <motion.h1
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
-            className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-ayur-forest leading-[1.12]"
-          >
+          <h1 className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-ayur-forest leading-[1.12] animate-ayur-fade-up">
             Authentic Ayurvedic Remedies.{' '}
             <span className="block italic font-serif font-normal text-ayur-emerald underline decoration-ayur-gold/40 decoration-wavy decoration-2">
               Validated by Modern Pharmacology.
             </span>
-          </motion.h1>
+          </h1>
 
-          <motion.p
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.4, ease: [0.16, 1, 0.3, 1] }}
-            className="text-lg sm:text-xl text-ayur-sage max-w-3xl mx-auto leading-relaxed"
-          >
+          <p className="text-lg sm:text-xl text-ayur-sage max-w-3xl mx-auto leading-relaxed animate-ayur-fade-up">
             Researched by <strong>Suresh Bhati</strong>. Analyzing 366 chapters from <em>Charaka & Sushruta Samhita</em>, 42 clinical botanical profiles (withanolides, curcuminoids), and PubMed-backed veterinary remedies for human and pet vitality.
-          </motion.p>
+          </p>
 
           {/* Action CTAs */}
-          <motion.div
-            initial={{ opacity: 0, y: 30 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.8, delay: 0.6, ease: [0.16, 1, 0.3, 1] }}
-            className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4"
-          >
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 pt-4 animate-ayur-fade-up">
             <Link
               href="/herbs"
               className="w-full sm:w-auto px-8 py-4 rounded-full bg-ayur-forest text-ayur-bg font-semibold text-sm tracking-wide uppercase shadow-lg hover:bg-ayur-emerald transition-all duration-300 flex items-center justify-center gap-3 group hover:-translate-y-1"
@@ -73,16 +50,11 @@ export default function HeroSection() {
               <BookOpenCheck className="w-4 h-4 text-ayur-gold" />
               Sanskrit Samhitas
             </Link>
-          </motion.div>
+          </div>
         </div>
 
         {/* Floating Dosha Pills */}
-        <motion.div
-          initial={{ opacity: 0, scale: 0.95 }}
-          animate={{ opacity: 1, scale: 1 }}
-          transition={{ duration: 1, delay: 0.8, ease: [0.16, 1, 0.3, 1] }}
-          className="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto"
-        >
+        <div className="mt-16 grid grid-cols-1 sm:grid-cols-3 gap-6 max-w-3xl mx-auto animate-ayur-fade-up">
           {/* Vata Card */}
           <div className="glass-panel rounded-2xl p-6 text-center hover:border-ayur-emerald/40 transition-all duration-300 shadow-sm hover:shadow-md">
             <div className="w-12 h-12 rounded-full bg-emerald-100 text-ayur-emerald flex items-center justify-center mx-auto mb-3 font-serif font-bold text-xl">
@@ -109,7 +81,7 @@ export default function HeroSection() {
             <h3 className="font-serif font-bold text-lg text-ayur-forest">Kapha (Earth & Water)</h3>
             <p className="text-xs text-ayur-sage mt-1">Provides physical stamina, immunity, and joint lubrication.</p>
           </div>
-        </motion.div>
+        </div>
 
         {/* Feature Badges Grid */}
         <div className="mt-16 pt-8 border-t border-ayur-border/60 grid grid-cols-2 md:grid-cols-4 gap-6 max-w-5xl mx-auto text-center">

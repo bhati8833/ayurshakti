@@ -1,8 +1,5 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
-import { motion } from 'motion/react';
 import { ArrowRight, ScrollText, Leaf, PawPrint, Microscope } from 'lucide-react';
 
 export default function CanonicalLibrary() {
@@ -57,15 +54,11 @@ export default function CanonicalLibrary() {
 
         {/* Silo Cards Grid */}
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8 max-w-5xl mx-auto">
-          {silos.map((silo, idx) => {
+          {silos.map((silo) => {
             const Icon = silo.icon;
             return (
-              <motion.div
+              <div
                 key={silo.slug}
-                initial={{ opacity: 0, y: 25 }}
-                whileInView={{ opacity: 1, y: 0 }}
-                viewport={{ once: true }}
-                transition={{ duration: 0.5, delay: idx * 0.15 }}
                 className="glass-panel rounded-3xl p-8 hover:border-ayur-gold/60 transition-all shadow-sm hover:shadow-card-hover group flex flex-col justify-between bg-white"
               >
                 <div className="space-y-4">
@@ -99,7 +92,7 @@ export default function CanonicalLibrary() {
                     <ArrowRight className="w-4 h-4 text-ayur-gold group-hover:translate-x-1 transition-transform" />
                   </Link>
                 </div>
-              </motion.div>
+              </div>
             );
           })}
         </div>

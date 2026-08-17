@@ -1,5 +1,3 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
 import { ScrollText, Microscope, ShieldAlert, Award, CheckCircle2, UserCheck, Calendar, ArrowUpRight } from 'lucide-react';

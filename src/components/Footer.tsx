@@ -2,7 +2,6 @@
 
 import React, { useState } from 'react';
 import Link from 'next/link';
-import { motion } from 'motion/react';
 import { Sparkles, Send, Heart, BookOpen, Compass, ShieldCheck, Mail } from 'lucide-react';
 import ObfuscatedEmail from '@/components/ObfuscatedEmail';
 

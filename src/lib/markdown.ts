@@ -268,10 +268,12 @@ export function getSiloDocBySlug(siloName: 'pet-health' | 'research', slug: stri
   };
 }
 
-// Article loader fallback
-export function getAllArticles(): ArticleDoc[] {
-  if (cachedArticles) return cachedArticles;
-  const articlesMap = new Map<string, ArticleDoc>();
+let cachedArticleSummaries: ArticleDoc[] | null = null;
+
+// Lightweight article loader for list pages, cards, and metadata (omits 19MB heavy HTML payload)
+export function getAllArticleSummaries(): ArticleDoc[] {
+  if (cachedArticleSummaries) return cachedArticleSummaries;
+  const summariesMap = new Map<string, ArticleDoc>();
 
   if (fs.existsSync(CONTENT_DIR)) {
     const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research']);
@@ -288,33 +290,21 @@ export function getAllArticles(): ArticleDoc[] {
           const { data, content } = matter(fileContents);
           const slug = entry.name.replace(/\.md$/, '').toLowerCase();
           
-          let parsedHtml = '';
-          let finalContent = content;
-
-          if (slug.startsWith('glossary_')) {
-            const letter = slug.replace('glossary_', '');
-            const gloss = generateGlossaryHtml(letter, content);
-            parsedHtml = gloss.htmlContent;
-            finalContent = gloss.content;
-          } else {
-            parsedHtml = marked.parse(content) as string;
-          }
-
           const rawTitle = data.title || entry.name.replace(/\.md$/, '').replace(/_/g, ' ');
           const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
-          const htmlContent = applyWikipediaInterlinks(parsedHtml);
-          const words = finalContent.split(/\s+/).length;
+          const words = content.split(/\s+/).length;
           const readingTime = `${Math.max(1, Math.ceil(words / 200))} min read`;
+          const description = data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...';
 
-          articlesMap.set(slug, {
+          summariesMap.set(slug, {
             slug,
             title,
             category: data.category || categoryName || 'Ayurvedic Science',
             publishedDate: data.date || '2026-07-15',
             status: data.status || 'Published',
-            description: data.description || finalContent.slice(0, 160).replace(/[#*`]/g, '') + '...',
-            content: finalContent,
-            htmlContent,
+            description,
+            content: '', // Omit heavy content payload for index/card lists
+            htmlContent: '', // Omit heavy htmlContent payload
             labels: data.labels || [categoryName],
             readingTime,
             author: 'Suresh Bhati',
@@ -326,12 +316,75 @@ export function getAllArticles(): ArticleDoc[] {
     scanDir(CONTENT_DIR, 'General');
   }
 
-  cachedArticles = Array.from(articlesMap.values());
-  return cachedArticles;
+  cachedArticleSummaries = Array.from(summariesMap.values());
+  return cachedArticleSummaries;
+}
+
+export function getAllArticles(): ArticleDoc[] {
+  return getAllArticleSummaries();
 }
 
 export function getArticleBySlug(slug: string): ArticleDoc | undefined {
-  const articles = getAllArticles();
   const lowerSlug = slug.toLowerCase();
-  return articles.find((a) => a.slug === lowerSlug || a.slug === slug);
+  
+  // Find single article file on demand
+  if (fs.existsSync(CONTENT_DIR)) {
+    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research']);
+    function findFileInDir(dir: string, categoryName: string): ArticleDoc | null {
+      const entries = fs.readdirSync(dir, { withFileTypes: true });
+      for (const entry of entries) {
+        const fullPath = path.join(dir, entry.name);
+        if (entry.isDirectory()) {
+          if (!EXCLUDED_SILOS.has(entry.name)) {
+            const found = findFileInDir(fullPath, entry.name.replace(/_/g, ' '));
+            if (found) return found;
+          }
+        } else if (entry.name.endsWith('.md')) {
+          const fileSlug = entry.name.replace(/\.md$/, '').toLowerCase();
+          if (fileSlug === lowerSlug) {
+            const fileContents = fs.readFileSync(fullPath, 'utf8');
+            const { data, content } = matter(fileContents);
+            
+            let parsedHtml = '';
+            let finalContent = content;
+
+            if (fileSlug.startsWith('glossary_')) {
+              const letter = fileSlug.replace('glossary_', '');
+              const gloss = generateGlossaryHtml(letter, content);
+              parsedHtml = gloss.htmlContent;
+              finalContent = gloss.content;
+            } else {
+              parsedHtml = marked.parse(content) as string;
+            }
+
+            const rawTitle = data.title || entry.name.replace(/\.md$/, '').replace(/_/g, ' ');
+            const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
+            const htmlContent = applyWikipediaInterlinks(parsedHtml);
+            const words = finalContent.split(/\s+/).length;
+            const readingTime = `${Math.max(1, Math.ceil(words / 200))} min read`;
+
+            return {
+              slug: fileSlug,
+              title,
+              category: data.category || categoryName || 'Ayurvedic Science',
+              publishedDate: data.date || '2026-07-15',
+              status: data.status || 'Published',
+              description: data.description || finalContent.slice(0, 160).replace(/[#*`]/g, '') + '...',
+              content: finalContent,
+              htmlContent,
+              labels: data.labels || [categoryName],
+              readingTime,
+              author: 'Suresh Bhati',
+              isCanonicalText: categoryName.includes('canonical'),
+            };
+          }
+        }
+      }
+      return null;
+    }
+    const found = findFileInDir(CONTENT_DIR, 'General');
+    if (found) return found;
+  }
+
+  return undefined;
 }

@@ -1,20 +1,11 @@
-'use client';
-
 import React from 'react';
 import Link from 'next/link';
-import { motion } from 'motion/react';
-import { Clock, Tag, ArrowUpRight, User } from 'lucide-react';
+import { Clock, Tag, ArrowUpRight } from 'lucide-react';
 import { ArticleDoc } from '@/lib/markdown';
 
-export default function ArticleCard({ article, index }: { article: ArticleDoc; index: number }) {
+export default function ArticleCard({ article }: { article: ArticleDoc; index?: number }) {
   return (
-    <motion.article
-      initial={{ opacity: 0, y: 30 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, margin: '-50px' }}
-      transition={{ duration: 0.6, delay: (index % 3) * 0.15, ease: [0.16, 1, 0.3, 1] }}
-      className="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col justify-between hover:border-ayur-emerald/40 hover:shadow-card-hover transition-all duration-300 group"
-    >
+    <article className="glass-panel rounded-2xl p-6 sm:p-8 flex flex-col justify-between hover:border-ayur-emerald/40 hover:shadow-card-hover transition-all duration-300 group">
       <div className="space-y-4">
         {/* Category Badge, Published Date & Reading Time */}
         <div className="flex items-center justify-between text-xs gap-2">
@@ -62,6 +53,6 @@ export default function ArticleCard({ article, index }: { article: ArticleDoc; i
           <ArrowUpRight className="w-4 h-4 group-hover:translate-x-0.5 group-hover:-translate-y-0.5 transition-transform" />
         </Link>
       </div>
-    </motion.article>
+    </article>
   );
 }
