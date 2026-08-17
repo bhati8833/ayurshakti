@@ -39,7 +39,7 @@ export default function ArticleCard({ article }: { article: ArticleDoc; index?: 
       {/* Author & Footer Link */}
       <div className="pt-6 mt-6 border-t border-ayur-border/60 flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <div className="w-7 h-7 rounded-full bg-ayur-forest text-ayur-gold flex items-center justify-center text-xs font-serif font-bold">
+          <div className="w-7 h-7 rounded-full bg-ayur-forest text-[#E5C158] flex items-center justify-center text-xs font-serif font-bold">
             SB
           </div>
           <span className="text-xs font-medium text-ayur-forest">Suresh Bhati</span>

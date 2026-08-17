@@ -33,8 +33,8 @@ export default function CredibilityBanner() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
           
           <div className="p-6 rounded-2xl bg-ayur-bg/70 border border-ayur-gold/20 hover:border-ayur-gold/50 transition-all space-y-3 shadow-sm">
-            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-ayur-gold flex items-center justify-center font-bold">
-              <ScrollText className="w-5 h-5 text-ayur-gold" />
+            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-[#E5C158] flex items-center justify-center font-bold">
+              <ScrollText className="w-5 h-5 text-[#E5C158]" />
             </div>
             <h3 className="font-serif font-bold text-lg text-ayur-forest">1. Sanskrit Primary Sources</h3>
             <p className="text-xs text-ayur-sage leading-relaxed">
@@ -46,8 +46,8 @@ export default function CredibilityBanner() {
           </div>
 
           <div className="p-6 rounded-2xl bg-ayur-bg/70 border border-ayur-gold/20 hover:border-ayur-gold/50 transition-all space-y-3 shadow-sm">
-            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-ayur-gold flex items-center justify-center font-bold">
-              <Microscope className="w-5 h-5 text-ayur-gold" />
+            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-[#E5C158] flex items-center justify-center font-bold">
+              <Microscope className="w-5 h-5 text-[#E5C158]" />
             </div>
             <h3 className="font-serif font-bold text-lg text-ayur-forest">2. PubMed Validation</h3>
             <p className="text-xs text-ayur-sage leading-relaxed">
@@ -59,8 +59,8 @@ export default function CredibilityBanner() {
           </div>
 
           <div className="p-6 rounded-2xl bg-ayur-bg/70 border border-ayur-gold/20 hover:border-ayur-gold/50 transition-all space-y-3 shadow-sm">
-            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-ayur-gold flex items-center justify-center font-bold">
-              <ShieldAlert className="w-5 h-5 text-ayur-gold" />
+            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-[#E5C158] flex items-center justify-center font-bold">
+              <ShieldAlert className="w-5 h-5 text-[#E5C158]" />
             </div>
             <h3 className="font-serif font-bold text-lg text-ayur-forest">3. Safety & Dosages</h3>
             <p className="text-xs text-ayur-sage leading-relaxed">
@@ -72,8 +72,8 @@ export default function CredibilityBanner() {
           </div>
 
           <div className="p-6 rounded-2xl bg-ayur-bg/70 border border-ayur-gold/20 hover:border-ayur-gold/50 transition-all space-y-3 shadow-sm">
-            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-ayur-gold flex items-center justify-center font-bold">
-              <Award className="w-5 h-5 text-ayur-gold" />
+            <div className="w-10 h-10 rounded-xl bg-ayur-forest text-[#E5C158] flex items-center justify-center font-bold">
+              <Award className="w-5 h-5 text-[#E5C158]" />
             </div>
             <h3 className="font-serif font-bold text-lg text-ayur-forest">4. Expert Bylines</h3>
             <p className="text-xs text-ayur-sage leading-relaxed">
@@ -91,7 +91,7 @@ export default function CredibilityBanner() {
           
           {/* Author Badge */}
           <div className="lg:col-span-2 p-6 rounded-2xl bg-ayur-sand/50 border border-ayur-gold/30 flex flex-col sm:flex-row items-start sm:items-center gap-5">
-            <div className="w-14 h-14 rounded-full bg-ayur-forest text-ayur-gold flex items-center justify-center font-serif text-2xl font-bold shrink-0 shadow-md">
+            <div className="w-14 h-14 rounded-full bg-ayur-forest text-[#E5C158] flex items-center justify-center font-serif text-2xl font-bold shrink-0 shadow-md">
               SB
             </div>
             <div className="space-y-1">

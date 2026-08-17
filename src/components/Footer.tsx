@@ -43,7 +43,7 @@ export default function Footer() {
               Bridging authentic classical Sanskrit Ayurvedic manuscripts with modern peer-reviewed PubMed research. Dedicated to holistic human and pet vitality.
             </p>
 
-            <div className="flex items-center gap-4 text-xs font-semibold uppercase tracking-wider text-ayur-gold pt-2">
+            <div className="flex items-center gap-4 text-xs font-semibold uppercase tracking-wider text-[#E5C158] pt-2">
               <span className="flex items-center gap-1.5"><ShieldCheck className="w-4 h-4 text-emerald-400" /> Peer Reviewed</span>
               <span>•</span>
               <span>Sanskrit Sourced</span>
@@ -54,10 +54,10 @@ export default function Footer() {
 
           {/* Newsletter Subscribe Box */}
           <div className="lg:col-span-6">
-            <div className="p-8 rounded-3xl bg-ayur-herbal/60 border border-ayur-gold/30 shadow-lg space-y-4">
+            <div className="p-8 rounded-3xl bg-ayur-herbal/60 border border-[#E5C158]/30 shadow-lg space-y-4">
               <div className="flex items-center gap-2">
-                <Mail className="w-4 h-4 text-ayur-gold" />
-                <span className="text-xs font-bold uppercase tracking-widest text-ayur-gold">Weekly Herbal Research Digest</span>
+                <Mail className="w-4 h-4 text-[#E5C158]" />
+                <span className="text-xs font-bold uppercase tracking-widest text-[#E5C158]">Weekly Herbal Research Digest</span>
               </div>
               <h3 className="font-serif text-xl sm:text-2xl font-bold text-white">
                 Subscribe for Science-Backed Protocols
@@ -68,7 +68,7 @@ export default function Footer() {
 
               {subscribed ? (
                 <div className="p-4 rounded-xl bg-emerald-950/80 border border-emerald-500/40 text-emerald-300 text-sm font-semibold flex items-center gap-2">
-                  <Sparkles className="w-4 h-4 text-ayur-gold" />
+                  <Sparkles className="w-4 h-4 text-[#E5C158]" />
                   Thank you for subscribing! Welcome to AyurShakti Research.
                 </div>
               ) : (
@@ -79,11 +79,11 @@ export default function Footer() {
                     onChange={(e) => setEmail(e.target.value)}
                     placeholder="Enter your email address..."
                     required
-                    className="flex-1 px-5 py-3 rounded-full bg-ayur-forest/90 border border-ayur-gold/30 text-white placeholder-ayur-bg/50 text-sm focus:outline-none focus:border-ayur-gold transition-colors"
+                    className="flex-1 px-5 py-3 rounded-full bg-ayur-forest/90 border border-[#E5C158]/30 text-white placeholder-ayur-bg/50 text-sm focus:outline-none focus:border-[#E5C158] transition-colors"
                   />
                   <button
                     type="submit"
-                    className="px-6 py-3 rounded-full bg-ayur-gold text-ayur-forest font-bold text-xs uppercase tracking-wider hover:bg-white transition-colors flex items-center justify-center gap-2"
+                    className="px-6 py-3 rounded-full bg-[#E5C158] text-ayur-forest font-bold text-xs uppercase tracking-wider hover:bg-white transition-colors flex items-center justify-center gap-2"
                   >
                     Subscribe <Send className="w-3.5 h-3.5" />
                   </button>
@@ -98,50 +98,50 @@ export default function Footer() {
         <div className="py-12 grid grid-cols-2 md:grid-cols-4 gap-8 border-b border-ayur-herbal/80 text-xs">
           
           <div className="space-y-3">
-            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Navigation Matrix</h4>
+            <h4 className="font-bold text-[#E5C158] uppercase tracking-widest text-sm">Navigation Matrix</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><Link href="/" className="hover:text-ayur-gold transition-colors">Home</Link></li>
-              <li><Link href="/samhitas" className="hover:text-ayur-gold transition-colors">Classical Samhitas (366 Ch.)</Link></li>
-              <li><Link href="/herbs" className="hover:text-ayur-gold transition-colors">Herbal Library (42 Herbs)</Link></li>
-              <li><Link href="/pet-health" className="hover:text-ayur-gold transition-colors">Pet Health & Veterinary</Link></li>
-              <li><Link href="/research" className="hover:text-ayur-gold transition-colors">Research & Studies</Link></li>
-              <li><Link href="/glossary" className="hover:text-ayur-gold transition-colors">A-Z Sanskrit Glossary</Link></li>
-              <li><Link href="/dosha-quiz" className="hover:text-ayur-gold transition-colors">Take Dosha Assessment</Link></li>
+              <li><Link href="/" className="hover:text-[#E5C158] transition-colors">Home</Link></li>
+              <li><Link href="/samhitas" className="hover:text-[#E5C158] transition-colors">Classical Samhitas (366 Ch.)</Link></li>
+              <li><Link href="/herbs" className="hover:text-[#E5C158] transition-colors">Herbal Library (42 Herbs)</Link></li>
+              <li><Link href="/pet-health" className="hover:text-[#E5C158] transition-colors">Pet Health & Veterinary</Link></li>
+              <li><Link href="/research" className="hover:text-[#E5C158] transition-colors">Research & Studies</Link></li>
+              <li><Link href="/glossary" className="hover:text-[#E5C158] transition-colors">A-Z Sanskrit Glossary</Link></li>
+              <li><Link href="/dosha-quiz" className="hover:text-[#E5C158] transition-colors">Take Dosha Assessment</Link></li>
             </ul>
           </div>
 
           <div className="space-y-3">
-            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Herbal Pillars</h4>
+            <h4 className="font-bold text-[#E5C158] uppercase tracking-widest text-sm">Herbal Pillars</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><Link href="/herbs/ashwagandha" className="hover:text-ayur-gold transition-colors">Ashwagandha Adaptogens</Link></li>
-              <li><Link href="/herbs/giloy" className="hover:text-ayur-gold transition-colors">Giloy Immunity Protocols</Link></li>
-              <li><Link href="/herbs/shatavari" className="hover:text-ayur-gold transition-colors">Shatavari Women's Health</Link></li>
-              <li><Link href="/herbs/triphala" className="hover:text-ayur-gold transition-colors">Triphala & Agni Digestion</Link></li>
-              <li><Link href="/herbs/arjuna" className="hover:text-ayur-gold transition-colors">Arjuna Cardiovascular</Link></li>
-              <li><Link href="/herbs" className="hover:text-ayur-gold transition-colors">Explore All 42 Profiles →</Link></li>
+              <li><Link href="/herbs/ashwagandha" className="hover:text-[#E5C158] transition-colors">Ashwagandha Adaptogens</Link></li>
+              <li><Link href="/herbs/giloy" className="hover:text-[#E5C158] transition-colors">Giloy Immunity Protocols</Link></li>
+              <li><Link href="/herbs/shatavari" className="hover:text-[#E5C158] transition-colors">Shatavari Women's Health</Link></li>
+              <li><Link href="/herbs/triphala" className="hover:text-[#E5C158] transition-colors">Triphala & Agni Digestion</Link></li>
+              <li><Link href="/herbs/arjuna" className="hover:text-[#E5C158] transition-colors">Arjuna Cardiovascular</Link></li>
+              <li><Link href="/herbs" className="hover:text-[#E5C158] transition-colors">Explore All 42 Profiles →</Link></li>
             </ul>
           </div>
 
           <div className="space-y-3">
-            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Pet Care (Mrigayurveda)</h4>
+            <h4 className="font-bold text-[#E5C158] uppercase tracking-widest text-sm">Pet Care (Mrigayurveda)</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><Link href="/pet-health/natural-remedies-for-dog-anxiety" className="hover:text-ayur-gold transition-colors">Dog Anxiety Remedies</Link></li>
-              <li><Link href="/pet-health/natural-remedies-dog-itchy-skin" className="hover:text-ayur-gold transition-colors">Dog Itchy Skin & Neem</Link></li>
-              <li><Link href="/pet-health/turmeric-for-dogs" className="hover:text-ayur-gold transition-colors">Turmeric & Joint Health</Link></li>
-              <li><Link href="/pet-health/coconut-oil-for-dogs" className="hover:text-ayur-gold transition-colors">Coconut Oil for Dogs</Link></li>
-              <li><Link href="/pet-health/triphala-for-dogs" className="hover:text-ayur-gold transition-colors">Triphala for Canine Gut</Link></li>
-              <li><Link href="/pet-health" className="hover:text-ayur-gold transition-colors">View All Pet Protocols →</Link></li>
+              <li><Link href="/pet-health/natural-remedies-for-dog-anxiety" className="hover:text-[#E5C158] transition-colors">Dog Anxiety Remedies</Link></li>
+              <li><Link href="/pet-health/natural-remedies-dog-itchy-skin" className="hover:text-[#E5C158] transition-colors">Dog Itchy Skin & Neem</Link></li>
+              <li><Link href="/pet-health/turmeric-for-dogs" className="hover:text-[#E5C158] transition-colors">Turmeric & Joint Health</Link></li>
+              <li><Link href="/pet-health/coconut-oil-for-dogs" className="hover:text-[#E5C158] transition-colors">Coconut Oil for Dogs</Link></li>
+              <li><Link href="/pet-health/triphala-for-dogs" className="hover:text-[#E5C158] transition-colors">Triphala for Canine Gut</Link></li>
+              <li><Link href="/pet-health" className="hover:text-[#E5C158] transition-colors">View All Pet Protocols →</Link></li>
             </ul>
           </div>
 
           <div className="space-y-3">
-            <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Transparency & About</h4>
+            <h4 className="font-bold text-[#E5C158] uppercase tracking-widest text-sm">Transparency & About</h4>
             <ul className="space-y-2 text-ayur-bg/80">
-              <li><Link href="/about" className="hover:text-ayur-gold transition-colors">About Author Suresh Bhati</Link></li>
-              <li><Link href="/methodology" className="hover:text-ayur-gold transition-colors">Scientific Methodology</Link></li>
-              <li><Link href="/dosha-guide" className="hover:text-ayur-gold transition-colors">Dosha, Agni & Prakriti Guide</Link></li>
-              <li><Link href="/sitemap.xml" className="hover:text-ayur-gold transition-colors">XML Sitemap</Link></li>
-              <li><ObfuscatedEmail className="hover:text-ayur-gold transition-colors" /></li>
+              <li><Link href="/about" className="hover:text-[#E5C158] transition-colors">About Author Suresh Bhati</Link></li>
+              <li><Link href="/methodology" className="hover:text-[#E5C158] transition-colors">Scientific Methodology</Link></li>
+              <li><Link href="/dosha-guide" className="hover:text-[#E5C158] transition-colors">Dosha, Agni & Prakriti Guide</Link></li>
+              <li><Link href="/sitemap.xml" className="hover:text-[#E5C158] transition-colors">XML Sitemap</Link></li>
+              <li><ObfuscatedEmail className="hover:text-[#E5C158] transition-colors" /></li>
             </ul>
           </div>
 
@@ -158,7 +158,7 @@ export default function Footer() {
         <div className="pt-6 border-t border-ayur-herbal/60 flex flex-col sm:flex-row items-center justify-between text-xs text-ayur-bg/60 gap-4">
           <p>© {new Date().getFullYear()} AyurShakti.shop. All rights reserved.</p>
           <p className="flex items-center gap-1 font-medium text-ayur-bg/80">
-            Crafted with <Heart className="w-3.5 h-3.5 text-rose-400 fill-rose-400" /> by <strong className="text-ayur-gold font-serif">Suresh Bhati</strong>
+            Crafted with <Heart className="w-3.5 h-3.5 text-rose-400 fill-rose-400" /> by <strong className="text-[#E5C158] font-serif">Suresh Bhati</strong>
           </p>
         </div>
 
