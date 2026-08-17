@@ -1,75 +1,35 @@
+# robots.txt for ayurshakti.shop
+# Optimized for Yandex, Seznam, Google, Bing, and AI crawlers
+# Last updated: 2026-08-17
+
 User-agent: *
 Allow: /
+Allow: /sitemap.xml
+Allow: /llms.txt
 
+# Block search/filter/utility pages (no SEO value)
 Disallow: /search
 Disallow: /search/
+Disallow: /search?q=*
+Disallow: *?q=*
 Disallow: /feeds/
 Disallow: /feeds/posts/default
+Disallow: /feeds/posts/default?*
 Disallow: /blogger/
 Disallow: /blogger/*
-Disallow: /comment
-Disallow: /comment/
-Disallow: /view-source:
+Disallow: /*?format=*
+Disallow: /*?m=*
+Disallow: /*?amp=*
+Disallow: /comment*
+Disallow: /*/comment*
+Disallow: /*#comment
+Disallow: /view-source:*
+Disallow: /*.atom
+Disallow: /*?redirect=*
+Disallow: /*.json$
 
-User-agent: Yandex
-Allow: /
+# SITEMAPS & AI KNOWLEDGE retrieval
+Sitemap: https://ayurshakti.shop/sitemap.xml
+Sitemap: https://ayurshakti.shop/llms.txt
 
-User-agent: SeznamBot
-Allow: /
-
-User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: Claude-Web
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: CCBot
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: AppleBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: omgili
-Allow: /
-
-User-agent: PetalBot
-Allow: /
-
-User-agent: YouBot
-Allow: /
-
-User-agent: Meta-ExternalAgent
-Allow: /
-
-User-agent: BingPreview
-Allow: /
-
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: DuckDuckBot
-Allow: /
-
-User-agent: Baiduspider
-Allow: /
-
-Sitemap: https://www.ayurshakti.shop/sitemap.xml
-Sitemap: https://www.ayurshakti.shop/llms.txt
+Host: ayurshakti.shop
