@@ -1,6 +1,18 @@
 # Charaka Samhita — SEO Refinement Checkpoint
 
-**Last updated:** 2026-08-18 (session end — pushed + deployed)
+**Last updated:** 2026-08-18 (URL audit + hotfix pushed `baf5317`)
+
+## URL Audit Result (150/150) — DONE 2026-08-18
+
+- **Unique:** 150/150, no duplicates. **Files match slugs:** 100%. **Format:** all lowercase + hyphen, no violations.
+- **Fixed (hotfix `baf5317`):**
+  - OCR typo in 2 Siddhisthana slugs + titles + source corpus: `basti-sutra-sddhi` → `basti-sutra-siddhi` (ch-03), `trimarma-sddhi` → `trimarma-siddhi` (ch-09); git mv + refs in ch-02/04/08/10 prev/next + book-info.
+  - `book-info.json` `chapters` array order corrected to classical 8-sthana order (Sutrasthana→Nidanasthana→Vimanasthana→Sharirasthana→Indriyasthana→Chikitsasthana→Kalpasthana→Siddhisthana), hub first, then ch-01..N ascending. Site chapter list uses array order (Map insertion), so display was wrong before.
+- **Acceptable (no action):** avg slug 62 chars, 23 slugs >75 chars (max 89) — descriptive, keyword-rich, fine for Google. Stop words ("of/the/and") from title tails — consistent with H1s, fine.
+- **Note:** sitemap order = filesystem alphabetical (zero-padded ch-NN so numerically correct within sections) — cosmetic only.
+- Old `sddhi` OCR body errors in Siddhisthana ch-02/04/08/10 will be cleaned during their premium refinement.
+
+## Next Session: Resume at Chapter 18
 
 ## Next Session: Resume at Chapter 18
 
