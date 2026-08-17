@@ -239,6 +239,15 @@ export default function Navbar() {
             <BookOpen className="w-4 h-4 text-ayur-gold" />
             <span>Glossary</span>
           </Link>
+
+          {/* 6. Methodology Link */}
+          <Link
+            href="/methodology"
+            className="text-sm font-medium text-ayur-forest hover:text-ayur-emerald transition-colors py-2 flex items-center gap-1.5"
+          >
+            <ShieldCheck className="w-4 h-4 text-ayur-gold" />
+            <span>Methodology</span>
+          </Link>
         </nav>
 
         {/* Action Button */}

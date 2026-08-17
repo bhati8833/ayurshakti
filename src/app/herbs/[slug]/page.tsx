@@ -108,6 +108,32 @@ export default function HerbDetailPage({ params }: HerbPageProps) {
               prose-a:text-ayur-emerald hover:prose-a:underline"
             dangerouslySetInnerHTML={{ __html: herb.htmlContent }}
           />
+
+          {/* Citation & Scientific Evidence Transparency Block */}
+          <div className="mt-12 pt-8 border-t border-ayur-gold/30 rounded-2xl bg-ayur-bg/60 p-6 sm:p-8 space-y-4">
+            <div className="flex items-center justify-between flex-wrap gap-2">
+              <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-ayur-sand text-ayur-forest text-xs font-bold uppercase tracking-wider">
+                📜 Primary Source & Evidence Citations
+              </span>
+              <span className="text-xs font-medium text-ayur-sage">Peer-Reviewed & Cataloged • Authored by Suresh Bhati</span>
+            </div>
+
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 text-xs text-ayur-forest pt-2">
+              <div className="p-4 rounded-xl bg-white border border-ayur-gold/20 space-y-1">
+                <h4 className="font-serif font-bold text-sm text-ayur-forest">Classical Sanskrit Treatise</h4>
+                <p className="text-ayur-sage">Primary verses from <em>Charaka Samhita (Sutrasthana)</em> and <em>Bhavaprakasha Nighantu</em>.</p>
+              </div>
+              <div className="p-4 rounded-xl bg-white border border-ayur-gold/20 space-y-1">
+                <h4 className="font-serif font-bold text-sm text-ayur-forest">PubMed Clinical Studies</h4>
+                <p className="text-ayur-sage">Phytochemical screening cross-referenced with NCBI PMIDs & pharmacology databases.</p>
+              </div>
+            </div>
+
+            <div className="pt-2 text-[11px] text-ayur-sage leading-relaxed flex items-center justify-between flex-wrap gap-2 border-t border-ayur-border/40">
+              <span>Medical Disclaimer: Educational material for wellness research. Consult a qualified Ayurvedic practitioner before starting any herbal protocol.</span>
+              <Link href="/methodology" className="font-bold text-ayur-emerald hover:underline uppercase tracking-wider">View Full Vetting Methodology →</Link>
+            </div>
+          </div>
         </article>
 
         <div className="mt-8 text-center">

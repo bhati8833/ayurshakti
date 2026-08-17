@@ -28,8 +28,7 @@ Disallow: /*.atom
 Disallow: /*?redirect=*
 Disallow: /*.json$
 
-# SITEMAPS & AI KNOWLEDGE retreival
+# SITEMAPS & AI KNOWLEDGE retrieval
 Sitemap: https://ayurshakti.shop/sitemap.xml
-Sitemap: https://ayurshakti.shop/llms.txt
 
 Host: ayurshakti.shop

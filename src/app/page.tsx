@@ -1,6 +1,7 @@
 import React from 'react';
 import { Metadata } from 'next';
 import HeroSection from '@/components/HeroSection';
+import CredibilityBanner from '@/components/CredibilityBanner';
 import DoshaQuizWidget from '@/components/DoshaQuizWidget';
 import FeaturedArticles from '@/components/FeaturedArticles';
 import CanonicalLibrary from '@/components/CanonicalLibrary';
@@ -24,15 +25,18 @@ export default function HomePage() {
       {/* 1. Cinematic Hero Section */}
       <HeroSection />
 
-      {/* 2. Interactive Dosha Self-Assessment */}
-      <section className="px-4 sm:px-6 lg:px-8">
+      {/* 2. Scientific Methodology & Credibility Banner */}
+      <CredibilityBanner />
+
+      {/* 3. Interactive Dosha Self-Assessment */}
+      <section className="px-4 sm:px-6 lg:px-8 pt-12">
         <DoshaQuizWidget />
       </section>
 
-      {/* 3. Featured Evidence-Based Research Grid */}
+      {/* 4. Featured Evidence-Based Research Grid */}
       <FeaturedArticles articles={standardArticles.length > 0 ? standardArticles : allArticles} />
 
-      {/* 4. Sanskrit Canonical Repository */}
+      {/* 5. Sanskrit Canonical Repository */}
       <CanonicalLibrary />
     </div>
   );

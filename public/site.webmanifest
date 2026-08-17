@@ -1,0 +1,21 @@
+{
+  "name": "AyurShakti — Ayurvedic Health & Pet Wellness",
+  "short_name": "AyurShakti",
+  "description": "Evidence-based Ayurvedic remedies, Sanskrit canonical text analysis, and PubMed peer-reviewed protocols.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#09261E",
+  "theme_color": "#09261E",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

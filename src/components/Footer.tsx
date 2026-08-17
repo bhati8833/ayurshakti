@@ -4,6 +4,7 @@ import React, { useState } from 'react';
 import Link from 'next/link';
 import { motion } from 'motion/react';
 import { Sparkles, Send, Heart, BookOpen, Compass, ShieldCheck, Mail } from 'lucide-react';
+import ObfuscatedEmail from '@/components/ObfuscatedEmail';
 
 export default function Footer() {
   const [email, setEmail] = useState('');
@@ -138,10 +139,10 @@ export default function Footer() {
             <h4 className="font-bold text-ayur-gold uppercase tracking-widest text-sm">Transparency & About</h4>
             <ul className="space-y-2 text-ayur-bg/80">
               <li><Link href="/about" className="hover:text-ayur-gold transition-colors">About Author Suresh Bhati</Link></li>
-              <li><span className="text-ayur-bg/60">PubMed Citation Standards</span></li>
-              <li><span className="text-ayur-bg/60">Sanskrit Translation Rigor</span></li>
-              <li><span className="text-ayur-bg/60">Editorial Principles</span></li>
-              <li><a href="mailto:contact@ayurshakti.shop" className="hover:text-ayur-gold transition-colors">contact@ayurshakti.shop</a></li>
+              <li><Link href="/methodology" className="hover:text-ayur-gold transition-colors">Scientific Methodology</Link></li>
+              <li><Link href="/dosha-guide" className="hover:text-ayur-gold transition-colors">Dosha, Agni & Prakriti Guide</Link></li>
+              <li><Link href="/sitemap.xml" className="hover:text-ayur-gold transition-colors">XML Sitemap</Link></li>
+              <li><ObfuscatedEmail className="hover:text-ayur-gold transition-colors" /></li>
             </ul>
           </div>
 

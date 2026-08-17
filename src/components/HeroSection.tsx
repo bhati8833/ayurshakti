@@ -22,9 +22,9 @@ export default function HeroSection() {
           transition={{ duration: 0.6, ease: [0.16, 1, 0.3, 1] }}
           className="flex justify-center mb-6"
         >
-          <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white border border-ayur-gold/30 text-ayur-forest text-xs font-semibold uppercase tracking-widest shadow-sm">
+          <span className="inline-flex items-center gap-2 px-4.5 py-1.5 rounded-full bg-white border border-ayur-gold/40 text-ayur-forest text-xs font-semibold uppercase tracking-widest shadow-sm">
             <Sparkles className="w-3.5 h-3.5 text-ayur-gold" />
-            Verified Ayurvedic Remedies & PubMed-Backed Protocols
+            PubMed Peer-Reviewed Science × 3,000-Year Sanskrit Treatises
           </span>
         </motion.div>
 
@@ -36,9 +36,9 @@ export default function HeroSection() {
             transition={{ duration: 0.8, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
             className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-ayur-forest leading-[1.12]"
           >
-            Evidence-Based Ayurvedic Remedies.{' '}
+            Authentic Ayurvedic Remedies.{' '}
             <span className="block italic font-serif font-normal text-ayur-emerald underline decoration-ayur-gold/40 decoration-wavy decoration-2">
-              Backed by Modern Science.
+              Validated by Modern Pharmacology.
             </span>
           </motion.h1>
 
@@ -46,9 +46,9 @@ export default function HeroSection() {
             initial={{ opacity: 0, y: 30 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.4, ease: [0.16, 1, 0.3, 1] }}
-            className="text-lg sm:text-xl text-ayur-sage max-w-2xl mx-auto leading-relaxed"
+            className="text-lg sm:text-xl text-ayur-sage max-w-3xl mx-auto leading-relaxed"
           >
-            Explore evidence-based Ayurvedic remedies, Sanskrit canonical text analysis (Charaka & Sushruta Samhita), botanical herb profiles, and PubMed peer-reviewed protocols for human and pet vitality.
+            Researched by <strong>Suresh Bhati</strong>. Analyzing 366 chapters from <em>Charaka & Sushruta Samhita</em>, 42 clinical botanical profiles (withanolides, curcuminoids), and PubMed-backed veterinary remedies for human and pet vitality.
           </motion.p>
 
           {/* Action CTAs */}

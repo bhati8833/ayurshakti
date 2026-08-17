@@ -2,6 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import { Metadata } from 'next';
 import { Sparkles, ShieldCheck, Microscope, ScrollText, Mail } from 'lucide-react';
+import ObfuscatedEmail from '@/components/ObfuscatedEmail';
 
 export const metadata: Metadata = {
   title: 'About Suresh Bhati & AyurShakti | Mission & Scientific Vision',
@@ -73,12 +74,11 @@ export default function AboutPage() {
             We welcome scientific collaborations, research questions, and reader feedback.
           </p>
           <div className="pt-2">
-            <a
-              href="mailto:contact@ayurshakti.shop"
+            <ObfuscatedEmail
               className="inline-flex items-center gap-2 px-8 py-4 rounded-full bg-ayur-gold text-ayur-forest font-bold text-xs uppercase tracking-wider hover:bg-white transition-all shadow-lg"
             >
               <Mail className="w-4 h-4" /> Contact Suresh Bhati (contact@ayurshakti.shop)
-            </a>
+            </ObfuscatedEmail>
           </div>
         </div>
 
