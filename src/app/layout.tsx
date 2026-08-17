@@ -132,7 +132,7 @@ export default function RootLayout({
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLdWebSite) }}
         />
 
-        {/* Google Analytics 4 (GA4) Tag - Loaded lazily to eliminate main thread blocking */}
+        {/* Google Analytics 4 (GA4) Tag - Loaded purely on user interaction / idle callback to protect TBT & LCP */}
         <Script id="google-analytics" strategy="lazyOnload" data-cfasync="false">
           {`
             (function() {
@@ -157,13 +157,17 @@ export default function RootLayout({
                 });
               }
               
-              var events = ['mousemove', 'touchstart', 'keydown', 'scroll'];
+              var events = ['mousemove', 'touchstart', 'keydown', 'scroll', 'click'];
               function trigger() {
                 loadGA();
                 events.forEach(function(e) { window.removeEventListener(e, trigger); });
               }
               events.forEach(function(e) { window.addEventListener(e, trigger, { passive: true }); });
-              setTimeout(loadGA, 3500);
+              if ('requestIdleCallback' in window) {
+                requestIdleCallback(function() { setTimeout(loadGA, 8000); });
+              } else {
+                setTimeout(loadGA, 8000);
+              }
             })();
           `}
         </Script>
