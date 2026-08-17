@@ -48,10 +48,10 @@ export default function CanonicalLibrary() {
             Topical Knowledge Silos
           </span>
           <h2 className="font-serif text-3xl sm:text-5xl font-bold text-ayur-forest">
-            Explore Classical & Research Hubs
+            Sanskrit Canonical Samhitas & Ayurvedic Knowledge Hubs
           </h2>
           <p className="text-ayur-sage text-base sm:text-lg">
-            Organized into dedicated authoritative knowledge hubs for intuitive navigation, deep search engine indexing, and seamless reading.
+            Organized into dedicated Ayurvedic knowledge hubs for intuitive navigation, deep search engine indexing, and evidence-based study.
           </p>
         </div>
 

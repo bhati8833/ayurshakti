@@ -30,7 +30,7 @@ export default function FeaturedArticles({ articles }: { articles: ArticleDoc[] 
               Evidence-Based Library
             </span>
             <h2 className="font-serif text-3xl sm:text-5xl font-bold text-ayur-forest tracking-tight">
-              Featured Research & Protocols
+              Featured Ayurvedic Remedies & Clinical Protocols
             </h2>
           </div>
 

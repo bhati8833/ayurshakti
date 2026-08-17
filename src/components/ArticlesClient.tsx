@@ -34,10 +34,10 @@ export default function ArticlesClient({ articles }: { articles: ArticleDoc[] })
             Comprehensive Repository ({articles.length} Articles)
           </span>
           <h1 className="font-serif text-4xl sm:text-6xl font-bold text-ayur-forest">
-            Research Articles & Guidelines
+            Ayurvedic Remedies & Research Protocols
           </h1>
           <p className="text-ayur-sage text-lg">
-            Explore authentic herbal adaptogens, Ayurvedic protocols, and PubMed citations for holistic wellbeing.
+            Explore authentic Ayurvedic remedies, herbal adaptogen guides, and PubMed-backed citations for holistic wellbeing.
           </p>
 
           {/* Search Bar */}

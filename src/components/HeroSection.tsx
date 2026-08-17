@@ -24,7 +24,7 @@ export default function HeroSection() {
         >
           <span className="inline-flex items-center gap-2 px-4 py-1.5 rounded-full bg-white border border-ayur-gold/30 text-ayur-forest text-xs font-semibold uppercase tracking-widest shadow-sm">
             <Sparkles className="w-3.5 h-3.5 text-ayur-gold" />
-            Verified Classical Ayurveda & Scientific PubMed Citations
+            Verified Ayurvedic Remedies & PubMed-Backed Protocols
           </span>
         </motion.div>
 
@@ -36,7 +36,7 @@ export default function HeroSection() {
             transition={{ duration: 0.8, delay: 0.2, ease: [0.16, 1, 0.3, 1] }}
             className="font-serif text-4xl sm:text-6xl lg:text-7xl font-bold tracking-tight text-ayur-forest leading-[1.12]"
           >
-            Ancient Herbal Wisdom.{' '}
+            Evidence-Based Ayurvedic Remedies.{' '}
             <span className="block italic font-serif font-normal text-ayur-emerald underline decoration-ayur-gold/40 decoration-wavy decoration-2">
               Backed by Modern Science.
             </span>
@@ -48,7 +48,7 @@ export default function HeroSection() {
             transition={{ duration: 0.8, delay: 0.4, ease: [0.16, 1, 0.3, 1] }}
             className="text-lg sm:text-xl text-ayur-sage max-w-2xl mx-auto leading-relaxed"
           >
-            Explore evidence-based Ayurvedic remedies, Sanskrit canonical texts, and PubMed peer-reviewed botanical protocols for human and pet vitality.
+            Explore evidence-based Ayurvedic remedies, Sanskrit canonical text analysis (Charaka & Sushruta Samhita), botanical herb profiles, and PubMed peer-reviewed protocols for human and pet vitality.
           </motion.p>
 
           {/* Action CTAs */}
