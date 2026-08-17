@@ -120,19 +120,35 @@ const INTERLINK_MAP: Record<string, InterlinkMetadata> = {
 export function applyWikipediaInterlinks(htmlContent: string): string {
   if (!htmlContent) return htmlContent;
 
-  let processedHtml = htmlContent;
+  // 1. Temporarily replace protected blocks (headings, existing anchors, code, pre, script, style)
+  const protectedBlocks: string[] = [];
+  const protectRegex = /<(h[1-6]|a|code|pre|script|style|button)[^>]*>[\s\S]*?<\/\1>/gi;
+
+  let workingHtml = htmlContent.replace(protectRegex, (match) => {
+    const placeholder = `___PROTECTED_BLOCK_${protectedBlocks.length}___`;
+    protectedBlocks.push(match);
+    return placeholder;
+  });
+
+  // 2. Token substitution map for tooltips
+  const tokenMap: Record<string, string> = {};
+  let tokenCounter = 0;
   const replacedTerms = new Set<string>();
 
-  for (const [term, meta] of Object.entries(INTERLINK_MAP)) {
+  // Sort terms by length descending so longer terms match first
+  const sortedEntries = Object.entries(INTERLINK_MAP).sort((a, b) => b[0].length - a[0].length);
+
+  for (const [term, meta] of sortedEntries) {
     if (replacedTerms.has(term.toLowerCase())) continue;
 
-    // Matches term outside existing HTML tags and outside <a>...</a> anchors
-    const regex = new RegExp(`(?<!<[^>]*)\\b(${term})\\b(?![^<]*>|[^<]*<\\/a>)`, 'i');
+    // Matches term outside of HTML tag attributes
+    const regex = new RegExp(`(?<!<[^>]*)\\b(${term})\\b(?![^<]*>)`, 'i');
 
-    if (regex.test(processedHtml)) {
+    if (regex.test(workingHtml)) {
+      const token = `___INTERLINK_TOKEN_${tokenCounter++}___`;
       const tooltipHtml = `
 <span class="ayur-tooltip-wrapper group relative inline-block">
-  <a href="${meta.path}" class="text-ayur-emerald font-medium underline decoration-ayur-emerald/40 underline-offset-4 hover:decoration-ayur-emerald hover:text-ayur-forest transition-colors" title="Explore ${term} on AyurShakti">$1</a>
+  <a href="${meta.path}" class="text-ayur-emerald font-medium underline decoration-ayur-emerald/40 underline-offset-4 hover:decoration-ayur-emerald hover:text-ayur-forest transition-colors" title="Explore ${term} on AyurShakti">${term}</a>
   <span class="ayur-tooltip-card absolute bottom-full left-1/2 mb-2 w-72 p-4 rounded-2xl bg-white border border-ayur-gold/30 shadow-card z-50 text-left text-xs space-y-2 font-normal text-ayur-sage">
     <span class="flex items-center justify-between border-b border-ayur-gold/20 pb-1.5 font-sans">
       <span class="font-serif font-bold text-ayur-forest text-sm">${term}</span>
@@ -143,10 +159,21 @@ export function applyWikipediaInterlinks(htmlContent: string): string {
   </span>
 </span>`.trim();
 
-      processedHtml = processedHtml.replace(regex, tooltipHtml);
+      tokenMap[token] = tooltipHtml;
+      workingHtml = workingHtml.replace(regex, token);
       replacedTerms.add(term.toLowerCase());
     }
   }
 
-  return processedHtml;
+  // 3. Restore tooltip tokens
+  for (const [token, html] of Object.entries(tokenMap)) {
+    workingHtml = workingHtml.replace(token, html);
+  }
+
+  // 4. Restore protected blocks (headings, links, etc.)
+  for (let i = 0; i < protectedBlocks.length; i++) {
+    workingHtml = workingHtml.replace(`___PROTECTED_BLOCK_${i}___`, protectedBlocks[i]);
+  }
+
+  return workingHtml;
 }

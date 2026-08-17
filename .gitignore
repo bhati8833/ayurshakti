@@ -24,6 +24,10 @@ __pycache__/
 out/
 .firebase/
 
+# Throwaway scratch files (auto-cleaned on every build)
+temp/
+drafts/
+
 # Dependencies
 node_modules/
 

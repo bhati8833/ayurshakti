@@ -82,7 +82,7 @@ const jsonLdOrganization = {
   '@id': 'https://ayurshakti.shop/#organization',
   name: 'AyurShakti',
   url: 'https://ayurshakti.shop',
-  logo: 'https://ayurshakti.shop/public/images/logo.png',
+  logo: 'https://ayurshakti.shop/images/logo.png',
   description: 'Evidence-based Ayurvedic remedies, Sanskrit canonical text analysis, and PubMed peer-reviewed protocols.',
   founder: {
     '@type': 'Person',

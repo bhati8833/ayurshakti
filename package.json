@@ -1,11 +1,12 @@
 {
   "name": "ayurshakti-shop",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "prebuild": "node scripts/generate-sitemap.mjs",
     "build": "NODE_OPTIONS='--max-old-space-size=2048' NEXT_STATIC_GEN_CONCURRENCY=2 next build",
+    "clean": "bash scripts/clean.sh",
     "start": "next start",
     "lint": "next lint"
   },

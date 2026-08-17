@@ -4,7 +4,7 @@ import fs from 'fs';
 import path from 'path';
 import { Metadata } from 'next';
 import { notFound } from 'next/navigation';
-import { getSamhitaBooks, getSamhitaBook, getSamhitaChapter } from '@/lib/markdown';
+import { getSamhitaBooks, getSamhitaBook, getSamhitaChapter, cleanChapterTitle } from '@/lib/markdown';
 import { Scroll, Clock, ArrowLeft, ArrowRight, ShieldCheck, User } from 'lucide-react';
 
 interface ChapterPageProps {
@@ -61,11 +61,23 @@ export async function generateMetadata({ params }: ChapterPageProps): Promise<Me
   const chapter = getSamhitaChapter(params.bookSlug, params.chapterSlug);
   if (!chapter) return { title: 'Chapter Not Found | AyurShakti' };
 
+  const cleanTitle = cleanChapterTitle(chapter.title);
+  const title = `${cleanTitle} | ${chapter.book}`;
+  const description = chapter.description
+    ? chapter.description
+    : `Read ${cleanTitle} from ${chapter.book} (${chapter.section}). Unabridged English translation with classical Ayurvedic principles.`;
+
   return {
-    title: `${chapter.title} | ${chapter.book} | AyurShakti`,
-    description: `Read ${chapter.title} from ${chapter.book} (${chapter.section}). Unabridged English translation with classical Ayurvedic principles.`,
+    title,
+    description,
     alternates: {
       canonical: `/samhitas/${params.bookSlug}/${params.chapterSlug}`,
+    },
+    openGraph: {
+      title,
+      description,
+      type: 'article',
+      url: `/samhitas/${params.bookSlug}/${params.chapterSlug}`,
     },
   };
 }
@@ -78,14 +90,28 @@ export default function ChapterViewPage({ params }: ChapterPageProps) {
   const prevChapter = chapter.prev_chapter ? getSamhitaChapter(params.bookSlug, chapter.prev_chapter) : null;
   const nextChapter = chapter.next_chapter ? getSamhitaChapter(params.bookSlug, chapter.next_chapter) : null;
 
-  // MedicalWebPage Schema
+  // Strip the markdown H1 (rendered from the .md body) to avoid duplicate H1 with the hero header
+  const bodyHtml = chapter.htmlContent.replace(/<h1[^>]*>[\s\S]*?<\/h1>\s*/i, '');
+
+  const chapterUrl = `https://ayurshakti.shop/samhitas/${params.bookSlug}/${params.chapterSlug}`;
+  const publishedDate = chapter.date || new Date().toISOString().split('T')[0];
+
+  // MedicalWebPage Schema (enriched)
   const jsonLd = {
     '@context': 'https://schema.org',
     '@type': 'MedicalWebPage',
+    '@id': chapterUrl,
+    url: chapterUrl,
     name: chapter.title,
+    headline: cleanChapterTitle(chapter.title),
+    description: chapter.description || undefined,
+    datePublished: publishedDate,
+    dateModified: publishedDate,
+    mainEntityOfPage: chapterUrl,
     isPartOf: {
       '@type': 'Book',
       name: chapter.book,
+      url: `https://ayurshakti.shop/samhitas/${params.bookSlug}`,
       author: {
         '@type': 'Person',
         name: chapter.author,
@@ -99,7 +125,10 @@ export default function ChapterViewPage({ params }: ChapterPageProps) {
     publisher: {
       '@type': 'Organization',
       name: 'AyurShakti',
-      logo: 'https://ayurshakti.shop/public/images/logo.png',
+      logo: {
+        '@type': 'ImageObject',
+        url: 'https://ayurshakti.shop/images/logo.png',
+      },
     },
     inLanguage: 'en',
     about: {
@@ -109,6 +138,22 @@ export default function ChapterViewPage({ params }: ChapterPageProps) {
     },
   };
 
+
+  // FAQPage Schema (auto-extracted from the markdown FAQ section)
+  const faqLd = extractFaqSchema(chapter.content, chapterUrl);
+
+  // BreadcrumbList Schema (breadcrumbs are already rendered visually)
+  const breadcrumbLd = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://ayurshakti.shop/' },
+      { '@type': 'ListItem', position: 2, name: 'Samhitas', item: 'https://ayurshakti.shop/samhitas' },
+      { '@type': 'ListItem', position: 3, name: chapter.book, item: `https://ayurshakti.shop/samhitas/${params.bookSlug}` },
+      { '@type': 'ListItem', position: 4, name: cleanChapterTitle(chapter.title), item: chapterUrl },
+    ],
+  };
+
   return (
     <main className="min-h-screen bg-ayur-bg pb-24">
       {/* Schema Injection */}
@@ -116,6 +161,16 @@ export default function ChapterViewPage({ params }: ChapterPageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
       />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbLd) }}
+      />
+      {faqLd && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(faqLd) }}
+        />
+      )}
 
       {/* Breadcrumb Navigation */}
       <nav aria-label="Breadcrumb" className="bg-ayur-forest/5 border-b border-ayur-border/40 py-3">
@@ -168,8 +223,18 @@ export default function ChapterViewPage({ params }: ChapterPageProps) {
                 prose-a:text-ayur-emerald prose-a:font-semibold hover:prose-a:underline
                 prose-blockquote:border-l-4 prose-blockquote:border-ayur-gold prose-blockquote:bg-ayur-sand/30 prose-blockquote:py-2 prose-blockquote:px-4 prose-blockquote:rounded-r-xl
                 prose-strong:text-ayur-forest prose-strong:font-bold"
-              dangerouslySetInnerHTML={{ __html: chapter.htmlContent }}
+              dangerouslySetInnerHTML={{ __html: bodyHtml }}
             />
+
+            {/* YMYL Medical Disclaimer */}
+            <div className="mt-10 rounded-2xl border border-ayur-gold/25 bg-ayur-sand/25 p-5 text-xs leading-relaxed text-ayur-sage">
+              <p className="font-bold text-ayur-forest mb-1">Medical Disclaimer</p>
+              <p>
+                This content is an English translation of the classical Charaka Samhita for educational and research
+                purposes only. It is not medical advice and does not replace consultation with a qualified healthcare
+                practitioner. Ayurvedic therapies should be undertaken only under professional guidance.
+              </p>
+            </div>
 
             {/* Next / Previous Pagination Footer */}
             <div className="mt-12 pt-8 border-t border-ayur-border/60 grid grid-cols-1 sm:grid-cols-2 gap-4">
@@ -234,4 +299,34 @@ export default function ChapterViewPage({ params }: ChapterPageProps) {
       </div>
     </main>
   );
+}
+
+// Extract FAQPage schema from a markdown "## FAQ" / "## Frequently Asked Questions" section.
+// Questions are "### " headings; answers are the text until the next heading.
+function extractFaqSchema(content: string, pageUrl: string) {
+  const match = content.match(/^##\s+(?:FAQ|Frequently Asked Questions)\s*\n([\s\S]*)$/m);
+  if (!match) return null;
+  const section = match[1];
+  const blocks = section.split(/^###\s+/m).filter(Boolean);
+  const mainEntity: Array<{ '@type': string; name: string; acceptedAnswer: { '@type': string; text: string } }> = [];
+  for (const block of blocks) {
+    const lines = block.trim().split('\n');
+    const question = lines[0].replace(/^#+\s*/, '').trim();
+    if (!question) continue;
+    const answer = lines.slice(1).join(' ').replace(/\s+/g, ' ').trim();
+    if (!answer || answer.length < 10) continue;
+    mainEntity.push({
+      '@type': 'Question',
+      name: question,
+      acceptedAnswer: { '@type': 'Answer', text: answer.slice(0, 500) },
+    });
+  }
+  if (mainEntity.length < 2) return null;
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity,
+    inLanguage: 'en',
+    isPartOf: { '@type': 'WebPage', url: pageUrl },
+  };
 }

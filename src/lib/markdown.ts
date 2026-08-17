@@ -9,6 +9,93 @@ const CONTENT_DIR = path.join(ROOT_DIR, 'content');
 const DRAFTS_DIR = path.join(ROOT_DIR, 'drafts');
 const REGISTRY_PATH = path.join(ROOT_DIR, 'data', 'tracking', 'article-registry.json');
 
+// ----------------------------------------------------
+// Memoized file cache (mtime-keyed, concurrency-safe)
+// ----------------------------------------------------
+interface CacheEntry<T> {
+  mtimeMs: number;
+  value: T;
+}
+
+// Keyed by `${filePath}::${computeKey}` so the same file can be parsed
+// differently (summary vs full article) without cache collisions.
+const fileCache = new Map<string, CacheEntry<unknown>>();
+const dirCache = new Map<string, CacheEntry<fs.Dirent[]>>();
+const MAX_CACHE_ENTRIES = 20000;
+
+function memo<T>(filePath: string, computeKey: string, compute: (raw: string) => T): T | null {
+  if (!fs.existsSync(filePath)) return null;
+  const stat = fs.statSync(filePath);
+  const cacheKey = `${filePath}::${computeKey}`;
+  const hit = fileCache.get(cacheKey);
+  if (hit && hit.mtimeMs === stat.mtimeMs) return hit.value as T;
+
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const value = compute(raw);
+  if (fileCache.size >= MAX_CACHE_ENTRIES) fileCache.clear();
+  fileCache.set(cacheKey, { mtimeMs: stat.mtimeMs, value });
+  return value;
+}
+
+function readFileCached<T>(filePath: string, computeKey: string, compute: (raw: string) => T): T | null {
+  return memo(filePath, computeKey, compute);
+}
+
+function readDirCached(dir: string): fs.Dirent[] | null {
+  if (!fs.existsSync(dir)) return null;
+  const stat = fs.statSync(dir);
+  const hit = dirCache.get(dir);
+  if (hit && hit.mtimeMs === stat.mtimeMs) return hit.value;
+
+  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  dirCache.set(dir, { mtimeMs: stat.mtimeMs, value: entries });
+  return entries;
+}
+
+function parseJsonFile<T>(filePath: string): T | null {
+  return memo<T>(filePath, 'json', (raw) => JSON.parse(raw) as T);
+}
+
+// ----------------------------------------------------
+// Article index (slug -> path) — cached until dir mtimes change
+// ----------------------------------------------------
+interface ArticleIndexEntry {
+  fullPath: string;
+  category: string;
+}
+
+const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research', 'glossary']);
+let articleIndex: { signature: string; bySlug: Map<string, ArticleIndexEntry> } | null = null;
+
+function buildArticleIndex(): { signature: string; bySlug: Map<string, ArticleIndexEntry> } {
+  const bySlug = new Map<string, ArticleIndexEntry>();
+  const sigParts: string[] = [];
+
+  function scanDir(dir: string, categoryName: string) {
+    sigParts.push(`${dir}:${fs.statSync(dir).mtimeMs}`);
+    const entries = readDirCached(dir) || [];
+    for (const entry of entries) {
+      const fullPath = path.join(dir, entry.name);
+      if (entry.isDirectory()) {
+        if (!EXCLUDED_SILOS.has(entry.name)) scanDir(fullPath, entry.name.replace(/_/g, ' '));
+      } else if (entry.name.endsWith('.md')) {
+        const slug = entry.name.replace(/\.md$/, '').toLowerCase();
+        if (slug.startsWith('glossary_')) continue;
+        bySlug.set(slug, { fullPath, category: categoryName || 'General' });
+      }
+    }
+  }
+
+  if (fs.existsSync(CONTENT_DIR)) scanDir(CONTENT_DIR, 'General');
+  return { signature: sigParts.join('|'), bySlug };
+}
+
+function getArticleIndex(): { bySlug: Map<string, ArticleIndexEntry> } {
+  const rebuilt = buildArticleIndex();
+  if (!articleIndex || articleIndex.signature !== rebuilt.signature) articleIndex = rebuilt;
+  return articleIndex;
+}
+
 export function sanitizeMarkdownContent(raw: string): string {
   if (!raw) return '';
   let text = raw;
@@ -25,6 +112,13 @@ export function sanitizeMarkdownContent(raw: string): string {
   text = text.replace(/^\s*\[back to top\]\s*$/gmi, '');
   text = text.replace(/^\s*\([A-Za-z\s.]+\)\s*\n?\s*Research\s+Scholar\s*$/gmi, '');
   text = text.replace(/^\s*Atharvaveda and Charaka Samhita\s*$/gm, '');
+  // Strip WisdomLib book-intro boilerplate: "X Samhita (English translation)" + description paragraph + duplicate chapter title line
+  text = text.replace(
+    /^\s*[A-Za-z]+ Samhita \(English [Tt]ranslation\)\s*\n\nThe English translation of the [^\n]*\n\n(?:Chapter \d+[a-z]? - [^\n]*\n\n)?/gm,
+    ''
+  );
+  // Strip leftover "Sub-Contents: (+ / -)" collapsible markers from section-intro pages
+  text = text.replace(/^\s*Sub-Contents:\s*\(\+\s*\/\s*-\)\s*$/gmi, '');
   text = text.replace(/\n{3,}/g, '\n\n');
   return text.trim();
 }
@@ -75,11 +169,18 @@ export interface SamhitaChapterMeta {
   section: string;
   chapter_number: number;
   chapter_slug: string;
+  description: string;
+  date: string;
   reading_time: number;
   prev_chapter: string;
   next_chapter: string;
   content: string;
   htmlContent: string;
+}
+
+export function cleanChapterTitle(title: string): string {
+  // Remove "Chapter N - " / "Chapter Na - " prefix for <title> tags (hero H1 keeps full title)
+  return title.replace(/^Chapter\s+\d+[a-z]?\s*-\s*/i, '').trim();
 }
 
 export interface SamhitaBookInfo {
@@ -109,8 +210,6 @@ export interface SiloDoc {
   readingTime: string;
 }
 
-let cachedArticles: ArticleDoc[] | null = null;
-
 function generateGlossaryHtml(letter: string, mdContent?: string): { content: string; htmlContent: string; count: number } {
   const upperLetter = letter.toUpperCase();
   const jsonPath = path.join(CONTENT_DIR, 'glossary', `glossary_${upperLetter}.json`);
@@ -118,15 +217,10 @@ function generateGlossaryHtml(letter: string, mdContent?: string): { content: st
   let terms: any[] = [];
   let count = 0;
 
-  if (fs.existsSync(jsonPath)) {
-    try {
-      const raw = fs.readFileSync(jsonPath, 'utf8');
-      const data = JSON.parse(raw);
-      terms = data.terms || [];
-      count = data.total_terms || terms.length;
-    } catch (e) {
-      console.error(`Error reading ${jsonPath}:`, e);
-    }
+  const data = parseJsonFile<{ terms?: any[]; total_terms?: number }>(jsonPath);
+  if (data) {
+    terms = data.terms || [];
+    count = data.total_terms || terms.length;
   }
 
   let overviewHtml = '';
@@ -172,20 +266,13 @@ export function getSamhitaBooks(): SamhitaBookInfo[] {
   if (!fs.existsSync(samhitasDir)) return [];
 
   const books: SamhitaBookInfo[] = [];
-  const entries = fs.readdirSync(samhitasDir, { withFileTypes: true });
+  const entries = readDirCached(samhitasDir) || [];
 
   for (const entry of entries) {
-    if (entry.isDirectory()) {
-      const infoPath = path.join(samhitasDir, entry.name, 'book-info.json');
-      if (fs.existsSync(infoPath)) {
-        try {
-          const infoData = JSON.parse(fs.readFileSync(infoPath, 'utf8'));
-          books.push(infoData);
-        } catch (e) {
-          console.error(`Error reading ${infoPath}:`, e);
-        }
-      }
-    }
+    if (!entry.isDirectory()) continue;
+    const infoPath = path.join(samhitasDir, entry.name, 'book-info.json');
+    const info = parseJsonFile<SamhitaBookInfo>(infoPath);
+    if (info) books.push(info);
   }
 
   return books;
@@ -193,40 +280,36 @@ export function getSamhitaBooks(): SamhitaBookInfo[] {
 
 export function getSamhitaBook(bookSlug: string): SamhitaBookInfo | null {
   const infoPath = path.join(CONTENT_DIR, 'samhitas', bookSlug, 'book-info.json');
-  if (!fs.existsSync(infoPath)) return null;
-  try {
-    return JSON.parse(fs.readFileSync(infoPath, 'utf8'));
-  } catch (e) {
-    return null;
-  }
+  return parseJsonFile<SamhitaBookInfo>(infoPath);
 }
 
 export function getSamhitaChapter(bookSlug: string, chapterSlug: string): SamhitaChapterMeta | null {
   const filePath = path.join(CONTENT_DIR, 'samhitas', bookSlug, `${chapterSlug}.md`);
-  if (!fs.existsSync(filePath)) return null;
+  return readFileCached(filePath, 'samhita-chapter', (raw) => {
+    const { data, content } = matter(raw);
 
-  const raw = fs.readFileSync(filePath, 'utf8');
-  const { data, content } = matter(raw);
+    const cleanContent = sanitizeMarkdownContent(content);
+    const parsedHtml = marked.parse(cleanContent) as string;
+    const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
 
-  const cleanContent = sanitizeMarkdownContent(content);
-  const parsedHtml = marked.parse(cleanContent) as string;
-  const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
-
-  return {
-    title: data.title || chapterSlug.replace(/-/g, ' '),
-    book: data.book || 'Classical Text',
-    book_slug: data.book_slug || bookSlug,
-    author: data.author || 'Suresh Bhati',
-    silo: 'samhitas',
-    section: data.section || 'General',
-    chapter_number: data.chapter_number || 1,
-    chapter_slug: chapterSlug,
-    reading_time: data.reading_time || 5,
-    prev_chapter: data.prev_chapter || '',
-    next_chapter: data.next_chapter || '',
-    content,
-    htmlContent,
-  };
+    return {
+      title: data.title || chapterSlug.replace(/-/g, ' '),
+      book: data.book || 'Classical Text',
+      book_slug: data.book_slug || bookSlug,
+      author: data.author || 'Suresh Bhati',
+      silo: 'samhitas',
+      section: data.section || 'General',
+      chapter_number: data.chapter_number || 1,
+      chapter_slug: chapterSlug,
+      description: data.description || '',
+      date: data.date || '',
+      reading_time: data.reading_time || 5,
+      prev_chapter: data.prev_chapter || '',
+      next_chapter: data.next_chapter || '',
+      content,
+      htmlContent,
+    };
+  });
 }
 
 // ----------------------------------------------------
@@ -238,7 +321,9 @@ export function getHerbDocs(): SiloDoc[] {
   if (!fs.existsSync(dir)) return [];
 
   const docs: SiloDoc[] = [];
-  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+  const files = (readDirCached(dir) || [])
+    .filter(f => f.isFile() && f.name.endsWith('.md'))
+    .map(f => f.name);
 
   for (const f of files) {
     const slug = f.replace(/\.md$/, '');
@@ -251,23 +336,22 @@ export function getHerbDocs(): SiloDoc[] {
 
 export function getHerbDocBySlug(slug: string): SiloDoc | null {
   const filePath = path.join(CONTENT_DIR, 'herbs', `${slug}.md`);
-  if (!fs.existsSync(filePath)) return null;
+  return readFileCached(filePath, 'herb-doc', (raw) => {
+    const { data, content } = matter(raw);
+    const cleanContent = sanitizeMarkdownContent(content);
+    const parsedHtml = marked.parse(cleanContent) as string;
 
-  const raw = fs.readFileSync(filePath, 'utf8');
-  const { data, content } = matter(raw);
-  const cleanContent = sanitizeMarkdownContent(content);
-  const parsedHtml = marked.parse(cleanContent) as string;
-
-  return {
-    title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
-    slug,
-    silo: 'herbs',
-    category: data.category || 'Herb Profile',
-    content,
-    htmlContent: applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml)),
-    description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
-    readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
-  };
+    return {
+      title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
+      slug,
+      silo: 'herbs',
+      category: data.category || 'Herb Profile',
+      content,
+      htmlContent: applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml)),
+      description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
+      readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
+    };
+  });
 }
 
 export const getHerbBySlug = getHerbDocBySlug;
@@ -316,20 +400,13 @@ export function getResearchPapers(): ResearchPaperInfo[] {
   if (!fs.existsSync(researchDir)) return [];
 
   const papers: ResearchPaperInfo[] = [];
-  const entries = fs.readdirSync(researchDir, { withFileTypes: true });
+  const entries = readDirCached(researchDir) || [];
 
   for (const entry of entries) {
-    if (entry.isDirectory()) {
-      const infoPath = path.join(researchDir, entry.name, 'paper-info.json');
-      if (fs.existsSync(infoPath)) {
-        try {
-          const infoData = JSON.parse(fs.readFileSync(infoPath, 'utf8'));
-          papers.push(infoData);
-        } catch (e) {
-          console.error(`Error reading ${infoPath}:`, e);
-        }
-      }
-    }
+    if (!entry.isDirectory()) continue;
+    const infoPath = path.join(researchDir, entry.name, 'paper-info.json');
+    const infoData = parseJsonFile<ResearchPaperInfo>(infoPath);
+    if (infoData) papers.push(infoData);
   }
 
   return papers;
@@ -337,41 +414,35 @@ export function getResearchPapers(): ResearchPaperInfo[] {
 
 export function getResearchPaper(paperSlug: string): ResearchPaperInfo | null {
   const infoPath = path.join(CONTENT_DIR, 'research', paperSlug, 'paper-info.json');
-  if (!fs.existsSync(infoPath)) return null;
-  try {
-    return JSON.parse(fs.readFileSync(infoPath, 'utf8'));
-  } catch (e) {
-    return null;
-  }
+  return parseJsonFile<ResearchPaperInfo>(infoPath);
 }
 
 export function getResearchChapter(paperSlug: string, chapterSlug: string): ResearchChapterMeta | null {
   const filePath = path.join(CONTENT_DIR, 'research', paperSlug, `${chapterSlug}.md`);
-  if (!fs.existsSync(filePath)) return null;
+  return readFileCached(filePath, 'research-chapter', (raw) => {
+    const { data, content } = matter(raw);
 
-  const raw = fs.readFileSync(filePath, 'utf8');
-  const { data, content } = matter(raw);
+    const cleanContent = sanitizeMarkdownContent(content);
+    const parsedHtml = marked.parse(cleanContent) as string;
+    const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
 
-  const cleanContent = sanitizeMarkdownContent(content);
-  const parsedHtml = marked.parse(cleanContent) as string;
-  const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
-
-  return {
-    title: data.title || chapterSlug.replace(/-/g, ' '),
-    paper_title: data.paper_title || paperSlug.replace(/-/g, ' '),
-    paper_slug: data.paper_slug || paperSlug,
-    chapter_title: data.chapter_title || data.title || chapterSlug,
-    chapter_slug: chapterSlug,
-    chapter_number: data.chapter_number || 1,
-    author: data.author || 'Suresh Bhati',
-    original_scholar: data.original_scholar || 'Classical Ayurvedic Scholar',
-    silo: 'research',
-    reading_time: data.reading_time || 5,
-    prev_chapter: data.prev_chapter || '',
-    next_chapter: data.next_chapter || '',
-    content,
-    htmlContent,
-  };
+    return {
+      title: data.title || chapterSlug.replace(/-/g, ' '),
+      paper_title: data.paper_title || paperSlug.replace(/-/g, ' '),
+      paper_slug: data.paper_slug || paperSlug,
+      chapter_title: data.chapter_title || data.title || chapterSlug,
+      chapter_slug: chapterSlug,
+      chapter_number: data.chapter_number || 1,
+      author: data.author || 'Suresh Bhati',
+      original_scholar: data.original_scholar || 'Classical Ayurvedic Scholar',
+      silo: 'research',
+      reading_time: data.reading_time || 5,
+      prev_chapter: data.prev_chapter || '',
+      next_chapter: data.next_chapter || '',
+      content,
+      htmlContent,
+    };
+  });
 }
 
 // ----------------------------------------------------
@@ -383,7 +454,7 @@ export function getSiloDocs(siloName: 'pet-health' | 'research'): SiloDoc[] {
   if (!fs.existsSync(dir)) return [];
 
   const docs: SiloDoc[] = [];
-  const entries = fs.readdirSync(dir, { withFileTypes: true });
+  const entries = readDirCached(dir) || [];
 
   for (const entry of entries) {
     if (entry.isFile() && entry.name.endsWith('.md')) {
@@ -406,27 +477,47 @@ export function getSiloDocs(siloName: 'pet-health' | 'research'): SiloDoc[] {
 }
 
 export function getSiloDocBySlug(siloName: 'pet-health' | 'research', slug: string): SiloDoc | null {
-  let filePath = path.join(CONTENT_DIR, siloName, `${slug}.md`);
-  if (!fs.existsSync(filePath)) {
-    filePath = path.join(CONTENT_DIR, siloName, slug, 'index.md');
+  const directPath = path.join(CONTENT_DIR, siloName, `${slug}.md`);
+  if (fs.existsSync(directPath)) {
+    return readFileCached(directPath, 'silo-doc', (raw) => {
+      const { data, content } = matter(raw);
+      const cleanContent = sanitizeMarkdownContent(content);
+      const parsedHtml = marked.parse(cleanContent) as string;
+
+      return {
+        title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
+        slug,
+        silo: siloName,
+        category: data.category || 'Ayurvedic Studies',
+        content,
+        htmlContent: applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml)),
+        description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
+        readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
+      };
+    });
   }
-  if (!fs.existsSync(filePath)) return null;
 
-  const raw = fs.readFileSync(filePath, 'utf8');
-  const { data, content } = matter(raw);
-  const cleanContent = sanitizeMarkdownContent(content);
-  const parsedHtml = marked.parse(cleanContent) as string;
+  const indexPath = path.join(CONTENT_DIR, siloName, slug, 'index.md');
+  if (fs.existsSync(indexPath)) {
+    return readFileCached(indexPath, 'silo-doc', (raw) => {
+      const { data, content } = matter(raw);
+      const cleanContent = sanitizeMarkdownContent(content);
+      const parsedHtml = marked.parse(cleanContent) as string;
 
-  return {
-    title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
-    slug,
-    silo: siloName,
-    category: data.category || 'Ayurvedic Studies',
-    content,
-    htmlContent: applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml)),
-    description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
-    readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
-  };
+      return {
+        title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
+        slug,
+        silo: siloName,
+        category: data.category || 'Ayurvedic Studies',
+        content,
+        htmlContent: applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml)),
+        description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
+        readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
+      };
+    });
+  }
+
+  return null;
 }
 
 let cachedArticleSummaries: ArticleDoc[] | null = null;
@@ -435,48 +526,35 @@ let cachedArticleSummaries: ArticleDoc[] | null = null;
 export function getAllArticleSummaries(): ArticleDoc[] {
   if (cachedArticleSummaries) return cachedArticleSummaries;
   const summariesMap = new Map<string, ArticleDoc>();
+  const { bySlug } = getArticleIndex();
 
-  if (fs.existsSync(CONTENT_DIR)) {
-    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research', 'glossary']);
-    function scanDir(dir: string, categoryName: string) {
-      const entries = fs.readdirSync(dir, { withFileTypes: true });
-      for (const entry of entries) {
-        const fullPath = path.join(dir, entry.name);
-        if (entry.isDirectory()) {
-          if (!EXCLUDED_SILOS.has(entry.name)) {
-            scanDir(fullPath, entry.name.replace(/_/g, ' '));
-          }
-        } else if (entry.name.endsWith('.md')) {
-          const slug = entry.name.replace(/\.md$/, '').toLowerCase();
-          if (slug.startsWith('glossary_')) continue;
+  for (const [slug, entry] of bySlug) {
+    const summary = memo<ArticleDoc>(entry.fullPath, 'article-summary', (raw) => {
+      const { data, content } = matter(raw);
 
-          const fileContents = fs.readFileSync(fullPath, 'utf8');
-          const { data, content } = matter(fileContents);
-          
-          const rawTitle = data.title || entry.name.replace(/\.md$/, '').replace(/_/g, ' ');
-          const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
-          const words = content.split(/\s+/).length;
-          const readingTime = `${Math.max(1, Math.ceil(words / 200))} min read`;
-          const description = data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...';
+      const rawTitle = data.title || entry.fullPath.split('/').pop()!.replace(/\.md$/, '').replace(/_/g, ' ');
+      const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
+      const words = content.split(/\s+/).length;
+      const readingTime = `${Math.max(1, Math.ceil(words / 200))} min read`;
+      const description = data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...';
 
-          summariesMap.set(slug, {
-            slug,
-            title,
-            category: data.category || categoryName || 'Ayurvedic Science',
-            publishedDate: data.date || '2026-07-15',
-            status: data.status || 'Published',
-            description,
-            content: '', // Omit heavy content payload for index/card lists
-            htmlContent: '', // Omit heavy htmlContent payload
-            labels: data.labels || [categoryName],
-            readingTime,
-            author: 'Suresh Bhati',
-            isCanonicalText: categoryName.includes('canonical'),
-          });
-        }
-      }
-    }
-    scanDir(CONTENT_DIR, 'General');
+      return {
+        slug,
+        title,
+        category: data.category || entry.category || 'Ayurvedic Science',
+        publishedDate: data.date || '2026-07-15',
+        status: data.status || 'Published',
+        description,
+        content: '', // Omit heavy content payload for index/card lists
+        htmlContent: '', // Omit heavy htmlContent payload
+        labels: data.labels || [entry.category],
+        readingTime,
+        author: 'Suresh Bhati',
+        isCanonicalText: entry.category.includes('canonical'),
+      };
+    });
+
+    if (summary) summariesMap.set(slug, summary);
   }
 
   cachedArticleSummaries = Array.from(summariesMap.values());
@@ -490,65 +568,37 @@ export function getAllArticles(): ArticleDoc[] {
 export function getArticleBySlug(slug: string): ArticleDoc | undefined {
   const lowerSlug = slug.toLowerCase();
   if (lowerSlug.startsWith('glossary_')) return undefined;
-  
-  // Find single article file on demand
-  if (fs.existsSync(CONTENT_DIR)) {
-    const EXCLUDED_SILOS = new Set(['samhitas', 'herbs', 'herbs_draft', 'pet-health', 'research', 'glossary']);
-    function findFileInDir(dir: string, categoryName: string): ArticleDoc | null {
-      const entries = fs.readdirSync(dir, { withFileTypes: true });
-      for (const entry of entries) {
-        const fullPath = path.join(dir, entry.name);
-        if (entry.isDirectory()) {
-          if (!EXCLUDED_SILOS.has(entry.name)) {
-            const found = findFileInDir(fullPath, entry.name.replace(/_/g, ' '));
-            if (found) return found;
-          }
-        } else if (entry.name.endsWith('.md')) {
-          const fileSlug = entry.name.replace(/\.md$/, '').toLowerCase();
-          if (fileSlug === lowerSlug) {
-            const fileContents = fs.readFileSync(fullPath, 'utf8');
-            const { data, content } = matter(fileContents);
-            
-            let parsedHtml = '';
-            let finalContent = sanitizeMarkdownContent(content);
 
-            if (fileSlug.startsWith('glossary_')) {
-              const letter = fileSlug.replace('glossary_', '');
-              const gloss = generateGlossaryHtml(letter, content);
-              parsedHtml = gloss.htmlContent;
-              finalContent = gloss.content;
-            } else {
-              parsedHtml = marked.parse(finalContent) as string;
-            }
+  const entry = getArticleIndex().bySlug.get(lowerSlug);
+  if (!entry) return undefined;
 
-            const rawTitle = data.title || entry.name.replace(/\.md$/, '').replace(/_/g, ' ');
-            const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
-            const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
-            const words = finalContent.split(/\s+/).length;
-            const readingTime = `${Math.max(1, Math.ceil(words / 200))} min read`;
+  return memo<ArticleDoc>(entry.fullPath, 'article-full', (raw) => {
+    const { data, content } = matter(raw);
 
-            return {
-              slug: fileSlug,
-              title,
-              category: data.category || categoryName || 'Ayurvedic Science',
-              publishedDate: data.date || '2026-07-15',
-              status: data.status || 'Published',
-              description: data.description || finalContent.slice(0, 160).replace(/[#*`]/g, '') + '...',
-              content: finalContent,
-              htmlContent,
-              labels: data.labels || [categoryName],
-              readingTime,
-              author: 'Suresh Bhati',
-              isCanonicalText: categoryName.includes('canonical'),
-            };
-          }
-        }
-      }
-      return null;
-    }
-    const found = findFileInDir(CONTENT_DIR, 'General');
-    if (found) return found;
-  }
+    let parsedHtml = '';
+    let finalContent = sanitizeMarkdownContent(content);
 
-  return undefined;
+    parsedHtml = marked.parse(finalContent) as string;
+
+    const rawTitle = data.title || entry.fullPath.split('/').pop()!.replace(/\.md$/, '').replace(/_/g, ' ');
+    const title = rawTitle.charAt(0).toUpperCase() + rawTitle.slice(1);
+    const htmlContent = applyWikipediaInterlinks(addHeadingIdsToHtml(parsedHtml));
+    const words = finalContent.split(/\s+/).length;
+    const readingTime = `${Math.max(1, Math.ceil(words / 200))} min read`;
+
+    return {
+      slug: lowerSlug,
+      title,
+      category: data.category || entry.category || 'Ayurvedic Science',
+      publishedDate: data.date || '2026-07-15',
+      status: data.status || 'Published',
+      description: data.description || finalContent.slice(0, 160).replace(/[#*`]/g, '') + '...',
+      content: finalContent,
+      htmlContent,
+      labels: data.labels || [entry.category],
+      readingTime,
+      author: 'Suresh Bhati',
+      isCanonicalText: entry.category.includes('canonical'),
+    };
+  }) as ArticleDoc | undefined;
 }
