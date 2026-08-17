@@ -5,6 +5,7 @@
 User-agent: *
 Allow: /
 Allow: /sitemap.xml
+Allow: /llms.txt
 
 # Block search/filter/utility pages (no SEO value)
 Disallow: /search
@@ -27,7 +28,7 @@ Disallow: /*.atom
 Disallow: /*?redirect=*
 Disallow: /*.json$
 
-# SITEMAPS
+# SITEMAPS & AI KNOWLEDGE retreival
 Sitemap: https://ayurshakti.shop/sitemap.xml
 Sitemap: https://ayurshakti.shop/llms.txt
 

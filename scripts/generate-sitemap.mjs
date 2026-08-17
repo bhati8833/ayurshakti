@@ -8,6 +8,14 @@ const BASE_URL = 'https://ayurshakti.shop';
 const CURRENT_DATE = new Date().toISOString().split('T')[0];
 
 const urls = [];
+const llmsLinks = {
+  core: [],
+  herbs: [],
+  petHealth: [],
+  research: [],
+  samhitas: [],
+  articles: [],
+};
 
 function addUrl(loc, priority = '0.8', changefreq = 'weekly', lastmod = CURRENT_DATE) {
   urls.push(`  <url>
@@ -20,20 +28,22 @@ function addUrl(loc, priority = '0.8', changefreq = 'weekly', lastmod = CURRENT_
 
 // 1. Static Core Pages
 const staticPages = [
-  { path: '', priority: '1.0', changefreq: 'daily' },
-  { path: '/about', priority: '0.8', changefreq: 'monthly' },
-  { path: '/dosha-quiz', priority: '0.9', changefreq: 'monthly' },
-  { path: '/articles', priority: '0.9', changefreq: 'daily' },
-  { path: '/herbs', priority: '0.9', changefreq: 'weekly' },
-  { path: '/pet-health', priority: '0.9', changefreq: 'weekly' },
-  { path: '/research', priority: '0.9', changefreq: 'weekly' },
-  { path: '/samhitas', priority: '0.9', changefreq: 'weekly' },
-  { path: '/canonical-texts', priority: '0.8', changefreq: 'monthly' },
-  { path: '/glossary', priority: '0.8', changefreq: 'monthly' },
+  { path: '', priority: '1.0', changefreq: 'daily', name: 'Home Landing Page' },
+  { path: '/about', priority: '0.8', changefreq: 'monthly', name: 'About AyurShakti & Suresh Bhati' },
+  { path: '/dosha-quiz', priority: '0.9', changefreq: 'monthly', name: 'Interactive Dosha Assessment' },
+  { path: '/articles', priority: '0.9', changefreq: 'daily', name: 'Articles & Evidence-Based Protocols' },
+  { path: '/herbs', priority: '0.9', changefreq: 'weekly', name: 'Herbal Botanical Library' },
+  { path: '/pet-health', priority: '0.9', changefreq: 'weekly', name: 'Veterinary Ayurveda & Pet Health' },
+  { path: '/research', priority: '0.9', changefreq: 'weekly', name: 'PubMed Research Protocols' },
+  { path: '/samhitas', priority: '0.9', changefreq: 'weekly', name: 'Classical Sanskrit Samhitas' },
+  { path: '/canonical-texts', priority: '0.8', changefreq: 'monthly', name: 'Canonical Ayurvedic Manuscripts' },
+  { path: '/glossary', priority: '0.8', changefreq: 'monthly', name: 'Sanskrit Ayurvedic Glossary' },
 ];
 
 for (const page of staticPages) {
-  addUrl(`${BASE_URL}${page.path}`, page.priority, page.changefreq);
+  const fullUrl = `${BASE_URL}${page.path}`;
+  addUrl(fullUrl, page.priority, page.changefreq);
+  llmsLinks.core.push(`- [${page.name}](${fullUrl})`);
 }
 
 // 2. Herbs Silo
@@ -42,7 +52,10 @@ if (fs.existsSync(herbsDir)) {
   const files = fs.readdirSync(herbsDir).filter(f => f.endsWith('.md'));
   for (const f of files) {
     const slug = f.replace(/\.md$/, '');
-    addUrl(`${BASE_URL}/herbs/${slug}`, '0.8', 'weekly');
+    const fullUrl = `${BASE_URL}/herbs/${slug}`;
+    addUrl(fullUrl, '0.8', 'weekly');
+    const readableTitle = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    llmsLinks.herbs.push(`- [${readableTitle}](${fullUrl})`);
   }
 }
 
@@ -52,7 +65,10 @@ if (fs.existsSync(petDir)) {
   const files = fs.readdirSync(petDir).filter(f => f.endsWith('.md'));
   for (const f of files) {
     const slug = f.replace(/\.md$/, '');
-    addUrl(`${BASE_URL}/pet-health/${slug}`, '0.8', 'weekly');
+    const fullUrl = `${BASE_URL}/pet-health/${slug}`;
+    addUrl(fullUrl, '0.8', 'weekly');
+    const readableTitle = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    llmsLinks.petHealth.push(`- [${readableTitle}](${fullUrl})`);
   }
 }
 
@@ -62,7 +78,10 @@ if (fs.existsSync(researchDir)) {
   const files = fs.readdirSync(researchDir).filter(f => f.endsWith('.md'));
   for (const f of files) {
     const slug = f.replace(/\.md$/, '');
-    addUrl(`${BASE_URL}/research/${slug}`, '0.8', 'weekly');
+    const fullUrl = `${BASE_URL}/research/${slug}`;
+    addUrl(fullUrl, '0.8', 'weekly');
+    const readableTitle = slug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+    llmsLinks.research.push(`- [${readableTitle}](${fullUrl})`);
   }
 }
 
@@ -73,8 +92,11 @@ if (fs.existsSync(samhitasDir)) {
   for (const bookDir of books) {
     if (bookDir.isDirectory()) {
       const bookSlug = bookDir.name;
-      addUrl(`${BASE_URL}/samhitas/${bookSlug}`, '0.8', 'weekly');
-      
+      const fullUrl = `${BASE_URL}/samhitas/${bookSlug}`;
+      addUrl(fullUrl, '0.8', 'weekly');
+      const readableTitle = bookSlug.replace(/-/g, ' ').replace(/\b\w/g, c => c.toUpperCase());
+      llmsLinks.samhitas.push(`- [${readableTitle}](${fullUrl})`);
+
       const bookPath = path.join(samhitasDir, bookSlug);
       const chapters = fs.readdirSync(bookPath).filter(f => f.endsWith('.md'));
       for (const ch of chapters) {
@@ -98,15 +120,15 @@ if (fs.existsSync(registryPath)) {
     const rawData = JSON.parse(fs.readFileSync(registryPath, 'utf8'));
     const registry = Array.isArray(rawData) ? rawData : (rawData.articles || []);
     for (const art of registry) {
+      let slug = art.slug;
       if (art.url) {
-        // Extract slug from URL if present
         const urlMatch = art.url.match(/\/([^\/]+)\.html$/);
-        const slug = urlMatch ? urlMatch[1] : art.slug;
-        if (slug) {
-          addUrl(`${BASE_URL}/articles/${slug}`, '0.8', 'weekly', art.published_date || CURRENT_DATE);
-        }
-      } else if (art.slug) {
-        addUrl(`${BASE_URL}/articles/${art.slug}`, '0.8', 'weekly', art.published_date || CURRENT_DATE);
+        if (urlMatch) slug = urlMatch[1];
+      }
+      if (slug) {
+        const fullUrl = `${BASE_URL}/articles/${slug}`;
+        addUrl(fullUrl, '0.8', 'weekly', art.published_date || CURRENT_DATE);
+        llmsLinks.articles.push(`- [${art.title || slug}](${fullUrl})`);
       }
     }
   } catch (e) {
@@ -114,14 +136,47 @@ if (fs.existsSync(registryPath)) {
   }
 }
 
+// Generate sitemap.xml
 const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 ${urls.join('\n')}
 </urlset>`;
+
+// Generate llms.txt
+const llmsTxt = `# AyurShakti — Authentic Ayurvedic Wisdom & Science-Backed Protocols
+
+> AyurShakti is an evidence-based Ayurvedic medical knowledge base providing Sanskrit canonical text analysis, herbal profiles, veterinary remedies, and PubMed peer-reviewed protocols. Authored by Suresh Bhati.
+
+## Core Hubs & Navigation
+${llmsLinks.core.join('\n')}
+
+## Botanical Herbal Profiles
+${llmsLinks.herbs.join('\n')}
+
+## Veterinary Ayurveda & Pet Health
+${llmsLinks.petHealth.join('\n')}
+
+## PubMed Research Protocols & Studies
+${llmsLinks.research.join('\n')}
+
+## Classical Sanskrit Samhitas
+${llmsLinks.samhitas.join('\n')}
+
+## Evidence-Based Articles & Guides
+${llmsLinks.articles.slice(0, 30).join('\n')}
+
+## System & Metadata Specifications
+- XML Sitemap: ${BASE_URL}/sitemap.xml
+- LLM Index: ${BASE_URL}/llms.txt
+- Author: Suresh Bhati (Ayurvedic Practitioner & Researcher)
+- Organization: AyurShakti (https://ayurshakti.shop)
+`;
 
 if (!fs.existsSync(PUBLIC_DIR)) {
   fs.mkdirSync(PUBLIC_DIR, { recursive: true });
 }
 
 fs.writeFileSync(path.join(PUBLIC_DIR, 'sitemap.xml'), sitemapXml, 'utf8');
-console.log(`[SITEMAP BUILD] Successfully generated sitemap.xml with ${urls.length} URLs in public/sitemap.xml`);
+fs.writeFileSync(path.join(PUBLIC_DIR, 'llms.txt'), llmsTxt, 'utf8');
+
+console.log(`[SITEMAP & LLMS BUILD] Successfully generated public/sitemap.xml (${urls.length} URLs) and public/llms.txt`);
