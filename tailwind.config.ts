@@ -13,13 +13,13 @@ const config: Config = {
           bg: '#FAF9F5',         // Warm organic alabaster background
           surface: '#FFFFFF',    // Clean white surface
           card: '#F5F3ED',       // Soft organic sand card background
-          border: '#E6E2D8',     // Subtle natural border
+          border: '#D8D4C8',     // Subtle natural border
           forest: '#0C2920',     // Deep herbal forest green (Primary Text & Accents)
           herbal: '#1B4332',     // Rich herbal green
-          emerald: '#059669',    // Vibrant emerald green
-          gold: '#C5A059',       // Muted Ayurvedic gold
-          goldHover: '#B28C46',  // Darker gold on hover
-          sage: '#657A70',       // Soft sage text secondary
+          emerald: '#047857',    // Deep vibrant emerald green (Contrast ratio >= 5.2:1)
+          gold: '#855B14',       // Rich deep Ayurvedic gold (Contrast ratio >= 5.6:1)
+          goldHover: '#6E490E',  // Darker gold on hover
+          sage: '#3B4E46',       // Deep slate sage text secondary (Contrast ratio >= 7.5:1)
           sand: '#EFECE6',       // Light sand container
         },
       },

@@ -60,7 +60,7 @@ export default function HeroSection() {
             <div className="w-12 h-12 rounded-full bg-emerald-100 text-ayur-emerald flex items-center justify-center mx-auto mb-3 font-serif font-bold text-xl">
               वात
             </div>
-            <h3 className="font-serif font-bold text-lg text-ayur-forest">Vata (Air & Space)</h3>
+            <h2 className="font-serif font-bold text-lg text-ayur-forest">Vata (Air & Space)</h2>
             <p className="text-xs text-ayur-sage mt-1">Controls movement, nervous system, and creative energy.</p>
           </div>
 
@@ -69,7 +69,7 @@ export default function HeroSection() {
             <div className="w-12 h-12 rounded-full bg-amber-100 text-amber-700 flex items-center justify-center mx-auto mb-3 font-serif font-bold text-xl">
               पित्त
             </div>
-            <h3 className="font-serif font-bold text-lg text-ayur-forest">Pitta (Fire & Water)</h3>
+            <h2 className="font-serif font-bold text-lg text-ayur-forest">Pitta (Fire & Water)</h2>
             <p className="text-xs text-ayur-sage mt-1">Governs digestion (Agni), metabolism, and focus.</p>
           </div>
 
@@ -78,7 +78,7 @@ export default function HeroSection() {
             <div className="w-12 h-12 rounded-full bg-teal-100 text-teal-800 flex items-center justify-center mx-auto mb-3 font-serif font-bold text-xl">
               कफ
             </div>
-            <h3 className="font-serif font-bold text-lg text-ayur-forest">Kapha (Earth & Water)</h3>
+            <h2 className="font-serif font-bold text-lg text-ayur-forest">Kapha (Earth & Water)</h2>
             <p className="text-xs text-ayur-sage mt-1">Provides physical stamina, immunity, and joint lubrication.</p>
           </div>
         </div>
