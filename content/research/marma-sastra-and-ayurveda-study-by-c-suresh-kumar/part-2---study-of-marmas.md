@@ -35,8 +35,6 @@ Part 2 - Study of Marmas
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Part 2 - Study of Marmas
   ]
 }
 </script>
-

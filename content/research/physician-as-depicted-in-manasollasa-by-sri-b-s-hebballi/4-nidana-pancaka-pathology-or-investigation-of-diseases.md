@@ -47,8 +47,6 @@ In Ayurveda, the Methods of Investigation of Diseases are usually described unde
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ In Ayurveda, the Methods of Investigation of Diseases are usually described unde
   ]
 }
 </script>
-

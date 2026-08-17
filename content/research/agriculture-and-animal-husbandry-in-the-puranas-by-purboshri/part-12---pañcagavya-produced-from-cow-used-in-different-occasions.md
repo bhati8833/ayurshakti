@@ -170,8 +170,6 @@ pravartayati dharmajña mahāvṛṣṭimanantaram// Agni Purāṇa , 260.50-51
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -287,4 +285,3 @@ pravartayati dharmajña mahāvṛṣṭimanantaram// Agni Purāṇa , 260.50-51
   ]
 }
 </script>
-

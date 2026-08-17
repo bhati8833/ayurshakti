@@ -43,8 +43,6 @@ The secret of living hundred years (long life) is shown in the end of this chapt
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ The secret of living hundred years (long life) is shown in the end of this chapt
   ]
 }
 </script>
-

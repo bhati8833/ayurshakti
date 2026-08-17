@@ -39,8 +39,6 @@ Discussion If the foreign body/ dart is extracted immediately, the above artery 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Discussion If the foreign body/ dart is extracted immediately, the above artery 
   ]
 }
 </script>
-

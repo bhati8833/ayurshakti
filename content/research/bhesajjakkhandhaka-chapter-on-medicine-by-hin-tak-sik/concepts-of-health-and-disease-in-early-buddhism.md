@@ -233,8 +233,6 @@ However, mind plays a more important role in Buddhism. The very first teaching o
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -350,4 +348,3 @@ However, mind plays a more important role in Buddhism. The very first teaching o
   ]
 }
 </script>
-

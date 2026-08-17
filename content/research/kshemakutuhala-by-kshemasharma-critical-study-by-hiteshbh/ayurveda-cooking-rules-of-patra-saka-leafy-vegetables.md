@@ -53,8 +53,6 @@ It alleviates vata and pitta. It cures flatulence, retention of urine. It is str
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ It alleviates vata and pitta. It cures flatulence, retention of urine. It is str
   ]
 }
 </script>
-

@@ -73,8 +73,6 @@ Vartak, V.D. 1981 Observations on Willd Edible Plants from Hilly Regions of Maha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -190,4 +188,3 @@ Vartak, V.D. 1981 Observations on Willd Edible Plants from Hilly Regions of Maha
   ]
 }
 </script>
-

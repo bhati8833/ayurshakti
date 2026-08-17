@@ -37,8 +37,6 @@ In Bhagavatapurana Srikrishna praises the trees of Vrindavan. He praises them to
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ In Bhagavatapurana Srikrishna praises the trees of Vrindavan. He praises them to
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ Any injury at the periphery of a sadya pranahara marma would kill the patient af
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Any injury at the periphery of a sadya pranahara marma would kill the patient af
   ]
 }
 </script>
-

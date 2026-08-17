@@ -59,8 +59,6 @@ Since the volume of the work of Atharvaveda and Caraka-Saṃhitā are enormous, 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ Since the volume of the work of Atharvaveda and Caraka-Saṃhitā are enormous, 
   ]
 }
 </script>
-

@@ -49,8 +49,6 @@ IV.6. Trees in association with Constellations:—It is a scientifically proved 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ IV.6. Trees in association with Constellations:—It is a scientifically proved 
   ]
 }
 </script>
-

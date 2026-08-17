@@ -294,8 +294,6 @@ pūpairvā viṣkiraiḥ siddhairdadhidāḍimasādhitaiḥ// Ibid., 279.19-20
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -411,4 +409,3 @@ pūpairvā viṣkiraiḥ siddhairdadhidāḍimasādhitaiḥ// Ibid., 279.19-20
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ Somesvara was undoubtedly a great scholar who had studied the various Sastras, b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Somesvara was undoubtedly a great scholar who had studied the various Sastras, b
   ]
 }
 </script>
-

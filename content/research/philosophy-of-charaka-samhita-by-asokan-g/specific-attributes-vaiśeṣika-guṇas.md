@@ -201,8 +201,6 @@ For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -318,4 +316,3 @@ For details see Praśastapādabhāṣya., pp. 257-260; TSA, p. 16-18; see also t
   ]
 }
 </script>
-

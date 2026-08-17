@@ -39,8 +39,6 @@ A thin layer of yellow sulphide of copper is formed on the surface when copper i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ A thin layer of yellow sulphide of copper is formed on the surface when copper i
   ]
 }
 </script>
-

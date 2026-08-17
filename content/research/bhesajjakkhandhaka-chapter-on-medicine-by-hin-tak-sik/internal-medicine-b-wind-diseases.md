@@ -385,8 +385,6 @@ Medicine, 8th ed, Chapter 22 (Neurological Disease), Chapter 21 (Special Senses)
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -502,4 +500,3 @@ Medicine, 8th ed, Chapter 22 (Neurological Disease), Chapter 21 (Special Senses)
   ]
 }
 </script>
-

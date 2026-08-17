@@ -39,8 +39,6 @@ VII-30 name. Pliny confused the nomenclature by calling this not-so-hard yellow 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ VII-30 name. Pliny confused the nomenclature by calling this not-so-hard yellow 
   ]
 }
 </script>
-

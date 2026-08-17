@@ -47,8 +47,6 @@ Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, tr
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Kāśyapa Saṃhitā by Vṛddha Jīvaka with the Vidyotani Hindi Commentary, tr
   ]
 }
 </script>
-

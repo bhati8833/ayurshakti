@@ -37,8 +37,6 @@ the above description is not correct because even when the bony marma is injured
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ the above description is not correct because even when the bony marma is injured
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ writings of Susruta and Varahamihira, the eminent mathematician of India. Severa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ writings of Susruta and Varahamihira, the eminent mathematician of India. Severa
   ]
 }
 </script>
-

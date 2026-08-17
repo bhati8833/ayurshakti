@@ -51,8 +51,6 @@ VII-37 been quoted before. On the other hand, the text of Rasa-RatnaSamuccaya ha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ VII-37 been quoted before. On the other hand, the text of Rasa-RatnaSamuccaya ha
   ]
 }
 </script>
-

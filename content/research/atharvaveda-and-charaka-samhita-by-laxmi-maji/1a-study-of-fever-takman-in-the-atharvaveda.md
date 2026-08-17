@@ -755,8 +755,6 @@ kaśapasya vībarheṇa viṣvañcaṃ vi vṛhāmasi | (AV.  -I/33/7); K. L. Jo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -872,4 +870,3 @@ kaśapasya vībarheṇa viṣvañcaṃ vi vṛhāmasi | (AV.  -I/33/7); K. L. Jo
   ]
 }
 </script>
-

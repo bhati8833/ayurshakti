@@ -66,8 +66,6 @@ Taishō Tripiṭaka 1425. 482c25-29: “佛言：「從今日聽病比丘用香�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -183,4 +181,3 @@ Taishō Tripiṭaka 1425. 482c25-29: “佛言：「從今日聽病比丘用香�
   ]
 }
 </script>
-

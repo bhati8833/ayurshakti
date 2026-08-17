@@ -346,8 +346,6 @@ Vide, Winternitz, M., op.cit., volume 1, p.532
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -463,4 +461,3 @@ Vide, Winternitz, M., op.cit., volume 1, p.532
   ]
 }
 </script>
-

@@ -51,8 +51,6 @@ wheat. 9 375 Then he tells about the treatment of soil. The soil used for the pl
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ wheat. 9 375 Then he tells about the treatment of soil. The soil used for the pl
   ]
 }
 </script>
-

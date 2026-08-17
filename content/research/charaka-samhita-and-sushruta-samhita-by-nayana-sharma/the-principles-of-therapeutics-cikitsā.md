@@ -153,8 +153,6 @@ Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -270,4 +268,3 @@ Suśruta Saṃhitā Cikitsāsthāna 15.5-8.
   ]
 }
 </script>
-

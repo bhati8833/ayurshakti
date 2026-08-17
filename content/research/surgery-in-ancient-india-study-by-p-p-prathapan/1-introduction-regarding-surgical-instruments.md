@@ -39,8 +39,6 @@ older tradition. He described 101 blunt instruments and 20 sharp instruments, mo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ older tradition. He described 101 blunt instruments and 20 sharp instruments, mo
   ]
 }
 </script>
-

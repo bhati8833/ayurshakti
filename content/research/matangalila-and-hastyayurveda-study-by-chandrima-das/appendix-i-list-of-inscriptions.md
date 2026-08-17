@@ -35,8 +35,6 @@ Appendix I: List of Inscriptions
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Appendix I: List of Inscriptions
   ]
 }
 </script>
-

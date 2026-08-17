@@ -39,8 +39,6 @@ V-25 Since casting of iron needed high temperature, and was not invented in anci
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ V-25 Since casting of iron needed high temperature, and was not invented in anci
   ]
 }
 </script>
-

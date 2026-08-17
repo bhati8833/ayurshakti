@@ -41,8 +41,6 @@ III-12 According to the Vedic Index, mana in Vedic literature. was a measure of 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ III-12 According to the Vedic Index, mana in Vedic literature. was a measure of 
   ]
 }
 </script>
-

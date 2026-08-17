@@ -37,8 +37,6 @@ skills were delegated to lower castes like 'Koomars' or potters who were known f
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ skills were delegated to lower castes like 'Koomars' or potters who were known f
   ]
 }
 </script>
-

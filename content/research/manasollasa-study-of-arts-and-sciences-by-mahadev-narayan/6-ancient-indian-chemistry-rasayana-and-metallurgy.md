@@ -47,8 +47,6 @@ Chemistry was known to the people in ancient India. Chemicals and medicines were
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Chemistry was known to the people in ancient India. Chemicals and medicines were
   ]
 }
 </script>
-

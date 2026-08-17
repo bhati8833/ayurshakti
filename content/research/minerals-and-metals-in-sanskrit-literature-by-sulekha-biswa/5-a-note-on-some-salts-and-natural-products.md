@@ -39,8 +39,6 @@ IX-14 from rocks and mines. Several nineteenth century literatures described the
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ IX-14 from rocks and mines. Several nineteenth century literatures described the
   ]
 }
 </script>
-

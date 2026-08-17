@@ -53,8 +53,6 @@ P. Ray et al., Sushruta Saṃhitā (A Scientific Synopsis), p.48.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ P. Ray et al., Sushruta Saṃhitā (A Scientific Synopsis), p.48.
   ]
 }
 </script>
-

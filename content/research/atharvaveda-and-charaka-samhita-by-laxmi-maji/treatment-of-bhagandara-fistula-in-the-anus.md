@@ -52,8 +52,6 @@ doṣaiḥ pṛthagyutaiḥ sarvairāgantuḥ so'ṣṭamaḥ smṛtaḥ || (A�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -169,4 +167,3 @@ doṣaiḥ pṛthagyutaiḥ sarvairāgantuḥ so'ṣṭamaḥ smṛtaḥ || (A�
   ]
 }
 </script>
-

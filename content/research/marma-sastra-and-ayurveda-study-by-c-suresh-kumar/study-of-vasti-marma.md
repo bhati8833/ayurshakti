@@ -41,8 +41,6 @@ Cure can be achieved if treated within a span of 27 nazhigai (10 hours and 30 mi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Cure can be achieved if treated within a span of 27 nazhigai (10 hours and 30 mi
   ]
 }
 </script>
-

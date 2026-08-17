@@ -193,8 +193,6 @@ IHBT, p.170.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -310,4 +308,3 @@ IHBT, p.170.
   ]
 }
 </script>
-

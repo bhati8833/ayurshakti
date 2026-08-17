@@ -53,8 +53,6 @@ The reasons for relying on such Buddhist texts will be explained in Chapter Thre
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ The reasons for relying on such Buddhist texts will be explained in Chapter Thre
   ]
 }
 </script>
-

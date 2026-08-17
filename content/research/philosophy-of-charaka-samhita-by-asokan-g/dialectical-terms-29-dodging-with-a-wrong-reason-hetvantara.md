@@ -47,8 +47,6 @@ aviśeṣoktau hetau pratiṣiddhe viśeṣamicchato hetvantaraṃ. Nyāyasūtra
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ aviśeṣoktau hetau pratiṣiddhe viśeṣamicchato hetvantaraṃ. Nyāyasūtra
   ]
 }
 </script>
-

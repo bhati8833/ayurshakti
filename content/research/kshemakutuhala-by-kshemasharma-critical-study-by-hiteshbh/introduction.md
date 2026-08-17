@@ -43,8 +43,6 @@ To whatever category one may belong to, the plant, the animal and the human bein
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ To whatever category one may belong to, the plant, the animal and the human bein
   ]
 }
 </script>
-

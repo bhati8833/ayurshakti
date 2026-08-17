@@ -39,8 +39,6 @@ Gal ' 100 moon and figure like budded lotus. The accumulated Vata, Pitta and Kap
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Gal ' 100 moon and figure like budded lotus. The accumulated Vata, Pitta and Kap
   ]
 }
 </script>
-

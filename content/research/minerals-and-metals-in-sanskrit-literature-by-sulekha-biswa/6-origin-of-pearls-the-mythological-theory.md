@@ -37,8 +37,6 @@ VII-76 The best pearls which (originated and still) orginate in water drops fall
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ VII-76 The best pearls which (originated and still) orginate in water drops fall
   ]
 }
 </script>
-

@@ -72,8 +72,6 @@ See van Wyk and Wink 2004, 407.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -189,4 +187,3 @@ See van Wyk and Wink 2004, 407.
   ]
 }
 </script>
-

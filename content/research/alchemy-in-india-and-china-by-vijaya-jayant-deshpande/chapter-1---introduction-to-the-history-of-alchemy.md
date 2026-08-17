@@ -69,8 +69,6 @@ Why do we read about alchemy and other proto-sciences when they are no more sign
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -186,4 +184,3 @@ Why do we read about alchemy and other proto-sciences when they are no more sign
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ The Vishvavallabha [Vishwa Vallabha] text of Chakrapani Mishra also describes th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The Vishvavallabha [Vishwa Vallabha] text of Chakrapani Mishra also describes th
   ]
 }
 </script>
-

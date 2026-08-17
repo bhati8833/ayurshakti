@@ -41,8 +41,6 @@ Menmai varma is seen four fingers below the arali varmam. Polyuria,diffuse whole
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Menmai varma is seen four fingers below the arali varmam. Polyuria,diffuse whole
   ]
 }
 </script>
-

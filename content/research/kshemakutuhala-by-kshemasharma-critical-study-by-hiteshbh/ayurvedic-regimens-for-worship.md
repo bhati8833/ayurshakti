@@ -39,8 +39,6 @@ According to the Manu Smrti, Pancamahayagina were offered. Manes are satisfied b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ According to the Manu Smrti, Pancamahayagina were offered. Manes are satisfied b
   ]
 }
 </script>
-

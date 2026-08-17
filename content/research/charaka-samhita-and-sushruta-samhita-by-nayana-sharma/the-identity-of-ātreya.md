@@ -169,8 +169,6 @@ Filliozat, The Classical Doctrine of Indian Medicine, p. 7.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -286,4 +284,3 @@ Filliozat, The Classical Doctrine of Indian Medicine, p. 7.
   ]
 }
 </script>
-

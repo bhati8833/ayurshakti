@@ -90,8 +90,6 @@ Skanda Purāṇa ,2.2.42.6-29
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -207,4 +205,3 @@ Skanda Purāṇa ,2.2.42.6-29
   ]
 }
 </script>
-

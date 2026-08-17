@@ -43,8 +43,6 @@ external injury and also superficial treatment no doubt influence the underlying
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ external injury and also superficial treatment no doubt influence the underlying
   ]
 }
 </script>
-

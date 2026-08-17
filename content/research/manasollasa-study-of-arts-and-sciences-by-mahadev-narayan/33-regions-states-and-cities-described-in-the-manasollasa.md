@@ -45,8 +45,6 @@ Bharatavarsa was traditionally divided into two parts, namely Aryavarta, the nor
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Bharatavarsa was traditionally divided into two parts, namely Aryavarta, the nor
   ]
 }
 </script>
-

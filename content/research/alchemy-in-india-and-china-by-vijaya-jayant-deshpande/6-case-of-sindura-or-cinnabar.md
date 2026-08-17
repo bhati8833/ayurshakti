@@ -39,8 +39,6 @@ Cinnabar or mercuric sulphide is another substance which is intimately related t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Cinnabar or mercuric sulphide is another substance which is intimately related t
   ]
 }
 </script>
-

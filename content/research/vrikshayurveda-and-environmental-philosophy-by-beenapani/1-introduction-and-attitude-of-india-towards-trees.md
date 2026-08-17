@@ -55,8 +55,6 @@ Introduction 1 0. 1. 1. Biogenetic resource of India: India has forever been glo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ Introduction 1 0. 1. 1. Biogenetic resource of India: India has forever been glo
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ Squeeze them. Cook in oil with asafoetida and rocks alt. It produces the sturdin
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Squeeze them. Cook in oil with asafoetida and rocks alt. It produces the sturdin
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ We begin this chapter with a brief overview of references to healers in the Ṛg
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ We begin this chapter with a brief overview of references to healers in the Ṛg
   ]
 }
 </script>
-

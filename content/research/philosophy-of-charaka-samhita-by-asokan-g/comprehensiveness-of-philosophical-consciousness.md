@@ -75,8 +75,6 @@ Kireet Joshi, “Philosophical Consciousness and Scientific Knowledge: Problems 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -192,4 +190,3 @@ Kireet Joshi, “Philosophical Consciousness and Scientific Knowledge: Problems 
   ]
 }
 </script>
-

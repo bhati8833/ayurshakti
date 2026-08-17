@@ -39,8 +39,6 @@ Tamil varma sastra Azhal varma is five fingers below the arasa varma close to th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Tamil varma sastra Azhal varma is five fingers below the arasa varma close to th
   ]
 }
 </script>
-

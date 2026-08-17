@@ -78,8 +78,6 @@ These mearures are general treatments for any type of wound. In addition, there 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -195,4 +193,3 @@ These mearures are general treatments for any type of wound. In addition, there 
   ]
 }
 </script>
-

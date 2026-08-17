@@ -53,8 +53,6 @@ See Cakrapāṇi on CS,Vimāna-sthāna, VIII. 58.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ See Cakrapāṇi on CS,Vimāna-sthāna, VIII. 58.
   ]
 }
 </script>
-

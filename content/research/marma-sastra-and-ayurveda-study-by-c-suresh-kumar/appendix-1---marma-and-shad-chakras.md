@@ -45,8 +45,6 @@ Bija (Seed) Color Bija Petal Sound Loka (Plane) Tatva (Element) Color of Tatva R
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Bija (Seed) Color Bija Petal Sound Loka (Plane) Tatva (Element) Color of Tatva R
   ]
 }
 </script>
-

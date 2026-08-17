@@ -144,8 +144,6 @@ For further information of these substances in modern science, see Encyclopædia
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -261,4 +259,3 @@ For further information of these substances in modern science, see Encyclopædia
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ quoted in the text of the thesis as found in the edition of Manasollasa, publish
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ quoted in the text of the thesis as found in the edition of Manasollasa, publish
   ]
 }
 </script>
-

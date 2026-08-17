@@ -59,8 +59,6 @@ Caraka Saṃhitā Sūtrasthāna 5.14-104.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ Caraka Saṃhitā Sūtrasthāna 5.14-104.
   ]
 }
 </script>
-

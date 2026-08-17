@@ -497,8 +497,6 @@ P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -614,4 +612,3 @@ P.V. Kane, History of the Dharmaśāstra, Vol.2, Part 1, pp. 71-72.
   ]
 }
 </script>
-

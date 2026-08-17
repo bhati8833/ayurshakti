@@ -43,8 +43,6 @@ Gray in his book has also mentioned the same "the wounds of the palmar arches ar
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Gray in his book has also mentioned the same "the wounds of the palmar arches ar
   ]
 }
 </script>
-

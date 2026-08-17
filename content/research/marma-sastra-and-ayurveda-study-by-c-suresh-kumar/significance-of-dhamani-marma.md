@@ -41,8 +41,6 @@ Difference of opinion 27 According to Susruta, Guda marma is included as mamsa m
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Difference of opinion 27 According to Susruta, Guda marma is included as mamsa m
   ]
 }
 </script>
-

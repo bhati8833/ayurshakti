@@ -381,8 +381,6 @@ Ann Heirman and Mathieu Torch have published a book, A Pure Mind in a Clean Body
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -498,4 +496,3 @@ Ann Heirman and Mathieu Torch have published a book, A Pure Mind in a Clean Body
   ]
 }
 </script>
-

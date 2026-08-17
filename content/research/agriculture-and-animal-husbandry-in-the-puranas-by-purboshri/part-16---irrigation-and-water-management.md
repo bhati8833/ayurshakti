@@ -161,8 +161,6 @@ Bhāgavata Purāṇa , 5.17.10; 11.18.19; Agni Purāṇa , 69.14
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -278,4 +276,3 @@ Bhāgavata Purāṇa , 5.17.10; 11.18.19; Agni Purāṇa , 69.14
   ]
 }
 </script>
-

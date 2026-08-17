@@ -37,8 +37,6 @@ also stated that this is then the Sanskrit translation of Puskalavata. Hence, it
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ also stated that this is then the Sanskrit translation of Puskalavata. Hence, it
   ]
 }
 </script>
-

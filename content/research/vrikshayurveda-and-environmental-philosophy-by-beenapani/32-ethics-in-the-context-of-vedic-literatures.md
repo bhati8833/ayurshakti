@@ -47,8 +47,6 @@ The smrtikar's of ancient times have framed rules and code of ethics for those w
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ The smrtikar's of ancient times have framed rules and code of ethics for those w
   ]
 }
 </script>
-

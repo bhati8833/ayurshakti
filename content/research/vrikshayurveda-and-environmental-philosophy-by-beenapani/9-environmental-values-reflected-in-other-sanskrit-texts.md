@@ -43,8 +43,6 @@ Plants have medicinal value. In Ayurveda "The science of life" is a product of p
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Plants have medicinal value. In Ayurveda "The science of life" is a product of p
   ]
 }
 </script>
-

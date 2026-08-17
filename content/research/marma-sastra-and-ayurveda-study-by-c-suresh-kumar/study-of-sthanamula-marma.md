@@ -41,8 +41,6 @@ diaphragm. This may kill the patient by developing cardiac arrhythmias. If he su
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ diaphragm. This may kill the patient by developing cardiac arrhythmias. If he su
   ]
 }
 </script>
-

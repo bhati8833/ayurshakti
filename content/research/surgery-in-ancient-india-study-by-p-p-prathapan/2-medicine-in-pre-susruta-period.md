@@ -35,8 +35,6 @@ The history of medicine in pre Susrutian India goes back to remote antiquity. Th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ The history of medicine in pre Susrutian India goes back to remote antiquity. Th
   ]
 }
 </script>
-

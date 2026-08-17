@@ -35,8 +35,6 @@ Chapter 4 - Animal husbandry in the Purāṇas
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 4 - Animal husbandry in the Purāṇas
   ]
 }
 </script>
-

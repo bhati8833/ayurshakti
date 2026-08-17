@@ -43,8 +43,6 @@ method and instrument for scientific cognition. Theories and methods of Navya-Ny
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ method and instrument for scientific cognition. Theories and methods of Navya-Ny
   ]
 }
 </script>
-

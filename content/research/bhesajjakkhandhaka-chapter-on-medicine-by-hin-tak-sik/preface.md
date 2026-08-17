@@ -45,8 +45,6 @@ This research makes contributions by presenting Buddhist perspectives on health/
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ This research makes contributions by presenting Buddhist perspectives on health/
   ]
 }
 </script>
-

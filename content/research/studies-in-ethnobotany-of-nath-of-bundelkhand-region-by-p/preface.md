@@ -35,8 +35,6 @@ This thesis summarises the results of 4 years of studies on the ethnobotany of '
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ This thesis summarises the results of 4 years of studies on the ethnobotany of '
   ]
 }
 </script>
-

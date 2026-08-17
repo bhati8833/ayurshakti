@@ -49,8 +49,6 @@ C. Cikitsāsthāna–XI.4-95; Caraka Saṃhitā Vol. II with elaborated Vidyotin
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ C. Cikitsāsthāna–XI.4-95; Caraka Saṃhitā Vol. II with elaborated Vidyotin
   ]
 }
 </script>
-

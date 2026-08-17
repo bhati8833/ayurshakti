@@ -51,8 +51,6 @@ contented with his own medical knowledge, but should enrich with knowledge from 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ contented with his own medical knowledge, but should enrich with knowledge from 
   ]
 }
 </script>
-

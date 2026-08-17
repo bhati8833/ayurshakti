@@ -61,8 +61,6 @@ debater here is engaged simply in the refuted of a position but does not give th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ debater here is engaged simply in the refuted of a position but does not give th
   ]
 }
 </script>
-

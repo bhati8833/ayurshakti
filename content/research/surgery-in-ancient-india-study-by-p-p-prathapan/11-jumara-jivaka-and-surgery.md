@@ -37,8 +37,6 @@ Devadatta became the master of Ajatasatru, the Magadha king who destroyed the re
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Devadatta became the master of Ajatasatru, the Magadha king who destroyed the re
   ]
 }
 </script>
-

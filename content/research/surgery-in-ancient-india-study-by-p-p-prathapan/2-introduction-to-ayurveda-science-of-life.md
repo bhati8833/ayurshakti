@@ -41,8 +41,6 @@ The western world, which has so far blunted the progress of Ayurveda by a strong
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The western world, which has so far blunted the progress of Ayurveda by a strong
   ]
 }
 </script>
-

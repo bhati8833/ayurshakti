@@ -47,8 +47,6 @@ The span of life of the individual is divided into four parts. Upto the age of 2
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ The span of life of the individual is divided into four parts. Upto the age of 2
   ]
 }
 </script>
-

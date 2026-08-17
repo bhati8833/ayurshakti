@@ -101,8 +101,6 @@ There are yet other scholarly works which are about medicine in Buddhism or in B
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -218,4 +216,3 @@ There are yet other scholarly works which are about medicine in Buddhism or in B
   ]
 }
 </script>
-

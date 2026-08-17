@@ -37,8 +37,6 @@ salyaharanavidhi chapter. The salyaharanavidhi chapter discuss the route, detect
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ salyaharanavidhi chapter. The salyaharanavidhi chapter discuss the route, detect
   ]
 }
 </script>
-

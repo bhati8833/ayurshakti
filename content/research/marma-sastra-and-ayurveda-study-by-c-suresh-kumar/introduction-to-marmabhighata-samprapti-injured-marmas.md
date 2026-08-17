@@ -51,8 +51,6 @@ Kurpara Apanga Oorvi Lohitha Apalapa Sthapani Shringataka Amsa Nabhi Vasthi Oorv
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ Kurpara Apanga Oorvi Lohitha Apalapa Sthapani Shringataka Amsa Nabhi Vasthi Oorv
   ]
 }
 </script>
-

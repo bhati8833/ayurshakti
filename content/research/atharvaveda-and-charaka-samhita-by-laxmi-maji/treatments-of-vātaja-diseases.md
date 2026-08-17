@@ -52,8 +52,6 @@ vātīkṛtasya bheṣajīmatho kṣiptasya bheṣajīm || (AV. –VI/109/1-3); 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -169,4 +167,3 @@ vātīkṛtasya bheṣajīmatho kṣiptasya bheṣajīm || (AV. –VI/109/1-3); 
   ]
 }
 </script>
-

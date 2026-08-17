@@ -35,8 +35,6 @@ Chapter 3 - Schools of Surgery in ancient India
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 3 - Schools of Surgery in ancient India
   ]
 }
 </script>
-

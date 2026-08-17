@@ -55,8 +55,6 @@ taccanumitihetuliṅgaparāmarśaprayojakaśābdajñānakāraṇa vyāptipakṣa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ taccanumitihetuliṅgaparāmarśaprayojakaśābdajñānakāraṇa vyāptipakṣa
   ]
 }
 </script>
-

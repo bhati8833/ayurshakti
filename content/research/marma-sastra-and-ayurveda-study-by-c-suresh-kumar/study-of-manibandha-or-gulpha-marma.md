@@ -45,8 +45,6 @@ Tamil varma sastra In Tamil also this is named as Manipantha varma. This varma i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Tamil varma sastra In Tamil also this is named as Manipantha varma. This varma i
   ]
 }
 </script>
-

@@ -47,8 +47,6 @@ VII-82 Shi lappadikaram (The Ankle Bracelet) by Prince Ilango Adigal, translated
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ VII-82 Shi lappadikaram (The Ankle Bracelet) by Prince Ilango Adigal, translated
   ]
 }
 </script>
-

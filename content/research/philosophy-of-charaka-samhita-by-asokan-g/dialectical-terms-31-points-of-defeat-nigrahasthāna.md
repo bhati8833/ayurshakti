@@ -47,8 +47,6 @@ pratijñāhāniḥ pratijñāntaraṃ pratijñāvirodhaḥ pratijñāsaṃnyāso
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ pratijñāhāniḥ pratijñāntaraṃ pratijñāvirodhaḥ pratijñāsaṃnyāso
   ]
 }
 </script>
-

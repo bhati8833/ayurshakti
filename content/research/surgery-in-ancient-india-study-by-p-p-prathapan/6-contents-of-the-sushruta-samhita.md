@@ -49,8 +49,6 @@ Susruta says that in the first stage, the ulcer is with pus collection and hence
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ Susruta says that in the first stage, the ulcer is with pus collection and hence
   ]
 }
 </script>
-

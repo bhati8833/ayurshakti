@@ -309,8 +309,6 @@ The Vinayakṣudrakavastu is a huge text in the Mūlasarvāstivāda Vinaya. In t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -426,4 +424,3 @@ The Vinayakṣudrakavastu is a huge text in the Mūlasarvāstivāda Vinaya. In t
   ]
 }
 </script>
-

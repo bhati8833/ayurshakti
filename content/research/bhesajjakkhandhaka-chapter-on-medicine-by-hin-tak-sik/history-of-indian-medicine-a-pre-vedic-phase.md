@@ -65,8 +65,6 @@ The exact causes for this decline and collapse are not fully known, but scholars
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ The exact causes for this decline and collapse are not fully known, but scholars
   ]
 }
 </script>
-

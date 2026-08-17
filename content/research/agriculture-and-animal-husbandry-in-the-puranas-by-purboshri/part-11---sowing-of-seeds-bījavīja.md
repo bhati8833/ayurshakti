@@ -124,8 +124,6 @@ tāni sarvāṇi sarvātmā paramātmā janārdanaḥ// Agni Purāṇa ,31.36
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -241,4 +239,3 @@ tāni sarvāṇi sarvātmā paramātmā janārdanaḥ// Agni Purāṇa ,31.36
   ]
 }
 </script>
-

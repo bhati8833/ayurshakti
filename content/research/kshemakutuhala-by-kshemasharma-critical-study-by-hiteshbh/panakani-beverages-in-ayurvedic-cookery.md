@@ -45,8 +45,6 @@ beverages. The properties of the beverage depend upon those of the ingredients m
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ beverages. The properties of the beverage depend upon those of the ingredients m
   ]
 }
 </script>
-

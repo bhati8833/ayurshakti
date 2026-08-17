@@ -67,8 +67,6 @@ Taishō Tripiṭaka 1425. 494b8-10: “華者，優鉢羅、瞻蔔、須摩那�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -184,4 +182,3 @@ Taishō Tripiṭaka 1425. 494b8-10: “華者，優鉢羅、瞻蔔、須摩那�
   ]
 }
 </script>
-

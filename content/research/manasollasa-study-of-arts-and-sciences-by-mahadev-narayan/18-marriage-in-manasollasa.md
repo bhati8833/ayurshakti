@@ -47,8 +47,6 @@ Somesvara mentions five kinds of marriage, Brahma, Raksasa, Gandharva, asura and
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Somesvara mentions five kinds of marriage, Brahma, Raksasa, Gandharva, asura and
   ]
 }
 </script>
-

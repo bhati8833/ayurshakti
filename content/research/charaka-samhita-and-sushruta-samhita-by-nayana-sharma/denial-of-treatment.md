@@ -393,8 +393,6 @@ Caraka Saṃhitā Vimānasthāna 3.45.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -510,4 +508,3 @@ Caraka Saṃhitā Vimānasthāna 3.45.
   ]
 }
 </script>
-

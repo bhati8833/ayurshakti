@@ -57,8 +57,6 @@ The Manasollasa mentions different terms for the science of Government, which te
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ The Manasollasa mentions different terms for the science of Government, which te
   ]
 }
 </script>
-

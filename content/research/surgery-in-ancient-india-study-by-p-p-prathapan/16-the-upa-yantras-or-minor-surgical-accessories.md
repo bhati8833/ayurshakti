@@ -43,8 +43,6 @@ variety. Cakradatta also mentions it. In phlebotomy, a leather band is advised t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ variety. Cakradatta also mentions it. In phlebotomy, a leather band is advised t
   ]
 }
 </script>
-

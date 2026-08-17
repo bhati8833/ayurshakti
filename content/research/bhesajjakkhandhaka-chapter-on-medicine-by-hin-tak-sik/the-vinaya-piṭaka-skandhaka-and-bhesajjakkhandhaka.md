@@ -71,8 +71,6 @@ The other two divisions are the Sūtra Piṭaka (“Basket of the Discourses”)
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -188,4 +186,3 @@ The other two divisions are the Sūtra Piṭaka (“Basket of the Discourses”)
   ]
 }
 </script>
-

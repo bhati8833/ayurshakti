@@ -181,8 +181,6 @@ Arthaśāstra 2.12.27.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -298,4 +296,3 @@ Arthaśāstra 2.12.27.
   ]
 }
 </script>
-

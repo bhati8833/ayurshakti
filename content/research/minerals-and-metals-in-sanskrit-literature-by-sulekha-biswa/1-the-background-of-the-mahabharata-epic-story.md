@@ -39,8 +39,6 @@ VI-3 by Lord Krishna. Underwater expedition has shown fortification wall of lime
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ VI-3 by Lord Krishna. Underwater expedition has shown fortification wall of lime
   ]
 }
 </script>
-

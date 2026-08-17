@@ -61,8 +61,6 @@ kṣetriyāttveti catuṣpathe kāmpīlaśkalaiḥ parvasu bad dhvā piñjulībh
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ kṣetriyāttveti catuṣpathe kāmpīlaśkalaiḥ parvasu bad dhvā piñjulībh
   ]
 }
 </script>
-

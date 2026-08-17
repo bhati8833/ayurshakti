@@ -59,8 +59,6 @@ Both of these works belong to Zhiyi 智顗 (538-597). The former was written by 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ Both of these works belong to Zhiyi 智顗 (538-597). The former was written by 
   ]
 }
 </script>
-

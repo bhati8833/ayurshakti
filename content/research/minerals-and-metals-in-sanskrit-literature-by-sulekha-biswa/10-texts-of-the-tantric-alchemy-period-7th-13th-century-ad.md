@@ -43,8 +43,6 @@ VIII-33 dealt, in its eighth chapter, with the examination of the earth and the 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ VIII-33 dealt, in its eighth chapter, with the examination of the earth and the 
   ]
 }
 </script>
-

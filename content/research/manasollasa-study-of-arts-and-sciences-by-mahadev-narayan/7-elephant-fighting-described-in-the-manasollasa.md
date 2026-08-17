@@ -53,8 +53,6 @@ In the period of Somesvara the society was quite eager about elephant fighting. 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ In the period of Somesvara the society was quite eager about elephant fighting. 
   ]
 }
 </script>
-

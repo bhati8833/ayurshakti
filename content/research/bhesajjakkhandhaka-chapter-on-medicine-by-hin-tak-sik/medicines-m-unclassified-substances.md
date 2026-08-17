@@ -90,8 +90,6 @@ Taishō Tripiṭaka1425: 245a1-2: “除石蜜滓地餘一切地。” 地 here 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -207,4 +205,3 @@ Taishō Tripiṭaka1425: 245a1-2: “除石蜜滓地餘一切地。” 地 here 
   ]
 }
 </script>
-

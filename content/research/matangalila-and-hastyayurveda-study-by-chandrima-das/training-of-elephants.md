@@ -248,8 +248,6 @@ Haraprasad Shastri. ‘Contributions of Bengal to Hindu Civilization’, Journal
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -365,4 +363,3 @@ Haraprasad Shastri. ‘Contributions of Bengal to Hindu Civilization’, Journal
   ]
 }
 </script>
-

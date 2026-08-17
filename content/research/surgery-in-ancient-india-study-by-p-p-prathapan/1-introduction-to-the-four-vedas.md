@@ -49,8 +49,6 @@ proper practice mantra will be effective. So Ayurveda is just like mantra, it wi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ proper practice mantra will be effective. So Ayurveda is just like mantra, it wi
   ]
 }
 </script>
-

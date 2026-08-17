@@ -39,8 +39,6 @@ The Arthaśāstra, however, makes no reference to the physician attached to the 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ The Arthaśāstra, however, makes no reference to the physician attached to the 
   ]
 }
 </script>
-

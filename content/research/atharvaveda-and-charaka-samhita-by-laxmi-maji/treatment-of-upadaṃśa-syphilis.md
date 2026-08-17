@@ -52,8 +52,6 @@ pṛthagdoṣaiḥ sarudhiraiḥ samastaiśca atra mārutāt || (Aṣṭā. H.  
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -169,4 +167,3 @@ pṛthagdoṣaiḥ sarudhiraiḥ samastaiśca atra mārutāt || (Aṣṭā. H.  
   ]
 }
 </script>
-

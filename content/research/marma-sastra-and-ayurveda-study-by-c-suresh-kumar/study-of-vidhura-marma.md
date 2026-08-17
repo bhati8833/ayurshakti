@@ -41,8 +41,6 @@ Tamil varma sastra Urakkakalam is the varma which can be correlated with Vidhura
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Tamil varma sastra Urakkakalam is the varma which can be correlated with Vidhura
   ]
 }
 </script>
-

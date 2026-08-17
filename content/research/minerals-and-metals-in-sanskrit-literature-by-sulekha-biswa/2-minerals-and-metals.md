@@ -39,8 +39,6 @@ III-5 by roasting or smelting was well recognised, and agni or fire was qualifie
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ III-5 by roasting or smelting was well recognised, and agni or fire was qualifie
   ]
 }
 </script>
-

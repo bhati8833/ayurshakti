@@ -401,8 +401,6 @@ G.S.Lavekar, Doctor-Patient Relationship in Ancient India (Ayurveda), Varanasi, 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -518,4 +516,3 @@ G.S.Lavekar, Doctor-Patient Relationship in Ancient India (Ayurveda), Varanasi, 
   ]
 }
 </script>
-

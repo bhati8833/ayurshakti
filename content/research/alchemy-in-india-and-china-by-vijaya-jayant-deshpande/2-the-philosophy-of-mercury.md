@@ -41,8 +41,6 @@ We come across evidence of alchemical practice, in the true sense of the word, i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ We come across evidence of alchemical practice, in the true sense of the word, i
   ]
 }
 </script>
-

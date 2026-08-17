@@ -93,8 +93,6 @@ yakṣmaṃ matasnābhyāṃ plīhno yaknaste vi vṛhāmasi || (AV. –XX/96/19
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -210,4 +208,3 @@ yakṣmaṃ matasnābhyāṃ plīhno yaknaste vi vṛhāmasi || (AV. –XX/96/19
   ]
 }
 </script>
-

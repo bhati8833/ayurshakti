@@ -39,8 +39,6 @@ V-3 of men. From the word vrtti is obviously derived vartta, the three-fold econ
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ V-3 of men. From the word vrtti is obviously derived vartta, the three-fold econ
   ]
 }
 </script>
-

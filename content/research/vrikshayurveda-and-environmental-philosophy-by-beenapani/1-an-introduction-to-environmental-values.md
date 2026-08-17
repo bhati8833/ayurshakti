@@ -37,8 +37,6 @@ CHAPTER - III 147 III. Environmental values as reflected in Vrksayurveda Texts I
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ CHAPTER - III 147 III. Environmental values as reflected in Vrksayurveda Texts I
   ]
 }
 </script>
-

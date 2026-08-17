@@ -110,8 +110,6 @@ S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.294; P. Kutumbiah, p. 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -227,4 +225,3 @@ S.N. Dasgupta, A History of Indian Philosophy, Vol. II, p.294; P. Kutumbiah, p. 
   ]
 }
 </script>
-

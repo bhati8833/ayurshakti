@@ -37,8 +37,6 @@ VARSA (Rainy Season) (IV 26 to 31) NATURAL FEATURES: 1. The sun does not clear u
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ VARSA (Rainy Season) (IV 26 to 31) NATURAL FEATURES: 1. The sun does not clear u
   ]
 }
 </script>
-

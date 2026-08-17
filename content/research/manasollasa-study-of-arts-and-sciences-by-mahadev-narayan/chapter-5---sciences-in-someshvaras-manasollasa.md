@@ -37,8 +37,6 @@ Chapter 5 - Sciences in Someshvara’s Manasollasa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 5 - Sciences in Someshvara’s Manasollasa
   ]
 }
 </script>
-

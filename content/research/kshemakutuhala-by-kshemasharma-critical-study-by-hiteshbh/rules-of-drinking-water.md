@@ -39,8 +39,6 @@ Effects of water drunk at the various stages of the 4 meal are as under : Beginn
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Effects of water drunk at the various stages of the 4 meal are as under : Beginn
   ]
 }
 </script>
-

@@ -43,8 +43,6 @@ jaṅgiḍo jaṃbhād viśarād viṣkandhādabhiśocanāt || (AV. –II/4/2); 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ jaṅgiḍo jaṃbhād viśarād viṣkandhādabhiśocanāt || (AV. –II/4/2); 
   ]
 }
 </script>
-

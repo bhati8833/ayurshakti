@@ -53,8 +53,6 @@ For proper treatment of a disease, it is essential to determine the exact nature
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ For proper treatment of a disease, it is essential to determine the exact nature
   ]
 }
 </script>
-

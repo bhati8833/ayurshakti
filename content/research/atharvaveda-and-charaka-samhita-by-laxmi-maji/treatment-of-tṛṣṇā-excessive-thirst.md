@@ -50,8 +50,6 @@ pārthivasyetyudyati pṛṣṭasaṃhitāvupaveśayati || prāṅmukhaṃ vyād
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -167,4 +165,3 @@ pārthivasyetyudyati pṛṣṭasaṃhitāvupaveśayati || prāṅmukhaṃ vyād
   ]
 }
 </script>
-

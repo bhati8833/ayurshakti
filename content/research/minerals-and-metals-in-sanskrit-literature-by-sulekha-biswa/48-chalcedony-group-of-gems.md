@@ -49,8 +49,6 @@ VII-47 Tagore (1879: 512-513) has quoted a Sanskrit text in which jyotirasa has 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ VII-47 Tagore (1879: 512-513) has quoted a Sanskrit text in which jyotirasa has 
   ]
 }
 </script>
-

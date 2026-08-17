@@ -87,8 +87,6 @@ Samantapāsādikā V. 1092: “tilakakkena attho ti piṭṭhehi tilehi attho. k
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -204,4 +202,3 @@ Samantapāsādikā V. 1092: “tilakakkena attho ti piṭṭhehi tilehi attho. k
   ]
 }
 </script>
-

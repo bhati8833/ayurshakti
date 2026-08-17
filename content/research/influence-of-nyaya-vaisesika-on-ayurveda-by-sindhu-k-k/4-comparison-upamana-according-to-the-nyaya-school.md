@@ -37,8 +37,6 @@ is like a cow. The result of comparison is the knowledge of the relation of the 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ is like a cow. The result of comparison is the knowledge of the relation of the 
   ]
 }
 </script>
-

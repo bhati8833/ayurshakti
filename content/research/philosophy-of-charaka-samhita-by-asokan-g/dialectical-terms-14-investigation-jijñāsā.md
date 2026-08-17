@@ -47,8 +47,6 @@ For details see Vātsyāyana on Nyāyasūtra., I. i. 32, Nyāya-Bhāṣya of Vā
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ For details see Vātsyāyana on Nyāyasūtra., I. i. 32, Nyāya-Bhāṣya of Vā
   ]
 }
 </script>
-

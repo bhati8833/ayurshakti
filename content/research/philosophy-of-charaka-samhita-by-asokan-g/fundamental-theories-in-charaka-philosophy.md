@@ -57,8 +57,6 @@ see editors note, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., p. 1.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ see editors note, Rasavaiśeṣika-sūtra of Bhadantanāgarjuna., p. 1.
   ]
 }
 </script>
-

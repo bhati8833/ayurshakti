@@ -41,8 +41,6 @@ During her pregnancy, Gandhari beat herself on her abdomen which resulted in abo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ During her pregnancy, Gandhari beat herself on her abdomen which resulted in abo
   ]
 }
 </script>
-

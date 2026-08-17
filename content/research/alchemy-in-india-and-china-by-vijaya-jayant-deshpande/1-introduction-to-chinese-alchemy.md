@@ -39,8 +39,6 @@ Studies in Chinese alchemy are rendered comparatively easier, as in the case of 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Studies in Chinese alchemy are rendered comparatively easier, as in the case of 
   ]
 }
 </script>
-

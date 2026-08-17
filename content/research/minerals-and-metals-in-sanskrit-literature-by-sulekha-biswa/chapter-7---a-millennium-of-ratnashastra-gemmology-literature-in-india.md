@@ -35,8 +35,6 @@ Chapter 7 - A millennium of Ratnashastra (gemmology) literature in India
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 7 - A millennium of Ratnashastra (gemmology) literature in India
   ]
 }
 </script>
-

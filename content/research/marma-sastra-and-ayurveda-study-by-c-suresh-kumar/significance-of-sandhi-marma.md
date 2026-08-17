@@ -37,8 +37,6 @@ provision of intervening arrangements permitting some degree of torsion, angulat
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ provision of intervening arrangements permitting some degree of torsion, angulat
   ]
 }
 </script>
-

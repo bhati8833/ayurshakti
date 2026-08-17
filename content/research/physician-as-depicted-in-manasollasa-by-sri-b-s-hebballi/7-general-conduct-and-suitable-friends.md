@@ -39,8 +39,6 @@ One should not deviate from generally approved principles. One should not break 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ One should not deviate from generally approved principles. One should not break 
   ]
 }
 </script>
-

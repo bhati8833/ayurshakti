@@ -730,8 +730,6 @@ vanaspatirhiraṇyaparṇaḥ | (YV.  -XXI/56); Acharya Vedanta Tirtha (ed.), Ya
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -847,4 +845,3 @@ vanaspatirhiraṇyaparṇaḥ | (YV.  -XXI/56); Acharya Vedanta Tirtha (ed.), Ya
   ]
 }
 </script>
-

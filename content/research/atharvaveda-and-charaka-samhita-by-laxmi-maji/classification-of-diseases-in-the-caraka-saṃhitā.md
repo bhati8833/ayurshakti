@@ -640,8 +640,6 @@ CS.  -Sūtrasthāna–XIX.2-46; Baidyacharya Kalikinkar Sensarma & Ayurbedachary
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -757,4 +755,3 @@ CS.  -Sūtrasthāna–XIX.2-46; Baidyacharya Kalikinkar Sensarma & Ayurbedachary
   ]
 }
 </script>
-

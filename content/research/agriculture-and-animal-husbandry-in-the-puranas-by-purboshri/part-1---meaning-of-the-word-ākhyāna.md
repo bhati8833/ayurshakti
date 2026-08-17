@@ -79,8 +79,6 @@ Vide, Bhattacharji, Sukumari, Literature in the Vedic Age, volume 1, p.128
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -196,4 +194,3 @@ Vide, Bhattacharji, Sukumari, Literature in the Vedic Age, volume 1, p.128
   ]
 }
 </script>
-

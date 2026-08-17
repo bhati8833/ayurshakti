@@ -343,8 +343,6 @@ Caraka Saṃhitā 9.97.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -460,4 +458,3 @@ Caraka Saṃhitā 9.97.
   ]
 }
 </script>
-

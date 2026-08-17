@@ -49,8 +49,6 @@ According to Caraka such of the diets and regimens, as stand in contradistinctio
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ According to Caraka such of the diets and regimens, as stand in contradistinctio
   ]
 }
 </script>
-

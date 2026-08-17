@@ -37,8 +37,6 @@ used in extracting any thorn or foreign matter which may have entered into the b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ used in extracting any thorn or foreign matter which may have entered into the b
   ]
 }
 </script>
-

@@ -75,8 +75,6 @@ Taishō Tripiṭaka 1448. 1b15-16: “葉藥者，三葉：謂酸菜婆奢迦葉
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -192,4 +190,3 @@ Taishō Tripiṭaka 1448. 1b15-16: “葉藥者，三葉：謂酸菜婆奢迦葉
   ]
 }
 </script>
-

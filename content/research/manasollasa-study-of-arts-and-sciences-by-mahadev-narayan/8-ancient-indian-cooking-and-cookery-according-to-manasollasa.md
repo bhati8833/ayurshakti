@@ -63,8 +63,6 @@ re 362 powder of Hingu is mixed with water and kept standing for some time. Acco
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -180,4 +178,3 @@ re 362 powder of Hingu is mixed with water and kept standing for some time. Acco
   ]
 }
 </script>
-

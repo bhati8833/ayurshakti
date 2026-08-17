@@ -41,8 +41,6 @@ VIII-20 was made in the Gupta era. Tin had a new name vanga (Bengal); it is sign
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ VIII-20 was made in the Gupta era. Tin had a new name vanga (Bengal); it is sign
   ]
 }
 </script>
-

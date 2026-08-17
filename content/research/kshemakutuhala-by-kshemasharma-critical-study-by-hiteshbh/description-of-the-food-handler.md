@@ -39,8 +39,6 @@ They should keep head covered, finger-nails short and clean (no nail polish). 8.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ They should keep head covered, finger-nails short and clean (no nail polish). 8.
   ]
 }
 </script>
-

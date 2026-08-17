@@ -306,8 +306,6 @@ smṛtibhraṃśād vuddhināśo vuddhināśāt praṇaśyati || (Gītā–2/63)
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -423,4 +421,3 @@ smṛtibhraṃśād vuddhināśo vuddhināśāt praṇaśyati || (Gītā–2/63)
   ]
 }
 </script>
-

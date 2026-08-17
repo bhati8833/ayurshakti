@@ -44,8 +44,6 @@ kṛṇomi vidvān bheṣajaṃ yathānunmadito'sasi || (AV. –VI/111/2); Acary
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -161,4 +159,3 @@ kṛṇomi vidvān bheṣajaṃ yathānunmadito'sasi || (AV. –VI/111/2); Acary
   ]
 }
 </script>
-

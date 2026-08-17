@@ -39,8 +39,6 @@ instantaneous effects by means by means of surgical instruments and appliances. 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ instantaneous effects by means by means of surgical instruments and appliances. 
   ]
 }
 </script>
-

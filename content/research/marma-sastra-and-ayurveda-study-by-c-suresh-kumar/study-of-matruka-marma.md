@@ -41,8 +41,6 @@ As this is a sira marma and causes sudden death, this marma will invariably be b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ As this is a sira marma and causes sudden death, this marma will invariably be b
   ]
 }
 </script>
-

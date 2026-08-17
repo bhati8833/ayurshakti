@@ -43,8 +43,6 @@ Discussion Basti used here probably refer to the The region of the marma organ u
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Discussion Basti used here probably refer to the The region of the marma organ u
   ]
 }
 </script>
-

@@ -54,8 +54,6 @@ IV/9/1-10; XIX/45/1-5; Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -171,4 +169,3 @@ IV/9/1-10; XIX/45/1-5; Veda Atharvaveda Saṃhitā, trans. Dilip Mukhopadhyaya, 
   ]
 }
 </script>
-

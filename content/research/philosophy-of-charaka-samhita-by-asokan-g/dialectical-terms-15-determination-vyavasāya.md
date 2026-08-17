@@ -47,8 +47,6 @@ Nyāyasūtra., I. i. 4
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Nyāyasūtra., I. i. 4
   ]
 }
 </script>
-

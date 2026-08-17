@@ -101,8 +101,6 @@ Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Cha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -218,4 +216,3 @@ Rajneesh V. Giri & Smitha Rajneesh, Synopsis on Caraka Saṃhitā, Varanasi, Cha
   ]
 }
 </script>
-

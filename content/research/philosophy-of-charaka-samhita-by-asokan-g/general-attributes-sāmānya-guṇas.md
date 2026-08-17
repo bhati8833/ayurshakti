@@ -269,8 +269,6 @@ bhāvābhyasanamabhyāsaḥ śīlanaṃ satatakriyā, CS, Su, XXVI. 34.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -386,4 +384,3 @@ bhāvābhyasanamabhyāsaḥ śīlanaṃ satatakriyā, CS, Su, XXVI. 34.
   ]
 }
 </script>
-

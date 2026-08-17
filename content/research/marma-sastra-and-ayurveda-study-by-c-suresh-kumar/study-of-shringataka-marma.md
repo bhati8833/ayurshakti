@@ -41,8 +41,6 @@ Tamil varma sastra Patchi varma is situated 1.5 cms. below the centre of the eye
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Tamil varma sastra Patchi varma is situated 1.5 cms. below the centre of the eye
   ]
 }
 </script>
-

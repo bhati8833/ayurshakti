@@ -41,8 +41,6 @@ The third chapter deals with the scientific tradition of Nyaya-Vaisesika and Ayu
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The third chapter deals with the scientific tradition of Nyaya-Vaisesika and Ayu
   ]
 }
 </script>
-

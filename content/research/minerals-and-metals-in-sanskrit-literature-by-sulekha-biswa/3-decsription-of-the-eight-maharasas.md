@@ -41,8 +41,6 @@ IX-8 Capala was defined as a material which melts quickly like vanga or tin when
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ IX-8 Capala was defined as a material which melts quickly like vanga or tin when
   ]
 }
 </script>
-

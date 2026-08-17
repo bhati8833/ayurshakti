@@ -41,8 +41,6 @@ Table No. XIV Sira Marma 15 Dhamani Marma 06 Sandhi Marma 10 Snayu Marma 04 Asth
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Table No. XIV Sira Marma 15 Dhamani Marma 06 Sandhi Marma 10 Snayu Marma 04 Asth
   ]
 }
 </script>
-

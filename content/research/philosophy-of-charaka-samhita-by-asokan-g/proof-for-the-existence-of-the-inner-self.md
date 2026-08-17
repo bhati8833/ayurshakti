@@ -55,8 +55,6 @@ icchādveṣapraytnasukhaduḥkhajñānanyātmno liṅgamiti, Nyāyasūtra.,I. i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ icchādveṣapraytnasukhaduḥkhajñānanyātmno liṅgamiti, Nyāyasūtra.,I. i
   ]
 }
 </script>
-

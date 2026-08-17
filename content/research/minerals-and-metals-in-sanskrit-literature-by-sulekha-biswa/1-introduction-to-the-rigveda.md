@@ -39,8 +39,6 @@ II-3 Panis or Harappan traders. The Rgvedic war was basically a civil war fought
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ II-3 Panis or Harappan traders. The Rgvedic war was basically a civil war fought
   ]
 }
 </script>
-

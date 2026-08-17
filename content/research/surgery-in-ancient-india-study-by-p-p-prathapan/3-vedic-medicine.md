@@ -39,8 +39,6 @@ person who himself is to be benefited or more often by the sorcerer on his behal
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ person who himself is to be benefited or more often by the sorcerer on his behal
   ]
 }
 </script>
-

@@ -55,8 +55,6 @@ qualifications of others like Suhrt (friend), Purohita, Ganaka, Dandadhikari, Pr
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ qualifications of others like Suhrt (friend), Purohita, Ganaka, Dandadhikari, Pr
   ]
 }
 </script>
-

@@ -864,8 +864,6 @@ V.K. Thakur, “Surgery in Early India”, p.19-20.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -981,4 +979,3 @@ V.K. Thakur, “Surgery in Early India”, p.19-20.
   ]
 }
 </script>
-

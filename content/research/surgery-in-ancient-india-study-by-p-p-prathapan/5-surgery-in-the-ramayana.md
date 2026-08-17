@@ -45,8 +45,6 @@ present modern medical system, where, animal parts are transplanted. In one plac
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ present modern medical system, where, animal parts are transplanted. In one plac
   ]
 }
 </script>
-

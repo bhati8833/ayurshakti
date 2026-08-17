@@ -37,8 +37,6 @@ word Asthika in the sense of 'one who believes in God.' If this should be accept
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ word Asthika in the sense of 'one who believes in God.' If this should be accept
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ SISIRA (Late Winter) (IV 12 to 15)—NATURAL FEATURES: 1. Intensive dew is sprea
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ SISIRA (Late Winter) (IV 12 to 15)—NATURAL FEATURES: 1. Intensive dew is sprea
   ]
 }
 </script>
-

@@ -47,8 +47,6 @@ Brhatsamhita has written by Varahamihira (C. 505 to 580 AD) deals with the topic
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Brhatsamhita has written by Varahamihira (C. 505 to 580 AD) deals with the topic
   ]
 }
 </script>
-

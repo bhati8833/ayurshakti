@@ -49,8 +49,6 @@ The two Solstices: The year is divided into six seasons. The northward movement 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ The two Solstices: The year is divided into six seasons. The northward movement 
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ UDARAM AND URAS Table No. XVIII Sl. Name Asraya Prognosis No. Extend No. 1. Nabh
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ UDARAM AND URAS Table No. XVIII Sl. Name Asraya Prognosis No. Extend No. 1. Nabh
   ]
 }
 </script>
-

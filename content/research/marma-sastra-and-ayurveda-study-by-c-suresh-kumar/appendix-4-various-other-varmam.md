@@ -37,8 +37,6 @@ Kaal Sundotiri varma is two angula above the big toe and otherwise termed as Vid
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Kaal Sundotiri varma is two angula above the big toe and otherwise termed as Vid
   ]
 }
 </script>
-

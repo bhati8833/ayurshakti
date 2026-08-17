@@ -53,8 +53,6 @@ see Vātsyāyana on ibid, Nyāya-Bhāṣya of Vātsyāyana., p. 448-49.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ see Vātsyāyana on ibid, Nyāya-Bhāṣya of Vātsyāyana., p. 448-49.
   ]
 }
 </script>
-

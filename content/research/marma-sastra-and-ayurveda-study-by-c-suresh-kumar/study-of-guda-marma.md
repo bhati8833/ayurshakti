@@ -43,8 +43,6 @@ into consideration. This is the area where the filum terminale ends. So any inju
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ into consideration. This is the area where the filum terminale ends. So any inju
   ]
 }
 </script>
-

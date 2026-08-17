@@ -37,8 +37,6 @@ Table No. IV-a Vaghbata Sushrutha Indravasthi 4 Indravasthi 4 Talahrudaya 4 Tala
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Table No. IV-a Vaghbata Sushrutha Indravasthi 4 Indravasthi 4 Talahrudaya 4 Tala
   ]
 }
 </script>
-

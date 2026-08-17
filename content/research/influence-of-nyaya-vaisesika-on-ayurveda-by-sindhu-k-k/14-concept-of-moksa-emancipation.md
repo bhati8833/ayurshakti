@@ -39,8 +39,6 @@ feelings of the mind the body realize, its own pure nature that is liberation wh
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ feelings of the mind the body realize, its own pure nature that is liberation wh
   ]
 }
 </script>
-

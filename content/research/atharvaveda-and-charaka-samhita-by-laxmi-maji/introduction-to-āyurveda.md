@@ -276,8 +276,6 @@ Dr. Vidyadhar Sukla & Dr. Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya,
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -393,4 +391,3 @@ Dr. Vidyadhar Sukla & Dr. Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya,
   ]
 }
 </script>
-

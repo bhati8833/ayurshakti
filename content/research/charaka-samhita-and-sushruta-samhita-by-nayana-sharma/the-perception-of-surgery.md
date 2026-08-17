@@ -409,8 +409,6 @@ Suśruta Saṃhitā Sūtrasthāna 13.3.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -526,4 +524,3 @@ Suśruta Saṃhitā Sūtrasthāna 13.3.
   ]
 }
 </script>
-

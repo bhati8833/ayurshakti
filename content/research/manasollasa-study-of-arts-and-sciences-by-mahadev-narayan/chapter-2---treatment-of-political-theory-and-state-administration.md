@@ -37,8 +37,6 @@ Chapter 2 - Treatment of Political Theory and State Administration
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 2 - Treatment of Political Theory and State Administration
   ]
 }
 </script>
-

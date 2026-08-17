@@ -47,8 +47,6 @@ are not indicative of any beginning of the science. The phenomenon of increase b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ are not indicative of any beginning of the science. The phenomenon of increase b
   ]
 }
 </script>
-

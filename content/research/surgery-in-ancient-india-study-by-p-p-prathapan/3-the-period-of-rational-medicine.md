@@ -37,8 +37,6 @@ Mesopotamia and India. In each of these widely separated centers of civilization
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Mesopotamia and India. In each of these widely separated centers of civilization
   ]
 }
 </script>
-

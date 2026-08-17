@@ -389,8 +389,6 @@ S. Das, Medical Heritage of Early India: An Anthology, Kolkata, 2014.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -506,4 +504,3 @@ S. Das, Medical Heritage of Early India: An Anthology, Kolkata, 2014.
   ]
 }
 </script>
-

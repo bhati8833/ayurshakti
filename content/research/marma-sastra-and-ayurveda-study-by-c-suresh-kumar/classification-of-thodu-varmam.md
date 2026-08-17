@@ -41,8 +41,6 @@ Chest Table No. XII-c 1. Thrisankhupuspam 1 2. Thilakuzhi I 3. Raktamthuppi 4 4.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Chest Table No. XII-c 1. Thrisankhupuspam 1 2. Thilakuzhi I 3. Raktamthuppi 4 4.
   ]
 }
 </script>
-

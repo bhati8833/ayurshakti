@@ -49,8 +49,6 @@ During the time of Somesvara, the Calukya empire had become too extensive to be 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ During the time of Somesvara, the Calukya empire had become too extensive to be 
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ Upper limb varma points at a glance as per Varma Suttiram. 0 Antai varma 0 Kiray
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Upper limb varma points at a glance as per Varma Suttiram. 0 Antai varma 0 Kiray
   ]
 }
 </script>
-

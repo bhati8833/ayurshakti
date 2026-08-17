@@ -39,8 +39,6 @@ Rasaratnasamuccaya, written by Vagbhat in the fourteenth century AD, marks the b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Rasaratnasamuccaya, written by Vagbhat in the fourteenth century AD, marks the b
   ]
 }
 </script>
-

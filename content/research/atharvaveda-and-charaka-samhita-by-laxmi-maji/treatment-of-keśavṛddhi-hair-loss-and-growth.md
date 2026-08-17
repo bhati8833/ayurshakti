@@ -71,8 +71,6 @@ idamū ṣu pra sādhaya punā rūpāṇi kalpaya || (AV. –I/24/4); K. L. Josh
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -188,4 +186,3 @@ idamū ṣu pra sādhaya punā rūpāṇi kalpaya || (AV. –I/24/4); K. L. Josh
   ]
 }
 </script>
-

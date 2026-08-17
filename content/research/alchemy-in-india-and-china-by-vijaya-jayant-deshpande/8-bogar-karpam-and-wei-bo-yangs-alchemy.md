@@ -47,8 +47,6 @@ We have seen earlier in the chapter on "Alchemy in China" that one of the earlie
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ We have seen earlier in the chapter on "Alchemy in China" that one of the earlie
   ]
 }
 </script>
-

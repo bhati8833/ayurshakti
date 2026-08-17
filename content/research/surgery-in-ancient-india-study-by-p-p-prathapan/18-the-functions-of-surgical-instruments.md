@@ -37,8 +37,6 @@ the entire salya, or is curved, loosely fitted, or soft-bolted, or loosely tied 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ the entire salya, or is curved, loosely fitted, or soft-bolted, or loosely tied 
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ II-9 (some metallic) pitchers (ahava, kalasa and kumbha) and some muscial instru
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ II-9 (some metallic) pitchers (ahava, kalasa and kumbha) and some muscial instru
   ]
 }
 </script>
-

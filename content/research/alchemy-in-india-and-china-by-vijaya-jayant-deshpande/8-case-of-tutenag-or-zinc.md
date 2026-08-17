@@ -41,8 +41,6 @@ In ancient times metals were classified according to their appearance. Iron, gol
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ In ancient times metals were classified according to their appearance. Iron, gol
   ]
 }
 </script>
-

@@ -68,8 +68,6 @@ kūṣmaṇḍa-vārttāka-paṭolakādyāḥ// Vṛkṣāyurveda , 19.234
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -185,4 +183,3 @@ kūṣmaṇḍa-vārttāka-paṭolakādyāḥ// Vṛkṣāyurveda , 19.234
   ]
 }
 </script>
-

@@ -53,8 +53,6 @@ Mādhava-Nidāna of Mādhavakara with the Commentary Madhukoṣa by Vijayarakṣ
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ Mādhava-Nidāna of Mādhavakara with the Commentary Madhukoṣa by Vijayarakṣ
   ]
 }
 </script>
-

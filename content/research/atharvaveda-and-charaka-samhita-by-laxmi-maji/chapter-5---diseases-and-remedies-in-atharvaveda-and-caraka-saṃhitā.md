@@ -37,8 +37,6 @@ Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 5 - Diseases and Remedies in Atharvaveda and Caraka-Saṃhitā
   ]
 }
 </script>
-

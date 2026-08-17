@@ -163,8 +163,6 @@ Although the names of the five major and five minor roots are not given in the D
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -280,4 +278,3 @@ Although the names of the five major and five minor roots are not given in the D
   ]
 }
 </script>
-

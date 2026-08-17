@@ -183,8 +183,6 @@ For details see CS, Vimāna - sthāna, IV. 5-12.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -300,4 +298,3 @@ For details see CS, Vimāna - sthāna, IV. 5-12.
   ]
 }
 </script>
-

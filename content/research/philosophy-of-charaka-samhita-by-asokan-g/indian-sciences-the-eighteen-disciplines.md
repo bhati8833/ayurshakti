@@ -87,8 +87,6 @@ Amita Chatterjee, “Aparā vidyā -- A Reconstruction Towards an Objective Phen
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -204,4 +202,3 @@ Amita Chatterjee, “Aparā vidyā -- A Reconstruction Towards an Objective Phen
   ]
 }
 </script>
-

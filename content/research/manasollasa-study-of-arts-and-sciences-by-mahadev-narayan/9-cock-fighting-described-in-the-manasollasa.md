@@ -39,8 +39,6 @@ Somesvara says that, the king should keep the best cocks in his possession and n
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Somesvara says that, the king should keep the best cocks in his possession and n
   ]
 }
 </script>
-

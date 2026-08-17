@@ -61,8 +61,6 @@ devā aduriti valmīkena bandhanapāyanācamanapradehanamuṣṇena || (Kauśika
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ devā aduriti valmīkena bandhanapāyanācamanapradehanamuṣṇena || (Kauśika
   ]
 }
 </script>
-

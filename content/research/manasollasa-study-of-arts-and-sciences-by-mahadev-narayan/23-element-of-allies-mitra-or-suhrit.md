@@ -41,8 +41,6 @@ the future. "42 43 The This same view we see in Yajnavalkya Smrti also. But acco
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ the future. "42 43 The This same view we see in Yajnavalkya Smrti also. But acco
   ]
 }
 </script>
-

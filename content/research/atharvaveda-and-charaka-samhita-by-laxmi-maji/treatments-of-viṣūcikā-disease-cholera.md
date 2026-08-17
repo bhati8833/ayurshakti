@@ -51,8 +51,6 @@ badarairūpavākābhirbheṣajam | Maitrā. S.–3/11/ 2, 6.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ badarairūpavākābhirbheṣajam | Maitrā. S.–3/11/ 2, 6.
   ]
 }
 </script>
-

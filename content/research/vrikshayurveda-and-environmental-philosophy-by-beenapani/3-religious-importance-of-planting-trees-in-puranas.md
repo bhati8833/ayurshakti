@@ -51,8 +51,6 @@ From the beginning of earth, before the birth of human being trees were present.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ From the beginning of earth, before the birth of human being trees were present.
   ]
 }
 </script>
-

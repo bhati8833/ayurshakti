@@ -377,8 +377,6 @@ Ibid., v. 113, p.123.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -494,4 +492,3 @@ Ibid., v. 113, p.123.
   ]
 }
 </script>
-

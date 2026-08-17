@@ -37,8 +37,6 @@ Beyond our expectations Caraka depicts its moral outlook. It is not a stereotype
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Beyond our expectations Caraka depicts its moral outlook. It is not a stereotype
   ]
 }
 </script>
-

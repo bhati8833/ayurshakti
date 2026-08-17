@@ -119,8 +119,6 @@ A.S.Ramanatha Ayyar, “Śrīrangam Inscription of Garuḍavāhana Bhaṭṭa: �
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -236,4 +234,3 @@ A.S.Ramanatha Ayyar, “Śrīrangam Inscription of Garuḍavāhana Bhaṭṭa: �
   ]
 }
 </script>
-

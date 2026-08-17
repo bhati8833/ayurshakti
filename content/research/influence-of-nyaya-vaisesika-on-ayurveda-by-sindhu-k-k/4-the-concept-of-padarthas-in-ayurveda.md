@@ -39,8 +39,6 @@ Vaisesika darsana, and also says that the change behind the order is that the sp
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Vaisesika darsana, and also says that the change behind the order is that the sp
   ]
 }
 </script>
-

@@ -43,8 +43,6 @@ Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Vidyadhar Sukla & Ravidatta Tripathi, Ayurveda Ka Itihasa Evam Paricaya, Delhi, 
   ]
 }
 </script>
-

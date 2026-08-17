@@ -63,8 +63,6 @@ In the next chapter, a succinct discussion of Buddhist ideology on health, disea
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -180,4 +178,3 @@ In the next chapter, a succinct discussion of Buddhist ideology on health, disea
   ]
 }
 </script>
-

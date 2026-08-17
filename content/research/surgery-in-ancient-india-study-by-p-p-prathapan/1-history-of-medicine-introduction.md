@@ -39,8 +39,6 @@ agreed that all the books had been duly compiled. The origin of Ayurveda, is rel
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ agreed that all the books had been duly compiled. The origin of Ayurveda, is rel
   ]
 }
 </script>
-

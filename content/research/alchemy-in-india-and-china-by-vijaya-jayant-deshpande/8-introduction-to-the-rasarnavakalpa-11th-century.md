@@ -39,8 +39,6 @@ fewer ingredients, as compared to Rasarnava. poisonous substances such as copper
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ fewer ingredients, as compared to Rasarnava. poisonous substances such as copper
   ]
 }
 </script>
-

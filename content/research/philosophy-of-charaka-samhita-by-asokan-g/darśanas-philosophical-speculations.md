@@ -81,8 +81,6 @@ heyaṃ dukhamanāgataṃ, Y. Su, II. 16; atha trividhaduḥkhātyantanivṛttir
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -198,4 +196,3 @@ heyaṃ dukhamanāgataṃ, Y. Su, II. 16; atha trividhaduḥkhātyantanivṛttir
   ]
 }
 </script>
-

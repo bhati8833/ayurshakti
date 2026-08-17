@@ -37,8 +37,6 @@ The contribution and place of alchemy in the overall development of chemistry is
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The contribution and place of alchemy in the overall development of chemistry is
   ]
 }
 </script>
-

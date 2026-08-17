@@ -45,8 +45,6 @@ Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Kaviraj Vagishwar Shukla, History of Ayurveda, Varanasi, Chaukhamba Amarabharati
   ]
 }
 </script>
-

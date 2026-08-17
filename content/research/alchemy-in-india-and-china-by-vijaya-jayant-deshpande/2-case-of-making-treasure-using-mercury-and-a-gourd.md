@@ -53,8 +53,6 @@ Further in the chapter on dyeing, bitter gourd is included in the list of plants
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ Further in the chapter on dyeing, bitter gourd is included in the list of plants
   ]
 }
 </script>
-

@@ -43,8 +43,6 @@ The administration of Pancakarma (elimination therapy) sa 12 according to the se
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ The administration of Pancakarma (elimination therapy) sa 12 according to the se
   ]
 }
 </script>
-

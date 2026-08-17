@@ -37,8 +37,6 @@ spokes/ petals starting from the centre and reaching the periphery. The grievous
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ spokes/ petals starting from the centre and reaching the periphery. The grievous
   ]
 }
 </script>
-

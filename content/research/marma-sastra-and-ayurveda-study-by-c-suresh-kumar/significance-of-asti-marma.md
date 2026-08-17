@@ -35,8 +35,6 @@ Significance of Asti Marma
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Significance of Asti Marma
   ]
 }
 </script>
-

@@ -645,8 +645,6 @@ CS. –III.333-346; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -762,4 +760,3 @@ CS. –III.333-346; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃhitā–Vol.
   ]
 }
 </script>
-

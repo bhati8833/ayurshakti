@@ -55,8 +55,6 @@ pañcamena varuṇagṛhītasya mūrdhni sampātānānayati || (Kauśika Sūtra 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ pañcamena varuṇagṛhītasya mūrdhni sampātānānayati || (Kauśika Sūtra 
   ]
 }
 </script>
-

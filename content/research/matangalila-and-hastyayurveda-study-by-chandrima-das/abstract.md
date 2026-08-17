@@ -37,8 +37,6 @@ There is special position of elephant lore in early Indian literature and gajaś
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ There is special position of elephant lore in early Indian literature and gajaś
   ]
 }
 </script>
-

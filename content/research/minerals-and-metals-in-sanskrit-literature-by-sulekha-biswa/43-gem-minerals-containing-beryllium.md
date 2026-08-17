@@ -45,8 +45,6 @@ VII-22 represent golden beryl, a gem softer than chrysoberyl but occurring with 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ VII-22 represent golden beryl, a gem softer than chrysoberyl but occurring with 
   ]
 }
 </script>
-

@@ -443,8 +443,6 @@ ataḥ paraṃ tu ṣaṇmāsān kṣīravṛttirbhavennaraḥ || (CS.  Cikitsā
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -560,4 +558,3 @@ ataḥ paraṃ tu ṣaṇmāsān kṣīravṛttirbhavennaraḥ || (CS.  Cikitsā
   ]
 }
 </script>
-

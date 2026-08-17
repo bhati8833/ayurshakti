@@ -45,8 +45,6 @@ Used products for purgation therapy are as follows: latex; roots; barks; leaves;
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Used products for purgation therapy are as follows: latex; roots; barks; leaves;
   ]
 }
 </script>
-

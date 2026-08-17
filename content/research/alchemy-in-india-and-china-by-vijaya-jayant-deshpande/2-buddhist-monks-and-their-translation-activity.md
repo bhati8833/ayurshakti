@@ -39,8 +39,6 @@ India and China had contact with each other since ancient times. These contacts 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ India and China had contact with each other since ancient times. These contacts 
   ]
 }
 </script>
-

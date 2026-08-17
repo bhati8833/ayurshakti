@@ -45,8 +45,6 @@ seen later. Irritation at the thoracic region will arise due to gastritis and ch
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ seen later. Irritation at the thoracic region will arise due to gastritis and ch
   ]
 }
 </script>
-

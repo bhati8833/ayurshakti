@@ -37,8 +37,6 @@ these acaryas are supposed to have lived during the Upanisad period. References 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ these acaryas are supposed to have lived during the Upanisad period. References 
   ]
 }
 </script>
-

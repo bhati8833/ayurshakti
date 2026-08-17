@@ -167,8 +167,6 @@ CS, Śārīra - sthāna, V. 9 iccādveṣajanite pravṛttinivṛttī prayatnavi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -284,4 +282,3 @@ CS, Śārīra - sthāna, V. 9 iccādveṣajanite pravṛttinivṛttī prayatnavi
   ]
 }
 </script>
-

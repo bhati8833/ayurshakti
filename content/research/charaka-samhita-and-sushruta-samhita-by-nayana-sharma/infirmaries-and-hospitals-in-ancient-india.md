@@ -149,8 +149,6 @@ S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -266,4 +264,3 @@ S. Basu Majumdar, “Medical Practitioners, Medicines and Medical Institutions i
   ]
 }
 </script>
-

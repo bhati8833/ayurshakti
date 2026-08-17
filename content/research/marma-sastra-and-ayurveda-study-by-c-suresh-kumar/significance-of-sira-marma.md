@@ -37,8 +37,6 @@ Vaghbata 1. Brihathi 2. Mathruka Table No.IV-b Sushrutha 2 1. Neela 2 8 2 3. Nee
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Vaghbata 1. Brihathi 2. Mathruka Table No.IV-b Sushrutha 2 1. Neela 2 8 2 3. Nee
   ]
 }
 </script>
-

@@ -150,8 +150,6 @@ etam aṅgarasaṃ santam aṅgirā ityacakṣate | Atharvaveda Gopatha Brahmana
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -267,4 +265,3 @@ etam aṅgarasaṃ santam aṅgirā ityacakṣate | Atharvaveda Gopatha Brahmana
   ]
 }
 </script>
-

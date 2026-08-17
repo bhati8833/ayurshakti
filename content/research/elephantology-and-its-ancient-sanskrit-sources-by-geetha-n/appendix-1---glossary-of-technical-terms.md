@@ -33,8 +33,6 @@ Appendix 1 - Glossary Of Technical Terms
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -150,4 +148,3 @@ Appendix 1 - Glossary Of Technical Terms
   ]
 }
 </script>
-

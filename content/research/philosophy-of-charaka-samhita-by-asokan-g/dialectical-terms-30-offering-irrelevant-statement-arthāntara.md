@@ -49,8 +49,6 @@ prakṛtādarthādapratisambandhārthamarthāntaraṃ. Nyāyasūtra., V. ii. 7.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ prakṛtādarthādapratisambandhārthamarthāntaraṃ. Nyāyasūtra., V. ii. 7.
   ]
 }
 </script>
-

@@ -55,8 +55,6 @@ tatrānumeyodeśo avirodhī pratijñā. Praśastapādabhāṣya., p. 566.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ tatrānumeyodeśo avirodhī pratijñā. Praśastapādabhāṣya., p. 566.
   ]
 }
 </script>
-

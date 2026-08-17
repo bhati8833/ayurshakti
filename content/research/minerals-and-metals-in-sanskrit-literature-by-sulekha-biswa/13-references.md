@@ -45,8 +45,6 @@ VIII-44 Sikdar, J.C., 1970, Jaina Atomic Theory, in Indian Journal of History of
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ VIII-44 Sikdar, J.C., 1970, Jaina Atomic Theory, in Indian Journal of History of
   ]
 }
 </script>
-

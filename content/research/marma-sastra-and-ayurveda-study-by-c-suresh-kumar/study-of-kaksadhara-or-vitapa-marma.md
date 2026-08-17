@@ -45,8 +45,6 @@ Odukku Valippan are three in number. The position of this marma is in the middle
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Odukku Valippan are three in number. The position of this marma is in the middle
   ]
 }
 </script>
-

@@ -262,8 +262,6 @@ nakhavṛddhau nakhacchedastailasekaśca māsyapi// Ibid.,287.31b-32
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -379,4 +377,3 @@ nakhavṛddhau nakhacchedastailasekaśca māsyapi// Ibid.,287.31b-32
   ]
 }
 </script>
-

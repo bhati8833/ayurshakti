@@ -43,8 +43,6 @@ VIII-13 In his Rasa-Ratnakara, Nagarjuna dwelt on several other topics related t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ VIII-13 In his Rasa-Ratnakara, Nagarjuna dwelt on several other topics related t
   ]
 }
 </script>
-

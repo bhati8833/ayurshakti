@@ -55,8 +55,6 @@ sukhino vā khemino hontu sabbe sattā bhavantu sukhitattā.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ sukhino vā khemino hontu sabbe sattā bhavantu sukhitattā.
   ]
 }
 </script>
-

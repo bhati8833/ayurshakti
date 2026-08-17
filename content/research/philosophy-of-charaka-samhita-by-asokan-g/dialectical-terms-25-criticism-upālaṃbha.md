@@ -43,8 +43,6 @@ upālaṃbho nāma hetordoṣavacanaṃ. CS,Vimāna - sthāna, VIII. 59.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ upālaṃbho nāma hetordoṣavacanaṃ. CS,Vimāna - sthāna, VIII. 59.
   ]
 }
 </script>
-

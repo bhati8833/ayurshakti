@@ -51,8 +51,6 @@ Horses have always been regarded important in India. The ancient warriors used t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ Horses have always been regarded important in India. The ancient warriors used t
   ]
 }
 </script>
-

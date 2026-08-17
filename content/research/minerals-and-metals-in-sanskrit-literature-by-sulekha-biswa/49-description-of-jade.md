@@ -39,8 +39,6 @@ VII-48 due to iron and manganese. Apple-green or emerald green jadeite is so col
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ VII-48 due to iron and manganese. Apple-green or emerald green jadeite is so col
   ]
 }
 </script>
-

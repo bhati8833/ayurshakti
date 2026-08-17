@@ -51,8 +51,6 @@ and Kulayana marma system restrict presentation of information in totality makin
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ and Kulayana marma system restrict presentation of information in totality makin
   ]
 }
 </script>
-

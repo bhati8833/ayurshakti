@@ -37,8 +37,6 @@ In Sanskrit literature the word vrksa gives the impression of a punlinga sabda t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ In Sanskrit literature the word vrksa gives the impression of a punlinga sabda t
   ]
 }
 </script>
-

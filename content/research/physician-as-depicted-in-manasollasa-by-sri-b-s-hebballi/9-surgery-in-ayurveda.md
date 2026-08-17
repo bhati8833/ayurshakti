@@ -43,8 +43,6 @@ It is an established fact that Surgical Science is known as a distinct branch of
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ It is an established fact that Surgical Science is known as a distinct branch of
   ]
 }
 </script>
-

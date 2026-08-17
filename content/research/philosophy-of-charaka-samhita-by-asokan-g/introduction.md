@@ -53,8 +53,6 @@ Physics and Chemistry did not take firm independent root until after the Renaiss
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ Physics and Chemistry did not take firm independent root until after the Renaiss
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ Thodu Varma Varma Suthiram Varma Varma Varma Kannadi Peerangi Suthram V.P 1. Ang
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Thodu Varma Varma Suthiram Varma Varma Varma Kannadi Peerangi Suthram V.P 1. Ang
   ]
 }
 </script>
-

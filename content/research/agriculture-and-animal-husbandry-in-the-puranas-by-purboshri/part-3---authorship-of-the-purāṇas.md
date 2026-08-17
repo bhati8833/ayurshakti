@@ -156,8 +156,6 @@ vaiśampāyanahārītau ṣaḍvai paurāṇikā ime// Bhāgavata Purāṇa , 12
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -273,4 +271,3 @@ vaiśampāyanahārītau ṣaḍvai paurāṇikā ime// Bhāgavata Purāṇa , 12
   ]
 }
 </script>
-

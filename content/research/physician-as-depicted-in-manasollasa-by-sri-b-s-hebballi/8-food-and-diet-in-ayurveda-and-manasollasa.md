@@ -51,8 +51,6 @@ We know already that diet or food for satisfying hunger is one of the biological
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ We know already that diet or food for satisfying hunger is one of the biological
   ]
 }
 </script>
-

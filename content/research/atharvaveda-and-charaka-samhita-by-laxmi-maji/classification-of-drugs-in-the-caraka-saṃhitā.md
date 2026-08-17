@@ -57,8 +57,6 @@ C. Vimānasthāna–VIII.154-174; Baidyacharya Kalikinkar Sensarma & Ayurbedacha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ C. Vimānasthāna–VIII.154-174; Baidyacharya Kalikinkar Sensarma & Ayurbedacha
   ]
 }
 </script>
-

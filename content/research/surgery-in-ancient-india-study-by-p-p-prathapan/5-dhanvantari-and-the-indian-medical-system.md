@@ -49,8 +49,6 @@ that all the later salya tantra samhita works and is based on these three works 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ that all the later salya tantra samhita works and is based on these three works 
   ]
 }
 </script>
-

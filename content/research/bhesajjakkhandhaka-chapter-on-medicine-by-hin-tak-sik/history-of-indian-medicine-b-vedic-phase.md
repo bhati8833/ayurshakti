@@ -65,8 +65,6 @@ The practice of divination, which was known in some ancient medical traditions, 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ The practice of divination, which was known in some ancient medical traditions, 
   ]
 }
 </script>
-

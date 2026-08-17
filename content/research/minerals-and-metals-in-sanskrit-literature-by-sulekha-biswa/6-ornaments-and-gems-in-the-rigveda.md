@@ -39,8 +39,6 @@ II-11 The latter reference alludes to golden ear-ring and a necklace made of gem
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ II-11 The latter reference alludes to golden ear-ring and a necklace made of gem
   ]
 }
 </script>
-

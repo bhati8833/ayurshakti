@@ -109,8 +109,6 @@ Caraka Saṃhitā Vimānasthāna 6.4.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -226,4 +224,3 @@ Caraka Saṃhitā Vimānasthāna 6.4.
   ]
 }
 </script>
-

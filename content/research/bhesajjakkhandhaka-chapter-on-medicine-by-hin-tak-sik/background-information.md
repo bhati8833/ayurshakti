@@ -61,8 +61,6 @@ The history of ancient Indian medicine and that of Indian Buddhism (which is rel
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ The history of ancient Indian medicine and that of Indian Buddhism (which is rel
   ]
 }
 </script>
-

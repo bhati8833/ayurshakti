@@ -43,8 +43,6 @@ Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhamb
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Anup Kumar Gakkhara & Anil Gakkhara, Āyurveda Kā Itihāsa, Varanasi, Chaukhamb
   ]
 }
 </script>
-

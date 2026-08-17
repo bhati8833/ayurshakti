@@ -98,8 +98,6 @@ siṃhaḥ kapirgajaḥ kūrmo godhā ca makarādayaḥ// Ibid., 3.10.22
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -215,4 +213,3 @@ siṃhaḥ kapirgajaḥ kūrmo godhā ca makarādayaḥ// Ibid., 3.10.22
   ]
 }
 </script>
-

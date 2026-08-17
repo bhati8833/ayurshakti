@@ -157,8 +157,6 @@ na cetpurāṇaṃ saṃvidyānnaiva sa syādvicakṣaṇaḥ // Vāyu Purāṇa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -274,4 +272,3 @@ na cetpurāṇaṃ saṃvidyānnaiva sa syādvicakṣaṇaḥ // Vāyu Purāṇa
   ]
 }
 </script>
-

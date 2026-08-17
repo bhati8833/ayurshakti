@@ -49,8 +49,6 @@ III. General Signs and symptoms Mathirai i. The eye balls roll ii. The black pup
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ III. General Signs and symptoms Mathirai i. The eye balls roll ii. The black pup
   ]
 }
 </script>
-

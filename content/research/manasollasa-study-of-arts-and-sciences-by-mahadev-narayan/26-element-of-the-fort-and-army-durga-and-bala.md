@@ -59,8 +59,6 @@ The next elements of the State are Fort and Army. The defence of the State is ba
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ The next elements of the State are Fort and Army. The defence of the State is ba
   ]
 }
 </script>
-

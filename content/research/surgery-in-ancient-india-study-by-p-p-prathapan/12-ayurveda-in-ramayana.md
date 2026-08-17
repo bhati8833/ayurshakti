@@ -39,8 +39,6 @@ USE OF ALCOHOLIC PREPARATIONS In the enumeration of `Pang Bhumi' of Ravana, diff
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ USE OF ALCOHOLIC PREPARATIONS In the enumeration of `Pang Bhumi' of Ravana, diff
   ]
 }
 </script>
-

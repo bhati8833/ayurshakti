@@ -59,8 +59,6 @@ R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, (Book 2, Chapter 2), Part II, B
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ R.P. Kangle. tr. The Kauṭilīya Arthaśāstra, (Book 2, Chapter 2), Part II, B
   ]
 }
 </script>
-

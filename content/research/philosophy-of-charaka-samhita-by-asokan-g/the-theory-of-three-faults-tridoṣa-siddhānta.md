@@ -169,8 +169,6 @@ samānaṃ hi prakṛtiṃ prāpya doṣaḥ pravṛddhabalo bhavati, asamāna�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -286,4 +284,3 @@ samānaṃ hi prakṛtiṃ prāpya doṣaḥ pravṛddhabalo bhavati, asamāna�
   ]
 }
 </script>
-

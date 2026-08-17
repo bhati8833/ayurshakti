@@ -53,8 +53,6 @@ srute paryavadatatvam bahuso drstakarmata | daksyam saucamiti jneyam vaidye guna
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ srute paryavadatatvam bahuso drstakarmata | daksyam saucamiti jneyam vaidye guna
   ]
 }
 </script>
-

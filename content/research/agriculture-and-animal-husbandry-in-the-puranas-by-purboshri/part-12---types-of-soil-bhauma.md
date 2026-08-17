@@ -118,8 +118,6 @@ jāṅgalaḥ pittabahulo madhyaḥ sādhāraṇaḥ smṛtaḥ// Ibid., 280.15-
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -235,4 +233,3 @@ jāṅgalaḥ pittabahulo madhyaḥ sādhāraṇaḥ smṛtaḥ// Ibid., 280.15-
   ]
 }
 </script>
-

@@ -49,8 +49,6 @@ De, S.K., et al (ed.), The Cultural Heritage of India, volume 6, p. 405
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ De, S.K., et al (ed.), The Cultural Heritage of India, volume 6, p. 405
   ]
 }
 </script>
-

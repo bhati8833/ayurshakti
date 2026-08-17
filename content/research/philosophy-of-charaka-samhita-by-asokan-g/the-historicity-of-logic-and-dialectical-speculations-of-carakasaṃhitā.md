@@ -181,8 +181,6 @@ yadakṣapādapravaro munīnāṃ śamāya śāstraṃ jagado jagāda, Nyāya-V�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -298,4 +296,3 @@ yadakṣapādapravaro munīnāṃ śamāya śāstraṃ jagado jagāda, Nyāya-V�
   ]
 }
 </script>
-

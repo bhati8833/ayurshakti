@@ -43,8 +43,6 @@ Table No. V-d 1. Gulpha 2 2. Manibandha 2 3. Koorchasira 4 Total 8 1. 2. 3.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Table No. V-d 1. Gulpha 2 2. Manibandha 2 3. Koorchasira 4 Total 8 1. 2. 3.
   ]
 }
 </script>
-

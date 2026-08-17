@@ -165,8 +165,6 @@ karmaṇo vyatiriktatve satyāvāntarajātimān upādānatvanirmukto guṇo gu�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -282,4 +280,3 @@ karmaṇo vyatiriktatve satyāvāntarajātimān upādānatvanirmukto guṇo gu�
   ]
 }
 </script>
-

@@ -161,8 +161,6 @@ John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, p. 91
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -278,4 +276,3 @@ John W. McCrinddle. Ancient India as described by Megasthenês and Arrian, p. 91
   ]
 }
 </script>
-

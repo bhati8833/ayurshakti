@@ -39,8 +39,6 @@ life of all beings. His followers built many health centres for men and animals.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ life of all beings. His followers built many health centres for men and animals.
   ]
 }
 </script>
-

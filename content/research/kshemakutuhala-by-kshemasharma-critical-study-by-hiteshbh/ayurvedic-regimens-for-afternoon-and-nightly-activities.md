@@ -39,8 +39,6 @@ One should keep one's self busy in religious activities. All the activities in t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ One should keep one's self busy in religious activities. All the activities in t
   ]
 }
 </script>
-

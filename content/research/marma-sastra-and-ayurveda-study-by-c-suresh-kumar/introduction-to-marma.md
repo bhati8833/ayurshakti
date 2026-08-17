@@ -55,8 +55,6 @@ With the aid of certain highly developed camera to study halo - it is under stud
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ With the aid of certain highly developed camera to study halo - it is under stud
   ]
 }
 </script>
-

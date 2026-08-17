@@ -44,8 +44,6 @@ pāmanā jāyeran | Kāṭh. S.  –23/4.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -161,4 +159,3 @@ pāmanā jāyeran | Kāṭh. S.  –23/4.
   ]
 }
 </script>
-

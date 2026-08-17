@@ -68,8 +68,6 @@ AV. –IV/9/1-10, II/4/1-6, XIX/34/1-10, XIX/36/1-6; Veda Atharvaveda Saṃhitā
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -185,4 +183,3 @@ AV. –IV/9/1-10, II/4/1-6, XIX/34/1-10, XIX/36/1-6; Veda Atharvaveda Saṃhitā
   ]
 }
 </script>
-

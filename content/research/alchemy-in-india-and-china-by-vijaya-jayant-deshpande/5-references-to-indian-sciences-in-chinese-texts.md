@@ -45,8 +45,6 @@ We find references to Indian sciences in numerous Chinese texts. Most of them ar
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ We find references to Indian sciences in numerous Chinese texts. Most of them ar
   ]
 }
 </script>
-

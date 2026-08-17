@@ -37,8 +37,6 @@ living beings) where effort (prayatna) stands as its very cause. 91 Cakrapani me
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ living beings) where effort (prayatna) stands as its very cause. 91 Cakrapani me
   ]
 }
 </script>
-

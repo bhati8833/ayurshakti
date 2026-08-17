@@ -141,8 +141,6 @@ Ajay Mitra Shastri. India as seen in The Bṛhatsaṃhitā of Varāhamihira, Del
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -258,4 +256,3 @@ Ajay Mitra Shastri. India as seen in The Bṛhatsaṃhitā of Varāhamihira, Del
   ]
 }
 </script>
-

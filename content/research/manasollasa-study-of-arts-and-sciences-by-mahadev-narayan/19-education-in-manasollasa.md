@@ -59,8 +59,6 @@ Somesvara attached much importance to education, without which it was difficult 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ Somesvara attached much importance to education, without which it was difficult 
   ]
 }
 </script>
-

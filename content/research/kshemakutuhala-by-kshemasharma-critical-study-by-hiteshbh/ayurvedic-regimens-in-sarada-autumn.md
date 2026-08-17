@@ -39,8 +39,6 @@ to the change of seasons if one follows these rules.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ to the change of seasons if one follows these rules.
   ]
 }
 </script>
-

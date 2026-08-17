@@ -35,8 +35,6 @@ Chapter 1 - Origin and Development of Nyaya-Vaisesika and Ayurveda
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 1 - Origin and Development of Nyaya-Vaisesika and Ayurveda
   ]
 }
 </script>
-

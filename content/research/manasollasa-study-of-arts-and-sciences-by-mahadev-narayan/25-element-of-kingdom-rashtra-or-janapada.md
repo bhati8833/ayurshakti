@@ -39,8 +39,6 @@ According to Somesvara the Rastra or Janapada is the fifth important state eleme
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ According to Somesvara the Rastra or Janapada is the fifth important state eleme
   ]
 }
 </script>
-

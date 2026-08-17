@@ -149,8 +149,6 @@ Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -266,4 +264,3 @@ Viṣṇu Purāṇa , 1.6.21-23a; Vāyu Purāṇa , 8.150-152
   ]
 }
 </script>
-

@@ -499,8 +499,6 @@ Suśruta Saṃhitā Sūtrasthāna 46.170.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -616,4 +614,3 @@ Suśruta Saṃhitā Sūtrasthāna 46.170.
   ]
 }
 </script>
-

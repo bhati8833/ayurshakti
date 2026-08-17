@@ -78,8 +78,6 @@ C. Cikitsāsthāna–XX.2-68; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -195,4 +193,3 @@ C. Cikitsāsthāna–XX.2-68; Baidyacharya Kalikinkar Sensarma & Ayurbedacharya 
   ]
 }
 </script>
-

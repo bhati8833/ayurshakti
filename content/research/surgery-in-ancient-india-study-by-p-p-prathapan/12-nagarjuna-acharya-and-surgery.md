@@ -37,8 +37,6 @@ popular and as a result of it, surgical operations were looked upon as causing i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ popular and as a result of it, surgical operations were looked upon as causing i
   ]
 }
 </script>
-

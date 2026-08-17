@@ -65,8 +65,6 @@ Like Vrksayurveda of Surapala, there is another treatise written by Chakrapani M
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ Like Vrksayurveda of Surapala, there is another treatise written by Chakrapani M
   ]
 }
 </script>
-

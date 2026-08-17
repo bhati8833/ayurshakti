@@ -67,8 +67,6 @@ In the above Buddhist record, yellow myrobalan treated with cow’s urine is men
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -184,4 +182,3 @@ In the above Buddhist record, yellow myrobalan treated with cow’s urine is men
   ]
 }
 </script>
-

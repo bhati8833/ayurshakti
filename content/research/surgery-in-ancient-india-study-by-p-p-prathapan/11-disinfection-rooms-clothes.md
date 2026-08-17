@@ -35,8 +35,6 @@ Caraka says that if peacock's feather, bones of vaka bird, white mustard and red
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Caraka says that if peacock's feather, bones of vaka bird, white mustard and red
   ]
 }
 </script>
-

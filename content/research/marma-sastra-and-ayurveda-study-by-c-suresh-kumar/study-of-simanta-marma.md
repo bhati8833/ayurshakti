@@ -41,8 +41,6 @@ life-centre. The patient will lose the power of senses after seizures. Even if h
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ life-centre. The patient will lose the power of senses after seizures. Even if h
   ]
 }
 </script>
-

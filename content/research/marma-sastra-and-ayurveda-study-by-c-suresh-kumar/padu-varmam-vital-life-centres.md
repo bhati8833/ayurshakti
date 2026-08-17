@@ -39,8 +39,6 @@ Measurement of impact Life centres 1. Thilartha Kala 2. Nakshathira Kala 3. Sevi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Measurement of impact Life centres 1. Thilartha Kala 2. Nakshathira Kala 3. Sevi
   ]
 }
 </script>
-

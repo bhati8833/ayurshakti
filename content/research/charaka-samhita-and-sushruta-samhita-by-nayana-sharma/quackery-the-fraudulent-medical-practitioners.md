@@ -101,8 +101,6 @@ Jātaka, Vol.4, No. 495.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -218,4 +216,3 @@ Jātaka, Vol.4, No. 495.
   ]
 }
 </script>
-

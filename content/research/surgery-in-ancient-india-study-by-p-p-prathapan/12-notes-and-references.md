@@ -39,8 +39,6 @@ REFERENCES 1 Singh N.K, Dr, Agwan, AR, Encyclopedia of the Holy Qur'An, Vol-I, G
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ REFERENCES 1 Singh N.K, Dr, Agwan, AR, Encyclopedia of the Holy Qur'An, Vol-I, G
   ]
 }
 </script>
-

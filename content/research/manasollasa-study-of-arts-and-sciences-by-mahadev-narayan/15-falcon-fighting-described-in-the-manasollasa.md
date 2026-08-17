@@ -43,8 +43,6 @@ Somesvara further tells Syena Vinoda, or the entertainment through falcon. He de
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Somesvara further tells Syena Vinoda, or the entertainment through falcon. He de
   ]
 }
 </script>
-

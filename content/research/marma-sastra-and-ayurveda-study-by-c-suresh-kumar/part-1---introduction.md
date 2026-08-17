@@ -35,8 +35,6 @@ Part 1 - Introduction
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Part 1 - Introduction
   ]
 }
 </script>
-

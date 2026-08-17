@@ -39,8 +39,6 @@ With these prefatory words, I with all modesty and sincerity put forward this wo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ With these prefatory words, I with all modesty and sincerity put forward this wo
   ]
 }
 </script>
-

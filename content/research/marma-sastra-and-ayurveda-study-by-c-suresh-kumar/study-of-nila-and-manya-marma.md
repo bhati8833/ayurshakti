@@ -45,8 +45,6 @@ these varmas. However with the available data, the following varmas are taken in
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ these varmas. However with the available data, the following varmas are taken in
   ]
 }
 </script>
-

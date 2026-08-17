@@ -39,8 +39,6 @@ Thrayangula mana marma 1. Janu Table No. VI-d 2 2. Koorpara Total 04 21 Panithal
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Thrayangula mana marma 1. Janu Table No. VI-d 2 2. Koorpara Total 04 21 Panithal
   ]
 }
 </script>
-

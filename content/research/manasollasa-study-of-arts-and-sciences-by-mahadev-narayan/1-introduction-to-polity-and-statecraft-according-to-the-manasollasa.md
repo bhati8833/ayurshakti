@@ -43,8 +43,6 @@ The question as to how far the ancient Hindus were a political people and evolve
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ The question as to how far the ancient Hindus were a political people and evolve
   ]
 }
 </script>
-

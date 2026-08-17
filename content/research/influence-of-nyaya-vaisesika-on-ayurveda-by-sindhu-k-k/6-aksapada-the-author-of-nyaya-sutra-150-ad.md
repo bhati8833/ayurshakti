@@ -37,8 +37,6 @@ of which he was rescued with great difficulty. God therefore mereficullly provid
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ of which he was rescued with great difficulty. God therefore mereficullly provid
   ]
 }
 </script>
-

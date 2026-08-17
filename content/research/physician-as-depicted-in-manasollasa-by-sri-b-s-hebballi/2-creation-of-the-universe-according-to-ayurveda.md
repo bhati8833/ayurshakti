@@ -49,8 +49,6 @@ Different philosophical thoughts of India are enshrined in the darsanas. These d
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ Different philosophical thoughts of India are enshrined in the darsanas. These d
   ]
 }
 </script>
-

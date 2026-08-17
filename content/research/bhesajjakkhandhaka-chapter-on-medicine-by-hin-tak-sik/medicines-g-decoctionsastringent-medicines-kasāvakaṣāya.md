@@ -120,8 +120,6 @@ The information on kapilā (South Indian redwood) is based on A Sanskrit-English
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -237,4 +235,3 @@ The information on kapilā (South Indian redwood) is based on A Sanskrit-English
   ]
 }
 </script>
-

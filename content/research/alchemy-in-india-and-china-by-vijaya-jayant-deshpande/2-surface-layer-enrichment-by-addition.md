@@ -37,8 +37,6 @@ Mercury amalgams were used for plating the metalsurfaces, i.e., gilding or silve
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Mercury amalgams were used for plating the metalsurfaces, i.e., gilding or silve
   ]
 }
 </script>
-

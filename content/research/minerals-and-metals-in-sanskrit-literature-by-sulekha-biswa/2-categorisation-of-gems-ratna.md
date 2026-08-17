@@ -45,8 +45,6 @@ Name English Sanskrit Lapis Lazuli/ Ultra- -marine/Rajavarta/ Lajhward (Glass ha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Name English Sanskrit Lapis Lazuli/ Ultra- -marine/Rajavarta/ Lajhward (Glass ha
   ]
 }
 </script>
-

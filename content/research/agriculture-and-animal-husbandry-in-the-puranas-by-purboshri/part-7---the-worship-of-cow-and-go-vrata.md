@@ -66,8 +66,6 @@ māsenaikena niṣpāpo golokī sagaṇo bhavet/ Agni Purāṇa , 292.12-13a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -183,4 +181,3 @@ māsenaikena niṣpāpo golokī sagaṇo bhavet/ Agni Purāṇa , 292.12-13a
   ]
 }
 </script>
-

@@ -49,8 +49,6 @@ Nutritional needs for the day. 2. Likes and dislikes of the group. 3. The stayin
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ Nutritional needs for the day. 2. Likes and dislikes of the group. 3. The stayin
   ]
 }
 </script>
-

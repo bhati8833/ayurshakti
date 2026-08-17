@@ -37,8 +37,6 @@ Both Brahmanical and Buddhist iconography give immense importance to elephants. 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Both Brahmanical and Buddhist iconography give immense importance to elephants. 
   ]
 }
 </script>
-

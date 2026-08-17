@@ -39,8 +39,6 @@ It is suitable to consider the marma near the upper margin of pelvic bone which 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ It is suitable to consider the marma near the upper margin of pelvic bone which 
   ]
 }
 </script>
-

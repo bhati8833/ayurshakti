@@ -39,8 +39,6 @@ III-7 'One would join gold with the help of borax (lavana), silver with the help
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ III-7 'One would join gold with the help of borax (lavana), silver with the help
   ]
 }
 </script>
-

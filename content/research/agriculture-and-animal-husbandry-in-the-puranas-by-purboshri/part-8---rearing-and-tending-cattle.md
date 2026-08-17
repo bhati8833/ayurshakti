@@ -85,8 +85,6 @@ Bhāgavata Purāṇa , 10.11.27,35-36
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -202,4 +200,3 @@ Bhāgavata Purāṇa , 10.11.27,35-36
   ]
 }
 </script>
-

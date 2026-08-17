@@ -39,8 +39,6 @@ The Kshemakutuhala enumerates following incompatible food combinations (III 39-4
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ The Kshemakutuhala enumerates following incompatible food combinations (III 39-4
   ]
 }
 </script>
-

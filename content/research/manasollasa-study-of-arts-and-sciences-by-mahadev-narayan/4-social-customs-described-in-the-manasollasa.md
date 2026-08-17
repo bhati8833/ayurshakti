@@ -53,8 +53,6 @@ It is the Vedic way of life, based on the Trayi-Dharma. That alone is declared b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ It is the Vedic way of life, based on the Trayi-Dharma. That alone is declared b
   ]
 }
 </script>
-

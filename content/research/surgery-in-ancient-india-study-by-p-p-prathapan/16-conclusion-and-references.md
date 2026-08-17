@@ -47,8 +47,6 @@ Yajurveda Samhita, Veda Pratishthana, New Delhi, 1989, P-208 46. Subbarayappa, B
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Yajurveda Samhita, Veda Pratishthana, New Delhi, 1989, P-208 46. Subbarayappa, B
   ]
 }
 </script>
-

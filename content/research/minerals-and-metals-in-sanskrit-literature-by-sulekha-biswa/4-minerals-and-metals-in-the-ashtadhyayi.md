@@ -41,8 +41,6 @@ IV-7 time. Whether Kamsa meant brass (copper-zinc alloy) also, is not known. Pos
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ IV-7 time. Whether Kamsa meant brass (copper-zinc alloy) also, is not known. Pos
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ Sexual intercourse should be performed on the fifteenth day in the day time duri
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Sexual intercourse should be performed on the fifteenth day in the day time duri
   ]
 }
 </script>
-

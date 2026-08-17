@@ -37,8 +37,6 @@ to use Nimba leaves for wound fumigation.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ to use Nimba leaves for wound fumigation.
   ]
 }
 </script>
-

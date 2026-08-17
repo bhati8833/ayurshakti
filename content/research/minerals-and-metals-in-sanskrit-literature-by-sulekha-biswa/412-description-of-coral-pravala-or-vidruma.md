@@ -45,8 +45,6 @@ VII-61 Coral beads have been used by the religious people of India as rosaries t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ VII-61 Coral beads have been used by the religious people of India as rosaries t
   ]
 }
 </script>
-

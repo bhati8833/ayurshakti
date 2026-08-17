@@ -55,8 +55,6 @@ yena prayuktaḥ pravartate tat prayojanaṃ,Vātsyāyana on ibid., N. Bh, p. 6.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ yena prayuktaḥ pravartate tat prayojanaṃ,Vātsyāyana on ibid., N. Bh, p. 6.
   ]
 }
 </script>
-

@@ -91,8 +91,6 @@ P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India fro
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -208,4 +206,3 @@ P.V. Sharma, “Caraka” in P.V. Sharma (Ed.), History of Medicine in India fro
   ]
 }
 </script>
-

@@ -45,8 +45,6 @@ threads, are the inherent cause of the cloth and the clay is the inherent cause 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ threads, are the inherent cause of the cloth and the clay is the inherent cause 
   ]
 }
 </script>
-

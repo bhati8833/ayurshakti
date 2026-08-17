@@ -43,8 +43,6 @@ kalpana'a 139 58. Manu Smrti 2 - 15: 59. Ibid, 1 93, 95, 98, 101, 4 169. 60. Pan
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ kalpana'a 139 58. Manu Smrti 2 - 15: 59. Ibid, 1 93, 95, 98, 101, 4 169. 60. Pan
   ]
 }
 </script>
-

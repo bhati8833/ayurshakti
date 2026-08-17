@@ -45,8 +45,6 @@ Dr. Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itiha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Dr. Dingari Lakshmana Chary, A Text Book of Padartha Vijnana Evam Ayurveda Itiha
   ]
 }
 </script>
-

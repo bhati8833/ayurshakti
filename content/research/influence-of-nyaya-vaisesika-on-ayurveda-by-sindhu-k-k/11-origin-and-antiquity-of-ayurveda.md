@@ -39,8 +39,6 @@ knowledge of Ayurveda as eternal, but considers it have a beginning from its fir
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ knowledge of Ayurveda as eternal, but considers it have a beginning from its fir
   ]
 }
 </script>
-

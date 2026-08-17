@@ -172,8 +172,6 @@ Bhāgavata Purāṇa , 10.27.1; Vāyu Purāṇa , 100.159; 104.53-55; Matsya Pur
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -289,4 +287,3 @@ Bhāgavata Purāṇa , 10.27.1; Vāyu Purāṇa , 100.159; 104.53-55; Matsya Pur
   ]
 }
 </script>
-

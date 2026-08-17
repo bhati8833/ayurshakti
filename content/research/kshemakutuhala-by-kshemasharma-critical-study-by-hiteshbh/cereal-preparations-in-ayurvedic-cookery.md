@@ -51,8 +51,6 @@ rice flour. Roll out thread like streaks. Dry in sun. Fry in ghee. Add sugar and
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ rice flour. Roll out thread like streaks. Dry in sun. Fry in ghee. Add sugar and
   ]
 }
 </script>
-

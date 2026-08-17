@@ -55,8 +55,6 @@ Caraka Saṃhitā -Vol. I & II: with elaborated Vidyotini Hindi Commentary, tran
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ Caraka Saṃhitā -Vol. I & II: with elaborated Vidyotini Hindi Commentary, tran
   ]
 }
 </script>
-

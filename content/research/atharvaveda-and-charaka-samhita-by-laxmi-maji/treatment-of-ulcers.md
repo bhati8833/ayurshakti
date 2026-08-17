@@ -48,8 +48,6 @@ yaṃ bheṣajasya gulguloḥ surabhirgandho...... (AV. –XIX/38/1-3); K. L. Jo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -165,4 +163,3 @@ yaṃ bheṣajasya gulguloḥ surabhirgandho...... (AV. –XIX/38/1-3); K. L. Jo
   ]
 }
 </script>
-

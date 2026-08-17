@@ -45,8 +45,6 @@ V.1. Aesthetical Values on preparation of Pleasure Gardens as reflected in Vrksa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ V.1. Aesthetical Values on preparation of Pleasure Gardens as reflected in Vrksa
   ]
 }
 </script>
-

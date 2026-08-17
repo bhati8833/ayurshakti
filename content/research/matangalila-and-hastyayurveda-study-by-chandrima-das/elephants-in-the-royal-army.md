@@ -186,8 +186,6 @@ Annigeri, A.M. “Inscriptions on Hero-stones in Karnataka”, Studies in Indian
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -303,4 +301,3 @@ Annigeri, A.M. “Inscriptions on Hero-stones in Karnataka”, Studies in Indian
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ The Susruta Samhita like each and every other system of Indian knowledge is no e
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The Susruta Samhita like each and every other system of Indian knowledge is no e
   ]
 }
 </script>
-

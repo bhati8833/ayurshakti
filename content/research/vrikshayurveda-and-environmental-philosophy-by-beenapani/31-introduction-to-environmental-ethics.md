@@ -39,8 +39,6 @@ Second we can act on the basis of what we understand. Third our actions can serv
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Second we can act on the basis of what we understand. Third our actions can serv
   ]
 }
 </script>
-

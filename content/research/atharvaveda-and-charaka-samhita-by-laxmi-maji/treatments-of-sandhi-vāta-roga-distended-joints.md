@@ -49,8 +49,6 @@ atho amīvacātanaḥ pūtudrurnāma bheṣajam || (AV. –VIII/2/28); K. L. Jos
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ atho amīvacātanaḥ pūtudrurnāma bheṣajam || (AV. –VIII/2/28); K. L. Jos
   ]
 }
 </script>
-

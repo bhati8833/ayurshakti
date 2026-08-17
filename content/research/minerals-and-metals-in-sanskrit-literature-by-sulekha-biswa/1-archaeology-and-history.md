@@ -41,8 +41,6 @@ X-4 ferrous metallurgy, the use of mineral-based medicines and the technological
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ X-4 ferrous metallurgy, the use of mineral-based medicines and the technological
   ]
 }
 </script>
-

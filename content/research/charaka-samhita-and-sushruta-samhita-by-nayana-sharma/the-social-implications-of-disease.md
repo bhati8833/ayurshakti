@@ -399,8 +399,6 @@ Suśruta Saṃhitā Uttaratantra 40.164-166/1.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -516,4 +514,3 @@ Suśruta Saṃhitā Uttaratantra 40.164-166/1.
   ]
 }
 </script>
-

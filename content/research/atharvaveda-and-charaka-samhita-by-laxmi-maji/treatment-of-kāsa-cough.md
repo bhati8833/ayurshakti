@@ -70,8 +70,6 @@ yathā mano'va diva ityariṣṭena || brahma jajñānamiti sutikāriṣṭakaup
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -187,4 +185,3 @@ yathā mano'va diva ityariṣṭena || brahma jajñānamiti sutikāriṣṭakaup
   ]
 }
 </script>
-

@@ -256,8 +256,6 @@ Malayala Manorama Newspaper report 1.09.2010.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -373,4 +371,3 @@ Malayala Manorama Newspaper report 1.09.2010.
   ]
 }
 </script>
-

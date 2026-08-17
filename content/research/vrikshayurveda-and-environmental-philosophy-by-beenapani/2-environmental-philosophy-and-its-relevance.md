@@ -37,8 +37,6 @@ Environmental philosophy is a branch of philosophy that is concerned with the na
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Environmental philosophy is a branch of philosophy that is concerned with the na
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ In the Vedic literature we come across a good deal of reference as to the spirit
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ In the Vedic literature we come across a good deal of reference as to the spirit
   ]
 }
 </script>
-

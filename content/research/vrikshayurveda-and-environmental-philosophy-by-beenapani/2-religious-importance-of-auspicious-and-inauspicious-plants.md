@@ -43,8 +43,6 @@ According to our religious tradition and Vastusastra some plants are auspicious 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ According to our religious tradition and Vastusastra some plants are auspicious 
   ]
 }
 </script>
-

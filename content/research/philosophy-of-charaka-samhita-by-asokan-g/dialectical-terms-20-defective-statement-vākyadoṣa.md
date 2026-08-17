@@ -135,8 +135,6 @@ viruddhaṃ nāma yaddṛṣṭāntasiddhāntasamayairviruddhaṃ; CS, Vimāna-s
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -252,4 +250,3 @@ viruddhaṃ nāma yaddṛṣṭāntasiddhāntasamayairviruddhaṃ; CS, Vimāna-s
   ]
 }
 </script>
-

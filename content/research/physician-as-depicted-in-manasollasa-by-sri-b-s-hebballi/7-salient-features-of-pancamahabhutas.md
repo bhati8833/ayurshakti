@@ -49,8 +49,6 @@ This thesis critically evaluates the role of physicians in Ayurvedic literature,
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ This thesis critically evaluates the role of physicians in Ayurvedic literature,
   ]
 }
 </script>
-

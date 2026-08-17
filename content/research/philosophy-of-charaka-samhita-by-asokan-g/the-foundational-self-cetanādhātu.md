@@ -297,8 +297,6 @@ Bhaskarācārya, the commentator of Brahmasūtra., has promulgated the philosoph
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -414,4 +412,3 @@ Bhaskarācārya, the commentator of Brahmasūtra., has promulgated the philosoph
   ]
 }
 </script>
-

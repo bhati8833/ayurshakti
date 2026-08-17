@@ -81,8 +81,6 @@ Equal weights of poisonous water, sulphur and orpiment (Haribija), mixed well wi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -198,4 +196,3 @@ Equal weights of poisonous water, sulphur and orpiment (Haribija), mixed well wi
   ]
 }
 </script>
-

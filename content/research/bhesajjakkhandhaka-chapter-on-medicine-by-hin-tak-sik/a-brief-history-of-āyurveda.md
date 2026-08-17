@@ -77,8 +77,6 @@ There are many types of Āyurvedic literature, as mentioned in the works of: Bas
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -194,4 +192,3 @@ There are many types of Āyurvedic literature, as mentioned in the works of: Bas
   ]
 }
 </script>
-

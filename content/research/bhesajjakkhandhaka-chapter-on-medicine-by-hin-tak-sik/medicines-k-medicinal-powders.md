@@ -75,8 +75,6 @@ Samantapāsādikā V. 1090: “... tassāpi sirīsakosambādicuṇṇāni vā ga
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -192,4 +190,3 @@ Samantapāsādikā V. 1090: “... tassāpi sirīsakosambādicuṇṇāni vā ga
   ]
 }
 </script>
-

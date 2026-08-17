@@ -37,8 +37,6 @@ There were alchemical texts written in other Indian languages as well, e.g., Hin
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ There were alchemical texts written in other Indian languages as well, e.g., Hin
   ]
 }
 </script>
-

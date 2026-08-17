@@ -45,8 +45,6 @@ indrasya yā mahīti khalvaṅgānalāṇḍū n hananān ghṛtamiśrāñjuhoti
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ indrasya yā mahīti khalvaṅgānalāṇḍū n hananān ghṛtamiśrāñjuhoti
   ]
 }
 </script>
-

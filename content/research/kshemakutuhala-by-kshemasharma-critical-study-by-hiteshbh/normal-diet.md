@@ -37,8 +37,6 @@ considered to determine the normal diet conductive to an individual. Eventhough 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ considered to determine the normal diet conductive to an individual. Eventhough 
   ]
 }
 </script>
-

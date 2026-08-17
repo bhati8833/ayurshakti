@@ -39,8 +39,6 @@ Calpenb 65 7. Bhaks akara (a cook in general) 8. Paurogava (head of the kitchen)
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Calpenb 65 7. Bhaks akara (a cook in general) 8. Paurogava (head of the kitchen)
   ]
 }
 </script>
-

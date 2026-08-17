@@ -143,8 +143,6 @@ All these scholars have so far discussed either Caraka-Saṃhitā or about Athar
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -260,4 +258,3 @@ All these scholars have so far discussed either Caraka-Saṃhitā or about Athar
   ]
 }
 </script>
-

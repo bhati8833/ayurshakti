@@ -96,8 +96,6 @@ Intrigued readers may read, e.g. Chapters 19 and 20 of Kumar &Clark’s Clinical
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -213,4 +211,3 @@ Intrigued readers may read, e.g. Chapters 19 and 20 of Kumar &Clark’s Clinical
   ]
 }
 </script>
-

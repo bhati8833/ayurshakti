@@ -41,8 +41,6 @@ after incision by knife, evidently to check haemorrhage. Susruta enumerates four
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ after incision by knife, evidently to check haemorrhage. Susruta enumerates four
   ]
 }
 </script>
-

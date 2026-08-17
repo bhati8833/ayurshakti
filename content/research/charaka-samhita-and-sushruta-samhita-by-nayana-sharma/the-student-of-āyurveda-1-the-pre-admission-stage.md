@@ -215,8 +215,6 @@ A.S. Altekar, Education in Ancient India, Delhi, 2009 (Reprint), p.43.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -332,4 +330,3 @@ A.S. Altekar, Education in Ancient India, Delhi, 2009 (Reprint), p.43.
   ]
 }
 </script>
-

@@ -397,8 +397,6 @@ Malayala Manorama daily, 1.9.2010.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -514,4 +512,3 @@ Malayala Manorama daily, 1.9.2010.
   ]
 }
 </script>
-

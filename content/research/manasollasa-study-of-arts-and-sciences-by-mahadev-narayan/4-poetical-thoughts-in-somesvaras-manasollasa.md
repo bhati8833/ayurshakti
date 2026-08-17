@@ -69,8 +69,6 @@ Somesvara is hailed as the Prince among Indian Poets. Individuals may equal or e
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -186,4 +184,3 @@ Somesvara is hailed as the Prince among Indian Poets. Individuals may equal or e
   ]
 }
 </script>
-

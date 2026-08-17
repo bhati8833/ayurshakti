@@ -264,8 +264,6 @@ namaḥ śvabhyaḥ śvapatibhyaśca/ Vājasaneyī Saṃhitā , 16.28
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -381,4 +379,3 @@ namaḥ śvabhyaḥ śvapatibhyaśca/ Vājasaneyī Saṃhitā , 16.28
   ]
 }
 </script>
-

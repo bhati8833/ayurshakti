@@ -49,8 +49,6 @@ We have come across, in the chapter on Chinese Alchemy, an alchemist-metallurgis
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ We have come across, in the chapter on Chinese Alchemy, an alchemist-metallurgis
   ]
 }
 </script>
-

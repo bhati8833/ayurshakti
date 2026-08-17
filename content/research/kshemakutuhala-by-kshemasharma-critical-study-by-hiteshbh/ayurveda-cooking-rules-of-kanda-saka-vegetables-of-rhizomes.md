@@ -39,8 +39,6 @@ There are lot of potherbs to be used as vegetables. But all are not worth to be 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ There are lot of potherbs to be used as vegetables. But all are not worth to be 
   ]
 }
 </script>
-

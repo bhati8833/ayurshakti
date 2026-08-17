@@ -43,8 +43,6 @@ We have discussed earlier about asvattha in this chapter, now let us put some li
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ We have discussed earlier about asvattha in this chapter, now let us put some li
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ Anatomical Structures corresponding to this marma ☐ Contents of Cubital Fossa 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Anatomical Structures corresponding to this marma ☐ Contents of Cubital Fossa 
   ]
 }
 </script>
-

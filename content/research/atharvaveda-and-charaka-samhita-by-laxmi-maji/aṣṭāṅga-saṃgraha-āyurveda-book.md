@@ -43,8 +43,6 @@ Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Aṣṭāṅga Saṃgraha of Vāgbhaṭṭa Vol. I -III, trans. K. R. Srikantha 
   ]
 }
 </script>
-

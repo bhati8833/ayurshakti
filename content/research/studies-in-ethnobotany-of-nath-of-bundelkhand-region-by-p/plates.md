@@ -45,8 +45,6 @@ PLATE -9 The people belonging to 'Nath' community are engaged in production of '
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ PLATE -9 The people belonging to 'Nath' community are engaged in production of '
   ]
 }
 </script>
-

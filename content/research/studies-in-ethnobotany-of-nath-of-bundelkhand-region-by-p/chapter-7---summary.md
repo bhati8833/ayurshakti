@@ -49,8 +49,6 @@ Lice/Insects Maggots Rheumatism Skin diseases/Worts Sores/Foot sores Stomachache
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ Lice/Insects Maggots Rheumatism Skin diseases/Worts Sores/Foot sores Stomachache
   ]
 }
 </script>
-

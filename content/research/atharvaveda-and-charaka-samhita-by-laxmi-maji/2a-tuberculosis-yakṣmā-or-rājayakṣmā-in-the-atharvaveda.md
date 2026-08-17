@@ -427,8 +427,6 @@ cīpudruḥ | parā tamajñātaṃ yakṣmam adharāñcaṃ suvāmasi | (AV. –
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -544,4 +542,3 @@ cīpudruḥ | parā tamajñātaṃ yakṣmam adharāñcaṃ suvāmasi | (AV. –
   ]
 }
 </script>
-

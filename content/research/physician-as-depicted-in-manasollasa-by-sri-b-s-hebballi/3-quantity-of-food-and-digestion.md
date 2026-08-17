@@ -55,8 +55,6 @@ According to Manasollasa - (1.19.149 to 153) the amount of food which, without d
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ According to Manasollasa - (1.19.149 to 153) the amount of food which, without d
   ]
 }
 </script>
-

@@ -45,8 +45,6 @@ VIII-29 of - 1300 1600 A.D. period has been labelled as the era of Indian Iatro-
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ VIII-29 of - 1300 1600 A.D. period has been labelled as the era of Indian Iatro-
   ]
 }
 </script>
-

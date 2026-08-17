@@ -53,8 +53,6 @@ It is heavy, sweet, unctuous, cold and refreshing. It promotes strength, fat and
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ It is heavy, sweet, unctuous, cold and refreshing. It promotes strength, fat and
   ]
 }
 </script>
-

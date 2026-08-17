@@ -39,8 +39,6 @@ The philosophical values behind the method of plantation are nicely represented 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ The philosophical values behind the method of plantation are nicely represented 
   ]
 }
 </script>
-

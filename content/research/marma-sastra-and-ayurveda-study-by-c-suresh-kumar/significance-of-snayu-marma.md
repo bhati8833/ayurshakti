@@ -37,8 +37,6 @@ Table No.IV-e Vaghbata Sushrutha Ani 4 Ani 4 Kurcha 4 Vitapa 2 Kurchasira 4 Kaks
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Table No.IV-e Vaghbata Sushrutha Ani 4 Ani 4 Kurcha 4 Vitapa 2 Kurchasira 4 Kaks
   ]
 }
 </script>
-

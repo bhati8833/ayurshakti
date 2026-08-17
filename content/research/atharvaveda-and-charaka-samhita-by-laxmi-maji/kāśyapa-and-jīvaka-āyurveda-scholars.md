@@ -39,8 +39,6 @@ At the starting of Kaliyuga, one copy of Vṛddha Jīvaka Tantra was preserved b
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ At the starting of Kaliyuga, one copy of Vṛddha Jīvaka Tantra was preserved b
   ]
 }
 </script>
-

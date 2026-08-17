@@ -191,8 +191,6 @@ Padma Purāṇa , 5.80.63
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -308,4 +306,3 @@ Padma Purāṇa , 5.80.63
   ]
 }
 </script>
-

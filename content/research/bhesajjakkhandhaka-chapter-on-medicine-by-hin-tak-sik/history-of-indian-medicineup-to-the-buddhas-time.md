@@ -49,8 +49,6 @@ The medical data of the śramaṇ-ic phase are found preserved in the early Budd
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ The medical data of the śramaṇ-ic phase are found preserved in the early Budd
   ]
 }
 </script>
-

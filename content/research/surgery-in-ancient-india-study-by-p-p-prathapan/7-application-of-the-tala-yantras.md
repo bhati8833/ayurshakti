@@ -37,8 +37,6 @@ foreign bodies from the ear, nose and other outer canals of the body. The ear sc
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ foreign bodies from the ear, nose and other outer canals of the body. The ear sc
   ]
 }
 </script>
-

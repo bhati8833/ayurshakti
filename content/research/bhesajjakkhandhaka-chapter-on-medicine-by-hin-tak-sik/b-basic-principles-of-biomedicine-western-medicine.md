@@ -83,8 +83,6 @@ In the last decade, there is a new discipline which is closely related to eviden
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -200,4 +198,3 @@ In the last decade, there is a new discipline which is closely related to eviden
   ]
 }
 </script>
-

@@ -43,8 +43,6 @@ of rehabilitation and fitting of prosthetics. Classification of eye diseases wit
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ of rehabilitation and fitting of prosthetics. Classification of eye diseases wit
   ]
 }
 </script>
-

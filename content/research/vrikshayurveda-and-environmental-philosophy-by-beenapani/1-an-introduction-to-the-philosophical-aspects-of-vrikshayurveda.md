@@ -37,8 +37,6 @@ CHAPTER - VI - 229 VI. The Environmental Philosophy as reflected in the Chapters
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ CHAPTER - VI - 229 VI. The Environmental Philosophy as reflected in the Chapters
   ]
 }
 </script>
-

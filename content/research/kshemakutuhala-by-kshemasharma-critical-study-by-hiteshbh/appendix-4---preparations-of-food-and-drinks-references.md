@@ -57,8 +57,6 @@ i y Mandaka Parpata Polika Sevika Soup X-73 to 75 XI-39, 40 X-78, 79 X-142 to 14
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ i y Mandaka Parpata Polika Sevika Soup X-73 to 75 XI-39, 40 X-78, 79 X-142 to 14
   ]
 }
 </script>
-

@@ -43,8 +43,6 @@ It is a note-worthy feature of Somesvara as a political thinker that he divests 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ It is a note-worthy feature of Somesvara as a political thinker that he divests 
   ]
 }
 </script>
-

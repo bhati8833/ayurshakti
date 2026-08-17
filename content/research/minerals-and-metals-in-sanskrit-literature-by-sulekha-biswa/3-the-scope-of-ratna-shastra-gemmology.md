@@ -37,8 +37,6 @@ The theory of origin (utpatti) of the gems was shrouded. in the extravagant emph
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The theory of origin (utpatti) of the gems was shrouded. in the extravagant emph
   ]
 }
 </script>
-

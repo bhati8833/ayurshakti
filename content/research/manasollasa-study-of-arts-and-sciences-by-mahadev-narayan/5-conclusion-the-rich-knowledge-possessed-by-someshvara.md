@@ -45,8 +45,6 @@ Somesvara had mastered all the branches of knowledge. As a literary artist Somes
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Somesvara had mastered all the branches of knowledge. As a literary artist Somes
   ]
 }
 </script>
-

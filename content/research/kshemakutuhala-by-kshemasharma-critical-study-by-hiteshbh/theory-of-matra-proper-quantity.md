@@ -39,8 +39,6 @@ Among the dietic rules and regimens, theory of Matra
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Among the dietic rules and regimens, theory of Matra
   ]
 }
 </script>
-

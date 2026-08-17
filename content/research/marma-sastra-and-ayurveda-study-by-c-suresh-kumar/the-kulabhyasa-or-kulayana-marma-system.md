@@ -55,8 +55,6 @@ Kaikazhappan Phanam Raktamthuppi Noolvalippan Swasamadappan Vayupodi Kaithalarpa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ Kaikazhappan Phanam Raktamthuppi Noolvalippan Swasamadappan Vayupodi Kaithalarpa
   ]
 }
 </script>
-

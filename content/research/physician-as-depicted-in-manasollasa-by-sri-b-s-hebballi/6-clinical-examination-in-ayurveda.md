@@ -41,8 +41,6 @@ The clinical examination in Ayurveda is conducted with the knowledge given by I.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The clinical examination in Ayurveda is conducted with the knowledge given by I.
   ]
 }
 </script>
-

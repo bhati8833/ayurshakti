@@ -41,8 +41,6 @@ Start remedial measures immediately. Internal medicines should be started only a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Start remedial measures immediately. Internal medicines should be started only a
   ]
 }
 </script>
-

@@ -49,8 +49,6 @@ K } 1 44 Susrta also describes two types of Vesavara with their 31 specific prop
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ K } 1 44 Susrta also describes two types of Vesavara with their 31 specific prop
   ]
 }
 </script>
-

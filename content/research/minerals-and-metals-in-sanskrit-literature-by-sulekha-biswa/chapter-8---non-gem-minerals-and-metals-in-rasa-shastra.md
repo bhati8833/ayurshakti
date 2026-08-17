@@ -37,8 +37,6 @@ Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 8 - Non-gem Minerals and Metals in Rasa-shastra
   ]
 }
 </script>
-

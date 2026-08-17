@@ -37,8 +37,6 @@ From the above description it appears that in India traditional plantation is no
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ From the above description it appears that in India traditional plantation is no
   ]
 }
 </script>
-

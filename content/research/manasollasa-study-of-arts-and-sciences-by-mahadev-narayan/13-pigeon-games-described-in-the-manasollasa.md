@@ -41,8 +41,6 @@ Somesvara tells Paravata-Vinoda or amusement through pigeons. He describes four 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Somesvara tells Paravata-Vinoda or amusement through pigeons. He describes four 
   ]
 }
 </script>
-

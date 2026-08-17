@@ -39,8 +39,6 @@ It is clear that the society of those days was quite eager about these fightings
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ It is clear that the society of those days was quite eager about these fightings
   ]
 }
 </script>
-

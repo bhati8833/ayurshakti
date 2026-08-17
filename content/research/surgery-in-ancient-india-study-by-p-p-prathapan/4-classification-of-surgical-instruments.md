@@ -39,8 +39,6 @@ otherwise, according to the advice of old and experienced physicians surgeons; o
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ otherwise, according to the advice of old and experienced physicians surgeons; o
   ]
 }
 </script>
-

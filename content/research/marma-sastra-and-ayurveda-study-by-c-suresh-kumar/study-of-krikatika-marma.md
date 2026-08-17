@@ -41,8 +41,6 @@ The afflicted person is carefully lifted with his legs, bent and kept together a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The afflicted person is carefully lifted with his legs, bent and kept together a
   ]
 }
 </script>
-

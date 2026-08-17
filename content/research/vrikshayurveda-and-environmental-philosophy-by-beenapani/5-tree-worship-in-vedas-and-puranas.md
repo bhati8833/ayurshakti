@@ -43,8 +43,6 @@ IV.4. Tree Worship in Vedas and Puranas:—In the Vedic literature the Atharva-v
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ IV.4. Tree Worship in Vedas and Puranas:—In the Vedic literature the Atharva-v
   ]
 }
 </script>
-

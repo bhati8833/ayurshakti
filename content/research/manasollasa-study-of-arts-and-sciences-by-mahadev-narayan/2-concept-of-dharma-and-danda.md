@@ -57,8 +57,6 @@ The Manasollasa while referring to the administration of justice mentions many t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ The Manasollasa while referring to the administration of justice mentions many t
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ PREFACE Surgery had a different history from the other parts of traditional medi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ PREFACE Surgery had a different history from the other parts of traditional medi
   ]
 }
 </script>
-

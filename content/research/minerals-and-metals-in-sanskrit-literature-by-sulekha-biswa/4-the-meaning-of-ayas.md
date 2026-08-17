@@ -37,8 +37,6 @@ II-7 and its alloys. In the subsequent Vedic literature, copper was mentioned as
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ II-7 and its alloys. In the subsequent Vedic literature, copper was mentioned as
   ]
 }
 </script>
-

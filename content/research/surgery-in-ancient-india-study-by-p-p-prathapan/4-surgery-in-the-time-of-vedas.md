@@ -41,8 +41,6 @@ On surgery and treatment of diseases of eye, ear, nose and throat (salya tantra 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ On surgery and treatment of diseases of eye, ear, nose and throat (salya tantra 
   ]
 }
 </script>
-

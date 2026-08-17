@@ -81,8 +81,6 @@ A large number of bright stars have shone in the sky of the history of Karnataka
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -198,4 +196,3 @@ A large number of bright stars have shone in the sky of the history of Karnataka
   ]
 }
 </script>
-

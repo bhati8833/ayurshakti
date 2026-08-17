@@ -35,8 +35,6 @@ Chapter 2 - Ayurveda and other systems of Indian Philosophy: An overview
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 2 - Ayurveda and other systems of Indian Philosophy: An overview
   ]
 }
 </script>
-

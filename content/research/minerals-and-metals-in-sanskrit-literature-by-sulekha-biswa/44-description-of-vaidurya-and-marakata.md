@@ -49,8 +49,6 @@ VII-28.E Skanda Purana categorised the emeralds as those with quality and those 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ VII-28.E Skanda Purana categorised the emeralds as those with quality and those 
   ]
 }
 </script>
-

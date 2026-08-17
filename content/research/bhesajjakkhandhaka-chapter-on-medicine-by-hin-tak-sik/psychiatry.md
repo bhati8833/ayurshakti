@@ -91,8 +91,6 @@ Samantapāsādikā V. 1090: “āmakamaṃsañ ca khādi āmakalohitañ ca pivī
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -208,4 +206,3 @@ Samantapāsādikā V. 1090: “āmakamaṃsañ ca khādi āmakalohitañ ca pivī
   ]
 }
 </script>
-

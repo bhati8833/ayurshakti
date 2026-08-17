@@ -258,8 +258,6 @@ Caraka Saṃhitā Sūtrasthāna 7.31-33.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -375,4 +373,3 @@ Caraka Saṃhitā Sūtrasthāna 7.31-33.
   ]
 }
 </script>
-

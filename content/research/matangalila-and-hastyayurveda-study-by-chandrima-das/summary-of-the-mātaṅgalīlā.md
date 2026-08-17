@@ -214,8 +214,6 @@ Franklin Edgerton., pp.62-66 and Ga , pp. 12-15.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -331,4 +329,3 @@ Franklin Edgerton., pp.62-66 and Ga , pp. 12-15.
   ]
 }
 </script>
-

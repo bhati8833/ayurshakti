@@ -33,8 +33,6 @@ Chapter 5 - The Environment in Manasollasa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -150,4 +148,3 @@ Chapter 5 - The Environment in Manasollasa
   ]
 }
 </script>
-

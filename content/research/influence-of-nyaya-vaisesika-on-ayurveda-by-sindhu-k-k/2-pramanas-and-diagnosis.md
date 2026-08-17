@@ -47,8 +47,6 @@ described here for the diagnosis as same being of three kinds, viz., purvavat ( 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ described here for the diagnosis as same being of three kinds, viz., purvavat ( 
   ]
 }
 </script>
-

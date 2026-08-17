@@ -37,8 +37,6 @@ III-8 Firstly, the word Kastira was used in the Indian literature during the per
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ III-8 Firstly, the word Kastira was used in the Indian literature during the per
   ]
 }
 </script>
-

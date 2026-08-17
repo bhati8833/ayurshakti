@@ -43,8 +43,6 @@ VIII-24 The Padartha-dharma-samgraha of Prasastapada was probably composed in th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ VIII-24 The Padartha-dharma-samgraha of Prasastapada was probably composed in th
   ]
 }
 </script>
-

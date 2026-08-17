@@ -41,8 +41,6 @@ REFERENCES. 1 Kirkup John, The evolution of surgical instruments: an illustrated
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ REFERENCES. 1 Kirkup John, The evolution of surgical instruments: an illustrated
   ]
 }
 </script>
-

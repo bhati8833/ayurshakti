@@ -35,8 +35,6 @@ Kautilya, the minister of the emperor Chandragupta Maurya, wrote Arthasastra in 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Kautilya, the minister of the emperor Chandragupta Maurya, wrote Arthasastra in 
   ]
 }
 </script>
-

@@ -55,8 +55,6 @@ in the simplest language. The Bhasa-paricheda, the Tarka Samgraha and Tarkamrta,
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ in the simplest language. The Bhasa-paricheda, the Tarka Samgraha and Tarkamrta,
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ UTTARA-VASTI TUBULAR INSTRUMENTS FOR THE URETRA The tubes intended for applying 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ UTTARA-VASTI TUBULAR INSTRUMENTS FOR THE URETRA The tubes intended for applying 
   ]
 }
 </script>
-

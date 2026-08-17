@@ -43,8 +43,6 @@ Mourya the Government has taken utmost care regarding public health and was also
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Mourya the Government has taken utmost care regarding public health and was also
   ]
 }
 </script>
-

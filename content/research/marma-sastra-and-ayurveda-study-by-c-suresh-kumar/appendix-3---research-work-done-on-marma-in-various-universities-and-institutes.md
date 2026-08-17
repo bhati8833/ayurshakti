@@ -37,8 +37,6 @@ Appendix No.3 Research work done on Marma in various Universities and Institutes
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Appendix No.3 Research work done on Marma in various Universities and Institutes
   ]
 }
 </script>
-

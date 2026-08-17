@@ -51,8 +51,6 @@ Suśruta Saṃhitā of Maharṣi Suśruta Vol. I -III, Anant Ram Sharma (ed.), V
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ Suśruta Saṃhitā of Maharṣi Suśruta Vol. I -III, Anant Ram Sharma (ed.), V
   ]
 }
 </script>
-

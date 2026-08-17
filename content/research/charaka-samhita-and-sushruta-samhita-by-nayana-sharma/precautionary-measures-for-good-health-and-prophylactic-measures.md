@@ -137,8 +137,6 @@ Suśruta Saṃhitā Uttaratantra 64.5.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -254,4 +252,3 @@ Suśruta Saṃhitā Uttaratantra 64.5.
   ]
 }
 </script>
-

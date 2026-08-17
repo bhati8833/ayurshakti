@@ -85,8 +85,6 @@ Caraka Saṃhitā Śārīrasthāna 8.31.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -202,4 +200,3 @@ Caraka Saṃhitā Śārīrasthāna 8.31.
   ]
 }
 </script>
-

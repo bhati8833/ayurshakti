@@ -41,8 +41,6 @@ There is a reference to the net for catching fish in the Yajurveda. 126 Describi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ There is a reference to the net for catching fish in the Yajurveda. 126 Describi
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ Origin and development of Nyaya-Sastra The Brahmanas maintain that their religio
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Origin and development of Nyaya-Sastra The Brahmanas maintain that their religio
   ]
 }
 </script>
-

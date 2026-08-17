@@ -35,8 +35,6 @@ Chapter 6 - Aesthetic Value behind the arrangement of Trees and Gardens
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 6 - Aesthetic Value behind the arrangement of Trees and Gardens
   ]
 }
 </script>
-

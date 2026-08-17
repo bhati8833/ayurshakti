@@ -43,8 +43,6 @@ To ascertain the exact nature of the disease, the Ayurvedic physician, for the m
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ To ascertain the exact nature of the disease, the Ayurvedic physician, for the m
   ]
 }
 </script>
-

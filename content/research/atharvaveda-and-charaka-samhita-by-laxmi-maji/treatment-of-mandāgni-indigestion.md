@@ -37,8 +37,6 @@ If food is not digested properly, Mandāgni disease occurs. This disease is caus
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ If food is not digested properly, Mandāgni disease occurs. This disease is caus
   ]
 }
 </script>
-

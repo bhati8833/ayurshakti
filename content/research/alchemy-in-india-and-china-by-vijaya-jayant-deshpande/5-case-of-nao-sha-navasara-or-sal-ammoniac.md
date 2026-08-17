@@ -43,8 +43,6 @@ Thus, Sha mana Sha men xiao Navasara Nao Sha Eg shi sha Probably the Arabic word
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Thus, Sha mana Sha men xiao Navasara Nao Sha Eg shi sha Probably the Arabic word
   ]
 }
 </script>
-

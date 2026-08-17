@@ -37,8 +37,6 @@ The interests of the Buddhist travelers were not limited to religious studies. M
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The interests of the Buddhist travelers were not limited to religious studies. M
   ]
 }
 </script>
-

@@ -163,8 +163,6 @@ gavedhukakadannādyān deśān yāsyanti duhkhitāḥ// Viṣṇu Purāṇa , 6.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -280,4 +278,3 @@ gavedhukakadannādyān deśān yāsyanti duhkhitāḥ// Viṣṇu Purāṇa , 6.
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ References from Sanskrit sources
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ References from Sanskrit sources
   ]
 }
 </script>
-

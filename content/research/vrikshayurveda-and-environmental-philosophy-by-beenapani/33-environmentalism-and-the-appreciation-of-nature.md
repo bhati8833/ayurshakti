@@ -47,8 +47,6 @@ I.2.2.2. Environmental Art: 51 Nature art or the aesthetic formation and decorat
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ I.2.2.2. Environmental Art: 51 Nature art or the aesthetic formation and decorat
   ]
 }
 </script>
-

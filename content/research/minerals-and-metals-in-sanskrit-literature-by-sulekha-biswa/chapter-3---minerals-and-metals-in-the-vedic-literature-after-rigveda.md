@@ -35,8 +35,6 @@ Chapter 3 - Minerals and Metals in the Vedic literature after Rigveda
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 3 - Minerals and Metals in the Vedic literature after Rigveda
   ]
 }
 </script>
-

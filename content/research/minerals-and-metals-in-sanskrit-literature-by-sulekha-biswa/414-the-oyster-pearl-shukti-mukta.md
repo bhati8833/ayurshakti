@@ -45,8 +45,6 @@ VII-71 Like diamond, ruby etc., pearls were also classified into four 'castes': 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ VII-71 Like diamond, ruby etc., pearls were also classified into four 'castes': 
   ]
 }
 </script>
-

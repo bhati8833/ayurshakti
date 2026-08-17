@@ -43,8 +43,6 @@ eyeball. If injured the patient loses his consciousness and become blind. He wil
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ eyeball. If injured the patient loses his consciousness and become blind. He wil
   ]
 }
 </script>
-

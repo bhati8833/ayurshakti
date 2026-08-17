@@ -37,8 +37,6 @@ It is very difficult to follow and formulate a method strictly from modern resea
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ It is very difficult to follow and formulate a method strictly from modern resea
   ]
 }
 </script>
-

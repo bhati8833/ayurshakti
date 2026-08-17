@@ -139,8 +139,6 @@ Bhāgavata Purāṇa , 12.2.20
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -256,4 +254,3 @@ Bhāgavata Purāṇa , 12.2.20
   ]
 }
 </script>
-

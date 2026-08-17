@@ -100,8 +100,6 @@ The use of filtered fluid obtained from burnt ashes of soft hair for treating vo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -217,4 +215,3 @@ The use of filtered fluid obtained from burnt ashes of soft hair for treating vo
   ]
 }
 </script>
-

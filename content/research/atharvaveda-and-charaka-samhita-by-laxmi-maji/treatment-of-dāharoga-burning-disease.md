@@ -49,8 +49,6 @@ takmānaṃ viśvaśāradamarasāṃ jaṅgiḍaskarat || (AV. –XIX/34/10); At
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ takmānaṃ viśvaśāradamarasāṃ jaṅgiḍaskarat || (AV. –XIX/34/10); At
   ]
 }
 </script>
-

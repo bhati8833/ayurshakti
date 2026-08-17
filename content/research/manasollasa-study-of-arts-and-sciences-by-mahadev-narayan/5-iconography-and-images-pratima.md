@@ -73,8 +73,6 @@ Theres a Vari 4 temple is 241 kamadio so far, it is a possibility that cannot be
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -190,4 +188,3 @@ Theres a Vari 4 temple is 241 kamadio so far, it is a possibility that cannot be
   ]
 }
 </script>
-

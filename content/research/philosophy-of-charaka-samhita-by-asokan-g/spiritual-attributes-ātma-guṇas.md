@@ -101,8 +101,6 @@ buddhyādayo bhāvanāntā ātmaguṇāḥ, Nyāyakandalī on Praśastapādabhā
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -218,4 +216,3 @@ buddhyādayo bhāvanāntā ātmaguṇāḥ, Nyāyakandalī on Praśastapādabhā
   ]
 }
 </script>
-

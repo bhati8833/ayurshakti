@@ -43,8 +43,6 @@ groove at the posterior part of the neck. Otherwise this site will develop oedem
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ groove at the posterior part of the neck. Otherwise this site will develop oedem
   ]
 }
 </script>
-

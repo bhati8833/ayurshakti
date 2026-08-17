@@ -37,8 +37,6 @@ IX-5 Vaikranta has been described (Rasaratna-samuccaya 2.53-2.60) as 'possessing
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ IX-5 Vaikranta has been described (Rasaratna-samuccaya 2.53-2.60) as 'possessing
   ]
 }
 </script>
-

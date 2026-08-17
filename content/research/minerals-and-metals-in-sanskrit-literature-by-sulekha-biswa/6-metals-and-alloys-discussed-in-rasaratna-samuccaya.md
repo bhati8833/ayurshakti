@@ -41,8 +41,6 @@ IX-17 Vartaloha has been described as kamsya arka riti loha ahinanam tat vartalo
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ IX-17 Vartaloha has been described as kamsya arka riti loha ahinanam tat vartalo
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ We are well aware that Atharvaveda comprises of 20 kanda, 721 suktas and 5977 ma
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ We are well aware that Atharvaveda comprises of 20 kanda, 721 suktas and 5977 ma
   ]
 }
 </script>
-

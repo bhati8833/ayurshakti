@@ -171,8 +171,6 @@ G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 109.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -288,4 +286,3 @@ G.J. Meulenbeld, History of Indian Medical Literature, Vol.1A, p. 109.
   ]
 }
 </script>
-

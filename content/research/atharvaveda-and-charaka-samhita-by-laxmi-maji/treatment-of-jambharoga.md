@@ -44,8 +44,6 @@ maṇiḥ sahasravīryaḥ pariṇaḥ pātu viśvataḥ || (AV. –II.4.2); Ved
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -161,4 +159,3 @@ maṇiḥ sahasravīryaḥ pariṇaḥ pātu viśvataḥ || (AV. –II.4.2); Ved
   ]
 }
 </script>
-

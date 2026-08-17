@@ -55,8 +55,6 @@ Desai, Kalpana S. 426 Iconography of Visnu. Abhinava Publications, New Delhi, 19
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ Desai, Kalpana S. 426 Iconography of Visnu. Abhinava Publications, New Delhi, 19
   ]
 }
 </script>
-

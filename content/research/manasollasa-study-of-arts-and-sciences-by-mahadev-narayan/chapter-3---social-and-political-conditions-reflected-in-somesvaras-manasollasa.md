@@ -37,8 +37,6 @@ Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasolla
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 3 - Social and Political conditions reflected in Somesvara’s Manasolla
   ]
 }
 </script>
-

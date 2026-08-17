@@ -51,8 +51,6 @@ The social life, particularly the urban culture, reflected in Somesvara's writin
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ The social life, particularly the urban culture, reflected in Somesvara's writin
   ]
 }
 </script>
-

@@ -63,8 +63,6 @@ Appendix Glossary of Selected Sanskrit Words astamga -  Eight parts of Ayurveda 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -180,4 +178,3 @@ Appendix Glossary of Selected Sanskrit Words astamga -  Eight parts of Ayurveda 
   ]
 }
 </script>
-

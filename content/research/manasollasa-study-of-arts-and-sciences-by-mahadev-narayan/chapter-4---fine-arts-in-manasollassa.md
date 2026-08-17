@@ -37,8 +37,6 @@ Chapter 4 - Fine arts in Manasollassa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 4 - Fine arts in Manasollassa
   ]
 }
 </script>
-

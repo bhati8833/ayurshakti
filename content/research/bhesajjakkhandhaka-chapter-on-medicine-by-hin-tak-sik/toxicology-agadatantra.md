@@ -205,8 +205,6 @@ Some poisons and/or their by-products are eliminated via the liver and bile into
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -322,4 +320,3 @@ Some poisons and/or their by-products are eliminated via the liver and bile into
   ]
 }
 </script>
-

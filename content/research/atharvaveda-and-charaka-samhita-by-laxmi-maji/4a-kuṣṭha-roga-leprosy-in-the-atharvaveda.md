@@ -364,8 +364,6 @@ dūṣyā kṛtasya brahmaṇā lakṣma śvetamanīnaśam || (AV. –I.23.4) At
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -481,4 +479,3 @@ dūṣyā kṛtasya brahmaṇā lakṣma śvetamanīnaśam || (AV. –I.23.4) At
   ]
 }
 </script>
-

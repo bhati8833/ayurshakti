@@ -35,8 +35,6 @@ VI.7. Environmental Philosophy behind the Aesthetics in Laying out of Gardens: T
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ VI.7. Environmental Philosophy behind the Aesthetics in Laying out of Gardens: T
   ]
 }
 </script>
-

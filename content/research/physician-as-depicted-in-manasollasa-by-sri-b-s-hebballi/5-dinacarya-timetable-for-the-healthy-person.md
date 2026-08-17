@@ -61,8 +61,6 @@ The Manasollasa gives detailed description of dinacarya (or timetable for the he
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ The Manasollasa gives detailed description of dinacarya (or timetable for the he
   ]
 }
 </script>
-

@@ -65,8 +65,6 @@ substances. i.e., substances possessing properties and actions opposite of the d
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ substances. i.e., substances possessing properties and actions opposite of the d
   ]
 }
 </script>
-

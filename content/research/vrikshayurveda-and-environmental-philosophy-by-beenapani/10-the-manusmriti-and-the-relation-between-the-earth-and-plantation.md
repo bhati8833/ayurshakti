@@ -41,8 +41,6 @@ VI.9. The Vision of Manusmriti as reflected in the ideology behind the relation 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ VI.9. The Vision of Manusmriti as reflected in the ideology behind the relation 
   ]
 }
 </script>
-

@@ -71,8 +71,6 @@ The properties of Makustha are not mentioned. ERANDA (Ricinus Communis Linn.): B
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -188,4 +186,3 @@ The properties of Makustha are not mentioned. ERANDA (Ricinus Communis Linn.): B
   ]
 }
 </script>
-

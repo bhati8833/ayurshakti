@@ -47,8 +47,6 @@ nidarsane'numeyasāmānyena saha dṛṣṭasya liṅgasāmanyamanumeye'nvayaman
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ nidarsane'numeyasāmānyena saha dṛṣṭasya liṅgasāmanyamanumeye'nvayaman
   ]
 }
 </script>
-

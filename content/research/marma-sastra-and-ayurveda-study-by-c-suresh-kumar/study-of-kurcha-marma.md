@@ -43,8 +43,6 @@ Discussion ☐ Interrosseus Muscle If injured the pain will be greater. The panc
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Discussion ☐ Interrosseus Muscle If injured the pain will be greater. The panc
   ]
 }
 </script>
-

@@ -51,8 +51,6 @@ REFERENCES 1 Zimmerman, Leo M, Ilza Veith, Great ideas in the history of surgery
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ REFERENCES 1 Zimmerman, Leo M, Ilza Veith, Great ideas in the history of surgery
   ]
 }
 </script>
-

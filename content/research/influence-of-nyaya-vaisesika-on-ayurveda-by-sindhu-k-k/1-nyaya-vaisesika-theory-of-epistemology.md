@@ -45,8 +45,6 @@ distinguish these from mere false opinions. According to the Nyaya School, there
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ distinguish these from mere false opinions. According to the Nyaya School, there
   ]
 }
 </script>
-

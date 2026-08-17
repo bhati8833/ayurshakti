@@ -391,8 +391,6 @@ S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.18.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -508,4 +506,3 @@ S.K.R. Rao, Encyclopaedia of Indian Medicine, Vol. II, p.18.
   ]
 }
 </script>
-

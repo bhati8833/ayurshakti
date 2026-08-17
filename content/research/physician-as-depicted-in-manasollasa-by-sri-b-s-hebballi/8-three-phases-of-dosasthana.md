@@ -47,8 +47,6 @@ Three phases of dosasthana—vrddhi  and ksaya  and importance of dhatu  in the 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Three phases of dosasthana—vrddhi  and ksaya  and importance of dhatu  in the 
   ]
 }
 </script>
-

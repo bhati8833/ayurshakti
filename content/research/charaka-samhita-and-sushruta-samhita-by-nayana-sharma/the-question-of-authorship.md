@@ -167,8 +167,6 @@ Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.35.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -284,4 +282,3 @@ Gulabkunverba, The Caraka Saṃhitā, Vol. I, p.35.
   ]
 }
 </script>
-

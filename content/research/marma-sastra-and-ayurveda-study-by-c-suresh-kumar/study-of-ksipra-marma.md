@@ -45,8 +45,6 @@ Tamil varma sastra In Tamil literature it is termed as cuttu varma. This lies on
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ Tamil varma sastra In Tamil literature it is termed as cuttu varma. This lies on
   ]
 }
 </script>
-

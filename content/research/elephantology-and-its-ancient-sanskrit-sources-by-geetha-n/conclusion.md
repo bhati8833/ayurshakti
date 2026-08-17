@@ -79,8 +79,6 @@ To conclude, Sanskrit literature contains substantial evidences to highlight the
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -196,4 +194,3 @@ To conclude, Sanskrit literature contains substantial evidences to highlight the
   ]
 }
 </script>
-

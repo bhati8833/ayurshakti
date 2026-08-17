@@ -244,8 +244,6 @@ The identification of these collyrium substances is based on the references prov
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -361,4 +359,3 @@ The identification of these collyrium substances is based on the references prov
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ Arabic before the end of the eighth century A.D. and was named Kitab-I-Susrud by
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Arabic before the end of the eighth century A.D. and was named Kitab-I-Susrud by
   ]
 }
 </script>
-

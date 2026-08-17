@@ -73,8 +73,6 @@ tasmācchastre'rthavijñāne pravṛttau karmadarśane bhiṣak catuṣṭaye yu
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -190,4 +188,3 @@ tasmācchastre'rthavijñāne pravṛttau karmadarśane bhiṣak catuṣṭaye yu
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ VIII-38 Rasakalpa mentioned maharasas, uparasas and rasas. . It referred to chul
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ VIII-38 Rasakalpa mentioned maharasas, uparasas and rasas. . It referred to chul
   ]
 }
 </script>
-

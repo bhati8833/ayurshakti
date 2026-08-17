@@ -39,8 +39,6 @@ III-16 nature and yet imparts salty taste to the entire mass of water: saindhava
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ III-16 nature and yet imparts salty taste to the entire mass of water: saindhava
   ]
 }
 </script>
-

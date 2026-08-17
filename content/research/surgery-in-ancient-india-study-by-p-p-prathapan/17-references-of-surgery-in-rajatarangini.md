@@ -37,8 +37,6 @@ authentic chronicle and imaginative poetry of Kalhana. It was a period of enligh
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ authentic chronicle and imaginative poetry of Kalhana. It was a period of enligh
   ]
 }
 </script>
-

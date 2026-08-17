@@ -39,8 +39,6 @@ Manasollasa gives detailed description about ethics for Kings as well as common 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Manasollasa gives detailed description about ethics for Kings as well as common 
   ]
 }
 </script>
-

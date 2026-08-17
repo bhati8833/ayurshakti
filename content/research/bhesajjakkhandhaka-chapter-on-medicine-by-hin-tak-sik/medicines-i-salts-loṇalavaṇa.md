@@ -117,8 +117,6 @@ Encyclopædia Britannica Online, s.v. “salt (NaCl)” [accessed February 12, 2
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -234,4 +232,3 @@ Encyclopædia Britannica Online, s.v. “salt (NaCl)” [accessed February 12, 2
   ]
 }
 </script>
-

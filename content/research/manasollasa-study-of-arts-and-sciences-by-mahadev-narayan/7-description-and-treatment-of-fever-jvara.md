@@ -59,8 +59,6 @@ Jvara or fever occupies the first place among physical ailments. So Somesvara's 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ Jvara or fever occupies the first place among physical ailments. So Somesvara's 
   ]
 }
 </script>
-

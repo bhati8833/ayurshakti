@@ -39,8 +39,6 @@ the three basic elements activating, sustaining, nourishing and maintaing the li
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ the three basic elements activating, sustaining, nourishing and maintaing the li
   ]
 }
 </script>
-

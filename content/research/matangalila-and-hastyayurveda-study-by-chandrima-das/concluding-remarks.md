@@ -55,8 +55,6 @@ Understanding or mapping the demand for elephants: A communicator who would comm
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ Understanding or mapping the demand for elephants: A communicator who would comm
   ]
 }
 </script>
-

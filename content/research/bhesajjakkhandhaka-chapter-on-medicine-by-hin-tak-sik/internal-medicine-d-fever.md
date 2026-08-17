@@ -162,8 +162,6 @@ These measures are extracted from the relevant chapter of the classical Āyurved
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -279,4 +277,3 @@ These measures are extracted from the relevant chapter of the classical Āyurved
   ]
 }
 </script>
-

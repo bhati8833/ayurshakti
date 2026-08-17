@@ -141,8 +141,6 @@ tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñ
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -258,4 +256,3 @@ tyāgaḥ prajñāparādhānāmindriyopaśamaḥ smṛtiḥ deśakālātmavi-jñ
   ]
 }
 </script>
-

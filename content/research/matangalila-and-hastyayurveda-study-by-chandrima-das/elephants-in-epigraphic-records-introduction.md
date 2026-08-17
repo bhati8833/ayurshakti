@@ -223,8 +223,6 @@ Ibid., Vol. XIV, pp. 295-310.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -340,4 +338,3 @@ Ibid., Vol. XIV, pp. 295-310.
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ X-5 variety of gems is caused by the characteristic qualities of the earth, and 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ X-5 variety of gems is caused by the characteristic qualities of the earth, and 
   ]
 }
 </script>
-

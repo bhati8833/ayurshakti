@@ -76,8 +76,6 @@ eraṇḍatailayogena dadyāddhūpaṃ niśāgame/ Bhaviṣya Purāṇa , 2.(1),
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -193,4 +191,3 @@ eraṇḍatailayogena dadyāddhūpaṃ niśāgame/ Bhaviṣya Purāṇa , 2.(1),
   ]
 }
 </script>
-

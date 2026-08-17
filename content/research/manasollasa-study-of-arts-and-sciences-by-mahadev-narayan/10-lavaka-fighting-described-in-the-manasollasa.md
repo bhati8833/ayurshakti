@@ -39,8 +39,6 @@ Somesvara further asks the Kings to preserve the best kinds of both males and fe
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Somesvara further asks the Kings to preserve the best kinds of both males and fe
   ]
 }
 </script>
-

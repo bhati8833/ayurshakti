@@ -43,8 +43,6 @@ and neck. URETHRAL PROBE This type of salaka is described by Susruta. The end ro
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ and neck. URETHRAL PROBE This type of salaka is described by Susruta. The end ro
   ]
 }
 </script>
-

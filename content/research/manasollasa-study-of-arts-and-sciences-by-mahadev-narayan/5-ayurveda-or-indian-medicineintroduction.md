@@ -89,8 +89,6 @@ Ayurveda Sastra is very vast, but the following study is only a brief survey of 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -206,4 +204,3 @@ Ayurveda Sastra is very vast, but the following study is only a brief survey of 
   ]
 }
 </script>
-

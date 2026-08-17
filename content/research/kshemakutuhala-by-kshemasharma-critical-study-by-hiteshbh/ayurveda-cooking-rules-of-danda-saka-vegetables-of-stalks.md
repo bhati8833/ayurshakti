@@ -41,8 +41,6 @@ of leaves and stalks in quality. Mulaka (Raphanus sativus Linn) is a very common
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ of leaves and stalks in quality. Mulaka (Raphanus sativus Linn) is a very common
   ]
 }
 </script>
-

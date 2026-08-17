@@ -91,8 +91,6 @@ Details of these diseases can be read in Suśruta Saṃhitā Nidānasthāna 10; 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -208,4 +206,3 @@ Details of these diseases can be read in Suśruta Saṃhitā Nidānasthāna 10; 
   ]
 }
 </script>
-

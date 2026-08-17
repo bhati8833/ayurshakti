@@ -35,8 +35,6 @@ Chapter 3 - Concepts of Health and Disease
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 3 - Concepts of Health and Disease
   ]
 }
 </script>
-

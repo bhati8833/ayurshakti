@@ -81,8 +81,6 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, pp. 168-169.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -198,4 +196,3 @@ Thomas R. Trautmann. Elephants and Kings An Environmental History, pp. 168-169.
   ]
 }
 </script>
-

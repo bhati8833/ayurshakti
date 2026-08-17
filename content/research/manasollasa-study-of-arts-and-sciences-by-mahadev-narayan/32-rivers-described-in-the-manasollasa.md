@@ -43,8 +43,6 @@ Bharata is a land of rivers which have their rise in its lofty mountains. These 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Bharata is a land of rivers which have their rise in its lofty mountains. These 
   ]
 }
 </script>
-

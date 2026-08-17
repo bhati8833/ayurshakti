@@ -41,8 +41,6 @@ i My sincere thanks are due to the University Grants Commission for extending to
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ i My sincere thanks are due to the University Grants Commission for extending to
   ]
 }
 </script>
-

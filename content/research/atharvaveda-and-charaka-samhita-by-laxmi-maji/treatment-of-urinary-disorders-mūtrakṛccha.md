@@ -69,8 +69,6 @@ sarpiṣā limpati || apidhamati || vidmā śarasyeti pramehaṇaṃ badhnāti |
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -186,4 +184,3 @@ sarpiṣā limpati || apidhamati || vidmā śarasyeti pramehaṇaṃ badhnāti |
   ]
 }
 </script>
-

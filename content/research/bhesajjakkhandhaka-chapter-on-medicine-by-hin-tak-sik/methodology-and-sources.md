@@ -187,8 +187,6 @@ Whether a Buddhist medical system was developed in the later history of Buddhism
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -304,4 +302,3 @@ Whether a Buddhist medical system was developed in the later history of Buddhism
   ]
 }
 </script>
-

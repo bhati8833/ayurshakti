@@ -77,8 +77,6 @@ Vagbhata described copper probes having the sharp ends shaped like the buds of k
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -194,4 +192,3 @@ Vagbhata described copper probes having the sharp ends shaped like the buds of k
   ]
 }
 </script>
-

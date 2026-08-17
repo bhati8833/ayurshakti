@@ -79,8 +79,6 @@ VARTIRA (bustard ) : It The meat of the bustard promotes the power of digestion.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -196,4 +194,3 @@ VARTIRA (bustard ) : It The meat of the bustard promotes the power of digestion.
   ]
 }
 </script>
-

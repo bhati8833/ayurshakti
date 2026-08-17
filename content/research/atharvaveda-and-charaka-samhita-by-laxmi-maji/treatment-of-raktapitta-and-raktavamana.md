@@ -47,8 +47,6 @@ pipīlikāvaṭaśvaso vid yutsvāparṇaśapho gośapho jaritaro'thāmo daiva |
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ pipīlikāvaṭaśvaso vid yutsvāparṇaśapho gośapho jaritaro'thāmo daiva |
   ]
 }
 </script>
-

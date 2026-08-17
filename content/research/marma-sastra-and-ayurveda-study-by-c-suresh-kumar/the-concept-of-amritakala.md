@@ -63,8 +63,6 @@ Thundai thatti varmam Muttu varmam Manthira kalam Sundikai kalam Kuthira mukha K
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -180,4 +178,3 @@ Thundai thatti varmam Muttu varmam Manthira kalam Sundikai kalam Kuthira mukha K
   ]
 }
 </script>
-

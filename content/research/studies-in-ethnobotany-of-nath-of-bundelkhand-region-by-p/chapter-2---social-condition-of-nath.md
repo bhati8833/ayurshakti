@@ -37,8 +37,6 @@ The people who are dependent on snakes from ancient times are called as Nath,Jog
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The people who are dependent on snakes from ancient times are called as Nath,Jog
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ used to complete the operation for pterygium by removing the remnant, after it h
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ used to complete the operation for pterygium by removing the remnant, after it h
   ]
 }
 </script>
-

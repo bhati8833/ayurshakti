@@ -43,8 +43,6 @@ It must first be noted that the unique feature of Ayurvedic treatment rests on t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ It must first be noted that the unique feature of Ayurvedic treatment rests on t
   ]
 }
 </script>
-

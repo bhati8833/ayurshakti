@@ -49,8 +49,6 @@ karanata from tad-bhava bhavita, It is arriving at a conclusion as a result of a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ karanata from tad-bhava bhavita, It is arriving at a conclusion as a result of a
   ]
 }
 </script>
-

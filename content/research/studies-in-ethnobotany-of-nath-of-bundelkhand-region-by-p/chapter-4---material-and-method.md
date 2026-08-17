@@ -41,8 +41,6 @@ Frequent ethnobotanical surveys of the Nath inhabited localities of Bundelkhand 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Frequent ethnobotanical surveys of the Nath inhabited localities of Bundelkhand 
   ]
 }
 </script>
-

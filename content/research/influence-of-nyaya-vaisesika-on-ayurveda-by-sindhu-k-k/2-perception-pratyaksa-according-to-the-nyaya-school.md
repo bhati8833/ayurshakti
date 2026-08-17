@@ -53,8 +53,6 @@ The third kind of extra-ordinary perception is called Yogaja perception." This i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ The third kind of extra-ordinary perception is called Yogaja perception." This i
   ]
 }
 </script>
-

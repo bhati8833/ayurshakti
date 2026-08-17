@@ -43,8 +43,6 @@ Lohitha is seen two angula below the Poonellu (I rib). If injured the patient fa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Lohitha is seen two angula below the Poonellu (I rib). If injured the patient fa
   ]
 }
 </script>
-

@@ -53,8 +53,6 @@ SRAVANMADHYA asteriated or star sapphire SROTANJANA carrollite SVARNA gold SVARN
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ SRAVANMADHYA asteriated or star sapphire SROTANJANA carrollite SVARNA gold SVARN
   ]
 }
 </script>
-

@@ -234,8 +234,6 @@ Caraka Saṃhitā Cikitsāsthāna 1:4.58.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -351,4 +349,3 @@ Caraka Saṃhitā Cikitsāsthāna 1:4.58.
   ]
 }
 </script>
-

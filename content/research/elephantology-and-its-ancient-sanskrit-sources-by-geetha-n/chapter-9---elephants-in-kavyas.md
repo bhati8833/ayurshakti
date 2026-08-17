@@ -583,8 +583,6 @@ Surah 105. Alpheel (Elephant)
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -700,4 +698,3 @@ Surah 105. Alpheel (Elephant)
   ]
 }
 </script>
-

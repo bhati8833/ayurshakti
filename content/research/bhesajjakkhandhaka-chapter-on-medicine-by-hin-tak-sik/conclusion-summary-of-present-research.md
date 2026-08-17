@@ -63,8 +63,6 @@ For the details of the arguments, see p. 20-22 in Chapter One.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -180,4 +178,3 @@ For the details of the arguments, see p. 20-22 in Chapter One.
   ]
 }
 </script>
-

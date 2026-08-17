@@ -415,8 +415,6 @@ Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -532,4 +530,3 @@ Suśruta Saṃhitā Cikitsāsthāna 1.136-137.
   ]
 }
 </script>
-

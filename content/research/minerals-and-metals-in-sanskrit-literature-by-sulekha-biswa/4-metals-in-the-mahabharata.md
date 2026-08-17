@@ -37,8 +37,6 @@ VI-12 as milking and drinking vessels (2.45.26; 2.49.3; 15.34.13-14). Sometimes 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ VI-12 as milking and drinking vessels (2.45.26; 2.49.3; 15.34.13-14). Sometimes 
   ]
 }
 </script>
-

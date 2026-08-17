@@ -41,8 +41,6 @@ centureis.A.D. These two Samhitas bear testimony to the scientific research pati
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ centureis.A.D. These two Samhitas bear testimony to the scientific research pati
   ]
 }
 </script>
-

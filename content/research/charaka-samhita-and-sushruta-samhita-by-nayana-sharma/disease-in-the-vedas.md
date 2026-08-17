@@ -207,8 +207,6 @@ J. Filliozat, The Classical Doctrine of Indian Medicine, pp. 187-188.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -324,4 +322,3 @@ J. Filliozat, The Classical Doctrine of Indian Medicine, pp. 187-188.
   ]
 }
 </script>
-

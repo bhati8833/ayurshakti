@@ -53,8 +53,6 @@ been used to denote 'micro organisms in Atharvaveda). Nearly 100 types of organi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -170,4 +168,3 @@ been used to denote 'micro organisms in Atharvaveda). Nearly 100 types of organi
   ]
 }
 </script>
-

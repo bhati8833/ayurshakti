@@ -51,8 +51,6 @@ See Section 1. 2. 1 in Chapter One and footnote 1 of Chapter Four at p. 137 on t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ See Section 1. 2. 1 in Chapter One and footnote 1 of Chapter Four at p. 137 on t
   ]
 }
 </script>
-

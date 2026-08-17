@@ -41,8 +41,6 @@ The importance of trees has forever been given priority right from the Vedic per
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The importance of trees has forever been given priority right from the Vedic per
   ]
 }
 </script>
-

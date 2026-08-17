@@ -39,8 +39,6 @@ There are three Dhanvantari and there are different books like–First Dhanvanta
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ There are three Dhanvantari and there are different books like–First Dhanvanta
   ]
 }
 </script>
-

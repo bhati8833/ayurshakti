@@ -43,8 +43,6 @@ yn 57. Om Prakash, Op. Cit., p.189. 58. Av. 6-5-1. 59. 86 Niekerson and Ronsival
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ yn 57. Om Prakash, Op. Cit., p.189. 58. Av. 6-5-1. 59. 86 Niekerson and Ronsival
   ]
 }
 </script>
-

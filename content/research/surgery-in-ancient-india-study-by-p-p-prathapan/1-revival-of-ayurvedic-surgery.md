@@ -43,8 +43,6 @@ also held to observe the possibilities and types of surgeries that could be adap
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ also held to observe the possibilities and types of surgeries that could be adap
   ]
 }
 </script>
-

@@ -101,8 +101,6 @@ Amarakoṣa, 2.9.5
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -218,4 +216,3 @@ Amarakoṣa, 2.9.5
   ]
 }
 </script>
-

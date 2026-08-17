@@ -49,8 +49,6 @@ III.2.1. Environmental Values reflected in Vedas III.2.2. Environmental Values r
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ III.2.1. Environmental Values reflected in Vedas III.2.2. Environmental Values r
   ]
 }
 </script>
-

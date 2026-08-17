@@ -272,8 +272,6 @@ prāśaṃ pratiprāśo jahyarasān kṛṇvoṣadhe || (AV. –II.27.1); Acarya
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -389,4 +387,3 @@ prāśaṃ pratiprāśo jahyarasān kṛṇvoṣadhe || (AV. –II.27.1); Acarya
   ]
 }
 </script>
-

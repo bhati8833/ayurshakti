@@ -37,8 +37,6 @@ VIII-9 Patanjali wrote on metallurgy and his Lohasastra has been partially quote
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ VIII-9 Patanjali wrote on metallurgy and his Lohasastra has been partially quote
   ]
 }
 </script>
-

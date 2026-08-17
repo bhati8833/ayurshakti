@@ -144,8 +144,6 @@ paṅktirdaśahalā proktā dārujā vṛṣasaṃyutā// Ibid., 211.7
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -261,4 +259,3 @@ paṅktirdaśahalā proktā dārujā vṛṣasaṃyutā// Ibid., 211.7
   ]
 }
 </script>
-

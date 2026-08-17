@@ -39,8 +39,6 @@ Further in the Footnote, Waley writes: had Ogika = Sanskrit Hirika "The yellow o
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Further in the Footnote, Waley writes: had Ogika = Sanskrit Hirika "The yellow o
   ]
 }
 </script>
-

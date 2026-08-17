@@ -39,8 +39,6 @@ We find a number of parallels between Ge Hong's elixir methods and those given i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ We find a number of parallels between Ge Hong's elixir methods and those given i
   ]
 }
 </script>
-

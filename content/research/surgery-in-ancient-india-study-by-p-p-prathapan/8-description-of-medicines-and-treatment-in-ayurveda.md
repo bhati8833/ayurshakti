@@ -39,8 +39,6 @@ TYPES OF TREATMENT Four types of treatment have been mentioned in Atharvaveda. 4
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ TYPES OF TREATMENT Four types of treatment have been mentioned in Atharvaveda. 4
   ]
 }
 </script>
-

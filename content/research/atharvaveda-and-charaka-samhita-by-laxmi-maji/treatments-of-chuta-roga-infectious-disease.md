@@ -44,8 +44,6 @@ apāmārga tvayā vayaṃ sarvaṃ tadapa mṛjmahe || (AV. –VII/62/3); Acarya
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -161,4 +159,3 @@ apāmārga tvayā vayaṃ sarvaṃ tadapa mṛjmahe || (AV. –VII/62/3); Acarya
   ]
 }
 </script>
-

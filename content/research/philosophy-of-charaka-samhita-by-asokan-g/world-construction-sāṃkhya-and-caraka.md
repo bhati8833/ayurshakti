@@ -223,8 +223,6 @@ JJL, p.107.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -340,4 +338,3 @@ JJL, p.107.
   ]
 }
 </script>
-

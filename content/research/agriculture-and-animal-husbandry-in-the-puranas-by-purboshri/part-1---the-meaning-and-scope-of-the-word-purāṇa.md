@@ -204,8 +204,6 @@ Gyani, S.D., Agni-Purāṇa:A Study, p. 33
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -321,4 +319,3 @@ Gyani, S.D., Agni-Purāṇa:A Study, p. 33
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ Though the word purusa is applied to all living beings, mainly it is used for hu
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Though the word purusa is applied to all living beings, mainly it is used for hu
   ]
 }
 </script>
-

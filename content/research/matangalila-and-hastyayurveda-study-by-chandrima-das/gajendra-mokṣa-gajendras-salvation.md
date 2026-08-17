@@ -81,8 +81,6 @@ Brahmāṇḍa Purāṇa, 11.22.31-35 (they correspond to large cumulous clouds 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -198,4 +196,3 @@ Brahmāṇḍa Purāṇa, 11.22.31-35 (they correspond to large cumulous clouds 
   ]
 }
 </script>
-

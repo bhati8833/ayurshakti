@@ -37,8 +37,6 @@ Shikharini—It is one of the most famous milk products. Method of preparation i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Shikharini—It is one of the most famous milk products. Method of preparation i
   ]
 }
 </script>
-

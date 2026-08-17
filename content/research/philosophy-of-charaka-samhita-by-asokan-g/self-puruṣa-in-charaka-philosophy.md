@@ -171,8 +171,6 @@ In CS the word puruṣa is used in the sense of human being, male, inner self an
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -288,4 +286,3 @@ In CS the word puruṣa is used in the sense of human being, male, inner self an
   ]
 }
 </script>
-

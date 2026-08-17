@@ -37,8 +37,6 @@ VI-13 in yellow, was likened to a mani encased in gold (5.92.52; 12.45.14) atasi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ VI-13 in yellow, was likened to a mani encased in gold (5.92.52; 12.45.14) atasi
   ]
 }
 </script>
-

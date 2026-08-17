@@ -44,8 +44,6 @@ akṣyau vṛṣaṇyantyāḥ keśā māṃ te kāmena śuṣyantu || (AV. –V
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -161,4 +159,3 @@ akṣyau vṛṣaṇyantyāḥ keśā māṃ te kāmena śuṣyantu || (AV. –V
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ A little different kind of gilding is carried out in Slokas 602-603. (See Footno
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ A little different kind of gilding is carried out in Slokas 602-603. (See Footno
   ]
 }
 </script>
-

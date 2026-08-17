@@ -41,8 +41,6 @@ Buddhist Sutra. For example, the following excerpts indicate the extent of knowl
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Buddhist Sutra. For example, the following excerpts indicate the extent of knowl
   ]
 }
 </script>
-

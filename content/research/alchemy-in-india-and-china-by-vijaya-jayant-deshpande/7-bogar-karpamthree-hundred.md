@@ -41,8 +41,6 @@ In ancient Tamil texts, frequent references to a Chinese alchemist "Bogar" are f
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ In ancient Tamil texts, frequent references to a Chinese alchemist "Bogar" are f
   ]
 }
 </script>
-

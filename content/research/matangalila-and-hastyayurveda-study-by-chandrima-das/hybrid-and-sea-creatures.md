@@ -55,8 +55,6 @@ Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.331-332.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ Coomaraswamy and Nivedita. Myths of the Hindus and Buddhists, pp.331-332.
   ]
 }
 </script>
-

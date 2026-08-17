@@ -49,8 +49,6 @@ Vastu means the art and science of living-place i.e, the site for building and a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ Vastu means the art and science of living-place i.e, the site for building and a
   ]
 }
 </script>
-

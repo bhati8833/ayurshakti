@@ -275,8 +275,6 @@ Caraka does not use the term padārtha or any such general term for the categori
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -392,4 +390,3 @@ Caraka does not use the term padārtha or any such general term for the categori
   ]
 }
 </script>
-

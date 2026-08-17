@@ -51,8 +51,6 @@ ajāsaśca śigravo yakṣavaśca bali śīrṣāṇi jabhru raśvyāni || (ṚV
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ ajāsaśca śigravo yakṣavaśca bali śīrṣāṇi jabhru raśvyāni || (ṚV
   ]
 }
 </script>
-

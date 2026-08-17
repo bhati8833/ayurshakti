@@ -61,8 +61,6 @@ savyabhicāro'naikāntikaḥ. sa trividhaḥ sādhāraṇasādhāraṇanupasaṃ
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ savyabhicāro'naikāntikaḥ. sa trividhaḥ sādhāraṇasādhāraṇanupasaṃ
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ lesions. The double armed axile instruments, which have two moving limbs to hold
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ lesions. The double armed axile instruments, which have two moving limbs to hold
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ samane vrkse puruso nimagno'nisaya socati muhyamanah/ justam yada pasyatyanyamis
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ samane vrkse puruso nimagno'nisaya socati muhyamanah/ justam yada pasyatyanyamis
   ]
 }
 </script>
-

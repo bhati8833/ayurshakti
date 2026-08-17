@@ -41,8 +41,6 @@ which existed almost two millennium ago. In its day was almost certainly the mos
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ which existed almost two millennium ago. In its day was almost certainly the mos
   ]
 }
 </script>
-

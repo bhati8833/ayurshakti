@@ -49,8 +49,6 @@ te kharjūrā abhavan | Tai.  S.–2/4/9/2.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ te kharjūrā abhavan | Tai.  S.–2/4/9/2.
   ]
 }
 </script>
-

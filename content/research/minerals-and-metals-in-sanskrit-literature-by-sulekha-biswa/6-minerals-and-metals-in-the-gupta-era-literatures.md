@@ -37,8 +37,6 @@ VIIIWe may recall that at the turn of the Christian era, the Roman traders and w
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ VIIIWe may recall that at the turn of the Christian era, the Roman traders and w
   ]
 }
 </script>
-

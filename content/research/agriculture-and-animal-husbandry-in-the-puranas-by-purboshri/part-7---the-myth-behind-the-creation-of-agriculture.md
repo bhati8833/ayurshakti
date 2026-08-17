@@ -137,8 +137,6 @@ madirā vijayā bhṛṅgī tathā laśunagṛñjanāḥ// Skanda Purāṇa , 1.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -254,4 +252,3 @@ madirā vijayā bhṛṅgī tathā laśunagṛñjanāḥ// Skanda Purāṇa , 1.
   ]
 }
 </script>
-

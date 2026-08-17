@@ -47,8 +47,6 @@ Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad It
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Sri Baladev Upadhyaya & Srinivasa Rath (eds.) Sanskrit-Vāṅmaya Kā Bṛhad It
   ]
 }
 </script>
-

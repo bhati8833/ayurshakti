@@ -47,8 +47,6 @@ svapakṣe doṣābhyupagamāt parapakṣe doṣaprasaṅgo matānujñā, Nyāya
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ svapakṣe doṣābhyupagamāt parapakṣe doṣaprasaṅgo matānujñā, Nyāya
   ]
 }
 </script>
-

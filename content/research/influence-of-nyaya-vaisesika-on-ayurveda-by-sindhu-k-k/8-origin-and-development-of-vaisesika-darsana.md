@@ -41,8 +41,6 @@ posterior negation, as the absence of an object after it had been destroyed; or 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ posterior negation, as the absence of an object after it had been destroyed; or 
   ]
 }
 </script>
-

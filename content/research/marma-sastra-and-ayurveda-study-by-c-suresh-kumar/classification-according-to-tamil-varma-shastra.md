@@ -47,8 +47,6 @@ upper extremities there are 11 varmams and 24 in the lower extremities.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ upper extremities there are 11 varmams and 24 in the lower extremities.
   ]
 }
 </script>
-

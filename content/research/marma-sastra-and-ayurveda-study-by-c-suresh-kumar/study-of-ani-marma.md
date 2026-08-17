@@ -43,8 +43,6 @@ Nadathalarpan is situated four inches above the knees on the side of each thighs
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Nadathalarpan is situated four inches above the knees on the side of each thighs
   ]
 }
 </script>
-

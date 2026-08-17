@@ -45,8 +45,6 @@ VImuch earlier before the first century A. D. (when Panna mine was exploited), t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ VImuch earlier before the first century A. D. (when Panna mine was exploited), t
   ]
 }
 </script>
-

@@ -101,8 +101,6 @@ The objective of Āyurveda is to ensure good health and happiness of men in this
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -218,4 +216,3 @@ The objective of Āyurveda is to ensure good health and happiness of men in this
   ]
 }
 </script>
-

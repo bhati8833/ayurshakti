@@ -43,8 +43,6 @@ Our texts reveal an open-minded perception of society. Friendliness and compassi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Our texts reveal an open-minded perception of society. Friendliness and compassi
   ]
 }
 </script>
-

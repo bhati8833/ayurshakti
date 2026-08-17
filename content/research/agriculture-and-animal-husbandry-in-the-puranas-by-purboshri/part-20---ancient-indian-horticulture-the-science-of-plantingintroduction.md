@@ -145,8 +145,6 @@ varṣārātrau bhuvaḥ śoṣe sektavyā ropita dromāḥ// Ibid., 282.6-7
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -262,4 +260,3 @@ varṣārātrau bhuvaḥ śoṣe sektavyā ropita dromāḥ// Ibid., 282.6-7
   ]
 }
 </script>
-

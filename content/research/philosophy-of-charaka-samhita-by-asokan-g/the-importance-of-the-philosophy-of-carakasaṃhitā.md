@@ -75,8 +75,6 @@ R.C. Pradhan, “Structure of Philosophical Knowledge: In Defence of the Metaphy
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -192,4 +190,3 @@ R.C. Pradhan, “Structure of Philosophical Knowledge: In Defence of the Metaphy
   ]
 }
 </script>
-

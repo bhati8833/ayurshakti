@@ -65,8 +65,6 @@ udbhijjādibhaścodbhidena pāvamānyā’tha tīrthakaiḥ/
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ udbhijjādibhaścodbhidena pāvamānyā’tha tīrthakaiḥ/
   ]
 }
 </script>
-

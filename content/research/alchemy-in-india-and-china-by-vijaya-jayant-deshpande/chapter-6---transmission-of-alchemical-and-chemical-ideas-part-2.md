@@ -37,8 +37,6 @@ Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 6 - Transmission of Alchemical and Chemical ideas (Part 2)
   ]
 }
 </script>
-

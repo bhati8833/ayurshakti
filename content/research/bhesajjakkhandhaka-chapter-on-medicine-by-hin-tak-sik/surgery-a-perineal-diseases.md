@@ -158,8 +158,6 @@ Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti y
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -275,4 +273,3 @@ Samantapāsādikā V. 1093-1094: “satthakammaṃ vā vatthikammaṃ vā’ti y
   ]
 }
 </script>
-

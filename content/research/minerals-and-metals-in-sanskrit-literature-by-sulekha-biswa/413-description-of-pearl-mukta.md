@@ -49,8 +49,6 @@ VII-67 flash of a polished sword' (Ratna-pariksha 62, Agastimata 92-93). Varaham
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ VII-67 flash of a polished sword' (Ratna-pariksha 62, Agastimata 92-93). Varaham
   ]
 }
 </script>
-

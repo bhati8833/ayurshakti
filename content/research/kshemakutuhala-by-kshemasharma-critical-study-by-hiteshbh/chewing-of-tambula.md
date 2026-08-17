@@ -37,8 +37,6 @@ There is a special method of preparing tambula. The tip and the portion near the
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ There is a special method of preparing tambula. The tip and the portion near the
   ]
 }
 </script>
-

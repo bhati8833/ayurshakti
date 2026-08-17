@@ -39,8 +39,6 @@ A solvent for many food substances, water serves in cookery as a dispersing medi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ A solvent for many food substances, water serves in cookery as a dispersing medi
   ]
 }
 </script>
-

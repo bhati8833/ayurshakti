@@ -39,8 +39,6 @@ above the Sroni instead of 'upon' (Upari) the Shroni Palaka) Nitamba literally r
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ above the Sroni instead of 'upon' (Upari) the Shroni Palaka) Nitamba literally r
   ]
 }
 </script>
-

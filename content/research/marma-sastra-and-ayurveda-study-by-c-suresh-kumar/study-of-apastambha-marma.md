@@ -41,8 +41,6 @@ blood in the pleura or adjacent structures. Similarly injury in any of the air c
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ blood in the pleura or adjacent structures. Similarly injury in any of the air c
   ]
 }
 </script>
-

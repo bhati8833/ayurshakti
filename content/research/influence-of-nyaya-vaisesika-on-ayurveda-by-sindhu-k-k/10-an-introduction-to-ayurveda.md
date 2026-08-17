@@ -43,8 +43,6 @@ physical and mental disease, endowed with vigour, strength, energy, and vitality
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ physical and mental disease, endowed with vigour, strength, energy, and vitality
   ]
 }
 </script>
-

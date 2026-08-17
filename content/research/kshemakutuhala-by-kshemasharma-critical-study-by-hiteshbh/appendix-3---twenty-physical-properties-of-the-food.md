@@ -39,8 +39,6 @@ i 488 Y } $ Cala or Sara (Mobile): The substances that bestow motion to the body
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ i 488 Y } $ Cala or Sara (Mobile): The substances that bestow motion to the body
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ V-26 Standard weights were made of iron or metallic stone from Magadha or Mekala
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ V-26 Standard weights were made of iron or metallic stone from Magadha or Mekala
   ]
 }
 </script>
-

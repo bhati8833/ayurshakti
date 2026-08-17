@@ -37,8 +37,6 @@ References and Notes for chapter 1
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ References and Notes for chapter 1
   ]
 }
 </script>
-

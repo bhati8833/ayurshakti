@@ -251,8 +251,6 @@ Caraka has used the word “paramāṇu”. But it is not in the sense of ultima
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -368,4 +366,3 @@ Caraka has used the word “paramāṇu”. But it is not in the sense of ultima
   ]
 }
 </script>
-

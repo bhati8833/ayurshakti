@@ -65,8 +65,6 @@ yāṃ tvā gandharvo akhanad vṛṣaṇastekhanitāro vṛṣā tvamasyoṣadh
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ yāṃ tvā gandharvo akhanad vṛṣaṇastekhanitāro vṛṣā tvamasyoṣadh
   ]
 }
 </script>
-

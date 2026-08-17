@@ -211,8 +211,6 @@ upendratve gavāmindro govindastvaṃ bhaviṣyasi// Ibid., 5.12.11-12
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -328,4 +326,3 @@ upendratve gavāmindro govindastvaṃ bhaviṣyasi// Ibid., 5.12.11-12
   ]
 }
 </script>
-

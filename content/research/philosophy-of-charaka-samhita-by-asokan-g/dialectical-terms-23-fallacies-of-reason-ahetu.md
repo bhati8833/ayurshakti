@@ -153,8 +153,6 @@ ubhayorapi sādhyadṛṣṭāntayoḥ sadhytvāpādanena pratyavasthānaṃ sā
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -270,4 +268,3 @@ ubhayorapi sādhyadṛṣṭāntayoḥ sadhytvāpādanena pratyavasthānaṃ sā
   ]
 }
 </script>
-

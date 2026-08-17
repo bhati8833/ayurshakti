@@ -59,8 +59,6 @@ Sarangadhara, who was associated with the court of king Hammira, the ruler of Sa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ Sarangadhara, who was associated with the court of king Hammira, the ruler of Sa
   ]
 }
 </script>
-

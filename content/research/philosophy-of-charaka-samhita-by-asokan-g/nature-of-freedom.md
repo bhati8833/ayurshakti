@@ -55,8 +55,6 @@ mokṣo rajastamo'bhāvāt balavatkarmasaṅkṣayāt viyogaḥ sarvasaṃyogair
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ mokṣo rajastamo'bhāvāt balavatkarmasaṅkṣayāt viyogaḥ sarvasaṃyogair
   ]
 }
 </script>
-

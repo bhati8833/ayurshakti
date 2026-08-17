@@ -43,8 +43,6 @@ VII-75 504 strings and 2 cubits made it vijayachhanda, the same name having been
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ VII-75 504 strings and 2 cubits made it vijayachhanda, the same name having been
   ]
 }
 </script>
-

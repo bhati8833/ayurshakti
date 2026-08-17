@@ -121,8 +121,6 @@ CS, Śārīra - sthāna, V. 5.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -238,4 +236,3 @@ CS, Śārīra - sthāna, V. 5.
   ]
 }
 </script>
-

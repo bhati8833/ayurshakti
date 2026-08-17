@@ -39,8 +39,6 @@ I am thankful to Mr. Joy Abraham, Mr. Shibu and Miss. Chithra whose effort for t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ I am thankful to Mr. Joy Abraham, Mr. Shibu and Miss. Chithra whose effort for t
   ]
 }
 </script>
-

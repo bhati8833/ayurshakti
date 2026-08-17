@@ -39,8 +39,6 @@ Somesvara further explains Buffalo fight on similar lines (4.10.1260-1276). He s
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Somesvara further explains Buffalo fight on similar lines (4.10.1260-1276). He s
   ]
 }
 </script>
-

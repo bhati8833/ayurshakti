@@ -39,8 +39,6 @@ Tamil varma sastra Cheriya atti surukki is situated half angula distance from th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Tamil varma sastra Cheriya atti surukki is situated half angula distance from th
   ]
 }
 </script>
-

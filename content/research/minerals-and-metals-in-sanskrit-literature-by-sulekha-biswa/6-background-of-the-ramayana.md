@@ -35,8 +35,6 @@ The above discussion on the Mahabharata clearly shows that its references to the
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ The above discussion on the Mahabharata clearly shows that its references to the
   ]
 }
 </script>
-

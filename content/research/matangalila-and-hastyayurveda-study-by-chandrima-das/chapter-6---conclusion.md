@@ -315,8 +315,6 @@ Susmita Basu Majumdar. The Mauryas in Karnataka, Kolkata: Mahabodhi Book Agency,
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -432,4 +430,3 @@ Susmita Basu Majumdar. The Mauryas in Karnataka, Kolkata: Mahabodhi Book Agency,
   ]
 }
 </script>
-

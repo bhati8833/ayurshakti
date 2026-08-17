@@ -39,8 +39,6 @@ diseases, Ksudra Roga Sthana or minor diseases, Salya Sthana or surgery and Ciki
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ diseases, Ksudra Roga Sthana or minor diseases, Salya Sthana or surgery and Ciki
   ]
 }
 </script>
-

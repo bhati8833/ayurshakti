@@ -139,8 +139,6 @@ Taishō Tripiṭaka 1462. 795a20-23: “呵羅勒者，如大棗大，其味酢�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -256,4 +254,3 @@ Taishō Tripiṭaka 1462. 795a20-23: “呵羅勒者，如大棗大，其味酢�
   ]
 }
 </script>
-

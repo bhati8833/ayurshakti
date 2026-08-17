@@ -55,8 +55,6 @@ V. In Compatible reason- (kalatita) ( Badhita) An in compatible reason occurs wh
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ V. In Compatible reason- (kalatita) ( Badhita) An in compatible reason occurs wh
   ]
 }
 </script>
-

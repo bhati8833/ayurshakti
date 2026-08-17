@@ -45,8 +45,6 @@ a distance of 31 cms and less than 31 cms if hit by three fingers. The injured p
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ a distance of 31 cms and less than 31 cms if hit by three fingers. The injured p
   ]
 }
 </script>
-

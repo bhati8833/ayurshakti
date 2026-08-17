@@ -39,8 +39,6 @@ T Gauri Caraka 1 Susrta Vagbhatta Harita Bhima 36 www. Surya Majority of the ver
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ T Gauri Caraka 1 Susrta Vagbhatta Harita Bhima 36 www. Surya Majority of the ver
   ]
 }
 </script>
-

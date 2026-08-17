@@ -81,8 +81,6 @@ In contemporary Āyurveda, however, there is no mention of using urine or faeces
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -198,4 +196,3 @@ In contemporary Āyurveda, however, there is no mention of using urine or faeces
   ]
 }
 </script>
-

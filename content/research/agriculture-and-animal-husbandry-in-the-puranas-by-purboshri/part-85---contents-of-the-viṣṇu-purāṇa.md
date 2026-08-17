@@ -231,8 +231,6 @@ Ibid., Book 6, Ch.7-8
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -348,4 +346,3 @@ Ibid., Book 6, Ch.7-8
   ]
 }
 </script>
-

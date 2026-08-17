@@ -57,8 +57,6 @@ idamidvā ityakṣataṃ mūtraphe nenābhyudya || prakṣipati || prakṣālaya
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ idamidvā ityakṣataṃ mūtraphe nenābhyudya || prakṣipati || prakṣālaya
   ]
 }
 </script>
-

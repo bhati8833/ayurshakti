@@ -67,8 +67,6 @@ uraḥ śiro grīvā parvāṇyāmāśayo medaśca śleṣmasthanāni, tatrāpyu
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -184,4 +182,3 @@ uraḥ śiro grīvā parvāṇyāmāśayo medaśca śleṣmasthanāni, tatrāpyu
   ]
 }
 </script>
-

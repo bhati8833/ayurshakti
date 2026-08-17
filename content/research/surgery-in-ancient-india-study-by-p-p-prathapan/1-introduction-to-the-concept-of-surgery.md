@@ -45,8 +45,6 @@ environments such as the battlefield or natural disaster areas with surgeons ope
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ environments such as the battlefield or natural disaster areas with surgeons ope
   ]
 }
 </script>
-

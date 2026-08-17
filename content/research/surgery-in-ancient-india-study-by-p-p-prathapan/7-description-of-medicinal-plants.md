@@ -37,8 +37,6 @@ disorders. Prsniparni Sayana interpreted it as Citraparni Ousadhi (a plant havin
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ disorders. Prsniparni Sayana interpreted it as Citraparni Ousadhi (a plant havin
   ]
 }
 </script>
-

@@ -57,8 +57,6 @@ H.V.Nagaraja Rao. ed.& tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam,
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ H.V.Nagaraja Rao. ed.& tr. Śrī Śivamārabhūpāla Praṇītam Kalpanāratnam,
   ]
 }
 </script>
-

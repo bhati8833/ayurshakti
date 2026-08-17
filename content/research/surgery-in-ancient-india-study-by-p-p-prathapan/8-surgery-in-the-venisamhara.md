@@ -37,8 +37,6 @@ taken from the Mahabharata, and covers the period which elapses between the retu
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ taken from the Mahabharata, and covers the period which elapses between the retu
   ]
 }
 </script>
-

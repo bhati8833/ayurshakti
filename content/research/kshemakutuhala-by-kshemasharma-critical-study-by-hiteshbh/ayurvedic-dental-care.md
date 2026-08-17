@@ -45,8 +45,6 @@ It has been proved that the bacterial flora in the mouth is considerably reduced
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ It has been proved that the bacterial flora in the mouth is considerably reduced
   ]
 }
 </script>
-

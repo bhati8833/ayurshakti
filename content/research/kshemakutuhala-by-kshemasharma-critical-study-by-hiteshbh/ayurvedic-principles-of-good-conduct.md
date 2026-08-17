@@ -47,8 +47,6 @@ the universal utility of the Ayurvedic prescriptions for preservation of good he
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ the universal utility of the Ayurvedic prescriptions for preservation of good he
   ]
 }
 </script>
-

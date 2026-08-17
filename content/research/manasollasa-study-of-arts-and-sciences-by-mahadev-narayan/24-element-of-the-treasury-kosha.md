@@ -47,8 +47,6 @@ Somesvara gives fourth importance to Kosa or treasury of the seven elements. The
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Somesvara gives fourth importance to Kosa or treasury of the seven elements. The
   ]
 }
 </script>
-

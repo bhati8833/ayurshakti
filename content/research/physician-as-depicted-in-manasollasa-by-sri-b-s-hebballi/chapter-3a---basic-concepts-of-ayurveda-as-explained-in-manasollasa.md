@@ -71,8 +71,6 @@ Ayurveda is the Veda of Ayus, . This science of life has come down from the earl
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -188,4 +186,3 @@ Ayurveda is the Veda of Ayus, . This science of life has come down from the earl
   ]
 }
 </script>
-

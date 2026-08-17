@@ -47,8 +47,6 @@ Somesvara shows a fairly good knowledge of mountain ranges as also the prominent
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Somesvara shows a fairly good knowledge of mountain ranges as also the prominent
   ]
 }
 </script>
-

@@ -43,8 +43,6 @@ kapala sadvyathah panca somantasniyagdhvagah bhramonmada manonai| stesu vidhenu 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ kapala sadvyathah panca somantasniyagdhvagah bhramonmada manonai| stesu vidhenu 
   ]
 }
 </script>
-

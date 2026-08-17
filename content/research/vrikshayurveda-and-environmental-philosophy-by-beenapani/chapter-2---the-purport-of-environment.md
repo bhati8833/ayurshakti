@@ -37,8 +37,6 @@ Chapter 2 - The purport of Environment
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 2 - The purport of Environment
   ]
 }
 </script>
-

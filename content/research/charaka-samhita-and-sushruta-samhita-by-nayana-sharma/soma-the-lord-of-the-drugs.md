@@ -43,8 +43,6 @@ Suśruta Saṃhitā Cikitsāsthāna 30.30/1.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Suśruta Saṃhitā Cikitsāsthāna 30.30/1.
   ]
 }
 </script>
-

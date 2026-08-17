@@ -107,8 +107,6 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Ga
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -224,4 +222,3 @@ Shri Mantramurti K.S. Subrahmanyaśāstri. ed. &tr. (in Tamil), Gajaśāstra [Ga
   ]
 }
 </script>
-

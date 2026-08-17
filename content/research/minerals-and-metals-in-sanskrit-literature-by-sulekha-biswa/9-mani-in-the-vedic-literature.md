@@ -37,8 +37,6 @@ III-18 the origin of sankha and Krsana, as well as their uses as mani and supern
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ III-18 the origin of sankha and Krsana, as well as their uses as mani and supern
   ]
 }
 </script>
-

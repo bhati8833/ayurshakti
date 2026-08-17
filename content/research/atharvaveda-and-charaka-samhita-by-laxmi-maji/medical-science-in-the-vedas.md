@@ -368,8 +368,6 @@ K. D. Dvivedi & B. Dvivedi, Vedoṇ Meṇ Āyurveda (Medical Science in the Veda
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -485,4 +483,3 @@ K. D. Dvivedi & B. Dvivedi, Vedoṇ Meṇ Āyurveda (Medical Science in the Veda
   ]
 }
 </script>
-

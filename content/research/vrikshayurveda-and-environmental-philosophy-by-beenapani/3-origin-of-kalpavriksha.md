@@ -41,8 +41,6 @@ There is description of a beautiful story as to the outcome of kalpavrks from th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ There is description of a beautiful story as to the outcome of kalpavrks from th
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ There are four marmas seen two angulas above the sthana two angulas below the st
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ There are four marmas seen two angulas above the sthana two angulas below the st
   ]
 }
 </script>
-

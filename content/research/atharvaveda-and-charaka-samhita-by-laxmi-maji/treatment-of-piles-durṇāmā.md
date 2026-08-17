@@ -51,8 +51,6 @@ tayāhaṃ durṇāmnā śiro vṛścāmi śakuneriva || (AV. –II/25/2); Acary
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ tayāhaṃ durṇāmnā śiro vṛścāmi śakuneriva || (AV. –II/25/2); Acary
   ]
 }
 </script>
-

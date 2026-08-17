@@ -39,8 +39,6 @@ to another. Two salaka have their ends shaped like fish hook but are blunt. They
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ to another. Two salaka have their ends shaped like fish hook but are blunt. They
   ]
 }
 </script>
-

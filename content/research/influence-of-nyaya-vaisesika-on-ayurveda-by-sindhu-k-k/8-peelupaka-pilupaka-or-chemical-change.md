@@ -43,8 +43,6 @@ The Vaisesika school further declare that there is no other root cause of the un
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ The Vaisesika school further declare that there is no other root cause of the un
   ]
 }
 </script>
-

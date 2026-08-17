@@ -41,8 +41,6 @@ VIII-7 Caraka Samhita is based on an earlier work of Agnivesa, whose teacher Atr
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ VIII-7 Caraka Samhita is based on an earlier work of Agnivesa, whose teacher Atr
   ]
 }
 </script>
-

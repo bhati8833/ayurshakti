@@ -59,8 +59,6 @@ So this perhaps the reason the most prominent work in Ayurveda, the Caraka-Samhi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ So this perhaps the reason the most prominent work in Ayurveda, the Caraka-Samhi
   ]
 }
 </script>
-

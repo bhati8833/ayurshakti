@@ -39,8 +39,6 @@ Brahma Vaivarta Purana, Daksa Prajapati taught Ayurveda to Brahma ' and he, in t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Brahma Vaivarta Purana, Daksa Prajapati taught Ayurveda to Brahma ' and he, in t
   ]
 }
 </script>
-

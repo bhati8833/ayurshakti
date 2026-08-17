@@ -37,8 +37,6 @@ time. The principle subjects treated in the Nyaya-sutra, may be grouped under th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ time. The principle subjects treated in the Nyaya-sutra, may be grouped under th
   ]
 }
 </script>
-

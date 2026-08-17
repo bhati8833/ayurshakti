@@ -37,8 +37,6 @@ Food is the centre 10 of life and civilisation revolves around it. According to 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Food is the centre 10 of life and civilisation revolves around it. According to 
   ]
 }
 </script>
-

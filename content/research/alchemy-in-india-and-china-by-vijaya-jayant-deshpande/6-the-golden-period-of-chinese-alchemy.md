@@ -37,8 +37,6 @@ The centuries between 400 to 800 AD were the golden period of Chinese alchemy. W
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The centuries between 400 to 800 AD were the golden period of Chinese alchemy. W
   ]
 }
 </script>
-

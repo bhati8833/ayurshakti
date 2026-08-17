@@ -37,8 +37,6 @@ objects but when the mind is steadily concentrated to the self, both case to exi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ objects but when the mind is steadily concentrated to the self, both case to exi
   ]
 }
 </script>
-

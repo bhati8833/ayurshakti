@@ -37,8 +37,6 @@ arrows as a true ksatriya. This suggests that military surgeons and 55 practice 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ arrows as a true ksatriya. This suggests that military surgeons and 55 practice 
   ]
 }
 </script>
-

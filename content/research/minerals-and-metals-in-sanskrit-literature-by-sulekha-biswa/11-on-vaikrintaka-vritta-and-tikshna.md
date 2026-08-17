@@ -37,8 +37,6 @@ V-23 evidently the Vedic name for pig or wrought iron; thus, the three (tu ri 2.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ V-23 evidently the Vedic name for pig or wrought iron; thus, the three (tu ri 2.
   ]
 }
 </script>
-

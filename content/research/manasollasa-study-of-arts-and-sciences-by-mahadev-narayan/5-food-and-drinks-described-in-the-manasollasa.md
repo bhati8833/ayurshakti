@@ -41,8 +41,6 @@ There was much cogitation, particularly among the respectable dvija families, wi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ There was much cogitation, particularly among the respectable dvija families, wi
   ]
 }
 </script>
-

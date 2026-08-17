@@ -101,8 +101,6 @@ prāmāṇikatvena abhyupagato'rthaḥ sidhdhāntaḥ, Tarkabhāṣa of Keśavam
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -218,4 +216,3 @@ prāmāṇikatvena abhyupagato'rthaḥ sidhdhāntaḥ, Tarkabhāṣa of Keśavam
   ]
 }
 </script>
-

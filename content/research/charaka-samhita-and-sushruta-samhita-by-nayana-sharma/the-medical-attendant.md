@@ -191,8 +191,6 @@ K.V.S.Ayyar, “The Tirumukkuḍal inscription of Vīrarājendra”, Epigraphia 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -308,4 +306,3 @@ K.V.S.Ayyar, “The Tirumukkuḍal inscription of Vīrarājendra”, Epigraphia 
   ]
 }
 </script>
-

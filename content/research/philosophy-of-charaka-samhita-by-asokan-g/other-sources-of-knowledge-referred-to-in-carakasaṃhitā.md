@@ -123,8 +123,6 @@ Nyāya-Bhāṣya of Vātsyāyana., p.166.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -240,4 +238,3 @@ Nyāya-Bhāṣya of Vātsyāyana., p.166.
   ]
 }
 </script>
-

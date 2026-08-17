@@ -55,8 +55,6 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ The thesis "Alchemy in India and China" explores the comparative aspects of alch
   ]
 }
 </script>
-

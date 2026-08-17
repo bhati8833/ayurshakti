@@ -47,8 +47,6 @@ VII-57 A very striking fact is that Arthasastra, otherwise more or less complete
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ VII-57 A very striking fact is that Arthasastra, otherwise more or less complete
   ]
 }
 </script>
-

@@ -166,8 +166,6 @@ K. D. Dvivedi, Medical Science in the Vedas, Uttar Pradesh, Visvabharati Researc
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -283,4 +281,3 @@ K. D. Dvivedi, Medical Science in the Vedas, Uttar Pradesh, Visvabharati Researc
   ]
 }
 </script>
-

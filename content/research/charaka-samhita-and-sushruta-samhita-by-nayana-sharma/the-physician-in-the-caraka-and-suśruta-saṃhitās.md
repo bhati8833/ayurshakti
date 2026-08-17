@@ -265,8 +265,6 @@ R.P.Kangle (Ed.), The Kautilya Arthaśāstra: An English Translation with Critic
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -382,4 +380,3 @@ R.P.Kangle (Ed.), The Kautilya Arthaśāstra: An English Translation with Critic
   ]
 }
 </script>
-

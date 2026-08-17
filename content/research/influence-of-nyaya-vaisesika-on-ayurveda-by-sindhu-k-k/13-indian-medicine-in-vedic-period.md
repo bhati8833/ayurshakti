@@ -37,8 +37,6 @@ The Vedic Indian's attitude towards the diseases was dominated by the belief of 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The Vedic Indian's attitude towards the diseases was dominated by the belief of 
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ CHAPTER-II 65 II. Texts on vrksayurveda—II.0. Texts on vrksayurveda: An Introd
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ CHAPTER-II 65 II. Texts on vrksayurveda—II.0. Texts on vrksayurveda: An Introd
   ]
 }
 </script>
-

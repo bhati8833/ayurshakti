@@ -35,8 +35,6 @@ India entered the iron age after the Rgvedic era. Many metallic implements, prob
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ India entered the iron age after the Rgvedic era. Many metallic implements, prob
   ]
 }
 </script>
-

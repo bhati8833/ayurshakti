@@ -41,8 +41,6 @@ The food preparations are arranged on the dinning table as follows : Left side o
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The food preparations are arranged on the dinning table as follows : Left side o
   ]
 }
 </script>
-

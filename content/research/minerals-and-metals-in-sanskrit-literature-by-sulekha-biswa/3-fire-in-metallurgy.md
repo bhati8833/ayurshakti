@@ -39,8 +39,6 @@ II-6 The metallic gem thus obtained by the smelting or melting process was known
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ II-6 The metallic gem thus obtained by the smelting or melting process was known
   ]
 }
 </script>
-

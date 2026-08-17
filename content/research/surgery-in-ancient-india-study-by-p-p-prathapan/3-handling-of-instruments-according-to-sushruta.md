@@ -43,8 +43,6 @@ instrument cannot be procured. The nails of fingers should be used in operations
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ instrument cannot be procured. The nails of fingers should be used in operations
   ]
 }
 </script>
-

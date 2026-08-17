@@ -61,8 +61,6 @@ Lokeshwar, R.R., Handbook of Animal Husbandry, p. 13
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ Lokeshwar, R.R., Handbook of Animal Husbandry, p. 13
   ]
 }
 </script>
-

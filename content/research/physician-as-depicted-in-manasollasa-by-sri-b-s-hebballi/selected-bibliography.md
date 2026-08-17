@@ -47,8 +47,6 @@ SELECT BIBLIOGRAPHY I. English 1. Agnivesa (P.I.), Carakasamhita (with comm of C
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ SELECT BIBLIOGRAPHY I. English 1. Agnivesa (P.I.), Carakasamhita (with comm of C
   ]
 }
 </script>
-

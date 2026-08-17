@@ -57,8 +57,6 @@ sukiṃ śukaṃ śalmaliṃ viśvarūpaṃ hiraṇyavarṇaṃ suvṛtaṃ suca
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -174,4 +172,3 @@ sukiṃ śukaṃ śalmaliṃ viśvarūpaṃ hiraṇyavarṇaṃ suvṛtaṃ suca
   ]
 }
 </script>
-

@@ -195,8 +195,6 @@ H.V. Nagaraja Rao, ed. Kalpanāratnam of Śri Śivamāra Bhūpāla, Bangalore: P
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -312,4 +310,3 @@ H.V. Nagaraja Rao, ed. Kalpanāratnam of Śri Śivamāra Bhūpāla, Bangalore: P
   ]
 }
 </script>
-

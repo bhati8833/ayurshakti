@@ -115,8 +115,6 @@ P. Olivelle, (annotated text and translation), Dharmasūtras, pp.473-474.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -232,4 +230,3 @@ P. Olivelle, (annotated text and translation), Dharmasūtras, pp.473-474.
   ]
 }
 </script>
-

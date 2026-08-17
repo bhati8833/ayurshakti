@@ -41,8 +41,6 @@ If laxative fruits such as chebula myrobalans etc. Make it fragrant by adding fr
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ If laxative fruits such as chebula myrobalans etc. Make it fragrant by adding fr
   ]
 }
 </script>
-

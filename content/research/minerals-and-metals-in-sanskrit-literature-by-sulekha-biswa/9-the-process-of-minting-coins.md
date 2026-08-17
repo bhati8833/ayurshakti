@@ -37,8 +37,6 @@ V-21 The Mint Master of laksanadhyaksah was supposed to supervise minting (2.12.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ V-21 The Mint Master of laksanadhyaksah was supposed to supervise minting (2.12.
   ]
 }
 </script>
-

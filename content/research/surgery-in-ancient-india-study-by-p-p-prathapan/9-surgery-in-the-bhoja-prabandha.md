@@ -35,8 +35,6 @@ SURGERY IN BHOJA PRABANDHA There is the description of king Bhojas suffering fro
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ SURGERY IN BHOJA PRABANDHA There is the description of king Bhojas suffering fro
   ]
 }
 </script>
-

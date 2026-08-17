@@ -67,8 +67,6 @@ Albert Sheweitzer was a contemperory altruist of the West, who decided to make h
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -184,4 +182,3 @@ Albert Sheweitzer was a contemperory altruist of the West, who decided to make h
   ]
 }
 </script>
-

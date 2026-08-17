@@ -242,8 +242,6 @@ Aṣṭāṅgasaṅgraha of Vāgbhaṭa., XVII. p. 238
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -359,4 +357,3 @@ Aṣṭāṅgasaṅgraha of Vāgbhaṭa., XVII. p. 238
   ]
 }
 </script>
-

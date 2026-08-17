@@ -41,8 +41,6 @@ NOTES 1 I.P., Vol.I., p.1. 2 History of Indian Logic ,p.1-53 3 Critical Survey o
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ NOTES 1 I.P., Vol.I., p.1. 2 History of Indian Logic ,p.1-53 3 Critical Survey o
   ]
 }
 </script>
-

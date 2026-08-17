@@ -41,8 +41,6 @@ IX-20 A good variety of ritika or riti was stated to be heavy, soft, yellow, res
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ IX-20 A good variety of ritika or riti was stated to be heavy, soft, yellow, res
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ VIII-1 Some of the dull materials or adhamya dhatu listed were: manahsila (red a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ VIII-1 Some of the dull materials or adhamya dhatu listed were: manahsila (red a
   ]
 }
 </script>
-

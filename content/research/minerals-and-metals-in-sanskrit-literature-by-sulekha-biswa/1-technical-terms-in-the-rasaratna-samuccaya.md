@@ -43,8 +43,6 @@ IX-4 and Rasaratna-samuccaya contains a wide-ranging list of implements A equipm
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ IX-4 and Rasaratna-samuccaya contains a wide-ranging list of implements A equipm
   ]
 }
 </script>
-

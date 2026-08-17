@@ -69,8 +69,6 @@ purāṇaṃ vedasammitam/ Viṣṇu Purāṇa , 1.1.3
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -186,4 +184,3 @@ purāṇaṃ vedasammitam/ Viṣṇu Purāṇa , 1.1.3
   ]
 }
 </script>
-

@@ -39,8 +39,6 @@ Having all virtues of a physician. 25) Who always keeps life saving drugs at han
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Having all virtues of a physician. 25) Who always keeps life saving drugs at han
   ]
 }
 </script>
-

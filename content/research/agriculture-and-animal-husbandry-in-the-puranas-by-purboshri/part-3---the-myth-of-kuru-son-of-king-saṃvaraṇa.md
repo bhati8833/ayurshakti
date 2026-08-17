@@ -69,8 +69,6 @@ puṇyaṃ ca ramaṇīyaṃ ca kurukṣetraṃ tu tatsmṛtam// Matsya Purāṇ
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -186,4 +184,3 @@ puṇyaṃ ca ramaṇīyaṃ ca kurukṣetraṃ tu tatsmṛtam// Matsya Purāṇ
   ]
 }
 </script>
-

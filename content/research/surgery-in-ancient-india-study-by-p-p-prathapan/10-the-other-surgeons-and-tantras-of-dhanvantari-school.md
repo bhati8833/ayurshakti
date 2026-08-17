@@ -43,8 +43,6 @@ KAPILA TANTRA In Susruta Samhita netucarya one chapter depicts Cakrapani's salya
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ KAPILA TANTRA In Susruta Samhita netucarya one chapter depicts Cakrapani's salya
   ]
 }
 </script>
-

@@ -51,8 +51,6 @@ these three gunas is essential for our physical and mental health. But disequili
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ these three gunas is essential for our physical and mental health. But disequili
   ]
 }
 </script>
-

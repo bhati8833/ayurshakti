@@ -63,8 +63,6 @@ Table Showing the relation between tridosas and age, part of the body, Meal, Day
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -180,4 +178,3 @@ Table Showing the relation between tridosas and age, part of the body, Meal, Day
   ]
 }
 </script>
-

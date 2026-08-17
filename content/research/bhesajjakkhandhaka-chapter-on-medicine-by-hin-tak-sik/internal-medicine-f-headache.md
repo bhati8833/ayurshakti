@@ -112,8 +112,6 @@ The Aṣṭāṅga Hṛdaya Saṃhitā, in the chapter dealing with head disease
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -229,4 +227,3 @@ The Aṣṭāṅga Hṛdaya Saṃhitā, in the chapter dealing with head disease
   ]
 }
 </script>
-

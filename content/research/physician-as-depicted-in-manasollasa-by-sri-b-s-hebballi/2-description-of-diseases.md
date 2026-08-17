@@ -39,8 +39,6 @@ Reason of Diseases—Man does not live in an absolutely germ-free atmosphere. Th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Reason of Diseases—Man does not live in an absolutely germ-free atmosphere. Th
   ]
 }
 </script>
-

@@ -43,8 +43,6 @@ brought to consciousness by manipulating the same area just two angulas below th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ brought to consciousness by manipulating the same area just two angulas below th
   ]
 }
 </script>
-

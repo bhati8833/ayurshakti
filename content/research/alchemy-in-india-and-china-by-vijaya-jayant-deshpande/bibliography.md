@@ -55,8 +55,6 @@ Singhal, D. P. India and World Civilization, Enka, Delhi, 1972. 236 Sivin, Natha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ Singhal, D. P. India and World Civilization, Enka, Delhi, 1972. 236 Sivin, Natha
   ]
 }
 </script>
-

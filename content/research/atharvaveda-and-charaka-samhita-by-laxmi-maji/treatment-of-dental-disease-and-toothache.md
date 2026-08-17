@@ -44,8 +44,6 @@ vīrut kṣetriyanāśanyapa kṣetriyamucchatu || (AV. –II/8/3); Atharva-Veda
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -161,4 +159,3 @@ vīrut kṣetriyanāśanyapa kṣetriyamucchatu || (AV. –II/8/3); Atharva-Veda
   ]
 }
 </script>
-

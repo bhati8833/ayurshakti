@@ -41,8 +41,6 @@ The position of this marma is near the mookadappan marma and if injured the pati
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The position of this marma is near the mookadappan marma and if injured the pati
   ]
 }
 </script>
-

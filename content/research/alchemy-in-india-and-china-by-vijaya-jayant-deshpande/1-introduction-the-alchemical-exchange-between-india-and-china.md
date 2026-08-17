@@ -43,8 +43,6 @@ consider the case of Indian Buddhist travelers, their translation activity and i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ consider the case of Indian Buddhist travelers, their translation activity and i
   ]
 }
 </script>
-

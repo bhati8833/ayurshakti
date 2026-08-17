@@ -39,8 +39,6 @@ Alchemy flourished in India in the medieval period. It had, like in other areas 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Alchemy flourished in India in the medieval period. It had, like in other areas 
   ]
 }
 </script>
-

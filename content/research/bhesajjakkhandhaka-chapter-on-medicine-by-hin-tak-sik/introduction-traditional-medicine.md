@@ -91,8 +91,6 @@ Description of the contents of the Chapter on Medicine will be found in Section 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -208,4 +206,3 @@ Description of the contents of the Chapter on Medicine will be found in Section 
   ]
 }
 </script>
-

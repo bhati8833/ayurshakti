@@ -65,8 +65,6 @@ HIPS, Vol. II. p. 382-83.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ HIPS, Vol. II. p. 382-83.
   ]
 }
 </script>
-

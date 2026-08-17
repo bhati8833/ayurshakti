@@ -51,8 +51,6 @@ asafoetida. It alleviates vata. It aggravates pitta slightly. It promotes streng
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ asafoetida. It alleviates vata. It aggravates pitta slightly. It promotes streng
   ]
 }
 </script>
-

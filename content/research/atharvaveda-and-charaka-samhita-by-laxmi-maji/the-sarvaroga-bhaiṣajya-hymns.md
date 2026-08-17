@@ -67,8 +67,6 @@ vātājjāta iti kṛśanam || (Kauśika Sūtra-58.9 in connection with IV.10);A
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -184,4 +182,3 @@ vātājjāta iti kṛśanam || (Kauśika Sūtra-58.9 in connection with IV.10);A
   ]
 }
 </script>
-

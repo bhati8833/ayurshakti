@@ -45,8 +45,6 @@ III.2. Environmental Values reflected in other Texts on the topic Vrksayurveda:‚
 
 ---
 
-
-
 ---
 
 ## ‚ùì 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ III.2. Environmental Values reflected in other Texts on the topic Vrksayurveda:‚
   ]
 }
 </script>
-

@@ -419,8 +419,6 @@ Raghunātha Śiromaṇi justify the non-simultanity of cognitions on the basis o
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -536,4 +534,3 @@ Raghunātha Śiromaṇi justify the non-simultanity of cognitions on the basis o
   ]
 }
 </script>
-

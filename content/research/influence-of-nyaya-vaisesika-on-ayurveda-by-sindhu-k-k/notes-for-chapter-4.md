@@ -49,8 +49,6 @@ yugapat samana visistadravyopayogat pravrttirdhatusamyarupa bhavati |  Cakrapani
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ yugapat samana visistadravyopayogat pravrttirdhatusamyarupa bhavati |  Cakrapani
   ]
 }
 </script>
-

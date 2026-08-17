@@ -47,8 +47,6 @@ Rasaratnākara with Hindi Commentary by Nityanath, trans. Khemraj Sri Krishna Da
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Rasaratnākara with Hindi Commentary by Nityanath, trans. Khemraj Sri Krishna Da
   ]
 }
 </script>
-

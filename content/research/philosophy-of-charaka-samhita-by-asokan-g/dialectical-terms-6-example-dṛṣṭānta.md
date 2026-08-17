@@ -71,8 +71,6 @@ Praśastapādabhāṣya., pp.600-603.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -188,4 +186,3 @@ Praśastapādabhāṣya., pp.600-603.
   ]
 }
 </script>
-

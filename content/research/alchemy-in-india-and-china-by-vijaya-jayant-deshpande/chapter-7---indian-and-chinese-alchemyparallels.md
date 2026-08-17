@@ -37,8 +37,6 @@ Chapter 7 - Indian and Chinese Alchemy—Parallels
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 7 - Indian and Chinese Alchemy—Parallels
   ]
 }
 </script>
-

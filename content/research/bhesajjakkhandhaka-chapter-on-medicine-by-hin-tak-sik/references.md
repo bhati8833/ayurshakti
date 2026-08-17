@@ -737,8 +737,6 @@ Zysk, Kenneth G. 1982. “Studies in Traditional Indian Medicine in the Pāli Ca
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -854,4 +852,3 @@ Zysk, Kenneth G. 1982. “Studies in Traditional Indian Medicine in the Pāli Ca
   ]
 }
 </script>
-

@@ -45,8 +45,6 @@ be licensed by the king. He should be clean, keep his nails and hair short, and 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ be licensed by the king. He should be clean, keep his nails and hair short, and 
   ]
 }
 </script>
-

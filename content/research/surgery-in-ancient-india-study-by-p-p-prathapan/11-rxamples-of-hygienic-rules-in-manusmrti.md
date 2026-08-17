@@ -35,8 +35,6 @@ EXAMPLES OF HYGIENIC RULES IN MANUSMRTI—Don't take bath after eating, One shou
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ EXAMPLES OF HYGIENIC RULES IN MANUSMRTI—Don't take bath after eating, One shou
   ]
 }
 </script>
-

@@ -64,8 +64,6 @@ santi vaidyaguṇairyuktāstrividhā bhiṣajo iti || (CS.  -Sūtrasthāna–XI.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -181,4 +179,3 @@ santi vaidyaguṇairyuktāstrividhā bhiṣajo iti || (CS.  -Sūtrasthāna–XI.
   ]
 }
 </script>
-

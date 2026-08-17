@@ -37,8 +37,6 @@ V-4 have primordial importance. It has been stated more explicitly (7.14.25) tha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ V-4 have primordial importance. It has been stated more explicitly (7.14.25) tha
   ]
 }
 </script>
-

@@ -45,8 +45,6 @@ seen devoid of these structures like mamsa, sira. Otherwise srothas are a part a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ seen devoid of these structures like mamsa, sira. Otherwise srothas are a part a
   ]
 }
 </script>
-

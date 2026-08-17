@@ -39,8 +39,6 @@ Taxila. Kautiliya Arthasastra describes the Mauryan political economy, the emerg
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Taxila. Kautiliya Arthasastra describes the Mauryan political economy, the emerg
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ The last week of the current season and the first week of the consecutive season
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ The last week of the current season and the first week of the consecutive season
   ]
 }
 </script>
-

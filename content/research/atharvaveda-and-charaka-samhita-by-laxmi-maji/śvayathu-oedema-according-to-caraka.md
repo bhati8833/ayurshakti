@@ -59,8 +59,6 @@ C. Cikitsāsthāna–XII.5-102; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃ
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ C. Cikitsāsthāna–XII.5-102; R. K. Sharma & Bhagwan Dash (eds.), Caraka Saṃ
   ]
 }
 </script>
-

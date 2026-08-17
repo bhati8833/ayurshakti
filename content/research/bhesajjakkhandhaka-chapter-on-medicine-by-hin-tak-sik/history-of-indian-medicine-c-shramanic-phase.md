@@ -75,8 +75,6 @@ Thanks to Professor Halkias for providing these two Greek terms.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -192,4 +190,3 @@ Thanks to Professor Halkias for providing these two Greek terms.
   ]
 }
 </script>
-

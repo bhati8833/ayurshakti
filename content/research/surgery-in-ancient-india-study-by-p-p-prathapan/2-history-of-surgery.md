@@ -43,8 +43,6 @@ Barber surgeons generally had a bad reputation that was not to 19 improve until 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Barber surgeons generally had a bad reputation that was not to 19 improve until 
   ]
 }
 </script>
-

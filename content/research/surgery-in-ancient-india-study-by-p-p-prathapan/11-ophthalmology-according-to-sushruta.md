@@ -45,8 +45,6 @@ the eye is irritated with saindhava salt and soaked with a warm compress. The pa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ the eye is irritated with saindhava salt and soaked with a warm compress. The pa
   ]
 }
 </script>
-

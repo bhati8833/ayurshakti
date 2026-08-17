@@ -203,8 +203,6 @@ Suśrutasaṃhitā of Suśruta., Uttara - tantra, IXV. 3.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -320,4 +318,3 @@ Suśrutasaṃhitā of Suśruta., Uttara - tantra, IXV. 3.
   ]
 }
 </script>
-

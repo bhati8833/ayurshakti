@@ -184,8 +184,6 @@ ayaṃ devānāmityekaviṃśatya darbhapiñjūlībhirvalīkaiḥ sārdhamadhiś
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -301,4 +299,3 @@ ayaṃ devānāmityekaviṃśatya darbhapiñjūlībhirvalīkaiḥ sārdhamadhiś
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ Chapter 5 - Modern relevance of Purāṇic agriculture and Animal Husbandry
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 5 - Modern relevance of Purāṇic agriculture and Animal Husbandry
   ]
 }
 </script>
-

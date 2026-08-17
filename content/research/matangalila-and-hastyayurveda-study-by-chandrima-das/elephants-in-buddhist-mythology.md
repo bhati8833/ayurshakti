@@ -77,8 +77,6 @@ V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p. 34.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -194,4 +192,3 @@ V. Ram. Elephant Kingdom–Sculptures from Indian Architecture, p. 34.
   ]
 }
 </script>
-

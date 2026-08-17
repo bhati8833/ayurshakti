@@ -41,8 +41,6 @@ This powder macerated in the juice of this plant and deposited in an iron vessel
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ This powder macerated in the juice of this plant and deposited in an iron vessel
   ]
 }
 </script>
-

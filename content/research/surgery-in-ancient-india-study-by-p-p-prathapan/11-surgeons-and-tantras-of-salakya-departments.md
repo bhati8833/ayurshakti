@@ -45,8 +45,6 @@ CAKSUSYA TANTRA Caksusya tantra was an important book about Salakya tantra. Srik
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ CAKSUSYA TANTRA Caksusya tantra was an important book about Salakya tantra. Srik
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ IV-16 The Rasa-Sastras of the Post-Christian era adopted the word sattva to mean
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ IV-16 The Rasa-Sastras of the Post-Christian era adopted the word sattva to mean
   ]
 }
 </script>
-

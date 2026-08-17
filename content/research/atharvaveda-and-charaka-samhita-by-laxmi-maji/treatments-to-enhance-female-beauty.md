@@ -44,8 +44,6 @@ parāyato nivartanamāyataḥ pratinandanam || (AV. –VII/38/1); Acarya Vedanta
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -161,4 +159,3 @@ parāyato nivartanamāyataḥ pratinandanam || (AV. –VII/38/1); Acarya Vedanta
   ]
 }
 </script>
-

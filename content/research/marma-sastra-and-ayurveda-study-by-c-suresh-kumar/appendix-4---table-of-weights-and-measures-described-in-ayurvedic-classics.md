@@ -39,8 +39,6 @@ In the case of liquids, the metric equivalents would be the corresponding litre 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ In the case of liquids, the metric equivalents would be the corresponding litre 
   ]
 }
 </script>
-

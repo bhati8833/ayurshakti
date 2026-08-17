@@ -51,8 +51,6 @@ yanme akṣyorādidyota pārṣṇyaiḥ prapadośca yat |
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ yanme akṣyorādidyota pārṣṇyaiḥ prapadośca yat |
   ]
 }
 </script>
-

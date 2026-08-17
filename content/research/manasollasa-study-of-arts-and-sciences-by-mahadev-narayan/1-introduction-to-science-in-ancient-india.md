@@ -49,8 +49,6 @@ The applications of science are playing a very important part in our daily life.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ The applications of science are playing a very important part in our daily life.
   ]
 }
 </script>
-

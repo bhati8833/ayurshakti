@@ -41,8 +41,6 @@ I-4 (a) correlation of the literary evidences with the archaeological data and o
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ I-4 (a) correlation of the literary evidences with the archaeological data and o
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ were also mentioned in Astadhyayi. Panini refers to certain terms which provide 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ were also mentioned in Astadhyayi. Panini refers to certain terms which provide 
   ]
 }
 </script>
-

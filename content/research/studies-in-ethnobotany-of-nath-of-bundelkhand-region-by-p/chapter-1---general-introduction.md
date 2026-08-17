@@ -41,8 +41,6 @@ The Indian subcontinent represents one of the greatest emporia of ethnobotanical
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ The Indian subcontinent represents one of the greatest emporia of ethnobotanical
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ According to Caraka pseudo and feigned physicians are those who move about from 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ According to Caraka pseudo and feigned physicians are those who move about from 
   ]
 }
 </script>
-

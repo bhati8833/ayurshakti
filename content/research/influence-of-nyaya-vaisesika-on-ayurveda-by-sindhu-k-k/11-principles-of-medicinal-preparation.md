@@ -41,8 +41,6 @@ Drugs listed in the classical pharmacological works include animal products (pra
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Drugs listed in the classical pharmacological works include animal products (pra
   ]
 }
 </script>
-

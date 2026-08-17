@@ -55,8 +55,6 @@ The Visnudharmottara Purana elucidates the process, and the strong points in pai
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ The Visnudharmottara Purana elucidates the process, and the strong points in pai
   ]
 }
 </script>
-

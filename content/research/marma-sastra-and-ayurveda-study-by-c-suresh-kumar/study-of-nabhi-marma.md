@@ -41,8 +41,6 @@ it can cause instant death due to shock and haemorrhage. The deep injury may als
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ it can cause instant death due to shock and haemorrhage. The deep injury may als
   ]
 }
 </script>
-

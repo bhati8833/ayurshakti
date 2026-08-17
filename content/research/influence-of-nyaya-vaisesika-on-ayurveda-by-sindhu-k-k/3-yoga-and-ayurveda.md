@@ -59,8 +59,6 @@ NOTES 1 Critical Survey of Indian Philosophy , p.149-150 2 Ibid., p.151-162. 3 C
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ NOTES 1 Critical Survey of Indian Philosophy , p.149-150 2 Ibid., p.151-162. 3 C
   ]
 }
 </script>
-

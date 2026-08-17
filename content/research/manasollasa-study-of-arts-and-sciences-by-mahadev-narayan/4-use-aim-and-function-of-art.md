@@ -73,8 +73,6 @@ The Manasollasa covers several subjects like dance, music, prosody, architecture
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -190,4 +188,3 @@ The Manasollasa covers several subjects like dance, music, prosody, architecture
   ]
 }
 </script>
-

@@ -140,8 +140,6 @@ original_scholar: "Its Own Culture"
 
 > **⚠️ Academic & Medical Disclaimer:** The information on this website is for educational and research purposes...
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -257,4 +255,3 @@ original_scholar: "Its Own Culture"
   ]
 }
 </script>
-

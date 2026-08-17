@@ -39,8 +39,6 @@ ages. As time went on such lines of thinking multiplied in number and began to d
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ ages. As time went on such lines of thinking multiplied in number and began to d
   ]
 }
 </script>
-

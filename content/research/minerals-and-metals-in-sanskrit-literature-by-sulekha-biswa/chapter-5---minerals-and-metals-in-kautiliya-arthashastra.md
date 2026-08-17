@@ -35,8 +35,6 @@ Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Chapter 5 - Minerals and Metals in Kautiliya Arthashastra
   ]
 }
 </script>
-

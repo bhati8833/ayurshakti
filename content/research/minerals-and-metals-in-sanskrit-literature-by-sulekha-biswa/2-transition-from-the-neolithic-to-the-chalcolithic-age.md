@@ -37,8 +37,6 @@ II-4 recorded here that in the Pre-Harappan stratum of Kalibangan, chalcedony an
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ II-4 recorded here that in the Pre-Harappan stratum of Kalibangan, chalcedony an
   ]
 }
 </script>
-

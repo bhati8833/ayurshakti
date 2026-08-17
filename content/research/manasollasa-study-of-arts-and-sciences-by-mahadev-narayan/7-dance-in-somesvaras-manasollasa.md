@@ -69,8 +69,6 @@ a '' 269 In the context of anger, doubt, graceful or pleasurable sensation at th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -186,4 +184,3 @@ a '' 269 In the context of anger, doubt, graceful or pleasurable sensation at th
   ]
 }
 </script>
-

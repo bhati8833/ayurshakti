@@ -37,8 +37,6 @@ Chapter 6 RESTORING NORMAL PHYSICAL AND MENTAL HEALTH AS PROPOUNDED IN MANASOLLA
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Chapter 6 RESTORING NORMAL PHYSICAL AND MENTAL HEALTH AS PROPOUNDED IN MANASOLLA
   ]
 }
 </script>
-

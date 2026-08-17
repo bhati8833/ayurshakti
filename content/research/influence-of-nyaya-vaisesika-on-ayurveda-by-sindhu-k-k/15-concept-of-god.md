@@ -37,8 +37,6 @@ Principles and theories postulated by Vaisesika darsana has been accepted by alk
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Principles and theories postulated by Vaisesika darsana has been accepted by alk
   ]
 }
 </script>
-

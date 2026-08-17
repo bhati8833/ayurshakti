@@ -51,8 +51,6 @@ Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripath
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ Yogaratnākara with ‘Vaidyaprabha’ Hindi Commentary, trans. Indradev Tripath
   ]
 }
 </script>
-

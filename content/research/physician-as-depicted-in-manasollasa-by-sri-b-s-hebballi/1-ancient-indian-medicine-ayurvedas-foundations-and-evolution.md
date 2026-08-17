@@ -73,8 +73,6 @@ Chapter 4 ANCIENT TREATISES ON INDIAN MEDICINE (as referred to in Manasollasa) A
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -190,4 +188,3 @@ Chapter 4 ANCIENT TREATISES ON INDIAN MEDICINE (as referred to in Manasollasa) A
   ]
 }
 </script>
-

@@ -35,8 +35,6 @@ On account of its low melting point (327°C and low latent heat of fusion (6 cal
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ On account of its low melting point (327°C and low latent heat of fusion (6 cal
   ]
 }
 </script>
-

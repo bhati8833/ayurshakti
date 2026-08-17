@@ -203,8 +203,6 @@ Suśruta Saṃhitā Sūtrasthāna 3.52.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -320,4 +318,3 @@ Suśruta Saṃhitā Sūtrasthāna 3.52.
   ]
 }
 </script>
-

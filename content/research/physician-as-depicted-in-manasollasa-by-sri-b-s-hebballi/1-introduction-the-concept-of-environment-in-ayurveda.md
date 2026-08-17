@@ -47,8 +47,6 @@ Right from Vedic times, though scholars have been thinking in their own way, it 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Right from Vedic times, though scholars have been thinking in their own way, it 
   ]
 }
 </script>
-

@@ -41,8 +41,6 @@ Discussion ☐ Ischial part of adductor magnus ☐ Profundus femoris artery Uppe
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Discussion ☐ Ischial part of adductor magnus ☐ Profundus femoris artery Uppe
   ]
 }
 </script>
-

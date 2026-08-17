@@ -86,8 +86,6 @@ ariṣṭanemiṃ pṛtanājimāśuṃ svastaye tārkṣyamihā huvema || (AV. �
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -203,4 +201,3 @@ ariṣṭanemiṃ pṛtanājimāśuṃ svastaye tārkṣyamihā huvema || (AV. �
   ]
 }
 </script>
-

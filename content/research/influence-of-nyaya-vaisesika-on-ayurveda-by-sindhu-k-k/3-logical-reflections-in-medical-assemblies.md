@@ -95,8 +95,6 @@ in the Nyaya system of philosophy than in these of polity or medicine. Besides t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -212,4 +210,3 @@ in the Nyaya system of philosophy than in these of polity or medicine. Besides t
   ]
 }
 </script>
-

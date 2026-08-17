@@ -37,8 +37,6 @@ Bhikṣu Ātreya (700 BC)—He was a different person. He was a Buddhist, a repu
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Bhikṣu Ātreya (700 BC)—He was a different person. He was a Buddhist, a repu
   ]
 }
 </script>
-

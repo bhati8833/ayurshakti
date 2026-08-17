@@ -35,8 +35,6 @@ Our puranas give us a lot of information about surgery which is found in Itihasa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Our puranas give us a lot of information about surgery which is found in Itihasa
   ]
 }
 </script>
-

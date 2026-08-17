@@ -37,8 +37,6 @@ talpaans 39 106 stool in detail. This can lengthen the span of life and help one
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ talpaans 39 106 stool in detail. This can lengthen the span of life and help one
   ]
 }
 </script>
-

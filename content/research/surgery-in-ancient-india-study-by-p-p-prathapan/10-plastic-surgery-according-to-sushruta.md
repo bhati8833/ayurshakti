@@ -39,8 +39,6 @@ Susruta warns that improper intervention with surgical manoeuvre either due to i
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ Susruta warns that improper intervention with surgical manoeuvre either due to i
   ]
 }
 </script>
-

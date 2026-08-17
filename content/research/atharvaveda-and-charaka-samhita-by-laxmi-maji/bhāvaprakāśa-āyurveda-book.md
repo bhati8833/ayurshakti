@@ -47,8 +47,6 @@ Bhāvaprakāśa by Bhāvamiśra Vol. I–IV, trans. Kalishachandra Sengupta, Vai
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Bhāvaprakāśa by Bhāvamiśra Vol. I–IV, trans. Kalishachandra Sengupta, Vai
   ]
 }
 </script>
-

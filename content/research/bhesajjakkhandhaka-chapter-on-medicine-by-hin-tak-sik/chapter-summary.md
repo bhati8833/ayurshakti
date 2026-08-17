@@ -37,8 +37,6 @@ All these diseases with their treatments (as well as tools in some cases), like 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ All these diseases with their treatments (as well as tools in some cases), like 
   ]
 }
 </script>
-

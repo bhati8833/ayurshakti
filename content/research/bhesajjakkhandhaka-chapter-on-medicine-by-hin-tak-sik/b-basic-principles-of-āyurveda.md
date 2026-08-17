@@ -179,8 +179,6 @@ There is much material on dietetics in the classical Āyurvedic texts, such as C
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -296,4 +294,3 @@ There is much material on dietetics in the classical Āyurvedic texts, such as C
   ]
 }
 </script>
-

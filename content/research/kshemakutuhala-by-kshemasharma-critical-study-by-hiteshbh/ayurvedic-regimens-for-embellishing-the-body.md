@@ -45,8 +45,6 @@ gems and jewels suitable to planets respectively. Wearing ornaments is one of th
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ gems and jewels suitable to planets respectively. Wearing ornaments is one of th
   ]
 }
 </script>
-

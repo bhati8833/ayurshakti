@@ -163,8 +163,6 @@ R.A. Gabriel, Man and Wound in the Ancient World, p. 137.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -280,4 +278,3 @@ R.A. Gabriel, Man and Wound in the Ancient World, p. 137.
   ]
 }
 </script>
-

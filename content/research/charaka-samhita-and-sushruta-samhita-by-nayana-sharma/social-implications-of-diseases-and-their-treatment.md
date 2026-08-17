@@ -43,8 +43,6 @@ P. Conrad and K.K. Barker, “The Social Construction of Illness: Key Insights a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ P. Conrad and K.K. Barker, “The Social Construction of Illness: Key Insights a
   ]
 }
 </script>
-

@@ -47,8 +47,6 @@ Prthvi (earth) Anything i.e., solid, heavy, inert dense and opaque is of prthvi 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ Prthvi (earth) Anything i.e., solid, heavy, inert dense and opaque is of prthvi 
   ]
 }
 </script>
-

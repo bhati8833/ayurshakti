@@ -65,8 +65,6 @@ See footnote 151 on p. 192.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ See footnote 151 on p. 192.
   ]
 }
 </script>
-

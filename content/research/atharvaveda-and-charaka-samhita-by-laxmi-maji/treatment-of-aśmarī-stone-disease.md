@@ -55,8 +55,6 @@ trikaṇṭakasya bījānāṃ cūrṇaṃ mākṣikasaṃyutam || (Suśruta Cik
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ trikaṇṭakasya bījānāṃ cūrṇaṃ mākṣikasaṃyutam || (Suśruta Cik
   ]
 }
 </script>
-

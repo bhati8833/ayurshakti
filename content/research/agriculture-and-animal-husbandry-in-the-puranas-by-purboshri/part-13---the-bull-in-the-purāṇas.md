@@ -198,8 +198,6 @@ kārttikyāṃ ca vṛṣotsargaṃ kṛtvā naktaṃ samācaret/
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -315,4 +313,3 @@ kārttikyāṃ ca vṛṣotsargaṃ kṛtvā naktaṃ samācaret/
   ]
 }
 </script>
-

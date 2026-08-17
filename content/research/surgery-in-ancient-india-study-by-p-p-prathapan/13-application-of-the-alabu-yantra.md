@@ -35,8 +35,6 @@ Alabu or gourd is described to be made of the bark of the succulent fruit called
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -152,4 +150,3 @@ Alabu or gourd is described to be made of the bark of the succulent fruit called
   ]
 }
 </script>
-

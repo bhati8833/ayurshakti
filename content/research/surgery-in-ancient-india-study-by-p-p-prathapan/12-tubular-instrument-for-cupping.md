@@ -37,8 +37,6 @@ winding thread round it. This facilitates the operation of suction by the mouth 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ winding thread round it. This facilitates the operation of suction by the mouth 
   ]
 }
 </script>
-

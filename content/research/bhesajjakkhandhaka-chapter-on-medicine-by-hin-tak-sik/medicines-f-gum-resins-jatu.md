@@ -129,8 +129,6 @@ See Oxford English Dictionary, 3rd ed, s.v. “benzoin” and “storax” [acce
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -246,4 +244,3 @@ See Oxford English Dictionary, 3rd ed, s.v. “benzoin” and “storax” [acce
   ]
 }
 </script>
-

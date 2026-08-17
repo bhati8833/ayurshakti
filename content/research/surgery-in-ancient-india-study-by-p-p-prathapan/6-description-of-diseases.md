@@ -37,8 +37,6 @@ prayers to Gods Sun and Moon, giving incision with the root of Muni deva, leach 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ prayers to Gods Sun and Moon, giving incision with the root of Muni deva, leach 
   ]
 }
 </script>
-

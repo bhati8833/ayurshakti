@@ -75,8 +75,6 @@ V. Friday VI. Saturday 283 Pusya, ASlesa, Magha, and Rohini purvasadha, Uttarasa
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -192,4 +190,3 @@ V. Friday VI. Saturday 283 Pusya, ASlesa, Magha, and Rohini purvasadha, Uttarasa
   ]
 }
 </script>
-

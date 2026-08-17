@@ -259,8 +259,6 @@ K.M. Ganguli, The Mahābhārata of Krishna-Dwaipayana Vyasa: Translated into Eng
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -376,4 +374,3 @@ K.M. Ganguli, The Mahābhārata of Krishna-Dwaipayana Vyasa: Translated into Eng
   ]
 }
 </script>
-

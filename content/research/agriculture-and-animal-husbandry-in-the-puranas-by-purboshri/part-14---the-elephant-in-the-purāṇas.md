@@ -145,8 +145,6 @@ saptasthito gajaścedṛksaṅgrāme’rīñjayetsadā// Ibid., 287.4
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -262,4 +260,3 @@ saptasthito gajaścedṛksaṅgrāme’rīñjayetsadā// Ibid., 287.4
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ The Ayurveda emphasizes upon moderation in food. It is also advised from very ea
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ The Ayurveda emphasizes upon moderation in food. It is also advised from very ea
   ]
 }
 </script>
-

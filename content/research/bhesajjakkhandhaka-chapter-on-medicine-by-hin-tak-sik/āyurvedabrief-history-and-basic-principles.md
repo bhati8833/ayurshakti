@@ -77,8 +77,6 @@ Medical concepts will be discussed later in this section. For more descriptions 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -194,4 +192,3 @@ Medical concepts will be discussed later in this section. For more descriptions 
   ]
 }
 </script>
-

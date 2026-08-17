@@ -163,8 +163,6 @@ Samantapāsādikā V. 1089: “Bhesajjakkhandhake sārādikena ābadhenā ’ti 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -280,4 +278,3 @@ Samantapāsādikā V. 1089: “Bhesajjakkhandhake sārādikena ābadhenā ’ti 
   ]
 }
 </script>
-

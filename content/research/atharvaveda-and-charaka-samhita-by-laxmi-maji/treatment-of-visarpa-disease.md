@@ -49,8 +49,6 @@ vedāhaṃ tasya bheṣajaṃ cīpudrurabhicakṣaṇam || (AV. –VI/127/2); Ve
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ vedāhaṃ tasya bheṣajaṃ cīpudrurabhicakṣaṇam || (AV. –VI/127/2); Ve
   ]
 }
 </script>
-

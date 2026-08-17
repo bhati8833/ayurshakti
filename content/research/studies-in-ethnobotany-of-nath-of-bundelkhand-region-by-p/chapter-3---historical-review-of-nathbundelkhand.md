@@ -59,8 +59,6 @@ From prehistoric ages human culture has, either directly and indirectly, been in
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -176,4 +174,3 @@ From prehistoric ages human culture has, either directly and indirectly, been in
   ]
 }
 </script>
-

@@ -49,8 +49,6 @@ yakṣamāṇāṃ sarveṣāṃ viṣaṃ niravocamahaṃ tvat || (AV. –IX/8/
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ yakṣamāṇāṃ sarveṣāṃ viṣaṃ niravocamahaṃ tvat || (AV. –IX/8/
   ]
 }
 </script>
-

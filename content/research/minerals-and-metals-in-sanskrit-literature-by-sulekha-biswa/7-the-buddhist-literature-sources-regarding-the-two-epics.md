@@ -37,8 +37,6 @@ VI-15 The Buddhist literature mentioned seven kinds of jewels or ratna suvanna (
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ VI-15 The Buddhist literature mentioned seven kinds of jewels or ratna suvanna (
   ]
 }
 </script>
-

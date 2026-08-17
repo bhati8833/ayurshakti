@@ -51,8 +51,6 @@ in the medieval period, i.e., at the time when they had the closest and most fre
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -168,4 +166,3 @@ in the medieval period, i.e., at the time when they had the closest and most fre
   ]
 }
 </script>
-

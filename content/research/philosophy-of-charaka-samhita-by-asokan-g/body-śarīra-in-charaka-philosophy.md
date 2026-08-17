@@ -165,8 +165,6 @@ yugapajjñānānutpattirmanaso liṅgaṃ, Nyāyasūtra., I. i. 16.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -282,4 +280,3 @@ yugapajjñānānutpattirmanaso liṅgaṃ, Nyāyasūtra., I. i. 16.
   ]
 }
 </script>
-

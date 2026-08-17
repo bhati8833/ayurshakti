@@ -39,8 +39,6 @@ V-14 of great commercial importance were metallic ores from which useful metals 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ V-14 of great commercial importance were metallic ores from which useful metals 
   ]
 }
 </script>
-

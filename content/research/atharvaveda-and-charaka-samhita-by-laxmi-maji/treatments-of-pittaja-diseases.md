@@ -55,8 +55,6 @@ nyagrodhā mahāvṛkṣā: | (AV. –IV/37/4); Atharva-Veda-Saṃhitā along wi
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -172,4 +170,3 @@ nyagrodhā mahāvṛkṣā: | (AV. –IV/37/4); Atharva-Veda-Saṃhitā along wi
   ]
 }
 </script>
-

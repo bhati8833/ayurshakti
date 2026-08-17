@@ -65,8 +65,6 @@ See, CS, Śārīra - sthāna, VIII. 10-14.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -182,4 +180,3 @@ See, CS, Śārīra - sthāna, VIII. 10-14.
   ]
 }
 </script>
-

@@ -49,8 +49,6 @@ X-13 'I have performed the aforesaid experiments with my own hands and have seen
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -166,4 +164,3 @@ X-13 'I have performed the aforesaid experiments with my own hands and have seen
   ]
 }
 </script>
-

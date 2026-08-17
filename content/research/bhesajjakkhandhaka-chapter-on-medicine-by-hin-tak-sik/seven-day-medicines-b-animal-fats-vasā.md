@@ -226,8 +226,6 @@ Samantapāsādikā V. 1089: “kāle paṭggahitan ti ādīsu majjhantike avīti
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -343,4 +341,3 @@ Samantapāsādikā V. 1089: “kāle paṭggahitan ti ādīsu majjhantike avīti
   ]
 }
 </script>
-

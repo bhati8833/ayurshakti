@@ -73,8 +73,6 @@ piba kalaśe somam..... ā vṛṣasva | (AV. –VII.76.6); Acarya Vedanta Tirth
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -190,4 +188,3 @@ piba kalaśe somam..... ā vṛṣasva | (AV. –VII.76.6); Acarya Vedanta Tirth
   ]
 }
 </script>
-

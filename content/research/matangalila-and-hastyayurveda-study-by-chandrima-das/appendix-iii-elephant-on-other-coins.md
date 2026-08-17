@@ -33,8 +33,6 @@ Appendix III: Elephant on other Coins
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -150,4 +148,3 @@ Appendix III: Elephant on other Coins
   ]
 }
 </script>
-

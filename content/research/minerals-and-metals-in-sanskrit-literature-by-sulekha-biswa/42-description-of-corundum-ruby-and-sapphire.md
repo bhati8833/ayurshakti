@@ -47,8 +47,6 @@ VII-18 indranila was mentioned by Kautilya as sravanmadhva (AS 2.11.31) which ha
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ VII-18 indranila was mentioned by Kautilya as sravanmadhva (AS 2.11.31) which ha
   ]
 }
 </script>
-

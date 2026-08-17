@@ -167,8 +167,6 @@ Winternitz, M., op.cit., volume 1, p.549-55
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -284,4 +282,3 @@ Winternitz, M., op.cit., volume 1, p.549-55
   ]
 }
 </script>
-

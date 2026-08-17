@@ -61,8 +61,6 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, Delhi: Motilal Banarsidass, 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -178,4 +176,3 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, Delhi: Motilal Banarsidass, 
   ]
 }
 </script>
-

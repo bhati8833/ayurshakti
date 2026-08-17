@@ -43,8 +43,6 @@ uses the expression of 'Parama-Nyaya' for the conclusion which combines all the 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ uses the expression of 'Parama-Nyaya' for the conclusion which combines all the 
   ]
 }
 </script>
-

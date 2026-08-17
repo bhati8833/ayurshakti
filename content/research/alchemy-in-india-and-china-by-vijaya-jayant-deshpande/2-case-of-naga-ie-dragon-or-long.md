@@ -37,8 +37,6 @@ Christian era, the name of the author "Nagarjuna"l translated into Chinese as "l
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Christian era, the name of the author "Nagarjuna"l translated into Chinese as "l
   ]
 }
 </script>
-

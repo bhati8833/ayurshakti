@@ -43,8 +43,6 @@ You Yan 7 of 1285 AD, "Sun-gong tan-pu" (The venerable Mr. Sun's conversation ga
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ You Yan 7 of 1285 AD, "Sun-gong tan-pu" (The venerable Mr. Sun's conversation ga
   ]
 }
 </script>
-

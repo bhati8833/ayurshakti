@@ -137,8 +137,6 @@ Garuḍa Purāṇa , 1.201
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -254,4 +252,3 @@ Garuḍa Purāṇa , 1.201
   ]
 }
 </script>
-

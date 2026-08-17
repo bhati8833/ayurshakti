@@ -37,8 +37,6 @@ Thus the categorisation of drugs in the Chapters on Medicine may well have been 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Thus the categorisation of drugs in the Chapters on Medicine may well have been 
   ]
 }
 </script>
-

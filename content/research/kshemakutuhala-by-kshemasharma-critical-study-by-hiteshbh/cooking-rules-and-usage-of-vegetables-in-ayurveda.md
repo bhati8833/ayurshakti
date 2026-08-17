@@ -45,8 +45,6 @@ gently over medium flame to prevent rapid evaporation of liquid and scorching. 5
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -162,4 +160,3 @@ gently over medium flame to prevent rapid evaporation of liquid and scorching. 5
   ]
 }
 </script>
-

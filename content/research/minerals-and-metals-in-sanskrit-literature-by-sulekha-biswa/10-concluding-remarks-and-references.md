@@ -47,8 +47,6 @@ III-24 Macdonell, A. A. and Keith, A. B., 1912, 1958, Vedic Index of Names and S
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -164,4 +162,3 @@ III-24 Macdonell, A. A. and Keith, A. B., 1912, 1958, Vedic Index of Names and S
   ]
 }
 </script>
-

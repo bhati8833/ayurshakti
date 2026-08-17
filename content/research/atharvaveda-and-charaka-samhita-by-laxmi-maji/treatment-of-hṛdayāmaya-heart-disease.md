@@ -50,8 +50,6 @@ sūryaḥ kṛṇotu bheṣajaṃ candramā vo'pocchatu || (AV. –VI/83/1); Ved
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -167,4 +165,3 @@ sūryaḥ kṛṇotu bheṣajaṃ candramā vo'pocchatu || (AV. –VI/83/1); Ved
   ]
 }
 </script>
-

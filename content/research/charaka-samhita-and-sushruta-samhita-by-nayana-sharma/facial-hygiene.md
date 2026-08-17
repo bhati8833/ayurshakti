@@ -81,8 +81,6 @@ J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature wit
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -198,4 +196,3 @@ J. Mitra, A Critical Appraisal of Āyurvedic Material in Buddhist Literature wit
   ]
 }
 </script>
-

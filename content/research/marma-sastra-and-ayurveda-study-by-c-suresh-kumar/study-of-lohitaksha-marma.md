@@ -43,8 +43,6 @@ Lohitaksha, According to the text the injury causes pakshaghata. Here the author
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Lohitaksha, According to the text the injury causes pakshaghata. Here the author
   ]
 }
 </script>
-

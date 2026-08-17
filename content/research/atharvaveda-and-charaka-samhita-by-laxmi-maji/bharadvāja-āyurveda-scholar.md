@@ -43,8 +43,6 @@ Bharadvāja—IV (900 BC)–Kumāraśira Bharadvāja participated in the debate 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -160,4 +158,3 @@ Bharadvāja—IV (900 BC)–Kumāraśira Bharadvāja participated in the debate 
   ]
 }
 </script>
-

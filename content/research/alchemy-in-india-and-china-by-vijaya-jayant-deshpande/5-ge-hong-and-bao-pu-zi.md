@@ -39,8 +39,6 @@ After Wei Bo-yang, in the fourth century AD the adept-alchemist Ge Hong appeared
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ After Wei Bo-yang, in the fourth century AD the adept-alchemist Ge Hong appeared
   ]
 }
 </script>
-

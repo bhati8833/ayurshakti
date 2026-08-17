@@ -41,8 +41,6 @@ Gurvadi gunas are twenty in number guru-lakhu, sitausna, snigdha-ruksamanda-tiks
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ Gurvadi gunas are twenty in number guru-lakhu, sitausna, snigdha-ruksamanda-tiks
   ]
 }
 </script>
-

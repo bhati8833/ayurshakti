@@ -41,8 +41,6 @@ In royal families, it was customary to examine the food 61 preparations to see t
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -158,4 +156,3 @@ In royal families, it was customary to examine the food 61 preparations to see t
   ]
 }
 </script>
-

@@ -37,8 +37,6 @@ Ayurveda. The treatment mentioned in the Siddhanta Rasayana Kalpa was according 
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ Ayurveda. The treatment mentioned in the Siddhanta Rasayana Kalpa was according 
   ]
 }
 </script>
-

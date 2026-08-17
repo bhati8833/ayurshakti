@@ -39,8 +39,6 @@ VI.2. Environmental Philosophy behind the determination of Auspicious & Inauspic
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ VI.2. Environmental Philosophy behind the determination of Auspicious & Inauspic
   ]
 }
 </script>
-

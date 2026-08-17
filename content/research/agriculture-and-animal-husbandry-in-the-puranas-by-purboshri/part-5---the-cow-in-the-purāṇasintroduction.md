@@ -172,8 +172,6 @@ gopradā ca bhavedyakṣī vedī sampatpradā bhavet/ Matsya Purāṇa ,262.17,6
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -289,4 +287,3 @@ gopradā ca bhavedyakṣī vedī sampatpradā bhavet/ Matsya Purāṇa ,262.17,6
   ]
 }
 </script>
-

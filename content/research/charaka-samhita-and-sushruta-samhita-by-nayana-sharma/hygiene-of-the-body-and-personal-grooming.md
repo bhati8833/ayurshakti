@@ -177,8 +177,6 @@ Suśruta Saṃhitā Uttaratantra 27.6.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -294,4 +292,3 @@ Suśruta Saṃhitā Uttaratantra 27.6.
   ]
 }
 </script>
-

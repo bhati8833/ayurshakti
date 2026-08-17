@@ -137,8 +137,6 @@ Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 8.9-10.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -254,4 +252,3 @@ Cakrapāṇidatta on Caraka Saṃhitā Vimānasthāna 8.9-10.
   ]
 }
 </script>
-

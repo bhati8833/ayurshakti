@@ -39,8 +39,6 @@ III-3 universe was only space. atmosphere and then water. Gradually it condensed
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -156,4 +154,3 @@ III-3 universe was only space. atmosphere and then water. Gradually it condensed
   ]
 }
 </script>
-

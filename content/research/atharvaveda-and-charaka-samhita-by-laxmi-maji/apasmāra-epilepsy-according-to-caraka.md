@@ -167,8 +167,6 @@ rakṣedunmādinaṃ caivaṃ sadyaḥ prāṇaharā hi te ||(C. Cikitsāsthāna
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -284,4 +282,3 @@ rakṣedunmādinaṃ caivaṃ sadyaḥ prāṇaharā hi te ||(C. Cikitsāsthāna
   ]
 }
 </script>
-

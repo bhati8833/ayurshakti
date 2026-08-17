@@ -37,8 +37,6 @@ V-22 had always been known in India as trapu. The other name Kastira came into v
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -154,4 +152,3 @@ V-22 had always been known in India as trapu. The other name Kastira came into v
   ]
 }
 </script>
-

@@ -105,8 +105,6 @@ Samantapāsādikā V. 1092: “pajjaṃ abhisaṅkharitun ti yena phālitapādā
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -222,4 +220,3 @@ Samantapāsādikā V. 1092: “pajjaṃ abhisaṅkharitun ti yena phālitapādā
   ]
 }
 </script>
-

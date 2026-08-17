@@ -83,8 +83,6 @@ tatra svārthaṃ trirūpalliṅgādyadanumīyate jñānaṃ tadanumānaṃ, Ny�
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -200,4 +198,3 @@ tatra svārthaṃ trirūpalliṅgādyadanumīyate jñānaṃ tadanumānaṃ, Ny�
   ]
 }
 </script>
-

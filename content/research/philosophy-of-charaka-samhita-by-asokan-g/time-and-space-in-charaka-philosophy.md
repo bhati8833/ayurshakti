@@ -125,8 +125,6 @@ Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 23.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -242,4 +240,3 @@ Aṣṭāṅgahṛdaya of Vāgbhaṭa., Su, I. 23.
   ]
 }
 </script>
-

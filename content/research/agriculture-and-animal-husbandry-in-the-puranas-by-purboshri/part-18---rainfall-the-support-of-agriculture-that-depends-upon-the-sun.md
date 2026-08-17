@@ -159,8 +159,6 @@ hemante śiśire caiva himotsargastribhiḥ punaḥ// Ibid.,128.24-25a
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -276,4 +274,3 @@ hemante śiśire caiva himotsargastribhiḥ punaḥ// Ibid.,128.24-25a
   ]
 }
 </script>
-

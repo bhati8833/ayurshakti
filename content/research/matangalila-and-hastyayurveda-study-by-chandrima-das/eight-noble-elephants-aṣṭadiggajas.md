@@ -103,8 +103,6 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, v.23, pp.47-48.
 
 ---
 
-
-
 ---
 
 ## ❓ 4. Frequently Asked Questions (15 Question Intent Matrix)
@@ -220,4 +218,3 @@ Franklin Edgerton. The Elephant-Lore of the Hindus, v.23, pp.47-48.
   ]
 }
 </script>
-
