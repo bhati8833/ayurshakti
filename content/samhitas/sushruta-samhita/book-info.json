@@ -1,0 +1,1090 @@
+{
+  "title": "Sushruta Samhita (English Translation)",
+  "book_slug": "sushruta-samhita",
+  "author": "Kaviraj Kunja Lal Bhishagratna",
+  "total_chapters": 216,
+  "silo": "samhitas",
+  "description": "The paramount classical treatise on Ayurvedic surgery (Shalya Tantra), plastic surgery, surgical instruments, and therapeutics.",
+  "chapters": [
+    {
+      "title": "Preface",
+      "slug": "sutrasthana-ch-001-preface",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Invocation",
+      "slug": "sutrasthana-ch-002-invocation",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Plate I",
+      "slug": "sutrasthana-ch-003-plate-i",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Introduction",
+      "slug": "sutrasthana-ch-004-introduction",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Title Page",
+      "slug": "sutrasthana-ch-005-title-page",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Plate II",
+      "slug": "sutrasthana-ch-006-plate-ii",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Plate III",
+      "slug": "sutrasthana-ch-007-plate-iii",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Plate IV",
+      "slug": "sutrasthana-ch-008-plate-iv",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter I - Origin of Ayurveda",
+      "slug": "sutrasthana-ch-009-chapter-i-origin-of-ayurveda",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter III - Classification of Ayurveda",
+      "slug": "sutrasthana-ch-010-chapter-iii-classification-of-ayurveda",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter IV - General explanations",
+      "slug": "sutrasthana-ch-011-chapter-iv-general-explanations",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter V - Preliminary measures",
+      "slug": "sutrasthana-ch-012-chapter-v-preliminary-measures",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter II - Initiation of the pupil",
+      "slug": "sutrasthana-ch-013-chapter-ii-initiation-of-the-pupil",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter VI - Different seasons of the year",
+      "slug": "sutrasthana-ch-014-chapter-vi-different-seasons-of-the-year",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter VII - Surgical appliances",
+      "slug": "sutrasthana-ch-015-chapter-vii-surgical-appliances",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter VIII - Surgical instruments",
+      "slug": "sutrasthana-ch-016-chapter-viii-surgical-instruments",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter IX - Practical surgical instructions",
+      "slug": "sutrasthana-ch-017-chapter-ix-practical-surgical-instructions",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter X - Qualifications of a physician",
+      "slug": "sutrasthana-ch-018-chapter-x-qualifications-of-a-physician",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XII - Thermal cautery",
+      "slug": "sutrasthana-ch-019-chapter-xii-thermal-cautery",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XIII - Usage of leeches",
+      "slug": "sutrasthana-ch-020-chapter-xiii-usage-of-leeches",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XIV - Description of blood",
+      "slug": "sutrasthana-ch-021-chapter-xiv-description-of-blood",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XI - Alkaline cautery",
+      "slug": "sutrasthana-ch-022-chapter-xi-alkaline-cautery",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XV - Knowledge of doshas etc",
+      "slug": "sutrasthana-ch-023-chapter-xv-knowledge-of-doshas-etc",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XVI - Puncturing and Bandaging the ear",
+      "slug": "sutrasthana-ch-024-chapter-xvi-puncturing-and-bandaging-the-ear",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XVII - Features of unripe and ripe swelling",
+      "slug": "sutrasthana-ch-025-chapter-xvii-features-of-unripe-and-ripe-swelling",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XIX - Care of the wounded",
+      "slug": "sutrasthana-ch-026-chapter-xix-care-of-the-wounded",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XX - Suitable and unsuitables for health",
+      "slug": "sutrasthana-ch-027-chapter-xx-suitable-and-unsuitables-for-health",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XVIII - Poulticing and bandaging of wounds",
+      "slug": "sutrasthana-ch-028-chapter-xviii-poulticing-and-bandaging-of-wounds",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXI - Questions concerning wounds",
+      "slug": "sutrasthana-ch-029-chapter-xxi-questions-concerning-wounds",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXII - Knowledge of exudates of wounds",
+      "slug": "sutrasthana-ch-030-chapter-xxii-knowledge-of-exudates-of-wounds",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXIII - Prognosis of wounds",
+      "slug": "sutrasthana-ch-031-chapter-xxiii-prognosis-of-wounds",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXIV - Knowledge of diseases",
+      "slug": "sutrasthana-ch-032-chapter-xxiv-knowledge-of-diseases",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXVI - Knowledge of foreign bodies",
+      "slug": "sutrasthana-ch-033-chapter-xxvi-knowledge-of-foreign-bodies",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXVII - Removal of foreign bodies",
+      "slug": "sutrasthana-ch-034-chapter-xxvii-removal-of-foreign-bodies",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXVIII - Prognosis of wounds",
+      "slug": "sutrasthana-ch-035-chapter-xxviii-prognosis-of-wounds",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXV - Eight kinds of surgical operations",
+      "slug": "sutrasthana-ch-036-chapter-xxv-eight-kinds-of-surgical-operations",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXX - Good and bad sensory perceptions",
+      "slug": "sutrasthana-ch-037-chapter-xxx-good-and-bad-sensory-perceptions",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXI - Good And Bad Colour Etc. Fatal Signs",
+      "slug": "sutrasthana-ch-038-chapter-xxxi-good-and-bad-colour-etc-fatal-signs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXIII - Fatal Signs of Diseases",
+      "slug": "sutrasthana-ch-039-chapter-xxxiii-fatal-signs-of-diseases",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXII - Good and bad nature of body parts fatal signs",
+      "slug": "sutrasthana-ch-040-chapter-xxxii-good-and-bad-nature-of-body-parts-fatal-signs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXIV - Duties of army surgeon",
+      "slug": "sutrasthana-ch-041-chapter-xxxiv-duties-of-army-surgeon",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXIX - Auspicious and inauspicious dreams",
+      "slug": "sutrasthana-ch-042-chapter-xxix-auspicious-and-inauspicious-dreams",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXVI - Drugs of specific actions",
+      "slug": "sutrasthana-ch-043-chapter-xxxvi-drugs-of-specific-actions",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXV - Examination of the patient",
+      "slug": "sutrasthana-ch-044-chapter-xxxv-examination-of-the-patient",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXIX - Purificatory and Palliative Drugs",
+      "slug": "sutrasthana-ch-045-chapter-xxxix-purificatory-and-palliative-drugs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXVII - Kinds of land regions",
+      "slug": "sutrasthana-ch-046-chapter-xxxvii-kinds-of-land-regions",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XXXVIII - Groups of drugs",
+      "slug": "sutrasthana-ch-047-chapter-xxxviii-groups-of-drugs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XL - Knowledge of taste etc of drugs",
+      "slug": "sutrasthana-ch-048-chapter-xl-knowledge-of-taste-etc-of-drugs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XLII - Knowledge of tastes of drugs",
+      "slug": "sutrasthana-ch-049-chapter-xlii-knowledge-of-tastes-of-drugs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XLI - Knowledge of categories of drugs",
+      "slug": "sutrasthana-ch-050-chapter-xli-knowledge-of-categories-of-drugs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XLIII - Recipes of emetic drugs",
+      "slug": "sutrasthana-ch-051-chapter-xliii-recipes-of-emetic-drugs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XLIV - Recipes of purgative drugs",
+      "slug": "sutrasthana-ch-052-chapter-xliv-recipes-of-purgative-drugs",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XLV - Knowledge of liquid substances",
+      "slug": "sutrasthana-ch-053-chapter-xlv-knowledge-of-liquid-substances",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Chapter XLVI - Diet articles and regimen of diet",
+      "slug": "sutrasthana-ch-054-chapter-xlvi-diet-articles-and-regimen-of-diet",
+      "section": "Sutrasthana"
+    },
+    {
+      "title": "Plate I",
+      "slug": "nidanasthana-ch-055-plate-i",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Title Page",
+      "slug": "nidanasthana-ch-056-title-page",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Preface",
+      "slug": "nidanasthana-ch-057-preface",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Plate II",
+      "slug": "nidanasthana-ch-058-plate-ii",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Introduction",
+      "slug": "nidanasthana-ch-059-introduction",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter I - Diagnosis of diseases of nervous system",
+      "slug": "nidanasthana-ch-060-chapter-i-diagnosis-of-diseases-of-nervous-system",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter III - Diagnosis of urinary calculus",
+      "slug": "nidanasthana-ch-061-chapter-iii-diagnosis-of-urinary-calculus",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter II - Diagnosis of haemorrhoids",
+      "slug": "nidanasthana-ch-062-chapter-ii-diagnosis-of-haemorrhoids",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter IV - Diagnosis of anal fistula",
+      "slug": "nidanasthana-ch-063-chapter-iv-diagnosis-of-anal-fistula",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter V - Diagnosis of leprosy and other skin diseases",
+      "slug": "nidanasthana-ch-064-chapter-v-diagnosis-of-leprosy-and-other-skin-diseases",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter VII - Diagnosis of enlargement of the abdomen",
+      "slug": "nidanasthana-ch-065-chapter-vii-diagnosis-of-enlargement-of-the-abdomen",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter VI - Diagnosis of diabetes",
+      "slug": "nidanasthana-ch-066-chapter-vi-diagnosis-of-diabetes",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter IX - Diagnosis of abscess",
+      "slug": "nidanasthana-ch-067-chapter-ix-diagnosis-of-abscess",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter VIII - Diagnosis of foetal obstruction",
+      "slug": "nidanasthana-ch-068-chapter-viii-diagnosis-of-foetal-obstruction",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter X - Diagnosis of erysipelas, sinus and mammae",
+      "slug": "nidanasthana-ch-069-chapter-x-diagnosis-of-erysipelas-sinus-and-mammae",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter XI - Diagnosis of glands, scrofula, tumors and goitre",
+      "slug": "nidanasthana-ch-070-chapter-xi-diagnosis-of-glands-scrofula-tumors-and-goitre",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter XII - Diagnosis of hernia, tumours, elephantiasis, etc.",
+      "slug": "nidanasthana-ch-071-chapter-xii-diagnosis-of-hernia-tumours-elephantiasis-etc",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter XIV - Diagnosis of diseases of the penis",
+      "slug": "nidanasthana-ch-072-chapter-xiv-diagnosis-of-diseases-of-the-penis",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter XV - Diagnosis of fractures-dislocations",
+      "slug": "nidanasthana-ch-073-chapter-xv-diagnosis-of-fractures-dislocations",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter XIII - Diagnosis of minor diseases",
+      "slug": "nidanasthana-ch-074-chapter-xiii-diagnosis-of-minor-diseases",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Chapter XVI - Diagnosis of diseases of mouth",
+      "slug": "nidanasthana-ch-075-chapter-xvi-diagnosis-of-diseases-of-mouth",
+      "section": "Nidanasthana"
+    },
+    {
+      "title": "Preface",
+      "slug": "sharirasthana-ch-076-preface",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Introduction",
+      "slug": "sharirasthana-ch-077-introduction",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter II - The purification of semen and cataminal fluid",
+      "slug": "sharirasthana-ch-078-chapter-ii-the-purification-of-semen-and-cataminal-fluid",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Title Page",
+      "slug": "sharirasthana-ch-079-title-page",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter I - The science of being in general",
+      "slug": "sharirasthana-ch-080-chapter-i-the-science-of-being-in-general",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter III - Pregnancy",
+      "slug": "sharirasthana-ch-081-chapter-iii-pregnancy",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter IV - The development of a fetus in the womb",
+      "slug": "sharirasthana-ch-082-chapter-iv-the-development-of-a-fetus-in-the-womb",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter VII - Description of Sira (vascular system)",
+      "slug": "sharirasthana-ch-083-chapter-vii-description-of-sira-vascular-system",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter VI - The Marmas (vital parts of the body)",
+      "slug": "sharirasthana-ch-084-chapter-vi-the-marmas-vital-parts-of-the-body",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter VIII - The method of Venesection",
+      "slug": "sharirasthana-ch-085-chapter-viii-the-method-of-venesection",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter V - The anatomy of the human body",
+      "slug": "sharirasthana-ch-086-chapter-v-the-anatomy-of-the-human-body",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter IX - The description of the arteries, nerves and ducts",
+      "slug": "sharirasthana-ch-087-chapter-ix-the-description-of-the-arteries-nerves-and-ducts",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Chapter X - The nursing and management of pregnant women",
+      "slug": "sharirasthana-ch-088-chapter-x-the-nursing-and-management-of-pregnant-women",
+      "section": "Sharirasthana"
+    },
+    {
+      "title": "Title Page",
+      "slug": "general-ch-089-title-page",
+      "section": "General"
+    },
+    {
+      "title": "Introduction",
+      "slug": "general-ch-090-introduction",
+      "section": "General"
+    },
+    {
+      "title": "Preface",
+      "slug": "general-ch-091-preface",
+      "section": "General"
+    },
+    {
+      "title": "Chapter I - The medical treatment of inflamed ulcers",
+      "slug": "general-ch-092-chapter-i-the-medical-treatment-of-inflamed-ulcers",
+      "section": "General"
+    },
+    {
+      "title": "Chapter III - The medical treatments of fractures and dislocations",
+      "slug": "general-ch-093-chapter-iii-the-medical-treatments-of-fractures-and-dislocations",
+      "section": "General"
+    },
+    {
+      "title": "Chapter IV - The medical treatment of nervous disorders",
+      "slug": "general-ch-094-chapter-iv-the-medical-treatment-of-nervous-disorders",
+      "section": "General"
+    },
+    {
+      "title": "Chapter V - The diseases affecting the nervous system",
+      "slug": "general-ch-095-chapter-v-the-diseases-affecting-the-nervous-system",
+      "section": "General"
+    },
+    {
+      "title": "Chapter II - The medical treatment of wounds or sores",
+      "slug": "general-ch-096-chapter-ii-the-medical-treatment-of-wounds-or-sores",
+      "section": "General"
+    },
+    {
+      "title": "Chapter VIII - The medical treatment of Fistula-in-ano",
+      "slug": "general-ch-097-chapter-viii-the-medical-treatment-of-fistula-in-ano",
+      "section": "General"
+    },
+    {
+      "title": "Chapter VII - The medical treatment of urinary conditions",
+      "slug": "general-ch-098-chapter-vii-the-medical-treatment-of-urinary-conditions",
+      "section": "General"
+    },
+    {
+      "title": "Chapter VI - The medical treatment of Hemorrhoids",
+      "slug": "general-ch-099-chapter-vi-the-medical-treatment-of-hemorrhoids",
+      "section": "General"
+    },
+    {
+      "title": "Chapter X - The medical treatment of major cutaneous affections",
+      "slug": "general-ch-100-chapter-x-the-medical-treatment-of-major-cutaneous-affections",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XI - The diseases of the urinary tracts",
+      "slug": "general-ch-101-chapter-xi-the-diseases-of-the-urinary-tracts",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XII - The medical treatment of abscesses sequeling Prameha",
+      "slug": "general-ch-102-chapter-xii-the-medical-treatment-of-abscesses-sequeling-prameha",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XIII - The medical treatment of Diabetes",
+      "slug": "general-ch-103-chapter-xiii-the-medical-treatment-of-diabetes",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XIV - The medical treatment of dropsy",
+      "slug": "general-ch-104-chapter-xiv-the-medical-treatment-of-dropsy",
+      "section": "General"
+    },
+    {
+      "title": "Chapter IX - The medical treatment of cutaneous affections",
+      "slug": "general-ch-105-chapter-ix-the-medical-treatment-of-cutaneous-affections",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XV - The medical/surgical treatment of the fetus",
+      "slug": "general-ch-106-chapter-xv-the-medicalsurgical-treatment-of-the-fetus",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XVI - The medical treatment of Abscesses and Tumours",
+      "slug": "general-ch-107-chapter-xvi-the-medical-treatment-of-abscesses-and-tumours",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XVIII - The medical treatment of Glandular Swellings",
+      "slug": "general-ch-108-chapter-xviii-the-medical-treatment-of-glandular-swellings",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXI - The medical treatment of poison caused by a Shuka (water insect)",
+      "slug": "general-ch-109-chapter-xxi-the-medical-treatment-of-poison-caused-by-a-shuka-wat",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XVII - The medical treatment of erysipelas",
+      "slug": "general-ch-110-chapter-xvii-the-medical-treatment-of-erysipelas",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXII - The affections of the mouth",
+      "slug": "general-ch-111-chapter-xxii-the-affections-of-the-mouth",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XX - The medical treatment of the minor ailments",
+      "slug": "general-ch-112-chapter-xx-the-medical-treatment-of-the-minor-ailments",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXIII - The medical treatment of swellings",
+      "slug": "general-ch-113-chapter-xxiii-the-medical-treatment-of-swellings",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XIX - The medical treatment of hernia",
+      "slug": "general-ch-114-chapter-xix-the-medical-treatment-of-hernia",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXV - The medical treatment of a variety of diseases",
+      "slug": "general-ch-115-chapter-xxv-the-medical-treatment-of-a-variety-of-diseases",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXVII - Elixirs (rasayana) for invulnerability to disease",
+      "slug": "general-ch-116-chapter-xxvii-elixirs-rasayana-for-invulnerability-to-disease",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXVIII - Elixirs (rasayana) to improve memory and life span",
+      "slug": "general-ch-117-chapter-xxviii-elixirs-rasayana-to-improve-memory-and-life-span",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXIV - The rules of hygiene and general conduct",
+      "slug": "general-ch-118-chapter-xxiv-the-rules-of-hygiene-and-general-conduct",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXVI - The medical treatment for increasing virility",
+      "slug": "general-ch-119-chapter-xxvi-the-medical-treatment-for-increasing-virility",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXIX - Elixirs (rasayana) for the prevention of death and decay",
+      "slug": "general-ch-120-chapter-xxix-elixirs-rasayana-for-the-prevention-of-death-and-dec",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXX - Elixirs (rasayana) to remove mental and physical distress",
+      "slug": "general-ch-121-chapter-xxx-elixirs-rasayana-to-remove-mental-and-physical-distre",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXI - The medicinal use of Sneha (oleaginous substances)",
+      "slug": "general-ch-122-chapter-xxxi-the-medicinal-use-of-sneha-oleaginous-substances",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXIII - Description of purgative and emetic medicines",
+      "slug": "general-ch-123-chapter-xxxiii-description-of-purgative-and-emetic-medicines",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXII - Description of Sveda (fomentation, calorification, etc.)",
+      "slug": "general-ch-124-chapter-xxxii-description-of-sveda-fomentation-calorification-etc",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXV - Description of a Netra and a Vasti (pipes, nozzles and apparatus)",
+      "slug": "general-ch-125-chapter-xxxv-description-of-a-netra-and-a-vasti-pipes-nozzles-and",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXVI - The injudicious application of the Netra and Vasti",
+      "slug": "general-ch-126-chapter-xxxvi-the-injudicious-application-of-the-netra-and-vasti",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXVII - The treatment with an Anuvasana-vasti and an Uttara-vasti",
+      "slug": "general-ch-127-chapter-xxxvii-the-treatment-with-an-anuvasana-vasti-and-an-uttar",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXIV - The injudicious use of emetics and purgatives",
+      "slug": "general-ch-128-chapter-xxxiv-the-injudicious-use-of-emetics-and-purgatives",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXIX - The treatment of distressing symptoms",
+      "slug": "general-ch-129-chapter-xxxix-the-treatment-of-distressing-symptoms",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XL - Description of medicated fumes, snuffs, errhines and gargles",
+      "slug": "general-ch-130-chapter-xl-description-of-medicated-fumes-snuffs-errhines-and-gar",
+      "section": "General"
+    },
+    {
+      "title": "Chapter XXXVIII - The treatment with a Nirudha-vasti",
+      "slug": "general-ch-131-chapter-xxxviii-the-treatment-with-a-nirudha-vasti",
+      "section": "General"
+    },
+    {
+      "title": "Introduction",
+      "slug": "kalpasthana-ch-132-introduction",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Preface",
+      "slug": "kalpasthana-ch-133-preface",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter II - Description of Sthavara (vegetable and mineral) poisons",
+      "slug": "kalpasthana-ch-134-chapter-ii-description-of-sthavara-vegetable-and-mineral-pois",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Title Page",
+      "slug": "kalpasthana-ch-135-title-page",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter I - Preserving food and drink from poison",
+      "slug": "kalpasthana-ch-136-chapter-i-preserving-food-and-drink-from-poison",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter III - Description of Jangama (animal) poisons",
+      "slug": "kalpasthana-ch-137-chapter-iii-description-of-jangama-animal-poisons",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter IV - Description of the poison of a snakebite",
+      "slug": "kalpasthana-ch-138-chapter-iv-description-of-the-poison-of-a-snakebite",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter VI - Description of rat-poisoning",
+      "slug": "kalpasthana-ch-139-chapter-vi-description-of-rat-poisoning",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter V - The medical treatment of snake bites",
+      "slug": "kalpasthana-ch-140-chapter-v-the-medical-treatment-of-snake-bites",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter VIII - The medical treatment of insect bites",
+      "slug": "kalpasthana-ch-141-chapter-viii-the-medical-treatment-of-insect-bites",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Chapter VII - Description and preparation medicated drums",
+      "slug": "kalpasthana-ch-142-chapter-vii-description-and-preparation-medicated-drums",
+      "section": "Kalpasthana"
+    },
+    {
+      "title": "Plate I",
+      "slug": "uttaratantra-ch-143-plate-i",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Title Page",
+      "slug": "uttaratantra-ch-144-title-page",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Canto I - Shalakya-tantra (ears, eyes, nose, mouth and throat)",
+      "slug": "uttaratantra-ch-145-canto-i-shalakya-tantra-ears-eyes-nose-mouth-and-throat",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter III - Pathology of the diseases of the eye-lids",
+      "slug": "uttaratantra-ch-146-chapter-iii-pathology-of-the-diseases-of-the-eye-lids",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter IV - Pathology of the diseases of the sclerotic coat",
+      "slug": "uttaratantra-ch-147-chapter-iv-pathology-of-the-diseases-of-the-sclerotic-coat",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter II - Pathology of the diseases of the eye-joints",
+      "slug": "uttaratantra-ch-148-chapter-ii-pathology-of-the-diseases-of-the-eye-joints",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter V - Pathology of the diseases of the black part of the eye",
+      "slug": "uttaratantra-ch-149-chapter-v-pathology-of-the-diseases-of-the-black-part-of-the",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter VI - Pathology of the diseases affecting the eyes as a whole",
+      "slug": "uttaratantra-ch-150-chapter-vi-pathology-of-the-diseases-affecting-the-eyes-as-a",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Preface",
+      "slug": "uttaratantra-ch-151-preface",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter VIII - Classification and treatment of ocular affections",
+      "slug": "uttaratantra-ch-152-chapter-viii-classification-and-treatment-of-ocular-affectio",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter VII - Pathology of the diseases of the Pupil",
+      "slug": "uttaratantra-ch-153-chapter-vii-pathology-of-the-diseases-of-the-pupil",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter IX - Treatment of Vataja Ophthalmia",
+      "slug": "uttaratantra-ch-154-chapter-ix-treatment-of-vataja-ophthalmia",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter X - Treatment of Pittaja Ophthalmia",
+      "slug": "uttaratantra-ch-155-chapter-x-treatment-of-pittaja-ophthalmia",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XIV - Treatment of eye-diseases which require Incision",
+      "slug": "uttaratantra-ch-156-chapter-xiv-treatment-of-eye-diseases-which-require-incision",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XIII - Treatment of Lekhya-roga",
+      "slug": "uttaratantra-ch-157-chapter-xiii-treatment-of-lekhya-roga",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XVI - Treatment of diseases peculiar to eye-lashes and eye-lids",
+      "slug": "uttaratantra-ch-158-chapter-xvi-treatment-of-diseases-peculiar-to-eye-lashes-and",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XII - Treatment of Raktaja Ophthalmia",
+      "slug": "uttaratantra-ch-159-chapter-xii-treatment-of-raktaja-ophthalmia",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XV - Treatment of eye-diseases which require Excision",
+      "slug": "uttaratantra-ch-160-chapter-xv-treatment-of-eye-diseases-which-require-excision",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XI - Treatment of Shleshma Ophthalmia",
+      "slug": "uttaratantra-ch-161-chapter-xi-treatment-of-shleshma-ophthalmia",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XVII - Treatment of diseases of pupil and crystalline lens",
+      "slug": "uttaratantra-ch-162-chapter-xvii-treatment-of-diseases-of-pupil-and-crystalline",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XVIII - Preparations and medicinal measures for ocular affections in general",
+      "slug": "uttaratantra-ch-163-chapter-xviii-preparations-and-medicinal-measures-for-ocular",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XIX - Treatment of hurt or injnry to the eye",
+      "slug": "uttaratantra-ch-164-chapter-xix-treatment-of-hurt-or-injnry-to-the-eye",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XX - Causes and symptoms of Ear-disease",
+      "slug": "uttaratantra-ch-165-chapter-xx-causes-and-symptoms-of-ear-disease",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXI - Medical Treatment of Ear-disease",
+      "slug": "uttaratantra-ch-166-chapter-xxi-medical-treatment-of-ear-disease",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXIV - Symptoms and treatment of Catarrh",
+      "slug": "uttaratantra-ch-167-chapter-xxiv-symptoms-and-treatment-of-catarrh",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXIII - Therapeutics of nasal diseases",
+      "slug": "uttaratantra-ch-168-chapter-xxiii-therapeutics-of-nasal-diseases",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXV - Symptoms of diseases of the head",
+      "slug": "uttaratantra-ch-169-chapter-xxv-symptoms-of-diseases-of-the-head",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXVII - Specific features of nine malignant Grahas",
+      "slug": "uttaratantra-ch-170-chapter-xxvii-specific-features-of-nine-malignant-grahas",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Canto II - Kaumarabhritya-tantra (pediatrics, gynecology and pregnancy)",
+      "slug": "uttaratantra-ch-171-canto-ii-kaumarabhritya-tantra-pediatrics-gynecology-and-pre",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXVI - Treatment of diseases of the head",
+      "slug": "uttaratantra-ch-172-chapter-xxvi-treatment-of-diseases-of-the-head",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXII - Causes and symptoms of diseases of the nose",
+      "slug": "uttaratantra-ch-173-chapter-xxii-causes-and-symptoms-of-diseases-of-the-nose",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXVIII - Therapeutics of an attack by Skanda-graha",
+      "slug": "uttaratantra-ch-174-chapter-xxviii-therapeutics-of-an-attack-by-skanda-graha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXX - Treatment of an attack by Shakuni-graha",
+      "slug": "uttaratantra-ch-175-chapter-xxx-treatment-of-an-attack-by-shakuni-graha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter I - Diseases of the eye and its appendages",
+      "slug": "uttaratantra-ch-176-chapter-i-diseases-of-the-eye-and-its-appendages",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXIX - Therapeutics of an attack by Skandapasmara",
+      "slug": "uttaratantra-ch-177-chapter-xxix-therapeutics-of-an-attack-by-skandapasmara",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXI - Theraputics Of An Attack By Revati-Graha",
+      "slug": "uttaratantra-ch-178-chapter-xxxi-theraputics-of-an-attack-by-revati-graha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXIII - Treatment of Andha-putana-graha",
+      "slug": "uttaratantra-ch-179-chapter-xxxiii-treatment-of-andha-putana-graha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXIV - Treatment of an attack by Shita-putana",
+      "slug": "uttaratantra-ch-180-chapter-xxxiv-treatment-of-an-attack-by-shita-putana",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXV - Treatment of an attack by Mukha-mandika",
+      "slug": "uttaratantra-ch-181-chapter-xxxv-treatment-of-an-attack-by-mukha-mandika",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXII - Treatment of an attack by Putana-graha",
+      "slug": "uttaratantra-ch-182-chapter-xxxii-treatment-of-an-attack-by-putana-graha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXVIII - Treatment of the diseases of the female organ of generation",
+      "slug": "uttaratantra-ch-183-chapter-xxxviii-treatment-of-the-diseases-of-the-female-orga",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXVI - Treatment of an attack by Naigamesha",
+      "slug": "uttaratantra-ch-184-chapter-xxxvi-treatment-of-an-attack-by-naigamesha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Canto III - Kaya-chikitsa-tantra (internal medicine)",
+      "slug": "uttaratantra-ch-185-canto-iii-kaya-chikitsa-tantra-internal-medicine",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXIX - Symptoms and Treatment of Fever (Jvara)",
+      "slug": "uttaratantra-ch-186-chapter-xxxix-symptoms-and-treatment-of-fever-jvara",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLI - Symptoms and Treatment of Phthisis (Shosha)",
+      "slug": "uttaratantra-ch-187-chapter-xli-symptoms-and-treatment-of-phthisis-shosha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLIII - Symptoms and Treatment of Heart-disease (Hridroga)",
+      "slug": "uttaratantra-ch-188-chapter-xliii-symptoms-and-treatment-of-heart-disease-hridro",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLIV - Symptoms and Treatment of Jaundice (Pandu-roga)",
+      "slug": "uttaratantra-ch-189-chapter-xliv-symptoms-and-treatment-of-jaundice-pandu-roga",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLV - Symptoms and Treatment of Hemorrhage (Rakta-pitta)",
+      "slug": "uttaratantra-ch-190-chapter-xlv-symptoms-and-treatment-of-hemorrhage-rakta-pitta",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLVI - Symptoms and Treatment of Fainting fits (Murccha)",
+      "slug": "uttaratantra-ch-191-chapter-xlvi-symptoms-and-treatment-of-fainting-fits-murccha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLVII - Symptoms and Treatment of Alcoholism (Panatyaya)",
+      "slug": "uttaratantra-ch-192-chapter-xlvii-symptoms-and-treatment-of-alcoholism-panatyaya",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLVIII - Symptoms and Treatment of thirst (Trishna)",
+      "slug": "uttaratantra-ch-193-chapter-xlviii-symptoms-and-treatment-of-thirst-trishna",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLII - Symptoms and Treatment of Abdominal Tumors (Gulma)",
+      "slug": "uttaratantra-ch-194-chapter-xlii-symptoms-and-treatment-of-abdominal-tumors-gulm",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XLIX - Symptoms and Treatment of Vomiting (Chardi)",
+      "slug": "uttaratantra-ch-195-chapter-xlix-symptoms-and-treatment-of-vomiting-chardi",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter L - Symptoms and Treatment of Hiccough (Hicca)",
+      "slug": "uttaratantra-ch-196-chapter-l-symptoms-and-treatment-of-hiccough-hicca",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XL - Symptoms and treatment of Diarrhea (Atisara)",
+      "slug": "uttaratantra-ch-197-chapter-xl-symptoms-and-treatment-of-diarrhea-atisara",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LI - Symptoms and Treatment of Asthma (Shvasa)",
+      "slug": "uttaratantra-ch-198-chapter-li-symptoms-and-treatment-of-asthma-shvasa",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LII - Symptoms and Treatment of Cough (Kasa)",
+      "slug": "uttaratantra-ch-199-chapter-lii-symptoms-and-treatment-of-cough-kasa",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LIII - Symptoms and Treatment of Hoarseness (Svara-bheda)",
+      "slug": "uttaratantra-ch-200-chapter-liii-symptoms-and-treatment-of-hoarseness-svara-bhed",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LIV - Symptoms and Treatment of Worms (Krimi-roga)",
+      "slug": "uttaratantra-ch-201-chapter-liv-symptoms-and-treatment-of-worms-krimi-roga",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LV - Symptoms and Treatment of repression of natural urging (Udavarta)",
+      "slug": "uttaratantra-ch-202-chapter-lv-symptoms-and-treatment-of-repression-of-natural-u",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LVI - Symptoms and Treatment of Cholera (Visuchika)",
+      "slug": "uttaratantra-ch-203-chapter-lvi-symptoms-and-treatment-of-cholera-visuchika",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LIX - Symptoms and Treatment of the defects of Urine (Mutra-dosha)",
+      "slug": "uttaratantra-ch-204-chapter-lix-symptoms-and-treatment-of-the-defects-of-urine-m",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LVII - Symptoms and Treatment of aversion to food (Arochaka)",
+      "slug": "uttaratantra-ch-205-chapter-lvii-symptoms-and-treatment-of-aversion-to-food-aroc",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LVIII - Symptoms and Treatment of suppression of Urine (Mutra-ghata)",
+      "slug": "uttaratantra-ch-206-chapter-lviii-symptoms-and-treatment-of-suppression-of-urine",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LX - Symptoms and Treatment of demonology (Amanusha)",
+      "slug": "uttaratantra-ch-207-chapter-lx-symptoms-and-treatment-of-demonology-amanusha",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Canto IV - Bhuta-vidya-tantra (psychology and psychiatry)",
+      "slug": "uttaratantra-ch-208-canto-iv-bhuta-vidya-tantra-psychology-and-psychiatry",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LXI - Symptoms and Treatment of Epilepsy (Apasmara)",
+      "slug": "uttaratantra-ch-209-chapter-lxi-symptoms-and-treatment-of-epilepsy-apasmara",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LXII - Symptoms and Treatment of Insanity (Unmada)",
+      "slug": "uttaratantra-ch-210-chapter-lxii-symptoms-and-treatment-of-insanity-unmada",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Canto V - Tantra-bhusana-adhyaya (embellishing chapters)",
+      "slug": "uttaratantra-ch-211-canto-v-tantra-bhusana-adhyaya-embellishing-chapters",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LXIII - Different Combinations of six different Rasas",
+      "slug": "uttaratantra-ch-212-chapter-lxiii-different-combinations-of-six-different-rasas",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LXIV - Rules of Health",
+      "slug": "uttaratantra-ch-213-chapter-lxiv-rules-of-health",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LXV - The Technical terms used in the treatise",
+      "slug": "uttaratantra-ch-214-chapter-lxv-the-technical-terms-used-in-the-treatise",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter LXVI - The different Modifications of the different Doshas",
+      "slug": "uttaratantra-ch-215-chapter-lxvi-the-different-modifications-of-the-different-do",
+      "section": "Uttaratantra"
+    },
+    {
+      "title": "Chapter XXXVII - Origin of nine Grahas",
+      "slug": "uttaratantra-ch-216-chapter-xxxvii-origin-of-nine-grahas",
+      "section": "Uttaratantra"
+    }
+  ]
+}

@@ -1,0 +1,756 @@
+{
+  "by_slug": {
+    "ashwagandha": {
+      "botanical": "Withania somnifera",
+      "sanskrit": [
+        "Ashwagandha",
+        "Varada",
+        "Balada",
+        "Turagagandha",
+        "Hayahvaya"
+      ],
+      "hindi": [
+        "Ashwagandha",
+        "Asgandh"
+      ],
+      "english": [
+        "Indian Ginseng",
+        "Winter Cherry",
+        "Poison Gooseberry"
+      ],
+      "tamil": [
+        "Amukkara"
+      ],
+      "telugu": [
+        "Penneru"
+      ],
+      "arabic": [
+        "Kaknaj-e-Hindi"
+      ],
+      "chinese": [
+        "Nanyinren",
+        "Suan Zao Ren"
+      ],
+      "family": "Solanaceae"
+    },
+    "shatavari": {
+      "botanical": "Asparagus racemosus",
+      "sanskrit": [
+        "Shatavari",
+        "Shatamuli",
+        "Bahusuta",
+        "Naraya",
+        "Atirasa"
+      ],
+      "hindi": [
+        "Shatavari",
+        "Satavari"
+      ],
+      "english": [
+        "Wild Asparagus",
+        "Asparagus Root"
+      ],
+      "family": "Asparagaceae"
+    },
+    "giloy": {
+      "botanical": "Tinospora cordifolia",
+      "sanskrit": [
+        "Guduchi",
+        "Amrita",
+        "Chhinnaruha",
+        "Vayastha",
+        "Vishalya"
+      ],
+      "hindi": [
+        "Giloy",
+        "Gurach",
+        "Gurcha"
+      ],
+      "english": [
+        "Heart-leaved Moonseed",
+        "Indian Tinospora",
+        "Heavenly Elixir"
+      ],
+      "tamil": [
+        "Seenthil Kodi"
+      ],
+      "telugu": [
+        "Tippa Teega"
+      ],
+      "arabic": [
+        "Gilo-e-Hindi"
+      ],
+      "chinese": [
+        "Ku Mu Teng"
+      ],
+      "family": "Menispermaceae"
+    },
+    "triphala": {
+      "botanical": "Triphala (3-fruit blend)",
+      "sanskrit": [
+        "Triphala",
+        "Vara",
+        "Phala"
+      ],
+      "components": [
+        "amalaki",
+        "haritaki",
+        "bibhitaki"
+      ],
+      "is_combination": true
+    },
+    "brahmi": {
+      "botanical": "Bacopa monnieri",
+      "sanskrit": [
+        "Brahmi",
+        "Sarasvati",
+        "Jalanimba",
+        "Somavalli"
+      ],
+      "hindi": [
+        "Brahmi",
+        "Jalanimba"
+      ],
+      "english": [
+        "Water Hyssop",
+        "Herb of Grace"
+      ],
+      "family": "Plantaginaceae"
+    },
+    "tulsi": {
+      "botanical": "Ocimum sanctum",
+      "sanskrit": [
+        "Tulsi",
+        "Surasa",
+        "Gramya",
+        "Sulabha",
+        "Bahumanjari"
+      ],
+      "hindi": [
+        "Tulsi",
+        "Holy Basil"
+      ],
+      "english": [
+        "Holy Basil",
+        "Sacred Basil"
+      ],
+      "family": "Lamiaceae"
+    },
+    "turmeric": {
+      "botanical": "Curcuma longa",
+      "sanskrit": [
+        "Haridra",
+        "Kanchani",
+        "Nisha",
+        "Gauri",
+        "Krimighni"
+      ],
+      "hindi": [
+        "Haldi",
+        "Haridra"
+      ],
+      "english": [
+        "Turmeric",
+        "Indian Saffron"
+      ],
+      "family": "Zingiberaceae"
+    },
+    "amalaki": {
+      "botanical": "Phyllanthus emblica",
+      "sanskrit": [
+        "Amalaki",
+        "Dhatri",
+        "Amrita",
+        "Shriphala",
+        "Tishyaphala"
+      ],
+      "hindi": [
+        "Amla",
+        "Amalaki"
+      ],
+      "english": [
+        "Indian Gooseberry",
+        "Emblic Myrobalan"
+      ],
+      "family": "Phyllanthaceae"
+    },
+    "haritaki": {
+      "botanical": "Terminalia chebula",
+      "sanskrit": [
+        "Haritaki",
+        "Abhaya",
+        "Pathya",
+        "Vijaya",
+        "Chetaki"
+      ],
+      "hindi": [
+        "Harad",
+        "Haritaki"
+      ],
+      "english": [
+        "Chebulic Myrobalan",
+        "Black Myrobalan"
+      ],
+      "family": "Combretaceae"
+    },
+    "bibhitaki": {
+      "botanical": "Terminalia bellirica",
+      "sanskrit": [
+        "Bibhitaki",
+        "Vibhitaki",
+        "Aksha",
+        "Karshaphala"
+      ],
+      "hindi": [
+        "Bahera",
+        "Bibhitaki"
+      ],
+      "english": [
+        "Beleric Myrobalan",
+        "Bastard Myrobalan"
+      ],
+      "family": "Combretaceae"
+    },
+    "arjuna": {
+      "botanical": "Terminalia arjuna",
+      "sanskrit": [
+        "Arjuna",
+        "Kakubha",
+        "Veeravriksha"
+      ],
+      "family": "Combretaceae"
+    },
+    "guggulu": {
+      "botanical": "Commiphora mukul",
+      "sanskrit": [
+        "Guggulu",
+        "Devadhupa",
+        "Mahishaksha"
+      ],
+      "family": "Burseraceae"
+    },
+    "punarnava": {
+      "botanical": "Boerhavia diffusa",
+      "sanskrit": [
+        "Punarnava",
+        "Shothaghni",
+        "Kathillaka"
+      ],
+      "family": "Nyctaginaceae"
+    },
+    "manjishtha": {
+      "botanical": "Rubia cordifolia",
+      "sanskrit": [
+        "Manjishtha",
+        "Samanga",
+        "Lohitamanjari"
+      ],
+      "family": "Rubiaceae"
+    },
+    "neem": {
+      "botanical": "Azadirachta indica",
+      "sanskrit": [
+        "Nimba",
+        "Arishta",
+        "Pichumarda"
+      ],
+      "family": "Meliaceae"
+    },
+    "kutki": {
+      "botanical": "Picrorhiza kurroa",
+      "sanskrit": [
+        "Katuki",
+        "Katurohini",
+        "Rohini"
+      ],
+      "family": "Plantaginaceae"
+    },
+    "bhumyamalaki": {
+      "botanical": "Phyllanthus niruri",
+      "sanskrit": [
+        "Bhumyamalaki",
+        "Bahupatra",
+        "Tamalaki"
+      ],
+      "family": "Phyllanthaceae"
+    },
+    "shilajit": {
+      "botanical": "Asphaltum punjabianum",
+      "sanskrit": [
+        "Shilajatu",
+        "Silajatu",
+        "Girija"
+      ],
+      "family": "Mineral"
+    },
+    "pippali": {
+      "botanical": "Piper longum",
+      "sanskrit": [
+        "Pippali",
+        "Magadhi",
+        "Upakunchika"
+      ],
+      "family": "Piperaceae"
+    },
+    "shankhpushpi": {
+      "botanical": "Convolvulus pluricaulis",
+      "sanskrit": [
+        "Shankhpushpi",
+        "MangalyaKusuma"
+      ],
+      "family": "Convolvulaceae"
+    },
+    "jatamansi": {
+      "botanical": "Nardostachys jatamansi",
+      "sanskrit": [
+        "Jatamansi",
+        "Bhutajata",
+        "Tapasvini"
+      ],
+      "family": "Caprifoliaceae"
+    },
+    "kapikacchu": {
+      "botanical": "Mucuna pruriens",
+      "sanskrit": [
+        "Kapikacchu",
+        "Atmagupta",
+        "Markati"
+      ],
+      "family": "Fabaceae"
+    },
+    "vidarikanda": {
+      "botanical": "Pueraria tuberosa",
+      "sanskrit": [
+        "Vidarikanda",
+        "Bhumikushmanda",
+        "Ikshugandha"
+      ],
+      "family": "Fabaceae"
+    },
+    "bala": {
+      "botanical": "Sida cordifolia",
+      "sanskrit": [
+        "Bala",
+        "Mahabala",
+        "Atibala"
+      ],
+      "family": "Malvaceae"
+    },
+    "dashmool": {
+      "botanical": "Dashmool (10-root blend)",
+      "sanskrit": [
+        "Dashmoola",
+        "Dashamula"
+      ],
+      "components": [
+        "bilva",
+        "agnimantha",
+        "shyonaka",
+        "patala",
+        "gambhari",
+        "brihati",
+        "kantakari",
+        "gokshura",
+        "shalaparni",
+        "prishniparni"
+      ],
+      "is_combination": true
+    },
+    "kantakari": {
+      "botanical": "Solanum xanthocarpum",
+      "sanskrit": [
+        "Kantakari",
+        "Vyaghri",
+        "Kshudra"
+      ],
+      "family": "Solanaceae"
+    },
+    "vasaka": {
+      "botanical": "Justicia adhatoda",
+      "sanskrit": [
+        "Vasaka",
+        "Arusha",
+        "Vasira"
+      ],
+      "family": "Acanthaceae"
+    },
+    "khadir": {
+      "botanical": "Acacia catechu",
+      "sanskrit": [
+        "Khadira",
+        "Gayatri",
+        "Raktasara"
+      ],
+      "family": "Fabaceae"
+    },
+    "sariva": {
+      "botanical": "Hemidesmus indicus",
+      "sanskrit": [
+        "Sariva",
+        "Anantamula",
+        "Gopi"
+      ],
+      "family": "Apocynaceae"
+    },
+    "yashtimadhu": {
+      "botanical": "Glycyrrhiza glabra",
+      "sanskrit": [
+        "Yashtimadhu",
+        "Madhuka",
+        "Klitaka"
+      ],
+      "family": "Fabaceae"
+    },
+    "musta": {
+      "botanical": "Cyperus rotundus",
+      "sanskrit": [
+        "Musta",
+        "Kuruvinda",
+        "Gandhahrina"
+      ],
+      "family": "Cyperaceae"
+    },
+    "chitraka": {
+      "botanical": "Plumbago zeylanica",
+      "sanskrit": [
+        "Chitraka",
+        "Agni",
+        "Vahni"
+      ],
+      "family": "Plumbaginaceae"
+    },
+    "kutaja": {
+      "botanical": "Holarrhena antidysenterica",
+      "sanskrit": [
+        "Kutaja",
+        "Vatsaka",
+        "Girimalika"
+      ],
+      "family": "Apocynaceae"
+    },
+    "bilva": {
+      "botanical": "Aegle marmelos",
+      "sanskrit": [
+        "Bilva",
+        "Shivadruma",
+        "Maloora"
+      ],
+      "family": "Rutaceae"
+    },
+    "ashoka": {
+      "botanical": "Saraca asoca",
+      "sanskrit": [
+        "Ashoka",
+        "Hemapushpa",
+        "Kankeli"
+      ],
+      "family": "Fabaceae"
+    },
+    "lodhra": {
+      "botanical": "Symplocos racemosa",
+      "sanskrit": [
+        "Lodhra",
+        "Tilvaka",
+        "Shavara"
+      ],
+      "family": "Symplocaceae"
+    },
+    "gokshura": {
+      "botanical": "Tribulus terrestris",
+      "sanskrit": [
+        "Gokshura",
+        "Trikantaka",
+        "SvaduKantaka"
+      ],
+      "family": "Zygophyllaceae"
+    },
+    "jyotishmati": {
+      "botanical": "Celastrus paniculatus",
+      "sanskrit": [
+        "Jyotishmati",
+        "Malkangani",
+        "Katabhi"
+      ],
+      "family": "Celastraceae"
+    },
+    "kushmanda": {
+      "botanical": "Benincasa hispida",
+      "sanskrit": [
+        "Kushmanda",
+        "Brihatphala",
+        "Pushtiphala"
+      ],
+      "family": "Cucurbitaceae"
+    },
+    "karkati": {
+      "botanical": "Cucumis anguria",
+      "sanskrit": [
+        "Karkati",
+        "Chirbhita"
+      ],
+      "family": "Cucurbitaceae"
+    },
+    "kalambi": {
+      "botanical": "Mitragyna parvifolia",
+      "sanskrit": [
+        "Kalambi",
+        "Kadambaka"
+      ],
+      "family": "Rubiaceae"
+    },
+    "kadali": {
+      "botanical": "Musa paradisiaca",
+      "sanskrit": [
+        "Kadali",
+        "Rambha",
+        "Kadalika"
+      ],
+      "family": "Musaceae"
+    }
+  },
+  "by_botanical": {
+    "withania somnifera": "ashwagandha",
+    "asparagus racemosus": "shatavari",
+    "tinospora cordifolia": "giloy",
+    "triphala (3-fruit blend)": "triphala",
+    "bacopa monnieri": "brahmi",
+    "ocimum sanctum": "tulsi",
+    "curcuma longa": "turmeric",
+    "phyllanthus emblica": "amalaki",
+    "terminalia chebula": "haritaki",
+    "terminalia bellirica": "bibhitaki",
+    "terminalia arjuna": "arjuna",
+    "commiphora mukul": "guggulu",
+    "boerhavia diffusa": "punarnava",
+    "rubia cordifolia": "manjishtha",
+    "azadirachta indica": "neem",
+    "picrorhiza kurroa": "kutki",
+    "phyllanthus niruri": "bhumyamalaki",
+    "asphaltum punjabianum": "shilajit",
+    "piper longum": "pippali",
+    "convolvulus pluricaulis": "shankhpushpi",
+    "nardostachys jatamansi": "jatamansi",
+    "mucuna pruriens": "kapikacchu",
+    "pueraria tuberosa": "vidarikanda",
+    "sida cordifolia": "bala",
+    "dashmool (10-root blend)": "dashmool",
+    "solanum xanthocarpum": "kantakari",
+    "justicia adhatoda": "vasaka",
+    "acacia catechu": "khadir",
+    "hemidesmus indicus": "sariva",
+    "glycyrrhiza glabra": "yashtimadhu",
+    "cyperus rotundus": "musta",
+    "plumbago zeylanica": "chitraka",
+    "holarrhena antidysenterica": "kutaja",
+    "aegle marmelos": "bilva",
+    "saraca asoca": "ashoka",
+    "symplocos racemosa": "lodhra",
+    "tribulus terrestris": "gokshura",
+    "celastrus paniculatus": "jyotishmati",
+    "benincasa hispida": "kushmanda",
+    "cucumis anguria": "karkati",
+    "mitragyna parvifolia": "kalambi",
+    "musa paradisiaca": "kadali"
+  },
+  "by_sanskrit": {
+    "ashwagandha": "ashwagandha",
+    "varada": "ashwagandha",
+    "balada": "ashwagandha",
+    "turagagandha": "ashwagandha",
+    "hayahvaya": "ashwagandha",
+    "shatavari": "shatavari",
+    "shatamuli": "shatavari",
+    "bahusuta": "shatavari",
+    "naraya": "shatavari",
+    "atirasa": "shatavari",
+    "guduchi": "giloy",
+    "amrita": "amalaki",
+    "chhinnaruha": "giloy",
+    "vayastha": "giloy",
+    "vishalya": "giloy",
+    "triphala": "triphala",
+    "vara": "triphala",
+    "phala": "triphala",
+    "brahmi": "brahmi",
+    "sarasvati": "brahmi",
+    "jalanimba": "brahmi",
+    "somavalli": "brahmi",
+    "tulsi": "tulsi",
+    "surasa": "tulsi",
+    "gramya": "tulsi",
+    "sulabha": "tulsi",
+    "bahumanjari": "tulsi",
+    "haridra": "turmeric",
+    "kanchani": "turmeric",
+    "nisha": "turmeric",
+    "gauri": "turmeric",
+    "krimighni": "turmeric",
+    "amalaki": "amalaki",
+    "dhatri": "amalaki",
+    "shriphala": "amalaki",
+    "tishyaphala": "amalaki",
+    "haritaki": "haritaki",
+    "abhaya": "haritaki",
+    "pathya": "haritaki",
+    "vijaya": "haritaki",
+    "chetaki": "haritaki",
+    "bibhitaki": "bibhitaki",
+    "vibhitaki": "bibhitaki",
+    "aksha": "bibhitaki",
+    "karshaphala": "bibhitaki",
+    "arjuna": "arjuna",
+    "kakubha": "arjuna",
+    "veeravriksha": "arjuna",
+    "guggulu": "guggulu",
+    "devadhupa": "guggulu",
+    "mahishaksha": "guggulu",
+    "punarnava": "punarnava",
+    "shothaghni": "punarnava",
+    "kathillaka": "punarnava",
+    "manjishtha": "manjishtha",
+    "samanga": "manjishtha",
+    "lohitamanjari": "manjishtha",
+    "nimba": "neem",
+    "arishta": "neem",
+    "pichumarda": "neem",
+    "katuki": "kutki",
+    "katurohini": "kutki",
+    "rohini": "kutki",
+    "bhumyamalaki": "bhumyamalaki",
+    "bahupatra": "bhumyamalaki",
+    "tamalaki": "bhumyamalaki",
+    "shilajatu": "shilajit",
+    "silajatu": "shilajit",
+    "girija": "shilajit",
+    "pippali": "pippali",
+    "magadhi": "pippali",
+    "upakunchika": "pippali",
+    "shankhpushpi": "shankhpushpi",
+    "mangalyakusuma": "shankhpushpi",
+    "jatamansi": "jatamansi",
+    "bhutajata": "jatamansi",
+    "tapasvini": "jatamansi",
+    "kapikacchu": "kapikacchu",
+    "atmagupta": "kapikacchu",
+    "markati": "kapikacchu",
+    "vidarikanda": "vidarikanda",
+    "bhumikushmanda": "vidarikanda",
+    "ikshugandha": "vidarikanda",
+    "bala": "bala",
+    "mahabala": "bala",
+    "atibala": "bala",
+    "dashmoola": "dashmool",
+    "dashamula": "dashmool",
+    "kantakari": "kantakari",
+    "vyaghri": "kantakari",
+    "kshudra": "kantakari",
+    "vasaka": "vasaka",
+    "arusha": "vasaka",
+    "vasira": "vasaka",
+    "khadira": "khadir",
+    "gayatri": "khadir",
+    "raktasara": "khadir",
+    "sariva": "sariva",
+    "anantamula": "sariva",
+    "gopi": "sariva",
+    "yashtimadhu": "yashtimadhu",
+    "madhuka": "yashtimadhu",
+    "klitaka": "yashtimadhu",
+    "musta": "musta",
+    "kuruvinda": "musta",
+    "gandhahrina": "musta",
+    "chitraka": "chitraka",
+    "agni": "chitraka",
+    "vahni": "chitraka",
+    "kutaja": "kutaja",
+    "vatsaka": "kutaja",
+    "girimalika": "kutaja",
+    "bilva": "bilva",
+    "shivadruma": "bilva",
+    "maloora": "bilva",
+    "ashoka": "ashoka",
+    "hemapushpa": "ashoka",
+    "kankeli": "ashoka",
+    "lodhra": "lodhra",
+    "tilvaka": "lodhra",
+    "shavara": "lodhra",
+    "gokshura": "gokshura",
+    "trikantaka": "gokshura",
+    "svadukantaka": "gokshura",
+    "jyotishmati": "jyotishmati",
+    "malkangani": "jyotishmati",
+    "katabhi": "jyotishmati",
+    "kushmanda": "kushmanda",
+    "brihatphala": "kushmanda",
+    "pushtiphala": "kushmanda",
+    "karkati": "karkati",
+    "chirbhita": "karkati",
+    "kalambi": "kalambi",
+    "kadambaka": "kalambi",
+    "kadali": "kadali",
+    "rambha": "kadali",
+    "kadalika": "kadali"
+  },
+  "by_hindi": {
+    "ashwagandha": "ashwagandha",
+    "asgandh": "ashwagandha",
+    "shatavari": "shatavari",
+    "satavari": "shatavari",
+    "giloy": "giloy",
+    "gurach": "giloy",
+    "gurcha": "giloy",
+    "brahmi": "brahmi",
+    "jalanimba": "brahmi",
+    "tulsi": "tulsi",
+    "holy basil": "tulsi",
+    "haldi": "turmeric",
+    "haridra": "turmeric",
+    "amla": "amalaki",
+    "amalaki": "amalaki",
+    "harad": "haritaki",
+    "haritaki": "haritaki",
+    "bahera": "bibhitaki",
+    "bibhitaki": "bibhitaki"
+  },
+  "by_english": {
+    "indian ginseng": "ashwagandha",
+    "winter cherry": "ashwagandha",
+    "poison gooseberry": "ashwagandha",
+    "wild asparagus": "shatavari",
+    "asparagus root": "shatavari",
+    "heart-leaved moonseed": "giloy",
+    "indian tinospora": "giloy",
+    "heavenly elixir": "giloy",
+    "water hyssop": "brahmi",
+    "herb of grace": "brahmi",
+    "holy basil": "tulsi",
+    "sacred basil": "tulsi",
+    "turmeric": "turmeric",
+    "indian saffron": "turmeric",
+    "indian gooseberry": "amalaki",
+    "emblic myrobalan": "amalaki",
+    "chebulic myrobalan": "haritaki",
+    "black myrobalan": "haritaki",
+    "beleric myrobalan": "bibhitaki",
+    "bastard myrobalan": "bibhitaki"
+  },
+  "combination_formulas": {
+    "triphala": [
+      "amalaki",
+      "haritaki",
+      "bibhitaki"
+    ],
+    "dashmool": [
+      "bilva",
+      "agnimantha",
+      "shyonaka",
+      "patala",
+      "gambhari",
+      "brihati",
+      "kantakari",
+      "gokshura",
+      "shalaparni",
+      "prishniparni"
+    ]
+  }
+}

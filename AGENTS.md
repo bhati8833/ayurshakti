@@ -67,3 +67,47 @@ npm run lint
 - **Image Hosting**: Use GitHub repository (`/public/images` or `blog_images/`) and `resources.ayurshakti.shop`.
 - **Published articles**: When reading `article-registry.json`, skip items with status "Published" to save tokens.
 - **Author name**: Always use "Suresh Bhati" for bylines, never "shiva".
+
+## Herb Profile Generation Pipeline
+
+```bash
+# Full pipeline (run after content updates)
+python3 scripts/build_herb_synonyms.py
+python3 scripts/extract_herbs_v2.py
+python3 scripts/generate_herb_profile.py
+python3 scripts/validate_herb_profiles.py
+
+# Single herb regeneration
+python3 -c "
+from scripts.generate_herb_profile import generate_herb_profile
+import json
+with open('data/herb_index.json') as f: idx = json.load(f)
+generate_herb_profile('arjuna', {**idx['arjuna'], 'slug': 'arjuna'})
+"
+```
+
+## Key Directories
+
+| Path | Purpose |
+|------|---------|
+| `content/herbs/` | Published herb profiles (10 existing) |
+| `content/herbs_draft/` | Generated drafts awaiting validation |
+| `content/samhitas/` | Classical text chapters (366 chapters) |
+| `content/canonical_texts/` | Classical manuscripts & research |
+| `content/glossary/` | 21,499 Sanskrit terms (A-Z JSON) |
+| `data/herb_synonyms.json` | 42 herbs × multilingual names + 2 formulas |
+| `data/herb_index.json` | Extracted data for all 42 profiles |
+
+## Combination Formula Exclusion Rule
+
+- **Triphala**: amalaki, haritaki, bibhitaki → NOT listed as ingredients elsewhere
+- **Dashmool**: 10 roots → NOT listed as ingredients elsewhere
+- Formula pages list components; components link to formula
+
+## Quality Gates
+
+| Content Type | Gate | Status |
+|--------------|------|--------|
+| Articles | 16/16 (docs/13-article-writing-rule.md) | Active |
+| Herb Profiles | 16/16 (docs/21-herb-profile-generation.md) | TL;DR/FAQ/Schema pending |
+

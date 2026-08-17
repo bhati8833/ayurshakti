@@ -25,7 +25,7 @@ export default function HomePage() {
       <FeaturedArticles articles={standardArticles.length > 0 ? standardArticles : allArticles} />
 
       {/* 4. Sanskrit Canonical Repository */}
-      <CanonicalLibrary canonicals={canonicalTexts.length > 0 ? canonicalTexts : allArticles.slice(0, 4)} />
+      <CanonicalLibrary />
     </div>
   );
 }

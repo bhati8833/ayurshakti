@@ -1134,3 +1134,66 @@ Article Published → Wait 48h for indexation
 - DO NOT attempt to write raw HTML in the article draft.
 - The system's content pipeline renders Markdown articles directly into clean React HTML components during `npm run build` static export.
 - Do NOT use complex Markdown that cannot be translated to standard HTML (keep tables simple, use standard bullet lists).
+
+---
+
+## 19. Herb Profile Generation System (Dravyaguna Materia Medica)
+
+Separate pipeline for generating structured herb profiles from classical texts. See `docs/21-herb-profile-generation.md` for full specification.
+
+### Key Differences from Article Pipeline
+
+| Aspect | Articles | Herb Profiles |
+|--------|----------|---------------|
+| **Content Type** | SEO blog posts, protocols, guides | Structured Materia Medica entries |
+| **Length Target** | 1500-5000 words | 1500-3000 words (reference format) |
+| **Structure** | H1 → TL;DR → 5-8 H2s → FAQ → Conclusion | 9 fixed sections (conditional render) |
+| **Combination Formulas** | N/A | **Exclusion rule**: Triphala/Dashmool components filtered from ingredient lists |
+| **Formula Pages** | N/A | Formula pages list components; components link to formula |
+| **Images** | Required (featured + inline) | Not required (user preference) |
+| **Quality Gate** | 16/16 checklist | 16/16 (TL;DR/FAQ/Schema to be added) |
+| **Approval Queue** | `scripts/approval-queue.json` | Direct publish after validation |
+| **Scheduling** | Auto-scheduler (12h) | Immediate on validation pass |
+
+### Herb Profile Quality Gate (16/16)
+
+Same as articles with these adjustments:
+- **No featured image required** (user preference)
+- **TL;DR block**: Required (add to template)
+- **FAQ (5 Q&A) + FAQPage schema**: Required (add to template)
+- **Medical disclaimer**: Always rendered (already implemented)
+- **Internal links**: Min 3 (same dosha/condition/family)
+- **PubMed citations**: 2-3 PMIDs via `scripts/pubmed-cite.py`
+
+### Workflow Integration
+
+```bash
+# Full herb pipeline (run after content updates)
+python3 scripts/build_herb_synonyms.py
+python3 scripts/extract_herbs_v2.py
+python3 scripts/generate_herb_profile.py
+python3 scripts/validate_herb_profiles.py
+
+# Single herb regeneration
+python3 -c "
+from scripts.generate_herb_profile import generate_herb_profile
+import json
+with open('data/herb_index.json') as f: idx = json.load(f)
+generate_herb_profile('arjuna', {**idx['arjuna'], 'slug': 'arjuna'})
+"
+```
+
+### Content Sources for Herb Profiles
+
+| Source | Purpose |
+|--------|---------|
+| `content/herbs/` | Primary authoritative profiles (10 existing) |
+| `content/samhitas/` | Classical references, formulations, dosages |
+| `content/canonical_texts/` | Rasa Shastra, Nighantu, classical formulations |
+| `content/research/` | Phytochemicals, clinical studies, PubMed citations |
+| `content/glossary/` | Sanskrit names, definitions (21,499 terms) |
+
+### Combination Formula Exclusion Rule
+
+**Triphala** (amalaki, haritaki, bibhitaki) and **Dashmool** (10 roots) components are NOT listed as ingredients in other herb profiles. Formula pages list components; component pages show "Part of [Formula]" badge with sister herb links.
+

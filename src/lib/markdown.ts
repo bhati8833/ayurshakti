@@ -24,6 +24,49 @@ export interface ArticleDoc {
   isCanonicalText?: boolean;
 }
 
+export interface SamhitaChapterMeta {
+  title: string;
+  book: string;
+  book_slug: string;
+  author: string;
+  silo: string;
+  section: string;
+  chapter_number: number;
+  chapter_slug: string;
+  reading_time: number;
+  prev_chapter: string;
+  next_chapter: string;
+  content: string;
+  htmlContent: string;
+}
+
+export interface SamhitaBookInfo {
+  title: string;
+  book_slug: string;
+  author: string;
+  total_chapters: number;
+  silo: string;
+  description: string;
+  chapters: Array<{
+    chapter_number?: number;
+    title: string;
+    section?: string;
+    slug: string;
+    reading_time?: number;
+  }>;
+}
+
+export interface SiloDoc {
+  title: string;
+  slug: string;
+  silo: 'herbs' | 'pet-health' | 'research' | 'samhitas';
+  category: string;
+  content: string;
+  htmlContent: string;
+  description: string;
+  readingTime: string;
+}
+
 let cachedArticles: ArticleDoc[] | null = null;
 
 function generateGlossaryHtml(letter: string): { content: string; htmlContent: string; count: number } {
@@ -79,14 +122,180 @@ function generateGlossaryHtml(letter: string): { content: string; htmlContent: s
   }
 }
 
-export function getAllArticles(): ArticleDoc[] {
-  if (cachedArticles) {
-    return cachedArticles;
+// ----------------------------------------------------
+// Samhitas (Classical Texts Silo) Functions
+// ----------------------------------------------------
+
+export function getSamhitaBooks(): SamhitaBookInfo[] {
+  const samhitasDir = path.join(CONTENT_DIR, 'samhitas');
+  if (!fs.existsSync(samhitasDir)) return [];
+
+  const books: SamhitaBookInfo[] = [];
+  const entries = fs.readdirSync(samhitasDir, { withFileTypes: true });
+
+  for (const entry of entries) {
+    if (entry.isDirectory()) {
+      const infoPath = path.join(samhitasDir, entry.name, 'book-info.json');
+      if (fs.existsSync(infoPath)) {
+        try {
+          const infoData = JSON.parse(fs.readFileSync(infoPath, 'utf8'));
+          books.push(infoData);
+        } catch (e) {
+          console.error(`Error reading ${infoPath}:`, e);
+        }
+      }
+    }
   }
 
+  return books;
+}
+
+export function getSamhitaBook(bookSlug: string): SamhitaBookInfo | null {
+  const infoPath = path.join(CONTENT_DIR, 'samhitas', bookSlug, 'book-info.json');
+  if (!fs.existsSync(infoPath)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(infoPath, 'utf8'));
+  } catch (e) {
+    return null;
+  }
+}
+
+export function getSamhitaChapter(bookSlug: string, chapterSlug: string): SamhitaChapterMeta | null {
+  const filePath = path.join(CONTENT_DIR, 'samhitas', bookSlug, `${chapterSlug}.md`);
+  if (!fs.existsSync(filePath)) return null;
+
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const { data, content } = matter(raw);
+
+  const parsedHtml = marked.parse(content) as string;
+  const htmlContent = applyWikipediaInterlinks(parsedHtml);
+
+  return {
+    title: data.title || chapterSlug.replace(/-/g, ' '),
+    book: data.book || 'Classical Text',
+    book_slug: data.book_slug || bookSlug,
+    author: data.author || 'Suresh Bhati',
+    silo: 'samhitas',
+    section: data.section || 'General',
+    chapter_number: data.chapter_number || 1,
+    chapter_slug: chapterSlug,
+    reading_time: data.reading_time || 5,
+    prev_chapter: data.prev_chapter || '',
+    next_chapter: data.next_chapter || '',
+    content,
+    htmlContent,
+  };
+}
+
+// ----------------------------------------------------
+// Herbs Silo Functions
+// ----------------------------------------------------
+
+export function getHerbDocs(): SiloDoc[] {
+  const dir = path.join(CONTENT_DIR, 'herbs');
+  if (!fs.existsSync(dir)) return [];
+
+  const docs: SiloDoc[] = [];
+  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+
+  for (const f of files) {
+    const raw = fs.readFileSync(path.join(dir, f), 'utf8');
+    const { data, content } = matter(raw);
+    const slug = f.replace(/\.md$/, '');
+    const parsedHtml = marked.parse(content) as string;
+
+    docs.push({
+      title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
+      slug,
+      silo: 'herbs',
+      category: data.category || 'Ayurvedic Dravyaguna',
+      content,
+      htmlContent: applyWikipediaInterlinks(parsedHtml),
+      description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
+      readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
+    });
+  }
+
+  return docs;
+}
+
+export function getHerbBySlug(slug: string): SiloDoc | null {
+  const filePath = path.join(CONTENT_DIR, 'herbs', `${slug}.md`);
+  if (!fs.existsSync(filePath)) return null;
+
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const { data, content } = matter(raw);
+  const parsedHtml = marked.parse(content) as string;
+
+  return {
+    title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
+    slug,
+    silo: 'herbs',
+    category: data.category || 'Ayurvedic Dravyaguna',
+    content,
+    htmlContent: applyWikipediaInterlinks(parsedHtml),
+    description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
+    readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
+  };
+}
+
+// ----------------------------------------------------
+// Pet Health & Research Silo Functions
+// ----------------------------------------------------
+
+export function getSiloDocs(siloName: 'pet-health' | 'research'): SiloDoc[] {
+  const dir = path.join(CONTENT_DIR, siloName);
+  if (!fs.existsSync(dir)) return [];
+
+  const docs: SiloDoc[] = [];
+  const files = fs.readdirSync(dir).filter(f => f.endsWith('.md'));
+
+  for (const f of files) {
+    const raw = fs.readFileSync(path.join(dir, f), 'utf8');
+    const { data, content } = matter(raw);
+    const slug = f.replace(/\.md$/, '');
+    const parsedHtml = marked.parse(content) as string;
+
+    docs.push({
+      title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
+      slug,
+      silo: siloName,
+      category: data.category || 'Ayurvedic Studies',
+      content,
+      htmlContent: applyWikipediaInterlinks(parsedHtml),
+      description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
+      readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
+    });
+  }
+
+  return docs;
+}
+
+export function getSiloDocBySlug(siloName: 'pet-health' | 'research', slug: string): SiloDoc | null {
+  const filePath = path.join(CONTENT_DIR, siloName, `${slug}.md`);
+  if (!fs.existsSync(filePath)) return null;
+
+  const raw = fs.readFileSync(filePath, 'utf8');
+  const { data, content } = matter(raw);
+  const parsedHtml = marked.parse(content) as string;
+
+  return {
+    title: data.title || slug.replace(/-/g, ' ').toUpperCase(),
+    slug,
+    silo: siloName,
+    category: data.category || 'Ayurvedic Studies',
+    content,
+    htmlContent: applyWikipediaInterlinks(parsedHtml),
+    description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
+    readingTime: `${Math.max(1, Math.ceil(content.split(/\s+/).length / 200))} min read`,
+  };
+}
+
+// Legacy Article loader fallback
+export function getAllArticles(): ArticleDoc[] {
+  if (cachedArticles) return cachedArticles;
   const articlesMap = new Map<string, ArticleDoc>();
 
-  // 1. Scan content directory recursively
   if (fs.existsSync(CONTENT_DIR)) {
     function scanDir(dir: string, categoryName: string) {
       const entries = fs.readdirSync(dir, { withFileTypes: true });
@@ -135,78 +344,6 @@ export function getAllArticles(): ArticleDoc[] {
       }
     }
     scanDir(CONTENT_DIR, 'General');
-  }
-
-  // 2. Scan drafts directory
-  if (fs.existsSync(DRAFTS_DIR)) {
-    const draftFiles = fs.readdirSync(DRAFTS_DIR);
-    for (const fileName of draftFiles) {
-      if (fileName.endsWith('.md')) {
-        const fullPath = path.join(DRAFTS_DIR, fileName);
-        const fileContents = fs.readFileSync(fullPath, 'utf8');
-        const { data, content } = matter(fileContents);
-        const slug = fileName.replace(/\.md$/, '').toLowerCase();
-        
-        if (!articlesMap.has(slug)) {
-          const rawTitle = data.title || fileName.replace(/\.md$/, '').replace(/[-_]/g, ' ');
-          const parsedHtml = marked.parse(content) as string;
-          const htmlContent = applyWikipediaInterlinks(parsedHtml);
-          const words = content.split(/\s+/).length;
-
-          articlesMap.set(slug, {
-            slug,
-            title: rawTitle,
-            category: data.category || 'Herbal Remedies',
-            publishedDate: data.date || '2026-08-01',
-            status: data.status || 'Draft',
-            description: data.description || content.slice(0, 160).replace(/[#*`]/g, '') + '...',
-            content,
-            htmlContent,
-            labels: data.labels || ['Pet Health', 'Herbal Remedies'],
-            readingTime: `${Math.max(1, Math.ceil(words / 200))} min read`,
-            author: 'Suresh Bhati',
-          });
-        }
-      }
-    }
-  }
-
-  // 3. Load article-registry items
-  if (fs.existsSync(REGISTRY_PATH)) {
-    try {
-      const regData = JSON.parse(fs.readFileSync(REGISTRY_PATH, 'utf8'));
-      const items = regData.articles || [];
-      for (const item of items) {
-        if (item.title) {
-          const slug = item.title
-            .toLowerCase()
-            .replace(/[^a-z0-9]+/g, '-')
-            .replace(/(^-|-$)/g, '');
-
-          if (!articlesMap.has(slug)) {
-            const rawContent = `# ${item.title}\n\nThis research protocol details authentic classical Ayurvedic principles, botanical formulations, and scientific PubMed references for ${item.title}.\n\n### Key Ayurvedic Principles\n- **Agni (Digestive Fire):** Balances metabolic transformation.\n- **Doshas:** Harmonizes Vata, Pitta, and Kapha.\n- **Dravya (Herbs):** Natural adaptogens like Ashwagandha, Shatavari, Giloy, and Triphala for holistic wellness.\n- **Classical Reference:** Studied extensively in Charaka Samhita and Sushruta Samhita.\n\n*Authored by Suresh Bhati, Lead Researcher at AyurShakti.*`;
-            const parsedHtml = marked.parse(rawContent) as string;
-            const htmlContent = applyWikipediaInterlinks(parsedHtml);
-
-            articlesMap.set(slug, {
-              slug,
-              title: item.title,
-              category: (item.labels && item.labels[0]) || 'Ayurvedic Science',
-              publishedDate: item.published_date || '2026-07-10',
-              status: item.status || 'Published',
-              description: `Comprehensive research and classical Ayurvedic guidance on ${item.title}.`,
-              content: rawContent,
-              htmlContent,
-              labels: item.labels || ['Ayurvedic Herbs'],
-              readingTime: '5 min read',
-              author: 'Suresh Bhati',
-            });
-          }
-        }
-      }
-    } catch (e) {
-      console.error('Error loading article registry:', e);
-    }
   }
 
   cachedArticles = Array.from(articlesMap.values());
